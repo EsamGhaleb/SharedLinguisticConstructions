@@ -1,0 +1,123 @@
+A|0| A: okee bij mij hebben je _een_ bal _voor_ _de_ emmer 
+B|1| B: even kijken 
+A|2| A: _en een_ _de_ emmer zijn in _het_ midden hebben je _een_ bal _erop_ 
+B|3| B: zitten [een] lepeltje soort van achterin 
+A|4| A: daar daardoorheen gaan [een] [een] _balk_ 
+B|5| B: soort staaf met [een] bolle erin [en] [het] eind eind uitein _een cirkel_ 
+A|6| A: dan hebben je ook nog [een cirkel] daar 
+A|7| A: tweedimensionaal 
+A|8| A: [en] zo'n _klein_ uitsteekselt bovenop 
+B|9| B: K 
+B|10| B: ja 
+A|11| A: okee 
+A|12| A: zes 
+B|13| B: zitten [een] lepeltje heel [klein] lepeltje naar achter [en] [het] staafje zitten [voor] op [het] kop met twee bollet één op [het] kop [en een] soort van [cirkel] aan [het] uitein 
+A|14| A: deze hebben ook die balvorm maar die helikopter 
+A|15| A: okee 
+A|16| A: elf 
+B|17| B: even kijken ja [een] staaf met twee bollet aan [het] uitein 
+B|18| B: ja 
+B|19| B: O 
+A|20| A: _de_ helikopter 
+B|21| B: voorop twee bollet , één aan [de] uitein 
+B|22| B: [en een] [klein] lepeltje 
+B|23| B: achterin 
+A|24| A: tien 
+B|25| B: ja 
+B|26| B: A 
+B|27| B: [balk] [voor] 
+B|28| B: bolle [erop] aan [de] zijkant rond 
+B|29| B: [klein] lepeltje 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : okee bij mij hebben je een bal voor de emmer
+	Free: Pattern=voor, Pattern=een, Pattern=de
+	Constrained: 
+Turn ID=1| B | B : even kijken
+	Free: 
+	Constrained: 
+Turn ID=2| A | A : en een de emmer zijn in het midden hebben je een bal erop
+	Free: Pattern=de, Pattern=erop, Pattern=een, Pattern=het, Pattern=en een
+	Constrained: Pattern=een, Pattern=en
+Turn ID=3| B | B : zitten een lepeltje soort van achterin
+	Free: Pattern=een
+	Constrained: 
+Turn ID=4| A | A : daar daardoorheen gaan een een balk
+	Free: Pattern=balk, Pattern=een
+	Constrained: 
+Turn ID=5| B | B : soort staaf met een bolle erin en het eind eind uitein een cirkel
+	Free: Pattern=een cirkel, Pattern=een, Pattern=en, Pattern=het
+	Constrained: Pattern=een, Pattern=cirkel
+Turn ID=6| A | A : dan hebben je ook nog een cirkel daar
+	Free: Pattern=een cirkel
+	Constrained: Pattern=een, Pattern=cirkel
+Turn ID=7| A | A : tweedimensionaal
+	Free: 
+	Constrained: 
+Turn ID=8| A | A : en zo'n klein uitsteekselt bovenop
+	Free: Pattern=en, Pattern=klein
+	Constrained: 
+Turn ID=9| B | B : K
+	Free: 
+	Constrained: 
+Turn ID=10| B | B : ja
+	Free: 
+	Constrained: 
+Turn ID=11| A | A : okee
+	Free: 
+	Constrained: 
+Turn ID=12| A | A : zes
+	Free: 
+	Constrained: 
+Turn ID=13| B | B : zitten een lepeltje heel klein lepeltje naar achter en het staafje zitten voor op het kop met twee bollet één op het kop en een soort van cirkel aan het uitein
+	Free: Pattern=cirkel, Pattern=een, Pattern=klein, Pattern=en, Pattern=en een, Pattern=het, Pattern=voor
+	Constrained: Pattern=een, Pattern=en
+Turn ID=14| A | A : deze hebben ook die balvorm maar die helikopter
+	Free: 
+	Constrained: 
+Turn ID=15| A | A : okee
+	Free: 
+	Constrained: 
+Turn ID=16| A | A : elf
+	Free: 
+	Constrained: 
+Turn ID=17| B | B : even kijken ja een staaf met twee bollet aan het uitein
+	Free: Pattern=een, Pattern=het
+	Constrained: 
+Turn ID=18| B | B : ja
+	Free: 
+	Constrained: 
+Turn ID=19| B | B : O
+	Free: 
+	Constrained: 
+Turn ID=20| A | A : de helikopter
+	Free: Pattern=de
+	Constrained: 
+Turn ID=21| B | B : voorop twee bollet , één aan de uitein
+	Free: Pattern=de
+	Constrained: 
+Turn ID=22| B | B : en een klein lepeltje
+	Free: Pattern=en een, Pattern=klein
+	Constrained: Pattern=een, Pattern=en
+Turn ID=23| B | B : achterin
+	Free: 
+	Constrained: 
+Turn ID=24| A | A : tien
+	Free: 
+	Constrained: 
+Turn ID=25| B | B : ja
+	Free: 
+	Constrained: 
+Turn ID=26| B | B : A
+	Free: 
+	Constrained: 
+Turn ID=27| B | B : balk voor
+	Free: Pattern=balk, Pattern=voor
+	Constrained: 
+Turn ID=28| B | B : bolle erop aan de zijkant rond
+	Free: Pattern=erop, Pattern=de
+	Constrained: 
+Turn ID=29| B | B : klein lepeltje
+	Free: Pattern=klein
+	Constrained: 

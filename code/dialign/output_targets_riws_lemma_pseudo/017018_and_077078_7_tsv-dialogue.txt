@@ -1,0 +1,79 @@
+B|0| B: je hebben _het_ beker _en_ om _het_ beker zitten een soort van kampbankje of een een kampvuurbank heen 
+B|1| B: _en_ _op_ _het_ kampvuurbank staan een soort van cakevorm 
+B|2| B: oké 
+A|3| A: _ja_ waar dat _bak_ ook [op] staat 
+A|4| A: _ja_ 
+A|5| A: dat zijn zestien voor mij 
+B|6| B: [ja] 
+B|7| B: letter P 
+A|8| A: dit zijn degeen _met het_ [ja] _met het_ tafel eromheen _met_ dat _bak_ 
+B|9| B: _het bak_ [met het] cakeblik _erop_ 
+A|10| A: [ja] dat zijn veertien voor mij 
+B|11| B: letter N 
+A|12| A: dit zijn die [met] de tafel [met [het] bak] [erop] 
+B|13| B: [het] kampvuurbank [met het] cakeblik 
+A|14| A: _moeten_ hem even zoeken [ja] dat zijn tien voor mij 
+A|15| A: dit zijn die [met] de tafel eromheen [en] dat [bak] [erop] 
+B|16| B: jij [moeten] 
+B|17| B: yes 
+B|18| B: letter D 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : je hebben het beker en om het beker zitten een soort van kampbankje of een een kampvuurbank heen
+	Free: Pattern=en, Pattern=het
+	Constrained: 
+Turn ID=1| B | B : en op het kampvuurbank staan een soort van cakevorm
+	Free: Pattern=op, Pattern=en, Pattern=het
+	Constrained: 
+Turn ID=2| B | B : oké
+	Free: 
+	Constrained: 
+Turn ID=3| A | A : ja waar dat bak ook op staat
+	Free: Pattern=op, Pattern=bak, Pattern=ja
+	Constrained: 
+Turn ID=4| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=5| A | A : dat zijn zestien voor mij
+	Free: 
+	Constrained: 
+Turn ID=6| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=7| B | B : letter P
+	Free: 
+	Constrained: 
+Turn ID=8| A | A : dit zijn degeen met het ja met het tafel eromheen met dat bak
+	Free: Pattern=met het, Pattern=bak, Pattern=met, Pattern=ja
+	Constrained: Pattern=met, Pattern=het
+Turn ID=9| B | B : het bak met het cakeblik erop
+	Free: Pattern=het bak, Pattern=met het, Pattern=erop
+	Constrained: Pattern=bak, Pattern=met, Pattern=het
+Turn ID=10| A | A : ja dat zijn veertien voor mij
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=11| B | B : letter N
+	Free: 
+	Constrained: 
+Turn ID=12| A | A : dit zijn die met de tafel met het bak erop
+	Free: Pattern=het bak, Pattern=met het, Pattern=erop, Pattern=met
+	Constrained: Pattern=bak, Pattern=met, Pattern=het
+Turn ID=13| B | B : het kampvuurbank met het cakeblik
+	Free: Pattern=met het, Pattern=het
+	Constrained: Pattern=met, Pattern=het
+Turn ID=14| A | A : moeten hem even zoeken ja dat zijn tien voor mij
+	Free: Pattern=ja, Pattern=moeten
+	Constrained: 
+Turn ID=15| A | A : dit zijn die met de tafel eromheen en dat bak erop
+	Free: Pattern=erop, Pattern=bak, Pattern=met, Pattern=en
+	Constrained: 
+Turn ID=16| B | B : jij moeten
+	Free: Pattern=moeten
+	Constrained: 
+Turn ID=17| B | B : yes
+	Free: 
+	Constrained: 
+Turn ID=18| B | B : letter D
+	Free: 
+	Constrained: 

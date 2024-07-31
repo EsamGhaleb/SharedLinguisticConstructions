@@ -1,0 +1,83 @@
+B|0| B: het kop hebben onder een blauw vlak als enig _met_ een blauw vlak eronder 
+A|1| A: _ja_ _ja_ _ja_ maar dan [met] zo'n _van die_ _van _die_ Pippi_ Langkousdingen 
+B|2| B: _en_ [van] 
+B|3| B: [ja] [van die] dinget 
+B|4| B: [ja] 
+A|5| A: [ja] oké 
+A|6| A: _dat zijn_ bij mij nummer vijf 
+A|7| A: _die met die_ twee paardenstaart [en] _dat_ rond aan de voorkant 
+B|8| B: [ja] [dat zijn] J 
+B|9| B: ik hebben [die met [die] Pippi] Langkousstaartjes 
+A|10| A: [ja] nummer elf 
+A|11| A: [die met die] twee staart 
+B|12| B: [dat zijn] P 
+B|13| B: ik hebben het [Pippi] Langkousstaart 
+A|14| A: nummer negen 
+A|15| A: [die met die] twee [die] twee [ja] [die] staart 
+B|16| B: Trrr 
+B|17| B: [ja] 
+A|18| A: [ja] 
+B|19| B: [dat zijn] L 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : het kop hebben onder een blauw vlak als enig met een blauw vlak eronder
+	Free: Pattern=met
+	Constrained: 
+Turn ID=1| A | A : ja ja ja maar dan met zo'n van die van die Pippi Langkousdingen
+	Free: Pattern=van die, Pattern=die Pippi, Pattern=ja, Pattern=met
+	Constrained: Pattern=Pippi, Pattern=van, Pattern=die
+Turn ID=2| B | B : en van
+	Free: Pattern=van, Pattern=en
+	Constrained: 
+Turn ID=3| B | B : ja van die dinget
+	Free: Pattern=van die, Pattern=ja
+	Constrained: Pattern=van, Pattern=die
+Turn ID=4| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=5| A | A : ja oké
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=6| A | A : dat zijn bij mij nummer vijf
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat
+Turn ID=7| A | A : die met die twee paardenstaart en dat rond aan de voorkant
+	Free: Pattern=die met die, Pattern=dat, Pattern=en
+	Constrained: Pattern=die, Pattern=met
+Turn ID=8| B | B : ja dat zijn J
+	Free: Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=dat
+Turn ID=9| B | B : ik hebben die met die Pippi Langkousstaartjes
+	Free: Pattern=die met die, Pattern=die Pippi
+	Constrained: Pattern=Pippi, Pattern=die, Pattern=met
+Turn ID=10| A | A : ja nummer elf
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=11| A | A : die met die twee staart
+	Free: Pattern=die met die
+	Constrained: Pattern=die, Pattern=met
+Turn ID=12| B | B : dat zijn P
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat
+Turn ID=13| B | B : ik hebben het Pippi Langkousstaart
+	Free: Pattern=Pippi
+	Constrained: 
+Turn ID=14| A | A : nummer negen
+	Free: 
+	Constrained: 
+Turn ID=15| A | A : die met die twee die twee ja die staart
+	Free: Pattern=die met die, Pattern=ja, Pattern=die
+	Constrained: Pattern=die, Pattern=met
+Turn ID=16| B | B : Trrr
+	Free: 
+	Constrained: 
+Turn ID=17| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=18| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=19| B | B : dat zijn L
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat

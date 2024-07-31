@@ -1,0 +1,115 @@
+A|0| A: _dan_ zijn _het_ niet gelijk 
+A|1| A: _ja_ dit zijn _de_ mok die aan _de_ linkerkant _een_ _een_ hengsel _hebben_ waarbij _het_ _een soort_ van lijken alsof _er_ _een_ tentharing _in_ steken 
+A|2| A: vinden _ik_ 
+A|3| A: dat zijn _een soort_ van pin _met een_ vierkant 
+A|4| A: _ja_ 
+A|5| A: oké 
+B|6| B: _en_ [hebben] hij [een soort] vergrootglas 
+B|7| B: o of o jaja inderdaad best wel echt perfect rond 
+B|8| B: [een soort] pacman vormig balk _en_ [dan] [met een] spijker [er] uit ok [ja] L 
+B|9| B: [soort] pacman arm _met de_ spijker [er] [in] _en_ [een] plateaut vergrootglas 
+B|10| B: [ja] 
+A|11| A: zijn dat mijn tentharing 
+A|12| A: [ja] 
+A|13| A: [ja] dat zijn nummer zeven hier 
+B|14| B: o [ja] [ja] _en_ [het] [ja] [het] vergrootglas wat [er] [ja] oke C 
+A|15| A: [en] dit zijn [de] mok [met de] tentharing 
+B|16| B: pacman 
+B|17| B: [met de] armpiercing of pacman [met de] spijker [er] doorheen 
+B|18| B: sorry [ik] nee sorry 
+B|19| B: pacman [met de] spijker [er] doorheen [en] [de] plateau 
+A|20| A: ah [ja] dat zijn nummer één 
+B|21| B: A 
+A|22| A: gelijk 
+A|23| A: dit zijn [de] mok [met de] tentharing 
+B|24| B: [dan] pacman 
+A|25| A: welk zeggen je [met de] 
+A|26| A: [de] [ja] 
+A|27| A: [ja] nummer dertien 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : dan zijn het niet gelijk
+	Free: Pattern=het, Pattern=dan
+	Constrained: 
+Turn ID=1| A | A : ja dit zijn de mok die aan de linkerkant een een hengsel hebben waarbij het een soort van lijken alsof er een tentharing in steken
+	Free: Pattern=een, Pattern=het, Pattern=hebben, Pattern=in, Pattern=er, Pattern=een soort, Pattern=de, Pattern=ja
+	Constrained: Pattern=een, Pattern=soort
+Turn ID=2| A | A : vinden ik
+	Free: Pattern=ik
+	Constrained: 
+Turn ID=3| A | A : dat zijn een soort van pin met een vierkant
+	Free: Pattern=een soort, Pattern=met een
+	Constrained: Pattern=een, Pattern=soort
+Turn ID=4| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=5| A | A : oké
+	Free: 
+	Constrained: 
+Turn ID=6| B | B : en hebben hij een soort vergrootglas
+	Free: Pattern=een soort, Pattern=en, Pattern=hebben
+	Constrained: Pattern=een, Pattern=soort
+Turn ID=7| B | B : o of o jaja inderdaad best wel echt perfect rond
+	Free: 
+	Constrained: 
+Turn ID=8| B | B : een soort pacman vormig balk en dan met een spijker er uit ok ja L
+	Free: Pattern=ja, Pattern=dan, Pattern=met een, Pattern=er, Pattern=een soort, Pattern=en
+	Constrained: Pattern=een, Pattern=soort
+Turn ID=9| B | B : soort pacman arm met de spijker er in en een plateaut vergrootglas
+	Free: Pattern=soort, Pattern=met de, Pattern=een, Pattern=in, Pattern=er, Pattern=en
+	Constrained: Pattern=de
+Turn ID=10| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=11| A | A : zijn dat mijn tentharing
+	Free: 
+	Constrained: 
+Turn ID=12| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=13| A | A : ja dat zijn nummer zeven hier
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=14| B | B : o ja ja en het ja het vergrootglas wat er ja oke C
+	Free: Pattern=er, Pattern=en, Pattern=het, Pattern=ja
+	Constrained: 
+Turn ID=15| A | A : en dit zijn de mok met de tentharing
+	Free: Pattern=met de, Pattern=de, Pattern=en
+	Constrained: Pattern=de
+Turn ID=16| B | B : pacman
+	Free: 
+	Constrained: 
+Turn ID=17| B | B : met de armpiercing of pacman met de spijker er doorheen
+	Free: Pattern=met de, Pattern=er
+	Constrained: Pattern=de
+Turn ID=18| B | B : sorry ik nee sorry
+	Free: Pattern=ik
+	Constrained: 
+Turn ID=19| B | B : pacman met de spijker er doorheen en de plateau
+	Free: Pattern=met de, Pattern=de, Pattern=er, Pattern=en
+	Constrained: Pattern=de
+Turn ID=20| A | A : ah ja dat zijn nummer één
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=21| B | B : A
+	Free: 
+	Constrained: 
+Turn ID=22| A | A : gelijk
+	Free: 
+	Constrained: 
+Turn ID=23| A | A : dit zijn de mok met de tentharing
+	Free: Pattern=met de, Pattern=de
+	Constrained: Pattern=de
+Turn ID=24| B | B : dan pacman
+	Free: Pattern=dan
+	Constrained: 
+Turn ID=25| A | A : welk zeggen je met de
+	Free: Pattern=met de
+	Constrained: Pattern=de
+Turn ID=26| A | A : de ja
+	Free: Pattern=de, Pattern=ja
+	Constrained: 
+Turn ID=27| A | A : ja nummer dertien
+	Free: Pattern=ja
+	Constrained: 

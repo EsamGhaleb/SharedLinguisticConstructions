@@ -1,0 +1,107 @@
+A|0| A: _oké_ _deze hebben_ eigenlijk _een_ soort van _een_ bal helemaal bovenaan 
+A|1| A: _en_ _dan_ zitten er _een_ _een_ soort _balk_ _voor_ 
+B|2| B: [voor] 
+B|3| B: [en] nog _twee_ _dinge_ _aan de_ zijkant 
+A|4| A: _ja_ [twee] ongelijk [dinge] 
+B|5| B: [oké] 
+B|6| B: [ja] 
+B|7| B: _dan zijn het_ D 
+B|8| B: [deze hebben] [een] balle op _het_ kop weer 
+B|9| B: [en] [een] [balk] staan ervoor 
+B|10| B: [en] [twee] armp 
+A|11| A: ah 
+B|12| B: we [hebben] hem al [hebben] geloven ik dus 
+A|13| A: [ja] 
+A|14| A: [oké] [dan zijn het] nummer vijftien 
+A|15| A: _dit zijn met_ die bal _bovenop_ [en] die staaf [aan de] voorkant 
+B|16| B: [ja] _dat zijn_ L 
+B|17| B: [dit zijn] weer [met] _dat_ balle [bovenop] 
+A|18| A: even kijken 
+A|19| A: ah [dat zijn] nummer zes 
+A|20| A: _dit zijn met_ die bal [en] die [balk] vooraan 
+B|21| B: [ja] 
+B|22| B: [dat zijn] J 
+B|23| B: [dit zijn met] [een] balle erop 
+A|24| A: [ja] 
+A|25| A: [dat zijn] nummer drie 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : oké deze hebben eigenlijk een soort van een bal helemaal bovenaan
+	Free: Pattern=deze hebben, Pattern=een, Pattern=oké
+	Constrained: Pattern=hebben
+Turn ID=1| A | A : en dan zitten er een een soort balk voor
+	Free: Pattern=dan, Pattern=een, Pattern=voor, Pattern=balk, Pattern=en
+	Constrained: 
+Turn ID=2| B | B : voor
+	Free: Pattern=voor
+	Constrained: 
+Turn ID=3| B | B : en nog twee dinge aan de zijkant
+	Free: Pattern=aan de, Pattern=en, Pattern=dinge, Pattern=twee
+	Constrained: 
+Turn ID=4| A | A : ja twee ongelijk dinge
+	Free: Pattern=ja, Pattern=dinge, Pattern=twee
+	Constrained: 
+Turn ID=5| B | B : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=6| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=7| B | B : dan zijn het D
+	Free: Pattern=dan zijn het
+	Constrained: Pattern=dan, Pattern=het
+Turn ID=8| B | B : deze hebben een balle op het kop weer
+	Free: Pattern=deze hebben, Pattern=het, Pattern=een
+	Constrained: Pattern=hebben
+Turn ID=9| B | B : en een balk staan ervoor
+	Free: Pattern=en, Pattern=een, Pattern=balk
+	Constrained: 
+Turn ID=10| B | B : en twee armp
+	Free: Pattern=en, Pattern=twee
+	Constrained: 
+Turn ID=11| A | A : ah
+	Free: 
+	Constrained: 
+Turn ID=12| B | B : we hebben hem al hebben geloven ik dus
+	Free: Pattern=hebben
+	Constrained: 
+Turn ID=13| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=14| A | A : oké dan zijn het nummer vijftien
+	Free: Pattern=dan zijn het, Pattern=oké
+	Constrained: Pattern=dan, Pattern=het
+Turn ID=15| A | A : dit zijn met die bal bovenop en die staaf aan de voorkant
+	Free: Pattern=dit zijn met, Pattern=aan de, Pattern=en, Pattern=bovenop
+	Constrained: Pattern=dit zijn, Pattern=met
+Turn ID=16| B | B : ja dat zijn L
+	Free: Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=dat
+Turn ID=17| B | B : dit zijn weer met dat balle bovenop
+	Free: Pattern=dit zijn, Pattern=bovenop, Pattern=dat, Pattern=met
+	Constrained: 
+Turn ID=18| A | A : even kijken
+	Free: 
+	Constrained: 
+Turn ID=19| A | A : ah dat zijn nummer zes
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat
+Turn ID=20| A | A : dit zijn met die bal en die balk vooraan
+	Free: Pattern=dit zijn met, Pattern=en, Pattern=balk
+	Constrained: Pattern=dit zijn, Pattern=met
+Turn ID=21| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=22| B | B : dat zijn J
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat
+Turn ID=23| B | B : dit zijn met een balle erop
+	Free: Pattern=dit zijn met, Pattern=een
+	Constrained: Pattern=dit zijn, Pattern=met
+Turn ID=24| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=25| A | A : dat zijn nummer drie
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat

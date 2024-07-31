@@ -1,0 +1,71 @@
+B|0| B: _met de_ _twee_ _krulle_ aan _de zijkant_ 
+B|1| B: _twee spiraalt_ naar _de zijkant_ toe 
+A|2| A: en dan staan _die_ _op een_ 
+B|3| B: [op] [op een] dienblad 
+A|4| A: _ja_ 
+A|5| A: dan _zijn_ _het_ nummer vijf 
+A|6| A: _dit zijn_ wel _die_ [een] [op] [met] _dat_ tafel _met die krulle_ langs [de zijkant] 
+B|7| B: [met die krulle] _ja dat zijn_ bij mij [zijn] [dat] J 
+B|8| B: [dit zijn] [op] [dat] dienblad [met die krulle] naar [de zijkant] 
+A|9| A: [ja dat zijn] nummer elf 
+B|10| B: [het] _plaat_ aan [de] voorkant 
+A|11| A: [die] [een] [op] [het] vlak [met die] [twee spiraalt] 
+B|12| B: [ja dat zijn] bij mij P 
+B|13| B: [de] kronkeloort cilindertjes 
+A|14| A: [ja dat zijn] nummer negen 
+A|15| A: _de plaat met de spiraalt_ 
+B|16| B: [de plaat met de spiraalt] [ja dat zijn] L 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : met de twee krulle aan de zijkant
+	Free: Pattern=met de, Pattern=de zijkant, Pattern=krulle, Pattern=twee
+	Constrained: Pattern=met, Pattern=de
+Turn ID=1| B | B : twee spiraalt naar de zijkant toe
+	Free: Pattern=twee spiraalt, Pattern=de zijkant
+	Constrained: Pattern=twee, Pattern=de
+Turn ID=2| A | A : en dan staan die op een
+	Free: Pattern=op een, Pattern=die
+	Constrained: Pattern=op, Pattern=een
+Turn ID=3| B | B : op op een dienblad
+	Free: Pattern=op een, Pattern=op
+	Constrained: Pattern=op, Pattern=een
+Turn ID=4| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=5| A | A : dan zijn het nummer vijf
+	Free: Pattern=zijn, Pattern=het
+	Constrained: 
+Turn ID=6| A | A : dit zijn wel die een op met dat tafel met die krulle langs de zijkant
+	Free: Pattern=dat, Pattern=op, Pattern=een, Pattern=met, Pattern=die, Pattern=de zijkant, Pattern=met die krulle, Pattern=dit zijn
+	Constrained: Pattern=krulle, Pattern=met die, Pattern=de, Pattern=met, Pattern=die, Pattern=zijn
+Turn ID=7| B | B : met die krulle ja dat zijn bij mij zijn dat J
+	Free: Pattern=ja dat zijn, Pattern=met die krulle, Pattern=zijn, Pattern=dat
+	Constrained: Pattern=krulle, Pattern=ja, Pattern=met, Pattern=die, Pattern=zijn, Pattern=dat, Pattern=met die
+Turn ID=8| B | B : dit zijn op dat dienblad met die krulle naar de zijkant
+	Free: Pattern=dat, Pattern=op, Pattern=de zijkant, Pattern=met die krulle, Pattern=dit zijn
+	Constrained: Pattern=krulle, Pattern=met die, Pattern=de, Pattern=met, Pattern=die, Pattern=zijn
+Turn ID=9| A | A : ja dat zijn nummer elf
+	Free: Pattern=ja dat zijn
+	Constrained: Pattern=ja, Pattern=zijn, Pattern=dat
+Turn ID=10| B | B : het plaat aan de voorkant
+	Free: Pattern=plaat, Pattern=het, Pattern=de
+	Constrained: 
+Turn ID=11| A | A : die een op het vlak met die twee spiraalt
+	Free: Pattern=met die, Pattern=op, Pattern=een, Pattern=het, Pattern=twee spiraalt, Pattern=die
+	Constrained: Pattern=twee, Pattern=die, Pattern=met
+Turn ID=12| B | B : ja dat zijn bij mij P
+	Free: Pattern=ja dat zijn
+	Constrained: Pattern=ja, Pattern=zijn, Pattern=dat
+Turn ID=13| B | B : de kronkeloort cilindertjes
+	Free: Pattern=de
+	Constrained: 
+Turn ID=14| A | A : ja dat zijn nummer negen
+	Free: Pattern=ja dat zijn
+	Constrained: Pattern=ja, Pattern=zijn, Pattern=dat
+Turn ID=15| A | A : de plaat met de spiraalt
+	Free: Pattern=de plaat met de spiraalt
+	Constrained: Pattern=de, Pattern=met, Pattern=met de, Pattern=plaat
+Turn ID=16| B | B : de plaat met de spiraalt ja dat zijn L
+	Free: Pattern=de plaat met de spiraalt, Pattern=ja dat zijn
+	Constrained: Pattern=dat, Pattern=met, Pattern=zijn, Pattern=plaat, Pattern=de, Pattern=met de, Pattern=ja

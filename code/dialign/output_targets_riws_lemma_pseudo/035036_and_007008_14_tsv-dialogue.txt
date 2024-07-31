@@ -1,0 +1,127 @@
+A|0| A: oké 
+A|1| A: ik onthield deze _met_ _het_ _bolle_ of _het_ _het_ ballet 
+A|2| A: er zitten _een_ soort _van het_ _zijn_ eigenlijk volgens mij _het_ enig kop _met een_ _met een_ balle dat erbovenop _liggen_ 
+A|3| A: staf _aan de zijkant_ _en_ _een lang_ _aan de voorkant_ 
+A|4| A: oké 
+B|5| B: vooraan [een lang] balk 
+B|6| B: [en] [liggen] daarbovenop [een] [bolle] 
+B|7| B: _ja_ 
+B|8| B: D 
+A|9| A: [ja] _het_ _zijn_ volgens mij nu ook verwisseld allemaal 
+A|10| A: _de_ locatie _zijn_ anders ineens 
+A|11| A: oké 
+A|12| A: [ja] 
+A|13| A: oké 
+A|14| A: dat _zijn_ vijftien 
+B|15| B: _dit zijn_ zo'n ding [met [een] lang] balk 
+B|16| B: lijken lijken gewoon op [een] hoog toren zeggen maar [en] bovenin _bovenop_ [liggen] [een] bol op [het] plaat 
+B|17| B: [aan de zijkant] [van] _die_ 
+B|18| B: [ja] 
+A|19| A: oké [dit zijn] [die] [met] [het] ballet [bovenop] 
+A|20| A: dat [zijn] zes 
+B|21| B: even 
+B|22| B: [ja] [die] bol [bovenop] [en] dan één toren [van het] World Trade Center lijken [het] 
+B|23| B: L 
+A|24| A: [dit zijn] [die] [met] [het] ballet [bovenop] 
+B|25| B: [met] [die] rond [bovenop] [die] bol zeggen maar [en] dan weer [die] [lang] balk [aan de voorkant] 
+A|26| A: drie 
+B|27| B: [ja] 
+B|28| B: [ja] 
+B|29| B: [ja] 
+B|30| B: [die] bol [en] dan weer [die] World Trade Center 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : oké
+	Free: 
+	Constrained: 
+Turn ID=1| A | A : ik onthield deze met het bolle of het het ballet
+	Free: Pattern=bolle, Pattern=het, Pattern=met
+	Constrained: 
+Turn ID=2| A | A : er zitten een soort van het zijn eigenlijk volgens mij het enig kop met een met een balle dat erbovenop liggen
+	Free: Pattern=een, Pattern=het, Pattern=liggen, Pattern=zijn, Pattern=van het, Pattern=met een
+	Constrained: Pattern=van, Pattern=een, Pattern=het, Pattern=met
+Turn ID=3| A | A : staf aan de zijkant en een lang aan de voorkant
+	Free: Pattern=aan de voorkant, Pattern=aan de zijkant, Pattern=een lang, Pattern=en
+	Constrained: Pattern=een, Pattern=de, Pattern=lang
+Turn ID=4| A | A : oké
+	Free: 
+	Constrained: 
+Turn ID=5| B | B : vooraan een lang balk
+	Free: Pattern=een lang
+	Constrained: Pattern=lang, Pattern=een
+Turn ID=6| B | B : en liggen daarbovenop een bolle
+	Free: Pattern=en, Pattern=bolle, Pattern=een, Pattern=liggen
+	Constrained: 
+Turn ID=7| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=8| B | B : D
+	Free: 
+	Constrained: 
+Turn ID=9| A | A : ja het zijn volgens mij nu ook verwisseld allemaal
+	Free: Pattern=zijn, Pattern=ja, Pattern=het
+	Constrained: 
+Turn ID=10| A | A : de locatie zijn anders ineens
+	Free: Pattern=zijn, Pattern=de
+	Constrained: 
+Turn ID=11| A | A : oké
+	Free: 
+	Constrained: 
+Turn ID=12| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=13| A | A : oké
+	Free: 
+	Constrained: 
+Turn ID=14| A | A : dat zijn vijftien
+	Free: Pattern=zijn
+	Constrained: 
+Turn ID=15| B | B : dit zijn zo'n ding met een lang balk
+	Free: Pattern=met een, Pattern=een lang, Pattern=dit zijn
+	Constrained: Pattern=zijn, Pattern=lang, Pattern=een, Pattern=met
+Turn ID=16| B | B : lijken lijken gewoon op een hoog toren zeggen maar en bovenin bovenop liggen een bol op het plaat
+	Free: Pattern=bovenop, Pattern=een, Pattern=het, Pattern=en, Pattern=liggen
+	Constrained: 
+Turn ID=17| B | B : aan de zijkant van die
+	Free: Pattern=aan de zijkant, Pattern=die, Pattern=van
+	Constrained: Pattern=de
+Turn ID=18| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=19| A | A : oké dit zijn die met het ballet bovenop
+	Free: Pattern=bovenop, Pattern=het, Pattern=met, Pattern=die, Pattern=dit zijn
+	Constrained: Pattern=zijn
+Turn ID=20| A | A : dat zijn zes
+	Free: Pattern=zijn
+	Constrained: 
+Turn ID=21| B | B : even
+	Free: 
+	Constrained: 
+Turn ID=22| B | B : ja die bol bovenop en dan één toren van het World Trade Center lijken het
+	Free: Pattern=bovenop, Pattern=ja, Pattern=het, Pattern=die, Pattern=van het, Pattern=en
+	Constrained: Pattern=van, Pattern=het
+Turn ID=23| B | B : L
+	Free: 
+	Constrained: 
+Turn ID=24| A | A : dit zijn die met het ballet bovenop
+	Free: Pattern=bovenop, Pattern=het, Pattern=met, Pattern=die, Pattern=dit zijn
+	Constrained: Pattern=zijn
+Turn ID=25| B | B : met die rond bovenop die bol zeggen maar en dan weer die lang balk aan de voorkant
+	Free: Pattern=bovenop, Pattern=met, Pattern=die, Pattern=lang, Pattern=en, Pattern=aan de voorkant
+	Constrained: Pattern=de
+Turn ID=26| A | A : drie
+	Free: 
+	Constrained: 
+Turn ID=27| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=28| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=29| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=30| B | B : die bol en dan weer die World Trade Center
+	Free: Pattern=en, Pattern=die
+	Constrained: 

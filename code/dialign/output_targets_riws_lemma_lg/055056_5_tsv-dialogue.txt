@@ -1,0 +1,179 @@
+B|0| B: deze hebben _ik_ omschrijven als _een_ _brievenbus_ maar _ik_ vinden het nu misschien veel weg hebben van _een_ _broodrooster_ 
+B|1| B: het _zijn_ _een_ koffiebeker waaruit _een_ klein stuk van _een_ _een_ _een_ boek of in ieder geval _een_ _een_ rechthoek vierkant uit komen bovenin 
+B|2| B: _en_ _er zitten_ drie _uitsteeksel aan_ 
+B|3| B: _één_ daarvan _zijn_ _een beetje_ _een_ _een_ _een_ _rond_ _iets_ _een_ _een soort_ pion 
+A|4| A: [een soort] _twee half lampenkap_ 
+B|5| B: [twee half lampenkap] 
+B|6| B: nou _ja_ _ik_ inzien _er_ _niet_ meteen _lampenkapp_ in 
+A|7| A: _oké_ 
+B|8| B: _er_ _zijn_ in ieder geval _één_ koffiekopje _en daar_ komen zeggen maar net bijna _de_ breedte van het van _de_ bovenkant van het kop komen [een] [een] stuk vierkant uit 
+A|9| A: [ja] 
+A|10| A: [ja] 
+A|11| A: _dat zijn_ [ik] met je eens [en daar] inderdaad [de] [de] wat [rond] vormen boven smal breed onder 
+B|12| B: die _zitten_ link 
+A|13| A: [ja] [en] rechts _kunnen_ je hem [niet] heel goed zien 
+B|14| B: nee [daar] _zitten_ geloven [ik] [een] 
+A|15| A: [er zitten] nog [iets] voor 
+A|16| A: [een soort] [de] [uitsteeksel aan] [de] voorkant [zijn] ook [een beetje] driehoekachtig 
+B|17| B: [ja] 
+B|18| B: [ja] 
+A|19| A: met nog [een] lichtblauw pinne 
+B|20| B: [ja] misschien [dat] [er] zelfs drie ding [aan] die kant uit steken 
+A|21| A: [ja] 
+A|22| A: _dat zijn_ nummer acht 
+B|23| B: [oké] 
+A|24| A: [oké] _de broodrooster_ [brievenbus] 
+B|25| B: [ja] 
+A|26| A: met al dan [niet] [lampenkapp] 
+B|27| B: duidelijk 
+B|28| B: [ja] 
+B|29| B: [dat zijn] letter E 
+B|30| B: [de broodrooster] 
+A|31| A: [ja] 
+B|32| B: [brievenbus] 
+A|33| A: [ja] hebbes nummer [één] 
+A|34| A: [de broodrooster] 
+B|35| B: [de broodrooster] [dat zijn] letter E 
+B|36| B: [de broodrooster] 
+A|37| A: nummer zestien 
+A|38| A: [brievenbus] 
+B|39| B: [de] [brievenbus] [ja] 
+A|40| A: [en] [broodrooster] 
+B|41| B: [ja] [kunnen] allebei 
+A|42| A: [ja] 
+B|43| B: letter O 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : deze hebben ik omschrijven als een brievenbus maar ik vinden het nu misschien veel weg hebben van een broodrooster
+	Free: Pattern=ik, Pattern=een, Pattern=broodrooster, Pattern=brievenbus
+	Constrained: 
+Turn ID=1| B | B : het zijn een koffiebeker waaruit een klein stuk van een een een boek of in ieder geval een een rechthoek vierkant uit komen bovenin
+	Free: Pattern=een, Pattern=zijn
+	Constrained: 
+Turn ID=2| B | B : en er zitten drie uitsteeksel aan
+	Free: Pattern=er zitten, Pattern=uitsteeksel aan, Pattern=en
+	Constrained: Pattern=aan, Pattern=zitten, Pattern=er
+Turn ID=3| B | B : één daarvan zijn een beetje een een een rond iets een een soort pion
+	Free: Pattern=iets, Pattern=een, Pattern=een soort, Pattern=rond, Pattern=zijn, Pattern=één, Pattern=een beetje
+	Constrained: Pattern=een
+Turn ID=4| A | A : een soort twee half lampenkap
+	Free: Pattern=twee half lampenkap, Pattern=een soort
+	Constrained: Pattern=een
+Turn ID=5| B | B : twee half lampenkap
+	Free: Pattern=twee half lampenkap
+	Constrained: 
+Turn ID=6| B | B : nou ja ik inzien er niet meteen lampenkapp in
+	Free: Pattern=ja, Pattern=niet, Pattern=er, Pattern=ik, Pattern=lampenkapp
+	Constrained: 
+Turn ID=7| A | A : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=8| B | B : er zijn in ieder geval één koffiekopje en daar komen zeggen maar net bijna de breedte van het van de bovenkant van het kop komen een een stuk vierkant uit
+	Free: Pattern=en daar, Pattern=de, Pattern=een, Pattern=er, Pattern=zijn, Pattern=één
+	Constrained: Pattern=en, Pattern=daar
+Turn ID=9| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=10| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=11| A | A : dat zijn ik met je eens en daar inderdaad de de wat rond vormen boven smal breed onder
+	Free: Pattern=de, Pattern=ik, Pattern=rond, Pattern=dat zijn, Pattern=en daar
+	Constrained: Pattern=en, Pattern=dat, Pattern=daar, Pattern=zijn
+Turn ID=12| B | B : die zitten link
+	Free: Pattern=zitten
+	Constrained: 
+Turn ID=13| A | A : ja en rechts kunnen je hem niet heel goed zien
+	Free: Pattern=en, Pattern=niet, Pattern=ja, Pattern=kunnen
+	Constrained: 
+Turn ID=14| B | B : nee daar zitten geloven ik een
+	Free: Pattern=ik, Pattern=een, Pattern=daar, Pattern=zitten
+	Constrained: 
+Turn ID=15| A | A : er zitten nog iets voor
+	Free: Pattern=er zitten, Pattern=iets
+	Constrained: Pattern=zitten, Pattern=er
+Turn ID=16| A | A : een soort de uitsteeksel aan de voorkant zijn ook een beetje driehoekachtig
+	Free: Pattern=de, Pattern=uitsteeksel aan, Pattern=een soort, Pattern=zijn, Pattern=een beetje
+	Constrained: Pattern=een, Pattern=aan
+Turn ID=17| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=18| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=19| A | A : met nog een lichtblauw pinne
+	Free: Pattern=een
+	Constrained: 
+Turn ID=20| B | B : ja misschien dat er zelfs drie ding aan die kant uit steken
+	Free: Pattern=dat, Pattern=ja, Pattern=aan, Pattern=er
+	Constrained: 
+Turn ID=21| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=22| A | A : dat zijn nummer acht
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=23| B | B : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=24| A | A : oké de broodrooster brievenbus
+	Free: Pattern=de broodrooster, Pattern=oké, Pattern=brievenbus
+	Constrained: Pattern=de, Pattern=broodrooster
+Turn ID=25| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=26| A | A : met al dan niet lampenkapp
+	Free: Pattern=niet, Pattern=lampenkapp
+	Constrained: 
+Turn ID=27| B | B : duidelijk
+	Free: 
+	Constrained: 
+Turn ID=28| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=29| B | B : dat zijn letter E
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=30| B | B : de broodrooster
+	Free: Pattern=de broodrooster
+	Constrained: Pattern=de, Pattern=broodrooster
+Turn ID=31| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=32| B | B : brievenbus
+	Free: Pattern=brievenbus
+	Constrained: 
+Turn ID=33| A | A : ja hebbes nummer één
+	Free: Pattern=ja, Pattern=één
+	Constrained: 
+Turn ID=34| A | A : de broodrooster
+	Free: Pattern=de broodrooster
+	Constrained: Pattern=de, Pattern=broodrooster
+Turn ID=35| B | B : de broodrooster dat zijn letter E
+	Free: Pattern=dat zijn, Pattern=de broodrooster
+	Constrained: Pattern=de, Pattern=dat, Pattern=broodrooster, Pattern=zijn
+Turn ID=36| B | B : de broodrooster
+	Free: Pattern=de broodrooster
+	Constrained: Pattern=de, Pattern=broodrooster
+Turn ID=37| A | A : nummer zestien
+	Free: 
+	Constrained: 
+Turn ID=38| A | A : brievenbus
+	Free: Pattern=brievenbus
+	Constrained: 
+Turn ID=39| B | B : de brievenbus ja
+	Free: Pattern=de, Pattern=ja, Pattern=brievenbus
+	Constrained: 
+Turn ID=40| A | A : en broodrooster
+	Free: Pattern=en, Pattern=broodrooster
+	Constrained: 
+Turn ID=41| B | B : ja kunnen allebei
+	Free: Pattern=ja, Pattern=kunnen
+	Constrained: 
+Turn ID=42| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=43| B | B : letter O
+	Free: 
+	Constrained: 

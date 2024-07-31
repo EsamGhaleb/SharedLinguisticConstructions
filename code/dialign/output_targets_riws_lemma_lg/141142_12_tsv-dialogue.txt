@@ -1,0 +1,123 @@
+B|0| B: nee 
+A|1| A: _oké_ deze hebben aan _de_ linkerkant 
+A|2| A: _ja_ misschien je zullen _het_ kunnen _zien_ als een soort van _bank_ of zo _die_ net een beetje naar voren kantelen _zijn_ 
+B|3| B: [ja] 
+A|4| A: _met_ een [ja] een soort van een groot _nagel_ zeggen maar een _spijker_ _die_ ertegenaan zitten 
+B|5| B: [oké] 
+A|6| A: _en_ aan _de_ linkerkant hebben je een soort van [ja] een cirkel _die_ _die_ _die_ [ja] 
+B|7| B: [ja] 
+A|8| A: [ja] 
+B|9| B: ik [zien] [het] [het] [zijn] L 
+B|10| B: nou [het] _zijn weer_ [het] beker [met] [die] omgekeerde [bank] _en die_ [nagel] erin 
+A|11| A: welk [zijn] dat ook alweer ? even kijken waar [die] staan 
+A|12| A: [ja] [ja] 
+A|13| A: [ja] [oké] 
+A|14| A: dus dat [zijn] zeven voor mij 
+B|15| B: [oké] 
+A|16| A: [ja] [oké] deze hebben [die] [die] kantelen _bank met de met de spijker_ ertegenaan 
+B|17| B: C 
+A|18| A: [en] _de_ [en die] cirkel aan _de_ rechterkant 
+A|19| A: yes 
+B|20| B: C 
+B|21| B: [het] [zijn] [de] [de] [de] [de] spijkerbank _weer_ 
+A|22| A: [ja] 
+A|23| A: [oké] dat [zijn] één 
+A|24| A: even kijken dit [zijn weer] [die] omgu [die] [die] kantelen _bank _met de_ spijker_ erop 
+B|25| B: [ja] 
+A|26| A: [en] [de] cirkel 
+B|27| B: [zijn] A 
+B|28| B: [het] [zijn] [de] [bank met de met de spijker] 
+A|29| A: [ja] dat [zijn] dertien 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : nee
+	Free: 
+	Constrained: 
+Turn ID=1| A | A : oké deze hebben aan de linkerkant
+	Free: Pattern=oké, Pattern=de
+	Constrained: 
+Turn ID=2| A | A : ja misschien je zullen het kunnen zien als een soort van bank of zo die net een beetje naar voren kantelen zijn
+	Free: Pattern=ja, Pattern=bank, Pattern=het, Pattern=zijn, Pattern=die, Pattern=zien
+	Constrained: 
+Turn ID=3| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=4| A | A : met een ja een soort van een groot nagel zeggen maar een spijker die ertegenaan zitten
+	Free: Pattern=ja, Pattern=met, Pattern=die, Pattern=nagel, Pattern=spijker
+	Constrained: 
+Turn ID=5| B | B : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=6| A | A : en aan de linkerkant hebben je een soort van ja een cirkel die die die ja
+	Free: Pattern=ja, Pattern=die, Pattern=en, Pattern=de
+	Constrained: 
+Turn ID=7| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=8| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=9| B | B : ik zien het het zijn L
+	Free: Pattern=zijn, Pattern=zien, Pattern=het
+	Constrained: 
+Turn ID=10| B | B : nou het zijn weer het beker met die omgekeerde bank en die nagel erin
+	Free: Pattern=en die, Pattern=bank, Pattern=het, Pattern=met, Pattern=die, Pattern=nagel, Pattern=zijn weer
+	Constrained: Pattern=zijn, Pattern=die, Pattern=weer, Pattern=en
+Turn ID=11| A | A : welk zijn dat ook alweer ? even kijken waar die staan
+	Free: Pattern=zijn, Pattern=die
+	Constrained: 
+Turn ID=12| A | A : ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=13| A | A : ja oké
+	Free: Pattern=oké, Pattern=ja
+	Constrained: 
+Turn ID=14| A | A : dus dat zijn zeven voor mij
+	Free: Pattern=zijn
+	Constrained: 
+Turn ID=15| B | B : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=16| A | A : ja oké deze hebben die die kantelen bank met de met de spijker ertegenaan
+	Free: Pattern=bank met de met de spijker, Pattern=oké, Pattern=ja, Pattern=die
+	Constrained: Pattern=de, Pattern=bank, Pattern=met de spijker, Pattern=met, Pattern=bank met de, Pattern=spijker
+Turn ID=17| B | B : C
+	Free: 
+	Constrained: 
+Turn ID=18| A | A : en de en die cirkel aan de rechterkant
+	Free: Pattern=en die, Pattern=en, Pattern=de
+	Constrained: Pattern=die, Pattern=en
+Turn ID=19| A | A : yes
+	Free: 
+	Constrained: 
+Turn ID=20| B | B : C
+	Free: 
+	Constrained: 
+Turn ID=21| B | B : het zijn de de de de spijkerbank weer
+	Free: Pattern=zijn, Pattern=het, Pattern=weer, Pattern=de
+	Constrained: 
+Turn ID=22| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=23| A | A : oké dat zijn één
+	Free: Pattern=oké, Pattern=zijn
+	Constrained: 
+Turn ID=24| A | A : even kijken dit zijn weer die omgu die die kantelen bank met de spijker erop
+	Free: Pattern=met de spijker, Pattern=bank met de, Pattern=zijn weer, Pattern=die
+	Constrained: Pattern=de, Pattern=bank, Pattern=met, Pattern=zijn, Pattern=weer, Pattern=spijker
+Turn ID=25| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=26| A | A : en de cirkel
+	Free: Pattern=en, Pattern=de
+	Constrained: 
+Turn ID=27| B | B : zijn A
+	Free: Pattern=zijn
+	Constrained: 
+Turn ID=28| B | B : het zijn de bank met de met de spijker
+	Free: Pattern=bank met de met de spijker, Pattern=zijn, Pattern=het, Pattern=de
+	Constrained: Pattern=de, Pattern=bank, Pattern=met de spijker, Pattern=met, Pattern=bank met de, Pattern=spijker
+Turn ID=29| A | A : ja dat zijn dertien
+	Free: Pattern=ja, Pattern=zijn
+	Constrained: 

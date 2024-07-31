@@ -1,0 +1,139 @@
+A|0| A: _dit_ _zijn_ _die_ _een_ _met_ van _die_ twee _handvat_ _een_ beetje uit zo'n fiets 
+A|1| A: _met een_ _fietsmand_ 
+A|2| A: _en_ dan zo'n _balk_ erachter 
+A|3| A: dus _het_ _zijn_ gewoon dat kop _met_ twee van _die_ ding aan _de_ zijkant _er zitten een bal op_ 
+B|4| B: [er zitten een bal op] 
+A|5| A: [er] liggen [een bal op] 
+B|6| B: oké 
+A|7| A: _en_ dan _een balk_ 
+B|8| B: [die] 
+B|9| B: _ja_ _ja_ D 
+B|10| B: one volgens mij [zijn] [dit] degeen [die] jij net 
+B|11| B: [fietsmand] noemen 
+B|12| B: [met [een] _bal] erop_ 
+A|13| A: _en_ twee van [die] 
+B|14| B: _ja_ _ja_ dun [handvat] 
+A|15| A: [ja] precies 
+B|16| B: _en een balk_ 
+A|17| A: [en een balk] [die] [er] zo zullen ik maar zeggen tegenaan 
+B|18| B: [ja] [een] verticaal [balk] 
+A|19| A: dat [zijn] vijftien 
+A|20| A: dat [zijn] dat [fietsmand] weer [met] [die] [bal erop] [en] [die] twee 
+B|21| B: [ja] 
+B|22| B: L 
+B|23| B: [het] [fietsmand] 
+B|24| B: [met] [de] [bal] 
+A|25| A: even kijken waar staan 
+A|26| A: dat [zijn] zes 
+A|27| A: dat [fietsmand] weer 
+B|28| B: [fietsmand] 
+B|29| B: J 
+B|30| B: [met] [de] [bal] erin 
+A|31| A: [ja] 
+B|32| B: [het] [fietsmand] [met] [de] [bal] 
+A|33| A: nummer drie 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : dit zijn die een met van die twee handvat een beetje uit zo'n fiets
+	Free: Pattern=een, Pattern=met, Pattern=die, Pattern=zijn, Pattern=dit, Pattern=handvat
+	Constrained: 
+Turn ID=1| A | A : met een fietsmand
+	Free: Pattern=met een, Pattern=fietsmand
+	Constrained: Pattern=een, Pattern=met
+Turn ID=2| A | A : en dan zo'n balk erachter
+	Free: Pattern=en, Pattern=balk
+	Constrained: 
+Turn ID=3| A | A : dus het zijn gewoon dat kop met twee van die ding aan de zijkant er zitten een bal op
+	Free: Pattern=de, Pattern=het, Pattern=er zitten een bal op, Pattern=met, Pattern=die, Pattern=zijn
+	Constrained: Pattern=bal, Pattern=een, Pattern=er, Pattern=een bal, Pattern=een bal op
+Turn ID=4| B | B : er zitten een bal op
+	Free: Pattern=er zitten een bal op
+	Constrained: Pattern=bal, Pattern=een, Pattern=er, Pattern=een bal, Pattern=een bal op
+Turn ID=5| A | A : er liggen een bal op
+	Free: Pattern=een bal op, Pattern=er
+	Constrained: Pattern=een bal, Pattern=bal, Pattern=een
+Turn ID=6| B | B : oké
+	Free: 
+	Constrained: 
+Turn ID=7| A | A : en dan een balk
+	Free: Pattern=een balk, Pattern=en
+	Constrained: Pattern=een, Pattern=balk
+Turn ID=8| B | B : die
+	Free: Pattern=die
+	Constrained: 
+Turn ID=9| B | B : ja ja D
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=10| B | B : one volgens mij zijn dit degeen die jij net
+	Free: Pattern=zijn, Pattern=dit, Pattern=die
+	Constrained: 
+Turn ID=11| B | B : fietsmand noemen
+	Free: Pattern=fietsmand
+	Constrained: 
+Turn ID=12| B | B : met een bal erop
+	Free: Pattern=een bal, Pattern=met een, Pattern=bal erop
+	Constrained: Pattern=een, Pattern=bal, Pattern=met
+Turn ID=13| A | A : en twee van die
+	Free: Pattern=en, Pattern=die
+	Constrained: 
+Turn ID=14| B | B : ja ja dun handvat
+	Free: Pattern=ja, Pattern=handvat
+	Constrained: 
+Turn ID=15| A | A : ja precies
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=16| B | B : en een balk
+	Free: Pattern=en een balk
+	Constrained: Pattern=een balk, Pattern=een, Pattern=en, Pattern=balk
+Turn ID=17| A | A : en een balk die er zo zullen ik maar zeggen tegenaan
+	Free: Pattern=en een balk, Pattern=er, Pattern=die
+	Constrained: Pattern=een balk, Pattern=een, Pattern=en, Pattern=balk
+Turn ID=18| B | B : ja een verticaal balk
+	Free: Pattern=een, Pattern=ja, Pattern=balk
+	Constrained: 
+Turn ID=19| A | A : dat zijn vijftien
+	Free: Pattern=zijn
+	Constrained: 
+Turn ID=20| A | A : dat zijn dat fietsmand weer met die bal erop en die twee
+	Free: Pattern=met, Pattern=die, Pattern=fietsmand, Pattern=en, Pattern=zijn, Pattern=bal erop
+	Constrained: Pattern=bal
+Turn ID=21| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=22| B | B : L
+	Free: 
+	Constrained: 
+Turn ID=23| B | B : het fietsmand
+	Free: Pattern=fietsmand, Pattern=het
+	Constrained: 
+Turn ID=24| B | B : met de bal
+	Free: Pattern=bal, Pattern=met, Pattern=de
+	Constrained: 
+Turn ID=25| A | A : even kijken waar staan
+	Free: 
+	Constrained: 
+Turn ID=26| A | A : dat zijn zes
+	Free: Pattern=zijn
+	Constrained: 
+Turn ID=27| A | A : dat fietsmand weer
+	Free: Pattern=fietsmand
+	Constrained: 
+Turn ID=28| B | B : fietsmand
+	Free: Pattern=fietsmand
+	Constrained: 
+Turn ID=29| B | B : J
+	Free: 
+	Constrained: 
+Turn ID=30| B | B : met de bal erin
+	Free: Pattern=bal, Pattern=met, Pattern=de
+	Constrained: 
+Turn ID=31| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=32| B | B : het fietsmand met de bal
+	Free: Pattern=bal, Pattern=de, Pattern=het, Pattern=met, Pattern=fietsmand
+	Constrained: 
+Turn ID=33| A | A : nummer drie
+	Free: 
+	Constrained: 

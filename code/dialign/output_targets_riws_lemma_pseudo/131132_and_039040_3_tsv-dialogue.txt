@@ -1,0 +1,67 @@
+B|0| B: het _zijn_ _die_ een _die_ op een voet lijken te staan zeggen maar met _die_ twirl en _dan_ op een driehoek 
+A|1| A: leuk 
+A|2| A: _ja_ _dat_ [die] [die] [zijn] wel duidelijk 
+A|3| A: oké _ja_ precies 
+A|4| A: _dat_ [zijn] [dan] nummer vier bij mij 
+B|5| B: waar [zijn] het kreng ? [ja] vinden A 
+A|6| A: _dit zijn_ _de_ trofee 
+B|7| B: [dit zijn] op [dat] op [dat] voetstuk met [die] Twirl 
+B|8| B: L 
+B|9| B: het [zijn] [die] op [de] driehoekig voetstuk met [die] Twirl 
+A|10| A: [ja] 
+A|11| A: nummer tien 
+B|12| B: [ja] F 
+A|13| A: [de] trofee 
+A|14| A: ah [die] moeten we nog [ja] nummer vier 
+A|15| A: [de] trofee 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : het zijn die een die op een voet lijken te staan zeggen maar met die twirl en dan op een driehoek
+	Free: Pattern=dan, Pattern=die, Pattern=zijn
+	Constrained: 
+Turn ID=1| A | A : leuk
+	Free: 
+	Constrained: 
+Turn ID=2| A | A : ja dat die die zijn wel duidelijk
+	Free: Pattern=ja, Pattern=dat, Pattern=die, Pattern=zijn
+	Constrained: 
+Turn ID=3| A | A : oké ja precies
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=4| A | A : dat zijn dan nummer vier bij mij
+	Free: Pattern=dat, Pattern=dan, Pattern=zijn
+	Constrained: 
+Turn ID=5| B | B : waar zijn het kreng ? ja vinden A
+	Free: Pattern=ja, Pattern=zijn
+	Constrained: 
+Turn ID=6| A | A : dit zijn de trofee
+	Free: Pattern=dit zijn, Pattern=de
+	Constrained: Pattern=zijn
+Turn ID=7| B | B : dit zijn op dat op dat voetstuk met die Twirl
+	Free: Pattern=dit zijn, Pattern=dat, Pattern=die
+	Constrained: Pattern=zijn
+Turn ID=8| B | B : L
+	Free: 
+	Constrained: 
+Turn ID=9| B | B : het zijn die op de driehoekig voetstuk met die Twirl
+	Free: Pattern=die, Pattern=zijn, Pattern=de
+	Constrained: 
+Turn ID=10| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=11| A | A : nummer tien
+	Free: 
+	Constrained: 
+Turn ID=12| B | B : ja F
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=13| A | A : de trofee
+	Free: Pattern=de
+	Constrained: 
+Turn ID=14| A | A : ah die moeten we nog ja nummer vier
+	Free: Pattern=ja, Pattern=die
+	Constrained: 
+Turn ID=15| A | A : de trofee
+	Free: Pattern=de
+	Constrained: 

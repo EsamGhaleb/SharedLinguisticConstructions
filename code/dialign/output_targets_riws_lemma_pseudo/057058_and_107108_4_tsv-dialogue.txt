@@ -1,0 +1,95 @@
+A|0| A: oké 
+A|1| A: deze hebben zo _een_ _beetje_ zo'n afgeplatte piramide zo'n conus 
+A|2| A: met twee van _die_ uitstekend ding _een_ _beetje_ alsof _er_ _een_ vis _op_ _zijn_ zijkant liggen met twee van _die_ uitstekend vinnet zo 
+A|3| A: _ja dat_ _ja _ja_ ja_ inderdaad 
+A|4| A: oké 
+B|5| B: even kijken horen 
+B|6| B: o 
+B|7| B: [ja] [die] [ja [ja] dat] o _ik_ snapen je [ja [ja] dat] [zijn] bij mij [ja] I 
+B|8| B: ok 
+A|9| A: [ja] en [dat] conus bovenop 
+A|10| A: [ja] nummer twee 
+A|11| A: oké [ik] hebben weer [die] [dat] isteken _aan_ de zijkant met [dat] afgeplatten conus erbovenop 
+B|12| B: o dit [zijn] _het_ _het_ twitter icoon mij doen _het_ [beetje] denken [aan] [een] koffiezetapparaat maar _het_ twitter icoon [die] vinden [ik] iets veel [er] [op] lijken [ja] 
+B|13| B: ok bij mij L 
+B|14| B: o [die] [zijn] bij mij M 
+B|15| B: ok 
+A|16| A: oké [ja] nummer negen 
+A|17| A: [het] isteken met [dat] conus bovenop 
+A|18| A: isteken nummer zes 
+B|19| B: [het] twitter poppetje 
+B|20| B: even kijken waar [die] [zijn] o hier F 
+B|21| B: Twitter poppetje 
+B|22| B: ok bij mij H 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : oké
+	Free: 
+	Constrained: 
+Turn ID=1| A | A : deze hebben zo een beetje zo'n afgeplatte piramide zo'n conus
+	Free: Pattern=een, Pattern=beetje
+	Constrained: 
+Turn ID=2| A | A : met twee van die uitstekend ding een beetje alsof er een vis op zijn zijkant liggen met twee van die uitstekend vinnet zo
+	Free: Pattern=op, Pattern=beetje, Pattern=een, Pattern=die, Pattern=er, Pattern=zijn
+	Constrained: 
+Turn ID=3| A | A : ja dat ja ja ja inderdaad
+	Free: Pattern=ja dat, Pattern=ja ja
+	Constrained: Pattern=dat, Pattern=ja
+Turn ID=4| A | A : oké
+	Free: 
+	Constrained: 
+Turn ID=5| B | B : even kijken horen
+	Free: 
+	Constrained: 
+Turn ID=6| B | B : o
+	Free: 
+	Constrained: 
+Turn ID=7| B | B : ja die ja ja dat o ik snapen je ja ja dat zijn bij mij ja I
+	Free: Pattern=die, Pattern=ik, Pattern=zijn, Pattern=ja dat, Pattern=ja, Pattern=ja ja
+	Constrained: Pattern=dat, Pattern=ja
+Turn ID=8| B | B : ok
+	Free: 
+	Constrained: 
+Turn ID=9| A | A : ja en dat conus bovenop
+	Free: Pattern=dat, Pattern=ja
+	Constrained: 
+Turn ID=10| A | A : ja nummer twee
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=11| A | A : oké ik hebben weer die dat isteken aan de zijkant met dat afgeplatten conus erbovenop
+	Free: Pattern=aan, Pattern=dat, Pattern=ik, Pattern=die
+	Constrained: 
+Turn ID=12| B | B : o dit zijn het het twitter icoon mij doen het beetje denken aan een koffiezetapparaat maar het twitter icoon die vinden ik iets veel er op lijken ja
+	Free: Pattern=op, Pattern=beetje, Pattern=een, Pattern=het, Pattern=die, Pattern=er, Pattern=ik, Pattern=zijn, Pattern=aan, Pattern=ja
+	Constrained: 
+Turn ID=13| B | B : ok bij mij L
+	Free: 
+	Constrained: 
+Turn ID=14| B | B : o die zijn bij mij M
+	Free: Pattern=die, Pattern=zijn
+	Constrained: 
+Turn ID=15| B | B : ok
+	Free: 
+	Constrained: 
+Turn ID=16| A | A : oké ja nummer negen
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=17| A | A : het isteken met dat conus bovenop
+	Free: Pattern=het, Pattern=dat
+	Constrained: 
+Turn ID=18| A | A : isteken nummer zes
+	Free: 
+	Constrained: 
+Turn ID=19| B | B : het twitter poppetje
+	Free: Pattern=het
+	Constrained: 
+Turn ID=20| B | B : even kijken waar die zijn o hier F
+	Free: Pattern=die, Pattern=zijn
+	Constrained: 
+Turn ID=21| B | B : Twitter poppetje
+	Free: 
+	Constrained: 
+Turn ID=22| B | B : ok bij mij H
+	Free: 
+	Constrained: 

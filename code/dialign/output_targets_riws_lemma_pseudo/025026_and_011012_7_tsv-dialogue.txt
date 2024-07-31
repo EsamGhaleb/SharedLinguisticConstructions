@@ -1,0 +1,107 @@
+A|0| A: nn 
+A|1| A: ok 
+A|2| A: _zijn_ _die_ ok _ja_ _dat zijn_ zestien 
+B|3| B: ik _hebben_ _er_ nou één [dat] [ja] _het_ lijken eigenlijk een een _soort_ _van_ een tafel _en dan_ _hebben_ je daar dus 
+B|4| B: ook _zo'n_ één kom erdoorheen zeggen maar 
+B|5| B: of [ja] een _soort_ _van_ beker erdoorheen zeggen maar _en_ op [dat] tafel zullen ik daarover kunnen zeggen staan _dan_ ook nog een een komme zeggen maar 
+B|6| B: [ja] 
+B|7| B: [ja] 
+A|8| A: dit _zijn dat_ wat [dat] vierkant wat richting de bovenkant [van] [het] kop zitten [en dan] zitten [er] [zo'n] [soort] kuipje bovenop 
+A|9| A: [en] [hebben] _twee_ poo _zo_ naar beneden _we_ [hebben] hem al [hebben] volgens _mij_ 
+A|10| A: [ja] volgens _mij zijn het_ de kruiwag 
+B|11| B: oké [ja] [die] [soort] [van] tafel zeggen maar 
+B|12| B: oké [dat zijn] [dan] bij [mij] P 
+A|13| A: [zijn] _met dat_ _met _die_ twee_ poo naar beneden 
+A|14| A: [ja] ok [dat zijn] veertien 
+B|15| B: nou [hebben] ik weer [dat] tafel zeggen maar [met dat] komme ervoor [en dan] weer [zo] [dat] [ja] zeggen maar 
+B|16| B: [ja] [die] 
+A|17| A: [ja] dit [zijn] de kruiwag 
+A|18| A: [ja] [zijn] tien 
+A|19| A: [het] [zijn] de kruiwag 
+B|20| B: [ja] even zoeken 
+B|21| B: [ja] 
+B|22| B: bij [mij zijn het] N 
+B|23| B: [hebben] [we] weer [dat] tafel [met die] [met dat] bak erop zeggen maar [en dan] [die twee] tafelpoot zeggen maar 
+B|24| B: [ja] 
+B|25| B: bij [mij [zijn] dat] D 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : nn
+	Free: 
+	Constrained: 
+Turn ID=1| A | A : ok
+	Free: 
+	Constrained: 
+Turn ID=2| A | A : zijn die ok ja dat zijn zestien
+	Free: Pattern=dat zijn, Pattern=die, Pattern=ja, Pattern=zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=3| B | B : ik hebben er nou één dat ja het lijken eigenlijk een een soort van een tafel en dan hebben je daar dus
+	Free: Pattern=dat, Pattern=soort, Pattern=ja, Pattern=en dan, Pattern=het, Pattern=hebben, Pattern=er, Pattern=van
+	Constrained: Pattern=dan, Pattern=en
+Turn ID=4| B | B : ook zo'n één kom erdoorheen zeggen maar
+	Free: Pattern=zo'n
+	Constrained: 
+Turn ID=5| B | B : of ja een soort van beker erdoorheen zeggen maar en op dat tafel zullen ik daarover kunnen zeggen staan dan ook nog een een komme zeggen maar
+	Free: Pattern=dat, Pattern=soort, Pattern=ja, Pattern=dan, Pattern=van, Pattern=en
+	Constrained: 
+Turn ID=6| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=7| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=8| A | A : dit zijn dat wat dat vierkant wat richting de bovenkant van het kop zitten en dan zitten er zo'n soort kuipje bovenop
+	Free: Pattern=dat, Pattern=soort, Pattern=zo'n, Pattern=en dan, Pattern=het, Pattern=er, Pattern=van, Pattern=zijn dat
+	Constrained: Pattern=dat, Pattern=dan, Pattern=en, Pattern=zijn
+Turn ID=9| A | A : en hebben twee poo zo naar beneden we hebben hem al hebben volgens mij
+	Free: Pattern=twee, Pattern=hebben, Pattern=zo, Pattern=we, Pattern=mij, Pattern=en
+	Constrained: 
+Turn ID=10| A | A : ja volgens mij zijn het de kruiwag
+	Free: Pattern=mij zijn het, Pattern=ja
+	Constrained: Pattern=mij zijn, Pattern=mij, Pattern=het, Pattern=zijn
+Turn ID=11| B | B : oké ja die soort van tafel zeggen maar
+	Free: Pattern=die, Pattern=ja, Pattern=van, Pattern=soort
+	Constrained: 
+Turn ID=12| B | B : oké dat zijn dan bij mij P
+	Free: Pattern=dat zijn, Pattern=dan, Pattern=mij
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=13| A | A : zijn met dat met die twee poo naar beneden
+	Free: Pattern=die twee, Pattern=met die, Pattern=met dat, Pattern=zijn
+	Constrained: Pattern=dat, Pattern=twee, Pattern=die
+Turn ID=14| A | A : ja ok dat zijn veertien
+	Free: Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=15| B | B : nou hebben ik weer dat tafel zeggen maar met dat komme ervoor en dan weer zo dat ja zeggen maar
+	Free: Pattern=dat, Pattern=ja, Pattern=en dan, Pattern=hebben, Pattern=zo, Pattern=met dat
+	Constrained: Pattern=dat, Pattern=dan, Pattern=en
+Turn ID=16| B | B : ja die
+	Free: Pattern=die, Pattern=ja
+	Constrained: 
+Turn ID=17| A | A : ja dit zijn de kruiwag
+	Free: Pattern=ja, Pattern=zijn
+	Constrained: 
+Turn ID=18| A | A : ja zijn tien
+	Free: Pattern=ja, Pattern=zijn
+	Constrained: 
+Turn ID=19| A | A : het zijn de kruiwag
+	Free: Pattern=het, Pattern=zijn
+	Constrained: 
+Turn ID=20| B | B : ja even zoeken
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=21| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=22| B | B : bij mij zijn het N
+	Free: Pattern=mij zijn het
+	Constrained: Pattern=mij zijn, Pattern=mij, Pattern=het, Pattern=zijn
+Turn ID=23| B | B : hebben we weer dat tafel met die met dat bak erop zeggen maar en dan die twee tafelpoot zeggen maar
+	Free: Pattern=en dan, Pattern=die twee, Pattern=hebben, Pattern=met dat, Pattern=we, Pattern=dat, Pattern=met die
+	Constrained: Pattern=dat, Pattern=twee, Pattern=dan, Pattern=die, Pattern=en
+Turn ID=24| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=25| B | B : bij mij zijn dat D
+	Free: Pattern=mij zijn, Pattern=zijn dat
+	Constrained: Pattern=dat, Pattern=mij, Pattern=zijn

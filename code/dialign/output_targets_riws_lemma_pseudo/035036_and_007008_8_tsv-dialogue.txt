@@ -1,0 +1,155 @@
+A|0| A: _oké_ dit _vinden ik_ wel _met_ _de_ dansen beent _ik_ noemen _het_ _een_ Pinokkiokopje _met_ dansen been 
+A|1| A: dus _het zijn_ echt _een_ kop _met_ _een_ lang neus als _het zijn_ _en_ achter _op_ _het_ hoofd _zitten_ _ook_ nog één _of_ ander gek figuur 
+A|2| A: _maar_ _het_ _hebben_ _zeggen maar_ één been _aan de_ onderkant _en_ één _aan de zijkant_ _en _die_ vinden ik_ _het_ _lijken_ _of_ ze _aan_ _het_ dansen _zijn_ 
+A|3| A: nee 
+A|4| A: echt _een_ lang hexagonfiguur _aan de_ als neus _zeggen maar_ _of_ _aan de_ voorkant 
+A|5| A: _en_ dan één _zeggen maar_ been _aan de_ onderkant 
+A|6| A: _en_ één _zo'n_ zelfde been _aan de_ rechterkant 
+A|7| A: volgens mij _zijn_ _er_ _zijn_ _er_ daar _maar_ één van 
+A|8| A: _en_ dan bovenop _zijn_ _zijn_ _het_ zegn _maar_ twee dun 
+A|9| A: _vierkant_ naast naast elkaar _met _aan_ de_ beide _kant_ _zo'n_ uitsteeksel 
+B|10| B: even kijken 
+B|11| B: [zijn] _dat_ [met] [zitten] [er] [ook] [zo'n] [vierkant] plaat [aan de zijkant] [of] niet 
+B|12| B: [die vinden ik] _een beetje_ [op] [een] satelliet [lijken] 
+B|13| B: [die] 
+B|14| B: ja ja 
+B|15| B: [zitten] bovenin [een] ruit [met aan] allebei [de] [kant] [een] dinge ? ja 
+B|16| B: [en] [en] bovenin [zeggen maar] veel in [zo'n] [zo'n] Jvorm [zo'n] sik [of] niet 
+B|17| B: ja 
+B|18| B: ja ja ja 
+B|19| B: ja 
+B|20| B: [oké] 
+B|21| B: M 
+A|22| A: [die] dansen pinokkio 
+A|23| A: [oké] [dat] [zijn] nummer negen 
+B|24| B: nu [hebben] [ik] weer [die] [die] [met] [die] blauw [of] [met] [die] [met] [die] sik onderaan 
+B|25| B: ja 
+B|26| B: ja 
+A|27| A: dit [zijn] dansen pinokkio [maar] [zijn] been [zijn] [een beetje] afgehken 
+A|28| A: [maar] [die] 
+A|29| A: [oké] [dat] [zijn] elf 
+B|30| B: ja 
+B|31| B: H 
+A|32| A: dit [zijn] dansen pinokkio 
+A|33| A: [dat] [zijn] veertien 
+B|34| B: [die] [met] [die] satelliet boven [en die] sik daaronder 
+B|35| B: ja 
+B|36| B: D 
+B|37| B: [het zijn] [die] satelliet [en die] sik 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : oké dit vinden ik wel met de dansen beent ik noemen het een Pinokkiokopje met dansen been
+	Free: Pattern=de, Pattern=het, Pattern=met, Pattern=oké, Pattern=ik, Pattern=een, Pattern=vinden ik
+	Constrained: Pattern=ik
+Turn ID=1| A | A : dus het zijn echt een kop met een lang neus als het zijn en achter op het hoofd zitten ook nog één of ander gek figuur
+	Free: Pattern=of, Pattern=een, Pattern=het, Pattern=met, Pattern=en, Pattern=op, Pattern=ook, Pattern=het zijn, Pattern=zitten
+	Constrained: Pattern=zijn, Pattern=het
+Turn ID=2| A | A : maar het hebben zeggen maar één been aan de onderkant en één aan de zijkant en die vinden ik het lijken of ze aan het dansen zijn
+	Free: Pattern=en die, Pattern=of, Pattern=aan, Pattern=aan de, Pattern=lijken, Pattern=die vinden ik, Pattern=aan de zijkant, Pattern=zeggen maar, Pattern=het, Pattern=hebben, Pattern=en, Pattern=zijn, Pattern=maar
+	Constrained: Pattern=aan de, Pattern=vinden ik, Pattern=die, Pattern=ik, Pattern=en, Pattern=maar, Pattern=de, Pattern=aan
+Turn ID=3| A | A : nee
+	Free: 
+	Constrained: 
+Turn ID=4| A | A : echt een lang hexagonfiguur aan de als neus zeggen maar of aan de voorkant
+	Free: Pattern=aan de, Pattern=zeggen maar, Pattern=een, Pattern=of
+	Constrained: Pattern=de, Pattern=maar, Pattern=aan
+Turn ID=5| A | A : en dan één zeggen maar been aan de onderkant
+	Free: Pattern=aan de, Pattern=zeggen maar, Pattern=en
+	Constrained: Pattern=de, Pattern=maar, Pattern=aan
+Turn ID=6| A | A : en één zo'n zelfde been aan de rechterkant
+	Free: Pattern=aan de, Pattern=zo'n, Pattern=en
+	Constrained: Pattern=de, Pattern=aan
+Turn ID=7| A | A : volgens mij zijn er zijn er daar maar één van
+	Free: Pattern=er, Pattern=zijn, Pattern=maar
+	Constrained: 
+Turn ID=8| A | A : en dan bovenop zijn zijn het zegn maar twee dun
+	Free: Pattern=en, Pattern=zijn, Pattern=maar, Pattern=het
+	Constrained: 
+Turn ID=9| A | A : vierkant naast naast elkaar met aan de beide kant zo'n uitsteeksel
+	Free: Pattern=kant, Pattern=met aan, Pattern=zo'n, Pattern=aan de, Pattern=vierkant
+	Constrained: Pattern=de, Pattern=aan, Pattern=met
+Turn ID=10| B | B : even kijken
+	Free: 
+	Constrained: 
+Turn ID=11| B | B : zijn dat met zitten er ook zo'n vierkant plaat aan de zijkant of niet
+	Free: Pattern=dat, Pattern=of, Pattern=zo'n, Pattern=ook, Pattern=aan de zijkant, Pattern=met, Pattern=zitten, Pattern=er, Pattern=zijn, Pattern=vierkant
+	Constrained: Pattern=aan, Pattern=de, Pattern=aan de
+Turn ID=12| B | B : die vinden ik een beetje op een satelliet lijken
+	Free: Pattern=op, Pattern=lijken, Pattern=die vinden ik, Pattern=een, Pattern=een beetje
+	Constrained: Pattern=vinden ik, Pattern=een, Pattern=die, Pattern=ik
+Turn ID=13| B | B : die
+	Free: Pattern=die
+	Constrained: 
+Turn ID=14| B | B : ja ja
+	Free: 
+	Constrained: 
+Turn ID=15| B | B : zitten bovenin een ruit met aan allebei de kant een dinge ? ja
+	Free: Pattern=kant, Pattern=met aan, Pattern=de, Pattern=een, Pattern=zitten
+	Constrained: Pattern=aan, Pattern=met
+Turn ID=16| B | B : en en bovenin zeggen maar veel in zo'n zo'n Jvorm zo'n sik of niet
+	Free: Pattern=zeggen maar, Pattern=zo'n, Pattern=en, Pattern=of
+	Constrained: Pattern=maar
+Turn ID=17| B | B : ja
+	Free: 
+	Constrained: 
+Turn ID=18| B | B : ja ja ja
+	Free: 
+	Constrained: 
+Turn ID=19| B | B : ja
+	Free: 
+	Constrained: 
+Turn ID=20| B | B : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=21| B | B : M
+	Free: 
+	Constrained: 
+Turn ID=22| A | A : die dansen pinokkio
+	Free: Pattern=die
+	Constrained: 
+Turn ID=23| A | A : oké dat zijn nummer negen
+	Free: Pattern=dat, Pattern=oké, Pattern=zijn
+	Constrained: 
+Turn ID=24| B | B : nu hebben ik weer die die met die blauw of met die met die sik onderaan
+	Free: Pattern=of, Pattern=hebben, Pattern=met, Pattern=die, Pattern=ik
+	Constrained: 
+Turn ID=25| B | B : ja
+	Free: 
+	Constrained: 
+Turn ID=26| B | B : ja
+	Free: 
+	Constrained: 
+Turn ID=27| A | A : dit zijn dansen pinokkio maar zijn been zijn een beetje afgehken
+	Free: Pattern=een beetje, Pattern=zijn, Pattern=maar
+	Constrained: Pattern=een
+Turn ID=28| A | A : maar die
+	Free: Pattern=die, Pattern=maar
+	Constrained: 
+Turn ID=29| A | A : oké dat zijn elf
+	Free: Pattern=dat, Pattern=oké, Pattern=zijn
+	Constrained: 
+Turn ID=30| B | B : ja
+	Free: 
+	Constrained: 
+Turn ID=31| B | B : H
+	Free: 
+	Constrained: 
+Turn ID=32| A | A : dit zijn dansen pinokkio
+	Free: Pattern=zijn
+	Constrained: 
+Turn ID=33| A | A : dat zijn veertien
+	Free: Pattern=dat, Pattern=zijn
+	Constrained: 
+Turn ID=34| B | B : die met die satelliet boven en die sik daaronder
+	Free: Pattern=en die, Pattern=die, Pattern=met
+	Constrained: Pattern=en, Pattern=die
+Turn ID=35| B | B : ja
+	Free: 
+	Constrained: 
+Turn ID=36| B | B : D
+	Free: 
+	Constrained: 
+Turn ID=37| B | B : het zijn die satelliet en die sik
+	Free: Pattern=het zijn, Pattern=en die, Pattern=die
+	Constrained: Pattern=en, Pattern=zijn, Pattern=die, Pattern=het

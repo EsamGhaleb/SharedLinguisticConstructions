@@ -1,0 +1,159 @@
+B|0| B: _die_ snapen _ik_ niet helemaal 
+A|1| A: oké deze _hebben_ allemaal _ja_ raar uitsteeksel 
+B|2| B: o 
+A|3| A: _met_ _een_ _beetje_ _een_ ovaal uitsteeksel zoals jij _zeggen_ _van_ [die] mok dus _de_ bovenaan _de_ mok 
+B|4| B: o het _zijn_ het zien zien het eruit als [een] theekop 
+A|5| A: _en_ [een] ovaal uitsteeksel linksvoor 
+B|6| B: [ja] 
+A|7| A: _en_ _dan_ _hebben_ [die] [een] _soort van_ blok [die] _dan_ _steeds_ _groot_ _worden aan de_ rechterkant _en_ [een] _soort van_ slurf Linksachter 
+B|8| B: [ja] [dan] _zijn_ het E 
+A|9| A: _hij hebben_ _in_ totaal vier uitsteeksel 
+A|10| A: nee 
+A|11| A: nee 
+A|12| A: [ja] 
+A|13| A: [ja] [ja] 
+A|14| A: [ja] [die] 
+B|15| B: [ja] _dit zijn_ _dat_ theekanne [zeggen] _maar_ [met] het lepeltje eruit _en die_ vierkant [die] [steeds] klein [worden] 
+B|16| B: [ja] er zitten [zeggen] _maar_ zo'n tui [aan de] [een] kant zo'n lepel achtig ding [in] [en] er zitten nog iets [aan de] voorkant 
+B|17| B: ze gaan [zeggen] _maar_ naar het object toe 
+B|18| B: [ja] 
+B|19| B: [ja] er zitten nog één ding erboven [in] [en] één ding [aan de] voorkant op [en] zitten nog één [zeggen] _maar_ [soort van] tuitje [aan de] achterkant 
+A|20| A: ah 
+A|21| A: oké [ja] _ik weten_ welk je bedoelen _maar ik_ moeten hem even zoeken 
+A|22| A: ah [ja] 
+A|23| A: oké 
+A|24| A: _dat zijn_ nummer elf 
+B|25| B: [zeggen] [maar] [die] theepot [die] [beetje] zo lopen [met] [dat] tui 
+B|26| B: ok [dan] [zijn] het J 
+B|27| B: [ja] _dit zijn_ [die] theekan _met die_ vierkant [die] klein [worden aan de] zijkant 
+B|28| B: één lepel bovenin 
+B|29| B: bij mij _staan_ [hij] rechtsonder [maar [ik] weten] niet 
+B|30| B: [ja] [maar] [dan] [zijn] het er [maar] één [en] [hij hebben] [zeggen] [maar] zo'n [groot] [ja] rond ding [aan de] bovenkant [en] [aan de] voorkant ook nog één 
+A|31| A: _dat zijn_ [met die] vier uitsteeksel [dat] slurfje [en die] legoblokjes 
+B|32| B: [ja] [dat zijn] B 
+A|33| A: [ja] even kijken waar [die] [staan] 
+A|34| A: ah [dat zijn] nummer negen 
+B|35| B: _dit zijn_ het theeko [met die] vierkant [die] klein [worden] 
+A|36| A: [dit zijn] [met] al [die] uitsteeksel dus [met die] legoblok [en die] slurf 
+A|37| A: even kijken waar [die] [staan] 
+A|38| A: ah nummer vier 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : die snapen ik niet helemaal
+	Free: Pattern=ik, Pattern=die
+	Constrained: 
+Turn ID=1| A | A : oké deze hebben allemaal ja raar uitsteeksel
+	Free: Pattern=ja, Pattern=hebben
+	Constrained: 
+Turn ID=2| B | B : o
+	Free: 
+	Constrained: 
+Turn ID=3| A | A : met een beetje een ovaal uitsteeksel zoals jij zeggen van die mok dus de bovenaan de mok
+	Free: Pattern=de, Pattern=beetje, Pattern=een, Pattern=zeggen, Pattern=met, Pattern=die, Pattern=van
+	Constrained: 
+Turn ID=4| B | B : o het zijn het zien zien het eruit als een theekop
+	Free: Pattern=zijn, Pattern=een
+	Constrained: 
+Turn ID=5| A | A : en een ovaal uitsteeksel linksvoor
+	Free: Pattern=en, Pattern=een
+	Constrained: 
+Turn ID=6| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=7| A | A : en dan hebben die een soort van blok die dan steeds groot worden aan de rechterkant en een soort van slurf Linksachter
+	Free: Pattern=worden aan de, Pattern=dan, Pattern=een, Pattern=die, Pattern=en, Pattern=soort van, Pattern=hebben, Pattern=groot, Pattern=steeds
+	Constrained: Pattern=aan de, Pattern=worden, Pattern=van, Pattern=de
+Turn ID=8| B | B : ja dan zijn het E
+	Free: Pattern=dan, Pattern=zijn, Pattern=ja
+	Constrained: 
+Turn ID=9| A | A : hij hebben in totaal vier uitsteeksel
+	Free: Pattern=hij hebben, Pattern=in
+	Constrained: Pattern=hij, Pattern=hebben
+Turn ID=10| A | A : nee
+	Free: 
+	Constrained: 
+Turn ID=11| A | A : nee
+	Free: 
+	Constrained: 
+Turn ID=12| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=13| A | A : ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=14| A | A : ja die
+	Free: Pattern=die, Pattern=ja
+	Constrained: 
+Turn ID=15| B | B : ja dit zijn dat theekanne zeggen maar met het lepeltje eruit en die vierkant die steeds klein worden
+	Free: Pattern=en die, Pattern=dat, Pattern=ja, Pattern=worden, Pattern=steeds, Pattern=zeggen, Pattern=met, Pattern=die, Pattern=maar, Pattern=dit zijn
+	Constrained: Pattern=en, Pattern=zijn, Pattern=die
+Turn ID=16| B | B : ja er zitten zeggen maar zo'n tui aan de een kant zo'n lepel achtig ding in en er zitten nog iets aan de voorkant
+	Free: Pattern=ja, Pattern=aan de, Pattern=een, Pattern=zeggen, Pattern=in, Pattern=en, Pattern=maar
+	Constrained: Pattern=de
+Turn ID=17| B | B : ze gaan zeggen maar naar het object toe
+	Free: Pattern=maar, Pattern=zeggen
+	Constrained: 
+Turn ID=18| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=19| B | B : ja er zitten nog één ding erboven in en één ding aan de voorkant op en zitten nog één zeggen maar soort van tuitje aan de achterkant
+	Free: Pattern=ja, Pattern=aan de, Pattern=zeggen, Pattern=in, Pattern=en, Pattern=soort van, Pattern=maar
+	Constrained: Pattern=van, Pattern=de
+Turn ID=20| A | A : ah
+	Free: 
+	Constrained: 
+Turn ID=21| A | A : oké ja ik weten welk je bedoelen maar ik moeten hem even zoeken
+	Free: Pattern=ik weten, Pattern=maar ik, Pattern=ja
+	Constrained: Pattern=ik, Pattern=maar
+Turn ID=22| A | A : ah ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=23| A | A : oké
+	Free: 
+	Constrained: 
+Turn ID=24| A | A : dat zijn nummer elf
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=25| B | B : zeggen maar die theepot die beetje zo lopen met dat tui
+	Free: Pattern=dat, Pattern=beetje, Pattern=zeggen, Pattern=met, Pattern=die, Pattern=maar
+	Constrained: 
+Turn ID=26| B | B : ok dan zijn het J
+	Free: Pattern=dan, Pattern=zijn
+	Constrained: 
+Turn ID=27| B | B : ja dit zijn die theekan met die vierkant die klein worden aan de zijkant
+	Free: Pattern=met die, Pattern=ja, Pattern=worden aan de, Pattern=die, Pattern=dit zijn
+	Constrained: Pattern=de, Pattern=met, Pattern=die, Pattern=zijn, Pattern=aan de, Pattern=worden
+Turn ID=28| B | B : één lepel bovenin
+	Free: 
+	Constrained: 
+Turn ID=29| B | B : bij mij staan hij rechtsonder maar ik weten niet
+	Free: Pattern=ik weten, Pattern=maar ik, Pattern=hij, Pattern=staan
+	Constrained: Pattern=ik, Pattern=maar
+Turn ID=30| B | B : ja maar dan zijn het er maar één en hij hebben zeggen maar zo'n groot ja rond ding aan de bovenkant en aan de voorkant ook nog één
+	Free: Pattern=ja, Pattern=aan de, Pattern=dan, Pattern=groot, Pattern=zeggen, Pattern=hij hebben, Pattern=en, Pattern=zijn, Pattern=maar
+	Constrained: Pattern=hij, Pattern=de, Pattern=hebben
+Turn ID=31| A | A : dat zijn met die vier uitsteeksel dat slurfje en die legoblokjes
+	Free: Pattern=dat zijn, Pattern=en die, Pattern=met die, Pattern=dat
+	Constrained: Pattern=dat, Pattern=met, Pattern=die, Pattern=en, Pattern=zijn
+Turn ID=32| B | B : ja dat zijn B
+	Free: Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=33| A | A : ja even kijken waar die staan
+	Free: Pattern=die, Pattern=ja, Pattern=staan
+	Constrained: 
+Turn ID=34| A | A : ah dat zijn nummer negen
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=35| B | B : dit zijn het theeko met die vierkant die klein worden
+	Free: Pattern=dit zijn, Pattern=met die, Pattern=worden, Pattern=die
+	Constrained: Pattern=zijn, Pattern=met, Pattern=die
+Turn ID=36| A | A : dit zijn met al die uitsteeksel dus met die legoblok en die slurf
+	Free: Pattern=en die, Pattern=met die, Pattern=met, Pattern=die, Pattern=dit zijn
+	Constrained: Pattern=en, Pattern=zijn, Pattern=met, Pattern=die
+Turn ID=37| A | A : even kijken waar die staan
+	Free: Pattern=die, Pattern=staan
+	Constrained: 
+Turn ID=38| A | A : ah nummer vier
+	Free: 
+	Constrained: 

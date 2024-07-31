@@ -1,0 +1,155 @@
+A|0| A: _oké_ nu _hebben_ _ik_ er één 
+A|1| A: _dit zijn_ _een_ bak met _een_ _soort_ propeller _aan de_ voorkant _en_ _hij_ wijken veel uit naar _rechts_ _en_ _de rechterkant_ _zijn_ _een_ _een_ _stok_ eigenlijk _van_ _de_ uit _de_ propeller _die_ _een rond_ eraan vast , bij _de rechterkant_ _zitten_ _hij_ 
+A|2| A: _hij_ _zitten_ _op_ _de_ voorkant _zijn_ _een_ _een_ bobbel _de_ voorkant _van_ _de_ bak _zijn_ _een_ bobbel _die_ doorboord _zijn_ met _een_ _staaf_ 
+A|3| A: _en dan_ wijken _hij_ uit naar _rechts_ 
+A|4| A: _het_ _zijn_ eigenlijk _het_ _zijn_ _een_ , je mogen _ook_ met _de_ hand communiceren , _het_ _zijn_ _een_ _de_ bak met _een_ bol _aan de_ voorkant 
+A|5| A: _en_ _daar_ _zitten_ _een_ _staaf_ doorheen 
+A|6| A: _aan de rechterkant_ _zitten_ nog _een rond_ 
+A|7| A: _oké_ 
+B|8| B: waar [zitten] [die] uitein [op] 
+B|9| B: [oké] [ik] denken _dat_ [ik] misschien weten 
+B|10| B: [hebben] [hij] bovenop [ook] iets 
+B|11| B: [oké] [een] beetje [aan de] linkerkant [van] [het] midden 
+B|12| B: _ja_ [en] daarvoor [hebben] [hij] zegmaar [een] bal 
+B|13| B: _ja_ [en dan] links [een] stuk [staaf] 
+B|14| B: [rechts] [een] stuk [staaf] 
+B|15| B: [en] [een rond] [aan de rechterkant] 
+B|16| B: _ja_ [oké] 
+B|17| B: _ja_ _dat zijn_ P 
+A|18| A: [oké] 
+A|19| A: [ja] 
+A|20| A: [dat zijn] nummer zeven 
+B|21| B: deze [hebben] [een] balle rechtsvoor 
+B|22| B: [en] links [en] [rechts] [zitten] [daar] [een] staafje [aan] 
+B|23| B: [en] [aan de rechterkant] [een] cirkel 
+B|24| B: [en] bovenop [hebben] [hij] [een] [ja] [soort] [stok] appel iets 
+B|25| B: [ja] 
+B|26| B: [ja] 
+B|27| B: [ja] [ja] 
+A|28| A: nu [zijn] [het] wel degeen met _de zuignap_ 
+A|29| A: nummer tien 
+B|30| B: [ja] 
+B|31| B: [dat zijn] H 
+B|32| B: [dit zijn] [die] [zuignap] 
+A|33| A: [het] ei met [de] pilaar met [de] balk er doorheen , met _de zuignap_ 
+B|34| B: [ja] [ik] zoeken hem 
+B|35| B: [ja] [dat zijn] C 
+A|36| A: [ja] zeven 
+B|37| B: [dit zijn] [de zuignap] 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : oké nu hebben ik er één
+	Free: Pattern=ik, Pattern=hebben, Pattern=oké
+	Constrained: 
+Turn ID=1| A | A : dit zijn een bak met een soort propeller aan de voorkant en hij wijken veel uit naar rechts en de rechterkant zijn een een stok eigenlijk van de uit de propeller die een rond eraan vast , bij de rechterkant zitten hij
+	Free: Pattern=soort, Pattern=de rechterkant, Pattern=aan de, Pattern=een, Pattern=hij, Pattern=stok, Pattern=een rond, Pattern=zijn, Pattern=dit zijn, Pattern=de, Pattern=rechts, Pattern=die, Pattern=zitten, Pattern=van, Pattern=en
+	Constrained: Pattern=aan, Pattern=een, Pattern=de, Pattern=zijn
+Turn ID=2| A | A : hij zitten op de voorkant zijn een een bobbel de voorkant van de bak zijn een bobbel die doorboord zijn met een staaf
+	Free: Pattern=de, Pattern=staaf, Pattern=op, Pattern=een, Pattern=hij, Pattern=van, Pattern=zijn, Pattern=die, Pattern=zitten
+	Constrained: 
+Turn ID=3| A | A : en dan wijken hij uit naar rechts
+	Free: Pattern=en dan, Pattern=hij, Pattern=rechts
+	Constrained: Pattern=en
+Turn ID=4| A | A : het zijn eigenlijk het zijn een , je mogen ook met de hand communiceren , het zijn een de bak met een bol aan de voorkant
+	Free: Pattern=de, Pattern=een, Pattern=het, Pattern=zijn, Pattern=aan de, Pattern=ook
+	Constrained: Pattern=aan, Pattern=de
+Turn ID=5| A | A : en daar zitten een staaf doorheen
+	Free: Pattern=staaf, Pattern=een, Pattern=zitten, Pattern=en, Pattern=daar
+	Constrained: 
+Turn ID=6| A | A : aan de rechterkant zitten nog een rond
+	Free: Pattern=aan de rechterkant, Pattern=een rond, Pattern=zitten
+	Constrained: Pattern=de rechterkant, Pattern=aan de, Pattern=een, Pattern=de, Pattern=aan
+Turn ID=7| A | A : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=8| B | B : waar zitten die uitein op
+	Free: Pattern=die, Pattern=zitten, Pattern=op
+	Constrained: 
+Turn ID=9| B | B : oké ik denken dat ik misschien weten
+	Free: Pattern=ik, Pattern=dat, Pattern=oké
+	Constrained: 
+Turn ID=10| B | B : hebben hij bovenop ook iets
+	Free: Pattern=hebben, Pattern=ook, Pattern=hij
+	Constrained: 
+Turn ID=11| B | B : oké een beetje aan de linkerkant van het midden
+	Free: Pattern=aan de, Pattern=een, Pattern=het, Pattern=oké, Pattern=van
+	Constrained: Pattern=aan, Pattern=de
+Turn ID=12| B | B : ja en daarvoor hebben hij zegmaar een bal
+	Free: Pattern=ja, Pattern=een, Pattern=hebben, Pattern=hij, Pattern=en
+	Constrained: 
+Turn ID=13| B | B : ja en dan links een stuk staaf
+	Free: Pattern=en dan, Pattern=staaf, Pattern=ja, Pattern=een
+	Constrained: Pattern=en
+Turn ID=14| B | B : rechts een stuk staaf
+	Free: Pattern=staaf, Pattern=een, Pattern=rechts
+	Constrained: 
+Turn ID=15| B | B : en een rond aan de rechterkant
+	Free: Pattern=aan de rechterkant, Pattern=een rond, Pattern=en
+	Constrained: Pattern=de rechterkant, Pattern=aan de, Pattern=een, Pattern=de, Pattern=aan
+Turn ID=16| B | B : ja oké
+	Free: Pattern=oké, Pattern=ja
+	Constrained: 
+Turn ID=17| B | B : ja dat zijn P
+	Free: Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=18| A | A : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=19| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=20| A | A : dat zijn nummer zeven
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=21| B | B : deze hebben een balle rechtsvoor
+	Free: Pattern=hebben, Pattern=een
+	Constrained: 
+Turn ID=22| B | B : en links en rechts zitten daar een staafje aan
+	Free: Pattern=een, Pattern=zitten, Pattern=en, Pattern=daar, Pattern=rechts, Pattern=aan
+	Constrained: 
+Turn ID=23| B | B : en aan de rechterkant een cirkel
+	Free: Pattern=aan de rechterkant, Pattern=en, Pattern=een
+	Constrained: Pattern=aan, Pattern=de rechterkant, Pattern=de, Pattern=aan de
+Turn ID=24| B | B : en bovenop hebben hij een ja soort stok appel iets
+	Free: Pattern=soort, Pattern=ja, Pattern=een, Pattern=hebben, Pattern=hij, Pattern=stok, Pattern=en
+	Constrained: 
+Turn ID=25| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=26| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=27| B | B : ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=28| A | A : nu zijn het wel degeen met de zuignap
+	Free: Pattern=de zuignap, Pattern=zijn, Pattern=het
+	Constrained: Pattern=de, Pattern=zuignap
+Turn ID=29| A | A : nummer tien
+	Free: 
+	Constrained: 
+Turn ID=30| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=31| B | B : dat zijn H
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=32| B | B : dit zijn die zuignap
+	Free: Pattern=dit zijn, Pattern=die, Pattern=zuignap
+	Constrained: Pattern=zijn
+Turn ID=33| A | A : het ei met de pilaar met de balk er doorheen , met de zuignap
+	Free: Pattern=de zuignap, Pattern=de, Pattern=het
+	Constrained: Pattern=de, Pattern=zuignap
+Turn ID=34| B | B : ja ik zoeken hem
+	Free: Pattern=ik, Pattern=ja
+	Constrained: 
+Turn ID=35| B | B : ja dat zijn C
+	Free: Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=36| A | A : ja zeven
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=37| B | B : dit zijn de zuignap
+	Free: Pattern=dit zijn, Pattern=de zuignap
+	Constrained: Pattern=zijn, Pattern=de, Pattern=zuignap

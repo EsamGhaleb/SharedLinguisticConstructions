@@ -1,0 +1,103 @@
+B|0| B: _oké_ deze het _rond_ dinge staan op een soort plateau helemaal laag 
+B|1| B: _en_ links _en_ rechts _zijn_ allemaal een soort van _kraalt_ ernaast 
+A|2| A: _ja_ 
+B|3| B: _oké_ 
+A|4| A: [oké] 
+A|5| A: _ja ik_ weten welk 
+A|6| A: nummer vijf 
+A|7| A: _dit _zijn_ dat_ ding _met die_ twee ding _aan_ _de_ zijkant _met die_ _kraal_ 
+B|8| B: [ja ik] hebben hem 
+A|9| A: [en] _dat_ [rond] ding voorop 
+B|10| B: [dat] [zijn] J 
+B|11| B: [dit zijn] [met die] hoe noemen je het ook alweer 
+B|12| B: parelt of zo [en] [aan] beide kant drie 
+A|13| A: [die] [kraalt] [ja] 
+B|14| B: hij staan op zo'n platform 
+B|15| B: een [kraal] [zijn dat] [ja] 
+A|16| A: [ja] 
+A|17| A: nummer elf 
+A|18| A: [dit [zijn] dat] ding [met die] twee ding [aan] _de_ zijkant [met die] [kraal] 
+B|19| B: [dat] [zijn] P 
+B|20| B: [die] hoe heten [dat] nou ? [kraalt] [aan] allebei [de] kant 
+A|21| A: [ja] 
+A|22| A: nummer negen 
+A|23| A: [dat] poppe [met die] twee kralendinge 
+B|24| B: [ja] L 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : oké deze het rond dinge staan op een soort plateau helemaal laag
+	Free: Pattern=rond, Pattern=oké
+	Constrained: 
+Turn ID=1| B | B : en links en rechts zijn allemaal een soort van kraalt ernaast
+	Free: Pattern=en, Pattern=kraalt, Pattern=zijn
+	Constrained: 
+Turn ID=2| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=3| B | B : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=4| A | A : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=5| A | A : ja ik weten welk
+	Free: Pattern=ja ik
+	Constrained: Pattern=ja
+Turn ID=6| A | A : nummer vijf
+	Free: 
+	Constrained: 
+Turn ID=7| A | A : dit zijn dat ding met die twee ding aan de zijkant met die kraal
+	Free: Pattern=met die, Pattern=kraal, Pattern=de, Pattern=aan, Pattern=dit zijn, Pattern=zijn dat
+	Constrained: Pattern=dat, Pattern=die, Pattern=zijn
+Turn ID=8| B | B : ja ik hebben hem
+	Free: Pattern=ja ik
+	Constrained: Pattern=ja
+Turn ID=9| A | A : en dat rond ding voorop
+	Free: Pattern=en, Pattern=dat, Pattern=rond
+	Constrained: 
+Turn ID=10| B | B : dat zijn J
+	Free: Pattern=dat, Pattern=zijn
+	Constrained: 
+Turn ID=11| B | B : dit zijn met die hoe noemen je het ook alweer
+	Free: Pattern=dit zijn, Pattern=met die
+	Constrained: Pattern=die, Pattern=zijn
+Turn ID=12| B | B : parelt of zo en aan beide kant drie
+	Free: Pattern=en, Pattern=aan
+	Constrained: 
+Turn ID=13| A | A : die kraalt ja
+	Free: Pattern=ja, Pattern=die, Pattern=kraalt
+	Constrained: 
+Turn ID=14| B | B : hij staan op zo'n platform
+	Free: 
+	Constrained: 
+Turn ID=15| B | B : een kraal zijn dat ja
+	Free: Pattern=zijn dat, Pattern=ja, Pattern=kraal
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=16| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=17| A | A : nummer elf
+	Free: 
+	Constrained: 
+Turn ID=18| A | A : dit zijn dat ding met die twee ding aan de zijkant met die kraal
+	Free: Pattern=met die, Pattern=kraal, Pattern=de, Pattern=aan, Pattern=dit zijn, Pattern=zijn dat
+	Constrained: Pattern=dat, Pattern=die, Pattern=zijn
+Turn ID=19| B | B : dat zijn P
+	Free: Pattern=dat, Pattern=zijn
+	Constrained: 
+Turn ID=20| B | B : die hoe heten dat nou ? kraalt aan allebei de kant
+	Free: Pattern=dat, Pattern=die, Pattern=kraalt, Pattern=de, Pattern=aan
+	Constrained: 
+Turn ID=21| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=22| A | A : nummer negen
+	Free: 
+	Constrained: 
+Turn ID=23| A | A : dat poppe met die twee kralendinge
+	Free: Pattern=met die, Pattern=dat
+	Constrained: Pattern=die
+Turn ID=24| B | B : ja L
+	Free: Pattern=ja
+	Constrained: 

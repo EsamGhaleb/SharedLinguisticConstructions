@@ -1,0 +1,119 @@
+B|0| B: _zijn_ lang _dan_ _de_ ander 
+B|1| B: K 
+A|2| A: oké 
+A|3| A: deze hebben _aan_ beide kant _een soort_ stomp alsof _die_ [zijn] arm uitstrekken of _zo_ 
+A|4| A: _en_ _aan de_ achterkant _zitten_ nog _een_ beetje _een_ _niet_ helemaal identificeerbaar figuur _een soort_ vierkant _met_ nog iets _eraan_ 
+A|5| A: _ja_ linksachter hebben _die_ iets _zitten_ 
+A|6| A: _en_ [dan] staan _die een_ beetje _zo_ 
+A|7| A: _ja_ _ja_ 
+B|8| B: [ja] _ik_ weten [niet] veel hoe jij _het_ net beschrijven _ik_ vinden _het_ [een soort] van springplank [die] erachter [zitten] 
+B|9| B: [met] _twee_ van [die] _ding_ [die] eruit steken [met] bollet [aan de] zijkant 
+A|10| A: [ja] 
+A|11| A: [ja] 
+A|12| A: _dat_ [zijn] nummer negen 
+B|13| B: [ja] 
+B|14| B: F 
+B|15| B: _dit zijn_ _weer met_ [dat] [soort] van springplank [en] [die] _ding_ _met die_ bollet [aan de] zijkant 
+B|16| B: [soort] van potlood [dat] erdoorheen steken [met] _twee_ bollet [aan de] _uitein_ 
+A|17| A: nu hebben [ik] [weer _met] die twee_ knobbel [met die] rond [ding] [aan] [het] [uitein] daarvan 
+A|18| A: [ja] [die] stomp 
+B|19| B: [ja] 
+B|20| B: L 
+A|21| A: [dat] [zijn] nummer drie 
+B|22| B: _dit zijn_ [weer] [dat] [dat] klepje [met die twee] potlod [met] bollet [eraan] [die] er [zo] uit steken 
+B|23| B: weten je welk [ik] bedoelen 
+B|24| B: [ja] [dat] [die een] [zijn] lang [dan] [de] ander 
+B|25| B: er steken [twee] [ding] uit [aan de] onderkant 
+A|26| A: [ik] hebben [met die] armp [met die] knobbel [eraan] 
+A|27| A: [ja] [dit zijn] [de] laat 
+A|28| A: nummer vijf 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : zijn lang dan de ander
+	Free: Pattern=dan, Pattern=zijn, Pattern=de
+	Constrained: 
+Turn ID=1| B | B : K
+	Free: 
+	Constrained: 
+Turn ID=2| A | A : oké
+	Free: 
+	Constrained: 
+Turn ID=3| A | A : deze hebben aan beide kant een soort stomp alsof die zijn arm uitstrekken of zo
+	Free: Pattern=aan, Pattern=zo, Pattern=die, Pattern=een soort, Pattern=zijn
+	Constrained: Pattern=soort, Pattern=een
+Turn ID=4| A | A : en aan de achterkant zitten nog een beetje een niet helemaal identificeerbaar figuur een soort vierkant met nog iets eraan
+	Free: Pattern=aan de, Pattern=niet, Pattern=een, Pattern=eraan, Pattern=met, Pattern=zitten, Pattern=een soort, Pattern=en
+	Constrained: Pattern=soort, Pattern=aan, Pattern=de, Pattern=een
+Turn ID=5| A | A : ja linksachter hebben die iets zitten
+	Free: Pattern=die, Pattern=ja, Pattern=zitten
+	Constrained: 
+Turn ID=6| A | A : en dan staan die een beetje zo
+	Free: Pattern=die een, Pattern=en, Pattern=dan, Pattern=zo
+	Constrained: Pattern=die, Pattern=een
+Turn ID=7| A | A : ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=8| B | B : ja ik weten niet veel hoe jij het net beschrijven ik vinden het een soort van springplank die erachter zitten
+	Free: Pattern=ja, Pattern=niet, Pattern=het, Pattern=die, Pattern=zitten, Pattern=ik, Pattern=een soort
+	Constrained: Pattern=soort, Pattern=een
+Turn ID=9| B | B : met twee van die ding die eruit steken met bollet aan de zijkant
+	Free: Pattern=twee, Pattern=aan de, Pattern=ding, Pattern=met, Pattern=die
+	Constrained: Pattern=aan, Pattern=de
+Turn ID=10| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=11| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=12| A | A : dat zijn nummer negen
+	Free: Pattern=dat, Pattern=zijn
+	Constrained: 
+Turn ID=13| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=14| B | B : F
+	Free: 
+	Constrained: 
+Turn ID=15| B | B : dit zijn weer met dat soort van springplank en die ding met die bollet aan de zijkant
+	Free: Pattern=soort, Pattern=aan de, Pattern=ding, Pattern=weer met, Pattern=die, Pattern=en, Pattern=dit zijn, Pattern=dat, Pattern=met die
+	Constrained: Pattern=met, Pattern=die, Pattern=zijn, Pattern=weer, Pattern=de, Pattern=aan
+Turn ID=16| B | B : soort van potlood dat erdoorheen steken met twee bollet aan de uitein
+	Free: Pattern=dat, Pattern=soort, Pattern=twee, Pattern=aan de, Pattern=uitein, Pattern=met
+	Constrained: Pattern=aan, Pattern=de
+Turn ID=17| A | A : nu hebben ik weer met die twee knobbel met die rond ding aan het uitein daarvan
+	Free: Pattern=met die, Pattern=aan, Pattern=weer met, Pattern=ik, Pattern=met die twee, Pattern=ding, Pattern=het, Pattern=uitein
+	Constrained: Pattern=met die, Pattern=twee, Pattern=met, Pattern=die, Pattern=weer
+Turn ID=18| A | A : ja die stomp
+	Free: Pattern=die, Pattern=ja
+	Constrained: 
+Turn ID=19| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=20| B | B : L
+	Free: 
+	Constrained: 
+Turn ID=21| A | A : dat zijn nummer drie
+	Free: Pattern=dat, Pattern=zijn
+	Constrained: 
+Turn ID=22| B | B : dit zijn weer dat dat klepje met die twee potlod met bollet eraan die er zo uit steken
+	Free: Pattern=dat, Pattern=met die twee, Pattern=eraan, Pattern=zo, Pattern=met, Pattern=die, Pattern=weer, Pattern=dit zijn
+	Constrained: Pattern=met die, Pattern=twee, Pattern=met, Pattern=die, Pattern=zijn
+Turn ID=23| B | B : weten je welk ik bedoelen
+	Free: Pattern=ik
+	Constrained: 
+Turn ID=24| B | B : ja dat die een zijn lang dan de ander
+	Free: Pattern=dat, Pattern=dan, Pattern=die een, Pattern=zijn, Pattern=de, Pattern=ja
+	Constrained: Pattern=die, Pattern=een
+Turn ID=25| B | B : er steken twee ding uit aan de onderkant
+	Free: Pattern=aan de, Pattern=ding, Pattern=twee
+	Constrained: Pattern=aan, Pattern=de
+Turn ID=26| A | A : ik hebben met die armp met die knobbel eraan
+	Free: Pattern=met die, Pattern=eraan, Pattern=ik
+	Constrained: Pattern=die, Pattern=met
+Turn ID=27| A | A : ja dit zijn de laat
+	Free: Pattern=dit zijn, Pattern=de, Pattern=ja
+	Constrained: Pattern=zijn
+Turn ID=28| A | A : nummer vijf
+	Free: 
+	Constrained: 

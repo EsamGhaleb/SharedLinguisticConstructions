@@ -1,0 +1,95 @@
+A|0| A: _oké_ 
+A|1| A: deze _hebben_ _een_ _een_ rond plateau _aan_ _de_ rechterkant _en dan een soort_ uitstekend _toeter_ links 
+A|2| A: _die_ op _een soort_ _ja_ hartjesvorm _die_ daar zo in priken staat 
+B|3| B: [ja] 
+B|4| B: [en] _dat_ [ja] er zitten inderdaad zo'n steek [aan] 
+A|5| A: [ja] _een soort_ _toeter_ of zo [ja] 
+B|6| B: _ja ja_ _dat_ _zijn_ L _bij mij_ 
+B|7| B: [ja] [die] _zijn_ _ook een beetje_ vaag 
+A|8| A: [en] [ook een beetje] raar 
+B|9| B: [oké] ik [hebben] _weer_ inderdaad _dat_ plat schijf _aan die kant_ [en dan een soort] van _hartje_ wat eruit opsteken 
+B|10| B: _met_ _die toeter_ 
+A|11| A: [ja ja] precies nummer zeven [zijn] [dat] [bij mij] 
+B|12| B: [oké] 
+A|13| A: deze [zijn] [weer] [met] [dat] plateau [aan] _de_ zijkant [en dan] [dat] [soort] [hartje] waar [die toeter] uit komen 
+B|14| B: [ja ja] [dat] [zijn] C [bij mij] 
+B|15| B: [weer] [dat] [hartje] [dat] uitsteken [en] [die toeter] 
+A|16| A: [ja] 
+A|17| A: nummer één 
+A|18| A: dit [zijn] [weer] het plateau [aan] _de_ [een] [kant] har [met] [toeter] [aan die kant] 
+B|19| B: [dat] [zijn] A [bij mij] 
+B|20| B: top 
+B|21| B: [weer] [dat] [hartje] [dat] uitsteken [met] [de] [toeter] 
+A|22| A: nummer dertien 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=1| A | A : deze hebben een een rond plateau aan de rechterkant en dan een soort uitstekend toeter links
+	Free: Pattern=een, Pattern=hebben, Pattern=en dan een soort, Pattern=toeter, Pattern=de, Pattern=aan
+	Constrained: Pattern=soort, Pattern=en dan, Pattern=een, Pattern=een soort, Pattern=en
+Turn ID=2| A | A : die op een soort ja hartjesvorm die daar zo in priken staat
+	Free: Pattern=een soort, Pattern=ja, Pattern=die
+	Constrained: Pattern=soort, Pattern=een
+Turn ID=3| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=4| B | B : en dat ja er zitten inderdaad zo'n steek aan
+	Free: Pattern=ja, Pattern=en, Pattern=aan, Pattern=dat
+	Constrained: 
+Turn ID=5| A | A : ja een soort toeter of zo ja
+	Free: Pattern=een soort, Pattern=ja, Pattern=toeter
+	Constrained: Pattern=soort, Pattern=een
+Turn ID=6| B | B : ja ja dat zijn L bij mij
+	Free: Pattern=bij mij, Pattern=ja ja, Pattern=zijn, Pattern=dat
+	Constrained: Pattern=ja
+Turn ID=7| B | B : ja die zijn ook een beetje vaag
+	Free: Pattern=ook een beetje, Pattern=ja, Pattern=die, Pattern=zijn
+	Constrained: Pattern=een
+Turn ID=8| A | A : en ook een beetje raar
+	Free: Pattern=ook een beetje, Pattern=en
+	Constrained: Pattern=een
+Turn ID=9| B | B : oké ik hebben weer inderdaad dat plat schijf aan die kant en dan een soort van hartje wat eruit opsteken
+	Free: Pattern=dat, Pattern=hartje, Pattern=hebben, Pattern=oké, Pattern=en dan een soort, Pattern=aan die kant, Pattern=weer
+	Constrained: Pattern=kant, Pattern=soort, Pattern=aan, Pattern=en dan, Pattern=een, Pattern=die, Pattern=een soort, Pattern=en
+Turn ID=10| B | B : met die toeter
+	Free: Pattern=die toeter, Pattern=met
+	Constrained: Pattern=die, Pattern=toeter
+Turn ID=11| A | A : ja ja precies nummer zeven zijn dat bij mij
+	Free: Pattern=bij mij, Pattern=ja ja, Pattern=zijn, Pattern=dat
+	Constrained: Pattern=ja
+Turn ID=12| B | B : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=13| A | A : deze zijn weer met dat plateau aan de zijkant en dan dat soort hartje waar die toeter uit komen
+	Free: Pattern=dat, Pattern=soort, Pattern=en dan, Pattern=met, Pattern=zijn, Pattern=weer, Pattern=de, Pattern=aan, Pattern=hartje, Pattern=die toeter
+	Constrained: Pattern=die, Pattern=en, Pattern=toeter
+Turn ID=14| B | B : ja ja dat zijn C bij mij
+	Free: Pattern=bij mij, Pattern=ja ja, Pattern=zijn, Pattern=dat
+	Constrained: Pattern=ja
+Turn ID=15| B | B : weer dat hartje dat uitsteken en die toeter
+	Free: Pattern=dat, Pattern=en, Pattern=weer, Pattern=hartje, Pattern=die toeter
+	Constrained: Pattern=die, Pattern=toeter
+Turn ID=16| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=17| A | A : nummer één
+	Free: 
+	Constrained: 
+Turn ID=18| A | A : dit zijn weer het plateau aan de een kant har met toeter aan die kant
+	Free: Pattern=kant, Pattern=een, Pattern=met, Pattern=zijn, Pattern=weer, Pattern=de, Pattern=aan, Pattern=toeter, Pattern=aan die kant
+	Constrained: Pattern=kant, Pattern=die, Pattern=aan
+Turn ID=19| B | B : dat zijn A bij mij
+	Free: Pattern=bij mij, Pattern=zijn, Pattern=dat
+	Constrained: 
+Turn ID=20| B | B : top
+	Free: 
+	Constrained: 
+Turn ID=21| B | B : weer dat hartje dat uitsteken met de toeter
+	Free: Pattern=dat, Pattern=de, Pattern=hartje, Pattern=met, Pattern=toeter, Pattern=weer
+	Constrained: 
+Turn ID=22| A | A : nummer dertien
+	Free: 
+	Constrained: 

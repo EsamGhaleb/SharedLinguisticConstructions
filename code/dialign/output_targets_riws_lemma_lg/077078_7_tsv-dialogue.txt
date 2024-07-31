@@ -1,0 +1,79 @@
+B|0| B: je hebben _het_ beker en om _het_ bekert zitten _een_ soort van kampbankje of _een_ _een_ _kampvuurbank_ heen 
+B|1| B: en _op_ _het_ _kampvuurbank_ staan _een_ soort van _cakevorm_ 
+A|2| A: _ja_ 
+B|3| B: oké 
+A|4| A: nummer zestien 
+A|5| A: dit zijn die [een] _met_ dat [kampvuurbank] waar dan dat cakevormp [op] staat 
+B|6| B: [ja] 
+B|7| B: letter P 
+B|8| B: _het_ bak _met het_ cakeblik _erop_ 
+A|9| A: _yes_ 
+A|10| A: nummer veertien 
+A|11| A: dit zijn die [een] [met het] kampvuurtafeltje [met] de [cakevorm] 
+B|12| B: letter N 
+B|13| B: [het] [kampvuurbank] [met het] cakeblik 
+A|14| A: _yes_ kijken zijn moeilijk nummer tien 
+B|15| B: jij moeten 
+A|16| A: even kijken dit zijn [met] dat picknickbankje [met] de [cakevorm] [erop] 
+B|17| B: [yes] 
+B|18| B: letter D 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : je hebben het beker en om het bekert zitten een soort van kampbankje of een een kampvuurbank heen
+	Free: Pattern=kampvuurbank, Pattern=een, Pattern=het
+	Constrained: 
+Turn ID=1| B | B : en op het kampvuurbank staan een soort van cakevorm
+	Free: Pattern=op, Pattern=een, Pattern=het, Pattern=kampvuurbank, Pattern=cakevorm
+	Constrained: 
+Turn ID=2| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=3| B | B : oké
+	Free: 
+	Constrained: 
+Turn ID=4| A | A : nummer zestien
+	Free: 
+	Constrained: 
+Turn ID=5| A | A : dit zijn die een met dat kampvuurbank waar dan dat cakevormp op staat
+	Free: Pattern=kampvuurbank, Pattern=op, Pattern=met, Pattern=een
+	Constrained: 
+Turn ID=6| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=7| B | B : letter P
+	Free: 
+	Constrained: 
+Turn ID=8| B | B : het bak met het cakeblik erop
+	Free: Pattern=met het, Pattern=erop, Pattern=het
+	Constrained: Pattern=met, Pattern=het
+Turn ID=9| A | A : yes
+	Free: Pattern=yes
+	Constrained: 
+Turn ID=10| A | A : nummer veertien
+	Free: 
+	Constrained: 
+Turn ID=11| A | A : dit zijn die een met het kampvuurtafeltje met de cakevorm
+	Free: Pattern=met het, Pattern=cakevorm, Pattern=met, Pattern=een
+	Constrained: Pattern=met, Pattern=het
+Turn ID=12| B | B : letter N
+	Free: 
+	Constrained: 
+Turn ID=13| B | B : het kampvuurbank met het cakeblik
+	Free: Pattern=met het, Pattern=kampvuurbank, Pattern=het
+	Constrained: Pattern=met, Pattern=het
+Turn ID=14| A | A : yes kijken zijn moeilijk nummer tien
+	Free: Pattern=yes
+	Constrained: 
+Turn ID=15| B | B : jij moeten
+	Free: 
+	Constrained: 
+Turn ID=16| A | A : even kijken dit zijn met dat picknickbankje met de cakevorm erop
+	Free: Pattern=erop, Pattern=cakevorm, Pattern=met
+	Constrained: 
+Turn ID=17| B | B : yes
+	Free: Pattern=yes
+	Constrained: 
+Turn ID=18| B | B : letter D
+	Free: 
+	Constrained: 

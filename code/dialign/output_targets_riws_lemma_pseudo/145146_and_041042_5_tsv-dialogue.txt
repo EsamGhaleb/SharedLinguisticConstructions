@@ -1,0 +1,119 @@
+A|0| A: _ja_ _zijn_ _die_ _compact_ _zeggen maar_ ? opsteken _er_ niet veel uit 
+A|1| A: nee _oké_ _ja_ _dan_ weten _dan_ weten _ik_ 
+A|2| A: _ja_ 
+A|3| A: _ik_ _ik_ zien _dat_ als _een soort_ opveger 
+A|4| A: _ja_ 
+A|5| A: _ja_ _en_ _en_ _zo'n_ schuin 
+A|6| A: _zo'n_ ding naar beneden _ja_ _oké_ _ja_ _ja_ 
+A|7| A: _ik_ weten al 
+A|8| A: achten 
+B|9| B: [oké] deze vinden [ik] heel vinden [ik] _de_ klein eigenlijk van allemaal 
+B|10| B: want [zeggen maar] [een] kommetje [en] daarvoor zitten [zeggen maar] [soort] van [een] [een] hand [en] [die] inhouden [een] klein paal vast 
+B|11| B: dus [die] [zijn] [ja] 
+B|12| B: zo recht op [zijn] hoofd [zo'n] hanenkam zo 
+B|13| B: [en] [dan] _hebben_ [die] hier [zo'n] paal [en] [dan] zitten [er] hier nog [een soort] van [een] komme [die] andersom zitten [een] beker [die] andersom zitten 
+A|14| A: [ik] [hebben] _dat_ opveger 
+A|15| A: of [die] stofzuiger achtig 
+B|16| B: _dat zijn_ E 
+B|17| B: dit [zijn] [dat] [compact] man met [dat] staafje in [zijn] hand 
+A|18| A: [ja] 
+A|19| A: [ja] 
+A|20| A: [dat zijn] één 
+B|21| B: [dat zijn] E 
+A|22| A: [ik] [hebben] [de] stofzuiger 
+B|23| B: dit [zijn] [dat] poppe [dat] [dat] balkje vasthouden in [zijn] hand 
+B|24| B: [ja] 
+B|25| B: [dat zijn] O 
+A|26| A: [ja] 
+A|27| A: [ik] [hebben] hem zestien 
+A|28| A: [ik] [hebben] [de] veger 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : ja zijn die compact zeggen maar ? opsteken er niet veel uit
+	Free: Pattern=ja, Pattern=compact, Pattern=zeggen maar, Pattern=die, Pattern=er, Pattern=zijn
+	Constrained: 
+Turn ID=1| A | A : nee oké ja dan weten dan weten ik
+	Free: Pattern=dan, Pattern=ja, Pattern=ik, Pattern=oké
+	Constrained: 
+Turn ID=2| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=3| A | A : ik ik zien dat als een soort opveger
+	Free: Pattern=een soort, Pattern=dat, Pattern=ik
+	Constrained: Pattern=een, Pattern=soort
+Turn ID=4| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=5| A | A : ja en en zo'n schuin
+	Free: Pattern=en, Pattern=zo'n, Pattern=ja
+	Constrained: 
+Turn ID=6| A | A : zo'n ding naar beneden ja oké ja ja
+	Free: Pattern=zo'n, Pattern=ja, Pattern=oké
+	Constrained: 
+Turn ID=7| A | A : ik weten al
+	Free: Pattern=ik
+	Constrained: 
+Turn ID=8| A | A : achten
+	Free: 
+	Constrained: 
+Turn ID=9| B | B : oké deze vinden ik heel vinden ik de klein eigenlijk van allemaal
+	Free: Pattern=de, Pattern=ik, Pattern=oké
+	Constrained: 
+Turn ID=10| B | B : want zeggen maar een kommetje en daarvoor zitten zeggen maar soort van een een hand en die inhouden een klein paal vast
+	Free: Pattern=soort, Pattern=een, Pattern=zeggen maar, Pattern=die, Pattern=en
+	Constrained: 
+Turn ID=11| B | B : dus die zijn ja
+	Free: Pattern=zijn, Pattern=die, Pattern=ja
+	Constrained: 
+Turn ID=12| B | B : zo recht op zijn hoofd zo'n hanenkam zo
+	Free: Pattern=zijn, Pattern=zo'n
+	Constrained: 
+Turn ID=13| B | B : en dan hebben die hier zo'n paal en dan zitten er hier nog een soort van een komme die andersom zitten een beker die andersom zitten
+	Free: Pattern=zo'n, Pattern=dan, Pattern=een, Pattern=hebben, Pattern=die, Pattern=er, Pattern=een soort, Pattern=en
+	Constrained: Pattern=een, Pattern=soort
+Turn ID=14| A | A : ik hebben dat opveger
+	Free: Pattern=dat, Pattern=hebben, Pattern=ik
+	Constrained: 
+Turn ID=15| A | A : of die stofzuiger achtig
+	Free: Pattern=die
+	Constrained: 
+Turn ID=16| B | B : dat zijn E
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=17| B | B : dit zijn dat compact man met dat staafje in zijn hand
+	Free: Pattern=zijn, Pattern=dat, Pattern=compact
+	Constrained: 
+Turn ID=18| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=19| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=20| A | A : dat zijn één
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=21| B | B : dat zijn E
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=22| A | A : ik hebben de stofzuiger
+	Free: Pattern=hebben, Pattern=de, Pattern=ik
+	Constrained: 
+Turn ID=23| B | B : dit zijn dat poppe dat dat balkje vasthouden in zijn hand
+	Free: Pattern=zijn, Pattern=dat
+	Constrained: 
+Turn ID=24| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=25| B | B : dat zijn O
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=26| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=27| A | A : ik hebben hem zestien
+	Free: Pattern=hebben, Pattern=ik
+	Constrained: 
+Turn ID=28| A | A : ik hebben de veger
+	Free: Pattern=hebben, Pattern=de, Pattern=ik
+	Constrained: 

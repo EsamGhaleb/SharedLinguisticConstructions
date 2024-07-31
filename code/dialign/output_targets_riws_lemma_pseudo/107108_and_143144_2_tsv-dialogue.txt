@@ -1,0 +1,103 @@
+A|0| A: _ja_ deze hebben _een_ piramide _op_ _zijn_ hoofd of _op_ _zijn_ bovenkant 
+A|1| A: _en_ ook _een_ soort van piramide die _zijn_ afgekpen _aan de voorkant_ 
+A|2| A: bij mij vijftien 
+A|3| A: _ja_ 
+A|4| A: _ja_ _en_ ook die afgehakte zo 
+A|5| A: _ja_ bij mij _zijn_ dat zes 
+B|6| B: [ja] 
+B|7| B: nee volledig _hoed_ 
+B|8| B: [ja] 
+B|9| B: _met_ [een] heel gek dinge in [zijn] achterkant zeggen maar 
+B|10| B: [en] [een] heel groot blok [aan de voorkant] 
+B|11| B: dan gaan het om J 
+A|12| A: _dit zijn_ die [met] die driehoekig puntmuts [en] die afgehakte driehoek 
+A|13| A: zestien 
+B|14| B: [dit] gaan om [de] feesthoed _met de_ volledig _hoed_ [een] gek dinge in [zijn] kont [en] [een] rond [op] wielet 
+A|15| A: [ja] dat [zijn] tien bij mij 
+B|16| B: [met] het gek ding in [zijn] kont [met] wielt [en] 
+B|17| B: [ja] dan gaan het om E 
+B|18| B: [dit zijn] het feesthoed [met] [op] [de] wielt [en] [een] gek dinge 
+A|19| A: [dit zijn] die [met de] driehoek [hoed] [en] [de] driehoek neus afgekapte driehoek 
+A|20| A: [ja] dertien bij mij [ja] 
+A|21| A: [ja] dat [zijn] tien bij mij 
+B|22| B: [ja] [met] [op] wielt 
+B|23| B: gaan om G 
+B|24| B: [dit zijn] het feestmuts [op] rollet 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : ja deze hebben een piramide op zijn hoofd of op zijn bovenkant
+	Free: Pattern=een, Pattern=ja, Pattern=zijn, Pattern=op
+	Constrained: 
+Turn ID=1| A | A : en ook een soort van piramide die zijn afgekpen aan de voorkant
+	Free: Pattern=aan de voorkant, Pattern=een, Pattern=zijn, Pattern=en
+	Constrained: Pattern=de
+Turn ID=2| A | A : bij mij vijftien
+	Free: 
+	Constrained: 
+Turn ID=3| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=4| A | A : ja en ook die afgehakte zo
+	Free: Pattern=ja, Pattern=en
+	Constrained: 
+Turn ID=5| A | A : ja bij mij zijn dat zes
+	Free: Pattern=ja, Pattern=zijn
+	Constrained: 
+Turn ID=6| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=7| B | B : nee volledig hoed
+	Free: Pattern=hoed
+	Constrained: 
+Turn ID=8| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=9| B | B : met een heel gek dinge in zijn achterkant zeggen maar
+	Free: Pattern=met, Pattern=een, Pattern=zijn
+	Constrained: 
+Turn ID=10| B | B : en een heel groot blok aan de voorkant
+	Free: Pattern=aan de voorkant, Pattern=een, Pattern=en
+	Constrained: Pattern=de
+Turn ID=11| B | B : dan gaan het om J
+	Free: 
+	Constrained: 
+Turn ID=12| A | A : dit zijn die met die driehoekig puntmuts en die afgehakte driehoek
+	Free: Pattern=dit zijn, Pattern=met, Pattern=en
+	Constrained: Pattern=dit, Pattern=zijn
+Turn ID=13| A | A : zestien
+	Free: 
+	Constrained: 
+Turn ID=14| B | B : dit gaan om de feesthoed met de volledig hoed een gek dinge in zijn kont en een rond op wielet
+	Free: Pattern=op, Pattern=een, Pattern=dit, Pattern=en, Pattern=zijn, Pattern=de, Pattern=met de, Pattern=hoed
+	Constrained: Pattern=met, Pattern=de
+Turn ID=15| A | A : ja dat zijn tien bij mij
+	Free: Pattern=ja, Pattern=zijn
+	Constrained: 
+Turn ID=16| B | B : met het gek ding in zijn kont met wielt en
+	Free: Pattern=met, Pattern=zijn, Pattern=en
+	Constrained: 
+Turn ID=17| B | B : ja dan gaan het om E
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=18| B | B : dit zijn het feesthoed met op de wielt en een gek dinge
+	Free: Pattern=de, Pattern=op, Pattern=een, Pattern=met, Pattern=en, Pattern=dit zijn
+	Constrained: Pattern=dit, Pattern=zijn
+Turn ID=19| A | A : dit zijn die met de driehoek hoed en de driehoek neus afgekapte driehoek
+	Free: Pattern=en, Pattern=dit zijn, Pattern=de, Pattern=met de, Pattern=hoed
+	Constrained: Pattern=met, Pattern=dit, Pattern=zijn, Pattern=de
+Turn ID=20| A | A : ja dertien bij mij ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=21| A | A : ja dat zijn tien bij mij
+	Free: Pattern=ja, Pattern=zijn
+	Constrained: 
+Turn ID=22| B | B : ja met op wielt
+	Free: Pattern=met, Pattern=ja, Pattern=op
+	Constrained: 
+Turn ID=23| B | B : gaan om G
+	Free: 
+	Constrained: 
+Turn ID=24| B | B : dit zijn het feestmuts op rollet
+	Free: Pattern=dit zijn, Pattern=op
+	Constrained: Pattern=dit, Pattern=zijn

@@ -1,0 +1,167 @@
+A|0| A: _ja_ nu _hebben_ _ik_ deze _ja_ _ook_ weer vier ding hij _hebben_ _een_ _een_ ronde _bal_ _bovenop_ 
+A|1| A: _en een_ langwerpig _staaf_ _ervoor_ 
+B|2| B: [ja] 
+A|3| A: _en twee_ soort _van_ hand _aan de_ _zijkant_ 
+B|4| B: [ja] 
+B|5| B: [en] _die_ lijken er [een] beetje _zo_ achter te afhangen 
+A|6| A: [ja] 
+B|7| B: [ja] 
+B|8| B: _dat zijn_ D 
+B|9| B: _we_ [hebben] nog [een] ander _figuur_ 
+A|10| A: [ja] 
+A|11| A: [we] [zijn] nu allemaal steeds [we] [we] [zijn] nu op één zes denken _ik_ 
+A|12| A: want ze [zijn] nu al [figuur] [zijn] nu _van_ plek wisselen 
+B|13| B: _ja dat_ zien [ik] inderdaad [ook] 
+A|14| A: dus 
+B|15| B: [ja] nee kloppen 
+A|16| A: [ja] 
+B|17| B: [ja] 
+A|18| A: [en] volgens mij doen [we] het zes keer 
+B|19| B: [ja] 
+B|20| B: dit [zijn] [een] [figuur] _met_ [een] balle _erop_ 
+B|21| B: [en] [aan de] voorkant _die_ [staaf] [en] [aan de] beide [zijkant] _die_ [twee] _armp_ 
+A|22| A: [ja [dat] zijn] nummer vijftien 
+A|23| A: _ik hebben die_ één _met die_ _armpjes_ [zo] _bal_ erbovenop _balk ervoor_ 
+A|24| A: dus niet _die met die_ _armpjes_ _met die_ stomp eraan maar veel [die] dun _armp en een_ ronde _bal_ erbovenop 
+B|25| B: [en een] stok [ervoor] 
+A|26| A: [ja] _en een balk_ echt 
+B|27| B: of [een balk] 
+B|28| B: [ja] 
+B|29| B: [dat zijn] L 
+B|30| B: [ik hebben [die] met die] _bal erop_ 
+B|31| B: [de] [balk ervoor] [en twee] [armp] 
+A|32| A: welk [hebben] [ja] [ja] zes 
+A|33| A: _twee van die klein armpjes_ [bal erop] [balk ervoor] 
+B|34| B: [twee van die klein armpjes] 
+B|35| B: _de [bal_ erop] zeggen je 
+A|36| A: [ja] [de bal] erbovenop [en] zo'n [balk ervoor] 
+B|37| B: [ja] 
+B|38| B: [dat zijn] J 
+B|39| B: [ik hebben] [de] balle [bovenop] [twee] [armp [en een] [balk] ervoor] 
+A|40| A: nummer drie 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : ja nu hebben ik deze ja ook weer vier ding hij hebben een een ronde bal bovenop
+	Free: Pattern=bovenop, Pattern=bal, Pattern=ja, Pattern=ook, Pattern=een, Pattern=hebben, Pattern=ik
+	Constrained: 
+Turn ID=1| A | A : en een langwerpig staaf ervoor
+	Free: Pattern=en een, Pattern=ervoor, Pattern=staaf
+	Constrained: Pattern=een, Pattern=en
+Turn ID=2| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=3| A | A : en twee soort van hand aan de zijkant
+	Free: Pattern=en twee, Pattern=aan de, Pattern=van, Pattern=zijkant
+	Constrained: Pattern=de, Pattern=twee, Pattern=en
+Turn ID=4| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=5| B | B : en die lijken er een beetje zo achter te afhangen
+	Free: Pattern=die, Pattern=een, Pattern=zo, Pattern=en
+	Constrained: 
+Turn ID=6| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=7| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=8| B | B : dat zijn D
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn
+Turn ID=9| B | B : we hebben nog een ander figuur
+	Free: Pattern=een, Pattern=figuur, Pattern=hebben, Pattern=we
+	Constrained: 
+Turn ID=10| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=11| A | A : we zijn nu allemaal steeds we we zijn nu op één zes denken ik
+	Free: Pattern=ik, Pattern=we, Pattern=zijn
+	Constrained: 
+Turn ID=12| A | A : want ze zijn nu al figuur zijn nu van plek wisselen
+	Free: Pattern=van, Pattern=figuur, Pattern=zijn
+	Constrained: 
+Turn ID=13| B | B : ja dat zien ik inderdaad ook
+	Free: Pattern=ja dat, Pattern=ook, Pattern=ik
+	Constrained: Pattern=ja
+Turn ID=14| A | A : dus
+	Free: 
+	Constrained: 
+Turn ID=15| B | B : ja nee kloppen
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=16| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=17| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=18| A | A : en volgens mij doen we het zes keer
+	Free: Pattern=we, Pattern=en
+	Constrained: 
+Turn ID=19| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=20| B | B : dit zijn een figuur met een balle erop
+	Free: Pattern=erop, Pattern=een, Pattern=met, Pattern=figuur, Pattern=zijn
+	Constrained: 
+Turn ID=21| B | B : en aan de voorkant die staaf en aan de beide zijkant die twee armp
+	Free: Pattern=twee, Pattern=staaf, Pattern=aan de, Pattern=armp, Pattern=en, Pattern=die, Pattern=zijkant
+	Constrained: Pattern=de
+Turn ID=22| A | A : ja dat zijn nummer vijftien
+	Free: Pattern=ja dat, Pattern=dat zijn
+	Constrained: Pattern=ja, Pattern=zijn
+Turn ID=23| A | A : ik hebben die één met die armpjes zo bal erbovenop balk ervoor
+	Free: Pattern=met die, Pattern=bal, Pattern=armpjes, Pattern=balk ervoor, Pattern=zo, Pattern=ik hebben die
+	Constrained: Pattern=ik hebben, Pattern=ervoor, Pattern=hebben, Pattern=met, Pattern=die, Pattern=ik
+Turn ID=24| A | A : dus niet die met die armpjes met die stomp eraan maar veel die dun armp en een ronde bal erbovenop
+	Free: Pattern=met die, Pattern=bal, Pattern=die met die, Pattern=armpjes, Pattern=die, Pattern=armp en een
+	Constrained: Pattern=met die, Pattern=een, Pattern=armp, Pattern=met, Pattern=die, Pattern=en, Pattern=en een
+Turn ID=25| B | B : en een stok ervoor
+	Free: Pattern=en een, Pattern=ervoor
+	Constrained: Pattern=een, Pattern=en
+Turn ID=26| A | A : ja en een balk echt
+	Free: Pattern=en een balk, Pattern=ja
+	Constrained: Pattern=een balk, Pattern=een, Pattern=en, Pattern=en een
+Turn ID=27| B | B : of een balk
+	Free: Pattern=een balk
+	Constrained: Pattern=een
+Turn ID=28| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=29| B | B : dat zijn L
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn
+Turn ID=30| B | B : ik hebben die met die bal erop
+	Free: Pattern=ik hebben die, Pattern=die met die, Pattern=bal erop
+	Constrained: Pattern=ik hebben, Pattern=met die, Pattern=bal, Pattern=erop, Pattern=hebben, Pattern=met, Pattern=die, Pattern=ik
+Turn ID=31| B | B : de balk ervoor en twee armp
+	Free: Pattern=en twee, Pattern=balk ervoor, Pattern=de, Pattern=armp
+	Constrained: Pattern=twee, Pattern=ervoor, Pattern=en
+Turn ID=32| A | A : welk hebben ja ja zes
+	Free: Pattern=hebben, Pattern=ja
+	Constrained: 
+Turn ID=33| A | A : twee van die klein armpjes bal erop balk ervoor
+	Free: Pattern=twee van die klein armpjes, Pattern=bal erop, Pattern=balk ervoor
+	Constrained: Pattern=erop, Pattern=ervoor, Pattern=armpjes, Pattern=die, Pattern=van, Pattern=twee, Pattern=bal
+Turn ID=34| B | B : twee van die klein armpjes
+	Free: Pattern=twee van die klein armpjes
+	Constrained: Pattern=armpjes, Pattern=die, Pattern=van, Pattern=twee
+Turn ID=35| B | B : de bal erop zeggen je
+	Free: Pattern=bal erop, Pattern=de bal
+	Constrained: Pattern=de, Pattern=bal, Pattern=erop
+Turn ID=36| A | A : ja de bal erbovenop en zo'n balk ervoor
+	Free: Pattern=balk ervoor, Pattern=de bal, Pattern=en, Pattern=ja
+	Constrained: Pattern=de, Pattern=bal, Pattern=ervoor
+Turn ID=37| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=38| B | B : dat zijn J
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn
+Turn ID=39| B | B : ik hebben de balle bovenop twee armp en een balk ervoor
+	Free: Pattern=ik hebben, Pattern=bovenop, Pattern=twee, Pattern=de, Pattern=balk ervoor, Pattern=en een balk, Pattern=armp en een
+	Constrained: Pattern=ervoor, Pattern=een, Pattern=armp, Pattern=hebben, Pattern=ik, Pattern=en, Pattern=en een, Pattern=een balk
+Turn ID=40| A | A : nummer drie
+	Free: 
+	Constrained: 

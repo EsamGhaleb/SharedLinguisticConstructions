@@ -1,0 +1,135 @@
+A|0| A: _ja_ _het zijn_ allemaal bekert _maar_ _het zijn_ een beker _met_ een een handvat _en_ hij _hebben_ een soort van lepeltje _hebben die_ vast in _de_ hand 
+A|1| A: _en_ er steken ook een zo iets erbovenuit 
+A|2| A: _zeggen maar_ hij staan _zeggen maar_ zo _en dan_ een stengel _en dan_ _het_ lijken een beetje op een lepeltje _het zijn_ niet helemaal een lepeltje _het_ kunnen ook een soort van een een teken van een voet _zijn_ 
+A|3| A: _en_ hij _hebben_ _zeggen maar_ één één _zo'n_ streepje erboven _zeggen maar zo'n_ Kuis 
+A|4| A: nee _aan de_ zijkant _zijn_ _dat_ _ander_ 
+A|5| A: _ja_ één _zo'n_ kuifje erboven _zo'n_ heel _zo'n_ klein 
+A|6| A: _ja_ kunnen ook _ja ja_ klopt zitten _ik_ ook _aan_ te kunnen ook _ja_ 
+B|7| B: oké nou [hebben] _jij_ 
+B|8| B: [ja [ja] ja] 
+B|9| B: [en] [zijn] [aan de] [ander] [hebben die] [aan de] bovenkant twee dinget 
+B|10| B: bovenop 
+B|11| B: oké even kijken 
+B|12| B: [ja] wachten [zo'n] toeter [ja] 
+B|13| B: [het zijn] [het zijn] [zeggen maar zo'n] bol [met] [zo'n] staaf erdoorheen 
+B|14| B: [en dan] [zo'n] cirkel eraan 
+B|15| B: oké 
+B|16| B: F 
+A|17| A: [ja] [die] piercing wat [jij] [zeggen] 
+A|18| A: vijf 
+B|19| B: nu [hebben] [ik] weer [die] [die] toeter [zeggen maar] [en dan] bovenop 
+B|20| B: [ja] 
+A|21| A: dit [zijn] [de] neuspiercing 
+B|22| B: [ja] 
+B|23| B: A 
+A|24| A: [ja] 
+A|25| A: vijf 
+B|26| B: [die] [met] [die] toeter weer [en] [die] [dat] blaad 
+A|27| A: [de] neuspiercing 
+B|28| B: [ja] 
+B|29| B: H 
+B|30| B: [die] toeter [en] [die] [de] appelblaadje 
+A|31| A: [ja] 
+A|32| A: vijftien 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : ja het zijn allemaal bekert maar het zijn een beker met een een handvat en hij hebben een soort van lepeltje hebben die vast in de hand
+	Free: Pattern=hebben, Pattern=met, Pattern=het zijn, Pattern=en, Pattern=maar, Pattern=hebben die, Pattern=de, Pattern=ja
+	Constrained: Pattern=zijn, Pattern=die, Pattern=het, Pattern=hebben
+Turn ID=1| A | A : en er steken ook een zo iets erbovenuit
+	Free: Pattern=en
+	Constrained: 
+Turn ID=2| A | A : zeggen maar hij staan zeggen maar zo en dan een stengel en dan het lijken een beetje op een lepeltje het zijn niet helemaal een lepeltje het kunnen ook een soort van een een teken van een voet zijn
+	Free: Pattern=en dan, Pattern=zeggen maar, Pattern=het, Pattern=het zijn, Pattern=zijn
+	Constrained: Pattern=het, Pattern=zeggen, Pattern=en, Pattern=zijn, Pattern=maar
+Turn ID=3| A | A : en hij hebben zeggen maar één één zo'n streepje erboven zeggen maar zo'n Kuis
+	Free: Pattern=zo'n, Pattern=zeggen maar, Pattern=hebben, Pattern=en, Pattern=zeggen maar zo'n
+	Constrained: Pattern=zeggen, Pattern=zeggen maar, Pattern=zo'n, Pattern=maar
+Turn ID=4| A | A : nee aan de zijkant zijn dat ander
+	Free: Pattern=aan de, Pattern=dat, Pattern=zijn, Pattern=ander
+	Constrained: Pattern=de, Pattern=aan
+Turn ID=5| A | A : ja één zo'n kuifje erboven zo'n heel zo'n klein
+	Free: Pattern=zo'n, Pattern=ja
+	Constrained: 
+Turn ID=6| A | A : ja kunnen ook ja ja klopt zitten ik ook aan te kunnen ook ja
+	Free: Pattern=ja ja, Pattern=ik, Pattern=ja, Pattern=aan
+	Constrained: Pattern=ja
+Turn ID=7| B | B : oké nou hebben jij
+	Free: Pattern=jij, Pattern=hebben
+	Constrained: 
+Turn ID=8| B | B : ja ja ja
+	Free: Pattern=ja ja
+	Constrained: Pattern=ja
+Turn ID=9| B | B : en zijn aan de ander hebben die aan de bovenkant twee dinget
+	Free: Pattern=aan de, Pattern=ander, Pattern=en, Pattern=zijn, Pattern=hebben die
+	Constrained: Pattern=die, Pattern=de, Pattern=aan, Pattern=hebben
+Turn ID=10| B | B : bovenop
+	Free: 
+	Constrained: 
+Turn ID=11| B | B : oké even kijken
+	Free: 
+	Constrained: 
+Turn ID=12| B | B : ja wachten zo'n toeter ja
+	Free: Pattern=zo'n, Pattern=ja
+	Constrained: 
+Turn ID=13| B | B : het zijn het zijn zeggen maar zo'n bol met zo'n staaf erdoorheen
+	Free: Pattern=zeggen maar zo'n, Pattern=het zijn, Pattern=zo'n, Pattern=met
+	Constrained: Pattern=zo'n, Pattern=zeggen maar, Pattern=het, Pattern=zeggen, Pattern=zijn, Pattern=maar
+Turn ID=14| B | B : en dan zo'n cirkel eraan
+	Free: Pattern=en dan, Pattern=zo'n
+	Constrained: Pattern=en
+Turn ID=15| B | B : oké
+	Free: 
+	Constrained: 
+Turn ID=16| B | B : F
+	Free: 
+	Constrained: 
+Turn ID=17| A | A : ja die piercing wat jij zeggen
+	Free: Pattern=die, Pattern=jij, Pattern=zeggen, Pattern=ja
+	Constrained: 
+Turn ID=18| A | A : vijf
+	Free: 
+	Constrained: 
+Turn ID=19| B | B : nu hebben ik weer die die toeter zeggen maar en dan bovenop
+	Free: Pattern=en dan, Pattern=zeggen maar, Pattern=hebben, Pattern=die, Pattern=ik
+	Constrained: Pattern=en, Pattern=maar, Pattern=zeggen
+Turn ID=20| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=21| A | A : dit zijn de neuspiercing
+	Free: Pattern=zijn, Pattern=de
+	Constrained: 
+Turn ID=22| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=23| B | B : A
+	Free: 
+	Constrained: 
+Turn ID=24| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=25| A | A : vijf
+	Free: 
+	Constrained: 
+Turn ID=26| B | B : die met die toeter weer en die dat blaad
+	Free: Pattern=en, Pattern=dat, Pattern=die, Pattern=met
+	Constrained: 
+Turn ID=27| A | A : de neuspiercing
+	Free: Pattern=de
+	Constrained: 
+Turn ID=28| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=29| B | B : H
+	Free: 
+	Constrained: 
+Turn ID=30| B | B : die toeter en die de appelblaadje
+	Free: Pattern=en, Pattern=die, Pattern=de
+	Constrained: 
+Turn ID=31| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=32| A | A : vijftien
+	Free: 
+	Constrained: 

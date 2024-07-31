@@ -1,0 +1,95 @@
+B|0| B: _oké_ deze hebben aan de voorkant een _soort_ van dienblad liggen _en_ op _dat_ dienblad liggen _dan_ een _soort_ van schaal _die_ 
+B|1| B: zeggen maar allemaal van zulk zijkant hebben 
+A|2| A: _ja_ 
+A|3| A: ik weten welk je bedoelen 
+B|4| B: _en dan_ linksboven hebben hij _nog_ een _klein armp_ of zo 
+A|5| A: _ja_ 
+A|6| A: [oké] [dat] _zijn_ nummer zestien 
+A|7| A: _ja_ _dit _zijn_ dat_ ding _ja_ ik denken _zo'n_ [soort] tafel _met dat_ schuin _bak erop [en_ dan] [nog] één _zo'n_ 
+B|8| B: Linksboven [nog] [zo'n] raar _armp_ 
+A|9| A: _ja_ 
+B|10| B: P [zijn dat] 
+B|11| B: [dit zijn] _die_ [met dat] dienblad vooraan [met dat] [bak erop en] linksboven [dat] _armp_ 
+A|12| A: _ja_ 
+A|13| A: even kijken waar [die] [zijn] 
+A|14| A: _ja_ 
+A|15| A: nummer veertien 
+A|16| A: [dit zijn] [met dat] tafel [met dat] schuin [bak erop] 
+A|17| A: [en] [dat] arm [nog] links [dat] [klein armp] 
+B|18| B: [ja] N 
+B|19| B: dienblad [met dat] [bak erop en] het [armp] Linksboven 
+A|20| A: [ja] nummer tien 
+A|21| A: [ja] [dat] tafel [met dat] schuin [bak erop en] [dat] hand [nog] links 
+B|22| B: [ja] D 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : oké deze hebben aan de voorkant een soort van dienblad liggen en op dat dienblad liggen dan een soort van schaal die
+	Free: Pattern=dat, Pattern=soort, Pattern=dan, Pattern=die, Pattern=oké, Pattern=en
+	Constrained: 
+Turn ID=1| B | B : zeggen maar allemaal van zulk zijkant hebben
+	Free: 
+	Constrained: 
+Turn ID=2| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=3| A | A : ik weten welk je bedoelen
+	Free: 
+	Constrained: 
+Turn ID=4| B | B : en dan linksboven hebben hij nog een klein armp of zo
+	Free: Pattern=klein armp, Pattern=en dan, Pattern=nog
+	Constrained: Pattern=en, Pattern=armp, Pattern=dan
+Turn ID=5| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=6| A | A : oké dat zijn nummer zestien
+	Free: Pattern=zijn, Pattern=oké, Pattern=dat
+	Constrained: 
+Turn ID=7| A | A : ja dit zijn dat ding ja ik denken zo'n soort tafel met dat schuin bak erop en dan nog één zo'n
+	Free: Pattern=zo'n, Pattern=ja, Pattern=en dan, Pattern=bak erop en, Pattern=met dat, Pattern=nog, Pattern=soort, Pattern=dit zijn, Pattern=zijn dat
+	Constrained: Pattern=dat, Pattern=bak erop, Pattern=dan, Pattern=en, Pattern=zijn
+Turn ID=8| B | B : Linksboven nog zo'n raar armp
+	Free: Pattern=zo'n, Pattern=armp, Pattern=nog
+	Constrained: 
+Turn ID=9| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=10| B | B : P zijn dat
+	Free: Pattern=zijn dat
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=11| B | B : dit zijn die met dat dienblad vooraan met dat bak erop en linksboven dat armp
+	Free: Pattern=dat, Pattern=armp, Pattern=bak erop en, Pattern=met dat, Pattern=die, Pattern=dit zijn
+	Constrained: Pattern=dat, Pattern=zijn, Pattern=en, Pattern=bak erop
+Turn ID=12| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=13| A | A : even kijken waar die zijn
+	Free: Pattern=die, Pattern=zijn
+	Constrained: 
+Turn ID=14| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=15| A | A : nummer veertien
+	Free: 
+	Constrained: 
+Turn ID=16| A | A : dit zijn met dat tafel met dat schuin bak erop
+	Free: Pattern=bak erop, Pattern=met dat, Pattern=dit zijn
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=17| A | A : en dat arm nog links dat klein armp
+	Free: Pattern=klein armp, Pattern=en, Pattern=nog, Pattern=dat
+	Constrained: Pattern=armp
+Turn ID=18| B | B : ja N
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=19| B | B : dienblad met dat bak erop en het armp Linksboven
+	Free: Pattern=bak erop en, Pattern=met dat, Pattern=armp
+	Constrained: Pattern=dat, Pattern=en, Pattern=bak erop
+Turn ID=20| A | A : ja nummer tien
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=21| A | A : ja dat tafel met dat schuin bak erop en dat hand nog links
+	Free: Pattern=dat, Pattern=nog, Pattern=ja, Pattern=bak erop en, Pattern=met dat
+	Constrained: Pattern=dat, Pattern=en, Pattern=bak erop
+Turn ID=22| B | B : ja D
+	Free: Pattern=ja
+	Constrained: 

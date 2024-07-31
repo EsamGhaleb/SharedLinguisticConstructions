@@ -1,0 +1,127 @@
+A|0| A: _oké_ 
+A|1| A: _het zijn_ _ja_ gewoon _zo'n_ komme _en_ dan lijken _het_ net alsof die _een_ _neus_ _hebben_ _aan de_ voorkant 
+A|2| A: _en_ dan _door het neus_ zitten _een_ _een_ _een_ staaf _en_ _een_ 
+B|3| B: [zijn] [het] _een rond neusje_ 
+A|4| A: _ja_ _dat_ [zijn] [een rond neusje] 
+A|5| A: _en_ _dat_ staaf wat erdoorheen zitten 
+B|6| B: [oké] 
+A|7| A: _aan_ één uiteinde zitten [een] cirkelt 
+A|8| A: _en_ dan zeggen maar bovenop zitten nog [een] klein _pluk_ naar achter 
+B|9| B: [ja] 
+B|10| B: F 
+B|11| B: [ja] [het zijn] F [ja] 
+B|12| B: [het zijn] [dat] mannne of [het] bak _en [het_ neus] 
+B|13| B: _met_ [een] _piercing_ [door het neus] [en] hij [hebben] [zo'n] [pluk] [aan de] achterkant 
+A|14| A: nummer vijf 
+A|15| A: dit [zijn] zeggen maar [het] komme _met [het_ neus] [met] [de] [piercing] erin 
+A|16| A: waar [dat] waar [het] schijf [aan] zitten 
+B|17| B: [ja] 
+B|18| B: letter A 
+B|19| B: _neuspiercing_ [met _het] pluk_ 
+A|20| A: [ja] 
+A|21| A: nummer vijf 
+A|22| A: [de] [neus] [met] [neuspiercing] 
+A|23| A: [en [het] pluk] 
+B|24| B: [ja] 
+B|25| B: moeten even zoeken 
+B|26| B: [ja] 
+B|27| B: letter H 
+B|28| B: hij [hebben] [een] [piercing] [door] [zijn] [neus] 
+A|29| A: [ja] 
+A|30| A: nummer vijftien 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=1| A | A : het zijn ja gewoon zo'n komme en dan lijken het net alsof die een neus hebben aan de voorkant
+	Free: Pattern=zo'n, Pattern=ja, Pattern=aan de, Pattern=een, Pattern=het, Pattern=hebben, Pattern=neus, Pattern=het zijn, Pattern=en
+	Constrained: Pattern=de, Pattern=zijn, Pattern=het, Pattern=aan
+Turn ID=2| A | A : en dan door het neus zitten een een een staaf en een
+	Free: Pattern=door het neus, Pattern=en, Pattern=een
+	Constrained: Pattern=het neus, Pattern=neus, Pattern=het, Pattern=door
+Turn ID=3| B | B : zijn het een rond neusje
+	Free: Pattern=een rond neusje, Pattern=zijn, Pattern=het
+	Constrained: Pattern=een
+Turn ID=4| A | A : ja dat zijn een rond neusje
+	Free: Pattern=een rond neusje, Pattern=ja, Pattern=dat, Pattern=zijn
+	Constrained: Pattern=een
+Turn ID=5| A | A : en dat staaf wat erdoorheen zitten
+	Free: Pattern=dat, Pattern=en
+	Constrained: 
+Turn ID=6| B | B : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=7| A | A : aan één uiteinde zitten een cirkelt
+	Free: Pattern=aan, Pattern=een
+	Constrained: 
+Turn ID=8| A | A : en dan zeggen maar bovenop zitten nog een klein pluk naar achter
+	Free: Pattern=en, Pattern=pluk, Pattern=een
+	Constrained: 
+Turn ID=9| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=10| B | B : F
+	Free: 
+	Constrained: 
+Turn ID=11| B | B : ja het zijn F ja
+	Free: Pattern=het zijn, Pattern=ja
+	Constrained: Pattern=zijn, Pattern=het
+Turn ID=12| B | B : het zijn dat mannne of het bak en het neus
+	Free: Pattern=dat, Pattern=en het, Pattern=het, Pattern=het neus, Pattern=het zijn
+	Constrained: Pattern=en, Pattern=neus, Pattern=zijn, Pattern=het
+Turn ID=13| B | B : met een piercing door het neus en hij hebben zo'n pluk aan de achterkant
+	Free: Pattern=zo'n, Pattern=door het neus, Pattern=aan de, Pattern=een, Pattern=hebben, Pattern=met, Pattern=pluk, Pattern=en, Pattern=piercing
+	Constrained: Pattern=door, Pattern=het, Pattern=de, Pattern=aan, Pattern=neus, Pattern=het neus
+Turn ID=14| A | A : nummer vijf
+	Free: 
+	Constrained: 
+Turn ID=15| A | A : dit zijn zeggen maar het komme met het neus met de piercing erin
+	Free: Pattern=de, Pattern=het, Pattern=het neus, Pattern=met, Pattern=piercing, Pattern=met het, Pattern=zijn
+	Constrained: Pattern=neus, Pattern=het, Pattern=met
+Turn ID=16| A | A : waar dat waar het schijf aan zitten
+	Free: Pattern=dat, Pattern=het, Pattern=aan
+	Constrained: 
+Turn ID=17| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=18| B | B : letter A
+	Free: 
+	Constrained: 
+Turn ID=19| B | B : neuspiercing met het pluk
+	Free: Pattern=het pluk, Pattern=met het, Pattern=neuspiercing
+	Constrained: Pattern=pluk, Pattern=het, Pattern=met
+Turn ID=20| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=21| A | A : nummer vijf
+	Free: 
+	Constrained: 
+Turn ID=22| A | A : de neus met neuspiercing
+	Free: Pattern=neus, Pattern=de, Pattern=neuspiercing, Pattern=met
+	Constrained: 
+Turn ID=23| A | A : en het pluk
+	Free: Pattern=en het, Pattern=het pluk
+	Constrained: Pattern=en, Pattern=pluk, Pattern=het
+Turn ID=24| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=25| B | B : moeten even zoeken
+	Free: 
+	Constrained: 
+Turn ID=26| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=27| B | B : letter H
+	Free: 
+	Constrained: 
+Turn ID=28| B | B : hij hebben een piercing door zijn neus
+	Free: Pattern=door, Pattern=een, Pattern=hebben, Pattern=neus, Pattern=piercing, Pattern=zijn
+	Constrained: 
+Turn ID=29| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=30| A | A : nummer vijftien
+	Free: 
+	Constrained: 

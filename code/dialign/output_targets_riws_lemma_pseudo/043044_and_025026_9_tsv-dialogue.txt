@@ -1,0 +1,147 @@
+B|0| B: ok _jij moeten_ _hem_ _dus_ raden 
+B|1| B: _ja_ _er_ _zitten_ _een soort_ van _het_ _zijn_ _een soort_ van kop _en_ daar _zitten_ _een_ lepeltje _in_ _en een_ steel eraan _en_ _aan de_ bovenkant _zitten_ _een_ 
+A|2| A: [jij] hebben [het] vierkant geloven _ik_ 
+B|3| B: half rond _aan de_ onderkant _zijn_ hij _wat_ spitser [ik] vinden _het een beetje_ _een_ koffiekopje 
+A|4| A: _nee_ [jij moeten] dan gaan mij gaan vertellen welk [het] 
+A|5| A: maken niet uit 
+A|6| A: _zeggen_ [het] _maar_ 
+B|7| B: _ja_ _aan de linkerkant_ _zitten_ _een_ steel 
+A|8| A: cilinder [aan de linkerkant] 
+B|9| B: _ja_ 
+B|10| B: [nee] _ja_ _er_ _zijn_ _zeggen maar_ één _soort_ van lepeltje denken [ik] _en_ _er_ _zijn_ _een_ half rond [aan de] achterkant 
+A|11| A: [en [een] soort] sprie eruit 
+A|12| A: [ja] 
+A|13| A: [ik] hebben _die_ zelf omschrijven als [een soort] glas _met_ [een] schijf citroen erop 
+A|14| A: omdat [het een beetje] zo lijken kunnen [ik] [hem] daarmee vergelijken 
+A|15| A: [ja] 
+A|16| A: nou dan dan hebben [ik] [hem] 
+A|17| A: dan [zijn] [het] dertien 
+B|18| B: [ja] 
+B|19| B: ok _dat zijn_ O 
+A|20| A: oké _dit zijn_ [wat] [ik] _die_ _met_ [het] citroenschijf noemen [zeggen maar] [dus] [een soort] _met_ zo'n [soort] cilinder _die er_ nog uit steken [en [een] soort] [ja] bijna [een soort] staafje [er] nog bovenin 
+B|21| B: [ja] [dit zijn] _dat_ kop [met] [de] lepeltje [die er] _in_ hangen half rond [aan de] achterkant 
+A|22| A: maken niet uit 
+A|23| A: [ja] [ik] hebben [hem] 
+A|24| A: [dat zijn] acht 
+B|25| B: [ja] [dat zijn] C 
+B|26| B: [ja] [dit zijn] [met] [dat] kop [met] [dat] half rond [aan de] achterkant 
+B|27| B: [dat zijn] C 
+A|28| A: [dit zijn] [de] citroenschijf [zeggen maar] 
+A|29| A: [met] [het] stok erin 
+A|30| A: [ja] precies 
+A|31| A: [ja] precies [dat zijn] zeven 
+A|32| A: [dit zijn] [de] citroenschijf [en] [het] staafje [wat] [er] nog [in] [zitten] 
+A|33| A: ah 
+A|34| A: top 
+A|35| A: Hallo 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : ok jij moeten hem dus raden
+	Free: Pattern=jij moeten, Pattern=hem, Pattern=dus
+	Constrained: Pattern=jij
+Turn ID=1| B | B : ja er zitten een soort van het zijn een soort van kop en daar zitten een lepeltje in en een steel eraan en aan de bovenkant zitten een
+	Free: Pattern=ja, Pattern=aan de, Pattern=een, Pattern=het, Pattern=in, Pattern=zitten, Pattern=er, Pattern=een soort, Pattern=en, Pattern=en een, Pattern=zijn
+	Constrained: Pattern=en, Pattern=soort, Pattern=een, Pattern=de
+Turn ID=2| A | A : jij hebben het vierkant geloven ik
+	Free: Pattern=ik, Pattern=het, Pattern=jij
+	Constrained: 
+Turn ID=3| B | B : half rond aan de onderkant zijn hij wat spitser ik vinden het een beetje een koffiekopje
+	Free: Pattern=het een beetje, Pattern=aan de, Pattern=een, Pattern=wat, Pattern=ik, Pattern=zijn
+	Constrained: Pattern=een, Pattern=de, Pattern=het
+Turn ID=4| A | A : nee jij moeten dan gaan mij gaan vertellen welk het
+	Free: Pattern=jij moeten, Pattern=nee, Pattern=het
+	Constrained: Pattern=jij
+Turn ID=5| A | A : maken niet uit
+	Free: 
+	Constrained: 
+Turn ID=6| A | A : zeggen het maar
+	Free: Pattern=maar, Pattern=het, Pattern=zeggen
+	Constrained: 
+Turn ID=7| B | B : ja aan de linkerkant zitten een steel
+	Free: Pattern=aan de linkerkant, Pattern=een, Pattern=ja, Pattern=zitten
+	Constrained: Pattern=aan de, Pattern=de
+Turn ID=8| A | A : cilinder aan de linkerkant
+	Free: Pattern=aan de linkerkant
+	Constrained: Pattern=aan de, Pattern=de
+Turn ID=9| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=10| B | B : nee ja er zijn zeggen maar één soort van lepeltje denken ik en er zijn een half rond aan de achterkant
+	Free: Pattern=soort, Pattern=ja, Pattern=aan de, Pattern=een, Pattern=er, Pattern=ik, Pattern=en, Pattern=zijn, Pattern=zeggen maar, Pattern=nee
+	Constrained: Pattern=de, Pattern=maar, Pattern=zeggen
+Turn ID=11| A | A : en een soort sprie eruit
+	Free: Pattern=en een, Pattern=een soort
+	Constrained: Pattern=en, Pattern=soort, Pattern=een
+Turn ID=12| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=13| A | A : ik hebben die zelf omschrijven als een soort glas met een schijf citroen erop
+	Free: Pattern=een, Pattern=met, Pattern=die, Pattern=ik, Pattern=een soort
+	Constrained: Pattern=soort, Pattern=een
+Turn ID=14| A | A : omdat het een beetje zo lijken kunnen ik hem daarmee vergelijken
+	Free: Pattern=het een beetje, Pattern=ik, Pattern=hem
+	Constrained: Pattern=een, Pattern=het
+Turn ID=15| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=16| A | A : nou dan dan hebben ik hem
+	Free: Pattern=ik, Pattern=hem
+	Constrained: 
+Turn ID=17| A | A : dan zijn het dertien
+	Free: Pattern=zijn, Pattern=het
+	Constrained: 
+Turn ID=18| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=19| B | B : ok dat zijn O
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=20| A | A : oké dit zijn wat ik die met het citroenschijf noemen zeggen maar dus een soort met zo'n soort cilinder die er nog uit steken en een soort ja bijna een soort staafje er nog bovenin
+	Free: Pattern=zeggen maar, Pattern=het, Pattern=met, Pattern=die, Pattern=en een, Pattern=dit zijn, Pattern=die er, Pattern=soort, Pattern=dus, Pattern=ja, Pattern=wat, Pattern=er, Pattern=ik, Pattern=een soort
+	Constrained: Pattern=soort, Pattern=een, Pattern=zeggen, Pattern=die, Pattern=er, Pattern=en, Pattern=zijn, Pattern=maar
+Turn ID=21| B | B : ja dit zijn dat kop met de lepeltje die er in hangen half rond aan de achterkant
+	Free: Pattern=dat, Pattern=die er, Pattern=aan de, Pattern=in, Pattern=met, Pattern=dit zijn, Pattern=de, Pattern=ja
+	Constrained: Pattern=zijn, Pattern=de, Pattern=er, Pattern=die
+Turn ID=22| A | A : maken niet uit
+	Free: 
+	Constrained: 
+Turn ID=23| A | A : ja ik hebben hem
+	Free: Pattern=ik, Pattern=hem, Pattern=ja
+	Constrained: 
+Turn ID=24| A | A : dat zijn acht
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=25| B | B : ja dat zijn C
+	Free: Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=26| B | B : ja dit zijn met dat kop met dat half rond aan de achterkant
+	Free: Pattern=dat, Pattern=ja, Pattern=aan de, Pattern=met, Pattern=dit zijn
+	Constrained: Pattern=zijn, Pattern=de
+Turn ID=27| B | B : dat zijn C
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=28| A | A : dit zijn de citroenschijf zeggen maar
+	Free: Pattern=zeggen maar, Pattern=dit zijn, Pattern=de
+	Constrained: Pattern=zijn, Pattern=maar, Pattern=zeggen
+Turn ID=29| A | A : met het stok erin
+	Free: Pattern=het, Pattern=met
+	Constrained: 
+Turn ID=30| A | A : ja precies
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=31| A | A : ja precies dat zijn zeven
+	Free: Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=32| A | A : dit zijn de citroenschijf en het staafje wat er nog in zitten
+	Free: Pattern=de, Pattern=het, Pattern=in, Pattern=zitten, Pattern=en, Pattern=dit zijn, Pattern=wat, Pattern=er
+	Constrained: Pattern=zijn
+Turn ID=33| A | A : ah
+	Free: 
+	Constrained: 
+Turn ID=34| A | A : top
+	Free: 
+	Constrained: 
+Turn ID=35| A | A : Hallo
+	Free: 
+	Constrained: 

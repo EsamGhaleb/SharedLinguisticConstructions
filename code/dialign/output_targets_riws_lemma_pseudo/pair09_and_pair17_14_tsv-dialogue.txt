@@ -1,0 +1,131 @@
+B|0| B: _ja_ 
+B|1| B: soort van hengel uitsteeksel 
+B|2| B: p 
+A|3| A: _deze hebben_ het kop _zitten_ vast _aan_ _een_ balk 
+A|4| A: _en_ _zitten_ wat hoog 
+A|5| A: _en_ _die_ _hebben een_ balle 
+A|6| A: op _zijn_ hoofd 
+A|7| A: of half in het kop 
+A|8| A: _en_ _die_ _hebben_ _de_ linkerarm _die_ _een_ beetje zo doen _en_ _de_ Rechteram _zijn_ half afsnijden lijken het wel 
+A|9| A: alsof _die_ niet op _de_ foto _zitten_ laten _we_ het zo maar zeggen 
+B|10| B: [deze hebben] [we] al [hebben] er [zitten] bovenop [zitten] er _een bal_ 
+B|11| B: [aan] beide kant komen er twee soort van handvaten uit 
+B|12| B: [en] voorop [zijn] er [een] lang rechthoekig ding 
+B|13| B: _ja_ 
+A|14| A: [ja] dat [zijn] nummer dertien 
+B|15| B: [ja] 
+B|16| B: J 
+B|17| B: [deze [hebben] _een] bal_ bovenop 
+B|18| B: [en] twee handvat soort van [die] eruit komen 
+B|19| B: [en] er [zitten] [een] staaf voorop 
+A|20| A: [deze] [we] kunnen het [een] treehugger noemen nee 
+A|21| A: hij lijken net of hij vastzitten of één of [een] stok gaan omhelzen _met_ [een bal] op [zijn] hoofd 
+A|22| A: dat [zijn] _met die_ houten stok 
+A|23| A: [en] dan [zitten] het kop iets hoog 
+A|24| A: _en een_ houten blok 
+A|25| A: [ja] dat [zijn] nummer drie 
+B|26| B: [ja] J 
+B|27| B: dit [zijn] [die] [met die] [bal] bovenop twee handvaten [aan] [de] [aan] [de] beide kant [en een] staaf voorop 
+A|28| A: [deze] [deze hebben] [met] dat balkje [en] dat dan zo om dat balkje heen gaan 
+A|29| A: [en een] ei 
+A|30| A: waar [zitten] je 
+A|31| A: dat [zijn] nummer acht 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=1| B | B : soort van hengel uitsteeksel
+	Free: 
+	Constrained: 
+Turn ID=2| B | B : p
+	Free: 
+	Constrained: 
+Turn ID=3| A | A : deze hebben het kop zitten vast aan een balk
+	Free: Pattern=deze hebben, Pattern=een, Pattern=aan, Pattern=zitten
+	Constrained: Pattern=hebben, Pattern=deze
+Turn ID=4| A | A : en zitten wat hoog
+	Free: Pattern=en, Pattern=zitten
+	Constrained: 
+Turn ID=5| A | A : en die hebben een balle
+	Free: Pattern=hebben een, Pattern=en, Pattern=die
+	Constrained: Pattern=een, Pattern=hebben
+Turn ID=6| A | A : op zijn hoofd
+	Free: Pattern=zijn
+	Constrained: 
+Turn ID=7| A | A : of half in het kop
+	Free: 
+	Constrained: 
+Turn ID=8| A | A : en die hebben de linkerarm die een beetje zo doen en de Rechteram zijn half afsnijden lijken het wel
+	Free: Pattern=de, Pattern=een, Pattern=hebben, Pattern=die, Pattern=en, Pattern=zijn
+	Constrained: 
+Turn ID=9| A | A : alsof die niet op de foto zitten laten we het zo maar zeggen
+	Free: Pattern=we, Pattern=die, Pattern=de, Pattern=zitten
+	Constrained: 
+Turn ID=10| B | B : deze hebben we al hebben er zitten bovenop zitten er een bal
+	Free: Pattern=hebben, Pattern=deze hebben, Pattern=een bal, Pattern=we, Pattern=zitten
+	Constrained: Pattern=een, Pattern=hebben, Pattern=bal, Pattern=deze
+Turn ID=11| B | B : aan beide kant komen er twee soort van handvaten uit
+	Free: Pattern=aan
+	Constrained: 
+Turn ID=12| B | B : en voorop zijn er een lang rechthoekig ding
+	Free: Pattern=een, Pattern=en, Pattern=zijn
+	Constrained: 
+Turn ID=13| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=14| A | A : ja dat zijn nummer dertien
+	Free: Pattern=zijn, Pattern=ja
+	Constrained: 
+Turn ID=15| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=16| B | B : J
+	Free: 
+	Constrained: 
+Turn ID=17| B | B : deze hebben een bal bovenop
+	Free: Pattern=deze hebben, Pattern=hebben een, Pattern=een bal
+	Constrained: Pattern=een, Pattern=hebben, Pattern=bal, Pattern=deze
+Turn ID=18| B | B : en twee handvat soort van die eruit komen
+	Free: Pattern=en, Pattern=die
+	Constrained: 
+Turn ID=19| B | B : en er zitten een staaf voorop
+	Free: Pattern=een, Pattern=en, Pattern=zitten
+	Constrained: 
+Turn ID=20| A | A : deze we kunnen het een treehugger noemen nee
+	Free: Pattern=een, Pattern=we, Pattern=deze
+	Constrained: 
+Turn ID=21| A | A : hij lijken net of hij vastzitten of één of een stok gaan omhelzen met een bal op zijn hoofd
+	Free: Pattern=een bal, Pattern=een, Pattern=zijn, Pattern=met
+	Constrained: Pattern=een, Pattern=bal
+Turn ID=22| A | A : dat zijn met die houten stok
+	Free: Pattern=met die, Pattern=zijn
+	Constrained: Pattern=die, Pattern=met
+Turn ID=23| A | A : en dan zitten het kop iets hoog
+	Free: Pattern=en, Pattern=zitten
+	Constrained: 
+Turn ID=24| A | A : en een houten blok
+	Free: Pattern=en een
+	Constrained: Pattern=een, Pattern=en
+Turn ID=25| A | A : ja dat zijn nummer drie
+	Free: Pattern=zijn, Pattern=ja
+	Constrained: 
+Turn ID=26| B | B : ja J
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=27| B | B : dit zijn die met die bal bovenop twee handvaten aan de aan de beide kant en een staaf voorop
+	Free: Pattern=met die, Pattern=bal, Pattern=die, Pattern=de, Pattern=aan, Pattern=en een, Pattern=zijn
+	Constrained: Pattern=een, Pattern=en, Pattern=die, Pattern=met
+Turn ID=28| A | A : deze deze hebben met dat balkje en dat dan zo om dat balkje heen gaan
+	Free: Pattern=deze hebben, Pattern=en, Pattern=met, Pattern=deze
+	Constrained: Pattern=hebben, Pattern=deze
+Turn ID=29| A | A : en een ei
+	Free: Pattern=en een
+	Constrained: Pattern=een, Pattern=en
+Turn ID=30| A | A : waar zitten je
+	Free: Pattern=zitten
+	Constrained: 
+Turn ID=31| A | A : dat zijn nummer acht
+	Free: Pattern=zijn
+	Constrained: 

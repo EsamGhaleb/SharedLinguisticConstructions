@@ -1,0 +1,83 @@
+A|0| A: _oké_ _ja_ ik hebben _het_ als _met_ die drie woord hebben ik _het_ eigenlijk beschrijven als een neus _neuspiercing_ je zien gewoon een bol erop _en_ 
+A|1| A: een vierkant staaf gaan erdoorheen _met_ op _het_ einde _aan_ die staaf zitten een cirkel _en_ _dan_ hebben die _nog_ zo'n pluk pluk haar of zo _ja_ 
+B|2| B: [ja] 
+B|3| B: [ja] [en] [nog] één flap [aan] _de_ achterkant 
+B|4| B: [ja] [ja] 
+B|5| B: [oké] [dan] F 
+B|6| B: _de neuspiercing_ 
+B|7| B: [met] [met] [het] rond [aan] _de_ ander kant 
+A|8| A: [oké] 
+A|9| A: [ja] _even_ kijken [ja] vijf 
+A|10| A: [neuspiercing] 
+B|11| B: [ja] A 
+B|12| B: moeten [even] wat links [en] rechts _zijn_ _de neuspiercing_ 
+A|13| A: [neuspiercing] dat [zijn] vijf 
+A|14| A: [de neuspiercing] 
+B|15| B: [ja] searching H 
+B|16| B: [de neuspiercing] 
+A|17| A: nee 
+A|18| A: [de neuspiercing] 
+A|19| A: ah [ja] vijftien 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : oké ja ik hebben het als met die drie woord hebben ik het eigenlijk beschrijven als een neus neuspiercing je zien gewoon een bol erop en
+	Free: Pattern=ja, Pattern=het, Pattern=met, Pattern=oké, Pattern=en, Pattern=neuspiercing
+	Constrained: 
+Turn ID=1| A | A : een vierkant staaf gaan erdoorheen met op het einde aan die staaf zitten een cirkel en dan hebben die nog zo'n pluk pluk haar of zo ja
+	Free: Pattern=nog, Pattern=dan, Pattern=het, Pattern=met, Pattern=en, Pattern=aan, Pattern=ja
+	Constrained: 
+Turn ID=2| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=3| B | B : ja en nog één flap aan de achterkant
+	Free: Pattern=nog, Pattern=en, Pattern=de, Pattern=aan, Pattern=ja
+	Constrained: 
+Turn ID=4| B | B : ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=5| B | B : oké dan F
+	Free: Pattern=dan, Pattern=oké
+	Constrained: 
+Turn ID=6| B | B : de neuspiercing
+	Free: Pattern=de neuspiercing
+	Constrained: Pattern=neuspiercing, Pattern=de
+Turn ID=7| B | B : met met het rond aan de ander kant
+	Free: Pattern=met, Pattern=aan, Pattern=het, Pattern=de
+	Constrained: 
+Turn ID=8| A | A : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=9| A | A : ja even kijken ja vijf
+	Free: Pattern=ja, Pattern=even
+	Constrained: 
+Turn ID=10| A | A : neuspiercing
+	Free: Pattern=neuspiercing
+	Constrained: 
+Turn ID=11| B | B : ja A
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=12| B | B : moeten even wat links en rechts zijn de neuspiercing
+	Free: Pattern=de neuspiercing, Pattern=even, Pattern=en, Pattern=zijn
+	Constrained: Pattern=neuspiercing, Pattern=de
+Turn ID=13| A | A : neuspiercing dat zijn vijf
+	Free: Pattern=zijn, Pattern=neuspiercing
+	Constrained: 
+Turn ID=14| A | A : de neuspiercing
+	Free: Pattern=de neuspiercing
+	Constrained: Pattern=neuspiercing, Pattern=de
+Turn ID=15| B | B : ja searching H
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=16| B | B : de neuspiercing
+	Free: Pattern=de neuspiercing
+	Constrained: Pattern=neuspiercing, Pattern=de
+Turn ID=17| A | A : nee
+	Free: 
+	Constrained: 
+Turn ID=18| A | A : de neuspiercing
+	Free: Pattern=de neuspiercing
+	Constrained: Pattern=neuspiercing, Pattern=de
+Turn ID=19| A | A : ah ja vijftien
+	Free: Pattern=ja
+	Constrained: 

@@ -1,0 +1,123 @@
+A|0| A: die van mij _zijn_ _een_ soort van _aan de linkerkant_ lopen die eigenlijk _een beetje_ bol maar die _hebben_ _een_ soort inkeping zo 
+A|1| A: _en_ _het_ _zijn_ eigenlijk _een rond_ _en_ _je_ zien _dan_ twee schaduw daarbovenop steken er _iets_ uit _dat zijn_ _een_ soort _ja_ _ja_ soort schoorsteenachtig _weten_ _je_ wel die smal afloopt _en_ _dan_ _rechts een_ plateau _dat_ _rond_ _zijn_ 
+A|2| A: okee 
+B|3| B: [ja] 
+B|4| B: [een beetje] [rond] plank of niet [dan] 
+B|5| B: [dat zijn] L 
+A|6| A: nu gaan gaan _het_ als [een] trein 
+A|7| A: [ja] [ja] _met_ [dat] _plateaut_ _met_ [dat] [rond] 
+A|8| A: zestien 
+B|9| B: worden hier goed in 
+B|10| B: [een] kop [met] [aan de linkerkant] [een] balk waar [een] spijker uitsteken 
+B|11| B: op [zijn] timmeren 
+B|12| B: [en] [een rond] [plateaut] 
+B|13| B: [aan de] ander kant 
+A|14| A: _ik hebben_ nu diegene [met] die schoorsteen die aflooppen [met] [dat] plateau [met] [dat] [rond] [en] [dat] die vorm [met] die inkeping 
+A|15| A: [de] 
+A|16| A: [ja] 
+A|17| A: nummer zes 
+B|18| B: H 
+A|19| A: dit [zijn] [met] _het_ schoorsteen [en] [de] inkeping [en] [de] [en] _het_ [rond] plateautje _rechts_ 
+A|20| A: [met] [de] schoorsteen 
+A|21| A: achten 
+B|22| B: kop [met] [aan de linkerkant] [een] staaf [met] [een] spijker of jij noemen [het] net [iets] ander 
+B|23| B: [ik] [weten] niet veel wat [je] zeggen 
+B|24| B: [ja] 
+B|25| B: [en] [aan de] rechterkant [een rond] [plateaut] 
+B|26| B: A 
+B|27| B: [met] 
+B|28| B: [ik hebben] net [de] verkeerd kiezen 
+B|29| B: links [de] link namelijk [de] pilaar [met] [een] spijker eruit , [rechts [een] rond] [plateaut] 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : die van mij zijn een soort van aan de linkerkant lopen die eigenlijk een beetje bol maar die hebben een soort inkeping zo
+	Free: Pattern=een, Pattern=hebben, Pattern=zijn, Pattern=een beetje, Pattern=aan de linkerkant
+	Constrained: Pattern=de, Pattern=aan de, Pattern=een
+Turn ID=1| A | A : en het zijn eigenlijk een rond en je zien dan twee schaduw daarbovenop steken er iets uit dat zijn een soort ja ja soort schoorsteenachtig weten je wel die smal afloopt en dan rechts een plateau dat rond zijn
+	Free: Pattern=dan, Pattern=een, Pattern=weten, Pattern=het, Pattern=rechts een, Pattern=en, Pattern=zijn, Pattern=je, Pattern=dat, Pattern=dat zijn, Pattern=iets, Pattern=ja, Pattern=een rond, Pattern=rond
+	Constrained: Pattern=dat, Pattern=rechts, Pattern=een, Pattern=rond, Pattern=zijn
+Turn ID=2| A | A : okee
+	Free: 
+	Constrained: 
+Turn ID=3| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=4| B | B : een beetje rond plank of niet dan
+	Free: Pattern=een beetje, Pattern=dan, Pattern=rond
+	Constrained: Pattern=een
+Turn ID=5| B | B : dat zijn L
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=6| A | A : nu gaan gaan het als een trein
+	Free: Pattern=een, Pattern=het
+	Constrained: 
+Turn ID=7| A | A : ja ja met dat plateaut met dat rond
+	Free: Pattern=ja, Pattern=met, Pattern=rond, Pattern=dat, Pattern=plateaut
+	Constrained: 
+Turn ID=8| A | A : zestien
+	Free: 
+	Constrained: 
+Turn ID=9| B | B : worden hier goed in
+	Free: 
+	Constrained: 
+Turn ID=10| B | B : een kop met aan de linkerkant een balk waar een spijker uitsteken
+	Free: Pattern=aan de linkerkant, Pattern=een, Pattern=met
+	Constrained: Pattern=aan de, Pattern=de
+Turn ID=11| B | B : op zijn timmeren
+	Free: Pattern=zijn
+	Constrained: 
+Turn ID=12| B | B : en een rond plateaut
+	Free: Pattern=een rond, Pattern=en, Pattern=plateaut
+	Constrained: Pattern=rond, Pattern=een
+Turn ID=13| B | B : aan de ander kant
+	Free: Pattern=aan de
+	Constrained: Pattern=de
+Turn ID=14| A | A : ik hebben nu diegene met die schoorsteen die aflooppen met dat plateau met dat rond en dat die vorm met die inkeping
+	Free: Pattern=ik hebben, Pattern=dat, Pattern=met, Pattern=en, Pattern=rond
+	Constrained: Pattern=ik, Pattern=hebben
+Turn ID=15| A | A : de
+	Free: Pattern=de
+	Constrained: 
+Turn ID=16| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=17| A | A : nummer zes
+	Free: 
+	Constrained: 
+Turn ID=18| B | B : H
+	Free: 
+	Constrained: 
+Turn ID=19| A | A : dit zijn met het schoorsteen en de inkeping en de en het rond plateautje rechts
+	Free: Pattern=het, Pattern=met, Pattern=en, Pattern=rond, Pattern=zijn, Pattern=de, Pattern=rechts
+	Constrained: 
+Turn ID=20| A | A : met de schoorsteen
+	Free: Pattern=de, Pattern=met
+	Constrained: 
+Turn ID=21| A | A : achten
+	Free: 
+	Constrained: 
+Turn ID=22| B | B : kop met aan de linkerkant een staaf met een spijker of jij noemen het net iets ander
+	Free: Pattern=iets, Pattern=een, Pattern=het, Pattern=met, Pattern=aan de linkerkant
+	Constrained: Pattern=aan de, Pattern=de
+Turn ID=23| B | B : ik weten niet veel wat je zeggen
+	Free: Pattern=ik, Pattern=weten, Pattern=je
+	Constrained: 
+Turn ID=24| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=25| B | B : en aan de rechterkant een rond plateaut
+	Free: Pattern=aan de, Pattern=een rond, Pattern=en, Pattern=plateaut
+	Constrained: Pattern=rond, Pattern=de, Pattern=een
+Turn ID=26| B | B : A
+	Free: 
+	Constrained: 
+Turn ID=27| B | B : met
+	Free: Pattern=met
+	Constrained: 
+Turn ID=28| B | B : ik hebben net de verkeerd kiezen
+	Free: Pattern=ik hebben, Pattern=de
+	Constrained: Pattern=ik, Pattern=hebben
+Turn ID=29| B | B : links de link namelijk de pilaar met een spijker eruit , rechts een rond plateaut
+	Free: Pattern=plateaut, Pattern=de, Pattern=een, Pattern=rechts een, Pattern=met, Pattern=een rond
+	Constrained: Pattern=rond, Pattern=een, Pattern=rechts

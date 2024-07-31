@@ -1,0 +1,255 @@
+A|0| A: _oké_ _en_ _en_ _ik hebben_ gewoon zestien dinget 
+A|1| A: _ja_ 
+A|2| A: _zitten_ er _ook_ _een_ lepeltje _in_ 
+A|3| A: _en _een_ soort_ cilinderachtig ding _aan de_ zijkant 
+B|4| B: [oké] [ik hebben] _het_ rood vierkant hij [hebben] [een] [een] _rond_ cilinder [aan de] naar [de] links kant toe _het_ lijken _wel_ _op_ [een] gezicht _dat_ naar links _kijken_ 
+A|5| A: _ja_ 
+A|6| A: _hebben die_ _ook_ [een] smal onderkant _waar_ _die op_ _staan_ 
+A|7| A: [oké] _dan_ _dan_ denken [ik] [dat] [ik] hem [wel] _weten_ 
+B|8| B: [en] hij [hebben] achterop [hebben die] [een] staart [op] _het_ hoofd 
+A|9| A: _dat zijn_ _nummer_ dertien 
+B|10| B: [ik] [weten] niet of _je_ [dan] [weten] welk _het_ [zijn] 
+B|11| B: [en] [aan de] rechterzijkant van [zijn] hoofd zullen [die] [dan] [een] [een] plat _rond_ [hebben] 
+B|12| B: _het_ hoofd [staan] [ook] [op] [een soort] nekje of zo lijken _het_ [wel] 
+B|13| B: heel klein 
+B|14| B: ovaal 
+B|15| B: [ja] [aan de] achterkant [zitten] [een] plat _rond_ [dat] zullen [dan] 
+B|16| B: nee 
+B|17| B: [een] [een soort] neus naar [de] voorkant 
+B|18| B: [een] _rond_ neusje 
+B|19| B: [en] hij _kijken_ zeggen maar naar links toe 
+B|20| B: _met_ [een] kegeltje als neus [en] [dan] zullen [die op] [zijn] [aan de] achterkant [zitten] [een] [een] plat schijf 
+B|21| B: [en een] kuifje 
+B|22| B: [ja] [aan de] bovenkant [zitten] [een soort] kegel [ja] zo'n bowlingkegeldinge 
+B|23| B: niet zo heel groot 
+B|24| B: nee 
+B|25| B: nee nee nee 
+B|26| B: hij [hebben] rechtsachter [zitten] zo'n [soort] [een] bowlingkegel maar [dan] [op] [zijn] kop zeggen maar 
+B|27| B: [die] zien _je_ [wel] [op] meerdere plaat maar [en] [op] [de] achterkant [zitten] [een] plat schijf 
+B|28| B: [en] [dan] [zitten] [aan de] links kant [zitten] [een] [een soort] neusje 
+B|29| B: [ja] 
+B|30| B: [dan] mogen jij zeggen welk [nummer] 
+B|31| B: [oké] 
+B|32| B: [ja] 
+B|33| B: [ja] [die] plat cirkel daarachter tegenaan 
+B|34| B: [ja] [dat zijn] bij mij [zijn] [dat] O 
+B|35| B: nieuw 
+B|36| B: dit [zijn] [die] [ik] als allereer [ook] [hebben] _met_ [die] _rond_ plaat [aan de] achterkant [en een] balk naar link 
+B|37| B: [die op] [een] nek [staan] 
+A|38| A: [ik hebben] [de] [het] koffiekoekje 
+A|39| A: [met] [de] smal onderkant 
+B|40| B: [het] voe [waar] [zijn] [het] voe 
+B|41| B: cilinder [in] [de] plat ronde [aan de] achterkant 
+B|42| B: [ja] [ja] [ja] [ja] [ja] 
+B|43| B: [dat zijn] bij mij C 
+A|44| A: ze [zijn] weer veranderen 
+A|45| A: dus 
+A|46| A: [ja] 
+A|47| A: _het rond_ koek 
+A|48| A: even [kijken] [waar] [staan] [je] [ook] alweer ? [ja] daar 
+A|49| A: [dat zijn] [nummer] acht 
+B|50| B: [die] [ik] als allereer [hebben] [met] [het rond] plaat [aan de] achterkant 
+B|51| B: [het] kegelt rechts bovenop [en] 
+B|52| B: [ja] 
+B|53| B: [dat zijn] C 
+B|54| B: best [wel] lachen 
+A|55| A: [het] Ronde koffiekoekje 
+A|56| A: [ja] 
+A|57| A: [ja] [een] raar onderkant 
+A|58| A: [het rond] koek 
+A|59| A: hebbes 
+A|60| A: [nummer] zeven 
+A|61| A: koffiekoekje 
+A|62| A: [ja] 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : oké en en ik hebben gewoon zestien dinget
+	Free: Pattern=ik hebben, Pattern=en, Pattern=oké
+	Constrained: Pattern=ik, Pattern=hebben
+Turn ID=1| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=2| A | A : zitten er ook een lepeltje in
+	Free: Pattern=ook, Pattern=in, Pattern=een, Pattern=zitten
+	Constrained: 
+Turn ID=3| A | A : en een soort cilinderachtig ding aan de zijkant
+	Free: Pattern=aan de, Pattern=en een, Pattern=een soort
+	Constrained: Pattern=en, Pattern=soort, Pattern=de, Pattern=een
+Turn ID=4| B | B : oké ik hebben het rood vierkant hij hebben een een rond cilinder aan de naar de links kant toe het lijken wel op een gezicht dat naar links kijken
+	Free: Pattern=ik hebben, Pattern=dat, Pattern=de, Pattern=kijken, Pattern=het, Pattern=hebben, Pattern=oké, Pattern=rond, Pattern=op, Pattern=aan de, Pattern=een, Pattern=wel
+	Constrained: Pattern=de, Pattern=ik, Pattern=hebben
+Turn ID=5| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=6| A | A : hebben die ook een smal onderkant waar die op staan
+	Free: Pattern=waar, Pattern=ook, Pattern=die op, Pattern=hebben die, Pattern=een, Pattern=staan
+	Constrained: Pattern=die, Pattern=hebben, Pattern=op
+Turn ID=7| A | A : oké dan dan denken ik dat ik hem wel weten
+	Free: Pattern=dat, Pattern=dan, Pattern=wel, Pattern=weten, Pattern=oké, Pattern=ik
+	Constrained: 
+Turn ID=8| B | B : en hij hebben achterop hebben die een staart op het hoofd
+	Free: Pattern=op, Pattern=een, Pattern=het, Pattern=hebben, Pattern=en, Pattern=hebben die
+	Constrained: Pattern=die, Pattern=hebben
+Turn ID=9| A | A : dat zijn nummer dertien
+	Free: Pattern=dat zijn, Pattern=nummer
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=10| B | B : ik weten niet of je dan weten welk het zijn
+	Free: Pattern=dan, Pattern=weten, Pattern=het, Pattern=ik, Pattern=zijn, Pattern=je
+	Constrained: 
+Turn ID=11| B | B : en aan de rechterzijkant van zijn hoofd zullen die dan een een plat rond hebben
+	Free: Pattern=aan de, Pattern=dan, Pattern=een, Pattern=hebben, Pattern=die, Pattern=en, Pattern=rond, Pattern=zijn
+	Constrained: Pattern=de
+Turn ID=12| B | B : het hoofd staan ook op een soort nekje of zo lijken het wel
+	Free: Pattern=het, Pattern=een soort, Pattern=op, Pattern=ook, Pattern=staan, Pattern=wel
+	Constrained: Pattern=soort, Pattern=een
+Turn ID=13| B | B : heel klein
+	Free: 
+	Constrained: 
+Turn ID=14| B | B : ovaal
+	Free: 
+	Constrained: 
+Turn ID=15| B | B : ja aan de achterkant zitten een plat rond dat zullen dan
+	Free: Pattern=dat, Pattern=ja, Pattern=aan de, Pattern=dan, Pattern=een, Pattern=zitten, Pattern=rond
+	Constrained: Pattern=de
+Turn ID=16| B | B : nee
+	Free: 
+	Constrained: 
+Turn ID=17| B | B : een een soort neus naar de voorkant
+	Free: Pattern=een soort, Pattern=de, Pattern=een
+	Constrained: Pattern=soort, Pattern=een
+Turn ID=18| B | B : een rond neusje
+	Free: Pattern=rond, Pattern=een
+	Constrained: 
+Turn ID=19| B | B : en hij kijken zeggen maar naar links toe
+	Free: Pattern=en, Pattern=kijken
+	Constrained: 
+Turn ID=20| B | B : met een kegeltje als neus en dan zullen die op zijn aan de achterkant zitten een een plat schijf
+	Free: Pattern=aan de, Pattern=dan, Pattern=een, Pattern=met, Pattern=zitten, Pattern=die op, Pattern=en, Pattern=zijn
+	Constrained: Pattern=de, Pattern=die, Pattern=op
+Turn ID=21| B | B : en een kuifje
+	Free: Pattern=en een
+	Constrained: Pattern=en, Pattern=een
+Turn ID=22| B | B : ja aan de bovenkant zitten een soort kegel ja zo'n bowlingkegeldinge
+	Free: Pattern=aan de, Pattern=een soort, Pattern=ja, Pattern=zitten
+	Constrained: Pattern=soort, Pattern=de, Pattern=een
+Turn ID=23| B | B : niet zo heel groot
+	Free: 
+	Constrained: 
+Turn ID=24| B | B : nee
+	Free: 
+	Constrained: 
+Turn ID=25| B | B : nee nee nee
+	Free: 
+	Constrained: 
+Turn ID=26| B | B : hij hebben rechtsachter zitten zo'n soort een bowlingkegel maar dan op zijn kop zeggen maar
+	Free: Pattern=soort, Pattern=op, Pattern=dan, Pattern=een, Pattern=hebben, Pattern=zitten, Pattern=zijn
+	Constrained: 
+Turn ID=27| B | B : die zien je wel op meerdere plaat maar en op de achterkant zitten een plat schijf
+	Free: Pattern=de, Pattern=op, Pattern=en, Pattern=je, Pattern=een, Pattern=wel, Pattern=die, Pattern=zitten
+	Constrained: 
+Turn ID=28| B | B : en dan zitten aan de links kant zitten een een soort neusje
+	Free: Pattern=aan de, Pattern=dan, Pattern=een, Pattern=zitten, Pattern=een soort, Pattern=en
+	Constrained: Pattern=soort, Pattern=de, Pattern=een
+Turn ID=29| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=30| B | B : dan mogen jij zeggen welk nummer
+	Free: Pattern=dan, Pattern=nummer
+	Constrained: 
+Turn ID=31| B | B : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=32| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=33| B | B : ja die plat cirkel daarachter tegenaan
+	Free: Pattern=ja, Pattern=die
+	Constrained: 
+Turn ID=34| B | B : ja dat zijn bij mij zijn dat O
+	Free: Pattern=dat zijn, Pattern=dat, Pattern=zijn, Pattern=ja
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=35| B | B : nieuw
+	Free: 
+	Constrained: 
+Turn ID=36| B | B : dit zijn die ik als allereer ook hebben met die rond plaat aan de achterkant en een balk naar link
+	Free: Pattern=hebben, Pattern=met, Pattern=die, Pattern=ik, Pattern=rond, Pattern=aan de, Pattern=ook, Pattern=en een, Pattern=zijn
+	Constrained: Pattern=en, Pattern=de, Pattern=een
+Turn ID=37| B | B : die op een nek staan
+	Free: Pattern=die op, Pattern=een, Pattern=staan
+	Constrained: Pattern=die, Pattern=op
+Turn ID=38| A | A : ik hebben de het koffiekoekje
+	Free: Pattern=ik hebben, Pattern=de, Pattern=het
+	Constrained: Pattern=ik, Pattern=hebben
+Turn ID=39| A | A : met de smal onderkant
+	Free: Pattern=de, Pattern=met
+	Constrained: 
+Turn ID=40| B | B : het voe waar zijn het voe
+	Free: Pattern=zijn, Pattern=waar, Pattern=het
+	Constrained: 
+Turn ID=41| B | B : cilinder in de plat ronde aan de achterkant
+	Free: Pattern=aan de, Pattern=de, Pattern=in
+	Constrained: Pattern=de
+Turn ID=42| B | B : ja ja ja ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=43| B | B : dat zijn bij mij C
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=44| A | A : ze zijn weer veranderen
+	Free: Pattern=zijn
+	Constrained: 
+Turn ID=45| A | A : dus
+	Free: 
+	Constrained: 
+Turn ID=46| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=47| A | A : het rond koek
+	Free: Pattern=het rond
+	Constrained: Pattern=rond, Pattern=het
+Turn ID=48| A | A : even kijken waar staan je ook alweer ? ja daar
+	Free: Pattern=ja, Pattern=waar, Pattern=ook, Pattern=kijken, Pattern=staan, Pattern=je
+	Constrained: 
+Turn ID=49| A | A : dat zijn nummer acht
+	Free: Pattern=dat zijn, Pattern=nummer
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=50| B | B : die ik als allereer hebben met het rond plaat aan de achterkant
+	Free: Pattern=aan de, Pattern=hebben, Pattern=het rond, Pattern=met, Pattern=die, Pattern=ik
+	Constrained: Pattern=rond, Pattern=de, Pattern=het
+Turn ID=51| B | B : het kegelt rechts bovenop en
+	Free: Pattern=en, Pattern=het
+	Constrained: 
+Turn ID=52| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=53| B | B : dat zijn C
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=54| B | B : best wel lachen
+	Free: Pattern=wel
+	Constrained: 
+Turn ID=55| A | A : het Ronde koffiekoekje
+	Free: Pattern=het
+	Constrained: 
+Turn ID=56| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=57| A | A : ja een raar onderkant
+	Free: Pattern=ja, Pattern=een
+	Constrained: 
+Turn ID=58| A | A : het rond koek
+	Free: Pattern=het rond
+	Constrained: Pattern=rond, Pattern=het
+Turn ID=59| A | A : hebbes
+	Free: 
+	Constrained: 
+Turn ID=60| A | A : nummer zeven
+	Free: Pattern=nummer
+	Constrained: 
+Turn ID=61| A | A : koffiekoekje
+	Free: 
+	Constrained: 
+Turn ID=62| A | A : ja
+	Free: Pattern=ja
+	Constrained: 

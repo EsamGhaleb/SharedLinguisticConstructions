@@ -1,0 +1,107 @@
+B|0| B: _ja_ 
+B|1| B: J 
+A|2| A: dan _deze hebben_ zo'n triangel of zo'n pyramidevormig iets op _zijn_ hoofd 
+A|3| A: heel scherp 
+A|4| A: en aan _de_ linkerkant _hebben_ hij een mini-arm 
+A|5| A: gaan van dun dan naar dik 
+A|6| A: _hebben_ een heel raar iets hier 
+B|7| B: [deze hebben] [de] pyramide bovenop 
+A|8| A: puntmuts 
+A|9| A: [ja] 
+A|10| A: dat _zijn_ nummer zes 
+A|11| A: [ja] zes 
+B|12| B: [ja] b 
+A|13| A: [deze hebben] zo'n heel puntig ding _boven_ 
+A|14| A: en [hebben] dat rond hier beneden 
+A|15| A: en een klein armpje van dun naar dik 
+B|16| B: dit [zijn] _die_ _met die_ pyramide [boven] bovenop 
+A|17| A: puntmuts 
+A|18| A: [ja] zo 
+A|19| A: dat [zijn] nummer vijfteen 
+B|20| B: à 
+B|21| B: dit [zijn] degeen _met_ [de] pyramide bovenop 
+A|22| A: [deze] [zijn] [met die] puntmuts 
+A|23| A: en [met] een dun arm naar dik arm 
+A|24| A: puntmuts 
+A|25| A: dat [zijn] nummer vier 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=1| B | B : J
+	Free: 
+	Constrained: 
+Turn ID=2| A | A : dan deze hebben zo'n triangel of zo'n pyramidevormig iets op zijn hoofd
+	Free: Pattern=deze hebben, Pattern=zijn
+	Constrained: Pattern=hebben, Pattern=deze
+Turn ID=3| A | A : heel scherp
+	Free: 
+	Constrained: 
+Turn ID=4| A | A : en aan de linkerkant hebben hij een mini-arm
+	Free: Pattern=hebben, Pattern=de
+	Constrained: 
+Turn ID=5| A | A : gaan van dun dan naar dik
+	Free: 
+	Constrained: 
+Turn ID=6| A | A : hebben een heel raar iets hier
+	Free: Pattern=hebben
+	Constrained: 
+Turn ID=7| B | B : deze hebben de pyramide bovenop
+	Free: Pattern=deze hebben, Pattern=de
+	Constrained: Pattern=hebben, Pattern=deze
+Turn ID=8| A | A : puntmuts
+	Free: 
+	Constrained: 
+Turn ID=9| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=10| A | A : dat zijn nummer zes
+	Free: Pattern=zijn
+	Constrained: 
+Turn ID=11| A | A : ja zes
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=12| B | B : ja b
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=13| A | A : deze hebben zo'n heel puntig ding boven
+	Free: Pattern=deze hebben, Pattern=boven
+	Constrained: Pattern=hebben, Pattern=deze
+Turn ID=14| A | A : en hebben dat rond hier beneden
+	Free: Pattern=hebben
+	Constrained: 
+Turn ID=15| A | A : en een klein armpje van dun naar dik
+	Free: 
+	Constrained: 
+Turn ID=16| B | B : dit zijn die met die pyramide boven bovenop
+	Free: Pattern=met die, Pattern=zijn, Pattern=die, Pattern=boven
+	Constrained: Pattern=met, Pattern=die
+Turn ID=17| A | A : puntmuts
+	Free: 
+	Constrained: 
+Turn ID=18| A | A : ja zo
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=19| A | A : dat zijn nummer vijfteen
+	Free: Pattern=zijn
+	Constrained: 
+Turn ID=20| B | B : à
+	Free: 
+	Constrained: 
+Turn ID=21| B | B : dit zijn degeen met de pyramide bovenop
+	Free: Pattern=met, Pattern=zijn, Pattern=de
+	Constrained: 
+Turn ID=22| A | A : deze zijn met die puntmuts
+	Free: Pattern=met die, Pattern=zijn, Pattern=deze
+	Constrained: Pattern=met, Pattern=die
+Turn ID=23| A | A : en met een dun arm naar dik arm
+	Free: Pattern=met
+	Constrained: 
+Turn ID=24| A | A : puntmuts
+	Free: 
+	Constrained: 
+Turn ID=25| A | A : dat zijn nummer vier
+	Free: Pattern=zijn
+	Constrained: 

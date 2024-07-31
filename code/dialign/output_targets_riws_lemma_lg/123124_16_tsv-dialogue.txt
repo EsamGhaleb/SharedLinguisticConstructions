@@ -1,0 +1,95 @@
+A|0| A: _oké_ hier opsteken echt _aan_ al kant iets uit 
+A|1| A: _boven_ _en_ naar _links_ _het_ _zijn_ _een_ beetje _van die_ _ja_ wat _zijn het_ ? _soort_ _joystick_ of zo waar je _aan_ kunnen zitten 
+A|2| A: _en_ naar _rechts_ opsteken _één_ of ander _ja_ wat _zijn het_ ? _blok_ 
+B|3| B: [een] [soort] _blokkentoren_ 
+A|4| A: _ja_ inderdaad [een] _blokkentoar_ 
+B|5| B: [oké] 
+B|6| B: dan [zijn het] E 
+B|7| B: _dit zijn_ _die twee_ waarvan jij zeggen _met die_ [joystick] 
+B|8| B: _twee_ [van die] _joystick één_ [boven] [één] link [en] dan _aan de_ rechterkant [een] [blok] [een] blokkendoos 
+A|9| A: _ja_ _ja_ _ja_ 
+A|10| A: elf 
+A|11| A: [dit zijn] [met [die] twee] [joystick één] bovenop [één] [aan de] zijkant [en] [die] [die] [blokkentoren] erin 
+B|12| B: [ja] dat [zijn] J 
+B|13| B: [dit zijn] [joystick] [boven] [joystick] [links] 
+A|14| A: [ja] 
+B|15| B: [blokkentoar] [rechts] 
+A|16| A: negen 
+A|17| A: [dit zijn] _de joystick_ 
+B|18| B: [de joystick] 
+A|19| A: [rechts] staan [die] 
+B|20| B: B 
+B|21| B: [joystick] [boven] [joystick] [links] 
+A|22| A: vier 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : oké hier opsteken echt aan al kant iets uit
+	Free: Pattern=oké, Pattern=aan
+	Constrained: 
+Turn ID=1| A | A : boven en naar links het zijn een beetje van die ja wat zijn het ? soort joystick of zo waar je aan kunnen zitten
+	Free: Pattern=zijn het, Pattern=soort, Pattern=boven, Pattern=een, Pattern=links, Pattern=het, Pattern=joystick, Pattern=zijn, Pattern=aan, Pattern=ja, Pattern=van die, Pattern=en
+	Constrained: Pattern=die, Pattern=zijn, Pattern=het
+Turn ID=2| A | A : en naar rechts opsteken één of ander ja wat zijn het ? blok
+	Free: Pattern=zijn het, Pattern=en, Pattern=blok, Pattern=één, Pattern=rechts, Pattern=ja
+	Constrained: Pattern=zijn, Pattern=het
+Turn ID=3| B | B : een soort blokkentoren
+	Free: Pattern=blokkentoren, Pattern=soort, Pattern=een
+	Constrained: 
+Turn ID=4| A | A : ja inderdaad een blokkentoar
+	Free: Pattern=ja, Pattern=blokkentoar, Pattern=een
+	Constrained: 
+Turn ID=5| B | B : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=6| B | B : dan zijn het E
+	Free: Pattern=zijn het
+	Constrained: Pattern=zijn, Pattern=het
+Turn ID=7| B | B : dit zijn die twee waarvan jij zeggen met die joystick
+	Free: Pattern=die twee, Pattern=dit zijn, Pattern=met die, Pattern=joystick
+	Constrained: Pattern=die, Pattern=zijn, Pattern=twee
+Turn ID=8| B | B : twee van die joystick één boven één link en dan aan de rechterkant een blok een blokkendoos
+	Free: Pattern=twee, Pattern=aan de, Pattern=boven, Pattern=een, Pattern=blok, Pattern=één, Pattern=joystick één, Pattern=van die, Pattern=en
+	Constrained: Pattern=aan, Pattern=joystick, Pattern=die, Pattern=één
+Turn ID=9| A | A : ja ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=10| A | A : elf
+	Free: 
+	Constrained: 
+Turn ID=11| A | A : dit zijn met die twee joystick één bovenop één aan de zijkant en die die blokkentoren erin
+	Free: Pattern=met die, Pattern=blokkentoren, Pattern=aan de, Pattern=die twee, Pattern=die, Pattern=en, Pattern=één, Pattern=dit zijn, Pattern=joystick één
+	Constrained: Pattern=twee, Pattern=aan, Pattern=die, Pattern=joystick, Pattern=zijn, Pattern=één
+Turn ID=12| B | B : ja dat zijn J
+	Free: Pattern=ja, Pattern=zijn
+	Constrained: 
+Turn ID=13| B | B : dit zijn joystick boven joystick links
+	Free: Pattern=dit zijn, Pattern=boven, Pattern=joystick, Pattern=links
+	Constrained: Pattern=zijn
+Turn ID=14| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=15| B | B : blokkentoar rechts
+	Free: Pattern=rechts, Pattern=blokkentoar
+	Constrained: 
+Turn ID=16| A | A : negen
+	Free: 
+	Constrained: 
+Turn ID=17| A | A : dit zijn de joystick
+	Free: Pattern=de joystick, Pattern=dit zijn
+	Constrained: Pattern=joystick, Pattern=zijn
+Turn ID=18| B | B : de joystick
+	Free: Pattern=de joystick
+	Constrained: Pattern=joystick
+Turn ID=19| A | A : rechts staan die
+	Free: Pattern=die, Pattern=rechts
+	Constrained: 
+Turn ID=20| B | B : B
+	Free: 
+	Constrained: 
+Turn ID=21| B | B : joystick boven joystick links
+	Free: Pattern=boven, Pattern=joystick, Pattern=links
+	Constrained: 
+Turn ID=22| A | A : vier
+	Free: 
+	Constrained: 

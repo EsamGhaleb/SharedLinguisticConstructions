@@ -1,0 +1,127 @@
+B|0| B: aan _de_ bovenkant zitten _twee_ _heel_ klein staaf 
+B|1| B: lijken een beetje op _de_ twin Towers 
+B|2| B: _die_ nog niet omgevallen _zijn_ 
+B|3| B: _en_ aan _de_ _in_ _het_ doormidd zitten een soort _van_ platformp 
+A|4| A: even kijken 
+A|5| A: _ja_ _en dan_ _met_ _zo'n_ _plaat_ _door_ [de] _midden_ 
+A|6| A: _ja_ oké 
+A|7| A: _ja_ _dat_ [zijn] zes 
+B|8| B: [ja] 
+B|9| B: [ja] [ja] ik [ja] 
+B|10| B: waar zitten _die_ [ja] daar 
+B|11| B: à 
+B|12| B: _die_ schijf _die_ _door het midden_ gaan [en dan] [zo'n] _twee van die_ klein dinge bovenop 
+A|13| A: oké dit [zijn] zegmaar weer _met_ [zo'n] _plaat_ [in] [door het midden] [van] [de] kop heen 
+A|14| A: [en] [twee van die] cilindert erboven zegmaar 
+B|15| B: waar zitten [die] 
+B|16| B: nee ? [ja] 
+B|17| B: [met] [dat] staafje [dat] naar je toekomen toch 
+B|18| B: [dat] 
+B|19| B: [ja] glijbaan [ja] 
+B|20| B: k 
+A|21| A: [ja] [met] [die] [twee] uitsteeksel erboven 
+A|22| A: [ja] [dat] [zijn] twaalf 
+A|23| A: deze [zijn] [met] [zo'n] _plaat_ er doorheen , gewoon [door] [de] [heel] kop heen 
+A|24| A: [zo'n] _plaat_ [en] [twee van die] dinget bovenaan 
+B|25| B: ik hebben [de] [de] Mini twin Towers bovenop [en dan] [die] [plaat] [die] erdoorheen gaan 
+B|26| B: [en] [de] glijbaan 
+B|27| B: [ja] 
+B|28| B: k 
+A|29| A: [ja] [dat] [zijn] zestien 
+A|30| A: dit [zijn] [met] [het] blad er doorheen 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : aan de bovenkant zitten twee heel klein staaf
+	Free: Pattern=de, Pattern=twee, Pattern=heel
+	Constrained: 
+Turn ID=1| B | B : lijken een beetje op de twin Towers
+	Free: Pattern=de
+	Constrained: 
+Turn ID=2| B | B : die nog niet omgevallen zijn
+	Free: Pattern=zijn, Pattern=die
+	Constrained: 
+Turn ID=3| B | B : en aan de in het doormidd zitten een soort van platformp
+	Free: Pattern=de, Pattern=het, Pattern=in, Pattern=van, Pattern=en
+	Constrained: 
+Turn ID=4| A | A : even kijken
+	Free: 
+	Constrained: 
+Turn ID=5| A | A : ja en dan met zo'n plaat door de midden
+	Free: Pattern=zo'n, Pattern=en dan, Pattern=door, Pattern=met, Pattern=midden, Pattern=plaat, Pattern=de, Pattern=ja
+	Constrained: Pattern=en
+Turn ID=6| A | A : ja oké
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=7| A | A : ja dat zijn zes
+	Free: Pattern=zijn, Pattern=ja, Pattern=dat
+	Constrained: 
+Turn ID=8| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=9| B | B : ja ja ik ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=10| B | B : waar zitten die ja daar
+	Free: Pattern=die, Pattern=ja
+	Constrained: 
+Turn ID=11| B | B : à
+	Free: 
+	Constrained: 
+Turn ID=12| B | B : die schijf die door het midden gaan en dan zo'n twee van die klein dinge bovenop
+	Free: Pattern=twee van die, Pattern=zo'n, Pattern=en dan, Pattern=die, Pattern=door het midden
+	Constrained: Pattern=twee, Pattern=door, Pattern=het, Pattern=die, Pattern=midden, Pattern=van, Pattern=en
+Turn ID=13| A | A : oké dit zijn zegmaar weer met zo'n plaat in door het midden van de kop heen
+	Free: Pattern=zo'n, Pattern=de, Pattern=in, Pattern=met, Pattern=van, Pattern=zijn, Pattern=door het midden, Pattern=plaat
+	Constrained: Pattern=midden, Pattern=door, Pattern=het
+Turn ID=14| A | A : en twee van die cilindert erboven zegmaar
+	Free: Pattern=twee van die, Pattern=en
+	Constrained: Pattern=die, Pattern=twee, Pattern=van
+Turn ID=15| B | B : waar zitten die
+	Free: Pattern=die
+	Constrained: 
+Turn ID=16| B | B : nee ? ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=17| B | B : met dat staafje dat naar je toekomen toch
+	Free: Pattern=met, Pattern=dat
+	Constrained: 
+Turn ID=18| B | B : dat
+	Free: Pattern=dat
+	Constrained: 
+Turn ID=19| B | B : ja glijbaan ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=20| B | B : k
+	Free: 
+	Constrained: 
+Turn ID=21| A | A : ja met die twee uitsteeksel erboven
+	Free: Pattern=die, Pattern=twee, Pattern=ja, Pattern=met
+	Constrained: 
+Turn ID=22| A | A : ja dat zijn twaalf
+	Free: Pattern=zijn, Pattern=ja, Pattern=dat
+	Constrained: 
+Turn ID=23| A | A : deze zijn met zo'n plaat er doorheen , gewoon door de heel kop heen
+	Free: Pattern=heel, Pattern=zo'n, Pattern=de, Pattern=door, Pattern=met, Pattern=zijn, Pattern=plaat
+	Constrained: 
+Turn ID=24| A | A : zo'n plaat en twee van die dinget bovenaan
+	Free: Pattern=twee van die, Pattern=plaat, Pattern=zo'n, Pattern=en
+	Constrained: Pattern=die, Pattern=twee, Pattern=van
+Turn ID=25| B | B : ik hebben de de Mini twin Towers bovenop en dan die plaat die erdoorheen gaan
+	Free: Pattern=en dan, Pattern=plaat, Pattern=die, Pattern=de
+	Constrained: Pattern=en
+Turn ID=26| B | B : en de glijbaan
+	Free: Pattern=de, Pattern=en
+	Constrained: 
+Turn ID=27| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=28| B | B : k
+	Free: 
+	Constrained: 
+Turn ID=29| A | A : ja dat zijn zestien
+	Free: Pattern=zijn, Pattern=ja, Pattern=dat
+	Constrained: 
+Turn ID=30| A | A : dit zijn met het blad er doorheen
+	Free: Pattern=zijn, Pattern=het, Pattern=met
+	Constrained: 

@@ -1,0 +1,103 @@
+A|0| A: _ok_ _dit_ _doen_ me _een_ _beetje denken aan een_ _aan een_ kip of _het twitter_ vogel ? omdat hij zo twee 
+A|1| A: uitstekels hebben en _dat_ _vinden ik_ _een_ _beetje_ _een_ snavel en dan zo'n soort driehoek _op_ _zijn_ hoofd en dan zo'n dinge wat dan _een_ vleugel _zijn_ en _een_ staart _aan_ de onderkant 
+B|2| B: even kijken hoor 
+A|3| A: zeggen _maar_ _aan_ de rechterkant hebben _je_ twee rechthoekig balkjes direct onder elkaar 
+B|4| B: _o_ 
+B|5| B: _ja_ die _ja_ _ja_ [dat] _o_ [ik] snapan [je] _ja_ _ja_ [dat] [zijn] _bij mij_ _ja_ I 
+A|6| A: [bij mij] negen 
+B|7| B: [ok] 
+B|8| B: _o dit zijn het_ [het twitter] icoon [mij] [doen] [het] [beetje denken aan een] koffiezetapparaat [maar] [het twitter] icoon die [vinden ik] iets veel er [op] lijken _ja_ 
+A|9| A: [o] 
+A|10| A: [ja] [zijn] twee [bij mij] 
+B|11| B: [ok] [bij mij] L 
+A|12| A: [ok] 
+A|13| A: [o dit zijn [het] twitter] vogel 
+B|14| B: [o] die [zijn] [bij mij] M 
+A|15| A: vijf 
+B|16| B: [ok] 
+B|17| B: _het twitter poppe_ 
+A|18| A: [twitter poppe] [ja] negen [bij mij] 
+A|19| A: [dit zijn [het] twitter poppe] 
+B|20| B: even kijken waar die [zijn] [o] hier F 
+A|21| A: elf 
+B|22| B: [twitter poppe] 
+A|23| A: [ja] [zijn] zes [bij mij] 
+B|24| B: [ok] [bij mij] H 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : ok dit doen me een beetje denken aan een aan een kip of het twitter vogel ? omdat hij zo twee
+	Free: Pattern=het twitter, Pattern=doen, Pattern=beetje denken aan een, Pattern=een, Pattern=ok, Pattern=dit, Pattern=aan een
+	Constrained: Pattern=aan, Pattern=beetje, Pattern=een, Pattern=het, Pattern=aan een
+Turn ID=1| A | A : uitstekels hebben en dat vinden ik een beetje een snavel en dan zo'n soort driehoek op zijn hoofd en dan zo'n dinge wat dan een vleugel zijn en een staart aan de onderkant
+	Free: Pattern=dat, Pattern=aan, Pattern=op, Pattern=beetje, Pattern=zijn, Pattern=een, Pattern=vinden ik
+	Constrained: Pattern=ik
+Turn ID=2| B | B : even kijken hoor
+	Free: 
+	Constrained: 
+Turn ID=3| A | A : zeggen maar aan de rechterkant hebben je twee rechthoekig balkjes direct onder elkaar
+	Free: Pattern=je, Pattern=aan, Pattern=maar
+	Constrained: 
+Turn ID=4| B | B : o
+	Free: Pattern=o
+	Constrained: 
+Turn ID=5| B | B : ja die ja ja dat o ik snapan je ja ja dat zijn bij mij ja I
+	Free: Pattern=dat, Pattern=ja, Pattern=ik, Pattern=zijn, Pattern=o, Pattern=bij mij, Pattern=je
+	Constrained: Pattern=mij
+Turn ID=6| A | A : bij mij negen
+	Free: Pattern=bij mij
+	Constrained: Pattern=mij
+Turn ID=7| B | B : ok
+	Free: Pattern=ok
+	Constrained: 
+Turn ID=8| B | B : o dit zijn het het twitter icoon mij doen het beetje denken aan een koffiezetapparaat maar het twitter icoon die vinden ik iets veel er op lijken ja
+	Free: Pattern=het twitter, Pattern=doen, Pattern=op, Pattern=vinden ik, Pattern=het, Pattern=mij, Pattern=o dit zijn het, Pattern=maar, Pattern=ja, Pattern=beetje denken aan een
+	Constrained: Pattern=aan, Pattern=beetje, Pattern=een, Pattern=het, Pattern=dit, Pattern=ik, Pattern=zijn, Pattern=dit zijn het, Pattern=o, Pattern=aan een
+Turn ID=9| A | A : o
+	Free: Pattern=o
+	Constrained: 
+Turn ID=10| A | A : ja zijn twee bij mij
+	Free: Pattern=bij mij, Pattern=zijn, Pattern=ja
+	Constrained: Pattern=mij
+Turn ID=11| B | B : ok bij mij L
+	Free: Pattern=bij mij, Pattern=ok
+	Constrained: Pattern=mij
+Turn ID=12| A | A : ok
+	Free: Pattern=ok
+	Constrained: 
+Turn ID=13| A | A : o dit zijn het twitter vogel
+	Free: Pattern=o dit zijn het, Pattern=het twitter
+	Constrained: Pattern=het, Pattern=dit, Pattern=zijn, Pattern=dit zijn het, Pattern=o
+Turn ID=14| B | B : o die zijn bij mij M
+	Free: Pattern=bij mij, Pattern=o, Pattern=zijn
+	Constrained: Pattern=mij
+Turn ID=15| A | A : vijf
+	Free: 
+	Constrained: 
+Turn ID=16| B | B : ok
+	Free: Pattern=ok
+	Constrained: 
+Turn ID=17| B | B : het twitter poppe
+	Free: Pattern=het twitter poppe
+	Constrained: Pattern=het twitter, Pattern=het, Pattern=twitter poppe
+Turn ID=18| A | A : twitter poppe ja negen bij mij
+	Free: Pattern=bij mij, Pattern=twitter poppe, Pattern=ja
+	Constrained: Pattern=mij
+Turn ID=19| A | A : dit zijn het twitter poppe
+	Free: Pattern=het twitter poppe, Pattern=dit zijn het
+	Constrained: Pattern=twitter poppe, Pattern=het twitter, Pattern=het, Pattern=dit, Pattern=zijn
+Turn ID=20| B | B : even kijken waar die zijn o hier F
+	Free: Pattern=o, Pattern=zijn
+	Constrained: 
+Turn ID=21| A | A : elf
+	Free: 
+	Constrained: 
+Turn ID=22| B | B : twitter poppe
+	Free: Pattern=twitter poppe
+	Constrained: 
+Turn ID=23| A | A : ja zijn zes bij mij
+	Free: Pattern=bij mij, Pattern=zijn, Pattern=ja
+	Constrained: Pattern=mij
+Turn ID=24| B | B : ok bij mij H
+	Free: Pattern=bij mij, Pattern=ok
+	Constrained: Pattern=mij

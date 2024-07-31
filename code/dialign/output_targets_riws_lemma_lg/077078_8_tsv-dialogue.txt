@@ -1,0 +1,211 @@
+A|0| A: _oké_ _dus dat_ bakkie _en_ dan bovenop zitten _zeggen maar_ twee vierkant vlak naast elkaar 
+A|1| A: _en_ daaruit steken dan weer _die_ _die_ _die_ kubusblok _zeggen maar_ alsof _het_ opgestapelen taartdoze _zijn_ 
+A|2| A: _dat_ zitten _zeggen maar_ vrij klein boven _op_ _het_ komme 
+A|3| A: _aan de achterkant_ 
+A|4| A: _aan de_ voorkant steken _een_ ietwat rond _staaf_ uit of zeshoekig 
+A|5| A: _en_ dan _hebben_ _je_ _nog_ _aan de onderkant en_ _aan de_ zijkant _zeggen maar_ weer _een soort_ vierkant _staaf_ _wat_ zo krom lopen 
+B|6| B: _nog een_ keer 
+A|7| A: _oké_ _dus_ _er zijn_ twee vierkant _staaf_ één _aan de onderkant_ _die_ lopen _zeggen maar_ zo naar voor 
+A|8| A: _en_ één _aan de_ zijkant _die_ lopen opzij 
+A|9| A: _er_ zitten dan [nog _een] heel_ klein zeshoekig _staaf_ recht daarvoor _wat_ naar voren uitsteken 
+A|10| A: _en_ bovenop zitten twee klein vierkantjes _die_ zitten _er_ _zeggen maar_ zo in steken _als _een_ soort_ kaart 
+A|11| A: _en_ dan uit _die_ twee vierkant steken dan [nog] weer _van_ _die_ klein opgestapelen doos 
+B|12| B: _ja_ 
+B|13| B: ik denken [dat] ik hem [hebben] [hebben] [die] [zeggen maar] [een heel] lang neus 
+B|14| B: [zeggen maar] [dus dat] [staaf] komen komen eruit 
+A|15| A: [ja] 
+B|16| B: [en] daarachter [zijn] [dus] [ja] ik zien [het] [als een] _boek_ [dat] [een] beetje gepiercet _worden_ door [van] door iets 
+A|17| A: [ja] 
+A|18| A: [ja] [dat] zullen ook goed [ja] 
+B|19| B: [ja] [oké] 
+A|20| A: klinken logisch 
+B|21| B: letter M 
+B|22| B: hij [hebben] [van] [dat] [wat] ik [een] [op] [een] _boek_ vinden lijken [dat] doorpiercet _worden_ 
+A|23| A: [ja] 
+B|24| B: [aan de achterkant] 
+B|25| B: [en] onder [hebben] [die] [nog [een] soort] [van] handvat _waar_ [je] hem kunnen vastpakken 
+B|26| B: hij [hebben] [een] neus [dat] [heel] erg spits [zijn] 
+B|27| B: [en] hij [hebben] [nog een] arm 
+A|28| A: [ja] 
+A|29| A: nummer negen 
+A|30| A: dit [zijn] [die] raar [waar] bovenin zo'n [boek] uit steekt [wat] dan [van] beide kant [die] kubus ingestoken krijgen 
+B|31| B: ah 
+B|32| B: [ja] [ja] 
+A|33| A: [nog een] handva vooraan [en] twee rechthoekig hand [aan de] onderaan [en] [aan de] zijkant 
+B|34| B: [ja] 
+B|35| B: letter letter H 
+B|36| B: hij _worden_ [het] boekachtig _worden_ gepiercet 
+B|37| B: [en] hij [hebben] [een] handvat [aan de onderkant en] [een] spits neus 
+B|38| B: ho 
+B|39| B: spits neus 
+A|40| A: [en] [nog] [die] [een] [aan de] zijkant 
+B|41| B: [ja] 
+A|42| A: [ja] 
+A|43| A: nummer elf 
+A|44| A: dit [zijn] [die] [een] met [dat] [boek] bovenop [wat] dan spiesten [worden] met [die] doos [en] dan [die] raar hendel [aan de onderkant] 
+B|45| B: _yes_ 
+A|46| A: [aan de] zijkant 
+B|47| B: letter D 
+B|48| B: [het] [boek] [worden] doorpiercet [van] achteren 
+B|49| B: [en] hij [hebben] [een] handvat [aan de onderkant] [aan de] rechterkant [en] [er zijn] [een] neus 
+A|50| A: [yes] 
+A|51| A: nummer veertien 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : oké dus dat bakkie en dan bovenop zitten zeggen maar twee vierkant vlak naast elkaar
+	Free: Pattern=zeggen maar, Pattern=dus dat, Pattern=en, Pattern=oké
+	Constrained: Pattern=dat, Pattern=dus
+Turn ID=1| A | A : en daaruit steken dan weer die die die kubusblok zeggen maar alsof het opgestapelen taartdoze zijn
+	Free: Pattern=zeggen maar, Pattern=het, Pattern=die, Pattern=en, Pattern=zijn
+	Constrained: 
+Turn ID=2| A | A : dat zitten zeggen maar vrij klein boven op het komme
+	Free: Pattern=zeggen maar, Pattern=dat, Pattern=het, Pattern=op
+	Constrained: 
+Turn ID=3| A | A : aan de achterkant
+	Free: Pattern=aan de achterkant
+	Constrained: Pattern=aan de
+Turn ID=4| A | A : aan de voorkant steken een ietwat rond staaf uit of zeshoekig
+	Free: Pattern=aan de, Pattern=een, Pattern=staaf
+	Constrained: 
+Turn ID=5| A | A : en dan hebben je nog aan de onderkant en aan de zijkant zeggen maar weer een soort vierkant staaf wat zo krom lopen
+	Free: Pattern=nog, Pattern=staaf, Pattern=aan de, Pattern=zeggen maar, Pattern=hebben, Pattern=aan de onderkant en, Pattern=wat, Pattern=een soort, Pattern=en, Pattern=je
+	Constrained: Pattern=een, Pattern=en, Pattern=aan de onderkant, Pattern=aan de
+Turn ID=6| B | B : nog een keer
+	Free: Pattern=nog een
+	Constrained: Pattern=een, Pattern=nog
+Turn ID=7| A | A : oké dus er zijn twee vierkant staaf één aan de onderkant die lopen zeggen maar zo naar voor
+	Free: Pattern=er zijn, Pattern=dus, Pattern=staaf, Pattern=zeggen maar, Pattern=aan de onderkant, Pattern=die, Pattern=oké
+	Constrained: Pattern=zijn, Pattern=aan de, Pattern=er
+Turn ID=8| A | A : en één aan de zijkant die lopen opzij
+	Free: Pattern=aan de, Pattern=en, Pattern=die
+	Constrained: 
+Turn ID=9| A | A : er zitten dan nog een heel klein zeshoekig staaf recht daarvoor wat naar voren uitsteken
+	Free: Pattern=een heel, Pattern=nog een, Pattern=staaf, Pattern=wat, Pattern=er
+	Constrained: Pattern=heel, Pattern=een, Pattern=nog
+Turn ID=10| A | A : en bovenop zitten twee klein vierkantjes die zitten er zeggen maar zo in steken als een soort kaart
+	Free: Pattern=zeggen maar, Pattern=als een, Pattern=die, Pattern=er, Pattern=een soort, Pattern=en
+	Constrained: Pattern=een
+Turn ID=11| A | A : en dan uit die twee vierkant steken dan nog weer van die klein opgestapelen doos
+	Free: Pattern=en, Pattern=die, Pattern=van, Pattern=nog
+	Constrained: 
+Turn ID=12| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=13| B | B : ik denken dat ik hem hebben hebben die zeggen maar een heel lang neus
+	Free: Pattern=een heel, Pattern=dat, Pattern=zeggen maar, Pattern=hebben, Pattern=die
+	Constrained: Pattern=heel, Pattern=een
+Turn ID=14| B | B : zeggen maar dus dat staaf komen komen eruit
+	Free: Pattern=zeggen maar, Pattern=dus dat, Pattern=staaf
+	Constrained: Pattern=dat, Pattern=dus
+Turn ID=15| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=16| B | B : en daarachter zijn dus ja ik zien het als een boek dat een beetje gepiercet worden door van door iets
+	Free: Pattern=dat, Pattern=worden, Pattern=een, Pattern=het, Pattern=zijn, Pattern=dus, Pattern=ja, Pattern=boek, Pattern=als een, Pattern=van, Pattern=en
+	Constrained: Pattern=een
+Turn ID=17| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=18| A | A : ja dat zullen ook goed ja
+	Free: Pattern=dat, Pattern=ja
+	Constrained: 
+Turn ID=19| B | B : ja oké
+	Free: Pattern=oké, Pattern=ja
+	Constrained: 
+Turn ID=20| A | A : klinken logisch
+	Free: 
+	Constrained: 
+Turn ID=21| B | B : letter M
+	Free: 
+	Constrained: 
+Turn ID=22| B | B : hij hebben van dat wat ik een op een boek vinden lijken dat doorpiercet worden
+	Free: Pattern=dat, Pattern=een, Pattern=hebben, Pattern=boek, Pattern=wat, Pattern=van, Pattern=op, Pattern=worden
+	Constrained: 
+Turn ID=23| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=24| B | B : aan de achterkant
+	Free: Pattern=aan de achterkant
+	Constrained: Pattern=aan de
+Turn ID=25| B | B : en onder hebben die nog een soort van handvat waar je hem kunnen vastpakken
+	Free: Pattern=nog een, Pattern=waar, Pattern=hebben, Pattern=die, Pattern=een soort, Pattern=je, Pattern=van, Pattern=en
+	Constrained: Pattern=een, Pattern=nog
+Turn ID=26| B | B : hij hebben een neus dat heel erg spits zijn
+	Free: Pattern=dat, Pattern=heel, Pattern=een, Pattern=hebben, Pattern=zijn
+	Constrained: 
+Turn ID=27| B | B : en hij hebben nog een arm
+	Free: Pattern=nog een, Pattern=en, Pattern=hebben
+	Constrained: Pattern=een, Pattern=nog
+Turn ID=28| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=29| A | A : nummer negen
+	Free: 
+	Constrained: 
+Turn ID=30| A | A : dit zijn die raar waar bovenin zo'n boek uit steekt wat dan van beide kant die kubus ingestoken krijgen
+	Free: Pattern=waar, Pattern=boek, Pattern=die, Pattern=wat, Pattern=van, Pattern=zijn
+	Constrained: 
+Turn ID=31| B | B : ah
+	Free: 
+	Constrained: 
+Turn ID=32| B | B : ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=33| A | A : nog een handva vooraan en twee rechthoekig hand aan de onderaan en aan de zijkant
+	Free: Pattern=nog een, Pattern=aan de, Pattern=en
+	Constrained: Pattern=een, Pattern=nog
+Turn ID=34| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=35| B | B : letter letter H
+	Free: 
+	Constrained: 
+Turn ID=36| B | B : hij worden het boekachtig worden gepiercet
+	Free: Pattern=worden, Pattern=het
+	Constrained: 
+Turn ID=37| B | B : en hij hebben een handvat aan de onderkant en een spits neus
+	Free: Pattern=aan de onderkant en, Pattern=en, Pattern=een, Pattern=hebben
+	Constrained: Pattern=en, Pattern=aan de onderkant, Pattern=aan de
+Turn ID=38| B | B : ho
+	Free: 
+	Constrained: 
+Turn ID=39| B | B : spits neus
+	Free: 
+	Constrained: 
+Turn ID=40| A | A : en nog die een aan de zijkant
+	Free: Pattern=nog, Pattern=aan de, Pattern=een, Pattern=die, Pattern=en
+	Constrained: 
+Turn ID=41| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=42| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=43| A | A : nummer elf
+	Free: 
+	Constrained: 
+Turn ID=44| A | A : dit zijn die een met dat boek bovenop wat dan spiesten worden met die doos en dan die raar hendel aan de onderkant
+	Free: Pattern=dat, Pattern=worden, Pattern=een, Pattern=aan de onderkant, Pattern=boek, Pattern=die, Pattern=wat, Pattern=en, Pattern=zijn
+	Constrained: Pattern=aan de
+Turn ID=45| B | B : yes
+	Free: Pattern=yes
+	Constrained: 
+Turn ID=46| A | A : aan de zijkant
+	Free: Pattern=aan de
+	Constrained: 
+Turn ID=47| B | B : letter D
+	Free: 
+	Constrained: 
+Turn ID=48| B | B : het boek worden doorpiercet van achteren
+	Free: Pattern=boek, Pattern=worden, Pattern=het, Pattern=van
+	Constrained: 
+Turn ID=49| B | B : en hij hebben een handvat aan de onderkant aan de rechterkant en er zijn een neus
+	Free: Pattern=er zijn, Pattern=aan de, Pattern=een, Pattern=hebben, Pattern=aan de onderkant, Pattern=en
+	Constrained: Pattern=zijn, Pattern=aan de, Pattern=er
+Turn ID=50| A | A : yes
+	Free: Pattern=yes
+	Constrained: 
+Turn ID=51| A | A : nummer veertien
+	Free: 
+	Constrained: 

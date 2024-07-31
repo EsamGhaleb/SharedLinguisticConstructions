@@ -1,0 +1,123 @@
+B|0| B: deze hebben _een soort van_ bol erop _het_ _zijn_ diegene _met die_ bol _maar_ _dan_ zonder _die_ staaf erdoor 
+B|1| B: _zeggen maar_ ertegenaan niet erop 
+B|2| B: niet bovenop _er_ 
+B|3| B: _er_ _op_ de zijkant _zeggen maar_ 
+B|4| B: _ja_ _en_ nog één 
+B|5| B: _ja_ 
+A|6| A: [een] rechthoekje [op] [zijn] hoofd 
+A|7| A: [en] [en] komen [er] [zeggen maar] goo uit [zijn] oor 
+A|8| A: [ja] 
+A|9| A: [ja] 
+A|10| A: [ja] [ja] echt zo'n [ja] [ja] [ja] 
+A|11| A: nou [dan] weten ik hem al 
+A|12| A: _dat zijn_ nummer veertien 
+B|13| B: [dat zijn] bij mij N 
+B|14| B: _die_ _met die_ bol [op] de zijkant 
+B|15| B: [ja] 
+A|16| A: _dit zijn_ [zijn] [met] [een soort van] goo wat uit [zijn] oor komen [en] [een] rond neus 
+A|17| A: rond neus goo uit [het] oor [een] kegel [en] [een] blok 
+B|18| B: even zoeken 
+B|19| B: G 
+B|20| B: [dit zijn] weer _met die_ bol aan de rechterkant [en] _die_ twee dinge naar boven 
+B|21| B: nee 
+B|22| B: J 
+A|23| A: [met] zo'n goo 
+A|24| A: [ja] [dat zijn] numero negen 
+A|25| A: [met die] dik neus [en] [dat] watergoot 
+A|26| A: uit [zijn] oor 
+A|27| A: [en] [dat] blok 
+A|28| A: [dat] [ja] [dat zijn] [dan] numero vijf 
+A|29| A: [ja] [met die] dik neus [en] [het] goot 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : deze hebben een soort van bol erop het zijn diegene met die bol maar dan zonder die staaf erdoor
+	Free: Pattern=met die, Pattern=dan, Pattern=het, Pattern=een soort van, Pattern=die, Pattern=zijn, Pattern=maar
+	Constrained: Pattern=een, Pattern=met, Pattern=die
+Turn ID=1| B | B : zeggen maar ertegenaan niet erop
+	Free: Pattern=zeggen maar
+	Constrained: Pattern=maar
+Turn ID=2| B | B : niet bovenop er
+	Free: Pattern=er
+	Constrained: 
+Turn ID=3| B | B : er op de zijkant zeggen maar
+	Free: Pattern=zeggen maar, Pattern=er, Pattern=op
+	Constrained: Pattern=maar
+Turn ID=4| B | B : ja en nog één
+	Free: Pattern=en, Pattern=ja
+	Constrained: 
+Turn ID=5| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=6| A | A : een rechthoekje op zijn hoofd
+	Free: Pattern=een, Pattern=zijn, Pattern=op
+	Constrained: 
+Turn ID=7| A | A : en en komen er zeggen maar goo uit zijn oor
+	Free: Pattern=zeggen maar, Pattern=er, Pattern=en, Pattern=zijn
+	Constrained: Pattern=maar
+Turn ID=8| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=9| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=10| A | A : ja ja echt zo'n ja ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=11| A | A : nou dan weten ik hem al
+	Free: Pattern=dan
+	Constrained: 
+Turn ID=12| A | A : dat zijn nummer veertien
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=13| B | B : dat zijn bij mij N
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=14| B | B : die met die bol op de zijkant
+	Free: Pattern=met die, Pattern=die, Pattern=op
+	Constrained: Pattern=die, Pattern=met
+Turn ID=15| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=16| A | A : dit zijn zijn met een soort van goo wat uit zijn oor komen en een rond neus
+	Free: Pattern=een, Pattern=een soort van, Pattern=met, Pattern=en, Pattern=zijn, Pattern=dit zijn
+	Constrained: Pattern=een, Pattern=zijn
+Turn ID=17| A | A : rond neus goo uit het oor een kegel en een blok
+	Free: Pattern=een, Pattern=en, Pattern=het
+	Constrained: 
+Turn ID=18| B | B : even zoeken
+	Free: 
+	Constrained: 
+Turn ID=19| B | B : G
+	Free: 
+	Constrained: 
+Turn ID=20| B | B : dit zijn weer met die bol aan de rechterkant en die twee dinge naar boven
+	Free: Pattern=met die, Pattern=dit zijn, Pattern=en, Pattern=die
+	Constrained: Pattern=zijn, Pattern=die, Pattern=met
+Turn ID=21| B | B : nee
+	Free: 
+	Constrained: 
+Turn ID=22| B | B : J
+	Free: 
+	Constrained: 
+Turn ID=23| A | A : met zo'n goo
+	Free: Pattern=met
+	Constrained: 
+Turn ID=24| A | A : ja dat zijn numero negen
+	Free: Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=25| A | A : met die dik neus en dat watergoot
+	Free: Pattern=met die, Pattern=en, Pattern=dat
+	Constrained: Pattern=die, Pattern=met
+Turn ID=26| A | A : uit zijn oor
+	Free: Pattern=zijn
+	Constrained: 
+Turn ID=27| A | A : en dat blok
+	Free: Pattern=en, Pattern=dat
+	Constrained: 
+Turn ID=28| A | A : dat ja dat zijn dan numero vijf
+	Free: Pattern=dat zijn, Pattern=dan, Pattern=ja, Pattern=dat
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=29| A | A : ja met die dik neus en het goot
+	Free: Pattern=met die, Pattern=en, Pattern=ja, Pattern=het
+	Constrained: Pattern=die, Pattern=met

@@ -1,0 +1,203 @@
+A|0| A: _en_ rechts _een soort van_ schepje 
+A|1| A: _een_ klein stok _met een_ 
+A|2| A: _ja _dat_ _zijn_ het_ 
+A|3| A: _ja_ _en_ _dan_ _ja_ _en_ _dan_ _met_ zo'n _rechthoek_ erin _zeggen maar_ zo'n breed 
+A|4| A: _ja_ okee 
+A|5| A: _ja _dat_ zijn_ _voor_ mij nummer tien 
+B|6| B: _deze_ _die_ [zijn] op zich wel lastig uit te afleggen denken ik 
+B|7| B: [maar] [een] koffiekopje [met [een] soort van] afzuigkapneus aan _de_ linkerkant 
+B|8| B: _bovenop_ zitten er [een] [rechthoek] 
+B|9| B: [ja] [het] [zijn] geen _vierkant_ object [een] [rechthoek] Bovenin 
+B|10| B: [en] aan _de_ rechterkant [van] [het] kop nou heel even goed kijken hoor want [dat zijn] [ja] [een soort] 
+B|11| B: wat zullen [het] [zijn] 
+B|12| B: nee [het] [zijn] niet niet diegene [met] [het] dienblad 
+B|13| B: want ik weten wel welk je [dan] bedoelen 
+B|14| B: [ja] [het] [zijn] [een] ander 
+B|15| B: even denken 
+B|16| B: hoe gaan ik _dit_ goed uitleggen 
+B|17| B: [ja] [het] [zijn] [een] hij komen veel in _de_ buurt [van] [een] neus zoals wij _die_ normaal zullen hebben [zeggen maar] 
+B|18| B: [het] [zijn] veel [een] mensenneus [dan] _de_ neus _die_ we tot zover hebben hebben 
+B|19| B: dus [het] [zijn] [een] beetje [een soort van] [ja] 
+B|20| B: [ja] [het] [zijn het] [zijn] heel _deze_ vinden ik best wel pittig 
+B|21| B: [ja] precies 
+B|22| B: [ja] 
+B|23| B: [een] staafje [met [een] soort van] afvoerdinge 
+B|24| B: [ja] precies [ja] [ja dat] [ja] 
+A|25| A: [deze] [zijn] [die] [met] [de] weinig uitstulping [met] [die] [vierkant] erin [die] lang [vierkant] 
+A|26| A: [ja] 
+A|27| A: [ja] 
+A|28| A: yes [ja [dat] zijn] vijf 
+A|29| A: _dit zijn_ [die] [met] [die] weinig vorm [de] klein [met] [de] [vierkant] erin 
+A|30| A: [ja] 
+B|31| B: [ja] [ja] 
+B|32| B: staan daar [een] rechthoekig ding _bovenop_ 
+B|33| B: [een] kap 
+B|34| B: [ja] [dan] gaan ik [voor] h 
+A|35| A: [ja [dat] zijn] veertien 
+B|36| B: o jee hier hebben we hem weer horen [de] stoffer [en] blik 
+B|37| B: [het] stoffer [en] blik kopje [met een] rechthoekig object bovenin 
+B|38| B: [en] [een] afkapdinge aan [de] linkerkant 
+B|39| B: [dat zijn] even zoeken hè ? [ja] 
+B|40| B: [maar] ik merken wel [dat] je op [een] geven moment [dan] hebben je [die] cue [een] beetje te pakken zo [van] [ja] [dit] hebben we zo communiceeren 
+B|41| B: [ja] leuk 
+A|42| A: _dit zijn de_ klein [met] [de] [rechthoek] [bovenop] 
+B|43| B: [ja] even kijken waar [zijn] je waar [zijn] je 
+B|44| B: ik merken [dat] mijn aandacht [zeggen maar] nu echt naar [het] zoeken gaan 
+B|45| B: [het] [zijn] [dit zijn] c 
+B|46| B: [dit zijn de] stoffer [en] blik [met een] rechthoekig figuur [bovenop] weer 
+B|47| B: neusje 
+B|48| B: where did it go [ja] 
+B|49| B: [dat zijn] c 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : en rechts een soort van schepje
+	Free: Pattern=een soort van, Pattern=en
+	Constrained: Pattern=een soort, Pattern=een, Pattern=van
+Turn ID=1| A | A : een klein stok met een
+	Free: Pattern=met een, Pattern=een
+	Constrained: Pattern=met, Pattern=een
+Turn ID=2| A | A : ja dat zijn het
+	Free: Pattern=ja dat, Pattern=dat zijn, Pattern=zijn het
+	Constrained: Pattern=zijn, Pattern=ja, Pattern=het, Pattern=dat
+Turn ID=3| A | A : ja en dan ja en dan met zo'n rechthoek erin zeggen maar zo'n breed
+	Free: Pattern=rechthoek, Pattern=ja, Pattern=dan, Pattern=zeggen maar, Pattern=met, Pattern=en
+	Constrained: Pattern=maar
+Turn ID=4| A | A : ja okee
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=5| A | A : ja dat zijn voor mij nummer tien
+	Free: Pattern=ja dat, Pattern=dat zijn, Pattern=voor
+	Constrained: Pattern=zijn, Pattern=ja, Pattern=dat
+Turn ID=6| B | B : deze die zijn op zich wel lastig uit te afleggen denken ik
+	Free: Pattern=deze, Pattern=zijn, Pattern=die
+	Constrained: 
+Turn ID=7| B | B : maar een koffiekopje met een soort van afzuigkapneus aan de linkerkant
+	Free: Pattern=de, Pattern=een, Pattern=een soort van, Pattern=met een, Pattern=maar
+	Constrained: Pattern=een soort, Pattern=een, Pattern=met, Pattern=van
+Turn ID=8| B | B : bovenop zitten er een rechthoek
+	Free: Pattern=rechthoek, Pattern=een, Pattern=bovenop
+	Constrained: 
+Turn ID=9| B | B : ja het zijn geen vierkant object een rechthoek Bovenin
+	Free: Pattern=rechthoek, Pattern=ja, Pattern=een, Pattern=het, Pattern=zijn, Pattern=vierkant
+	Constrained: 
+Turn ID=10| B | B : en aan de rechterkant van het kop nou heel even goed kijken hoor want dat zijn ja een soort
+	Free: Pattern=dat zijn, Pattern=het, Pattern=een soort, Pattern=de, Pattern=ja, Pattern=van, Pattern=en
+	Constrained: Pattern=zijn, Pattern=een, Pattern=dat
+Turn ID=11| B | B : wat zullen het zijn
+	Free: Pattern=zijn, Pattern=het
+	Constrained: 
+Turn ID=12| B | B : nee het zijn niet niet diegene met het dienblad
+	Free: Pattern=zijn, Pattern=met, Pattern=het
+	Constrained: 
+Turn ID=13| B | B : want ik weten wel welk je dan bedoelen
+	Free: Pattern=dan
+	Constrained: 
+Turn ID=14| B | B : ja het zijn een ander
+	Free: Pattern=zijn, Pattern=ja, Pattern=een, Pattern=het
+	Constrained: 
+Turn ID=15| B | B : even denken
+	Free: 
+	Constrained: 
+Turn ID=16| B | B : hoe gaan ik dit goed uitleggen
+	Free: Pattern=dit
+	Constrained: 
+Turn ID=17| B | B : ja het zijn een hij komen veel in de buurt van een neus zoals wij die normaal zullen hebben zeggen maar
+	Free: Pattern=een, Pattern=zeggen maar, Pattern=het, Pattern=die, Pattern=van, Pattern=zijn, Pattern=de, Pattern=ja
+	Constrained: Pattern=maar
+Turn ID=18| B | B : het zijn veel een mensenneus dan de neus die we tot zover hebben hebben
+	Free: Pattern=de, Pattern=dan, Pattern=een, Pattern=het, Pattern=die, Pattern=zijn
+	Constrained: 
+Turn ID=19| B | B : dus het zijn een beetje een soort van ja
+	Free: Pattern=ja, Pattern=een, Pattern=het, Pattern=een soort van, Pattern=zijn
+	Constrained: Pattern=een soort, Pattern=een, Pattern=van
+Turn ID=20| B | B : ja het zijn het zijn heel deze vinden ik best wel pittig
+	Free: Pattern=zijn het, Pattern=ja, Pattern=het, Pattern=zijn, Pattern=deze
+	Constrained: Pattern=zijn, Pattern=het
+Turn ID=21| B | B : ja precies
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=22| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=23| B | B : een staafje met een soort van afvoerdinge
+	Free: Pattern=een soort van, Pattern=met een, Pattern=een
+	Constrained: Pattern=een soort, Pattern=een, Pattern=met, Pattern=van
+Turn ID=24| B | B : ja precies ja ja dat ja
+	Free: Pattern=ja dat, Pattern=ja
+	Constrained: Pattern=ja, Pattern=dat
+Turn ID=25| A | A : deze zijn die met de weinig uitstulping met die vierkant erin die lang vierkant
+	Free: Pattern=de, Pattern=met, Pattern=die, Pattern=zijn, Pattern=vierkant, Pattern=deze
+	Constrained: 
+Turn ID=26| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=27| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=28| A | A : yes ja dat zijn vijf
+	Free: Pattern=ja dat, Pattern=dat zijn
+	Constrained: Pattern=zijn, Pattern=ja, Pattern=dat
+Turn ID=29| A | A : dit zijn die met die weinig vorm de klein met de vierkant erin
+	Free: Pattern=de, Pattern=met, Pattern=die, Pattern=vierkant, Pattern=dit zijn
+	Constrained: Pattern=zijn, Pattern=dit
+Turn ID=30| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=31| B | B : ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=32| B | B : staan daar een rechthoekig ding bovenop
+	Free: Pattern=een, Pattern=bovenop
+	Constrained: 
+Turn ID=33| B | B : een kap
+	Free: Pattern=een
+	Constrained: 
+Turn ID=34| B | B : ja dan gaan ik voor h
+	Free: Pattern=dan, Pattern=ja, Pattern=voor
+	Constrained: 
+Turn ID=35| A | A : ja dat zijn veertien
+	Free: Pattern=ja dat, Pattern=dat zijn
+	Constrained: Pattern=zijn, Pattern=ja, Pattern=dat
+Turn ID=36| B | B : o jee hier hebben we hem weer horen de stoffer en blik
+	Free: Pattern=en, Pattern=de
+	Constrained: 
+Turn ID=37| B | B : het stoffer en blik kopje met een rechthoekig object bovenin
+	Free: Pattern=met een, Pattern=en, Pattern=het
+	Constrained: Pattern=met, Pattern=een
+Turn ID=38| B | B : en een afkapdinge aan de linkerkant
+	Free: Pattern=en, Pattern=de, Pattern=een
+	Constrained: 
+Turn ID=39| B | B : dat zijn even zoeken hè ? ja
+	Free: Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=40| B | B : maar ik merken wel dat je op een geven moment dan hebben je die cue een beetje te pakken zo van ja dit hebben we zo communiceeren
+	Free: Pattern=dat, Pattern=ja, Pattern=dan, Pattern=een, Pattern=dit, Pattern=die, Pattern=van, Pattern=maar
+	Constrained: 
+Turn ID=41| B | B : ja leuk
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=42| A | A : dit zijn de klein met de rechthoek bovenop
+	Free: Pattern=bovenop, Pattern=rechthoek, Pattern=de, Pattern=met, Pattern=dit zijn de
+	Constrained: Pattern=dit zijn, Pattern=dit, Pattern=de, Pattern=zijn
+Turn ID=43| B | B : ja even kijken waar zijn je waar zijn je
+	Free: Pattern=zijn, Pattern=ja
+	Constrained: 
+Turn ID=44| B | B : ik merken dat mijn aandacht zeggen maar nu echt naar het zoeken gaan
+	Free: Pattern=zeggen maar, Pattern=het, Pattern=dat
+	Constrained: Pattern=maar
+Turn ID=45| B | B : het zijn dit zijn c
+	Free: Pattern=dit zijn, Pattern=zijn, Pattern=het
+	Constrained: Pattern=zijn, Pattern=dit
+Turn ID=46| B | B : dit zijn de stoffer en blik met een rechthoekig figuur bovenop weer
+	Free: Pattern=dit zijn de, Pattern=met een, Pattern=en, Pattern=bovenop
+	Constrained: Pattern=de, Pattern=een, Pattern=dit, Pattern=met, Pattern=zijn, Pattern=dit zijn
+Turn ID=47| B | B : neusje
+	Free: 
+	Constrained: 
+Turn ID=48| B | B : where did it go ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=49| B | B : dat zijn c
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn, Pattern=dat

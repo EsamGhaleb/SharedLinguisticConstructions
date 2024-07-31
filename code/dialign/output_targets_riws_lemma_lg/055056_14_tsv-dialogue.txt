@@ -1,0 +1,175 @@
+A|0| A: mooi 
+A|1| A: _ik hebben_ _de_ koffiebeker _met_ bovenop _het_ groot deel van _een_ bol zichtbaar 
+A|2| A: _aan de_ voorkant _zien je_ _een_ vierkant staaf rechtop _staan_ _die_ ook _aan de_ onderkant komen 
+B|3| B: nee _ja_ 
+B|4| B: _en_ _aan de zijkant_ [hebben] [die] _dan_ twee uitsteeksel 
+A|5| A: _in_ ieder geval [aan de] linkerkant _zien je_ _een_ staaf [die] ook _met een_ boch 
+A|6| A: [en] _rechts_ komen [die] wat _niet helemaal_ op _het_ plaat veel eruit 
+B|7| B: _ja_ 
+A|8| A: maar _dat zijn_ er maar één denken _ik_ 
+B|9| B: [dat zijn] duidelijk _ja_ 
+B|10| B: [dat zijn] letter D 
+B|11| B: goed [de] volgen [zijn] weer [een] _koffiekopje [met_ een] [een] pingpongballet 
+B|12| B: net boven [in] [het] kop 
+B|13| B: daarvoor [staan] [een] [een] balk 
+B|14| B: [ik hebben] [het] idee [dat] _we_ [die] al [hebben] [hebben] 
+A|15| A: [ja] 
+A|16| A: [we] gaan alles zes keer doen _dus_ 
+B|17| B: [ja] [dat] kunnen wel [een] balk [en] daaraan _zitten_ twee uitsteeksel [en] [het] [een] uitsteeksel [rechts] [dat] [zien je] [dus] [niet] zo [niet helemaal] [en] [die] ander [zien je] wel [helemaal] 
+A|18| A: [ja] 
+A|19| A: [en] er [zitten] _een bocht_ [dan] [in] 
+B|20| B: [ja] [een bocht] 
+A|21| A: [ja] 
+A|22| A: [dat zijn] nummer vijftien 
+A|23| A: [het] [koffiekopje met] _ei_ bovenop 
+A|24| A: [en] rechtop 
+B|25| B: [met] [die] twee buisjes 
+A|26| A: [ja] 
+A|27| A: [en] [de] staaf [aan de] voorkant 
+B|28| B: [ja] [dat zijn] letter L 
+B|29| B: [koffiekopje [met] een] [ei] [een] balk _ervoor_ [en] twee stang als uitsteeksel _aan de zijkant_ 
+A|30| A: [ei] _aan de bovenkant_ 
+B|31| B: [ja] 
+A|32| A: [ja] 
+A|33| A: nummer zes 
+A|34| A: [ei] bovenop 
+A|35| A: dinge [aan de zijkant] staaf [ervoor] 
+B|36| B: [met] [die] balk 
+A|37| A: [ja] 
+B|38| B: [ja] 
+B|39| B: [dat zijn] letter J 
+B|40| B: [dat] [koffiekopje [met] een] [ei] erin [aan de bovenkant] [die] balk [ervoor] [en] [die] twee uitsteeksel [aan de zijkant] 
+A|41| A: check 
+A|42| A: nummer drie 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : mooi
+	Free: 
+	Constrained: 
+Turn ID=1| A | A : ik hebben de koffiebeker met bovenop het groot deel van een bol zichtbaar
+	Free: Pattern=ik hebben, Pattern=de, Pattern=een, Pattern=het, Pattern=met
+	Constrained: Pattern=ik, Pattern=hebben
+Turn ID=2| A | A : aan de voorkant zien je een vierkant staaf rechtop staan die ook aan de onderkant komen
+	Free: Pattern=zien je, Pattern=aan de, Pattern=die, Pattern=een, Pattern=staan
+	Constrained: Pattern=de
+Turn ID=3| B | B : nee ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=4| B | B : en aan de zijkant hebben die dan twee uitsteeksel
+	Free: Pattern=dan, Pattern=aan de zijkant, Pattern=hebben, Pattern=die, Pattern=en
+	Constrained: Pattern=aan de, Pattern=de
+Turn ID=5| A | A : in ieder geval aan de linkerkant zien je een staaf die ook met een boch
+	Free: Pattern=zien je, Pattern=aan de, Pattern=een, Pattern=in, Pattern=die, Pattern=met een
+	Constrained: Pattern=met, Pattern=de, Pattern=een
+Turn ID=6| A | A : en rechts komen die wat niet helemaal op het plaat veel eruit
+	Free: Pattern=rechts, Pattern=niet helemaal, Pattern=het, Pattern=die, Pattern=en
+	Constrained: Pattern=helemaal, Pattern=niet
+Turn ID=7| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=8| A | A : maar dat zijn er maar één denken ik
+	Free: Pattern=dat zijn, Pattern=ik
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=9| B | B : dat zijn duidelijk ja
+	Free: Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=10| B | B : dat zijn letter D
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=11| B | B : goed de volgen zijn weer een koffiekopje met een een pingpongballet
+	Free: Pattern=de, Pattern=een, Pattern=met een, Pattern=koffiekopje met, Pattern=zijn
+	Constrained: Pattern=met, Pattern=een
+Turn ID=12| B | B : net boven in het kop
+	Free: Pattern=het, Pattern=in
+	Constrained: 
+Turn ID=13| B | B : daarvoor staan een een balk
+	Free: Pattern=staan, Pattern=een
+	Constrained: 
+Turn ID=14| B | B : ik hebben het idee dat we die al hebben hebben
+	Free: Pattern=ik hebben, Pattern=dat, Pattern=het, Pattern=hebben, Pattern=we, Pattern=die
+	Constrained: Pattern=ik, Pattern=hebben
+Turn ID=15| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=16| A | A : we gaan alles zes keer doen dus
+	Free: Pattern=we, Pattern=dus
+	Constrained: 
+Turn ID=17| B | B : ja dat kunnen wel een balk en daaraan zitten twee uitsteeksel en het een uitsteeksel rechts dat zien je dus niet zo niet helemaal en die ander zien je wel helemaal
+	Free: Pattern=dat, Pattern=niet helemaal, Pattern=helemaal, Pattern=niet, Pattern=een, Pattern=het, Pattern=en, Pattern=zien je, Pattern=rechts, Pattern=dus, Pattern=ja, Pattern=die, Pattern=zitten
+	Constrained: Pattern=helemaal, Pattern=niet
+Turn ID=18| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=19| A | A : en er zitten een bocht dan in
+	Free: Pattern=dan, Pattern=in, Pattern=zitten, Pattern=een bocht, Pattern=en
+	Constrained: Pattern=een
+Turn ID=20| B | B : ja een bocht
+	Free: Pattern=een bocht, Pattern=ja
+	Constrained: Pattern=een
+Turn ID=21| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=22| A | A : dat zijn nummer vijftien
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=23| A | A : het koffiekopje met ei bovenop
+	Free: Pattern=koffiekopje met, Pattern=ei, Pattern=het
+	Constrained: Pattern=met
+Turn ID=24| A | A : en rechtop
+	Free: Pattern=en
+	Constrained: 
+Turn ID=25| B | B : met die twee buisjes
+	Free: Pattern=die, Pattern=met
+	Constrained: 
+Turn ID=26| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=27| A | A : en de staaf aan de voorkant
+	Free: Pattern=aan de, Pattern=de, Pattern=en
+	Constrained: Pattern=de
+Turn ID=28| B | B : ja dat zijn letter L
+	Free: Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=29| B | B : koffiekopje met een ei een balk ervoor en twee stang als uitsteeksel aan de zijkant
+	Free: Pattern=ei, Pattern=ervoor, Pattern=met een, Pattern=een, Pattern=aan de zijkant, Pattern=koffiekopje met, Pattern=en
+	Constrained: Pattern=een, Pattern=de, Pattern=met, Pattern=aan de
+Turn ID=30| A | A : ei aan de bovenkant
+	Free: Pattern=aan de bovenkant, Pattern=ei
+	Constrained: Pattern=aan de, Pattern=de
+Turn ID=31| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=32| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=33| A | A : nummer zes
+	Free: 
+	Constrained: 
+Turn ID=34| A | A : ei bovenop
+	Free: Pattern=ei
+	Constrained: 
+Turn ID=35| A | A : dinge aan de zijkant staaf ervoor
+	Free: Pattern=aan de zijkant, Pattern=ervoor
+	Constrained: Pattern=aan de, Pattern=de
+Turn ID=36| B | B : met die balk
+	Free: Pattern=die, Pattern=met
+	Constrained: 
+Turn ID=37| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=38| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=39| B | B : dat zijn letter J
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=40| B | B : dat koffiekopje met een ei erin aan de bovenkant die balk ervoor en die twee uitsteeksel aan de zijkant
+	Free: Pattern=dat, Pattern=ei, Pattern=ervoor, Pattern=aan de zijkant, Pattern=die, Pattern=met een, Pattern=koffiekopje met, Pattern=aan de bovenkant, Pattern=en
+	Constrained: Pattern=een, Pattern=de, Pattern=met, Pattern=aan de
+Turn ID=41| A | A : check
+	Free: 
+	Constrained: 
+Turn ID=42| A | A : nummer drie
+	Free: 
+	Constrained: 

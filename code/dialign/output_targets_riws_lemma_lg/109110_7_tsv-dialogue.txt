@@ -1,0 +1,87 @@
+B|0| B: oken _ik_ hebben deze omschrijven _als_ _een_ soort hoog _tafel met twee poot_ 
+A|1| A: die dan weten [ik] _het_ al meteen en daar staan _ook_ [een] 
+B|2| B: _met_ [een] soort vierkant bak _er op_ 
+A|3| A: jajaja inderdaad nou zestien 
+A|4| A: die [tafel met twee poot] 
+B|5| B: _ja met_ vierkant bak _er op_ 
+A|6| A: [ja] 
+B|7| B: ok P 
+B|8| B: [ja] mogen we zo [ook] communiceren gewoon _goed kijken_ [ja] 
+A|9| A: [als] je [goed kijken] in mijn bril kunnen je misschien 
+B|10| B: ok [tafel met twee poot] 
+A|11| A: [ja] dat weten [ik] al 
+B|12| B: [met] vierkant bak 
+A|13| A: _o_ 
+A|14| A: _o_ veertien 
+A|15| A: [ja met] die [tafel] en [met twee poot] en die _blok_ [er op] dat _blok_ 
+B|16| B: [ja] [ik] zijn hem aan [het] zoeken [o] [ja] N 
+B|17| B: [tafel met twee poot] vierkant [blok] 
+A|18| A: [ja] [ja] [ja] tien 
+A|19| A: [tafel met twee poot] 
+B|20| B: [ja met] vierkant ding erop D 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : oken ik hebben deze omschrijven als een soort hoog tafel met twee poot
+	Free: Pattern=tafel met twee poot, Pattern=een, Pattern=als, Pattern=ik
+	Constrained: Pattern=met twee poot, Pattern=met, Pattern=tafel
+Turn ID=1| A | A : die dan weten ik het al meteen en daar staan ook een
+	Free: Pattern=een, Pattern=ook, Pattern=ik, Pattern=het
+	Constrained: 
+Turn ID=2| B | B : met een soort vierkant bak er op
+	Free: Pattern=er op, Pattern=een, Pattern=met
+	Constrained: 
+Turn ID=3| A | A : jajaja inderdaad nou zestien
+	Free: 
+	Constrained: 
+Turn ID=4| A | A : die tafel met twee poot
+	Free: Pattern=tafel met twee poot
+	Constrained: Pattern=met twee poot, Pattern=met, Pattern=tafel
+Turn ID=5| B | B : ja met vierkant bak er op
+	Free: Pattern=er op, Pattern=ja met
+	Constrained: Pattern=ja, Pattern=met
+Turn ID=6| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=7| B | B : ok P
+	Free: 
+	Constrained: 
+Turn ID=8| B | B : ja mogen we zo ook communiceren gewoon goed kijken ja
+	Free: Pattern=goed kijken, Pattern=ook, Pattern=ja
+	Constrained: 
+Turn ID=9| A | A : als je goed kijken in mijn bril kunnen je misschien
+	Free: Pattern=goed kijken, Pattern=als
+	Constrained: 
+Turn ID=10| B | B : ok tafel met twee poot
+	Free: Pattern=tafel met twee poot
+	Constrained: Pattern=met twee poot, Pattern=met, Pattern=tafel
+Turn ID=11| A | A : ja dat weten ik al
+	Free: Pattern=ja, Pattern=ik
+	Constrained: 
+Turn ID=12| B | B : met vierkant bak
+	Free: Pattern=met
+	Constrained: 
+Turn ID=13| A | A : o
+	Free: Pattern=o
+	Constrained: 
+Turn ID=14| A | A : o veertien
+	Free: Pattern=o
+	Constrained: 
+Turn ID=15| A | A : ja met die tafel en met twee poot en die blok er op dat blok
+	Free: Pattern=ja met, Pattern=met twee poot, Pattern=er op, Pattern=tafel, Pattern=blok
+	Constrained: Pattern=met, Pattern=ja
+Turn ID=16| B | B : ja ik zijn hem aan het zoeken o ja N
+	Free: Pattern=ja, Pattern=ik, Pattern=o, Pattern=het
+	Constrained: 
+Turn ID=17| B | B : tafel met twee poot vierkant blok
+	Free: Pattern=tafel met twee poot, Pattern=blok
+	Constrained: Pattern=met twee poot, Pattern=met, Pattern=tafel
+Turn ID=18| A | A : ja ja ja tien
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=19| A | A : tafel met twee poot
+	Free: Pattern=tafel met twee poot
+	Constrained: Pattern=met twee poot, Pattern=met, Pattern=tafel
+Turn ID=20| B | B : ja met vierkant ding erop D
+	Free: Pattern=ja met
+	Constrained: Pattern=ja, Pattern=met

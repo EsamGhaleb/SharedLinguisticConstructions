@@ -1,0 +1,147 @@
+A|0| A: oké _bij mij_ hebben _die_ _twee_ USB aan _de_ _rechterkant_ voor ons eruit komen _en een_ _neus_ _en een_ soort van omgedraaien boo _op_ het _op_ het hoofd 
+B|1| B: [rechterkant] _ja_ 
+B|2| B: _ja ja_ [en een] _staart_ ook nog of zo _ja ja_ 
+A|3| A: [ja [ja] ja] 
+A|4| A: _negen_ 
+B|5| B: I zijn dat [bij mij] 
+B|6| B: I [negen] 
+A|7| A: yes 
+B|8| B: dit zijn [de] _USBstick_ 
+A|9| A: _die_ _twee_ USBsticken 
+B|10| B: [ja] zo [die] [neus] 
+A|11| A: oké [en] dan 
+B|12| B: [ja] of [die] met dat poo [op] [de] of omgekeerd 
+A|13| A: [en] dan [staart] onderin oké [ja] 
+B|14| B: [ja] 
+B|15| B: _L_ 
+A|16| A: [L] _twee_ 
+A|17| A: oké [USBstick] boot [op] het hoofd 
+B|18| B: [ja] M 
+A|19| A: _vijf_ 
+B|20| B: M [vijf] 
+B|21| B: [USBstick] 
+A|22| A: _twee_ daarvan 
+B|23| B: [ja] [twee] 
+A|24| A: welk 
+B|25| B: _B_ 
+A|26| A: [B] [negen] 
+A|27| A: [USBstick] boot [op] het hoofd 
+B|28| B: [ja] 
+B|29| B: F 
+A|30| A: _elf_ 
+B|31| B: F [elf] 
+B|32| B: [de] [twee] USBsticks 
+A|33| A: [ja] 
+B|34| B: _H_ 
+A|35| A: [H] zes 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : oké bij mij hebben die twee USB aan de rechterkant voor ons eruit komen en een neus en een soort van omgedraaien boo op het op het hoofd
+	Free: Pattern=twee, Pattern=de, Pattern=op, Pattern=die, Pattern=en een, Pattern=bij mij, Pattern=neus, Pattern=rechterkant
+	Constrained: Pattern=en
+Turn ID=1| B | B : rechterkant ja
+	Free: Pattern=ja, Pattern=rechterkant
+	Constrained: 
+Turn ID=2| B | B : ja ja en een staart ook nog of zo ja ja
+	Free: Pattern=en een, Pattern=ja ja, Pattern=staart
+	Constrained: Pattern=ja, Pattern=en
+Turn ID=3| A | A : ja ja ja
+	Free: Pattern=ja ja
+	Constrained: Pattern=ja
+Turn ID=4| A | A : negen
+	Free: Pattern=negen
+	Constrained: 
+Turn ID=5| B | B : I zijn dat bij mij
+	Free: Pattern=bij mij
+	Constrained: 
+Turn ID=6| B | B : I negen
+	Free: Pattern=negen
+	Constrained: 
+Turn ID=7| A | A : yes
+	Free: 
+	Constrained: 
+Turn ID=8| B | B : dit zijn de USBstick
+	Free: Pattern=USBstick, Pattern=de
+	Constrained: 
+Turn ID=9| A | A : die twee USBsticken
+	Free: Pattern=die, Pattern=twee
+	Constrained: 
+Turn ID=10| B | B : ja zo die neus
+	Free: Pattern=ja, Pattern=neus, Pattern=die
+	Constrained: 
+Turn ID=11| A | A : oké en dan
+	Free: Pattern=en
+	Constrained: 
+Turn ID=12| B | B : ja of die met dat poo op de of omgekeerd
+	Free: Pattern=ja, Pattern=de, Pattern=die, Pattern=op
+	Constrained: 
+Turn ID=13| A | A : en dan staart onderin oké ja
+	Free: Pattern=staart, Pattern=ja, Pattern=en
+	Constrained: 
+Turn ID=14| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=15| B | B : L
+	Free: Pattern=L
+	Constrained: 
+Turn ID=16| A | A : L twee
+	Free: Pattern=L, Pattern=twee
+	Constrained: 
+Turn ID=17| A | A : oké USBstick boot op het hoofd
+	Free: Pattern=USBstick, Pattern=op
+	Constrained: 
+Turn ID=18| B | B : ja M
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=19| A | A : vijf
+	Free: Pattern=vijf
+	Constrained: 
+Turn ID=20| B | B : M vijf
+	Free: Pattern=vijf
+	Constrained: 
+Turn ID=21| B | B : USBstick
+	Free: Pattern=USBstick
+	Constrained: 
+Turn ID=22| A | A : twee daarvan
+	Free: Pattern=twee
+	Constrained: 
+Turn ID=23| B | B : ja twee
+	Free: Pattern=ja, Pattern=twee
+	Constrained: 
+Turn ID=24| A | A : welk
+	Free: 
+	Constrained: 
+Turn ID=25| B | B : B
+	Free: Pattern=B
+	Constrained: 
+Turn ID=26| A | A : B negen
+	Free: Pattern=B, Pattern=negen
+	Constrained: 
+Turn ID=27| A | A : USBstick boot op het hoofd
+	Free: Pattern=USBstick, Pattern=op
+	Constrained: 
+Turn ID=28| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=29| B | B : F
+	Free: 
+	Constrained: 
+Turn ID=30| A | A : elf
+	Free: Pattern=elf
+	Constrained: 
+Turn ID=31| B | B : F elf
+	Free: Pattern=elf
+	Constrained: 
+Turn ID=32| B | B : de twee USBsticks
+	Free: Pattern=de, Pattern=twee
+	Constrained: 
+Turn ID=33| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=34| B | B : H
+	Free: Pattern=H
+	Constrained: 
+Turn ID=35| A | A : H zes
+	Free: Pattern=H
+	Constrained: 

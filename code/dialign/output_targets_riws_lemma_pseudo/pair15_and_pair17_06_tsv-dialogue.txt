@@ -1,0 +1,107 @@
+B|0| B: _ja_ 
+B|1| B: _ja_ 
+A|2| A: okeeen je _hebben_ _het_ kop 
+B|3| B: _ja_ f 
+A|4| A: _en_ linksboven _hebben_ je nou [ja] _een_ uitsteeksel _lijken_ ook _een beetje_ _zo'n_ druppelvormachtig 
+A|5| A: _aan de_ [ja] rechterkant _beetje_ _in het_ midden daar _zitten een_ _bal_ _lijken een beetje op_ _een_ _neus_ 
+A|6| A: met _een staaf_ erdoorheen 
+A|7| A: _en aan de_ rechterkant _aan_ _het_ uiteinde _van de staaf_ _zitten_ nog _een cirkel_ plaatjeachtig ding 
+B|8| B: deze [hebben] [zo'n] [bal] voorop [en] er [zitten [een] staaf] [in het] [lijken een beetje op] _de neus_ [van] [een] helikopter 
+B|9| B: [en aan de] [een] kant [van de staaf] _zijn_ [een cirkel] 
+B|10| B: [en] bovenop [de] emmer _zijn_ [een] soort [van] lepeltje handvaa 
+B|11| B: [ja] o 
+B|12| B: deze _zijn_ [de] helikopter 
+A|13| A: okee 
+A|14| A: [ja] druppel erboven links 
+A|15| A: [ja] zestien 
+B|16| B: [ja] d 
+B|17| B: _dit zijn die_ helikopter 
+A|18| A: [dit zijn die] met [de neus] maar wel met [de staaf] erdoorheen 
+A|19| A: met [het] schotel [aan de] uitein 
+A|20| A: [ja] 
+A|21| A: yes waar staan [die] nu weer 
+A|22| A: [ja] dat [zijn] veertien 
+A|23| A: [dit zijn die] met [de neus] met [een staaf] erdoorheen 
+A|24| A: [ja] 
+A|25| A: dat [zijn] acht 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=1| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=2| A | A : okeeen je hebben het kop
+	Free: Pattern=hebben, Pattern=het
+	Constrained: 
+Turn ID=3| B | B : ja f
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=4| A | A : en linksboven hebben je nou ja een uitsteeksel lijken ook een beetje zo'n druppelvormachtig
+	Free: Pattern=zo'n, Pattern=ja, Pattern=lijken, Pattern=een, Pattern=hebben, Pattern=en, Pattern=een beetje
+	Constrained: Pattern=beetje, Pattern=een
+Turn ID=5| A | A : aan de ja rechterkant beetje in het midden daar zitten een bal lijken een beetje op een neus
+	Free: Pattern=bal, Pattern=ja, Pattern=aan de, Pattern=beetje, Pattern=een, Pattern=in het, Pattern=neus, Pattern=zitten een, Pattern=lijken een beetje op
+	Constrained: Pattern=een, Pattern=het, Pattern=zitten, Pattern=een beetje, Pattern=de, Pattern=aan, Pattern=lijken, Pattern=beetje
+Turn ID=6| A | A : met een staaf erdoorheen
+	Free: Pattern=een staaf
+	Constrained: Pattern=een
+Turn ID=7| A | A : en aan de rechterkant aan het uiteinde van de staaf zitten nog een cirkel plaatjeachtig ding
+	Free: Pattern=aan, Pattern=een cirkel, Pattern=het, Pattern=zitten, Pattern=en aan de, Pattern=van de staaf
+	Constrained: Pattern=aan de, Pattern=een, Pattern=de staaf, Pattern=de, Pattern=aan, Pattern=van, Pattern=en
+Turn ID=8| B | B : deze hebben zo'n bal voorop en er zitten een staaf in het lijken een beetje op de neus van een helikopter
+	Free: Pattern=de neus, Pattern=een, Pattern=hebben, Pattern=in het, Pattern=zitten een, Pattern=lijken een beetje op, Pattern=zo'n, Pattern=bal, Pattern=van, Pattern=en, Pattern=een staaf
+	Constrained: Pattern=de, Pattern=een, Pattern=het, Pattern=neus, Pattern=zitten, Pattern=een beetje, Pattern=lijken, Pattern=beetje
+Turn ID=9| B | B : en aan de een kant van de staaf zijn een cirkel
+	Free: Pattern=zijn, Pattern=en aan de, Pattern=van de staaf, Pattern=een, Pattern=een cirkel
+	Constrained: Pattern=aan de, Pattern=een, Pattern=de staaf, Pattern=de, Pattern=aan, Pattern=van, Pattern=en
+Turn ID=10| B | B : en bovenop de emmer zijn een soort van lepeltje handvaa
+	Free: Pattern=de, Pattern=een, Pattern=zijn, Pattern=van, Pattern=en
+	Constrained: 
+Turn ID=11| B | B : ja o
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=12| B | B : deze zijn de helikopter
+	Free: Pattern=de, Pattern=zijn
+	Constrained: 
+Turn ID=13| A | A : okee
+	Free: 
+	Constrained: 
+Turn ID=14| A | A : ja druppel erboven links
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=15| A | A : ja zestien
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=16| B | B : ja d
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=17| B | B : dit zijn die helikopter
+	Free: Pattern=dit zijn die
+	Constrained: Pattern=die, Pattern=zijn
+Turn ID=18| A | A : dit zijn die met de neus maar wel met de staaf erdoorheen
+	Free: Pattern=dit zijn die, Pattern=de neus, Pattern=de staaf
+	Constrained: Pattern=neus, Pattern=zijn, Pattern=die, Pattern=de
+Turn ID=19| A | A : met het schotel aan de uitein
+	Free: Pattern=aan de, Pattern=het
+	Constrained: Pattern=aan, Pattern=de
+Turn ID=20| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=21| A | A : yes waar staan die nu weer
+	Free: Pattern=die
+	Constrained: 
+Turn ID=22| A | A : ja dat zijn veertien
+	Free: Pattern=ja, Pattern=zijn
+	Constrained: 
+Turn ID=23| A | A : dit zijn die met de neus met een staaf erdoorheen
+	Free: Pattern=dit zijn die, Pattern=de neus, Pattern=een staaf
+	Constrained: Pattern=de, Pattern=een, Pattern=neus, Pattern=die, Pattern=zijn
+Turn ID=24| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=25| A | A : dat zijn acht
+	Free: Pattern=zijn
+	Constrained: 

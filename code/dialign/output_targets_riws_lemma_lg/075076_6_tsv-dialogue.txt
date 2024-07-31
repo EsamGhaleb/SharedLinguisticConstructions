@@ -1,0 +1,91 @@
+A|0| A: _oké_ nu _hebben_ _ik_ _het_ rood vierkant 
+B|1| B: _ja_ 
+A|2| A: _ik hebben_ even kijken bovenaan _zijn_ _het_ vrijwel leeg er staan alleen aan _de_ aan _de_ linkerkant staan _een soort_ van 
+A|3| A: klein cirkelt bovenop _een soort_ van uitstekel uitsteeksel en aan _de_ rechterkant 
+A|4| A: [ja] beetje lastig uit te uitleggen maar _een_ cirkel _met _een_ soort_ staaf _erdoorheen_ en _daar_ aan _het_ einde ook weer _een_ rond 
+B|5| B: [ja] [het] [zijn] [een soort] _ei_ waar dan zo'n ding doorheen opsteken 
+A|6| A: [ja] 
+A|7| A: kloppen 
+B|8| B: [ja] 
+B|9| B: [oké] _dat_ [zijn] F 
+B|10| B: dit [zijn] _die een met_ [het] _ei_ _met de_ stok [erdoorheen] 
+A|11| A: [ja] [zijn] bij mij nummer vijf 
+A|12| A: _ik hebben _die_ met_ [dat] [ei] en [met de] staaf [erdoorheen] 
+B|13| B: waar [zijn] [die] 
+B|14| B: [daar] 
+B|15| B: [dat] [zijn] A 
+B|16| B: dit [zijn] [die met] [het] [ei] [met een] stok [erdoorheen] 
+A|17| A: nummer vijf 
+A|18| A: _ik hebben die een met_ [dat] [ei] en [met de] staaf [erdoorheen] 
+B|19| B: [oké] [dat] [zijn] H 
+B|20| B: [ik hebben die een met] [het] [ei] [met] [het] balk erdoor doorheen 
+A|21| A: nummer vijftien 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : oké nu hebben ik het rood vierkant
+	Free: Pattern=oké, Pattern=ik, Pattern=het, Pattern=hebben
+	Constrained: 
+Turn ID=1| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=2| A | A : ik hebben even kijken bovenaan zijn het vrijwel leeg er staan alleen aan de aan de linkerkant staan een soort van
+	Free: Pattern=ik hebben, Pattern=de, Pattern=het, Pattern=een soort, Pattern=zijn
+	Constrained: Pattern=ik, Pattern=hebben, Pattern=een
+Turn ID=3| A | A : klein cirkelt bovenop een soort van uitstekel uitsteeksel en aan de rechterkant
+	Free: Pattern=een soort, Pattern=de
+	Constrained: Pattern=een
+Turn ID=4| A | A : ja beetje lastig uit te uitleggen maar een cirkel met een soort staaf erdoorheen en daar aan het einde ook weer een rond
+	Free: Pattern=ja, Pattern=een, Pattern=het, Pattern=erdoorheen, Pattern=met een, Pattern=een soort, Pattern=daar
+	Constrained: Pattern=met, Pattern=een
+Turn ID=5| B | B : ja het zijn een soort ei waar dan zo'n ding doorheen opsteken
+	Free: Pattern=ei, Pattern=ja, Pattern=het, Pattern=een soort, Pattern=zijn
+	Constrained: Pattern=een
+Turn ID=6| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=7| A | A : kloppen
+	Free: 
+	Constrained: 
+Turn ID=8| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=9| B | B : oké dat zijn F
+	Free: Pattern=oké, Pattern=zijn, Pattern=dat
+	Constrained: 
+Turn ID=10| B | B : dit zijn die een met het ei met de stok erdoorheen
+	Free: Pattern=ei, Pattern=het, Pattern=erdoorheen, Pattern=zijn, Pattern=die een met, Pattern=met de
+	Constrained: Pattern=een, Pattern=de, Pattern=met, Pattern=die
+Turn ID=11| A | A : ja zijn bij mij nummer vijf
+	Free: Pattern=ja, Pattern=zijn
+	Constrained: 
+Turn ID=12| A | A : ik hebben die met dat ei en met de staaf erdoorheen
+	Free: Pattern=dat, Pattern=ei, Pattern=met de, Pattern=erdoorheen, Pattern=die met, Pattern=ik hebben die
+	Constrained: Pattern=ik hebben, Pattern=de, Pattern=hebben, Pattern=met, Pattern=die, Pattern=ik
+Turn ID=13| B | B : waar zijn die
+	Free: Pattern=zijn, Pattern=die
+	Constrained: 
+Turn ID=14| B | B : daar
+	Free: Pattern=daar
+	Constrained: 
+Turn ID=15| B | B : dat zijn A
+	Free: Pattern=zijn, Pattern=dat
+	Constrained: 
+Turn ID=16| B | B : dit zijn die met het ei met een stok erdoorheen
+	Free: Pattern=ei, Pattern=het, Pattern=erdoorheen, Pattern=die met, Pattern=met een, Pattern=zijn
+	Constrained: Pattern=met, Pattern=een, Pattern=die
+Turn ID=17| A | A : nummer vijf
+	Free: 
+	Constrained: 
+Turn ID=18| A | A : ik hebben die een met dat ei en met de staaf erdoorheen
+	Free: Pattern=dat, Pattern=ei, Pattern=met de, Pattern=erdoorheen, Pattern=ik hebben die een met
+	Constrained: Pattern=ik hebben, Pattern=een, Pattern=hebben, Pattern=met, Pattern=die, Pattern=de, Pattern=die een met, Pattern=ik hebben die, Pattern=ik
+Turn ID=19| B | B : oké dat zijn H
+	Free: Pattern=oké, Pattern=zijn, Pattern=dat
+	Constrained: 
+Turn ID=20| B | B : ik hebben die een met het ei met het balk erdoor doorheen
+	Free: Pattern=ik hebben die een met, Pattern=ei, Pattern=met, Pattern=het
+	Constrained: Pattern=ik hebben, Pattern=die een met, Pattern=een, Pattern=hebben, Pattern=met, Pattern=die, Pattern=ik hebben die, Pattern=ik
+Turn ID=21| A | A : nummer vijftien
+	Free: 
+	Constrained: 

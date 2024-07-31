@@ -1,0 +1,103 @@
+B|0| B: dan deze hebben _een_ _verrekijker_ naar links 
+B|1| B: lijken _op_ _een_ _verrekijker_ _twee_ van _die_ 
+A|2| A: _met_ zo'n toeter eruit 
+B|3| B: nee 
+A|4| A: of niet 
+A|5| A: _met_ [een] _met_ [een] _met_ [een] _champignon op zijn dak_ 
+B|6| B: _twee_ van _die_ vierkant [een] soort vierkant blok _verrekijker_ 
+B|7| B: _ja_ [met] _die_ [champignon op zijn dak] _en _de_ plat_ ding aan _de_ _voorkant_ 
+A|8| A: [ja] 
+A|9| A: nummer [twee] 
+A|10| A: _dit zijn_ [die] [een] _met _de_ verrekijker_ _en de [champignon op_ zijn dak] 
+A|11| A: _met [de_ plat] [voorkant] 
+B|12| B: [ja] 
+B|13| B: _dat zijn_ bij mij G 
+B|14| B: _dit zijn de_ vierkant [verrekijker] naar links _met de champignon op_ het hoofd [en de] het [plat] vierkant aan [de] [voorkant] 
+A|15| A: [ja] [dat zijn] negen 
+A|16| A: [dit zijn _de] verrekijker_ [met de [champignon op] zijn dak] 
+B|17| B: waar [zijn] je 
+B|18| B: [ja] [en] het vlak aan [de] [voorkant] 
+B|19| B: [dat zijn] bij mij d 
+B|20| B: [de verrekijker] naar links [en de champignon op] het hoofd 
+A|21| A: [dat zijn] één 
+B|22| B: het vlak aan [de] [voorkant] 
+A|23| A: [de verrekijker] [met de [champignon op] zijn dak] 
+B|24| B: even kijken waar staan [die] ? [dat zijn] B 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : dan deze hebben een verrekijker naar links
+	Free: Pattern=een, Pattern=verrekijker
+	Constrained: 
+Turn ID=1| B | B : lijken op een verrekijker twee van die
+	Free: Pattern=twee, Pattern=op, Pattern=een, Pattern=die, Pattern=verrekijker
+	Constrained: 
+Turn ID=2| A | A : met zo'n toeter eruit
+	Free: Pattern=met
+	Constrained: 
+Turn ID=3| B | B : nee
+	Free: 
+	Constrained: 
+Turn ID=4| A | A : of niet
+	Free: 
+	Constrained: 
+Turn ID=5| A | A : met een met een met een champignon op zijn dak
+	Free: Pattern=champignon op zijn dak, Pattern=met, Pattern=een
+	Constrained: Pattern=zijn, Pattern=op
+Turn ID=6| B | B : twee van die vierkant een soort vierkant blok verrekijker
+	Free: Pattern=die, Pattern=een, Pattern=twee, Pattern=verrekijker
+	Constrained: 
+Turn ID=7| B | B : ja met die champignon op zijn dak en de plat ding aan de voorkant
+	Free: Pattern=voorkant, Pattern=en de, Pattern=met, Pattern=die, Pattern=de plat, Pattern=champignon op zijn dak, Pattern=de, Pattern=ja
+	Constrained: Pattern=de, Pattern=op, Pattern=en, Pattern=plat, Pattern=zijn
+Turn ID=8| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=9| A | A : nummer twee
+	Free: Pattern=twee
+	Constrained: 
+Turn ID=10| A | A : dit zijn die een met de verrekijker en de champignon op zijn dak
+	Free: Pattern=met de, Pattern=een, Pattern=die, Pattern=champignon op zijn dak, Pattern=de verrekijker, Pattern=dit zijn, Pattern=en de champignon op
+	Constrained: Pattern=de, Pattern=op, Pattern=en de, Pattern=met, Pattern=zijn, Pattern=verrekijker, Pattern=en
+Turn ID=11| A | A : met de plat voorkant
+	Free: Pattern=de plat, Pattern=met de, Pattern=voorkant
+	Constrained: Pattern=plat, Pattern=met, Pattern=de
+Turn ID=12| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=13| B | B : dat zijn bij mij G
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn
+Turn ID=14| B | B : dit zijn de vierkant verrekijker naar links met de champignon op het hoofd en de het plat vierkant aan de voorkant
+	Free: Pattern=met de champignon op, Pattern=de, Pattern=voorkant, Pattern=en de, Pattern=verrekijker, Pattern=plat, Pattern=dit zijn de
+	Constrained: Pattern=op, Pattern=met, Pattern=en, Pattern=zijn, Pattern=dit zijn, Pattern=de, Pattern=met de
+Turn ID=15| A | A : ja dat zijn negen
+	Free: Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=zijn
+Turn ID=16| A | A : dit zijn de verrekijker met de champignon op zijn dak
+	Free: Pattern=champignon op zijn dak, Pattern=met de champignon op, Pattern=dit zijn de, Pattern=de verrekijker
+	Constrained: Pattern=op, Pattern=met, Pattern=verrekijker, Pattern=zijn, Pattern=dit zijn, Pattern=de, Pattern=met de
+Turn ID=17| B | B : waar zijn je
+	Free: Pattern=zijn
+	Constrained: 
+Turn ID=18| B | B : ja en het vlak aan de voorkant
+	Free: Pattern=en, Pattern=de, Pattern=voorkant, Pattern=ja
+	Constrained: 
+Turn ID=19| B | B : dat zijn bij mij d
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn
+Turn ID=20| B | B : de verrekijker naar links en de champignon op het hoofd
+	Free: Pattern=en de champignon op, Pattern=de verrekijker
+	Constrained: Pattern=de, Pattern=op, Pattern=en de, Pattern=verrekijker, Pattern=en
+Turn ID=21| A | A : dat zijn één
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn
+Turn ID=22| B | B : het vlak aan de voorkant
+	Free: Pattern=de, Pattern=voorkant
+	Constrained: 
+Turn ID=23| A | A : de verrekijker met de champignon op zijn dak
+	Free: Pattern=champignon op zijn dak, Pattern=met de champignon op, Pattern=de verrekijker
+	Constrained: Pattern=op, Pattern=met, Pattern=verrekijker, Pattern=zijn, Pattern=de, Pattern=met de
+Turn ID=24| B | B : even kijken waar staan die ? dat zijn B
+	Free: Pattern=dat zijn, Pattern=die
+	Constrained: Pattern=zijn

@@ -1,0 +1,159 @@
+B|0| B: _oké_ 
+B|1| B: even kijken 
+B|2| B: _ja_ 
+B|3| B: _ja_ _met_ een hoek erin _dat_ uitsteeksel 
+B|4| B: _ja_ _en die_ _balk_ _zijn_ eigenlijk gewoon los 
+B|5| B: _ja_ _oké_ 
+B|6| B: _dan_ _zijn_ _het_ d 
+A|7| A: nu _hebben_ _ik_ 
+A|8| A: [ja] [het] enig [met] _zo'n_ lang [balk] zeggen maar 
+A|9| A: [ja] 
+A|10| A: [ja] 
+A|11| A: [ja] 
+A|12| A: [en] [dan] _twee_ armp 
+B|13| B: _oké_ 
+B|14| B: deze [hebben] een [balk] _aan_ de voorkant 
+B|15| B: deze [hebben] we al [hebben] de [balk] _aan_ de voorkant [en] _zo'n bol_ erbovenop [en] [twee] van _die_ _arm_ _aan_ de zijkant 
+A|16| A: wie [zijn] ? jou beurt 
+A|17| A: [ja] 
+A|18| A: [en] [dan] 
+A|19| A: [dat] kunnen je [twee] tubes of zo weten _ik_ veel 
+A|20| A: [oké] 
+A|21| A: vijftien 
+B|22| B: [ja] [en] een _bal_ daarbovenop [ja] 
+B|23| B: [oké] [dat] [zijn] L 
+B|24| B: dit [zijn] degeen _waar_ de [balk] voor staat [met] [twee] uitsteeksel [en] een _bol_ bovenop 
+B|25| B: _die_ een beetje losstaan [ja] 
+B|26| B: [dat] [zijn] J 
+A|27| A: bij mij ook 
+A|28| A: [ja] [dat] [dat] lang [balk] [en] [dan] [waar] zeggen maar [zo'n] beker [aan] hangen lijken [het] wel 
+A|29| A: [en] [dan] [zo'n bol] erop 
+A|30| A: juist 
+A|31| A: weten je [het] gaan lekker 
+B|32| B: [ik] [hebben] diegene [waar] de [balk] voor staat _en die_ [bol] daarbovenop _en die twee_ uitsteeksel 
+A|33| A: [en die twee] 
+A|34| A: nummer zes 
+A|35| A: [die] Empire State Building zeggen maar of wat [het] [zijn] 
+A|36| A: [en] [dan] [zo'n] [bal] erop 
+A|37| A: [en die twee] [arm] 
+A|38| A: drie 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=1| B | B : even kijken
+	Free: 
+	Constrained: 
+Turn ID=2| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=3| B | B : ja met een hoek erin dat uitsteeksel
+	Free: Pattern=dat, Pattern=ja, Pattern=met
+	Constrained: 
+Turn ID=4| B | B : ja en die balk zijn eigenlijk gewoon los
+	Free: Pattern=en die, Pattern=zijn, Pattern=ja, Pattern=balk
+	Constrained: Pattern=en, Pattern=die
+Turn ID=5| B | B : ja oké
+	Free: Pattern=oké, Pattern=ja
+	Constrained: 
+Turn ID=6| B | B : dan zijn het d
+	Free: Pattern=dan, Pattern=zijn, Pattern=het
+	Constrained: 
+Turn ID=7| A | A : nu hebben ik
+	Free: Pattern=hebben, Pattern=ik
+	Constrained: 
+Turn ID=8| A | A : ja het enig met zo'n lang balk zeggen maar
+	Free: Pattern=zo'n, Pattern=ja, Pattern=het, Pattern=balk, Pattern=met
+	Constrained: 
+Turn ID=9| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=10| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=11| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=12| A | A : en dan twee armp
+	Free: Pattern=twee, Pattern=en, Pattern=dan
+	Constrained: 
+Turn ID=13| B | B : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=14| B | B : deze hebben een balk aan de voorkant
+	Free: Pattern=hebben, Pattern=aan, Pattern=balk
+	Constrained: 
+Turn ID=15| B | B : deze hebben we al hebben de balk aan de voorkant en zo'n bol erbovenop en twee van die arm aan de zijkant
+	Free: Pattern=zo'n bol, Pattern=twee, Pattern=aan, Pattern=hebben, Pattern=balk, Pattern=die, Pattern=arm, Pattern=en
+	Constrained: Pattern=zo'n, Pattern=bol
+Turn ID=16| A | A : wie zijn ? jou beurt
+	Free: Pattern=zijn
+	Constrained: 
+Turn ID=17| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=18| A | A : en dan
+	Free: Pattern=en, Pattern=dan
+	Constrained: 
+Turn ID=19| A | A : dat kunnen je twee tubes of zo weten ik veel
+	Free: Pattern=twee, Pattern=dat, Pattern=ik
+	Constrained: 
+Turn ID=20| A | A : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=21| A | A : vijftien
+	Free: 
+	Constrained: 
+Turn ID=22| B | B : ja en een bal daarbovenop ja
+	Free: Pattern=en, Pattern=ja, Pattern=bal
+	Constrained: 
+Turn ID=23| B | B : oké dat zijn L
+	Free: Pattern=dat, Pattern=oké, Pattern=zijn
+	Constrained: 
+Turn ID=24| B | B : dit zijn degeen waar de balk voor staat met twee uitsteeksel en een bol bovenop
+	Free: Pattern=twee, Pattern=waar, Pattern=bol, Pattern=balk, Pattern=met, Pattern=en, Pattern=zijn
+	Constrained: 
+Turn ID=25| B | B : die een beetje losstaan ja
+	Free: Pattern=ja, Pattern=die
+	Constrained: 
+Turn ID=26| B | B : dat zijn J
+	Free: Pattern=dat, Pattern=zijn
+	Constrained: 
+Turn ID=27| A | A : bij mij ook
+	Free: 
+	Constrained: 
+Turn ID=28| A | A : ja dat dat lang balk en dan waar zeggen maar zo'n beker aan hangen lijken het wel
+	Free: Pattern=dat, Pattern=zo'n, Pattern=waar, Pattern=dan, Pattern=het, Pattern=balk, Pattern=en, Pattern=aan, Pattern=ja
+	Constrained: 
+Turn ID=29| A | A : en dan zo'n bol erop
+	Free: Pattern=zo'n bol, Pattern=en, Pattern=dan
+	Constrained: Pattern=zo'n, Pattern=bol
+Turn ID=30| A | A : juist
+	Free: 
+	Constrained: 
+Turn ID=31| A | A : weten je het gaan lekker
+	Free: Pattern=het
+	Constrained: 
+Turn ID=32| B | B : ik hebben diegene waar de balk voor staat en die bol daarbovenop en die twee uitsteeksel
+	Free: Pattern=en die, Pattern=waar, Pattern=bol, Pattern=en die twee, Pattern=hebben, Pattern=balk, Pattern=ik
+	Constrained: Pattern=die, Pattern=en, Pattern=en die, Pattern=twee
+Turn ID=33| A | A : en die twee
+	Free: Pattern=en die twee
+	Constrained: Pattern=die, Pattern=en, Pattern=en die, Pattern=twee
+Turn ID=34| A | A : nummer zes
+	Free: 
+	Constrained: 
+Turn ID=35| A | A : die Empire State Building zeggen maar of wat het zijn
+	Free: Pattern=zijn, Pattern=die, Pattern=het
+	Constrained: 
+Turn ID=36| A | A : en dan zo'n bal erop
+	Free: Pattern=en, Pattern=dan, Pattern=zo'n, Pattern=bal
+	Constrained: 
+Turn ID=37| A | A : en die twee arm
+	Free: Pattern=en die twee, Pattern=arm
+	Constrained: Pattern=die, Pattern=en, Pattern=en die, Pattern=twee
+Turn ID=38| A | A : drie
+	Free: 
+	Constrained: 

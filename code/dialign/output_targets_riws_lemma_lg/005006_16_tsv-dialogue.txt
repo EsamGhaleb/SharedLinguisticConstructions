@@ -1,0 +1,83 @@
+A|0| A: _ja_ 
+A|1| A: _dan_ weer met _die_ balonnet _en dan_ _één_ groot _er_ in _en één_ groot _aan de_ zijkant _en dan_ _zo'n_ toren _van_ vierkant _aan de rechterkant_ 
+B|2| B: [ja] 
+B|3| B: [ja] zijn E 
+B|4| B: _deze hebben_ zegmaar _twee_ [van] [die] _ballonnet_ eentjedie boven uitsteekt [en één] [die] daar links uit opsteken [en] rechts _hebben hij_ [zo'n] _blokkentoren_ 
+A|5| A: [en] _aan de_ ander kant [hebben hij] een armp of zo 
+B|6| B: [ja] 
+B|7| B: [ja] iets heel geks 
+A|8| A: [ja] ok elf 
+A|9| A: [deze hebben] [die] [twee] ballonne [één] op _de_ bovenkant [en één] _aan de_ zijkant _en dan blokkentorentje_ 
+B|10| B: [aan de rechterkant] 
+A|11| A: [ja] 
+B|12| B: [ja] J 
+B|13| B: _twee ballonnet_ [er] uit [één] boven [één] link [en dan blokkentorentje] rechts 
+B|14| B: [en] dat gek vormp [aan de] achterkant 
+A|15| A: [ja] negen 
+A|16| A: _twee ballonnet één_ [aan de] bovenkant [één] [aan de] zijkant [en dan blokkentorentje] [aan de] zijkant 
+B|17| B: [ja] B 
+B|18| B: [twee ballonnet één] boven [één] link rechts zitten [zo'n] _blokkentoren_ 
+A|19| A: [blokkentoren] vier 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=1| A | A : dan weer met die balonnet en dan één groot er in en één groot aan de zijkant en dan zo'n toren van vierkant aan de rechterkant
+	Free: Pattern=en één, Pattern=zo'n, Pattern=en dan, Pattern=aan de, Pattern=dan, Pattern=er, Pattern=van, Pattern=één, Pattern=aan de rechterkant, Pattern=die
+	Constrained: Pattern=de, Pattern=aan de, Pattern=dan, Pattern=en, Pattern=één
+Turn ID=2| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=3| B | B : ja zijn E
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=4| B | B : deze hebben zegmaar twee van die ballonnet eentjedie boven uitsteekt en één die daar links uit opsteken en rechts hebben hij zo'n blokkentoren
+	Free: Pattern=en één, Pattern=hebben hij, Pattern=blokkentoren, Pattern=die, Pattern=zo'n, Pattern=twee, Pattern=deze hebben, Pattern=ballonnet, Pattern=van, Pattern=en
+	Constrained: Pattern=en, Pattern=één
+Turn ID=5| A | A : en aan de ander kant hebben hij een armp of zo
+	Free: Pattern=aan de, Pattern=hebben hij, Pattern=en
+	Constrained: Pattern=de
+Turn ID=6| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=7| B | B : ja iets heel geks
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=8| A | A : ja ok elf
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=9| A | A : deze hebben die twee ballonne één op de bovenkant en één aan de zijkant en dan blokkentorentje
+	Free: Pattern=en één, Pattern=twee, Pattern=de, Pattern=aan de, Pattern=en dan blokkentorentje, Pattern=deze hebben, Pattern=die, Pattern=één
+	Constrained: Pattern=de, Pattern=en dan, Pattern=dan, Pattern=en, Pattern=één
+Turn ID=10| B | B : aan de rechterkant
+	Free: Pattern=aan de rechterkant
+	Constrained: Pattern=aan de, Pattern=de
+Turn ID=11| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=12| B | B : ja J
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=13| B | B : twee ballonnet er uit één boven één link en dan blokkentorentje rechts
+	Free: Pattern=en dan blokkentorentje, Pattern=twee ballonnet, Pattern=er, Pattern=één
+	Constrained: Pattern=twee, Pattern=en dan, Pattern=dan, Pattern=ballonnet, Pattern=en
+Turn ID=14| B | B : en dat gek vormp aan de achterkant
+	Free: Pattern=aan de, Pattern=en
+	Constrained: Pattern=de
+Turn ID=15| A | A : ja negen
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=16| A | A : twee ballonnet één aan de bovenkant één aan de zijkant en dan blokkentorentje aan de zijkant
+	Free: Pattern=en dan blokkentorentje, Pattern=twee ballonnet één, Pattern=aan de, Pattern=één
+	Constrained: Pattern=twee, Pattern=de, Pattern=en dan, Pattern=twee ballonnet, Pattern=dan, Pattern=ballonnet, Pattern=en, Pattern=één
+Turn ID=17| B | B : ja B
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=18| B | B : twee ballonnet één boven één link rechts zitten zo'n blokkentoren
+	Free: Pattern=twee ballonnet één, Pattern=blokkentoren, Pattern=zo'n, Pattern=één
+	Constrained: Pattern=twee, Pattern=twee ballonnet, Pattern=één, Pattern=ballonnet
+Turn ID=19| A | A : blokkentoren vier
+	Free: Pattern=blokkentoren
+	Constrained: 

@@ -1,0 +1,135 @@
+A|0| A: _one's_ _dit_ figuurt hebben _een_ soort 
+A|1| A: _satelliet_ _aan de bovenkant_ zo noemen _ik_ _het_ _het zijn_ _een_ _een_ ruit met daaruit _aan_ beide kant uitsteeksel 
+B|2| B: _ja_ 
+A|3| A: _en _aan de_ onderkant_ hebben _die_ _een_ _een_ slurf 
+B|4| B: _ja_ 
+A|5| A: _en aan de_ voorkant hebben _die_ ook nog twee uitsteeksel _die_ eigenlijk zo vooruitgaan 
+B|6| B: _ja_ 
+B|7| B: [ik] weten al welk [het zijn] [het zijn] M 
+B|8| B: _dit zijn_ [one's] _ja_ _dit zijn_ [het] kop [en] dan daarboven zitten zo'n gedraaide 
+B|9| B: vierkant waar dan weer zo'n vierkant erdoorheen komen 
+B|10| B: [en] daar onderin komen er komen zo'n _staart_ uit 
+A|11| A: [zijn] _dat_ _die_ _die_ [ik] net _satelliet_ noemen 
+B|12| B: [satelliet] [dat] [zijn] [het] 
+A|13| A: oké 
+B|14| B: _ja_ 
+A|15| A: nummer negen 
+A|16| A: [en] [dit zijn] _die_ met _de_ [satelliet] _aan de bovenkant_ [en] _de onderkant_ [dat] [staart] 
+B|17| B: _ja_ 
+B|18| B: even kijken 
+B|19| B: waar staan [die] 
+A|20| A: lastig 
+B|21| B: daar _ja_ H 
+A|22| A: moeten je _de_ heel tijd zoeken 
+B|23| B: _ja_ 
+A|24| A: [ja] jou beurt 
+B|25| B: [ja] [dit zijn] [het] kop waar [aan de onderkant] wat uit komen [en [aan de] bovenkant] zitten [een] [satelliet] 
+A|26| A: [de] [ja] elf 
+A|27| A: [dit zijn] [dat] poppe met [de] [satelliet] [aan de bovenkant] 
+A|28| A: [en [aan de] onderkant] [het] uitsteeksel 
+B|29| B: [ja] 
+B|30| B: [dat] [zijn] D 
+B|31| B: [satelliet] [en] [het] dinge [aan de onderkant] 
+A|32| A: nummer veertien 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : one's dit figuurt hebben een soort
+	Free: Pattern=een, Pattern=one's, Pattern=dit
+	Constrained: 
+Turn ID=1| A | A : satelliet aan de bovenkant zo noemen ik het het zijn een een ruit met daaruit aan beide kant uitsteeksel
+	Free: Pattern=aan, Pattern=een, Pattern=het, Pattern=het zijn, Pattern=ik, Pattern=aan de bovenkant, Pattern=satelliet
+	Constrained: Pattern=aan, Pattern=de, Pattern=zijn, Pattern=het
+Turn ID=2| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=3| A | A : en aan de onderkant hebben die een een slurf
+	Free: Pattern=aan de onderkant, Pattern=en aan de, Pattern=die, Pattern=een
+	Constrained: Pattern=de onderkant, Pattern=aan, Pattern=de, Pattern=en
+Turn ID=4| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=5| A | A : en aan de voorkant hebben die ook nog twee uitsteeksel die eigenlijk zo vooruitgaan
+	Free: Pattern=en aan de, Pattern=die
+	Constrained: Pattern=aan, Pattern=de, Pattern=en
+Turn ID=6| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=7| B | B : ik weten al welk het zijn het zijn M
+	Free: Pattern=het zijn, Pattern=ik
+	Constrained: Pattern=zijn, Pattern=het
+Turn ID=8| B | B : dit zijn one's ja dit zijn het kop en dan daarboven zitten zo'n gedraaide
+	Free: Pattern=ja, Pattern=one's, Pattern=het, Pattern=en, Pattern=dit zijn
+	Constrained: Pattern=zijn, Pattern=dit
+Turn ID=9| B | B : vierkant waar dan weer zo'n vierkant erdoorheen komen
+	Free: 
+	Constrained: 
+Turn ID=10| B | B : en daar onderin komen er komen zo'n staart uit
+	Free: Pattern=staart, Pattern=en
+	Constrained: 
+Turn ID=11| A | A : zijn dat die die ik net satelliet noemen
+	Free: Pattern=dat, Pattern=die, Pattern=ik, Pattern=satelliet, Pattern=zijn
+	Constrained: 
+Turn ID=12| B | B : satelliet dat zijn het
+	Free: Pattern=zijn, Pattern=het, Pattern=satelliet, Pattern=dat
+	Constrained: 
+Turn ID=13| A | A : oké
+	Free: 
+	Constrained: 
+Turn ID=14| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=15| A | A : nummer negen
+	Free: 
+	Constrained: 
+Turn ID=16| A | A : en dit zijn die met de satelliet aan de bovenkant en de onderkant dat staart
+	Free: Pattern=dat, Pattern=de, Pattern=staart, Pattern=satelliet, Pattern=dit zijn, Pattern=die, Pattern=de onderkant, Pattern=aan de bovenkant, Pattern=en
+	Constrained: Pattern=de, Pattern=zijn, Pattern=dit, Pattern=aan
+Turn ID=17| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=18| B | B : even kijken
+	Free: 
+	Constrained: 
+Turn ID=19| B | B : waar staan die
+	Free: Pattern=die
+	Constrained: 
+Turn ID=20| A | A : lastig
+	Free: 
+	Constrained: 
+Turn ID=21| B | B : daar ja H
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=22| A | A : moeten je de heel tijd zoeken
+	Free: Pattern=de
+	Constrained: 
+Turn ID=23| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=24| A | A : ja jou beurt
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=25| B | B : ja dit zijn het kop waar aan de onderkant wat uit komen en aan de bovenkant zitten een satelliet
+	Free: Pattern=ja, Pattern=een, Pattern=het, Pattern=aan de onderkant, Pattern=aan de bovenkant, Pattern=satelliet, Pattern=en aan de, Pattern=dit zijn
+	Constrained: Pattern=dit, Pattern=de onderkant, Pattern=en, Pattern=zijn, Pattern=de, Pattern=aan
+Turn ID=26| A | A : de ja elf
+	Free: Pattern=de, Pattern=ja
+	Constrained: 
+Turn ID=27| A | A : dit zijn dat poppe met de satelliet aan de bovenkant
+	Free: Pattern=dat, Pattern=de, Pattern=aan de bovenkant, Pattern=satelliet, Pattern=dit zijn
+	Constrained: Pattern=de, Pattern=zijn, Pattern=dit, Pattern=aan
+Turn ID=28| A | A : en aan de onderkant het uitsteeksel
+	Free: Pattern=aan de onderkant, Pattern=en aan de, Pattern=het
+	Constrained: Pattern=de onderkant, Pattern=aan, Pattern=de, Pattern=en
+Turn ID=29| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=30| B | B : dat zijn D
+	Free: Pattern=zijn, Pattern=dat
+	Constrained: 
+Turn ID=31| B | B : satelliet en het dinge aan de onderkant
+	Free: Pattern=aan de onderkant, Pattern=het, Pattern=satelliet, Pattern=en
+	Constrained: Pattern=de onderkant, Pattern=aan, Pattern=de
+Turn ID=32| A | A : nummer veertien
+	Free: 
+	Constrained: 

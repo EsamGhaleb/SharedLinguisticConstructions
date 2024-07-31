@@ -1,0 +1,87 @@
+A|0| A: _ik_ _hebben_ er één _en_ _die_ lijken een beetje alsof _die_ een _neuspiercing_ _hebben_ 
+B|1| B: _ja_ dan weten [ik] al welk _het zijn_ _ja_ 
+A|2| A: _en_ [het zijn] een soort 
+B|3| B: [en] [hebben] [die] ook zo _zo'n_ haar op _de_ achterkant [en] 
+A|4| A: [ja] [en] [het zijn] een basketbal standaard zeggen maar 
+B|5| B: [ja] 
+A|6| A: [zo'n] soort korfbalstandaard 
+B|7| B: [ja] [ja] [ja] [ja] [ja] 
+A|8| A: oké 
+B|9| B: dan [zijn] _dat_ bij mij F 
+B|10| B: _de_ neus [neuspiercing] 
+A|11| A: [ja] _dat zijn_ nummer vijf 
+A|12| A: _dit zijn de neuspiercing_ 
+B|13| B: even kijken [dat zijn] A 
+B|14| B: [dit zijn de neuspiercing] 
+A|15| A: [zijn] nummer vijf 
+A|16| A: [de neuspiercing] 
+B|17| B: [de neuspiercing] waar [zijn] je 
+B|18| B: H 
+B|19| B: [de neuspiercing] 
+A|20| A: [dat zijn] vijftien 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : ik hebben er één en die lijken een beetje alsof die een neuspiercing hebben
+	Free: Pattern=hebben, Pattern=die, Pattern=ik, Pattern=en, Pattern=neuspiercing
+	Constrained: 
+Turn ID=1| B | B : ja dan weten ik al welk het zijn ja
+	Free: Pattern=het zijn, Pattern=ik, Pattern=ja
+	Constrained: Pattern=zijn
+Turn ID=2| A | A : en het zijn een soort
+	Free: Pattern=het zijn, Pattern=en
+	Constrained: Pattern=zijn
+Turn ID=3| B | B : en hebben die ook zo zo'n haar op de achterkant en
+	Free: Pattern=zo'n, Pattern=de, Pattern=hebben, Pattern=die, Pattern=en
+	Constrained: 
+Turn ID=4| A | A : ja en het zijn een basketbal standaard zeggen maar
+	Free: Pattern=het zijn, Pattern=ja, Pattern=en
+	Constrained: Pattern=zijn
+Turn ID=5| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=6| A | A : zo'n soort korfbalstandaard
+	Free: Pattern=zo'n
+	Constrained: 
+Turn ID=7| B | B : ja ja ja ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=8| A | A : oké
+	Free: 
+	Constrained: 
+Turn ID=9| B | B : dan zijn dat bij mij F
+	Free: Pattern=zijn, Pattern=dat
+	Constrained: 
+Turn ID=10| B | B : de neus neuspiercing
+	Free: Pattern=neuspiercing, Pattern=de
+	Constrained: 
+Turn ID=11| A | A : ja dat zijn nummer vijf
+	Free: Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=12| A | A : dit zijn de neuspiercing
+	Free: Pattern=dit zijn de neuspiercing
+	Constrained: Pattern=neuspiercing, Pattern=de, Pattern=zijn, Pattern=de neuspiercing
+Turn ID=13| B | B : even kijken dat zijn A
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=14| B | B : dit zijn de neuspiercing
+	Free: Pattern=dit zijn de neuspiercing
+	Constrained: Pattern=neuspiercing, Pattern=de, Pattern=zijn, Pattern=de neuspiercing
+Turn ID=15| A | A : zijn nummer vijf
+	Free: Pattern=zijn
+	Constrained: 
+Turn ID=16| A | A : de neuspiercing
+	Free: Pattern=de neuspiercing
+	Constrained: Pattern=neuspiercing, Pattern=de
+Turn ID=17| B | B : de neuspiercing waar zijn je
+	Free: Pattern=de neuspiercing, Pattern=zijn
+	Constrained: Pattern=neuspiercing, Pattern=de
+Turn ID=18| B | B : H
+	Free: 
+	Constrained: 
+Turn ID=19| B | B : de neuspiercing
+	Free: Pattern=de neuspiercing
+	Constrained: Pattern=neuspiercing, Pattern=de
+Turn ID=20| A | A : dat zijn vijftien
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn, Pattern=dat

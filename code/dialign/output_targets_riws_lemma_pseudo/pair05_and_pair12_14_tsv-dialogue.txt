@@ -1,0 +1,111 @@
+B|0| B: _okee_ _dat_ _zijn_ g 
+A|1| A: dit [zijn] er één met een bol op op [zijn] hoofd ik denken [dat] er maar één _van_ [zijn] 
+A|2| A: een staaf _aan de_ kant waar wij _van_ kijken 
+A|3| A: en nog twee staf links en rechts 
+A|4| A: ja 
+B|5| B: ze [zijn] veranderen 
+B|6| B: okeeen _deze hebben_ [de] [de] lang recht balk [van] boven naar beneden _aan de voorkant_ 
+A|7| A: nee één en dan mogen jij drukken ja 
+A|8| A: [aan de voorkant] rechtsvoor 
+A|9| A: ja 
+A|10| A: [okee] 
+A|11| A: zes 
+B|12| B: h 
+B|13| B: [de] balk [van] boven naar beneden [aan de voorkant] 
+B|14| B: b 
+B|15| B: [de] recht balk [van] boven naar beneden 
+A|16| A: [deze hebben] een bol op [zijn] hoofd 
+A|17| A: twee of een staaf [aan de voorkant] rechtsvoor 
+A|18| A: ja 
+A|19| A: [hebben] je acht 
+A|20| A: bal op hoofd 
+A|21| A: bol op hoofd 
+A|22| A: volgens mij [zijn] er maar één 
+A|23| A: maar [zijn] het een bol of een half 
+A|24| A: als 
+A|25| A: ja precies 
+A|26| A: sumoworstelaar twee 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : okee dat zijn g
+	Free: Pattern=dat, Pattern=okee, Pattern=zijn
+	Constrained: 
+Turn ID=1| A | A : dit zijn er één met een bol op op zijn hoofd ik denken dat er maar één van zijn
+	Free: Pattern=dat, Pattern=zijn, Pattern=van
+	Constrained: 
+Turn ID=2| A | A : een staaf aan de kant waar wij van kijken
+	Free: Pattern=aan de, Pattern=van
+	Constrained: Pattern=de
+Turn ID=3| A | A : en nog twee staf links en rechts
+	Free: 
+	Constrained: 
+Turn ID=4| A | A : ja
+	Free: 
+	Constrained: 
+Turn ID=5| B | B : ze zijn veranderen
+	Free: Pattern=zijn
+	Constrained: 
+Turn ID=6| B | B : okeeen deze hebben de de lang recht balk van boven naar beneden aan de voorkant
+	Free: Pattern=aan de voorkant, Pattern=deze hebben, Pattern=van, Pattern=de
+	Constrained: Pattern=de, Pattern=aan de, Pattern=hebben
+Turn ID=7| A | A : nee één en dan mogen jij drukken ja
+	Free: 
+	Constrained: 
+Turn ID=8| A | A : aan de voorkant rechtsvoor
+	Free: Pattern=aan de voorkant
+	Constrained: Pattern=aan de, Pattern=de
+Turn ID=9| A | A : ja
+	Free: 
+	Constrained: 
+Turn ID=10| A | A : okee
+	Free: Pattern=okee
+	Constrained: 
+Turn ID=11| A | A : zes
+	Free: 
+	Constrained: 
+Turn ID=12| B | B : h
+	Free: 
+	Constrained: 
+Turn ID=13| B | B : de balk van boven naar beneden aan de voorkant
+	Free: Pattern=aan de voorkant, Pattern=van, Pattern=de
+	Constrained: Pattern=aan de, Pattern=de
+Turn ID=14| B | B : b
+	Free: 
+	Constrained: 
+Turn ID=15| B | B : de recht balk van boven naar beneden
+	Free: Pattern=van, Pattern=de
+	Constrained: 
+Turn ID=16| A | A : deze hebben een bol op zijn hoofd
+	Free: Pattern=deze hebben, Pattern=zijn
+	Constrained: Pattern=hebben
+Turn ID=17| A | A : twee of een staaf aan de voorkant rechtsvoor
+	Free: Pattern=aan de voorkant
+	Constrained: Pattern=aan de, Pattern=de
+Turn ID=18| A | A : ja
+	Free: 
+	Constrained: 
+Turn ID=19| A | A : hebben je acht
+	Free: Pattern=hebben
+	Constrained: 
+Turn ID=20| A | A : bal op hoofd
+	Free: 
+	Constrained: 
+Turn ID=21| A | A : bol op hoofd
+	Free: 
+	Constrained: 
+Turn ID=22| A | A : volgens mij zijn er maar één
+	Free: Pattern=zijn
+	Constrained: 
+Turn ID=23| A | A : maar zijn het een bol of een half
+	Free: Pattern=zijn
+	Constrained: 
+Turn ID=24| A | A : als
+	Free: 
+	Constrained: 
+Turn ID=25| A | A : ja precies
+	Free: 
+	Constrained: 
+Turn ID=26| A | A : sumoworstelaar twee
+	Free: 
+	Constrained: 

@@ -1,0 +1,103 @@
+B|0| B: _ja_ 
+B|1| B: _ja_ _dan_ _zijn_ het L 
+B|2| B: deze _hebben_ wat jij op een spijker vinden _lijken_ _met_ op dat gek vormig uit _en_ dat plateau aan de zijkant 
+A|3| A: _ik hebben_ dit beschrijven als als Pacmanor zeggen maar 
+A|4| A: zien je _die_ Pacmanvorm 
+A|5| A: _die_ geel pop [en] [dan] [hebben] _die_ zo'n oor _die_ erop [lijken] 
+A|6| A: wanneer _die_ gaan eten 
+A|7| A: [met] zo'n pion eraan 
+A|8| A: juist 
+A|9| A: [dan] [hebben] we hetzelfde 
+B|10| B: _oké_ 
+B|11| B: dat _zijn_ C 
+A|12| A: [ja] [oké] 
+A|13| A: zeven 
+B|14| B: [ik hebben] diegene [met] [die] spijker [en] dat gek vormp _waar_ [die] op staat [en] een plateau 
+A|15| A: [ja] [die] Pacman [en] [die] helikopterplateau 
+B|16| B: [oké] 
+B|17| B: [ja] 
+B|18| B: dat _zijn_ A 
+B|19| B: [ik hebben] diegene [met] [die] spijker [en] dat gek vormpje [en] het plateau 
+A|20| A: nummer één 
+A|21| A: [die] Pacman [en] [die] helikopterplattegrond 
+A|22| A: of platform 
+A|23| A: [waar] [zijn] [die] heen 
+A|24| A: dertien 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=1| B | B : ja dan zijn het L
+	Free: Pattern=ja, Pattern=zijn, Pattern=dan
+	Constrained: 
+Turn ID=2| B | B : deze hebben wat jij op een spijker vinden lijken met op dat gek vormig uit en dat plateau aan de zijkant
+	Free: Pattern=lijken, Pattern=met, Pattern=hebben, Pattern=en
+	Constrained: 
+Turn ID=3| A | A : ik hebben dit beschrijven als als Pacmanor zeggen maar
+	Free: Pattern=ik hebben
+	Constrained: Pattern=hebben
+Turn ID=4| A | A : zien je die Pacmanvorm
+	Free: Pattern=die
+	Constrained: 
+Turn ID=5| A | A : die geel pop en dan hebben die zo'n oor die erop lijken
+	Free: Pattern=hebben, Pattern=die, Pattern=en, Pattern=lijken, Pattern=dan
+	Constrained: 
+Turn ID=6| A | A : wanneer die gaan eten
+	Free: Pattern=die
+	Constrained: 
+Turn ID=7| A | A : met zo'n pion eraan
+	Free: Pattern=met
+	Constrained: 
+Turn ID=8| A | A : juist
+	Free: 
+	Constrained: 
+Turn ID=9| A | A : dan hebben we hetzelfde
+	Free: Pattern=hebben, Pattern=dan
+	Constrained: 
+Turn ID=10| B | B : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=11| B | B : dat zijn C
+	Free: Pattern=zijn
+	Constrained: 
+Turn ID=12| A | A : ja oké
+	Free: Pattern=ja, Pattern=oké
+	Constrained: 
+Turn ID=13| A | A : zeven
+	Free: 
+	Constrained: 
+Turn ID=14| B | B : ik hebben diegene met die spijker en dat gek vormp waar die op staat en een plateau
+	Free: Pattern=ik hebben, Pattern=waar, Pattern=met, Pattern=die, Pattern=en
+	Constrained: Pattern=hebben
+Turn ID=15| A | A : ja die Pacman en die helikopterplateau
+	Free: Pattern=ja, Pattern=en, Pattern=die
+	Constrained: 
+Turn ID=16| B | B : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=17| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=18| B | B : dat zijn A
+	Free: Pattern=zijn
+	Constrained: 
+Turn ID=19| B | B : ik hebben diegene met die spijker en dat gek vormpje en het plateau
+	Free: Pattern=ik hebben, Pattern=met, Pattern=en, Pattern=die
+	Constrained: Pattern=hebben
+Turn ID=20| A | A : nummer één
+	Free: 
+	Constrained: 
+Turn ID=21| A | A : die Pacman en die helikopterplattegrond
+	Free: Pattern=en, Pattern=die
+	Constrained: 
+Turn ID=22| A | A : of platform
+	Free: 
+	Constrained: 
+Turn ID=23| A | A : waar zijn die heen
+	Free: Pattern=waar, Pattern=zijn, Pattern=die
+	Constrained: 
+Turn ID=24| A | A : dertien
+	Free: 
+	Constrained: 

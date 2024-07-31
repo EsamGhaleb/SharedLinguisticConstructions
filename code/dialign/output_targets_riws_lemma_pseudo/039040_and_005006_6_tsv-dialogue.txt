@@ -1,0 +1,95 @@
+A|0| A: nu _hebben_ ik _een_ vierkant ik denken _dat_ _het_ _een_ soort van bollet _zijn_ _die_ _hebben_ ik als neus zien _met zo'n_ stok erdoorheen 
+A|1| A: _met zo'n_ pluk 
+A|2| A: _ja_ 
+A|3| A: oké 
+B|4| B: [ja] aan _de_ voorzijde allebei [dat] bolle en [die] staaf 
+B|5| B: ok dan _zijn het_ F 
+A|6| A: [ja] [de] neuspiercing 
+A|7| A: [zijn] bij mij links _hebben_ je ook _zo'n_ slinger van vijf [zijn het] [de] bovenste 
+A|8| A: sorry 
+A|9| A: [het] [zijn] vijf 
+B|10| B: deze [hebben] zegmaar [zo'n] ballonnetje uitstekend aan [de] bovenkant aan [de] voorkant zitten [een] bol [die] doorboren [zijn] [met] [een] staaf 
+B|11| B: [met zo'n] rond aan [de] rechterkant [ja] 
+A|12| A: ik [hebben] degeen [met] [de] piercing [de] neus _met dat_ ding erdoorheen 
+A|13| A: [ja] 
+A|14| A: vijf 
+B|15| B: [ja] A 
+A|16| A: dit [zijn] degeen [met] [de] neuspiercing 
+B|17| B: ballonne eruit en dan [zo'n] bol vooraan [met zo'n] staaf er doorheen [met dat] rond 
+B|18| B: [ja] [met] [die] cirkel aan [de] rechter uitein 
+B|19| B: [ja] [die] doorbooren zegmaar [ja] H 
+A|20| A: [ja] 
+A|21| A: [dat] [zijn] vijftien 
+B|22| B: [met dat] ballonne er in en [dat] bolle aan [de] voorkant wat doorboord [zijn] en dan zitten er rechts nog [zo'n] rond 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : nu hebben ik een vierkant ik denken dat het een soort van bollet zijn die hebben ik als neus zien met zo'n stok erdoorheen
+	Free: Pattern=dat, Pattern=een, Pattern=het, Pattern=hebben, Pattern=die, Pattern=zijn, Pattern=met zo'n
+	Constrained: Pattern=met, Pattern=zo'n
+Turn ID=1| A | A : met zo'n pluk
+	Free: Pattern=met zo'n
+	Constrained: Pattern=met, Pattern=zo'n
+Turn ID=2| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=3| A | A : oké
+	Free: 
+	Constrained: 
+Turn ID=4| B | B : ja aan de voorzijde allebei dat bolle en die staaf
+	Free: Pattern=dat, Pattern=ja, Pattern=de, Pattern=die
+	Constrained: 
+Turn ID=5| B | B : ok dan zijn het F
+	Free: Pattern=zijn het
+	Constrained: Pattern=zijn, Pattern=het
+Turn ID=6| A | A : ja de neuspiercing
+	Free: Pattern=ja, Pattern=de
+	Constrained: 
+Turn ID=7| A | A : zijn bij mij links hebben je ook zo'n slinger van vijf zijn het de bovenste
+	Free: Pattern=zijn het, Pattern=zo'n, Pattern=de, Pattern=hebben, Pattern=zijn
+	Constrained: Pattern=zijn, Pattern=het
+Turn ID=8| A | A : sorry
+	Free: 
+	Constrained: 
+Turn ID=9| A | A : het zijn vijf
+	Free: Pattern=zijn, Pattern=het
+	Constrained: 
+Turn ID=10| B | B : deze hebben zegmaar zo'n ballonnetje uitstekend aan de bovenkant aan de voorkant zitten een bol die doorboren zijn met een staaf
+	Free: Pattern=zo'n, Pattern=de, Pattern=een, Pattern=hebben, Pattern=met, Pattern=die, Pattern=zijn
+	Constrained: 
+Turn ID=11| B | B : met zo'n rond aan de rechterkant ja
+	Free: Pattern=met zo'n, Pattern=ja, Pattern=de
+	Constrained: Pattern=met, Pattern=zo'n
+Turn ID=12| A | A : ik hebben degeen met de piercing de neus met dat ding erdoorheen
+	Free: Pattern=met dat, Pattern=met, Pattern=hebben, Pattern=de
+	Constrained: Pattern=met, Pattern=dat
+Turn ID=13| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=14| A | A : vijf
+	Free: 
+	Constrained: 
+Turn ID=15| B | B : ja A
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=16| A | A : dit zijn degeen met de neuspiercing
+	Free: Pattern=met, Pattern=zijn, Pattern=de
+	Constrained: 
+Turn ID=17| B | B : ballonne eruit en dan zo'n bol vooraan met zo'n staaf er doorheen met dat rond
+	Free: Pattern=met zo'n, Pattern=met dat, Pattern=zo'n
+	Constrained: Pattern=met, Pattern=dat, Pattern=zo'n
+Turn ID=18| B | B : ja met die cirkel aan de rechter uitein
+	Free: Pattern=met, Pattern=ja, Pattern=de, Pattern=die
+	Constrained: 
+Turn ID=19| B | B : ja die doorbooren zegmaar ja H
+	Free: Pattern=ja, Pattern=die
+	Constrained: 
+Turn ID=20| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=21| A | A : dat zijn vijftien
+	Free: Pattern=dat, Pattern=zijn
+	Constrained: 
+Turn ID=22| B | B : met dat ballonne er in en dat bolle aan de voorkant wat doorboord zijn en dan zitten er rechts nog zo'n rond
+	Free: Pattern=dat, Pattern=zo'n, Pattern=de, Pattern=met dat, Pattern=zijn
+	Constrained: Pattern=met, Pattern=dat

@@ -1,0 +1,223 @@
+A|0| A: _even_ kijken hoor _aan de_ linkerkant _zitten_ _er_ _een_ wat zeggen _je_ _een_ 
+A|1| A: _die_ beetje naar 
+A|2| A: _die_ doorgaan omhoog 
+A|3| A: _daar_ boven _zitten een_ piramide zonder top 
+A|4| A: _en_ _die_ piramide zonder top _die_ _zitten_ _op_ _de_ 
+A|5| A: shit 
+A|6| A: oké _en_ _dat_ _zitten_ _aan de_ 
+A|7| A: ven kijken 
+A|8| A: _ja_ 
+A|9| A: _ik_ denken _dat_ _ik_ hem _hebben_ 
+A|10| A: _hebben_ 
+A|11| A: nee wachten 
+A|12| A: willen _je_ nog één keer helemaal goed uitleggen 
+A|13| A: _die_ _hebben_ _aan_ _een_ _je_ zeggen _aan de_ linkerkant 
+A|14| A: helemaal omheen 
+A|15| A: oké 
+A|16| A: nummer vijfteen 
+A|17| A: denken _ik_ 
+B|18| B: deze _hebben een _soort_ van_ bank [aan de] voorkant 
+B|19| B: _zijn een_ 
+B|20| B: zien [je] 
+B|21| B: [er] _zijn_ _niet_ veel 
+B|22| B: [ja] 
+B|23| B: [ja] [en] [daar] [op] [dat] bank [zitten een] _het_ bak 
+B|24| B: [ja] 
+A|25| A: oké _dit [zijn_ een] kop [en] _ik_ vinden [het] eigenlijk hij [zitten] door [een soort] tafel heen lijken [het] _wel_ _met_ poo 
+A|26| A: kijken [ja] [het] kop [zitten] door [een soort] vierkan heen 
+A|27| A: [en] door [dat] vierkan [dat] plat vierkan _waar die_ doorheen [zitten] [zitten] eigenlijk twee [soort van] poo 
+A|28| A: [soort] 
+A|29| A: [ja] 
+A|30| A: [soort] tafel vinden _ik_ [het] 
+A|31| A: [ja] 
+B|32| B: [even] zoeken [waar die] [zijn] 
+B|33| B: weten [ik] weten [wel] welk [je] _bedoelen_ _maar_ 
+B|34| B: ah [ja] [ja] _dat _zijn_ _dat_ zijn_ p 
+A|35| A: [zijn dat] weer helemaal diezelfde 
+A|36| A: [aan] 
+A|37| A: [dat zijn] denken [ik] [die] net [bedoelen] _met dat_ 
+A|38| A: na [ja] maken [niet] uit [dat zijn] uh , laten [maar] zeggen [je] [hebben een soort] twee poo 
+A|39| A: uiteindelijk oké [dat zijn] nummer vijfteen weer 
+A|40| A: oké [het] voor mij [een] tafel 
+A|41| A: [waar die] kopje doorheen gaan 
+A|42| A: _met_ [die] twee poo 
+A|43| A: oké 
+B|44| B: deze [zijn] [met dat] bank 
+B|45| B: bank [en] bak [aan de] voorkant 
+A|46| A: [ja] [waar] staan [de] tafel 
+A|47| A: nummer elf 
+B|48| B: okee moeten [ik] [even] zoeken 
+B|49| B: ah [ja] n 
+A|50| A: [het] tafel 
+A|51| A: [met] [de] poo 
+B|52| B: [dit zijn] [het] bank 
+B|53| B: [ja] 
+B|54| B: [dat zijn] g 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : even kijken hoor aan de linkerkant zitten er een wat zeggen je een
+	Free: Pattern=een, Pattern=zitten, Pattern=er, Pattern=je, Pattern=aan de, Pattern=even
+	Constrained: Pattern=aan, Pattern=de
+Turn ID=1| A | A : die beetje naar
+	Free: Pattern=die
+	Constrained: 
+Turn ID=2| A | A : die doorgaan omhoog
+	Free: Pattern=die
+	Constrained: 
+Turn ID=3| A | A : daar boven zitten een piramide zonder top
+	Free: Pattern=zitten een, Pattern=daar
+	Constrained: Pattern=een, Pattern=zitten
+Turn ID=4| A | A : en die piramide zonder top die zitten op de
+	Free: Pattern=de, Pattern=op, Pattern=en, Pattern=die, Pattern=zitten
+	Constrained: 
+Turn ID=5| A | A : shit
+	Free: 
+	Constrained: 
+Turn ID=6| A | A : oké en dat zitten aan de
+	Free: Pattern=aan de, Pattern=dat, Pattern=zitten, Pattern=en
+	Constrained: Pattern=aan, Pattern=de
+Turn ID=7| A | A : ven kijken
+	Free: 
+	Constrained: 
+Turn ID=8| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=9| A | A : ik denken dat ik hem hebben
+	Free: Pattern=dat, Pattern=hebben, Pattern=ik
+	Constrained: 
+Turn ID=10| A | A : hebben
+	Free: Pattern=hebben
+	Constrained: 
+Turn ID=11| A | A : nee wachten
+	Free: 
+	Constrained: 
+Turn ID=12| A | A : willen je nog één keer helemaal goed uitleggen
+	Free: Pattern=je
+	Constrained: 
+Turn ID=13| A | A : die hebben aan een je zeggen aan de linkerkant
+	Free: Pattern=aan, Pattern=aan de, Pattern=een, Pattern=hebben, Pattern=die, Pattern=je
+	Constrained: Pattern=aan, Pattern=de
+Turn ID=14| A | A : helemaal omheen
+	Free: 
+	Constrained: 
+Turn ID=15| A | A : oké
+	Free: 
+	Constrained: 
+Turn ID=16| A | A : nummer vijfteen
+	Free: 
+	Constrained: 
+Turn ID=17| A | A : denken ik
+	Free: Pattern=ik
+	Constrained: 
+Turn ID=18| B | B : deze hebben een soort van bank aan de voorkant
+	Free: Pattern=hebben een soort, Pattern=aan de, Pattern=soort van
+	Constrained: Pattern=soort, Pattern=een, Pattern=hebben, Pattern=een soort, Pattern=de, Pattern=aan
+Turn ID=19| B | B : zijn een
+	Free: Pattern=zijn een
+	Constrained: Pattern=zijn, Pattern=een
+Turn ID=20| B | B : zien je
+	Free: Pattern=je
+	Constrained: 
+Turn ID=21| B | B : er zijn niet veel
+	Free: Pattern=niet, Pattern=zijn, Pattern=er
+	Constrained: 
+Turn ID=22| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=23| B | B : ja en daar op dat bank zitten een het bak
+	Free: Pattern=dat, Pattern=ja, Pattern=op, Pattern=het, Pattern=zitten een, Pattern=en, Pattern=daar
+	Constrained: Pattern=een, Pattern=zitten
+Turn ID=24| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=25| A | A : oké dit zijn een kop en ik vinden het eigenlijk hij zitten door een soort tafel heen lijken het wel met poo
+	Free: Pattern=zijn een, Pattern=wel, Pattern=het, Pattern=met, Pattern=zitten, Pattern=en, Pattern=dit zijn, Pattern=ik, Pattern=een soort
+	Constrained: Pattern=soort, Pattern=zijn, Pattern=een
+Turn ID=26| A | A : kijken ja het kop zitten door een soort vierkan heen
+	Free: Pattern=een soort, Pattern=ja, Pattern=het, Pattern=zitten
+	Constrained: Pattern=soort, Pattern=een
+Turn ID=27| A | A : en door dat vierkan dat plat vierkan waar die doorheen zitten zitten eigenlijk twee soort van poo
+	Free: Pattern=dat, Pattern=waar die, Pattern=zitten, Pattern=en, Pattern=soort van
+	Constrained: Pattern=soort, Pattern=waar, Pattern=die
+Turn ID=28| A | A : soort
+	Free: Pattern=soort
+	Constrained: 
+Turn ID=29| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=30| A | A : soort tafel vinden ik het
+	Free: Pattern=soort, Pattern=het, Pattern=ik
+	Constrained: 
+Turn ID=31| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=32| B | B : even zoeken waar die zijn
+	Free: Pattern=waar die, Pattern=even, Pattern=zijn
+	Constrained: Pattern=waar, Pattern=die
+Turn ID=33| B | B : weten ik weten wel welk je bedoelen maar
+	Free: Pattern=wel, Pattern=bedoelen, Pattern=ik, Pattern=maar, Pattern=je
+	Constrained: 
+Turn ID=34| B | B : ah ja ja dat zijn dat zijn p
+	Free: Pattern=zijn dat, Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=35| A | A : zijn dat weer helemaal diezelfde
+	Free: Pattern=zijn dat
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=36| A | A : aan
+	Free: Pattern=aan
+	Constrained: 
+Turn ID=37| A | A : dat zijn denken ik die net bedoelen met dat
+	Free: Pattern=dat zijn, Pattern=met dat, Pattern=ik, Pattern=bedoelen, Pattern=die
+	Constrained: Pattern=dat, Pattern=zijn, Pattern=met
+Turn ID=38| A | A : na ja maken niet uit dat zijn uh , laten maar zeggen je hebben een soort twee poo
+	Free: Pattern=dat zijn, Pattern=ja, Pattern=niet, Pattern=hebben een soort, Pattern=maar, Pattern=je
+	Constrained: Pattern=dat, Pattern=soort, Pattern=een, Pattern=hebben, Pattern=een soort, Pattern=zijn
+Turn ID=39| A | A : uiteindelijk oké dat zijn nummer vijfteen weer
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=40| A | A : oké het voor mij een tafel
+	Free: Pattern=het, Pattern=een
+	Constrained: 
+Turn ID=41| A | A : waar die kopje doorheen gaan
+	Free: Pattern=waar die
+	Constrained: Pattern=waar, Pattern=die
+Turn ID=42| A | A : met die twee poo
+	Free: Pattern=die, Pattern=met
+	Constrained: 
+Turn ID=43| A | A : oké
+	Free: 
+	Constrained: 
+Turn ID=44| B | B : deze zijn met dat bank
+	Free: Pattern=met dat, Pattern=zijn
+	Constrained: Pattern=dat, Pattern=met
+Turn ID=45| B | B : bank en bak aan de voorkant
+	Free: Pattern=aan de, Pattern=en
+	Constrained: Pattern=aan, Pattern=de
+Turn ID=46| A | A : ja waar staan de tafel
+	Free: Pattern=ja, Pattern=waar, Pattern=de
+	Constrained: 
+Turn ID=47| A | A : nummer elf
+	Free: 
+	Constrained: 
+Turn ID=48| B | B : okee moeten ik even zoeken
+	Free: Pattern=even, Pattern=ik
+	Constrained: 
+Turn ID=49| B | B : ah ja n
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=50| A | A : het tafel
+	Free: Pattern=het
+	Constrained: 
+Turn ID=51| A | A : met de poo
+	Free: Pattern=de, Pattern=met
+	Constrained: 
+Turn ID=52| B | B : dit zijn het bank
+	Free: Pattern=dit zijn, Pattern=het
+	Constrained: Pattern=zijn
+Turn ID=53| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=54| B | B : dat zijn g
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn

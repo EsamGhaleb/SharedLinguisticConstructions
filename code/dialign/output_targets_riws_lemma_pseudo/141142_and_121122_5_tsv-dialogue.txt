@@ -1,0 +1,131 @@
+B|0| B: dit _zijn_ gewoon _een_ kop 
+B|1| B: _en_ hij _hebben_ _een soort van_ hanenkam bovenop 
+B|2| B: _en_ zo'n hij lijken _een_ potlood vast te houden 
+B|3| B: _een_ vierkant blok _staan_ bovenop 
+B|4| B: _ja_ _aan de zijkant_ zitten nog _een soort van_ neus 
+B|5| B: _en_ _voor_ _hebben_ _die_ 
+B|6| B: _ja_ nog zo'n 
+B|7| B: _ja_ _dat zijn_ _hem_ 
+A|8| A: [ja] _ik_ denken [dat] _ik_ [hem] zien dus [die] balk [en] _dan_ inderdaad [aan de] [aan de zijkant] [aan de] linkerkant [hebben] je [een soort van] vorm [die] naarmate [die] naar beneden gaan 
+A|9| A: veel uitsteken zeggen maar 
+A|10| A: [ja] oké [dat zijn] acht [voor] mij 
+B|11| B: [ja] 
+B|12| B: [dat zijn] E 
+B|13| B: [ik] [hebben] [dan] _met_ [dat] potlood 
+B|14| B: [ja] 
+B|15| B: [dat zijn] E 
+A|16| A: oké 
+A|17| A: deze [hebben] [de] balk [aan de] bovenkant erop 
+A|18| A: [en] [aan de] voorkant inderdaad [dat] [dat] uitstekend driehoek [met] het cilinder erop 
+A|19| A: oké 
+B|20| B: _met de_ potlood 
+A|21| A: [ja] oké [dat zijn] één [voor] mij 
+B|22| B: [ja] [dat zijn] O 
+A|23| A: oké [met] [die] balk erop 
+A|24| A: [en] [en] het uitsteeksel [met de] cilinder [en] [met] het cilinder erop 
+A|25| A: even kijken 
+A|26| A: waar [staan] [die] nou 
+A|27| A: [ja] 
+A|28| A: [met] [die] cilinder op [de] toblerone 
+A|29| A: [dat zijn] zestien 
+A|30| A: [ja] oké [de] balk erbovenop 
+A|31| A: [en] [de] toblerone [met de] cilinder erop 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : dit zijn gewoon een kop
+	Free: Pattern=zijn, Pattern=een
+	Constrained: 
+Turn ID=1| B | B : en hij hebben een soort van hanenkam bovenop
+	Free: Pattern=een soort van, Pattern=en, Pattern=hebben
+	Constrained: Pattern=een
+Turn ID=2| B | B : en zo'n hij lijken een potlood vast te houden
+	Free: Pattern=en, Pattern=een
+	Constrained: 
+Turn ID=3| B | B : een vierkant blok staan bovenop
+	Free: Pattern=een, Pattern=staan
+	Constrained: 
+Turn ID=4| B | B : ja aan de zijkant zitten nog een soort van neus
+	Free: Pattern=aan de zijkant, Pattern=een soort van, Pattern=ja
+	Constrained: Pattern=een, Pattern=de, Pattern=aan de
+Turn ID=5| B | B : en voor hebben die
+	Free: Pattern=en, Pattern=voor, Pattern=hebben, Pattern=die
+	Constrained: 
+Turn ID=6| B | B : ja nog zo'n
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=7| B | B : ja dat zijn hem
+	Free: Pattern=dat zijn, Pattern=hem, Pattern=ja
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=8| A | A : ja ik denken dat ik hem zien dus die balk en dan inderdaad aan de aan de zijkant aan de linkerkant hebben je een soort van vorm die naarmate die naar beneden gaan
+	Free: Pattern=dat, Pattern=ja, Pattern=aan de, Pattern=dan, Pattern=aan de zijkant, Pattern=hebben, Pattern=een soort van, Pattern=die, Pattern=ik, Pattern=en, Pattern=hem
+	Constrained: Pattern=een, Pattern=de, Pattern=aan de
+Turn ID=9| A | A : veel uitsteken zeggen maar
+	Free: 
+	Constrained: 
+Turn ID=10| A | A : ja oké dat zijn acht voor mij
+	Free: Pattern=dat zijn, Pattern=voor, Pattern=ja
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=11| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=12| B | B : dat zijn E
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=13| B | B : ik hebben dan met dat potlood
+	Free: Pattern=dat, Pattern=dan, Pattern=hebben, Pattern=met, Pattern=ik
+	Constrained: 
+Turn ID=14| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=15| B | B : dat zijn E
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=16| A | A : oké
+	Free: 
+	Constrained: 
+Turn ID=17| A | A : deze hebben de balk aan de bovenkant erop
+	Free: Pattern=aan de, Pattern=hebben, Pattern=de
+	Constrained: Pattern=de
+Turn ID=18| A | A : en aan de voorkant inderdaad dat dat uitstekend driehoek met het cilinder erop
+	Free: Pattern=aan de, Pattern=en, Pattern=dat, Pattern=met
+	Constrained: Pattern=de
+Turn ID=19| A | A : oké
+	Free: 
+	Constrained: 
+Turn ID=20| B | B : met de potlood
+	Free: Pattern=met de
+	Constrained: Pattern=met, Pattern=de
+Turn ID=21| A | A : ja oké dat zijn één voor mij
+	Free: Pattern=dat zijn, Pattern=voor, Pattern=ja
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=22| B | B : ja dat zijn O
+	Free: Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=23| A | A : oké met die balk erop
+	Free: Pattern=met, Pattern=die
+	Constrained: 
+Turn ID=24| A | A : en en het uitsteeksel met de cilinder en met het cilinder erop
+	Free: Pattern=met de, Pattern=en, Pattern=met
+	Constrained: Pattern=met, Pattern=de
+Turn ID=25| A | A : even kijken
+	Free: 
+	Constrained: 
+Turn ID=26| A | A : waar staan die nou
+	Free: Pattern=die, Pattern=staan
+	Constrained: 
+Turn ID=27| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=28| A | A : met die cilinder op de toblerone
+	Free: Pattern=met, Pattern=de, Pattern=die
+	Constrained: 
+Turn ID=29| A | A : dat zijn zestien
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=30| A | A : ja oké de balk erbovenop
+	Free: Pattern=de, Pattern=ja
+	Constrained: 
+Turn ID=31| A | A : en de toblerone met de cilinder erop
+	Free: Pattern=met de, Pattern=en, Pattern=de
+	Constrained: Pattern=met, Pattern=de

@@ -1,0 +1,127 @@
+B|0| B: _ik_ hebben deze als _een_ soort _vierkant_ _spijker_ door zijn waar ze als oog 
+A|1| A: _o_ _en_ Erboven _zitten nog een_ _normaal spijker_ 
+B|2| B: _ja_ _normaal spijker en_ er [zitten nog een] _vierkant_ plaat _of_ tegen he _ja_ 
+A|3| A: [ja] vlak [ja] [ja] dat weten [ik] wel 
+B|4| B: ok 
+A|5| A: _twee_ 
+A|6| A: nou hier [zitten] gewoon wat _het_ veel lijken op [een] [spijker] bovenin [en] _dan_ _twee_ van _die_ [vierkant] achtig ding _aan de_ linkerkant 
+B|7| B: [o] _ja de _normaal spijker_ en_ [het] [vierkant] [aan de] voorkant 
+A|8| A: [ja de normaal spijker] 
+A|9| A: [ja] ook [ja] 
+B|10| B: ok G 
+A|11| A: [o] 
+B|12| B: [o] [spijker] bovenop [vierkant] [aan de] voorkant [twee] [spijker] [nog] _of_ [twee] [vierkant] [spijker] als oog 
+A|13| A: [o] _met_ _die_ _met_ dat platvorm [en] _die normaal spijker_ 
+A|14| A: bedoelen je 
+B|15| B: _ja die normaal spijker_ inderdaad bovenop [ja] 
+A|16| A: [ja die normaal spijker] [ja] dat _dan_ weten [ik] al genoeg 
+B|17| B: [o] jij noemen hem [de normaal spijker] ok [dan] zullen [ik] [dan] zullen [ik] [die] gebruiken volgen keer 
+A|18| A: [ja] negen 
+A|19| A: [die] _met_ [die normaal spijker] 
+B|20| B: [met] _vierkantje_ [aan de] voorkant 
+A|21| A: [ja] 
+B|22| B: [ja] 
+B|23| B: d 
+B|24| B: [met] [de normaal spijker] bovenop 
+A|25| A: [ja] één 
+B|26| B: [en] [vierkant] vooraan 
+A|27| A: één doorgaan vlot nu 
+A|28| A: [met] [die [normaal spijker] en] dat [vierkantje] [of] [ja] [vierkant] 
+B|29| B: [ja] [en] [vierkant] oog 
+B|30| B: even kijken B 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : ik hebben deze als een soort vierkant spijker door zijn waar ze als oog
+	Free: Pattern=vierkant, Pattern=ik, Pattern=spijker, Pattern=een
+	Constrained: 
+Turn ID=1| A | A : o en Erboven zitten nog een normaal spijker
+	Free: Pattern=zitten nog een, Pattern=normaal spijker, Pattern=en, Pattern=o
+	Constrained: Pattern=nog, Pattern=een, Pattern=zitten, Pattern=spijker
+Turn ID=2| B | B : ja normaal spijker en er zitten nog een vierkant plaat of tegen he ja
+	Free: Pattern=zitten nog een, Pattern=ja, Pattern=vierkant, Pattern=of, Pattern=normaal spijker en
+	Constrained: Pattern=nog, Pattern=een, Pattern=zitten, Pattern=en, Pattern=normaal spijker, Pattern=spijker
+Turn ID=3| A | A : ja vlak ja ja dat weten ik wel
+	Free: Pattern=ja, Pattern=ik
+	Constrained: 
+Turn ID=4| B | B : ok
+	Free: 
+	Constrained: 
+Turn ID=5| A | A : twee
+	Free: Pattern=twee
+	Constrained: 
+Turn ID=6| A | A : nou hier zitten gewoon wat het veel lijken op een spijker bovenin en dan twee van die vierkant achtig ding aan de linkerkant
+	Free: Pattern=twee, Pattern=aan de, Pattern=dan, Pattern=een, Pattern=het, Pattern=en, Pattern=vierkant, Pattern=spijker, Pattern=die, Pattern=zitten
+	Constrained: 
+Turn ID=7| B | B : o ja de normaal spijker en het vierkant aan de voorkant
+	Free: Pattern=normaal spijker en, Pattern=aan de, Pattern=het, Pattern=ja de normaal spijker, Pattern=vierkant, Pattern=o
+	Constrained: Pattern=ja, Pattern=de normaal spijker, Pattern=en, Pattern=normaal spijker, Pattern=spijker
+Turn ID=8| A | A : ja de normaal spijker
+	Free: Pattern=ja de normaal spijker
+	Constrained: Pattern=normaal spijker, Pattern=de normaal spijker, Pattern=ja, Pattern=spijker
+Turn ID=9| A | A : ja ook ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=10| B | B : ok G
+	Free: 
+	Constrained: 
+Turn ID=11| A | A : o
+	Free: Pattern=o
+	Constrained: 
+Turn ID=12| B | B : o spijker bovenop vierkant aan de voorkant twee spijker nog of twee vierkant spijker als oog
+	Free: Pattern=of, Pattern=nog, Pattern=twee, Pattern=aan de, Pattern=vierkant, Pattern=o, Pattern=spijker
+	Constrained: 
+Turn ID=13| A | A : o met die met dat platvorm en die normaal spijker
+	Free: Pattern=met, Pattern=die, Pattern=die normaal spijker, Pattern=en, Pattern=o
+	Constrained: Pattern=normaal spijker, Pattern=die, Pattern=spijker
+Turn ID=14| A | A : bedoelen je
+	Free: 
+	Constrained: 
+Turn ID=15| B | B : ja die normaal spijker inderdaad bovenop ja
+	Free: Pattern=ja die normaal spijker, Pattern=ja
+	Constrained: Pattern=ja, Pattern=die, Pattern=die normaal spijker, Pattern=normaal spijker, Pattern=spijker
+Turn ID=16| A | A : ja die normaal spijker ja dat dan weten ik al genoeg
+	Free: Pattern=ja die normaal spijker, Pattern=ja, Pattern=dan, Pattern=ik
+	Constrained: Pattern=ja, Pattern=die, Pattern=die normaal spijker, Pattern=normaal spijker, Pattern=spijker
+Turn ID=17| B | B : o jij noemen hem de normaal spijker ok dan zullen ik dan zullen ik die gebruiken volgen keer
+	Free: Pattern=dan, Pattern=de normaal spijker, Pattern=die, Pattern=ik, Pattern=o
+	Constrained: Pattern=normaal spijker, Pattern=spijker
+Turn ID=18| A | A : ja negen
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=19| A | A : die met die normaal spijker
+	Free: Pattern=die normaal spijker, Pattern=die, Pattern=met
+	Constrained: Pattern=normaal spijker, Pattern=die, Pattern=spijker
+Turn ID=20| B | B : met vierkantje aan de voorkant
+	Free: Pattern=aan de, Pattern=vierkantje, Pattern=met
+	Constrained: 
+Turn ID=21| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=22| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=23| B | B : d
+	Free: 
+	Constrained: 
+Turn ID=24| B | B : met de normaal spijker bovenop
+	Free: Pattern=de normaal spijker, Pattern=met
+	Constrained: Pattern=normaal spijker, Pattern=spijker
+Turn ID=25| A | A : ja één
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=26| B | B : en vierkant vooraan
+	Free: Pattern=en, Pattern=vierkant
+	Constrained: 
+Turn ID=27| A | A : één doorgaan vlot nu
+	Free: 
+	Constrained: 
+Turn ID=28| A | A : met die normaal spijker en dat vierkantje of ja vierkant
+	Free: Pattern=ja, Pattern=die normaal spijker, Pattern=vierkant, Pattern=of, Pattern=normaal spijker en, Pattern=vierkantje, Pattern=met
+	Constrained: Pattern=normaal spijker, Pattern=die, Pattern=en, Pattern=spijker
+Turn ID=29| B | B : ja en vierkant oog
+	Free: Pattern=ja, Pattern=en, Pattern=vierkant
+	Constrained: 
+Turn ID=30| B | B : even kijken B
+	Free: 
+	Constrained: 

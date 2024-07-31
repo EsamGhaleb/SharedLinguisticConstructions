@@ -1,0 +1,87 @@
+A|0| A: oké 
+A|1| A: _ik hebben_ one's _dat_ plaat _en_ het lijken _een_ beetje alsof die aan _de_ rechterkant _een_ neus _hebben_ met daar _een_ _een_ paal doorheen 
+A|2| A: dus zo'n rond _en_ daar 
+B|3| B: _ja_ [en] daarboven _zitten nog een klein_ 
+A|4| A: [zitten nog een klein] tuu _zijn_ [een] beetje zien [een] beetje uit als [een] _inboorling_ zeggen maar met [een] neusring 
+B|5| B: _ja_ 
+B|6| B: _dat zijn_ bij mij F 
+A|7| A: oké 
+B|8| B: _de inboorling_ 
+A|9| A: [de inboorling] 
+A|10| A: nummer vijf 
+A|11| A: die [inboorling] 
+B|12| B: _ja_ _dat zijn_ A 
+B|13| B: [ik hebben] [de inboorling] 
+A|14| A: [dat zijn] nummer vijf 
+A|15| A: met [de] neusring 
+B|16| B: je bedoelen [de inboorling] 
+A|17| A: [inboorling] die [ja] 
+B|18| B: H 
+B|19| B: [ik hebben] [de inboorling] 
+A|20| A: [ja] nummer vijftien 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : oké
+	Free: 
+	Constrained: 
+Turn ID=1| A | A : ik hebben one's dat plaat en het lijken een beetje alsof die aan de rechterkant een neus hebben met daar een een paal doorheen
+	Free: Pattern=ik hebben, Pattern=dat, Pattern=de, Pattern=een, Pattern=hebben, Pattern=en
+	Constrained: Pattern=hebben
+Turn ID=2| A | A : dus zo'n rond en daar
+	Free: Pattern=en
+	Constrained: 
+Turn ID=3| B | B : ja en daarboven zitten nog een klein
+	Free: Pattern=zitten nog een klein, Pattern=ja, Pattern=en
+	Constrained: Pattern=een
+Turn ID=4| A | A : zitten nog een klein tuu zijn een beetje zien een beetje uit als een inboorling zeggen maar met een neusring
+	Free: Pattern=zitten nog een klein, Pattern=een, Pattern=inboorling, Pattern=zijn
+	Constrained: Pattern=een
+Turn ID=5| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=6| B | B : dat zijn bij mij F
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=7| A | A : oké
+	Free: 
+	Constrained: 
+Turn ID=8| B | B : de inboorling
+	Free: Pattern=de inboorling
+	Constrained: Pattern=inboorling, Pattern=de
+Turn ID=9| A | A : de inboorling
+	Free: Pattern=de inboorling
+	Constrained: Pattern=inboorling, Pattern=de
+Turn ID=10| A | A : nummer vijf
+	Free: 
+	Constrained: 
+Turn ID=11| A | A : die inboorling
+	Free: Pattern=inboorling
+	Constrained: 
+Turn ID=12| B | B : ja dat zijn A
+	Free: Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=13| B | B : ik hebben de inboorling
+	Free: Pattern=de inboorling, Pattern=ik hebben
+	Constrained: Pattern=inboorling, Pattern=de, Pattern=hebben
+Turn ID=14| A | A : dat zijn nummer vijf
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=15| A | A : met de neusring
+	Free: Pattern=de
+	Constrained: 
+Turn ID=16| B | B : je bedoelen de inboorling
+	Free: Pattern=de inboorling
+	Constrained: Pattern=inboorling, Pattern=de
+Turn ID=17| A | A : inboorling die ja
+	Free: Pattern=ja, Pattern=inboorling
+	Constrained: 
+Turn ID=18| B | B : H
+	Free: 
+	Constrained: 
+Turn ID=19| B | B : ik hebben de inboorling
+	Free: Pattern=de inboorling, Pattern=ik hebben
+	Constrained: Pattern=inboorling, Pattern=de, Pattern=hebben
+Turn ID=20| A | A : ja nummer vijftien
+	Free: Pattern=ja
+	Constrained: 

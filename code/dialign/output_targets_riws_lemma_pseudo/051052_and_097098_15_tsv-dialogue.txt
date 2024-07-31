@@ -1,0 +1,119 @@
+B|0| B: ik hebben hem deze keer in principe lijken _het_ _een_ soort plaa te hebben over in _het_ midden _van_ _het_ kelkvormig _dinge_ of in _het_ midden _van de_ 
+B|1| B: mokvormig basisvorm 
+B|2| B: _dan_ hebben je _twee_ uitsteeksel _aan de bovenkant_ _en_ _een_ soort hoekuitsteeksel _en dan_ nog _een_ cilindervormig ding 
+A|3| A: _en dan twee van die_ dinget 
+A|4| A: [dan] _zijn_ _dat_ nummer zes 
+A|5| A: _ja_ dit _zijn_ _die_ _met_ _die_ plaat _die_ zeggen maar _op een_ kwart [van de] onderkant _zitten_ 
+A|6| A: _met_ _die twee klein_ staafjes [aan de bovenkant] 
+A|7| A: _dat_ armdinge [en] één [en] _die_ glijbaan 
+B|8| B: [ja] 
+B|9| B: [ja] [dan] weten ik wel [dat] [zijn] denken ik C [met] [een] cilinder [en dan] [een] hoek [aan de] 
+B|10| B: [ja] C 
+A|11| A: [ja] 
+A|12| A: nummer dertien 
+B|13| B: ik hebben degeen waarbij [op een] drie [van de] basisvorm [een] soort _vierkant_ [zitten] 
+B|14| B: daarboven [zijn] [een] soort uitstekend cilinder 
+B|15| B: [en dan twee van die] gelijk [klein] balk boven [en dan] rechts of links nog [een] hoekig handvat 
+A|16| A: [ja] dit [zijn] [die] [met] [dat] vierkan [op een] kwart [van] onder 
+A|17| A: [de] _twee klein_ staafjes [aan de bovenkant] 
+A|18| A: [de] glijbaan [en] [het] zwaaien armp 
+B|19| B: [ja] 
+B|20| B: [ja] 
+B|21| B: [dat] [zijn] bij mij J 
+A|22| A: [dinge] 
+A|23| A: [ja] nummer negen 
+B|24| B: ik hebben degeen [met] [op een] drie dus [dat] [dat] soort plateau [dat] [het] doorklieft [en dan] links 
+B|25| B: [de] [het] uitsteeksel [met] [een] hoek erin [en] boven [die twee klein] blok [en dan] voor 
+A|26| A: [het] kop [met] [de] [twee klein] staafjes erbovenop [de] [vierkant] [op een] kwart [de] glijbaan [en] [het] armp 
+B|27| B: [ja] 
+B|28| B: yes N 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : ik hebben hem deze keer in principe lijken het een soort plaa te hebben over in het midden van het kelkvormig dinge of in het midden van de
+	Free: Pattern=van de, Pattern=een, Pattern=het, Pattern=dinge, Pattern=van
+	Constrained: Pattern=van, Pattern=de
+Turn ID=1| B | B : mokvormig basisvorm
+	Free: 
+	Constrained: 
+Turn ID=2| B | B : dan hebben je twee uitsteeksel aan de bovenkant en een soort hoekuitsteeksel en dan nog een cilindervormig ding
+	Free: Pattern=twee, Pattern=en dan, Pattern=dan, Pattern=een, Pattern=aan de bovenkant, Pattern=en
+	Constrained: Pattern=dan, Pattern=de, Pattern=en, Pattern=aan de
+Turn ID=3| A | A : en dan twee van die dinget
+	Free: Pattern=en dan twee van die
+	Constrained: Pattern=twee, Pattern=en dan, Pattern=dan, Pattern=die, Pattern=van, Pattern=en
+Turn ID=4| A | A : dan zijn dat nummer zes
+	Free: Pattern=zijn, Pattern=dat, Pattern=dan
+	Constrained: 
+Turn ID=5| A | A : ja dit zijn die met die plaat die zeggen maar op een kwart van de onderkant zitten
+	Free: Pattern=ja, Pattern=van de, Pattern=met, Pattern=zijn, Pattern=op een, Pattern=die, Pattern=zitten
+	Constrained: Pattern=van, Pattern=een, Pattern=de
+Turn ID=6| A | A : met die twee klein staafjes aan de bovenkant
+	Free: Pattern=aan de bovenkant, Pattern=die twee klein, Pattern=met
+	Constrained: Pattern=twee, Pattern=de, Pattern=aan de, Pattern=die, Pattern=klein, Pattern=twee klein
+Turn ID=7| A | A : dat armdinge en één en die glijbaan
+	Free: Pattern=die, Pattern=dat, Pattern=en
+	Constrained: 
+Turn ID=8| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=9| B | B : ja dan weten ik wel dat zijn denken ik C met een cilinder en dan een hoek aan de
+	Free: Pattern=dat, Pattern=ja, Pattern=en dan, Pattern=aan de, Pattern=dan, Pattern=een, Pattern=met, Pattern=zijn
+	Constrained: Pattern=de, Pattern=dan, Pattern=en
+Turn ID=10| B | B : ja C
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=11| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=12| A | A : nummer dertien
+	Free: 
+	Constrained: 
+Turn ID=13| B | B : ik hebben degeen waarbij op een drie van de basisvorm een soort vierkant zitten
+	Free: Pattern=van de, Pattern=een, Pattern=zitten, Pattern=vierkant, Pattern=op een
+	Constrained: Pattern=van, Pattern=een, Pattern=de
+Turn ID=14| B | B : daarboven zijn een soort uitstekend cilinder
+	Free: Pattern=zijn, Pattern=een
+	Constrained: 
+Turn ID=15| B | B : en dan twee van die gelijk klein balk boven en dan rechts of links nog een hoekig handvat
+	Free: Pattern=en dan twee van die, Pattern=en dan, Pattern=klein, Pattern=een
+	Constrained: Pattern=twee, Pattern=en dan, Pattern=dan, Pattern=die, Pattern=van, Pattern=en
+Turn ID=16| A | A : ja dit zijn die met dat vierkan op een kwart van onder
+	Free: Pattern=dat, Pattern=ja, Pattern=met, Pattern=die, Pattern=van, Pattern=zijn, Pattern=op een
+	Constrained: Pattern=een
+Turn ID=17| A | A : de twee klein staafjes aan de bovenkant
+	Free: Pattern=aan de bovenkant, Pattern=twee klein, Pattern=de
+	Constrained: Pattern=twee, Pattern=de, Pattern=aan de, Pattern=klein
+Turn ID=18| A | A : de glijbaan en het zwaaien armp
+	Free: Pattern=de, Pattern=het, Pattern=en
+	Constrained: 
+Turn ID=19| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=20| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=21| B | B : dat zijn bij mij J
+	Free: Pattern=zijn, Pattern=dat
+	Constrained: 
+Turn ID=22| A | A : dinge
+	Free: Pattern=dinge
+	Constrained: 
+Turn ID=23| A | A : ja nummer negen
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=24| B | B : ik hebben degeen met op een drie dus dat dat soort plateau dat het doorklieft en dan links
+	Free: Pattern=dat, Pattern=en dan, Pattern=het, Pattern=met, Pattern=op een
+	Constrained: Pattern=een, Pattern=dan, Pattern=en
+Turn ID=25| B | B : de het uitsteeksel met een hoek erin en boven die twee klein blok en dan voor
+	Free: Pattern=de, Pattern=en dan, Pattern=een, Pattern=het, Pattern=die twee klein, Pattern=met, Pattern=en
+	Constrained: Pattern=twee, Pattern=dan, Pattern=die, Pattern=klein, Pattern=en, Pattern=twee klein
+Turn ID=26| A | A : het kop met de twee klein staafjes erbovenop de vierkant op een kwart de glijbaan en het armp
+	Free: Pattern=de, Pattern=het, Pattern=met, Pattern=en, Pattern=op een, Pattern=vierkant, Pattern=twee klein
+	Constrained: Pattern=klein, Pattern=een, Pattern=twee
+Turn ID=27| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=28| B | B : yes N
+	Free: 
+	Constrained: 

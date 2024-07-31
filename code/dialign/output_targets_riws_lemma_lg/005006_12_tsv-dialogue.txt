@@ -1,0 +1,63 @@
+A|0| A: _ja_ _deze hebben_ _een_ _een_ vierkant kop _en_ dan komen er _een_ _spijker_ uit eigenlijk 
+A|1| A: _en_ _die_ prikken dan ergens _in_ wat _een soort van_ _hartje_ _zijn_ wat heel lang uitgerekt _zijn_ 
+B|2| B: [ja] _en [een_ soort van] _schijf_ aan de rechterkant [ja] _dat_ [zijn] L 
+A|3| A: [een] [schijf] [ja] 
+B|4| B: [deze hebben] zegmaar zo'n [spijker] [in] [een] uitstekend _dat_ langgerekte _har_ waar je _het_ net over [hebben] 
+A|5| A: [ja] zeven 
+A|6| A: [deze hebben] weer _die spijker_ _met dat_ [har] [en een] [schijf] 
+B|7| B: even kijken 
+B|8| B: ik kunnen hem niet vinden C 
+B|9| B: _die met dat_ uitstekend ding waar [die spijker] [in] zitten [met dat] uitgerekken [hartje] [en] rechts [dat] rond 
+A|10| A: [ja] één 
+A|11| A: [die met dat] [spijker] [en] [het] hart [en] [het] [schijf] 
+B|12| B: A 
+B|13| B: zo'n [spijker] [die] aan [dat] steken [hartje] zitten 
+A|14| A: dertien 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : ja deze hebben een een vierkant kop en dan komen er een spijker uit eigenlijk
+	Free: Pattern=ja, Pattern=een, Pattern=deze hebben, Pattern=en, Pattern=spijker
+	Constrained: Pattern=hebben
+Turn ID=1| A | A : en die prikken dan ergens in wat een soort van hartje zijn wat heel lang uitgerekt zijn
+	Free: Pattern=hartje, Pattern=die, Pattern=en, Pattern=zijn, Pattern=in, Pattern=een soort van
+	Constrained: Pattern=een
+Turn ID=2| B | B : ja en een soort van schijf aan de rechterkant ja dat zijn L
+	Free: Pattern=dat, Pattern=ja, Pattern=schijf, Pattern=een soort van, Pattern=en een, Pattern=zijn
+	Constrained: Pattern=en, Pattern=een
+Turn ID=3| A | A : een schijf ja
+	Free: Pattern=ja, Pattern=schijf, Pattern=een
+	Constrained: 
+Turn ID=4| B | B : deze hebben zegmaar zo'n spijker in een uitstekend dat langgerekte har waar je het net over hebben
+	Free: Pattern=dat, Pattern=het, Pattern=hebben, Pattern=deze hebben, Pattern=in, Pattern=spijker, Pattern=een, Pattern=har
+	Constrained: Pattern=hebben
+Turn ID=5| A | A : ja zeven
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=6| A | A : deze hebben weer die spijker met dat har en een schijf
+	Free: Pattern=har, Pattern=schijf, Pattern=met dat, Pattern=en een, Pattern=die spijker, Pattern=deze hebben
+	Constrained: Pattern=dat, Pattern=een, Pattern=hebben, Pattern=die, Pattern=en, Pattern=spijker
+Turn ID=7| B | B : even kijken
+	Free: 
+	Constrained: 
+Turn ID=8| B | B : ik kunnen hem niet vinden C
+	Free: 
+	Constrained: 
+Turn ID=9| B | B : die met dat uitstekend ding waar die spijker in zitten met dat uitgerekken hartje en rechts dat rond
+	Free: Pattern=dat, Pattern=hartje, Pattern=die spijker, Pattern=in, Pattern=met dat, Pattern=die met dat, Pattern=en
+	Constrained: Pattern=met dat, Pattern=die, Pattern=dat, Pattern=spijker
+Turn ID=10| A | A : ja één
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=11| A | A : die met dat spijker en het hart en het schijf
+	Free: Pattern=het, Pattern=schijf, Pattern=die met dat, Pattern=en, Pattern=spijker
+	Constrained: Pattern=met dat, Pattern=die, Pattern=dat
+Turn ID=12| B | B : A
+	Free: 
+	Constrained: 
+Turn ID=13| B | B : zo'n spijker die aan dat steken hartje zitten
+	Free: Pattern=hartje, Pattern=die, Pattern=dat, Pattern=spijker
+	Constrained: 
+Turn ID=14| A | A : dertien
+	Free: 
+	Constrained: 

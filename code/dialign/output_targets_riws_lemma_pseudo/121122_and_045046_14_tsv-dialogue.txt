@@ -1,0 +1,123 @@
+A|0| A: _dit zijn_ _dat_ cilinder hebben _bovenop_ _een_ _een_ ei zeggen maar _een_ rond ei _en_ rechts _een_ _een_ vierkant 
+A|1| A: paal zeggen maar 
+A|2| A: _bovenop_ _een_ rond 
+A|3| A: _ja_ _ja_ 
+B|4| B: [ja] ik weten welk je bedoelen 
+B|5| B: D 
+B|6| B: [dit zijn] _met_ [een] bal bovenaan _en _die_ twee_ armp zo _en dan_ [dat] ding _aan de voorkant_ 
+B|7| B: [ja] 
+A|8| A: [ja] 
+A|9| A: [ja] [die] hebben we net ook al 
+A|10| A: [die] hebben we al hebben toch 
+A|11| A: [een] keer 
+A|12| A: [ja] [ja] 
+A|13| A: nummer vijftien 
+A|14| A: [die] _met dat_ rond _bovenop en die_ balk [aan de] zijkant 
+A|15| A: [en dan] [die twee] uitsteeksel 
+B|16| B: [ja] ik weten welk je bedoelen 
+B|17| B: L 
+A|18| A: [ja] [dat] [zijn] nummer zes 
+B|19| B: [dit zijn] weer [met] [die] bal [bovenop en die] pilaar [en] [de] [twee] armp 
+A|20| A: [die] _met dat_ rond [en] [dat] balkje [aan de voorkant] 
+A|21| A: rond [bovenop] 
+A|22| A: balle 
+B|23| B: [ja] 
+B|24| B: waar [zijn] [die] 
+B|25| B: J 
+A|26| A: [een] blok 
+A|27| A: [ja] 
+A|28| A: [dat] [zijn] nummer drie 
+B|29| B: [dit zijn] weer [met dat] bollet [bovenop en [die] twee] dun armpjes [en] [de] pilaar 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : dit zijn dat cilinder hebben bovenop een een ei zeggen maar een rond ei en rechts een een vierkant
+	Free: Pattern=een, Pattern=en, Pattern=dit zijn, Pattern=dat, Pattern=bovenop
+	Constrained: Pattern=zijn
+Turn ID=1| A | A : paal zeggen maar
+	Free: 
+	Constrained: 
+Turn ID=2| A | A : bovenop een rond
+	Free: Pattern=een, Pattern=bovenop
+	Constrained: 
+Turn ID=3| A | A : ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=4| B | B : ja ik weten welk je bedoelen
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=5| B | B : D
+	Free: 
+	Constrained: 
+Turn ID=6| B | B : dit zijn met een bal bovenaan en die twee armp zo en dan dat ding aan de voorkant
+	Free: Pattern=en die, Pattern=dat, Pattern=en dan, Pattern=een, Pattern=die twee, Pattern=met, Pattern=aan de voorkant, Pattern=dit zijn
+	Constrained: Pattern=twee, Pattern=de, Pattern=aan de, Pattern=die, Pattern=en, Pattern=zijn
+Turn ID=7| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=8| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=9| A | A : ja die hebben we net ook al
+	Free: Pattern=die, Pattern=ja
+	Constrained: 
+Turn ID=10| A | A : die hebben we al hebben toch
+	Free: Pattern=die
+	Constrained: 
+Turn ID=11| A | A : een keer
+	Free: Pattern=een
+	Constrained: 
+Turn ID=12| A | A : ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=13| A | A : nummer vijftien
+	Free: 
+	Constrained: 
+Turn ID=14| A | A : die met dat rond bovenop en die balk aan de zijkant
+	Free: Pattern=bovenop en die, Pattern=met dat, Pattern=aan de, Pattern=die
+	Constrained: Pattern=en die, Pattern=de, Pattern=met, Pattern=die, Pattern=en, Pattern=dat, Pattern=bovenop
+Turn ID=15| A | A : en dan die twee uitsteeksel
+	Free: Pattern=die twee, Pattern=en dan
+	Constrained: Pattern=die, Pattern=en, Pattern=twee
+Turn ID=16| B | B : ja ik weten welk je bedoelen
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=17| B | B : L
+	Free: 
+	Constrained: 
+Turn ID=18| A | A : ja dat zijn nummer zes
+	Free: Pattern=zijn, Pattern=dat, Pattern=ja
+	Constrained: 
+Turn ID=19| B | B : dit zijn weer met die bal bovenop en die pilaar en de twee armp
+	Free: Pattern=bovenop en die, Pattern=twee, Pattern=de, Pattern=met, Pattern=die, Pattern=en, Pattern=dit zijn
+	Constrained: Pattern=en die, Pattern=bovenop, Pattern=die, Pattern=en, Pattern=zijn
+Turn ID=20| A | A : die met dat rond en dat balkje aan de voorkant
+	Free: Pattern=dat, Pattern=met dat, Pattern=die, Pattern=en, Pattern=aan de voorkant
+	Constrained: Pattern=dat, Pattern=de, Pattern=aan de, Pattern=met
+Turn ID=21| A | A : rond bovenop
+	Free: Pattern=bovenop
+	Constrained: 
+Turn ID=22| A | A : balle
+	Free: 
+	Constrained: 
+Turn ID=23| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=24| B | B : waar zijn die
+	Free: Pattern=die, Pattern=zijn
+	Constrained: 
+Turn ID=25| B | B : J
+	Free: 
+	Constrained: 
+Turn ID=26| A | A : een blok
+	Free: Pattern=een
+	Constrained: 
+Turn ID=27| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=28| A | A : dat zijn nummer drie
+	Free: Pattern=zijn, Pattern=dat
+	Constrained: 
+Turn ID=29| B | B : dit zijn weer met dat bollet bovenop en die twee dun armpjes en de pilaar
+	Free: Pattern=bovenop en die, Pattern=de, Pattern=die twee, Pattern=met dat, Pattern=en, Pattern=dit zijn
+	Constrained: Pattern=en die, Pattern=twee, Pattern=met, Pattern=die, Pattern=en, Pattern=zijn, Pattern=dat, Pattern=bovenop

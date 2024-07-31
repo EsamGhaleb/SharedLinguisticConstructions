@@ -1,0 +1,199 @@
+A|0| A: _ja_ _dit zijn_ bij mij _ja_ ik _hebben_ _het_ omschrijven als _een_ als _een_ soort boei of _zo_ 
+A|1| A: _dit zijn_ _van die_ _zo'n_ emmer _en dan_ zien je daarachter _die_ _zo'n_ 
+A|2| A: _ja_ _zo'n_ _zeshoekig staaf_ _en_ _aan beide kant zo'n_ _rond_ ei _erop_ 
+B|3| B: [zo] 
+B|4| B: [ja] [en dan] _zitten_ er _aan de achterkant zitten nog_ [een] _plaat_ 
+A|5| A: [ja] _zo'n_ [plaat] _met_ _zo'n_ 
+B|6| B: _ja ja_ 
+A|7| A: [ja] 
+B|8| B: _dat zijn_ K 
+B|9| B: _oké_ [dit zijn] deze [hebben] _aan de achterkant_ [van die] buis 
+B|10| B: [en dan] _met die met die rond_ bal [erop] 
+B|11| B: [en] [en] _achter_ _dat plaat_ _dat_ _nog_ schuin _staan_ 
+A|12| A: wachten even 
+B|13| B: _dat _zijn_ die zeshoekig_ _zeshoekig staaf met_ [met] [aan beide kant zo'n] [zo'n] bal 
+A|14| A: [met die] [ja ja] [oké] 
+A|15| A: [dat zijn] negen 
+A|16| A: [ja] [aan de achterkant zitten nog] [dat plaat] 
+B|17| B: [ja ja] inderdaad 
+A|18| A: [ja] negen 
+A|19| A: [ja] [dit [zijn] die [zeshoekig] staaf [met] die] twee [rond] [aan de] uiteinde 
+B|20| B: [ja] _en het plateau_ 
+A|21| A: [en het plateau] [aan de achterkant] 
+B|22| B: [ja] 
+A|23| A: [ja] 
+B|24| B: [dat zijn] F 
+B|25| B: _die staaf_ _achter_ [met die] zes ding [en dan] [die] bollen [aan de] [aan de] buitenkant 
+A|26| A: wachten even 
+A|27| A: [die staaf] 
+B|28| B: [aan de achterkant] [die] _daar_ _op de_ grond liggen zeggen maar 
+A|29| A: wachten even jee 
+B|30| B: _met die met die_ bal 
+A|31| A: ah [die] [zo] [met die met die rond] [aan de] 
+B|32| B: [ja] 
+B|33| B: [ja] 
+A|34| A: [ja] 
+A|35| A: [en] [die] [dat] [plateau] 
+B|36| B: yes 
+A|37| A: [ja] 
+A|38| A: [ja] [dat zijn] drie 
+A|39| A: [ja] [dit [zijn] die [zeshoekig] staaf [met] die] twee [rond] [op _de] zijkant_ [en] [dat plaat] [achter] 
+B|40| B: [ja] 
+B|41| B: L 
+B|42| B: [dit zijn] [de] _de staaf met de_ _met de_ bal [aan [de] zijkant] 
+A|43| A: [de staaf met de] 
+A|44| A: klinken ook [zo] lekker 
+B|45| B: [ja] [het] [zijn] wel duidelijk 
+A|46| A: waar [staan] [die] 
+A|47| A: hij [zijn] [daar] 
+A|48| A: vijf 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : ja dit zijn bij mij ja ik hebben het omschrijven als een als een soort boei of zo
+	Free: Pattern=ja, Pattern=een, Pattern=het, Pattern=hebben, Pattern=zo, Pattern=dit zijn
+	Constrained: Pattern=zijn
+Turn ID=1| A | A : dit zijn van die zo'n emmer en dan zien je daarachter die zo'n
+	Free: Pattern=zo'n, Pattern=en dan, Pattern=die, Pattern=van die, Pattern=dit zijn
+	Constrained: Pattern=zijn, Pattern=die, Pattern=en
+Turn ID=2| A | A : ja zo'n zeshoekig staaf en aan beide kant zo'n rond ei erop
+	Free: Pattern=zo'n, Pattern=ja, Pattern=erop, Pattern=aan beide kant zo'n, Pattern=en, Pattern=rond, Pattern=zeshoekig staaf
+	Constrained: Pattern=zo'n
+Turn ID=3| B | B : zo
+	Free: Pattern=zo
+	Constrained: 
+Turn ID=4| B | B : ja en dan zitten er aan de achterkant zitten nog een plaat
+	Free: Pattern=ja, Pattern=en dan, Pattern=een, Pattern=aan de achterkant zitten nog, Pattern=zitten, Pattern=plaat
+	Constrained: Pattern=aan de achterkant, Pattern=nog, Pattern=de, Pattern=aan de, Pattern=zitten, Pattern=en
+Turn ID=5| A | A : ja zo'n plaat met zo'n
+	Free: Pattern=ja, Pattern=zo'n, Pattern=plaat, Pattern=met
+	Constrained: 
+Turn ID=6| B | B : ja ja
+	Free: Pattern=ja ja
+	Constrained: Pattern=ja
+Turn ID=7| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=8| B | B : dat zijn K
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=9| B | B : oké dit zijn deze hebben aan de achterkant van die buis
+	Free: Pattern=aan de achterkant, Pattern=hebben, Pattern=oké, Pattern=van die, Pattern=dit zijn
+	Constrained: Pattern=de, Pattern=zijn, Pattern=die, Pattern=aan de
+Turn ID=10| B | B : en dan met die met die rond bal erop
+	Free: Pattern=met die met die rond, Pattern=en dan, Pattern=erop
+	Constrained: Pattern=met die, Pattern=met die met die, Pattern=met, Pattern=die, Pattern=en, Pattern=rond
+Turn ID=11| B | B : en en achter dat plaat dat nog schuin staan
+	Free: Pattern=dat, Pattern=nog, Pattern=dat plaat, Pattern=staan, Pattern=achter, Pattern=en
+	Constrained: Pattern=dat, Pattern=plaat
+Turn ID=12| A | A : wachten even
+	Free: 
+	Constrained: 
+Turn ID=13| B | B : dat zijn die zeshoekig zeshoekig staaf met met aan beide kant zo'n zo'n bal
+	Free: Pattern=dat zijn, Pattern=zo'n, Pattern=met, Pattern=aan beide kant zo'n, Pattern=zeshoekig staaf met, Pattern=zijn die zeshoekig
+	Constrained: Pattern=dat, Pattern=zo'n, Pattern=met, Pattern=die, Pattern=zeshoekig staaf, Pattern=zijn
+Turn ID=14| A | A : met die ja ja oké
+	Free: Pattern=met die, Pattern=ja ja, Pattern=oké
+	Constrained: Pattern=ja, Pattern=die, Pattern=met
+Turn ID=15| A | A : dat zijn negen
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=16| A | A : ja aan de achterkant zitten nog dat plaat
+	Free: Pattern=aan de achterkant zitten nog, Pattern=dat plaat, Pattern=ja
+	Constrained: Pattern=nog, Pattern=de, Pattern=aan de, Pattern=zitten, Pattern=plaat, Pattern=dat, Pattern=aan de achterkant
+Turn ID=17| B | B : ja ja inderdaad
+	Free: Pattern=ja ja
+	Constrained: Pattern=ja
+Turn ID=18| A | A : ja negen
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=19| A | A : ja dit zijn die zeshoekig staaf met die twee rond aan de uiteinde
+	Free: Pattern=met die, Pattern=ja, Pattern=aan de, Pattern=rond, Pattern=zeshoekig staaf met, Pattern=dit zijn, Pattern=zijn die zeshoekig
+	Constrained: Pattern=de, Pattern=met, Pattern=die, Pattern=zeshoekig staaf, Pattern=zijn
+Turn ID=20| B | B : ja en het plateau
+	Free: Pattern=en het plateau, Pattern=ja
+	Constrained: Pattern=het, Pattern=plateau, Pattern=en
+Turn ID=21| A | A : en het plateau aan de achterkant
+	Free: Pattern=en het plateau, Pattern=aan de achterkant
+	Constrained: Pattern=de, Pattern=aan de, Pattern=het, Pattern=plateau, Pattern=en
+Turn ID=22| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=23| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=24| B | B : dat zijn F
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=25| B | B : die staaf achter met die zes ding en dan die bollen aan de aan de buitenkant
+	Free: Pattern=met die, Pattern=en dan, Pattern=aan de, Pattern=achter, Pattern=die staaf, Pattern=die
+	Constrained: Pattern=de, Pattern=met, Pattern=die, Pattern=en
+Turn ID=26| A | A : wachten even
+	Free: 
+	Constrained: 
+Turn ID=27| A | A : die staaf
+	Free: Pattern=die staaf
+	Constrained: Pattern=die
+Turn ID=28| B | B : aan de achterkant die daar op de grond liggen zeggen maar
+	Free: Pattern=aan de achterkant, Pattern=op de, Pattern=die, Pattern=daar
+	Constrained: Pattern=de, Pattern=aan de
+Turn ID=29| A | A : wachten even jee
+	Free: 
+	Constrained: 
+Turn ID=30| B | B : met die met die bal
+	Free: Pattern=met die met die
+	Constrained: Pattern=met die, Pattern=die, Pattern=met
+Turn ID=31| A | A : ah die zo met die met die rond aan de
+	Free: Pattern=met die met die rond, Pattern=aan de, Pattern=zo, Pattern=die
+	Constrained: Pattern=met die, Pattern=de, Pattern=met die met die, Pattern=met, Pattern=die, Pattern=rond
+Turn ID=32| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=33| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=34| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=35| A | A : en die dat plateau
+	Free: Pattern=dat, Pattern=plateau, Pattern=die, Pattern=en
+	Constrained: 
+Turn ID=36| B | B : yes
+	Free: 
+	Constrained: 
+Turn ID=37| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=38| A | A : ja dat zijn drie
+	Free: Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=39| A | A : ja dit zijn die zeshoekig staaf met die twee rond op de zijkant en dat plaat achter
+	Free: Pattern=met die, Pattern=achter, Pattern=de zijkant, Pattern=en, Pattern=rond, Pattern=zeshoekig staaf met, Pattern=dit zijn, Pattern=zijn die zeshoekig, Pattern=op de, Pattern=dat plaat, Pattern=ja
+	Constrained: Pattern=dat, Pattern=de, Pattern=met, Pattern=die, Pattern=zeshoekig staaf, Pattern=zijn, Pattern=plaat
+Turn ID=40| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=41| B | B : L
+	Free: 
+	Constrained: 
+Turn ID=42| B | B : dit zijn de de staaf met de met de bal aan de zijkant
+	Free: Pattern=aan de, Pattern=de zijkant, Pattern=de staaf met de, Pattern=dit zijn, Pattern=de, Pattern=met de
+	Constrained: Pattern=de, Pattern=zijn, Pattern=met, Pattern=met de
+Turn ID=43| A | A : de staaf met de
+	Free: Pattern=de staaf met de
+	Constrained: Pattern=de, Pattern=met, Pattern=met de
+Turn ID=44| A | A : klinken ook zo lekker
+	Free: Pattern=zo
+	Constrained: 
+Turn ID=45| B | B : ja het zijn wel duidelijk
+	Free: Pattern=het, Pattern=ja, Pattern=zijn
+	Constrained: 
+Turn ID=46| A | A : waar staan die
+	Free: Pattern=staan, Pattern=die
+	Constrained: 
+Turn ID=47| A | A : hij zijn daar
+	Free: Pattern=zijn, Pattern=daar
+	Constrained: 
+Turn ID=48| A | A : vijf
+	Free: 
+	Constrained: 

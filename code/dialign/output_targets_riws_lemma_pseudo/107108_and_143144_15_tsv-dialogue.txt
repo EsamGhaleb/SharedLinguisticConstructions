@@ -1,0 +1,123 @@
+A|0| A: _ja_ 
+A|1| A: _hebben_ _hij_ ook _dat_ _het_ plateau dinge in _het_ midden _zeggen maar_ 
+A|2| A: ok 
+A|3| A: _ja_ 
+A|4| A: _dan_ _zijn_ _het_ zes 
+A|5| A: _ja_ 
+B|6| B: oké _ik_ noemen _dit_ poppet [het] met _een_ badpak [zeggen maar] er lijken dus _een_ soort van zwemband eromheen te zitten _een_ soort vierkant om [het] poppe heen 
+B|7| B: [hij] [hebben] twee staaf op [zijn] hoofd [hij] [hebben] op [zijn] neus [hebben] die _een_ lang staaf 
+B|8| B: en [hij] [hebben] één armpje zo omhoog 
+B|9| B: precies [ja] 
+B|10| B: en [hij] [hebben] _een_ vierkant eromheen zitten alsof [het] _een_ soort van zwemband [zijn] 
+A|11| A: kunnen me niet veel herinneren wat jij hiervan vinden [maar] [ik] vinden [het] beetje [een] meisje in [een] rok omdat ze _dat_ plateau [zeggen maar] in [het] midden [hebben] 
+A|12| A: [ja] 
+A|13| A: _bij mij_ zestien 
+A|14| A: [zijn] dertien 
+A|15| A: ok 
+B|16| B: [ja] 
+B|17| B: [ja] met [het] met [het] band eromheen toch ? met [dat] 
+B|18| B: [dan] gaan [het] om C 
+A|19| A: [dit] [zijn] _de_ fabriek slash [het] dansen meisje of nee gewoon [het] meisje niet per se dansen 
+A|20| A: [ja] vijftien _bij mij_ 
+B|21| B: [dit] gaan over [de] glijbaan met [de] band eromheen 
+B|22| B: [ja] 
+B|23| B: zoeken hem even op met [de] ding eromheen 
+B|24| B: gaan om J 
+A|25| A: [ja] [zijn] negen _bij mij_ 
+A|26| A: [dit] [zijn] [de] fabriek meisje 
+A|27| A: ok 
+B|28| B: [bij mij] gaan [het] hier om [de] glijbaan met [het] band 
+B|29| B: [ja] worden nummer N tweepoot N 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=1| A | A : hebben hij ook dat het plateau dinge in het midden zeggen maar
+	Free: Pattern=dat, Pattern=zeggen maar, Pattern=het, Pattern=hebben, Pattern=hij
+	Constrained: Pattern=maar
+Turn ID=2| A | A : ok
+	Free: 
+	Constrained: 
+Turn ID=3| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=4| A | A : dan zijn het zes
+	Free: Pattern=dan, Pattern=zijn, Pattern=het
+	Constrained: 
+Turn ID=5| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=6| B | B : oké ik noemen dit poppet het met een badpak zeggen maar er lijken dus een soort van zwemband eromheen te zitten een soort vierkant om het poppe heen
+	Free: Pattern=een, Pattern=zeggen maar, Pattern=het, Pattern=dit, Pattern=ik
+	Constrained: Pattern=maar
+Turn ID=7| B | B : hij hebben twee staaf op zijn hoofd hij hebben op zijn neus hebben die een lang staaf
+	Free: Pattern=een, Pattern=zijn, Pattern=hij, Pattern=hebben
+	Constrained: 
+Turn ID=8| B | B : en hij hebben één armpje zo omhoog
+	Free: Pattern=hij, Pattern=hebben
+	Constrained: 
+Turn ID=9| B | B : precies ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=10| B | B : en hij hebben een vierkant eromheen zitten alsof het een soort van zwemband zijn
+	Free: Pattern=een, Pattern=het, Pattern=hebben, Pattern=hij, Pattern=zijn
+	Constrained: 
+Turn ID=11| A | A : kunnen me niet veel herinneren wat jij hiervan vinden maar ik vinden het beetje een meisje in een rok omdat ze dat plateau zeggen maar in het midden hebben
+	Free: Pattern=dat, Pattern=een, Pattern=zeggen maar, Pattern=het, Pattern=hebben, Pattern=ik, Pattern=maar
+	Constrained: Pattern=maar
+Turn ID=12| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=13| A | A : bij mij zestien
+	Free: Pattern=bij mij
+	Constrained: 
+Turn ID=14| A | A : zijn dertien
+	Free: Pattern=zijn
+	Constrained: 
+Turn ID=15| A | A : ok
+	Free: 
+	Constrained: 
+Turn ID=16| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=17| B | B : ja met het met het band eromheen toch ? met dat
+	Free: Pattern=dat, Pattern=ja, Pattern=het
+	Constrained: 
+Turn ID=18| B | B : dan gaan het om C
+	Free: Pattern=dan, Pattern=het
+	Constrained: 
+Turn ID=19| A | A : dit zijn de fabriek slash het dansen meisje of nee gewoon het meisje niet per se dansen
+	Free: Pattern=de, Pattern=dit, Pattern=zijn, Pattern=het
+	Constrained: 
+Turn ID=20| A | A : ja vijftien bij mij
+	Free: Pattern=bij mij, Pattern=ja
+	Constrained: 
+Turn ID=21| B | B : dit gaan over de glijbaan met de band eromheen
+	Free: Pattern=de, Pattern=dit
+	Constrained: 
+Turn ID=22| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=23| B | B : zoeken hem even op met de ding eromheen
+	Free: Pattern=de
+	Constrained: 
+Turn ID=24| B | B : gaan om J
+	Free: 
+	Constrained: 
+Turn ID=25| A | A : ja zijn negen bij mij
+	Free: Pattern=bij mij, Pattern=zijn, Pattern=ja
+	Constrained: 
+Turn ID=26| A | A : dit zijn de fabriek meisje
+	Free: Pattern=de, Pattern=dit, Pattern=zijn
+	Constrained: 
+Turn ID=27| A | A : ok
+	Free: 
+	Constrained: 
+Turn ID=28| B | B : bij mij gaan het hier om de glijbaan met het band
+	Free: Pattern=bij mij, Pattern=de, Pattern=het
+	Constrained: 
+Turn ID=29| B | B : ja worden nummer N tweepoot N
+	Free: Pattern=ja
+	Constrained: 

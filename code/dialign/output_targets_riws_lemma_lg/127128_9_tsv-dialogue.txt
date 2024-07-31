@@ -1,0 +1,271 @@
+B|0| B: _ik_ _hebben het_ rood vierkant 
+A|1| A: _ja_ 
+B|2| B: one's _het_ _zijn_ _een_ _de_ _mok_ _en_ _het_ _zitten_ _er_ _zitten een_ _soort van_ _lepel_ _in_ 
+B|3| B: _en_ hij staan _op een_ _verhoging_ 
+B|4| B: _het_ zullen _ook_ _een_ _soort_ [ja] toiletachtig bak kunnen _zijn_ 
+B|5| B: _en_ _er_ verdwijnen _een_ _soort_ _muntstuk in_ 
+A|6| A: [zijn] _dat_ _zo'n_ ruitvorm 
+A|7| A: _dat_ [muntstuk] 
+B|8| B: _nee_ _het_ [zijn] _een een_ _het_ [zijn] _wel_ _een muntstuk_ 
+A|9| A: _even_ kijken 
+B|10| B: _het_ [zijn] echt _een_ rond _zeggen maar_ 
+A|11| A: [ja] [en] [mok] bedoelen _je_ gewoon _dat_ figuur [ja] _en dan_ ? wat [zeggen] _je_ daarna 
+B|12| B: [ja] 
+B|13| B: _er_ _zitten een_ _soort van_ _lepel_ _in_ 
+B|14| B: tenminste [dat] lijken _een_ handvat _van_ _een lepel_ 
+A|15| A: [ja] 
+A|16| A: [hebben het] twee _uitsteeksel_ _aan de linkerkant_ 
+B|17| B: _één_ [uitsteeksel] 
+A|18| A: [één] 
+B|19| B: [één] [uitsteeksel] [en] hij _zitten_ _op een_ _soort_ _verhoging_ 
+A|20| A: [ja] 
+B|21| B: [en] _er_ verdwijnen [zo'n] _muntstuk in_ _en daar_ zien [je] alleen _nog_ [het] bovenste stuk _van_ 
+A|22| A: [ja] 
+A|23| A: [en daar] [zitten] _dan ook nog zo'n_ [soort van] pluimpje _aan de_ voorkant 
+A|24| A: _voor_ [dat] [muntstuk] [zeggen maar] opsteken [nog] iets naar boven 
+B|25| B: _nee_ [voor] [het] [voor] [het] [muntstuk] [zijn] [je] [hebben] [de] [mok] 
+A|26| A: _aan de_ rechterkant 
+A|27| A: [nee] 
+A|28| A: [ja] 
+B|29| B: [dan] [zitten] _er een_ [soort van] _lepeltje_ _in_ _een_ [soort] _een een_ druppel 
+A|30| A: [ja] _oké_ 
+A|31| A: [ja] 
+B|32| B: [dan] [hebben] _die_ _een_ [soort] [uitsteeksel] hier [en] hij staan _op een_ _verhoging_ 
+A|33| A: [dat] bedoelen [ik] [ja] 
+A|34| A: [ja] 
+A|35| A: _dat zijn_ nummer dertien 
+B|36| B: [oké] 
+B|37| B: mogen [je] _op_ [de] knop drukken 
+A|38| A: _dit zijn_ weer [die] [mok] waar [dat] half [muntstuk] zo bovenuit _komen_ _met_ [een] [lepeltje] daarvoor _en aan de linkerkant_ [een] balk [die] daaruit _steken_ 
+B|39| B: [en [dan] ook nog zo'n] klein _verhoginkje_ 
+A|40| A: [en] [nog] [op een] [verhoginkje] [ja] 
+B|41| B: [ja] 
+B|42| B: [dat zijn] bij mij O 
+B|43| B: _dit zijn de_ [mok] [met] [de] _lepel_ [het] [muntstuk] [zitten] [op] [de] _verhoging_ [en] [komen] [een] dinge _uit_ 
+A|44| A: [ja] 
+A|45| A: [dat zijn] nummer acht 
+A|46| A: [dit zijn] [met] [dat] [muntstuk] wat _erin vallen_ 
+A|47| A: [een lepel] _erin_ _en aan de linkerkant_ [komen] [er een] staaf [uit] 
+A|48| A: dus _aan de_ bovenkant _vallen_ [er [een] [een] [muntstuk] in] 
+B|49| B: _ja ik_ moeten hem [even] zoeken 
+B|50| B: [ik] [hebben] hem 
+B|51| B: [dat zijn] bij mij C 
+B|52| B: _dit zijn de spaarpot_ [met] [het] [muntstuk] [dat] [erin vallen] [de] [lepel] [zitten] [op een] _verhoging_ [en aan de linkerkant] [steken] [een [een] [een] een] tak [uit] 
+A|53| A: [ja] 
+A|54| A: link [zitten een] staaf [verhoging] [ja] nummer zeven 
+A|55| A: [dit zijn de spaarpot] 
+B|56| B: stekker [die] [hebben] we [ook] toch ? [nee] 
+A|57| A: [ja] 
+B|58| B: vertel 
+A|59| A: [spaarpot] 
+B|60| B: [de spaarpot] [ja] [dat zijn] bij mij C 
+B|61| B: [dat zijn] hem 
+A|62| A: [ja] 
+B|63| B: als zij [dit] allemaal horen [hebben] 
+A|64| A: [ja ik] denken [het] [wel] 
+B|65| B: _hallo_ 
+A|66| A: [hallo] 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : ik hebben het rood vierkant
+	Free: Pattern=hebben het, Pattern=ik
+	Constrained: Pattern=hebben, Pattern=het
+Turn ID=1| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=2| B | B : one's het zijn een de mok en het zitten er zitten een soort van lepel in
+	Free: Pattern=lepel, Pattern=de, Pattern=een, Pattern=het, Pattern=in, Pattern=zitten, Pattern=er, Pattern=en, Pattern=mok, Pattern=zitten een, Pattern=soort van, Pattern=zijn
+	Constrained: Pattern=soort, Pattern=van, Pattern=zitten, Pattern=een
+Turn ID=3| B | B : en hij staan op een verhoging
+	Free: Pattern=op een, Pattern=verhoging, Pattern=en
+	Constrained: Pattern=op, Pattern=een
+Turn ID=4| B | B : het zullen ook een soort ja toiletachtig bak kunnen zijn
+	Free: Pattern=soort, Pattern=ja, Pattern=ook, Pattern=een, Pattern=het, Pattern=zijn
+	Constrained: 
+Turn ID=5| B | B : en er verdwijnen een soort muntstuk in
+	Free: Pattern=muntstuk in, Pattern=soort, Pattern=een, Pattern=er, Pattern=en
+	Constrained: Pattern=in, Pattern=muntstuk
+Turn ID=6| A | A : zijn dat zo'n ruitvorm
+	Free: Pattern=dat, Pattern=zo'n, Pattern=zijn
+	Constrained: 
+Turn ID=7| A | A : dat muntstuk
+	Free: Pattern=dat, Pattern=muntstuk
+	Constrained: 
+Turn ID=8| B | B : nee het zijn een een het zijn wel een muntstuk
+	Free: Pattern=wel, Pattern=nee, Pattern=het, Pattern=een een, Pattern=zijn, Pattern=een muntstuk
+	Constrained: Pattern=een, Pattern=muntstuk
+Turn ID=9| A | A : even kijken
+	Free: Pattern=even
+	Constrained: 
+Turn ID=10| B | B : het zijn echt een rond zeggen maar
+	Free: Pattern=zeggen maar, Pattern=het, Pattern=een, Pattern=zijn
+	Constrained: Pattern=zeggen
+Turn ID=11| A | A : ja en mok bedoelen je gewoon dat figuur ja en dan ? wat zeggen je daarna
+	Free: Pattern=dat, Pattern=ja, Pattern=en dan, Pattern=zeggen, Pattern=mok, Pattern=en, Pattern=je
+	Constrained: Pattern=dan, Pattern=en
+Turn ID=12| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=13| B | B : er zitten een soort van lepel in
+	Free: Pattern=lepel, Pattern=in, Pattern=er, Pattern=zitten een, Pattern=soort van
+	Constrained: Pattern=soort, Pattern=van, Pattern=zitten, Pattern=een
+Turn ID=14| B | B : tenminste dat lijken een handvat van een lepel
+	Free: Pattern=een lepel, Pattern=dat, Pattern=van, Pattern=een
+	Constrained: Pattern=een, Pattern=lepel
+Turn ID=15| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=16| A | A : hebben het twee uitsteeksel aan de linkerkant
+	Free: Pattern=aan de linkerkant, Pattern=hebben het, Pattern=uitsteeksel
+	Constrained: Pattern=de, Pattern=het, Pattern=aan de, Pattern=hebben
+Turn ID=17| B | B : één uitsteeksel
+	Free: Pattern=uitsteeksel, Pattern=één
+	Constrained: 
+Turn ID=18| A | A : één
+	Free: Pattern=één
+	Constrained: 
+Turn ID=19| B | B : één uitsteeksel en hij zitten op een soort verhoging
+	Free: Pattern=soort, Pattern=uitsteeksel, Pattern=verhoging, Pattern=zitten, Pattern=en, Pattern=één, Pattern=op een
+	Constrained: Pattern=op, Pattern=een
+Turn ID=20| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=21| B | B : en er verdwijnen zo'n muntstuk in en daar zien je alleen nog het bovenste stuk van
+	Free: Pattern=nog, Pattern=zo'n, Pattern=het, Pattern=er, Pattern=je, Pattern=muntstuk in, Pattern=en daar, Pattern=van, Pattern=en
+	Constrained: Pattern=in, Pattern=muntstuk, Pattern=en
+Turn ID=22| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=23| A | A : en daar zitten dan ook nog zo'n soort van pluimpje aan de voorkant
+	Free: Pattern=en daar, Pattern=aan de, Pattern=zitten, Pattern=dan ook nog zo'n, Pattern=soort van
+	Constrained: Pattern=zo'n, Pattern=de, Pattern=ook, Pattern=dan, Pattern=nog, Pattern=soort, Pattern=van, Pattern=en
+Turn ID=24| A | A : voor dat muntstuk zeggen maar opsteken nog iets naar boven
+	Free: Pattern=dat, Pattern=nog, Pattern=muntstuk, Pattern=zeggen maar, Pattern=voor
+	Constrained: Pattern=zeggen
+Turn ID=25| B | B : nee voor het voor het muntstuk zijn je hebben de mok
+	Free: Pattern=muntstuk, Pattern=de, Pattern=nee, Pattern=hebben, Pattern=mok, Pattern=zijn, Pattern=je, Pattern=het, Pattern=voor
+	Constrained: 
+Turn ID=26| A | A : aan de rechterkant
+	Free: Pattern=aan de
+	Constrained: Pattern=de
+Turn ID=27| A | A : nee
+	Free: Pattern=nee
+	Constrained: 
+Turn ID=28| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=29| B | B : dan zitten er een soort van lepeltje in een soort een een druppel
+	Free: Pattern=soort, Pattern=dan, Pattern=een, Pattern=in, Pattern=een een, Pattern=zitten, Pattern=er een, Pattern=lepeltje, Pattern=soort van
+	Constrained: Pattern=soort, Pattern=van, Pattern=er, Pattern=een
+Turn ID=30| A | A : ja oké
+	Free: Pattern=oké, Pattern=ja
+	Constrained: 
+Turn ID=31| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=32| B | B : dan hebben die een soort uitsteeksel hier en hij staan op een verhoging
+	Free: Pattern=soort, Pattern=verhoging, Pattern=een, Pattern=hebben, Pattern=die, Pattern=en, Pattern=op een, Pattern=uitsteeksel, Pattern=dan
+	Constrained: Pattern=op, Pattern=een
+Turn ID=33| A | A : dat bedoelen ik ja
+	Free: Pattern=dat, Pattern=ik, Pattern=ja
+	Constrained: 
+Turn ID=34| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=35| A | A : dat zijn nummer dertien
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=36| B | B : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=37| B | B : mogen je op de knop drukken
+	Free: Pattern=de, Pattern=je, Pattern=op
+	Constrained: 
+Turn ID=38| A | A : dit zijn weer die mok waar dat half muntstuk zo bovenuit komen met een lepeltje daarvoor en aan de linkerkant een balk die daaruit steken
+	Free: Pattern=dat, Pattern=muntstuk, Pattern=komen, Pattern=een, Pattern=die, Pattern=mok, Pattern=lepeltje, Pattern=dit zijn, Pattern=steken, Pattern=en aan de linkerkant, Pattern=met
+	Constrained: Pattern=de, Pattern=aan de, Pattern=dit, Pattern=en, Pattern=zijn, Pattern=aan de linkerkant
+Turn ID=39| B | B : en dan ook nog zo'n klein verhoginkje
+	Free: Pattern=dan ook nog zo'n, Pattern=en dan, Pattern=verhoginkje
+	Constrained: Pattern=nog, Pattern=zo'n, Pattern=ook, Pattern=dan, Pattern=en
+Turn ID=40| A | A : en nog op een verhoginkje ja
+	Free: Pattern=nog, Pattern=en, Pattern=op een, Pattern=ja, Pattern=verhoginkje
+	Constrained: Pattern=op, Pattern=een
+Turn ID=41| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=42| B | B : dat zijn bij mij O
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=43| B | B : dit zijn de mok met de lepel het muntstuk zitten op de verhoging en komen een dinge uit
+	Free: Pattern=lepel, Pattern=muntstuk, Pattern=de, Pattern=een, Pattern=het, Pattern=met, Pattern=zitten, Pattern=mok, Pattern=en, Pattern=dit zijn de, Pattern=op, Pattern=uit, Pattern=komen, Pattern=verhoging
+	Constrained: Pattern=dit zijn, Pattern=dit, Pattern=de, Pattern=zijn
+Turn ID=44| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=45| A | A : dat zijn nummer acht
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=46| A | A : dit zijn met dat muntstuk wat erin vallen
+	Free: Pattern=dat, Pattern=muntstuk, Pattern=erin vallen, Pattern=met, Pattern=dit zijn
+	Constrained: Pattern=erin, Pattern=dit, Pattern=vallen, Pattern=zijn
+Turn ID=47| A | A : een lepel erin en aan de linkerkant komen er een staaf uit
+	Free: Pattern=uit, Pattern=komen, Pattern=en aan de linkerkant, Pattern=er een, Pattern=erin, Pattern=een lepel
+	Constrained: Pattern=lepel, Pattern=de, Pattern=aan de, Pattern=een, Pattern=er, Pattern=en, Pattern=aan de linkerkant
+Turn ID=48| A | A : dus aan de bovenkant vallen er een een muntstuk in
+	Free: Pattern=muntstuk in, Pattern=aan de, Pattern=vallen, Pattern=een een, Pattern=er een, Pattern=een muntstuk
+	Constrained: Pattern=muntstuk, Pattern=de, Pattern=een, Pattern=in, Pattern=er
+Turn ID=49| B | B : ja ik moeten hem even zoeken
+	Free: Pattern=ja ik, Pattern=even
+	Constrained: Pattern=ik, Pattern=ja
+Turn ID=50| B | B : ik hebben hem
+	Free: Pattern=hebben, Pattern=ik
+	Constrained: 
+Turn ID=51| B | B : dat zijn bij mij C
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=52| B | B : dit zijn de spaarpot met het muntstuk dat erin vallen de lepel zitten op een verhoging en aan de linkerkant steken een een een een tak uit
+	Free: Pattern=dat, Pattern=lepel, Pattern=muntstuk, Pattern=de, Pattern=uit, Pattern=verhoging, Pattern=het, Pattern=erin vallen, Pattern=zitten, Pattern=op een, Pattern=dit zijn de spaarpot, Pattern=steken, Pattern=een een, Pattern=en aan de linkerkant, Pattern=met
+	Constrained: Pattern=de, Pattern=een, Pattern=spaarpot, Pattern=en, Pattern=erin, Pattern=aan de linkerkant, Pattern=op, Pattern=aan de, Pattern=dit, Pattern=vallen, Pattern=zijn, Pattern=dit zijn de, Pattern=de spaarpot, Pattern=dit zijn
+Turn ID=53| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=54| A | A : link zitten een staaf verhoging ja nummer zeven
+	Free: Pattern=zitten een, Pattern=verhoging, Pattern=ja
+	Constrained: Pattern=zitten, Pattern=een
+Turn ID=55| A | A : dit zijn de spaarpot
+	Free: Pattern=dit zijn de spaarpot
+	Constrained: Pattern=de, Pattern=dit, Pattern=spaarpot, Pattern=zijn, Pattern=dit zijn de, Pattern=de spaarpot, Pattern=dit zijn
+Turn ID=56| B | B : stekker die hebben we ook toch ? nee
+	Free: Pattern=nee, Pattern=hebben, Pattern=ook, Pattern=die
+	Constrained: 
+Turn ID=57| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=58| B | B : vertel
+	Free: 
+	Constrained: 
+Turn ID=59| A | A : spaarpot
+	Free: Pattern=spaarpot
+	Constrained: 
+Turn ID=60| B | B : de spaarpot ja dat zijn bij mij C
+	Free: Pattern=dat zijn, Pattern=de spaarpot, Pattern=ja
+	Constrained: Pattern=dat, Pattern=spaarpot, Pattern=de, Pattern=zijn
+Turn ID=61| B | B : dat zijn hem
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=62| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=63| B | B : als zij dit allemaal horen hebben
+	Free: Pattern=hebben, Pattern=dit
+	Constrained: 
+Turn ID=64| A | A : ja ik denken het wel
+	Free: Pattern=ja ik, Pattern=wel, Pattern=het
+	Constrained: Pattern=ik, Pattern=ja
+Turn ID=65| B | B : hallo
+	Free: Pattern=hallo
+	Constrained: 
+Turn ID=66| A | A : hallo
+	Free: Pattern=hallo
+	Constrained: 

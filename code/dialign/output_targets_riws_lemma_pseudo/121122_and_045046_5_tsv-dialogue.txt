@@ -1,0 +1,135 @@
+B|0| B: ha _ja_ dit _zijn_ _een_ ding _met_ twee _soort_ van kegel aan de zijkant 
+B|1| B: _en_ _een_ langwerpig _blok bovenop_ _en_ _een_ _soort_ van paal _dat_ eruit steken 
+B|2| B: _ja_ _een_ _soort_ van aan de voorkant _zitten_ _een_ ding _met_ _een_ _soort_ van 
+B|3| B: _ja_ 
+B|4| B: nee 
+B|5| B: _dat zijn_ niet degeen _die_ ik bedoelen 
+B|6| B: _oké_ nee het paal _oké_ 
+B|7| B: zeggen maar je _hebben_ _zo_ het kop _en_ aan de zijkant _zitten_ _soort_ van kegel _zo_ 
+B|8| B: daarbovenop liggen _een_ _een_ langwerpig _blok_ 
+B|9| B: _en_ aan de voorkant steken _een_ driehoek uit waar _een_ _soort_ van paaltje op staat 
+A|10| A: _even_ kijken 
+B|11| B: _ja_ precies 
+A|12| A: [een] hanenkam 
+B|13| B: _ja_ _die_ 
+A|14| A: [ja] 
+A|15| A: [en] hij [en] hij [hebben] hier zo'n [soort] neus 
+A|16| A: zo'n 
+A|17| A: [ja] 
+A|18| A: [ja] zo'n hand [zo] hier naar boven [en] daar [zitten] dan nog [een] rond in 
+A|19| A: [oké] [dat zijn] nummer acht 
+B|20| B: _met_ [ja] precies 
+B|21| B: E 
+A|22| A: [die] [die] [dat] potlood vasthouden [en] [dat] [blok bovenop] 
+A|23| A: [ja] [dat zijn] nummer één 
+B|24| B: dit [zijn] weer [die] vage _met dat_ [soort] van huis [bovenop] [en] wat jij [een] spaceship vinden 
+A|25| A: [die] [met dat] penne [en] [dat] [blok bovenop] 
+B|26| B: [ja] 
+B|27| B: [even] zoeken waar [die] [zijn] 
+B|28| B: E 
+A|29| A: [ja] [dat zijn] nummer zestien 
+B|30| B: dit [zijn] weer het spaceship 
+A|31| A: [die] [met dat] potlood [en] [die] [die] balk [bovenop] 
+B|32| B: [ja] O 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : ha ja dit zijn een ding met twee soort van kegel aan de zijkant
+	Free: Pattern=soort, Pattern=ja, Pattern=een, Pattern=met, Pattern=zijn
+	Constrained: 
+Turn ID=1| B | B : en een langwerpig blok bovenop en een soort van paal dat eruit steken
+	Free: Pattern=dat, Pattern=soort, Pattern=een, Pattern=en, Pattern=blok bovenop
+	Constrained: Pattern=bovenop, Pattern=blok
+Turn ID=2| B | B : ja een soort van aan de voorkant zitten een ding met een soort van
+	Free: Pattern=soort, Pattern=ja, Pattern=een, Pattern=met, Pattern=zitten
+	Constrained: 
+Turn ID=3| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=4| B | B : nee
+	Free: 
+	Constrained: 
+Turn ID=5| B | B : dat zijn niet degeen die ik bedoelen
+	Free: Pattern=dat zijn, Pattern=die
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=6| B | B : oké nee het paal oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=7| B | B : zeggen maar je hebben zo het kop en aan de zijkant zitten soort van kegel zo
+	Free: Pattern=soort, Pattern=hebben, Pattern=zo, Pattern=zitten, Pattern=en
+	Constrained: 
+Turn ID=8| B | B : daarbovenop liggen een een langwerpig blok
+	Free: Pattern=een, Pattern=blok
+	Constrained: 
+Turn ID=9| B | B : en aan de voorkant steken een driehoek uit waar een soort van paaltje op staat
+	Free: Pattern=een, Pattern=en, Pattern=soort
+	Constrained: 
+Turn ID=10| A | A : even kijken
+	Free: Pattern=even
+	Constrained: 
+Turn ID=11| B | B : ja precies
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=12| A | A : een hanenkam
+	Free: Pattern=een
+	Constrained: 
+Turn ID=13| B | B : ja die
+	Free: Pattern=die, Pattern=ja
+	Constrained: 
+Turn ID=14| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=15| A | A : en hij en hij hebben hier zo'n soort neus
+	Free: Pattern=en, Pattern=soort, Pattern=hebben
+	Constrained: 
+Turn ID=16| A | A : zo'n
+	Free: 
+	Constrained: 
+Turn ID=17| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=18| A | A : ja zo'n hand zo hier naar boven en daar zitten dan nog een rond in
+	Free: Pattern=ja, Pattern=een, Pattern=zo, Pattern=zitten, Pattern=en
+	Constrained: 
+Turn ID=19| A | A : oké dat zijn nummer acht
+	Free: Pattern=dat zijn, Pattern=oké
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=20| B | B : met ja precies
+	Free: Pattern=met, Pattern=ja
+	Constrained: 
+Turn ID=21| B | B : E
+	Free: 
+	Constrained: 
+Turn ID=22| A | A : die die dat potlood vasthouden en dat blok bovenop
+	Free: Pattern=blok bovenop, Pattern=en, Pattern=die, Pattern=dat
+	Constrained: Pattern=bovenop, Pattern=blok
+Turn ID=23| A | A : ja dat zijn nummer één
+	Free: Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=24| B | B : dit zijn weer die vage met dat soort van huis bovenop en wat jij een spaceship vinden
+	Free: Pattern=bovenop, Pattern=soort, Pattern=een, Pattern=met dat, Pattern=die, Pattern=en, Pattern=zijn
+	Constrained: Pattern=met, Pattern=dat
+Turn ID=25| A | A : die met dat penne en dat blok bovenop
+	Free: Pattern=dat, Pattern=met dat, Pattern=die, Pattern=en, Pattern=blok bovenop
+	Constrained: Pattern=met, Pattern=bovenop, Pattern=dat, Pattern=blok
+Turn ID=26| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=27| B | B : even zoeken waar die zijn
+	Free: Pattern=die, Pattern=even, Pattern=zijn
+	Constrained: 
+Turn ID=28| B | B : E
+	Free: 
+	Constrained: 
+Turn ID=29| A | A : ja dat zijn nummer zestien
+	Free: Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=30| B | B : dit zijn weer het spaceship
+	Free: Pattern=zijn
+	Constrained: 
+Turn ID=31| A | A : die met dat potlood en die die balk bovenop
+	Free: Pattern=met dat, Pattern=en, Pattern=bovenop, Pattern=die
+	Constrained: Pattern=met, Pattern=dat
+Turn ID=32| B | B : ja O
+	Free: Pattern=ja
+	Constrained: 

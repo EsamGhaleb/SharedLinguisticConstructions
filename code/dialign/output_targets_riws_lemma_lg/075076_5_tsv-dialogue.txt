@@ -1,0 +1,87 @@
+B|0| B: deze dit _zijn_ _hebben_ echt _de kort_ uitsteeksel er liggen zo'n _balk_ boven op het op _dat_ ding 
+A|1| A: even kijken hoor 
+B|2| B: en aan _de_ voorkant opsteken er een dinge uit _met_ dan een rond ding daar _weer_ op 
+B|3| B: _ik_ vinden deze echt vaag 
+A|4| A: even kijken [de kort] laten maar zeggen [de] veel _compact_ 
+B|5| B: _ja_ hij _zijn_ _heel compact_ inderdaad 
+A|6| A: [ja] [met] _die_ horizontaal [balk] bovenop 
+B|7| B: [ja] 
+A|8| A: [ja] _dat zijn_ bij mij nummer acht 
+A|9| A: _ik hebben die heel compact_ [weer] 
+B|10| B: [die] [dat zijn] E 
+B|11| B: [ik hebben die heel compact] 
+A|12| A: [ja] [zijn] bij mij nummer één 
+A|13| A: _ik hebben die compact_ [weer] 
+B|14| B: waar [zijn] [die] 
+B|15| B: [dat zijn] E 
+B|16| B: [ik hebben die compact] 
+A|17| A: nummer zestien 
+A|18| A: [ik hebben die compact] 
+B|19| B: [ja] 
+B|20| B: [dat zijn] O 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : deze dit zijn hebben echt de kort uitsteeksel er liggen zo'n balk boven op het op dat ding
+	Free: Pattern=dat, Pattern=hebben, Pattern=balk, Pattern=de kort, Pattern=zijn
+	Constrained: Pattern=de
+Turn ID=1| A | A : even kijken hoor
+	Free: 
+	Constrained: 
+Turn ID=2| B | B : en aan de voorkant opsteken er een dinge uit met dan een rond ding daar weer op
+	Free: Pattern=weer, Pattern=de, Pattern=met
+	Constrained: 
+Turn ID=3| B | B : ik vinden deze echt vaag
+	Free: Pattern=ik
+	Constrained: 
+Turn ID=4| A | A : even kijken de kort laten maar zeggen de veel compact
+	Free: Pattern=de kort, Pattern=compact, Pattern=de
+	Constrained: Pattern=de
+Turn ID=5| B | B : ja hij zijn heel compact inderdaad
+	Free: Pattern=heel compact, Pattern=ja, Pattern=zijn
+	Constrained: Pattern=compact
+Turn ID=6| A | A : ja met die horizontaal balk bovenop
+	Free: Pattern=die, Pattern=balk, Pattern=met, Pattern=ja
+	Constrained: 
+Turn ID=7| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=8| A | A : ja dat zijn bij mij nummer acht
+	Free: Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=9| A | A : ik hebben die heel compact weer
+	Free: Pattern=ik hebben die heel compact, Pattern=weer
+	Constrained: Pattern=heel compact, Pattern=compact, Pattern=hebben, Pattern=die, Pattern=ik
+Turn ID=10| B | B : die dat zijn E
+	Free: Pattern=dat zijn, Pattern=die
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=11| B | B : ik hebben die heel compact
+	Free: Pattern=ik hebben die heel compact
+	Constrained: Pattern=heel compact, Pattern=compact, Pattern=hebben, Pattern=die, Pattern=ik
+Turn ID=12| A | A : ja zijn bij mij nummer één
+	Free: Pattern=ja, Pattern=zijn
+	Constrained: 
+Turn ID=13| A | A : ik hebben die compact weer
+	Free: Pattern=ik hebben die compact, Pattern=weer
+	Constrained: Pattern=die, Pattern=compact, Pattern=ik, Pattern=hebben
+Turn ID=14| B | B : waar zijn die
+	Free: Pattern=die, Pattern=zijn
+	Constrained: 
+Turn ID=15| B | B : dat zijn E
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=16| B | B : ik hebben die compact
+	Free: Pattern=ik hebben die compact
+	Constrained: Pattern=die, Pattern=compact, Pattern=ik, Pattern=hebben
+Turn ID=17| A | A : nummer zestien
+	Free: 
+	Constrained: 
+Turn ID=18| A | A : ik hebben die compact
+	Free: Pattern=ik hebben die compact
+	Constrained: Pattern=die, Pattern=compact, Pattern=ik, Pattern=hebben
+Turn ID=19| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=20| B | B : dat zijn O
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn

@@ -1,0 +1,151 @@
+A|0| A: _oké_ 
+A|1| A: oeh _ja_ _ook_ _een soort_ Pinokkio Pinokko Pinokkio omdat _het_ hebben zo'n pilaar zo opsteken zo _naar rechts_ _een_ beetje uit 
+A|2| A: _en_ _hij_ hebben één of ander heel gek _hoed_ 
+A|3| A: _die_ _ja_ _het_ _zijn_ _een soort_ vierkan _die_ echt _in_ hem zitten alsof _het_ één _ja_ 
+B|4| B: _met_ aan allebei _de_ kant _twee_ blokkentoren 
+A|5| A: _ja_ 
+A|6| A: _ja_ 
+B|7| B: [oké] dan [zijn] [het] M 
+B|8| B: [ja] _dit zijn_ [ja] ik zien [het] als [een] karatepoppe 
+B|9| B: _met_ aan _de_ voorkant wel nog [een soort] Pinokkioneus 
+A|10| A: [ja] 
+B|11| B: [die] [naar rechts] gaan 
+A|12| A: [ja] 
+B|13| B: [en] aan _de_ onderkant [en] aan _de_ rechterkant [een soort] van buigen dinget 
+A|14| A: [ja] 
+A|15| A: [en] _hij_ hebben zo'n suf gek _hoed_ op 
+B|16| B: [ja] 
+A|17| A: [ja] 
+A|18| A: negen 
+A|19| A: [dit zijn] [die] _Karate Kid_ 
+B|20| B: [Karate Kid] waar _staan_ [Karate Kid] 
+A|21| A: _met het_ pinokkioneusje [en] [de] [twee] ding 
+B|22| B: [ja] 
+A|23| A: [ja] je weten [het] [oké] 
+B|24| B: dat [zijn] H 
+A|25| A: [ja] 
+B|26| B: [dit zijn] [Karate Kid] poppet [met het] [hoed] [ook] wel 
+A|27| A: elf [met] [de] cilinder [ja] 
+B|28| B: [ja] 
+A|29| A: elf 
+A|30| A: [de] [Karate Kid] 
+B|31| B: karate [Kid] _staan_ dat [zijn] D 
+B|32| B: karatepoppe 
+A|33| A: [staan] [die] _bij_ jou _links_ 
+A|34| A: [ook] 
+B|35| B: [ja] [hij] [staan] [bij] mij helemaal [links] [in] [het] midden 
+A|36| A: veertien 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=1| A | A : oeh ja ook een soort Pinokkio Pinokko Pinokkio omdat het hebben zo'n pilaar zo opsteken zo naar rechts een beetje uit
+	Free: Pattern=naar rechts, Pattern=ja, Pattern=ook, Pattern=een, Pattern=het, Pattern=een soort
+	Constrained: Pattern=een
+Turn ID=2| A | A : en hij hebben één of ander heel gek hoed
+	Free: Pattern=hij, Pattern=en, Pattern=hoed
+	Constrained: 
+Turn ID=3| A | A : die ja het zijn een soort vierkan die echt in hem zitten alsof het één ja
+	Free: Pattern=ja, Pattern=het, Pattern=in, Pattern=die, Pattern=een soort, Pattern=zijn
+	Constrained: Pattern=een
+Turn ID=4| B | B : met aan allebei de kant twee blokkentoren
+	Free: Pattern=twee, Pattern=de, Pattern=met
+	Constrained: 
+Turn ID=5| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=6| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=7| B | B : oké dan zijn het M
+	Free: Pattern=oké, Pattern=het, Pattern=zijn
+	Constrained: 
+Turn ID=8| B | B : ja dit zijn ja ik zien het als een karatepoppe
+	Free: Pattern=dit zijn, Pattern=een, Pattern=ja, Pattern=het
+	Constrained: Pattern=zijn
+Turn ID=9| B | B : met aan de voorkant wel nog een soort Pinokkioneus
+	Free: Pattern=een soort, Pattern=de, Pattern=met
+	Constrained: Pattern=een
+Turn ID=10| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=11| B | B : die naar rechts gaan
+	Free: Pattern=naar rechts, Pattern=die
+	Constrained: 
+Turn ID=12| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=13| B | B : en aan de onderkant en aan de rechterkant een soort van buigen dinget
+	Free: Pattern=een soort, Pattern=en, Pattern=de
+	Constrained: Pattern=een
+Turn ID=14| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=15| A | A : en hij hebben zo'n suf gek hoed op
+	Free: Pattern=hij, Pattern=en, Pattern=hoed
+	Constrained: 
+Turn ID=16| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=17| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=18| A | A : negen
+	Free: 
+	Constrained: 
+Turn ID=19| A | A : dit zijn die Karate Kid
+	Free: Pattern=Karate Kid, Pattern=dit zijn, Pattern=die
+	Constrained: Pattern=Kid, Pattern=zijn
+Turn ID=20| B | B : Karate Kid waar staan Karate Kid
+	Free: Pattern=Karate Kid, Pattern=staan
+	Constrained: Pattern=Kid
+Turn ID=21| A | A : met het pinokkioneusje en de twee ding
+	Free: Pattern=met het, Pattern=en, Pattern=twee, Pattern=de
+	Constrained: Pattern=het, Pattern=met
+Turn ID=22| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=23| A | A : ja je weten het oké
+	Free: Pattern=oké, Pattern=ja, Pattern=het
+	Constrained: 
+Turn ID=24| B | B : dat zijn H
+	Free: Pattern=zijn
+	Constrained: 
+Turn ID=25| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=26| B | B : dit zijn Karate Kid poppet met het hoed ook wel
+	Free: Pattern=hoed, Pattern=ook, Pattern=met het, Pattern=Karate Kid, Pattern=dit zijn
+	Constrained: Pattern=Kid, Pattern=het, Pattern=zijn, Pattern=met
+Turn ID=27| A | A : elf met de cilinder ja
+	Free: Pattern=ja, Pattern=de, Pattern=met
+	Constrained: 
+Turn ID=28| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=29| A | A : elf
+	Free: 
+	Constrained: 
+Turn ID=30| A | A : de Karate Kid
+	Free: Pattern=Karate Kid, Pattern=de
+	Constrained: Pattern=Kid
+Turn ID=31| B | B : karate Kid staan dat zijn D
+	Free: Pattern=staan, Pattern=Kid, Pattern=zijn
+	Constrained: 
+Turn ID=32| B | B : karatepoppe
+	Free: 
+	Constrained: 
+Turn ID=33| A | A : staan die bij jou links
+	Free: Pattern=staan, Pattern=links, Pattern=bij, Pattern=die
+	Constrained: 
+Turn ID=34| A | A : ook
+	Free: Pattern=ook
+	Constrained: 
+Turn ID=35| B | B : ja hij staan bij mij helemaal links in het midden
+	Free: Pattern=ja, Pattern=staan, Pattern=links, Pattern=het, Pattern=hij, Pattern=in, Pattern=bij
+	Constrained: 
+Turn ID=36| A | A : veertien
+	Free: 
+	Constrained: 

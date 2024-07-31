@@ -1,0 +1,143 @@
+B|0| B: _met_ ook _zo'n _soort_ van_ uitlaa _aan de onderkant_ of 
+B|1| B: _ja_ _dan hebben_ _ik_ hem _dat zijn_ I 
+B|2| B: _ik_ moeten altijd even kijken of _het_ _een_ I of _een_ L _zijn_ 
+B|3| B: _maar_ _het_ _zijn_ _een_ I 
+A|4| A: [ik] _vinden_ dit [het] kippe eigenlijk [aan de] rechts kant [hebben] die twee staaf en [dat] zullen _een beetje een_ snavel kunnen [zijn] 
+A|5| A: en [dan hebben] die [aan de] zijkant [aan de] linkerkant [hebben] die [een] [soort van] staafje naar achteren _wat_ [een] [soort van] vleugel zullen kunnen [zijn] 
+A|6| A: en [aan de onderkant] [aan de] links kant [hebben] die [een] [soort van] dinge _wat_ naar achteren eruit gaan zo 
+A|7| A: en [aan de] bovenkant [hebben] [het] [zo'n soort] vorm erbovenop zitten 
+A|8| A: snapen _je_ _wat_ [ik] daarmee _bedoelen_ 
+A|9| A: [ja] die eruit komen twee vierkant staaf 
+A|10| A: zullen [dat] [een] [soort van] snavel kunnen [zijn] als _je_ [dat] _je_ inbeelden 
+A|11| A: [ja] zullen kunnen [ja] en [dan hebben] die [aan de] zijkant [hebben] die nog [zo'n] [ja] [aan de] ander kant zeggen [maar] [zijn] [zo'n] vleugel _wat_ eruit steken 
+A|12| A: [soort van] puntdinge en [dan] 
+A|13| A: [ja] 
+A|14| A: en [aan de onderkant] [zo'n] dinge [ja] 
+B|15| B: [het] [zijn] [een beetje een] [het] [wat] jij [een] stekkerding stopcontact of iets [vinden] 
+B|16| B: nou _dat zijn_ hem 
+B|17| B: [ik] weten welk [je] [bedoelen] even loeren [ja] M 
+A|18| A: [ja] [de] kip 
+A|19| A: [ja] [met] die snavel 
+A|20| A: [ja] [dat zijn] bij mij twee 
+A|21| A: dit [zijn] [de] kip 
+A|22| A: [met] [de] snavel zeggen [maar] 
+A|23| A: [aan de] rechts kant 
+A|24| A: [met] die vleugel 
+A|25| A: [ja] 
+B|26| B: stekker 
+B|27| B: oké 
+B|28| B: [ja] [vinden] F 
+A|29| A: waar staan die 
+A|30| A: nummer negen 
+A|31| A: [de] kip 
+B|32| B: [het] [zijn] [een] stekker 
+A|33| A: die zitten bij mij rechts onderin 
+A|34| A: [ja] nummer zes 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : met ook zo'n soort van uitlaa aan de onderkant of
+	Free: Pattern=aan de onderkant, Pattern=soort van, Pattern=zo'n soort, Pattern=met
+	Constrained: Pattern=de, Pattern=aan de, Pattern=zo'n
+Turn ID=1| B | B : ja dan hebben ik hem dat zijn I
+	Free: Pattern=dan hebben, Pattern=dat zijn, Pattern=ik, Pattern=ja
+	Constrained: Pattern=dat, Pattern=dan, Pattern=zijn, Pattern=hebben
+Turn ID=2| B | B : ik moeten altijd even kijken of het een I of een L zijn
+	Free: Pattern=zijn, Pattern=ik, Pattern=het, Pattern=een
+	Constrained: 
+Turn ID=3| B | B : maar het zijn een I
+	Free: Pattern=zijn, Pattern=maar, Pattern=het, Pattern=een
+	Constrained: 
+Turn ID=4| A | A : ik vinden dit het kippe eigenlijk aan de rechts kant hebben die twee staaf en dat zullen een beetje een snavel kunnen zijn
+	Free: Pattern=dat, Pattern=vinden, Pattern=aan de, Pattern=het, Pattern=hebben, Pattern=een beetje een, Pattern=ik, Pattern=zijn
+	Constrained: Pattern=de, Pattern=een
+Turn ID=5| A | A : en dan hebben die aan de zijkant aan de linkerkant hebben die een soort van staafje naar achteren wat een soort van vleugel zullen kunnen zijn
+	Free: Pattern=aan de, Pattern=een, Pattern=hebben, Pattern=dan hebben, Pattern=wat, Pattern=soort van, Pattern=zijn
+	Constrained: Pattern=dan, Pattern=de, Pattern=hebben
+Turn ID=6| A | A : en aan de onderkant aan de links kant hebben die een soort van dinge wat naar achteren eruit gaan zo
+	Free: Pattern=aan de, Pattern=een, Pattern=hebben, Pattern=aan de onderkant, Pattern=wat, Pattern=soort van
+	Constrained: Pattern=de, Pattern=aan de
+Turn ID=7| A | A : en aan de bovenkant hebben het zo'n soort vorm erbovenop zitten
+	Free: Pattern=aan de, Pattern=zo'n soort, Pattern=hebben, Pattern=het
+	Constrained: Pattern=de, Pattern=zo'n
+Turn ID=8| A | A : snapen je wat ik daarmee bedoelen
+	Free: Pattern=je, Pattern=bedoelen, Pattern=ik, Pattern=wat
+	Constrained: 
+Turn ID=9| A | A : ja die eruit komen twee vierkant staaf
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=10| A | A : zullen dat een soort van snavel kunnen zijn als je dat je inbeelden
+	Free: Pattern=dat, Pattern=een, Pattern=je, Pattern=soort van, Pattern=zijn
+	Constrained: 
+Turn ID=11| A | A : ja zullen kunnen ja en dan hebben die aan de zijkant hebben die nog zo'n ja aan de ander kant zeggen maar zijn zo'n vleugel wat eruit steken
+	Free: Pattern=zo'n, Pattern=ja, Pattern=aan de, Pattern=hebben, Pattern=dan hebben, Pattern=wat, Pattern=zijn, Pattern=maar
+	Constrained: Pattern=dan, Pattern=de, Pattern=hebben
+Turn ID=12| A | A : soort van puntdinge en dan
+	Free: Pattern=soort van, Pattern=dan
+	Constrained: 
+Turn ID=13| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=14| A | A : en aan de onderkant zo'n dinge ja
+	Free: Pattern=aan de onderkant, Pattern=ja, Pattern=zo'n
+	Constrained: Pattern=aan de, Pattern=de
+Turn ID=15| B | B : het zijn een beetje een het wat jij een stekkerding stopcontact of iets vinden
+	Free: Pattern=vinden, Pattern=een, Pattern=het, Pattern=zijn, Pattern=wat, Pattern=een beetje een
+	Constrained: Pattern=een
+Turn ID=16| B | B : nou dat zijn hem
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=17| B | B : ik weten welk je bedoelen even loeren ja M
+	Free: Pattern=je, Pattern=bedoelen, Pattern=ik, Pattern=ja
+	Constrained: 
+Turn ID=18| A | A : ja de kip
+	Free: Pattern=de, Pattern=ja
+	Constrained: 
+Turn ID=19| A | A : ja met die snavel
+	Free: Pattern=ja, Pattern=met
+	Constrained: 
+Turn ID=20| A | A : ja dat zijn bij mij twee
+	Free: Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=21| A | A : dit zijn de kip
+	Free: Pattern=zijn, Pattern=de
+	Constrained: 
+Turn ID=22| A | A : met de snavel zeggen maar
+	Free: Pattern=de, Pattern=maar, Pattern=met
+	Constrained: 
+Turn ID=23| A | A : aan de rechts kant
+	Free: Pattern=aan de
+	Constrained: Pattern=de
+Turn ID=24| A | A : met die vleugel
+	Free: Pattern=met
+	Constrained: 
+Turn ID=25| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=26| B | B : stekker
+	Free: 
+	Constrained: 
+Turn ID=27| B | B : oké
+	Free: 
+	Constrained: 
+Turn ID=28| B | B : ja vinden F
+	Free: Pattern=ja, Pattern=vinden
+	Constrained: 
+Turn ID=29| A | A : waar staan die
+	Free: 
+	Constrained: 
+Turn ID=30| A | A : nummer negen
+	Free: 
+	Constrained: 
+Turn ID=31| A | A : de kip
+	Free: Pattern=de
+	Constrained: 
+Turn ID=32| B | B : het zijn een stekker
+	Free: Pattern=zijn, Pattern=het, Pattern=een
+	Constrained: 
+Turn ID=33| A | A : die zitten bij mij rechts onderin
+	Free: 
+	Constrained: 
+Turn ID=34| A | A : ja nummer zes
+	Free: Pattern=ja
+	Constrained: 

@@ -1,0 +1,151 @@
+A|0| A: _ja_ _en rechts zitten_ _een_ _rechts zitten_ ding met _dat_ naar boven wijzen 
+A|1| A: _ja_ 
+A|2| A: zestien 
+A|3| A: _deze_ _hebben_ _die_ liggen balk _bovenop_ 
+A|4| A: _en_ _de_ half pyramide _aan de_ linkerkant _en_ dan _dat_ _een_ klein scherp ding _aan de_ rechterkant 
+A|5| A: _waar_ we het net over _hebben_ _aan_ het einde 
+B|6| B: [ja] [deze] _zijn_ [een] beetje compact 
+B|7| B: [aan _de] bovenkant_ [hebben] hij [een] gewoon rechthoekig staaf horizontaal 
+B|8| B: [en] _links_ [ja] [een] figuur [die] _ik_ bee [ja] _zijn_ [een] beetje _rond_ _maar_ 
+B|9| B: geen bal [en rechts zitten] ook iets _maar_ [dat] _zijn_ ook [een] soort goo 
+B|10| B: [ja] 
+B|11| B: rechtop 
+B|12| B: [ja] 
+A|13| A: wel duidelijk 
+A|14| A: [aan de] linkerkant 
+A|15| A: [dat] scherp ding [aan de] rechterkant 
+A|16| A: [ja] 
+A|17| A: [zijn] nummer [een] 
+A|18| A: [ik] [hebben] [de] [een] met [dat] scherp ding [aan de] rechterkant 
+A|19| A: met [die] half pyramide [en] [dat] balkje _bovenop_ 
+A|20| A: [dat] gek scherp ding [aan de] rechterkant 
+A|21| A: met zeggen [maar] [aan de] linkerkant [dat] [die] half [rond] pyramide met daar [de bovenkant] eraf 
+A|22| A: [en] dan dus scherp 
+A|23| A: [ja] [de] 
+A|24| A: zeven 
+A|25| A: [ik] [hebben] [dat] scherp ding [aan de] rechterkant [en] [die] half pyramide [links] 
+B|26| B: stok 
+B|27| B: [en] [een] staaf [bovenop] horizontaal 
+B|28| B: [ja] 
+B|29| B: [dat] [zijn] G 
+B|30| B: dit [zijn] weer [een] beetje [die] compact , [dat] er [rechts] [een] goo [zijn] , [en] [links] zo'n uh , [ja] , [rond] iets achtig , [bovenop] [een] horizontaal staaf 
+B|31| B: [ja] 
+B|32| B: staaf [bovenop] 
+B|33| B: [ja] 
+B|34| B: E 
+B|35| B: dit [zijn] [die] compact staaf , horizontaal [bovenop] , goot [rechts] [waar] [een] pijpje [bovenop] staan 
+B|36| B: [ja] M 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : ja en rechts zitten een rechts zitten ding met dat naar boven wijzen
+	Free: Pattern=dat, Pattern=ja, Pattern=een, Pattern=en rechts zitten, Pattern=rechts zitten
+	Constrained: Pattern=rechts zitten, Pattern=en, Pattern=rechts
+Turn ID=1| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=2| A | A : zestien
+	Free: 
+	Constrained: 
+Turn ID=3| A | A : deze hebben die liggen balk bovenop
+	Free: Pattern=hebben, Pattern=bovenop, Pattern=die, Pattern=deze
+	Constrained: 
+Turn ID=4| A | A : en de half pyramide aan de linkerkant en dan dat een klein scherp ding aan de rechterkant
+	Free: Pattern=dat, Pattern=de, Pattern=aan de, Pattern=een, Pattern=en
+	Constrained: Pattern=de, Pattern=aan
+Turn ID=5| A | A : waar we het net over hebben aan het einde
+	Free: Pattern=hebben, Pattern=aan, Pattern=waar
+	Constrained: 
+Turn ID=6| B | B : ja deze zijn een beetje compact
+	Free: Pattern=zijn, Pattern=deze, Pattern=ja, Pattern=een
+	Constrained: 
+Turn ID=7| B | B : aan de bovenkant hebben hij een gewoon rechthoekig staaf horizontaal
+	Free: Pattern=aan de, Pattern=de bovenkant, Pattern=hebben, Pattern=een
+	Constrained: Pattern=de, Pattern=aan
+Turn ID=8| B | B : en links ja een figuur die ik bee ja zijn een beetje rond maar
+	Free: Pattern=ja, Pattern=een, Pattern=links, Pattern=die, Pattern=ik, Pattern=en, Pattern=rond, Pattern=zijn, Pattern=maar
+	Constrained: 
+Turn ID=9| B | B : geen bal en rechts zitten ook iets maar dat zijn ook een soort goo
+	Free: Pattern=dat, Pattern=een, Pattern=en rechts zitten, Pattern=zijn, Pattern=maar
+	Constrained: Pattern=rechts zitten, Pattern=en, Pattern=rechts
+Turn ID=10| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=11| B | B : rechtop
+	Free: 
+	Constrained: 
+Turn ID=12| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=13| A | A : wel duidelijk
+	Free: 
+	Constrained: 
+Turn ID=14| A | A : aan de linkerkant
+	Free: Pattern=aan de
+	Constrained: Pattern=de, Pattern=aan
+Turn ID=15| A | A : dat scherp ding aan de rechterkant
+	Free: Pattern=aan de, Pattern=dat
+	Constrained: Pattern=de, Pattern=aan
+Turn ID=16| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=17| A | A : zijn nummer een
+	Free: Pattern=zijn, Pattern=een
+	Constrained: 
+Turn ID=18| A | A : ik hebben de een met dat scherp ding aan de rechterkant
+	Free: Pattern=dat, Pattern=de, Pattern=aan de, Pattern=een, Pattern=hebben, Pattern=ik
+	Constrained: Pattern=de, Pattern=aan
+Turn ID=19| A | A : met die half pyramide en dat balkje bovenop
+	Free: Pattern=en, Pattern=bovenop, Pattern=dat, Pattern=die
+	Constrained: 
+Turn ID=20| A | A : dat gek scherp ding aan de rechterkant
+	Free: Pattern=aan de, Pattern=dat
+	Constrained: Pattern=de, Pattern=aan
+Turn ID=21| A | A : met zeggen maar aan de linkerkant dat die half rond pyramide met daar de bovenkant eraf
+	Free: Pattern=dat, Pattern=aan de, Pattern=de bovenkant, Pattern=die, Pattern=rond, Pattern=maar
+	Constrained: Pattern=de, Pattern=aan
+Turn ID=22| A | A : en dan dus scherp
+	Free: Pattern=en
+	Constrained: 
+Turn ID=23| A | A : ja de
+	Free: Pattern=de, Pattern=ja
+	Constrained: 
+Turn ID=24| A | A : zeven
+	Free: 
+	Constrained: 
+Turn ID=25| A | A : ik hebben dat scherp ding aan de rechterkant en die half pyramide links
+	Free: Pattern=dat, Pattern=aan de, Pattern=links, Pattern=hebben, Pattern=die, Pattern=ik, Pattern=en
+	Constrained: Pattern=de, Pattern=aan
+Turn ID=26| B | B : stok
+	Free: 
+	Constrained: 
+Turn ID=27| B | B : en een staaf bovenop horizontaal
+	Free: Pattern=en, Pattern=bovenop, Pattern=een
+	Constrained: 
+Turn ID=28| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=29| B | B : dat zijn G
+	Free: Pattern=dat, Pattern=zijn
+	Constrained: 
+Turn ID=30| B | B : dit zijn weer een beetje die compact , dat er rechts een goo zijn , en links zo'n uh , ja , rond iets achtig , bovenop een horizontaal staaf
+	Free: Pattern=een, Pattern=links, Pattern=die, Pattern=en, Pattern=rond, Pattern=zijn, Pattern=dat, Pattern=bovenop, Pattern=rechts, Pattern=ja
+	Constrained: 
+Turn ID=31| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=32| B | B : staaf bovenop
+	Free: Pattern=bovenop
+	Constrained: 
+Turn ID=33| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=34| B | B : E
+	Free: 
+	Constrained: 
+Turn ID=35| B | B : dit zijn die compact staaf , horizontaal bovenop , goot rechts waar een pijpje bovenop staan
+	Free: Pattern=bovenop, Pattern=rechts, Pattern=waar, Pattern=een, Pattern=die, Pattern=zijn
+	Constrained: 
+Turn ID=36| B | B : ja M
+	Free: Pattern=ja
+	Constrained: 

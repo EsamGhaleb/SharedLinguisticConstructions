@@ -1,0 +1,91 @@
+B|0| B: hij hebben zeggen maar van die _verrekijker_ naar links _en_ dan hebben die 
+A|1| A: _ja_ ik weten welk je bedoelen _dat_ _zijn_ _twee_ 
+A|2| A: [en] zo'n vierkant 
+A|3| A: zo'n plat vierkant erop plakken [en] een antenne 
+B|4| B: [ja] 
+A|5| A: [ja] _dat_ _zijn_ _twee_ 
+A|6| A: _dit zijn_ degeen _met_ _de_ _twee verrekijker_ 
+A|7| A: [en] zo'n antenne bovenop 
+B|8| B: [ja] [en] het vlak ervoor 
+A|9| A: [ja] 
+B|10| B: G 
+B|11| B: [dit zijn] die [verrekijker] [met] die blok [en] dan [dat] vlak ervoor 
+A|12| A: wachten even [ja] _twee verrekijker_ 
+B|13| B: [ja] 
+A|14| A: [ja] negen 
+A|15| A: [ja] 
+A|16| A: [dit zijn] degeen [met] _de_ _twee verrekijker_ [en] _de_ antenne 
+B|17| B: d 
+B|18| B: [dit zijn] die [met] [dat] vlak aan [de] voorkant [en] [twee verrekijker] 
+A|19| A: [ja] één 
+A|20| A: [dit zijn] degeen [met] [de] [twee verrekijker] 
+B|21| B: [ja] B 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : hij hebben zeggen maar van die verrekijker naar links en dan hebben die
+	Free: Pattern=verrekijker, Pattern=en
+	Constrained: 
+Turn ID=1| A | A : ja ik weten welk je bedoelen dat zijn twee
+	Free: Pattern=dat, Pattern=twee, Pattern=ja, Pattern=zijn
+	Constrained: 
+Turn ID=2| A | A : en zo'n vierkant
+	Free: Pattern=en
+	Constrained: 
+Turn ID=3| A | A : zo'n plat vierkant erop plakken en een antenne
+	Free: Pattern=en
+	Constrained: 
+Turn ID=4| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=5| A | A : ja dat zijn twee
+	Free: Pattern=dat, Pattern=twee, Pattern=ja, Pattern=zijn
+	Constrained: 
+Turn ID=6| A | A : dit zijn degeen met de twee verrekijker
+	Free: Pattern=dit zijn, Pattern=twee verrekijker, Pattern=de, Pattern=met
+	Constrained: Pattern=twee, Pattern=verrekijker, Pattern=zijn
+Turn ID=7| A | A : en zo'n antenne bovenop
+	Free: Pattern=en
+	Constrained: 
+Turn ID=8| B | B : ja en het vlak ervoor
+	Free: Pattern=ja, Pattern=en
+	Constrained: 
+Turn ID=9| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=10| B | B : G
+	Free: 
+	Constrained: 
+Turn ID=11| B | B : dit zijn die verrekijker met die blok en dan dat vlak ervoor
+	Free: Pattern=dat, Pattern=met, Pattern=dit zijn, Pattern=verrekijker, Pattern=en
+	Constrained: Pattern=zijn
+Turn ID=12| A | A : wachten even ja twee verrekijker
+	Free: Pattern=twee verrekijker, Pattern=ja
+	Constrained: Pattern=twee, Pattern=verrekijker
+Turn ID=13| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=14| A | A : ja negen
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=15| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=16| A | A : dit zijn degeen met de twee verrekijker en de antenne
+	Free: Pattern=twee verrekijker, Pattern=de, Pattern=met, Pattern=en, Pattern=dit zijn
+	Constrained: Pattern=twee, Pattern=verrekijker, Pattern=zijn
+Turn ID=17| B | B : d
+	Free: 
+	Constrained: 
+Turn ID=18| B | B : dit zijn die met dat vlak aan de voorkant en twee verrekijker
+	Free: Pattern=de, Pattern=met, Pattern=en, Pattern=dit zijn, Pattern=dat, Pattern=twee verrekijker
+	Constrained: Pattern=twee, Pattern=verrekijker, Pattern=zijn
+Turn ID=19| A | A : ja één
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=20| A | A : dit zijn degeen met de twee verrekijker
+	Free: Pattern=dit zijn, Pattern=twee verrekijker, Pattern=de, Pattern=met
+	Constrained: Pattern=twee, Pattern=verrekijker, Pattern=zijn
+Turn ID=21| B | B : ja B
+	Free: Pattern=ja
+	Constrained: 

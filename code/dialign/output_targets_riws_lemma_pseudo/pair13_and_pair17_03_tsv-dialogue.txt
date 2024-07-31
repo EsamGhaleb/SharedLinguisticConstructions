@@ -1,0 +1,119 @@
+B|0| B: _die_ mij zien _er_ _soort_ van uit _als_ _een_ _wijnglas_ 
+B|1| B: _met_ erop _of_ erin 
+B|2| B: gespiraald stang eronder 
+B|3| B: _het_ _zijn_ _een driehoek_ _met een_ spiraal _en dan_ daarboven _de_ emmer 
+B|4| B: d 
+A|5| A: zitten _zijn het_ alsof [het] beker laten maar zeggen in [een] houder worden zetten 
+A|6| A: laten maar zeggen [een] [soort] vierkantachtig houdertje waarin je [het] in zullen bijzetten laten maar zeggen 
+A|7| A: [en dan] uitsteken [er] twee streepjes daar bovenuit 
+A|8| A: okee 
+A|9| A: ah okee 
+A|10| A: okee [en] dat plateau dat zitten zeggen maar in [de] beker laten maar zeggen 
+A|11| A: [of] wat bedoelen je [met] plateau precies 
+A|12| A: okee 
+A|13| A: [en dan] zitten [er] aan [de] bovenkant [een] [soort] vierkant rechts 
+A|14| A: [en dan] 
+A|15| A: dus alsof [het] dus [een] [soort] stroompje [zijn] [en dan] eindigen in [een] [soort] driehoekje 
+A|16| A: dus [de] [wijnglas] laten maar zeggen [als] je hem neer zullen voortzetten bekendstaan hij op [een driehoek] 
+A|17| A: okee [dan] _zijn het_ nummer tien 
+B|18| B: _dit [zijn_ het] [wijnglas] 
+B|19| B: à 
+B|20| B: _dit [zijn_ het] [wijnglas] 
+A|21| A: ja [dit zijn] laat maar zeggen weer [die] [wijnglas] 
+B|22| B: g 
+A|23| A: dus laten maar zeggen [met een] staafje aan [de] onderkant [met een] driehoekje 
+A|24| A: [en] [die] drie blok boven 
+A|25| A: dat [zijn] nummer twaalf 
+A|26| A: [de] [wijnglas] 
+A|27| A: ja dat [zijn] even kijken nummer zes 
+A|28| A: [wijnglas] 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : die mij zien er soort van uit als een wijnglas
+	Free: Pattern=soort, Pattern=wijnglas, Pattern=een, Pattern=als, Pattern=die, Pattern=er
+	Constrained: 
+Turn ID=1| B | B : met erop of erin
+	Free: Pattern=met, Pattern=of
+	Constrained: 
+Turn ID=2| B | B : gespiraald stang eronder
+	Free: 
+	Constrained: 
+Turn ID=3| B | B : het zijn een driehoek met een spiraal en dan daarboven de emmer
+	Free: Pattern=de, Pattern=en dan, Pattern=het, Pattern=met een, Pattern=zijn, Pattern=een driehoek
+	Constrained: Pattern=dan, Pattern=een, Pattern=met, Pattern=en
+Turn ID=4| B | B : d
+	Free: 
+	Constrained: 
+Turn ID=5| A | A : zitten zijn het alsof het beker laten maar zeggen in een houder worden zetten
+	Free: Pattern=zijn het, Pattern=een, Pattern=het
+	Constrained: Pattern=zijn, Pattern=het
+Turn ID=6| A | A : laten maar zeggen een soort vierkantachtig houdertje waarin je het in zullen bijzetten laten maar zeggen
+	Free: Pattern=een, Pattern=soort, Pattern=het
+	Constrained: 
+Turn ID=7| A | A : en dan uitsteken er twee streepjes daar bovenuit
+	Free: Pattern=en dan, Pattern=er
+	Constrained: Pattern=en, Pattern=dan
+Turn ID=8| A | A : okee
+	Free: 
+	Constrained: 
+Turn ID=9| A | A : ah okee
+	Free: 
+	Constrained: 
+Turn ID=10| A | A : okee en dat plateau dat zitten zeggen maar in de beker laten maar zeggen
+	Free: Pattern=en, Pattern=de
+	Constrained: 
+Turn ID=11| A | A : of wat bedoelen je met plateau precies
+	Free: Pattern=met, Pattern=of
+	Constrained: 
+Turn ID=12| A | A : okee
+	Free: 
+	Constrained: 
+Turn ID=13| A | A : en dan zitten er aan de bovenkant een soort vierkant rechts
+	Free: Pattern=soort, Pattern=de, Pattern=en dan, Pattern=een, Pattern=er
+	Constrained: Pattern=en, Pattern=dan
+Turn ID=14| A | A : en dan
+	Free: Pattern=en dan
+	Constrained: Pattern=en, Pattern=dan
+Turn ID=15| A | A : dus alsof het dus een soort stroompje zijn en dan eindigen in een soort driehoekje
+	Free: Pattern=soort, Pattern=en dan, Pattern=een, Pattern=het, Pattern=zijn
+	Constrained: Pattern=en, Pattern=dan
+Turn ID=16| A | A : dus de wijnglas laten maar zeggen als je hem neer zullen voortzetten bekendstaan hij op een driehoek
+	Free: Pattern=een driehoek, Pattern=als, Pattern=wijnglas, Pattern=de
+	Constrained: Pattern=een
+Turn ID=17| A | A : okee dan zijn het nummer tien
+	Free: Pattern=zijn het, Pattern=dan
+	Constrained: Pattern=zijn, Pattern=het
+Turn ID=18| B | B : dit zijn het wijnglas
+	Free: Pattern=zijn het, Pattern=dit zijn, Pattern=wijnglas
+	Constrained: Pattern=zijn, Pattern=het
+Turn ID=19| B | B : à
+	Free: 
+	Constrained: 
+Turn ID=20| B | B : dit zijn het wijnglas
+	Free: Pattern=zijn het, Pattern=dit zijn, Pattern=wijnglas
+	Constrained: Pattern=zijn, Pattern=het
+Turn ID=21| A | A : ja dit zijn laat maar zeggen weer die wijnglas
+	Free: Pattern=dit zijn, Pattern=wijnglas, Pattern=die
+	Constrained: Pattern=zijn
+Turn ID=22| B | B : g
+	Free: 
+	Constrained: 
+Turn ID=23| A | A : dus laten maar zeggen met een staafje aan de onderkant met een driehoekje
+	Free: Pattern=met een, Pattern=de
+	Constrained: Pattern=een, Pattern=met
+Turn ID=24| A | A : en die drie blok boven
+	Free: Pattern=en, Pattern=die
+	Constrained: 
+Turn ID=25| A | A : dat zijn nummer twaalf
+	Free: Pattern=zijn
+	Constrained: 
+Turn ID=26| A | A : de wijnglas
+	Free: Pattern=wijnglas, Pattern=de
+	Constrained: 
+Turn ID=27| A | A : ja dat zijn even kijken nummer zes
+	Free: Pattern=zijn
+	Constrained: 
+Turn ID=28| A | A : wijnglas
+	Free: Pattern=wijnglas
+	Constrained: 

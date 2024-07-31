@@ -1,0 +1,107 @@
+B|0| B: _ja_ ik denken _dat_ ik hem _hebben_ _en aan de_ linkerkant _zitten een_ punt erin 
+B|1| B: _ja_ 
+B|2| B: oké 
+B|3| B: letter J 
+A|4| A: deze _hebben een_ _driehoek_ bovenop [een] beetje naar [de] achterkant 
+A|5| A: helemaal voorop [hebben] _die_ [ja] wat _zijn_ _het_ ? _soort_ trapezium maar niet helemaal recht 
+A|6| A: [en aan de] onderkant [zitten een] cirkel [ja] _die_ 
+A|7| A: ook nog iets [ja] 
+B|8| B: [het] [zijn] [een] bak 
+B|9| B: hij krijgen [een] kogel 
+B|10| B: [en] hij [hebben een] punt op [zijn] hoofd [een] best wel scherp [soort] van piramide 
+B|11| B: [en] [het] bak lijken hol 
+B|12| B: link krijgen [die] dus [een] kogel echt [een] pijl 
+B|13| B: [een] best wel intens 
+A|14| A: [ja] checkgen [dat] [zijn] zes voor mij 
+B|15| B: [ja] 
+B|16| B: letter E 
+A|17| A: dit [zijn] [die] _met de driehoek_ [een] beetje boven [aan de] achterkant [en] [de] telescoop links 
+B|18| B: hij worden raken door [een] kogel [en] er komen [een] piramide uit [zijn] hoofd 
+A|19| A: yes [dat] [zijn] tien voor mij 
+A|20| A: dit [zijn] [die] _met de driehoek_ bovenop [en] [de] telescoop links 
+B|21| B: [de] kogel 
+B|22| B: ik moeten hem even zoeken G [met de driehoek] erbovenop 
+B|23| B: letter G 
+A|24| A: [die] [zijn] [ja] [dat] [zijn] nummer tien voor mij 
+B|25| B: hij krijgen [een] kogel [en] hij [hebben een] hoed op [dat] op [een] piramide lijken 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : ja ik denken dat ik hem hebben en aan de linkerkant zitten een punt erin
+	Free: Pattern=dat, Pattern=ja, Pattern=hebben, Pattern=zitten een, Pattern=en aan de
+	Constrained: Pattern=aan de, Pattern=een, Pattern=en, Pattern=de
+Turn ID=1| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=2| B | B : oké
+	Free: 
+	Constrained: 
+Turn ID=3| B | B : letter J
+	Free: 
+	Constrained: 
+Turn ID=4| A | A : deze hebben een driehoek bovenop een beetje naar de achterkant
+	Free: Pattern=hebben een, Pattern=driehoek, Pattern=een, Pattern=de
+	Constrained: Pattern=hebben, Pattern=een
+Turn ID=5| A | A : helemaal voorop hebben die ja wat zijn het ? soort trapezium maar niet helemaal recht
+	Free: Pattern=soort, Pattern=ja, Pattern=het, Pattern=hebben, Pattern=die, Pattern=zijn
+	Constrained: 
+Turn ID=6| A | A : en aan de onderkant zitten een cirkel ja die
+	Free: Pattern=en aan de, Pattern=zitten een, Pattern=die, Pattern=ja
+	Constrained: Pattern=aan de, Pattern=een, Pattern=en, Pattern=de
+Turn ID=7| A | A : ook nog iets ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=8| B | B : het zijn een bak
+	Free: Pattern=zijn, Pattern=het, Pattern=een
+	Constrained: 
+Turn ID=9| B | B : hij krijgen een kogel
+	Free: Pattern=een
+	Constrained: 
+Turn ID=10| B | B : en hij hebben een punt op zijn hoofd een best wel scherp soort van piramide
+	Free: Pattern=soort, Pattern=hebben een, Pattern=een, Pattern=en, Pattern=zijn
+	Constrained: Pattern=hebben, Pattern=een
+Turn ID=11| B | B : en het bak lijken hol
+	Free: Pattern=het, Pattern=en
+	Constrained: 
+Turn ID=12| B | B : link krijgen die dus een kogel echt een pijl
+	Free: Pattern=die, Pattern=een
+	Constrained: 
+Turn ID=13| B | B : een best wel intens
+	Free: Pattern=een
+	Constrained: 
+Turn ID=14| A | A : ja checkgen dat zijn zes voor mij
+	Free: Pattern=dat, Pattern=zijn, Pattern=ja
+	Constrained: 
+Turn ID=15| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=16| B | B : letter E
+	Free: 
+	Constrained: 
+Turn ID=17| A | A : dit zijn die met de driehoek een beetje boven aan de achterkant en de telescoop links
+	Free: Pattern=de, Pattern=aan de, Pattern=een, Pattern=met de driehoek, Pattern=die, Pattern=en, Pattern=zijn
+	Constrained: Pattern=driehoek, Pattern=de
+Turn ID=18| B | B : hij worden raken door een kogel en er komen een piramide uit zijn hoofd
+	Free: Pattern=zijn, Pattern=een, Pattern=en
+	Constrained: 
+Turn ID=19| A | A : yes dat zijn tien voor mij
+	Free: Pattern=dat, Pattern=zijn
+	Constrained: 
+Turn ID=20| A | A : dit zijn die met de driehoek bovenop en de telescoop links
+	Free: Pattern=de, Pattern=met de driehoek, Pattern=die, Pattern=en, Pattern=zijn
+	Constrained: Pattern=driehoek, Pattern=de
+Turn ID=21| B | B : de kogel
+	Free: Pattern=de
+	Constrained: 
+Turn ID=22| B | B : ik moeten hem even zoeken G met de driehoek erbovenop
+	Free: Pattern=met de driehoek
+	Constrained: Pattern=driehoek, Pattern=de
+Turn ID=23| B | B : letter G
+	Free: 
+	Constrained: 
+Turn ID=24| A | A : die zijn ja dat zijn nummer tien voor mij
+	Free: Pattern=dat, Pattern=zijn, Pattern=die, Pattern=ja
+	Constrained: 
+Turn ID=25| B | B : hij krijgen een kogel en hij hebben een hoed op dat op een piramide lijken
+	Free: Pattern=hebben een, Pattern=dat, Pattern=een, Pattern=en
+	Constrained: Pattern=hebben, Pattern=een

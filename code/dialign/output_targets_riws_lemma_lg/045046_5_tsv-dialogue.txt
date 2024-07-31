@@ -1,0 +1,147 @@
+B|0| B: ha _ja_ _dit _zijn_ een_ _ding_ _met_ _twee_ _soort van_ _kegel aan de zijkant_ 
+B|1| B: _en_ _een_ langwerpig blok _bovenop_ _en_ _een soort van_ _paaltje dat_ eruit steken 
+A|2| A: _even_ kijken [twee] [kegel aan de zijkant] 
+A|3| A: [paaltje dat] Erboven uitsteekt 
+B|4| B: _ja_ _een soort van_ [aan de] voorkant zitten _een_ _ding_ _met_ _een soort van_ 
+A|5| A: [ja] zo'n [soort van] antenne [zijn] _het_ 
+A|6| A: [en] _die_ [twee] [ding] [aan de zijkant] [zijn [een] soort] vierkant _die_ telkens klein worden 
+B|7| B: [ja] 
+B|8| B: nee 
+B|9| B: _dat zijn_ niet degeen [die] _ik_ bedoelen 
+A|10| A: _oké_ 
+B|11| B: [oké] nee [het] [paaltje] [oké] 
+B|12| B: zeggen _maar_ _je_ hebben _zo het_ _kop_ [en] [aan de zijkant] zitten [soort van] [kegel] _zo_ 
+B|13| B: daarbovenop liggen [een] [een] langwerpig blok 
+A|14| A: [ja] 
+B|15| B: [en] [aan de] voorkant steken [een] driehoek uit _waar_ _een soort van_ [paaltje] _op_ staat 
+A|16| A: [ja] [ja] [ja] [ik] _vinden_ [het] [op] [een soort van] ruimteschip lijken of [zo het] [zijn] in ieder geval [dat] [kop] [met] dan [een soort van] gebouwtje Erboven als [je] [het] [ja] 
+B|17| B: [ja] precies 
+B|18| B: [ja] [die] 
+A|19| A: [dat zijn] acht 
+A|20| A: [dit zijn] [ja] [ik] _vinden_ [het] [een soort van] spaceschip [maar] [dat zijn] [dat] komme [met] dus _dat soort_ gebouw [aan de] bovenkant [en] [twee] [van] [die] vleugel [aan de zijkant] 
+B|21| B: [met] [ja] precies 
+B|22| B: E 
+B|23| B: [dit zijn] weer [die] vag _met [dat_ [soort] van] huis _bovenop_ [en] wat jij [een] _spaceship_ [vinden] 
+A|24| A: [ja] [ja] [ja] [ja] [oké] [ja] eens _even_ kijken _waar die_ in principe uithangen [ja] [dat zijn] één 
+A|25| A: [dit zijn] [die] [met dat] gebouw [bovenop] 
+A|26| A: veel mijn [spaceship] 
+B|27| B: [ja] 
+B|28| B: [even] zoeken [waar die] [zijn] 
+B|29| B: E 
+B|30| B: [dit zijn] weer [het] [spaceship] 
+A|31| A: yes yes yes yes [oké] 
+A|32| A: [dat zijn] zestien 
+A|33| A: [dit zijn] mijn spaceshuttle 
+A|34| A: [met] 
+B|35| B: [ja] O 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : ha ja dit zijn een ding met twee soort van kegel aan de zijkant
+	Free: Pattern=twee, Pattern=ja, Pattern=zijn een, Pattern=ding, Pattern=kegel aan de zijkant, Pattern=met, Pattern=soort van, Pattern=dit zijn
+	Constrained: Pattern=kegel, Pattern=aan de, Pattern=van, Pattern=zijn, Pattern=een, Pattern=aan de zijkant
+Turn ID=1| B | B : en een langwerpig blok bovenop en een soort van paaltje dat eruit steken
+	Free: Pattern=bovenop, Pattern=paaltje dat, Pattern=een, Pattern=een soort van, Pattern=en
+	Constrained: Pattern=dat, Pattern=paaltje, Pattern=een, Pattern=een soort, Pattern=van, Pattern=soort van
+Turn ID=2| A | A : even kijken twee kegel aan de zijkant
+	Free: Pattern=kegel aan de zijkant, Pattern=twee, Pattern=even
+	Constrained: Pattern=aan de zijkant, Pattern=aan de, Pattern=kegel
+Turn ID=3| A | A : paaltje dat Erboven uitsteekt
+	Free: Pattern=paaltje dat
+	Constrained: Pattern=paaltje, Pattern=dat
+Turn ID=4| B | B : ja een soort van aan de voorkant zitten een ding met een soort van
+	Free: Pattern=ja, Pattern=aan de, Pattern=ding, Pattern=een, Pattern=een soort van, Pattern=met
+	Constrained: Pattern=een soort, Pattern=een, Pattern=soort van, Pattern=van
+Turn ID=5| A | A : ja zo'n soort van antenne zijn het
+	Free: Pattern=soort van, Pattern=het, Pattern=zijn, Pattern=ja
+	Constrained: Pattern=van
+Turn ID=6| A | A : en die twee ding aan de zijkant zijn een soort vierkant die telkens klein worden
+	Free: Pattern=twee, Pattern=zijn een, Pattern=ding, Pattern=aan de zijkant, Pattern=die, Pattern=een soort, Pattern=en
+	Constrained: Pattern=een, Pattern=zijn, Pattern=aan de
+Turn ID=7| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=8| B | B : nee
+	Free: 
+	Constrained: 
+Turn ID=9| B | B : dat zijn niet degeen die ik bedoelen
+	Free: Pattern=dat zijn, Pattern=ik, Pattern=die
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=10| A | A : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=11| B | B : oké nee het paaltje oké
+	Free: Pattern=paaltje, Pattern=oké, Pattern=het
+	Constrained: 
+Turn ID=12| B | B : zeggen maar je hebben zo het kop en aan de zijkant zitten soort van kegel zo
+	Free: Pattern=kegel, Pattern=aan de zijkant, Pattern=zo het, Pattern=en, Pattern=je, Pattern=kop, Pattern=zo, Pattern=soort van, Pattern=maar
+	Constrained: Pattern=het, Pattern=aan de, Pattern=van, Pattern=zo
+Turn ID=13| B | B : daarbovenop liggen een een langwerpig blok
+	Free: Pattern=een
+	Constrained: 
+Turn ID=14| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=15| B | B : en aan de voorkant steken een driehoek uit waar een soort van paaltje op staat
+	Free: Pattern=waar, Pattern=een, Pattern=een soort van, Pattern=en, Pattern=op, Pattern=paaltje, Pattern=aan de
+	Constrained: Pattern=een soort, Pattern=een, Pattern=soort van, Pattern=van
+Turn ID=16| A | A : ja ja ja ik vinden het op een soort van ruimteschip lijken of zo het zijn in ieder geval dat kop met dan een soort van gebouwtje Erboven als je het ja
+	Free: Pattern=dat, Pattern=op, Pattern=het, Pattern=zo het, Pattern=kop, Pattern=een soort van, Pattern=met, Pattern=ik, Pattern=zijn, Pattern=je, Pattern=vinden, Pattern=ja
+	Constrained: Pattern=een, Pattern=het, Pattern=zo, Pattern=een soort, Pattern=van, Pattern=soort van
+Turn ID=17| B | B : ja precies
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=18| B | B : ja die
+	Free: Pattern=ja, Pattern=die
+	Constrained: 
+Turn ID=19| A | A : dat zijn acht
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=20| A | A : dit zijn ja ik vinden het een soort van spaceschip maar dat zijn dat komme met dus dat soort gebouw aan de bovenkant en twee van die vleugel aan de zijkant
+	Free: Pattern=twee, Pattern=aan de, Pattern=aan de zijkant, Pattern=het, Pattern=dat soort, Pattern=een soort van, Pattern=met, Pattern=die, Pattern=ik, Pattern=maar, Pattern=dit zijn, Pattern=dat, Pattern=dat zijn, Pattern=vinden, Pattern=ja, Pattern=van, Pattern=en
+	Constrained: Pattern=dat, Pattern=aan de, Pattern=een, Pattern=een soort, Pattern=van, Pattern=soort van, Pattern=zijn
+Turn ID=21| B | B : met ja precies
+	Free: Pattern=ja, Pattern=met
+	Constrained: 
+Turn ID=22| B | B : E
+	Free: 
+	Constrained: 
+Turn ID=23| B | B : dit zijn weer die vag met dat soort van huis bovenop en wat jij een spaceship vinden
+	Free: Pattern=bovenop, Pattern=vinden, Pattern=een, Pattern=spaceship, Pattern=dat soort, Pattern=met dat, Pattern=die, Pattern=en, Pattern=soort van, Pattern=dit zijn
+	Constrained: Pattern=dat, Pattern=zijn, Pattern=met, Pattern=van
+Turn ID=24| A | A : ja ja ja ja oké ja eens even kijken waar die in principe uithangen ja dat zijn één
+	Free: Pattern=dat zijn, Pattern=ja, Pattern=oké, Pattern=waar die, Pattern=even
+	Constrained: Pattern=dat, Pattern=zijn, Pattern=waar, Pattern=die
+Turn ID=25| A | A : dit zijn die met dat gebouw bovenop
+	Free: Pattern=met dat, Pattern=dit zijn, Pattern=bovenop, Pattern=die
+	Constrained: Pattern=dat, Pattern=zijn, Pattern=met
+Turn ID=26| A | A : veel mijn spaceship
+	Free: Pattern=spaceship
+	Constrained: 
+Turn ID=27| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=28| B | B : even zoeken waar die zijn
+	Free: Pattern=waar die, Pattern=even, Pattern=zijn
+	Constrained: Pattern=waar, Pattern=die
+Turn ID=29| B | B : E
+	Free: 
+	Constrained: 
+Turn ID=30| B | B : dit zijn weer het spaceship
+	Free: Pattern=dit zijn, Pattern=het, Pattern=spaceship
+	Constrained: Pattern=zijn
+Turn ID=31| A | A : yes yes yes yes oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=32| A | A : dat zijn zestien
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=33| A | A : dit zijn mijn spaceshuttle
+	Free: Pattern=dit zijn
+	Constrained: Pattern=zijn
+Turn ID=34| A | A : met
+	Free: Pattern=met
+	Constrained: 
+Turn ID=35| B | B : ja O
+	Free: Pattern=ja
+	Constrained: 

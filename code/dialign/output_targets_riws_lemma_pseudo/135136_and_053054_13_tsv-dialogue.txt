@@ -1,0 +1,103 @@
+A|0| A: ik weten al welk _dat zijn_ 
+A|1| A: _dat zijn_ vijf 
+B|2| B: dit plaat _hebben_ drie bollet _aan_ allebei _de_ kant 
+B|3| B: _en_ een schijf _aan de_ voorkant _en_ een vierkant _aan de onderkant_ 
+B|4| B: ja 
+A|5| A: deze [hebben] _het_ plank [aan de onderkant] 
+A|6| A: _en die_ _dinget_ [aan de] 
+B|7| B: oké 
+B|8| B: ja 
+B|9| B: _met die_ zes dingetjes 
+B|10| B: oké 
+B|11| B: ja 
+B|12| B: _dat zijn bij mij_ J 
+A|13| A: _en die_ 
+A|14| A: [dat zijn bij mij] elf 
+A|15| A: [die] [met die] plank [aan de onderkant] 
+B|16| B: dit [zijn] [met die] drie [dinget] links [en] rechts [en] een schijf [aan de] voorkant [en] [het] plat [aan de onderkant] 
+A|17| A: [die] [met] [het] plank onderaan [dat zijn] negen 
+B|18| B: ja 
+B|19| B: ja 
+B|20| B: [dat zijn bij mij] P 
+A|21| A: [die] [met die] plank [aan de onderkant] 
+B|22| B: [met die] drie [dinget] links [en] rechts 
+B|23| B: [en die] schijf [aan de] voorkant 
+B|24| B: [dat zijn bij mij] L 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : ik weten al welk dat zijn
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn
+Turn ID=1| A | A : dat zijn vijf
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn
+Turn ID=2| B | B : dit plaat hebben drie bollet aan allebei de kant
+	Free: Pattern=hebben, Pattern=aan, Pattern=de
+	Constrained: 
+Turn ID=3| B | B : en een schijf aan de voorkant en een vierkant aan de onderkant
+	Free: Pattern=aan de onderkant, Pattern=aan de, Pattern=en
+	Constrained: Pattern=aan, Pattern=de, Pattern=aan de
+Turn ID=4| B | B : ja
+	Free: 
+	Constrained: 
+Turn ID=5| A | A : deze hebben het plank aan de onderkant
+	Free: Pattern=aan de onderkant, Pattern=hebben, Pattern=het
+	Constrained: Pattern=aan, Pattern=de, Pattern=aan de
+Turn ID=6| A | A : en die dinget aan de
+	Free: Pattern=en die, Pattern=aan de, Pattern=dinget
+	Constrained: Pattern=en, Pattern=aan, Pattern=die, Pattern=de
+Turn ID=7| B | B : oké
+	Free: 
+	Constrained: 
+Turn ID=8| B | B : ja
+	Free: 
+	Constrained: 
+Turn ID=9| B | B : met die zes dingetjes
+	Free: Pattern=met die
+	Constrained: Pattern=die, Pattern=met
+Turn ID=10| B | B : oké
+	Free: 
+	Constrained: 
+Turn ID=11| B | B : ja
+	Free: 
+	Constrained: 
+Turn ID=12| B | B : dat zijn bij mij J
+	Free: Pattern=dat zijn bij mij
+	Constrained: Pattern=zijn, Pattern=dat zijn
+Turn ID=13| A | A : en die
+	Free: Pattern=en die
+	Constrained: Pattern=en, Pattern=die
+Turn ID=14| A | A : dat zijn bij mij elf
+	Free: Pattern=dat zijn bij mij
+	Constrained: Pattern=zijn, Pattern=dat zijn
+Turn ID=15| A | A : die met die plank aan de onderkant
+	Free: Pattern=aan de onderkant, Pattern=met die, Pattern=die
+	Constrained: Pattern=aan de, Pattern=met, Pattern=die, Pattern=de, Pattern=aan
+Turn ID=16| B | B : dit zijn met die drie dinget links en rechts en een schijf aan de voorkant en het plat aan de onderkant
+	Free: Pattern=met die, Pattern=het, Pattern=aan de onderkant, Pattern=en, Pattern=zijn, Pattern=dinget, Pattern=aan de
+	Constrained: Pattern=aan de, Pattern=met, Pattern=die, Pattern=de, Pattern=aan
+Turn ID=17| A | A : die met het plank onderaan dat zijn negen
+	Free: Pattern=dat zijn, Pattern=het, Pattern=die, Pattern=met
+	Constrained: Pattern=zijn
+Turn ID=18| B | B : ja
+	Free: 
+	Constrained: 
+Turn ID=19| B | B : ja
+	Free: 
+	Constrained: 
+Turn ID=20| B | B : dat zijn bij mij P
+	Free: Pattern=dat zijn bij mij
+	Constrained: Pattern=zijn, Pattern=dat zijn
+Turn ID=21| A | A : die met die plank aan de onderkant
+	Free: Pattern=aan de onderkant, Pattern=met die, Pattern=die
+	Constrained: Pattern=aan de, Pattern=met, Pattern=die, Pattern=de, Pattern=aan
+Turn ID=22| B | B : met die drie dinget links en rechts
+	Free: Pattern=met die, Pattern=dinget, Pattern=en
+	Constrained: Pattern=die, Pattern=met
+Turn ID=23| B | B : en die schijf aan de voorkant
+	Free: Pattern=en die, Pattern=aan de
+	Constrained: Pattern=en, Pattern=aan, Pattern=die, Pattern=de
+Turn ID=24| B | B : dat zijn bij mij L
+	Free: Pattern=dat zijn bij mij
+	Constrained: Pattern=zijn, Pattern=dat zijn

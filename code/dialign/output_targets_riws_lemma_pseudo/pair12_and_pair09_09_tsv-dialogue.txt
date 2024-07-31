@@ -1,0 +1,151 @@
+B|0| B: okee _dit zijn_ het kop met _links een_ arm 
+A|1| A: _ja_ 
+B|2| B: _en_ _rechtsboven_ _zijn_ _een_ soort ovaal _zo_ op deze manier 
+A|3| A: wat Antenne half cirkel linksboven 
+B|4| B: _zo_ [ja] _zo_ 
+B|5| B: op deze vorm 
+B|6| B: _die_ zitten _rechtsboven_ 
+A|7| A: daar 
+A|8| A: [ja] vijf 
+B|9| B: maar _zijn_ wel langwerpig wel hoor omhoog maar 
+B|10| B: soort traantje maar dan uitgerken 
+B|11| B: uitgerken uitgereken traan _rechtsboven_ 
+B|12| B: _en_ _links een_ arm 
+B|13| B: [ja] linksachter _een_ plat rond 
+B|14| B: [ja] 
+B|15| B: [ja] [ja] _een_ _een_ verhogink 
+B|16| B: okee 
+B|17| B: okee 
+B|18| B: _en_ dan mogen moeten ik of jij moeten jij duwen toch 
+A|19| A: [ja] _hij_ hebben [een] uitsteeksel [links een] breed vlak onder [en] [die] half cirkel daarachter _en een_ voelspriet [rechtsboven] 
+A|20| A: dus voelsprieten [rechtsboven] half cirkel daarachter [en] zeshoekig handvat link 
+A|21| A: al twee 
+A|22| A: [zo] 
+A|23| A: [ja] zestien 
+B|24| B: [ja] 
+B|25| B: [ja] dat _zijn_ o 
+A|26| A: [dit zijn] _de_ voelspriet [rechtsboven] _en een_ half cirkel daarachter _en een_ zeshoekig handvat link 
+A|27| A: [ja] achten 
+B|28| B: deze [zijn] ook met [een] lepeltje [en] dan [een] plat rond aan [de] achterkant 
+B|29| B: [en] [links een] arm [die] rond [zijn] [en] [hij] staan op iets 
+B|30| B: [ja] 
+A|31| A: Antenne _rechts_ half cirkel daarachter [links] handvat 
+B|32| B: [ja] m 
+B|33| B: [dit zijn] met het lepel [rechts] [en een] plat rond linksachter [en een] arm [links] [en] [hij] staan op iets 
+B|34| B: [ja] 
+B|35| B: [ja] 
+B|36| B: dat [zijn] d 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : okee dit zijn het kop met links een arm
+	Free: Pattern=dit zijn, Pattern=links een
+	Constrained: Pattern=links, Pattern=zijn, Pattern=een
+Turn ID=1| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=2| B | B : en rechtsboven zijn een soort ovaal zo op deze manier
+	Free: Pattern=rechtsboven, Pattern=een, Pattern=zo, Pattern=en, Pattern=zijn
+	Constrained: 
+Turn ID=3| A | A : wat Antenne half cirkel linksboven
+	Free: 
+	Constrained: 
+Turn ID=4| B | B : zo ja zo
+	Free: Pattern=ja, Pattern=zo
+	Constrained: 
+Turn ID=5| B | B : op deze vorm
+	Free: 
+	Constrained: 
+Turn ID=6| B | B : die zitten rechtsboven
+	Free: Pattern=die, Pattern=rechtsboven
+	Constrained: 
+Turn ID=7| A | A : daar
+	Free: 
+	Constrained: 
+Turn ID=8| A | A : ja vijf
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=9| B | B : maar zijn wel langwerpig wel hoor omhoog maar
+	Free: Pattern=zijn
+	Constrained: 
+Turn ID=10| B | B : soort traantje maar dan uitgerken
+	Free: 
+	Constrained: 
+Turn ID=11| B | B : uitgerken uitgereken traan rechtsboven
+	Free: Pattern=rechtsboven
+	Constrained: 
+Turn ID=12| B | B : en links een arm
+	Free: Pattern=links een, Pattern=en
+	Constrained: Pattern=links, Pattern=een
+Turn ID=13| B | B : ja linksachter een plat rond
+	Free: Pattern=ja, Pattern=een
+	Constrained: 
+Turn ID=14| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=15| B | B : ja ja een een verhogink
+	Free: Pattern=ja, Pattern=een
+	Constrained: 
+Turn ID=16| B | B : okee
+	Free: 
+	Constrained: 
+Turn ID=17| B | B : okee
+	Free: 
+	Constrained: 
+Turn ID=18| B | B : en dan mogen moeten ik of jij moeten jij duwen toch
+	Free: Pattern=en
+	Constrained: 
+Turn ID=19| A | A : ja hij hebben een uitsteeksel links een breed vlak onder en die half cirkel daarachter en een voelspriet rechtsboven
+	Free: Pattern=links een, Pattern=ja, Pattern=rechtsboven, Pattern=een, Pattern=hij, Pattern=die, Pattern=en, Pattern=en een
+	Constrained: Pattern=en, Pattern=links, Pattern=een
+Turn ID=20| A | A : dus voelsprieten rechtsboven half cirkel daarachter en zeshoekig handvat link
+	Free: Pattern=en, Pattern=rechtsboven
+	Constrained: 
+Turn ID=21| A | A : al twee
+	Free: 
+	Constrained: 
+Turn ID=22| A | A : zo
+	Free: Pattern=zo
+	Constrained: 
+Turn ID=23| A | A : ja zestien
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=24| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=25| B | B : ja dat zijn o
+	Free: Pattern=zijn, Pattern=ja
+	Constrained: 
+Turn ID=26| A | A : dit zijn de voelspriet rechtsboven en een half cirkel daarachter en een zeshoekig handvat link
+	Free: Pattern=dit zijn, Pattern=en een, Pattern=de, Pattern=rechtsboven
+	Constrained: Pattern=en, Pattern=zijn, Pattern=een
+Turn ID=27| A | A : ja achten
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=28| B | B : deze zijn ook met een lepeltje en dan een plat rond aan de achterkant
+	Free: Pattern=en, Pattern=de, Pattern=zijn, Pattern=een
+	Constrained: 
+Turn ID=29| B | B : en links een arm die rond zijn en hij staan op iets
+	Free: Pattern=links een, Pattern=hij, Pattern=die, Pattern=en, Pattern=zijn
+	Constrained: Pattern=links, Pattern=een
+Turn ID=30| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=31| A | A : Antenne rechts half cirkel daarachter links handvat
+	Free: Pattern=links, Pattern=rechts
+	Constrained: 
+Turn ID=32| B | B : ja m
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=33| B | B : dit zijn met het lepel rechts en een plat rond linksachter en een arm links en hij staan op iets
+	Free: Pattern=rechts, Pattern=links, Pattern=hij, Pattern=en, Pattern=en een, Pattern=dit zijn
+	Constrained: Pattern=en, Pattern=zijn, Pattern=een
+Turn ID=34| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=35| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=36| B | B : dat zijn d
+	Free: Pattern=zijn
+	Constrained: 

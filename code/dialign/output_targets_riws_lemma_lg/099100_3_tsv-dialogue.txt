@@ -1,0 +1,91 @@
+B|0| B: _dit zijn_ er één _met_ _een_ _soort_ _lang_ _voetstuk_ onder _het_ pot 
+B|1| B: _met_ _een_ driehoek en _dan_ zo'n buisje en _dan_ nog 
+A|2| A: die _een beetje_ zo 
+B|3| B: _ja_ [een beetje] draaien kronkellen 
+A|4| A: [ja] 
+A|5| A: _oké_ [dan] weten ik welk [het] [zijn] 
+B|6| B: [ja] 
+A|7| A: nummer vier 
+A|8| A: [ja] [dit zijn] eigenlijk die hebben we ook al hebben weten je wel ? [met] die [lang] eigenlijk [soort] _wijnglas_ scheef _wijnglas_ als je [het] zo bekijken 
+B|9| B: _ja op dat voetstuk_ 
+A|10| A: [ja op dat voetstuk] 
+B|11| B: [ja] 
+B|12| B: [dan] [zijn] [het] A 
+B|13| B: [dit zijn] weer [met] [dat] _dat wijnglas_ 
+A|14| A: ah [ja] _dat zijn_ nummer tien 
+A|15| A: _dat _zijn_ dat wijnglas_ 
+B|16| B: [oké] 
+B|17| B: [dat zijn] L 
+B|18| B: _dit zijn dat wijnglas_ 
+A|19| A: [dat zijn] nummer vier 
+A|20| A: [dit zijn dat wijnglas] 
+B|21| B: [dat zijn] F 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : dit zijn er één met een soort lang voetstuk onder het pot
+	Free: Pattern=soort, Pattern=een, Pattern=het, Pattern=voetstuk, Pattern=met, Pattern=lang, Pattern=dit zijn
+	Constrained: Pattern=zijn
+Turn ID=1| B | B : met een driehoek en dan zo'n buisje en dan nog
+	Free: Pattern=met, Pattern=dan, Pattern=een
+	Constrained: 
+Turn ID=2| A | A : die een beetje zo
+	Free: Pattern=een beetje
+	Constrained: Pattern=een
+Turn ID=3| B | B : ja een beetje draaien kronkellen
+	Free: Pattern=een beetje, Pattern=ja
+	Constrained: Pattern=een
+Turn ID=4| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=5| A | A : oké dan weten ik welk het zijn
+	Free: Pattern=het, Pattern=zijn, Pattern=oké, Pattern=dan
+	Constrained: 
+Turn ID=6| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=7| A | A : nummer vier
+	Free: 
+	Constrained: 
+Turn ID=8| A | A : ja dit zijn eigenlijk die hebben we ook al hebben weten je wel ? met die lang eigenlijk soort wijnglas scheef wijnglas als je het zo bekijken
+	Free: Pattern=soort, Pattern=ja, Pattern=wijnglas, Pattern=het, Pattern=met, Pattern=lang, Pattern=dit zijn
+	Constrained: Pattern=zijn
+Turn ID=9| B | B : ja op dat voetstuk
+	Free: Pattern=ja op dat voetstuk
+	Constrained: Pattern=voetstuk, Pattern=dat, Pattern=ja
+Turn ID=10| A | A : ja op dat voetstuk
+	Free: Pattern=ja op dat voetstuk
+	Constrained: Pattern=voetstuk, Pattern=dat, Pattern=ja
+Turn ID=11| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=12| B | B : dan zijn het A
+	Free: Pattern=het, Pattern=zijn, Pattern=dan
+	Constrained: 
+Turn ID=13| B | B : dit zijn weer met dat dat wijnglas
+	Free: Pattern=dat wijnglas, Pattern=dit zijn, Pattern=met, Pattern=dat
+	Constrained: Pattern=zijn, Pattern=dat, Pattern=wijnglas
+Turn ID=14| A | A : ah ja dat zijn nummer tien
+	Free: Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=15| A | A : dat zijn dat wijnglas
+	Free: Pattern=zijn dat wijnglas, Pattern=dat zijn
+	Constrained: Pattern=dat wijnglas, Pattern=zijn, Pattern=dat, Pattern=wijnglas
+Turn ID=16| B | B : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=17| B | B : dat zijn L
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=18| B | B : dit zijn dat wijnglas
+	Free: Pattern=dit zijn dat wijnglas
+	Constrained: Pattern=dat, Pattern=wijnglas, Pattern=dat wijnglas, Pattern=zijn dat wijnglas, Pattern=zijn, Pattern=dit zijn
+Turn ID=19| A | A : dat zijn nummer vier
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=20| A | A : dit zijn dat wijnglas
+	Free: Pattern=dit zijn dat wijnglas
+	Constrained: Pattern=dat, Pattern=wijnglas, Pattern=dat wijnglas, Pattern=zijn dat wijnglas, Pattern=zijn, Pattern=dit zijn
+Turn ID=21| B | B : dat zijn F
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn, Pattern=dat

@@ -1,0 +1,115 @@
+B|0| B: het _zijn die_ _met_ _met_ zo'n _neus_ aan _de_ voorkant 
+B|1| B: _en dan_ zonder 
+B|2| B: _wat_ 
+B|3| B: _ja_ 
+B|4| B: _en dan_ _hebben_ _die _een_ soort van_ kegel op _zijn_ hoofd _en_ nog _een_ plank 
+B|5| B: _ja_ 
+A|6| A: [ja] 
+A|7| A: [ja] _één_ [zijn] veel [een soort van] fancy [en] [de] ander [zijn] veel [een] rechthoek of zo 
+A|8| A: [ja] 
+A|9| A: _ik_ [hebben] hem als dik [neus] 
+A|10| A: [ja] 
+A|11| A: [en dan] zitten komen er [een soort van] driehoek staaf uit [zijn] oor of zo 
+A|12| A: [ja] dat [zijn] bij mij veertien 
+B|13| B: waar [één] [van] [een] kegel [zijn] 
+B|14| B: [ja] N 
+A|15| A: bij mij [zijn] dit [die een] waarvan we [hebben] zeggen [die] heel dik [neus] _met _die_ twee_ [soort] alsof er _twee_ dinget in staan [een soort van] fancy ding [en dan] [met] dat driehoekig punt [wat] eruit komen 
+A|16| A: [ja] 
+B|17| B: het _zijn die_ [met die] neusachtig iets [en dan] [hebben] [die twee] uitsteeksel erbovenop _en één_ aan [de] zijkant 
+A|18| A: [ja] 
+A|19| A: nummer negen 
+B|20| B: [ja] G 
+B|21| B: het _zijn die_ [met die] _neus en die twee_ uitsteeksel op [zijn] hoofd 
+B|22| B: [ja] [ik] weten welk je bedoelen even 
+A|23| A: dit [zijn [die] een] [met die] groot [neus en die twee] [één] fancy lepeltje [en één] weinig fancy lepeltje [wat] erin steken 
+B|24| B: [ja] vinden 
+B|25| B: J 
+A|26| A: [ja] nummer vijf 
+A|27| A: dit [zijn [die] een] [met] [de] dik [neus en die twee] fancy lepel of [de] [een] fancy lepel [en] [de] ander 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : het zijn die met met zo'n neus aan de voorkant
+	Free: Pattern=zijn die, Pattern=neus, Pattern=de, Pattern=met
+	Constrained: Pattern=die, Pattern=zijn
+Turn ID=1| B | B : en dan zonder
+	Free: Pattern=en dan
+	Constrained: Pattern=en
+Turn ID=2| B | B : wat
+	Free: Pattern=wat
+	Constrained: 
+Turn ID=3| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=4| B | B : en dan hebben die een soort van kegel op zijn hoofd en nog een plank
+	Free: Pattern=en dan, Pattern=een, Pattern=hebben, Pattern=een soort van, Pattern=die een, Pattern=en, Pattern=zijn
+	Constrained: Pattern=soort, Pattern=een, Pattern=die, Pattern=van, Pattern=en
+Turn ID=5| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=6| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=7| A | A : ja één zijn veel een soort van fancy en de ander zijn veel een rechthoek of zo
+	Free: Pattern=een, Pattern=een soort van, Pattern=en, Pattern=zijn, Pattern=één, Pattern=de, Pattern=ja
+	Constrained: Pattern=soort, Pattern=van, Pattern=een
+Turn ID=8| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=9| A | A : ik hebben hem als dik neus
+	Free: Pattern=neus, Pattern=hebben, Pattern=ik
+	Constrained: 
+Turn ID=10| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=11| A | A : en dan zitten komen er een soort van driehoek staaf uit zijn oor of zo
+	Free: Pattern=een soort van, Pattern=en dan, Pattern=zijn
+	Constrained: Pattern=een, Pattern=en, Pattern=van, Pattern=soort
+Turn ID=12| A | A : ja dat zijn bij mij veertien
+	Free: Pattern=ja, Pattern=zijn
+	Constrained: 
+Turn ID=13| B | B : waar één van een kegel zijn
+	Free: Pattern=zijn, Pattern=van, Pattern=één, Pattern=een
+	Constrained: 
+Turn ID=14| B | B : ja N
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=15| A | A : bij mij zijn dit die een waarvan we hebben zeggen die heel dik neus met die twee soort alsof er twee dinget in staan een soort van fancy ding en dan met dat driehoekig punt wat eruit komen
+	Free: Pattern=met die, Pattern=soort, Pattern=twee, Pattern=en dan, Pattern=die twee, Pattern=hebben, Pattern=een soort van, Pattern=neus, Pattern=met, Pattern=die, Pattern=die een, Pattern=wat, Pattern=zijn
+	Constrained: Pattern=soort, Pattern=twee, Pattern=een, Pattern=met, Pattern=die, Pattern=van, Pattern=en
+Turn ID=16| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=17| B | B : het zijn die met die neusachtig iets en dan hebben die twee uitsteeksel erbovenop en één aan de zijkant
+	Free: Pattern=en één, Pattern=met die, Pattern=de, Pattern=en dan, Pattern=hebben, Pattern=zijn die, Pattern=die twee
+	Constrained: Pattern=twee, Pattern=met, Pattern=die, Pattern=en, Pattern=zijn, Pattern=één
+Turn ID=18| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=19| A | A : nummer negen
+	Free: 
+	Constrained: 
+Turn ID=20| B | B : ja G
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=21| B | B : het zijn die met die neus en die twee uitsteeksel op zijn hoofd
+	Free: Pattern=neus en die twee, Pattern=zijn die, Pattern=met die, Pattern=zijn
+	Constrained: Pattern=twee, Pattern=die twee, Pattern=neus, Pattern=met, Pattern=die, Pattern=en, Pattern=zijn
+Turn ID=22| B | B : ja ik weten welk je bedoelen even
+	Free: Pattern=ja, Pattern=ik
+	Constrained: 
+Turn ID=23| A | A : dit zijn die een met die groot neus en die twee één fancy lepeltje en één weinig fancy lepeltje wat erin steken
+	Free: Pattern=en één, Pattern=met die, Pattern=neus en die twee, Pattern=zijn die, Pattern=die een, Pattern=wat, Pattern=één
+	Constrained: Pattern=twee, Pattern=een, Pattern=die twee, Pattern=neus, Pattern=met, Pattern=die, Pattern=en, Pattern=zijn, Pattern=één
+Turn ID=24| B | B : ja vinden
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=25| B | B : J
+	Free: 
+	Constrained: 
+Turn ID=26| A | A : ja nummer vijf
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=27| A | A : dit zijn die een met de dik neus en die twee fancy lepel of de een fancy lepel en de ander
+	Free: Pattern=de, Pattern=neus en die twee, Pattern=een, Pattern=zijn die, Pattern=met, Pattern=die een, Pattern=en
+	Constrained: Pattern=twee, Pattern=een, Pattern=die twee, Pattern=neus, Pattern=die, Pattern=en, Pattern=zijn

@@ -1,0 +1,119 @@
+A|0| A: oké ik _hebben_ nu _die_ _een_ _met een_ soort van rechts _een_ soort van uitschuifschijf 
+A|1| A: _en_ links _zijn_ _een_ raar _vorm_ 
+A|2| A: waar _nog_ weer _een_ _ander_ soort van pilaar uit opsteken 
+B|3| B: _ja_ 
+A|4| A: hij _hebben_ best wel veel _uitsteeksel_ bovenop _hebben die_ niks 
+B|5| B: _ja_ 
+A|6| A: oké 
+B|7| B: _dat zijn_ L 
+B|8| B: deze [hebben _die] schijf_ horizontaal eruit steken aan de rechterkant 
+B|9| B: _en dan_ aan de linkerkant [nog] [een] gek [vorm] [met een] tuu eraan _die zo_ steeds bred worden aan het einde vierkant 
+A|10| A: [ja] 
+A|11| A: [dat zijn] nummer zeven 
+A|12| A: _dit zijn_ [die] [een] _met dat_ uitlopen _ding_ links _met dat_ vierkantje bovenop 
+A|13| A: [en] rechts [die] plat [schijf] [die zo] uitsteekt [en] links [nog] weer [ja] [die] raar [vorm] [die] [een] beetje indeukt zeggen maar 
+B|14| B: [ja] 
+B|15| B: [ja] 
+B|16| B: [dat zijn] bij mij C 
+B|17| B: deze [hebben die] gek [uitsteeksel] [met dat] vierkant [en] [die] ingedeuken [ding] 
+A|18| A: [ja] 
+B|19| B: of [die] dinge wat smal [zijn] _en dan_ breed worden [met een] vierkant eraan aan [dat] gek ingedeuken [ding] [en] _die schijf_ aan de [ander] kant 
+A|20| A: [ja] ik weten welk je bedoelen [ja] daar ik zien hem [ja] [dat zijn] nummer zeggen maar je bedoelen [die] [die] uitlopen [en dan] [dat] vierkantje bovenop [ja] 
+B|21| B: [ja] 
+A|22| A: nummer één [zijn] [dat] 
+A|23| A: ik [hebben] nu [die] [een] [met] rechts [die schijf] [die] uitsteken [en dan] links [dat] ingedeukken [ding] waar [die] tuut [nog] uit opsteken 
+B|24| B: [ja] 
+B|25| B: [dat zijn] bij mij A 
+B|26| B: [dit zijn] [met dat] [die] ingedeuken [ding] aan de linkerkant [met] de [schijf] aan de rechterkant [en] [dat] tuu of zoiets erbovenop 
+A|27| A: [ja] 
+A|28| A: [dat zijn] nummer dertien 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : oké ik hebben nu die een met een soort van rechts een soort van uitschuifschijf
+	Free: Pattern=met een, Pattern=hebben, Pattern=een, Pattern=die
+	Constrained: Pattern=een, Pattern=met
+Turn ID=1| A | A : en links zijn een raar vorm
+	Free: Pattern=en, Pattern=zijn, Pattern=vorm, Pattern=een
+	Constrained: 
+Turn ID=2| A | A : waar nog weer een ander soort van pilaar uit opsteken
+	Free: Pattern=ander, Pattern=nog, Pattern=een
+	Constrained: 
+Turn ID=3| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=4| A | A : hij hebben best wel veel uitsteeksel bovenop hebben die niks
+	Free: Pattern=hebben die, Pattern=hebben, Pattern=uitsteeksel
+	Constrained: Pattern=hebben, Pattern=die
+Turn ID=5| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=6| A | A : oké
+	Free: 
+	Constrained: 
+Turn ID=7| B | B : dat zijn L
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=8| B | B : deze hebben die schijf horizontaal eruit steken aan de rechterkant
+	Free: Pattern=hebben die, Pattern=die schijf
+	Constrained: Pattern=hebben, Pattern=die, Pattern=schijf
+Turn ID=9| B | B : en dan aan de linkerkant nog een gek vorm met een tuu eraan die zo steeds bred worden aan het einde vierkant
+	Free: Pattern=vorm, Pattern=nog, Pattern=en dan, Pattern=een, Pattern=met een, Pattern=die zo
+	Constrained: Pattern=een, Pattern=met, Pattern=die, Pattern=en
+Turn ID=10| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=11| A | A : dat zijn nummer zeven
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=12| A | A : dit zijn die een met dat uitlopen ding links met dat vierkantje bovenop
+	Free: Pattern=ding, Pattern=een, Pattern=met dat, Pattern=die, Pattern=dit zijn
+	Constrained: Pattern=dat, Pattern=zijn, Pattern=met
+Turn ID=13| A | A : en rechts die plat schijf die zo uitsteekt en links nog weer ja die raar vorm die een beetje indeukt zeggen maar
+	Free: Pattern=vorm, Pattern=nog, Pattern=ja, Pattern=een, Pattern=schijf, Pattern=die, Pattern=en, Pattern=die zo
+	Constrained: Pattern=die
+Turn ID=14| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=15| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=16| B | B : dat zijn bij mij C
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=17| B | B : deze hebben die gek uitsteeksel met dat vierkant en die ingedeuken ding
+	Free: Pattern=uitsteeksel, Pattern=ding, Pattern=met dat, Pattern=die, Pattern=en, Pattern=hebben die
+	Constrained: Pattern=hebben, Pattern=dat, Pattern=die, Pattern=met
+Turn ID=18| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=19| B | B : of die dinge wat smal zijn en dan breed worden met een vierkant eraan aan dat gek ingedeuken ding en die schijf aan de ander kant
+	Free: Pattern=en dan, Pattern=ding, Pattern=die, Pattern=met een, Pattern=ander, Pattern=en, Pattern=zijn, Pattern=dat, Pattern=die schijf
+	Constrained: Pattern=een, Pattern=schijf, Pattern=met, Pattern=die, Pattern=en
+Turn ID=20| A | A : ja ik weten welk je bedoelen ja daar ik zien hem ja dat zijn nummer zeggen maar je bedoelen die die uitlopen en dan dat vierkantje bovenop ja
+	Free: Pattern=ja, Pattern=en dan, Pattern=die, Pattern=dat, Pattern=dat zijn
+	Constrained: Pattern=en, Pattern=dat, Pattern=zijn
+Turn ID=21| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=22| A | A : nummer één zijn dat
+	Free: Pattern=dat, Pattern=zijn
+	Constrained: 
+Turn ID=23| A | A : ik hebben nu die een met rechts die schijf die uitsteken en dan links dat ingedeukken ding waar die tuut nog uit opsteken
+	Free: Pattern=nog, Pattern=en dan, Pattern=ding, Pattern=een, Pattern=hebben, Pattern=met, Pattern=die, Pattern=dat, Pattern=die schijf
+	Constrained: Pattern=en, Pattern=die, Pattern=schijf
+Turn ID=24| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=25| B | B : dat zijn bij mij A
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=26| B | B : dit zijn met dat die ingedeuken ding aan de linkerkant met de schijf aan de rechterkant en dat tuu of zoiets erbovenop
+	Free: Pattern=dat, Pattern=ding, Pattern=schijf, Pattern=met dat, Pattern=met, Pattern=die, Pattern=en, Pattern=dit zijn
+	Constrained: Pattern=dat, Pattern=zijn, Pattern=met
+Turn ID=27| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=28| A | A : dat zijn nummer dertien
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn

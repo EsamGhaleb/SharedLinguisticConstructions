@@ -1,0 +1,95 @@
+B|0| B: deze hebben zegmaar een spijker _bovenop_ _en_ een _vierkant_ vlak _aan de_ voorkant 
+B|1| B: _met_ _twee_ blokkentorent link 
+A|2| A: ja 
+A|3| A: ja die 
+A|4| A: ja 
+A|5| A: ja dat zijn [twee] 
+B|6| B: blokkentorent 
+B|7| B: G 
+B|8| B: hij hebben zegmaar een spijker _bovenop_ links [twee] blokkentorent _en_ een _vierkant_ scherm 
+A|9| A: dit zijn ja het kop [met] [bovenop] [de] [de] paddenstoel 
+A|10| A: [en] het vierkan [aan de] rechtervoorkant [en] die [twee] kubus die klein worden 
+B|11| B: D 
+A|12| A: ja 
+A|13| A: [en] dat plaa [en] die 
+A|14| A: ja 
+A|15| A: dat zijn negen 
+B|16| B: [twee] blokkentorent link spijker bovenaan _vierkant_ schermpje vooraan 
+A|17| A: ja dit zijn die [met] [de] paddenstoel 
+A|18| A: [en] [de] oog [en] het [vierkant] 
+B|19| B: B 
+A|20| A: Paddenstoel 
+A|21| A: ja dat zijn één 
+A|22| A: dit zijn die [met] [de] paddenstoel 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : deze hebben zegmaar een spijker bovenop en een vierkant vlak aan de voorkant
+	Free: Pattern=aan de, Pattern=bovenop, Pattern=vierkant, Pattern=en
+	Constrained: Pattern=de
+Turn ID=1| B | B : met twee blokkentorent link
+	Free: Pattern=met, Pattern=twee
+	Constrained: 
+Turn ID=2| A | A : ja
+	Free: 
+	Constrained: 
+Turn ID=3| A | A : ja die
+	Free: 
+	Constrained: 
+Turn ID=4| A | A : ja
+	Free: 
+	Constrained: 
+Turn ID=5| A | A : ja dat zijn twee
+	Free: Pattern=twee
+	Constrained: 
+Turn ID=6| B | B : blokkentorent
+	Free: 
+	Constrained: 
+Turn ID=7| B | B : G
+	Free: 
+	Constrained: 
+Turn ID=8| B | B : hij hebben zegmaar een spijker bovenop links twee blokkentorent en een vierkant scherm
+	Free: Pattern=twee, Pattern=bovenop, Pattern=vierkant, Pattern=en
+	Constrained: 
+Turn ID=9| A | A : dit zijn ja het kop met bovenop de de paddenstoel
+	Free: Pattern=met, Pattern=bovenop, Pattern=de
+	Constrained: 
+Turn ID=10| A | A : en het vierkan aan de rechtervoorkant en die twee kubus die klein worden
+	Free: Pattern=aan de, Pattern=twee, Pattern=en
+	Constrained: Pattern=de
+Turn ID=11| B | B : D
+	Free: 
+	Constrained: 
+Turn ID=12| A | A : ja
+	Free: 
+	Constrained: 
+Turn ID=13| A | A : en dat plaa en die
+	Free: Pattern=en
+	Constrained: 
+Turn ID=14| A | A : ja
+	Free: 
+	Constrained: 
+Turn ID=15| A | A : dat zijn negen
+	Free: 
+	Constrained: 
+Turn ID=16| B | B : twee blokkentorent link spijker bovenaan vierkant schermpje vooraan
+	Free: Pattern=twee, Pattern=vierkant
+	Constrained: 
+Turn ID=17| A | A : ja dit zijn die met de paddenstoel
+	Free: Pattern=met, Pattern=de
+	Constrained: 
+Turn ID=18| A | A : en de oog en het vierkant
+	Free: Pattern=vierkant, Pattern=en, Pattern=de
+	Constrained: 
+Turn ID=19| B | B : B
+	Free: 
+	Constrained: 
+Turn ID=20| A | A : Paddenstoel
+	Free: 
+	Constrained: 
+Turn ID=21| A | A : ja dat zijn één
+	Free: 
+	Constrained: 
+Turn ID=22| A | A : dit zijn die met de paddenstoel
+	Free: Pattern=met, Pattern=de
+	Constrained: 

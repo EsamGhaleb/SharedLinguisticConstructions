@@ -1,0 +1,175 @@
+A|0| A: ok 
+A|1| A: ok deze _hebben_ twee uitstekel _zo_ _een soort van_ _ja_ balk _en_ _dan_ zitten _er_ _aan_ allebei _de_ _kant_ _een_ _rond_ 
+A|2| A: _op_ _en aan de_ achterkant _hebben_ hij _zo'n_ _vierkant_ plateauding 
+A|3| A: _ja_ alles _met_ fantasie hier _maar_ _ja_ _ja ik_ _ik denken_ _het_ _wel_ _ja_ 
+A|4| A: bij mij tien 
+B|5| B: [met] [een soort van] spijker 
+B|6| B: [ik] noemen _dit_ 
+B|7| B: [ja ik] _zijn_ [het] _zeggen maar_ [een soort van] [een] [ja] [een] spijker wat in [zo'n] vormp worden slaan _of_ niet 
+B|8| B: [met] [een] ronde [rond] _plateau_ 
+B|9| B: nee [dan] [hebben] we [het] niet hetzelfde 
+B|10| B: [ja] 
+B|11| B: [ja] 
+B|12| B: [er] [er] _staan_ iets 
+B|13| B: [hebben] [het] ah wachten _even_ [ik denken] _dat_ [het] [de] ander _zijn_ 
+B|14| B: _zijn_ [het] [een] beetje stompe zijkant _zeggen maar_ [met] [een] bol 
+B|15| B: [ja] 
+B|16| B: [dan] weten [ik denken] [ik] [wel] [met] [een] [met] [een] [vierkant] vlak wat [er] [zo] [op] staat 
+B|17| B: [ja] 
+B|18| B: [ja] je noemen [het] [de] gieter toch net 
+B|19| B: [ja] [en aan de] ander [kant] eigenlijk [het] dubbel ervan anderhalf 
+B|20| B: [ja] 
+B|21| B: [een soort van] knop [op] [de] staaf 
+B|22| B: [ja] 
+B|23| B: nee [dan] [hebben] we [het] over K 
+A|24| A: [ja] 
+A|25| A: [ja] [aan de] achterkant [dat] gewoon [even] voor [de] zekerheid [dat] rechthoekig [of] [vierkant] [plateau] ding [met] nog [een] dinge [er] [aan] [ja] bij mij [zijn] [dat] negen 
+A|26| A: ok 
+A|27| A: ok _dit zijn_ _die_ honkballer 
+A|28| A: zeven 
+B|29| B: [dit _zijn] zeggen maar_ [met] [dat] afdak wat [ik] [de] gieter vinden [de] [de] statieven [met] [die] knop [aan de] zijkant 
+B|30| B: [ja] 
+A|31| A: [ja] 
+A|32| A: _ja dat_ [zijn] drie 
+B|33| B: [ik] weten welk je bedoelen 
+B|34| B: [ja dat] worden [dan] F 
+B|35| B: [dit zijn] [het] afdak 
+B|36| B: we [hebben] weer ander ronde hoelang ? duren zes ronde toch 
+A|37| A: [dit zijn] [de] honkballer 
+A|38| A: [ja] veertien 
+A|39| A: [even] zoeken waar [die] [staan] [ik] moeten [even] wennen als [het] opeens [een] nieuw scherm [zijn zeggen maar] 
+A|40| A: [ja] [ja ik] zien hem [zijn] vijf bij mij 
+B|41| B: [ja] [dan] gaan [het] om L 
+B|42| B: [dit] gaan om [het] afdak [met] [de] knop 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : ok
+	Free: 
+	Constrained: 
+Turn ID=1| A | A : ok deze hebben twee uitstekel zo een soort van ja balk en dan zitten er aan allebei de kant een rond
+	Free: Pattern=kant, Pattern=dan, Pattern=een, Pattern=hebben, Pattern=zo, Pattern=een soort van, Pattern=er, Pattern=en, Pattern=rond, Pattern=de, Pattern=aan, Pattern=ja
+	Constrained: Pattern=een
+Turn ID=2| A | A : op en aan de achterkant hebben hij zo'n vierkant plateauding
+	Free: Pattern=zo'n, Pattern=op, Pattern=hebben, Pattern=vierkant, Pattern=en aan de
+	Constrained: Pattern=aan de, Pattern=en, Pattern=aan, Pattern=de
+Turn ID=3| A | A : ja alles met fantasie hier maar ja ja ik ik denken het wel ja
+	Free: Pattern=ja, Pattern=wel, Pattern=het, Pattern=met, Pattern=ja ik, Pattern=ik denken, Pattern=maar
+	Constrained: Pattern=ja, Pattern=ik
+Turn ID=4| A | A : bij mij tien
+	Free: 
+	Constrained: 
+Turn ID=5| B | B : met een soort van spijker
+	Free: Pattern=een soort van, Pattern=met
+	Constrained: Pattern=een
+Turn ID=6| B | B : ik noemen dit
+	Free: Pattern=dit, Pattern=ik
+	Constrained: 
+Turn ID=7| B | B : ja ik zijn het zeggen maar een soort van een ja een spijker wat in zo'n vormp worden slaan of niet
+	Free: Pattern=of, Pattern=zo'n, Pattern=ja, Pattern=een, Pattern=zeggen maar, Pattern=het, Pattern=een soort van, Pattern=ja ik, Pattern=zijn
+	Constrained: Pattern=een, Pattern=ja, Pattern=ik, Pattern=maar
+Turn ID=8| B | B : met een ronde rond plateau
+	Free: Pattern=rond, Pattern=plateau, Pattern=een, Pattern=met
+	Constrained: 
+Turn ID=9| B | B : nee dan hebben we het niet hetzelfde
+	Free: Pattern=dan, Pattern=hebben, Pattern=het
+	Constrained: 
+Turn ID=10| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=11| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=12| B | B : er er staan iets
+	Free: Pattern=er, Pattern=staan
+	Constrained: 
+Turn ID=13| B | B : hebben het ah wachten even ik denken dat het de ander zijn
+	Free: Pattern=dat, Pattern=de, Pattern=even, Pattern=het, Pattern=hebben, Pattern=ik denken, Pattern=zijn
+	Constrained: Pattern=ik
+Turn ID=14| B | B : zijn het een beetje stompe zijkant zeggen maar met een bol
+	Free: Pattern=een, Pattern=zeggen maar, Pattern=het, Pattern=met, Pattern=zijn
+	Constrained: Pattern=maar
+Turn ID=15| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=16| B | B : dan weten ik denken ik wel met een met een vierkant vlak wat er zo op staat
+	Free: Pattern=op, Pattern=dan, Pattern=zo, Pattern=met, Pattern=er, Pattern=ik, Pattern=ik denken, Pattern=vierkant, Pattern=een, Pattern=wel
+	Constrained: Pattern=ik
+Turn ID=17| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=18| B | B : ja je noemen het de gieter toch net
+	Free: Pattern=ja, Pattern=het, Pattern=de
+	Constrained: 
+Turn ID=19| B | B : ja en aan de ander kant eigenlijk het dubbel ervan anderhalf
+	Free: Pattern=en aan de, Pattern=ja, Pattern=het, Pattern=kant
+	Constrained: Pattern=aan de, Pattern=en, Pattern=aan, Pattern=de
+Turn ID=20| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=21| B | B : een soort van knop op de staaf
+	Free: Pattern=een soort van, Pattern=op, Pattern=de
+	Constrained: Pattern=een
+Turn ID=22| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=23| B | B : nee dan hebben we het over K
+	Free: Pattern=dan, Pattern=hebben, Pattern=het
+	Constrained: 
+Turn ID=24| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=25| A | A : ja aan de achterkant dat gewoon even voor de zekerheid dat rechthoekig of vierkant plateau ding met nog een dinge er aan ja bij mij zijn dat negen
+	Free: Pattern=dat, Pattern=of, Pattern=een, Pattern=plateau, Pattern=met, Pattern=er, Pattern=zijn, Pattern=vierkant, Pattern=de, Pattern=aan, Pattern=ja, Pattern=aan de, Pattern=even
+	Constrained: Pattern=aan, Pattern=de
+Turn ID=26| A | A : ok
+	Free: 
+	Constrained: 
+Turn ID=27| A | A : ok dit zijn die honkballer
+	Free: Pattern=dit zijn, Pattern=die
+	Constrained: Pattern=dit, Pattern=zijn
+Turn ID=28| A | A : zeven
+	Free: 
+	Constrained: 
+Turn ID=29| B | B : dit zijn zeggen maar met dat afdak wat ik de gieter vinden de de statieven met die knop aan de zijkant
+	Free: Pattern=dat, Pattern=de, Pattern=aan de, Pattern=zijn zeggen maar, Pattern=met, Pattern=die, Pattern=ik, Pattern=dit zijn
+	Constrained: Pattern=zeggen maar, Pattern=dit, Pattern=de, Pattern=aan, Pattern=zijn, Pattern=maar
+Turn ID=30| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=31| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=32| A | A : ja dat zijn drie
+	Free: Pattern=ja dat, Pattern=zijn
+	Constrained: Pattern=dat, Pattern=ja
+Turn ID=33| B | B : ik weten welk je bedoelen
+	Free: Pattern=ik
+	Constrained: 
+Turn ID=34| B | B : ja dat worden dan F
+	Free: Pattern=ja dat, Pattern=dan
+	Constrained: Pattern=dat, Pattern=ja
+Turn ID=35| B | B : dit zijn het afdak
+	Free: Pattern=dit zijn, Pattern=het
+	Constrained: Pattern=dit, Pattern=zijn
+Turn ID=36| B | B : we hebben weer ander ronde hoelang ? duren zes ronde toch
+	Free: Pattern=hebben
+	Constrained: 
+Turn ID=37| A | A : dit zijn de honkballer
+	Free: Pattern=dit zijn, Pattern=de
+	Constrained: Pattern=dit, Pattern=zijn
+Turn ID=38| A | A : ja veertien
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=39| A | A : even zoeken waar die staan ik moeten even wennen als het opeens een nieuw scherm zijn zeggen maar
+	Free: Pattern=even, Pattern=zijn zeggen maar, Pattern=het, Pattern=die, Pattern=ik, Pattern=een, Pattern=staan
+	Constrained: Pattern=zeggen maar, Pattern=zijn, Pattern=maar
+Turn ID=40| A | A : ja ja ik zien hem zijn vijf bij mij
+	Free: Pattern=ja ik, Pattern=zijn, Pattern=ja
+	Constrained: Pattern=ja, Pattern=ik
+Turn ID=41| B | B : ja dan gaan het om L
+	Free: Pattern=dan, Pattern=ja, Pattern=het
+	Constrained: 
+Turn ID=42| B | B : dit gaan om het afdak met de knop
+	Free: Pattern=dit, Pattern=het, Pattern=de, Pattern=met
+	Constrained: 

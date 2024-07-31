@@ -1,0 +1,127 @@
+A|0| A: oké top 
+A|1| A: zes diamantjes 
+A|2| A: _aan_ beide kant 
+A|3| A: dus _drie_ _aan de_ _een_ kant _en_ _drie_ _aan de_ ander kant 
+A|4| A: oké dan _zijn_ nummer acht 
+B|5| B: deze [zijn] [een] soort van schotelt slash kop [aan de] voorkant 
+B|6| B: [en] [aan de] zijkant hebben _je_ hebben _je_ _ja_ [een] beetje diamantachtig uitsteeksel 
+B|7| B: _ja_ precies 
+B|8| B: _ja_ 
+A|9| A: _dit _zijn met_ die_ diaman _die_ jij toen zeggen weten [je] nog welk 
+A|10| A: [ja] 
+B|11| B: wachten [zijn] [een] soort van zo'n soort van schotel 
+B|12| B: [ja] [ja] [ja] [ja] dat [zijn] dat [zijn] j 
+A|13| A: oké nummer twaalf 
+A|14| A: [de] diaman 
+A|15| A: [ja] 
+B|16| B: deze [zijn met die] diamant of in ieder geval [die] [die] [die] [drie] dinget [aan de] zijkant 
+B|17| B: [en] dat schotelt [aan de] voorkant 
+A|18| A: nummer twee 
+B|19| B: [ja] 
+B|20| B: dat [zijn] m 
+A|21| A: [de] diaman 
+B|22| B: [dit zijn met] dat [met die] [die] [drie] dinget [die] uitsteken [aan de] [die] [drie] [ja] vormp [die] uitsteken [aan de] [en] linkerkant 
+B|23| B: [ja] 
+B|24| B: [ja] 
+B|25| B: [ja] 
+B|26| B: wachten wachten even 
+B|27| B: wachten [die] [drie] ding 
+B|28| B: okee 
+B|29| B: [ja] 
+B|30| B: dat [zijn] o 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : oké top
+	Free: 
+	Constrained: 
+Turn ID=1| A | A : zes diamantjes
+	Free: 
+	Constrained: 
+Turn ID=2| A | A : aan beide kant
+	Free: Pattern=aan
+	Constrained: 
+Turn ID=3| A | A : dus drie aan de een kant en drie aan de ander kant
+	Free: Pattern=aan de, Pattern=en, Pattern=een, Pattern=drie
+	Constrained: Pattern=aan, Pattern=de
+Turn ID=4| A | A : oké dan zijn nummer acht
+	Free: Pattern=zijn
+	Constrained: 
+Turn ID=5| B | B : deze zijn een soort van schotelt slash kop aan de voorkant
+	Free: Pattern=aan de, Pattern=een, Pattern=zijn
+	Constrained: Pattern=aan, Pattern=de
+Turn ID=6| B | B : en aan de zijkant hebben je hebben je ja een beetje diamantachtig uitsteeksel
+	Free: Pattern=ja, Pattern=aan de, Pattern=een, Pattern=en, Pattern=je
+	Constrained: Pattern=aan, Pattern=de
+Turn ID=7| B | B : ja precies
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=8| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=9| A | A : dit zijn met die diaman die jij toen zeggen weten je nog welk
+	Free: Pattern=zijn met die, Pattern=dit zijn met, Pattern=je, Pattern=die
+	Constrained: Pattern=zijn, Pattern=die, Pattern=met die
+Turn ID=10| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=11| B | B : wachten zijn een soort van zo'n soort van schotel
+	Free: Pattern=een, Pattern=zijn
+	Constrained: 
+Turn ID=12| B | B : ja ja ja ja dat zijn dat zijn j
+	Free: Pattern=ja, Pattern=zijn
+	Constrained: 
+Turn ID=13| A | A : oké nummer twaalf
+	Free: 
+	Constrained: 
+Turn ID=14| A | A : de diaman
+	Free: Pattern=de
+	Constrained: 
+Turn ID=15| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=16| B | B : deze zijn met die diamant of in ieder geval die die die drie dinget aan de zijkant
+	Free: Pattern=zijn met die, Pattern=aan de, Pattern=die, Pattern=drie
+	Constrained: Pattern=met die, Pattern=die, Pattern=zijn, Pattern=de, Pattern=aan
+Turn ID=17| B | B : en dat schotelt aan de voorkant
+	Free: Pattern=aan de, Pattern=en
+	Constrained: Pattern=aan, Pattern=de
+Turn ID=18| A | A : nummer twee
+	Free: 
+	Constrained: 
+Turn ID=19| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=20| B | B : dat zijn m
+	Free: Pattern=zijn
+	Constrained: 
+Turn ID=21| A | A : de diaman
+	Free: Pattern=de
+	Constrained: 
+Turn ID=22| B | B : dit zijn met dat met die die drie dinget die uitsteken aan de die drie ja vormp die uitsteken aan de en linkerkant
+	Free: Pattern=met die, Pattern=ja, Pattern=aan de, Pattern=dit zijn met, Pattern=drie, Pattern=die, Pattern=en
+	Constrained: Pattern=aan, Pattern=de, Pattern=zijn, Pattern=die
+Turn ID=23| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=24| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=25| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=26| B | B : wachten wachten even
+	Free: 
+	Constrained: 
+Turn ID=27| B | B : wachten die drie ding
+	Free: Pattern=die, Pattern=drie
+	Constrained: 
+Turn ID=28| B | B : okee
+	Free: 
+	Constrained: 
+Turn ID=29| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=30| B | B : dat zijn o
+	Free: Pattern=zijn
+	Constrained: 

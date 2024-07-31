@@ -1,0 +1,191 @@
+A|0| A: oké _ik_ noemen deze dumbbell _met_ _het_ _zijn_ _niet_ _het_ juist er zitten een staart onderaan 
+A|1| A: _die_ _gaan_ naar links _die die_ _gaan_ naar rechtsvoor _en_ _bovenop_ _hebben_ je een _ruit_ _met_ een staaf erdoorheen 
+B|2| B: _ja _ja_ met_ _twee_ _ja ja ja_ 
+B|3| B: _dat_ [zijn] _M_ bij mij 
+A|4| A: [M] 
+B|5| B: [en] bij jou 
+A|6| A: _drie_ 
+B|7| B: [ik] moeten [het] zeggen 
+A|8| A: [ja] 
+B|9| B: [drie] [M] 
+B|10| B: dit [zijn] _met die ruit_ [bovenop] [en] [die] waar [die die] doorboren [ruit] _door_ vierkant 
+A|11| A: [ja ja ja] 
+B|12| B: [ja] 
+A|13| A: negen 
+B|14| B: _I_ 
+A|15| A: [ja] 
+A|16| A: [I] negen 
+A|17| A: degeen [met] [met die ruit] achter in _het hoofd [met_ die] [twee] staf [die] eruit komen staart onderaan 
+B|18| B: sorry wachten even [ruit] [en] 
+A|19| A: [ruit] in _het hoofd_ gewoon recht achter in _het hoofd_ 
+B|20| B: [ja ja] [die die] gek [met die] _armpjes_ zo 
+A|21| A: _hebben_ geen armp 
+A|22| A: [ja met] _de_ _armpjes uit de ruit_ 
+B|23| B: wachten nee dan [hebben] [ik] even [niet] [de] goed [armpjes uit de ruit] 
+A|24| A: dus [ruit] helemaal bovenin 
+A|25| A: of gewoon [bovenop] 
+B|26| B: [die] [ja ja] H 
+B|27| B: bij jou 
+A|28| A: _zes_ 
+B|29| B: H [zes] 
+B|30| B: dit [zijn] [die] [met die _ruit] op het hoofd met_ waardoor [en] [die] 
+A|31| A: [met] _dat ding_ erdoor [met] _dat ding_ er ihten [ja] 
+B|32| B: [ja ja] precies 
+B|33| B: _F_ 
+A|34| A: [F] elf 
+A|35| A: [ruit op het hoofd [met] die] staaf [door] [de ruit] heen 
+B|36| B: [ja] 
+B|37| B: d 
+A|38| A: _acht_ 
+B|39| B: d [acht] 
+B|40| B: dit [zijn] [die] [met die ruit] boven [op] [zijn] [hoofd] waar [dat ding] doorheen [gaan] 
+B|41| B: [met die] 
+A|42| A: [ja] 
+B|43| B: [ja] 
+A|44| A: veertien 
+B|45| B: _G_ 
+A|46| A: [G] veertien 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : oké ik noemen deze dumbbell met het zijn niet het juist er zitten een staart onderaan
+	Free: Pattern=niet, Pattern=het, Pattern=met, Pattern=ik, Pattern=zijn
+	Constrained: 
+Turn ID=1| A | A : die gaan naar links die die gaan naar rechtsvoor en bovenop hebben je een ruit met een staaf erdoorheen
+	Free: Pattern=bovenop, Pattern=ruit, Pattern=hebben, Pattern=met, Pattern=die, Pattern=die die, Pattern=en, Pattern=gaan
+	Constrained: Pattern=die
+Turn ID=2| B | B : ja ja met twee ja ja ja
+	Free: Pattern=ja ja ja, Pattern=ja met, Pattern=ja ja, Pattern=twee
+	Constrained: Pattern=ja ja, Pattern=met, Pattern=ja
+Turn ID=3| B | B : dat zijn M bij mij
+	Free: Pattern=dat, Pattern=zijn, Pattern=M
+	Constrained: 
+Turn ID=4| A | A : M
+	Free: Pattern=M
+	Constrained: 
+Turn ID=5| B | B : en bij jou
+	Free: Pattern=en
+	Constrained: 
+Turn ID=6| A | A : drie
+	Free: Pattern=drie
+	Constrained: 
+Turn ID=7| B | B : ik moeten het zeggen
+	Free: Pattern=ik, Pattern=het
+	Constrained: 
+Turn ID=8| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=9| B | B : drie M
+	Free: Pattern=drie, Pattern=M
+	Constrained: 
+Turn ID=10| B | B : dit zijn met die ruit bovenop en die waar die die doorboren ruit door vierkant
+	Free: Pattern=bovenop, Pattern=ruit, Pattern=door, Pattern=die, Pattern=die die, Pattern=en, Pattern=zijn, Pattern=met die ruit
+	Constrained: Pattern=ruit, Pattern=met, Pattern=die, Pattern=met die
+Turn ID=11| A | A : ja ja ja
+	Free: Pattern=ja ja ja
+	Constrained: Pattern=ja ja, Pattern=ja
+Turn ID=12| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=13| A | A : negen
+	Free: 
+	Constrained: 
+Turn ID=14| B | B : I
+	Free: Pattern=I
+	Constrained: 
+Turn ID=15| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=16| A | A : I negen
+	Free: Pattern=I
+	Constrained: 
+Turn ID=17| A | A : degeen met met die ruit achter in het hoofd met die twee staf die eruit komen staart onderaan
+	Free: Pattern=met die, Pattern=twee, Pattern=met, Pattern=met die ruit, Pattern=die, Pattern=het hoofd met
+	Constrained: Pattern=met die, Pattern=het, Pattern=met, Pattern=die, Pattern=hoofd, Pattern=het hoofd, Pattern=ruit
+Turn ID=18| B | B : sorry wachten even ruit en
+	Free: Pattern=en, Pattern=ruit
+	Constrained: 
+Turn ID=19| A | A : ruit in het hoofd gewoon recht achter in het hoofd
+	Free: Pattern=het hoofd, Pattern=ruit
+	Constrained: Pattern=het, Pattern=hoofd
+Turn ID=20| B | B : ja ja die die gek met die armpjes zo
+	Free: Pattern=met die, Pattern=die die, Pattern=ja ja, Pattern=armpjes
+	Constrained: Pattern=die, Pattern=met, Pattern=ja
+Turn ID=21| A | A : hebben geen armp
+	Free: Pattern=hebben
+	Constrained: 
+Turn ID=22| A | A : ja met de armpjes uit de ruit
+	Free: Pattern=armpjes uit de ruit, Pattern=ja met, Pattern=de
+	Constrained: Pattern=ruit, Pattern=de ruit, Pattern=armpjes, Pattern=met, Pattern=de, Pattern=ja
+Turn ID=23| B | B : wachten nee dan hebben ik even niet de goed armpjes uit de ruit
+	Free: Pattern=de, Pattern=niet, Pattern=hebben, Pattern=armpjes uit de ruit, Pattern=ik
+	Constrained: Pattern=ruit, Pattern=armpjes, Pattern=de, Pattern=de ruit
+Turn ID=24| A | A : dus ruit helemaal bovenin
+	Free: Pattern=ruit
+	Constrained: 
+Turn ID=25| A | A : of gewoon bovenop
+	Free: Pattern=bovenop
+	Constrained: 
+Turn ID=26| B | B : die ja ja H
+	Free: Pattern=ja ja, Pattern=die
+	Constrained: Pattern=ja
+Turn ID=27| B | B : bij jou
+	Free: 
+	Constrained: 
+Turn ID=28| A | A : zes
+	Free: Pattern=zes
+	Constrained: 
+Turn ID=29| B | B : H zes
+	Free: Pattern=zes
+	Constrained: 
+Turn ID=30| B | B : dit zijn die met die ruit op het hoofd met waardoor en die
+	Free: Pattern=ruit op het hoofd met, Pattern=die, Pattern=en, Pattern=zijn, Pattern=met die ruit
+	Constrained: Pattern=met die, Pattern=op, Pattern=het, Pattern=met, Pattern=hoofd, Pattern=het hoofd, Pattern=ruit, Pattern=die, Pattern=het hoofd met
+Turn ID=31| A | A : met dat ding erdoor met dat ding er ihten ja
+	Free: Pattern=dat ding, Pattern=met, Pattern=ja
+	Constrained: Pattern=dat
+Turn ID=32| B | B : ja ja precies
+	Free: Pattern=ja ja
+	Constrained: Pattern=ja
+Turn ID=33| B | B : F
+	Free: Pattern=F
+	Constrained: 
+Turn ID=34| A | A : F elf
+	Free: Pattern=F
+	Constrained: 
+Turn ID=35| A | A : ruit op het hoofd met die staaf door de ruit heen
+	Free: Pattern=ruit op het hoofd met, Pattern=met die, Pattern=de ruit, Pattern=door
+	Constrained: Pattern=de, Pattern=op, Pattern=het, Pattern=met, Pattern=hoofd, Pattern=het hoofd, Pattern=ruit, Pattern=die, Pattern=het hoofd met
+Turn ID=36| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=37| B | B : d
+	Free: 
+	Constrained: 
+Turn ID=38| A | A : acht
+	Free: Pattern=acht
+	Constrained: 
+Turn ID=39| B | B : d acht
+	Free: Pattern=acht
+	Constrained: 
+Turn ID=40| B | B : dit zijn die met die ruit boven op zijn hoofd waar dat ding doorheen gaan
+	Free: Pattern=op, Pattern=dat ding, Pattern=die, Pattern=met die ruit, Pattern=hoofd, Pattern=zijn, Pattern=gaan
+	Constrained: Pattern=ruit, Pattern=met, Pattern=die, Pattern=dat, Pattern=met die
+Turn ID=41| B | B : met die
+	Free: Pattern=met die
+	Constrained: Pattern=die, Pattern=met
+Turn ID=42| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=43| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=44| A | A : veertien
+	Free: 
+	Constrained: 
+Turn ID=45| B | B : G
+	Free: Pattern=G
+	Constrained: 
+Turn ID=46| A | A : G veertien
+	Free: Pattern=G
+	Constrained: 

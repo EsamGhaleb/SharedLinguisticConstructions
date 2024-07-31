@@ -1,0 +1,163 @@
+A|0| A: deze hebben ook weer meerdere uitsteeksel je hebben _dat komme_ 
+A|1| A: _en dan_ _zitten_ er eigenlijk achterop _zitten een soort_ _hoofd_ in _een_ ruitvorm 
+A|2| A: _en die_ hebben weer _twee_ uitsteeksel 
+B|3| B: _ja_ 
+A|4| A: zo weer traps toelopen 
+A|5| A: _dan_ hebben _die_ aan de onderkant nog _een_ uitsteeksel _en_ aan de zijkant 
+A|6| A: _en_ _één naar voren_ toe 
+B|7| B: oké 
+B|8| B: _dat zijn_ M 
+B|9| B: _dit zijn dat_ heel _raar_ figuur 
+B|10| B: _dit zijn [dat_ komme] [en dan] daarboven [zitten een soort] _van_ rechthoekig vierkant 
+B|11| B: kunnen [dat] 
+B|12| B: _met_ [twee] _van_ [die] stulpsel zeggen maar [dat] [dat] vierkant steeds klein worden [en] daaronder zo'n [soort] _van_ balk eronder 
+A|13| A: [ja] 
+A|14| A: [ja] _één_ zo [en] _één_ zo 
+B|15| B: [ja] 
+A|16| A: [ja] 
+A|17| A: [en dan] nog [met] [een] navelstreng eigenlijk eruit [dat zijn] nummer negen bij mij 
+B|18| B: [ja] 
+A|19| A: [dit zijn dat] poppe [met] [ja] [die] _ruit_ achter _op_ het _hoofd_ _en _die_ twee_ 
+A|20| A: traps toewijzen toelopen blok 
+A|21| A: [en] aan de anderkant nog [die] tentakelzijkant [en dan] [die] navelstreng nog 
+B|22| B: [ja] 
+B|23| B: [dit zijn] H 
+B|24| B: [dit zijn] [die] _raar_ [met] [dat] slurf onder neusje [naar voren] _en dat_ raamp bovenop 
+B|25| B: _met die twee_ uit 
+A|26| A: [met die twee] [ja] 
+B|27| B: [ja] 
+A|28| A: [en dan] ook nog [die] [een] extra aan de zijkant 
+A|29| A: [dat zijn] nummer elf 
+A|30| A: [dit zijn] [ja] [dat] [raar] poppe [met die] navelstreng [van] onderen 
+A|31| A: [en] [van] de zijkant tentakel [en dat] ruitvorm 
+B|32| B: [dat zijn] D 
+A|33| A: _op_ het achterhoofd 
+B|34| B: [dit zijn] [met] [dat] [ruit] boven [op] [zijn] [hoofd] 
+B|35| B: [met die] vierkant [die] steeds klein worden [en die] slurf onder 
+A|36| A: [en dan] nog 
+B|37| B: [één naar voren] [en dat] armp 
+A|38| A: [ja] 
+A|39| A: [dat zijn] nummer veertien 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : deze hebben ook weer meerdere uitsteeksel je hebben dat komme
+	Free: Pattern=dat komme
+	Constrained: Pattern=dat
+Turn ID=1| A | A : en dan zitten er eigenlijk achterop zitten een soort hoofd in een ruitvorm
+	Free: Pattern=en dan, Pattern=een, Pattern=zitten, Pattern=hoofd, Pattern=zitten een soort
+	Constrained: Pattern=soort, Pattern=dan, Pattern=een, Pattern=zitten, Pattern=en
+Turn ID=2| A | A : en die hebben weer twee uitsteeksel
+	Free: Pattern=en die, Pattern=twee
+	Constrained: Pattern=en, Pattern=die
+Turn ID=3| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=4| A | A : zo weer traps toelopen
+	Free: 
+	Constrained: 
+Turn ID=5| A | A : dan hebben die aan de onderkant nog een uitsteeksel en aan de zijkant
+	Free: Pattern=en, Pattern=die, Pattern=dan, Pattern=een
+	Constrained: 
+Turn ID=6| A | A : en één naar voren toe
+	Free: Pattern=één naar voren, Pattern=en
+	Constrained: Pattern=naar voren, Pattern=één
+Turn ID=7| B | B : oké
+	Free: 
+	Constrained: 
+Turn ID=8| B | B : dat zijn M
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=9| B | B : dit zijn dat heel raar figuur
+	Free: Pattern=dit zijn dat, Pattern=raar
+	Constrained: Pattern=dit zijn, Pattern=dat, Pattern=zijn
+Turn ID=10| B | B : dit zijn dat komme en dan daarboven zitten een soort van rechthoekig vierkant
+	Free: Pattern=en dan, Pattern=dat komme, Pattern=van, Pattern=dit zijn dat, Pattern=zitten een soort
+	Constrained: Pattern=dat, Pattern=soort, Pattern=dan, Pattern=een, Pattern=zitten, Pattern=en, Pattern=zijn, Pattern=dit zijn
+Turn ID=11| B | B : kunnen dat
+	Free: Pattern=dat
+	Constrained: 
+Turn ID=12| B | B : met twee van die stulpsel zeggen maar dat dat vierkant steeds klein worden en daaronder zo'n soort van balk eronder
+	Free: Pattern=dat, Pattern=soort, Pattern=twee, Pattern=met, Pattern=die, Pattern=van, Pattern=en
+	Constrained: 
+Turn ID=13| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=14| A | A : ja één zo en één zo
+	Free: Pattern=en, Pattern=ja, Pattern=één
+	Constrained: 
+Turn ID=15| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=16| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=17| A | A : en dan nog met een navelstreng eigenlijk eruit dat zijn nummer negen bij mij
+	Free: Pattern=dat zijn, Pattern=en dan, Pattern=een, Pattern=met
+	Constrained: Pattern=en, Pattern=dat, Pattern=zijn, Pattern=dan
+Turn ID=18| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=19| A | A : dit zijn dat poppe met ja die ruit achter op het hoofd en die twee
+	Free: Pattern=en die, Pattern=ruit, Pattern=ja, Pattern=op, Pattern=die twee, Pattern=met, Pattern=die, Pattern=hoofd, Pattern=dit zijn dat
+	Constrained: Pattern=dat, Pattern=twee, Pattern=die, Pattern=en, Pattern=zijn, Pattern=dit zijn
+Turn ID=20| A | A : traps toewijzen toelopen blok
+	Free: 
+	Constrained: 
+Turn ID=21| A | A : en aan de anderkant nog die tentakelzijkant en dan die navelstreng nog
+	Free: Pattern=en dan, Pattern=en, Pattern=die
+	Constrained: Pattern=en, Pattern=dan
+Turn ID=22| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=23| B | B : dit zijn H
+	Free: Pattern=dit zijn
+	Constrained: Pattern=zijn
+Turn ID=24| B | B : dit zijn die raar met dat slurf onder neusje naar voren en dat raamp bovenop
+	Free: Pattern=dat, Pattern=met, Pattern=die, Pattern=naar voren, Pattern=dit zijn, Pattern=raar, Pattern=en dat
+	Constrained: Pattern=en, Pattern=dat, Pattern=zijn
+Turn ID=25| B | B : met die twee uit
+	Free: Pattern=met die twee
+	Constrained: Pattern=met die, Pattern=twee, Pattern=die twee, Pattern=met, Pattern=die
+Turn ID=26| A | A : met die twee ja
+	Free: Pattern=met die twee, Pattern=ja
+	Constrained: Pattern=met die, Pattern=twee, Pattern=die twee, Pattern=met, Pattern=die
+Turn ID=27| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=28| A | A : en dan ook nog die een extra aan de zijkant
+	Free: Pattern=en dan, Pattern=die, Pattern=een
+	Constrained: Pattern=en, Pattern=dan
+Turn ID=29| A | A : dat zijn nummer elf
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=30| A | A : dit zijn ja dat raar poppe met die navelstreng van onderen
+	Free: Pattern=ja, Pattern=van, Pattern=dit zijn, Pattern=raar, Pattern=dat, Pattern=met die
+	Constrained: Pattern=die, Pattern=zijn, Pattern=met
+Turn ID=31| A | A : en van de zijkant tentakel en dat ruitvorm
+	Free: Pattern=en dat, Pattern=en, Pattern=van
+	Constrained: Pattern=en, Pattern=dat
+Turn ID=32| B | B : dat zijn D
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=33| A | A : op het achterhoofd
+	Free: Pattern=op
+	Constrained: 
+Turn ID=34| B | B : dit zijn met dat ruit boven op zijn hoofd
+	Free: Pattern=dat, Pattern=ruit, Pattern=op, Pattern=met, Pattern=zijn, Pattern=hoofd, Pattern=dit zijn
+	Constrained: Pattern=zijn
+Turn ID=35| B | B : met die vierkant die steeds klein worden en die slurf onder
+	Free: Pattern=en die, Pattern=met die, Pattern=die
+	Constrained: Pattern=en, Pattern=die, Pattern=met
+Turn ID=36| A | A : en dan nog
+	Free: Pattern=en dan
+	Constrained: Pattern=en, Pattern=dan
+Turn ID=37| B | B : één naar voren en dat armp
+	Free: Pattern=één naar voren, Pattern=en dat
+	Constrained: Pattern=naar voren, Pattern=dat, Pattern=en, Pattern=één
+Turn ID=38| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=39| A | A : dat zijn nummer veertien
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn

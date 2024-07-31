@@ -1,0 +1,99 @@
+B|0| B: _hebben_ hij 
+B|1| B: _zijn_ _dat_ dezelfde uitsteeksel _aan_ beide kant maar _de_ één iets lang 
+B|2| B: okee _dat zijn_ f 
+B|3| B: f 
+A|4| A: ja 
+A|5| A: _deze hebben_ een soort scherm [aan] [de] achterkant _ik_ vinden hem een beetje op een zonnepaneel lijken 
+A|6| A: en _twee_ staf _links_ en _rechts_ met boll [aan] _het_ eind 
+B|7| B: [deze hebben] [twee] dezelfde uitsteeksel maar [rechts] _zijn_ iets lang dan [links] 
+B|8| B: waar staan die 
+B|9| B: [ik] weten welk [het] _zijn_ 
+B|10| B: à 
+B|11| B: [de] [twee] dezelfde waarvan [rechts] lang _zijn_ dan [links] 
+A|12| A: [ik] kunnen hem niet vinden 
+A|13| A: ja 
+A|14| A: ja twaalf 
+B|15| B: p 
+B|16| B: [twee] dezelfde [rechts] _zijn_ lang dan [links] 
+A|17| A: [deze] lijken op een gieter 
+A|18| A: ja 
+A|19| A: ja [dat zijn] vijf 
+A|20| A: gieter 
+A|21| A: zonnepaneel 
+A|22| A: ja 
+A|23| A: twaalf 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : hebben hij
+	Free: Pattern=hebben
+	Constrained: 
+Turn ID=1| B | B : zijn dat dezelfde uitsteeksel aan beide kant maar de één iets lang
+	Free: Pattern=aan, Pattern=zijn, Pattern=de, Pattern=dat
+	Constrained: 
+Turn ID=2| B | B : okee dat zijn f
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=3| B | B : f
+	Free: 
+	Constrained: 
+Turn ID=4| A | A : ja
+	Free: 
+	Constrained: 
+Turn ID=5| A | A : deze hebben een soort scherm aan de achterkant ik vinden hem een beetje op een zonnepaneel lijken
+	Free: Pattern=deze hebben, Pattern=aan, Pattern=ik, Pattern=de
+	Constrained: Pattern=hebben, Pattern=deze
+Turn ID=6| A | A : en twee staf links en rechts met boll aan het eind
+	Free: Pattern=twee, Pattern=links, Pattern=het, Pattern=rechts, Pattern=aan
+	Constrained: 
+Turn ID=7| B | B : deze hebben twee dezelfde uitsteeksel maar rechts zijn iets lang dan links
+	Free: Pattern=twee, Pattern=rechts, Pattern=links, Pattern=deze hebben, Pattern=zijn
+	Constrained: Pattern=hebben, Pattern=deze
+Turn ID=8| B | B : waar staan die
+	Free: 
+	Constrained: 
+Turn ID=9| B | B : ik weten welk het zijn
+	Free: Pattern=zijn, Pattern=ik, Pattern=het
+	Constrained: 
+Turn ID=10| B | B : à
+	Free: 
+	Constrained: 
+Turn ID=11| B | B : de twee dezelfde waarvan rechts lang zijn dan links
+	Free: Pattern=twee, Pattern=links, Pattern=zijn, Pattern=de, Pattern=rechts
+	Constrained: 
+Turn ID=12| A | A : ik kunnen hem niet vinden
+	Free: Pattern=ik
+	Constrained: 
+Turn ID=13| A | A : ja
+	Free: 
+	Constrained: 
+Turn ID=14| A | A : ja twaalf
+	Free: 
+	Constrained: 
+Turn ID=15| B | B : p
+	Free: 
+	Constrained: 
+Turn ID=16| B | B : twee dezelfde rechts zijn lang dan links
+	Free: Pattern=zijn, Pattern=links, Pattern=rechts, Pattern=twee
+	Constrained: 
+Turn ID=17| A | A : deze lijken op een gieter
+	Free: Pattern=deze
+	Constrained: 
+Turn ID=18| A | A : ja
+	Free: 
+	Constrained: 
+Turn ID=19| A | A : ja dat zijn vijf
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=20| A | A : gieter
+	Free: 
+	Constrained: 
+Turn ID=21| A | A : zonnepaneel
+	Free: 
+	Constrained: 
+Turn ID=22| A | A : ja
+	Free: 
+	Constrained: 
+Turn ID=23| A | A : twaalf
+	Free: 
+	Constrained: 

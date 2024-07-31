@@ -1,0 +1,123 @@
+A|0| A: _deze hebben_ vier verschillend vorm aan zich _zijn_ heel misvormd 
+A|1| A: _en_ _ja_ _een_ feesthoed bovenop 
+A|2| A: zo'n _een_ perfect driehoek 
+A|3| A: bovenop 
+A|4| A: dus eigenlijk _zijn_ _het_ heel simpel 
+A|5| A: _en een_ kogel _links_ lijken _het_ op 
+B|6| B: [ja] [ja] 
+B|7| B: [ja] _ik_ zien hem denken _ik_ al 
+A|8| A: [ja] _die_ _hebben_ [ik] net 
+B|9| B: [ja] dat [zijn] dat [zijn] letter 
+A|10| A: daar 
+B|11| B: [ja] dat [zijn] l 
+A|12| A: [ja] _de_ vier voorwerp kogel _en een_ hoed 
+A|13| A: _links_ kogel boven hoedje 
+A|14| A: driehoek 
+A|15| A: _een_ 
+B|16| B: [deze hebben] [de] puntmuts 
+B|17| B: [en] [links] [een] armpje wat van dun naar dik gaan [en] 
+B|18| B: [ja] dat ding je weten wel welk [het] [zijn] 
+A|19| A: kogel [en] hoedje 
+A|20| A: veertien 
+B|21| B: [ja] dat gek [ja] 
+B|22| B: dat [zijn] o 
+B|23| B: dit [zijn] [die] met [de] puntmuts 
+B|24| B: [en een] klein arm [links] 
+B|25| B: [ja] 
+B|26| B: [en] dan [een] ding rechts [en een] 
+B|27| B: [ja] c 
+B|28| B: puntmuts 
+B|29| B: [en] klein naar groot arm [links] 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : deze hebben vier verschillend vorm aan zich zijn heel misvormd
+	Free: Pattern=deze hebben, Pattern=zijn
+	Constrained: Pattern=hebben
+Turn ID=1| A | A : en ja een feesthoed bovenop
+	Free: Pattern=en, Pattern=ja, Pattern=een
+	Constrained: 
+Turn ID=2| A | A : zo'n een perfect driehoek
+	Free: Pattern=een
+	Constrained: 
+Turn ID=3| A | A : bovenop
+	Free: 
+	Constrained: 
+Turn ID=4| A | A : dus eigenlijk zijn het heel simpel
+	Free: Pattern=zijn, Pattern=het
+	Constrained: 
+Turn ID=5| A | A : en een kogel links lijken het op
+	Free: Pattern=en een, Pattern=links, Pattern=het
+	Constrained: Pattern=en, Pattern=een
+Turn ID=6| B | B : ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=7| B | B : ja ik zien hem denken ik al
+	Free: Pattern=ik, Pattern=ja
+	Constrained: 
+Turn ID=8| A | A : ja die hebben ik net
+	Free: Pattern=hebben, Pattern=die, Pattern=ik, Pattern=ja
+	Constrained: 
+Turn ID=9| B | B : ja dat zijn dat zijn letter
+	Free: Pattern=zijn, Pattern=ja
+	Constrained: 
+Turn ID=10| A | A : daar
+	Free: 
+	Constrained: 
+Turn ID=11| B | B : ja dat zijn l
+	Free: Pattern=zijn, Pattern=ja
+	Constrained: 
+Turn ID=12| A | A : ja de vier voorwerp kogel en een hoed
+	Free: Pattern=en een, Pattern=de, Pattern=ja
+	Constrained: Pattern=en, Pattern=een
+Turn ID=13| A | A : links kogel boven hoedje
+	Free: Pattern=links
+	Constrained: 
+Turn ID=14| A | A : driehoek
+	Free: 
+	Constrained: 
+Turn ID=15| A | A : een
+	Free: Pattern=een
+	Constrained: 
+Turn ID=16| B | B : deze hebben de puntmuts
+	Free: Pattern=deze hebben, Pattern=de
+	Constrained: Pattern=hebben
+Turn ID=17| B | B : en links een armpje wat van dun naar dik gaan en
+	Free: Pattern=en, Pattern=links, Pattern=een
+	Constrained: 
+Turn ID=18| B | B : ja dat ding je weten wel welk het zijn
+	Free: Pattern=zijn, Pattern=het, Pattern=ja
+	Constrained: 
+Turn ID=19| A | A : kogel en hoedje
+	Free: Pattern=en
+	Constrained: 
+Turn ID=20| A | A : veertien
+	Free: 
+	Constrained: 
+Turn ID=21| B | B : ja dat gek ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=22| B | B : dat zijn o
+	Free: Pattern=zijn
+	Constrained: 
+Turn ID=23| B | B : dit zijn die met de puntmuts
+	Free: Pattern=zijn, Pattern=die, Pattern=de
+	Constrained: 
+Turn ID=24| B | B : en een klein arm links
+	Free: Pattern=en een, Pattern=links
+	Constrained: Pattern=en, Pattern=een
+Turn ID=25| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=26| B | B : en dan een ding rechts en een
+	Free: Pattern=en een, Pattern=en, Pattern=een
+	Constrained: Pattern=en, Pattern=een
+Turn ID=27| B | B : ja c
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=28| B | B : puntmuts
+	Free: 
+	Constrained: 
+Turn ID=29| B | B : en klein naar groot arm links
+	Free: Pattern=en, Pattern=links
+	Constrained: 

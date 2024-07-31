@@ -1,0 +1,99 @@
+B|0| B: _ja_ 
+A|1| A: [ja] 
+A|2| A: _dit_ figuur hebben even kijken _aan de_ bovenkant _een_ soort hoed op _met een_ plat dak _aan de_ bovenkant 
+A|3| A: _en_ _aan de rechterkant_ staan _een_ soort istek 
+A|4| A: _en_ _aan de linkerkant_ _een_ _minne_ 
+A|5| A: _en dan_ hebben _die_ _aan de_ Linkeronderkant hebben _die_ nog _een_ soort komma staart 
+B|6| B: [ja] 
+B|7| B: _dat_ _zijn_ I 
+B|8| B: of _zijn dat_ [een] L 
+B|9| B: nee _dat_ _zijn_ [een] I 
+B|10| B: I 
+B|11| B: alright _dit zijn_ _het_ kop [met een] heuvelt bovenop _en het minne_ _en _het_ isteken_ 
+B|12| B: _het minne_ [aan de linkerkant] [en dan] [de] _zijn_ [aan de rechterkant] 
+A|13| A: [ja] 
+A|14| A: nummer twee 
+A|15| A: [dit [zijn] dat] plaat [met] [dat] _heuvel_ [aan de] bovenkant [en] [aan de] [een] kant [het] is [en] [aan de] ander kant [het] minteken 
+B|16| B: [ja] 
+B|17| B: M 
+B|18| B: oké _dit zijn die met _het_ minne_ _en _het_ isteken_ [en] [de] [heuvel] bovenop 
+A|19| A: [ja] nummer negen 
+A|20| A: [en] [dit zijn die met [het] isteken] rechts [en het minne] link 
+B|21| B: [dat] [zijn] F 
+B|22| B: [dit zijn die met [het] minne] [en [het] isteken] 
+A|23| A: nummer zes 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=1| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=2| A | A : dit figuur hebben even kijken aan de bovenkant een soort hoed op met een plat dak aan de bovenkant
+	Free: Pattern=met een, Pattern=aan de, Pattern=een, Pattern=dit
+	Constrained: Pattern=met, Pattern=een, Pattern=de
+Turn ID=3| A | A : en aan de rechterkant staan een soort istek
+	Free: Pattern=aan de rechterkant, Pattern=een, Pattern=en
+	Constrained: Pattern=aan de, Pattern=de
+Turn ID=4| A | A : en aan de linkerkant een minne
+	Free: Pattern=aan de linkerkant, Pattern=een, Pattern=minne, Pattern=en
+	Constrained: Pattern=aan de, Pattern=de
+Turn ID=5| A | A : en dan hebben die aan de Linkeronderkant hebben die nog een soort komma staart
+	Free: Pattern=en dan, Pattern=aan de, Pattern=een, Pattern=die
+	Constrained: Pattern=en, Pattern=de
+Turn ID=6| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=7| B | B : dat zijn I
+	Free: Pattern=dat, Pattern=zijn
+	Constrained: 
+Turn ID=8| B | B : of zijn dat een L
+	Free: Pattern=zijn dat, Pattern=een
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=9| B | B : nee dat zijn een I
+	Free: Pattern=dat, Pattern=zijn, Pattern=een
+	Constrained: 
+Turn ID=10| B | B : I
+	Free: 
+	Constrained: 
+Turn ID=11| B | B : alright dit zijn het kop met een heuvelt bovenop en het minne en het isteken
+	Free: Pattern=en het, Pattern=het, Pattern=het isteken, Pattern=met een, Pattern=en het minne, Pattern=dit zijn
+	Constrained: Pattern=het minne, Pattern=en het, Pattern=een, Pattern=het, Pattern=dit, Pattern=met, Pattern=en, Pattern=zijn, Pattern=minne
+Turn ID=12| B | B : het minne aan de linkerkant en dan de zijn aan de rechterkant
+	Free: Pattern=de, Pattern=aan de rechterkant, Pattern=zijn, Pattern=aan de linkerkant, Pattern=en dan, Pattern=het minne
+	Constrained: Pattern=de, Pattern=aan de, Pattern=het, Pattern=en, Pattern=minne
+Turn ID=13| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=14| A | A : nummer twee
+	Free: 
+	Constrained: 
+Turn ID=15| A | A : dit zijn dat plaat met dat heuvel aan de bovenkant en aan de een kant het is en aan de ander kant het minteken
+	Free: Pattern=dat, Pattern=aan de, Pattern=een, Pattern=het, Pattern=heuvel, Pattern=met, Pattern=en, Pattern=dit zijn, Pattern=zijn dat
+	Constrained: Pattern=dat, Pattern=zijn, Pattern=dit, Pattern=de
+Turn ID=16| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=17| B | B : M
+	Free: 
+	Constrained: 
+Turn ID=18| B | B : oké dit zijn die met het minne en het isteken en de heuvel bovenop
+	Free: Pattern=dit zijn die met het, Pattern=de, Pattern=het minne, Pattern=en het, Pattern=heuvel, Pattern=het isteken, Pattern=en
+	Constrained: Pattern=het, Pattern=dit, Pattern=met, Pattern=die, Pattern=en, Pattern=zijn, Pattern=dit zijn, Pattern=minne
+Turn ID=19| A | A : ja nummer negen
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=20| A | A : en dit zijn die met het isteken rechts en het minne link
+	Free: Pattern=dit zijn die met het, Pattern=en het minne, Pattern=het isteken, Pattern=en
+	Constrained: Pattern=het minne, Pattern=en het, Pattern=het, Pattern=dit, Pattern=met, Pattern=die, Pattern=en, Pattern=zijn, Pattern=dit zijn, Pattern=minne
+Turn ID=21| B | B : dat zijn F
+	Free: Pattern=dat, Pattern=zijn
+	Constrained: 
+Turn ID=22| B | B : dit zijn die met het minne en het isteken
+	Free: Pattern=dit zijn die met het, Pattern=het isteken, Pattern=het minne, Pattern=en het
+	Constrained: Pattern=het, Pattern=dit, Pattern=met, Pattern=die, Pattern=en, Pattern=zijn, Pattern=dit zijn, Pattern=minne
+Turn ID=23| A | A : nummer zes
+	Free: 
+	Constrained: 

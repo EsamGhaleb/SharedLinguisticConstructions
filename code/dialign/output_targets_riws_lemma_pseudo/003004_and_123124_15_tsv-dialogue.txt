@@ -1,0 +1,171 @@
+A|0| A: _even_ kijken _vierkant_ scherm 
+A|1| A: doorheen 
+A|2| A: _kunnen_ _je_ _nog_ veel uitleggen 
+A|3| A: voelsprietjes eens _even_ kijken _nog_ _een_ keer _en_ in _het_ midden _zijn_ _een_ onderaan _zijn_ _een_ _vierkant_ 
+A|4| A: ah _ja ja_ nu _zien_ _ik_ hem _ja_ 
+A|5| A: _dat zijn_ zes 
+B|6| B: [het] [ja] [het] doen _mij_ [een] [ja ja] [het] aandoen _mij_ denken _aan_ [een] soort olifan _maar_ dan _weten_ [ik] natuurlijk _niet_ of [het] jou daaraan doen denken 
+B|7| B: nee hij _hebben_ uit [ja] echt zo'n _slurf_ _aan de_ voorkant 
+B|8| B: [en] dan lijken [het] _net_ alsof _die_ _zo_ _zeggen maar_ [een] armpje op houden 
+B|9| B: [en] dan bovenop _staan_ [nog] twee heel klein cilindertje 
+B|10| B: naast elkaar 
+B|11| B: [ja] er zitten [een] soort [vierkant] ding 
+B|12| B: [ja] 
+A|13| A: [ja] [ik] volgens [mij] [hebben] jij hem [net] benoemen [ik] [weten] [niet] veel precies hoe _je_ hem [hebben] benoemen _met_ _die met_ [die] [vierkant] plaat 
+A|14| A: [aan de] onderkant 
+A|15| A: [ja] _erdoorheen_ 
+A|16| A: [ik] [hebben] [het] benoemen als glijbaan [zeggen maar] [die] voorste [slurf] [die] _je_ [zo] _zien_ _dat_ _dat_ [een] beetje [een] glijbaan _kunnen_ _zijn_ 
+A|17| A: _dat_ 
+A|18| A: oké 
+B|19| B: zo'n armpje [zo] zullen [je] [het] [zo] [kunnen] [zien] 
+B|20| B: [en] 
+B|21| B: [ja _ja] dat zijn_ C 
+A|22| A: [de] glijbaan waar _staan die_ _bij mij_ ? [ik] [weten] welk [je] bedoelen [maar] [ik] moeten hem _even_ zoeken 
+A|23| A: [ja] [ik] 
+A|24| A: ah [ja] dertien 
+B|25| B: dit [zijn] [die met] [aan de] voorkant [een] [slurf] 
+B|26| B: boven op [het] hoofd twee [ja] cilindert of rechthoekje 
+B|27| B: [en] [het] armp 
+A|28| A: [de] glijbaan 
+A|29| A: [met] [dat] [vierkant] _erdoorheen_ [zeggen maar] in [het] midden 
+B|30| B: [de] olifant [even] [zeggen maar] [met] [de] arm [zo] 
+B|31| B: J 
+A|32| A: [de] glijbaan 
+A|33| A: [ja dat zijn] negen 
+B|34| B: dit [zijn] [de] olifant [met] [het] armpje [zo] 
+B|35| B: [en] [het] [vierkant] plateau [erdoorheen] 
+B|36| B: [bij mij] [staan die] heel erg rechts 
+B|37| B: nou toevallig 
+A|38| A: glijbaan 
+B|39| B: olifan [met] [een] armpje 
+B|40| B: [ja] [bij mij] ook [ja] 
+B|41| B: [dat zijn] N 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : even kijken vierkant scherm
+	Free: Pattern=even, Pattern=vierkant
+	Constrained: 
+Turn ID=1| A | A : doorheen
+	Free: 
+	Constrained: 
+Turn ID=2| A | A : kunnen je nog veel uitleggen
+	Free: Pattern=nog, Pattern=je, Pattern=kunnen
+	Constrained: 
+Turn ID=3| A | A : voelsprietjes eens even kijken nog een keer en in het midden zijn een onderaan zijn een vierkant
+	Free: Pattern=nog, Pattern=even, Pattern=een, Pattern=het, Pattern=en, Pattern=zijn, Pattern=vierkant
+	Constrained: 
+Turn ID=4| A | A : ah ja ja nu zien ik hem ja
+	Free: Pattern=ja ja, Pattern=ik, Pattern=zien, Pattern=ja
+	Constrained: Pattern=ja
+Turn ID=5| A | A : dat zijn zes
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=6| B | B : het ja het doen mij een ja ja het aandoen mij denken aan een soort olifan maar dan weten ik natuurlijk niet of het jou daaraan doen denken
+	Free: Pattern=niet, Pattern=een, Pattern=weten, Pattern=het, Pattern=maar, Pattern=aan, Pattern=ja, Pattern=ja ja, Pattern=mij, Pattern=ik
+	Constrained: Pattern=ja
+Turn ID=7| B | B : nee hij hebben uit ja echt zo'n slurf aan de voorkant
+	Free: Pattern=aan de, Pattern=hebben, Pattern=ja, Pattern=slurf
+	Constrained: Pattern=de, Pattern=aan
+Turn ID=8| B | B : en dan lijken het net alsof die zo zeggen maar een armpje op houden
+	Free: Pattern=net, Pattern=een, Pattern=zeggen maar, Pattern=het, Pattern=zo, Pattern=die, Pattern=en
+	Constrained: Pattern=maar
+Turn ID=9| B | B : en dan bovenop staan nog twee heel klein cilindertje
+	Free: Pattern=staan, Pattern=nog, Pattern=en
+	Constrained: 
+Turn ID=10| B | B : naast elkaar
+	Free: 
+	Constrained: 
+Turn ID=11| B | B : ja er zitten een soort vierkant ding
+	Free: Pattern=vierkant, Pattern=ja, Pattern=een
+	Constrained: 
+Turn ID=12| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=13| A | A : ja ik volgens mij hebben jij hem net benoemen ik weten niet veel precies hoe je hem hebben benoemen met die met die vierkant plaat
+	Free: Pattern=net, Pattern=ja, Pattern=niet, Pattern=weten, Pattern=hebben, Pattern=die met, Pattern=met, Pattern=die, Pattern=mij, Pattern=ik, Pattern=vierkant, Pattern=je
+	Constrained: Pattern=die, Pattern=met
+Turn ID=14| A | A : aan de onderkant
+	Free: Pattern=aan de
+	Constrained: Pattern=de, Pattern=aan
+Turn ID=15| A | A : ja erdoorheen
+	Free: Pattern=erdoorheen, Pattern=ja
+	Constrained: 
+Turn ID=16| A | A : ik hebben het benoemen als glijbaan zeggen maar die voorste slurf die je zo zien dat dat een beetje een glijbaan kunnen zijn
+	Free: Pattern=dat, Pattern=kunnen, Pattern=slurf, Pattern=een, Pattern=zeggen maar, Pattern=het, Pattern=hebben, Pattern=zo, Pattern=ik, Pattern=zijn, Pattern=je, Pattern=die, Pattern=zien
+	Constrained: Pattern=maar
+Turn ID=17| A | A : dat
+	Free: Pattern=dat
+	Constrained: 
+Turn ID=18| A | A : oké
+	Free: 
+	Constrained: 
+Turn ID=19| B | B : zo'n armpje zo zullen je het zo kunnen zien
+	Free: Pattern=kunnen, Pattern=het, Pattern=zo, Pattern=zien, Pattern=je
+	Constrained: 
+Turn ID=20| B | B : en
+	Free: Pattern=en
+	Constrained: 
+Turn ID=21| B | B : ja ja dat zijn C
+	Free: Pattern=ja dat zijn, Pattern=ja ja
+	Constrained: Pattern=dat zijn, Pattern=dat, Pattern=zijn, Pattern=ja
+Turn ID=22| A | A : de glijbaan waar staan die bij mij ? ik weten welk je bedoelen maar ik moeten hem even zoeken
+	Free: Pattern=de, Pattern=even, Pattern=staan die, Pattern=weten, Pattern=ik, Pattern=maar, Pattern=bij mij, Pattern=je
+	Constrained: Pattern=staan, Pattern=die, Pattern=mij
+Turn ID=23| A | A : ja ik
+	Free: Pattern=ik, Pattern=ja
+	Constrained: 
+Turn ID=24| A | A : ah ja dertien
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=25| B | B : dit zijn die met aan de voorkant een slurf
+	Free: Pattern=aan de, Pattern=slurf, Pattern=een, Pattern=die met, Pattern=zijn
+	Constrained: Pattern=die, Pattern=de, Pattern=aan, Pattern=met
+Turn ID=26| B | B : boven op het hoofd twee ja cilindert of rechthoekje
+	Free: Pattern=het, Pattern=ja
+	Constrained: 
+Turn ID=27| B | B : en het armp
+	Free: Pattern=en, Pattern=het
+	Constrained: 
+Turn ID=28| A | A : de glijbaan
+	Free: Pattern=de
+	Constrained: 
+Turn ID=29| A | A : met dat vierkant erdoorheen zeggen maar in het midden
+	Free: Pattern=dat, Pattern=zeggen maar, Pattern=het, Pattern=erdoorheen, Pattern=met, Pattern=vierkant
+	Constrained: Pattern=maar
+Turn ID=30| B | B : de olifant even zeggen maar met de arm zo
+	Free: Pattern=de, Pattern=even, Pattern=zeggen maar, Pattern=zo, Pattern=met
+	Constrained: Pattern=maar
+Turn ID=31| B | B : J
+	Free: 
+	Constrained: 
+Turn ID=32| A | A : de glijbaan
+	Free: Pattern=de
+	Constrained: 
+Turn ID=33| A | A : ja dat zijn negen
+	Free: Pattern=ja dat zijn
+	Constrained: Pattern=dat zijn, Pattern=dat, Pattern=zijn, Pattern=ja
+Turn ID=34| B | B : dit zijn de olifant met het armpje zo
+	Free: Pattern=de, Pattern=het, Pattern=zo, Pattern=met, Pattern=zijn
+	Constrained: 
+Turn ID=35| B | B : en het vierkant plateau erdoorheen
+	Free: Pattern=en, Pattern=vierkant, Pattern=erdoorheen, Pattern=het
+	Constrained: 
+Turn ID=36| B | B : bij mij staan die heel erg rechts
+	Free: Pattern=bij mij, Pattern=staan die
+	Constrained: Pattern=staan, Pattern=die, Pattern=mij
+Turn ID=37| B | B : nou toevallig
+	Free: 
+	Constrained: 
+Turn ID=38| A | A : glijbaan
+	Free: 
+	Constrained: 
+Turn ID=39| B | B : olifan met een armpje
+	Free: Pattern=een, Pattern=met
+	Constrained: 
+Turn ID=40| B | B : ja bij mij ook ja
+	Free: Pattern=bij mij, Pattern=ja
+	Constrained: Pattern=mij
+Turn ID=41| B | B : dat zijn N
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn

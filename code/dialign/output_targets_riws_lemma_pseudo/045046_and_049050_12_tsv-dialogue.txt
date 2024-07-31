@@ -1,0 +1,147 @@
+A|0| A: _ja_ _dit zijn_ er één _die_ _aan de_ linkerkant komen er _een_ soort _van_ 
+A|1| A: _ja_ armpje uit _het_ _zijn_ _een_ beetje _een_ vreemd vorm _en_ daar worden _dan_ weer _een_ soort _van_ spijker komen daar weer uit 
+A|2| A: _en_ er _zijn_ _een_ bijzettafelt erbij inderdaad 
+A|3| A: _de_ bijzettafel _die_ erdoorheen zitten of 
+A|4| A: _ja_ wachten 
+A|5| A: _de_ _rond_ tafel 
+A|6| A: _ja_ _ja_ _ja_ _ja_ _ik_ zien hem _ja dat zijn_ zeven 
+B|7| B: staaf [ja] 
+B|8| B: [ja] 
+B|9| B: [ja dat zijn] [de] enig denken [ik] _met_ zo'n [rond] dinget 
+B|10| B: rechts 
+B|11| B: [dat zijn] bij mij L 
+A|12| A: _dit zijn_ diegene _die_ _een_ soort _van_ uit [ja] 
+A|13| A: _ding_ _aan de_ linkerkant hebben _en_ daar worden _dan_ weer gaan _dan_ weer _een_ spijker in _en_ [dat] bijzettafelt _dan_ _aan de_ _aan de rechterkant_ 
+B|14| B: [dit zijn] [die] _met_ [dat] [rond] horizontaal plateaut [aan de rechterkant] 
+B|15| B: [en] [dan] links zo'n staaf _met_ zo'n deuk erin [en] [dan] 
+B|16| B: [een] uiteenlopend staafje naar [een] vierkant 
+A|17| A: [ja] 
+A|18| A: één 
+A|19| A: [dit zijn] degeen [met] [de] arm [met] [de] spijker _en het_ bijzettafelt [aan de] ander kant 
+B|20| B: [ja] 
+B|21| B: [ja] 
+B|22| B: [dat zijn] C 
+A|23| A: [ja] 
+A|24| A: dertien 
+B|25| B: [dit zijn] [die] [met] [het] [rond] horizontaal plateaut [aan de rechterkant] [van] [het] kop 
+B|26| B: [en] [dan] [dat] staafding links 
+B|27| B: [met] dinge ervan af 
+B|28| B: [ja] 
+B|29| B: [ja] 
+B|30| B: [ja] 
+B|31| B: [dat zijn] A 
+B|32| B: [ja] 
+B|33| B: A 
+B|34| B: [zijn] [die] [met] [het] horizontaal [rond] plateautje rechts 
+B|35| B: [en] [die] staaf [met] inkeping [en het] puntig [ding] eraan 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : ja dit zijn er één die aan de linkerkant komen er een soort van
+	Free: Pattern=ja, Pattern=aan de, Pattern=een, Pattern=die, Pattern=van, Pattern=dit zijn
+	Constrained: Pattern=zijn, Pattern=de
+Turn ID=1| A | A : ja armpje uit het zijn een beetje een vreemd vorm en daar worden dan weer een soort van spijker komen daar weer uit
+	Free: Pattern=ja, Pattern=dan, Pattern=een, Pattern=het, Pattern=zijn, Pattern=van, Pattern=en
+	Constrained: 
+Turn ID=2| A | A : en er zijn een bijzettafelt erbij inderdaad
+	Free: Pattern=zijn, Pattern=en, Pattern=een
+	Constrained: 
+Turn ID=3| A | A : de bijzettafel die erdoorheen zitten of
+	Free: Pattern=die, Pattern=de
+	Constrained: 
+Turn ID=4| A | A : ja wachten
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=5| A | A : de rond tafel
+	Free: Pattern=rond, Pattern=de
+	Constrained: 
+Turn ID=6| A | A : ja ja ja ja ik zien hem ja dat zijn zeven
+	Free: Pattern=ja dat zijn, Pattern=ik, Pattern=ja
+	Constrained: Pattern=dat zijn, Pattern=dat, Pattern=zijn, Pattern=ja
+Turn ID=7| B | B : staaf ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=8| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=9| B | B : ja dat zijn de enig denken ik met zo'n rond dinget
+	Free: Pattern=de, Pattern=ja dat zijn, Pattern=met, Pattern=ik, Pattern=rond
+	Constrained: Pattern=dat zijn, Pattern=dat, Pattern=zijn, Pattern=ja
+Turn ID=10| B | B : rechts
+	Free: 
+	Constrained: 
+Turn ID=11| B | B : dat zijn bij mij L
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=12| A | A : dit zijn diegene die een soort van uit ja
+	Free: Pattern=ja, Pattern=een, Pattern=die, Pattern=van, Pattern=dit zijn
+	Constrained: Pattern=zijn
+Turn ID=13| A | A : ding aan de linkerkant hebben en daar worden dan weer gaan dan weer een spijker in en dat bijzettafelt dan aan de aan de rechterkant
+	Free: Pattern=dat, Pattern=aan de, Pattern=dan, Pattern=ding, Pattern=een, Pattern=aan de rechterkant, Pattern=en
+	Constrained: Pattern=aan de, Pattern=de
+Turn ID=14| B | B : dit zijn die met dat rond horizontaal plateaut aan de rechterkant
+	Free: Pattern=dat, Pattern=met, Pattern=rond, Pattern=dit zijn, Pattern=aan de rechterkant, Pattern=die
+	Constrained: Pattern=de, Pattern=zijn, Pattern=aan de
+Turn ID=15| B | B : en dan links zo'n staaf met zo'n deuk erin en dan
+	Free: Pattern=dan, Pattern=met, Pattern=en
+	Constrained: 
+Turn ID=16| B | B : een uiteenlopend staafje naar een vierkant
+	Free: Pattern=een
+	Constrained: 
+Turn ID=17| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=18| A | A : één
+	Free: 
+	Constrained: 
+Turn ID=19| A | A : dit zijn degeen met de arm met de spijker en het bijzettafelt aan de ander kant
+	Free: Pattern=de, Pattern=met, Pattern=dit zijn, Pattern=aan de, Pattern=en het
+	Constrained: Pattern=zijn, Pattern=het, Pattern=en, Pattern=de
+Turn ID=20| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=21| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=22| B | B : dat zijn C
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=23| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=24| A | A : dertien
+	Free: 
+	Constrained: 
+Turn ID=25| B | B : dit zijn die met het rond horizontaal plateaut aan de rechterkant van het kop
+	Free: Pattern=het, Pattern=met, Pattern=van, Pattern=rond, Pattern=dit zijn, Pattern=aan de rechterkant, Pattern=die
+	Constrained: Pattern=de, Pattern=zijn, Pattern=aan de
+Turn ID=26| B | B : en dan dat staafding links
+	Free: Pattern=dat, Pattern=dan, Pattern=en
+	Constrained: 
+Turn ID=27| B | B : met dinge ervan af
+	Free: Pattern=met
+	Constrained: 
+Turn ID=28| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=29| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=30| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=31| B | B : dat zijn A
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=32| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=33| B | B : A
+	Free: 
+	Constrained: 
+Turn ID=34| B | B : zijn die met het horizontaal rond plateautje rechts
+	Free: Pattern=het, Pattern=met, Pattern=die, Pattern=rond, Pattern=zijn
+	Constrained: 
+Turn ID=35| B | B : en die staaf met inkeping en het puntig ding eraan
+	Free: Pattern=en het, Pattern=ding, Pattern=met, Pattern=die, Pattern=en
+	Constrained: Pattern=het, Pattern=en

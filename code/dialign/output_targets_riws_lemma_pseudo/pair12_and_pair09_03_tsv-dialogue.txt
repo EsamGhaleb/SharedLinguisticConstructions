@@ -1,0 +1,83 @@
+A|0| A: _ja_ 
+A|1| A: dertien 
+B|2| B: deze dit lijken op _een wijnglas_ 
+B|3| B: hij hebben _een_ getwiste been zeggen maar op _een_ driehoekje 
+B|4| B: _twee_ 
+B|5| B: [ja] 
+B|6| B: [ja] 
+B|7| B: _die_ 
+A|8| A: [ja] 
+A|9| A: [ja] _dat zijn_ [die] [wijnglas] [die] bokaal 
+B|10| B: [ja] okee [dat zijn] g 
+A|11| A: [twee] 
+A|12| A: [een wijnglas] 
+A|13| A: met ijsblok 
+A|14| A: dertien 
+A|15| A: [wijnglas] 
+B|16| B: dit [zijn] het [wijnglas] 
+B|17| B: okee e 
+B|18| B: [wijnglas] 
+B|19| B: h 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=1| A | A : dertien
+	Free: 
+	Constrained: 
+Turn ID=2| B | B : deze dit lijken op een wijnglas
+	Free: Pattern=een wijnglas
+	Constrained: Pattern=wijnglas, Pattern=een
+Turn ID=3| B | B : hij hebben een getwiste been zeggen maar op een driehoekje
+	Free: Pattern=een
+	Constrained: 
+Turn ID=4| B | B : twee
+	Free: Pattern=twee
+	Constrained: 
+Turn ID=5| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=6| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=7| B | B : die
+	Free: Pattern=die
+	Constrained: 
+Turn ID=8| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=9| A | A : ja dat zijn die wijnglas die bokaal
+	Free: Pattern=dat zijn, Pattern=wijnglas, Pattern=ja, Pattern=die
+	Constrained: Pattern=zijn
+Turn ID=10| B | B : ja okee dat zijn g
+	Free: Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=zijn
+Turn ID=11| A | A : twee
+	Free: Pattern=twee
+	Constrained: 
+Turn ID=12| A | A : een wijnglas
+	Free: Pattern=een wijnglas
+	Constrained: Pattern=wijnglas, Pattern=een
+Turn ID=13| A | A : met ijsblok
+	Free: 
+	Constrained: 
+Turn ID=14| A | A : dertien
+	Free: 
+	Constrained: 
+Turn ID=15| A | A : wijnglas
+	Free: Pattern=wijnglas
+	Constrained: 
+Turn ID=16| B | B : dit zijn het wijnglas
+	Free: Pattern=wijnglas, Pattern=zijn
+	Constrained: 
+Turn ID=17| B | B : okee e
+	Free: 
+	Constrained: 
+Turn ID=18| B | B : wijnglas
+	Free: Pattern=wijnglas
+	Constrained: 
+Turn ID=19| B | B : h
+	Free: 
+	Constrained: 

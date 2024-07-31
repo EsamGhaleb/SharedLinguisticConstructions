@@ -1,0 +1,139 @@
+B|0| B: _ja_ 
+B|1| B: _ja_ _ja_ _ja_ _ja_ 
+B|2| B: _ja_ _en_ hij hebben _een_ soort hoedje op 
+B|3| B: _zijn nummer_ of letter A 
+A|4| A: nou deze gaan denken _ook_ wel 
+A|5| A: het [zijn] geen volledig driehoek dat je _bovenop_ zien 
+A|6| A: topje [zijn] ervanaf gehakt 
+A|7| A: _aan de rechterkant twee_ houten plank _die_ uitsteken 
+A|8| A: steken even ver uit 
+A|9| A: [en] link _zitten_ _ook_ [een] [ja] één 
+A|10| A: [ja] ? okee 
+B|11| B: [een] bak _met_ [een] hoed [en] [aan de rechterkant twee] gelijk uitsteeksel 
+B|12| B: [en] [aan de] linkerkant [twee] [ook] [twee] uitsteeksel maar [die] [zijn] totaal anders 
+B|13| B: [aan de rechterkant] [zitten] [die] [twee] gelijk 
+B|14| B: A 
+A|15| A: iets gek 
+A|16| A: [ja] 
+A|17| A: helemaal goed 
+A|18| A: dat [zijn nummer] veertien 
+A|19| A: dit [zijn] het kop [met] het afgezaagd dakje van [de] pyramide 
+A|20| A: [en] [twee] houten plank [aan de rechterkant] 
+A|21| A: links [een] gek staafje [en] [ja] 
+B|22| B: bak [met] [twee] gelijk uitstulping [aan de rechterkant] 
+B|23| B: [en] [bovenop] [een] 
+B|24| B: soort hoedje [ja] 
+B|25| B: P 
+B|26| B: bak [met] [twee] gelijk uitstulping [aan de rechterkant] [en] [een] hoed op 
+A|27| A: [ja] 
+A|28| A: [nummer] tien 
+A|29| A: deze [zijn] [met] [de] [twee] houten plank [aan de rechterkant] het afgezaagd dakje van [de] pyramide 
+A|30| A: [ja] nou [die] 
+A|31| A: [ja] 
+A|32| A: ah 
+A|33| A: [nummer] vijf 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=1| B | B : ja ja ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=2| B | B : ja en hij hebben een soort hoedje op
+	Free: Pattern=ja, Pattern=en, Pattern=een
+	Constrained: 
+Turn ID=3| B | B : zijn nummer of letter A
+	Free: Pattern=zijn nummer
+	Constrained: Pattern=nummer, Pattern=zijn
+Turn ID=4| A | A : nou deze gaan denken ook wel
+	Free: Pattern=ook
+	Constrained: 
+Turn ID=5| A | A : het zijn geen volledig driehoek dat je bovenop zien
+	Free: Pattern=zijn, Pattern=bovenop
+	Constrained: 
+Turn ID=6| A | A : topje zijn ervanaf gehakt
+	Free: Pattern=zijn
+	Constrained: 
+Turn ID=7| A | A : aan de rechterkant twee houten plank die uitsteken
+	Free: Pattern=aan de rechterkant twee, Pattern=die
+	Constrained: Pattern=twee, Pattern=de, Pattern=aan de rechterkant, Pattern=aan de
+Turn ID=8| A | A : steken even ver uit
+	Free: 
+	Constrained: 
+Turn ID=9| A | A : en link zitten ook een ja één
+	Free: Pattern=ja, Pattern=ook, Pattern=een, Pattern=zitten, Pattern=en
+	Constrained: 
+Turn ID=10| A | A : ja ? okee
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=11| B | B : een bak met een hoed en aan de rechterkant twee gelijk uitsteeksel
+	Free: Pattern=aan de rechterkant twee, Pattern=en, Pattern=met, Pattern=een
+	Constrained: Pattern=twee, Pattern=de, Pattern=aan de rechterkant, Pattern=aan de
+Turn ID=12| B | B : en aan de linkerkant twee ook twee uitsteeksel maar die zijn totaal anders
+	Free: Pattern=twee, Pattern=die, Pattern=en, Pattern=zijn, Pattern=aan de, Pattern=ook
+	Constrained: Pattern=de
+Turn ID=13| B | B : aan de rechterkant zitten die twee gelijk
+	Free: Pattern=aan de rechterkant, Pattern=twee, Pattern=die, Pattern=zitten
+	Constrained: Pattern=aan de, Pattern=de
+Turn ID=14| B | B : A
+	Free: 
+	Constrained: 
+Turn ID=15| A | A : iets gek
+	Free: 
+	Constrained: 
+Turn ID=16| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=17| A | A : helemaal goed
+	Free: 
+	Constrained: 
+Turn ID=18| A | A : dat zijn nummer veertien
+	Free: Pattern=zijn nummer
+	Constrained: Pattern=nummer, Pattern=zijn
+Turn ID=19| A | A : dit zijn het kop met het afgezaagd dakje van de pyramide
+	Free: Pattern=zijn, Pattern=de, Pattern=met
+	Constrained: 
+Turn ID=20| A | A : en twee houten plank aan de rechterkant
+	Free: Pattern=aan de rechterkant, Pattern=twee, Pattern=en
+	Constrained: Pattern=aan de, Pattern=de
+Turn ID=21| A | A : links een gek staafje en ja
+	Free: Pattern=ja, Pattern=en, Pattern=een
+	Constrained: 
+Turn ID=22| B | B : bak met twee gelijk uitstulping aan de rechterkant
+	Free: Pattern=aan de rechterkant, Pattern=twee, Pattern=met
+	Constrained: Pattern=aan de, Pattern=de
+Turn ID=23| B | B : en bovenop een
+	Free: Pattern=en, Pattern=bovenop, Pattern=een
+	Constrained: 
+Turn ID=24| B | B : soort hoedje ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=25| B | B : P
+	Free: 
+	Constrained: 
+Turn ID=26| B | B : bak met twee gelijk uitstulping aan de rechterkant en een hoed op
+	Free: Pattern=twee, Pattern=een, Pattern=met, Pattern=aan de rechterkant, Pattern=en
+	Constrained: Pattern=aan de, Pattern=de
+Turn ID=27| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=28| A | A : nummer tien
+	Free: Pattern=nummer
+	Constrained: 
+Turn ID=29| A | A : deze zijn met de twee houten plank aan de rechterkant het afgezaagd dakje van de pyramide
+	Free: Pattern=twee, Pattern=de, Pattern=met, Pattern=aan de rechterkant, Pattern=zijn
+	Constrained: Pattern=aan de, Pattern=de
+Turn ID=30| A | A : ja nou die
+	Free: Pattern=die, Pattern=ja
+	Constrained: 
+Turn ID=31| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=32| A | A : ah
+	Free: 
+	Constrained: 
+Turn ID=33| A | A : nummer vijf
+	Free: Pattern=nummer
+	Constrained: 

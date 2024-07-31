@@ -1,0 +1,127 @@
+B|0| B: _ja_ 
+B|1| B: _en_ iets _aan de onderkant_ _en_ één cilindert naar link 
+B|2| B: _ja_ _ja_ _ja_ 
+B|3| B: _dat zijn_ bij mij _zijn_ _dat_ J 
+B|4| B: dit _zijn_ die _met_ die piramide op _dat_ hoofd 
+B|5| B: _en_ die _een_ fles _aan de_ _links_ _kant_ 
+A|6| A: zo 
+A|7| A: dan hebben ik [de] koffiemok [met] [een] piramidedriehoekachtig [aan de] bovenkant 
+A|8| A: [en] [aan de] voorkant zitten [een] flink blok wat [aan de] [een] [kant] wat schuin lopen twee [kant] misschien 
+A|9| A: [aan de onderkant] zitten [een] [links] [een] wat rond vorm 
+A|10| A: [en] er zitten nog [een] uitsteeksel [links] halverwege 
+A|11| A: [ja] 
+B|12| B: [ja] _dat zijn_ bij mij E 
+A|13| A: [ja] 
+A|14| A: oké 
+A|15| A: [dat zijn] nummer zes 
+B|16| B: dit [zijn] [met] [de] kegel bovenop [en] het fles [aan de] [links] [kant] 
+B|17| B: piramide soort bovenop 
+B|18| B: waar [zijn] je 
+B|19| B: [ja] [dat zijn] G 
+A|20| A: punthoofd 
+A|21| A: raar blok [aan de] voorkant 
+A|22| A: [ja] 
+A|23| A: oké 
+B|24| B: [de] driehoek op het hoofd [en] het fles [aan de] [links] [kant] 
+A|25| A: [ja] 
+A|26| A: nummer tien 
+A|27| A: punthoofd 
+A|28| A: [ja] 
+A|29| A: [ja] 
+A|30| A: nummer tien 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=1| B | B : en iets aan de onderkant en één cilindert naar link
+	Free: Pattern=aan de onderkant, Pattern=en
+	Constrained: Pattern=aan de, Pattern=de
+Turn ID=2| B | B : ja ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=3| B | B : dat zijn bij mij zijn dat J
+	Free: Pattern=dat zijn, Pattern=zijn, Pattern=dat
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=4| B | B : dit zijn die met die piramide op dat hoofd
+	Free: Pattern=zijn, Pattern=met, Pattern=dat
+	Constrained: 
+Turn ID=5| B | B : en die een fles aan de links kant
+	Free: Pattern=kant, Pattern=aan de, Pattern=een, Pattern=links, Pattern=en
+	Constrained: Pattern=de
+Turn ID=6| A | A : zo
+	Free: 
+	Constrained: 
+Turn ID=7| A | A : dan hebben ik de koffiemok met een piramidedriehoekachtig aan de bovenkant
+	Free: Pattern=aan de, Pattern=de, Pattern=met, Pattern=een
+	Constrained: Pattern=de
+Turn ID=8| A | A : en aan de voorkant zitten een flink blok wat aan de een kant wat schuin lopen twee kant misschien
+	Free: Pattern=aan de, Pattern=kant, Pattern=en, Pattern=een
+	Constrained: Pattern=de
+Turn ID=9| A | A : aan de onderkant zitten een links een wat rond vorm
+	Free: Pattern=aan de onderkant, Pattern=links, Pattern=een
+	Constrained: Pattern=aan de, Pattern=de
+Turn ID=10| A | A : en er zitten nog een uitsteeksel links halverwege
+	Free: Pattern=en, Pattern=links, Pattern=een
+	Constrained: 
+Turn ID=11| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=12| B | B : ja dat zijn bij mij E
+	Free: Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=13| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=14| A | A : oké
+	Free: 
+	Constrained: 
+Turn ID=15| A | A : dat zijn nummer zes
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=16| B | B : dit zijn met de kegel bovenop en het fles aan de links kant
+	Free: Pattern=kant, Pattern=de, Pattern=aan de, Pattern=links, Pattern=met, Pattern=en, Pattern=zijn
+	Constrained: Pattern=de
+Turn ID=17| B | B : piramide soort bovenop
+	Free: 
+	Constrained: 
+Turn ID=18| B | B : waar zijn je
+	Free: Pattern=zijn
+	Constrained: 
+Turn ID=19| B | B : ja dat zijn G
+	Free: Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=20| A | A : punthoofd
+	Free: 
+	Constrained: 
+Turn ID=21| A | A : raar blok aan de voorkant
+	Free: Pattern=aan de
+	Constrained: Pattern=de
+Turn ID=22| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=23| A | A : oké
+	Free: 
+	Constrained: 
+Turn ID=24| B | B : de driehoek op het hoofd en het fles aan de links kant
+	Free: Pattern=kant, Pattern=de, Pattern=aan de, Pattern=links, Pattern=en
+	Constrained: Pattern=de
+Turn ID=25| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=26| A | A : nummer tien
+	Free: 
+	Constrained: 
+Turn ID=27| A | A : punthoofd
+	Free: 
+	Constrained: 
+Turn ID=28| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=29| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=30| A | A : nummer tien
+	Free: 
+	Constrained: 

@@ -1,0 +1,111 @@
+B|0| B: zeggen maar _zijn_ _het_ tenminste als _je_ _die_ _een beetje_ op _zijn_ _zijkant_ draaien zullen _het_ _dan_ _een beetje_ op _een_ dier kunnen _lijken_ 
+B|1| B: _zijn_ _het_ _die_ 
+B|2| B: ok _dan_ _zijn_ _dan_ _zijn_ _het_ M 
+A|3| A: oké 
+A|4| A: deze _hebben_ eigenlijk [een] soort van Pinokkioneus 
+A|5| A: _en_ daarboven _ja_ ik vinden _het [een_ beetje] [een] soort van helikopterachtig weten [je] wel ? van [die] zwaaidingen [lijken] 
+A|6| A: _en dan_ _hebben_ [die] daaronder [een] been voet _en_ _aan de_ [zijkant] [een] voet arm 
+A|7| A: _ja_ 
+B|8| B: ok _dit zijn_ zeggen maar _dat_ dier _dat_ als [je] hem zo draaien [dan] _zijn_ [het een] dier 
+B|9| B: [ja] [ja] maar maar _met_ zeggen maar maar twee poo 
+B|10| B: [ja] zeggen maar [aan de] onderkant lopen zeggen maar zo'n ding _dat_ [hebben] [je] _dat_ dinge [en dan] 
+A|11| A: ah [ja] 
+A|12| A: even even kijken waar [die] staan 
+A|13| A: Ah nummer negen 
+B|14| B: _zijn_ _dat_ _met_ [die] schroef onderin ? of niet 
+B|15| B: o 
+B|16| B: [ja] 
+B|17| B: [die] als [je] [die] draaien zeggen maar wat [het] [die] ? ok 
+B|18| B: [dan] _zijn_ [het] H 
+B|19| B: [ja] _dit zijn_ zeggen maar _dat_ dier _dat_ [je] zo kunnen draaien 
+A|20| A: oké [dit zijn] [met] [dat] helikopterdinge 
+B|21| B: [ja] _dat zijn_ D 
+B|22| B: [ja] [dit zijn] [dat] dier [dat] [je] kunnen draaien 
+A|23| A: even kijken 
+A|24| A: ah [zijn] nummer elf 
+A|25| A: [dat zijn] [met] [dat] helikopterding 
+A|26| A: even kijken ah nummer veertien 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : zeggen maar zijn het tenminste als je die een beetje op zijn zijkant draaien zullen het dan een beetje op een dier kunnen lijken
+	Free: Pattern=een, Pattern=het, Pattern=zijn, Pattern=lijken, Pattern=dan, Pattern=die, Pattern=zijkant, Pattern=een beetje, Pattern=je
+	Constrained: Pattern=een
+Turn ID=1| B | B : zijn het die
+	Free: Pattern=zijn, Pattern=die, Pattern=het
+	Constrained: 
+Turn ID=2| B | B : ok dan zijn dan zijn het M
+	Free: Pattern=dan, Pattern=zijn, Pattern=het
+	Constrained: 
+Turn ID=3| A | A : oké
+	Free: 
+	Constrained: 
+Turn ID=4| A | A : deze hebben eigenlijk een soort van Pinokkioneus
+	Free: Pattern=hebben, Pattern=een
+	Constrained: 
+Turn ID=5| A | A : en daarboven ja ik vinden het een beetje een soort van helikopterachtig weten je wel ? van die zwaaidingen lijken
+	Free: Pattern=het een, Pattern=ja, Pattern=lijken, Pattern=een, Pattern=die, Pattern=en, Pattern=een beetje, Pattern=je
+	Constrained: Pattern=het, Pattern=een
+Turn ID=6| A | A : en dan hebben die daaronder een been voet en aan de zijkant een voet arm
+	Free: Pattern=en dan, Pattern=aan de, Pattern=een, Pattern=hebben, Pattern=en, Pattern=die, Pattern=zijkant
+	Constrained: Pattern=en, Pattern=dan
+Turn ID=7| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=8| B | B : ok dit zijn zeggen maar dat dier dat als je hem zo draaien dan zijn het een dier
+	Free: Pattern=het een, Pattern=dat, Pattern=dan, Pattern=zijn, Pattern=je, Pattern=dit zijn
+	Constrained: Pattern=zijn, Pattern=het, Pattern=een
+Turn ID=9| B | B : ja ja maar maar met zeggen maar maar twee poo
+	Free: Pattern=ja, Pattern=met
+	Constrained: 
+Turn ID=10| B | B : ja zeggen maar aan de onderkant lopen zeggen maar zo'n ding dat hebben je dat dinge en dan
+	Free: Pattern=dat, Pattern=ja, Pattern=en dan, Pattern=aan de, Pattern=hebben, Pattern=je
+	Constrained: Pattern=en, Pattern=dan
+Turn ID=11| A | A : ah ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=12| A | A : even even kijken waar die staan
+	Free: Pattern=die
+	Constrained: 
+Turn ID=13| A | A : Ah nummer negen
+	Free: 
+	Constrained: 
+Turn ID=14| B | B : zijn dat met die schroef onderin ? of niet
+	Free: Pattern=dat, Pattern=zijn, Pattern=die, Pattern=met
+	Constrained: 
+Turn ID=15| B | B : o
+	Free: 
+	Constrained: 
+Turn ID=16| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=17| B | B : die als je die draaien zeggen maar wat het die ? ok
+	Free: Pattern=je, Pattern=die, Pattern=het
+	Constrained: 
+Turn ID=18| B | B : dan zijn het H
+	Free: Pattern=dan, Pattern=zijn, Pattern=het
+	Constrained: 
+Turn ID=19| B | B : ja dit zijn zeggen maar dat dier dat je zo kunnen draaien
+	Free: Pattern=dit zijn, Pattern=dat, Pattern=je, Pattern=ja
+	Constrained: Pattern=zijn
+Turn ID=20| A | A : oké dit zijn met dat helikopterdinge
+	Free: Pattern=dit zijn, Pattern=dat, Pattern=met
+	Constrained: Pattern=zijn
+Turn ID=21| B | B : ja dat zijn D
+	Free: Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=22| B | B : ja dit zijn dat dier dat je kunnen draaien
+	Free: Pattern=dit zijn, Pattern=dat, Pattern=je, Pattern=ja
+	Constrained: Pattern=zijn
+Turn ID=23| A | A : even kijken
+	Free: 
+	Constrained: 
+Turn ID=24| A | A : ah zijn nummer elf
+	Free: Pattern=zijn
+	Constrained: 
+Turn ID=25| A | A : dat zijn met dat helikopterding
+	Free: Pattern=dat zijn, Pattern=dat, Pattern=met
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=26| A | A : even kijken ah nummer veertien
+	Free: 
+	Constrained: 

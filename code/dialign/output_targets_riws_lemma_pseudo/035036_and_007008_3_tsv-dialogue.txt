@@ -1,0 +1,107 @@
+A|0| A: _ja_ 
+A|1| A: _ik_ noemen _het_ _een_ _trofee_ 
+A|2| A: kunnen _je_ _zijn_ _dat_ vergelijkbaar 
+A|3| A: _oké_ met _zo'n_ met _zo'n_ vierkant _blok_ _dan_ _een beetje_ rechts Bovenin 
+A|4| A: _oké_ 
+A|5| A: _dat_ _zijn_ vier 
+B|6| B: [oké] 
+B|7| B: deze _dit_ ding staan zeggen maar veel op [een] driehoek 
+B|8| B: en [dan] [zijn] [het] [dat] ding waarop die staan [zijn] [een beetje] draaien 
+B|9| B: zeggen maar aan _de_ onderkant hebben [je] als basis [zo'n] driehoek 
+B|10| B: [ja] 
+B|11| B: boven [blok] 
+B|12| B: [ja] 
+A|13| A: [dit] [zijn] [de] _trofee_ of [de] gek wasbak 
+B|14| B: [ja] klopt [dat] denken [ik] ook al [ja] 
+B|15| B: A 
+A|16| A: [dat] [zijn] tien 
+A|17| A: [de] _trofee_ 
+B|18| B: [het] [zijn] weer die beker zeggen maar die op [zo'n] driehoek staan 
+A|19| A: [dat] [zijn] vier 
+A|20| A: [dit] [zijn] [de] _trofee_ 
+B|21| B: [ja] jij moeten drukken 
+B|22| B: [ja] 
+B|23| B: L 
+B|24| B: weer die [trofee] op [de] driehoek 
+B|25| B: F 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=1| A | A : ik noemen het een trofee
+	Free: Pattern=trofee, Pattern=een, Pattern=ik, Pattern=het
+	Constrained: 
+Turn ID=2| A | A : kunnen je zijn dat vergelijkbaar
+	Free: Pattern=je, Pattern=dat, Pattern=zijn
+	Constrained: 
+Turn ID=3| A | A : oké met zo'n met zo'n vierkant blok dan een beetje rechts Bovenin
+	Free: Pattern=zo'n, Pattern=dan, Pattern=oké, Pattern=blok, Pattern=een beetje
+	Constrained: Pattern=een
+Turn ID=4| A | A : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=5| A | A : dat zijn vier
+	Free: Pattern=dat, Pattern=zijn
+	Constrained: 
+Turn ID=6| B | B : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=7| B | B : deze dit ding staan zeggen maar veel op een driehoek
+	Free: Pattern=een, Pattern=dit
+	Constrained: 
+Turn ID=8| B | B : en dan zijn het dat ding waarop die staan zijn een beetje draaien
+	Free: Pattern=dat, Pattern=dan, Pattern=het, Pattern=zijn, Pattern=een beetje
+	Constrained: Pattern=een
+Turn ID=9| B | B : zeggen maar aan de onderkant hebben je als basis zo'n driehoek
+	Free: Pattern=je, Pattern=zo'n, Pattern=de
+	Constrained: 
+Turn ID=10| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=11| B | B : boven blok
+	Free: Pattern=blok
+	Constrained: 
+Turn ID=12| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=13| A | A : dit zijn de trofee of de gek wasbak
+	Free: Pattern=trofee, Pattern=zijn, Pattern=dit, Pattern=de
+	Constrained: 
+Turn ID=14| B | B : ja klopt dat denken ik ook al ja
+	Free: Pattern=ja, Pattern=ik, Pattern=dat
+	Constrained: 
+Turn ID=15| B | B : A
+	Free: 
+	Constrained: 
+Turn ID=16| A | A : dat zijn tien
+	Free: Pattern=dat, Pattern=zijn
+	Constrained: 
+Turn ID=17| A | A : de trofee
+	Free: Pattern=trofee, Pattern=de
+	Constrained: 
+Turn ID=18| B | B : het zijn weer die beker zeggen maar die op zo'n driehoek staan
+	Free: Pattern=zo'n, Pattern=het, Pattern=zijn
+	Constrained: 
+Turn ID=19| A | A : dat zijn vier
+	Free: Pattern=dat, Pattern=zijn
+	Constrained: 
+Turn ID=20| A | A : dit zijn de trofee
+	Free: Pattern=trofee, Pattern=zijn, Pattern=dit, Pattern=de
+	Constrained: 
+Turn ID=21| B | B : ja jij moeten drukken
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=22| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=23| B | B : L
+	Free: 
+	Constrained: 
+Turn ID=24| B | B : weer die trofee op de driehoek
+	Free: Pattern=trofee, Pattern=de
+	Constrained: 
+Turn ID=25| B | B : F
+	Free: 
+	Constrained: 

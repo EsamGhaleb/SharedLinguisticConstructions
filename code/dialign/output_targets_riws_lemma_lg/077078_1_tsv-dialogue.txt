@@ -1,0 +1,127 @@
+B|0| B: _je_ hebben _dat_ bak _en_ _van_ _de_ linkerkant komen _twee_ soort _van_ pijlt _erin steken_ 
+B|1| B: _en_ hij hebben _aan de voorkant een_ _een vierkantje_ waarmee _het_ lijken als _je_ hem alsof _je_ hem tegen _de muur kunnen plakken_ 
+A|2| A: _ja_ 
+B|3| B: _en_ _van_ _de_ bovenkant staan er _een_ _spijker of_ _een_ _paddenstoel_ in 
+A|4| A: _ja_ _ja_ 
+A|5| A: nummer [twee] 
+B|6| B: oké 
+A|7| A: dit zijn [dat] komme met zeggen maar [aan de voorkant [een] vierkantje] 
+A|8| A: [en] dan [aan de] zijkant [twee] [van] die _ja_ die die blok zeggen maar die zo [erin steken] zijn 
+A|9| A: [en] dan bovenop nog [de] [spijker of] [paddenstoel] 
+B|10| B: [ja] 
+B|11| B: [en] hij lijken alsof _je_ hem tegen _de muur kunnen plakken_ 
+A|12| A: [ja] die 
+B|13| B: [ja] 
+B|14| B: letter G 
+B|15| B: hij lijken alsof _je_ hem tegen _de muur kunnen plakken_ 
+B|16| B: hij hebben [twee] piercen ding [en] [een] [paddenstoel] 
+A|17| A: [ja] 
+A|18| A: [en] [het] dinge bovenop 
+A|19| A: zijn nummer negen 
+A|20| A: dit zijn die [een] zeggen maar die [je] _aan [de muur_ kunnen plakken] 
+A|21| A: met [dat] [vierkantje] [en] [dat] [paddenstoel] erop 
+B|22| B: letter D 
+B|23| B: hij [kunnen] [aan de muur] [plakken] worden 
+B|24| B: [en] hij hebben [twee] boor doorboren dinget 
+A|25| A: [ja] 
+A|26| A: nummer één 
+A|27| A: die [een] die [je] [aan [de muur] kunnen plakken] 
+A|28| A: met [het] [van] [dat] vierkant [en] [het] spijkert daarop 
+B|29| B: [ja] 
+B|30| B: letter B 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : je hebben dat bak en van de linkerkant komen twee soort van pijlt erin steken
+	Free: Pattern=dat, Pattern=twee, Pattern=de, Pattern=erin steken, Pattern=je, Pattern=van, Pattern=en
+	Constrained: 
+Turn ID=1| B | B : en hij hebben aan de voorkant een een vierkantje waarmee het lijken als je hem alsof je hem tegen de muur kunnen plakken
+	Free: Pattern=de muur kunnen plakken, Pattern=je, Pattern=aan de voorkant een, Pattern=het, Pattern=een vierkantje, Pattern=en
+	Constrained: Pattern=kunnen, Pattern=de, Pattern=aan de, Pattern=een, Pattern=vierkantje, Pattern=plakken
+Turn ID=2| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=3| B | B : en van de bovenkant staan er een spijker of een paddenstoel in
+	Free: Pattern=spijker of, Pattern=de, Pattern=een, Pattern=paddenstoel, Pattern=van, Pattern=en
+	Constrained: 
+Turn ID=4| A | A : ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=5| A | A : nummer twee
+	Free: Pattern=twee
+	Constrained: 
+Turn ID=6| B | B : oké
+	Free: 
+	Constrained: 
+Turn ID=7| A | A : dit zijn dat komme met zeggen maar aan de voorkant een vierkantje
+	Free: Pattern=aan de voorkant een, Pattern=een vierkantje, Pattern=dat
+	Constrained: Pattern=vierkantje, Pattern=een, Pattern=de, Pattern=aan de
+Turn ID=8| A | A : en dan aan de zijkant twee van die ja die die blok zeggen maar die zo erin steken zijn
+	Free: Pattern=twee, Pattern=ja, Pattern=aan de, Pattern=erin steken, Pattern=van, Pattern=en
+	Constrained: Pattern=de
+Turn ID=9| A | A : en dan bovenop nog de spijker of paddenstoel
+	Free: Pattern=spijker of, Pattern=de, Pattern=en, Pattern=paddenstoel
+	Constrained: 
+Turn ID=10| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=11| B | B : en hij lijken alsof je hem tegen de muur kunnen plakken
+	Free: Pattern=de muur kunnen plakken, Pattern=je, Pattern=en
+	Constrained: Pattern=plakken, Pattern=kunnen, Pattern=de
+Turn ID=12| A | A : ja die
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=13| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=14| B | B : letter G
+	Free: 
+	Constrained: 
+Turn ID=15| B | B : hij lijken alsof je hem tegen de muur kunnen plakken
+	Free: Pattern=de muur kunnen plakken, Pattern=je
+	Constrained: Pattern=plakken, Pattern=kunnen, Pattern=de
+Turn ID=16| B | B : hij hebben twee piercen ding en een paddenstoel
+	Free: Pattern=twee, Pattern=en, Pattern=paddenstoel, Pattern=een
+	Constrained: 
+Turn ID=17| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=18| A | A : en het dinge bovenop
+	Free: Pattern=het, Pattern=en
+	Constrained: 
+Turn ID=19| A | A : zijn nummer negen
+	Free: 
+	Constrained: 
+Turn ID=20| A | A : dit zijn die een zeggen maar die je aan de muur kunnen plakken
+	Free: Pattern=de muur kunnen plakken, Pattern=aan de muur, Pattern=je, Pattern=een
+	Constrained: Pattern=aan de, Pattern=plakken, Pattern=kunnen, Pattern=de
+Turn ID=21| A | A : met dat vierkantje en dat paddenstoel erop
+	Free: Pattern=vierkantje, Pattern=dat, Pattern=en, Pattern=paddenstoel
+	Constrained: 
+Turn ID=22| B | B : letter D
+	Free: 
+	Constrained: 
+Turn ID=23| B | B : hij kunnen aan de muur plakken worden
+	Free: Pattern=aan de muur, Pattern=kunnen, Pattern=plakken
+	Constrained: Pattern=aan de, Pattern=de
+Turn ID=24| B | B : en hij hebben twee boor doorboren dinget
+	Free: Pattern=twee, Pattern=en
+	Constrained: 
+Turn ID=25| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=26| A | A : nummer één
+	Free: 
+	Constrained: 
+Turn ID=27| A | A : die een die je aan de muur kunnen plakken
+	Free: Pattern=de muur kunnen plakken, Pattern=aan de muur, Pattern=je, Pattern=een
+	Constrained: Pattern=aan de, Pattern=plakken, Pattern=kunnen, Pattern=de
+Turn ID=28| A | A : met het van dat vierkant en het spijkert daarop
+	Free: Pattern=het, Pattern=van, Pattern=dat, Pattern=en
+	Constrained: 
+Turn ID=29| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=30| B | B : letter B
+	Free: 
+	Constrained: 

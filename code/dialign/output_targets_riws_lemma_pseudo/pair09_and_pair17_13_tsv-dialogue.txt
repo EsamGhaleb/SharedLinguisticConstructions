@@ -1,0 +1,99 @@
+B|0| B: bij mij _staan_ _hij_ _op_ _een_ groot vierkant rechthoek 
+B|1| B: komen _een_ soort van gebobbeld stang door de emmer 
+B|2| B: rond voorop 
+A|3| A: drie bollet 
+A|4| A: _ja_ 
+A|5| A: _hebben_ het lijken net als alsof _dat_ _zijn_ haar _zijn_ 
+A|6| A: _en een_ plat neus 
+A|7| A: _ja_ _dat_ _zijn_ nummer _dat_ _zijn_ nummer zes 
+B|8| B: [ja] wat snel 
+B|9| B: [ja] _en hij_ [zijn] _op_ [dat] platform 
+B|10| B: [ja] 
+B|11| B: I 
+A|12| A: _deze hebben_ hoe heten [dat] [dat] pippi Langkous-staart 
+A|13| A: [ja] 
+A|14| A: [en] dan zo'n plat neus [en hij] [staan] [op] iets plats 
+B|15| B: [deze hebben] de staaf met kralen door de achter de emmer heen [en een] rond voorop 
+A|16| A: nummer dertien 
+B|17| B: [ja] 
+B|18| B: okee o 
+A|19| A: dit [zijn] pippi Langkous 
+B|20| B: [deze hebben] de staal met kra erachter 
+B|21| B: e 
+A|22| A: [dat] [zijn] nummer [een] 
+A|23| A: dit [zijn] pippi Langkous 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : bij mij staan hij op een groot vierkant rechthoek
+	Free: Pattern=een, Pattern=staan, Pattern=hij, Pattern=op
+	Constrained: 
+Turn ID=1| B | B : komen een soort van gebobbeld stang door de emmer
+	Free: Pattern=een
+	Constrained: 
+Turn ID=2| B | B : rond voorop
+	Free: 
+	Constrained: 
+Turn ID=3| A | A : drie bollet
+	Free: 
+	Constrained: 
+Turn ID=4| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=5| A | A : hebben het lijken net als alsof dat zijn haar zijn
+	Free: Pattern=dat, Pattern=zijn, Pattern=hebben
+	Constrained: 
+Turn ID=6| A | A : en een plat neus
+	Free: Pattern=en een
+	Constrained: Pattern=een, Pattern=en
+Turn ID=7| A | A : ja dat zijn nummer dat zijn nummer zes
+	Free: Pattern=ja, Pattern=dat, Pattern=zijn
+	Constrained: 
+Turn ID=8| B | B : ja wat snel
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=9| B | B : ja en hij zijn op dat platform
+	Free: Pattern=dat, Pattern=ja, Pattern=op, Pattern=en hij, Pattern=zijn
+	Constrained: Pattern=en, Pattern=hij
+Turn ID=10| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=11| B | B : I
+	Free: 
+	Constrained: 
+Turn ID=12| A | A : deze hebben hoe heten dat dat pippi Langkous-staart
+	Free: Pattern=deze hebben, Pattern=dat
+	Constrained: Pattern=hebben
+Turn ID=13| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=14| A | A : en dan zo'n plat neus en hij staan op iets plats
+	Free: Pattern=en hij, Pattern=staan, Pattern=en, Pattern=op
+	Constrained: Pattern=en, Pattern=hij
+Turn ID=15| B | B : deze hebben de staaf met kralen door de achter de emmer heen en een rond voorop
+	Free: Pattern=deze hebben, Pattern=en een
+	Constrained: Pattern=een, Pattern=en, Pattern=hebben
+Turn ID=16| A | A : nummer dertien
+	Free: 
+	Constrained: 
+Turn ID=17| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=18| B | B : okee o
+	Free: 
+	Constrained: 
+Turn ID=19| A | A : dit zijn pippi Langkous
+	Free: Pattern=zijn
+	Constrained: 
+Turn ID=20| B | B : deze hebben de staal met kra erachter
+	Free: Pattern=deze hebben
+	Constrained: Pattern=hebben
+Turn ID=21| B | B : e
+	Free: 
+	Constrained: 
+Turn ID=22| A | A : dat zijn nummer een
+	Free: Pattern=een, Pattern=dat, Pattern=zijn
+	Constrained: 
+Turn ID=23| A | A : dit zijn pippi Langkous
+	Free: Pattern=zijn
+	Constrained: 

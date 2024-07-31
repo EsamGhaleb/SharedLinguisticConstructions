@@ -1,0 +1,175 @@
+A|0| A: _ja_ _die_ moeten _je_ _nog een_ keer _zeggen_ 
+A|1| A: _ja_ 
+B|2| B: het voelen alsof het _een soort_ _heel_ stevig postuur _zijn_ met _een heel klein_ _balk bovenop_ 
+A|3| A: okee 
+A|4| A: negen 
+B|5| B: _op de_ _op_ het _kop_ als het _zijn_ 
+B|6| B: _en_ _aan de_ rechterkant zitten _een heel klein_ streep met [een] vierkan eruit 
+B|7| B: _aan de_ rechterkant zitten zo'n zitten [nog een] attachment 
+A|8| A: deze hebben [een] horizontaal [balk] rechtop [bovenop] [de] emmer 
+A|9| A: link [zijn] er [een] ook [een soort] trechter 
+A|10| A: _die_ [op de] [kop] staan 
+A|11| A: _rechts_ _van_ [de] emmer [zijn] [een heel klein] cilinder _die_ rechtop staan [op] ook één _of_ ander uitsteeksel 
+B|12| B: [heel klein] [balk] vierkan 
+B|13| B: [ja] 
+B|14| B: [ja] balkje _en_ het het kunnen eigenlijk [een soort] [van] robot [die] stop [zeggen] 
+B|15| B: [ja] oké 
+B|16| B: D 
+A|17| A: [ja] twee 
+A|18| A: deze hebben [die] omgekeerd trechter _aan de linkerkant_ [en] [een] [balk bovenop] [de] emmer 
+B|19| B: [heel klein] [balk bovenop] 
+B|20| B: met het donker figuur 
+B|21| B: [aan de linkerkant] 
+B|22| B: het zitten [soort] [van] vierkant [die] erin vallen alleen [heel klein] [balk] steken uit het [kop] 
+B|23| B: [aan de] bovenkant 
+B|24| B: [aan de linkerkant] uh , [of] [aan de] rechterkant [van] het figuur zitten [een heel klein] dun figuur met [een] vierkan erop 
+B|25| B: [aan de] rechterkant 
+B|26| B: [ja] zo'n attachment 
+B|27| B: [ja] 
+A|28| A: [ja] drie 
+A|29| A: [die] hebben [die] omgekeerd trechter [aan de linkerkant] 
+B|30| B: [ja] ik [zijn] hem [aan] het zoeken , waar [zijn] [je] 
+B|31| B: waar [zijn] dan dan , ah daar 
+B|32| B: [en] dat dat [rechts] dat attachment dinge 
+B|33| B: [ja] [ja] 
+B|34| B: kunnen 
+B|35| B: E 
+B|36| B: vierkant balkje [die] erin gaan 
+B|37| B: [balk] [op] [op] top 
+B|38| B: dun armpje [aan de] rechterkant 
+B|39| B: met [een] vierkant 
+B|40| B: [ja] met dat dinge [ja] 
+B|41| B: [ja] 
+B|42| B: I 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : ja die moeten je nog een keer zeggen
+	Free: Pattern=nog een, Pattern=ja, Pattern=zeggen, Pattern=die, Pattern=je
+	Constrained: Pattern=een
+Turn ID=1| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=2| B | B : het voelen alsof het een soort heel stevig postuur zijn met een heel klein balk bovenop
+	Free: Pattern=heel, Pattern=balk bovenop, Pattern=een soort, Pattern=zijn, Pattern=een heel klein
+	Constrained: Pattern=bovenop, Pattern=een, Pattern=balk, Pattern=heel klein, Pattern=heel, Pattern=soort
+Turn ID=3| A | A : okee
+	Free: 
+	Constrained: 
+Turn ID=4| A | A : negen
+	Free: 
+	Constrained: 
+Turn ID=5| B | B : op de op het kop als het zijn
+	Free: Pattern=op de, Pattern=kop, Pattern=op, Pattern=zijn
+	Constrained: Pattern=op, Pattern=de
+Turn ID=6| B | B : en aan de rechterkant zitten een heel klein streep met een vierkan eruit
+	Free: Pattern=een heel klein, Pattern=aan de, Pattern=een, Pattern=en
+	Constrained: Pattern=heel, Pattern=een, Pattern=heel klein, Pattern=de, Pattern=aan
+Turn ID=7| B | B : aan de rechterkant zitten zo'n zitten nog een attachment
+	Free: Pattern=nog een, Pattern=aan de
+	Constrained: Pattern=een, Pattern=aan, Pattern=de
+Turn ID=8| A | A : deze hebben een horizontaal balk rechtop bovenop de emmer
+	Free: Pattern=een, Pattern=bovenop, Pattern=balk, Pattern=de
+	Constrained: 
+Turn ID=9| A | A : link zijn er een ook een soort trechter
+	Free: Pattern=een soort, Pattern=een, Pattern=zijn
+	Constrained: Pattern=een, Pattern=soort
+Turn ID=10| A | A : die op de kop staan
+	Free: Pattern=op de, Pattern=kop, Pattern=die
+	Constrained: Pattern=op, Pattern=de
+Turn ID=11| A | A : rechts van de emmer zijn een heel klein cilinder die rechtop staan op ook één of ander uitsteeksel
+	Free: Pattern=of, Pattern=op, Pattern=die, Pattern=van, Pattern=zijn, Pattern=een heel klein, Pattern=de, Pattern=rechts
+	Constrained: Pattern=heel klein, Pattern=een, Pattern=heel
+Turn ID=12| B | B : heel klein balk vierkan
+	Free: Pattern=heel klein, Pattern=balk
+	Constrained: Pattern=heel
+Turn ID=13| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=14| B | B : ja balkje en het het kunnen eigenlijk een soort van robot die stop zeggen
+	Free: Pattern=ja, Pattern=zeggen, Pattern=die, Pattern=een soort, Pattern=van, Pattern=en
+	Constrained: Pattern=een, Pattern=soort
+Turn ID=15| B | B : ja oké
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=16| B | B : D
+	Free: 
+	Constrained: 
+Turn ID=17| A | A : ja twee
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=18| A | A : deze hebben die omgekeerd trechter aan de linkerkant en een balk bovenop de emmer
+	Free: Pattern=de, Pattern=een, Pattern=balk bovenop, Pattern=die, Pattern=en, Pattern=aan de linkerkant
+	Constrained: Pattern=bovenop, Pattern=aan de, Pattern=balk, Pattern=de, Pattern=aan
+Turn ID=19| B | B : heel klein balk bovenop
+	Free: Pattern=heel klein, Pattern=balk bovenop
+	Constrained: Pattern=bovenop, Pattern=heel, Pattern=balk
+Turn ID=20| B | B : met het donker figuur
+	Free: 
+	Constrained: 
+Turn ID=21| B | B : aan de linkerkant
+	Free: Pattern=aan de linkerkant
+	Constrained: Pattern=aan, Pattern=de, Pattern=aan de
+Turn ID=22| B | B : het zitten soort van vierkant die erin vallen alleen heel klein balk steken uit het kop
+	Free: Pattern=soort, Pattern=kop, Pattern=balk, Pattern=die, Pattern=van, Pattern=heel klein
+	Constrained: Pattern=heel
+Turn ID=23| B | B : aan de bovenkant
+	Free: Pattern=aan de
+	Constrained: Pattern=aan, Pattern=de
+Turn ID=24| B | B : aan de linkerkant uh , of aan de rechterkant van het figuur zitten een heel klein dun figuur met een vierkan erop
+	Free: Pattern=of, Pattern=aan de, Pattern=een, Pattern=van, Pattern=aan de linkerkant, Pattern=een heel klein
+	Constrained: Pattern=heel, Pattern=aan de, Pattern=een, Pattern=heel klein, Pattern=de, Pattern=aan
+Turn ID=25| B | B : aan de rechterkant
+	Free: Pattern=aan de
+	Constrained: Pattern=aan, Pattern=de
+Turn ID=26| B | B : ja zo'n attachment
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=27| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=28| A | A : ja drie
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=29| A | A : die hebben die omgekeerd trechter aan de linkerkant
+	Free: Pattern=aan de linkerkant, Pattern=die
+	Constrained: Pattern=aan, Pattern=de, Pattern=aan de
+Turn ID=30| B | B : ja ik zijn hem aan het zoeken , waar zijn je
+	Free: Pattern=ja, Pattern=aan, Pattern=je, Pattern=zijn
+	Constrained: 
+Turn ID=31| B | B : waar zijn dan dan , ah daar
+	Free: Pattern=zijn
+	Constrained: 
+Turn ID=32| B | B : en dat dat rechts dat attachment dinge
+	Free: Pattern=en, Pattern=rechts
+	Constrained: 
+Turn ID=33| B | B : ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=34| B | B : kunnen
+	Free: 
+	Constrained: 
+Turn ID=35| B | B : E
+	Free: 
+	Constrained: 
+Turn ID=36| B | B : vierkant balkje die erin gaan
+	Free: Pattern=die
+	Constrained: 
+Turn ID=37| B | B : balk op op top
+	Free: Pattern=op, Pattern=balk
+	Constrained: 
+Turn ID=38| B | B : dun armpje aan de rechterkant
+	Free: Pattern=aan de
+	Constrained: Pattern=aan, Pattern=de
+Turn ID=39| B | B : met een vierkant
+	Free: Pattern=een
+	Constrained: 
+Turn ID=40| B | B : ja met dat dinge ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=41| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=42| B | B : I
+	Free: 
+	Constrained: 

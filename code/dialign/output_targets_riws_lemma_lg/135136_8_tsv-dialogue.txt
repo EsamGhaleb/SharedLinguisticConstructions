@@ -1,0 +1,91 @@
+A|0| A: _deze hebben_ _een_ _dinge_ aan de onderkant _met een knik_ erin 
+B|1| B: [hebben] _die_ bovenop [een] soort _ja_ of vierkant maar dan kantelen 
+A|2| A: _met_ _dinge_ _met_ ding erdoorheen 
+B|3| B: _ja_ _met die_ blok weer in elkaar 
+A|4| A: [ja] 
+A|5| A: [ja] [ja] 
+B|6| B: _oké_ dan _zijn_ _het_ M 
+B|7| B: [deze hebben] _zo'n_ [dinge] daaronder [met een knik] 
+B|8| B: en [ja] _zo'n_ vierkant _dat_ [een] beetje 
+A|9| A: [ja] alleen [het] [dinge] [met] [knik] ver niks aan de onderkant toch 
+B|10| B: nee [ja] kloppen 
+A|11| A: [oké] _dat zijn bij mij_ negen 
+A|12| A: [deze hebben] [dat] onderkan [met die] [knik] erin 
+B|13| B: even zoeken 
+B|14| B: [dat zijn bij mij] H 
+B|15| B: [deze] [zijn] weer [met] [dat] _dinge eronder_ zo 
+A|16| A: [met] [het] [dinge eronder] [ja] [dat zijn bij mij] elf 
+A|17| A: dit [zijn] [die] [met] [het] [dinge eronder] [met] [zo'n] [knik] erin 
+B|18| B: [dat zijn bij mij] d 
+B|19| B: [met] [dat] _knik onderaan_ 
+A|20| A: [met] [het] [knik onderaan] 
+A|21| A: [ja] [dat zijn] nummer veertien 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : deze hebben een dinge aan de onderkant met een knik erin
+	Free: Pattern=met een knik, Pattern=deze hebben, Pattern=een, Pattern=dinge
+	Constrained: Pattern=een, Pattern=hebben, Pattern=knik, Pattern=met, Pattern=deze
+Turn ID=1| B | B : hebben die bovenop een soort ja of vierkant maar dan kantelen
+	Free: Pattern=een, Pattern=ja, Pattern=hebben, Pattern=die
+	Constrained: 
+Turn ID=2| A | A : met dinge met ding erdoorheen
+	Free: Pattern=dinge, Pattern=met
+	Constrained: 
+Turn ID=3| B | B : ja met die blok weer in elkaar
+	Free: Pattern=met die, Pattern=ja
+	Constrained: Pattern=die, Pattern=met
+Turn ID=4| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=5| A | A : ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=6| B | B : oké dan zijn het M
+	Free: Pattern=zijn, Pattern=oké, Pattern=het
+	Constrained: 
+Turn ID=7| B | B : deze hebben zo'n dinge daaronder met een knik
+	Free: Pattern=met een knik, Pattern=deze hebben, Pattern=dinge, Pattern=zo'n
+	Constrained: Pattern=een, Pattern=hebben, Pattern=knik, Pattern=met, Pattern=deze
+Turn ID=8| B | B : en ja zo'n vierkant dat een beetje
+	Free: Pattern=een, Pattern=zo'n, Pattern=ja, Pattern=dat
+	Constrained: 
+Turn ID=9| A | A : ja alleen het dinge met knik ver niks aan de onderkant toch
+	Free: Pattern=ja, Pattern=het, Pattern=knik, Pattern=met, Pattern=dinge
+	Constrained: 
+Turn ID=10| B | B : nee ja kloppen
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=11| A | A : oké dat zijn bij mij negen
+	Free: Pattern=dat zijn bij mij, Pattern=oké
+	Constrained: Pattern=dat, Pattern=zijn, Pattern=dat zijn
+Turn ID=12| A | A : deze hebben dat onderkan met die knik erin
+	Free: Pattern=met die, Pattern=deze hebben, Pattern=knik, Pattern=dat
+	Constrained: Pattern=deze, Pattern=hebben, Pattern=die, Pattern=met
+Turn ID=13| B | B : even zoeken
+	Free: 
+	Constrained: 
+Turn ID=14| B | B : dat zijn bij mij H
+	Free: Pattern=dat zijn bij mij
+	Constrained: Pattern=dat, Pattern=zijn, Pattern=dat zijn
+Turn ID=15| B | B : deze zijn weer met dat dinge eronder zo
+	Free: Pattern=dinge eronder, Pattern=dat, Pattern=met, Pattern=zijn, Pattern=deze
+	Constrained: Pattern=dinge
+Turn ID=16| A | A : met het dinge eronder ja dat zijn bij mij elf
+	Free: Pattern=dinge eronder, Pattern=ja, Pattern=het, Pattern=dat zijn bij mij, Pattern=met
+	Constrained: Pattern=dat, Pattern=zijn, Pattern=dat zijn, Pattern=dinge
+Turn ID=17| A | A : dit zijn die met het dinge eronder met zo'n knik erin
+	Free: Pattern=dinge eronder, Pattern=zo'n, Pattern=het, Pattern=knik, Pattern=met, Pattern=die, Pattern=zijn
+	Constrained: Pattern=dinge
+Turn ID=18| B | B : dat zijn bij mij d
+	Free: Pattern=dat zijn bij mij
+	Constrained: Pattern=dat, Pattern=zijn, Pattern=dat zijn
+Turn ID=19| B | B : met dat knik onderaan
+	Free: Pattern=knik onderaan, Pattern=dat, Pattern=met
+	Constrained: Pattern=knik
+Turn ID=20| A | A : met het knik onderaan
+	Free: Pattern=knik onderaan, Pattern=het, Pattern=met
+	Constrained: Pattern=knik
+Turn ID=21| A | A : ja dat zijn nummer veertien
+	Free: Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=zijn, Pattern=dat

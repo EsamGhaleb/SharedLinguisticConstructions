@@ -1,0 +1,175 @@
+A|0| A: _deze_ hebben zo'n uitsteeksel _bovenop_ 
+A|1| A: ik vinden _het_ _een_ beetje lijken op _een_ plan in _een_ pot 
+A|2| A: _en_ zo'n zelfde uitsteeksel _zitten ook_ nog _aan de_ linkerkant 
+A|3| A: _ja_ _en dan_ hebben _die_ rechts nog iets wat op _een_ toren lijken _of_ _een_ verrekijker _of_ zo 
+B|4| B: [ja] 
+B|5| B: [ja] 
+B|6| B: [het] _zijn_ maar zeggen maar _dat_ _ding_ _dat_ [aan] _één_ kant uitsteken [en] _dat_ daarboven _zijn_ hetzelfde zeker 
+B|7| B: [ja] 
+B|8| B: [ja] [ja] 
+B|9| B: _oké_ 
+B|10| B: _dat zijn_ E 
+A|11| A: [ja] 
+A|12| A: [ja] 
+A|13| A: [oké] [dat zijn] elf 
+B|14| B: [ja] [deze] [zijn] _met_ [die] [ja] _met dat_ [een] _ding bovenop_ [dat] [ook] [aan de] zijkant [zitten] zeggen maar 
+B|15| B: zeggen maar [dat] [dat] eerst [dan] smal [zijn] [en dan] breder worden [en dan] weer smal worden 
+B|16| B: [en] diezelfde [zitten ook] [aan de] zijkant 
+B|17| B: [en dan] [aan de] ander _één_ van [de] ander zijkant [het] [zijn] net [of] daar [een] wolkenkrabber doorheen [zijn] Geboord 
+B|18| B: [ja] [ja] [ja] 
+A|19| A: _dit zijn die met_ [één] toren [aan de] rechterkant [en] zo'n [ding bovenop] [die] plant in [die] pot 
+A|20| A: [ja] 
+A|21| A: [ja] 
+A|22| A: [ja] 
+A|23| A: [oké] [dat zijn] negen 
+B|24| B: [ja] 
+B|25| B: [ja] 
+B|26| B: [ja] 
+B|27| B: [ja] [ja] 
+B|28| B: [ja] [die] cactusachtig wolkenkrabber 
+B|29| B: J 
+A|30| A: _dit zijn die [met_ dat] toren erin [en] [die] plant in [die] pot 
+A|31| A: [met] zo'n zelfde uitsteeksel nog 
+A|32| A: [ja] 
+B|33| B: [ja] [dit zijn die met] [die] [één] wolkenkrabber zeggen maar 
+B|34| B: [en dan] [met] [die] cactusachtig [ding] 
+A|35| A: [ja] 
+A|36| A: [oké] [dat zijn] vier 
+B|37| B: [die] 
+B|38| B: [ja] 
+B|39| B: [ja] 
+B|40| B: B 
+B|41| B: [met] [die] [een] wolkenkrabber 
+B|42| B: [ja] 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : deze hebben zo'n uitsteeksel bovenop
+	Free: Pattern=bovenop, Pattern=deze
+	Constrained: 
+Turn ID=1| A | A : ik vinden het een beetje lijken op een plan in een pot
+	Free: Pattern=het, Pattern=een
+	Constrained: 
+Turn ID=2| A | A : en zo'n zelfde uitsteeksel zitten ook nog aan de linkerkant
+	Free: Pattern=aan de, Pattern=zitten ook, Pattern=en
+	Constrained: Pattern=ook, Pattern=aan, Pattern=de, Pattern=zitten
+Turn ID=3| A | A : ja en dan hebben die rechts nog iets wat op een toren lijken of een verrekijker of zo
+	Free: Pattern=of, Pattern=ja, Pattern=en dan, Pattern=een, Pattern=die
+	Constrained: Pattern=en, Pattern=dan
+Turn ID=4| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=5| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=6| B | B : het zijn maar zeggen maar dat ding dat aan één kant uitsteken en dat daarboven zijn hetzelfde zeker
+	Free: Pattern=dat, Pattern=aan, Pattern=ding, Pattern=het, Pattern=en, Pattern=zijn, Pattern=één
+	Constrained: 
+Turn ID=7| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=8| B | B : ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=9| B | B : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=10| B | B : dat zijn E
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=11| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=12| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=13| A | A : oké dat zijn elf
+	Free: Pattern=dat zijn, Pattern=oké
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=14| B | B : ja deze zijn met die ja met dat een ding bovenop dat ook aan de zijkant zitten zeggen maar
+	Free: Pattern=dat, Pattern=ja, Pattern=een, Pattern=ding bovenop, Pattern=met dat, Pattern=met, Pattern=zijn, Pattern=deze, Pattern=aan de, Pattern=ook, Pattern=die, Pattern=zitten
+	Constrained: Pattern=ding, Pattern=met, Pattern=dat, Pattern=bovenop, Pattern=de, Pattern=aan
+Turn ID=15| B | B : zeggen maar dat dat eerst dan smal zijn en dan breder worden en dan weer smal worden
+	Free: Pattern=en dan, Pattern=dat, Pattern=dan, Pattern=zijn
+	Constrained: Pattern=en, Pattern=dan
+Turn ID=16| B | B : en diezelfde zitten ook aan de zijkant
+	Free: Pattern=aan de, Pattern=zitten ook, Pattern=en
+	Constrained: Pattern=ook, Pattern=aan, Pattern=de, Pattern=zitten
+Turn ID=17| B | B : en dan aan de ander één van de ander zijkant het zijn net of daar een wolkenkrabber doorheen zijn Geboord
+	Free: Pattern=of, Pattern=de, Pattern=en dan, Pattern=aan de, Pattern=een, Pattern=het, Pattern=zijn, Pattern=één
+	Constrained: Pattern=en, Pattern=dan, Pattern=aan, Pattern=de
+Turn ID=18| B | B : ja ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=19| A | A : dit zijn die met één toren aan de rechterkant en zo'n ding bovenop die plant in die pot
+	Free: Pattern=aan de, Pattern=ding bovenop, Pattern=dit zijn die met, Pattern=die, Pattern=en, Pattern=één
+	Constrained: Pattern=bovenop, Pattern=ding, Pattern=met, Pattern=die, Pattern=zijn, Pattern=de, Pattern=aan
+Turn ID=20| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=21| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=22| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=23| A | A : oké dat zijn negen
+	Free: Pattern=dat zijn, Pattern=oké
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=24| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=25| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=26| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=27| B | B : ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=28| B | B : ja die cactusachtig wolkenkrabber
+	Free: Pattern=die, Pattern=ja
+	Constrained: 
+Turn ID=29| B | B : J
+	Free: 
+	Constrained: 
+Turn ID=30| A | A : dit zijn die met dat toren erin en die plant in die pot
+	Free: Pattern=dit zijn die met, Pattern=met dat, Pattern=en, Pattern=die
+	Constrained: Pattern=dat, Pattern=zijn, Pattern=met, Pattern=die
+Turn ID=31| A | A : met zo'n zelfde uitsteeksel nog
+	Free: Pattern=met
+	Constrained: 
+Turn ID=32| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=33| B | B : ja dit zijn die met die één wolkenkrabber zeggen maar
+	Free: Pattern=dit zijn die met, Pattern=die, Pattern=één, Pattern=ja
+	Constrained: Pattern=zijn, Pattern=met, Pattern=die
+Turn ID=34| B | B : en dan met die cactusachtig ding
+	Free: Pattern=en dan, Pattern=die, Pattern=ding, Pattern=met
+	Constrained: Pattern=en, Pattern=dan
+Turn ID=35| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=36| A | A : oké dat zijn vier
+	Free: Pattern=dat zijn, Pattern=oké
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=37| B | B : die
+	Free: Pattern=die
+	Constrained: 
+Turn ID=38| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=39| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=40| B | B : B
+	Free: 
+	Constrained: 
+Turn ID=41| B | B : met die een wolkenkrabber
+	Free: Pattern=die, Pattern=met, Pattern=een
+	Constrained: 
+Turn ID=42| B | B : ja
+	Free: Pattern=ja
+	Constrained: 

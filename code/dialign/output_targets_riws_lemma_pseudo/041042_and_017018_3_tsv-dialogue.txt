@@ -1,0 +1,163 @@
+B|0| B: even kijken deze _hebben_ _een_ _een soort_ wokkel aan _de_ onderkant _en_ daaraan _een_ driehoekje 
+B|1| B: heel kenmerken 
+B|2| B: _ja_ kunnen _er_ echt _maar_ _één_ _zijn_ 
+A|3| A: [ja] [ja] ik zien [er] [een] juichen persoon in 
+A|4| A: [maar] inderdaad 
+A|5| A: twee armp op [één] been staan _die_ op [een] driehoek plateau 
+A|6| A: [ja] 
+A|7| A: _dat zijn_ nummer vier 
+B|8| B: [ja] 
+B|9| B: [dat zijn] voor mij A 
+A|10| A: _dit zijn_ [dat] juichen persoon op [dat] driehoekig plateau 
+A|11| A: _die_ [ja] je [hebben] dan [dat] [dat] vormp [de] basisvorm 
+A|12| A: daarbovenop zitten [een soort] spiraal _die_ naar [een] driehoekig plateau gaan 
+A|13| A: [en] ver staan [er] twee blok [en] nog [een] ander [soort] uitsteeksel 
+A|14| A: nee 
+A|15| A: nee _die_ ook niet 
+A|16| A: dus best wel langwerpig 
+A|17| A: dus [de] basisvorm [en] daaronder komen [een soort] spiraalvorm uit 
+A|18| A: [en] _die_ zitten op [dat] driehoekig plateau 
+A|19| A: [ja] 
+B|20| B: [dit zijn] [die] _met_ _het_ wokkeltje [en] _het_ driehoekje eronder 
+A|21| A: [ja] 
+A|22| A: [die] toejuichen 
+A|23| A: [ja] 
+A|24| A: [dat zijn] nummer tien 
+B|25| B: _oké_ 
+B|26| B: [dat zijn] L voor mij 
+A|27| A: [dit zijn] [de] juichen persoon 
+A|28| A: dus _met de_ spiraal op [een] driehoekig plateau 
+B|29| B: [dit zijn] [die] weer [met de] wokkel [en] _het_ driehoekje aan [de] onderkant 
+B|30| B: [ja] 
+B|31| B: F 
+A|32| A: [die] toejuichen 
+A|33| A: [die] persoon [ja] 
+A|34| A: [oké] 
+A|35| A: [dat zijn] nummer vier 
+A|36| A: [dit zijn] [dat] juichen poppe 
+A|37| A: dus op [het] driehoekig plateau 
+A|38| A: [met de] spiraalvorm 
+A|39| A: [en] dan 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : even kijken deze hebben een een soort wokkel aan de onderkant en daaraan een driehoekje
+	Free: Pattern=de, Pattern=een, Pattern=hebben, Pattern=een soort, Pattern=en
+	Constrained: Pattern=een, Pattern=soort
+Turn ID=1| B | B : heel kenmerken
+	Free: 
+	Constrained: 
+Turn ID=2| B | B : ja kunnen er echt maar één zijn
+	Free: Pattern=ja, Pattern=er, Pattern=één, Pattern=zijn, Pattern=maar
+	Constrained: 
+Turn ID=3| A | A : ja ja ik zien er een juichen persoon in
+	Free: Pattern=een, Pattern=er, Pattern=ja
+	Constrained: 
+Turn ID=4| A | A : maar inderdaad
+	Free: Pattern=maar
+	Constrained: 
+Turn ID=5| A | A : twee armp op één been staan die op een driehoek plateau
+	Free: Pattern=een, Pattern=die, Pattern=één
+	Constrained: 
+Turn ID=6| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=7| A | A : dat zijn nummer vier
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=8| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=9| B | B : dat zijn voor mij A
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=10| A | A : dit zijn dat juichen persoon op dat driehoekig plateau
+	Free: Pattern=dit zijn, Pattern=dat
+	Constrained: Pattern=zijn
+Turn ID=11| A | A : die ja je hebben dan dat dat vormp de basisvorm
+	Free: Pattern=dat, Pattern=hebben, Pattern=die, Pattern=de, Pattern=ja
+	Constrained: 
+Turn ID=12| A | A : daarbovenop zitten een soort spiraal die naar een driehoekig plateau gaan
+	Free: Pattern=een soort, Pattern=een, Pattern=die
+	Constrained: Pattern=een, Pattern=soort
+Turn ID=13| A | A : en ver staan er twee blok en nog een ander soort uitsteeksel
+	Free: Pattern=een, Pattern=er, Pattern=en, Pattern=soort
+	Constrained: 
+Turn ID=14| A | A : nee
+	Free: 
+	Constrained: 
+Turn ID=15| A | A : nee die ook niet
+	Free: Pattern=die
+	Constrained: 
+Turn ID=16| A | A : dus best wel langwerpig
+	Free: 
+	Constrained: 
+Turn ID=17| A | A : dus de basisvorm en daaronder komen een soort spiraalvorm uit
+	Free: Pattern=een soort, Pattern=en, Pattern=de
+	Constrained: Pattern=een, Pattern=soort
+Turn ID=18| A | A : en die zitten op dat driehoekig plateau
+	Free: Pattern=en, Pattern=dat, Pattern=die
+	Constrained: 
+Turn ID=19| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=20| B | B : dit zijn die met het wokkeltje en het driehoekje eronder
+	Free: Pattern=het, Pattern=met, Pattern=die, Pattern=en, Pattern=dit zijn
+	Constrained: Pattern=zijn
+Turn ID=21| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=22| A | A : die toejuichen
+	Free: Pattern=die
+	Constrained: 
+Turn ID=23| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=24| A | A : dat zijn nummer tien
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=25| B | B : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=26| B | B : dat zijn L voor mij
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=27| A | A : dit zijn de juichen persoon
+	Free: Pattern=dit zijn, Pattern=de
+	Constrained: Pattern=zijn
+Turn ID=28| A | A : dus met de spiraal op een driehoekig plateau
+	Free: Pattern=met de, Pattern=een
+	Constrained: Pattern=de, Pattern=met
+Turn ID=29| B | B : dit zijn die weer met de wokkel en het driehoekje aan de onderkant
+	Free: Pattern=het, Pattern=die, Pattern=en, Pattern=dit zijn, Pattern=de, Pattern=met de
+	Constrained: Pattern=de, Pattern=zijn, Pattern=met
+Turn ID=30| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=31| B | B : F
+	Free: 
+	Constrained: 
+Turn ID=32| A | A : die toejuichen
+	Free: Pattern=die
+	Constrained: 
+Turn ID=33| A | A : die persoon ja
+	Free: Pattern=ja, Pattern=die
+	Constrained: 
+Turn ID=34| A | A : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=35| A | A : dat zijn nummer vier
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=36| A | A : dit zijn dat juichen poppe
+	Free: Pattern=dit zijn, Pattern=dat
+	Constrained: Pattern=zijn
+Turn ID=37| A | A : dus op het driehoekig plateau
+	Free: Pattern=het
+	Constrained: 
+Turn ID=38| A | A : met de spiraalvorm
+	Free: Pattern=met de
+	Constrained: Pattern=de, Pattern=met
+Turn ID=39| A | A : en dan
+	Free: Pattern=en
+	Constrained: 

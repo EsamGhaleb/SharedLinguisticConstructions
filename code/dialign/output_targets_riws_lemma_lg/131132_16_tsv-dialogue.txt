@@ -1,0 +1,199 @@
+B|0| B: _oké_ 
+A|1| A: deze _hebben_ _van_ _mij_ _zijn_ het cupje _en_ hij oeh _ja_ hij _hebben_ one's 
+A|2| A: _ik_ vinden het _een_ _soort_ _één_ _één_ het _zijn_ _één verrekijker_ _zeggen maar_ _dat_ _die_ naar voren steken 
+A|3| A: _dus_ het _zijn_ _zeggen maar_ blok _zo_ blok blok _en_ _dat zijn_ _dan zo_ groot worden 
+B|4| B: [ja] [die] [hebben] [soort] [van] [die] torent [zo] 
+B|5| B: _ja _ja_ _ja_ ja_ 
+A|6| A: [ja] 
+B|7| B: [ja] 
+B|8| B: _en dan hebben die_ nog zo'n [soort] antenne erop 
+A|9| A: [ja ja] _één_ om _één_ omhoog [en] _één_ naar _de zijkant_ 
+B|10| B: [en] [een] vierkantje _aan [de_ zijkant] 
+B|11| B: [ja] 
+A|12| A: [en dan hebben _die] een_ [soort] slurf _aan de achterkant_ 
+B|13| B: [dus] je [hebben] [zo] [die] [verrekijker] _met twee_ [van] [die] torent [zo] toch ? of bedoelen je [die een] _een verrekijker_ 
+A|14| A: oeh _nee_ 
+A|15| A: _nee_ het _zijn_ _één verrekijker_ het _zijn_ _niet_ [de] [twee] [verrekijker] 
+B|16| B: [ja] [nee] [dan] weten [ik] [ja] [en [dan] zo] [één] [zo] [één] [zo] [en [dan] zo] nog zo'n slurfarmp [aan de achterkant] 
+A|17| A: [ja] 
+A|18| A: [ja] 
+B|19| B: [ja] [dat zijn] voor [mij] E 
+B|20| B: _oké_ nu [hebben] [ik] [die] _met_ [dat] _een verrekijker_ [en] [die] [twee] staaf [zo] 
+A|21| A: [ja] 
+A|22| A: _ik zitten_ hem _even_ _te_ zoeken [de] [een verrekijker] 
+A|23| A: [ja] [oké] 
+A|24| A: nummer elf 
+A|25| A: _ik hebben_ [de] _één verrekijker_ _zeggen maar_ 
+B|26| B: [ja] 
+B|27| B: [dat zijn] bij [mij] 
+A|28| A: [met twee] staf [zo] 
+B|29| B: [met] [die] staaf [zo] 
+B|30| B: [ja] 
+A|31| A: [ja] 
+B|32| B: staan [ik] nog op [dat] kruis ? [ja] 
+B|33| B: J 
+A|34| A: [ja] 
+B|35| B: [oké] nu [hebben] [ik] [met] [die [een] verrekijker] [en] [die] [twee] [ja] ronde uitsteeksel 
+A|36| A: [ja] 
+A|37| A: [dat zijn] nummer negen 
+A|38| A: sorry [de] 
+B|39| B: [ik zitten] gewoon _te kijken_ welk we nog [niet] [hebben] [hebben] 
+A|40| A: [de] _één verrekijker_ 
+B|41| B: [ja] 
+B|42| B: [even] _kijken waar_ staan [die] 
+B|43| B: daar [dat zijn] bij [mij] B 
+B|44| B: [ik [hebben] die] [met] [één verrekijker] [en] [die] [twee] staaf daaruit 
+B|45| B: [en] [met] [die] _staart_ [zeggen maar] 
+A|46| A: [ja] 
+A|47| A: [staart] 
+A|48| A: [ik zitten] [even] [te [kijken] waar] kunnen [ik] hem vinden 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=1| A | A : deze hebben van mij zijn het cupje en hij oeh ja hij hebben one's
+	Free: Pattern=ja, Pattern=hebben, Pattern=mij, Pattern=zijn, Pattern=van, Pattern=en
+	Constrained: 
+Turn ID=2| A | A : ik vinden het een soort één één het zijn één verrekijker zeggen maar dat die naar voren steken
+	Free: Pattern=dat, Pattern=soort, Pattern=een, Pattern=zeggen maar, Pattern=die, Pattern=één verrekijker, Pattern=ik, Pattern=zijn, Pattern=één
+	Constrained: Pattern=verrekijker, Pattern=één
+Turn ID=3| A | A : dus het zijn zeggen maar blok zo blok blok en dat zijn dan zo groot worden
+	Free: Pattern=dat zijn, Pattern=dus, Pattern=zeggen maar, Pattern=zo, Pattern=en, Pattern=zijn, Pattern=dan zo
+	Constrained: Pattern=dan, Pattern=dat, Pattern=zijn, Pattern=zo
+Turn ID=4| B | B : ja die hebben soort van die torent zo
+	Free: Pattern=soort, Pattern=ja, Pattern=hebben, Pattern=zo, Pattern=die, Pattern=van
+	Constrained: 
+Turn ID=5| B | B : ja ja ja ja
+	Free: Pattern=ja ja
+	Constrained: Pattern=ja
+Turn ID=6| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=7| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=8| B | B : en dan hebben die nog zo'n soort antenne erop
+	Free: Pattern=en dan hebben die, Pattern=soort
+	Constrained: Pattern=en dan, Pattern=dan, Pattern=hebben, Pattern=die, Pattern=en, Pattern=hebben die
+Turn ID=9| A | A : ja ja één om één omhoog en één naar de zijkant
+	Free: Pattern=ja ja, Pattern=de zijkant, Pattern=één, Pattern=en
+	Constrained: Pattern=ja, Pattern=de
+Turn ID=10| B | B : en een vierkantje aan de zijkant
+	Free: Pattern=de zijkant, Pattern=aan de, Pattern=een, Pattern=en
+	Constrained: Pattern=de
+Turn ID=11| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=12| A | A : en dan hebben die een soort slurf aan de achterkant
+	Free: Pattern=en dan hebben die, Pattern=aan de achterkant, Pattern=die een, Pattern=soort
+	Constrained: Pattern=de, Pattern=en dan, Pattern=aan de, Pattern=dan, Pattern=een, Pattern=hebben, Pattern=die, Pattern=en, Pattern=hebben die
+Turn ID=13| B | B : dus je hebben zo die verrekijker met twee van die torent zo toch ? of bedoelen je die een een verrekijker
+	Free: Pattern=dus, Pattern=hebben, Pattern=zo, Pattern=met twee, Pattern=die, Pattern=die een, Pattern=een verrekijker, Pattern=verrekijker, Pattern=van
+	Constrained: Pattern=twee, Pattern=een, Pattern=met, Pattern=die, Pattern=verrekijker
+Turn ID=14| A | A : oeh nee
+	Free: Pattern=nee
+	Constrained: 
+Turn ID=15| A | A : nee het zijn één verrekijker het zijn niet de twee verrekijker
+	Free: Pattern=twee, Pattern=de, Pattern=niet, Pattern=nee, Pattern=één verrekijker, Pattern=verrekijker, Pattern=zijn
+	Constrained: Pattern=verrekijker, Pattern=één
+Turn ID=16| B | B : ja nee dan weten ik ja en dan zo één zo één zo en dan zo nog zo'n slurfarmp aan de achterkant
+	Free: Pattern=aan de achterkant, Pattern=ja, Pattern=en dan, Pattern=dan, Pattern=nee, Pattern=zo, Pattern=ik, Pattern=één, Pattern=dan zo
+	Constrained: Pattern=de, Pattern=aan de, Pattern=dan, Pattern=zo, Pattern=en
+Turn ID=17| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=18| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=19| B | B : ja dat zijn voor mij E
+	Free: Pattern=dat zijn, Pattern=ja, Pattern=mij
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=20| B | B : oké nu hebben ik die met dat een verrekijker en die twee staaf zo
+	Free: Pattern=dat, Pattern=twee, Pattern=hebben, Pattern=zo, Pattern=met, Pattern=die, Pattern=oké, Pattern=ik, Pattern=en, Pattern=een verrekijker
+	Constrained: Pattern=verrekijker, Pattern=een
+Turn ID=21| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=22| A | A : ik zitten hem even te zoeken de een verrekijker
+	Free: Pattern=ik zitten, Pattern=de, Pattern=even, Pattern=te, Pattern=een verrekijker
+	Constrained: Pattern=verrekijker, Pattern=een, Pattern=ik
+Turn ID=23| A | A : ja oké
+	Free: Pattern=oké, Pattern=ja
+	Constrained: 
+Turn ID=24| A | A : nummer elf
+	Free: 
+	Constrained: 
+Turn ID=25| A | A : ik hebben de één verrekijker zeggen maar
+	Free: Pattern=ik hebben, Pattern=zeggen maar, Pattern=één verrekijker, Pattern=de
+	Constrained: Pattern=verrekijker, Pattern=één, Pattern=ik, Pattern=hebben
+Turn ID=26| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=27| B | B : dat zijn bij mij
+	Free: Pattern=dat zijn, Pattern=mij
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=28| A | A : met twee staf zo
+	Free: Pattern=met twee, Pattern=zo
+	Constrained: Pattern=twee, Pattern=met
+Turn ID=29| B | B : met die staaf zo
+	Free: Pattern=die, Pattern=met, Pattern=zo
+	Constrained: 
+Turn ID=30| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=31| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=32| B | B : staan ik nog op dat kruis ? ja
+	Free: Pattern=ja, Pattern=ik, Pattern=dat
+	Constrained: 
+Turn ID=33| B | B : J
+	Free: 
+	Constrained: 
+Turn ID=34| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=35| B | B : oké nu hebben ik met die een verrekijker en die twee ja ronde uitsteeksel
+	Free: Pattern=twee, Pattern=ja, Pattern=hebben, Pattern=met, Pattern=die, Pattern=ik, Pattern=en, Pattern=een verrekijker, Pattern=die een, Pattern=oké
+	Constrained: Pattern=verrekijker, Pattern=die, Pattern=een
+Turn ID=36| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=37| A | A : dat zijn nummer negen
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=38| A | A : sorry de
+	Free: Pattern=de
+	Constrained: 
+Turn ID=39| B | B : ik zitten gewoon te kijken welk we nog niet hebben hebben
+	Free: Pattern=ik zitten, Pattern=te kijken, Pattern=niet, Pattern=hebben
+	Constrained: Pattern=ik, Pattern=te
+Turn ID=40| A | A : de één verrekijker
+	Free: Pattern=één verrekijker, Pattern=de
+	Constrained: Pattern=verrekijker, Pattern=één
+Turn ID=41| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=42| B | B : even kijken waar staan die
+	Free: Pattern=kijken waar, Pattern=die, Pattern=even
+	Constrained: 
+Turn ID=43| B | B : daar dat zijn bij mij B
+	Free: Pattern=dat zijn, Pattern=mij
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=44| B | B : ik hebben die met één verrekijker en die twee staaf daaruit
+	Free: Pattern=ik hebben, Pattern=twee, Pattern=met, Pattern=die, Pattern=één verrekijker, Pattern=en, Pattern=hebben die
+	Constrained: Pattern=hebben, Pattern=die, Pattern=ik, Pattern=verrekijker, Pattern=één
+Turn ID=45| B | B : en met die staart zeggen maar
+	Free: Pattern=zeggen maar, Pattern=staart, Pattern=met, Pattern=die, Pattern=en
+	Constrained: 
+Turn ID=46| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=47| A | A : staart
+	Free: Pattern=staart
+	Constrained: 
+Turn ID=48| A | A : ik zitten even te kijken waar kunnen ik hem vinden
+	Free: Pattern=kijken waar, Pattern=ik zitten, Pattern=even, Pattern=te kijken, Pattern=ik
+	Constrained: Pattern=ik, Pattern=te

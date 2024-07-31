@@ -1,0 +1,151 @@
+A|0| A: _ja_ 
+A|1| A: _ja_ _die_ _zijn_ aan de onderkant ook _het_ lang of _niet_ _ja_ 
+A|2| A: okee _dat zijn_ nummer dertien 
+B|3| B: ah 
+B|4| B: nou [ja] _van_ al ander kop zeggen maar er [zijn] er [niet] zo veel [die] _staan_ op _een soort_ _van_ plateautje 
+B|5| B: _en_ deze [die] _staan_ op _een soort_ _van_ driehoekplateau met _een_ twist omhoog 
+B|6| B: _een soort_ wokkel inderdaad 
+B|7| B: _een_ blok [ja] _een_ blok 
+B|8| B: _zitten_ er rechts één _en_ er _zitten_ er één in denken ik 
+B|9| B: _en_ nog _een_ ander uitsteeksel 
+B|10| B: ik denken [dat] je hem wel weten 
+A|11| A: _dit zijn_ weer degeen [die] aan de onderkant [van] _het_ beker _het_ lang [zijn] 
+A|12| A: [die] ook [een soort] kubus rechtsboven hebben [staan] 
+A|13| A: [en] ook [een soort] steel Linksboven 
+A|14| A: [ja] 
+B|15| B: [ja] 
+B|16| B: [een] wokkel omhoog [ja] 
+B|17| B: ik [ja] ik gaan voor d 
+A|18| A: [ja] 
+A|19| A: _dat zijn_ nummer twaalf 
+A|20| A: _dit zijn_ weer [dat] lang ding [van] onderaan waar zo'n _driehoek_ onderaan [zitten] 
+A|21| A: vierkant rechtsboven 
+A|22| A: [ja] 
+A|23| A: [ja] 
+A|24| A: zeven 
+A|25| A: _dit zijn_ weer de dobbelsteen rechtsboven 
+A|26| A: [en] onderaan de vierkant 
+A|27| A: _driehoekig_ sorry 
+B|28| B: nou [dit zijn] diegene [die] op [een] twisterpoo [staan] 
+B|29| B: [een] [driehoekig] 
+B|30| B: [ja] 
+B|31| B: yes 
+B|32| B: [dat zijn] o 
+B|33| B: [het] [zijn] grappig hoe [dit] werken vinden ik wel 
+B|34| B: twisterkop met [driehoek] beneden 
+B|35| B: [ja] 
+B|36| B: [dat zijn] k 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=1| A | A : ja die zijn aan de onderkant ook het lang of niet ja
+	Free: Pattern=ja, Pattern=niet, Pattern=het, Pattern=die, Pattern=zijn
+	Constrained: 
+Turn ID=2| A | A : okee dat zijn nummer dertien
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=3| B | B : ah
+	Free: 
+	Constrained: 
+Turn ID=4| B | B : nou ja van al ander kop zeggen maar er zijn er niet zo veel die staan op een soort van plateautje
+	Free: Pattern=ja, Pattern=niet, Pattern=staan, Pattern=die, Pattern=een soort, Pattern=van, Pattern=zijn
+	Constrained: Pattern=een
+Turn ID=5| B | B : en deze die staan op een soort van driehoekplateau met een twist omhoog
+	Free: Pattern=die, Pattern=een soort, Pattern=een, Pattern=staan, Pattern=van, Pattern=en
+	Constrained: Pattern=een
+Turn ID=6| B | B : een soort wokkel inderdaad
+	Free: Pattern=een soort
+	Constrained: Pattern=een
+Turn ID=7| B | B : een blok ja een blok
+	Free: Pattern=een, Pattern=ja
+	Constrained: 
+Turn ID=8| B | B : zitten er rechts één en er zitten er één in denken ik
+	Free: Pattern=en, Pattern=zitten
+	Constrained: 
+Turn ID=9| B | B : en nog een ander uitsteeksel
+	Free: Pattern=een, Pattern=en
+	Constrained: 
+Turn ID=10| B | B : ik denken dat je hem wel weten
+	Free: Pattern=dat
+	Constrained: 
+Turn ID=11| A | A : dit zijn weer degeen die aan de onderkant van het beker het lang zijn
+	Free: Pattern=het, Pattern=die, Pattern=van, Pattern=zijn, Pattern=dit zijn
+	Constrained: Pattern=zijn, Pattern=dit
+Turn ID=12| A | A : die ook een soort kubus rechtsboven hebben staan
+	Free: Pattern=een soort, Pattern=staan, Pattern=die
+	Constrained: Pattern=een
+Turn ID=13| A | A : en ook een soort steel Linksboven
+	Free: Pattern=een soort, Pattern=en
+	Constrained: Pattern=een
+Turn ID=14| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=15| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=16| B | B : een wokkel omhoog ja
+	Free: Pattern=een, Pattern=ja
+	Constrained: 
+Turn ID=17| B | B : ik ja ik gaan voor d
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=18| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=19| A | A : dat zijn nummer twaalf
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=20| A | A : dit zijn weer dat lang ding van onderaan waar zo'n driehoek onderaan zitten
+	Free: Pattern=driehoek, Pattern=dat, Pattern=zitten, Pattern=van, Pattern=dit zijn
+	Constrained: Pattern=zijn, Pattern=dit
+Turn ID=21| A | A : vierkant rechtsboven
+	Free: 
+	Constrained: 
+Turn ID=22| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=23| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=24| A | A : zeven
+	Free: 
+	Constrained: 
+Turn ID=25| A | A : dit zijn weer de dobbelsteen rechtsboven
+	Free: Pattern=dit zijn
+	Constrained: Pattern=zijn, Pattern=dit
+Turn ID=26| A | A : en onderaan de vierkant
+	Free: Pattern=en
+	Constrained: 
+Turn ID=27| A | A : driehoekig sorry
+	Free: Pattern=driehoekig
+	Constrained: 
+Turn ID=28| B | B : nou dit zijn diegene die op een twisterpoo staan
+	Free: Pattern=dit zijn, Pattern=een, Pattern=staan, Pattern=die
+	Constrained: Pattern=zijn, Pattern=dit
+Turn ID=29| B | B : een driehoekig
+	Free: Pattern=een, Pattern=driehoekig
+	Constrained: 
+Turn ID=30| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=31| B | B : yes
+	Free: 
+	Constrained: 
+Turn ID=32| B | B : dat zijn o
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=33| B | B : het zijn grappig hoe dit werken vinden ik wel
+	Free: Pattern=zijn, Pattern=het, Pattern=dit
+	Constrained: 
+Turn ID=34| B | B : twisterkop met driehoek beneden
+	Free: Pattern=driehoek
+	Constrained: 
+Turn ID=35| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=36| B | B : dat zijn k
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn

@@ -1,0 +1,119 @@
+B|0| B: _dit zijn_ eigenlijk _het_ poppet _met_ de _dik neus_ iets _op zijn hoofd_ _een kegel_ ook nog _op zijn hoofd_ _met een_ 
+A|1| A: [een] _rechthoek_ [op zijn hoofd] 
+B|2| B: _ja_ [rechthoek] _en_ 
+A|3| A: [en] [en] komen er _zeggen maar_ gootje uit [zijn] oor 
+B|4| B: _ja_ één 
+A|5| A: [ja] 
+A|6| A: [ja] 
+B|7| B: _wat_ [een] driehoekig vormp hebben [een] triangel _een kegel_ 
+A|8| A: _ja ja_ echt _zo'n_ _ja _ja_ ja_ 
+A|9| A: nou _dan_ _weten ik_ hem al 
+A|10| A: _dat_ [zijn] nummer veertien 
+A|11| A: [dit zijn] [zijn] [met een] soort van gootje [wat] uit [zijn] oor komen _en _een_ rond neus_ 
+B|12| B: [ik] [zijn] even aan _het_ zoeken hoor 
+A|13| A: _rond neus_ gootje uit [het] oor [een _kegel] en een_ blok 
+B|14| B: [ja ja] de [kegel en een] 
+B|15| B: [ja] [weten ik] [dan] gaan [het] om N tweepoot 
+B|16| B: [dit zijn] _die_ _met die_ [rond neus] 
+B|17| B: zonder piercing gewoon alleen de [neus] [met] twee staaf [op zijn hoofd] [en] zo 
+A|18| A: _met zo'n_ gootje 
+B|19| B: [met zo'n] _goo_ erin 
+A|20| A: _ja dat_ [zijn] Numero negen 
+A|21| A: [met die] [dik neus] [en] _dat_ watergoo 
+A|22| A: uit [zijn] oor 
+A|23| A: [en] _dat_ blok 
+B|24| B: [ja] [dan] gaan [het] om G 
+B|25| B: [dit zijn] [het] normaal nee wachten [ik] [zeggen] [het] verkeerd [dit zijn] [zeggen maar] [die] [met [een] rond neus] twee dinge [op zijn] kop [en een] waterpijp aan de linkerkant 
+A|26| A: _dat_ _ja dat_ [zijn] [dan] Numero vijf 
+A|27| A: [ja] [met die] [dik neus] [en] [het] [goo] 
+B|28| B: [ja dat] worden [dan] J 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : dit zijn eigenlijk het poppet met de dik neus iets op zijn hoofd een kegel ook nog op zijn hoofd met een
+	Free: Pattern=het, Pattern=een kegel, Pattern=met, Pattern=met een, Pattern=op zijn hoofd, Pattern=dit zijn, Pattern=dik neus
+	Constrained: Pattern=een, Pattern=neus, Pattern=met, Pattern=op zijn, Pattern=zijn
+Turn ID=1| A | A : een rechthoek op zijn hoofd
+	Free: Pattern=op zijn hoofd, Pattern=een, Pattern=rechthoek
+	Constrained: Pattern=op zijn, Pattern=zijn
+Turn ID=2| B | B : ja rechthoek en
+	Free: Pattern=en, Pattern=rechthoek, Pattern=ja
+	Constrained: 
+Turn ID=3| A | A : en en komen er zeggen maar gootje uit zijn oor
+	Free: Pattern=zeggen maar, Pattern=en, Pattern=zijn
+	Constrained: Pattern=zeggen
+Turn ID=4| B | B : ja één
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=5| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=6| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=7| B | B : wat een driehoekig vormp hebben een triangel een kegel
+	Free: Pattern=een kegel, Pattern=wat, Pattern=een
+	Constrained: Pattern=een
+Turn ID=8| A | A : ja ja echt zo'n ja ja ja
+	Free: Pattern=ja ja, Pattern=zo'n
+	Constrained: Pattern=ja
+Turn ID=9| A | A : nou dan weten ik hem al
+	Free: Pattern=weten ik, Pattern=dan
+	Constrained: Pattern=ik
+Turn ID=10| A | A : dat zijn nummer veertien
+	Free: Pattern=zijn, Pattern=dat
+	Constrained: 
+Turn ID=11| A | A : dit zijn zijn met een soort van gootje wat uit zijn oor komen en een rond neus
+	Free: Pattern=een rond neus, Pattern=met een, Pattern=wat, Pattern=dit zijn, Pattern=en een, Pattern=zijn
+	Constrained: Pattern=rond neus, Pattern=een, Pattern=neus, Pattern=met, Pattern=en, Pattern=zijn
+Turn ID=12| B | B : ik zijn even aan het zoeken hoor
+	Free: Pattern=het, Pattern=zijn, Pattern=ik
+	Constrained: 
+Turn ID=13| A | A : rond neus gootje uit het oor een kegel en een blok
+	Free: Pattern=kegel en een, Pattern=rond neus, Pattern=een kegel, Pattern=het
+	Constrained: Pattern=neus, Pattern=een, Pattern=en, Pattern=en een
+Turn ID=14| B | B : ja ja de kegel en een
+	Free: Pattern=kegel en een, Pattern=ja ja
+	Constrained: Pattern=een, Pattern=en, Pattern=en een, Pattern=ja
+Turn ID=15| B | B : ja weten ik dan gaan het om N tweepoot
+	Free: Pattern=weten ik, Pattern=het, Pattern=ja, Pattern=dan
+	Constrained: Pattern=ik
+Turn ID=16| B | B : dit zijn die met die rond neus
+	Free: Pattern=rond neus, Pattern=met die, Pattern=dit zijn, Pattern=die
+	Constrained: Pattern=neus, Pattern=die, Pattern=zijn, Pattern=met
+Turn ID=17| B | B : zonder piercing gewoon alleen de neus met twee staaf op zijn hoofd en zo
+	Free: Pattern=op zijn hoofd, Pattern=en, Pattern=neus, Pattern=met
+	Constrained: Pattern=op zijn, Pattern=zijn
+Turn ID=18| A | A : met zo'n gootje
+	Free: Pattern=met zo'n
+	Constrained: Pattern=zo'n, Pattern=met
+Turn ID=19| B | B : met zo'n goo erin
+	Free: Pattern=met zo'n, Pattern=goo
+	Constrained: Pattern=zo'n, Pattern=met
+Turn ID=20| A | A : ja dat zijn Numero negen
+	Free: Pattern=ja dat, Pattern=zijn
+	Constrained: Pattern=dat, Pattern=ja
+Turn ID=21| A | A : met die dik neus en dat watergoo
+	Free: Pattern=dik neus, Pattern=met die, Pattern=en, Pattern=dat
+	Constrained: Pattern=neus, Pattern=die, Pattern=met
+Turn ID=22| A | A : uit zijn oor
+	Free: Pattern=zijn
+	Constrained: 
+Turn ID=23| A | A : en dat blok
+	Free: Pattern=en, Pattern=dat
+	Constrained: 
+Turn ID=24| B | B : ja dan gaan het om G
+	Free: Pattern=het, Pattern=ja, Pattern=dan
+	Constrained: 
+Turn ID=25| B | B : dit zijn het normaal nee wachten ik zeggen het verkeerd dit zijn zeggen maar die met een rond neus twee dinge op zijn kop en een waterpijp aan de linkerkant
+	Free: Pattern=zeggen maar, Pattern=het, Pattern=zeggen, Pattern=met een, Pattern=ik, Pattern=op zijn, Pattern=en een, Pattern=dit zijn, Pattern=die, Pattern=een rond neus
+	Constrained: Pattern=rond neus, Pattern=een, Pattern=zeggen, Pattern=neus, Pattern=met, Pattern=en, Pattern=zijn
+Turn ID=26| A | A : dat ja dat zijn dan Numero vijf
+	Free: Pattern=ja dat, Pattern=zijn, Pattern=dat, Pattern=dan
+	Constrained: Pattern=dat, Pattern=ja
+Turn ID=27| A | A : ja met die dik neus en het goo
+	Free: Pattern=met die, Pattern=ja, Pattern=goo, Pattern=het, Pattern=en, Pattern=dik neus
+	Constrained: Pattern=neus, Pattern=die, Pattern=met
+Turn ID=28| B | B : ja dat worden dan J
+	Free: Pattern=ja dat, Pattern=dan
+	Constrained: Pattern=dat, Pattern=ja

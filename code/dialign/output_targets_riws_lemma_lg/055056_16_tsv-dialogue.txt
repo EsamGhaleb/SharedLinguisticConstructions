@@ -1,0 +1,191 @@
+A|0| A: _dan_ hebben ik _een_ koffiebeker _met_ drie _uitsteeksel_ _aan de zijkant_ _en een_ _wat_ bredere 
+A|1| A: lepel _die_ erin hangen _of_ bijna rechtop staan 
+A|2| A: _en_ _van_ _de_ uithangsel _zijn_ er _één_ _die_ _een_ _vierkant_ _blok_ _die_ steeds groot worden 
+A|3| A: _een_ even groot dikte koffielepel veel schuin _aan de voorkant_ 
+A|4| A: _en_ veel _aan de_ achterkant _nog _een_ soort_ olifantenslurf 
+B|5| B: _ja_ 
+B|6| B: [en] als _je_ al [uitsteeksel] eraf halen [dan] _lijken_ het _een beetje_ op [een] wcontstopper 
+B|7| B: [of] in ieder geval zo'n schoonmaakding 
+A|8| A: _dat_ zullen [je] er _ook_ _nog_ _van_ kunnen maken [ja] 
+B|9| B: [ja] _dat zijn_ letter D E excuus 
+B|10| B: letter E 
+B|11| B: goed het [zijn] het _koffiekopje met_ _vier_ [uitsteeksel] eraan 
+B|12| B: _twee_ daarvan [zijn] [een soort] handvat [of] [een] stuk [van] [een] pollepel 
+B|13| B: [de] ander [zijn] [een] [een] smal stuk [wat] beginnen [en] [dan] eindigen het in [een] [een soort] [vierkant] 
+B|14| B: [en] [aan de] _dat zijn_ [aan de] rechterkant 
+B|15| B: _aan de bovenkant en_ [aan de] linkerkant zitten dus [een soort] begin [van] [een] spatel [of] [een] penseel 
+B|16| B: [en] daarachter zitten [dan] [nog een] [een] [een] boog [of] _een slurf_ [je] [ja] 
+A|17| A: slurfachtig 
+A|18| A: [ja] 
+A|19| A: [dat zijn] nummer elf 
+A|20| A: [dan] hebben _we_ [de] [slurf] [de] [koffiekopje met] [de] [slurf] [wat] veel [aan de] achterkant _aan de zijkant_ eruit steken 
+B|21| B: [ja] waar [zijn] [die] [ook] weer 
+A|22| A: _één robotarm_ [een beetje] rechts _aan de voorkant_ 
+A|23| A: _en twee_ [wat] dikkere lepel [aan de bovenkant en] _zijkant_ 
+B|24| B: [ja] 
+B|25| B: [ja] 
+B|26| B: [dat zijn] letter J 
+B|27| B: [ja] [dat] [koffiekopje met] [een] [een] raar [blok] [aan de voorkant] [wat] bred uitlopen 
+B|28| B: [twee] penseel handvat 
+B|29| B: [één] [aan de bovenkant] [één] [aan de zijkant] 
+B|30| B: [en] [nog _een] slurf_ [je] [ja] 
+A|31| A: _en een slurf_ 
+A|32| A: [ja] 
+B|33| B: [ja] 
+A|34| A: [dat zijn] nummer negen 
+A|35| A: [lijken] [ook] gewoon robotarmen 
+B|36| B: [ja] [dat zijn] [ook] [een] [robotarm] laten [we] het daarop houden 
+A|37| A: [de] [slurf] 
+A|38| A: [met] [robotarm] 
+A|39| A: _en twee_ lepel [zijkant] boven 
+B|40| B: [ja] [ja] [ja] [ja] [ja] [slurf] [en twee] arm 
+B|41| B: [ja] [robotarm] [ja] [ja] [ja] letter B 
+A|42| A: [de] [slurf] [aan de] achterkant 
+A|43| A: [ja] 
+B|44| B: het [koffiekopje met] [één robotarm] [twee] penseeluitsteeksel [en een slurf] 
+A|45| A: [ja] 
+A|46| A: nummer [vier] 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : dan hebben ik een koffiebeker met drie uitsteeksel aan de zijkant en een wat bredere
+	Free: Pattern=met, Pattern=wat, Pattern=en een, Pattern=uitsteeksel, Pattern=dan, Pattern=een, Pattern=aan de zijkant
+	Constrained: Pattern=de, Pattern=aan de, Pattern=een, Pattern=zijkant, Pattern=en
+Turn ID=1| A | A : lepel die erin hangen of bijna rechtop staan
+	Free: Pattern=die, Pattern=of
+	Constrained: 
+Turn ID=2| A | A : en van de uithangsel zijn er één die een vierkant blok die steeds groot worden
+	Free: Pattern=de, Pattern=een, Pattern=die, Pattern=blok, Pattern=zijn, Pattern=van, Pattern=en, Pattern=vierkant, Pattern=één
+	Constrained: 
+Turn ID=3| A | A : een even groot dikte koffielepel veel schuin aan de voorkant
+	Free: Pattern=aan de voorkant, Pattern=een
+	Constrained: Pattern=aan de, Pattern=de
+Turn ID=4| A | A : en veel aan de achterkant nog een soort olifantenslurf
+	Free: Pattern=nog een, Pattern=aan de, Pattern=een soort, Pattern=en
+	Constrained: Pattern=nog, Pattern=de, Pattern=een
+Turn ID=5| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=6| B | B : en als je al uitsteeksel eraf halen dan lijken het een beetje op een wcontstopper
+	Free: Pattern=een, Pattern=en, Pattern=lijken, Pattern=uitsteeksel, Pattern=dan, Pattern=een beetje, Pattern=je
+	Constrained: Pattern=een
+Turn ID=7| B | B : of in ieder geval zo'n schoonmaakding
+	Free: Pattern=of
+	Constrained: 
+Turn ID=8| A | A : dat zullen je er ook nog van kunnen maken ja
+	Free: Pattern=dat, Pattern=nog, Pattern=ja, Pattern=ook, Pattern=van, Pattern=je
+	Constrained: 
+Turn ID=9| B | B : ja dat zijn letter D E excuus
+	Free: Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=10| B | B : letter E
+	Free: 
+	Constrained: 
+Turn ID=11| B | B : goed het zijn het koffiekopje met vier uitsteeksel eraan
+	Free: Pattern=koffiekopje met, Pattern=vier, Pattern=uitsteeksel, Pattern=zijn
+	Constrained: Pattern=met
+Turn ID=12| B | B : twee daarvan zijn een soort handvat of een stuk van een pollepel
+	Free: Pattern=of, Pattern=twee, Pattern=een, Pattern=een soort, Pattern=van, Pattern=zijn
+	Constrained: Pattern=een
+Turn ID=13| B | B : de ander zijn een een smal stuk wat beginnen en dan eindigen het in een een soort vierkant
+	Free: Pattern=de, Pattern=dan, Pattern=een, Pattern=wat, Pattern=een soort, Pattern=en, Pattern=zijn, Pattern=vierkant
+	Constrained: Pattern=een
+Turn ID=14| B | B : en aan de dat zijn aan de rechterkant
+	Free: Pattern=aan de, Pattern=dat zijn, Pattern=en
+	Constrained: Pattern=dat, Pattern=zijn, Pattern=de
+Turn ID=15| B | B : aan de bovenkant en aan de linkerkant zitten dus een soort begin van een spatel of een penseel
+	Free: Pattern=of, Pattern=aan de, Pattern=een, Pattern=een soort, Pattern=van, Pattern=aan de bovenkant en
+	Constrained: Pattern=de, Pattern=aan de, Pattern=een, Pattern=aan de bovenkant, Pattern=en
+Turn ID=16| B | B : en daarachter zitten dan nog een een een boog of een slurf je ja
+	Free: Pattern=of, Pattern=nog een, Pattern=ja, Pattern=dan, Pattern=een, Pattern=een slurf, Pattern=en, Pattern=je
+	Constrained: Pattern=nog, Pattern=slurf, Pattern=een
+Turn ID=17| A | A : slurfachtig
+	Free: 
+	Constrained: 
+Turn ID=18| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=19| A | A : dat zijn nummer elf
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=20| A | A : dan hebben we de slurf de koffiekopje met de slurf wat veel aan de achterkant aan de zijkant eruit steken
+	Free: Pattern=de, Pattern=aan de, Pattern=dan, Pattern=slurf, Pattern=aan de zijkant, Pattern=we, Pattern=wat, Pattern=koffiekopje met
+	Constrained: Pattern=zijkant, Pattern=de, Pattern=met, Pattern=aan de
+Turn ID=21| B | B : ja waar zijn die ook weer
+	Free: Pattern=zijn, Pattern=ook, Pattern=die, Pattern=ja
+	Constrained: 
+Turn ID=22| A | A : één robotarm een beetje rechts aan de voorkant
+	Free: Pattern=aan de voorkant, Pattern=een beetje, Pattern=één robotarm
+	Constrained: Pattern=de, Pattern=aan de, Pattern=robotarm, Pattern=een, Pattern=één
+Turn ID=23| A | A : en twee wat dikkere lepel aan de bovenkant en zijkant
+	Free: Pattern=aan de bovenkant en, Pattern=en twee, Pattern=wat, Pattern=zijkant
+	Constrained: Pattern=twee, Pattern=de, Pattern=aan de, Pattern=aan de bovenkant, Pattern=en
+Turn ID=24| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=25| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=26| B | B : dat zijn letter J
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=27| B | B : ja dat koffiekopje met een een raar blok aan de voorkant wat bred uitlopen
+	Free: Pattern=dat, Pattern=ja, Pattern=een, Pattern=wat, Pattern=koffiekopje met, Pattern=blok, Pattern=aan de voorkant
+	Constrained: Pattern=de, Pattern=aan de, Pattern=met
+Turn ID=28| B | B : twee penseel handvat
+	Free: Pattern=twee
+	Constrained: 
+Turn ID=29| B | B : één aan de bovenkant één aan de zijkant
+	Free: Pattern=aan de bovenkant, Pattern=aan de zijkant, Pattern=één
+	Constrained: Pattern=zijkant, Pattern=de, Pattern=aan de
+Turn ID=30| B | B : en nog een slurf je ja
+	Free: Pattern=nog een, Pattern=ja, Pattern=een slurf, Pattern=en, Pattern=je
+	Constrained: Pattern=nog, Pattern=slurf, Pattern=een
+Turn ID=31| A | A : en een slurf
+	Free: Pattern=en een slurf
+	Constrained: Pattern=slurf, Pattern=een, Pattern=een slurf, Pattern=en, Pattern=en een
+Turn ID=32| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=33| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=34| A | A : dat zijn nummer negen
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=35| A | A : lijken ook gewoon robotarmen
+	Free: Pattern=lijken, Pattern=ook
+	Constrained: 
+Turn ID=36| B | B : ja dat zijn ook een robotarm laten we het daarop houden
+	Free: Pattern=dat zijn, Pattern=ja, Pattern=ook, Pattern=robotarm, Pattern=een, Pattern=we
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=37| A | A : de slurf
+	Free: Pattern=slurf, Pattern=de
+	Constrained: 
+Turn ID=38| A | A : met robotarm
+	Free: Pattern=robotarm, Pattern=met
+	Constrained: 
+Turn ID=39| A | A : en twee lepel zijkant boven
+	Free: Pattern=en twee, Pattern=zijkant
+	Constrained: Pattern=twee, Pattern=en
+Turn ID=40| B | B : ja ja ja ja ja slurf en twee arm
+	Free: Pattern=en twee, Pattern=slurf, Pattern=ja
+	Constrained: Pattern=twee, Pattern=en
+Turn ID=41| B | B : ja robotarm ja ja ja letter B
+	Free: Pattern=robotarm, Pattern=ja
+	Constrained: 
+Turn ID=42| A | A : de slurf aan de achterkant
+	Free: Pattern=aan de, Pattern=slurf, Pattern=de
+	Constrained: Pattern=de
+Turn ID=43| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=44| B | B : het koffiekopje met één robotarm twee penseeluitsteeksel en een slurf
+	Free: Pattern=en een slurf, Pattern=koffiekopje met, Pattern=één robotarm, Pattern=twee
+	Constrained: Pattern=een, Pattern=met, Pattern=een slurf, Pattern=en, Pattern=en een, Pattern=één, Pattern=robotarm, Pattern=slurf
+Turn ID=45| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=46| A | A : nummer vier
+	Free: Pattern=vier
+	Constrained: 

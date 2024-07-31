@@ -1,0 +1,207 @@
+B|0| B: oké even kijken _ik noemen_ _hem_ _Pinokkio_ 
+B|1| B: hij _hebben_ _een_ _een_ neus _naar_ links 
+A|2| A: [hebben] _die_ twee van _die_ recht USBstickjes [naar] rechts 
+B|3| B: nee nee nee 
+B|4| B: nee 
+B|5| B: nee 
+B|6| B: hij [hebben] _een_ _een_ neus [naar] links _en_ hij staan _op_ _een_ voe _en_ hij [hebben] _één_ haar _en_ _een_ half cirkel aan de linkerkant 
+B|7| B: aan de achterkant eigenlijk 
+B|8| B: _en_ even kijken _en_ de neus _zijn_ _een_ _zeshoek_ 
+A|9| A: _ja_ _ja_ _ja_ _ja_ 
+A|10| A: _ja_ [ik] [hebben] [hem] _ja_ 
+A|11| A: welk [zijn] dat _bij jou_ 
+B|12| B: [bij] mij heten [die] _G_ 
+A|13| A: [G] dertien 
+A|14| A: [ik noemen] deze filmcamera jij [noemen] deze [Pinokkio] 
+B|15| B: dit [zijn] met _zeshoek_ link 
+A|16| A: yes 
+B|17| B: O _en_ [bij jou] 
+A|18| A: _vier_ 
+B|19| B: O [vier] 
+A|20| A: _weer_ [een] nieuw 
+B|21| B: we [zijn] [weer] wisselen 
+B|22| B: dit [zijn] [Pinokkio] voor mij 
+B|23| B: met zo'n pluimp hoe heten hoe heten [die] ook alweer [bij jou] ? [hebben] [een] pluimp zo _op_ [zijn] achterhoofd zeshoekig neus 
+A|24| A: _ja_ _ja_ _ja_ 
+B|25| B: _N_ 
+B|26| B: _Nico_ 
+A|27| A: [N] achten 
+A|28| A: [Pinokkio] 
+B|29| B: even kijken 
+B|30| B: moeten [ik] even de _goed_ pakken [ja] 
+A|31| A: [Pinokkio] 
+A|32| A: rond achter in het hoofd [één] sprie [op] het hoofd 
+B|33| B: [ja] even zoeken daar 
+A|34| A: _veertien_ 
+B|35| B: C 
+B|36| B: C [veertien] 
+B|37| B: voor mij [Pinokkio] dus zeshoekig neus 
+A|38| A: [zeshoek] zes zes zes zes zes 
+B|39| B: met [die] 
+A|40| A: [ja] [ja] [ja] 
+B|41| B: [N] trouwens 
+A|42| A: [Nico] 
+B|43| B: [ja] 
+A|44| A: [N] _zeven_ 
+A|45| A: [jou] [Pinokkio] 
+B|46| B: even kijken 
+A|47| A: _zeven_ 
+B|48| B: [zeven] hè ? C [zeven] 
+A|49| A: wauw 
+A|50| A: dat gaan soms echt gewoon verrassen [goed] [en] soms echt gewoon hartstikke slecht 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : oké even kijken ik noemen hem Pinokkio
+	Free: Pattern=ik noemen, Pattern=hem, Pattern=Pinokkio
+	Constrained: Pattern=noemen, Pattern=ik
+Turn ID=1| B | B : hij hebben een een neus naar links
+	Free: Pattern=een, Pattern=hebben, Pattern=naar
+	Constrained: 
+Turn ID=2| A | A : hebben die twee van die recht USBstickjes naar rechts
+	Free: Pattern=die, Pattern=hebben, Pattern=naar
+	Constrained: 
+Turn ID=3| B | B : nee nee nee
+	Free: 
+	Constrained: 
+Turn ID=4| B | B : nee
+	Free: 
+	Constrained: 
+Turn ID=5| B | B : nee
+	Free: 
+	Constrained: 
+Turn ID=6| B | B : hij hebben een een neus naar links en hij staan op een voe en hij hebben één haar en een half cirkel aan de linkerkant
+	Free: Pattern=op, Pattern=een, Pattern=hebben, Pattern=en, Pattern=één, Pattern=naar
+	Constrained: 
+Turn ID=7| B | B : aan de achterkant eigenlijk
+	Free: 
+	Constrained: 
+Turn ID=8| B | B : en even kijken en de neus zijn een zeshoek
+	Free: Pattern=een, Pattern=en, Pattern=zijn, Pattern=zeshoek
+	Constrained: 
+Turn ID=9| A | A : ja ja ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=10| A | A : ja ik hebben hem ja
+	Free: Pattern=hebben, Pattern=ja, Pattern=ik, Pattern=hem
+	Constrained: 
+Turn ID=11| A | A : welk zijn dat bij jou
+	Free: Pattern=bij jou, Pattern=zijn
+	Constrained: Pattern=jou, Pattern=bij
+Turn ID=12| B | B : bij mij heten die G
+	Free: Pattern=die, Pattern=G, Pattern=bij
+	Constrained: 
+Turn ID=13| A | A : G dertien
+	Free: Pattern=G
+	Constrained: 
+Turn ID=14| A | A : ik noemen deze filmcamera jij noemen deze Pinokkio
+	Free: Pattern=ik noemen, Pattern=noemen, Pattern=Pinokkio
+	Constrained: Pattern=noemen, Pattern=ik
+Turn ID=15| B | B : dit zijn met zeshoek link
+	Free: Pattern=zijn, Pattern=zeshoek
+	Constrained: 
+Turn ID=16| A | A : yes
+	Free: 
+	Constrained: 
+Turn ID=17| B | B : O en bij jou
+	Free: Pattern=bij jou, Pattern=en
+	Constrained: Pattern=jou, Pattern=bij
+Turn ID=18| A | A : vier
+	Free: Pattern=vier
+	Constrained: 
+Turn ID=19| B | B : O vier
+	Free: Pattern=vier
+	Constrained: 
+Turn ID=20| A | A : weer een nieuw
+	Free: Pattern=een, Pattern=weer
+	Constrained: 
+Turn ID=21| B | B : we zijn weer wisselen
+	Free: Pattern=weer, Pattern=zijn
+	Constrained: 
+Turn ID=22| B | B : dit zijn Pinokkio voor mij
+	Free: Pattern=zijn, Pattern=Pinokkio
+	Constrained: 
+Turn ID=23| B | B : met zo'n pluimp hoe heten hoe heten die ook alweer bij jou ? hebben een pluimp zo op zijn achterhoofd zeshoekig neus
+	Free: Pattern=op, Pattern=een, Pattern=hebben, Pattern=die, Pattern=zijn, Pattern=bij jou
+	Constrained: Pattern=jou, Pattern=bij
+Turn ID=24| A | A : ja ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=25| B | B : N
+	Free: Pattern=N
+	Constrained: 
+Turn ID=26| B | B : Nico
+	Free: Pattern=Nico
+	Constrained: 
+Turn ID=27| A | A : N achten
+	Free: Pattern=N
+	Constrained: 
+Turn ID=28| A | A : Pinokkio
+	Free: Pattern=Pinokkio
+	Constrained: 
+Turn ID=29| B | B : even kijken
+	Free: 
+	Constrained: 
+Turn ID=30| B | B : moeten ik even de goed pakken ja
+	Free: Pattern=goed, Pattern=ja, Pattern=ik
+	Constrained: 
+Turn ID=31| A | A : Pinokkio
+	Free: Pattern=Pinokkio
+	Constrained: 
+Turn ID=32| A | A : rond achter in het hoofd één sprie op het hoofd
+	Free: Pattern=op, Pattern=één
+	Constrained: 
+Turn ID=33| B | B : ja even zoeken daar
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=34| A | A : veertien
+	Free: Pattern=veertien
+	Constrained: 
+Turn ID=35| B | B : C
+	Free: 
+	Constrained: 
+Turn ID=36| B | B : C veertien
+	Free: Pattern=veertien
+	Constrained: 
+Turn ID=37| B | B : voor mij Pinokkio dus zeshoekig neus
+	Free: Pattern=Pinokkio
+	Constrained: 
+Turn ID=38| A | A : zeshoek zes zes zes zes zes
+	Free: Pattern=zeshoek
+	Constrained: 
+Turn ID=39| B | B : met die
+	Free: Pattern=die
+	Constrained: 
+Turn ID=40| A | A : ja ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=41| B | B : N trouwens
+	Free: Pattern=N
+	Constrained: 
+Turn ID=42| A | A : Nico
+	Free: Pattern=Nico
+	Constrained: 
+Turn ID=43| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=44| A | A : N zeven
+	Free: Pattern=zeven, Pattern=N
+	Constrained: 
+Turn ID=45| A | A : jou Pinokkio
+	Free: Pattern=jou, Pattern=Pinokkio
+	Constrained: 
+Turn ID=46| B | B : even kijken
+	Free: 
+	Constrained: 
+Turn ID=47| A | A : zeven
+	Free: Pattern=zeven
+	Constrained: 
+Turn ID=48| B | B : zeven hè ? C zeven
+	Free: Pattern=zeven
+	Constrained: 
+Turn ID=49| A | A : wauw
+	Free: 
+	Constrained: 
+Turn ID=50| A | A : dat gaan soms echt gewoon verrassen goed en soms echt gewoon hartstikke slecht
+	Free: Pattern=goed, Pattern=en
+	Constrained: 

@@ -1,0 +1,107 @@
+B|0| B: oké _dit zijn_ het _die emmer met_ het vierkant helemaal onderop 
+A|1| A: _ja_ 
+B|2| B: _en_ dan staan _die emmer_ staan daarbovenop _en_ dan hebben _die drie_ van _die_ kraaldingetjes wat _zijn_ het ? diamant weten ik het _aan de_ buitenkant _en_ een _rond_ _aan de voorkant_ 
+A|3| A: _ja_ 
+A|4| A: _ja_ precies 
+A|5| A: _ja_ 
+A|6| A: _ja_ precies 
+A|7| A: _dat zijn_ vijf 
+A|8| A: _ja_ _dit zijn die_ _dit zijn die_ figuur _met _die_ met _die_ zes_ rui _zo_ [aan de] zijkant [en] [die] [en] _dat_ [rond] voor zeggen maar 
+B|9| B: [ja] J 
+B|10| B: _dit zijn die met die_ gek ding [aan de] buitenkant 
+B|11| B: _die _die_ [die_ zes] blok 
+A|12| A: [ja] precies _dat zijn_ elf 
+A|13| A: [ja] [dit zijn] weer [die [die] emmer met] [aan] [aan de] _beide kant_ [die [die] drie] ruit zeggen maar 
+A|14| A: [en] [aan de voorkant] _dat_ [rond] 
+B|15| B: [ja] P 
+B|16| B: [zo] omschrijfen 
+B|17| B: [dit zijn die] [dat zijn] [dat] vierkant vlak onderop [en] dan [die [die] zes] dinget 
+A|18| A: [ja] precies 
+B|19| B: [drie] [aan] [beide kant] 
+A|20| A: [en] [dat] [rond] voorop 
+B|21| B: [ja] 
+A|22| A: [ja] 
+A|23| A: [dat zijn] negen 
+A|24| A: [ja] [dit zijn die met [die] met die] rui [aan de] zijkant [die drie] 
+B|25| B: [ja] [dat zijn] L 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : oké dit zijn het die emmer met het vierkant helemaal onderop
+	Free: Pattern=die emmer met, Pattern=dit zijn
+	Constrained: Pattern=zijn, Pattern=die, Pattern=die emmer
+Turn ID=1| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=2| B | B : en dan staan die emmer staan daarbovenop en dan hebben die drie van die kraaldingetjes wat zijn het ? diamant weten ik het aan de buitenkant en een rond aan de voorkant
+	Free: Pattern=aan de, Pattern=die, Pattern=en, Pattern=rond, Pattern=zijn, Pattern=aan de voorkant, Pattern=die emmer, Pattern=die drie
+	Constrained: Pattern=aan, Pattern=drie, Pattern=die, Pattern=aan de
+Turn ID=3| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=4| A | A : ja precies
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=5| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=6| A | A : ja precies
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=7| A | A : dat zijn vijf
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=8| A | A : ja dit zijn die dit zijn die figuur met die met die zes rui zo aan de zijkant en die en dat rond voor zeggen maar
+	Free: Pattern=dit zijn die, Pattern=ja, Pattern=die met die, Pattern=aan de, Pattern=zo, Pattern=die, Pattern=en, Pattern=rond, Pattern=die zes, Pattern=dat, Pattern=met die
+	Constrained: Pattern=met die, Pattern=aan, Pattern=die, Pattern=zijn, Pattern=dit zijn
+Turn ID=9| B | B : ja J
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=10| B | B : dit zijn die met die gek ding aan de buitenkant
+	Free: Pattern=dit zijn die met die, Pattern=aan de
+	Constrained: Pattern=met die, Pattern=dit zijn die, Pattern=aan, Pattern=die met die, Pattern=die, Pattern=zijn, Pattern=dit zijn
+Turn ID=11| B | B : die die die zes blok
+	Free: Pattern=die die, Pattern=die zes
+	Constrained: Pattern=die
+Turn ID=12| A | A : ja precies dat zijn elf
+	Free: Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=13| A | A : ja dit zijn weer die die emmer met aan aan de beide kant die die drie ruit zeggen maar
+	Free: Pattern=aan de, Pattern=beide kant, Pattern=die drie, Pattern=die die, Pattern=die emmer met, Pattern=dit zijn, Pattern=aan, Pattern=ja
+	Constrained: Pattern=aan, Pattern=die emmer, Pattern=drie, Pattern=die, Pattern=zijn
+Turn ID=14| A | A : en aan de voorkant dat rond
+	Free: Pattern=aan de voorkant, Pattern=dat, Pattern=rond, Pattern=en
+	Constrained: Pattern=aan, Pattern=aan de
+Turn ID=15| B | B : ja P
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=16| B | B : zo omschrijfen
+	Free: Pattern=zo
+	Constrained: 
+Turn ID=17| B | B : dit zijn die dat zijn dat vierkant vlak onderop en dan die die zes dinget
+	Free: Pattern=dit zijn die, Pattern=die die, Pattern=en, Pattern=die zes, Pattern=dat, Pattern=dat zijn
+	Constrained: Pattern=dit zijn, Pattern=dat, Pattern=zijn, Pattern=die
+Turn ID=18| A | A : ja precies
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=19| B | B : drie aan beide kant
+	Free: Pattern=beide kant, Pattern=drie, Pattern=aan
+	Constrained: 
+Turn ID=20| A | A : en dat rond voorop
+	Free: Pattern=dat, Pattern=rond, Pattern=en
+	Constrained: 
+Turn ID=21| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=22| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=23| A | A : dat zijn negen
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=24| A | A : ja dit zijn die met die met die rui aan de zijkant die drie
+	Free: Pattern=ja, Pattern=die met die, Pattern=aan de, Pattern=die drie, Pattern=dit zijn die met die
+	Constrained: Pattern=met die, Pattern=dit zijn die, Pattern=aan, Pattern=die met die, Pattern=drie, Pattern=die, Pattern=zijn, Pattern=dit zijn
+Turn ID=25| B | B : ja dat zijn L
+	Free: Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=dat, Pattern=zijn

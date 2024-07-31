@@ -1,0 +1,123 @@
+A|0| A: _oké_ 
+A|1| A: deze hebben _een bolle_ erbovenop _en_ _een_ soor arm _aan de_ zijkant 
+B|2| B: _en zo'n_ langwerpig _ja_ _ja_ 
+A|3| A: [en zo'n] 
+A|4| A: [ja] precies 
+B|5| B: _dat_ _zijn_ D bij mij 
+A|6| A: _oké_ top 
+B|7| B: mooi hoe we dezelfde 
+B|8| B: Alright 
+B|9| B: [een _bolle] bovenop_ 
+A|10| A: [ja] 
+B|11| B: [en] dan [zo'n] _lang staaf_ [aan de] voorkant _met_ van _die armpjes_ 
+A|12| A: [ja] [met] _weer [die_ armpjes] 
+B|13| B: yes 
+A|14| A: [ja] nummer vijftien 
+A|15| A: _weer_ [bolle bovenop] [met] _die armpjes zo_ _en die lang staaf_ Voorin 
+B|16| B: [staaf] 
+B|17| B: [ja] _dat_ _zijn_ even [ja] _dat_ _zijn_ [de] L 
+B|18| B: kijken welk letter bij wat horen 
+A|19| A: _oké_ 
+B|20| B: [oké] [weer die] _met dat bolle bovenop_ 
+A|21| A: [ja] 
+B|22| B: [en die] [staaf] voor _en die armpjes zo_ 
+A|23| A: [ja] 
+A|24| A: waar [zijn] [die] ? nummer zes 
+A|25| A: deze [zijn] [weer] [met _dat bolle bovenop] [en die_ armpjes zo] [en] [de] [staaf] ervoor 
+B|26| B: [ja] [en die lang staaf] [dat] [zijn] [de] J 
+B|27| B: [weer] [dat bolle bovenop [en die] lang staaf] [en die armpjes] 
+A|28| A: [ja] 
+A|29| A: nummer drie 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=1| A | A : deze hebben een bolle erbovenop en een soor arm aan de zijkant
+	Free: Pattern=aan de, Pattern=een bolle, Pattern=en, Pattern=een
+	Constrained: Pattern=de, Pattern=een
+Turn ID=2| B | B : en zo'n langwerpig ja ja
+	Free: Pattern=en zo'n, Pattern=ja
+	Constrained: Pattern=en, Pattern=zo'n
+Turn ID=3| A | A : en zo'n
+	Free: Pattern=en zo'n
+	Constrained: Pattern=en, Pattern=zo'n
+Turn ID=4| A | A : ja precies
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=5| B | B : dat zijn D bij mij
+	Free: Pattern=dat, Pattern=zijn
+	Constrained: 
+Turn ID=6| A | A : oké top
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=7| B | B : mooi hoe we dezelfde
+	Free: 
+	Constrained: 
+Turn ID=8| B | B : Alright
+	Free: 
+	Constrained: 
+Turn ID=9| B | B : een bolle bovenop
+	Free: Pattern=bolle bovenop, Pattern=een bolle
+	Constrained: Pattern=een
+Turn ID=10| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=11| B | B : en dan zo'n lang staaf aan de voorkant met van die armpjes
+	Free: Pattern=lang staaf, Pattern=zo'n, Pattern=aan de, Pattern=met, Pattern=en, Pattern=die armpjes
+	Constrained: Pattern=staaf, Pattern=de, Pattern=die
+Turn ID=12| A | A : ja met weer die armpjes
+	Free: Pattern=die armpjes, Pattern=weer die, Pattern=met, Pattern=ja
+	Constrained: Pattern=die, Pattern=weer
+Turn ID=13| B | B : yes
+	Free: 
+	Constrained: 
+Turn ID=14| A | A : ja nummer vijftien
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=15| A | A : weer bolle bovenop met die armpjes zo en die lang staaf Voorin
+	Free: Pattern=die armpjes zo, Pattern=en die lang staaf, Pattern=met, Pattern=bolle bovenop, Pattern=weer
+	Constrained: Pattern=staaf, Pattern=die, Pattern=en, Pattern=die armpjes, Pattern=en die, Pattern=lang staaf
+Turn ID=16| B | B : staaf
+	Free: Pattern=staaf
+	Constrained: 
+Turn ID=17| B | B : ja dat zijn even ja dat zijn de L
+	Free: Pattern=dat, Pattern=de, Pattern=zijn, Pattern=ja
+	Constrained: 
+Turn ID=18| B | B : kijken welk letter bij wat horen
+	Free: 
+	Constrained: 
+Turn ID=19| A | A : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=20| B | B : oké weer die met dat bolle bovenop
+	Free: Pattern=met dat bolle bovenop, Pattern=weer die, Pattern=oké
+	Constrained: Pattern=dat, Pattern=met, Pattern=weer, Pattern=die, Pattern=bolle bovenop
+Turn ID=21| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=22| B | B : en die staaf voor en die armpjes zo
+	Free: Pattern=en die armpjes zo, Pattern=en die, Pattern=staaf
+	Constrained: Pattern=en die, Pattern=die armpjes zo, Pattern=die, Pattern=en, Pattern=die armpjes, Pattern=en die armpjes
+Turn ID=23| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=24| A | A : waar zijn die ? nummer zes
+	Free: Pattern=zijn, Pattern=die
+	Constrained: 
+Turn ID=25| A | A : deze zijn weer met dat bolle bovenop en die armpjes zo en de staaf ervoor
+	Free: Pattern=dat bolle bovenop en die, Pattern=en, Pattern=zijn, Pattern=weer, Pattern=de, Pattern=met dat bolle bovenop, Pattern=staaf, Pattern=en die armpjes zo
+	Constrained: Pattern=en die, Pattern=dat, Pattern=die armpjes zo, Pattern=met, Pattern=en, Pattern=die armpjes, Pattern=en die armpjes, Pattern=die, Pattern=bolle bovenop
+Turn ID=26| B | B : ja en die lang staaf dat zijn de J
+	Free: Pattern=dat, Pattern=en die lang staaf, Pattern=zijn, Pattern=de, Pattern=ja
+	Constrained: Pattern=staaf, Pattern=die, Pattern=en, Pattern=en die, Pattern=lang staaf
+Turn ID=27| B | B : weer dat bolle bovenop en die lang staaf en die armpjes
+	Free: Pattern=dat bolle bovenop en die, Pattern=en die lang staaf, Pattern=en die armpjes, Pattern=weer
+	Constrained: Pattern=dat, Pattern=staaf, Pattern=en, Pattern=die armpjes, Pattern=en die, Pattern=lang staaf, Pattern=die, Pattern=bolle bovenop
+Turn ID=28| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=29| A | A : nummer drie
+	Free: 
+	Constrained: 

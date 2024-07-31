@@ -1,0 +1,91 @@
+B|0| B: _ik_ vinden _dit_ _een_ beetje op zo'n _tap_ lijken als _je_ zo'n groot glas komen hebben _waar_ _je_ limonade _uit_ kunnen tappen 
+B|1| B: dan komen er zo'n _balk uit_ _waar_ _ook weer een balk_ op zitten 
+A|2| A: wachten _even_ [een [balk] uit] _en_ [ook weer een balk] 
+B|3| B: [en] _aan_ _de_ zijkant zitten twee van _die_ schuin ding _die_ zo lopen _aan_ _de_ [een] kant zien _je_ hem goed dan _aan_ _de_ ander kant 
+B|4| B: [en] bovenop zitten nog [een balk] 
+A|5| A: [een] _ja ja_ 
+A|6| A: [ik] denken [aan] [een] _kip_ maar [ik] snapen wat [je] bedoelen 
+B|7| B: oké 
+A|8| A: acht 
+A|9| A: waarvan jij zeggen _dat_ _het_ [een] saptap _zijn_ [en] [ik] zeggen _dat_ _het_ [een] _kip_ _zijn_ 
+B|10| B: [even] kijken _waar_ _die_ [zijn] hoor 
+B|11| B: [ja ja] [dat] [zijn] E 
+B|12| B: _dit zijn de kip en_ [het] watertapdingetje 
+A|13| A: [waar] staan [die] 
+A|14| A: één 
+A|15| A: [dit zijn de kip en] _de watertap_ 
+B|16| B: [dat] [zijn] E 
+B|17| B: [dit zijn] [weer] [de kip] 
+B|18| B: of [de watertap] 
+A|19| A: zestien 
+A|20| A: [dit zijn de] [tap] [en] [de kip] 
+B|21| B: [ja] [dat] [zijn] O 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : ik vinden dit een beetje op zo'n tap lijken als je zo'n groot glas komen hebben waar je limonade uit kunnen tappen
+	Free: Pattern=waar, Pattern=uit, Pattern=een, Pattern=dit, Pattern=ik, Pattern=je, Pattern=tap
+	Constrained: 
+Turn ID=1| B | B : dan komen er zo'n balk uit waar ook weer een balk op zitten
+	Free: Pattern=ook weer een balk, Pattern=balk uit, Pattern=waar
+	Constrained: Pattern=weer, Pattern=een balk, Pattern=een, Pattern=uit
+Turn ID=2| A | A : wachten even een balk uit en ook weer een balk
+	Free: Pattern=even, Pattern=balk uit, Pattern=ook weer een balk, Pattern=en, Pattern=een balk
+	Constrained: Pattern=weer, Pattern=een balk, Pattern=een, Pattern=uit
+Turn ID=3| B | B : en aan de zijkant zitten twee van die schuin ding die zo lopen aan de een kant zien je hem goed dan aan de ander kant
+	Free: Pattern=een, Pattern=die, Pattern=en, Pattern=je, Pattern=de, Pattern=aan
+	Constrained: 
+Turn ID=4| B | B : en bovenop zitten nog een balk
+	Free: Pattern=een balk, Pattern=en
+	Constrained: Pattern=een
+Turn ID=5| A | A : een ja ja
+	Free: Pattern=ja ja, Pattern=een
+	Constrained: Pattern=ja
+Turn ID=6| A | A : ik denken aan een kip maar ik snapen wat je bedoelen
+	Free: Pattern=aan, Pattern=een, Pattern=ik, Pattern=je, Pattern=kip
+	Constrained: 
+Turn ID=7| B | B : oké
+	Free: 
+	Constrained: 
+Turn ID=8| A | A : acht
+	Free: 
+	Constrained: 
+Turn ID=9| A | A : waarvan jij zeggen dat het een saptap zijn en ik zeggen dat het een kip zijn
+	Free: Pattern=dat, Pattern=een, Pattern=het, Pattern=ik, Pattern=en, Pattern=zijn, Pattern=kip
+	Constrained: 
+Turn ID=10| B | B : even kijken waar die zijn hoor
+	Free: Pattern=even, Pattern=waar, Pattern=zijn, Pattern=die
+	Constrained: 
+Turn ID=11| B | B : ja ja dat zijn E
+	Free: Pattern=ja ja, Pattern=zijn, Pattern=dat
+	Constrained: Pattern=ja
+Turn ID=12| B | B : dit zijn de kip en het watertapdingetje
+	Free: Pattern=dit zijn de kip en, Pattern=het
+	Constrained: Pattern=de kip, Pattern=de, Pattern=dit, Pattern=en, Pattern=kip, Pattern=dit zijn, Pattern=zijn, Pattern=dit zijn de
+Turn ID=13| A | A : waar staan die
+	Free: Pattern=waar, Pattern=die
+	Constrained: 
+Turn ID=14| A | A : één
+	Free: 
+	Constrained: 
+Turn ID=15| A | A : dit zijn de kip en de watertap
+	Free: Pattern=dit zijn de kip en, Pattern=de watertap
+	Constrained: Pattern=de kip, Pattern=de, Pattern=dit, Pattern=en, Pattern=kip, Pattern=dit zijn, Pattern=zijn, Pattern=dit zijn de
+Turn ID=16| B | B : dat zijn E
+	Free: Pattern=zijn, Pattern=dat
+	Constrained: 
+Turn ID=17| B | B : dit zijn weer de kip
+	Free: Pattern=dit zijn, Pattern=de kip, Pattern=weer
+	Constrained: Pattern=de, Pattern=zijn, Pattern=kip, Pattern=dit
+Turn ID=18| B | B : of de watertap
+	Free: Pattern=de watertap
+	Constrained: Pattern=de
+Turn ID=19| A | A : zestien
+	Free: 
+	Constrained: 
+Turn ID=20| A | A : dit zijn de tap en de kip
+	Free: Pattern=dit zijn de, Pattern=de kip, Pattern=en, Pattern=tap
+	Constrained: Pattern=de, Pattern=dit, Pattern=zijn, Pattern=kip, Pattern=dit zijn
+Turn ID=21| B | B : ja dat zijn O
+	Free: Pattern=ja, Pattern=zijn, Pattern=dat
+	Constrained: 

@@ -1,0 +1,91 @@
+A|0| A: ik hebben geen idee wat dit _zijn_ _maar_ _het_ hebben gewoon twee mooi balk of heel dun reep _zeggen maar_ 
+A|1| A: _en_ boven zo'n pastoorhoed _zeggen maar_ 
+B|2| B: [en] [zeggen maar] _een zijn_ _een_ isteken aan _de_ zijkant 
+A|3| A: _ja_ _ja_ _dat_ [zijn] wel [een] goed _ja_ 
+B|4| B: [ja] 
+A|5| A: [ja] [een zijn] 
+A|6| A: [ja] _dat_ [zijn] wel goed [ja] 
+B|7| B: I 
+B|8| B: [het] [zijn] weer _die_ met [dat] _istek_ aan _de_ zijkant 
+A|9| A: jou beurt 
+A|10| A: [ja] [ja] 
+A|11| A: twee 
+A|12| A: [die] [istek] 
+B|13| B: [ja] 
+B|14| B: M 
+B|15| B: [die] met [dat] [istek] 
+A|16| A: negen 
+A|17| A: _de istek_ 
+A|18| A: ik moeten even zitten weten je 
+B|19| B: F 
+B|20| B: [de istek] 
+A|21| A: zes 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : ik hebben geen idee wat dit zijn maar het hebben gewoon twee mooi balk of heel dun reep zeggen maar
+	Free: Pattern=zeggen maar, Pattern=zijn, Pattern=het, Pattern=maar
+	Constrained: Pattern=maar
+Turn ID=1| A | A : en boven zo'n pastoorhoed zeggen maar
+	Free: Pattern=zeggen maar, Pattern=en
+	Constrained: Pattern=maar
+Turn ID=2| B | B : en zeggen maar een zijn een isteken aan de zijkant
+	Free: Pattern=de, Pattern=een, Pattern=zeggen maar, Pattern=en, Pattern=een zijn
+	Constrained: Pattern=een, Pattern=zijn, Pattern=maar
+Turn ID=3| A | A : ja ja dat zijn wel een goed ja
+	Free: Pattern=dat, Pattern=een, Pattern=ja, Pattern=zijn
+	Constrained: 
+Turn ID=4| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=5| A | A : ja een zijn
+	Free: Pattern=een zijn, Pattern=ja
+	Constrained: Pattern=een, Pattern=zijn
+Turn ID=6| A | A : ja dat zijn wel goed ja
+	Free: Pattern=dat, Pattern=ja, Pattern=zijn
+	Constrained: 
+Turn ID=7| B | B : I
+	Free: 
+	Constrained: 
+Turn ID=8| B | B : het zijn weer die met dat istek aan de zijkant
+	Free: Pattern=dat, Pattern=de, Pattern=het, Pattern=die, Pattern=istek, Pattern=zijn
+	Constrained: 
+Turn ID=9| A | A : jou beurt
+	Free: 
+	Constrained: 
+Turn ID=10| A | A : ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=11| A | A : twee
+	Free: 
+	Constrained: 
+Turn ID=12| A | A : die istek
+	Free: Pattern=istek, Pattern=die
+	Constrained: 
+Turn ID=13| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=14| B | B : M
+	Free: 
+	Constrained: 
+Turn ID=15| B | B : die met dat istek
+	Free: Pattern=dat, Pattern=istek, Pattern=die
+	Constrained: 
+Turn ID=16| A | A : negen
+	Free: 
+	Constrained: 
+Turn ID=17| A | A : de istek
+	Free: Pattern=de istek
+	Constrained: Pattern=istek, Pattern=de
+Turn ID=18| A | A : ik moeten even zitten weten je
+	Free: 
+	Constrained: 
+Turn ID=19| B | B : F
+	Free: 
+	Constrained: 
+Turn ID=20| B | B : de istek
+	Free: Pattern=de istek
+	Constrained: Pattern=istek, Pattern=de
+Turn ID=21| A | A : zes
+	Free: 
+	Constrained: 

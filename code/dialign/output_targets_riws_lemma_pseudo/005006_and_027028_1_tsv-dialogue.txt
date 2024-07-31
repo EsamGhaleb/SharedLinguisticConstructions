@@ -1,0 +1,99 @@
+A|0| A: _ja_ _twee_ 
+A|1| A: _ja_ 
+B|2| B: [ja] nou we _hebben_ _de_ _de_ adapter weer 
+B|3| B: [ja] 
+B|4| B: [ja] 
+A|5| A: deze [hebben] een vierkant schijf ervoor en _dat_ spijkert er in en _die twee_ blokkentorens [ja] 
+B|6| B: [ja] [die] 
+B|7| B: [ja] 
+B|8| B: [dat] zijn G 
+A|9| A: [ja] 
+A|10| A: [ja] 
+A|11| A: negen 
+B|12| B: [ja] dit zijn [die] met [die twee] wolkenkrabber 
+B|13| B: [die] tegenaan 
+B|14| B: [ja] [ja] [ja] 
+A|15| A: vierkant scherm aan [de] voorkant spijker er in en [die twee] blokkentorens 
+B|16| B: [ja] 
+B|17| B: D 
+A|18| A: [twee] blokkentoren link 
+A|19| A: [ja] één 
+B|20| B: dit zijn [die twee] wolkenkrabber 
+B|21| B: [ja] 
+A|22| A: vierkant scherm aan [de] voorkant Spijker en [die twee] blokkentorent 
+B|23| B: B 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : ja twee
+	Free: Pattern=twee, Pattern=ja
+	Constrained: 
+Turn ID=1| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=2| B | B : ja nou we hebben de de adapter weer
+	Free: Pattern=hebben, Pattern=ja, Pattern=de
+	Constrained: 
+Turn ID=3| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=4| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=5| A | A : deze hebben een vierkant schijf ervoor en dat spijkert er in en die twee blokkentorens ja
+	Free: Pattern=die twee, Pattern=hebben, Pattern=ja, Pattern=dat
+	Constrained: Pattern=twee, Pattern=die
+Turn ID=6| B | B : ja die
+	Free: Pattern=ja, Pattern=die
+	Constrained: 
+Turn ID=7| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=8| B | B : dat zijn G
+	Free: Pattern=dat
+	Constrained: 
+Turn ID=9| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=10| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=11| A | A : negen
+	Free: 
+	Constrained: 
+Turn ID=12| B | B : ja dit zijn die met die twee wolkenkrabber
+	Free: Pattern=die twee, Pattern=ja, Pattern=die
+	Constrained: Pattern=twee, Pattern=die
+Turn ID=13| B | B : die tegenaan
+	Free: Pattern=die
+	Constrained: 
+Turn ID=14| B | B : ja ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=15| A | A : vierkant scherm aan de voorkant spijker er in en die twee blokkentorens
+	Free: Pattern=die twee, Pattern=de
+	Constrained: Pattern=twee, Pattern=die
+Turn ID=16| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=17| B | B : D
+	Free: 
+	Constrained: 
+Turn ID=18| A | A : twee blokkentoren link
+	Free: Pattern=twee
+	Constrained: 
+Turn ID=19| A | A : ja één
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=20| B | B : dit zijn die twee wolkenkrabber
+	Free: Pattern=die twee
+	Constrained: Pattern=twee, Pattern=die
+Turn ID=21| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=22| A | A : vierkant scherm aan de voorkant Spijker en die twee blokkentorent
+	Free: Pattern=die twee, Pattern=de
+	Constrained: Pattern=twee, Pattern=die
+Turn ID=23| B | B : B
+	Free: 
+	Constrained: 

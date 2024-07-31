@@ -1,0 +1,111 @@
+B|0| B: _ja ja ja_ _dan_ weten ik al welk _het zijn_ 
+B|1| B: _met_ _twee van die_ toren _aan _de_ zijkant_ 
+B|2| B: _ja oké_ _dan_ _zijn_ _het_ M 
+A|3| A: _deze hebben_ onder [het] kop _een_ soort uitstulpsel _en_ _dat_ _hebben die_ [aan de] rechterkant ook [het zijn] _een_ soort [van] [twee van die] grijparmen 
+A|4| A: _en_ [dan] komen er nog _een_ balk uit _een_ beetje zo'n Pinokkioneusidee 
+A|5| A: _en_ [dan] erbovenop _zitten_ nog _een_ _een_ kantelen vierkant waar ook [twee van die] kubus [die] _zeggen maar_ steeds groot worden 
+A|6| A: [die] komen _eruit_ 
+B|7| B: [en] [deze [hebben] die] ruit _aan de bovenkant_ _met_ [twee van die] torent [aan _de] zijkant_ 
+B|8| B: [en] [een] dinge beneden [eruit] [aan _de] zijkant_ [eruit] [en] [aan _de] voorkant_ [eruit] 
+A|9| A: [ja] [en] [dan] nog drie armding 
+A|10| A: [ja oké] 
+A|11| A: negen 
+B|12| B: _ja ja ja_ 
+B|13| B: [dat] 
+B|14| B: [ja] [dat] [zijn] h 
+B|15| B: ik [hebben] diegene _met_ [de] ruit [zeggen maar] boven [en] _met_ [twee van die] torent [die] erin gaan 
+A|16| A: dit [zijn] [die] [met] _met die_ vierkanut [aan de bovenkant] [en] [dan] [twee van die] groot worden kubus [die] [eruit] steken 
+A|17| A: [en] [dan] nog drie arm [aan de] rechterkant [die] [eruit] steken [aan de] onderkant [en] [de zijkant] [en] [de voorkant] 
+A|18| A: [ja [ja [ja] ja] ja] 
+B|19| B: [oké] 
+B|20| B: [ja] zoeken [ja] [dat] [zijn] bij mij D 
+B|21| B: ik [hebben] diegene [met die] ruit [en] _die twee_ torent erin 
+B|22| B: [die] erboven [zitten] [en] [twee] uitsteeksel 
+A|23| A: elf 
+A|24| A: dit [zijn] [met] [dat] kantelen vierkant [aan de bovenkant] waar [die twee] kubus uit komen [die] steeds groot worden 
+A|25| A: [en] [dan] drie arm 
+A|26| A: veertien 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : ja ja ja dan weten ik al welk het zijn
+	Free: Pattern=ja ja ja, Pattern=het zijn, Pattern=dan
+	Constrained: Pattern=het, Pattern=zijn, Pattern=ja
+Turn ID=1| B | B : met twee van die toren aan de zijkant
+	Free: Pattern=twee van die, Pattern=aan de, Pattern=de zijkant, Pattern=met
+	Constrained: Pattern=twee, Pattern=de, Pattern=die, Pattern=van
+Turn ID=2| B | B : ja oké dan zijn het M
+	Free: Pattern=ja oké, Pattern=het, Pattern=zijn, Pattern=dan
+	Constrained: Pattern=oké, Pattern=ja
+Turn ID=3| A | A : deze hebben onder het kop een soort uitstulpsel en dat hebben die aan de rechterkant ook het zijn een soort van twee van die grijparmen
+	Free: Pattern=twee van die, Pattern=dat, Pattern=aan de, Pattern=een, Pattern=het, Pattern=deze hebben, Pattern=het zijn, Pattern=hebben die, Pattern=van, Pattern=en
+	Constrained: Pattern=twee, Pattern=de, Pattern=het, Pattern=hebben, Pattern=die, Pattern=van, Pattern=zijn
+Turn ID=4| A | A : en dan komen er nog een balk uit een beetje zo'n Pinokkioneusidee
+	Free: Pattern=en, Pattern=een, Pattern=dan
+	Constrained: 
+Turn ID=5| A | A : en dan erbovenop zitten nog een een kantelen vierkant waar ook twee van die kubus die zeggen maar steeds groot worden
+	Free: Pattern=twee van die, Pattern=dan, Pattern=een, Pattern=zeggen maar, Pattern=en, Pattern=die, Pattern=zitten
+	Constrained: Pattern=twee, Pattern=die, Pattern=van
+Turn ID=6| A | A : die komen eruit
+	Free: Pattern=eruit, Pattern=die
+	Constrained: 
+Turn ID=7| B | B : en deze hebben die ruit aan de bovenkant met twee van die torent aan de zijkant
+	Free: Pattern=twee van die, Pattern=aan de, Pattern=deze hebben, Pattern=met, Pattern=de zijkant, Pattern=hebben die, Pattern=aan de bovenkant, Pattern=en
+	Constrained: Pattern=twee, Pattern=de, Pattern=aan de, Pattern=hebben, Pattern=die, Pattern=van
+Turn ID=8| B | B : en een dinge beneden eruit aan de zijkant eruit en aan de voorkant eruit
+	Free: Pattern=aan de, Pattern=een, Pattern=eruit, Pattern=de voorkant, Pattern=de zijkant, Pattern=en
+	Constrained: Pattern=de
+Turn ID=9| A | A : ja en dan nog drie armding
+	Free: Pattern=en, Pattern=ja, Pattern=dan
+	Constrained: 
+Turn ID=10| A | A : ja oké
+	Free: Pattern=ja oké
+	Constrained: Pattern=oké, Pattern=ja
+Turn ID=11| A | A : negen
+	Free: 
+	Constrained: 
+Turn ID=12| B | B : ja ja ja
+	Free: Pattern=ja ja ja
+	Constrained: Pattern=ja
+Turn ID=13| B | B : dat
+	Free: Pattern=dat
+	Constrained: 
+Turn ID=14| B | B : ja dat zijn h
+	Free: Pattern=zijn, Pattern=dat, Pattern=ja
+	Constrained: 
+Turn ID=15| B | B : ik hebben diegene met de ruit zeggen maar boven en met twee van die torent die erin gaan
+	Free: Pattern=twee van die, Pattern=de, Pattern=zeggen maar, Pattern=hebben, Pattern=met, Pattern=die, Pattern=en
+	Constrained: Pattern=twee, Pattern=die, Pattern=van
+Turn ID=16| A | A : dit zijn die met met die vierkanut aan de bovenkant en dan twee van die groot worden kubus die eruit steken
+	Free: Pattern=twee van die, Pattern=met die, Pattern=dan, Pattern=eruit, Pattern=met, Pattern=die, Pattern=zijn, Pattern=aan de bovenkant, Pattern=en
+	Constrained: Pattern=twee, Pattern=de, Pattern=aan de, Pattern=met, Pattern=die, Pattern=van
+Turn ID=17| A | A : en dan nog drie arm aan de rechterkant die eruit steken aan de onderkant en de zijkant en de voorkant
+	Free: Pattern=aan de, Pattern=dan, Pattern=eruit, Pattern=de zijkant, Pattern=en, Pattern=de voorkant, Pattern=die
+	Constrained: Pattern=de
+Turn ID=18| A | A : ja ja ja ja ja
+	Free: Pattern=ja ja ja
+	Constrained: Pattern=ja
+Turn ID=19| B | B : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=20| B | B : ja zoeken ja dat zijn bij mij D
+	Free: Pattern=zijn, Pattern=dat, Pattern=ja
+	Constrained: 
+Turn ID=21| B | B : ik hebben diegene met die ruit en die twee torent erin
+	Free: Pattern=met die, Pattern=die twee, Pattern=hebben, Pattern=en
+	Constrained: Pattern=twee, Pattern=met, Pattern=die
+Turn ID=22| B | B : die erboven zitten en twee uitsteeksel
+	Free: Pattern=twee, Pattern=zitten, Pattern=en, Pattern=die
+	Constrained: 
+Turn ID=23| A | A : elf
+	Free: 
+	Constrained: 
+Turn ID=24| A | A : dit zijn met dat kantelen vierkant aan de bovenkant waar die twee kubus uit komen die steeds groot worden
+	Free: Pattern=dat, Pattern=die twee, Pattern=met, Pattern=die, Pattern=aan de bovenkant, Pattern=zijn
+	Constrained: Pattern=twee, Pattern=de, Pattern=die, Pattern=aan de
+Turn ID=25| A | A : en dan drie arm
+	Free: Pattern=en, Pattern=dan
+	Constrained: 
+Turn ID=26| A | A : veertien
+	Free: 
+	Constrained: 

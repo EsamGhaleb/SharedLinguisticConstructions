@@ -1,0 +1,179 @@
+A|0| A: _er_ _zijn_ _twee_ _ja_ handvaten zeggen maar 
+A|1| A: _één_ verticaal _bovenop_ staan _en_ _en_ _de_ ander _die_ _er_ _link_ _een beetje_ uitkomen 
+A|2| A: dan _hebben_ je _ook_ _nog_ vier kubus _die_ _soort van_ _in_ elkaar _zitten_ _aan de rechterkant_ 
+A|3| A: _die_ eruit steken 
+A|4| A: _ja_ 
+A|5| A: _achter_ _zijn_ _er een_ slurf _ja_ 
+B|6| B: even kijken ik [hebben] hem [nog] niet 
+B|7| B: [zitten] [een] groot lepel [in] het midden 
+B|8| B: [ja] 
+B|9| B: [ja] 
+B|10| B: [en] [link] [zitten] ongeveer dezelfde staaf lijken [er [een] beetje] _op_ 
+B|11| B: [en] [achter] [zitten] [een] raar staart geval 
+B|12| B: oké H 
+A|13| A: zeven 
+B|14| B: [een] pixelachtig ding [aan de rechterkant] 
+B|15| B: [soort van] lepel [in] [de] kop 
+B|16| B: [en] het voelen alsof [link] dezelfde [soort] figuur [ook] [zitten] 
+B|17| B: [aan de] achterkant [soort van] staart 
+B|18| B: dus [twee] _keer_ hetzelfde figuur , [één] _keer_ alsof het [in] het kop gaan 
+B|19| B: [en] _een keer_ [aan de] linkerkant [een beetje] [aan de] schuin onder 
+B|20| B: [ja] 
+B|21| B: [die] steeds breder _worden_ 
+B|22| B: [ja] 
+A|23| A: deze [hebben] [twee] handvaet [één] [die] rechtop [op] [de] bovenkant staan _en één_ [die] [link] eruit komen 
+A|24| A: [en] [aan de rechterkant] [van] [de] emmer _zijn_ [nog] kubus [die] zo klein [worden] 
+A|25| A: sorry [nog] [een keer] 
+A|26| A: [ja] 
+A|27| A: [ja] 
+A|28| A: zullen we [die] theekop noemen 
+A|29| A: zes 
+A|30| A: zes 
+B|31| B: [ja] 
+B|32| B: [ja] [twee] gelijk figuurt 
+B|33| B: [van] Bovenin [en] Linksvoor 
+B|34| B: [zijn] ongeveer gelijk vorm 
+B|35| B: [ja] oké 
+B|36| B: F 
+A|37| A: dit [zijn] [de] theekop 
+B|38| B: [twee] dezelfde rond vormp , [één] [bovenop] [en één] linksvoor , pixelachtig ding [aan de rechterkant] , [en] [een] slurfje naar [achter] lopen 
+A|39| A: zeven 
+B|40| B: [ja] 
+B|41| B: E 
+B|42| B: [twee] gelijk vorm , boven [en] Linksvoor 
+B|43| B: [ja] 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : er zijn twee ja handvaten zeggen maar
+	Free: Pattern=er, Pattern=twee, Pattern=zijn, Pattern=ja
+	Constrained: 
+Turn ID=1| A | A : één verticaal bovenop staan en en de ander die er link een beetje uitkomen
+	Free: Pattern=bovenop, Pattern=de, Pattern=die, Pattern=link, Pattern=er, Pattern=en, Pattern=één, Pattern=een beetje
+	Constrained: Pattern=een
+Turn ID=2| A | A : dan hebben je ook nog vier kubus die soort van in elkaar zitten aan de rechterkant
+	Free: Pattern=nog, Pattern=ook, Pattern=hebben, Pattern=in, Pattern=soort van, Pattern=aan de rechterkant, Pattern=die, Pattern=zitten
+	Constrained: Pattern=de, Pattern=van, Pattern=soort, Pattern=aan de
+Turn ID=3| A | A : die eruit steken
+	Free: Pattern=die
+	Constrained: 
+Turn ID=4| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=5| A | A : achter zijn er een slurf ja
+	Free: Pattern=er een, Pattern=zijn, Pattern=ja, Pattern=achter
+	Constrained: Pattern=er, Pattern=een
+Turn ID=6| B | B : even kijken ik hebben hem nog niet
+	Free: Pattern=nog, Pattern=hebben
+	Constrained: 
+Turn ID=7| B | B : zitten een groot lepel in het midden
+	Free: Pattern=in, Pattern=zitten, Pattern=een
+	Constrained: 
+Turn ID=8| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=9| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=10| B | B : en link zitten ongeveer dezelfde staaf lijken er een beetje op
+	Free: Pattern=op, Pattern=zitten, Pattern=en, Pattern=een beetje, Pattern=link, Pattern=er een
+	Constrained: Pattern=er, Pattern=een
+Turn ID=11| B | B : en achter zitten een raar staart geval
+	Free: Pattern=en, Pattern=zitten, Pattern=een, Pattern=achter
+	Constrained: 
+Turn ID=12| B | B : oké H
+	Free: 
+	Constrained: 
+Turn ID=13| A | A : zeven
+	Free: 
+	Constrained: 
+Turn ID=14| B | B : een pixelachtig ding aan de rechterkant
+	Free: Pattern=aan de rechterkant, Pattern=een
+	Constrained: Pattern=aan de, Pattern=de
+Turn ID=15| B | B : soort van lepel in de kop
+	Free: Pattern=soort van, Pattern=de, Pattern=in
+	Constrained: Pattern=soort, Pattern=van
+Turn ID=16| B | B : en het voelen alsof link dezelfde soort figuur ook zitten
+	Free: Pattern=soort, Pattern=ook, Pattern=zitten, Pattern=link, Pattern=en
+	Constrained: 
+Turn ID=17| B | B : aan de achterkant soort van staart
+	Free: Pattern=soort van, Pattern=aan de
+	Constrained: Pattern=de, Pattern=soort, Pattern=van
+Turn ID=18| B | B : dus twee keer hetzelfde figuur , één keer alsof het in het kop gaan
+	Free: Pattern=keer, Pattern=twee, Pattern=in, Pattern=één
+	Constrained: 
+Turn ID=19| B | B : en een keer aan de linkerkant een beetje aan de schuin onder
+	Free: Pattern=aan de, Pattern=een beetje, Pattern=een keer, Pattern=en
+	Constrained: Pattern=keer, Pattern=de, Pattern=een
+Turn ID=20| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=21| B | B : die steeds breder worden
+	Free: Pattern=die, Pattern=worden
+	Constrained: 
+Turn ID=22| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=23| A | A : deze hebben twee handvaet één die rechtop op de bovenkant staan en één die link eruit komen
+	Free: Pattern=en één, Pattern=twee, Pattern=de, Pattern=op, Pattern=hebben, Pattern=die, Pattern=link, Pattern=één
+	Constrained: Pattern=en, Pattern=één
+Turn ID=24| A | A : en aan de rechterkant van de emmer zijn nog kubus die zo klein worden
+	Free: Pattern=nog, Pattern=de, Pattern=worden, Pattern=zijn, Pattern=aan de rechterkant, Pattern=die, Pattern=van, Pattern=en
+	Constrained: Pattern=aan de, Pattern=de
+Turn ID=25| A | A : sorry nog een keer
+	Free: Pattern=een keer, Pattern=nog
+	Constrained: Pattern=keer, Pattern=een
+Turn ID=26| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=27| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=28| A | A : zullen we die theekop noemen
+	Free: Pattern=die
+	Constrained: 
+Turn ID=29| A | A : zes
+	Free: 
+	Constrained: 
+Turn ID=30| A | A : zes
+	Free: 
+	Constrained: 
+Turn ID=31| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=32| B | B : ja twee gelijk figuurt
+	Free: Pattern=twee, Pattern=ja
+	Constrained: 
+Turn ID=33| B | B : van Bovenin en Linksvoor
+	Free: Pattern=en, Pattern=van
+	Constrained: 
+Turn ID=34| B | B : zijn ongeveer gelijk vorm
+	Free: Pattern=zijn
+	Constrained: 
+Turn ID=35| B | B : ja oké
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=36| B | B : F
+	Free: 
+	Constrained: 
+Turn ID=37| A | A : dit zijn de theekop
+	Free: Pattern=de, Pattern=zijn
+	Constrained: 
+Turn ID=38| B | B : twee dezelfde rond vormp , één bovenop en één linksvoor , pixelachtig ding aan de rechterkant , en een slurfje naar achter lopen
+	Free: Pattern=en één, Pattern=bovenop, Pattern=twee, Pattern=een, Pattern=achter, Pattern=aan de rechterkant, Pattern=en, Pattern=één
+	Constrained: Pattern=de, Pattern=en, Pattern=aan de, Pattern=één
+Turn ID=39| A | A : zeven
+	Free: 
+	Constrained: 
+Turn ID=40| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=41| B | B : E
+	Free: 
+	Constrained: 
+Turn ID=42| B | B : twee gelijk vorm , boven en Linksvoor
+	Free: Pattern=twee, Pattern=en
+	Constrained: 
+Turn ID=43| B | B : ja
+	Free: Pattern=ja
+	Constrained: 

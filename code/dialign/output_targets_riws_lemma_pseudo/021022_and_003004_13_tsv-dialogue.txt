@@ -1,0 +1,95 @@
+B|0| B: oké _ja_ ik beschrijven _het_ als Pippi Langkous _het_ _hebben_ _aan_ beide kant drie kraalt laten _maar_ _zeggen_ _die_ uit _het_ kop komen 
+B|1| B: _en_ _dan_ _nog een_ vierkant eronder _en_ _een_ _rond_ _ding_ _met_ _een_ haal _aan de voorkant_ 
+A|2| A: twee groot [ja] 
+A|3| A: ok nummer vijf 
+A|4| A: [ja] dit zijn eigenlijk hij staan op [een] plateau eigenlijk [met] van draaien [ding] bovenin 
+A|5| A: er voor voor zich [ja] [ja] 
+A|6| A: [ja] 
+A|7| A: [ja] 
+B|8| B: [ja] _de_ [met] _de_ drie 
+B|9| B: yes 
+B|10| B: J 
+B|11| B: pinokkio Pippi Langkous sorry Pippi Langkous Pippi Langkous 
+B|12| B: Pippi Langkous 
+A|13| A: [ja] 
+A|14| A: [met] draaiding [met] [die] voor [die] ronde [ja] dat zijn [dan] nummertje elf 
+B|15| B: [ja] P 
+A|16| A: [ja] dit zijn [die] eigenlijk [die] op zo'n plateau staan [en] [die] eigenlijk doorboren worden door zo'n [ja] raar [het] ruit achtig [ding] [zeggen] [maar] [met] [met] dat [rond] maskertje voor [ja] 
+A|17| A: [ja] 
+B|18| B: Pippi Langkous 
+A|19| A: [ja] dus [die] doorboren worden weer [ja] [ja] 
+A|20| A: dat zijn [dan] nummertje negen 
+B|21| B: Pippi Langkous L 
+A|22| A: [ja] dit zijn [die] [die] op weer zo'n plateau staan [en] [die] er eigenlijk door doorboren doorboren worden [en] [aan de voorkant] zo'n ronde [hebben] [en] [aan] [nog] plateau [nog een] hangertje 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : oké ja ik beschrijven het als Pippi Langkous het hebben aan beide kant drie kraalt laten maar zeggen die uit het kop komen
+	Free: Pattern=het, Pattern=hebben, Pattern=zeggen, Pattern=die, Pattern=maar, Pattern=aan, Pattern=ja
+	Constrained: 
+Turn ID=1| B | B : en dan nog een vierkant eronder en een rond ding met een haal aan de voorkant
+	Free: Pattern=nog een, Pattern=dan, Pattern=ding, Pattern=een, Pattern=met, Pattern=en, Pattern=rond, Pattern=aan de voorkant
+	Constrained: Pattern=aan, Pattern=nog, Pattern=een, Pattern=de
+Turn ID=2| A | A : twee groot ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=3| A | A : ok nummer vijf
+	Free: 
+	Constrained: 
+Turn ID=4| A | A : ja dit zijn eigenlijk hij staan op een plateau eigenlijk met van draaien ding bovenin
+	Free: Pattern=ding, Pattern=een, Pattern=ja, Pattern=met
+	Constrained: 
+Turn ID=5| A | A : er voor voor zich ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=6| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=7| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=8| B | B : ja de met de drie
+	Free: Pattern=de, Pattern=ja, Pattern=met
+	Constrained: 
+Turn ID=9| B | B : yes
+	Free: 
+	Constrained: 
+Turn ID=10| B | B : J
+	Free: 
+	Constrained: 
+Turn ID=11| B | B : pinokkio Pippi Langkous sorry Pippi Langkous Pippi Langkous
+	Free: 
+	Constrained: 
+Turn ID=12| B | B : Pippi Langkous
+	Free: 
+	Constrained: 
+Turn ID=13| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=14| A | A : met draaiding met die voor die ronde ja dat zijn dan nummertje elf
+	Free: Pattern=dan, Pattern=die, Pattern=ja, Pattern=met
+	Constrained: 
+Turn ID=15| B | B : ja P
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=16| A | A : ja dit zijn die eigenlijk die op zo'n plateau staan en die eigenlijk doorboren worden door zo'n ja raar het ruit achtig ding zeggen maar met met dat rond maskertje voor ja
+	Free: Pattern=ja, Pattern=ding, Pattern=het, Pattern=zeggen, Pattern=met, Pattern=die, Pattern=en, Pattern=rond, Pattern=maar
+	Constrained: 
+Turn ID=17| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=18| B | B : Pippi Langkous
+	Free: 
+	Constrained: 
+Turn ID=19| A | A : ja dus die doorboren worden weer ja ja
+	Free: Pattern=die, Pattern=ja
+	Constrained: 
+Turn ID=20| A | A : dat zijn dan nummertje negen
+	Free: Pattern=dan
+	Constrained: 
+Turn ID=21| B | B : Pippi Langkous L
+	Free: 
+	Constrained: 
+Turn ID=22| A | A : ja dit zijn die die op weer zo'n plateau staan en die er eigenlijk door doorboren doorboren worden en aan de voorkant zo'n ronde hebben en aan nog plateau nog een hangertje
+	Free: Pattern=nog, Pattern=nog een, Pattern=hebben, Pattern=die, Pattern=en, Pattern=aan de voorkant, Pattern=aan, Pattern=ja
+	Constrained: Pattern=aan, Pattern=nog, Pattern=een, Pattern=de

@@ -1,0 +1,95 @@
+B|0| B: _nou_ 
+B|1| B: d _hebben ik_ omschrijven als _ja_ _de_ kralenketting zitten erbij 
+B|2| B: en _een_ _soort_ zuignap op _de_ voorkant 
+B|3| B: en hij staan op _een_ plateau 
+A|4| A: [ja] 
+A|5| A: [ja] 
+A|6| A: [soort] kraal 
+A|7| A: [ja] dus één maar _dat zijn_ [een] rond toch 
+A|8| A: [ja] [ja] [ja] dan weten [ik] hem zestien _dat zijn_ zestien 
+A|9| A: okee 
+A|10| A: [nou] _dat_ zien [ik] niet maar okee _dat_ gaan we onthouden 
+A|11| A: nu [hebben ik] diegene met die kraalt die zes kraal 
+B|12| B: [ja] 
+B|13| B: [dat zijn] M 
+A|14| A: okee 
+A|15| A: [de] kraalt [zijn] zeven 
+A|16| A: deze [zijn] met [de] krael 
+A|17| A: [de] kraalt [zijn] veertien 
+B|18| B: kralenketting bak 
+A|19| A: dit [zijn] met [de] krael 
+B|20| B: [ja] B 
+B|21| B: kralenketting staan op het plateau 
+B|22| B: O 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : nou
+	Free: Pattern=nou
+	Constrained: 
+Turn ID=1| B | B : d hebben ik omschrijven als ja de kralenketting zitten erbij
+	Free: Pattern=hebben ik, Pattern=ja, Pattern=de
+	Constrained: Pattern=ik
+Turn ID=2| B | B : en een soort zuignap op de voorkant
+	Free: Pattern=een, Pattern=soort, Pattern=de
+	Constrained: 
+Turn ID=3| B | B : en hij staan op een plateau
+	Free: Pattern=een
+	Constrained: 
+Turn ID=4| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=5| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=6| A | A : soort kraal
+	Free: Pattern=soort
+	Constrained: 
+Turn ID=7| A | A : ja dus één maar dat zijn een rond toch
+	Free: Pattern=dat zijn, Pattern=een, Pattern=ja
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=8| A | A : ja ja ja dan weten ik hem zestien dat zijn zestien
+	Free: Pattern=dat zijn, Pattern=ja, Pattern=ik
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=9| A | A : okee
+	Free: 
+	Constrained: 
+Turn ID=10| A | A : nou dat zien ik niet maar okee dat gaan we onthouden
+	Free: Pattern=ik, Pattern=dat, Pattern=nou
+	Constrained: 
+Turn ID=11| A | A : nu hebben ik diegene met die kraalt die zes kraal
+	Free: Pattern=hebben ik
+	Constrained: Pattern=ik
+Turn ID=12| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=13| B | B : dat zijn M
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=14| A | A : okee
+	Free: 
+	Constrained: 
+Turn ID=15| A | A : de kraalt zijn zeven
+	Free: Pattern=zijn, Pattern=de
+	Constrained: 
+Turn ID=16| A | A : deze zijn met de krael
+	Free: Pattern=zijn, Pattern=de
+	Constrained: 
+Turn ID=17| A | A : de kraalt zijn veertien
+	Free: Pattern=zijn, Pattern=de
+	Constrained: 
+Turn ID=18| B | B : kralenketting bak
+	Free: 
+	Constrained: 
+Turn ID=19| A | A : dit zijn met de krael
+	Free: Pattern=zijn, Pattern=de
+	Constrained: 
+Turn ID=20| B | B : ja B
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=21| B | B : kralenketting staan op het plateau
+	Free: 
+	Constrained: 
+Turn ID=22| B | B : O
+	Free: 
+	Constrained: 

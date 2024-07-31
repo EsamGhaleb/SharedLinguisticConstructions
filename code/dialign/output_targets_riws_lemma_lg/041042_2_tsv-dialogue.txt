@@ -1,0 +1,123 @@
+A|0| A: _ja_ _dit_ vinden ik echt _van_ alles wat ik _hebben_ er _maar_ _een beetje een_ _misvormd_ gezicht _van_ maken 
+A|1| A: sowieso _die_ basisvorm 
+A|2| A: daarbij _een_ wel echt _een_ spits kegel _op_ het _hoofd_ 
+A|3| A: _ja_ schuin naar voren eigenlijk _een soort_ piramide _die_ niet helemaal doorlopen _die_ halverwege _zijn_ afsnijden 
+A|4| A: dan schuin naar achter eigenlijk nog _een_ puntig toelopen _iets_ 
+A|5| A: en dan ergens onder nog _een_ half cirkel _of_ _ja_ _een_ cirkelvorm 
+B|6| B: lijken [een soort] [van] [op] [een] zeedier [of] zo 
+A|7| A: _ja_ 
+B|8| B: [een beetje een] raar _vis die_ [zijn] neus [hebben] _stoten_ zeggen [maar] 
+A|9| A: _ja_ 
+B|10| B: [ja] 
+B|11| B: _dat zijn_ J 
+B|12| B: _dit zijn die_ _dat_ zee dier 
+B|13| B: _met_ [een] _groot_ [misvormd] neusachtig [iets] _met_ _die groot_ 
+A|14| A: [die groot] spits en [die] ergens tegenaan [zijn] zwemmen 
+B|15| B: [ja] 
+B|16| B: [ja] 
+A|17| A: [dat zijn] nummer zes bij mij 
+A|18| A: _dit zijn die vis die_ ergens tegenaan [zijn] zwemmen 
+A|19| A: en [met] [dat] puntmuts [op] 
+B|20| B: [dat zijn] E 
+B|21| B: [dit zijn die] [die vis die] [zijn] neus [hebben] _stoten_ 
+A|22| A: [stoten] 
+A|23| A: [ja] 
+A|24| A: [dat zijn] nummer tien bij mij 
+A|25| A: [dit zijn] weer [die] gek [vis die] ergens tegenaan [zijn] zwemmen 
+B|26| B: [dat zijn] G 
+B|27| B: [dit zijn die vis die] [zijn] [hoofd] [hebben] [stoten] 
+A|28| A: [stoten] 
+A|29| A: [ja] [dat zijn] nummer tien 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : ja dit vinden ik echt van alles wat ik hebben er maar een beetje een misvormd gezicht van maken
+	Free: Pattern=misvormd, Pattern=ja, Pattern=hebben, Pattern=dit, Pattern=een beetje een, Pattern=van, Pattern=maar
+	Constrained: Pattern=een
+Turn ID=1| A | A : sowieso die basisvorm
+	Free: Pattern=die
+	Constrained: 
+Turn ID=2| A | A : daarbij een wel echt een spits kegel op het hoofd
+	Free: Pattern=op, Pattern=hoofd, Pattern=een
+	Constrained: 
+Turn ID=3| A | A : ja schuin naar voren eigenlijk een soort piramide die niet helemaal doorlopen die halverwege zijn afsnijden
+	Free: Pattern=een soort, Pattern=die, Pattern=zijn, Pattern=ja
+	Constrained: Pattern=een
+Turn ID=4| A | A : dan schuin naar achter eigenlijk nog een puntig toelopen iets
+	Free: Pattern=iets, Pattern=een
+	Constrained: 
+Turn ID=5| A | A : en dan ergens onder nog een half cirkel of ja een cirkelvorm
+	Free: Pattern=een, Pattern=of, Pattern=ja
+	Constrained: 
+Turn ID=6| B | B : lijken een soort van op een zeedier of zo
+	Free: Pattern=of, Pattern=op, Pattern=een, Pattern=een soort, Pattern=van
+	Constrained: Pattern=een
+Turn ID=7| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=8| B | B : een beetje een raar vis die zijn neus hebben stoten zeggen maar
+	Free: Pattern=hebben, Pattern=vis die, Pattern=een beetje een, Pattern=stoten, Pattern=zijn, Pattern=maar
+	Constrained: Pattern=die, Pattern=een
+Turn ID=9| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=10| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=11| B | B : dat zijn J
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=12| B | B : dit zijn die dat zee dier
+	Free: Pattern=dit zijn die, Pattern=dat
+	Constrained: Pattern=dit zijn, Pattern=dit, Pattern=zijn, Pattern=die
+Turn ID=13| B | B : met een groot misvormd neusachtig iets met die groot
+	Free: Pattern=misvormd, Pattern=iets, Pattern=een, Pattern=groot, Pattern=die groot, Pattern=met
+	Constrained: Pattern=die, Pattern=groot
+Turn ID=14| A | A : die groot spits en die ergens tegenaan zijn zwemmen
+	Free: Pattern=die groot, Pattern=die, Pattern=zijn
+	Constrained: Pattern=die, Pattern=groot
+Turn ID=15| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=16| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=17| A | A : dat zijn nummer zes bij mij
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=18| A | A : dit zijn die vis die ergens tegenaan zijn zwemmen
+	Free: Pattern=dit zijn die vis die, Pattern=zijn
+	Constrained: Pattern=dit zijn die, Pattern=dit, Pattern=vis die, Pattern=die, Pattern=zijn, Pattern=die vis die, Pattern=dit zijn
+Turn ID=19| A | A : en met dat puntmuts op
+	Free: Pattern=dat, Pattern=op, Pattern=met
+	Constrained: 
+Turn ID=20| B | B : dat zijn E
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=21| B | B : dit zijn die die vis die zijn neus hebben stoten
+	Free: Pattern=dit zijn die, Pattern=hebben, Pattern=stoten, Pattern=zijn, Pattern=die vis die
+	Constrained: Pattern=dit, Pattern=vis die, Pattern=die, Pattern=zijn, Pattern=dit zijn
+Turn ID=22| A | A : stoten
+	Free: Pattern=stoten
+	Constrained: 
+Turn ID=23| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=24| A | A : dat zijn nummer tien bij mij
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=25| A | A : dit zijn weer die gek vis die ergens tegenaan zijn zwemmen
+	Free: Pattern=vis die, Pattern=dit zijn, Pattern=die, Pattern=zijn
+	Constrained: Pattern=die, Pattern=dit, Pattern=zijn
+Turn ID=26| B | B : dat zijn G
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=27| B | B : dit zijn die vis die zijn hoofd hebben stoten
+	Free: Pattern=hebben, Pattern=stoten, Pattern=zijn, Pattern=hoofd, Pattern=dit zijn die vis die
+	Constrained: Pattern=dit zijn die, Pattern=dit, Pattern=vis die, Pattern=die, Pattern=zijn, Pattern=die vis die, Pattern=dit zijn
+Turn ID=28| A | A : stoten
+	Free: Pattern=stoten
+	Constrained: 
+Turn ID=29| A | A : ja dat zijn nummer tien
+	Free: Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=dat, Pattern=zijn

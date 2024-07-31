@@ -1,0 +1,147 @@
+B|0| B: oké 
+B|1| B: _dan_ _moeten_ _jij_ volgens mij net _drukken_ 
+A|2| A: nee [jij] [moeten] wel [drukken] _van_ _de_ plek 
+B|3| B: oké 
+B|4| B: oké oké _ik hebben_ weer _het_ vierkant nu 
+A|5| A: _ja_ 
+B|6| B: [ja] 
+B|7| B: nou _het_ _zijn_ dus er zitten _een_ vierkant in _het_ midden 
+B|8| B: _ik_ weten niet horizontaal 
+A|9| A: [ja] 
+B|10| B: _en_ _aan de voorkant_ zitten er zo'n dik cilinder _hebben_ _ik_ _het_ noemen 
+A|11| A: [een] soort _slurf_ zeggen maar 
+B|12| B: _ja ja_ 
+A|13| A: [ja ja] 
+B|14| B: _bovenop_ _twee_ [van] _die_ dinget 
+A|15| A: [ja] [ik hebben] hem 
+B|16| B: oké tof 
+A|17| A: [ja] 
+A|18| A: [dan] [zijn] _dat_ zes 
+A|19| A: _dit zijn_ _dat_ ding _met_ soort [van] _twee voelsprietjes_ op [zijn] hoofd [en] [dan] [een] soort [van] [een] plank [die] hem doorboort 
+A|20| A: [en] [een] soort _slurf_ [aan de voorkant] 
+B|21| B: even zoeken 
+B|22| B: [ja [ja] ja] _dat zijn_ C 
+B|23| B: _dit zijn de_ [met] [een] vierkant doormidden snijden [met] _de slurf_ 
+B|24| B: _bovenop_ [twee] [van] [die] 
+A|25| A: [ja] soort voelspriet achtig iets [en] [een] soort haak [aan de] linkerkant 
+B|26| B: [ja] 
+B|27| B: [ja] 
+A|28| A: [ja] dertien 
+A|29| A: [dit zijn de] soort [van] plank erdoorheen [en] [de slurf] [en] [twee] voelsprieten [bovenop] 
+B|30| B: [ja ja] J 
+B|31| B: [dit zijn de] _met het_ plateau doormidden 
+B|32| B: [met] [de slurf] dus [twee voelsprietjes] [bovenop] 
+A|33| A: yes [dat zijn] negen 
+A|34| A: [dit zijn de] [de] doorboring [met het] soort [van] [de] plank [en] [de slurf] [en] [de] voelsprieten [bovenop] 
+B|35| B: [ja] [dat zijn] N 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : oké
+	Free: 
+	Constrained: 
+Turn ID=1| B | B : dan moeten jij volgens mij net drukken
+	Free: Pattern=jij, Pattern=moeten, Pattern=dan, Pattern=drukken
+	Constrained: 
+Turn ID=2| A | A : nee jij moeten wel drukken van de plek
+	Free: Pattern=de, Pattern=moeten, Pattern=drukken, Pattern=van, Pattern=jij
+	Constrained: 
+Turn ID=3| B | B : oké
+	Free: 
+	Constrained: 
+Turn ID=4| B | B : oké oké ik hebben weer het vierkant nu
+	Free: Pattern=ik hebben, Pattern=het
+	Constrained: Pattern=hebben, Pattern=ik
+Turn ID=5| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=6| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=7| B | B : nou het zijn dus er zitten een vierkant in het midden
+	Free: Pattern=zijn, Pattern=het, Pattern=een
+	Constrained: 
+Turn ID=8| B | B : ik weten niet horizontaal
+	Free: Pattern=ik
+	Constrained: 
+Turn ID=9| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=10| B | B : en aan de voorkant zitten er zo'n dik cilinder hebben ik het noemen
+	Free: Pattern=het, Pattern=hebben, Pattern=ik, Pattern=en, Pattern=aan de voorkant
+	Constrained: Pattern=aan de, Pattern=de
+Turn ID=11| A | A : een soort slurf zeggen maar
+	Free: Pattern=slurf, Pattern=een
+	Constrained: 
+Turn ID=12| B | B : ja ja
+	Free: Pattern=ja ja
+	Constrained: Pattern=ja
+Turn ID=13| A | A : ja ja
+	Free: Pattern=ja ja
+	Constrained: Pattern=ja
+Turn ID=14| B | B : bovenop twee van die dinget
+	Free: Pattern=van, Pattern=die, Pattern=twee, Pattern=bovenop
+	Constrained: 
+Turn ID=15| A | A : ja ik hebben hem
+	Free: Pattern=ik hebben, Pattern=ja
+	Constrained: Pattern=hebben, Pattern=ik
+Turn ID=16| B | B : oké tof
+	Free: 
+	Constrained: 
+Turn ID=17| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=18| A | A : dan zijn dat zes
+	Free: Pattern=zijn, Pattern=dan, Pattern=dat
+	Constrained: 
+Turn ID=19| A | A : dit zijn dat ding met soort van twee voelsprietjes op zijn hoofd en dan een soort van een plank die hem doorboort
+	Free: Pattern=dat, Pattern=dan, Pattern=een, Pattern=met, Pattern=die, Pattern=zijn, Pattern=dit zijn, Pattern=twee voelsprietjes, Pattern=van, Pattern=en
+	Constrained: Pattern=zijn, Pattern=twee
+Turn ID=20| A | A : en een soort slurf aan de voorkant
+	Free: Pattern=aan de voorkant, Pattern=slurf, Pattern=een, Pattern=en
+	Constrained: Pattern=aan de, Pattern=de
+Turn ID=21| B | B : even zoeken
+	Free: 
+	Constrained: 
+Turn ID=22| B | B : ja ja ja dat zijn C
+	Free: Pattern=ja ja, Pattern=dat zijn
+	Constrained: Pattern=zijn, Pattern=ja, Pattern=dat
+Turn ID=23| B | B : dit zijn de met een vierkant doormidden snijden met de slurf
+	Free: Pattern=dit zijn de, Pattern=de slurf, Pattern=met, Pattern=een
+	Constrained: Pattern=dit zijn, Pattern=slurf, Pattern=de, Pattern=zijn
+Turn ID=24| B | B : bovenop twee van die
+	Free: Pattern=van, Pattern=die, Pattern=twee, Pattern=bovenop
+	Constrained: 
+Turn ID=25| A | A : ja soort voelspriet achtig iets en een soort haak aan de linkerkant
+	Free: Pattern=aan de, Pattern=ja, Pattern=een, Pattern=en
+	Constrained: Pattern=de
+Turn ID=26| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=27| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=28| A | A : ja dertien
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=29| A | A : dit zijn de soort van plank erdoorheen en de slurf en twee voelsprieten bovenop
+	Free: Pattern=de slurf, Pattern=bovenop, Pattern=twee, Pattern=dit zijn de, Pattern=van, Pattern=en
+	Constrained: Pattern=dit zijn, Pattern=slurf, Pattern=de, Pattern=zijn
+Turn ID=30| B | B : ja ja J
+	Free: Pattern=ja ja
+	Constrained: Pattern=ja
+Turn ID=31| B | B : dit zijn de met het plateau doormidden
+	Free: Pattern=dit zijn de, Pattern=met het
+	Constrained: Pattern=de, Pattern=het, Pattern=met, Pattern=zijn, Pattern=dit zijn
+Turn ID=32| B | B : met de slurf dus twee voelsprietjes bovenop
+	Free: Pattern=de slurf, Pattern=twee voelsprietjes, Pattern=bovenop, Pattern=met
+	Constrained: Pattern=slurf, Pattern=twee, Pattern=de
+Turn ID=33| A | A : yes dat zijn negen
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=34| A | A : dit zijn de de doorboring met het soort van de plank en de slurf en de voelsprieten bovenop
+	Free: Pattern=de slurf, Pattern=bovenop, Pattern=de, Pattern=met het, Pattern=dit zijn de, Pattern=van, Pattern=en
+	Constrained: Pattern=de, Pattern=slurf, Pattern=het, Pattern=met, Pattern=zijn, Pattern=dit zijn
+Turn ID=35| B | B : ja dat zijn N
+	Free: Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=zijn, Pattern=dat

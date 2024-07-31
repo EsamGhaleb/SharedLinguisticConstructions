@@ -1,0 +1,179 @@
+B|0| B: _ja ik_ _weten_ welk je _bedoelen_ 
+B|1| B: _dat zijn_ K 
+B|2| B: _deze_ _hebben_ _weer_ _zo'n_ doorlopen staaf _met_ _aan_ _het_ einde _een_ bol _en_ _aan de ander kant_ _ook_ _het_ einde _een_ bol 
+A|3| A: [ja ik] noemen [deze] [het] kanon omdat [het] _een soort_ van [het] [zijn] _een soort_ kop [en] er gaan iets [aan de ander kant] in [en] er komen [ook] [aan de ander kant] [weer] uit 
+B|4| B: [en] [een soort] schuin plaat link 
+B|5| B: [ja] 
+A|6| A: [met] [een soort] van afdak [aan de ander] [ja] _die_ _die_ [soort] van spijker _die_ er helemaal doorheen staan [met] [een soort] van raar afdak [aan de] linkerkant 
+A|7| A: [ja] 
+A|8| A: [en] dan komen _die_ [aan de ander kant] [weer] uit 
+A|9| A: [een] rond plateau 
+A|10| A: [ik] [bedoelen] _bij mij_ [zijn] [het] [een] kop 
+A|11| A: net zoals altijd 
+A|12| A: [en] daar komen [aan de] linkerkant [een soort] van spijker in 
+A|13| A: _die_ [aan de] rechterkant er [weer] uit gaan 
+A|14| A: [en] daarboven steken boven [dat] steken nog [een soort] van raar afdak uit [zo'n] scheef ding wat naar boven wijzen 
+A|15| A: [ja] van _die_ ronde van _die_ rond halfron _zijkant_ 
+A|16| A: [ja] [zo'n] raar [een soort] van [ja ik] noemen [het] afdak of zo [het] [zijn] [een] beetje 
+A|17| A: [ja] 
+A|18| A: [het] [zijn] [een] beetje [een] raar figuur wat [ik] niet echt heel goed snapen 
+A|19| A: nee _die_ noemen [ik] niet [de] gieter 
+A|20| A: _die_ nee [de] [de] [deze] noemen [ik] niet [de] gieter 
+A|21| A: [hebben] we dan echt wel dezelfde 
+A|22| A: er gaan [aan de] [een] [kant] [een] halfrond ding in 
+A|23| A: [ja] 
+A|24| A: [ja] ongeveer [ja] _en die_ _die_ _die_ _en die_ ding [zijn] vrij rond [en] er zitten [een soort] van [ja] rond op 
+A|25| A: [ja] [ja] dus dan [hebben] we [het] wel hetzelfde ding want volgens _mij_ [hebben] geen enkel [ander] [dat] 
+A|26| A: oké 
+B|27| B: [ja] 
+B|28| B: [ik] [zijn] _hem even_ [aan] [het] _zoeken_ 
+B|29| B: [ja] _dat zijn_ [bij mij] F 
+B|30| B: [die] doorlopen staaf [met] [die] boll [aan de] [zijkant] 
+B|31| B: [en die] plank schuin 
+A|32| A: [ja] [en] [dat] afdak [ja] 
+A|33| A: [dat zijn] numero negen 
+B|34| B: L 
+A|35| A: nou dit [zijn] mijn kanon [met] [het] raar afdak 
+B|36| B: [die] [met] [die] strokk staaf [met] [die] twee boll [aan de] [zijkant] 
+A|37| A: [het] afdak [ik] [zoeken] [hem even] op 
+A|38| A: [dat] [weten] [ik] niet [ik] [zoeken] [hem even] op 
+A|39| A: waar [zijn] [dat] ding 
+A|40| A: [ja] numero drie 
+A|41| A: [het] kanon [met] af afdak 
+A|42| A: [ja ik] [zoeken] [hem even] op 
+A|43| A: [dat zijn] numero vijf 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : ja ik weten welk je bedoelen
+	Free: Pattern=ja ik, Pattern=bedoelen, Pattern=weten
+	Constrained: Pattern=ja, Pattern=ik
+Turn ID=1| B | B : dat zijn K
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=2| B | B : deze hebben weer zo'n doorlopen staaf met aan het einde een bol en aan de ander kant ook het einde een bol
+	Free: Pattern=zo'n, Pattern=aan, Pattern=ook, Pattern=het, Pattern=hebben, Pattern=met, Pattern=en, Pattern=een, Pattern=aan de ander kant, Pattern=deze, Pattern=weer
+	Constrained: Pattern=kant, Pattern=aan de, Pattern=aan de ander, Pattern=ander, Pattern=de, Pattern=aan
+Turn ID=3| A | A : ja ik noemen deze het kanon omdat het een soort van het zijn een soort kop en er gaan iets aan de ander kant in en er komen ook aan de ander kant weer uit
+	Free: Pattern=ook, Pattern=aan de ander kant, Pattern=het, Pattern=ja ik, Pattern=een soort, Pattern=en, Pattern=zijn, Pattern=deze, Pattern=weer
+	Constrained: Pattern=kant, Pattern=soort, Pattern=aan de, Pattern=de, Pattern=aan, Pattern=ja, Pattern=een, Pattern=aan de ander, Pattern=ik, Pattern=ander
+Turn ID=4| B | B : en een soort schuin plaat link
+	Free: Pattern=een soort, Pattern=en
+	Constrained: Pattern=soort, Pattern=een
+Turn ID=5| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=6| A | A : met een soort van afdak aan de ander ja die die soort van spijker die er helemaal doorheen staan met een soort van raar afdak aan de linkerkant
+	Free: Pattern=soort, Pattern=ja, Pattern=aan de, Pattern=aan de ander, Pattern=met, Pattern=die, Pattern=een soort
+	Constrained: Pattern=soort, Pattern=aan de, Pattern=een, Pattern=ander, Pattern=de, Pattern=aan
+Turn ID=7| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=8| A | A : en dan komen die aan de ander kant weer uit
+	Free: Pattern=aan de ander kant, Pattern=die, Pattern=en, Pattern=weer
+	Constrained: Pattern=kant, Pattern=aan de, Pattern=aan de ander, Pattern=ander, Pattern=de, Pattern=aan
+Turn ID=9| A | A : een rond plateau
+	Free: Pattern=een
+	Constrained: 
+Turn ID=10| A | A : ik bedoelen bij mij zijn het een kop
+	Free: Pattern=een, Pattern=het, Pattern=bedoelen, Pattern=ik, Pattern=zijn, Pattern=bij mij
+	Constrained: Pattern=mij
+Turn ID=11| A | A : net zoals altijd
+	Free: 
+	Constrained: 
+Turn ID=12| A | A : en daar komen aan de linkerkant een soort van spijker in
+	Free: Pattern=een soort, Pattern=aan de, Pattern=en
+	Constrained: Pattern=de, Pattern=soort, Pattern=een, Pattern=aan
+Turn ID=13| A | A : die aan de rechterkant er weer uit gaan
+	Free: Pattern=aan de, Pattern=die, Pattern=weer
+	Constrained: Pattern=de, Pattern=aan
+Turn ID=14| A | A : en daarboven steken boven dat steken nog een soort van raar afdak uit zo'n scheef ding wat naar boven wijzen
+	Free: Pattern=een soort, Pattern=dat, Pattern=en, Pattern=zo'n
+	Constrained: Pattern=soort, Pattern=een
+Turn ID=15| A | A : ja van die ronde van die rond halfron zijkant
+	Free: Pattern=die, Pattern=ja, Pattern=zijkant
+	Constrained: 
+Turn ID=16| A | A : ja zo'n raar een soort van ja ik noemen het afdak of zo het zijn een beetje
+	Free: Pattern=zo'n, Pattern=ja, Pattern=een, Pattern=het, Pattern=ja ik, Pattern=een soort, Pattern=zijn
+	Constrained: Pattern=ja, Pattern=ik, Pattern=soort, Pattern=een
+Turn ID=17| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=18| A | A : het zijn een beetje een raar figuur wat ik niet echt heel goed snapen
+	Free: Pattern=zijn, Pattern=het, Pattern=ik, Pattern=een
+	Constrained: 
+Turn ID=19| A | A : nee die noemen ik niet de gieter
+	Free: Pattern=die, Pattern=de, Pattern=ik
+	Constrained: 
+Turn ID=20| A | A : die nee de de deze noemen ik niet de gieter
+	Free: Pattern=die, Pattern=deze, Pattern=de, Pattern=ik
+	Constrained: 
+Turn ID=21| A | A : hebben we dan echt wel dezelfde
+	Free: Pattern=hebben
+	Constrained: 
+Turn ID=22| A | A : er gaan aan de een kant een halfrond ding in
+	Free: Pattern=aan de, Pattern=kant, Pattern=een
+	Constrained: Pattern=de, Pattern=aan
+Turn ID=23| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=24| A | A : ja ongeveer ja en die die die en die ding zijn vrij rond en er zitten een soort van ja rond op
+	Free: Pattern=en die, Pattern=ja, Pattern=die, Pattern=een soort, Pattern=en, Pattern=zijn
+	Constrained: Pattern=die, Pattern=en, Pattern=soort, Pattern=een
+Turn ID=25| A | A : ja ja dus dan hebben we het wel hetzelfde ding want volgens mij hebben geen enkel ander dat
+	Free: Pattern=dat, Pattern=ja, Pattern=het, Pattern=hebben, Pattern=mij, Pattern=ander
+	Constrained: 
+Turn ID=26| A | A : oké
+	Free: 
+	Constrained: 
+Turn ID=27| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=28| B | B : ik zijn hem even aan het zoeken
+	Free: Pattern=zoeken, Pattern=aan, Pattern=het, Pattern=hem even, Pattern=ik, Pattern=zijn
+	Constrained: 
+Turn ID=29| B | B : ja dat zijn bij mij F
+	Free: Pattern=bij mij, Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=dat, Pattern=zijn, Pattern=mij
+Turn ID=30| B | B : die doorlopen staaf met die boll aan de zijkant
+	Free: Pattern=aan de, Pattern=die, Pattern=met, Pattern=zijkant
+	Constrained: Pattern=de, Pattern=aan
+Turn ID=31| B | B : en die plank schuin
+	Free: Pattern=en die
+	Constrained: Pattern=die, Pattern=en
+Turn ID=32| A | A : ja en dat afdak ja
+	Free: Pattern=dat, Pattern=ja, Pattern=en
+	Constrained: 
+Turn ID=33| A | A : dat zijn numero negen
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=34| B | B : L
+	Free: 
+	Constrained: 
+Turn ID=35| A | A : nou dit zijn mijn kanon met het raar afdak
+	Free: Pattern=zijn, Pattern=met, Pattern=het
+	Constrained: 
+Turn ID=36| B | B : die met die strokk staaf met die twee boll aan de zijkant
+	Free: Pattern=aan de, Pattern=die, Pattern=met, Pattern=zijkant
+	Constrained: Pattern=de, Pattern=aan
+Turn ID=37| A | A : het afdak ik zoeken hem even op
+	Free: Pattern=hem even, Pattern=het, Pattern=zoeken, Pattern=ik
+	Constrained: 
+Turn ID=38| A | A : dat weten ik niet ik zoeken hem even op
+	Free: Pattern=dat, Pattern=zoeken, Pattern=weten, Pattern=hem even, Pattern=ik
+	Constrained: 
+Turn ID=39| A | A : waar zijn dat ding
+	Free: Pattern=dat, Pattern=zijn
+	Constrained: 
+Turn ID=40| A | A : ja numero drie
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=41| A | A : het kanon met af afdak
+	Free: Pattern=met, Pattern=het
+	Constrained: 
+Turn ID=42| A | A : ja ik zoeken hem even op
+	Free: Pattern=hem even, Pattern=ja ik, Pattern=zoeken
+	Constrained: Pattern=ja, Pattern=ik
+Turn ID=43| A | A : dat zijn numero vijf
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn

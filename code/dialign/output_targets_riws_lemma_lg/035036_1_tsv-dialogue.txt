@@ -1,0 +1,75 @@
+B|0| B: _dit_ vinden ik _een helikopter_ 
+B|1| B: _maar_ dan _met een_ soort _ja_ schilderij of _televisiescherm aan_ _zijn_ rechter zijde 
+B|2| B: hij hebben _twee_ van die van die _vierkant_ die steeds _groot_ worden _aan de_ linkerzijde en dan bovenop zo'n antenne 
+A|3| A: oké [ja] 
+A|4| A: _dat zijn_ [een] [groot] [vierkant] [aan de] voorkant zeggen [maar] 
+B|5| B: [ja] 
+A|6| A: oké _dat zijn_ [twee] 
+A|7| A: deze noemen jij volgens mij [een _helikopter] [met_ een] [televisiescherm [aan] de] zijkant 
+B|8| B: [ja] 
+B|9| B: [dat zijn] G 
+B|10| B: _dit zijn_ die [helikopter met] het [televisiescherm] 
+A|11| A: [dat zijn] negen 
+A|12| A: [dit zijn] _de [helikopter_ met] [dat] scherm 
+B|13| B: [ja] [dat zijn] D 
+B|14| B: [de helikopter] 
+A|15| A: [dat zijn] één 
+A|16| A: [dit zijn] [de helikopter] 
+B|17| B: [ja] B 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : dit vinden ik een helikopter
+	Free: Pattern=een helikopter, Pattern=dit
+	Constrained: Pattern=een
+Turn ID=1| B | B : maar dan met een soort ja schilderij of televisiescherm aan zijn rechter zijde
+	Free: Pattern=ja, Pattern=televisiescherm aan, Pattern=met een, Pattern=zijn, Pattern=maar
+	Constrained: Pattern=een, Pattern=televisiescherm
+Turn ID=2| B | B : hij hebben twee van die van die vierkant die steeds groot worden aan de linkerzijde en dan bovenop zo'n antenne
+	Free: Pattern=aan de, Pattern=twee, Pattern=vierkant, Pattern=groot
+	Constrained: 
+Turn ID=3| A | A : oké ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=4| A | A : dat zijn een groot vierkant aan de voorkant zeggen maar
+	Free: Pattern=dat zijn, Pattern=aan de, Pattern=een, Pattern=groot, Pattern=maar, Pattern=vierkant
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=5| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=6| A | A : oké dat zijn twee
+	Free: Pattern=dat zijn, Pattern=twee
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=7| A | A : deze noemen jij volgens mij een helikopter met een televisiescherm aan de zijkant
+	Free: Pattern=een helikopter, Pattern=aan de, Pattern=televisiescherm aan, Pattern=met een, Pattern=helikopter met
+	Constrained: Pattern=een, Pattern=televisiescherm
+Turn ID=8| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=9| B | B : dat zijn G
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=10| B | B : dit zijn die helikopter met het televisiescherm
+	Free: Pattern=dit zijn, Pattern=helikopter met, Pattern=televisiescherm
+	Constrained: Pattern=zijn, Pattern=dit
+Turn ID=11| A | A : dat zijn negen
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=12| A | A : dit zijn de helikopter met dat scherm
+	Free: Pattern=de helikopter, Pattern=dit zijn, Pattern=helikopter met, Pattern=dat
+	Constrained: Pattern=dit, Pattern=zijn
+Turn ID=13| B | B : ja dat zijn D
+	Free: Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=14| B | B : de helikopter
+	Free: Pattern=de helikopter
+	Constrained: 
+Turn ID=15| A | A : dat zijn één
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=16| A | A : dit zijn de helikopter
+	Free: Pattern=de helikopter, Pattern=dit zijn
+	Constrained: Pattern=zijn, Pattern=dit
+Turn ID=17| B | B : ja B
+	Free: Pattern=ja
+	Constrained: 

@@ -1,0 +1,59 @@
+B|0| B: oké een soort van schroef onderaan _met_ een driehoek op _het_ einde als een soort voetstuk 
+B|1| B: oké aan _de_ onderkant _dat_ gedraaide oké _ja_ _dat zijn_ bij mij A 
+A|2| A: [ja] 
+A|3| A: [dat zijn] numero vier 
+B|4| B: _dit zijn_ weer die schroef _met_ driehoek eraan 
+A|5| A: [ja] [dit zijn] [de] kasteel [met] [het] spiraal eronder 
+B|6| B: [dat zijn] bij mij L 
+B|7| B: die [met] die schroef en die driehoek 
+B|8| B: als voetstuk 
+B|9| B: F 
+A|10| A: [het] toren [dat zijn] numero tien 
+A|11| A: [het] toren 
+A|12| A: [dat zijn] numero vier 
+A|13| A: [het] toren 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : oké een soort van schroef onderaan met een driehoek op het einde als een soort voetstuk
+	Free: Pattern=het, Pattern=met
+	Constrained: 
+Turn ID=1| B | B : oké aan de onderkant dat gedraaide oké ja dat zijn bij mij A
+	Free: Pattern=dat zijn, Pattern=ja, Pattern=dat, Pattern=de
+	Constrained: Pattern=dat
+Turn ID=2| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=3| A | A : dat zijn numero vier
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat
+Turn ID=4| B | B : dit zijn weer die schroef met driehoek eraan
+	Free: Pattern=dit zijn, Pattern=met
+	Constrained: 
+Turn ID=5| A | A : ja dit zijn de kasteel met het spiraal eronder
+	Free: Pattern=het, Pattern=met, Pattern=dit zijn, Pattern=de, Pattern=ja
+	Constrained: 
+Turn ID=6| B | B : dat zijn bij mij L
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat
+Turn ID=7| B | B : die met die schroef en die driehoek
+	Free: Pattern=met
+	Constrained: 
+Turn ID=8| B | B : als voetstuk
+	Free: 
+	Constrained: 
+Turn ID=9| B | B : F
+	Free: 
+	Constrained: 
+Turn ID=10| A | A : het toren dat zijn numero tien
+	Free: Pattern=dat zijn, Pattern=het
+	Constrained: Pattern=dat
+Turn ID=11| A | A : het toren
+	Free: Pattern=het
+	Constrained: 
+Turn ID=12| A | A : dat zijn numero vier
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat
+Turn ID=13| A | A : het toren
+	Free: Pattern=het
+	Constrained: 

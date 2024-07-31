@@ -1,0 +1,143 @@
+A|0| A: ah 
+A|1| A: _ja en_ dan hebben _die_ van _die_ vierkant blok daarboven _en_ _zo_ 
+A|2| A: _ja_ 
+A|3| A: _ja_ 
+A|4| A: wachten ik moeten hem doen vier 
+B|5| B: nou dit lijken wel _een_ beetje _zeggen maar_ _een_ poppe _wat_ [zo] _met de_ armp omhoog staan op _een_ _soort_ gedraaide draaideen balk 
+B|6| B: _het_ _zijn_ _een_ _soort_ _beker_ 
+B|7| B: [ja] 
+A|8| A: oké jij noemen [het] volgens mij als [een] [beker] dus aan [de] onderkant hebben je _die_ driehoek dan hebben je _die_ staaf naar boven _en_ aan [de] zijkant _die_ vierkant blok dus _dat_ worden gewoon 
+A|9| A: _dat_ noemen we vanaf nu gewoon _de beker_ of [zo] of 
+B|10| B: Cup Cup 
+B|11| B: [ja en] 
+B|12| B: _met_ [een] spiraal 
+B|13| B: [ja] [ja] [ja] 
+B|14| B: _dat zijn_ A 
+A|15| A: oké [ja] 
+A|16| A: achten 
+A|17| A: of wachten 
+A|18| A: [met de] [soort] badkuipachtig aan [de] onderkant of [wat] 
+A|19| A: ah _die_ 
+A|20| A: [ja] oké 
+A|21| A: [maar] goed [dat] ik even dubbelcheckten [dat zijn] tien 
+B|22| B: dit [zijn] _zeggen maar_ [de] winnaarsbeker 
+B|23| B: _met dat_ gedraaide 
+A|24| A: [de] [ja] [het] glas [zeggen maar] [met dat] statief onder [dat] vierkant statief 
+A|25| A: driehoek [ja] Sorry 
+B|26| B: _de beker [met_ de] draaien 
+B|27| B: [dat zijn] L 
+A|28| A: driehoekstatief [ja] 
+A|29| A: [met [de] beker] [zeggen maar] 
+A|30| A: [dat zijn] vier 
+A|31| A: [de beker met] [het] statief 
+B|32| B: dit [zijn] [de beker] 
+B|33| B: op [die] draaien ding 
+B|34| B: [dat zijn] F 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : ah
+	Free: 
+	Constrained: 
+Turn ID=1| A | A : ja en dan hebben die van die vierkant blok daarboven en zo
+	Free: Pattern=ja en, Pattern=en, Pattern=zo, Pattern=die
+	Constrained: Pattern=en, Pattern=ja
+Turn ID=2| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=3| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=4| A | A : wachten ik moeten hem doen vier
+	Free: 
+	Constrained: 
+Turn ID=5| B | B : nou dit lijken wel een beetje zeggen maar een poppe wat zo met de armp omhoog staan op een soort gedraaide draaideen balk
+	Free: Pattern=soort, Pattern=met de, Pattern=een, Pattern=zeggen maar, Pattern=zo, Pattern=wat
+	Constrained: Pattern=met, Pattern=de, Pattern=maar
+Turn ID=6| B | B : het zijn een soort beker
+	Free: Pattern=beker, Pattern=soort, Pattern=een, Pattern=het, Pattern=zijn
+	Constrained: 
+Turn ID=7| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=8| A | A : oké jij noemen het volgens mij als een beker dus aan de onderkant hebben je die driehoek dan hebben je die staaf naar boven en aan de zijkant die vierkant blok dus dat worden gewoon
+	Free: Pattern=beker, Pattern=dat, Pattern=de, Pattern=een, Pattern=het, Pattern=die, Pattern=en
+	Constrained: 
+Turn ID=9| A | A : dat noemen we vanaf nu gewoon de beker of zo of
+	Free: Pattern=de beker, Pattern=zo, Pattern=dat
+	Constrained: Pattern=beker, Pattern=de
+Turn ID=10| B | B : Cup Cup
+	Free: 
+	Constrained: 
+Turn ID=11| B | B : ja en
+	Free: Pattern=ja en
+	Constrained: Pattern=en, Pattern=ja
+Turn ID=12| B | B : met een spiraal
+	Free: Pattern=met, Pattern=een
+	Constrained: 
+Turn ID=13| B | B : ja ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=14| B | B : dat zijn A
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=15| A | A : oké ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=16| A | A : achten
+	Free: 
+	Constrained: 
+Turn ID=17| A | A : of wachten
+	Free: 
+	Constrained: 
+Turn ID=18| A | A : met de soort badkuipachtig aan de onderkant of wat
+	Free: Pattern=met de, Pattern=soort, Pattern=de, Pattern=wat
+	Constrained: Pattern=met, Pattern=de
+Turn ID=19| A | A : ah die
+	Free: Pattern=die
+	Constrained: 
+Turn ID=20| A | A : ja oké
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=21| A | A : maar goed dat ik even dubbelcheckten dat zijn tien
+	Free: Pattern=dat zijn, Pattern=maar, Pattern=dat
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=22| B | B : dit zijn zeggen maar de winnaarsbeker
+	Free: Pattern=zeggen maar, Pattern=de, Pattern=zijn
+	Constrained: Pattern=maar
+Turn ID=23| B | B : met dat gedraaide
+	Free: Pattern=met dat
+	Constrained: Pattern=met, Pattern=dat
+Turn ID=24| A | A : de ja het glas zeggen maar met dat statief onder dat vierkant statief
+	Free: Pattern=dat, Pattern=zeggen maar, Pattern=het, Pattern=met dat, Pattern=de, Pattern=ja
+	Constrained: Pattern=met, Pattern=maar, Pattern=dat
+Turn ID=25| A | A : driehoek ja Sorry
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=26| B | B : de beker met de draaien
+	Free: Pattern=de beker met, Pattern=met de
+	Constrained: Pattern=de, Pattern=met, Pattern=beker, Pattern=de beker
+Turn ID=27| B | B : dat zijn L
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=28| A | A : driehoekstatief ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=29| A | A : met de beker zeggen maar
+	Free: Pattern=zeggen maar, Pattern=met de, Pattern=de beker
+	Constrained: Pattern=met, Pattern=beker, Pattern=de, Pattern=maar
+Turn ID=30| A | A : dat zijn vier
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=31| A | A : de beker met het statief
+	Free: Pattern=de beker met, Pattern=het
+	Constrained: Pattern=de, Pattern=met, Pattern=beker, Pattern=de beker
+Turn ID=32| B | B : dit zijn de beker
+	Free: Pattern=de beker, Pattern=zijn
+	Constrained: Pattern=beker, Pattern=de
+Turn ID=33| B | B : op die draaien ding
+	Free: Pattern=die
+	Constrained: 
+Turn ID=34| B | B : dat zijn F
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn

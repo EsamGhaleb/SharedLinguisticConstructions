@@ -1,0 +1,111 @@
+A|0| A: _oké_ 
+A|1| A: deze _hebben_ _aan_ beide kant _een soort_ _stomp_ alsof _die_ _zijn_ arm uitstrekken of zo 
+A|2| A: _en aan de_ achterkant zitten _nog_ _een_ beetje _een_ niet helemaal identificeerbaar figuur _een soort_ vierkant _met_ _nog_ iets eraan 
+A|3| A: _ja_ linksachter _hebben die_ iets zitten 
+A|4| A: _en dan_ staan _die_ _een_ beetje zo 
+B|5| B: [oké] 
+B|6| B: [en] [hebben _die] stomp_ [een soort] van _rond_ _uiteinde_ 
+A|7| A: _ja ja_ 
+B|8| B: [ja] 
+B|9| B: K 
+B|10| B: _ik hebben_ _dat_ _ding_ _met die twee_ [stomp] [aan de] linker [en aan de] rechterkant [met] _dat_ bol einde 
+B|11| B: [en dan] er [nog] zo'n raar vierkantje achter 
+A|12| A: [ja] 
+A|13| A: [ja] 
+A|14| A: _dat zijn_ nummer negen 
+A|15| A: nu [hebben] [ik] _weer_ [met die twee] knobbelt _met die rond_ [ding] [aan] _het_ [uiteinde] daarvan 
+B|16| B: [ja _ja] die stomp_ 
+A|17| A: [ja die stomp] 
+B|18| B: F 
+B|19| B: _ik hebben_ [dat] [met [die] stomp] [met die rond] uiteindjes 
+A|20| A: _dat zijn_ nummer drie 
+A|21| A: _ik hebben met die_ armpjes [met die] knobbel eraan 
+B|22| B: [dat zijn] bij mij L 
+B|23| B: [ik hebben [met die] twee] [stomp] [met die rond] uiteindjes 
+B|24| B: [het] [zijn] [weer] wisselen ? [ja] 
+A|25| A: [ja] dit [zijn] [de] laat 
+A|26| A: nummer vijf 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=1| A | A : deze hebben aan beide kant een soort stomp alsof die zijn arm uitstrekken of zo
+	Free: Pattern=aan, Pattern=stomp, Pattern=hebben, Pattern=die, Pattern=een soort, Pattern=zijn
+	Constrained: Pattern=een
+Turn ID=2| A | A : en aan de achterkant zitten nog een beetje een niet helemaal identificeerbaar figuur een soort vierkant met nog iets eraan
+	Free: Pattern=nog, Pattern=een, Pattern=met, Pattern=een soort, Pattern=en aan de
+	Constrained: Pattern=aan de, Pattern=een, Pattern=en, Pattern=de, Pattern=aan
+Turn ID=3| A | A : ja linksachter hebben die iets zitten
+	Free: Pattern=hebben die, Pattern=ja
+	Constrained: Pattern=die, Pattern=hebben
+Turn ID=4| A | A : en dan staan die een beetje zo
+	Free: Pattern=en dan, Pattern=die, Pattern=een
+	Constrained: Pattern=en
+Turn ID=5| B | B : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=6| B | B : en hebben die stomp een soort van rond uiteinde
+	Free: Pattern=uiteinde, Pattern=een soort, Pattern=en, Pattern=rond, Pattern=die stomp, Pattern=hebben die
+	Constrained: Pattern=een, Pattern=die, Pattern=stomp, Pattern=hebben
+Turn ID=7| A | A : ja ja
+	Free: Pattern=ja ja
+	Constrained: Pattern=ja
+Turn ID=8| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=9| B | B : K
+	Free: 
+	Constrained: 
+Turn ID=10| B | B : ik hebben dat ding met die twee stomp aan de linker en aan de rechterkant met dat bol einde
+	Free: Pattern=ik hebben, Pattern=dat, Pattern=aan de, Pattern=stomp, Pattern=met, Pattern=en aan de, Pattern=met die twee, Pattern=ding
+	Constrained: Pattern=met die, Pattern=aan de, Pattern=hebben, Pattern=met, Pattern=die, Pattern=ik, Pattern=en, Pattern=de, Pattern=aan
+Turn ID=11| B | B : en dan er nog zo'n raar vierkantje achter
+	Free: Pattern=en dan, Pattern=nog
+	Constrained: Pattern=en
+Turn ID=12| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=13| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=14| A | A : dat zijn nummer negen
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=15| A | A : nu hebben ik weer met die twee knobbelt met die rond ding aan het uiteinde daarvan
+	Free: Pattern=aan, Pattern=uiteinde, Pattern=het, Pattern=hebben, Pattern=ik, Pattern=met die rond, Pattern=weer, Pattern=met die twee, Pattern=ding
+	Constrained: Pattern=met die, Pattern=met, Pattern=rond, Pattern=die
+Turn ID=16| B | B : ja ja die stomp
+	Free: Pattern=ja die stomp, Pattern=ja ja
+	Constrained: Pattern=die stomp, Pattern=die, Pattern=ja, Pattern=stomp
+Turn ID=17| A | A : ja die stomp
+	Free: Pattern=ja die stomp
+	Constrained: Pattern=die stomp, Pattern=die, Pattern=ja, Pattern=stomp
+Turn ID=18| B | B : F
+	Free: 
+	Constrained: 
+Turn ID=19| B | B : ik hebben dat met die stomp met die rond uiteindjes
+	Free: Pattern=ik hebben, Pattern=dat, Pattern=met die, Pattern=met die rond, Pattern=die stomp
+	Constrained: Pattern=met die, Pattern=stomp, Pattern=hebben, Pattern=met, Pattern=die, Pattern=ik, Pattern=rond
+Turn ID=20| A | A : dat zijn nummer drie
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=21| A | A : ik hebben met die armpjes met die knobbel eraan
+	Free: Pattern=ik hebben met die, Pattern=met die
+	Constrained: Pattern=ik hebben, Pattern=met die, Pattern=hebben, Pattern=met, Pattern=die, Pattern=ik
+Turn ID=22| B | B : dat zijn bij mij L
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=23| B | B : ik hebben met die twee stomp met die rond uiteindjes
+	Free: Pattern=ik hebben met die, Pattern=met die twee, Pattern=met die rond, Pattern=stomp
+	Constrained: Pattern=ik hebben, Pattern=met die, Pattern=hebben, Pattern=met, Pattern=die, Pattern=ik, Pattern=rond
+Turn ID=24| B | B : het zijn weer wisselen ? ja
+	Free: Pattern=zijn, Pattern=ja, Pattern=weer, Pattern=het
+	Constrained: 
+Turn ID=25| A | A : ja dit zijn de laat
+	Free: Pattern=zijn, Pattern=ja, Pattern=de
+	Constrained: 
+Turn ID=26| A | A : nummer vijf
+	Free: 
+	Constrained: 

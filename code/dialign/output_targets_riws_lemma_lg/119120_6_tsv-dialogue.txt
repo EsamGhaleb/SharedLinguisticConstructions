@@ -1,0 +1,135 @@
+A|0| A: _oké_ _één_ zelfde haar _maar_ een ander dinge 
+A|1| A: daarnaast hebben die aan _de_ rechtervoorkant een bolletje erop zitten waaroverheen zo'n _ijstheestampertje_ doorheen gaan 
+B|2| B: _ja_ hij _zijn_ doorboren zeggen [maar] 
+A|3| A: _ja ja ja_ 
+B|4| B: [ja ja ja] ik weten _welk_ het _zijn_ [ja] 
+A|5| A: _bij mij zijn_ _één_ 
+B|6| B: [bij mij zijn] het F 
+B|7| B: dus [één] F 
+B|8| B: [oké] dit [zijn] [de] ijstheestaafje door [de] neus 
+A|9| A: [oké] dat [zijn] [welk] _bij jou_ 
+B|10| B: _d_ 
+A|11| A: D van ? [oké] 
+B|12| B: Dirk 
+A|13| A: [d] vijf 
+A|14| A: _ijstheestamper_ 
+B|15| B: [ja] even kijken 
+B|16| B: [ja] [bij mij] A [bij jou] 
+A|17| A: _vier_ 
+B|18| B: A [vier] 
+A|19| A: yes 
+B|20| B: dit [zijn] [ijstheestampertje] 
+A|21| A: [ja] 
+B|22| B: _I_ 
+A|23| A: [I] vijf 
+A|24| A: _ijstheestamper_ 
+B|25| B: H 
+B|26| B: en [bij jou] 
+A|27| A: _zes_ sorry 
+B|28| B: H [zes] 
+B|29| B: [oké] [ijstheestamper] 
+A|30| A: [ja] 
+B|31| B: [I] 
+A|32| A: [I] vijftien 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : oké één zelfde haar maar een ander dinge
+	Free: Pattern=één, Pattern=oké, Pattern=maar
+	Constrained: 
+Turn ID=1| A | A : daarnaast hebben die aan de rechtervoorkant een bolletje erop zitten waaroverheen zo'n ijstheestampertje doorheen gaan
+	Free: Pattern=ijstheestampertje, Pattern=de
+	Constrained: 
+Turn ID=2| B | B : ja hij zijn doorboren zeggen maar
+	Free: Pattern=zijn, Pattern=ja, Pattern=maar
+	Constrained: 
+Turn ID=3| A | A : ja ja ja
+	Free: Pattern=ja ja ja
+	Constrained: Pattern=ja
+Turn ID=4| B | B : ja ja ja ik weten welk het zijn ja
+	Free: Pattern=ja ja ja, Pattern=zijn, Pattern=ja, Pattern=welk
+	Constrained: Pattern=ja
+Turn ID=5| A | A : bij mij zijn één
+	Free: Pattern=bij mij zijn, Pattern=één
+	Constrained: Pattern=bij mij, Pattern=zijn
+Turn ID=6| B | B : bij mij zijn het F
+	Free: Pattern=bij mij zijn
+	Constrained: Pattern=bij mij, Pattern=zijn
+Turn ID=7| B | B : dus één F
+	Free: Pattern=één
+	Constrained: 
+Turn ID=8| B | B : oké dit zijn de ijstheestaafje door de neus
+	Free: Pattern=zijn, Pattern=oké, Pattern=de
+	Constrained: 
+Turn ID=9| A | A : oké dat zijn welk bij jou
+	Free: Pattern=bij jou, Pattern=zijn, Pattern=oké, Pattern=welk
+	Constrained: 
+Turn ID=10| B | B : d
+	Free: Pattern=d
+	Constrained: 
+Turn ID=11| A | A : D van ? oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=12| B | B : Dirk
+	Free: 
+	Constrained: 
+Turn ID=13| A | A : d vijf
+	Free: Pattern=d
+	Constrained: 
+Turn ID=14| A | A : ijstheestamper
+	Free: Pattern=ijstheestamper
+	Constrained: 
+Turn ID=15| B | B : ja even kijken
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=16| B | B : ja bij mij A bij jou
+	Free: Pattern=bij jou, Pattern=bij mij, Pattern=ja
+	Constrained: 
+Turn ID=17| A | A : vier
+	Free: Pattern=vier
+	Constrained: 
+Turn ID=18| B | B : A vier
+	Free: Pattern=vier
+	Constrained: 
+Turn ID=19| A | A : yes
+	Free: 
+	Constrained: 
+Turn ID=20| B | B : dit zijn ijstheestampertje
+	Free: Pattern=zijn, Pattern=ijstheestampertje
+	Constrained: 
+Turn ID=21| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=22| B | B : I
+	Free: Pattern=I
+	Constrained: 
+Turn ID=23| A | A : I vijf
+	Free: Pattern=I
+	Constrained: 
+Turn ID=24| A | A : ijstheestamper
+	Free: Pattern=ijstheestamper
+	Constrained: 
+Turn ID=25| B | B : H
+	Free: 
+	Constrained: 
+Turn ID=26| B | B : en bij jou
+	Free: Pattern=bij jou
+	Constrained: 
+Turn ID=27| A | A : zes sorry
+	Free: Pattern=zes
+	Constrained: 
+Turn ID=28| B | B : H zes
+	Free: Pattern=zes
+	Constrained: 
+Turn ID=29| B | B : oké ijstheestamper
+	Free: Pattern=oké, Pattern=ijstheestamper
+	Constrained: 
+Turn ID=30| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=31| B | B : I
+	Free: Pattern=I
+	Constrained: 
+Turn ID=32| A | A : I vijftien
+	Free: Pattern=I
+	Constrained: 

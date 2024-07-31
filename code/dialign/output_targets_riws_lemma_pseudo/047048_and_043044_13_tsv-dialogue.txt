@@ -1,0 +1,111 @@
+A|0| A: _met_ _van die_ raar uitsteeksel _aan de_ zijkant _en die_ driehoek _die_ zo op elkaar _zitten_ 
+A|1| A: _ja_ _dat_ bedoelen _ik_ sorry _ja_ _ja_ _die_ _vierkant_ waar _die drie_ zo op elkaar _zitten_ 
+A|2| A: _ja_ _dat zijn_ nummer vijf 
+B|3| B: oké 
+B|4| B: [ik] hebben een [vierkant] als ondergrond [en] door het het object heen [zitten] [zitten] een staaf lijken het wel [met] [drie] [van die] ballet [aan de] uitein 
+B|5| B: [ja] 
+B|6| B: oké 
+A|7| A: [ja] 
+A|8| A: deze [zitten] [met] [die] [vierkant] op elkaar stapelen zo _de drie_ [vierkant] 
+A|9| A: [ja] precies op [de] voorkant 
+B|10| B: [ja] 
+B|11| B: [ja] [ik] hebben hem al 
+B|12| B: [dat zijn] J 
+A|13| A: [ja] 
+A|14| A: [ja] 
+A|15| A: [dat zijn] elf 
+A|16| A: _dit zijn die met_ [die] driehoek weer [die] [die] [vierkant] bedoelen [ik] [die] vier driehoek 
+B|17| B: [dit zijn die met] het plateau [aan de] onderkant [en [die] drie] kraal [aan] beide kant 
+A|18| A: [die] zo erlangs 
+A|19| A: [ja] 
+A|20| A: [dat zijn] negen 
+B|21| B: plateau 
+B|22| B: [ja] 
+B|23| B: P 
+A|24| A: [de] [vierkant] op elkaar 
+B|25| B: [dit zijn] [de] plateau [met] [de drie] kraal [aan] beide kant 
+B|26| B: [ja] L 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : met van die raar uitsteeksel aan de zijkant en die driehoek die zo op elkaar zitten
+	Free: Pattern=en die, Pattern=aan de, Pattern=met, Pattern=van die, Pattern=die, Pattern=zitten
+	Constrained: Pattern=en, Pattern=die, Pattern=aan, Pattern=de
+Turn ID=1| A | A : ja dat bedoelen ik sorry ja ja die vierkant waar die drie zo op elkaar zitten
+	Free: Pattern=dat, Pattern=ja, Pattern=die drie, Pattern=ik, Pattern=vierkant, Pattern=die, Pattern=zitten
+	Constrained: Pattern=drie, Pattern=die
+Turn ID=2| A | A : ja dat zijn nummer vijf
+	Free: Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=dat
+Turn ID=3| B | B : oké
+	Free: 
+	Constrained: 
+Turn ID=4| B | B : ik hebben een vierkant als ondergrond en door het het object heen zitten zitten een staaf lijken het wel met drie van die ballet aan de uitein
+	Free: Pattern=aan de, Pattern=drie, Pattern=met, Pattern=zitten, Pattern=ik, Pattern=vierkant, Pattern=van die, Pattern=en
+	Constrained: Pattern=die, Pattern=aan, Pattern=de
+Turn ID=5| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=6| B | B : oké
+	Free: 
+	Constrained: 
+Turn ID=7| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=8| A | A : deze zitten met die vierkant op elkaar stapelen zo de drie vierkant
+	Free: Pattern=de drie, Pattern=met, Pattern=vierkant, Pattern=die, Pattern=zitten
+	Constrained: Pattern=drie, Pattern=de
+Turn ID=9| A | A : ja precies op de voorkant
+	Free: Pattern=ja, Pattern=de
+	Constrained: 
+Turn ID=10| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=11| B | B : ja ik hebben hem al
+	Free: Pattern=ik, Pattern=ja
+	Constrained: 
+Turn ID=12| B | B : dat zijn J
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat
+Turn ID=13| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=14| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=15| A | A : dat zijn elf
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat
+Turn ID=16| A | A : dit zijn die met die driehoek weer die die vierkant bedoelen ik die vier driehoek
+	Free: Pattern=dit zijn die met, Pattern=ik, Pattern=vierkant, Pattern=die
+	Constrained: Pattern=dit zijn, Pattern=met, Pattern=die
+Turn ID=17| B | B : dit zijn die met het plateau aan de onderkant en die drie kraal aan beide kant
+	Free: Pattern=en die, Pattern=aan, Pattern=aan de, Pattern=die drie, Pattern=dit zijn die met
+	Constrained: Pattern=drie, Pattern=met, Pattern=die, Pattern=en, Pattern=dit zijn, Pattern=de, Pattern=aan
+Turn ID=18| A | A : die zo erlangs
+	Free: Pattern=die
+	Constrained: 
+Turn ID=19| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=20| A | A : dat zijn negen
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat
+Turn ID=21| B | B : plateau
+	Free: 
+	Constrained: 
+Turn ID=22| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=23| B | B : P
+	Free: 
+	Constrained: 
+Turn ID=24| A | A : de vierkant op elkaar
+	Free: Pattern=vierkant, Pattern=de
+	Constrained: 
+Turn ID=25| B | B : dit zijn de plateau met de drie kraal aan beide kant
+	Free: Pattern=de drie, Pattern=met, Pattern=dit zijn, Pattern=de, Pattern=aan
+	Constrained: Pattern=drie, Pattern=de
+Turn ID=26| B | B : ja L
+	Free: Pattern=ja
+	Constrained: 

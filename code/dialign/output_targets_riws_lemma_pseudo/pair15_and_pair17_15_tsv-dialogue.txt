@@ -1,0 +1,127 @@
+B|0| B: _die_ van mij soort van een _vierkant_ midden door _de_ emmer 
+B|1| B: _en_ daarboven _zijn_ soort van _klein_ pijpje 
+B|2| B: _en_ helemaal _bovenop_ _zijn_ _twee_ stok _die_ daaruit _komen_ 
+A|3| A: _aan_ welk kant uitsteken 
+A|4| A: _ja_ 
+A|5| A: okee [en] [de] _het_ [vierkant] zat zitten _er_ gewoon _dwars_ doorheen 
+A|6| A: _ja_ 
+A|7| A: _ja_ 
+A|8| A: _ja_ _ja_ _ja_ 
+A|9| A: _dat zijn_ acht 
+B|10| B: [en] hij roken een pijpje 
+B|11| B: [ja] l 
+B|12| B: deze [ja] [dat _zijn] die_ een _die_ [het] pijpje roken [en] waar [dat] [vierkant] [er] door _die_ emmer heen [zijn] halverwege 
+B|13| B: [en] _twee_ staaf bovenaan uitkomen 
+B|14| B: [ja] 
+B|15| B: [ja] 
+B|16| B: n 
+A|17| A: dit [zijn] kopjesvorm met [ja] [die] [vierkant] plaat erdoorheen 
+A|18| A: _aan de_ bovenkant [twee] [klein] torent [en] _aan de linkerkant_ [de] l-vorm [die] eruit [komen] 
+A|19| A: [ja] 
+A|20| A: yes 
+A|21| A: pun erboven 
+A|22| A: [ja] drie 
+B|23| B: deze hebben [dat] [vierkant] [dat] [er] [dwars] doormidd gaan [en] een pijpje [aan de linkerkant] 
+B|24| B: [twee] staaf _bovenop_ 
+B|25| B: b 
+A|26| A: [die] met [het] [vierkant] erdoorheen [en] [de] [twee] torent [bovenop] 
+A|27| A: vorm [aan de linkerkant] 
+A|28| A: yes 
+A|29| A: [ja] zeven 
+A|30| A: dit [zijn die] met [het] [vierkant] erdoorheen [en] [aan de linkerkant] [die] l-vorm [en] [bovenop] [de] [twee] [klein] balk 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : die van mij soort van een vierkant midden door de emmer
+	Free: Pattern=die, Pattern=de, Pattern=vierkant
+	Constrained: 
+Turn ID=1| B | B : en daarboven zijn soort van klein pijpje
+	Free: Pattern=zijn, Pattern=klein, Pattern=en
+	Constrained: 
+Turn ID=2| B | B : en helemaal bovenop zijn twee stok die daaruit komen
+	Free: Pattern=bovenop, Pattern=twee, Pattern=komen, Pattern=die, Pattern=en, Pattern=zijn
+	Constrained: 
+Turn ID=3| A | A : aan welk kant uitsteken
+	Free: Pattern=aan
+	Constrained: 
+Turn ID=4| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=5| A | A : okee en de het vierkant zat zitten er gewoon dwars doorheen
+	Free: Pattern=de, Pattern=het, Pattern=dwars, Pattern=er, Pattern=en, Pattern=vierkant
+	Constrained: 
+Turn ID=6| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=7| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=8| A | A : ja ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=9| A | A : dat zijn acht
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=10| B | B : en hij roken een pijpje
+	Free: Pattern=en
+	Constrained: 
+Turn ID=11| B | B : ja l
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=12| B | B : deze ja dat zijn die een die het pijpje roken en waar dat vierkant er door die emmer heen zijn halverwege
+	Free: Pattern=ja, Pattern=die, Pattern=er, Pattern=en, Pattern=zijn, Pattern=vierkant, Pattern=dat, Pattern=dat zijn, Pattern=het, Pattern=zijn die
+	Constrained: Pattern=dat, Pattern=zijn, Pattern=die
+Turn ID=13| B | B : en twee staaf bovenaan uitkomen
+	Free: Pattern=twee, Pattern=en
+	Constrained: 
+Turn ID=14| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=15| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=16| B | B : n
+	Free: 
+	Constrained: 
+Turn ID=17| A | A : dit zijn kopjesvorm met ja die vierkant plaat erdoorheen
+	Free: Pattern=zijn, Pattern=die, Pattern=ja, Pattern=vierkant
+	Constrained: 
+Turn ID=18| A | A : aan de bovenkant twee klein torent en aan de linkerkant de l-vorm die eruit komen
+	Free: Pattern=twee, Pattern=de, Pattern=aan de, Pattern=komen, Pattern=die, Pattern=klein, Pattern=en, Pattern=aan de linkerkant
+	Constrained: Pattern=aan, Pattern=de, Pattern=aan de
+Turn ID=19| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=20| A | A : yes
+	Free: 
+	Constrained: 
+Turn ID=21| A | A : pun erboven
+	Free: 
+	Constrained: 
+Turn ID=22| A | A : ja drie
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=23| B | B : deze hebben dat vierkant dat er dwars doormidd gaan en een pijpje aan de linkerkant
+	Free: Pattern=dat, Pattern=dwars, Pattern=er, Pattern=en, Pattern=vierkant, Pattern=aan de linkerkant
+	Constrained: Pattern=aan, Pattern=de, Pattern=aan de
+Turn ID=24| B | B : twee staaf bovenop
+	Free: Pattern=twee, Pattern=bovenop
+	Constrained: 
+Turn ID=25| B | B : b
+	Free: 
+	Constrained: 
+Turn ID=26| A | A : die met het vierkant erdoorheen en de twee torent bovenop
+	Free: Pattern=bovenop, Pattern=twee, Pattern=de, Pattern=het, Pattern=die, Pattern=en, Pattern=vierkant
+	Constrained: 
+Turn ID=27| A | A : vorm aan de linkerkant
+	Free: Pattern=aan de linkerkant
+	Constrained: Pattern=aan, Pattern=de, Pattern=aan de
+Turn ID=28| A | A : yes
+	Free: 
+	Constrained: 
+Turn ID=29| A | A : ja zeven
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=30| A | A : dit zijn die met het vierkant erdoorheen en aan de linkerkant die l-vorm en bovenop de twee klein balk
+	Free: Pattern=bovenop, Pattern=twee, Pattern=de, Pattern=die, Pattern=klein, Pattern=en, Pattern=vierkant, Pattern=aan de linkerkant, Pattern=het, Pattern=zijn die
+	Constrained: Pattern=aan de, Pattern=die, Pattern=zijn, Pattern=de, Pattern=aan

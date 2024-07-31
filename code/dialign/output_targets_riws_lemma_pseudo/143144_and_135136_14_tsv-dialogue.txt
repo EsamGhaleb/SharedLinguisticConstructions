@@ -1,0 +1,143 @@
+B|0| B: _en_ hebben _die_ nog twee van _die_ 
+B|1| B: oké _dan_ _zijn_ het d 
+A|2| A: _deze_ ik vinden hem zelf een beetje lijken op een op een waterpomp 
+A|3| A: ik noemen hem zelf _de_ waterleiding want er gaan zo'n leidinkje in _en die_ komen [dan] aan _de_ ander kant lijken [die] er ook _weer_ uit te uitkomen 
+A|4| A: [en] er staan zo'n _blok_ voor 
+A|5| A: _ja_ 
+A|6| A: _ja_ 
+A|7| A: _ja_ _ja_ _ja_ _ja_ 
+A|8| A: _ja_ 
+A|9| A: _ja_ [die] 
+A|10| A: moeten je wel eerst zeggen welk nummer 
+B|11| B: [deze] hebben [de] bol bovenop 
+B|12| B: [ja] 
+A|13| A: [ja] 
+A|14| A: [ja] 
+A|15| A: [ja] 
+A|16| A: [ja] 
+A|17| A: ik weten welk je bedoelen 
+A|18| A: _met_ _met_ zo'n raar _met_ zo'n _met_ _dat blok ervoor_ 
+A|19| A: [ja] 
+A|20| A: _dat zijn_ numero vijftien 
+B|21| B: [zijn] 
+B|22| B: [zijn] L 
+B|23| B: [deze] [zijn] [weer] _met die_ bol bovenop [en die] staaf [ervoor] 
+B|24| B: [dat zijn] bij _mij_ J 
+B|25| B: _met die_ bal bovenop [en die] [dat blok ervoor] 
+A|26| A: dit dit [zijn] [zijn] [met die] waterleiding mijn pompje 
+A|27| A: [ja] 
+A|28| A: [ja] ik gaan hem even opzoeken 
+A|29| A: [dat zijn] numero zes 
+A|30| A: [ja] [mij] mijn waterding 
+A|31| A: mijn waterleiding 
+A|32| A: pomp 
+A|33| A: je bedoelen [ja] [ja] [de] waterleiding [ja] 
+A|34| A: numero drie 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : en hebben die nog twee van die
+	Free: Pattern=en, Pattern=die
+	Constrained: 
+Turn ID=1| B | B : oké dan zijn het d
+	Free: Pattern=dan, Pattern=zijn
+	Constrained: 
+Turn ID=2| A | A : deze ik vinden hem zelf een beetje lijken op een op een waterpomp
+	Free: Pattern=deze
+	Constrained: 
+Turn ID=3| A | A : ik noemen hem zelf de waterleiding want er gaan zo'n leidinkje in en die komen dan aan de ander kant lijken die er ook weer uit te uitkomen
+	Free: Pattern=en die, Pattern=de, Pattern=dan, Pattern=die, Pattern=weer
+	Constrained: Pattern=en, Pattern=die
+Turn ID=4| A | A : en er staan zo'n blok voor
+	Free: Pattern=en, Pattern=blok
+	Constrained: 
+Turn ID=5| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=6| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=7| A | A : ja ja ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=8| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=9| A | A : ja die
+	Free: Pattern=die, Pattern=ja
+	Constrained: 
+Turn ID=10| A | A : moeten je wel eerst zeggen welk nummer
+	Free: 
+	Constrained: 
+Turn ID=11| B | B : deze hebben de bol bovenop
+	Free: Pattern=deze, Pattern=de
+	Constrained: 
+Turn ID=12| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=13| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=14| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=15| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=16| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=17| A | A : ik weten welk je bedoelen
+	Free: 
+	Constrained: 
+Turn ID=18| A | A : met met zo'n raar met zo'n met dat blok ervoor
+	Free: Pattern=dat blok ervoor, Pattern=met
+	Constrained: Pattern=ervoor, Pattern=blok
+Turn ID=19| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=20| A | A : dat zijn numero vijftien
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn
+Turn ID=21| B | B : zijn
+	Free: Pattern=zijn
+	Constrained: 
+Turn ID=22| B | B : zijn L
+	Free: Pattern=zijn
+	Constrained: 
+Turn ID=23| B | B : deze zijn weer met die bol bovenop en die staaf ervoor
+	Free: Pattern=en die, Pattern=met die, Pattern=ervoor, Pattern=zijn, Pattern=deze, Pattern=weer
+	Constrained: Pattern=en, Pattern=die, Pattern=met
+Turn ID=24| B | B : dat zijn bij mij J
+	Free: Pattern=dat zijn, Pattern=mij
+	Constrained: Pattern=zijn
+Turn ID=25| B | B : met die bal bovenop en die dat blok ervoor
+	Free: Pattern=dat blok ervoor, Pattern=met die, Pattern=en die
+	Constrained: Pattern=ervoor, Pattern=met, Pattern=die, Pattern=en, Pattern=blok
+Turn ID=26| A | A : dit dit zijn zijn met die waterleiding mijn pompje
+	Free: Pattern=met die, Pattern=zijn
+	Constrained: Pattern=die, Pattern=met
+Turn ID=27| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=28| A | A : ja ik gaan hem even opzoeken
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=29| A | A : dat zijn numero zes
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn
+Turn ID=30| A | A : ja mij mijn waterding
+	Free: Pattern=mij, Pattern=ja
+	Constrained: 
+Turn ID=31| A | A : mijn waterleiding
+	Free: 
+	Constrained: 
+Turn ID=32| A | A : pomp
+	Free: 
+	Constrained: 
+Turn ID=33| A | A : je bedoelen ja ja de waterleiding ja
+	Free: Pattern=de, Pattern=ja
+	Constrained: 
+Turn ID=34| A | A : numero drie
+	Free: 
+	Constrained: 

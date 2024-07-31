@@ -1,0 +1,163 @@
+A|0| A: oké _dit zijn_ _de bovenkant_ 
+A|1| A: _die_ _hebben_ een soort piramide of een _driehoek_ erop _staan_ _en _dat_ zijn_ _de_ enig _die_ _dat_ _hebben_ 
+A|2| A: _ja_ 
+A|3| A: _en_ hij _hebben_ _aan de_ linkerkant ook een klein uitstulpel eigenlijk _aan de_ onderkant een cirkel maar _die_ _je_ niet helemaal zien 
+A|4| A: oké 
+A|5| A: top 
+B|6| B: [ja] 
+B|7| B: [ja] 
+B|8| B: ah okee 
+B|9| B: [ja] 
+B|10| B: wachten [en] dan [en] dan [hebben] [je] rechts nog zo'n 
+B|11| B: [ja] precies 
+B|12| B: [ja] l 
+A|13| A: _dat zijn_ een heel snel 
+A|14| A: gewoon helemaal _de_ piramide 
+A|15| A: oké nummer dertien 
+B|16| B: deze [zijn] met [die] [driehoek] op [de bovenkant] 
+B|17| B: bee [ja] driedimensionaal [driehoek] [aan [de] bovenkant] 
+B|18| B: bij zo'n scheef blok [aan de] voorkant [staan] 
+B|19| B: [ja] 
+B|20| B: [ja] 
+A|21| A: een rechthoek bovenop 
+A|22| A: of rechthoek ik bedoelen een [driehoek] 
+A|23| A: bovenop het kop , enig [driehoek] , heel groot , [de] piramide 
+A|24| A: [ja] 
+A|25| A: [de] piramide 
+A|26| A: nummer tien 
+B|27| B: [ja] 
+B|28| B: [ja] [ja] [ja] [en dat] schotelt onder 
+B|29| B: [ja] 
+B|30| B: [dat zijn] k 
+B|31| B: [dit zijn] met [die] [driehoek] op [de bovenkant] 
+B|32| B: [en dat] blok [aan de] voorkant 
+A|33| A: [de] piramide 
+A|34| A: [ja] nummer elf 
+B|35| B: [ja] 
+B|36| B: [ja] 
+B|37| B: [dat zijn] h 
+B|38| B: [dit zijn] [dat] [driehoek] 
+B|39| B: [dat] [driehoek] op [de bovenkant] [en dat] raar blok 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : oké dit zijn de bovenkant
+	Free: Pattern=de bovenkant, Pattern=dit zijn
+	Constrained: Pattern=zijn, Pattern=de
+Turn ID=1| A | A : die hebben een soort piramide of een driehoek erop staan en dat zijn de enig die dat hebben
+	Free: Pattern=driehoek, Pattern=de, Pattern=staan, Pattern=hebben, Pattern=die, Pattern=en dat, Pattern=dat, Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn, Pattern=en
+Turn ID=2| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=3| A | A : en hij hebben aan de linkerkant ook een klein uitstulpel eigenlijk aan de onderkant een cirkel maar die je niet helemaal zien
+	Free: Pattern=aan de, Pattern=hebben, Pattern=die, Pattern=en, Pattern=je
+	Constrained: Pattern=de
+Turn ID=4| A | A : oké
+	Free: 
+	Constrained: 
+Turn ID=5| A | A : top
+	Free: 
+	Constrained: 
+Turn ID=6| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=7| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=8| B | B : ah okee
+	Free: 
+	Constrained: 
+Turn ID=9| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=10| B | B : wachten en dan en dan hebben je rechts nog zo'n
+	Free: Pattern=hebben, Pattern=je, Pattern=en
+	Constrained: 
+Turn ID=11| B | B : ja precies
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=12| B | B : ja l
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=13| A | A : dat zijn een heel snel
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=14| A | A : gewoon helemaal de piramide
+	Free: Pattern=de
+	Constrained: 
+Turn ID=15| A | A : oké nummer dertien
+	Free: 
+	Constrained: 
+Turn ID=16| B | B : deze zijn met die driehoek op de bovenkant
+	Free: Pattern=de bovenkant, Pattern=zijn, Pattern=die, Pattern=driehoek
+	Constrained: Pattern=de
+Turn ID=17| B | B : bee ja driedimensionaal driehoek aan de bovenkant
+	Free: Pattern=aan de, Pattern=de bovenkant, Pattern=ja, Pattern=driehoek
+	Constrained: Pattern=de
+Turn ID=18| B | B : bij zo'n scheef blok aan de voorkant staan
+	Free: Pattern=aan de, Pattern=staan
+	Constrained: Pattern=de
+Turn ID=19| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=20| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=21| A | A : een rechthoek bovenop
+	Free: 
+	Constrained: 
+Turn ID=22| A | A : of rechthoek ik bedoelen een driehoek
+	Free: Pattern=driehoek
+	Constrained: 
+Turn ID=23| A | A : bovenop het kop , enig driehoek , heel groot , de piramide
+	Free: Pattern=driehoek, Pattern=de
+	Constrained: 
+Turn ID=24| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=25| A | A : de piramide
+	Free: Pattern=de
+	Constrained: 
+Turn ID=26| A | A : nummer tien
+	Free: 
+	Constrained: 
+Turn ID=27| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=28| B | B : ja ja ja en dat schotelt onder
+	Free: Pattern=en dat, Pattern=ja
+	Constrained: Pattern=dat, Pattern=en
+Turn ID=29| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=30| B | B : dat zijn k
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=31| B | B : dit zijn met die driehoek op de bovenkant
+	Free: Pattern=de bovenkant, Pattern=dit zijn, Pattern=die, Pattern=driehoek
+	Constrained: Pattern=zijn, Pattern=de
+Turn ID=32| B | B : en dat blok aan de voorkant
+	Free: Pattern=aan de, Pattern=en dat
+	Constrained: Pattern=dat, Pattern=en, Pattern=de
+Turn ID=33| A | A : de piramide
+	Free: Pattern=de
+	Constrained: 
+Turn ID=34| A | A : ja nummer elf
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=35| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=36| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=37| B | B : dat zijn h
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=38| B | B : dit zijn dat driehoek
+	Free: Pattern=dit zijn, Pattern=dat, Pattern=driehoek
+	Constrained: Pattern=zijn
+Turn ID=39| B | B : dat driehoek op de bovenkant en dat raar blok
+	Free: Pattern=de bovenkant, Pattern=en dat, Pattern=dat, Pattern=driehoek
+	Constrained: Pattern=dat, Pattern=en, Pattern=de

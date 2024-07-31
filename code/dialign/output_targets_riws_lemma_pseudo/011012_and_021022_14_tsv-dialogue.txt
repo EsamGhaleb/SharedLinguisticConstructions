@@ -1,0 +1,103 @@
+B|0| B: bal _er_ bovenop o soort soort 
+B|1| B: _beetje_ zo _dat_ _dat_ hij zo _staan_ bal bovenop _en_ dan _zo'n staaf_ _aan de zijkant_ _die_ _er_ onder _uit_ komen _ja_ dan _zijn_ _het_ d 
+A|2| A: ik hebben [er] nu één _met_ [zo'n staaf] ervoor [en] [zo'n] bolle erop 
+A|3| A: [en] _twee_ [ja] je zullen je [het] kunnen zien als armp eigenlijk 
+A|4| A: _twee_ dinget [aan de zijkant] 
+A|5| A: oké 
+B|6| B: [ja] dit _zijn_ weer _die_ _die_ bal _die_ bovenop liggen _met die_ _met die staaf_ [aan de zijkant] _die_ [er] onderin nog uitsteken 
+B|7| B: [aan] _die_ [zijkant] inderdaad _die twee_ [twee] _ding_ _die_ afbuigen 
+A|8| A: een bolle erop 
+A|9| A: oké _dat zijn_ nummer vijftien 
+B|10| B: [ja] _en die_ balk _die_ dan zo [ja] [dat zijn] L 
+B|11| B: [ja] dit [zijn] weer [dat] korfbal _ding_ balle bovenop [en] _met die_ balk ernaast 
+A|12| A: [die staaf] ervoor [dat] bolle erop [en [die] twee] steeksel [uit] 
+B|13| B: [ja] 
+B|14| B: dit [zijn] J 
+A|15| A: [met die] armp 
+A|16| A: [ja] 
+A|17| A: [dat zijn] nummer zes bij mij 
+B|18| B: dit [zijn] weer [die] korfbal 
+A|19| A: even kijken ik hebben [er] één [met] [dat] bolle erboven 
+A|20| A: bij mij een [beetje] [staan] [die] rechts bedoelen ik juist [met die staaf] ervoor [en [die] twee] armp 
+A|21| A: even kijken 
+A|22| A: [ja] 
+A|23| A: even kijken [ja] [die staaf] ervoor [en die] [ding] [en] [dat] bollet 
+A|24| A: nummer drie 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : bal er bovenop o soort soort
+	Free: Pattern=er
+	Constrained: 
+Turn ID=1| B | B : beetje zo dat dat hij zo staan bal bovenop en dan zo'n staaf aan de zijkant die er onder uit komen ja dan zijn het d
+	Free: Pattern=dat, Pattern=ja, Pattern=uit, Pattern=beetje, Pattern=het, Pattern=zo'n staaf, Pattern=die, Pattern=er, Pattern=en, Pattern=zijn, Pattern=aan de zijkant, Pattern=staan
+	Constrained: Pattern=aan, Pattern=zijkant, Pattern=zo'n
+Turn ID=2| A | A : ik hebben er nu één met zo'n staaf ervoor en zo'n bolle erop
+	Free: Pattern=zo'n, Pattern=zo'n staaf, Pattern=met, Pattern=er, Pattern=en
+	Constrained: Pattern=zo'n
+Turn ID=3| A | A : en twee ja je zullen je het kunnen zien als armp eigenlijk
+	Free: Pattern=en, Pattern=twee, Pattern=ja, Pattern=het
+	Constrained: 
+Turn ID=4| A | A : twee dinget aan de zijkant
+	Free: Pattern=aan de zijkant, Pattern=twee
+	Constrained: Pattern=aan, Pattern=zijkant
+Turn ID=5| A | A : oké
+	Free: 
+	Constrained: 
+Turn ID=6| B | B : ja dit zijn weer die die bal die bovenop liggen met die met die staaf aan de zijkant die er onderin nog uitsteken
+	Free: Pattern=met die, Pattern=ja, Pattern=met die staaf, Pattern=aan de zijkant, Pattern=die, Pattern=er, Pattern=zijn
+	Constrained: Pattern=met die, Pattern=aan, Pattern=met, Pattern=die staaf, Pattern=die, Pattern=zijkant
+Turn ID=7| B | B : aan die zijkant inderdaad die twee twee ding die afbuigen
+	Free: Pattern=twee, Pattern=aan, Pattern=ding, Pattern=die twee, Pattern=die, Pattern=zijkant
+	Constrained: Pattern=twee, Pattern=die
+Turn ID=8| A | A : een bolle erop
+	Free: 
+	Constrained: 
+Turn ID=9| A | A : oké dat zijn nummer vijftien
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=10| B | B : ja en die balk die dan zo ja dat zijn L
+	Free: Pattern=dat zijn, Pattern=en die, Pattern=die, Pattern=ja
+	Constrained: Pattern=en, Pattern=dat, Pattern=zijn, Pattern=die
+Turn ID=11| B | B : ja dit zijn weer dat korfbal ding balle bovenop en met die balk ernaast
+	Free: Pattern=ja, Pattern=ding, Pattern=en, Pattern=zijn, Pattern=dat, Pattern=met die
+	Constrained: Pattern=die, Pattern=met
+Turn ID=12| A | A : die staaf ervoor dat bolle erop en die twee steeksel uit
+	Free: Pattern=en die, Pattern=dat, Pattern=uit, Pattern=die twee, Pattern=die staaf
+	Constrained: Pattern=en, Pattern=twee, Pattern=die
+Turn ID=13| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=14| B | B : dit zijn J
+	Free: Pattern=zijn
+	Constrained: 
+Turn ID=15| A | A : met die armp
+	Free: Pattern=met die
+	Constrained: Pattern=die, Pattern=met
+Turn ID=16| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=17| A | A : dat zijn nummer zes bij mij
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=18| B | B : dit zijn weer die korfbal
+	Free: Pattern=zijn, Pattern=die
+	Constrained: 
+Turn ID=19| A | A : even kijken ik hebben er één met dat bolle erboven
+	Free: Pattern=dat, Pattern=met, Pattern=er
+	Constrained: 
+Turn ID=20| A | A : bij mij een beetje staan die rechts bedoelen ik juist met die staaf ervoor en die twee armp
+	Free: Pattern=en die, Pattern=staan, Pattern=die twee, Pattern=die, Pattern=met die staaf, Pattern=beetje
+	Constrained: Pattern=met die, Pattern=twee, Pattern=met, Pattern=en, Pattern=die staaf, Pattern=die
+Turn ID=21| A | A : even kijken
+	Free: 
+	Constrained: 
+Turn ID=22| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=23| A | A : even kijken ja die staaf ervoor en die ding en dat bollet
+	Free: Pattern=en die, Pattern=dat, Pattern=ja, Pattern=ding, Pattern=die staaf, Pattern=en
+	Constrained: Pattern=en, Pattern=die
+Turn ID=24| A | A : nummer drie
+	Free: 
+	Constrained: 

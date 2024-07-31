@@ -1,0 +1,95 @@
+A|0| A: _ik hebben_ _nu_ _een_ mok _die_ _hebben_ _een_ soort van hoedje op eigenlijk 
+A|1| A: en aan de rechterkant komen er twee balk uit _die_ _even_ groot _zijn_ 
+A|2| A: linksonder _zitten_ 
+A|3| A: _ja_ 
+A|4| A: op één _zijn_ 
+A|5| A: _ja_ 
+A|6| A: _ja_ 
+B|7| B: wat 
+B|8| B: [ja] [nu] zien [ik] hem [ja] [ja] [ik hebben] [die] gewoon omschrijven als _isteken_ maar inderdaad Flappy bird kloppen [ja] I 
+B|9| B: flappy bird 
+A|10| A: [ja] dat _zijn_ nummer twee 
+B|11| B: [even] kijk waar [zitten] [die] o daar [ja] M 
+A|12| A: nou dit _zijn_ de mok met het [isteken] 
+B|13| B: [even] kijken flappy bird 
+B|14| B: damn flappy bird [zijn] echt [een] goed 
+B|15| B: [ja] 
+B|16| B: [ja] 
+A|17| A: top dat [zijn] nummer negen 
+B|18| B: [ja] 
+B|19| B: [ja] F 
+A|20| A: nou dit [zijn] de mok met het [isteken] 
+B|21| B: flappy bird 
+A|22| A: nummer zes 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : ik hebben nu een mok die hebben een soort van hoedje op eigenlijk
+	Free: Pattern=ik hebben, Pattern=een, Pattern=nu, Pattern=hebben, Pattern=die
+	Constrained: Pattern=hebben, Pattern=ik
+Turn ID=1| A | A : en aan de rechterkant komen er twee balk uit die even groot zijn
+	Free: Pattern=even, Pattern=zijn, Pattern=die
+	Constrained: 
+Turn ID=2| A | A : linksonder zitten
+	Free: Pattern=zitten
+	Constrained: 
+Turn ID=3| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=4| A | A : op één zijn
+	Free: Pattern=zijn
+	Constrained: 
+Turn ID=5| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=6| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=7| B | B : wat
+	Free: 
+	Constrained: 
+Turn ID=8| B | B : ja nu zien ik hem ja ja ik hebben die gewoon omschrijven als isteken maar inderdaad Flappy bird kloppen ja I
+	Free: Pattern=ik hebben, Pattern=ja, Pattern=nu, Pattern=die, Pattern=ik, Pattern=isteken
+	Constrained: Pattern=hebben, Pattern=ik
+Turn ID=9| B | B : flappy bird
+	Free: 
+	Constrained: 
+Turn ID=10| A | A : ja dat zijn nummer twee
+	Free: Pattern=ja, Pattern=zijn
+	Constrained: 
+Turn ID=11| B | B : even kijk waar zitten die o daar ja M
+	Free: Pattern=zitten, Pattern=ja, Pattern=even, Pattern=die
+	Constrained: 
+Turn ID=12| A | A : nou dit zijn de mok met het isteken
+	Free: Pattern=isteken, Pattern=zijn
+	Constrained: 
+Turn ID=13| B | B : even kijken flappy bird
+	Free: Pattern=even
+	Constrained: 
+Turn ID=14| B | B : damn flappy bird zijn echt een goed
+	Free: Pattern=een, Pattern=zijn
+	Constrained: 
+Turn ID=15| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=16| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=17| A | A : top dat zijn nummer negen
+	Free: Pattern=zijn
+	Constrained: 
+Turn ID=18| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=19| B | B : ja F
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=20| A | A : nou dit zijn de mok met het isteken
+	Free: Pattern=isteken, Pattern=zijn
+	Constrained: 
+Turn ID=21| B | B : flappy bird
+	Free: 
+	Constrained: 
+Turn ID=22| A | A : nummer zes
+	Free: 
+	Constrained: 

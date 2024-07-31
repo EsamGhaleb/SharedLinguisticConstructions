@@ -1,0 +1,123 @@
+B|0| B: _oké_ deze _hebben_ _drie bollet_ uitsteeksel _aan allebei de kant_ 
+A|1| A: _ja_ 
+B|2| B: _en_ er zitten een vlak onder 
+A|3| A: _ja_ [en] zo'n plat rond ding _aan de_ voorkant 
+B|4| B: [ja] 
+A|5| A: [ja] [oké] dan _zijn_ het vijf 
+A|6| A: dit _zijn_ _die met die [drie_ bollet] [aan allebei de kant] _die_ _op_ zo'n ding _staan_ 
+B|7| B: [ja] 
+B|8| B: [oké] 
+B|9| B: _dat zijn_ J 
+B|10| B: [oké] _ik hebben die_ [die met die drie] bolal [aan _de] zijkant_ [aan allebei de kant] 
+A|11| A: [ja] 
+A|12| A: [en] [dat] plat ding [aan de] voorkant 
+B|13| B: [ja] 
+A|14| A: [ja] [oké] [dat zijn] elf 
+B|15| B: [oké] 
+A|16| A: _ik hebben die met die [drie_ bollet] [aan allebei [de] zijkant] [en] [die] ding eronder 
+B|17| B: [ja] 
+B|18| B: [dat zijn] P 
+B|19| B: [dat zijn] [staan] ze [op] dezelfde plek 
+B|20| B: [oké] [ik hebben die met die drie] gelijk kraal [aan de] buitenkant 
+A|21| A: [ja] 
+A|22| A: [en] [dat] ding waar [die] [op] staat 
+B|23| B: [ja] 
+A|24| A: [ja] [dat zijn] negen 
+A|25| A: dit [zijn] [die met die [drie] bollet] [aan allebei de kant] 
+A|26| A: [en] [dat] plat ding voor 
+B|27| B: [ja] 
+B|28| B: [oké] 
+B|29| B: [dat zijn] L 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : oké deze hebben drie bollet uitsteeksel aan allebei de kant
+	Free: Pattern=aan allebei de kant, Pattern=drie bollet, Pattern=hebben, Pattern=oké
+	Constrained: Pattern=aan allebei de
+Turn ID=1| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=2| B | B : en er zitten een vlak onder
+	Free: Pattern=en
+	Constrained: 
+Turn ID=3| A | A : ja en zo'n plat rond ding aan de voorkant
+	Free: Pattern=aan de, Pattern=ja, Pattern=en
+	Constrained: 
+Turn ID=4| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=5| A | A : ja oké dan zijn het vijf
+	Free: Pattern=ja, Pattern=oké, Pattern=zijn
+	Constrained: 
+Turn ID=6| A | A : dit zijn die met die drie bollet aan allebei de kant die op zo'n ding staan
+	Free: Pattern=op, Pattern=die met die drie, Pattern=staan, Pattern=die, Pattern=aan allebei de kant, Pattern=drie bollet, Pattern=zijn
+	Constrained: Pattern=aan allebei de, Pattern=die
+Turn ID=7| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=8| B | B : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=9| B | B : dat zijn J
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=10| B | B : oké ik hebben die die met die drie bolal aan de zijkant aan allebei de kant
+	Free: Pattern=aan de, Pattern=die met die drie, Pattern=de zijkant, Pattern=ik hebben die, Pattern=oké, Pattern=aan allebei de kant
+	Constrained: Pattern=aan allebei de, Pattern=die, Pattern=hebben
+Turn ID=11| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=12| A | A : en dat plat ding aan de voorkant
+	Free: Pattern=aan de, Pattern=dat, Pattern=en
+	Constrained: 
+Turn ID=13| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=14| A | A : ja oké dat zijn elf
+	Free: Pattern=dat zijn, Pattern=ja, Pattern=oké
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=15| B | B : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=16| A | A : ik hebben die met die drie bollet aan allebei de zijkant en die ding eronder
+	Free: Pattern=aan allebei de, Pattern=die, Pattern=de zijkant, Pattern=ik hebben die met die drie, Pattern=en, Pattern=drie bollet
+	Constrained: Pattern=die, Pattern=die met die drie, Pattern=ik hebben die, Pattern=hebben
+Turn ID=17| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=18| B | B : dat zijn P
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=19| B | B : dat zijn staan ze op dezelfde plek
+	Free: Pattern=dat zijn, Pattern=op, Pattern=staan
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=20| B | B : oké ik hebben die met die drie gelijk kraal aan de buitenkant
+	Free: Pattern=ik hebben die met die drie, Pattern=aan de, Pattern=oké
+	Constrained: Pattern=die, Pattern=die met die drie, Pattern=ik hebben die, Pattern=hebben
+Turn ID=21| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=22| A | A : en dat ding waar die op staat
+	Free: Pattern=die, Pattern=dat, Pattern=op, Pattern=en
+	Constrained: 
+Turn ID=23| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=24| A | A : ja dat zijn negen
+	Free: Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=25| A | A : dit zijn die met die drie bollet aan allebei de kant
+	Free: Pattern=die met die drie, Pattern=aan allebei de kant, Pattern=drie bollet, Pattern=zijn
+	Constrained: Pattern=aan allebei de, Pattern=die
+Turn ID=26| A | A : en dat plat ding voor
+	Free: Pattern=dat, Pattern=en
+	Constrained: 
+Turn ID=27| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=28| B | B : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=29| B | B : dat zijn L
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn

@@ -1,0 +1,95 @@
+B|0| B: _ok_ _dit zijn met_ _een_ groot aanhangsel onderaan _zo_ noemen ik _het_ telkens 
+B|1| B: _en_ dan _hebben_ je bovenaan _nog_ _een_ _blok_ _en_ _nog_ _een_ _blok_ _en_ Linksboven zitten _een_ _ja_ wat _zijn_ _het_ voor vorm 
+A|2| A: [ja] 
+A|3| A: [ja] [een] beetje lijken alsof zo'n man _die_ [zo] [zijn] arm omhoog [hebben] 
+B|4| B: schuin 
+B|5| B: [ja] 
+A|6| A: [ja] _met die_ draaien onderkant 
+B|7| B: [ja] 
+A|8| A: _ja dat zijn_ nummer vier bij _mij_ 
+A|9| A: [ja] _dit zijn met die_ draaien onderkant 
+A|10| A: [met] _dat_ uitsteeksel aan de onderkant _en _die_ dat_ [blok] rechtsboven [blok] in [het] midden [en] zo'n [nog] zo'n uitsteeksel 
+B|11| B: [ja] 
+B|12| B: [dat zijn] voor [mij] A 
+A|13| A: [ja] 
+B|14| B: [dit zijn met [die] dat] aanhangsel onderaan [en] [met _die] twee blok bovenop_ 
+A|15| A: [ja] [ok] [dat zijn] nummer tien 
+A|16| A: [dit zijn met die] draaien onderkant [en] zo'n [blok] rechts [blok] in [het] midden [en] zo'n zwaaien armp 
+B|17| B: [ja dat zijn] voor [mij] L 
+B|18| B: [dit zijn met [die] dat] aanhangsel onderaan _en die twee blok bovenop_ 
+A|19| A: o jajaja [ja] [met] [dat] draaien onderkant [ok] [dat zijn] nummer vier 
+B|20| B: [ja] 
+A|21| A: [dit zijn] [die] [met] [dat] draaien onderkan [en die twee blok bovenop] 
+B|22| B: [ja dat zijn] voor [mij] F 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : ok dit zijn met een groot aanhangsel onderaan zo noemen ik het telkens
+	Free: Pattern=het, Pattern=ok, Pattern=zo, Pattern=een, Pattern=dit zijn met
+	Constrained: Pattern=dit zijn, Pattern=met, Pattern=zijn
+Turn ID=1| B | B : en dan hebben je bovenaan nog een blok en nog een blok en Linksboven zitten een ja wat zijn het voor vorm
+	Free: Pattern=nog, Pattern=ja, Pattern=een, Pattern=het, Pattern=hebben, Pattern=en, Pattern=blok, Pattern=zijn
+	Constrained: 
+Turn ID=2| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=3| A | A : ja een beetje lijken alsof zo'n man die zo zijn arm omhoog hebben
+	Free: Pattern=ja, Pattern=een, Pattern=hebben, Pattern=zo, Pattern=die, Pattern=zijn
+	Constrained: 
+Turn ID=4| B | B : schuin
+	Free: 
+	Constrained: 
+Turn ID=5| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=6| A | A : ja met die draaien onderkant
+	Free: Pattern=met die, Pattern=ja
+	Constrained: Pattern=met, Pattern=die
+Turn ID=7| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=8| A | A : ja dat zijn nummer vier bij mij
+	Free: Pattern=ja dat zijn, Pattern=mij
+	Constrained: Pattern=dat zijn, Pattern=dat, Pattern=ja, Pattern=zijn
+Turn ID=9| A | A : ja dit zijn met die draaien onderkant
+	Free: Pattern=dit zijn met die, Pattern=ja
+	Constrained: Pattern=met die, Pattern=dit zijn met, Pattern=met, Pattern=die, Pattern=zijn, Pattern=dit zijn
+Turn ID=10| A | A : met dat uitsteeksel aan de onderkant en die dat blok rechtsboven blok in het midden en zo'n nog zo'n uitsteeksel
+	Free: Pattern=en die, Pattern=dat, Pattern=nog, Pattern=die dat, Pattern=het, Pattern=met, Pattern=en, Pattern=blok
+	Constrained: Pattern=en, Pattern=dat, Pattern=die
+Turn ID=11| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=12| B | B : dat zijn voor mij A
+	Free: Pattern=dat zijn, Pattern=mij
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=13| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=14| B | B : dit zijn met die dat aanhangsel onderaan en met die twee blok bovenop
+	Free: Pattern=die dat, Pattern=en, Pattern=dit zijn met die, Pattern=die twee blok bovenop, Pattern=met die
+	Constrained: Pattern=dit zijn met, Pattern=met, Pattern=die, Pattern=blok, Pattern=zijn, Pattern=dit zijn, Pattern=dat, Pattern=met die
+Turn ID=15| A | A : ja ok dat zijn nummer tien
+	Free: Pattern=dat zijn, Pattern=ok, Pattern=ja
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=16| A | A : dit zijn met die draaien onderkant en zo'n blok rechts blok in het midden en zo'n zwaaien armp
+	Free: Pattern=dit zijn met die, Pattern=en, Pattern=het, Pattern=blok
+	Constrained: Pattern=met die, Pattern=dit zijn met, Pattern=met, Pattern=die, Pattern=zijn, Pattern=dit zijn
+Turn ID=17| B | B : ja dat zijn voor mij L
+	Free: Pattern=ja dat zijn, Pattern=mij
+	Constrained: Pattern=dat zijn, Pattern=dat, Pattern=ja, Pattern=zijn
+Turn ID=18| B | B : dit zijn met die dat aanhangsel onderaan en die twee blok bovenop
+	Free: Pattern=en die twee blok bovenop, Pattern=dit zijn met die, Pattern=die dat
+	Constrained: Pattern=en die, Pattern=dit zijn met, Pattern=met, Pattern=die, Pattern=en, Pattern=blok, Pattern=zijn, Pattern=dit zijn, Pattern=dat, Pattern=die twee blok bovenop, Pattern=met die
+Turn ID=19| A | A : o jajaja ja met dat draaien onderkant ok dat zijn nummer vier
+	Free: Pattern=ja, Pattern=ok, Pattern=met, Pattern=dat, Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=20| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=21| A | A : dit zijn die met dat draaien onderkan en die twee blok bovenop
+	Free: Pattern=dat, Pattern=met, Pattern=die, Pattern=en die twee blok bovenop, Pattern=dit zijn
+	Constrained: Pattern=en die, Pattern=die twee blok bovenop, Pattern=die, Pattern=en, Pattern=blok, Pattern=zijn
+Turn ID=22| B | B : ja dat zijn voor mij F
+	Free: Pattern=ja dat zijn, Pattern=mij
+	Constrained: Pattern=dat zijn, Pattern=dat, Pattern=ja, Pattern=zijn

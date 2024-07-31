@@ -1,0 +1,87 @@
+A|0| A: oké _ik hebben_ deze omschrijven als een soort zonnepaneel of gaspedaal _die_ achter _dat_ kop zitten 
+A|1| A: en 
+A|2| A: en _ja_ ver zitten er zo'n heel lang staaf eigenlijk achter het komme 
+B|3| B: [ja] 
+B|4| B: [ja] [ik hebben] hem zelf ook gieter noemen 
+B|5| B: _dat zijn_ toevallig 
+B|6| B: _dat zijn_ K 
+A|7| A: [ja] oké 
+A|8| A: met _die_ lang stuk 
+A|9| A: [dat zijn] negen 
+B|10| B: dit [zijn] [die] gieter 
+A|11| A: [ik hebben] weer het gaspedaal 
+B|12| B: dit [zijn] F 
+B|13| B: dit [zijn] de gieter 
+A|14| A: oké even zoeken horen daar [ja] [ja] 
+A|15| A: [dat zijn] nummer drie 
+B|16| B: [dat zijn] L 
+B|17| B: dit [zijn] de gieter 
+A|18| A: oké [ik hebben] [die] het gaspedaal 
+A|19| A: [ja] 
+A|20| A: [ja] [dat zijn] nummer vijf 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : oké ik hebben deze omschrijven als een soort zonnepaneel of gaspedaal die achter dat kop zitten
+	Free: Pattern=ik hebben, Pattern=die, Pattern=dat
+	Constrained: 
+Turn ID=1| A | A : en
+	Free: 
+	Constrained: 
+Turn ID=2| A | A : en ja ver zitten er zo'n heel lang staaf eigenlijk achter het komme
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=3| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=4| B | B : ja ik hebben hem zelf ook gieter noemen
+	Free: Pattern=ik hebben, Pattern=ja
+	Constrained: 
+Turn ID=5| B | B : dat zijn toevallig
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=6| B | B : dat zijn K
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=7| A | A : ja oké
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=8| A | A : met die lang stuk
+	Free: Pattern=die
+	Constrained: 
+Turn ID=9| A | A : dat zijn negen
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=10| B | B : dit zijn die gieter
+	Free: Pattern=die, Pattern=zijn
+	Constrained: 
+Turn ID=11| A | A : ik hebben weer het gaspedaal
+	Free: Pattern=ik hebben
+	Constrained: 
+Turn ID=12| B | B : dit zijn F
+	Free: Pattern=zijn
+	Constrained: 
+Turn ID=13| B | B : dit zijn de gieter
+	Free: Pattern=zijn
+	Constrained: 
+Turn ID=14| A | A : oké even zoeken horen daar ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=15| A | A : dat zijn nummer drie
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=16| B | B : dat zijn L
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=17| B | B : dit zijn de gieter
+	Free: Pattern=zijn
+	Constrained: 
+Turn ID=18| A | A : oké ik hebben die het gaspedaal
+	Free: Pattern=ik hebben, Pattern=die
+	Constrained: 
+Turn ID=19| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=20| A | A : ja dat zijn nummer vijf
+	Free: Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=zijn, Pattern=dat

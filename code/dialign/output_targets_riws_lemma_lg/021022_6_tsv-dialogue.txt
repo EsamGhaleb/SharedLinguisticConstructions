@@ -1,0 +1,79 @@
+A|0| A: ok nou _zijn_ _eigenlijk_ _ook_ _zo'n_ soort ovaal iets _en dan_ _met_ een 
+A|1| A: bolle aan _de_ voorkant _met_ _er_ _met_ _er doorheen_ boord een _ja_ kunnen kunnen _je_ zeggen _neuspiercing_ achtig gebeuren 
+B|2| B: [ja] hebben hij [dan] [ook] nog [zo'n] klein pluk bovenop 
+A|3| A: _met_ toe op [ja] [ja] 
+B|4| B: [ja] [dan] [zijn] het F 
+B|5| B: _ja dit zijn_ weer [eigenlijk] _die_ _met _die neuspiercing_ _met_ die_ _met die_ bol neus [en dan] _dat_ ding [er doorheen] pluimp bovenop 
+A|6| A: [ja] [ja] [ja] nummer [ja] nummer vijf 
+A|7| A: [ja dit _zijn] dan_ [met die neuspiercing] 
+B|8| B: [ja] _dat_ [zijn dan] A 
+B|9| B: [dit zijn] weer [die neuspiercing] 
+A|10| A: [ja] vinden 
+B|11| B: [en] als [je] alles in in wacht 
+A|12| A: [dat] toe [er] op 
+A|13| A: o nummer nummer vijf [ja] [ja] [ja] horizontaal rij [ja] 
+B|14| B: [ja] 
+A|15| A: [ja dit zijn] [die neuspiercing met] [dat] [met] [dat] staart of [ja] 
+B|16| B: [ja] [dat] [zijn dan] H 
+B|17| B: ik krijgen nu [de] neurpiercing 
+A|18| A: [ja] vinden nummer vijftien 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : ok nou zijn eigenlijk ook zo'n soort ovaal iets en dan met een
+	Free: Pattern=zo'n, Pattern=en dan, Pattern=ook, Pattern=eigenlijk, Pattern=met, Pattern=zijn
+	Constrained: Pattern=en, Pattern=dan
+Turn ID=1| A | A : bolle aan de voorkant met er met er doorheen boord een ja kunnen kunnen je zeggen neuspiercing achtig gebeuren
+	Free: Pattern=er doorheen, Pattern=met, Pattern=er, Pattern=je, Pattern=neuspiercing, Pattern=de, Pattern=ja
+	Constrained: Pattern=er
+Turn ID=2| B | B : ja hebben hij dan ook nog zo'n klein pluk bovenop
+	Free: Pattern=ook, Pattern=zo'n, Pattern=dan, Pattern=ja
+	Constrained: 
+Turn ID=3| A | A : met toe op ja ja
+	Free: Pattern=met, Pattern=ja
+	Constrained: 
+Turn ID=4| B | B : ja dan zijn het F
+	Free: Pattern=dan, Pattern=ja, Pattern=zijn
+	Constrained: 
+Turn ID=5| B | B : ja dit zijn weer eigenlijk die met die neuspiercing met die met die bol neus en dan dat ding er doorheen pluimp bovenop
+	Free: Pattern=met die neuspiercing, Pattern=en dan, Pattern=ja dit zijn, Pattern=die, Pattern=dat, Pattern=met die, Pattern=eigenlijk, Pattern=er doorheen, Pattern=die neuspiercing met
+	Constrained: Pattern=met die, Pattern=ja, Pattern=dan, Pattern=die neuspiercing, Pattern=met, Pattern=die, Pattern=er, Pattern=en, Pattern=zijn, Pattern=neuspiercing, Pattern=dit zijn
+Turn ID=6| A | A : ja ja ja nummer ja nummer vijf
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=7| A | A : ja dit zijn dan met die neuspiercing
+	Free: Pattern=ja dit zijn, Pattern=met die neuspiercing, Pattern=zijn dan
+	Constrained: Pattern=met die, Pattern=ja, Pattern=dan, Pattern=die neuspiercing, Pattern=met, Pattern=die, Pattern=zijn, Pattern=neuspiercing, Pattern=dit zijn
+Turn ID=8| B | B : ja dat zijn dan A
+	Free: Pattern=zijn dan, Pattern=dat, Pattern=ja
+	Constrained: Pattern=dan, Pattern=zijn
+Turn ID=9| B | B : dit zijn weer die neuspiercing
+	Free: Pattern=die neuspiercing, Pattern=dit zijn
+	Constrained: Pattern=neuspiercing, Pattern=die, Pattern=zijn
+Turn ID=10| A | A : ja vinden
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=11| B | B : en als je alles in in wacht
+	Free: Pattern=en, Pattern=je
+	Constrained: 
+Turn ID=12| A | A : dat toe er op
+	Free: Pattern=er, Pattern=dat
+	Constrained: 
+Turn ID=13| A | A : o nummer nummer vijf ja ja ja horizontaal rij ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=14| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=15| A | A : ja dit zijn die neuspiercing met dat met dat staart of ja
+	Free: Pattern=dat, Pattern=ja, Pattern=die neuspiercing met, Pattern=ja dit zijn, Pattern=met
+	Constrained: Pattern=ja, Pattern=die neuspiercing, Pattern=met, Pattern=die, Pattern=zijn, Pattern=neuspiercing, Pattern=dit zijn
+Turn ID=16| B | B : ja dat zijn dan H
+	Free: Pattern=zijn dan, Pattern=dat, Pattern=ja
+	Constrained: Pattern=dan, Pattern=zijn
+Turn ID=17| B | B : ik krijgen nu de neurpiercing
+	Free: Pattern=de
+	Constrained: 
+Turn ID=18| A | A : ja vinden nummer vijftien
+	Free: Pattern=ja
+	Constrained: 

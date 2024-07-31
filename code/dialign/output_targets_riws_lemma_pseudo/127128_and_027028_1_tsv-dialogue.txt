@@ -1,0 +1,107 @@
+A|0| A: _ja_ 
+A|1| A: nummer _twee_ 
+B|2| B: [ja] nou we hebben _de_ _de_ adapter weer 
+B|3| B: [ja] 
+B|4| B: [ja] 
+B|5| B: [ja] _die_ 
+B|6| B: [ja] 
+B|7| B: _dat zijn_ G 
+A|8| A: _dit zijn die_ _die met die twee_ bliksemschicht aan [de] links kant Spijker erin en een vierkant een vierkant vlak ertegenaan 
+A|9| A: robot 
+A|10| A: [ja] 
+B|11| B: [ja] [dit zijn [die] met die twee] wolkenkrabber 
+B|12| B: [die] tegenaan 
+B|13| B: [ja] [ja] [ja] 
+A|14| A: even kijken waar [die] staan 
+A|15| A: [ja] [dat zijn] nummer negen 
+B|16| B: [ja] 
+B|17| B: D 
+A|18| A: [dit zijn] [de] robot 
+B|19| B: [dit zijn [die] twee] wolkenkrabber 
+B|20| B: [ja] 
+A|21| A: [de] robot zitten 
+A|22| A: [ja] bij mij ook wel een beetje 
+A|23| A: [ja] maar [de] robot [zijn] in ieder geval nummer één 
+B|24| B: B 
+A|25| A: robot 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=1| A | A : nummer twee
+	Free: Pattern=twee
+	Constrained: 
+Turn ID=2| B | B : ja nou we hebben de de adapter weer
+	Free: Pattern=ja, Pattern=de
+	Constrained: 
+Turn ID=3| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=4| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=5| B | B : ja die
+	Free: Pattern=ja, Pattern=die
+	Constrained: 
+Turn ID=6| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=7| B | B : dat zijn G
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn
+Turn ID=8| A | A : dit zijn die die met die twee bliksemschicht aan de links kant Spijker erin en een vierkant een vierkant vlak ertegenaan
+	Free: Pattern=die met die twee, Pattern=dit zijn die, Pattern=de
+	Constrained: Pattern=twee, Pattern=die twee, Pattern=die, Pattern=zijn, Pattern=dit zijn
+Turn ID=9| A | A : robot
+	Free: 
+	Constrained: 
+Turn ID=10| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=11| B | B : ja dit zijn die met die twee wolkenkrabber
+	Free: Pattern=die met die twee, Pattern=dit zijn die, Pattern=ja
+	Constrained: Pattern=twee, Pattern=die twee, Pattern=die, Pattern=zijn, Pattern=dit zijn
+Turn ID=12| B | B : die tegenaan
+	Free: Pattern=die
+	Constrained: 
+Turn ID=13| B | B : ja ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=14| A | A : even kijken waar die staan
+	Free: Pattern=die
+	Constrained: 
+Turn ID=15| A | A : ja dat zijn nummer negen
+	Free: Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=zijn
+Turn ID=16| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=17| B | B : D
+	Free: 
+	Constrained: 
+Turn ID=18| A | A : dit zijn de robot
+	Free: Pattern=dit zijn, Pattern=de
+	Constrained: Pattern=zijn
+Turn ID=19| B | B : dit zijn die twee wolkenkrabber
+	Free: Pattern=dit zijn die, Pattern=die twee
+	Constrained: Pattern=dit zijn, Pattern=twee, Pattern=zijn, Pattern=die
+Turn ID=20| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=21| A | A : de robot zitten
+	Free: Pattern=de
+	Constrained: 
+Turn ID=22| A | A : ja bij mij ook wel een beetje
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=23| A | A : ja maar de robot zijn in ieder geval nummer één
+	Free: Pattern=zijn, Pattern=ja, Pattern=de
+	Constrained: 
+Turn ID=24| B | B : B
+	Free: 
+	Constrained: 
+Turn ID=25| A | A : robot
+	Free: 
+	Constrained: 

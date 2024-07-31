@@ -1,0 +1,95 @@
+B|0| B: ik hebben er één _met_ drie van _die_ bollet zo ernaast aan beide kant 
+B|1| B: _ja_ of _het_ erachter _zijn_ 
+B|2| B: _ja_ plateau eronder yes 
+B|3| B: oké 
+A|4| A: _en dan_ staan [die] op een 
+A|5| A: [ja] 
+A|6| A: _dan_ [zijn] [het] nummer vijf 
+B|7| B: [ja] 
+B|8| B: [ja] [die] gek slinger _dat zijn_ J bij mij 
+A|9| A: dit [zijn] wel [die] een op _met dat_ tafel _met die_ krullet langs _de_ zijkant 
+B|10| B: oké ik hebben weer [die] [met dat] plateaut [met die] soort van slinger erachter 
+B|11| B: [ja] [en] [het] schotelt 
+B|12| B: yes 
+A|13| A: [ja] [dat zijn] nummer elf 
+B|14| B: yes [dat zijn] [de] P bij mij 
+A|15| A: [die] een op [het] vlak [met die] twee spiraal 
+B|16| B: yes oké 
+B|17| B: [het] [zijn] weer [dat] plateaut [met die] slinger 
+B|18| B: [en dan] [dat] schotel 
+A|19| A: [ja] [dat zijn] nummer negen 
+B|20| B: [die] slinger 
+B|21| B: [ja] [ja] L 
+A|22| A: [de] plaat [met] [de] spiraal 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : ik hebben er één met drie van die bollet zo ernaast aan beide kant
+	Free: Pattern=die, Pattern=met
+	Constrained: 
+Turn ID=1| B | B : ja of het erachter zijn
+	Free: Pattern=ja, Pattern=het, Pattern=zijn
+	Constrained: 
+Turn ID=2| B | B : ja plateau eronder yes
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=3| B | B : oké
+	Free: 
+	Constrained: 
+Turn ID=4| A | A : en dan staan die op een
+	Free: Pattern=en dan, Pattern=die
+	Constrained: Pattern=dan, Pattern=en
+Turn ID=5| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=6| A | A : dan zijn het nummer vijf
+	Free: Pattern=dan, Pattern=het, Pattern=zijn
+	Constrained: 
+Turn ID=7| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=8| B | B : ja die gek slinger dat zijn J bij mij
+	Free: Pattern=dat zijn, Pattern=ja, Pattern=die
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=9| A | A : dit zijn wel die een op met dat tafel met die krullet langs de zijkant
+	Free: Pattern=met die, Pattern=de, Pattern=met dat, Pattern=die, Pattern=zijn
+	Constrained: Pattern=dat, Pattern=die, Pattern=met
+Turn ID=10| B | B : oké ik hebben weer die met dat plateaut met die soort van slinger erachter
+	Free: Pattern=met die, Pattern=met dat, Pattern=die
+	Constrained: Pattern=dat, Pattern=die, Pattern=met
+Turn ID=11| B | B : ja en het schotelt
+	Free: Pattern=ja, Pattern=en, Pattern=het
+	Constrained: 
+Turn ID=12| B | B : yes
+	Free: 
+	Constrained: 
+Turn ID=13| A | A : ja dat zijn nummer elf
+	Free: Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=14| B | B : yes dat zijn de P bij mij
+	Free: Pattern=dat zijn, Pattern=de
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=15| A | A : die een op het vlak met die twee spiraal
+	Free: Pattern=met die, Pattern=het, Pattern=die
+	Constrained: Pattern=die, Pattern=met
+Turn ID=16| B | B : yes oké
+	Free: 
+	Constrained: 
+Turn ID=17| B | B : het zijn weer dat plateaut met die slinger
+	Free: Pattern=met die, Pattern=het, Pattern=zijn, Pattern=dat
+	Constrained: Pattern=die, Pattern=met
+Turn ID=18| B | B : en dan dat schotel
+	Free: Pattern=en dan, Pattern=dat
+	Constrained: Pattern=dan, Pattern=en
+Turn ID=19| A | A : ja dat zijn nummer negen
+	Free: Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=20| B | B : die slinger
+	Free: Pattern=die
+	Constrained: 
+Turn ID=21| B | B : ja ja L
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=22| A | A : de plaat met de spiraal
+	Free: Pattern=met, Pattern=de
+	Constrained: 

@@ -1,0 +1,99 @@
+A|0| A: _oké_ bovenop zitten _een_ bolle 
+A|1| A: en er staan _een_ er _zijn een_ nog _een_ heel smal _maar_ wel lang _ja_ 
+A|2| A: paal _een_ paal eigenlijk _die_ ervoor staan en twee cilinder steken eigenlijk aan _de_ 
+B|3| B: [ja] 
+B|4| B: zeggen [maar] poppetje alsof [die] iets gaan omhelzen 
+A|5| A: [ja] nou [ja] inderdaad 
+B|6| B: zoiets [ja] [oké] nee dan [zijn] _het_ [zijn] _het_ D 
+A|7| A: [ja] 
+A|8| A: [ja] 
+B|9| B: _dit [zijn_ een] poppe wat [een] balk omhelsten _met_ bovenin ook [een] cirkel op _het_ hoofd 
+B|10| B: of op _het_ figuurt 
+A|11| A: [ja] 
+A|12| A: vijftien 
+A|13| A: [die] hebben we al [een] keer hebben volgens mij toch 
+B|14| B: [ja] 
+A|15| A: [dit zijn] _de omhelzing_ 
+A|16| A: [met] [het] ei bovenop 
+B|17| B: [ja] dat [zijn] L 
+B|18| B: [de] [het] omhelzen poppet [zijn] [dit] 
+A|19| A: zes 
+A|20| A: _de omhelzing_ 
+B|21| B: [de omhelzing] J 
+B|22| B: [de omhelzing] 
+A|23| A: [ja] drie 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : oké bovenop zitten een bolle
+	Free: Pattern=een, Pattern=oké
+	Constrained: 
+Turn ID=1| A | A : en er staan een er zijn een nog een heel smal maar wel lang ja
+	Free: Pattern=zijn een, Pattern=een, Pattern=ja, Pattern=maar
+	Constrained: Pattern=een, Pattern=zijn
+Turn ID=2| A | A : paal een paal eigenlijk die ervoor staan en twee cilinder steken eigenlijk aan de
+	Free: Pattern=een, Pattern=die, Pattern=de
+	Constrained: 
+Turn ID=3| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=4| B | B : zeggen maar poppetje alsof die iets gaan omhelzen
+	Free: Pattern=die, Pattern=maar
+	Constrained: 
+Turn ID=5| A | A : ja nou ja inderdaad
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=6| B | B : zoiets ja oké nee dan zijn het zijn het D
+	Free: Pattern=ja, Pattern=het, Pattern=oké, Pattern=zijn
+	Constrained: 
+Turn ID=7| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=8| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=9| B | B : dit zijn een poppe wat een balk omhelsten met bovenin ook een cirkel op het hoofd
+	Free: Pattern=zijn een, Pattern=een, Pattern=het, Pattern=met, Pattern=dit zijn
+	Constrained: Pattern=een, Pattern=dit, Pattern=zijn
+Turn ID=10| B | B : of op het figuurt
+	Free: Pattern=het
+	Constrained: 
+Turn ID=11| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=12| A | A : vijftien
+	Free: 
+	Constrained: 
+Turn ID=13| A | A : die hebben we al een keer hebben volgens mij toch
+	Free: Pattern=een, Pattern=die
+	Constrained: 
+Turn ID=14| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=15| A | A : dit zijn de omhelzing
+	Free: Pattern=de omhelzing, Pattern=dit zijn
+	Constrained: Pattern=dit, Pattern=zijn, Pattern=de
+Turn ID=16| A | A : met het ei bovenop
+	Free: Pattern=het, Pattern=met
+	Constrained: 
+Turn ID=17| B | B : ja dat zijn L
+	Free: Pattern=ja, Pattern=zijn
+	Constrained: 
+Turn ID=18| B | B : de het omhelzen poppet zijn dit
+	Free: Pattern=het, Pattern=dit, Pattern=zijn, Pattern=de
+	Constrained: 
+Turn ID=19| A | A : zes
+	Free: 
+	Constrained: 
+Turn ID=20| A | A : de omhelzing
+	Free: Pattern=de omhelzing
+	Constrained: Pattern=de
+Turn ID=21| B | B : de omhelzing J
+	Free: Pattern=de omhelzing
+	Constrained: Pattern=de
+Turn ID=22| B | B : de omhelzing
+	Free: Pattern=de omhelzing
+	Constrained: Pattern=de
+Turn ID=23| A | A : ja drie
+	Free: Pattern=ja
+	Constrained: 

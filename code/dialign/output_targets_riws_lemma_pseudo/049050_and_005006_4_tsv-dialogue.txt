@@ -1,0 +1,99 @@
+B|0| B: _met_ _een_ _soort van_ pionnetje _bovenop_ 
+B|1| B: _die_ _die_ waar _het_ topje _van_ missen _dat zijn_ _zijn_ _dat_ nou _een_ L of _een_ I 
+B|2| B: zitten er _een_ I bij ? _dat zijn_ _een_ I 
+A|3| A: _ja_ 
+A|4| A: dit _ja_ ik vinden [het] [een] beetje op [een] vogel lijken [met] _twee_ staaf _aan de_ rechterkant 
+A|5| A: [soort van] bek _en dan_ [bovenop] zo'n punt 
+A|6| A: _en dan_ zo'n _ja_ zo'n staafje naar links _en dan_ _dat ja_ gekronkelen staafje _aan de_ onderkant 
+B|7| B: deze hebben zegmaar [een] pilon [en dan] _zijn_ [dat] bovenkan weer afsnijden [en] rechts [twee] blok eruit 
+B|8| B: [ja] [dat ja] precies 
+B|9| B: M 
+A|10| A: [ja] [die] [twee] staaf [en] [dat] punt 
+A|11| A: [het] staart [en] _de_ vleugel 
+A|12| A: [dat zijn] [twee] 
+B|13| B: pilonne wat zo [aan de] bovenkant [zijn] afknipken [en] [twee] vierkant dinget rechts [de] istek 
+A|14| A: [ja] dit [zijn] [de] [de] vogel [met] [de] snavel [en] [de] driehoek [en] [het] [ja] krulstaartje [aan de] linkeronderkant [en] 
+B|15| B: F 
+B|16| B: half pilonne wat af [zijn] snijden [aan de] bovenkant iste 
+A|17| A: [ja] 
+A|18| A: [ja] 
+A|19| A: [dat zijn] negen 
+A|20| A: dit [zijn] [de] vogel 
+A|21| A: [het] snui [en] [de] plat driehoek 
+A|22| A: vogel vogel [ja] 
+A|23| A: zes 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : met een soort van pionnetje bovenop
+	Free: Pattern=soort van, Pattern=bovenop, Pattern=met, Pattern=een
+	Constrained: Pattern=van
+Turn ID=1| B | B : die die waar het topje van missen dat zijn zijn dat nou een L of een I
+	Free: Pattern=een, Pattern=het, Pattern=die, Pattern=van, Pattern=zijn, Pattern=dat, Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=2| B | B : zitten er een I bij ? dat zijn een I
+	Free: Pattern=dat zijn, Pattern=een
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=3| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=4| A | A : dit ja ik vinden het een beetje op een vogel lijken met twee staaf aan de rechterkant
+	Free: Pattern=twee, Pattern=ja, Pattern=aan de, Pattern=een, Pattern=het, Pattern=met
+	Constrained: Pattern=de
+Turn ID=5| A | A : soort van bek en dan bovenop zo'n punt
+	Free: Pattern=en dan, Pattern=soort van, Pattern=bovenop
+	Constrained: Pattern=van, Pattern=en
+Turn ID=6| A | A : en dan zo'n ja zo'n staafje naar links en dan dat ja gekronkelen staafje aan de onderkant
+	Free: Pattern=aan de, Pattern=dat ja, Pattern=en dan, Pattern=ja
+	Constrained: Pattern=dat, Pattern=de, Pattern=en, Pattern=ja
+Turn ID=7| B | B : deze hebben zegmaar een pilon en dan zijn dat bovenkan weer afsnijden en rechts twee blok eruit
+	Free: Pattern=dat, Pattern=twee, Pattern=en dan, Pattern=een, Pattern=en, Pattern=zijn
+	Constrained: Pattern=en
+Turn ID=8| B | B : ja dat ja precies
+	Free: Pattern=dat ja, Pattern=ja
+	Constrained: Pattern=ja, Pattern=dat
+Turn ID=9| B | B : M
+	Free: 
+	Constrained: 
+Turn ID=10| A | A : ja die twee staaf en dat punt
+	Free: Pattern=dat, Pattern=twee, Pattern=ja, Pattern=die, Pattern=en
+	Constrained: 
+Turn ID=11| A | A : het staart en de vleugel
+	Free: Pattern=de, Pattern=het, Pattern=en
+	Constrained: 
+Turn ID=12| A | A : dat zijn twee
+	Free: Pattern=dat zijn, Pattern=twee
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=13| B | B : pilonne wat zo aan de bovenkant zijn afknipken en twee vierkant dinget rechts de istek
+	Free: Pattern=twee, Pattern=de, Pattern=aan de, Pattern=en, Pattern=zijn
+	Constrained: Pattern=de
+Turn ID=14| A | A : ja dit zijn de de vogel met de snavel en de driehoek en het ja krulstaartje aan de linkeronderkant en
+	Free: Pattern=aan de, Pattern=het, Pattern=met, Pattern=en, Pattern=zijn, Pattern=de, Pattern=ja
+	Constrained: Pattern=de
+Turn ID=15| B | B : F
+	Free: 
+	Constrained: 
+Turn ID=16| B | B : half pilonne wat af zijn snijden aan de bovenkant iste
+	Free: Pattern=aan de, Pattern=zijn
+	Constrained: Pattern=de
+Turn ID=17| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=18| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=19| A | A : dat zijn negen
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=20| A | A : dit zijn de vogel
+	Free: Pattern=de, Pattern=zijn
+	Constrained: 
+Turn ID=21| A | A : het snui en de plat driehoek
+	Free: Pattern=de, Pattern=het, Pattern=en
+	Constrained: 
+Turn ID=22| A | A : vogel vogel ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=23| A | A : zes
+	Free: 
+	Constrained: 

@@ -1,0 +1,103 @@
+A|0| A: _ja_ 
+A|1| A: _dat zijn_ nummer _een_ 
+B|2| B: deze hebben _een vierkant_ beetje _aan de voorkant_ beetje naar rechts toe 
+B|3| B: _en_ link _twee_ _van_ _die_ staf _met_ _vierkant_ _die_ steeds groot worden 
+B|4| B: _en_ [ja] 
+B|5| B: [ja] 
+B|6| B: _soort_ paddenstoel [ja] 
+A|7| A: [de] bak [met] [aan de voorkant] _een vierkant aan de_ linkerkant _zijn_ [die] [twee] torent [en] _bovenop_ _zijn_ [een] _een soort_ [van] spijker [die] _zijn_ erop timmeren 
+A|8| A: [ja] 
+A|9| A: zeven _zijn_ _dat_ 
+B|10| B: [en] [twee] link 
+B|11| B: [ja] [dat zijn] O 
+B|12| B: deze hebben [een vierkant] rechtsvoor [en] [een soort] paddestoel _er_ [bovenop] 
+B|13| B: [ja] 
+A|14| A: bak [met] [aan de voorkant] [de] plaat , het _vierkant aan de_ linkerkant , [de] [twee] uitsteeksel , oort 
+A|15| A: [en] [met] [de] spijker [bovenop] 
+B|16| B: links [ja] 
+B|17| B: G 
+A|18| A: [ja] zeven 
+B|19| B: deze hebben [een vierkant [aan de] voorkant] [en] [een] paddenstoel _er_ [bovenop] 
+B|20| B: [en] 
+B|21| B: [ja] 
+A|22| A: [de] bak [met] [aan de voorkant] [de] pilaar [en] [aan de] linkerkant [de] [twee] uitstulping [met] [de] spijker [er] bovenin 
+B|23| B: [ja] 
+B|24| B: K 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=1| A | A : dat zijn nummer een
+	Free: Pattern=dat zijn, Pattern=een
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=2| B | B : deze hebben een vierkant beetje aan de voorkant beetje naar rechts toe
+	Free: Pattern=aan de voorkant, Pattern=een vierkant
+	Constrained: Pattern=vierkant, Pattern=een, Pattern=de, Pattern=aan de
+Turn ID=3| B | B : en link twee van die staf met vierkant die steeds groot worden
+	Free: Pattern=twee, Pattern=met, Pattern=die, Pattern=vierkant, Pattern=van, Pattern=en
+	Constrained: 
+Turn ID=4| B | B : en ja
+	Free: Pattern=ja, Pattern=en
+	Constrained: 
+Turn ID=5| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=6| B | B : soort paddenstoel ja
+	Free: Pattern=soort, Pattern=ja
+	Constrained: 
+Turn ID=7| A | A : de bak met aan de voorkant een vierkant aan de linkerkant zijn die twee torent en bovenop zijn een een soort van spijker die zijn erop timmeren
+	Free: Pattern=bovenop, Pattern=twee, Pattern=de, Pattern=een, Pattern=met, Pattern=een soort, Pattern=zijn, Pattern=aan de voorkant, Pattern=een vierkant aan de, Pattern=die, Pattern=van, Pattern=en
+	Constrained: Pattern=soort, Pattern=de, Pattern=aan de, Pattern=een, Pattern=vierkant, Pattern=vierkant aan de, Pattern=een vierkant
+Turn ID=8| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=9| A | A : zeven zijn dat
+	Free: Pattern=dat, Pattern=zijn
+	Constrained: 
+Turn ID=10| B | B : en twee link
+	Free: Pattern=twee, Pattern=en
+	Constrained: 
+Turn ID=11| B | B : ja dat zijn O
+	Free: Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=12| B | B : deze hebben een vierkant rechtsvoor en een soort paddestoel er bovenop
+	Free: Pattern=bovenop, Pattern=er, Pattern=een soort, Pattern=en, Pattern=een vierkant
+	Constrained: Pattern=soort, Pattern=vierkant, Pattern=een
+Turn ID=13| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=14| A | A : bak met aan de voorkant de plaat , het vierkant aan de linkerkant , de twee uitsteeksel , oort
+	Free: Pattern=twee, Pattern=de, Pattern=met, Pattern=aan de voorkant, Pattern=vierkant aan de
+	Constrained: Pattern=vierkant, Pattern=de, Pattern=aan de
+Turn ID=15| A | A : en met de spijker bovenop
+	Free: Pattern=de, Pattern=bovenop, Pattern=met, Pattern=en
+	Constrained: 
+Turn ID=16| B | B : links ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=17| B | B : G
+	Free: 
+	Constrained: 
+Turn ID=18| A | A : ja zeven
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=19| B | B : deze hebben een vierkant aan de voorkant en een paddenstoel er bovenop
+	Free: Pattern=bovenop, Pattern=een, Pattern=een vierkant aan de, Pattern=er, Pattern=en, Pattern=aan de voorkant
+	Constrained: Pattern=de, Pattern=aan de, Pattern=een, Pattern=vierkant, Pattern=vierkant aan de, Pattern=een vierkant
+Turn ID=20| B | B : en
+	Free: Pattern=en
+	Constrained: 
+Turn ID=21| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=22| A | A : de bak met aan de voorkant de pilaar en aan de linkerkant de twee uitstulping met de spijker er bovenin
+	Free: Pattern=twee, Pattern=de, Pattern=aan de, Pattern=met, Pattern=er, Pattern=en, Pattern=aan de voorkant
+	Constrained: Pattern=aan de, Pattern=de
+Turn ID=23| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=24| B | B : K
+	Free: 
+	Constrained: 

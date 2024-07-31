@@ -1,0 +1,95 @@
+B|0| B: _ik_ vinden _dit_ _op_ _een_ dienblad lijken _zeggen maar_ twee _van_ die paalt zo 
+B|1| B: _ja_ _ja_ 
+B|2| B: B 
+A|3| A: [ja] 
+A|4| A: _dat_ snapen [ik] wel [ja] 
+A|5| A: [ja] er zitten er zitten [zeggen maar] [een] _bak_ nog [op] _het_ tafel [een] soort [van] 
+A|6| A: [ja] 
+A|7| A: nee oké hebben [ik] hem 
+A|8| A: _dat_ _zijn_ nummer zestien 
+B|9| B: _dit zijn_ [dat] dienblad met [dat] [bak] soep 
+A|10| A: [dit _zijn] het_ picknick tafeltje 
+B|11| B: [ja] vinden N 
+B|12| B: [het] [zijn het] dienblad met [zijn] soep 
+A|13| A: [ja] 
+A|14| A: even daar 
+A|15| A: nummer veertien 
+B|16| B: D 
+A|17| A: de picknicktafel 
+A|18| A: [ja] [zijn] nummer tien 
+A|19| A: de picknicktafel 
+A|20| A: staan rechts 
+A|21| A: in [een] 
+A|22| A: [ja] 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : ik vinden dit op een dienblad lijken zeggen maar twee van die paalt zo
+	Free: Pattern=op, Pattern=een, Pattern=zeggen maar, Pattern=dit, Pattern=ik, Pattern=van
+	Constrained: 
+Turn ID=1| B | B : ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=2| B | B : B
+	Free: 
+	Constrained: 
+Turn ID=3| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=4| A | A : dat snapen ik wel ja
+	Free: Pattern=dat, Pattern=ja, Pattern=ik
+	Constrained: 
+Turn ID=5| A | A : ja er zitten er zitten zeggen maar een bak nog op het tafel een soort van
+	Free: Pattern=ja, Pattern=op, Pattern=een, Pattern=zeggen maar, Pattern=van, Pattern=bak, Pattern=het
+	Constrained: 
+Turn ID=6| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=7| A | A : nee oké hebben ik hem
+	Free: Pattern=ik
+	Constrained: 
+Turn ID=8| A | A : dat zijn nummer zestien
+	Free: Pattern=dat, Pattern=zijn
+	Constrained: 
+Turn ID=9| B | B : dit zijn dat dienblad met dat bak soep
+	Free: Pattern=dit zijn, Pattern=dat, Pattern=bak
+	Constrained: Pattern=zijn, Pattern=dit
+Turn ID=10| A | A : dit zijn het picknick tafeltje
+	Free: Pattern=zijn het, Pattern=dit zijn
+	Constrained: Pattern=het, Pattern=zijn, Pattern=dit
+Turn ID=11| B | B : ja vinden N
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=12| B | B : het zijn het dienblad met zijn soep
+	Free: Pattern=zijn het, Pattern=het, Pattern=zijn
+	Constrained: Pattern=het, Pattern=zijn
+Turn ID=13| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=14| A | A : even daar
+	Free: 
+	Constrained: 
+Turn ID=15| A | A : nummer veertien
+	Free: 
+	Constrained: 
+Turn ID=16| B | B : D
+	Free: 
+	Constrained: 
+Turn ID=17| A | A : de picknicktafel
+	Free: 
+	Constrained: 
+Turn ID=18| A | A : ja zijn nummer tien
+	Free: Pattern=ja, Pattern=zijn
+	Constrained: 
+Turn ID=19| A | A : de picknicktafel
+	Free: 
+	Constrained: 
+Turn ID=20| A | A : staan rechts
+	Free: 
+	Constrained: 
+Turn ID=21| A | A : in een
+	Free: Pattern=een
+	Constrained: 
+Turn ID=22| A | A : ja
+	Free: Pattern=ja
+	Constrained: 

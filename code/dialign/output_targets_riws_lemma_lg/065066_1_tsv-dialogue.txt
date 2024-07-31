@@ -1,0 +1,139 @@
+B|0| B: _even kijken_ deze _die_ _hebben_ _twee van die_ vierkant piramidet aan _de_ voorkant _met_ zo'n vierkant vlak aan _de_ voorkant 
+A|1| A: [twee van die] piramide 
+B|2| B: of _ja_ _een_ [twee van die] [van die] uitsteeksel [van die] [van] dezelfde uitsteeksel aan of _ja_ linkerkant _zijn het_ eigenlijk _en_ _dan_ _hebben_ [die] zo'n antenne op _zijn_ hoofd 
+B|3| B: _en_ _dan_ zo'n vierkant vlak op _de_ voorgrond 
+A|4| A: [een] _robot_ 
+B|5| B: _ja_ [robot] _ja_ oké 
+A|6| A: [ja] [ja] 
+A|7| A: [dan] [zijn het] [twee] 
+A|8| A: [ja] ik vinden [het] echt [een] [robot] zo 
+A|9| A: ik [hebben] net [het] [hebben] net WALLE kunnen [zijn] 
+A|10| A: [zijn het] _robo_ _weer_ 
+B|11| B: G 
+B|12| B: deze [zijn] _die machine_ _met dat_ vierkant aan _de_ voorkant 
+B|13| B: _dat_ vierkant aan _de_ voor _met_ [die] [twee] poot aan _de_ aan linkerkant 
+A|14| A: [die machine] [en] [die] 
+B|15| B: hoe noemen we [die] ook [weer] 
+A|16| A: [robot] 
+B|17| B: [die] 
+B|18| B: [ja] [die] [robot] 
+B|19| B: [ja] 
+A|20| A: [ja] [met dat] pinne 
+B|21| B: [ja] 
+A|22| A: [ja] 
+A|23| A: [dat] [zijn] negen 
+A|24| A: [robot] 
+B|25| B: d 
+B|26| B: dit [zijn] [die] [dat] [robo] 
+B|27| B: [met] [die] [twee] pinnet aan _de_ voorkant 
+A|28| A: [ja] 
+A|29| A: [even kijken] waar jij [zijn] 
+A|30| A: waar [zijn] jij nou 
+A|31| A: [ja] één 
+A|32| A: [de] [robot] 
+B|33| B: B 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : even kijken deze die hebben twee van die vierkant piramidet aan de voorkant met zo'n vierkant vlak aan de voorkant
+	Free: Pattern=twee van die, Pattern=de, Pattern=hebben, Pattern=met, Pattern=die, Pattern=even kijken
+	Constrained: Pattern=twee, Pattern=die, Pattern=van, Pattern=van die
+Turn ID=1| A | A : twee van die piramide
+	Free: Pattern=twee van die
+	Constrained: Pattern=van die, Pattern=twee, Pattern=die, Pattern=van
+Turn ID=2| B | B : of ja een twee van die van die uitsteeksel van die van dezelfde uitsteeksel aan of ja linkerkant zijn het eigenlijk en dan hebben die zo'n antenne op zijn hoofd
+	Free: Pattern=twee van die, Pattern=zijn het, Pattern=ja, Pattern=dan, Pattern=een, Pattern=hebben, Pattern=die, Pattern=zijn, Pattern=van, Pattern=van die, Pattern=en
+	Constrained: Pattern=twee, Pattern=het, Pattern=die, Pattern=zijn, Pattern=van, Pattern=van die
+Turn ID=3| B | B : en dan zo'n vierkant vlak op de voorgrond
+	Free: Pattern=dan, Pattern=en, Pattern=de
+	Constrained: 
+Turn ID=4| A | A : een robot
+	Free: Pattern=een, Pattern=robot
+	Constrained: 
+Turn ID=5| B | B : ja robot ja oké
+	Free: Pattern=ja, Pattern=robot
+	Constrained: 
+Turn ID=6| A | A : ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=7| A | A : dan zijn het twee
+	Free: Pattern=zijn het, Pattern=twee, Pattern=dan
+	Constrained: Pattern=zijn, Pattern=het
+Turn ID=8| A | A : ja ik vinden het echt een robot zo
+	Free: Pattern=een, Pattern=ja, Pattern=robot, Pattern=het
+	Constrained: 
+Turn ID=9| A | A : ik hebben net het hebben net WALLE kunnen zijn
+	Free: Pattern=hebben, Pattern=zijn, Pattern=het
+	Constrained: 
+Turn ID=10| A | A : zijn het robo weer
+	Free: Pattern=zijn het, Pattern=weer, Pattern=robo
+	Constrained: Pattern=zijn, Pattern=het
+Turn ID=11| B | B : G
+	Free: 
+	Constrained: 
+Turn ID=12| B | B : deze zijn die machine met dat vierkant aan de voorkant
+	Free: Pattern=die machine, Pattern=met dat, Pattern=de, Pattern=zijn
+	Constrained: Pattern=die, Pattern=dat, Pattern=met
+Turn ID=13| B | B : dat vierkant aan de voor met die twee poot aan de aan linkerkant
+	Free: Pattern=dat, Pattern=twee, Pattern=de, Pattern=met, Pattern=die
+	Constrained: 
+Turn ID=14| A | A : die machine en die
+	Free: Pattern=die machine, Pattern=en, Pattern=die
+	Constrained: Pattern=die
+Turn ID=15| B | B : hoe noemen we die ook weer
+	Free: Pattern=weer, Pattern=die
+	Constrained: 
+Turn ID=16| A | A : robot
+	Free: Pattern=robot
+	Constrained: 
+Turn ID=17| B | B : die
+	Free: Pattern=die
+	Constrained: 
+Turn ID=18| B | B : ja die robot
+	Free: Pattern=ja, Pattern=die, Pattern=robot
+	Constrained: 
+Turn ID=19| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=20| A | A : ja met dat pinne
+	Free: Pattern=met dat, Pattern=ja
+	Constrained: Pattern=dat, Pattern=met
+Turn ID=21| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=22| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=23| A | A : dat zijn negen
+	Free: Pattern=zijn, Pattern=dat
+	Constrained: 
+Turn ID=24| A | A : robot
+	Free: Pattern=robot
+	Constrained: 
+Turn ID=25| B | B : d
+	Free: 
+	Constrained: 
+Turn ID=26| B | B : dit zijn die dat robo
+	Free: Pattern=die, Pattern=zijn, Pattern=dat, Pattern=robo
+	Constrained: 
+Turn ID=27| B | B : met die twee pinnet aan de voorkant
+	Free: Pattern=twee, Pattern=de, Pattern=die, Pattern=met
+	Constrained: 
+Turn ID=28| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=29| A | A : even kijken waar jij zijn
+	Free: Pattern=even kijken, Pattern=zijn
+	Constrained: 
+Turn ID=30| A | A : waar zijn jij nou
+	Free: Pattern=zijn
+	Constrained: 
+Turn ID=31| A | A : ja één
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=32| A | A : de robot
+	Free: Pattern=de, Pattern=robot
+	Constrained: 
+Turn ID=33| B | B : B
+	Free: 
+	Constrained: 

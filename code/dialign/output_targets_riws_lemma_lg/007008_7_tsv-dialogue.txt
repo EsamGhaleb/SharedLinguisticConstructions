@@ -1,0 +1,155 @@
+A|0| A: jou beurt 
+B|1| B: _oké_ bij _mij_ _ik_ vinden hem een beetje _op_ een machinegeweer _zeggen maar_ 
+B|2| B: je moeten een _AK47_ in je hoofd nemen en _dan_ _ja_ je je zien echt _zo'n_ handvat en een 
+A|3| A: oeh 
+B|4| B: en een magazijn _maar_ _misschien_ _hebben_ _ik_ _te_ veel _Battlefield_ spelen _dat kunnen_ _ook_ 
+A|5| A: _ja maar_ kalm [dat kunnen] [ik] [ook] dus we [kunnen] [op] dezelfde pagina zijn 
+B|6| B: _oké_ 
+A|7| A: vooral [Battlefield] drie [dat] zijn [dat] zijn ziekelijk [te] wild 
+A|8| A: [maar] [hebben] _het_ [zeggen maar] [zo'n] [zo'n] [zo'n] langwerpig [ik] weten niet naar _het_ dak toe [zeggen maar] 
+A|9| A: of [dat] niet 
+B|10| B: [ja] [zeggen maar] al al voorwerp zitten aan _de_ bovenste kant _van_ [het] heel dinge 
+A|11| A: [ja] 
+B|12| B: en helemaal bovenaan Linksboven in _de_ hoek _van_ [dat] dinget zien je heel klein _zo_ omhooggaan 
+A|13| A: [hebben] [het] lijken [het] [misschien] [ook] [op] [zo'n] [zo'n] tafel of [zo] _met die_ _poot_ 
+B|14| B: [ja maar] _dan_ in _dan_ zien je [maar] _twee_ [poot] 
+A|15| A: [twee] [oké] 
+A|16| A: [ja] [oké] [dan] zijn we [op] dezelfde Battlefieldpagina 
+B|17| B: [ja] 
+B|18| B: [ja] 
+A|19| A: zestien 
+A|20| A: [ja] [de] [de] [Battlefield] [AK47] 
+B|21| B: P 
+B|22| B: [ik] [hebben] [die] _weer_ [met die] [met die] AK 
+A|23| A: waar zijn [van] [mij] ? hier 
+A|24| A: veertien 
+A|25| A: [de] [Battlefield] 
+A|26| A: [AK47] Standaard 
+B|27| B: [ja] 
+B|28| B: N 
+A|29| A: [weer] veranderen 
+B|30| B: [die] AK 
+B|31| B: [de] [AK47] 
+A|32| A: [ja] 
+A|33| A: tien 
+A|34| A: [die] [Battlefield] 
+A|35| A: pistool 
+B|36| B: [ja] 
+B|37| B: d 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : jou beurt
+	Free: 
+	Constrained: 
+Turn ID=1| B | B : oké bij mij ik vinden hem een beetje op een machinegeweer zeggen maar
+	Free: Pattern=op, Pattern=zeggen maar, Pattern=oké, Pattern=mij, Pattern=ik
+	Constrained: Pattern=maar
+Turn ID=2| B | B : je moeten een AK47 in je hoofd nemen en dan ja je je zien echt zo'n handvat en een
+	Free: Pattern=zo'n, Pattern=dan, Pattern=ja, Pattern=AK47
+	Constrained: 
+Turn ID=3| A | A : oeh
+	Free: 
+	Constrained: 
+Turn ID=4| B | B : en een magazijn maar misschien hebben ik te veel Battlefield spelen dat kunnen ook
+	Free: Pattern=ook, Pattern=hebben, Pattern=te, Pattern=ik, Pattern=dat kunnen, Pattern=maar, Pattern=misschien, Pattern=Battlefield
+	Constrained: Pattern=dat, Pattern=kunnen
+Turn ID=5| A | A : ja maar kalm dat kunnen ik ook dus we kunnen op dezelfde pagina zijn
+	Free: Pattern=kunnen, Pattern=ja maar, Pattern=ik, Pattern=dat kunnen, Pattern=op, Pattern=ook
+	Constrained: Pattern=dat, Pattern=ja, Pattern=kunnen, Pattern=maar
+Turn ID=6| B | B : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=7| A | A : vooral Battlefield drie dat zijn dat zijn ziekelijk te wild
+	Free: Pattern=Battlefield, Pattern=dat, Pattern=te
+	Constrained: 
+Turn ID=8| A | A : maar hebben het zeggen maar zo'n zo'n zo'n langwerpig ik weten niet naar het dak toe zeggen maar
+	Free: Pattern=zo'n, Pattern=zeggen maar, Pattern=het, Pattern=hebben, Pattern=ik, Pattern=maar
+	Constrained: Pattern=maar
+Turn ID=9| A | A : of dat niet
+	Free: Pattern=dat
+	Constrained: 
+Turn ID=10| B | B : ja zeggen maar al al voorwerp zitten aan de bovenste kant van het heel dinge
+	Free: Pattern=zeggen maar, Pattern=het, Pattern=van, Pattern=de, Pattern=ja
+	Constrained: Pattern=maar
+Turn ID=11| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=12| B | B : en helemaal bovenaan Linksboven in de hoek van dat dinget zien je heel klein zo omhooggaan
+	Free: Pattern=dat, Pattern=de, Pattern=van, Pattern=zo
+	Constrained: 
+Turn ID=13| A | A : hebben het lijken het misschien ook op zo'n zo'n tafel of zo met die poot
+	Free: Pattern=met die, Pattern=zo'n, Pattern=poot, Pattern=het, Pattern=hebben, Pattern=zo, Pattern=misschien, Pattern=op, Pattern=ook
+	Constrained: Pattern=die
+Turn ID=14| B | B : ja maar dan in dan zien je maar twee poot
+	Free: Pattern=twee, Pattern=ja maar, Pattern=maar, Pattern=poot, Pattern=dan
+	Constrained: Pattern=ja, Pattern=maar
+Turn ID=15| A | A : twee oké
+	Free: Pattern=oké, Pattern=twee
+	Constrained: 
+Turn ID=16| A | A : ja oké dan zijn we op dezelfde Battlefieldpagina
+	Free: Pattern=dan, Pattern=oké, Pattern=ja, Pattern=op
+	Constrained: 
+Turn ID=17| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=18| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=19| A | A : zestien
+	Free: 
+	Constrained: 
+Turn ID=20| A | A : ja de de Battlefield AK47
+	Free: Pattern=Battlefield, Pattern=de, Pattern=ja, Pattern=AK47
+	Constrained: 
+Turn ID=21| B | B : P
+	Free: 
+	Constrained: 
+Turn ID=22| B | B : ik hebben die weer met die met die AK
+	Free: Pattern=met die, Pattern=hebben, Pattern=die, Pattern=ik, Pattern=weer
+	Constrained: Pattern=die
+Turn ID=23| A | A : waar zijn van mij ? hier
+	Free: Pattern=mij, Pattern=van
+	Constrained: 
+Turn ID=24| A | A : veertien
+	Free: 
+	Constrained: 
+Turn ID=25| A | A : de Battlefield
+	Free: Pattern=Battlefield, Pattern=de
+	Constrained: 
+Turn ID=26| A | A : AK47 Standaard
+	Free: Pattern=AK47
+	Constrained: 
+Turn ID=27| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=28| B | B : N
+	Free: 
+	Constrained: 
+Turn ID=29| A | A : weer veranderen
+	Free: Pattern=weer
+	Constrained: 
+Turn ID=30| B | B : die AK
+	Free: Pattern=die
+	Constrained: 
+Turn ID=31| B | B : de AK47
+	Free: Pattern=de, Pattern=AK47
+	Constrained: 
+Turn ID=32| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=33| A | A : tien
+	Free: 
+	Constrained: 
+Turn ID=34| A | A : die Battlefield
+	Free: Pattern=Battlefield, Pattern=die
+	Constrained: 
+Turn ID=35| A | A : pistool
+	Free: 
+	Constrained: 
+Turn ID=36| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=37| B | B : d
+	Free: 
+	Constrained: 

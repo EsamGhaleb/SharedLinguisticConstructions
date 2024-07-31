@@ -1,0 +1,139 @@
+A|0| A: _ok_ deze _hebben_ _zo'n_ soort _joystick_ achtig _ding_ _bovenop_ zitten 
+A|1| A: _zo'n_ beetje _zo'n_ ovaal _met_ _een_ soort _dat_ telescoopachtig _ding_ _met die_ klein blok _die_ steeds groot worden beetje rechts vooraan 
+B|2| B: _ja_ 
+A|3| A: _en dan_ _links_ vooraan _weer zo'n_ _joystick_ _die_ naar buiten opsteken _en _aan_ _de_ achterkant_ _zo'n_ soort worm _staaf_ 
+A|4| A: [ja] _ik_ hem _de_ heel tijd tijdens _die_ _ander_ test noemen alsof _hij_ _zo'n_ soort telescoopoog _hebben_ omdat _hij_ _aan de_ voorkant _zo'n_ 
+A|5| A: telescoopding _hebben_ je _hebben_ _hebben_ _dat_ plaat _met die_ _die een_ beetje op _zo'n_ robot lijken _die hebben_ _twee_ van _die_ _ding_ als _een_ soort oog _en_ deze 
+B|6| B: [ja] 
+B|7| B: [die] denken [ik] eerst 
+A|8| A: [ja] precies maar deze _hebben er één_ 
+B|9| B: o [die] 
+B|10| B: [die [hebben] er één] _ja [en_ dan] [hebben] [hij] [bovenop] [één] [staaf] [en] [zo'n] zelfde [staaf] [links] [en dan] achter zo _zo'n gek_ [ding] 
+A|11| A: [ja] 
+A|12| A: [ja] 
+A|13| A: [ja] 
+A|14| A: [ja] [ja] [zo'n gek] aanhangsel [ja] 
+B|15| B: [ok] _dat zijn_ [dan] 
+A|16| A: _dus_ het [zijn] [die] _met die_ _met_ [dat] _een_ _een telescoop_ [ding] [ja] 
+B|17| B: [ja] 
+B|18| B: _dat zijn_ [dan] E 
+A|19| A: [ok] 
+B|20| B: _dit zijn met die_ [telescoop] [met] [één] [ding] 
+B|21| B: [en dan] [dus] ook [aan de] bovenkant [weer zo'n] spriet [en aan] [ander] kant [zo'n] zelfde spriet [en] [de achterkant] _dat wormp_ 
+A|22| A: [ja en] [dat wormp] [aan [de] achterkant] _ja dat zijn_ elf 
+A|23| A: [ja] [dit zijn] [die] [met _die] een _telescoop_ _en_ één_ [zo'n] _joystick_ 
+A|24| A: [er] bovenuit [en dan] [één] link [en] [dat] raar [wormp] erachter [ja] 
+B|25| B: [en] [een] [wormp] 
+B|26| B: [ja dat zijn] voor mij J 
+B|27| B: _dit zijn met_ [één] _telescoop en die twee_ [joystick] [en één] sliertje [wormp] 
+A|28| A: [ja] [ja dat zijn] nummer negen 
+A|29| A: [dit zijn met _die] een [telescoop_ en die twee] penne [bovenop] [aan de] zijkant [en die] [dat] wormding [aan [de] achterkant] 
+B|30| B: [die een telescoop] 
+B|31| B: [dat zijn] voor mij B 
+B|32| B: [dit zijn met] [één] [telescoop] [die twee] [joystick] [en] [een] slier [wormp] 
+A|33| A: [dat zijn] vier 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : ok deze hebben zo'n soort joystick achtig ding bovenop zitten
+	Free: Pattern=bovenop, Pattern=zo'n, Pattern=ding, Pattern=joystick, Pattern=hebben, Pattern=ok
+	Constrained: 
+Turn ID=1| A | A : zo'n beetje zo'n ovaal met een soort dat telescoopachtig ding met die klein blok die steeds groot worden beetje rechts vooraan
+	Free: Pattern=zo'n, Pattern=ding, Pattern=een, Pattern=met, Pattern=die, Pattern=dat, Pattern=met die
+	Constrained: Pattern=die, Pattern=met
+Turn ID=2| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=3| A | A : en dan links vooraan weer zo'n joystick die naar buiten opsteken en aan de achterkant zo'n soort worm staaf
+	Free: Pattern=zo'n, Pattern=aan de, Pattern=die, Pattern=joystick, Pattern=en aan, Pattern=de achterkant, Pattern=staaf, Pattern=en dan, Pattern=weer zo'n, Pattern=links
+	Constrained: Pattern=dan, Pattern=de, Pattern=zo'n, Pattern=en
+Turn ID=4| A | A : ja ik hem de heel tijd tijdens die ander test noemen alsof hij zo'n soort telescoopoog hebben omdat hij aan de voorkant zo'n
+	Free: Pattern=zo'n, Pattern=aan de, Pattern=hebben, Pattern=hij, Pattern=die, Pattern=de, Pattern=ja, Pattern=ik, Pattern=ander
+	Constrained: Pattern=de
+Turn ID=5| A | A : telescoopding hebben je hebben hebben dat plaat met die die een beetje op zo'n robot lijken die hebben twee van die ding als een soort oog en deze
+	Free: Pattern=ding, Pattern=een, Pattern=die hebben, Pattern=hebben, Pattern=die, Pattern=die een, Pattern=en, Pattern=dat, Pattern=met die, Pattern=zo'n, Pattern=twee
+	Constrained: Pattern=een, Pattern=die, Pattern=hebben, Pattern=met
+Turn ID=6| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=7| B | B : die denken ik eerst
+	Free: Pattern=die, Pattern=ik
+	Constrained: 
+Turn ID=8| A | A : ja precies maar deze hebben er één
+	Free: Pattern=hebben er één, Pattern=ja
+	Constrained: Pattern=hebben, Pattern=er, Pattern=één
+Turn ID=9| B | B : o die
+	Free: Pattern=die
+	Constrained: 
+Turn ID=10| B | B : die hebben er één ja en dan hebben hij bovenop één staaf en zo'n zelfde staaf links en dan achter zo zo'n gek ding
+	Free: Pattern=bovenop, Pattern=zo'n, Pattern=ding, Pattern=zo'n gek, Pattern=hebben, Pattern=hij, Pattern=en, Pattern=hebben er één, Pattern=één, Pattern=ja en, Pattern=staaf, Pattern=en dan, Pattern=die hebben, Pattern=links
+	Constrained: Pattern=zo'n, Pattern=ja, Pattern=dan, Pattern=hebben, Pattern=die, Pattern=er, Pattern=en, Pattern=één
+Turn ID=11| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=12| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=13| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=14| A | A : ja ja zo'n gek aanhangsel ja
+	Free: Pattern=zo'n gek, Pattern=ja
+	Constrained: Pattern=zo'n
+Turn ID=15| B | B : ok dat zijn dan
+	Free: Pattern=dat zijn, Pattern=ok, Pattern=dan
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=16| A | A : dus het zijn die met die met dat een een telescoop ding ja
+	Free: Pattern=ding, Pattern=een, Pattern=met, Pattern=die, Pattern=dat, Pattern=met die, Pattern=dus, Pattern=ja, Pattern=zijn, Pattern=een telescoop
+	Constrained: Pattern=een, Pattern=die, Pattern=met, Pattern=telescoop
+Turn ID=17| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=18| B | B : dat zijn dan E
+	Free: Pattern=dat zijn, Pattern=dan
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=19| A | A : ok
+	Free: Pattern=ok
+	Constrained: 
+Turn ID=20| B | B : dit zijn met die telescoop met één ding
+	Free: Pattern=ding, Pattern=telescoop, Pattern=met, Pattern=één, Pattern=dit zijn met die
+	Constrained: Pattern=met die, Pattern=dit zijn met, Pattern=met, Pattern=die, Pattern=zijn, Pattern=dit zijn
+Turn ID=21| B | B : en dan dus ook aan de bovenkant weer zo'n spriet en aan ander kant zo'n zelfde spriet en de achterkant dat wormp
+	Free: Pattern=zo'n, Pattern=dus, Pattern=en dan, Pattern=aan de, Pattern=weer zo'n, Pattern=dat wormp, Pattern=ander, Pattern=en, Pattern=en aan, Pattern=de achterkant
+	Constrained: Pattern=dat, Pattern=zo'n, Pattern=de, Pattern=dan, Pattern=en, Pattern=wormp
+Turn ID=22| A | A : ja en dat wormp aan de achterkant ja dat zijn elf
+	Free: Pattern=aan de, Pattern=ja dat zijn, Pattern=dat wormp, Pattern=de achterkant, Pattern=ja en
+	Constrained: Pattern=en, Pattern=zijn, Pattern=wormp, Pattern=dat, Pattern=dat zijn, Pattern=de, Pattern=ja
+Turn ID=23| A | A : ja dit zijn die met die een telescoop en één zo'n joystick
+	Free: Pattern=en één, Pattern=met die, Pattern=zo'n, Pattern=ja, Pattern=telescoop en, Pattern=die een telescoop, Pattern=die, Pattern=joystick, Pattern=dit zijn
+	Constrained: Pattern=een, Pattern=telescoop, Pattern=met, Pattern=die, Pattern=die een, Pattern=en, Pattern=één, Pattern=zijn, Pattern=een telescoop
+Turn ID=24| A | A : er bovenuit en dan één link en dat raar wormp erachter ja
+	Free: Pattern=dat, Pattern=ja, Pattern=en dan, Pattern=er, Pattern=en, Pattern=één, Pattern=wormp
+	Constrained: Pattern=dan, Pattern=en
+Turn ID=25| B | B : en een wormp
+	Free: Pattern=een, Pattern=wormp, Pattern=en
+	Constrained: 
+Turn ID=26| B | B : ja dat zijn voor mij J
+	Free: Pattern=ja dat zijn
+	Constrained: Pattern=dat zijn, Pattern=zijn, Pattern=dat, Pattern=ja
+Turn ID=27| B | B : dit zijn met één telescoop en die twee joystick en één sliertje wormp
+	Free: Pattern=en één, Pattern=telescoop en die twee, Pattern=dit zijn met, Pattern=joystick, Pattern=één, Pattern=wormp
+	Constrained: Pattern=en die, Pattern=twee, Pattern=telescoop en, Pattern=die twee, Pattern=telescoop, Pattern=met, Pattern=die, Pattern=en, Pattern=zijn, Pattern=één, Pattern=dit zijn
+Turn ID=28| A | A : ja ja dat zijn nummer negen
+	Free: Pattern=ja dat zijn, Pattern=ja
+	Constrained: Pattern=dat zijn, Pattern=zijn, Pattern=dat, Pattern=ja
+Turn ID=29| A | A : dit zijn met die een telescoop en die twee penne bovenop aan de zijkant en die dat wormding aan de achterkant
+	Free: Pattern=en die, Pattern=telescoop en die twee, Pattern=aan de, Pattern=die een telescoop, Pattern=dit zijn met die, Pattern=de achterkant, Pattern=dat, Pattern=bovenop
+	Constrained: Pattern=en die, Pattern=met die, Pattern=twee, Pattern=de, Pattern=telescoop en, Pattern=die twee, Pattern=telescoop, Pattern=met, Pattern=die, Pattern=die een, Pattern=en, Pattern=dit zijn, Pattern=een, Pattern=dit zijn met, Pattern=zijn, Pattern=een telescoop
+Turn ID=30| B | B : die een telescoop
+	Free: Pattern=die een telescoop
+	Constrained: Pattern=een, Pattern=telescoop, Pattern=die, Pattern=die een, Pattern=een telescoop
+Turn ID=31| B | B : dat zijn voor mij B
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=32| B | B : dit zijn met één telescoop die twee joystick en een slier wormp
+	Free: Pattern=die twee, Pattern=telescoop, Pattern=joystick, Pattern=en, Pattern=een, Pattern=dit zijn met, Pattern=één, Pattern=wormp
+	Constrained: Pattern=twee, Pattern=met, Pattern=die, Pattern=zijn, Pattern=dit zijn
+Turn ID=33| A | A : dat zijn vier
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn, Pattern=dat

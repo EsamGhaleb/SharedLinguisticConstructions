@@ -1,0 +1,135 @@
+A|0| A: _ja_ _het_ _zijn_ _een_ beker _en dan aan de_ _ja_ voorkant beetje zijkant _zitten_ _dan_ _zo'n_ _vierkant_ wat _steeds_ 
+A|1| A: groot _worden_ naarmate _die_ verdergaan 
+A|2| A: _en_ _bovenop_ _zo'n_ _ja_ ovaal _pluim_ _en_ _aan de_ zijkant _ook en daarachter_ _zitten_ _nog_ één _ja_ _een_ _een_ _rond_ staaf 
+B|3| B: [ja] 
+B|4| B: [en] _dat_ [vierkant] ding [zitten] _aan de rechterkant_ toch 
+A|5| A: [ja] [ja] 
+B|6| B: oké 
+B|7| B: _dat zijn_ bij mij E 
+B|8| B: deze hebben [zo'n] [rond] _pluim aan de bovenkant_ 
+B|9| B: [en dan] dezelfde maar [dan] _links_ van [het] kop 
+B|10| B: [en dan] [daarachter] [een] soort van _staart_ [en dan aan de] rechtervoorkant [die] kubus [die] zo [steeds] _klein worden_ naar [het] kop toe 
+A|11| A: [ja] [ja] 
+A|12| A: [dat zijn] elf 
+A|13| A: [ja] _dit zijn die met_ [het] [het] krimpen [vierkant] [aan de rechterkant] 
+A|14| A: [de] [pluim aan de bovenkant] [en] [aan de] linkerkant [en] achter [dat] [rond] [staart] 
+B|15| B: [ja] 
+B|16| B: [ja] 
+B|17| B: [dat zijn] J 
+B|18| B: _dit zijn die met dat_ kubusje [die] _klein worden_ [aan de rechterkant] 
+B|19| B: [en dan] [bovenop] [ja] [pluim] kegelding [en] link [ook en daarachter] [nog] [een] [staart] 
+A|20| A: [ja] 
+A|21| A: [ja] [dat zijn] negen 
+A|22| A: [dit zijn die met dat] [aan de rechterkant] [dat] groot [klein worden] [vierkant] 
+A|23| A: [en] [die] twee pluiem _boven en_ [links] [en dan] [dat] ander flubber 
+B|24| B: [ja] 
+B|25| B: [ja] 
+B|26| B: [dat zijn] B 
+B|27| B: [dat [zijn] die met] [die] pluimpjes [boven en] link 
+B|28| B: [en dan] kubus [die] [klein worden] er rechts 
+A|29| A: [ja] 
+A|30| A: [ja] [en] [het] [staart] 
+B|31| B: [ja] 
+A|32| A: [dat zijn] vier 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : ja het zijn een beker en dan aan de ja voorkant beetje zijkant zitten dan zo'n vierkant wat steeds
+	Free: Pattern=zo'n, Pattern=ja, Pattern=dan, Pattern=een, Pattern=het, Pattern=steeds, Pattern=zitten, Pattern=en dan aan de, Pattern=zijn, Pattern=vierkant
+	Constrained: Pattern=de, Pattern=en dan, Pattern=aan de, Pattern=dan, Pattern=en
+Turn ID=1| A | A : groot worden naarmate die verdergaan
+	Free: Pattern=die, Pattern=worden
+	Constrained: 
+Turn ID=2| A | A : en bovenop zo'n ja ovaal pluim en aan de zijkant ook en daarachter zitten nog één ja een een rond staaf
+	Free: Pattern=bovenop, Pattern=nog, Pattern=zo'n, Pattern=aan de, Pattern=zitten, Pattern=en, Pattern=rond, Pattern=pluim, Pattern=ja, Pattern=een, Pattern=ook en daarachter
+	Constrained: Pattern=daarachter, Pattern=en, Pattern=de
+Turn ID=3| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=4| B | B : en dat vierkant ding zitten aan de rechterkant toch
+	Free: Pattern=dat, Pattern=en, Pattern=vierkant, Pattern=aan de rechterkant, Pattern=zitten
+	Constrained: Pattern=aan de, Pattern=de
+Turn ID=5| A | A : ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=6| B | B : oké
+	Free: 
+	Constrained: 
+Turn ID=7| B | B : dat zijn bij mij E
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=8| B | B : deze hebben zo'n rond pluim aan de bovenkant
+	Free: Pattern=pluim aan de bovenkant, Pattern=zo'n, Pattern=rond
+	Constrained: Pattern=pluim, Pattern=de, Pattern=aan de
+Turn ID=9| B | B : en dan dezelfde maar dan links van het kop
+	Free: Pattern=en dan, Pattern=links, Pattern=het, Pattern=dan
+	Constrained: Pattern=en, Pattern=dan
+Turn ID=10| B | B : en dan daarachter een soort van staart en dan aan de rechtervoorkant die kubus die zo steeds klein worden naar het kop toe
+	Free: Pattern=daarachter, Pattern=en dan, Pattern=een, Pattern=klein worden, Pattern=steeds, Pattern=die, Pattern=en dan aan de, Pattern=het, Pattern=staart
+	Constrained: Pattern=de, Pattern=en dan, Pattern=dan, Pattern=en, Pattern=aan de, Pattern=worden
+Turn ID=11| A | A : ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=12| A | A : dat zijn elf
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=13| A | A : ja dit zijn die met het het krimpen vierkant aan de rechterkant
+	Free: Pattern=ja, Pattern=het, Pattern=dit zijn die met, Pattern=aan de rechterkant, Pattern=vierkant
+	Constrained: Pattern=de, Pattern=aan de, Pattern=die, Pattern=zijn, Pattern=zijn die met
+Turn ID=14| A | A : de pluim aan de bovenkant en aan de linkerkant en achter dat rond staart
+	Free: Pattern=dat, Pattern=de, Pattern=aan de, Pattern=staart, Pattern=pluim aan de bovenkant, Pattern=en, Pattern=rond
+	Constrained: Pattern=pluim, Pattern=de, Pattern=aan de
+Turn ID=15| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=16| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=17| B | B : dat zijn J
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=18| B | B : dit zijn die met dat kubusje die klein worden aan de rechterkant
+	Free: Pattern=dit zijn die met dat, Pattern=aan de rechterkant, Pattern=klein worden, Pattern=die
+	Constrained: Pattern=dat, Pattern=de, Pattern=dit zijn die met, Pattern=die, Pattern=zijn, Pattern=zijn die met, Pattern=aan de, Pattern=worden
+Turn ID=19| B | B : en dan bovenop ja pluim kegelding en link ook en daarachter nog een staart
+	Free: Pattern=bovenop, Pattern=nog, Pattern=en dan, Pattern=staart, Pattern=en, Pattern=pluim, Pattern=ja, Pattern=een, Pattern=ook en daarachter
+	Constrained: Pattern=daarachter, Pattern=en, Pattern=dan
+Turn ID=20| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=21| A | A : ja dat zijn negen
+	Free: Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=22| A | A : dit zijn die met dat aan de rechterkant dat groot klein worden vierkant
+	Free: Pattern=dit zijn die met dat, Pattern=dat, Pattern=klein worden, Pattern=aan de rechterkant, Pattern=vierkant
+	Constrained: Pattern=dat, Pattern=de, Pattern=dit zijn die met, Pattern=die, Pattern=zijn, Pattern=zijn die met, Pattern=aan de, Pattern=worden
+Turn ID=23| A | A : en die twee pluiem boven en links en dan dat ander flubber
+	Free: Pattern=dat, Pattern=en dan, Pattern=links, Pattern=die, Pattern=boven en, Pattern=en
+	Constrained: Pattern=en, Pattern=dan
+Turn ID=24| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=25| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=26| B | B : dat zijn B
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=27| B | B : dat zijn die met die pluimpjes boven en link
+	Free: Pattern=zijn die met, Pattern=boven en, Pattern=dat zijn, Pattern=die
+	Constrained: Pattern=dat, Pattern=zijn, Pattern=die, Pattern=en
+Turn ID=28| B | B : en dan kubus die klein worden er rechts
+	Free: Pattern=en dan, Pattern=klein worden, Pattern=die
+	Constrained: Pattern=en, Pattern=worden, Pattern=dan
+Turn ID=29| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=30| A | A : ja en het staart
+	Free: Pattern=en, Pattern=ja, Pattern=het, Pattern=staart
+	Constrained: 
+Turn ID=31| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=32| A | A : dat zijn vier
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn, Pattern=dat

@@ -1,0 +1,103 @@
+B|0| B: _ja_ _dit_ doen _mij_ eigenlijk denken aan _een_ _man met_ _een_ _verrekijker_ en _een_ antenne _op_ _zijn_ hoofd 
+A|1| A: _o_ [ja] _ja ik_ vinden het vooral [een] _robot_ maar 
+B|2| B: [ja] kloppen [ja] ja*laughlaughlaugh*dat _zijn_ inderdaad _dat_ 
+A|3| A: [op] zich verrenkijk [ja] _bij mij_ _zijn dat_ twee 
+B|4| B: _ok_ [bij mij] B 
+A|5| A: [ok] 
+A|6| A: _dit zijn de_ [man _met] de verrekijker_ _of_ _de robot_ 
+B|7| B: [o] die die even kijken waar die staan hier G 
+A|8| A: [ja] dertien 
+B|9| B: [ok] 
+B|10| B: [o] [dit [zijn] dat] [robot] dinge [met] [verrekijker] en die antenne 
+A|11| A: [o] [ja] [dat] [zijn] negen [bij mij] 
+B|12| B: [ja] 
+B|13| B: [ok] [bij mij] B 
+A|14| A: _dit zijn de robot_ [verrekijker] 
+B|15| B: [o] die D 
+A|16| A: zeven 
+B|17| B: [ja] 
+B|18| B: [o] [dit zijn de robot] [met de verrekijker] en dan antenne 
+A|19| A: [ja] [zijn] één [bij mij] 
+B|20| B: [ok] [bij mij] P 
+A|21| A: [dit zijn de robot] [verrekijker] 
+B|22| B: [o] hier B 
+B|23| B: [ja] welk [ja ik] weten niet [of] [dat] cijfer [ok] 
+A|24| A: [ja] negen [ja] 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : ja dit doen mij eigenlijk denken aan een man met een verrekijker en een antenne op zijn hoofd
+	Free: Pattern=ja, Pattern=op, Pattern=een, Pattern=dit, Pattern=mij, Pattern=verrekijker, Pattern=man met, Pattern=zijn
+	Constrained: Pattern=met
+Turn ID=1| A | A : o ja ja ik vinden het vooral een robot maar
+	Free: Pattern=ja, Pattern=een, Pattern=ja ik, Pattern=robot, Pattern=o
+	Constrained: Pattern=ja
+Turn ID=2| B | B : ja kloppen ja ja*laughlaughlaugh*dat zijn inderdaad dat
+	Free: Pattern=dat, Pattern=zijn, Pattern=ja
+	Constrained: 
+Turn ID=3| A | A : op zich verrenkijk ja bij mij zijn dat twee
+	Free: Pattern=zijn dat, Pattern=bij mij, Pattern=op, Pattern=ja
+	Constrained: Pattern=dat, Pattern=zijn, Pattern=mij
+Turn ID=4| B | B : ok bij mij B
+	Free: Pattern=bij mij, Pattern=ok
+	Constrained: Pattern=mij
+Turn ID=5| A | A : ok
+	Free: Pattern=ok
+	Constrained: 
+Turn ID=6| A | A : dit zijn de man met de verrekijker of de robot
+	Free: Pattern=of, Pattern=met de verrekijker, Pattern=man met, Pattern=dit zijn de, Pattern=de robot
+	Constrained: Pattern=dit, Pattern=met, Pattern=verrekijker, Pattern=dit zijn, Pattern=zijn, Pattern=robot
+Turn ID=7| B | B : o die die even kijken waar die staan hier G
+	Free: Pattern=o
+	Constrained: 
+Turn ID=8| A | A : ja dertien
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=9| B | B : ok
+	Free: Pattern=ok
+	Constrained: 
+Turn ID=10| B | B : o dit zijn dat robot dinge met verrekijker en die antenne
+	Free: Pattern=met, Pattern=verrekijker, Pattern=robot, Pattern=dit zijn, Pattern=zijn dat, Pattern=o
+	Constrained: Pattern=dat, Pattern=zijn, Pattern=dit
+Turn ID=11| A | A : o ja dat zijn negen bij mij
+	Free: Pattern=dat, Pattern=ja, Pattern=zijn, Pattern=bij mij, Pattern=o
+	Constrained: Pattern=mij
+Turn ID=12| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=13| B | B : ok bij mij B
+	Free: Pattern=bij mij, Pattern=ok
+	Constrained: Pattern=mij
+Turn ID=14| A | A : dit zijn de robot verrekijker
+	Free: Pattern=dit zijn de robot, Pattern=verrekijker
+	Constrained: Pattern=dit, Pattern=de robot, Pattern=dit zijn, Pattern=zijn, Pattern=dit zijn de, Pattern=robot
+Turn ID=15| B | B : o die D
+	Free: Pattern=o
+	Constrained: 
+Turn ID=16| A | A : zeven
+	Free: 
+	Constrained: 
+Turn ID=17| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=18| B | B : o dit zijn de robot met de verrekijker en dan antenne
+	Free: Pattern=dit zijn de robot, Pattern=met de verrekijker, Pattern=o
+	Constrained: Pattern=dit, Pattern=met, Pattern=verrekijker, Pattern=de robot, Pattern=dit zijn, Pattern=zijn, Pattern=dit zijn de, Pattern=robot
+Turn ID=19| A | A : ja zijn één bij mij
+	Free: Pattern=bij mij, Pattern=zijn, Pattern=ja
+	Constrained: Pattern=mij
+Turn ID=20| B | B : ok bij mij P
+	Free: Pattern=bij mij, Pattern=ok
+	Constrained: Pattern=mij
+Turn ID=21| A | A : dit zijn de robot verrekijker
+	Free: Pattern=dit zijn de robot, Pattern=verrekijker
+	Constrained: Pattern=dit, Pattern=de robot, Pattern=dit zijn, Pattern=zijn, Pattern=dit zijn de, Pattern=robot
+Turn ID=22| B | B : o hier B
+	Free: Pattern=o
+	Constrained: 
+Turn ID=23| B | B : ja welk ja ik weten niet of dat cijfer ok
+	Free: Pattern=dat, Pattern=of, Pattern=ja, Pattern=ok, Pattern=ja ik
+	Constrained: Pattern=ja
+Turn ID=24| A | A : ja negen ja
+	Free: Pattern=ja
+	Constrained: 

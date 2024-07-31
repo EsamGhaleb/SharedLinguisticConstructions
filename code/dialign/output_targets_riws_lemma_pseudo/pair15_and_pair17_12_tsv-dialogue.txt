@@ -1,0 +1,103 @@
+B|0| B: bijzetting _ja_ 
+B|1| B: _ja_ 
+B|2| B: k 
+B|3| B: deze hebben _dat_ bijzettafel _soort_ _van_ _en_ _die_ uitsteeksel _met_ _die_ _dat_ ding wat omhoog gaan 
+A|4| A: _even kijken_ dit _zijn_ _de_ kopvorm [met] _aan de_ linkerkant zitten één [van] [soort] balk 
+A|5| A: [en] _het_ lijken _dan_ alsof daar een heel groot spijker in _zijn_ slaan 
+A|6| A: dus een beetje een l-vorm _aan de_ linkerkant 
+A|7| A: zullen we zeggen 
+A|8| A: [ja] 
+A|9| A: _aan de_ rechterkant [ja] 
+B|10| B: [ja] 
+B|11| B: [even kijken] _waar_ _die_ blijven [zijn] [ja] g 
+A|12| A: [ja] 
+A|13| A: ik [kijken] ook al want _het_ balk 
+A|14| A: [die] [met] _het_ schotelt _aan de_ voorkant 
+A|15| A: [ja] 
+A|16| A: [dat] [zijn] twaalf 
+B|17| B: deze hebben [het] bijzettafelt eraan _en dan_ [aan de] ander kant [dat] ding wat eruit komen 
+B|18| B: l 
+A|19| A: [even kijken] dit [zijn] [de] [het] kop [met] [de] [de] staaf [aan de] zijkant [waar] [de] spijker inslaan [zijn] 
+A|20| A: [met] [het] schotelt [aan de] rechterkant [ja] 
+B|21| B: deze hebben [het] bijzettafelt 
+A|22| A: [ja] twaalf 
+A|23| A: dit [zijn] [die] [met] [het] schotelt [aan de] rechterkant [en dan] [de] balk [aan de] linkerkant [met] spijker 
+A|24| A: [ja] vier 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : bijzetting ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=1| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=2| B | B : k
+	Free: 
+	Constrained: 
+Turn ID=3| B | B : deze hebben dat bijzettafel soort van en die uitsteeksel met die dat ding wat omhoog gaan
+	Free: Pattern=dat, Pattern=soort, Pattern=met, Pattern=die, Pattern=van, Pattern=en
+	Constrained: 
+Turn ID=4| A | A : even kijken dit zijn de kopvorm met aan de linkerkant zitten één van soort balk
+	Free: Pattern=soort, Pattern=de, Pattern=aan de, Pattern=met, Pattern=even kijken, Pattern=van, Pattern=zijn
+	Constrained: Pattern=kijken, Pattern=de
+Turn ID=5| A | A : en het lijken dan alsof daar een heel groot spijker in zijn slaan
+	Free: Pattern=dan, Pattern=en, Pattern=zijn, Pattern=het
+	Constrained: 
+Turn ID=6| A | A : dus een beetje een l-vorm aan de linkerkant
+	Free: Pattern=aan de
+	Constrained: Pattern=de
+Turn ID=7| A | A : zullen we zeggen
+	Free: 
+	Constrained: 
+Turn ID=8| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=9| A | A : aan de rechterkant ja
+	Free: Pattern=aan de, Pattern=ja
+	Constrained: Pattern=de
+Turn ID=10| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=11| B | B : even kijken waar die blijven zijn ja g
+	Free: Pattern=ja, Pattern=waar, Pattern=die, Pattern=even kijken, Pattern=zijn
+	Constrained: Pattern=kijken
+Turn ID=12| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=13| A | A : ik kijken ook al want het balk
+	Free: Pattern=kijken, Pattern=het
+	Constrained: 
+Turn ID=14| A | A : die met het schotelt aan de voorkant
+	Free: Pattern=aan de, Pattern=met, Pattern=die, Pattern=het
+	Constrained: Pattern=de
+Turn ID=15| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=16| A | A : dat zijn twaalf
+	Free: Pattern=dat, Pattern=zijn
+	Constrained: 
+Turn ID=17| B | B : deze hebben het bijzettafelt eraan en dan aan de ander kant dat ding wat eruit komen
+	Free: Pattern=en dan, Pattern=aan de, Pattern=dat, Pattern=het
+	Constrained: Pattern=dan, Pattern=en, Pattern=de
+Turn ID=18| B | B : l
+	Free: 
+	Constrained: 
+Turn ID=19| A | A : even kijken dit zijn de het kop met de de staaf aan de zijkant waar de spijker inslaan zijn
+	Free: Pattern=de, Pattern=waar, Pattern=aan de, Pattern=het, Pattern=met, Pattern=even kijken, Pattern=zijn
+	Constrained: Pattern=kijken, Pattern=de
+Turn ID=20| A | A : met het schotelt aan de rechterkant ja
+	Free: Pattern=aan de, Pattern=ja, Pattern=met, Pattern=het
+	Constrained: Pattern=de
+Turn ID=21| B | B : deze hebben het bijzettafelt
+	Free: Pattern=het
+	Constrained: 
+Turn ID=22| A | A : ja twaalf
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=23| A | A : dit zijn die met het schotelt aan de rechterkant en dan de balk aan de linkerkant met spijker
+	Free: Pattern=de, Pattern=en dan, Pattern=aan de, Pattern=het, Pattern=met, Pattern=die, Pattern=zijn
+	Constrained: Pattern=dan, Pattern=en, Pattern=de
+Turn ID=24| A | A : ja vier
+	Free: Pattern=ja
+	Constrained: 

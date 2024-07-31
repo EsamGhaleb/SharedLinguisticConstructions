@@ -1,0 +1,115 @@
+B|0| B: deze _hebben_ eigenlijk ook _een_ _soort_ plateau om zich heen _maar_ _dat_ kunnen je niet heel goed zien tenminste je kunnen niet _echt_ _van_ bovenop _er_ op op opkijken 
+B|1| B: _er_ liggen _dan_ ook _een_ _soort_ _bak_ op _twee poot_ _die_ uitsteken _en_ achterop _hebben_ je nog _zo'n_ _zo'n_ krul ding bovenop 
+A|2| A: [een] [zo'n] [bak] 
+A|3| A: _ja dan_ weten ik 
+A|4| A: _dan zijn_ het bij mij nummer 
+A|5| A: [echt] [zo'n] [soort] dienblaad _of zo_ ervoor _met_ _met_ [zo'n] [bak] erop _of zo_ 
+A|6| A: oké _dat zijn_ bij mij nummer zestien 
+B|7| B: _en dat bak_ [dat] lopen lopen af 
+B|8| B: _die_ _poot_ [of zo] 
+B|9| B: [ja [dan] zijn] [dat] P 
+A|10| A: ik [hebben] [er] nu één _met dat_ blad ervoor _met [dat_ bak] erop _zeggen maar_ 
+A|11| A: [dat] [soort] vierkant [bak] 
+A|12| A: [ja] _die soort_ tafel ervoor 
+B|13| B: dit [zijn] [zeggen maar] _weer_ _die een met dat_ plateau [dat] redelijk bovenin zitten _die twee_ dinget _die er_ onderuit steken _en_ [die soort] [bak] _die er_ op staat _en dan_ [hebben] je achterop nog [zo'n] krullen aanhangsel 
+A|14| A: _ja dat_ [dat] tafel _met [die_ [twee] poot] [zeggen maar] [en dat] komen _dinge_ 
+A|15| A: [ja] 
+A|16| A: _dat zijn_ bij mij nummer veertien 
+B|17| B: [zo'n] slurf [ja [dat] zijn] [dan] _de_ N _van_ Nico 
+B|18| B: dit [zijn] _weer_ degeen [met dat] plateau [met die] [poot] [en] waar [die] [bak] op staat [en] [die] slurf [of] [dat] [dinge] [dat] staart [of zo] [dat] _aan de_ achterkant 
+A|19| A: ik [hebben] nu [die een met dat] tafel ervoor [en dat bak] erop 
+A|20| A: [en] bij mij staan [die er] [een] beetje link [van] 
+B|21| B: [ja] [en dat] arm [dinge] nog _aan de_ achterkant 
+B|22| B: [ja [dan] zijn] [dat] D 
+A|23| A: [weer] [een] nieuw 
+A|24| A: [ja] 
+A|25| A: [dat zijn] nummer tien bij mij 
+A|26| A: ik [hebben] nu [die een met dat] tafel bij mij staan [die een] beetje [aan de] rechterkant 
+A|27| A: [en dan] [dat bak] erop [zeggen maar] 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : deze hebben eigenlijk ook een soort plateau om zich heen maar dat kunnen je niet heel goed zien tenminste je kunnen niet echt van bovenop er op op opkijken
+	Free: Pattern=dat, Pattern=soort, Pattern=een, Pattern=hebben, Pattern=echt, Pattern=er, Pattern=van, Pattern=maar
+	Constrained: 
+Turn ID=1| B | B : er liggen dan ook een soort bak op twee poot die uitsteken en achterop hebben je nog zo'n zo'n krul ding bovenop
+	Free: Pattern=soort, Pattern=zo'n, Pattern=dan, Pattern=een, Pattern=bak, Pattern=hebben, Pattern=twee poot, Pattern=die, Pattern=er, Pattern=en
+	Constrained: Pattern=poot
+Turn ID=2| A | A : een zo'n bak
+	Free: Pattern=een, Pattern=zo'n, Pattern=bak
+	Constrained: 
+Turn ID=3| A | A : ja dan weten ik
+	Free: Pattern=ja dan
+	Constrained: Pattern=dan, Pattern=ja
+Turn ID=4| A | A : dan zijn het bij mij nummer
+	Free: Pattern=dan zijn
+	Constrained: Pattern=dan, Pattern=zijn
+Turn ID=5| A | A : echt zo'n soort dienblaad of zo ervoor met met zo'n bak erop of zo
+	Free: Pattern=soort, Pattern=bak, Pattern=met, Pattern=echt, Pattern=zo'n, Pattern=of zo
+	Constrained: Pattern=of
+Turn ID=6| A | A : oké dat zijn bij mij nummer zestien
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=7| B | B : en dat bak dat lopen lopen af
+	Free: Pattern=en dat bak, Pattern=dat
+	Constrained: Pattern=dat, Pattern=bak, Pattern=dat bak, Pattern=en, Pattern=en dat
+Turn ID=8| B | B : die poot of zo
+	Free: Pattern=of zo, Pattern=poot, Pattern=die
+	Constrained: Pattern=of
+Turn ID=9| B | B : ja dan zijn dat P
+	Free: Pattern=ja dan, Pattern=dan zijn, Pattern=dat
+	Constrained: Pattern=dan, Pattern=zijn, Pattern=ja
+Turn ID=10| A | A : ik hebben er nu één met dat blad ervoor met dat bak erop zeggen maar
+	Free: Pattern=zeggen maar, Pattern=hebben, Pattern=met dat, Pattern=dat bak, Pattern=er
+	Constrained: Pattern=met, Pattern=maar, Pattern=bak, Pattern=dat
+Turn ID=11| A | A : dat soort vierkant bak
+	Free: Pattern=soort, Pattern=bak, Pattern=dat
+	Constrained: 
+Turn ID=12| A | A : ja die soort tafel ervoor
+	Free: Pattern=die soort, Pattern=ja
+	Constrained: Pattern=soort, Pattern=die
+Turn ID=13| B | B : dit zijn zeggen maar weer die een met dat plateau dat redelijk bovenin zitten die twee dinget die er onderuit steken en die soort bak die er op staat en dan hebben je achterop nog zo'n krullen aanhangsel
+	Free: Pattern=dat, Pattern=die er, Pattern=zo'n, Pattern=en dan, Pattern=zeggen maar, Pattern=hebben, Pattern=die soort, Pattern=en, Pattern=zijn, Pattern=bak, Pattern=die twee, Pattern=weer, Pattern=die een met dat
+	Constrained: Pattern=dat, Pattern=soort, Pattern=dan, Pattern=een, Pattern=met dat, Pattern=met, Pattern=die, Pattern=die een, Pattern=er, Pattern=en, Pattern=maar
+Turn ID=14| A | A : ja dat dat tafel met die twee poot zeggen maar en dat komen dinge
+	Free: Pattern=zeggen maar, Pattern=die twee, Pattern=twee poot, Pattern=dinge, Pattern=ja dat, Pattern=en dat, Pattern=dat, Pattern=met die
+	Constrained: Pattern=dat, Pattern=ja, Pattern=poot, Pattern=met, Pattern=die, Pattern=en, Pattern=maar
+Turn ID=15| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=16| A | A : dat zijn bij mij nummer veertien
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=17| B | B : zo'n slurf ja dat zijn dan de N van Nico
+	Free: Pattern=dat zijn, Pattern=zo'n, Pattern=de, Pattern=dan, Pattern=van, Pattern=ja dat
+	Constrained: Pattern=zijn, Pattern=ja, Pattern=dat
+Turn ID=18| B | B : dit zijn weer degeen met dat plateau met die poot en waar die bak op staat en die slurf of dat dinge dat staart of zo dat aan de achterkant
+	Free: Pattern=of, Pattern=of zo, Pattern=aan de, Pattern=poot, Pattern=bak, Pattern=met dat, Pattern=en, Pattern=zijn, Pattern=weer, Pattern=dat, Pattern=met die, Pattern=die, Pattern=dinge
+	Constrained: Pattern=dat, Pattern=of, Pattern=de, Pattern=met, Pattern=die
+Turn ID=19| A | A : ik hebben nu die een met dat tafel ervoor en dat bak erop
+	Free: Pattern=die een met dat, Pattern=en dat bak, Pattern=hebben
+	Constrained: Pattern=dat, Pattern=een, Pattern=bak, Pattern=met dat, Pattern=die, Pattern=die een, Pattern=en, Pattern=en dat, Pattern=dat bak, Pattern=met
+Turn ID=20| A | A : en bij mij staan die er een beetje link van
+	Free: Pattern=die er, Pattern=een, Pattern=en, Pattern=van
+	Constrained: Pattern=er, Pattern=die
+Turn ID=21| B | B : ja en dat arm dinge nog aan de achterkant
+	Free: Pattern=aan de, Pattern=en dat, Pattern=dinge, Pattern=ja
+	Constrained: Pattern=de, Pattern=en, Pattern=dat
+Turn ID=22| B | B : ja dan zijn dat D
+	Free: Pattern=ja dan, Pattern=dan zijn, Pattern=dat
+	Constrained: Pattern=dan, Pattern=zijn, Pattern=ja
+Turn ID=23| A | A : weer een nieuw
+	Free: Pattern=weer, Pattern=een
+	Constrained: 
+Turn ID=24| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=25| A | A : dat zijn nummer tien bij mij
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=26| A | A : ik hebben nu die een met dat tafel bij mij staan die een beetje aan de rechterkant
+	Free: Pattern=die een met dat, Pattern=die een, Pattern=aan de, Pattern=hebben
+	Constrained: Pattern=dat, Pattern=de, Pattern=een, Pattern=met dat, Pattern=met, Pattern=die, Pattern=die een
+Turn ID=27| A | A : en dan dat bak erop zeggen maar
+	Free: Pattern=zeggen maar, Pattern=dat bak, Pattern=en dan
+	Constrained: Pattern=dat, Pattern=dan, Pattern=bak, Pattern=en, Pattern=maar

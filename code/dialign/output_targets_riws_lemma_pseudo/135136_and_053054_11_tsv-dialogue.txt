@@ -1,0 +1,139 @@
+A|0| A: wachten even hoor hij _hebben_ _een bol_ _bovenop_ 
+A|1| A: niet _bovenop_ 
+A|2| A: _en_ hij _hebben_ niet _de_ staaf erdoor _en_ hij _hebben_ _twee_ van _die_ dinget boven 
+A|3| A: _en nog_ één _aan de_ zijkant 
+A|4| A: oké dan _zijn_ _het_ nummer veertien 
+B|5| B: _deze hebben_ drie uitsteeksel [en] [aan de] voorkant [een bol] 
+B|6| B: [de] links [zijn] [een] driehoek [en] [de] bovenste [een] vierkant [en] [de] ander [een] beetje [een] gek vorm 
+B|7| B: _ja_ 
+B|8| B: [die] _ja_ 
+A|9| A: [deze hebben] boven _twee_ verschillend [een] _rechthoek_ _en een_ soort bowlingkegel 
+A|10| A: [en] hij [hebben] [een] groot dik _bol aan de rechterkant_ 
+B|11| B: _ja_ 
+B|12| B: _dat zijn bij mij_ N 
+A|13| A: _met_ [die] [bol] op [de] zijkant [en] [die] _twee_ dinget boven 
+A|14| A: oké [dat zijn bij mij] negen 
+B|15| B: [deze hebben] drie uitsteeksel 
+B|16| B: [en een] bolle [aan de] voorkant [een] vierkan _bovenop en_ link driehoek [en] [het] ruit [met] [een] bobbel eraan 
+A|17| A: [deze] [zijn] weer _met dat_ [die] _rechthoek_ [en] [die] soort kegel [bovenop en] dan [die] heel dik _bol aan de rechterkant_ 
+A|18| A: [ja] [die] _twee_ dinget [zijn] niet hetzelfde 
+A|19| A: oké dan [zijn] [het] [bij mij] nummer vijf 
+A|20| A: [deze hebben] [die] _twee_ dinget bovenaan 
+A|21| A: [die] kegel [en] [dat] [die] _rechthoek_ [en] [die] groot _bol aan de rechterkant_ 
+B|22| B: [ja] 
+B|23| B: [ja] 
+B|24| B: [dat zijn bij mij] G 
+B|25| B: dit [zijn] [met dat] driehoekje [aan de] linkerkant [en nog] [twee] ding [bovenop en] [de] [bol aan de rechterkant] 
+B|26| B: er zitten [een] plat [rechthoek] [bovenop en] [het] ruit [met] iets eraan [aan de] bovenkant 
+B|27| B: nee 
+B|28| B: [aan de] linkerkant [zijn] [een] uitstekend driehoek 
+B|29| B: [die] zo [ja] 
+B|30| B: [en] [aan de rechterkant] [een bol] 
+B|31| B: [ja] 
+B|32| B: [ja] 
+B|33| B: [dat zijn bij mij] J 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : wachten even hoor hij hebben een bol bovenop
+	Free: Pattern=een bol, Pattern=bovenop, Pattern=hebben
+	Constrained: Pattern=een, Pattern=bol
+Turn ID=1| A | A : niet bovenop
+	Free: Pattern=bovenop
+	Constrained: 
+Turn ID=2| A | A : en hij hebben niet de staaf erdoor en hij hebben twee van die dinget boven
+	Free: Pattern=twee, Pattern=de, Pattern=hebben, Pattern=die, Pattern=en
+	Constrained: 
+Turn ID=3| A | A : en nog één aan de zijkant
+	Free: Pattern=en nog, Pattern=aan de
+	Constrained: Pattern=de, Pattern=en
+Turn ID=4| A | A : oké dan zijn het nummer veertien
+	Free: Pattern=het, Pattern=zijn
+	Constrained: 
+Turn ID=5| B | B : deze hebben drie uitsteeksel en aan de voorkant een bol
+	Free: Pattern=deze hebben, Pattern=aan de, Pattern=een bol, Pattern=en
+	Constrained: Pattern=de, Pattern=bol, Pattern=een, Pattern=hebben, Pattern=deze
+Turn ID=6| B | B : de links zijn een driehoek en de bovenste een vierkant en de ander een beetje een gek vorm
+	Free: Pattern=de, Pattern=een, Pattern=zijn, Pattern=en
+	Constrained: 
+Turn ID=7| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=8| B | B : die ja
+	Free: Pattern=die, Pattern=ja
+	Constrained: 
+Turn ID=9| A | A : deze hebben boven twee verschillend een rechthoek en een soort bowlingkegel
+	Free: Pattern=een, Pattern=deze hebben, Pattern=en een, Pattern=rechthoek, Pattern=twee
+	Constrained: Pattern=hebben, Pattern=een, Pattern=deze, Pattern=en
+Turn ID=10| A | A : en hij hebben een groot dik bol aan de rechterkant
+	Free: Pattern=bol aan de rechterkant, Pattern=hebben, Pattern=een, Pattern=en
+	Constrained: Pattern=bol, Pattern=de, Pattern=aan de rechterkant, Pattern=aan de
+Turn ID=11| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=12| B | B : dat zijn bij mij N
+	Free: Pattern=dat zijn bij mij
+	Constrained: Pattern=dat, Pattern=bij mij, Pattern=zijn
+Turn ID=13| A | A : met die bol op de zijkant en die twee dinget boven
+	Free: Pattern=twee, Pattern=de, Pattern=bol, Pattern=met, Pattern=die, Pattern=en
+	Constrained: 
+Turn ID=14| A | A : oké dat zijn bij mij negen
+	Free: Pattern=dat zijn bij mij
+	Constrained: Pattern=dat, Pattern=bij mij, Pattern=zijn
+Turn ID=15| B | B : deze hebben drie uitsteeksel
+	Free: Pattern=deze hebben
+	Constrained: Pattern=hebben, Pattern=deze
+Turn ID=16| B | B : en een bolle aan de voorkant een vierkan bovenop en link driehoek en het ruit met een bobbel eraan
+	Free: Pattern=aan de, Pattern=een, Pattern=met, Pattern=en, Pattern=en een, Pattern=het, Pattern=bovenop en
+	Constrained: Pattern=bovenop, Pattern=de, Pattern=een, Pattern=en
+Turn ID=17| A | A : deze zijn weer met dat die rechthoek en die soort kegel bovenop en dan die heel dik bol aan de rechterkant
+	Free: Pattern=rechthoek, Pattern=bovenop en, Pattern=met dat, Pattern=die, Pattern=en, Pattern=bol aan de rechterkant, Pattern=zijn, Pattern=deze
+	Constrained: Pattern=de, Pattern=met, Pattern=aan de rechterkant, Pattern=en, Pattern=dat, Pattern=bovenop, Pattern=bol, Pattern=aan de
+Turn ID=18| A | A : ja die twee dinget zijn niet hetzelfde
+	Free: Pattern=die, Pattern=zijn, Pattern=twee, Pattern=ja
+	Constrained: 
+Turn ID=19| A | A : oké dan zijn het bij mij nummer vijf
+	Free: Pattern=bij mij, Pattern=het, Pattern=zijn
+	Constrained: 
+Turn ID=20| A | A : deze hebben die twee dinget bovenaan
+	Free: Pattern=deze hebben, Pattern=die, Pattern=twee
+	Constrained: Pattern=hebben, Pattern=deze
+Turn ID=21| A | A : die kegel en dat die rechthoek en die groot bol aan de rechterkant
+	Free: Pattern=dat, Pattern=rechthoek, Pattern=die, Pattern=en, Pattern=bol aan de rechterkant
+	Constrained: Pattern=bol, Pattern=de, Pattern=aan de rechterkant, Pattern=aan de
+Turn ID=22| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=23| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=24| B | B : dat zijn bij mij G
+	Free: Pattern=dat zijn bij mij
+	Constrained: Pattern=dat, Pattern=bij mij, Pattern=zijn
+Turn ID=25| B | B : dit zijn met dat driehoekje aan de linkerkant en nog twee ding bovenop en de bol aan de rechterkant
+	Free: Pattern=twee, Pattern=de, Pattern=aan de, Pattern=bovenop en, Pattern=met dat, Pattern=bol aan de rechterkant, Pattern=zijn, Pattern=en nog
+	Constrained: Pattern=de, Pattern=met, Pattern=aan de rechterkant, Pattern=en, Pattern=dat, Pattern=bovenop, Pattern=bol, Pattern=aan de
+Turn ID=26| B | B : er zitten een plat rechthoek bovenop en het ruit met iets eraan aan de bovenkant
+	Free: Pattern=rechthoek, Pattern=aan de, Pattern=een, Pattern=met, Pattern=het, Pattern=bovenop en
+	Constrained: Pattern=bovenop, Pattern=de, Pattern=en
+Turn ID=27| B | B : nee
+	Free: 
+	Constrained: 
+Turn ID=28| B | B : aan de linkerkant zijn een uitstekend driehoek
+	Free: Pattern=aan de, Pattern=een, Pattern=zijn
+	Constrained: Pattern=de
+Turn ID=29| B | B : die zo ja
+	Free: Pattern=die, Pattern=ja
+	Constrained: 
+Turn ID=30| B | B : en aan de rechterkant een bol
+	Free: Pattern=aan de rechterkant, Pattern=een bol, Pattern=en
+	Constrained: Pattern=bol, Pattern=een, Pattern=de, Pattern=aan de
+Turn ID=31| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=32| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=33| B | B : dat zijn bij mij J
+	Free: Pattern=dat zijn bij mij
+	Constrained: Pattern=dat, Pattern=bij mij, Pattern=zijn

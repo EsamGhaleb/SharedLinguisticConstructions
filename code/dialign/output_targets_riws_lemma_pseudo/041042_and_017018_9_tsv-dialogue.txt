@@ -1,0 +1,171 @@
+A|0| A: _ik_ denken _dat_ _jij_ _het_ vierkant _hebben_ 
+A|1| A: _ik_ willen zeggen _ik hebben_ er geen 
+A|2| A: _een_ tuu 
+A|3| A: _ja_ _ik hebben het_ omschrijven als _een_ pinokkio 
+A|4| A: zien _het_ er _voor_ jou zo ook uit 
+A|5| A: _ja_ 
+A|6| A: _ja_ _dat zijn_ _voor mij_ nummer dertien 
+A|7| A: _dus_ _dan_ _ja_ _dan_ zeggen _ik_ dertien _en_ _dan_ druk _ik_ _op_ geel 
+B|8| B: oké 
+B|9| B: [ik hebben het] laat zin _nog_ niet lezen 
+B|10| B: toen gaan _die_ al ver [dus] we mogen [dus] praten 
+B|11| B: nee 
+B|12| B: nee ver [zijn] [het] duidelijk 
+B|13| B: oké [ik hebben] [dus] [het] rood vierkantje 
+B|14| B: [ja] 
+B|15| B: [dus] [ik] moeten [dan] [dus] nu _aan_ je uitleggen waar wat [het] figuur [zijn] [en] [jij] gaan raden 
+B|16| B: even kijken [het] [hebben] [een] [een] _rond_ _aan de achterkant_ je [hebben] natuurlijk [het] lijken allemaal [op] kop [en] [het] [hebben] [een] _rond_ _aan de achterkant_ [en] [een] 
+B|17| B: steel _aan de_ rechterkant _die_ _de_ ver boven uitsteken 
+B|18| B: [ja] [ja] om [het] helemaal af te losmaken _aan de_ linkerkant [een] soort handvat [en] _aan de_ onderkant [een] soort van voetje waar _die_ [op] staan 
+B|19| B: [ja] 
+B|20| B: [ja] 
+B|21| B: [dat zijn] [dus] O [voor mij] 
+A|22| A: _dit zijn weer_ [dat] Pinokkiogezicht 
+A|23| A: [dus] _met_ [die] lang neus [rond] schijf [aan de] zijkant achterin 
+A|24| A: [en] [dan] [nog] [een] pluk omhoog 
+B|25| B: even kijken [dit zijn] wederom [het] figuur [met] [het] [rond] 
+B|26| B: _aan de achterkant_ [en] [het] lepel [dat] [aan de] bovenkant uitsteken [met] [het] voe eronder 
+A|27| A: [ja] 
+A|28| A: [die] Ronde schijf [ja] 
+A|29| A: [en] [dan] [nog] [die] [dat] pluk voorop 
+A|30| A: [dat zijn] achten bij [mij] 
+B|31| B: soort voe 
+B|32| B: [dat zijn] C [voor mij] 
+B|33| B: [dit zijn weer] [met] [dat] [rond] plaat _aan de achterkant_ [en] [het] voe [met] [het] lepel [dat] [aan de] bovenkant uitsteken 
+A|34| A: [dit zijn] pinokkio 
+A|35| A: [dus] [met] [de] [rond] schijf [een] beetje [aan de achterkant] 
+A|36| A: tentakel omhoog [en] [de] 
+A|37| A: pinokkio [die] zien [ik] [ja] 
+A|38| A: [dat zijn] nummer zeven 
+B|39| B: [dat zijn] C 
+B|40| B: ah kijken 
+A|41| A: [dit zijn] [de] Pinokkio 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : ik denken dat jij het vierkant hebben
+	Free: Pattern=dat, Pattern=het, Pattern=hebben, Pattern=ik, Pattern=jij
+	Constrained: 
+Turn ID=1| A | A : ik willen zeggen ik hebben er geen
+	Free: Pattern=ik hebben, Pattern=ik
+	Constrained: Pattern=ik, Pattern=hebben
+Turn ID=2| A | A : een tuu
+	Free: Pattern=een
+	Constrained: 
+Turn ID=3| A | A : ja ik hebben het omschrijven als een pinokkio
+	Free: Pattern=ik hebben het, Pattern=ja, Pattern=een
+	Constrained: Pattern=het, Pattern=ik hebben, Pattern=ik, Pattern=hebben
+Turn ID=4| A | A : zien het er voor jou zo ook uit
+	Free: Pattern=voor, Pattern=het
+	Constrained: 
+Turn ID=5| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=6| A | A : ja dat zijn voor mij nummer dertien
+	Free: Pattern=voor mij, Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=zijn, Pattern=voor, Pattern=dat, Pattern=mij
+Turn ID=7| A | A : dus dan ja dan zeggen ik dertien en dan druk ik op geel
+	Free: Pattern=op, Pattern=dan, Pattern=ik, Pattern=en, Pattern=dus, Pattern=ja
+	Constrained: 
+Turn ID=8| B | B : oké
+	Free: 
+	Constrained: 
+Turn ID=9| B | B : ik hebben het laat zin nog niet lezen
+	Free: Pattern=ik hebben het, Pattern=nog
+	Constrained: Pattern=het, Pattern=ik hebben, Pattern=ik, Pattern=hebben
+Turn ID=10| B | B : toen gaan die al ver dus we mogen dus praten
+	Free: Pattern=die, Pattern=dus
+	Constrained: 
+Turn ID=11| B | B : nee
+	Free: 
+	Constrained: 
+Turn ID=12| B | B : nee ver zijn het duidelijk
+	Free: Pattern=zijn, Pattern=het
+	Constrained: 
+Turn ID=13| B | B : oké ik hebben dus het rood vierkantje
+	Free: Pattern=ik hebben, Pattern=dus, Pattern=het
+	Constrained: Pattern=ik, Pattern=hebben
+Turn ID=14| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=15| B | B : dus ik moeten dan dus nu aan je uitleggen waar wat het figuur zijn en jij gaan raden
+	Free: Pattern=dan, Pattern=het, Pattern=ik, Pattern=en, Pattern=zijn, Pattern=jij, Pattern=aan, Pattern=dus
+	Constrained: 
+Turn ID=16| B | B : even kijken het hebben een een rond aan de achterkant je hebben natuurlijk het lijken allemaal op kop en het hebben een rond aan de achterkant en een
+	Free: Pattern=aan de achterkant, Pattern=op, Pattern=een, Pattern=het, Pattern=hebben, Pattern=en, Pattern=rond
+	Constrained: Pattern=aan, Pattern=de, Pattern=aan de
+Turn ID=17| B | B : steel aan de rechterkant die de ver boven uitsteken
+	Free: Pattern=aan de, Pattern=die, Pattern=de
+	Constrained: Pattern=aan, Pattern=de
+Turn ID=18| B | B : ja ja om het helemaal af te losmaken aan de linkerkant een soort handvat en aan de onderkant een soort van voetje waar die op staan
+	Free: Pattern=ja, Pattern=een, Pattern=het, Pattern=die, Pattern=en, Pattern=op, Pattern=aan de
+	Constrained: Pattern=aan, Pattern=de
+Turn ID=19| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=20| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=21| B | B : dat zijn dus O voor mij
+	Free: Pattern=voor mij, Pattern=dat zijn, Pattern=dus
+	Constrained: Pattern=zijn, Pattern=voor, Pattern=dat, Pattern=mij
+Turn ID=22| A | A : dit zijn weer dat Pinokkiogezicht
+	Free: Pattern=dit zijn weer, Pattern=dat
+	Constrained: Pattern=dit zijn, Pattern=zijn
+Turn ID=23| A | A : dus met die lang neus rond schijf aan de zijkant achterin
+	Free: Pattern=dus, Pattern=aan de, Pattern=met, Pattern=die, Pattern=rond
+	Constrained: Pattern=aan, Pattern=de
+Turn ID=24| A | A : en dan nog een pluk omhoog
+	Free: Pattern=nog, Pattern=dan, Pattern=en, Pattern=een
+	Constrained: 
+Turn ID=25| B | B : even kijken dit zijn wederom het figuur met het rond
+	Free: Pattern=dit zijn, Pattern=rond, Pattern=met, Pattern=het
+	Constrained: Pattern=zijn
+Turn ID=26| B | B : aan de achterkant en het lepel dat aan de bovenkant uitsteken met het voe eronder
+	Free: Pattern=aan de, Pattern=het, Pattern=met, Pattern=en, Pattern=dat, Pattern=aan de achterkant
+	Constrained: Pattern=aan, Pattern=de, Pattern=aan de
+Turn ID=27| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=28| A | A : die Ronde schijf ja
+	Free: Pattern=die, Pattern=ja
+	Constrained: 
+Turn ID=29| A | A : en dan nog die dat pluk voorop
+	Free: Pattern=dat, Pattern=nog, Pattern=dan, Pattern=die, Pattern=en
+	Constrained: 
+Turn ID=30| A | A : dat zijn achten bij mij
+	Free: Pattern=dat zijn, Pattern=mij
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=31| B | B : soort voe
+	Free: 
+	Constrained: 
+Turn ID=32| B | B : dat zijn C voor mij
+	Free: Pattern=voor mij, Pattern=dat zijn
+	Constrained: Pattern=zijn, Pattern=voor, Pattern=dat, Pattern=mij
+Turn ID=33| B | B : dit zijn weer met dat rond plaat aan de achterkant en het voe met het lepel dat aan de bovenkant uitsteken
+	Free: Pattern=aan de, Pattern=het, Pattern=met, Pattern=en, Pattern=rond, Pattern=dit zijn weer, Pattern=dat, Pattern=aan de achterkant
+	Constrained: Pattern=aan de, Pattern=zijn, Pattern=dit zijn, Pattern=de, Pattern=aan
+Turn ID=34| A | A : dit zijn pinokkio
+	Free: Pattern=dit zijn
+	Constrained: Pattern=zijn
+Turn ID=35| A | A : dus met de rond schijf een beetje aan de achterkant
+	Free: Pattern=aan de achterkant, Pattern=een, Pattern=met, Pattern=rond, Pattern=de, Pattern=dus
+	Constrained: Pattern=aan, Pattern=de, Pattern=aan de
+Turn ID=36| A | A : tentakel omhoog en de
+	Free: Pattern=de, Pattern=en
+	Constrained: 
+Turn ID=37| A | A : pinokkio die zien ik ja
+	Free: Pattern=die, Pattern=ja, Pattern=ik
+	Constrained: 
+Turn ID=38| A | A : dat zijn nummer zeven
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=39| B | B : dat zijn C
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=40| B | B : ah kijken
+	Free: 
+	Constrained: 
+Turn ID=41| A | A : dit zijn de Pinokkio
+	Free: Pattern=dit zijn, Pattern=de
+	Constrained: Pattern=zijn

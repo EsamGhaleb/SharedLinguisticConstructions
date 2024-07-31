@@ -1,0 +1,255 @@
+A|0| A: _ja_ 
+B|1| B: _deze_ 
+B|2| B: _een_ soort van omgekeerd _kegel_ _bovenop_ dus eigenlijk zo'n vorm 
+A|3| A: _ja_ 
+B|4| B: _en_ even kijken _een_ bolle zitten ertegenaan plakken aan _de_ voorkant iets veel naar _de_ rechterzijde 
+A|5| A: _ja_ 
+A|6| A: _ja_ 
+A|7| A: _dat zijn_ nummer negen 
+B|8| B: _en_ _bovenop_ _hebben_ het trouwens nog _een staafje_ dus het _staafje_ _en die_ omgekeerd _kegel_ _dan_ [dat] bolle aan _de_ rechterkant 
+B|9| B: _en dan_ _een_ soort van zo'n vorm tegen _de_ mok aangeplakt aan _de_ linkerkant 
+B|10| B: _een_ soort van opengeslagen boek zitten zo tegen _de_ linkerkant 
+B|11| B: _hebben_ ver geen plateau 
+B|12| B: [ja] zo [ja] niet helemaal het [zijn] _een_ soort van 
+B|13| B: _de_ vorm _bovenop_ [zijn] zo 
+B|14| B: dus eindigen _op_ zo'n rond 
+B|15| B: [ja] 
+B|16| B: _en dan_ daar _rechts_ van [zijn] gewoon ook aan _de_ bovenzijde van _de_ beker [zijn] _een_ balkje 
+B|17| B: _en dan_ rechtsvoor aan _de_ voorkant zitten _een_ soort van bol gewoon tegenaan geplakt 
+B|18| B: nee nee nee 
+B|19| B: nee het [zijn] echt _een_ soort van _kegel_ eigenlijk alleen _dan_ omgekeerd 
+B|20| B: _die_ eindigen _op_ _een_ soort van bolle maar nu [zijn] [dat] bolle daaronder 
+B|21| B: misschien het _hebben_ niet heel veel ding uitsteken vergelijken _met_ _de_ rest 
+B|22| B: het _hebben_ geen plateau 
+B|23| B: misschien focussen _op_ [dat] _link_ uitsteeksel 
+B|24| B: _een_ beetje alsof _je een_ boek _hebben_ opengeslagen zo _en dan_ ertegenaan zetten 
+B|25| B: het [zijn] niet helemaal _een_ _een_ dicht balkje 
+B|26| B: of trouwens misschien kunnen _je_ het ook wel zien als één als _een_ driehoek 
+B|27| B: of [ja] één maar _dan_ maar _dan_ lang 
+B|28| B: _een_ balk in _de_ vorm van _een_ driehoek 
+B|29| B: [ja] 
+B|30| B: maar niet heel groot 
+B|31| B: _en_ het _hebben_ twee ding _bovenop_ 
+B|32| B: nee 
+B|33| B: nee 
+B|34| B: _hebben_ helemaal niks aan _de_ onderzijde 
+B|35| B: [ja] 
+B|36| B: [ja] 
+B|37| B: [ja] 
+B|38| B: [ja] 
+B|39| B: [ja] nee nee het kloppen wel 
+B|40| B: [ja] 
+B|41| B: [ja] 
+A|42| A: hier [hebben] [je] weer [de] Ronde hoofdvorm _met een ei_ voorop 
+A|43| A: [en dan] [hebben] [je een] [kegel] [op] [zijn] kop [link] [bovenop] [de] hoofdvorm 
+A|44| A: [rechts] [bovenop] [de] hoofdvorm staan [een staafje] 
+A|45| A: [ja] 
+A|46| A: [een] kegeltje 
+A|47| A: nummer elf 
+B|48| B: [ja] 
+B|49| B: [ja] [dat zijn] I 
+A|50| A: _dit zijn_ [de] hoofdvorm _met een ei_ voorop links [bovenop] [de] hoofdvorm [hebben] [je] [die] omgedraaide [kegel] [rechts] staan er [een] vierkant 
+A|51| A: [ja] 
+A|52| A: [ja] 
+A|53| A: nummer vijfteen 
+A|54| A: [deze] hoofdvorm [hebben] _een ei_ voorop [en die] [kegel] [op] [zijn] kop links [op] [de] hoofdvorm 
+B|55| B: [dit zijn] [met een ei] aan [de] rechterkant 
+B|56| B: opengeslagen boek aan [de] linkerkant 
+B|57| B: [een] soort van kwastje [en] [een] balkje erin 
+B|58| B: [ja] 
+B|59| B: [dat zijn] e 
+B|60| B: [een] mooi kwastje [een staafje] [ei] aan [de] rechterkant [een] opengeslagen boek aan [de] linkerkant 
+B|61| B: [ja] 
+B|62| B: [dat zijn] e 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=1| B | B : deze
+	Free: Pattern=deze
+	Constrained: 
+Turn ID=2| B | B : een soort van omgekeerd kegel bovenop dus eigenlijk zo'n vorm
+	Free: Pattern=bovenop, Pattern=kegel, Pattern=een
+	Constrained: 
+Turn ID=3| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=4| B | B : en even kijken een bolle zitten ertegenaan plakken aan de voorkant iets veel naar de rechterzijde
+	Free: Pattern=en, Pattern=de, Pattern=een
+	Constrained: 
+Turn ID=5| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=6| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=7| A | A : dat zijn nummer negen
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=8| B | B : en bovenop hebben het trouwens nog een staafje dus het staafje en die omgekeerd kegel dan dat bolle aan de rechterkant
+	Free: Pattern=een staafje, Pattern=de, Pattern=dan, Pattern=en, Pattern=kegel, Pattern=en die, Pattern=dat, Pattern=bovenop, Pattern=hebben, Pattern=staafje
+	Constrained: Pattern=en, Pattern=staafje, Pattern=die, Pattern=een
+Turn ID=9| B | B : en dan een soort van zo'n vorm tegen de mok aangeplakt aan de linkerkant
+	Free: Pattern=en dan, Pattern=de, Pattern=een
+	Constrained: Pattern=en, Pattern=dan
+Turn ID=10| B | B : een soort van opengeslagen boek zitten zo tegen de linkerkant
+	Free: Pattern=de, Pattern=een
+	Constrained: 
+Turn ID=11| B | B : hebben ver geen plateau
+	Free: Pattern=hebben
+	Constrained: 
+Turn ID=12| B | B : ja zo ja niet helemaal het zijn een soort van
+	Free: Pattern=zijn, Pattern=ja, Pattern=een
+	Constrained: 
+Turn ID=13| B | B : de vorm bovenop zijn zo
+	Free: Pattern=zijn, Pattern=bovenop, Pattern=de
+	Constrained: 
+Turn ID=14| B | B : dus eindigen op zo'n rond
+	Free: Pattern=op
+	Constrained: 
+Turn ID=15| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=16| B | B : en dan daar rechts van zijn gewoon ook aan de bovenzijde van de beker zijn een balkje
+	Free: Pattern=en dan, Pattern=een, Pattern=zijn, Pattern=de, Pattern=rechts
+	Constrained: Pattern=en, Pattern=dan
+Turn ID=17| B | B : en dan rechtsvoor aan de voorkant zitten een soort van bol gewoon tegenaan geplakt
+	Free: Pattern=en dan, Pattern=de, Pattern=een
+	Constrained: Pattern=en, Pattern=dan
+Turn ID=18| B | B : nee nee nee
+	Free: 
+	Constrained: 
+Turn ID=19| B | B : nee het zijn echt een soort van kegel eigenlijk alleen dan omgekeerd
+	Free: Pattern=zijn, Pattern=kegel, Pattern=dan, Pattern=een
+	Constrained: 
+Turn ID=20| B | B : die eindigen op een soort van bolle maar nu zijn dat bolle daaronder
+	Free: Pattern=dat, Pattern=op, Pattern=een, Pattern=die, Pattern=zijn
+	Constrained: 
+Turn ID=21| B | B : misschien het hebben niet heel veel ding uitsteken vergelijken met de rest
+	Free: Pattern=hebben, Pattern=de, Pattern=met
+	Constrained: 
+Turn ID=22| B | B : het hebben geen plateau
+	Free: Pattern=hebben
+	Constrained: 
+Turn ID=23| B | B : misschien focussen op dat link uitsteeksel
+	Free: Pattern=op, Pattern=link, Pattern=dat
+	Constrained: 
+Turn ID=24| B | B : een beetje alsof je een boek hebben opengeslagen zo en dan ertegenaan zetten
+	Free: Pattern=en dan, Pattern=je een, Pattern=hebben, Pattern=een
+	Constrained: Pattern=en, Pattern=dan, Pattern=je, Pattern=een
+Turn ID=25| B | B : het zijn niet helemaal een een dicht balkje
+	Free: Pattern=zijn, Pattern=een
+	Constrained: 
+Turn ID=26| B | B : of trouwens misschien kunnen je het ook wel zien als één als een driehoek
+	Free: Pattern=je, Pattern=een
+	Constrained: 
+Turn ID=27| B | B : of ja één maar dan maar dan lang
+	Free: Pattern=dan, Pattern=ja
+	Constrained: 
+Turn ID=28| B | B : een balk in de vorm van een driehoek
+	Free: Pattern=de, Pattern=een
+	Constrained: 
+Turn ID=29| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=30| B | B : maar niet heel groot
+	Free: 
+	Constrained: 
+Turn ID=31| B | B : en het hebben twee ding bovenop
+	Free: Pattern=en, Pattern=bovenop, Pattern=hebben
+	Constrained: 
+Turn ID=32| B | B : nee
+	Free: 
+	Constrained: 
+Turn ID=33| B | B : nee
+	Free: 
+	Constrained: 
+Turn ID=34| B | B : hebben helemaal niks aan de onderzijde
+	Free: Pattern=hebben, Pattern=de
+	Constrained: 
+Turn ID=35| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=36| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=37| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=38| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=39| B | B : ja nee nee het kloppen wel
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=40| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=41| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=42| A | A : hier hebben je weer de Ronde hoofdvorm met een ei voorop
+	Free: Pattern=met een ei, Pattern=je, Pattern=hebben, Pattern=de
+	Constrained: Pattern=een ei, Pattern=ei, Pattern=een, Pattern=met
+Turn ID=43| A | A : en dan hebben je een kegel op zijn kop link bovenop de hoofdvorm
+	Free: Pattern=kegel, Pattern=bovenop, Pattern=de, Pattern=op, Pattern=hebben, Pattern=link, Pattern=zijn, Pattern=en dan, Pattern=je een
+	Constrained: Pattern=en, Pattern=dan, Pattern=je, Pattern=een
+Turn ID=44| A | A : rechts bovenop de hoofdvorm staan een staafje
+	Free: Pattern=een staafje, Pattern=bovenop, Pattern=rechts, Pattern=de
+	Constrained: Pattern=staafje, Pattern=een
+Turn ID=45| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=46| A | A : een kegeltje
+	Free: Pattern=een
+	Constrained: 
+Turn ID=47| A | A : nummer elf
+	Free: 
+	Constrained: 
+Turn ID=48| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=49| B | B : ja dat zijn I
+	Free: Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=50| A | A : dit zijn de hoofdvorm met een ei voorop links bovenop de hoofdvorm hebben je die omgedraaide kegel rechts staan er een vierkant
+	Free: Pattern=kegel, Pattern=bovenop, Pattern=hebben, Pattern=die, Pattern=je, Pattern=dit zijn, Pattern=de, Pattern=rechts, Pattern=een, Pattern=met een ei
+	Constrained: Pattern=ei, Pattern=een, Pattern=een ei, Pattern=met, Pattern=zijn
+Turn ID=51| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=52| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=53| A | A : nummer vijfteen
+	Free: 
+	Constrained: 
+Turn ID=54| A | A : deze hoofdvorm hebben een ei voorop en die kegel op zijn kop links op de hoofdvorm
+	Free: Pattern=de, Pattern=op, Pattern=hebben, Pattern=een ei, Pattern=zijn, Pattern=deze, Pattern=kegel, Pattern=en die
+	Constrained: Pattern=en, Pattern=ei, Pattern=die, Pattern=een
+Turn ID=55| B | B : dit zijn met een ei aan de rechterkant
+	Free: Pattern=met een ei, Pattern=dit zijn, Pattern=de
+	Constrained: Pattern=ei, Pattern=een, Pattern=een ei, Pattern=met, Pattern=zijn
+Turn ID=56| B | B : opengeslagen boek aan de linkerkant
+	Free: Pattern=de
+	Constrained: 
+Turn ID=57| B | B : een soort van kwastje en een balkje erin
+	Free: Pattern=en, Pattern=een
+	Constrained: 
+Turn ID=58| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=59| B | B : dat zijn e
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=60| B | B : een mooi kwastje een staafje ei aan de rechterkant een opengeslagen boek aan de linkerkant
+	Free: Pattern=een staafje, Pattern=ei, Pattern=de, Pattern=een
+	Constrained: Pattern=staafje, Pattern=een
+Turn ID=61| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=62| B | B : dat zijn e
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn, Pattern=dat

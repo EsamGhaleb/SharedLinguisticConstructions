@@ -1,0 +1,115 @@
+A|0| A: _ik hebben_ één ook bijzonder hij _hebben_ er staan _een soort_ punt _een soort_ 
+A|1| A: hoorn staan erbovenop 
+A|2| A: _en_ dan _hebben die_ link nog _ja ik_ weten _niet_ _een_ heel gek _dinge_ _dat_ _bijna_ _het_ _niet_ _aanraakken_ 
+B|3| B: [ja ik] zien hem al 
+A|4| A: _en_ rechts nog _een_ _figuur_ _en_ eronder ook nog _wat_ 
+B|5| B: [dat] onderin _zijn_ [een soort] rond 
+A|6| A: [ja] 
+B|7| B: [ja] 
+A|8| A: [ja] 
+B|9| B: _dat zijn_ J 
+B|10| B: [ik hebben] [dat] ding _met die soort_ driehoek op [het] hoofd _met_ aan de rechterkant [een soort] trapezium 
+A|11| A: [ja] 
+B|12| B: aan de linkerkant zo'n [figuur] [wat] [het] _net_ raken 
+A|13| A: [ja] [dat zijn] nummer zes 
+B|14| B: oké 
+A|15| A: dit [zijn] weer _met die soort van_ punthoed _en_ heel klein _dinge_ [dat] heel klein beetje _aanraken_ link 
+B|16| B: [ja] 
+B|17| B: [dat zijn] E 
+B|18| B: [ik [hebben] die] [met die soort van] driehoek op [het] hoofd [en] [wat] [dat] [dinge] [wat] [het] _net_ [aanraakken] 
+A|19| A: yes nummer tien 
+A|20| A: [ja] 
+A|21| A: [ik hebben] één _helemaal_ wachten gewoon punthoed klein dinget link [dat] _bijna_ _net niet_ [aanraakken] 
+B|22| B: [ja] 
+B|23| B: G 
+B|24| B: [ik hebben] [met] [dat] [dinge] [wat] [het] [net niet] [helemaal] [wat] [het] [bijna] [aanraken] [en] [met] de driehoek bovenop 
+B|25| B: snapen je 
+A|26| A: [ja] [ja] 
+A|27| A: nummer tien 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : ik hebben één ook bijzonder hij hebben er staan een soort punt een soort
+	Free: Pattern=een soort, Pattern=ik hebben, Pattern=hebben
+	Constrained: Pattern=hebben, Pattern=een
+Turn ID=1| A | A : hoorn staan erbovenop
+	Free: 
+	Constrained: 
+Turn ID=2| A | A : en dan hebben die link nog ja ik weten niet een heel gek dinge dat bijna het niet aanraakken
+	Free: Pattern=dat, Pattern=niet, Pattern=een, Pattern=het, Pattern=dinge, Pattern=ja ik, Pattern=en, Pattern=hebben die, Pattern=aanraakken, Pattern=bijna
+	Constrained: Pattern=hebben, Pattern=ja
+Turn ID=3| B | B : ja ik zien hem al
+	Free: Pattern=ja ik
+	Constrained: Pattern=ja
+Turn ID=4| A | A : en rechts nog een figuur en eronder ook nog wat
+	Free: Pattern=wat, Pattern=figuur, Pattern=en, Pattern=een
+	Constrained: 
+Turn ID=5| B | B : dat onderin zijn een soort rond
+	Free: Pattern=een soort, Pattern=dat, Pattern=zijn
+	Constrained: Pattern=een
+Turn ID=6| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=7| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=8| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=9| B | B : dat zijn J
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=10| B | B : ik hebben dat ding met die soort driehoek op het hoofd met aan de rechterkant een soort trapezium
+	Free: Pattern=ik hebben, Pattern=dat, Pattern=het, Pattern=met, Pattern=een soort, Pattern=met die soort
+	Constrained: Pattern=een, Pattern=met, Pattern=hebben
+Turn ID=11| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=12| B | B : aan de linkerkant zo'n figuur wat het net raken
+	Free: Pattern=net, Pattern=wat, Pattern=het, Pattern=figuur
+	Constrained: 
+Turn ID=13| A | A : ja dat zijn nummer zes
+	Free: Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=14| B | B : oké
+	Free: 
+	Constrained: 
+Turn ID=15| A | A : dit zijn weer met die soort van punthoed en heel klein dinge dat heel klein beetje aanraken link
+	Free: Pattern=dat, Pattern=met die soort van, Pattern=dinge, Pattern=aanraken, Pattern=en, Pattern=zijn
+	Constrained: Pattern=met die soort, Pattern=met
+Turn ID=16| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=17| B | B : dat zijn E
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=18| B | B : ik hebben die met die soort van driehoek op het hoofd en wat dat dinge wat het net aanraakken
+	Free: Pattern=ik hebben, Pattern=dat, Pattern=net, Pattern=dinge, Pattern=wat, Pattern=en, Pattern=hebben die, Pattern=aanraakken, Pattern=het, Pattern=met die soort van
+	Constrained: Pattern=met die soort, Pattern=met, Pattern=hebben
+Turn ID=19| A | A : yes nummer tien
+	Free: 
+	Constrained: 
+Turn ID=20| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=21| A | A : ik hebben één helemaal wachten gewoon punthoed klein dinget link dat bijna net niet aanraakken
+	Free: Pattern=ik hebben, Pattern=dat, Pattern=helemaal, Pattern=aanraakken, Pattern=bijna, Pattern=net niet
+	Constrained: Pattern=net, Pattern=niet, Pattern=hebben
+Turn ID=22| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=23| B | B : G
+	Free: 
+	Constrained: 
+Turn ID=24| B | B : ik hebben met dat dinge wat het net niet helemaal wat het bijna aanraken en met de driehoek bovenop
+	Free: Pattern=ik hebben, Pattern=dat, Pattern=helemaal, Pattern=het, Pattern=met, Pattern=dinge, Pattern=wat, Pattern=aanraken, Pattern=en, Pattern=bijna, Pattern=net niet
+	Constrained: Pattern=net, Pattern=niet, Pattern=hebben
+Turn ID=25| B | B : snapen je
+	Free: 
+	Constrained: 
+Turn ID=26| A | A : ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=27| A | A : nummer tien
+	Free: 
+	Constrained: 

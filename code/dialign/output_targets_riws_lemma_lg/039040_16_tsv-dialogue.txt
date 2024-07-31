@@ -1,0 +1,119 @@
+A|0| A: _ik_ _hebben_ er één _die_ _hebben_ twee dezelfde vormp één recht _op_ _het_ midden _zo'n_ langwerpig _en_ één _aan de_ zijkant ook _zo'n_ langwerpig 
+B|1| B: [die] _soort van_ _kegel_ _van_ bowling 
+A|2| A: _ja_ _ja_ 
+B|3| B: [ja] 
+A|4| A: _en nog_ _zo'n_ [soort van] _verrekijker_ tenminste zo _hebben_ _ik_ hem 
+A|5| A: _met_ [van] [die] vierkant 
+B|6| B: [ja] 
+B|7| B: [ja] dat _zijn_ E 
+A|8| A: oké 
+B|9| B: [het] _zijn_ [de] _kegel_ erbovenop _een kegel_ naar [die] kant richten denken [ik] [en] dan [hebben] [die] _hier_ [zo'n] verrekijkerachtig ding 
+A|10| A: [ja] 
+B|11| B: [en] dan [nog] _een_ [soort van] bikinibroekachtig uitlaat [aan de] [die] kant 
+A|12| A: even kijken wachten [ik] [zijn] even [aan] [het] zoeken [ja] Bingo 
+A|13| A: elf 
+A|14| A: dit [zijn] degeen _met_ één _verrekijker_ [en] [zo'n] [kegel] [hier] _en een kegel_ [aan de] zijkant 
+B|15| B: [ja] J 
+B|16| B: [het] [zijn] [die] [met] [een kegel] [op] [zijn] hoofd [en een kegel] als neus [en] dan [een] [verrekijker] 
+B|17| B: [en] dan [nog] [een] mormel 
+A|18| A: [ja] 
+A|19| A: negen 
+A|20| A: mormelt 
+A|21| A: dit [zijn] degeen [met] één [verrekijker] 
+A|22| A: [en] [die] twee [kegel] 
+B|23| B: god 
+B|24| B: [ja] B 
+B|25| B: [het] [zijn] [die] [met] [een kegel] erop [kegel] als neus [en een] [verrekijker] 
+B|26| B: [en nog] [een] dinge 
+A|27| A: [ja] 
+A|28| A: vier 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : ik hebben er één die hebben twee dezelfde vormp één recht op het midden zo'n langwerpig en één aan de zijkant ook zo'n langwerpig
+	Free: Pattern=zo'n, Pattern=het, Pattern=hebben, Pattern=die, Pattern=ik, Pattern=en, Pattern=op, Pattern=aan de
+	Constrained: Pattern=aan, Pattern=de
+Turn ID=1| B | B : die soort van kegel van bowling
+	Free: Pattern=soort van, Pattern=kegel, Pattern=die, Pattern=van
+	Constrained: Pattern=van
+Turn ID=2| A | A : ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=3| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=4| A | A : en nog zo'n soort van verrekijker tenminste zo hebben ik hem
+	Free: Pattern=zo'n, Pattern=hebben, Pattern=ik, Pattern=verrekijker, Pattern=soort van, Pattern=en nog
+	Constrained: Pattern=en, Pattern=van, Pattern=nog
+Turn ID=5| A | A : met van die vierkant
+	Free: Pattern=die, Pattern=van, Pattern=met
+	Constrained: 
+Turn ID=6| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=7| B | B : ja dat zijn E
+	Free: Pattern=zijn, Pattern=ja
+	Constrained: 
+Turn ID=8| A | A : oké
+	Free: 
+	Constrained: 
+Turn ID=9| B | B : het zijn de kegel erbovenop een kegel naar die kant richten denken ik en dan hebben die hier zo'n verrekijkerachtig ding
+	Free: Pattern=kegel, Pattern=zo'n, Pattern=de, Pattern=hier, Pattern=het, Pattern=die, Pattern=ik, Pattern=en, Pattern=zijn, Pattern=hebben, Pattern=een kegel
+	Constrained: Pattern=kegel, Pattern=een
+Turn ID=10| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=11| B | B : en dan nog een soort van bikinibroekachtig uitlaat aan de die kant
+	Free: Pattern=nog, Pattern=aan de, Pattern=een, Pattern=die, Pattern=en, Pattern=soort van
+	Constrained: Pattern=aan, Pattern=van, Pattern=de
+Turn ID=12| A | A : even kijken wachten ik zijn even aan het zoeken ja Bingo
+	Free: Pattern=het, Pattern=ik, Pattern=zijn, Pattern=aan, Pattern=ja
+	Constrained: 
+Turn ID=13| A | A : elf
+	Free: 
+	Constrained: 
+Turn ID=14| A | A : dit zijn degeen met één verrekijker en zo'n kegel hier en een kegel aan de zijkant
+	Free: Pattern=kegel, Pattern=zo'n, Pattern=hier, Pattern=aan de, Pattern=en een kegel, Pattern=met, Pattern=zijn, Pattern=verrekijker, Pattern=en
+	Constrained: Pattern=kegel, Pattern=een, Pattern=een kegel, Pattern=en, Pattern=en een, Pattern=de, Pattern=aan
+Turn ID=15| B | B : ja J
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=16| B | B : het zijn die met een kegel op zijn hoofd en een kegel als neus en dan een verrekijker
+	Free: Pattern=op, Pattern=een, Pattern=en een kegel, Pattern=het, Pattern=een kegel, Pattern=met, Pattern=die, Pattern=zijn, Pattern=verrekijker, Pattern=en
+	Constrained: Pattern=kegel, Pattern=een, Pattern=een kegel, Pattern=en, Pattern=en een
+Turn ID=17| B | B : en dan nog een mormel
+	Free: Pattern=en, Pattern=nog, Pattern=een
+	Constrained: 
+Turn ID=18| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=19| A | A : negen
+	Free: 
+	Constrained: 
+Turn ID=20| A | A : mormelt
+	Free: 
+	Constrained: 
+Turn ID=21| A | A : dit zijn degeen met één verrekijker
+	Free: Pattern=zijn, Pattern=verrekijker, Pattern=met
+	Constrained: 
+Turn ID=22| A | A : en die twee kegel
+	Free: Pattern=en, Pattern=kegel, Pattern=die
+	Constrained: 
+Turn ID=23| B | B : god
+	Free: 
+	Constrained: 
+Turn ID=24| B | B : ja B
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=25| B | B : het zijn die met een kegel erop kegel als neus en een verrekijker
+	Free: Pattern=kegel, Pattern=het, Pattern=een kegel, Pattern=met, Pattern=die, Pattern=verrekijker, Pattern=en een, Pattern=zijn
+	Constrained: Pattern=en, Pattern=kegel, Pattern=een
+Turn ID=26| B | B : en nog een dinge
+	Free: Pattern=en nog, Pattern=een
+	Constrained: Pattern=en, Pattern=nog
+Turn ID=27| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=28| A | A : vier
+	Free: 
+	Constrained: 

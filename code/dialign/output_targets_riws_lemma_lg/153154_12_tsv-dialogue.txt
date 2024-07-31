@@ -1,0 +1,143 @@
+A|0| A: bij mij _zijn_ _dit_ _het_ kop 
+A|1| A: _en_ _aan de_ rechts _kant_ _hebben_ _die een_ soort van plateau alsof _die een_ _dienblad_ vasthouden 
+B|2| B: _ja_ [die] zo _hebben ik_ hem ook omschrijven moeten hem _even_ zoeken 
+A|3| A: _en_ _aan de_ 
+A|4| A: [ja] _en_ _aan de_ linkerkant [hebben] _die een_ soort van _raar_ neus _waar_ _een_ soort van popnagel inslagen lijken te worden 
+B|5| B: hier 
+B|6| B: [ja] hebbes 
+A|7| A: of _een_ trompet _eruit_ lijken te komen net wat _je_ wat _je_ willen [ja] 
+B|8| B: [ja] 
+B|9| B: maar dan _met_ [een] vierkant ding eraan 
+B|10| B: geen rond 
+A|11| A: [ja] [ja] [ja] [ja] [ja] 
+B|12| B: [ja] 
+B|13| B: oké _dat zijn_ L 
+B|14| B: _dit zijn die een met dat dienblad en_ _dat_ [aan de] ander [kant] zo'n [raar] pijl 
+A|15| A: [ja] 
+A|16| A: [even] kijken _waar_ _staan_ [die] 
+A|17| A: [ja] [met] [die] soort van popnagel [die] erin slaan worden [ja] 
+B|18| B: [ja] [die] 
+A|19| A: [dat zijn] bij mij zeven 
+A|20| A: _dit zijn die een met dat dienblad en die_ nagel [die] erin slaan worden 
+B|21| B: [ja] 
+B|22| B: [waar] [zijn] [je] 
+B|23| B: _ik_ denken [dat] ze hem [eruit] [hebben] 
+B|24| B: hier 
+B|25| B: C 
+B|26| B: [dit zijn die een met dat dienblad en die] [dat] [raar] spijkerdinge 
+A|27| A: [ja] nummer één 
+A|28| A: [dit zijn die een _met] het [dienblad_ en die] spijker [die] _in_ [zijn] [raar] neus komen 
+B|29| B: [ja] 
+B|30| B: [dat zijn] A 
+B|31| B: zullen _ik_ gewoon beginnen [met] hij [staan] [in] [het] Linkerkwadrant 
+B|32| B: [die] [met het dienblad] 
+B|33| B: blaad 
+A|34| A: [die] [staan] bij mij of [die] [hebben ik] dertien 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : bij mij zijn dit het kop
+	Free: Pattern=het, Pattern=zijn, Pattern=dit
+	Constrained: 
+Turn ID=1| A | A : en aan de rechts kant hebben die een soort van plateau alsof die een dienblad vasthouden
+	Free: Pattern=kant, Pattern=aan de, Pattern=hebben, Pattern=die een, Pattern=dienblad, Pattern=en
+	Constrained: Pattern=die, Pattern=een
+Turn ID=2| B | B : ja die zo hebben ik hem ook omschrijven moeten hem even zoeken
+	Free: Pattern=hebben ik, Pattern=die, Pattern=ja, Pattern=even
+	Constrained: Pattern=hebben, Pattern=ik
+Turn ID=3| A | A : en aan de
+	Free: Pattern=aan de, Pattern=en
+	Constrained: 
+Turn ID=4| A | A : ja en aan de linkerkant hebben die een soort van raar neus waar een soort van popnagel inslagen lijken te worden
+	Free: Pattern=ja, Pattern=waar, Pattern=aan de, Pattern=een, Pattern=hebben, Pattern=die een, Pattern=en, Pattern=raar
+	Constrained: Pattern=die, Pattern=een
+Turn ID=5| B | B : hier
+	Free: 
+	Constrained: 
+Turn ID=6| B | B : ja hebbes
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=7| A | A : of een trompet eruit lijken te komen net wat je wat je willen ja
+	Free: Pattern=ja, Pattern=je, Pattern=een, Pattern=eruit
+	Constrained: 
+Turn ID=8| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=9| B | B : maar dan met een vierkant ding eraan
+	Free: Pattern=een, Pattern=met
+	Constrained: 
+Turn ID=10| B | B : geen rond
+	Free: 
+	Constrained: 
+Turn ID=11| A | A : ja ja ja ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=12| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=13| B | B : oké dat zijn L
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=14| B | B : dit zijn die een met dat dienblad en dat aan de ander kant zo'n raar pijl
+	Free: Pattern=aan de, Pattern=dat, Pattern=kant, Pattern=dit zijn die een met dat dienblad en, Pattern=raar
+	Constrained: Pattern=dat, Pattern=dit zijn die een met, Pattern=een, Pattern=dit, Pattern=met, Pattern=die, Pattern=die een, Pattern=dienblad, Pattern=en, Pattern=zijn
+Turn ID=15| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=16| A | A : even kijken waar staan die
+	Free: Pattern=die, Pattern=staan, Pattern=even, Pattern=waar
+	Constrained: 
+Turn ID=17| A | A : ja met die soort van popnagel die erin slaan worden ja
+	Free: Pattern=die, Pattern=ja, Pattern=met
+	Constrained: 
+Turn ID=18| B | B : ja die
+	Free: Pattern=die, Pattern=ja
+	Constrained: 
+Turn ID=19| A | A : dat zijn bij mij zeven
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=20| A | A : dit zijn die een met dat dienblad en die nagel die erin slaan worden
+	Free: Pattern=dit zijn die een met dat dienblad en die, Pattern=die
+	Constrained: Pattern=dat, Pattern=dit zijn die een met, Pattern=een, Pattern=dienblad en die, Pattern=dit, Pattern=met, Pattern=die, Pattern=die een, Pattern=dienblad, Pattern=en, Pattern=zijn, Pattern=dit zijn die een met dat dienblad en
+Turn ID=21| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=22| B | B : waar zijn je
+	Free: Pattern=je, Pattern=zijn, Pattern=waar
+	Constrained: 
+Turn ID=23| B | B : ik denken dat ze hem eruit hebben
+	Free: Pattern=eruit, Pattern=hebben, Pattern=ik, Pattern=dat
+	Constrained: 
+Turn ID=24| B | B : hier
+	Free: 
+	Constrained: 
+Turn ID=25| B | B : C
+	Free: 
+	Constrained: 
+Turn ID=26| B | B : dit zijn die een met dat dienblad en die dat raar spijkerdinge
+	Free: Pattern=dit zijn die een met dat dienblad en die, Pattern=raar, Pattern=dat
+	Constrained: Pattern=dat, Pattern=dit zijn die een met, Pattern=een, Pattern=dienblad en die, Pattern=dit, Pattern=met, Pattern=die, Pattern=die een, Pattern=dienblad, Pattern=en, Pattern=zijn, Pattern=dit zijn die een met dat dienblad en
+Turn ID=27| A | A : ja nummer één
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=28| A | A : dit zijn die een met het dienblad en die spijker die in zijn raar neus komen
+	Free: Pattern=dit zijn die een met, Pattern=met het dienblad, Pattern=dienblad en die, Pattern=in, Pattern=die, Pattern=zijn, Pattern=raar
+	Constrained: Pattern=een, Pattern=het, Pattern=dit, Pattern=met, Pattern=die, Pattern=die een, Pattern=dienblad, Pattern=en, Pattern=zijn
+Turn ID=29| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=30| B | B : dat zijn A
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=31| B | B : zullen ik gewoon beginnen met hij staan in het Linkerkwadrant
+	Free: Pattern=staan, Pattern=het, Pattern=in, Pattern=met, Pattern=ik
+	Constrained: 
+Turn ID=32| B | B : die met het dienblad
+	Free: Pattern=met het dienblad, Pattern=die
+	Constrained: Pattern=het, Pattern=met, Pattern=dienblad
+Turn ID=33| B | B : blaad
+	Free: 
+	Constrained: 
+Turn ID=34| A | A : die staan bij mij of die hebben ik dertien
+	Free: Pattern=hebben ik, Pattern=die, Pattern=staan
+	Constrained: Pattern=hebben, Pattern=ik

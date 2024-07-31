@@ -1,0 +1,99 @@
+A|0| A: deze _hebben_ een soort van omgekeerd pion uitsteken _aan de_ linkerkant 
+A|1| A: _en aan de_ rechterkant een soort van rond tafel 
+A|2| A: _ja_ 
+A|3| A: denken het 
+B|4| B: [ja] 
+B|5| B: even kijken 
+B|6| B: hier [ja] [ja] [ja] kloppen [en aan de] ander kant veel zo'n helikopterplatform 
+B|7| B: [ja] 
+B|8| B: L 
+A|9| A: het gaan wel makkelijk _nu_ 
+A|10| A: [ja] _oké_ _dat_ zijn zeven 
+B|11| B: [oké] [nu] [hebben] ik weer _die met_ _die_ Pacman [en] _met_ _die_ driehoek erop 
+A|12| A: dit zijn [die met] [de] omgekeerd pion 
+B|13| B: even kijken waar staan [die] ook alweer 
+B|14| B: [ja] hier 
+B|15| B: C 
+A|16| A: [ja] 
+A|17| A: _dat_ zijn één 
+A|18| A: dit zijn [die met] [de] omgekeerd pion 
+A|19| A: [en] 
+B|20| B: [die] Pacman [en] [die] [dat] helikopterplatform 
+A|21| A: [dat] zijn dertien 
+B|22| B: A 
+B|23| B: [die] Pacman [en] [de] helikopterplatform 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : deze hebben een soort van omgekeerd pion uitsteken aan de linkerkant
+	Free: Pattern=aan de, Pattern=hebben
+	Constrained: Pattern=de
+Turn ID=1| A | A : en aan de rechterkant een soort van rond tafel
+	Free: Pattern=en aan de
+	Constrained: Pattern=aan de, Pattern=de, Pattern=en
+Turn ID=2| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=3| A | A : denken het
+	Free: 
+	Constrained: 
+Turn ID=4| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=5| B | B : even kijken
+	Free: 
+	Constrained: 
+Turn ID=6| B | B : hier ja ja ja kloppen en aan de ander kant veel zo'n helikopterplatform
+	Free: Pattern=en aan de, Pattern=ja
+	Constrained: Pattern=aan de, Pattern=de, Pattern=en
+Turn ID=7| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=8| B | B : L
+	Free: 
+	Constrained: 
+Turn ID=9| A | A : het gaan wel makkelijk nu
+	Free: Pattern=nu
+	Constrained: 
+Turn ID=10| A | A : ja oké dat zijn zeven
+	Free: Pattern=dat, Pattern=ja, Pattern=oké
+	Constrained: 
+Turn ID=11| B | B : oké nu hebben ik weer die met die Pacman en met die driehoek erop
+	Free: Pattern=nu, Pattern=hebben, Pattern=die met, Pattern=met, Pattern=die, Pattern=oké, Pattern=en
+	Constrained: Pattern=die, Pattern=met
+Turn ID=12| A | A : dit zijn die met de omgekeerd pion
+	Free: Pattern=die met, Pattern=de
+	Constrained: Pattern=die, Pattern=met
+Turn ID=13| B | B : even kijken waar staan die ook alweer
+	Free: Pattern=die
+	Constrained: 
+Turn ID=14| B | B : ja hier
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=15| B | B : C
+	Free: 
+	Constrained: 
+Turn ID=16| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=17| A | A : dat zijn één
+	Free: Pattern=dat
+	Constrained: 
+Turn ID=18| A | A : dit zijn die met de omgekeerd pion
+	Free: Pattern=die met, Pattern=de
+	Constrained: Pattern=die, Pattern=met
+Turn ID=19| A | A : en
+	Free: Pattern=en
+	Constrained: 
+Turn ID=20| B | B : die Pacman en die dat helikopterplatform
+	Free: Pattern=dat, Pattern=en, Pattern=die
+	Constrained: 
+Turn ID=21| A | A : dat zijn dertien
+	Free: Pattern=dat
+	Constrained: 
+Turn ID=22| B | B : A
+	Free: 
+	Constrained: 
+Turn ID=23| B | B : die Pacman en de helikopterplatform
+	Free: Pattern=de, Pattern=en, Pattern=die
+	Constrained: 

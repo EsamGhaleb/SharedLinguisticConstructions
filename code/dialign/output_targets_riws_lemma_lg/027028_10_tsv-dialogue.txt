@@ -1,0 +1,91 @@
+A|0| A: _het_ lijken een beetje op een _rugtas_ _met_ een boek zeggen _maar_ zo half eruit _maar_ wel een _rugtas_ _met_ twee arm 
+B|1| B: _die_ _ja_ 
+B|2| B: _ja_ _dat_ _zijn_ K 
+B|3| B: _ja_ hier _zijn_ [het] eigenlijk weer _die_ [rugtas] niet _die_ _dat_ klein [rugtas] [maar] _die_ _groot met_ _die_ _uitsteeksel_ 
+A|4| A: [groot met] _de_ [uitsteeksel] en [dat] een flap daarachter toch ? [die] schuin achter 
+B|5| B: _ja_ _ja_ 
+A|6| A: [ja] negen 
+A|7| A: _dit zijn _de groot_ rugtas_ 
+B|8| B: [groot rugtas] [dat] [zijn] F 
+B|9| B: [de groot rugtas] 
+A|10| A: [groot rugtas] [ja] 
+A|11| A: drie 
+A|12| A: _dit zijn _de groot_ tas_ 
+B|13| B: [de groot tas] 
+A|14| A: [groot rugtas] 
+B|15| B: nee ik hebben alleen [de] klein zien 
+B|16| B: _waar_ ? ah daar 
+B|17| B: L 
+B|18| B: [dit zijn de _groot] boekentas_ 
+A|19| A: [groot boekentas] [waar] staan je nou ? 
+A|20| A: [ja] 
+A|21| A: vijf 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : het lijken een beetje op een rugtas met een boek zeggen maar zo half eruit maar wel een rugtas met twee arm
+	Free: Pattern=het, Pattern=met, Pattern=rugtas, Pattern=maar
+	Constrained: 
+Turn ID=1| B | B : die ja
+	Free: Pattern=die, Pattern=ja
+	Constrained: 
+Turn ID=2| B | B : ja dat zijn K
+	Free: Pattern=dat, Pattern=ja, Pattern=zijn
+	Constrained: 
+Turn ID=3| B | B : ja hier zijn het eigenlijk weer die rugtas niet die dat klein rugtas maar die groot met die uitsteeksel
+	Free: Pattern=ja, Pattern=uitsteeksel, Pattern=het, Pattern=die, Pattern=groot met, Pattern=dat, Pattern=rugtas, Pattern=zijn, Pattern=maar
+	Constrained: Pattern=met
+Turn ID=4| A | A : groot met de uitsteeksel en dat een flap daarachter toch ? die schuin achter
+	Free: Pattern=dat, Pattern=de, Pattern=uitsteeksel, Pattern=die, Pattern=groot met
+	Constrained: Pattern=met
+Turn ID=5| B | B : ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=6| A | A : ja negen
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=7| A | A : dit zijn de groot rugtas
+	Free: Pattern=dit zijn de groot, Pattern=de groot rugtas
+	Constrained: Pattern=de, Pattern=zijn, Pattern=groot rugtas, Pattern=rugtas
+Turn ID=8| B | B : groot rugtas dat zijn F
+	Free: Pattern=groot rugtas, Pattern=dat, Pattern=zijn
+	Constrained: Pattern=rugtas
+Turn ID=9| B | B : de groot rugtas
+	Free: Pattern=de groot rugtas
+	Constrained: Pattern=de, Pattern=groot rugtas, Pattern=rugtas
+Turn ID=10| A | A : groot rugtas ja
+	Free: Pattern=groot rugtas, Pattern=ja
+	Constrained: Pattern=rugtas
+Turn ID=11| A | A : drie
+	Free: 
+	Constrained: 
+Turn ID=12| A | A : dit zijn de groot tas
+	Free: Pattern=dit zijn de groot, Pattern=de groot tas
+	Constrained: Pattern=de, Pattern=zijn
+Turn ID=13| B | B : de groot tas
+	Free: Pattern=de groot tas
+	Constrained: Pattern=de
+Turn ID=14| A | A : groot rugtas
+	Free: Pattern=groot rugtas
+	Constrained: Pattern=rugtas
+Turn ID=15| B | B : nee ik hebben alleen de klein zien
+	Free: Pattern=de
+	Constrained: 
+Turn ID=16| B | B : waar ? ah daar
+	Free: Pattern=waar
+	Constrained: 
+Turn ID=17| B | B : L
+	Free: 
+	Constrained: 
+Turn ID=18| B | B : dit zijn de groot boekentas
+	Free: Pattern=dit zijn de groot, Pattern=groot boekentas
+	Constrained: Pattern=de, Pattern=zijn
+Turn ID=19| A | A : groot boekentas waar staan je nou ?
+	Free: Pattern=groot boekentas, Pattern=waar
+	Constrained: 
+Turn ID=20| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=21| A | A : vijf
+	Free: 
+	Constrained: 

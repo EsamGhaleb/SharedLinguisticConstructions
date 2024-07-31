@@ -1,0 +1,103 @@
+A|0| A: oké deze hebben _een_ piramidehoed _bovenop_ 
+A|1| A: _en_ dan nog _een_ heel groot massief stuk _aan de_ rechtervoorkant 
+A|2| A: _die_ 
+A|3| A: _ja_ 
+B|4| B: _dat zijn_ [een] driehoek op _zijn_ kop 
+B|5| B: [en] [aan de] zijkant [aan de] linkerkant zien je daar [een] beetje zo'n 
+B|6| B: [ja] [een] kogel 
+B|7| B: [ja] 
+B|8| B: J 
+A|9| A: [ja] 
+A|10| A: even kijken horen 
+A|11| A: [ja] vinden 
+A|12| A: zes 
+B|13| B: _dit zijn die met_ [die] _piramide_ boven op _zijn_ kop 
+B|14| B: [ja] 
+A|15| A: [dit zijn die met] het piramidehoedje [en] [dat] groot blok 
+A|16| A: [ja] [dat zijn] tien 
+B|17| B: [ja] 
+B|18| B: E 
+A|19| A: [dit zijn _die met] de_ [piramide] 
+A|20| A: hoed 
+B|21| B: [die met de] driehoek [bovenop] [en] [de] kogel 
+B|22| B: [aan de] zijkant 
+A|23| A: [dat zijn] tien 
+B|24| B: [die] kogel [en] [de] driehoek Bovenin 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : oké deze hebben een piramidehoed bovenop
+	Free: Pattern=bovenop, Pattern=een
+	Constrained: 
+Turn ID=1| A | A : en dan nog een heel groot massief stuk aan de rechtervoorkant
+	Free: Pattern=aan de, Pattern=een, Pattern=en
+	Constrained: Pattern=de
+Turn ID=2| A | A : die
+	Free: Pattern=die
+	Constrained: 
+Turn ID=3| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=4| B | B : dat zijn een driehoek op zijn kop
+	Free: Pattern=dat zijn, Pattern=zijn, Pattern=een
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=5| B | B : en aan de zijkant aan de linkerkant zien je daar een beetje zo'n
+	Free: Pattern=aan de, Pattern=een, Pattern=en
+	Constrained: Pattern=de
+Turn ID=6| B | B : ja een kogel
+	Free: Pattern=een, Pattern=ja
+	Constrained: 
+Turn ID=7| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=8| B | B : J
+	Free: 
+	Constrained: 
+Turn ID=9| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=10| A | A : even kijken horen
+	Free: 
+	Constrained: 
+Turn ID=11| A | A : ja vinden
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=12| A | A : zes
+	Free: 
+	Constrained: 
+Turn ID=13| B | B : dit zijn die met die piramide boven op zijn kop
+	Free: Pattern=dit zijn die met, Pattern=piramide, Pattern=zijn, Pattern=die
+	Constrained: Pattern=zijn, Pattern=die
+Turn ID=14| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=15| A | A : dit zijn die met het piramidehoedje en dat groot blok
+	Free: Pattern=dit zijn die met, Pattern=dat, Pattern=en
+	Constrained: Pattern=zijn, Pattern=die
+Turn ID=16| A | A : ja dat zijn tien
+	Free: Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=17| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=18| B | B : E
+	Free: 
+	Constrained: 
+Turn ID=19| A | A : dit zijn die met de piramide
+	Free: Pattern=dit zijn die met, Pattern=die met de, Pattern=piramide
+	Constrained: Pattern=de, Pattern=zijn, Pattern=die
+Turn ID=20| A | A : hoed
+	Free: 
+	Constrained: 
+Turn ID=21| B | B : die met de driehoek bovenop en de kogel
+	Free: Pattern=die met de, Pattern=bovenop, Pattern=de, Pattern=en
+	Constrained: Pattern=de, Pattern=die
+Turn ID=22| B | B : aan de zijkant
+	Free: Pattern=aan de
+	Constrained: Pattern=de
+Turn ID=23| A | A : dat zijn tien
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=24| B | B : die kogel en de driehoek Bovenin
+	Free: Pattern=de, Pattern=die, Pattern=en
+	Constrained: 

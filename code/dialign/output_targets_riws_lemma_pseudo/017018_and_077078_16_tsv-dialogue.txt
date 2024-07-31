@@ -1,0 +1,159 @@
+B|0| B: _ja_ _een soort_ doosje of of cakedoos of zoiets _in_ _die_ richting _ja_ _ja_ 
+B|1| B: oké letter E 
+A|2| A: _je_ _hebben [een_ soort] _handvat_ bovenop _en aan de_ linkerkant _hebben die_ hetzelfde _handvat_ 
+A|3| A: rechts _hebben die_ blok [die] groot _worden_ 
+A|4| A: bijna alsof _je_ [een] lepel _in het_ kop _hebben_ _steken_ _en_ [die] _zitten_ _dan_ _ook_ link 
+A|5| A: [ja] 
+A|6| A: _zitten_ _er_ _nog_ _één_ 
+A|7| A: [ja] 
+B|8| B: deze [hebben] jij net _voor mij_ doen [het] _zijn_ [een] beker 
+B|9| B: [aan de] achterkant komen [nog] [een] beetje zo'n wormp uit of zo 
+B|10| B: [aan de] voorkant komen [die] dos erin [steken] vliegen 
+B|11| B: [en] hij [hebben] _precies_ [in het] midden [aan de] bovenkant [nog] [een] zoiets [zitten] [een] [een] [een] staafje [zitten] 
+B|12| B: [en aan de] voorkant [hebben die] [ook] [nog] [een] staafje erin [zitten] of [een] cirkel 
+B|13| B: [ja] 
+A|14| A: nee _dat_ lijken _er_ niet _op_ 
+A|15| A: [ja] link [hebben die] _dan_ dezelfde lepelding 
+A|16| A: [die] 
+A|17| A: [ja] [precies] _dat_ [zijn] elf [voor mij] 
+B|18| B: [die] 
+B|19| B: kunnen [je] [nog] [een] keer uitleggen 
+B|20| B: [ja] 
+B|21| B: [ja] 
+B|22| B: [ja] [ja] [en] staart 
+B|23| B: oké [ja] 
+B|24| B: [worden] [het] letter J 
+A|25| A: dit [zijn] degeen met [de] lepel bovenin [en] dezelfde lepel [aan de] zijkant _en dan_ [de] _vierkant_ [die] groot [worden] 
+B|26| B: deze [zijn] vervelend hij [hebben een] staart [een soort] van wormp wat uit _hem_ komen [en dan] van [die] gek handvaten dus [één] hier [en] [één] boven _hem_ 
+B|27| B: [en] [er] komen zo'n dozenvierkan [in] 
+A|28| A: [ja] 
+A|29| A: ik moeten [hem] even zoeken 
+A|30| A: [ja] _dat_ [zijn] negen [voor mij] 
+A|31| A: dit [zijn] [die] met [de] lepel bovenin [en] dezelfde lepel _links_ 
+B|32| B: [ja] 
+B|33| B: [ja] [ja] 
+B|34| B: letter B 
+A|35| A: [ja] 
+A|36| A: _dat_ [zijn] vier [voor mij] 
+B|37| B: hij [hebben] [dat] stom staart [en] hij [hebben een] [handvat] [op] [en] [een] [handvat] [links] [en] hij [hebben] van [die] dos [die] [in] [hem] [steken] 
+B|38| B: [die] [vierkant] 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : ja een soort doosje of of cakedoos of zoiets in die richting ja ja
+	Free: Pattern=een soort, Pattern=die, Pattern=in, Pattern=ja
+	Constrained: Pattern=een
+Turn ID=1| B | B : oké letter E
+	Free: 
+	Constrained: 
+Turn ID=2| A | A : je hebben een soort handvat bovenop en aan de linkerkant hebben die hetzelfde handvat
+	Free: Pattern=hebben een, Pattern=handvat, Pattern=een soort, Pattern=je, Pattern=en aan de, Pattern=hebben die
+	Constrained: Pattern=de, Pattern=aan de, Pattern=een, Pattern=hebben, Pattern=die, Pattern=en
+Turn ID=3| A | A : rechts hebben die blok die groot worden
+	Free: Pattern=hebben die, Pattern=die, Pattern=worden
+	Constrained: Pattern=hebben, Pattern=die
+Turn ID=4| A | A : bijna alsof je een lepel in het kop hebben steken en die zitten dan ook link
+	Free: Pattern=ook, Pattern=dan, Pattern=een, Pattern=hebben, Pattern=in het, Pattern=en, Pattern=je, Pattern=steken, Pattern=die, Pattern=zitten
+	Constrained: Pattern=in, Pattern=het
+Turn ID=5| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=6| A | A : zitten er nog één
+	Free: Pattern=nog, Pattern=één, Pattern=zitten, Pattern=er
+	Constrained: 
+Turn ID=7| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=8| B | B : deze hebben jij net voor mij doen het zijn een beker
+	Free: Pattern=een, Pattern=het, Pattern=hebben, Pattern=voor mij, Pattern=zijn
+	Constrained: 
+Turn ID=9| B | B : aan de achterkant komen nog een beetje zo'n wormp uit of zo
+	Free: Pattern=aan de, Pattern=nog, Pattern=een
+	Constrained: Pattern=de
+Turn ID=10| B | B : aan de voorkant komen die dos erin steken vliegen
+	Free: Pattern=aan de, Pattern=die, Pattern=steken
+	Constrained: Pattern=de
+Turn ID=11| B | B : en hij hebben precies in het midden aan de bovenkant nog een zoiets zitten een een een staafje zitten
+	Free: Pattern=nog, Pattern=precies, Pattern=aan de, Pattern=een, Pattern=hebben, Pattern=in het, Pattern=zitten, Pattern=en
+	Constrained: Pattern=de, Pattern=in, Pattern=het
+Turn ID=12| B | B : en aan de voorkant hebben die ook nog een staafje erin zitten of een cirkel
+	Free: Pattern=nog, Pattern=ook, Pattern=een, Pattern=zitten, Pattern=en aan de, Pattern=hebben die
+	Constrained: Pattern=de, Pattern=aan de, Pattern=hebben, Pattern=die, Pattern=en
+Turn ID=13| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=14| A | A : nee dat lijken er niet op
+	Free: Pattern=dat, Pattern=op, Pattern=er
+	Constrained: 
+Turn ID=15| A | A : ja link hebben die dan dezelfde lepelding
+	Free: Pattern=hebben die, Pattern=dan, Pattern=ja
+	Constrained: Pattern=hebben, Pattern=die
+Turn ID=16| A | A : die
+	Free: Pattern=die
+	Constrained: 
+Turn ID=17| A | A : ja precies dat zijn elf voor mij
+	Free: Pattern=dat, Pattern=voor mij, Pattern=zijn, Pattern=precies, Pattern=ja
+	Constrained: 
+Turn ID=18| B | B : die
+	Free: Pattern=die
+	Constrained: 
+Turn ID=19| B | B : kunnen je nog een keer uitleggen
+	Free: Pattern=nog, Pattern=een, Pattern=je
+	Constrained: 
+Turn ID=20| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=21| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=22| B | B : ja ja en staart
+	Free: Pattern=en, Pattern=ja
+	Constrained: 
+Turn ID=23| B | B : oké ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=24| B | B : worden het letter J
+	Free: Pattern=het, Pattern=worden
+	Constrained: 
+Turn ID=25| A | A : dit zijn degeen met de lepel bovenin en dezelfde lepel aan de zijkant en dan de vierkant die groot worden
+	Free: Pattern=de, Pattern=en dan, Pattern=die, Pattern=en, Pattern=zijn, Pattern=vierkant, Pattern=aan de, Pattern=worden
+	Constrained: Pattern=en, Pattern=dan, Pattern=de
+Turn ID=26| B | B : deze zijn vervelend hij hebben een staart een soort van wormp wat uit hem komen en dan van die gek handvaten dus één hier en één boven hem
+	Free: Pattern=hebben een, Pattern=en dan, Pattern=die, Pattern=een soort, Pattern=en, Pattern=zijn, Pattern=één, Pattern=hem
+	Constrained: Pattern=dan, Pattern=een, Pattern=en, Pattern=hebben
+Turn ID=27| B | B : en er komen zo'n dozenvierkan in
+	Free: Pattern=en, Pattern=in, Pattern=er
+	Constrained: 
+Turn ID=28| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=29| A | A : ik moeten hem even zoeken
+	Free: Pattern=hem
+	Constrained: 
+Turn ID=30| A | A : ja dat zijn negen voor mij
+	Free: Pattern=voor mij, Pattern=dat, Pattern=zijn, Pattern=ja
+	Constrained: 
+Turn ID=31| A | A : dit zijn die met de lepel bovenin en dezelfde lepel links
+	Free: Pattern=de, Pattern=links, Pattern=die, Pattern=en, Pattern=zijn
+	Constrained: 
+Turn ID=32| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=33| B | B : ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=34| B | B : letter B
+	Free: 
+	Constrained: 
+Turn ID=35| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=36| A | A : dat zijn vier voor mij
+	Free: Pattern=voor mij, Pattern=dat, Pattern=zijn
+	Constrained: 
+Turn ID=37| B | B : hij hebben dat stom staart en hij hebben een handvat op en een handvat links en hij hebben van die dos die in hem steken
+	Free: Pattern=dat, Pattern=hebben een, Pattern=op, Pattern=een, Pattern=links, Pattern=hebben, Pattern=handvat, Pattern=in, Pattern=die, Pattern=en, Pattern=hem, Pattern=steken
+	Constrained: Pattern=hebben, Pattern=een
+Turn ID=38| B | B : die vierkant
+	Free: Pattern=vierkant, Pattern=die
+	Constrained: 

@@ -1,0 +1,123 @@
+B|0| B: _ja_ _ik weten_ hem 
+B|1| B: g 
+B|2| B: okeeen _ik_ _hebben_ _een_ _een_ balle _dat_ bovenop liggen _met_ niks niks erin _en_ dan _een_ _een_ langwerpig rechthoekig _staaf_ _aan de_ voorkant 
+A|3| A: nou [hebben] [ik] er weer [een] 
+A|4| A: deze lijken [een] beetje op [de] korf van [een] korfbal 
+A|5| A: of _zo'n_ korfbal korf 
+A|6| A: [met] [de] _bal_ op [de] korf _die_ er zo ieder moment in kunnen gaan vallen 
+A|7| A: [met] [aan] _linkerkant_ [een] iets lang haakjeten [en] [aan de] rechterkant [een] iets kort uitstulpink 
+A|8| A: [ja] [dat] zijn _die_ [staaf] zegmaar van _die_ van [de] 
+A|9| A: van [de] van [de] korf [ja] 
+A|10| A: [ik weten] niet 
+A|11| A: [ja] 
+B|12| B: [ja] 
+B|13| B: d 
+B|14| B: [ik] [hebben] bovenop [een] [bal] [met] niks erop [en] dan [linkerkant] [zo'n] dinge naar _je_ toe wijst [weten] _je_ wel [die] hoek naar _je_ toe wijzen 
+A|15| A: oké 
+A|16| A: [ja] 
+A|17| A: [dat] zijn [die] korfbalkorf [een] beetje 
+A|18| A: [ja] 
+A|19| A: [dat] zijn tien 
+B|20| B: [ja] 
+B|21| B: à 
+B|22| B: _de de_ bolle bovenop [met] niks eraan [en] dan [dat] dinge [linkerkant] [dat] naar _je_ toe wijst [weten] _je_ [die] draaien 
+A|23| A: dit zijn [de] , hoe zeggen [je] [dat] nou , handbalkorf , [met] [de] vallen [bal] 
+A|24| A: [ja] 
+A|25| A: [ja] [ja] [ja] even kijken elf 
+A|26| A: dit zijn weer [de de] korfbalmand [met] [de] [met] [de] [bal] 
+A|27| A: [aan de] rand 
+A|28| A: [ja] 
+A|29| A: vijf 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : ja ik weten hem
+	Free: Pattern=ik weten, Pattern=ja
+	Constrained: Pattern=weten, Pattern=ik
+Turn ID=1| B | B : g
+	Free: 
+	Constrained: 
+Turn ID=2| B | B : okeeen ik hebben een een balle dat bovenop liggen met niks niks erin en dan een een langwerpig rechthoekig staaf aan de voorkant
+	Free: Pattern=dat, Pattern=staaf, Pattern=aan de, Pattern=een, Pattern=hebben, Pattern=met, Pattern=ik, Pattern=en
+	Constrained: Pattern=de, Pattern=aan
+Turn ID=3| A | A : nou hebben ik er weer een
+	Free: Pattern=een, Pattern=hebben, Pattern=ik
+	Constrained: 
+Turn ID=4| A | A : deze lijken een beetje op de korf van een korfbal
+	Free: Pattern=een, Pattern=de
+	Constrained: 
+Turn ID=5| A | A : of zo'n korfbal korf
+	Free: Pattern=zo'n
+	Constrained: 
+Turn ID=6| A | A : met de bal op de korf die er zo ieder moment in kunnen gaan vallen
+	Free: Pattern=die, Pattern=de, Pattern=bal, Pattern=met
+	Constrained: 
+Turn ID=7| A | A : met aan linkerkant een iets lang haakjeten en aan de rechterkant een iets kort uitstulpink
+	Free: Pattern=aan, Pattern=aan de, Pattern=een, Pattern=met, Pattern=en, Pattern=linkerkant
+	Constrained: Pattern=de, Pattern=aan
+Turn ID=8| A | A : ja dat zijn die staaf zegmaar van die van de
+	Free: Pattern=dat, Pattern=staaf, Pattern=die, Pattern=de, Pattern=ja
+	Constrained: 
+Turn ID=9| A | A : van de van de korf ja
+	Free: Pattern=ja, Pattern=de
+	Constrained: 
+Turn ID=10| A | A : ik weten niet
+	Free: Pattern=ik weten
+	Constrained: Pattern=weten, Pattern=ik
+Turn ID=11| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=12| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=13| B | B : d
+	Free: 
+	Constrained: 
+Turn ID=14| B | B : ik hebben bovenop een bal met niks erop en dan linkerkant zo'n dinge naar je toe wijst weten je wel die hoek naar je toe wijzen
+	Free: Pattern=een, Pattern=weten, Pattern=hebben, Pattern=met, Pattern=die, Pattern=ik, Pattern=en, Pattern=je, Pattern=linkerkant, Pattern=zo'n, Pattern=bal
+	Constrained: 
+Turn ID=15| A | A : oké
+	Free: 
+	Constrained: 
+Turn ID=16| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=17| A | A : dat zijn die korfbalkorf een beetje
+	Free: Pattern=een, Pattern=dat, Pattern=die
+	Constrained: 
+Turn ID=18| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=19| A | A : dat zijn tien
+	Free: Pattern=dat
+	Constrained: 
+Turn ID=20| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=21| B | B : à
+	Free: 
+	Constrained: 
+Turn ID=22| B | B : de de bolle bovenop met niks eraan en dan dat dinge linkerkant dat naar je toe wijst weten je die draaien
+	Free: Pattern=dat, Pattern=de de, Pattern=weten, Pattern=met, Pattern=die, Pattern=en, Pattern=je, Pattern=linkerkant
+	Constrained: Pattern=de
+Turn ID=23| A | A : dit zijn de , hoe zeggen je dat nou , handbalkorf , met de vallen bal
+	Free: Pattern=dat, Pattern=bal, Pattern=de, Pattern=met, Pattern=je
+	Constrained: 
+Turn ID=24| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=25| A | A : ja ja ja even kijken elf
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=26| A | A : dit zijn weer de de korfbalmand met de met de bal
+	Free: Pattern=de de, Pattern=de, Pattern=bal, Pattern=met
+	Constrained: Pattern=de
+Turn ID=27| A | A : aan de rand
+	Free: Pattern=aan de
+	Constrained: Pattern=de, Pattern=aan
+Turn ID=28| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=29| A | A : vijf
+	Free: 
+	Constrained: 

@@ -1,0 +1,151 @@
+A|0| A: _oké_ bij mij _zijn_ _het_ _ik_ denken _dat_ _het_ een soort _van_ waterpomp _zijn_ _maar_ _het_ _zijn_ een één _de_ basisvorm _met_ _dan_ een soort _van_ vierkant _staaf_ aan _de_ aan _de_ rechtsvoor 
+A|1| A: _en dan_ liggen _er_ een _ei_ bovenop 
+B|2| B: _ja_ _en dan twee van die_ 
+A|3| A: [en dan twee van die] soort [van] ding of _zo_ waar _je_ handvaat wat _het_ ook _zijn_ 
+B|4| B: _ja_ 
+B|5| B: _ja_ 
+B|6| B: _ja_ 
+B|7| B: _ja_ [oké] hebbes 
+A|8| A: [ja] 
+B|9| B: _dat zijn_ D 
+B|10| B: _dit zijn_ [die] we net hebben [die] hoe noemen [je] [dat] nou 
+B|11| B: [met] zo'n paal [en] ervoor [en dan twee van die] dinge _die eruit komen_ 
+A|12| A: [ja] _de_ _de pomp_ 
+A|13| A: _met die_ [met] [dat] _ei_ wat erbovenop liggen 
+B|14| B: [ja] 
+B|15| B: [ja] [die] 
+A|16| A: [ja] [ja] [dat zijn] bij mij vijftien 
+A|17| A: _dit zijn de pomp_ 
+A|18| A: [met] [dat] _ei_ wat erbovenop liggen _met _die_ staaf_ waar [die] eigenlijk aan lijken te hangen of _zo_ 
+B|19| B: [ja] 
+B|20| B: [ja] 
+B|21| B: [dat zijn] L 
+B|22| B: [dit zijn] [ik] weten niet veel hoe [je] [dat] _zeggen maar [met_ die] bol erop [en] [die staaf] voor [en dan twee van die] dinge [die] [er] [zo] uit 
+B|23| B: hoe noemen [je] [dat] nou 
+B|24| B: kop [met] zo'n rond bol erop [en dan] zo'n [staaf] [die] ervoor staan 
+A|25| A: [ja] _de_ _de pomp_ 
+B|26| B: [ja] [pomp] 
+A|27| A: [ja] 
+B|28| B: [ja] 
+A|29| A: [ja] [ja] _met het ei_ wat erbovenop liggen 
+B|30| B: [ja] 
+A|31| A: nummer zes 
+A|32| A: _dit zijn de_ waterpomp [zeggen maar _met] het ei_ wat erbovenop liggen [en dan] [die] [twee] ding [die eruit komen] 
+B|33| B: [ja] 
+B|34| B: J 
+B|35| B: [dit zijn de pomp] [met het ei] 
+A|36| A: [ja] nummer drie 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : oké bij mij zijn het ik denken dat het een soort van waterpomp zijn maar het zijn een één de basisvorm met dan een soort van vierkant staaf aan de aan de rechtsvoor
+	Free: Pattern=dat, Pattern=de, Pattern=staaf, Pattern=dan, Pattern=het, Pattern=met, Pattern=oké, Pattern=ik, Pattern=van, Pattern=zijn, Pattern=maar
+	Constrained: 
+Turn ID=1| A | A : en dan liggen er een ei bovenop
+	Free: Pattern=en dan, Pattern=ei, Pattern=er
+	Constrained: Pattern=en, Pattern=dan
+Turn ID=2| B | B : ja en dan twee van die
+	Free: Pattern=en dan twee van die, Pattern=ja
+	Constrained: Pattern=twee, Pattern=en dan, Pattern=dan, Pattern=die, Pattern=van, Pattern=en
+Turn ID=3| A | A : en dan twee van die soort van ding of zo waar je handvaat wat het ook zijn
+	Free: Pattern=het, Pattern=zo, Pattern=en dan twee van die, Pattern=van, Pattern=zijn, Pattern=je
+	Constrained: Pattern=twee, Pattern=en dan, Pattern=dan, Pattern=die, Pattern=van, Pattern=en
+Turn ID=4| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=5| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=6| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=7| B | B : ja oké hebbes
+	Free: Pattern=oké, Pattern=ja
+	Constrained: 
+Turn ID=8| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=9| B | B : dat zijn D
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=10| B | B : dit zijn die we net hebben die hoe noemen je dat nou
+	Free: Pattern=dit zijn, Pattern=je, Pattern=die, Pattern=dat
+	Constrained: Pattern=zijn
+Turn ID=11| B | B : met zo'n paal en ervoor en dan twee van die dinge die eruit komen
+	Free: Pattern=en dan twee van die, Pattern=die eruit komen, Pattern=met, Pattern=en
+	Constrained: Pattern=twee, Pattern=en dan, Pattern=dan, Pattern=die, Pattern=van, Pattern=en
+Turn ID=12| A | A : ja de de pomp
+	Free: Pattern=de pomp, Pattern=de, Pattern=ja
+	Constrained: Pattern=pomp, Pattern=de
+Turn ID=13| A | A : met die met dat ei wat erbovenop liggen
+	Free: Pattern=met die, Pattern=met, Pattern=dat, Pattern=ei
+	Constrained: Pattern=met, Pattern=die
+Turn ID=14| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=15| B | B : ja die
+	Free: Pattern=die, Pattern=ja
+	Constrained: 
+Turn ID=16| A | A : ja ja dat zijn bij mij vijftien
+	Free: Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=17| A | A : dit zijn de pomp
+	Free: Pattern=dit zijn de pomp
+	Constrained: Pattern=de, Pattern=de pomp, Pattern=dit zijn, Pattern=zijn, Pattern=pomp, Pattern=dit zijn de
+Turn ID=18| A | A : met dat ei wat erbovenop liggen met die staaf waar die eigenlijk aan lijken te hangen of zo
+	Free: Pattern=ei, Pattern=zo, Pattern=met, Pattern=dat, Pattern=met die, Pattern=die staaf, Pattern=die
+	Constrained: Pattern=met, Pattern=die, Pattern=staaf
+Turn ID=19| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=20| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=21| B | B : dat zijn L
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=22| B | B : dit zijn ik weten niet veel hoe je dat zeggen maar met die bol erop en die staaf voor en dan twee van die dinge die er zo uit
+	Free: Pattern=zeggen maar met, Pattern=zo, Pattern=en dan twee van die, Pattern=er, Pattern=ik, Pattern=en, Pattern=je, Pattern=dit zijn, Pattern=dat, Pattern=met die, Pattern=die staaf, Pattern=die
+	Constrained: Pattern=twee, Pattern=dan, Pattern=met, Pattern=die, Pattern=staaf, Pattern=en dan, Pattern=van, Pattern=en, Pattern=zijn, Pattern=maar
+Turn ID=23| B | B : hoe noemen je dat nou
+	Free: Pattern=je, Pattern=dat
+	Constrained: 
+Turn ID=24| B | B : kop met zo'n rond bol erop en dan zo'n staaf die ervoor staan
+	Free: Pattern=en dan, Pattern=met, Pattern=die, Pattern=staaf
+	Constrained: Pattern=en, Pattern=dan
+Turn ID=25| A | A : ja de de pomp
+	Free: Pattern=de pomp, Pattern=de, Pattern=ja
+	Constrained: Pattern=pomp, Pattern=de
+Turn ID=26| B | B : ja pomp
+	Free: Pattern=pomp, Pattern=ja
+	Constrained: 
+Turn ID=27| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=28| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=29| A | A : ja ja met het ei wat erbovenop liggen
+	Free: Pattern=met het ei, Pattern=ja
+	Constrained: Pattern=met, Pattern=het, Pattern=ei
+Turn ID=30| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=31| A | A : nummer zes
+	Free: 
+	Constrained: 
+Turn ID=32| A | A : dit zijn de waterpomp zeggen maar met het ei wat erbovenop liggen en dan die twee ding die eruit komen
+	Free: Pattern=met het ei, Pattern=twee, Pattern=en dan, Pattern=zeggen maar met, Pattern=die, Pattern=die eruit komen, Pattern=dit zijn de
+	Constrained: Pattern=ei, Pattern=de, Pattern=dan, Pattern=het, Pattern=met, Pattern=die, Pattern=en, Pattern=dit zijn, Pattern=zijn, Pattern=maar
+Turn ID=33| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=34| B | B : J
+	Free: 
+	Constrained: 
+Turn ID=35| B | B : dit zijn de pomp met het ei
+	Free: Pattern=dit zijn de pomp, Pattern=met het ei
+	Constrained: Pattern=ei, Pattern=de, Pattern=het, Pattern=met, Pattern=de pomp, Pattern=dit zijn, Pattern=zijn, Pattern=pomp, Pattern=dit zijn de
+Turn ID=36| A | A : ja nummer drie
+	Free: Pattern=ja
+	Constrained: 

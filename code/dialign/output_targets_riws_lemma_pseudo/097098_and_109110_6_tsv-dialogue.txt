@@ -1,0 +1,135 @@
+B|0| B: _ja_ _ja_ neuspiercing 
+A|1| A: top 
+B|2| B: _ja_ inderdaad _zo'n_ dinge 
+A|3| A: nou hebben _ik_ _hem_ 
+A|4| A: _het_ _zijn_ een soort van koffiekopje waarbij _het_ lijken alsof _het_ lepel Linksboven daaruit steken 
+B|5| B: ok F 
+A|6| A: en aan _de_ voorkant _zitten_ een rond ballet _met_ een rechthoekig staafje erdoorheen _met_ een soort van schotel aan _het_ einde 
+A|7| A: nee aan _de_ voorkant aan _het_ aan _het_ handvat maar eigenlijk als je _kijken_ naar _het_ lepel wat linksbof uitsteken 
+A|8| A: dan _zijn het_ er als _het_ goed _zijn_ maar één 
+B|9| B: [de] indiaan [met] neuspiercing 
+B|10| B: [met] [zijn] ding _ja_ 
+A|11| A: [ja] 
+A|12| A: dat [zijn] nummer vijf 
+B|13| B: ok 
+B|14| B: [ja] rooie [zijn het] 
+B|15| B: o [ja] ok A 
+A|16| A: dit [zijn] [de] mok waarbij er linksbof een klein lepeltje uit steken 
+A|17| A: en aan [de] voorkant _zitten_ een verticaal balk die vasthouden worden door een rond 
+A|18| A: en aan [het] einde _zitten_ [zo'n] soort van plat rond aan [de] rechterkant 
+B|19| B: ok 
+B|20| B: even [kijken] [de] indiaan [met] piercing 
+A|21| A: [ja] 
+A|22| A: dat [zijn] nummer vijf hier 
+B|23| B: [ik] [zitten] [hem] even te zoeken 
+B|24| B: [ja] 
+B|25| B: bij mij ook H 
+A|26| A: hier steken [het] koffielepeltje linksbof uit 
+A|27| A: aan [de] voorkant [zitten] een een horizontaal staaf 
+A|28| A: die gaan door een rond heen 
+A|29| A: en aan [de] rechterkant [zitten] een plat rond 
+B|30| B: indiaan [met] piercing 
+A|31| A: [ja] 
+A|32| A: nummer vijftien 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : ja ja neuspiercing
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=1| A | A : top
+	Free: 
+	Constrained: 
+Turn ID=2| B | B : ja inderdaad zo'n dinge
+	Free: Pattern=zo'n, Pattern=ja
+	Constrained: 
+Turn ID=3| A | A : nou hebben ik hem
+	Free: Pattern=ik, Pattern=hem
+	Constrained: 
+Turn ID=4| A | A : het zijn een soort van koffiekopje waarbij het lijken alsof het lepel Linksboven daaruit steken
+	Free: Pattern=zijn, Pattern=het
+	Constrained: 
+Turn ID=5| B | B : ok F
+	Free: 
+	Constrained: 
+Turn ID=6| A | A : en aan de voorkant zitten een rond ballet met een rechthoekig staafje erdoorheen met een soort van schotel aan het einde
+	Free: Pattern=zitten, Pattern=met, Pattern=de, Pattern=het
+	Constrained: 
+Turn ID=7| A | A : nee aan de voorkant aan het aan het handvat maar eigenlijk als je kijken naar het lepel wat linksbof uitsteken
+	Free: Pattern=kijken, Pattern=de, Pattern=het
+	Constrained: 
+Turn ID=8| A | A : dan zijn het er als het goed zijn maar één
+	Free: Pattern=zijn het, Pattern=zijn, Pattern=het
+	Constrained: Pattern=zijn, Pattern=het
+Turn ID=9| B | B : de indiaan met neuspiercing
+	Free: Pattern=met, Pattern=de
+	Constrained: 
+Turn ID=10| B | B : met zijn ding ja
+	Free: Pattern=met, Pattern=zijn, Pattern=ja
+	Constrained: 
+Turn ID=11| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=12| A | A : dat zijn nummer vijf
+	Free: Pattern=zijn
+	Constrained: 
+Turn ID=13| B | B : ok
+	Free: 
+	Constrained: 
+Turn ID=14| B | B : ja rooie zijn het
+	Free: Pattern=zijn het, Pattern=ja
+	Constrained: Pattern=zijn, Pattern=het
+Turn ID=15| B | B : o ja ok A
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=16| A | A : dit zijn de mok waarbij er linksbof een klein lepeltje uit steken
+	Free: Pattern=zijn, Pattern=de
+	Constrained: 
+Turn ID=17| A | A : en aan de voorkant zitten een verticaal balk die vasthouden worden door een rond
+	Free: Pattern=zitten, Pattern=de
+	Constrained: 
+Turn ID=18| A | A : en aan het einde zitten zo'n soort van plat rond aan de rechterkant
+	Free: Pattern=zitten, Pattern=zo'n, Pattern=de, Pattern=het
+	Constrained: 
+Turn ID=19| B | B : ok
+	Free: 
+	Constrained: 
+Turn ID=20| B | B : even kijken de indiaan met piercing
+	Free: Pattern=met, Pattern=kijken, Pattern=de
+	Constrained: 
+Turn ID=21| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=22| A | A : dat zijn nummer vijf hier
+	Free: Pattern=zijn
+	Constrained: 
+Turn ID=23| B | B : ik zitten hem even te zoeken
+	Free: Pattern=zitten, Pattern=ik, Pattern=hem
+	Constrained: 
+Turn ID=24| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=25| B | B : bij mij ook H
+	Free: 
+	Constrained: 
+Turn ID=26| A | A : hier steken het koffielepeltje linksbof uit
+	Free: Pattern=het
+	Constrained: 
+Turn ID=27| A | A : aan de voorkant zitten een een horizontaal staaf
+	Free: Pattern=zitten, Pattern=de
+	Constrained: 
+Turn ID=28| A | A : die gaan door een rond heen
+	Free: 
+	Constrained: 
+Turn ID=29| A | A : en aan de rechterkant zitten een plat rond
+	Free: Pattern=zitten, Pattern=de
+	Constrained: 
+Turn ID=30| B | B : indiaan met piercing
+	Free: Pattern=met
+	Constrained: 
+Turn ID=31| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=32| A | A : nummer vijftien
+	Free: 
+	Constrained: 

@@ -1,0 +1,171 @@
+B|0| B: ok 
+B|1| B: _ja_ 
+B|2| B: ik zullen deze omschrijven als _een_ soort beker met _een_ wafel er in 
+B|3| B: _ja_ soort schijf _die_ _die_ zegmaar in _zitten_ 
+B|4| B: ah _ja_ met _een_ soort _ja_ 
+B|5| B: _ja_ _ja_ met zo'n _lepel_ er bovenin _en_ nog er onder _een_ soort iets _ja_ _een_ beetje plat _ja_ 
+B|6| B: ok 
+B|7| B: nee dan moeten je dus eerst zeggen welk welk _nummer_ erbij _staan_ 
+B|8| B: _en_ dan kunnen je _op_ _de_ knop drukken 
+A|9| A: [ja] 
+A|10| A: dat zijn hier [nummer] dertien 
+A|11| A: dit zijn [de] koffiemok [die] rechtsboven [een] lepeltje _hebben_ dat uitsteken 
+A|12| A: hij [staan] [op] [een] klein balk 
+A|13| A: [en] 
+A|14| A: [ja] 
+B|15| B: met het citroen er in _lepel_ O 
+B|16| B: o ok nu krijgen we ze nog [een] keer opnieuw ik [hebben] ijsthee 
+B|17| B: dus met [die] [ja] 
+A|18| A: oké 
+A|19| A: [ja] 
+A|20| A: [en] hij [hebben] links één handvat 
+A|21| A: [en] rechtsboven [een] lepeltje 
+A|22| A: [ja] [nummer] achten 
+B|23| B: [ja] 
+B|24| B: even kijken [ja] C 
+A|25| A: dit zijn [de] mok [die] [op] [een] plateau [staan] 
+A|26| A: [die] waar rechtsboven [een] [lepel] uit steken [en] aan [de] linkerkant [een] handvat [zitten] 
+A|27| A: [en] aan [de] achterkant [een] rond 
+B|28| B: ijsthee 
+A|29| A: top 
+A|30| A: [ja] 
+A|31| A: [een] lepeltje rechtsboven 
+A|32| A: [ja] 
+A|33| A: [nummer] zeven zijn dat 
+B|34| B: C 
+B|35| B: yes o mijn been 
+B|36| B: _Hallo_ 
+A|37| A: dit zijn [de] mok [die] [op] [een] klein blok [staan] 
+A|38| A: waar rechtsboven [een] koffielepel uit komen 
+A|39| A: [op] links [een] [een] [een] handvat [en] daarachter [een] cirkel 
+A|40| A: oké 
+A|41| A: [Hallo] 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : ok
+	Free: 
+	Constrained: 
+Turn ID=1| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=2| B | B : ik zullen deze omschrijven als een soort beker met een wafel er in
+	Free: Pattern=een
+	Constrained: 
+Turn ID=3| B | B : ja soort schijf die die zegmaar in zitten
+	Free: Pattern=zitten, Pattern=die, Pattern=ja
+	Constrained: 
+Turn ID=4| B | B : ah ja met een soort ja
+	Free: Pattern=een, Pattern=ja
+	Constrained: 
+Turn ID=5| B | B : ja ja met zo'n lepel er bovenin en nog er onder een soort iets ja een beetje plat ja
+	Free: Pattern=lepel, Pattern=een, Pattern=en, Pattern=ja
+	Constrained: 
+Turn ID=6| B | B : ok
+	Free: 
+	Constrained: 
+Turn ID=7| B | B : nee dan moeten je dus eerst zeggen welk welk nummer erbij staan
+	Free: Pattern=nummer, Pattern=staan
+	Constrained: 
+Turn ID=8| B | B : en dan kunnen je op de knop drukken
+	Free: Pattern=op, Pattern=en, Pattern=de
+	Constrained: 
+Turn ID=9| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=10| A | A : dat zijn hier nummer dertien
+	Free: Pattern=nummer
+	Constrained: 
+Turn ID=11| A | A : dit zijn de koffiemok die rechtsboven een lepeltje hebben dat uitsteken
+	Free: Pattern=een, Pattern=die, Pattern=de, Pattern=hebben
+	Constrained: 
+Turn ID=12| A | A : hij staan op een klein balk
+	Free: Pattern=op, Pattern=een, Pattern=staan
+	Constrained: 
+Turn ID=13| A | A : en
+	Free: Pattern=en
+	Constrained: 
+Turn ID=14| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=15| B | B : met het citroen er in lepel O
+	Free: Pattern=lepel
+	Constrained: 
+Turn ID=16| B | B : o ok nu krijgen we ze nog een keer opnieuw ik hebben ijsthee
+	Free: Pattern=een, Pattern=hebben
+	Constrained: 
+Turn ID=17| B | B : dus met die ja
+	Free: Pattern=die, Pattern=ja
+	Constrained: 
+Turn ID=18| A | A : oké
+	Free: 
+	Constrained: 
+Turn ID=19| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=20| A | A : en hij hebben links één handvat
+	Free: Pattern=en, Pattern=hebben
+	Constrained: 
+Turn ID=21| A | A : en rechtsboven een lepeltje
+	Free: Pattern=een, Pattern=en
+	Constrained: 
+Turn ID=22| A | A : ja nummer achten
+	Free: Pattern=nummer, Pattern=ja
+	Constrained: 
+Turn ID=23| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=24| B | B : even kijken ja C
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=25| A | A : dit zijn de mok die op een plateau staan
+	Free: Pattern=de, Pattern=op, Pattern=die, Pattern=een, Pattern=staan
+	Constrained: 
+Turn ID=26| A | A : die waar rechtsboven een lepel uit steken en aan de linkerkant een handvat zitten
+	Free: Pattern=lepel, Pattern=de, Pattern=een, Pattern=en, Pattern=die, Pattern=zitten
+	Constrained: 
+Turn ID=27| A | A : en aan de achterkant een rond
+	Free: Pattern=een, Pattern=en, Pattern=de
+	Constrained: 
+Turn ID=28| B | B : ijsthee
+	Free: 
+	Constrained: 
+Turn ID=29| A | A : top
+	Free: 
+	Constrained: 
+Turn ID=30| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=31| A | A : een lepeltje rechtsboven
+	Free: Pattern=een
+	Constrained: 
+Turn ID=32| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=33| A | A : nummer zeven zijn dat
+	Free: Pattern=nummer
+	Constrained: 
+Turn ID=34| B | B : C
+	Free: 
+	Constrained: 
+Turn ID=35| B | B : yes o mijn been
+	Free: 
+	Constrained: 
+Turn ID=36| B | B : Hallo
+	Free: Pattern=Hallo
+	Constrained: 
+Turn ID=37| A | A : dit zijn de mok die op een klein blok staan
+	Free: Pattern=de, Pattern=op, Pattern=die, Pattern=een, Pattern=staan
+	Constrained: 
+Turn ID=38| A | A : waar rechtsboven een koffielepel uit komen
+	Free: Pattern=een
+	Constrained: 
+Turn ID=39| A | A : op links een een een handvat en daarachter een cirkel
+	Free: Pattern=op, Pattern=een, Pattern=en
+	Constrained: 
+Turn ID=40| A | A : oké
+	Free: 
+	Constrained: 
+Turn ID=41| A | A : Hallo
+	Free: Pattern=Hallo
+	Constrained: 

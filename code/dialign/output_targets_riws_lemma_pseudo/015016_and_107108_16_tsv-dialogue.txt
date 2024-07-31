@@ -1,0 +1,199 @@
+A|0| A: _ja_ deze hebben _zeggen maar die_ emmer _en_ dan hebben _je_ bovenop zo'n rond staan _en_ dan _aan de_ zijkant zitten _weer_ precies hetzelfde figuur 
+A|1| A: _en_ _aan de rechterkant_ _zo_ zitten _ja_ zo'n _vierkant_ telescoop _zeggen maar_ dus zo'n _vierkant_ wat _de_ heel tijd klein worden 
+A|2| A: _ja_ wat _zijn_ _dat_ ? zo'n langwerpig _ja_ soort handvat _of zo_ achtig 
+A|3| A: _en_ _aan de_ zijkant zitten _die_ zitten _weer_ precies dezelfde vorm _zeggen maar_ 
+A|4| A: _en_ _aan de_ achterkant zitten _nog_ zo'n buis 
+A|5| A: _of_ _iets_ 
+B|6| B: o _ja ik_ _ja _ik_ weten_ denken _ik_ wel _welk je bedoelen_ _dat zijn_ bij mij E 
+A|7| A: oké 
+B|8| B: ok 
+A|9| A: [ja] precies _aan de_ achterkant _nog_ _die_ buis 
+A|10| A: _ja dat zijn_ elf 
+B|11| B: _dit zijn_ [ja] [weer] [dat] dinge _met dat_ _met dat_ ovaal dinge _aan de bovenkant_ ovaal dinge [zeggen maar] [aan de] linkerkant _en die_ 
+B|12| B: blok [aan de rechterkant] [en] achter [nog] [iets] van _een_ slurf [of zo] 
+B|13| B: [ja] 
+B|14| B: ok bij mij F 
+A|15| A: [ja] [dit zijn] [weer] _die met die_ rond vorm [aan de bovenkant] [en] [aan de] zijkant 
+A|16| A: [en] dan _die vierkant_ [die] klein worden _ook_ [aan de] [aan de] voorkant [zeggen] 
+A|17| A: [aan de] achterkant [die] buis 
+A|18| A: hoe zullen we [die] noemen 
+A|19| A: [ik] vinden _het_ [nog] 
+A|20| A: [ik] vinden 
+A|21| A: [ja] 
+A|22| A: [ja ik] vinden _het_ _een beetje_ zo'n telescoopachtig ding 
+A|23| A: telescoop _doen_ 
+B|24| B: o [die met [die] vierkant] [ook] [ja dat zijn] bij mij J 
+B|25| B: ok 
+B|26| B: [ja] [het] [doen] mij [een beetje] denken [aan] [een] miereneter van achteren [of zo] [ja] [met] vanwege [die] toet [zo] 
+B|27| B: [ja] 
+A|28| A: wachten _even_ zoeken 
+A|29| A: [ja] [ja] [ja] [ja] 
+A|30| A: [ik weten] [welk je bedoelen] 
+A|31| A: [ik] [zijn] hem _even_ [aan] [het] zoeken [ik] kunnen hem niet 
+A|32| A: [met dat] [vierkant] [ja] precies 
+A|33| A: negen 
+B|34| B: [dit zijn] [zeggen maar die] bij mij op [de] miereneter [zeggen maar] op [de] van achter lijken 
+B|35| B: ok bij mij H 
+A|36| A: [ja] [dit zijn] [die] telescoop [zeggen maar] 
+A|37| A: [dit zijn] [die] 
+A|38| A: [dat] [vierkant] [dat] steeds klein worden [en die] twee zelfde figuur 
+A|39| A: [ja] [ja] [ja] [ja] 
+A|40| A: ah [zo] 
+A|41| A: [ja] [die] telescoop achtig ding 
+A|42| A: [ja] [weten] [ik] veel [ja] 
+A|43| A: [dat zijn] vier 
+B|44| B: [even] kijken waar [die] [zijn] o daar B 
+B|45| B: h [even] kijken 
+B|46| B: ok 
+B|47| B: o [dit zijn] [de] miereneter van achter 
+B|48| B: ok bij mij E 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : ja deze hebben zeggen maar die emmer en dan hebben je bovenop zo'n rond staan en dan aan de zijkant zitten weer precies hetzelfde figuur
+	Free: Pattern=zeggen maar die, Pattern=ja, Pattern=aan de, Pattern=en, Pattern=weer, Pattern=je
+	Constrained: Pattern=zeggen maar, Pattern=zeggen, Pattern=die, Pattern=de, Pattern=aan
+Turn ID=1| A | A : en aan de rechterkant zo zitten ja zo'n vierkant telescoop zeggen maar dus zo'n vierkant wat de heel tijd klein worden
+	Free: Pattern=zeggen maar, Pattern=zo, Pattern=aan de rechterkant, Pattern=en, Pattern=vierkant, Pattern=de, Pattern=ja
+	Constrained: Pattern=aan, Pattern=zeggen, Pattern=de, Pattern=aan de
+Turn ID=2| A | A : ja wat zijn dat ? zo'n langwerpig ja soort handvat of zo achtig
+	Free: Pattern=of zo, Pattern=zijn, Pattern=dat, Pattern=ja
+	Constrained: Pattern=zo, Pattern=of
+Turn ID=3| A | A : en aan de zijkant zitten die zitten weer precies dezelfde vorm zeggen maar
+	Free: Pattern=aan de, Pattern=zeggen maar, Pattern=die, Pattern=en, Pattern=weer
+	Constrained: Pattern=de, Pattern=zeggen, Pattern=aan
+Turn ID=4| A | A : en aan de achterkant zitten nog zo'n buis
+	Free: Pattern=aan de, Pattern=en, Pattern=nog
+	Constrained: Pattern=de, Pattern=aan
+Turn ID=5| A | A : of iets
+	Free: Pattern=iets, Pattern=of
+	Constrained: 
+Turn ID=6| B | B : o ja ik ja ik weten denken ik wel welk je bedoelen dat zijn bij mij E
+	Free: Pattern=dat zijn, Pattern=welk je bedoelen, Pattern=ik weten, Pattern=ja ik, Pattern=ik
+	Constrained: Pattern=dat, Pattern=ja, Pattern=weten, Pattern=ik, Pattern=zijn, Pattern=je
+Turn ID=7| A | A : oké
+	Free: 
+	Constrained: 
+Turn ID=8| B | B : ok
+	Free: 
+	Constrained: 
+Turn ID=9| A | A : ja precies aan de achterkant nog die buis
+	Free: Pattern=aan de, Pattern=die, Pattern=ja, Pattern=nog
+	Constrained: Pattern=de, Pattern=aan
+Turn ID=10| A | A : ja dat zijn elf
+	Free: Pattern=ja dat zijn
+	Constrained: Pattern=dat zijn, Pattern=zijn, Pattern=dat, Pattern=ja
+Turn ID=11| B | B : dit zijn ja weer dat dinge met dat met dat ovaal dinge aan de bovenkant ovaal dinge zeggen maar aan de linkerkant en die
+	Free: Pattern=en die, Pattern=dat, Pattern=ja, Pattern=aan de, Pattern=zeggen maar, Pattern=met dat, Pattern=aan de bovenkant, Pattern=weer, Pattern=dit zijn
+	Constrained: Pattern=dat, Pattern=aan de, Pattern=zeggen, Pattern=met, Pattern=die, Pattern=en, Pattern=zijn, Pattern=de, Pattern=aan
+Turn ID=12| B | B : blok aan de rechterkant en achter nog iets van een slurf of zo
+	Free: Pattern=nog, Pattern=of zo, Pattern=iets, Pattern=een, Pattern=aan de rechterkant, Pattern=en
+	Constrained: Pattern=of, Pattern=aan de, Pattern=zo, Pattern=de, Pattern=aan
+Turn ID=13| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=14| B | B : ok bij mij F
+	Free: 
+	Constrained: 
+Turn ID=15| A | A : ja dit zijn weer die met die rond vorm aan de bovenkant en aan de zijkant
+	Free: Pattern=ja, Pattern=die met die, Pattern=aan de, Pattern=weer, Pattern=dit zijn, Pattern=aan de bovenkant, Pattern=en
+	Constrained: Pattern=aan de, Pattern=met, Pattern=die, Pattern=zijn, Pattern=de, Pattern=aan
+Turn ID=16| A | A : en dan die vierkant die klein worden ook aan de aan de voorkant zeggen
+	Free: Pattern=die vierkant, Pattern=zeggen, Pattern=die, Pattern=en, Pattern=aan de, Pattern=ook
+	Constrained: Pattern=die, Pattern=vierkant, Pattern=de, Pattern=aan
+Turn ID=17| A | A : aan de achterkant die buis
+	Free: Pattern=aan de, Pattern=die
+	Constrained: Pattern=de, Pattern=aan
+Turn ID=18| A | A : hoe zullen we die noemen
+	Free: Pattern=die
+	Constrained: 
+Turn ID=19| A | A : ik vinden het nog
+	Free: Pattern=ik, Pattern=het, Pattern=nog
+	Constrained: 
+Turn ID=20| A | A : ik vinden
+	Free: Pattern=ik
+	Constrained: 
+Turn ID=21| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=22| A | A : ja ik vinden het een beetje zo'n telescoopachtig ding
+	Free: Pattern=een beetje, Pattern=ja ik, Pattern=het
+	Constrained: Pattern=ik, Pattern=een, Pattern=ja
+Turn ID=23| A | A : telescoop doen
+	Free: Pattern=doen
+	Constrained: 
+Turn ID=24| B | B : o die met die vierkant ook ja dat zijn bij mij J
+	Free: Pattern=ja dat zijn, Pattern=die met die, Pattern=die vierkant, Pattern=ook
+	Constrained: Pattern=ja, Pattern=met, Pattern=die, Pattern=zijn, Pattern=vierkant, Pattern=dat, Pattern=dat zijn
+Turn ID=25| B | B : ok
+	Free: 
+	Constrained: 
+Turn ID=26| B | B : ja het doen mij een beetje denken aan een miereneter van achteren of zo ja met vanwege die toet zo
+	Free: Pattern=een, Pattern=het, Pattern=zo, Pattern=met, Pattern=die, Pattern=een beetje, Pattern=doen, Pattern=of zo, Pattern=aan, Pattern=ja
+	Constrained: Pattern=zo, Pattern=of, Pattern=een
+Turn ID=27| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=28| A | A : wachten even zoeken
+	Free: Pattern=even
+	Constrained: 
+Turn ID=29| A | A : ja ja ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=30| A | A : ik weten welk je bedoelen
+	Free: Pattern=welk je bedoelen, Pattern=ik weten
+	Constrained: Pattern=weten, Pattern=je, Pattern=ik
+Turn ID=31| A | A : ik zijn hem even aan het zoeken ik kunnen hem niet
+	Free: Pattern=aan, Pattern=even, Pattern=het, Pattern=ik, Pattern=zijn
+	Constrained: 
+Turn ID=32| A | A : met dat vierkant ja precies
+	Free: Pattern=met dat, Pattern=vierkant, Pattern=ja
+	Constrained: Pattern=met, Pattern=dat
+Turn ID=33| A | A : negen
+	Free: 
+	Constrained: 
+Turn ID=34| B | B : dit zijn zeggen maar die bij mij op de miereneter zeggen maar op de van achter lijken
+	Free: Pattern=zeggen maar die, Pattern=zeggen maar, Pattern=dit zijn, Pattern=de
+	Constrained: Pattern=zeggen, Pattern=zijn, Pattern=die, Pattern=zeggen maar
+Turn ID=35| B | B : ok bij mij H
+	Free: 
+	Constrained: 
+Turn ID=36| A | A : ja dit zijn die telescoop zeggen maar
+	Free: Pattern=zeggen maar, Pattern=dit zijn, Pattern=die, Pattern=ja
+	Constrained: Pattern=zijn, Pattern=zeggen
+Turn ID=37| A | A : dit zijn die
+	Free: Pattern=dit zijn, Pattern=die
+	Constrained: Pattern=zijn
+Turn ID=38| A | A : dat vierkant dat steeds klein worden en die twee zelfde figuur
+	Free: Pattern=en die, Pattern=vierkant, Pattern=dat
+	Constrained: Pattern=die, Pattern=en
+Turn ID=39| A | A : ja ja ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=40| A | A : ah zo
+	Free: Pattern=zo
+	Constrained: 
+Turn ID=41| A | A : ja die telescoop achtig ding
+	Free: Pattern=die, Pattern=ja
+	Constrained: 
+Turn ID=42| A | A : ja weten ik veel ja
+	Free: Pattern=ik, Pattern=weten, Pattern=ja
+	Constrained: 
+Turn ID=43| A | A : dat zijn vier
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=44| B | B : even kijken waar die zijn o daar B
+	Free: Pattern=zijn, Pattern=die, Pattern=even
+	Constrained: 
+Turn ID=45| B | B : h even kijken
+	Free: Pattern=even
+	Constrained: 
+Turn ID=46| B | B : ok
+	Free: 
+	Constrained: 
+Turn ID=47| B | B : o dit zijn de miereneter van achter
+	Free: Pattern=dit zijn, Pattern=de
+	Constrained: Pattern=zijn
+Turn ID=48| B | B : ok bij mij E
+	Free: 
+	Constrained: 

@@ -1,0 +1,79 @@
+B|0| B: ok deze hebben zeggen maar aan _de_ onderkant _zo'n_ groot schroef erin _en_ _dan_ daaronder zitten een _driehoekje_ _en_ daarboven zitten zeggen maar _dat_ object _en_ _dan_ twee vierkant 
+A|1| A: ah 
+A|2| A: _ja_ 
+A|3| A: _ja_ 
+A|4| A: oké _dat zijn_ vier 
+B|5| B: [ja] [dat zijn] A 
+A|6| A: oké _dit zijn_ wat ik [de] tulp noemen 
+A|7| A: dus [ja] _met die_ verdraaien steel [en] _op zo'n_ soort [driehoekje] waar _die_ [dan] _op_ staat 
+A|8| A: [ja] maken niet uit 
+B|9| B: ok [ja] [dit zijn] [met die] schroef onderaan [op] [dat] [driehoekje] 
+B|10| B: [ja] 
+B|11| B: [ja] [dat zijn] L 
+A|12| A: yes 
+A|13| A: [dat zijn] tien 
+B|14| B: [dit zijn] [met die] schroef aan [de] onderkant [op zo'n] driehoek 
+B|15| B: [ja] [dat zijn] F 
+A|16| A: [dit zijn] [de] tulp 
+A|17| A: oké [dat zijn] vier 
+A|18| A: [dit zijn] [de] tulp 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : ok deze hebben zeggen maar aan de onderkant zo'n groot schroef erin en dan daaronder zitten een driehoekje en daarboven zitten zeggen maar dat object en dan twee vierkant
+	Free: Pattern=dat, Pattern=zo'n, Pattern=de, Pattern=dan, Pattern=en, Pattern=driehoekje
+	Constrained: 
+Turn ID=1| A | A : ah
+	Free: 
+	Constrained: 
+Turn ID=2| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=3| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=4| A | A : oké dat zijn vier
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat
+Turn ID=5| B | B : ja dat zijn A
+	Free: Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=dat
+Turn ID=6| A | A : oké dit zijn wat ik de tulp noemen
+	Free: Pattern=dit zijn, Pattern=de
+	Constrained: 
+Turn ID=7| A | A : dus ja met die verdraaien steel en op zo'n soort driehoekje waar die dan op staat
+	Free: Pattern=met die, Pattern=op zo'n, Pattern=ja, Pattern=op, Pattern=dan, Pattern=die, Pattern=en, Pattern=driehoekje
+	Constrained: Pattern=zo'n, Pattern=op, Pattern=die
+Turn ID=8| A | A : ja maken niet uit
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=9| B | B : ok ja dit zijn met die schroef onderaan op dat driehoekje
+	Free: Pattern=ja, Pattern=op, Pattern=driehoekje, Pattern=dit zijn, Pattern=dat, Pattern=met die
+	Constrained: Pattern=die
+Turn ID=10| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=11| B | B : ja dat zijn L
+	Free: Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=dat
+Turn ID=12| A | A : yes
+	Free: 
+	Constrained: 
+Turn ID=13| A | A : dat zijn tien
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat
+Turn ID=14| B | B : dit zijn met die schroef aan de onderkant op zo'n driehoek
+	Free: Pattern=dit zijn, Pattern=met die, Pattern=op zo'n, Pattern=de
+	Constrained: Pattern=zo'n, Pattern=op, Pattern=die
+Turn ID=15| B | B : ja dat zijn F
+	Free: Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=dat
+Turn ID=16| A | A : dit zijn de tulp
+	Free: Pattern=dit zijn, Pattern=de
+	Constrained: 
+Turn ID=17| A | A : oké dat zijn vier
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat
+Turn ID=18| A | A : dit zijn de tulp
+	Free: Pattern=dit zijn, Pattern=de
+	Constrained: 

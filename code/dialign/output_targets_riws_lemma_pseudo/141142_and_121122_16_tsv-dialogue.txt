@@ -1,0 +1,199 @@
+B|0| B: _het lijken_ _op_ _een_ vogel 
+B|1| B: _dat_ isteken 
+B|2| B: _aan de zijkant_ 
+B|3| B: hij _hebben een_ verrekijker _aan de zijkant_ 
+B|4| B: _ja_ 
+B|5| B: _met_ _zo_ _één_ zo'n kijker eigenlijk _een_ piratending 
+B|6| B: _ja_ 
+B|7| B: _dat zijn_ bij _mij_ nummer E 
+A|8| A: oké deze [hebben] 
+A|9| A: [ja] twee kegel _die_ er redelijk hetzelfde uitzien [één] [aan de] bovenkant erop en [één] [aan de] linkerkant 
+A|10| A: en er [zijn] ook [een] [ja] [een] soort van kubus _die_ zeggen _maar_ 
+A|11| A: _die_ [ja] je [hebben een] groot kubus en dan [een] iets klein kubus _die_ eraan zitten en nog iets klein [dat] zitten [aan de] rechterkant eraan 
+A|12| A: en [aan de] linkerkant zien je _boven_ _die_ _boven_ _die_ kegel zien je ook nog [een] klein uitstulpink 
+A|13| A: wat niet per se [een] duidelijk vorm [hebben] _maar_ 
+A|14| A: er zitten niet er zitten geen ruitvorm in 
+A|15| A: [ja] in ieder geval zelfde vorm zelfde hoogte kunnen je niet echt zien want [de] [een] staan zeggen _maar_ rechtop 
+A|16| A: [aan de] bovenkant en [de] ander steken [aan de] linkerkant eruit naar links toe 
+A|17| A: nee [dat] zullen _ik_ niet zeggen 
+A|18| A: _ik_ zullen eerder zeggen [het lijken] heel erg als je zeggen _maar_ [een] [het] roer [hebben] van [een] groot schip weten je wel ? [een] piratenschip of [zo] 
+A|19| A: dan [hebben] je altijd van _die_ uitsteeksel [aan de zijkant] 
+A|20| A: daar [lijken] [het] [op] 
+A|21| A: [ja] 
+A|22| A: [ja] 
+A|23| A: en _die_ [hebben] ook [aan de] rechterkant [een] raar 
+A|24| A: [ja] oké dan [zijn] [dat] [de] goed 
+A|25| A: [ja] dus dan moeten jij inderdaad drukken als je 
+B|26| B: _dit zijn_ _met die_ [dat] kop _met die_ verrekijker 
+B|27| B: _met die_ [een] verrekijker 
+B|28| B: [maar] [één] 
+B|29| B: _dat zijn_ J 
+A|30| A: [ja] [ja] 
+A|31| A: [ja] 
+A|32| A: oké 
+A|33| A: [ja] 
+A|34| A: [ja] precies [dat zijn] elf voor [mij] 
+B|35| B: [ik] [hebben] _die _met_ die_ [één] verrekijker 
+B|36| B: [de] piraat 
+B|37| B: [boven] 
+B|38| B: [één] 
+B|39| B: [ja] B 
+A|40| A: oké [dit zijn] [die met] [met die] kegel van [het] roer zeggen [maar] 
+A|41| A: en [de] blokkentoren [aan de] rechterkant 
+B|42| B: [ik] [hebben] [dat] [met die] [een] verrekijker 
+A|43| A: even kijken waar staan [die] ? daar [zo] [ja] 
+A|44| A: oké [dat zijn] negen 
+A|45| A: [dat] kloppen 
+A|46| A: oké [dit zijn] weer [de] [de] kegel van [het] roer en [de] blokkentoren [aan de] rechterkant 
+A|47| A: [ja] 
+A|48| A: waar staan [die] ? vier 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : het lijken op een vogel
+	Free: Pattern=het lijken, Pattern=een, Pattern=op
+	Constrained: Pattern=het, Pattern=lijken
+Turn ID=1| B | B : dat isteken
+	Free: Pattern=dat
+	Constrained: 
+Turn ID=2| B | B : aan de zijkant
+	Free: Pattern=aan de zijkant
+	Constrained: Pattern=aan de, Pattern=de
+Turn ID=3| B | B : hij hebben een verrekijker aan de zijkant
+	Free: Pattern=aan de zijkant, Pattern=hebben een
+	Constrained: Pattern=een, Pattern=de, Pattern=aan de, Pattern=hebben
+Turn ID=4| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=5| B | B : met zo één zo'n kijker eigenlijk een piratending
+	Free: Pattern=zo, Pattern=één, Pattern=met, Pattern=een
+	Constrained: 
+Turn ID=6| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=7| B | B : dat zijn bij mij nummer E
+	Free: Pattern=dat zijn, Pattern=mij
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=8| A | A : oké deze hebben
+	Free: Pattern=hebben
+	Constrained: 
+Turn ID=9| A | A : ja twee kegel die er redelijk hetzelfde uitzien één aan de bovenkant erop en één aan de linkerkant
+	Free: Pattern=aan de, Pattern=die, Pattern=één, Pattern=ja
+	Constrained: Pattern=de
+Turn ID=10| A | A : en er zijn ook een ja een soort van kubus die zeggen maar
+	Free: Pattern=ja, Pattern=een, Pattern=die, Pattern=zijn, Pattern=maar
+	Constrained: 
+Turn ID=11| A | A : die ja je hebben een groot kubus en dan een iets klein kubus die eraan zitten en nog iets klein dat zitten aan de rechterkant eraan
+	Free: Pattern=dat, Pattern=hebben een, Pattern=ja, Pattern=aan de, Pattern=een, Pattern=die
+	Constrained: Pattern=hebben, Pattern=een, Pattern=de
+Turn ID=12| A | A : en aan de linkerkant zien je boven die boven die kegel zien je ook nog een klein uitstulpink
+	Free: Pattern=aan de, Pattern=die, Pattern=een, Pattern=boven
+	Constrained: Pattern=de
+Turn ID=13| A | A : wat niet per se een duidelijk vorm hebben maar
+	Free: Pattern=hebben, Pattern=maar, Pattern=een
+	Constrained: 
+Turn ID=14| A | A : er zitten niet er zitten geen ruitvorm in
+	Free: 
+	Constrained: 
+Turn ID=15| A | A : ja in ieder geval zelfde vorm zelfde hoogte kunnen je niet echt zien want de een staan zeggen maar rechtop
+	Free: Pattern=ja, Pattern=maar, Pattern=een, Pattern=de
+	Constrained: 
+Turn ID=16| A | A : aan de bovenkant en de ander steken aan de linkerkant eruit naar links toe
+	Free: Pattern=aan de, Pattern=de
+	Constrained: Pattern=de
+Turn ID=17| A | A : nee dat zullen ik niet zeggen
+	Free: Pattern=dat, Pattern=ik
+	Constrained: 
+Turn ID=18| A | A : ik zullen eerder zeggen het lijken heel erg als je zeggen maar een het roer hebben van een groot schip weten je wel ? een piratenschip of zo
+	Free: Pattern=het lijken, Pattern=een, Pattern=het, Pattern=hebben, Pattern=zo, Pattern=ik, Pattern=maar
+	Constrained: Pattern=het, Pattern=lijken
+Turn ID=19| A | A : dan hebben je altijd van die uitsteeksel aan de zijkant
+	Free: Pattern=aan de zijkant, Pattern=die, Pattern=hebben
+	Constrained: Pattern=aan de, Pattern=de
+Turn ID=20| A | A : daar lijken het op
+	Free: Pattern=het, Pattern=op, Pattern=lijken
+	Constrained: 
+Turn ID=21| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=22| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=23| A | A : en die hebben ook aan de rechterkant een raar
+	Free: Pattern=aan de, Pattern=die, Pattern=hebben, Pattern=een
+	Constrained: Pattern=de
+Turn ID=24| A | A : ja oké dan zijn dat de goed
+	Free: Pattern=dat, Pattern=zijn, Pattern=ja, Pattern=de
+	Constrained: 
+Turn ID=25| A | A : ja dus dan moeten jij inderdaad drukken als je
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=26| B | B : dit zijn met die dat kop met die verrekijker
+	Free: Pattern=dit zijn, Pattern=met die, Pattern=dat
+	Constrained: Pattern=zijn, Pattern=die, Pattern=met
+Turn ID=27| B | B : met die een verrekijker
+	Free: Pattern=met die, Pattern=een
+	Constrained: Pattern=die, Pattern=met
+Turn ID=28| B | B : maar één
+	Free: Pattern=één, Pattern=maar
+	Constrained: 
+Turn ID=29| B | B : dat zijn J
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=30| A | A : ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=31| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=32| A | A : oké
+	Free: 
+	Constrained: 
+Turn ID=33| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=34| A | A : ja precies dat zijn elf voor mij
+	Free: Pattern=dat zijn, Pattern=mij, Pattern=ja
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=35| B | B : ik hebben die met die één verrekijker
+	Free: Pattern=met die, Pattern=hebben, Pattern=die met, Pattern=ik, Pattern=één
+	Constrained: Pattern=die, Pattern=met
+Turn ID=36| B | B : de piraat
+	Free: Pattern=de
+	Constrained: 
+Turn ID=37| B | B : boven
+	Free: Pattern=boven
+	Constrained: 
+Turn ID=38| B | B : één
+	Free: Pattern=één
+	Constrained: 
+Turn ID=39| B | B : ja B
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=40| A | A : oké dit zijn die met met die kegel van het roer zeggen maar
+	Free: Pattern=met die, Pattern=het, Pattern=die met, Pattern=maar, Pattern=dit zijn
+	Constrained: Pattern=zijn, Pattern=die, Pattern=met
+Turn ID=41| A | A : en de blokkentoren aan de rechterkant
+	Free: Pattern=aan de, Pattern=de
+	Constrained: Pattern=de
+Turn ID=42| B | B : ik hebben dat met die een verrekijker
+	Free: Pattern=een, Pattern=hebben, Pattern=ik, Pattern=dat, Pattern=met die
+	Constrained: Pattern=die, Pattern=met
+Turn ID=43| A | A : even kijken waar staan die ? daar zo ja
+	Free: Pattern=zo, Pattern=die, Pattern=ja
+	Constrained: 
+Turn ID=44| A | A : oké dat zijn negen
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=45| A | A : dat kloppen
+	Free: Pattern=dat
+	Constrained: 
+Turn ID=46| A | A : oké dit zijn weer de de kegel van het roer en de blokkentoren aan de rechterkant
+	Free: Pattern=dit zijn, Pattern=aan de, Pattern=het, Pattern=de
+	Constrained: Pattern=zijn, Pattern=de
+Turn ID=47| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=48| A | A : waar staan die ? vier
+	Free: Pattern=die
+	Constrained: 

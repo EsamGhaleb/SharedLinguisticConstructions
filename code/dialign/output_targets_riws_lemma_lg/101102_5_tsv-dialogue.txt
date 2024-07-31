@@ -1,0 +1,151 @@
+B|0| B: _ja_ 
+B|1| B: deze _zijn_ _lastig_ 
+B|2| B: _dit zijn_ gewoon _een_ kop _en_ daarbovenop _zitten_ _een_ _een balk_ 
+B|3| B: gewoon _een_ recht _balk_ 
+B|4| B: _en_ hij hebben niet zoveel zeggen maar langwerpig _uitsteeksel_ hij hebben gewoon _één_ _die_ _een beetje_ zo aflooppen 
+B|5| B: zo 
+B|6| B: _en_ _één_ _die_ zo omhoogsteekken 
+B|7| B: _aan de rechterkant_ 
+B|8| B: _ja_ 
+B|9| B: _die_ afloopt _zijn_ _een beetje een soort hellink_ _die_ eraan vastgeplakt _zitten_ 
+A|10| A: [en] [de] [zitten] er [aan de] bovenkant ook nog [een] rechthoekig [balk] 
+B|11| B: _een balk_ 
+B|12| B: _ja een soort_ van 
+B|13| B: _beetje_ zoals _die_ _Xboxbalk_ waar we nu mee filmen worden 
+A|14| A: [ja] 
+B|15| B: bovenop 
+A|16| A: oké 
+A|17| A: _dat_ [zijn] nummer acht 
+A|18| A: [dit _zijn] dat_ plaat _met_ _aan de linkerkant_ zo'n [uitsteeksel] _dat_ [een beetje een soort hellink] [zijn] 
+A|19| A: [en] [aan de] bovenkant [die] [balk] erbovenop 
+A|20| A: [en] [aan de] ander kant steken daar nog [één] [ja een soort] dinge uit 
+B|21| B: [ja] [die] 
+B|22| B: E [zijn dat] 
+B|23| B: [die] [zijn] echt heel raar om _te omschrijven_ 
+A|24| A: [ja] 
+B|25| B: _dit zijn die lastig te_ beschrijven _zijn met_ [de] Xboxbar boven 
+B|26| B: [en] het heuvelt [aan de linkerkant] [dat] aflooppen 
+A|27| A: [ja] nummer [één] 
+A|28| A: [dit zijn die] _die lastig te omschrijven zijn met_ [een] [hellink] [aan de rechterkant] 
+B|29| B: [ja] 
+A|30| A: [en] [een balk] [aan de] bovenkant 
+B|31| B: E 
+B|32| B: _dit zijn die lastig te omschrijven zijn met_ _de Xboxbalk_ 
+A|33| A: [ja] zestien 
+A|34| A: [dit zijn die lastig te omschrijven zijn met] [hellink] [en] [de Xboxbalk] bovenaan 
+B|35| B: [ja] 
+B|36| B: O 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=1| B | B : deze zijn lastig
+	Free: Pattern=lastig, Pattern=zijn
+	Constrained: 
+Turn ID=2| B | B : dit zijn gewoon een kop en daarbovenop zitten een een balk
+	Free: Pattern=een, Pattern=zitten, Pattern=en, Pattern=dit zijn, Pattern=een balk
+	Constrained: Pattern=zijn, Pattern=een, Pattern=balk
+Turn ID=3| B | B : gewoon een recht balk
+	Free: Pattern=een, Pattern=balk
+	Constrained: 
+Turn ID=4| B | B : en hij hebben niet zoveel zeggen maar langwerpig uitsteeksel hij hebben gewoon één die een beetje zo aflooppen
+	Free: Pattern=uitsteeksel, Pattern=die, Pattern=en, Pattern=één, Pattern=een beetje
+	Constrained: Pattern=beetje, Pattern=een
+Turn ID=5| B | B : zo
+	Free: 
+	Constrained: 
+Turn ID=6| B | B : en één die zo omhoogsteekken
+	Free: Pattern=die, Pattern=en, Pattern=één
+	Constrained: 
+Turn ID=7| B | B : aan de rechterkant
+	Free: Pattern=aan de rechterkant
+	Constrained: Pattern=aan de, Pattern=de
+Turn ID=8| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=9| B | B : die afloopt zijn een beetje een soort hellink die eraan vastgeplakt zitten
+	Free: Pattern=een beetje een soort hellink, Pattern=zijn, Pattern=die, Pattern=zitten
+	Constrained: Pattern=een beetje, Pattern=een, Pattern=hellink, Pattern=beetje
+Turn ID=10| A | A : en de zitten er aan de bovenkant ook nog een rechthoekig balk
+	Free: Pattern=de, Pattern=aan de, Pattern=een, Pattern=balk, Pattern=zitten, Pattern=en
+	Constrained: Pattern=de
+Turn ID=11| B | B : een balk
+	Free: Pattern=een balk
+	Constrained: Pattern=een, Pattern=balk
+Turn ID=12| B | B : ja een soort van
+	Free: Pattern=ja een soort
+	Constrained: Pattern=ja, Pattern=een
+Turn ID=13| B | B : beetje zoals die Xboxbalk waar we nu mee filmen worden
+	Free: Pattern=Xboxbalk, Pattern=die, Pattern=beetje
+	Constrained: 
+Turn ID=14| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=15| B | B : bovenop
+	Free: 
+	Constrained: 
+Turn ID=16| A | A : oké
+	Free: 
+	Constrained: 
+Turn ID=17| A | A : dat zijn nummer acht
+	Free: Pattern=zijn, Pattern=dat
+	Constrained: 
+Turn ID=18| A | A : dit zijn dat plaat met aan de linkerkant zo'n uitsteeksel dat een beetje een soort hellink zijn
+	Free: Pattern=dat, Pattern=uitsteeksel, Pattern=een beetje een soort hellink, Pattern=met, Pattern=zijn, Pattern=aan de linkerkant, Pattern=dit zijn, Pattern=zijn dat
+	Constrained: Pattern=dat, Pattern=de, Pattern=aan de, Pattern=beetje, Pattern=een, Pattern=hellink, Pattern=zijn, Pattern=een beetje
+Turn ID=19| A | A : en aan de bovenkant die balk erbovenop
+	Free: Pattern=aan de, Pattern=die, Pattern=en, Pattern=balk
+	Constrained: Pattern=de
+Turn ID=20| A | A : en aan de ander kant steken daar nog één ja een soort dinge uit
+	Free: Pattern=ja een soort, Pattern=aan de, Pattern=en, Pattern=één
+	Constrained: Pattern=een, Pattern=de, Pattern=ja
+Turn ID=21| B | B : ja die
+	Free: Pattern=die, Pattern=ja
+	Constrained: 
+Turn ID=22| B | B : E zijn dat
+	Free: Pattern=zijn dat
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=23| B | B : die zijn echt heel raar om te omschrijven
+	Free: Pattern=te omschrijven, Pattern=zijn, Pattern=die
+	Constrained: 
+Turn ID=24| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=25| B | B : dit zijn die lastig te beschrijven zijn met de Xboxbar boven
+	Free: Pattern=dit zijn die lastig te, Pattern=zijn met, Pattern=de
+	Constrained: Pattern=dit zijn die, Pattern=met, Pattern=die, Pattern=zijn, Pattern=dit zijn, Pattern=lastig
+Turn ID=26| B | B : en het heuvelt aan de linkerkant dat aflooppen
+	Free: Pattern=aan de linkerkant, Pattern=en, Pattern=dat
+	Constrained: Pattern=aan de, Pattern=de
+Turn ID=27| A | A : ja nummer één
+	Free: Pattern=ja, Pattern=één
+	Constrained: 
+Turn ID=28| A | A : dit zijn die die lastig te omschrijven zijn met een hellink aan de rechterkant
+	Free: Pattern=dit zijn die, Pattern=een, Pattern=hellink, Pattern=aan de rechterkant, Pattern=die lastig te omschrijven zijn met
+	Constrained: Pattern=de, Pattern=aan de, Pattern=te omschrijven, Pattern=met, Pattern=zijn, Pattern=zijn met, Pattern=die, Pattern=dit zijn, Pattern=lastig
+Turn ID=29| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=30| A | A : en een balk aan de bovenkant
+	Free: Pattern=een balk, Pattern=aan de, Pattern=en
+	Constrained: Pattern=de, Pattern=een, Pattern=balk
+Turn ID=31| B | B : E
+	Free: 
+	Constrained: 
+Turn ID=32| B | B : dit zijn die lastig te omschrijven zijn met de Xboxbalk
+	Free: Pattern=dit zijn die lastig te omschrijven zijn met, Pattern=de Xboxbalk
+	Constrained: Pattern=dit zijn die, Pattern=de, Pattern=Xboxbalk, Pattern=te omschrijven, Pattern=met, Pattern=zijn, Pattern=dit zijn die lastig te, Pattern=zijn met, Pattern=die, Pattern=die lastig te omschrijven zijn met, Pattern=dit zijn, Pattern=lastig
+Turn ID=33| A | A : ja zestien
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=34| A | A : dit zijn die lastig te omschrijven zijn met hellink en de Xboxbalk bovenaan
+	Free: Pattern=dit zijn die lastig te omschrijven zijn met, Pattern=de Xboxbalk, Pattern=en, Pattern=hellink
+	Constrained: Pattern=dit zijn die, Pattern=de, Pattern=Xboxbalk, Pattern=te omschrijven, Pattern=met, Pattern=zijn, Pattern=dit zijn die lastig te, Pattern=zijn met, Pattern=die, Pattern=die lastig te omschrijven zijn met, Pattern=dit zijn, Pattern=lastig
+Turn ID=35| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=36| B | B : O
+	Free: 
+	Constrained: 

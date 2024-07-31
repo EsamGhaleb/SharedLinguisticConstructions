@@ -1,0 +1,67 @@
+B|0| B: _deze hebben_ zeggen maar _een driehoek_ _er_ onder _en_ _er_ zitten zeggen maar _een_ _staaf_ aan _en_ _die_ zijn _draaien_ 
+A|1| A: _ja_ vier 
+B|2| B: _dat_ zijn _dan_ _twee_ 
+B|3| B: [ja] ok 
+A|4| A: [deze hebben] [twee] _blok_ van [ja] vierkant _blok_ [er] op 
+A|5| A: [die] zegmaar [er] half opliggen half [er] _af_ [en] [dan] dus weer _met_ [dat] [draaien] ding op [een _driehoek] ja_ 
+B|6| B: [driehoek ja] zijn A 
+B|7| B: [die] [draaien] [driehoek] onderin 
+B|8| B: [een] [blok] _vallen_ [er] bijna [af] bovenaan 
+A|9| A: tien 
+A|10| A: [dat] [driehoek] _met_ [dat] [draaien] [staaf] [en] [dan] [die] [twee] [blok] [er] op 
+B|11| B: L 
+B|12| B: [met] [die] [draaien] [driehoek] aan de onderkant [blok] wat [er] boven bijna _af vallen_ 
+A|13| A: vier 
+A|14| A: [dat] [driehoek] [met] [een] schuin [blok] [er] op [en] [dan] [die] [blok] [die] [er] [af vallen] 
+B|15| B: F 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : deze hebben zeggen maar een driehoek er onder en er zitten zeggen maar een staaf aan en die zijn draaien
+	Free: Pattern=staaf, Pattern=draaien, Pattern=een, Pattern=deze hebben, Pattern=die, Pattern=er, Pattern=en, Pattern=een driehoek
+	Constrained: Pattern=een, Pattern=driehoek
+Turn ID=1| A | A : ja vier
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=2| B | B : dat zijn dan twee
+	Free: Pattern=twee, Pattern=dan, Pattern=dat
+	Constrained: 
+Turn ID=3| B | B : ja ok
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=4| A | A : deze hebben twee blok van ja vierkant blok er op
+	Free: Pattern=twee, Pattern=ja, Pattern=deze hebben, Pattern=er, Pattern=blok
+	Constrained: 
+Turn ID=5| A | A : die zegmaar er half opliggen half er af en dan dus weer met dat draaien ding op een driehoek ja
+	Free: Pattern=dat, Pattern=af, Pattern=driehoek ja, Pattern=met, Pattern=die, Pattern=er, Pattern=en, Pattern=een driehoek, Pattern=draaien, Pattern=dan
+	Constrained: Pattern=een, Pattern=ja, Pattern=driehoek
+Turn ID=6| B | B : driehoek ja zijn A
+	Free: Pattern=driehoek ja
+	Constrained: Pattern=ja, Pattern=driehoek
+Turn ID=7| B | B : die draaien driehoek onderin
+	Free: Pattern=draaien, Pattern=driehoek, Pattern=die
+	Constrained: 
+Turn ID=8| B | B : een blok vallen er bijna af bovenaan
+	Free: Pattern=af, Pattern=een, Pattern=vallen, Pattern=er, Pattern=blok
+	Constrained: 
+Turn ID=9| A | A : tien
+	Free: 
+	Constrained: 
+Turn ID=10| A | A : dat driehoek met dat draaien staaf en dan die twee blok er op
+	Free: Pattern=driehoek, Pattern=dat, Pattern=twee, Pattern=staaf, Pattern=met, Pattern=die, Pattern=er, Pattern=en, Pattern=blok, Pattern=draaien, Pattern=dan
+	Constrained: 
+Turn ID=11| B | B : L
+	Free: 
+	Constrained: 
+Turn ID=12| B | B : met die draaien driehoek aan de onderkant blok wat er boven bijna af vallen
+	Free: Pattern=driehoek, Pattern=draaien, Pattern=met, Pattern=die, Pattern=af vallen, Pattern=er, Pattern=blok
+	Constrained: Pattern=af, Pattern=vallen
+Turn ID=13| A | A : vier
+	Free: 
+	Constrained: 
+Turn ID=14| A | A : dat driehoek met een schuin blok er op en dan die blok die er af vallen
+	Free: Pattern=driehoek, Pattern=dat, Pattern=dan, Pattern=een, Pattern=met, Pattern=die, Pattern=af vallen, Pattern=er, Pattern=en, Pattern=blok
+	Constrained: Pattern=af, Pattern=vallen
+Turn ID=15| B | B : F
+	Free: 
+	Constrained: 

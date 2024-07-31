@@ -1,0 +1,143 @@
+B|0| B: _hebben_ het _aan_ _de_ voorkant _een_ _vierkant_ vlak 
+B|1| B: o hij _hebben_ _hebben_ hij _aan_ _de_ achterkant _een_ vlak 
+B|2| B: o lijken het ook _een_ beetje op _een_ gieter _of_ zo misschien 
+B|3| B: _nee_ 
+B|4| B: hij _hebben_ _zeggen_ _maar_ links _een_ klein stuk eruit _en_ rechts _nog_ iets veel 
+B|5| B: ook _dan zijn_ het K 
+A|6| A: deze [hebben] eigenlijk [aan] beide kant [een] soort van _ja_ uitsteeksel rond [en] [dan _zijn] de_ [een] lang [dan] [de] ander 
+A|7| A: [en] [dan] [hebben] _die_ linksachter [een] soort van [vierkant] _met_ [een] soort staart eraan 
+B|8| B: ok [ja] dit [zijn de] gieter [met] _dat_ vlak _dat_ _je_ zo _kunnen_ omklappen _of_ zo 
+B|9| B: [ja] 
+B|10| B: [ja] 
+A|11| A: [ja] 
+A|12| A: [ja] 
+A|13| A: nou [zeggen] [kunnen] hem niet vinden 
+A|14| A: [een] lang [dan] [de] ander 
+A|15| A: ik oké [dan] weten ik niet [of] we dezelfde [hebben] 
+A|16| A: [nee] 
+A|17| A: oké wachten omschrijf hem [nog] eens 
+A|18| A: [ja] 
+A|19| A: [ja] 
+A|20| A: [ja] [maar] ik [kunnen] hem gewoon nu niet vinden 
+A|21| A: even kijken horen 
+A|22| A: [ja] inderdaad ik zien hem oké nummer negen 
+B|23| B: [ja] _dat zijn_ F 
+B|24| B: [ja] dit _zijn die_ gieter [met] _dat vierkan_ [die] [ja] [kunnen] klappen 
+A|25| A: [dat [zijn] die] [een] [met] [die] ongelijk arm eigenlijk [die] ik toestraksen niet [kunnen] vinden 
+B|26| B: [ja] 
+B|27| B: [dat zijn] L 
+A|28| A: wachten [die] [die] twee ongelijk arm bedoelen [je] 
+A|29| A: [en] [dan] zo'n [vierkan] erachter 
+A|30| A: [ja] oké [dat zijn] nummer drie 
+B|31| B: [ja] dit [zijn de] gieter 
+B|32| B: [met] [dat] ding [dat] [je] [kunnen] klappen 
+A|33| A: [dat zijn] [met] [die] twee ongelijk arm [en] [ja] [die] [dat vierkan] achter [met] [die] staart 
+A|34| A: ah [dat zijn] nummer vijf 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : hebben het aan de voorkant een vierkant vlak
+	Free: Pattern=een, Pattern=hebben, Pattern=vierkant, Pattern=de, Pattern=aan
+	Constrained: 
+Turn ID=1| B | B : o hij hebben hebben hij aan de achterkant een vlak
+	Free: Pattern=een, Pattern=de, Pattern=aan, Pattern=hebben
+	Constrained: 
+Turn ID=2| B | B : o lijken het ook een beetje op een gieter of zo misschien
+	Free: Pattern=of, Pattern=een
+	Constrained: 
+Turn ID=3| B | B : nee
+	Free: Pattern=nee
+	Constrained: 
+Turn ID=4| B | B : hij hebben zeggen maar links een klein stuk eruit en rechts nog iets veel
+	Free: Pattern=nog, Pattern=een, Pattern=hebben, Pattern=zeggen, Pattern=en, Pattern=maar
+	Constrained: 
+Turn ID=5| B | B : ook dan zijn het K
+	Free: Pattern=dan zijn
+	Constrained: Pattern=dan
+Turn ID=6| A | A : deze hebben eigenlijk aan beide kant een soort van ja uitsteeksel rond en dan zijn de een lang dan de ander
+	Free: Pattern=dan, Pattern=een, Pattern=hebben, Pattern=dan zijn, Pattern=en, Pattern=zijn de, Pattern=de, Pattern=aan, Pattern=ja
+	Constrained: Pattern=de, Pattern=dan
+Turn ID=7| A | A : en dan hebben die linksachter een soort van vierkant met een soort staart eraan
+	Free: Pattern=dan, Pattern=een, Pattern=hebben, Pattern=met, Pattern=die, Pattern=en, Pattern=vierkant
+	Constrained: 
+Turn ID=8| B | B : ok ja dit zijn de gieter met dat vlak dat je zo kunnen omklappen of zo
+	Free: Pattern=dat, Pattern=of, Pattern=kunnen, Pattern=ja, Pattern=met, Pattern=je, Pattern=zijn de
+	Constrained: Pattern=de
+Turn ID=9| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=10| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=11| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=12| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=13| A | A : nou zeggen kunnen hem niet vinden
+	Free: Pattern=kunnen, Pattern=zeggen
+	Constrained: 
+Turn ID=14| A | A : een lang dan de ander
+	Free: Pattern=een, Pattern=de, Pattern=dan
+	Constrained: 
+Turn ID=15| A | A : ik oké dan weten ik niet of we dezelfde hebben
+	Free: Pattern=of, Pattern=dan, Pattern=hebben
+	Constrained: 
+Turn ID=16| A | A : nee
+	Free: Pattern=nee
+	Constrained: 
+Turn ID=17| A | A : oké wachten omschrijf hem nog eens
+	Free: Pattern=nog
+	Constrained: 
+Turn ID=18| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=19| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=20| A | A : ja maar ik kunnen hem gewoon nu niet vinden
+	Free: Pattern=ja, Pattern=maar, Pattern=kunnen
+	Constrained: 
+Turn ID=21| A | A : even kijken horen
+	Free: 
+	Constrained: 
+Turn ID=22| A | A : ja inderdaad ik zien hem oké nummer negen
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=23| B | B : ja dat zijn F
+	Free: Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=dat
+Turn ID=24| B | B : ja dit zijn die gieter met dat vierkan die ja kunnen klappen
+	Free: Pattern=kunnen, Pattern=ja, Pattern=dat vierkan, Pattern=zijn die, Pattern=met, Pattern=die
+	Constrained: Pattern=die, Pattern=dat, Pattern=vierkan
+Turn ID=25| A | A : dat zijn die een met die ongelijk arm eigenlijk die ik toestraksen niet kunnen vinden
+	Free: Pattern=dat zijn, Pattern=kunnen, Pattern=een, Pattern=zijn die, Pattern=met, Pattern=die
+	Constrained: Pattern=die, Pattern=dat
+Turn ID=26| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=27| B | B : dat zijn L
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat
+Turn ID=28| A | A : wachten die die twee ongelijk arm bedoelen je
+	Free: Pattern=je, Pattern=die
+	Constrained: 
+Turn ID=29| A | A : en dan zo'n vierkan erachter
+	Free: Pattern=en, Pattern=dan, Pattern=vierkan
+	Constrained: 
+Turn ID=30| A | A : ja oké dat zijn nummer drie
+	Free: Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=dat
+Turn ID=31| B | B : ja dit zijn de gieter
+	Free: Pattern=zijn de, Pattern=ja
+	Constrained: Pattern=de
+Turn ID=32| B | B : met dat ding dat je kunnen klappen
+	Free: Pattern=je, Pattern=dat, Pattern=kunnen, Pattern=met
+	Constrained: 
+Turn ID=33| A | A : dat zijn met die twee ongelijk arm en ja die dat vierkan achter met die staart
+	Free: Pattern=dat zijn, Pattern=ja, Pattern=dat vierkan, Pattern=met, Pattern=die, Pattern=en
+	Constrained: Pattern=dat, Pattern=vierkan
+Turn ID=34| A | A : ah dat zijn nummer vijf
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat

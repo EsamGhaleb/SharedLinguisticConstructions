@@ -1,0 +1,139 @@
+B|0| B: _ja_ 
+B|1| B: oké 
+B|2| B: _ja_ 
+B|3| B: _ja_ 
+B|4| B: letter I 
+A|5| A: [ja] deze _lijken_ _op een_ eend _van de_ zijkant hij _hebben_ _rechts_ twee gelijk blok _aan_ _de_ bovenkant _een trapezium_ 
+A|6| A: _en dan_ [ja] _link_ nog _een_ uitsteeksel _en_ onder ook nog 
+B|7| B: _ik_ vinden het [op een] deur [lijken] _je_ [hebben] [link] [een] klink 
+B|8| B: _die_ _je_ kunnen doen [en dan] [rechts] [hebben] _je_ [de] cilinder _die_ zorgen _dat_ [de] deur kunnen draaien 
+B|9| B: [en] daarbovenop staan [een trapezium] 
+B|10| B: het _zijn_ het beker 
+B|11| B: [en] _die_ [hebben] [een trapezium] 
+B|12| B: [en] 
+B|13| B: _je_ 
+B|14| B: _ik_ denken [aan] [van] [een] onderzeeër maar 
+B|15| B: [ja] 
+A|16| A: [ja] [ik] weten welk [je] bedoelen 
+A|17| A: _yes_ [ik] [hebben] _hem_ 
+A|18| A: [dat] [zijn] twee voor mij 
+B|19| B: [ja] 
+B|20| B: sorry letter M 
+B|21| B: [ja] 
+B|22| B: nee 
+A|23| A: dit [zijn] [die] _met_ [de] [trapezium] [aan] [de] bovenkant [en] twee gelijk [rechts] 
+B|24| B: het [zijn] wat [ik] [die] onderzeedeur vinden [met] [trapezium] [op] [hem] 
+A|25| A: _yes_ 
+A|26| A: [dat] [zijn] negen voor mij 
+A|27| A: dit [zijn] [die] naast [die] doorboord neus [met] [de] [trapezium] [en] [de] twee ding [aan] [de] zijkant 
+B|28| B: [yes] 
+B|29| B: [ja] 
+B|30| B: F 
+A|31| A: [ja] 
+A|32| A: [dat] [zijn] zes voor mij 
+B|33| B: [de] deur [van de] onderzeeër 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=1| B | B : oké
+	Free: 
+	Constrained: 
+Turn ID=2| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=3| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=4| B | B : letter I
+	Free: 
+	Constrained: 
+Turn ID=5| A | A : ja deze lijken op een eend van de zijkant hij hebben rechts twee gelijk blok aan de bovenkant een trapezium
+	Free: Pattern=een trapezium, Pattern=van de, Pattern=lijken, Pattern=hebben, Pattern=op een, Pattern=de, Pattern=rechts, Pattern=aan, Pattern=ja
+	Constrained: Pattern=de, Pattern=op, Pattern=een, Pattern=trapezium, Pattern=van
+Turn ID=6| A | A : en dan ja link nog een uitsteeksel en onder ook nog
+	Free: Pattern=ja, Pattern=en dan, Pattern=een, Pattern=link, Pattern=en
+	Constrained: Pattern=en
+Turn ID=7| B | B : ik vinden het op een deur lijken je hebben link een klink
+	Free: Pattern=lijken, Pattern=een, Pattern=hebben, Pattern=link, Pattern=ik, Pattern=je, Pattern=op een
+	Constrained: Pattern=op, Pattern=een
+Turn ID=8| B | B : die je kunnen doen en dan rechts hebben je de cilinder die zorgen dat de deur kunnen draaien
+	Free: Pattern=dat, Pattern=en dan, Pattern=hebben, Pattern=die, Pattern=je, Pattern=de, Pattern=rechts
+	Constrained: Pattern=en
+Turn ID=9| B | B : en daarbovenop staan een trapezium
+	Free: Pattern=een trapezium, Pattern=en
+	Constrained: Pattern=een, Pattern=trapezium
+Turn ID=10| B | B : het zijn het beker
+	Free: Pattern=zijn
+	Constrained: 
+Turn ID=11| B | B : en die hebben een trapezium
+	Free: Pattern=een trapezium, Pattern=en, Pattern=hebben, Pattern=die
+	Constrained: Pattern=een, Pattern=trapezium
+Turn ID=12| B | B : en
+	Free: Pattern=en
+	Constrained: 
+Turn ID=13| B | B : je
+	Free: Pattern=je
+	Constrained: 
+Turn ID=14| B | B : ik denken aan van een onderzeeër maar
+	Free: Pattern=een, Pattern=aan, Pattern=van, Pattern=ik
+	Constrained: 
+Turn ID=15| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=16| A | A : ja ik weten welk je bedoelen
+	Free: Pattern=je, Pattern=ja, Pattern=ik
+	Constrained: 
+Turn ID=17| A | A : yes ik hebben hem
+	Free: Pattern=yes, Pattern=hem, Pattern=hebben, Pattern=ik
+	Constrained: 
+Turn ID=18| A | A : dat zijn twee voor mij
+	Free: Pattern=dat, Pattern=zijn
+	Constrained: 
+Turn ID=19| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=20| B | B : sorry letter M
+	Free: 
+	Constrained: 
+Turn ID=21| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=22| B | B : nee
+	Free: 
+	Constrained: 
+Turn ID=23| A | A : dit zijn die met de trapezium aan de bovenkant en twee gelijk rechts
+	Free: Pattern=trapezium, Pattern=met, Pattern=die, Pattern=en, Pattern=zijn, Pattern=de, Pattern=rechts, Pattern=aan
+	Constrained: 
+Turn ID=24| B | B : het zijn wat ik die onderzeedeur vinden met trapezium op hem
+	Free: Pattern=op, Pattern=trapezium, Pattern=met, Pattern=die, Pattern=ik, Pattern=zijn, Pattern=hem
+	Constrained: 
+Turn ID=25| A | A : yes
+	Free: Pattern=yes
+	Constrained: 
+Turn ID=26| A | A : dat zijn negen voor mij
+	Free: Pattern=dat, Pattern=zijn
+	Constrained: 
+Turn ID=27| A | A : dit zijn die naast die doorboord neus met de trapezium en de twee ding aan de zijkant
+	Free: Pattern=trapezium, Pattern=met, Pattern=die, Pattern=en, Pattern=zijn, Pattern=de, Pattern=aan
+	Constrained: 
+Turn ID=28| B | B : yes
+	Free: Pattern=yes
+	Constrained: 
+Turn ID=29| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=30| B | B : F
+	Free: 
+	Constrained: 
+Turn ID=31| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=32| A | A : dat zijn zes voor mij
+	Free: Pattern=dat, Pattern=zijn
+	Constrained: 
+Turn ID=33| B | B : de deur van de onderzeeër
+	Free: Pattern=van de, Pattern=de
+	Constrained: Pattern=de, Pattern=van

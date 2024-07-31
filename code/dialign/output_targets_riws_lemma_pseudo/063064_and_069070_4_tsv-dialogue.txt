@@ -1,0 +1,99 @@
+B|0| B: oké 
+B|1| B: _ja_ 
+B|2| B: _ja_ 
+B|3| B: oké _dan _zijn_ het_ I 
+A|4| A: _aan de_ rechterkant _hebben_ [het] twee balk _die_ _eruit_ steken maar als je je hoofd kantelen naar links vinden _ik_ _dat_ [het] _een_ varken [zijn] _en_ [dan] zien je hem waarschijnlijk meteen maar 
+A|5| A: [ja] 
+A|6| A: _ja _ja_ ja_ 
+A|7| A: _en_ _aan de_ [ja] 
+B|8| B: oké _dit zijn_ diegene met zo'n iste [aan de] zijkant [eruit] [en] [een] driehoek erop [die] [aan de] bovenkant plat [zijn] 
+B|9| B: [ja ja] 
+B|10| B: [dat] [zijn] M 
+A|11| A: [ja] 
+A|12| A: [dan zijn] [dat] twee 
+A|13| A: [dit zijn] [dat] [dat] varken 
+B|14| B: [ik] [hebben] degeen met [een] isteken eraan 
+B|15| B: [en] zo [die] afgeplatte driehoek [aan de] bovenkant 
+B|16| B: [ja ja] 
+B|17| B: even zoeken _waar_ [zijn] [die] ? [ja] 
+B|18| B: [dat] [zijn] F 
+B|19| B: [ik] [hebben] [die] met [het] isteken [en] [de] afgeplatte driehoek 
+A|20| A: [waar] staan [die] 
+A|21| A: negen 
+A|22| A: [dit [zijn] het] varken 
+A|23| A: zes 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : oké
+	Free: 
+	Constrained: 
+Turn ID=1| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=2| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=3| B | B : oké dan zijn het I
+	Free: Pattern=zijn het, Pattern=dan zijn
+	Constrained: Pattern=dan, Pattern=het, Pattern=zijn
+Turn ID=4| A | A : aan de rechterkant hebben het twee balk die eruit steken maar als je je hoofd kantelen naar links vinden ik dat het een varken zijn en dan zien je hem waarschijnlijk meteen maar
+	Free: Pattern=dat, Pattern=aan de, Pattern=dan, Pattern=een, Pattern=het, Pattern=die, Pattern=ik, Pattern=en, Pattern=zijn, Pattern=hebben, Pattern=eruit
+	Constrained: Pattern=de
+Turn ID=5| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=6| A | A : ja ja ja
+	Free: Pattern=ja ja
+	Constrained: Pattern=ja
+Turn ID=7| A | A : en aan de ja
+	Free: Pattern=aan de, Pattern=ja, Pattern=en
+	Constrained: Pattern=de
+Turn ID=8| B | B : oké dit zijn diegene met zo'n iste aan de zijkant eruit en een driehoek erop die aan de bovenkant plat zijn
+	Free: Pattern=aan de, Pattern=een, Pattern=eruit, Pattern=die, Pattern=en, Pattern=zijn, Pattern=dit zijn
+	Constrained: Pattern=de, Pattern=zijn
+Turn ID=9| B | B : ja ja
+	Free: Pattern=ja ja
+	Constrained: Pattern=ja
+Turn ID=10| B | B : dat zijn M
+	Free: Pattern=dat, Pattern=zijn
+	Constrained: 
+Turn ID=11| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=12| A | A : dan zijn dat twee
+	Free: Pattern=dan zijn, Pattern=dat
+	Constrained: Pattern=dan, Pattern=zijn
+Turn ID=13| A | A : dit zijn dat dat varken
+	Free: Pattern=dit zijn, Pattern=dat
+	Constrained: Pattern=zijn
+Turn ID=14| B | B : ik hebben degeen met een isteken eraan
+	Free: Pattern=ik, Pattern=een, Pattern=hebben
+	Constrained: 
+Turn ID=15| B | B : en zo die afgeplatte driehoek aan de bovenkant
+	Free: Pattern=aan de, Pattern=en, Pattern=die
+	Constrained: Pattern=de
+Turn ID=16| B | B : ja ja
+	Free: Pattern=ja ja
+	Constrained: Pattern=ja
+Turn ID=17| B | B : even zoeken waar zijn die ? ja
+	Free: Pattern=waar, Pattern=ja, Pattern=die, Pattern=zijn
+	Constrained: 
+Turn ID=18| B | B : dat zijn F
+	Free: Pattern=dat, Pattern=zijn
+	Constrained: 
+Turn ID=19| B | B : ik hebben die met het isteken en de afgeplatte driehoek
+	Free: Pattern=de, Pattern=het, Pattern=hebben, Pattern=die, Pattern=ik, Pattern=en
+	Constrained: 
+Turn ID=20| A | A : waar staan die
+	Free: Pattern=waar, Pattern=die
+	Constrained: 
+Turn ID=21| A | A : negen
+	Free: 
+	Constrained: 
+Turn ID=22| A | A : dit zijn het varken
+	Free: Pattern=zijn het, Pattern=dit zijn
+	Constrained: Pattern=het, Pattern=zijn
+Turn ID=23| A | A : zes
+	Free: 
+	Constrained: 

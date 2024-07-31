@@ -1,0 +1,107 @@
+A|0| A: _deze_ _zijn_ heel _gek_ 
+A|1| A: van _link_ lijken _het_ op _een_ hondenkoek _en_ dan daar bovenop _staan_ _een_ trompet 
+A|2| A: _ja_ 
+A|3| A: _en_ _link_ _hebben_ hij zo zo'n twee twee rond _uitsteeksel_ _en_ daarboven zitten gewoon zo'n lang _toeter_ trompet 
+A|4| A: trompet 
+A|5| A: vijfteen 
+A|6| A: _ja_ kunnen ook 
+B|7| B: [ja] ik zien hem dat [zijn] o bij mij 
+A|8| A: [ja] [ja] brok _met_ schoorsteen 
+B|9| B: [deze] [hebben] dat dienblad vast [en] links [een] [gek] vorm arm [met] [een] [uitsteeksel] omhoog 
+B|10| B: [link] 
+B|11| B: [ja] 
+A|12| A: dertien 
+A|13| A: _de_ schoorsteen 
+A|14| A: aan _de_ linkerkant 
+A|15| A: trompet 
+A|16| A: _toeter_ 
+B|17| B: even kijken waar die [staan] horen 
+B|18| B: [ja] dat [zijn] b 
+A|19| A: zeven 
+B|20| B: dit [zijn] die [het] dienblad vasthouden [en] [de] [toeter] 
+B|21| B: [ja] even zoeken hoor 
+B|22| B: [ja] m 
+B|23| B: dit [zijn] die [met] [het] dienblad [en] [de] 
+B|24| B: [toeter] 
+B|25| B: ik willen zeggen schijnwerper 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : deze zijn heel gek
+	Free: Pattern=gek, Pattern=deze, Pattern=zijn
+	Constrained: 
+Turn ID=1| A | A : van link lijken het op een hondenkoek en dan daar bovenop staan een trompet
+	Free: Pattern=het, Pattern=link, Pattern=en, Pattern=een, Pattern=staan
+	Constrained: 
+Turn ID=2| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=3| A | A : en link hebben hij zo zo'n twee twee rond uitsteeksel en daarboven zitten gewoon zo'n lang toeter trompet
+	Free: Pattern=uitsteeksel, Pattern=hebben, Pattern=link, Pattern=toeter, Pattern=en
+	Constrained: 
+Turn ID=4| A | A : trompet
+	Free: 
+	Constrained: 
+Turn ID=5| A | A : vijfteen
+	Free: 
+	Constrained: 
+Turn ID=6| A | A : ja kunnen ook
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=7| B | B : ja ik zien hem dat zijn o bij mij
+	Free: Pattern=ja, Pattern=zijn
+	Constrained: 
+Turn ID=8| A | A : ja ja brok met schoorsteen
+	Free: Pattern=met, Pattern=ja
+	Constrained: 
+Turn ID=9| B | B : deze hebben dat dienblad vast en links een gek vorm arm met een uitsteeksel omhoog
+	Free: Pattern=uitsteeksel, Pattern=een, Pattern=hebben, Pattern=met, Pattern=deze, Pattern=gek, Pattern=en
+	Constrained: 
+Turn ID=10| B | B : link
+	Free: Pattern=link
+	Constrained: 
+Turn ID=11| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=12| A | A : dertien
+	Free: 
+	Constrained: 
+Turn ID=13| A | A : de schoorsteen
+	Free: Pattern=de
+	Constrained: 
+Turn ID=14| A | A : aan de linkerkant
+	Free: Pattern=de
+	Constrained: 
+Turn ID=15| A | A : trompet
+	Free: 
+	Constrained: 
+Turn ID=16| A | A : toeter
+	Free: Pattern=toeter
+	Constrained: 
+Turn ID=17| B | B : even kijken waar die staan horen
+	Free: Pattern=staan
+	Constrained: 
+Turn ID=18| B | B : ja dat zijn b
+	Free: Pattern=ja, Pattern=zijn
+	Constrained: 
+Turn ID=19| A | A : zeven
+	Free: 
+	Constrained: 
+Turn ID=20| B | B : dit zijn die het dienblad vasthouden en de toeter
+	Free: Pattern=de, Pattern=het, Pattern=zijn, Pattern=toeter, Pattern=en
+	Constrained: 
+Turn ID=21| B | B : ja even zoeken hoor
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=22| B | B : ja m
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=23| B | B : dit zijn die met het dienblad en de
+	Free: Pattern=de, Pattern=het, Pattern=met, Pattern=en, Pattern=zijn
+	Constrained: 
+Turn ID=24| B | B : toeter
+	Free: Pattern=toeter
+	Constrained: 
+Turn ID=25| B | B : ik willen zeggen schijnwerper
+	Free: 
+	Constrained: 

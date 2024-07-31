@@ -1,0 +1,143 @@
+B|0| B: _ik hebben_ _er_ _nou_ degeen _die_ ook weer _met_ _een_ _plank_ _zijn_ doorsneden alleen dan boven _het_ midden 
+B|1| B: _met _twee_ van die_ flubbeltjes _aan de_ _plank_ ook _nog_ 
+A|2| A: _ja_ en [er] staan zo'n soort _bak_ _op_ of zo 
+B|3| B: [ja] 
+A|4| A: [ja] 
+A|5| A: zestien 
+A|6| A: one volgens mij [hebben] jij [die] omschrijven [ik] [ik hebben] [het] omschrijven als [de] [ja] dat _bak_ staan erop zeggen maar je [hebben] toch zo'n gek 
+A|7| A: houten _plankhouder_ zeggen maar [met] [aan de] zijkant [twee van die] _poo_ 
+B|8| B: [ja] 
+B|9| B: [ja] 
+B|10| B: [met] [de] [poo] [de] _plank_ [ja] 
+A|11| A: [ja] [ik] [ik] noemen dat altijd [de] _plankhouder_ of zo 
+A|12| A: jij moeten hem doen [ja] 
+B|13| B: P 
+B|14| B: dit _zijn_ [met] [het] _bak bovenop die plank die erdoorheen gaan_ 
+A|15| A: [bak bovenop die plank die erdoorheen gaan] en 
+B|16| B: [met] [die] flubbeltjes [aan de] [plank] 
+A|17| A: _ja _ja_ _ja_ _ja_ ja_ hoe doen [ja] bakje of _plankhouder_ of zo noemen we [die] gewoon voortaan [ja] 
+B|18| B: [ja] [plankhouder] _zijn_ goed [plankhouder] 
+A|19| A: [ja] prima [plankhouder] veertien 
+A|20| A: [de] boekenplank of bakjeshouderplank of weten je [nog] welk [ik] bedoelen 
+B|21| B: [met] [die] [met] [die] [met] [poo] [aan de] 
+A|22| A: _ja _ja_ _ja_ ja_ 
+A|23| A: [het] [zijn] gewoon zo'n recht hoek zeggen maar [met twee] poot inderdaad en daarbovenop staan [een] soort [bak] 
+B|24| B: [ja] 
+A|25| A: [ja] 
+B|26| B: [ja] 
+B|27| B: N 
+B|28| B: dit [zijn] [de] [plank] [met] [het] schaalt boven [op] [de] [plank] 
+B|29| B: [die] door [het] kop heen [gaan] 
+A|30| A: [ja] 
+A|31| A: dat [zijn] tien 
+A|32| A: [de] of [nou] [de] bakjeshouderplank 
+B|33| B: [ja ja] 
+B|34| B: d 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : ik hebben er nou degeen die ook weer met een plank zijn doorsneden alleen dan boven het midden
+	Free: Pattern=ik hebben, Pattern=nou, Pattern=plank, Pattern=een, Pattern=het, Pattern=met, Pattern=die, Pattern=er, Pattern=zijn
+	Constrained: Pattern=hebben, Pattern=ik
+Turn ID=1| B | B : met twee van die flubbeltjes aan de plank ook nog
+	Free: Pattern=twee van die, Pattern=nog, Pattern=met twee, Pattern=plank, Pattern=aan de
+	Constrained: Pattern=de, Pattern=met, Pattern=die
+Turn ID=2| A | A : ja en er staan zo'n soort bak op of zo
+	Free: Pattern=bak, Pattern=er, Pattern=ja, Pattern=op
+	Constrained: 
+Turn ID=3| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=4| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=5| A | A : zestien
+	Free: 
+	Constrained: 
+Turn ID=6| A | A : one volgens mij hebben jij die omschrijven ik ik hebben het omschrijven als de ja dat bak staan erop zeggen maar je hebben toch zo'n gek
+	Free: Pattern=ik hebben, Pattern=hebben, Pattern=die, Pattern=ik, Pattern=de, Pattern=ja, Pattern=bak, Pattern=het
+	Constrained: Pattern=hebben, Pattern=ik
+Turn ID=7| A | A : houten plankhouder zeggen maar met aan de zijkant twee van die poo
+	Free: Pattern=twee van die, Pattern=poo, Pattern=aan de, Pattern=plankhouder, Pattern=met
+	Constrained: Pattern=die, Pattern=de
+Turn ID=8| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=9| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=10| B | B : met de poo de plank ja
+	Free: Pattern=plank, Pattern=met, Pattern=de, Pattern=poo, Pattern=ja
+	Constrained: 
+Turn ID=11| A | A : ja ik ik noemen dat altijd de plankhouder of zo
+	Free: Pattern=de, Pattern=plankhouder, Pattern=ja, Pattern=ik
+	Constrained: 
+Turn ID=12| A | A : jij moeten hem doen ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=13| B | B : P
+	Free: 
+	Constrained: 
+Turn ID=14| B | B : dit zijn met het bak bovenop die plank die erdoorheen gaan
+	Free: Pattern=bak bovenop die plank die erdoorheen gaan, Pattern=met, Pattern=het, Pattern=zijn
+	Constrained: Pattern=bak, Pattern=plank, Pattern=die, Pattern=gaan
+Turn ID=15| A | A : bak bovenop die plank die erdoorheen gaan en
+	Free: Pattern=bak bovenop die plank die erdoorheen gaan
+	Constrained: Pattern=bak, Pattern=plank, Pattern=die, Pattern=gaan
+Turn ID=16| B | B : met die flubbeltjes aan de plank
+	Free: Pattern=aan de, Pattern=plank, Pattern=die, Pattern=met
+	Constrained: Pattern=de
+Turn ID=17| A | A : ja ja ja ja ja hoe doen ja bakje of plankhouder of zo noemen we die gewoon voortaan ja
+	Free: Pattern=ja ja, Pattern=die, Pattern=plankhouder, Pattern=ja
+	Constrained: Pattern=ja
+Turn ID=18| B | B : ja plankhouder zijn goed plankhouder
+	Free: Pattern=plankhouder, Pattern=ja, Pattern=zijn
+	Constrained: 
+Turn ID=19| A | A : ja prima plankhouder veertien
+	Free: Pattern=plankhouder, Pattern=ja
+	Constrained: 
+Turn ID=20| A | A : de boekenplank of bakjeshouderplank of weten je nog welk ik bedoelen
+	Free: Pattern=de, Pattern=ik, Pattern=nog
+	Constrained: 
+Turn ID=21| B | B : met die met die met poo aan de
+	Free: Pattern=aan de, Pattern=die, Pattern=poo, Pattern=met
+	Constrained: Pattern=de
+Turn ID=22| A | A : ja ja ja ja
+	Free: Pattern=ja ja
+	Constrained: Pattern=ja
+Turn ID=23| A | A : het zijn gewoon zo'n recht hoek zeggen maar met twee poot inderdaad en daarbovenop staan een soort bak
+	Free: Pattern=een, Pattern=met twee, Pattern=zijn, Pattern=bak, Pattern=het
+	Constrained: Pattern=met
+Turn ID=24| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=25| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=26| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=27| B | B : N
+	Free: 
+	Constrained: 
+Turn ID=28| B | B : dit zijn de plank met het schaalt boven op de plank
+	Free: Pattern=de, Pattern=het, Pattern=met, Pattern=zijn, Pattern=plank, Pattern=op
+	Constrained: 
+Turn ID=29| B | B : die door het kop heen gaan
+	Free: Pattern=die, Pattern=het, Pattern=gaan
+	Constrained: 
+Turn ID=30| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=31| A | A : dat zijn tien
+	Free: Pattern=zijn
+	Constrained: 
+Turn ID=32| A | A : de of nou de bakjeshouderplank
+	Free: Pattern=de, Pattern=nou
+	Constrained: 
+Turn ID=33| B | B : ja ja
+	Free: Pattern=ja ja
+	Constrained: Pattern=ja
+Turn ID=34| B | B : d
+	Free: 
+	Constrained: 

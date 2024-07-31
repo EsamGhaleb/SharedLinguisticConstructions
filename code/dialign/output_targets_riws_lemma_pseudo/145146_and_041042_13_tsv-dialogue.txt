@@ -1,0 +1,191 @@
+B|0| B: _oké_ 
+B|1| B: dit lijken _een_ beetje _ik_ vinden hem altijd _een_ beetje _op een_ gezich lijken _er_ staan _een_ heel groot cirkel voorop _en_ _er_ _zitten_ drie _van die_ 
+B|2| B: _soort_ _van_ balk eromheen _en_ _met_ al _aan_ al twee _de_ kant drie _van die_ _rond_ 
+B|3| B: _weten_ je _wel_ ? _een soort_ _van_ 
+B|4| B: _ik_ zien _het_ _een_ beetje _als_ staart _of_ zo 
+B|5| B: _ja_ achtig idee 
+B|6| B: _plateau_ _eronder_ _ja_ 
+B|7| B: _oké_ 
+A|8| A: [ja] 
+A|9| A: [ja] [ja] 
+A|10| A: [en] [aan] [de] voorkant [zitten] zo'n [rond] [met] zo'n 
+A|11| A: [ja] 
+A|12| A: [en] hij [zitten] _ook_ [op een] vierkant vlak 
+A|13| A: [ja] [oké] dan [weten] [ik] [het] 
+A|14| A: _dat_ _zijn_ vijf 
+A|15| A: [ik] hebben [die] [een] _met die_ ballet [aan] [de] achterkant 
+A|16| A: [of] [ja] wat _zijn_ [het] ? [het] _zijn_ allemaal [van die] loss stuk 
+A|17| A: [die] jij [die] jij _ook_ [wel] vrij snel _in_ [het] begin hebben 
+A|18| A: [die] hebben [een soort] bommetje [als] _neus_ 
+A|19| A: [en] hij hij [zitten] [op] _dat_ vierkant [plateau] _dat_ _zijn_ misschien [het] makkelijk om te zeggen 
+A|20| A: dus _dat_ vierkant [plateau] [zitten] [er] niet doorheen maar [die] [zitten] [eronder] 
+A|21| A: [ja] [ja] 
+A|22| A: zo'n 
+A|23| A: [ja] precies 
+B|24| B: dit [zijn] J 
+B|25| B: dit [zijn] [die] clown 
+B|26| B: nou [die] Pippi Langkous bedoelen [ik] 
+B|27| B: [met die] staart 
+B|28| B: [ja] [ik] zien [er] [ook] [een] clown [in] vanwege [dat] [soort] [van] platgedrukt [neus] voorop 
+B|29| B: [ja] 
+B|30| B: [ja] 
+A|31| A: [ja] 
+A|32| A: [en] [dat] dinge [aan] [de] voorkant 
+A|33| A: [ja] [dat] [zijn] elf 
+B|34| B: [ja] 
+B|35| B: P 
+A|36| A: [ik] hebben diegene [met die] ballet noemen [ik] [het] bollet [aan] [de] achterkant 
+A|37| A: [ja] 
+A|38| A: [ook] [aan] zijkant [ja] 
+B|39| B: dit [zijn] [die] Pippi Langkous 
+B|40| B: [met die] staart 
+B|41| B: dit [zijn] L 
+A|42| A: [ja] [die] ballet allemaal toch 
+A|43| A: [ja] 
+A|44| A: [zijn] nummer negen 
+A|45| A: [ik] hebben [die] [met die] bollet 
+A|46| A: [die] [die] staaf 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=1| B | B : dit lijken een beetje ik vinden hem altijd een beetje op een gezich lijken er staan een heel groot cirkel voorop en er zitten drie van die
+	Free: Pattern=een, Pattern=zitten, Pattern=er, Pattern=ik, Pattern=op een, Pattern=van die, Pattern=en
+	Constrained: Pattern=op, Pattern=die, Pattern=een, Pattern=van
+Turn ID=2| B | B : soort van balk eromheen en met al aan al twee de kant drie van die rond
+	Free: Pattern=soort, Pattern=met, Pattern=rond, Pattern=de, Pattern=aan, Pattern=van, Pattern=van die, Pattern=en
+	Constrained: Pattern=die, Pattern=van
+Turn ID=3| B | B : weten je wel ? een soort van
+	Free: Pattern=een soort, Pattern=van, Pattern=weten, Pattern=wel
+	Constrained: Pattern=een, Pattern=soort
+Turn ID=4| B | B : ik zien het een beetje als staart of zo
+	Free: Pattern=of, Pattern=een, Pattern=het, Pattern=als, Pattern=ik
+	Constrained: 
+Turn ID=5| B | B : ja achtig idee
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=6| B | B : plateau eronder ja
+	Free: Pattern=ja, Pattern=plateau, Pattern=eronder
+	Constrained: 
+Turn ID=7| B | B : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=8| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=9| A | A : ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=10| A | A : en aan de voorkant zitten zo'n rond met zo'n
+	Free: Pattern=met, Pattern=zitten, Pattern=en, Pattern=rond, Pattern=de, Pattern=aan
+	Constrained: 
+Turn ID=11| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=12| A | A : en hij zitten ook op een vierkant vlak
+	Free: Pattern=op een, Pattern=en, Pattern=zitten, Pattern=ook
+	Constrained: Pattern=op, Pattern=een
+Turn ID=13| A | A : ja oké dan weten ik het
+	Free: Pattern=ja, Pattern=weten, Pattern=het, Pattern=oké, Pattern=ik
+	Constrained: 
+Turn ID=14| A | A : dat zijn vijf
+	Free: Pattern=dat, Pattern=zijn
+	Constrained: 
+Turn ID=15| A | A : ik hebben die een met die ballet aan de achterkant
+	Free: Pattern=met die, Pattern=een, Pattern=die, Pattern=ik, Pattern=de, Pattern=aan
+	Constrained: Pattern=met, Pattern=die
+Turn ID=16| A | A : of ja wat zijn het ? het zijn allemaal van die loss stuk
+	Free: Pattern=of, Pattern=ja, Pattern=het, Pattern=van die, Pattern=zijn
+	Constrained: Pattern=die, Pattern=van
+Turn ID=17| A | A : die jij die jij ook wel vrij snel in het begin hebben
+	Free: Pattern=ook, Pattern=wel, Pattern=het, Pattern=in, Pattern=die
+	Constrained: 
+Turn ID=18| A | A : die hebben een soort bommetje als neus
+	Free: Pattern=een soort, Pattern=die, Pattern=als, Pattern=neus
+	Constrained: Pattern=een, Pattern=soort
+Turn ID=19| A | A : en hij hij zitten op dat vierkant plateau dat zijn misschien het makkelijk om te zeggen
+	Free: Pattern=dat, Pattern=op, Pattern=het, Pattern=plateau, Pattern=zitten, Pattern=en, Pattern=zijn
+	Constrained: 
+Turn ID=20| A | A : dus dat vierkant plateau zitten er niet doorheen maar die zitten eronder
+	Free: Pattern=dat, Pattern=plateau, Pattern=er, Pattern=eronder, Pattern=die, Pattern=zitten
+	Constrained: 
+Turn ID=21| A | A : ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=22| A | A : zo'n
+	Free: 
+	Constrained: 
+Turn ID=23| A | A : ja precies
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=24| B | B : dit zijn J
+	Free: Pattern=zijn
+	Constrained: 
+Turn ID=25| B | B : dit zijn die clown
+	Free: Pattern=die, Pattern=zijn
+	Constrained: 
+Turn ID=26| B | B : nou die Pippi Langkous bedoelen ik
+	Free: Pattern=die, Pattern=ik
+	Constrained: 
+Turn ID=27| B | B : met die staart
+	Free: Pattern=met die
+	Constrained: Pattern=met, Pattern=die
+Turn ID=28| B | B : ja ik zien er ook een clown in vanwege dat soort van platgedrukt neus voorop
+	Free: Pattern=dat, Pattern=soort, Pattern=ja, Pattern=ook, Pattern=een, Pattern=in, Pattern=neus, Pattern=er, Pattern=ik, Pattern=van
+	Constrained: 
+Turn ID=29| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=30| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=31| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=32| A | A : en dat dinge aan de voorkant
+	Free: Pattern=en, Pattern=dat, Pattern=de, Pattern=aan
+	Constrained: 
+Turn ID=33| A | A : ja dat zijn elf
+	Free: Pattern=dat, Pattern=zijn, Pattern=ja
+	Constrained: 
+Turn ID=34| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=35| B | B : P
+	Free: 
+	Constrained: 
+Turn ID=36| A | A : ik hebben diegene met die ballet noemen ik het bollet aan de achterkant
+	Free: Pattern=met die, Pattern=het, Pattern=ik, Pattern=de, Pattern=aan
+	Constrained: Pattern=met, Pattern=die
+Turn ID=37| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=38| A | A : ook aan zijkant ja
+	Free: Pattern=ja, Pattern=aan, Pattern=ook
+	Constrained: 
+Turn ID=39| B | B : dit zijn die Pippi Langkous
+	Free: Pattern=die, Pattern=zijn
+	Constrained: 
+Turn ID=40| B | B : met die staart
+	Free: Pattern=met die
+	Constrained: Pattern=met, Pattern=die
+Turn ID=41| B | B : dit zijn L
+	Free: Pattern=zijn
+	Constrained: 
+Turn ID=42| A | A : ja die ballet allemaal toch
+	Free: Pattern=die, Pattern=ja
+	Constrained: 
+Turn ID=43| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=44| A | A : zijn nummer negen
+	Free: Pattern=zijn
+	Constrained: 
+Turn ID=45| A | A : ik hebben die met die bollet
+	Free: Pattern=met die, Pattern=die, Pattern=ik
+	Constrained: Pattern=met, Pattern=die
+Turn ID=46| A | A : die die staaf
+	Free: Pattern=die
+	Constrained: 

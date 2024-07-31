@@ -1,0 +1,171 @@
+B|0| B: _oké_ _deze_ _zijn_ _een_ soort van _ik_ zien het _een_ _beetje_ _als_ gezich _en_ _zo'n_ komme _en_ er zitten _een_ ei voorop plakken _weten_ _je_ _nog_ _dat_ we _die_ _een_ _hebben_ _met die_ door _die_ _neus_ heen 
+B|1| B: _weten_ _je_ _nog_ _dat_ we _die_ _hebben_ 
+A|2| A: [die] Pinokkio 
+B|3| B: _ja_ 
+A|4| A: [ja] 
+B|5| B: nee _dat_ we [die] _een_ _hebben_ waar [die] door [die] 
+A|6| A: _ja die_ neuspiercing 
+B|7| B: [ja] 
+A|8| A: [ja] 
+B|9| B: _dus_ dezelfde soort vorm _als_ _neus_ zeggen maar _en dan_ voorop hoog 
+A|10| A: [ja] 
+B|11| B: _en dan_ _aan de zijkant_ _één_ balk _en_ boven ongeveer _twee_ _twee_ soort van verschillend balk 
+A|12| A: [ja] [twee] [ja] 
+A|13| A: [ja] 
+A|14| A: [dan] [weten] [ik] welk [je] bedoelen _dat zijn_ bij mij veertien 
+A|15| A: _dit zijn_ [dat] gezicht [met die] [die] rond [neus] 
+A|16| A: [die] [twee] tentakel bovenop [één] rechthoekig [en] [de] ander [ja] 
+A|17| A: [beetje] veelvormig [zo'n] _kegel_ [met] [een] rond eigenlijk 
+A|18| A: [en dan] [nog] naar [de zijkant] [een] driehoekig uitsteeksel 
+B|19| B: [dat zijn] N 
+B|20| B: [dit zijn] [ja die] pot [met die] ei voorop 
+B|21| B: [en dan] _die kegel_ boven [en] het _recht_ rechthoek boven [en] _aan de zijkant_ zeggen maar [zo'n] schuin armp 
+A|22| A: [ja] [zo'n] 
+A|23| A: [ja] [zo'n] driehoek [nog] 
+B|24| B: [ja] 
+A|25| A: [ja] 
+A|26| A: [ja] [deze] [hebben] [ik] [als] _clown noemen_ 
+B|27| B: _oké_ 
+A|28| A: [dat zijn] negen bij mij 
+A|29| A: [ja] [dit zijn] voor mij [dus] _die clown_ [dus] [die] bolneus [die] [twee] tentakel omhoog [en] [één] [aan de zijkant] 
+A|30| A: [één] [zijn] [die] bol [met [die] kegel] [en] [recht] staaf omhoog 
+A|31| A: [en] [de] ander [de] driehoek [aan de zijkant] 
+B|32| B: [dit zijn] G 
+B|33| B: [dit zijn] wat jij [die [clown] noemen] 
+A|34| A: [oké] [dus] [met die] [die] bolneus 
+B|35| B: [ja] 
+A|36| A: even zoeken 
+A|37| A: [twee] tentakel omhoog [één] naar rechts 
+A|38| A: [dat zijn] nummer vijf 
+A|39| A: [dit zijn] mijn [clown] 
+A|40| A: [dus] [met] [de] bolneus [twee] omhoog [en] [één] 
+B|41| B: [dat zijn] J 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : oké deze zijn een soort van ik zien het een beetje als gezich en zo'n komme en er zitten een ei voorop plakken weten je nog dat we die een hebben met die door die neus heen
+	Free: Pattern=nog, Pattern=zo'n, Pattern=beetje, Pattern=een, Pattern=weten, Pattern=hebben, Pattern=die, Pattern=oké, Pattern=ik, Pattern=en, Pattern=zijn, Pattern=dat, Pattern=met die, Pattern=neus, Pattern=als, Pattern=deze, Pattern=je
+	Constrained: Pattern=die, Pattern=met
+Turn ID=1| B | B : weten je nog dat we die hebben
+	Free: Pattern=dat, Pattern=nog, Pattern=weten, Pattern=hebben, Pattern=die, Pattern=je
+	Constrained: 
+Turn ID=2| A | A : die Pinokkio
+	Free: Pattern=die
+	Constrained: 
+Turn ID=3| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=4| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=5| B | B : nee dat we die een hebben waar die door die
+	Free: Pattern=hebben, Pattern=dat, Pattern=die, Pattern=een
+	Constrained: 
+Turn ID=6| A | A : ja die neuspiercing
+	Free: Pattern=ja die
+	Constrained: Pattern=die, Pattern=ja
+Turn ID=7| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=8| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=9| B | B : dus dezelfde soort vorm als neus zeggen maar en dan voorop hoog
+	Free: Pattern=en dan, Pattern=neus, Pattern=dus, Pattern=als
+	Constrained: Pattern=en, Pattern=dan
+Turn ID=10| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=11| B | B : en dan aan de zijkant één balk en boven ongeveer twee twee soort van verschillend balk
+	Free: Pattern=twee, Pattern=en dan, Pattern=aan de zijkant, Pattern=en, Pattern=één
+	Constrained: Pattern=de, Pattern=en, Pattern=de zijkant, Pattern=dan
+Turn ID=12| A | A : ja twee ja
+	Free: Pattern=twee, Pattern=ja
+	Constrained: 
+Turn ID=13| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=14| A | A : dan weten ik welk je bedoelen dat zijn bij mij veertien
+	Free: Pattern=dat zijn, Pattern=dan, Pattern=weten, Pattern=ik, Pattern=je
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=15| A | A : dit zijn dat gezicht met die die rond neus
+	Free: Pattern=neus, Pattern=die, Pattern=dit zijn, Pattern=dat, Pattern=met die
+	Constrained: Pattern=zijn, Pattern=die, Pattern=met
+Turn ID=16| A | A : die twee tentakel bovenop één rechthoekig en de ander ja
+	Free: Pattern=twee, Pattern=die, Pattern=en, Pattern=één, Pattern=de, Pattern=ja
+	Constrained: 
+Turn ID=17| A | A : beetje veelvormig zo'n kegel met een rond eigenlijk
+	Free: Pattern=kegel, Pattern=zo'n, Pattern=beetje, Pattern=een, Pattern=met
+	Constrained: 
+Turn ID=18| A | A : en dan nog naar de zijkant een driehoekig uitsteeksel
+	Free: Pattern=de zijkant, Pattern=en dan, Pattern=nog, Pattern=een
+	Constrained: Pattern=de, Pattern=en, Pattern=dan
+Turn ID=19| B | B : dat zijn N
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=20| B | B : dit zijn ja die pot met die ei voorop
+	Free: Pattern=ja die, Pattern=met die, Pattern=dit zijn
+	Constrained: Pattern=zijn, Pattern=die, Pattern=ja, Pattern=met
+Turn ID=21| B | B : en dan die kegel boven en het recht rechthoek boven en aan de zijkant zeggen maar zo'n schuin armp
+	Free: Pattern=zo'n, Pattern=en dan, Pattern=aan de zijkant, Pattern=die kegel, Pattern=recht, Pattern=en
+	Constrained: Pattern=kegel, Pattern=de, Pattern=dan, Pattern=die, Pattern=de zijkant, Pattern=en
+Turn ID=22| A | A : ja zo'n
+	Free: Pattern=zo'n, Pattern=ja
+	Constrained: 
+Turn ID=23| A | A : ja zo'n driehoek nog
+	Free: Pattern=zo'n, Pattern=ja, Pattern=nog
+	Constrained: 
+Turn ID=24| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=25| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=26| A | A : ja deze hebben ik als clown noemen
+	Free: Pattern=ja, Pattern=hebben, Pattern=als, Pattern=clown noemen, Pattern=ik, Pattern=deze
+	Constrained: Pattern=clown
+Turn ID=27| B | B : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=28| A | A : dat zijn negen bij mij
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=29| A | A : ja dit zijn voor mij dus die clown dus die bolneus die twee tentakel omhoog en één aan de zijkant
+	Free: Pattern=twee, Pattern=die clown, Pattern=aan de zijkant, Pattern=die, Pattern=en, Pattern=één, Pattern=dit zijn, Pattern=dus, Pattern=ja
+	Constrained: Pattern=de, Pattern=clown, Pattern=die, Pattern=de zijkant, Pattern=zijn
+Turn ID=30| A | A : één zijn die bol met die kegel en recht staaf omhoog
+	Free: Pattern=met die, Pattern=die kegel, Pattern=recht, Pattern=die, Pattern=en, Pattern=zijn, Pattern=één
+	Constrained: Pattern=kegel, Pattern=die, Pattern=met
+Turn ID=31| A | A : en de ander de driehoek aan de zijkant
+	Free: Pattern=aan de zijkant, Pattern=de, Pattern=en
+	Constrained: Pattern=de zijkant, Pattern=de
+Turn ID=32| B | B : dit zijn G
+	Free: Pattern=dit zijn
+	Constrained: Pattern=zijn
+Turn ID=33| B | B : dit zijn wat jij die clown noemen
+	Free: Pattern=clown noemen, Pattern=die clown, Pattern=dit zijn
+	Constrained: Pattern=zijn, Pattern=die, Pattern=clown
+Turn ID=34| A | A : oké dus met die die bolneus
+	Free: Pattern=met die, Pattern=oké, Pattern=die, Pattern=dus
+	Constrained: Pattern=die, Pattern=met
+Turn ID=35| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=36| A | A : even zoeken
+	Free: 
+	Constrained: 
+Turn ID=37| A | A : twee tentakel omhoog één naar rechts
+	Free: Pattern=één, Pattern=twee
+	Constrained: 
+Turn ID=38| A | A : dat zijn nummer vijf
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=39| A | A : dit zijn mijn clown
+	Free: Pattern=dit zijn, Pattern=clown
+	Constrained: Pattern=zijn
+Turn ID=40| A | A : dus met de bolneus twee omhoog en één
+	Free: Pattern=twee, Pattern=met, Pattern=en, Pattern=één, Pattern=de, Pattern=dus
+	Constrained: 
+Turn ID=41| B | B : dat zijn J
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn

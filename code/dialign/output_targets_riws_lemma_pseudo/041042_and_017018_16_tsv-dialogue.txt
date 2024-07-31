@@ -1,0 +1,175 @@
+A|0| A: _deze hebben_ 
+A|1| A: in totaal vier uitsteeksel _het_ komme _en_ vier uitsteeksel _twee_ dezelfde uitsteeksel _één_ _aan de_ voorkant _één_ _aan de_ bovenkant 
+A|2| A: _een soort_ kegel 
+A|3| A: _en_ _dan_ _naar_ voren toe zien je _eigenlijk_ _steeds groot worden_ _blok_ 
+A|4| A: _en_ _naar_ achter toe _zitten_ _eigenlijk_ _nog_ _een beetje_ _een_ kronkelen pijp 
+A|5| A: dus je _hebben_ _het_ kommetje _die_ basisvorm 
+A|6| A: _en_ _dan_ _zitten_ omhoog _zitten_ _eigenlijk een_ kegel _en_ _naar_ voren toe _zitten_ _een_ kegel 
+A|7| A: _en_ _dan_ _hebben_ je _eigenlijk een beetje_ _naar_ achteren toe _hebben_ je _nog_ _een_ _een_ pijp 
+A|8| A: _en_ _naar_ _de_ ander kant toe _hebben_ je _één_ _ja_ _een_ trapsgewijs toelopen _blok_ 
+A|9| A: _ja_ 
+A|10| A: _ja_ 
+A|11| A: _ja_ 
+A|12| A: _ja_ ervoor 
+A|13| A: _ja_ 
+A|14| A: _inderdaad_ 
+B|15| B: [ja] ik [hebben] hem [ja] ik [hebben] hem 
+B|16| B: _er_ [zitten] [nog] zo'n gek friemel [aan de] achterkant [eigenlijk een beetje] 
+B|17| B: [ja] 
+B|18| B: _er_ steken boven [een soort] _van_ lepel uit 
+B|19| B: _en _dat_ zijn_ voor mij [dan] even kijken E 
+B|20| B: [deze] [die] [hebben] [een] 
+B|21| B: [ja] _wat_ _zijn_ [het] ? [een soort] _van_ lepel [die] echt recht [naar] boven steken [aan de] rechterkant [een] [blok] vierkant [blok] _wat_ [steeds groot worden] 
+B|22| B: [en] links [een] 
+B|23| B: [ja] zelfde lepel _inderdaad en_ daarachter [zitten] [dan] [een] veel [aan de] achterkant [zitten] ook _wat_ 
+A|24| A: [ja] 
+A|25| A: [en] [die] _twee_ tentakel 
+A|26| A: [ja] 
+A|27| A: [dat zijn] elf 
+B|28| B: [ja] 
+B|29| B: [dat zijn] J voor mij 
+A|30| A: dit [zijn] _weer_ [dat] wormp [die] [er] in [de] basisvorm in kronkelt 
+A|31| A: [een] tentakel [een] kegel omhoog [naar] voren 
+A|32| A: [en dat] traps toewijzend toelopen [blok] 
+B|33| B: [deze hebben] [weer] lepel [die] erboven [en] link uitsteekt [en] rechts [de] [groot worden] vierkant 
+A|34| A: [zijn] [aan] [het] zoeken 
+A|35| A: _ja dat_ wormp [wat] [er] [van] achteren [weer] in komen 
+A|36| A: [ja] 
+A|37| A: [inderdaad en] [dan] [nog] _twee_ extra kegel erbij 
+A|38| A: [dat zijn] nummer negen 
+B|39| B: [een] lepel bovenin even kijken _ja dat zijn_ B 
+A|40| A: dit [zijn] [weer] [dat] wormp [dat] erin boren 
+B|41| B: met [de] [twee] gelijk lepel [één] boven [één] link 
+A|42| A: [ja dat zijn] nummer vier 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : deze hebben
+	Free: Pattern=deze hebben
+	Constrained: Pattern=deze, Pattern=hebben
+Turn ID=1| A | A : in totaal vier uitsteeksel het komme en vier uitsteeksel twee dezelfde uitsteeksel één aan de voorkant één aan de bovenkant
+	Free: Pattern=twee, Pattern=aan de, Pattern=het, Pattern=en, Pattern=één
+	Constrained: Pattern=de, Pattern=aan
+Turn ID=2| A | A : een soort kegel
+	Free: Pattern=een soort
+	Constrained: Pattern=een
+Turn ID=3| A | A : en dan naar voren toe zien je eigenlijk steeds groot worden blok
+	Free: Pattern=dan, Pattern=steeds groot worden, Pattern=eigenlijk, Pattern=en, Pattern=blok, Pattern=naar
+	Constrained: Pattern=groot worden
+Turn ID=4| A | A : en naar achter toe zitten eigenlijk nog een beetje een kronkelen pijp
+	Free: Pattern=nog, Pattern=een, Pattern=eigenlijk, Pattern=zitten, Pattern=en, Pattern=een beetje, Pattern=naar
+	Constrained: Pattern=een
+Turn ID=5| A | A : dus je hebben het kommetje die basisvorm
+	Free: Pattern=die, Pattern=het, Pattern=hebben
+	Constrained: 
+Turn ID=6| A | A : en dan zitten omhoog zitten eigenlijk een kegel en naar voren toe zitten een kegel
+	Free: Pattern=dan, Pattern=een, Pattern=eigenlijk een, Pattern=zitten, Pattern=en, Pattern=naar
+	Constrained: Pattern=een, Pattern=eigenlijk
+Turn ID=7| A | A : en dan hebben je eigenlijk een beetje naar achteren toe hebben je nog een een pijp
+	Free: Pattern=nog, Pattern=dan, Pattern=een, Pattern=eigenlijk een beetje, Pattern=hebben, Pattern=en, Pattern=naar
+	Constrained: Pattern=een beetje, Pattern=eigenlijk, Pattern=een, Pattern=eigenlijk een
+Turn ID=8| A | A : en naar de ander kant toe hebben je één ja een trapsgewijs toelopen blok
+	Free: Pattern=een, Pattern=hebben, Pattern=en, Pattern=blok, Pattern=één, Pattern=naar, Pattern=de, Pattern=ja
+	Constrained: 
+Turn ID=9| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=10| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=11| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=12| A | A : ja ervoor
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=13| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=14| A | A : inderdaad
+	Free: Pattern=inderdaad
+	Constrained: 
+Turn ID=15| B | B : ja ik hebben hem ja ik hebben hem
+	Free: Pattern=ja, Pattern=hebben
+	Constrained: 
+Turn ID=16| B | B : er zitten nog zo'n gek friemel aan de achterkant eigenlijk een beetje
+	Free: Pattern=nog, Pattern=aan de, Pattern=eigenlijk een beetje, Pattern=zitten, Pattern=er
+	Constrained: Pattern=een, Pattern=eigenlijk een, Pattern=eigenlijk, Pattern=een beetje, Pattern=de, Pattern=aan
+Turn ID=17| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=18| B | B : er steken boven een soort van lepel uit
+	Free: Pattern=een soort, Pattern=van, Pattern=er
+	Constrained: Pattern=een
+Turn ID=19| B | B : en dat zijn voor mij dan even kijken E
+	Free: Pattern=dat zijn, Pattern=en dat, Pattern=dan
+	Constrained: Pattern=en, Pattern=dat, Pattern=zijn
+Turn ID=20| B | B : deze die hebben een
+	Free: Pattern=die, Pattern=deze, Pattern=een, Pattern=hebben
+	Constrained: 
+Turn ID=21| B | B : ja wat zijn het ? een soort van lepel die echt recht naar boven steken aan de rechterkant een blok vierkant blok wat steeds groot worden
+	Free: Pattern=ja, Pattern=aan de, Pattern=een, Pattern=het, Pattern=steeds groot worden, Pattern=die, Pattern=wat, Pattern=een soort, Pattern=van, Pattern=blok, Pattern=zijn, Pattern=naar
+	Constrained: Pattern=groot worden, Pattern=aan, Pattern=een, Pattern=de
+Turn ID=22| B | B : en links een
+	Free: Pattern=en, Pattern=een
+	Constrained: 
+Turn ID=23| B | B : ja zelfde lepel inderdaad en daarachter zitten dan een veel aan de achterkant zitten ook wat
+	Free: Pattern=ja, Pattern=aan de, Pattern=dan, Pattern=een, Pattern=zitten, Pattern=wat, Pattern=inderdaad en
+	Constrained: Pattern=en, Pattern=de, Pattern=aan, Pattern=inderdaad
+Turn ID=24| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=25| A | A : en die twee tentakel
+	Free: Pattern=en, Pattern=die, Pattern=twee
+	Constrained: 
+Turn ID=26| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=27| A | A : dat zijn elf
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=28| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=29| B | B : dat zijn J voor mij
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=30| A | A : dit zijn weer dat wormp die er in de basisvorm in kronkelt
+	Free: Pattern=dat, Pattern=de, Pattern=die, Pattern=er, Pattern=zijn, Pattern=weer
+	Constrained: 
+Turn ID=31| A | A : een tentakel een kegel omhoog naar voren
+	Free: Pattern=naar, Pattern=een
+	Constrained: 
+Turn ID=32| A | A : en dat traps toewijzend toelopen blok
+	Free: Pattern=en dat, Pattern=blok
+	Constrained: Pattern=en, Pattern=dat
+Turn ID=33| B | B : deze hebben weer lepel die erboven en link uitsteekt en rechts de groot worden vierkant
+	Free: Pattern=de, Pattern=deze hebben, Pattern=die, Pattern=en, Pattern=groot worden, Pattern=weer
+	Constrained: Pattern=deze, Pattern=hebben
+Turn ID=34| A | A : zijn aan het zoeken
+	Free: Pattern=zijn, Pattern=aan, Pattern=het
+	Constrained: 
+Turn ID=35| A | A : ja dat wormp wat er van achteren weer in komen
+	Free: Pattern=van, Pattern=weer, Pattern=ja dat, Pattern=wat, Pattern=er
+	Constrained: Pattern=ja, Pattern=dat
+Turn ID=36| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=37| A | A : inderdaad en dan nog twee extra kegel erbij
+	Free: Pattern=inderdaad en, Pattern=dan, Pattern=twee, Pattern=nog
+	Constrained: Pattern=en, Pattern=inderdaad
+Turn ID=38| A | A : dat zijn nummer negen
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=39| B | B : een lepel bovenin even kijken ja dat zijn B
+	Free: Pattern=ja dat zijn, Pattern=een
+	Constrained: Pattern=ja, Pattern=zijn, Pattern=ja dat, Pattern=dat, Pattern=dat zijn
+Turn ID=40| A | A : dit zijn weer dat wormp dat erin boren
+	Free: Pattern=dat, Pattern=zijn, Pattern=weer
+	Constrained: 
+Turn ID=41| B | B : met de twee gelijk lepel één boven één link
+	Free: Pattern=de, Pattern=twee, Pattern=één
+	Constrained: 
+Turn ID=42| A | A : ja dat zijn nummer vier
+	Free: Pattern=ja dat zijn
+	Constrained: Pattern=ja, Pattern=zijn, Pattern=ja dat, Pattern=dat, Pattern=dat zijn

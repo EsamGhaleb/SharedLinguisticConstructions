@@ -1,0 +1,155 @@
+A|0| A: _oké_ _ja_ 
+A|1| A: _ja_ _het zijn_ _er_ _twee_ 
+A|2| A: _de_ onderste 
+A|3| A: _en_ _dan_ _met_ _die_ lang _die_ _cilinder_ _die_ zo eruit steken 
+A|4| A: _ja_ _en_ _dan_ _twee van die_ ding erop _en_ _dan_ 
+A|5| A: _ja_ 
+A|6| A: _oké_ _dan_ _zijn_ _dat_ nummer zes 
+B|7| B: [oké] 
+B|8| B: [dan] moeten jij volgens mij net drukken 
+B|9| B: [oké] 
+B|10| B: [oké] [oké] ik hebben weer [het] vierkant nu 
+B|11| B: [ja] 
+B|12| B: nou [het zijn] dus [er] zitten _een_ vierkant in [het] midden 
+B|13| B: ik weten niet horizontaal 
+B|14| B: [en] _aan de voorkant_ zitten [er] zo'n dik [cilinder] hebben ik [het] noemen 
+B|15| B: [ja] [ja] 
+B|16| B: bovenop [twee van die] dinget 
+B|17| B: [oké] tof 
+A|18| A: _dit zijn_ [die] [een] _met_ _dat_ _dat_ [die] schijf recht doorheen [aan de] onderkant 
+A|19| A: _met_ [die] raar _slurf_ [aan de voorkant] 
+A|20| A: _met_ [die] [twee] dingetjes ook zo op _dat_ 
+A|21| A: [ja] _met_ [die] _slurf_ 
+A|22| A: [ja] 
+A|23| A: _dat zijn_ dertien 
+B|24| B: even zoeken 
+B|25| B: [ja] [ja] [ja] [dat zijn] C 
+A|26| A: _dit zijn_ [dat] kop _met_ [dat] ding [er] gewoon recht doorheen [die] bal [die] plaat [en] [dan] [die] raar _slurf_ eraan 
+B|27| B: [dit zijn] [de] [met] [een] vierkant doormidd snijden [met] [de] [slurf] 
+B|28| B: bovenop [twee van die] 
+B|29| B: [ja] 
+B|30| B: [ja] 
+B|31| B: [ja] [ja] J 
+A|32| A: [ja] 
+A|33| A: nummer negen 
+A|34| A: [met] [die] [slurf] [met] [dat] ding erdoorheen 
+B|35| B: [dit zijn] [de] [met] [het] plateau doormidd 
+B|36| B: [met] [de] [slurf] dus [twee] voelsprietjes bovenop 
+B|37| B: [ja] [dat zijn] N 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : oké ja
+	Free: Pattern=oké, Pattern=ja
+	Constrained: 
+Turn ID=1| A | A : ja het zijn er twee
+	Free: Pattern=het zijn, Pattern=twee, Pattern=ja, Pattern=er
+	Constrained: Pattern=zijn, Pattern=het
+Turn ID=2| A | A : de onderste
+	Free: Pattern=de
+	Constrained: 
+Turn ID=3| A | A : en dan met die lang die cilinder die zo eruit steken
+	Free: Pattern=dan, Pattern=met, Pattern=die, Pattern=cilinder, Pattern=en
+	Constrained: 
+Turn ID=4| A | A : ja en dan twee van die ding erop en dan
+	Free: Pattern=twee van die, Pattern=dan, Pattern=en, Pattern=ja
+	Constrained: Pattern=twee, Pattern=die
+Turn ID=5| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=6| A | A : oké dan zijn dat nummer zes
+	Free: Pattern=dan, Pattern=oké, Pattern=zijn, Pattern=dat
+	Constrained: 
+Turn ID=7| B | B : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=8| B | B : dan moeten jij volgens mij net drukken
+	Free: Pattern=dan
+	Constrained: 
+Turn ID=9| B | B : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=10| B | B : oké oké ik hebben weer het vierkant nu
+	Free: Pattern=oké, Pattern=het
+	Constrained: 
+Turn ID=11| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=12| B | B : nou het zijn dus er zitten een vierkant in het midden
+	Free: Pattern=het zijn, Pattern=het, Pattern=een, Pattern=er
+	Constrained: Pattern=zijn, Pattern=het
+Turn ID=13| B | B : ik weten niet horizontaal
+	Free: 
+	Constrained: 
+Turn ID=14| B | B : en aan de voorkant zitten er zo'n dik cilinder hebben ik het noemen
+	Free: Pattern=het, Pattern=er, Pattern=aan de voorkant, Pattern=cilinder, Pattern=en
+	Constrained: Pattern=aan de, Pattern=de
+Turn ID=15| B | B : ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=16| B | B : bovenop twee van die dinget
+	Free: Pattern=twee van die
+	Constrained: Pattern=twee, Pattern=die
+Turn ID=17| B | B : oké tof
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=18| A | A : dit zijn die een met dat dat die schijf recht doorheen aan de onderkant
+	Free: Pattern=dat, Pattern=aan de, Pattern=een, Pattern=met, Pattern=die, Pattern=dit zijn
+	Constrained: Pattern=zijn, Pattern=de
+Turn ID=19| A | A : met die raar slurf aan de voorkant
+	Free: Pattern=aan de voorkant, Pattern=die, Pattern=met, Pattern=slurf
+	Constrained: Pattern=aan de, Pattern=de
+Turn ID=20| A | A : met die twee dingetjes ook zo op dat
+	Free: Pattern=twee, Pattern=die, Pattern=met, Pattern=dat
+	Constrained: 
+Turn ID=21| A | A : ja met die slurf
+	Free: Pattern=die, Pattern=met, Pattern=slurf, Pattern=ja
+	Constrained: 
+Turn ID=22| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=23| A | A : dat zijn dertien
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=24| B | B : even zoeken
+	Free: 
+	Constrained: 
+Turn ID=25| B | B : ja ja ja dat zijn C
+	Free: Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=26| A | A : dit zijn dat kop met dat ding er gewoon recht doorheen die bal die plaat en dan die raar slurf eraan
+	Free: Pattern=dat, Pattern=dan, Pattern=slurf, Pattern=met, Pattern=die, Pattern=er, Pattern=en, Pattern=dit zijn
+	Constrained: Pattern=zijn
+Turn ID=27| B | B : dit zijn de met een vierkant doormidd snijden met de slurf
+	Free: Pattern=de, Pattern=slurf, Pattern=een, Pattern=met, Pattern=dit zijn
+	Constrained: Pattern=zijn
+Turn ID=28| B | B : bovenop twee van die
+	Free: Pattern=twee van die
+	Constrained: Pattern=twee, Pattern=die
+Turn ID=29| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=30| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=31| B | B : ja ja J
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=32| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=33| A | A : nummer negen
+	Free: 
+	Constrained: 
+Turn ID=34| A | A : met die slurf met dat ding erdoorheen
+	Free: Pattern=die, Pattern=met, Pattern=slurf, Pattern=dat
+	Constrained: 
+Turn ID=35| B | B : dit zijn de met het plateau doormidd
+	Free: Pattern=dit zijn, Pattern=de, Pattern=met, Pattern=het
+	Constrained: Pattern=zijn
+Turn ID=36| B | B : met de slurf dus twee voelsprietjes bovenop
+	Free: Pattern=twee, Pattern=de, Pattern=met, Pattern=slurf
+	Constrained: 
+Turn ID=37| B | B : ja dat zijn N
+	Free: Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=zijn, Pattern=dat

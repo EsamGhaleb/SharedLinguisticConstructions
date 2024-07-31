@@ -1,0 +1,79 @@
+A|0| A: _oké_ _deze hebben_ een best wel lang balk voor zich staan 
+A|1| A: _en_ een bolle _bovenop_ 
+B|2| B: [en] [hebben] _die_ nog _twee_ van _die_ 
+A|3| A: _ja_ 
+B|4| B: [oké] _dan_ _zijn_ het D 
+B|5| B: _deze hebben de bol bovenop_ 
+A|6| A: [de _bol bovenop] en_ [dan] [die] balk er _ervoor_ 
+B|7| B: [ja] 
+A|8| A: [oké] _dat zijn bij mij_ vijftien 
+A|9| A: [deze hebben de _bol bovenop] en_ [dan] [de] [die] groot balk aan [de] voorkant 
+B|10| B: [zijn] 
+A|11| A: _en die_ [twee] dinge aan [de] zijkant 
+B|12| B: [zijn] L 
+B|13| B: [deze] [zijn] weer met [die] [bol bovenop [en] die] staaf [ervoor] 
+A|14| A: [ja] _dat zijn bij mij_ zes 
+A|15| A: [deze hebben de [bol bovenop] en] [dan] [de] balk daarvoor 
+B|16| B: [dat zijn bij mij] J 
+B|17| B: met [die] bal [bovenop [en] die] [dat] blok [ervoor] 
+A|18| A: [ja] [dat zijn] nummer drie 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : oké deze hebben een best wel lang balk voor zich staan
+	Free: Pattern=deze hebben, Pattern=oké
+	Constrained: Pattern=deze, Pattern=hebben
+Turn ID=1| A | A : en een bolle bovenop
+	Free: Pattern=en, Pattern=bovenop
+	Constrained: 
+Turn ID=2| B | B : en hebben die nog twee van die
+	Free: Pattern=en, Pattern=die, Pattern=twee, Pattern=hebben
+	Constrained: 
+Turn ID=3| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=4| B | B : oké dan zijn het D
+	Free: Pattern=oké, Pattern=zijn, Pattern=dan
+	Constrained: 
+Turn ID=5| B | B : deze hebben de bol bovenop
+	Free: Pattern=deze hebben de bol bovenop
+	Constrained: Pattern=bovenop, Pattern=de, Pattern=hebben, Pattern=deze, Pattern=deze hebben, Pattern=de bol bovenop
+Turn ID=6| A | A : de bol bovenop en dan die balk er ervoor
+	Free: Pattern=bol bovenop en, Pattern=de bol bovenop, Pattern=die, Pattern=ervoor, Pattern=dan
+	Constrained: Pattern=bovenop, Pattern=bovenop en, Pattern=de, Pattern=en
+Turn ID=7| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=8| A | A : oké dat zijn bij mij vijftien
+	Free: Pattern=dat zijn bij mij, Pattern=oké
+	Constrained: Pattern=dat, Pattern=zijn, Pattern=dat zijn
+Turn ID=9| A | A : deze hebben de bol bovenop en dan de die groot balk aan de voorkant
+	Free: Pattern=de, Pattern=dan, Pattern=bol bovenop en, Pattern=deze hebben de bol bovenop, Pattern=die
+	Constrained: Pattern=bovenop, Pattern=de, Pattern=bovenop en, Pattern=hebben, Pattern=en, Pattern=deze, Pattern=deze hebben, Pattern=de bol bovenop
+Turn ID=10| B | B : zijn
+	Free: Pattern=zijn
+	Constrained: 
+Turn ID=11| A | A : en die twee dinge aan de zijkant
+	Free: Pattern=en die, Pattern=twee, Pattern=de
+	Constrained: Pattern=en, Pattern=die
+Turn ID=12| B | B : zijn L
+	Free: Pattern=zijn
+	Constrained: 
+Turn ID=13| B | B : deze zijn weer met die bol bovenop en die staaf ervoor
+	Free: Pattern=en die, Pattern=ervoor, Pattern=bol bovenop en, Pattern=die, Pattern=zijn, Pattern=deze
+	Constrained: Pattern=bovenop, Pattern=bovenop en, Pattern=die, Pattern=en
+Turn ID=14| A | A : ja dat zijn bij mij zes
+	Free: Pattern=dat zijn bij mij, Pattern=ja
+	Constrained: Pattern=dat, Pattern=zijn, Pattern=dat zijn
+Turn ID=15| A | A : deze hebben de bol bovenop en dan de balk daarvoor
+	Free: Pattern=deze hebben de bol bovenop, Pattern=bol bovenop en, Pattern=de, Pattern=dan
+	Constrained: Pattern=bovenop, Pattern=de, Pattern=bovenop en, Pattern=hebben, Pattern=en, Pattern=deze, Pattern=deze hebben, Pattern=de bol bovenop
+Turn ID=16| B | B : dat zijn bij mij J
+	Free: Pattern=dat zijn bij mij
+	Constrained: Pattern=dat, Pattern=zijn, Pattern=dat zijn
+Turn ID=17| B | B : met die bal bovenop en die dat blok ervoor
+	Free: Pattern=en die, Pattern=dat, Pattern=ervoor, Pattern=bovenop en, Pattern=die
+	Constrained: Pattern=en, Pattern=die, Pattern=bovenop
+Turn ID=18| A | A : ja dat zijn nummer drie
+	Free: Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=zijn, Pattern=dat

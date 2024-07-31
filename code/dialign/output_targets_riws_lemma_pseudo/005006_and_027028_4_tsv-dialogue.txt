@@ -1,0 +1,107 @@
+A|0| A: ok deze hebben _een_ _isteken_ aan _de_ zijkant 
+A|1| A: _ja die_ afsnijden _zijn_ of zo 
+A|2| A: _ja_ 
+B|3| B: [ja] 
+B|4| B: [ja] dan 
+B|5| B: [ja] 
+B|6| B: zitten zo'n dinge nog bovenop 
+B|7| B: [ja] 
+B|8| B: oké 
+B|9| B: _dat_ [zijn] B 
+A|10| A: _met_ _dat isteken_ 
+A|11| A: [ja] 
+A|12| A: twee 
+B|13| B: [ja] volgens mij [zijn] dit [ja die] adapter [met] [die] [dat isteken] in ieder geval 
+B|14| B: hij 
+B|15| B: [ja] er zitten eigenlijk [een] soort half piramide op [met] waar [de] bovenkant [zijn] af [ja] [ja] 
+A|16| A: deze [met] het [isteken] en [dat] afsneden 
+A|17| A: [ja] 
+B|18| B: [ja] 
+B|19| B: M 
+A|20| A: negen 
+A|21| A: [met] [dat isteken] en [dat] afgekapte hoedje 
+B|22| B: [ja] dit [zijn] [die] adapter 
+A|23| A: zes 
+B|24| B: [ja] [dat] [zijn] F 
+B|25| B: dit [zijn] [de] adapter 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : ok deze hebben een isteken aan de zijkant
+	Free: Pattern=een, Pattern=isteken, Pattern=de
+	Constrained: 
+Turn ID=1| A | A : ja die afsnijden zijn of zo
+	Free: Pattern=ja die, Pattern=zijn
+	Constrained: Pattern=ja, Pattern=die
+Turn ID=2| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=3| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=4| B | B : ja dan
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=5| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=6| B | B : zitten zo'n dinge nog bovenop
+	Free: 
+	Constrained: 
+Turn ID=7| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=8| B | B : oké
+	Free: 
+	Constrained: 
+Turn ID=9| B | B : dat zijn B
+	Free: Pattern=zijn, Pattern=dat
+	Constrained: 
+Turn ID=10| A | A : met dat isteken
+	Free: Pattern=dat isteken, Pattern=met
+	Constrained: Pattern=dat, Pattern=isteken
+Turn ID=11| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=12| A | A : twee
+	Free: 
+	Constrained: 
+Turn ID=13| B | B : ja volgens mij zijn dit ja die adapter met die dat isteken in ieder geval
+	Free: Pattern=ja die, Pattern=ja, Pattern=met, Pattern=die, Pattern=dat isteken, Pattern=zijn
+	Constrained: Pattern=ja, Pattern=die, Pattern=dat, Pattern=isteken
+Turn ID=14| B | B : hij
+	Free: 
+	Constrained: 
+Turn ID=15| B | B : ja er zitten eigenlijk een soort half piramide op met waar de bovenkant zijn af ja ja
+	Free: Pattern=een, Pattern=met, Pattern=zijn, Pattern=de, Pattern=ja
+	Constrained: 
+Turn ID=16| A | A : deze met het isteken en dat afsneden
+	Free: Pattern=met, Pattern=dat, Pattern=isteken
+	Constrained: 
+Turn ID=17| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=18| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=19| B | B : M
+	Free: 
+	Constrained: 
+Turn ID=20| A | A : negen
+	Free: 
+	Constrained: 
+Turn ID=21| A | A : met dat isteken en dat afgekapte hoedje
+	Free: Pattern=dat isteken, Pattern=met, Pattern=dat
+	Constrained: Pattern=dat, Pattern=isteken
+Turn ID=22| B | B : ja dit zijn die adapter
+	Free: Pattern=zijn, Pattern=ja, Pattern=die
+	Constrained: 
+Turn ID=23| A | A : zes
+	Free: 
+	Constrained: 
+Turn ID=24| B | B : ja dat zijn F
+	Free: Pattern=zijn, Pattern=ja, Pattern=dat
+	Constrained: 
+Turn ID=25| B | B : dit zijn de adapter
+	Free: Pattern=zijn, Pattern=de
+	Constrained: 

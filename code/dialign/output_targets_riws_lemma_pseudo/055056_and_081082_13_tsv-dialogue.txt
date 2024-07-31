@@ -1,0 +1,103 @@
+B|0| B: _met de_ twee krullet _aan de_ zijkant 
+B|1| B: twee spiraalt naar _de_ zijkant toe 
+B|2| B: op op een dienblad 
+A|3| A: rond boog 
+A|4| A: _ja_ 
+A|5| A: _ja_ 
+A|6| A: _dat zijn_ nummer vijf 
+B|7| B: _met_ die krullet [ja] [dat zijn] bij mij [zijn] [dat] J 
+B|8| B: dit [zijn] op [dat] dienblad _met_ die krullet naar _de_ zijkant 
+B|9| B: het plaa _aan de voorkant_ 
+A|10| A: hoe noemen je deze ook alweer ? in ieder geval koffiekopje [met] vierkant onderzetter 
+A|11| A: [met de] soort rond neus [aan de voorkant] 
+A|12| A: [de] spiraaloort 
+A|13| A: oké 
+B|14| B: [ja] [dat zijn] bij mij P 
+B|15| B: [de] kronkeloort cilinder 
+A|16| A: [met de] ei of 
+A|17| A: oké even zoeken zoeken zoeken 
+A|18| A: [ja] [de] [ja] [de] raar vlech 
+A|19| A: [dat zijn] nummer elf 
+B|20| B: [de] plaat [met de] spiraalt [ja] [dat zijn] L 
+A|21| A: jou spiraalvlecht 
+A|22| A: [ja] 
+A|23| A: nummer negen 
+A|24| A: [de] vlecht 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : met de twee krullet aan de zijkant
+	Free: Pattern=met de, Pattern=aan de
+	Constrained: Pattern=de, Pattern=met
+Turn ID=1| B | B : twee spiraalt naar de zijkant toe
+	Free: Pattern=de
+	Constrained: 
+Turn ID=2| B | B : op op een dienblad
+	Free: 
+	Constrained: 
+Turn ID=3| A | A : rond boog
+	Free: 
+	Constrained: 
+Turn ID=4| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=5| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=6| A | A : dat zijn nummer vijf
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=7| B | B : met die krullet ja dat zijn bij mij zijn dat J
+	Free: Pattern=ja, Pattern=met, Pattern=zijn, Pattern=dat, Pattern=dat zijn
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=8| B | B : dit zijn op dat dienblad met die krullet naar de zijkant
+	Free: Pattern=zijn, Pattern=de, Pattern=dat, Pattern=met
+	Constrained: 
+Turn ID=9| B | B : het plaa aan de voorkant
+	Free: Pattern=aan de voorkant
+	Constrained: Pattern=aan de, Pattern=de
+Turn ID=10| A | A : hoe noemen je deze ook alweer ? in ieder geval koffiekopje met vierkant onderzetter
+	Free: Pattern=met
+	Constrained: 
+Turn ID=11| A | A : met de soort rond neus aan de voorkant
+	Free: Pattern=aan de voorkant, Pattern=met de
+	Constrained: Pattern=de, Pattern=aan de, Pattern=met
+Turn ID=12| A | A : de spiraaloort
+	Free: Pattern=de
+	Constrained: 
+Turn ID=13| A | A : oké
+	Free: 
+	Constrained: 
+Turn ID=14| B | B : ja dat zijn bij mij P
+	Free: Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=15| B | B : de kronkeloort cilinder
+	Free: Pattern=de
+	Constrained: 
+Turn ID=16| A | A : met de ei of
+	Free: Pattern=met de
+	Constrained: Pattern=de, Pattern=met
+Turn ID=17| A | A : oké even zoeken zoeken zoeken
+	Free: 
+	Constrained: 
+Turn ID=18| A | A : ja de ja de raar vlech
+	Free: Pattern=ja, Pattern=de
+	Constrained: 
+Turn ID=19| A | A : dat zijn nummer elf
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=20| B | B : de plaat met de spiraalt ja dat zijn L
+	Free: Pattern=dat zijn, Pattern=met de, Pattern=ja, Pattern=de
+	Constrained: Pattern=zijn, Pattern=de, Pattern=dat, Pattern=met
+Turn ID=21| A | A : jou spiraalvlecht
+	Free: 
+	Constrained: 
+Turn ID=22| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=23| A | A : nummer negen
+	Free: 
+	Constrained: 
+Turn ID=24| A | A : de vlecht
+	Free: Pattern=de
+	Constrained: 

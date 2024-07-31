@@ -1,0 +1,79 @@
+A|0| A: ja en zo'n _bak_ soep _erop_ zeggen maar 
+A|1| A: ja 
+A|2| A: zestien 
+B|3| B: deze hebben een tafel _met_ een [bak] er _op_ aan _de_ voorkant 
+A|4| A: dit zijn [de] soep komen soep [op] [de] plateau 
+B|5| B: _even_ kijken _waar_ _die_ staan P 
+A|6| A: ja 
+A|7| A: [even] zoeken hoor 
+A|8| A: [waar] zijn [die] 
+A|9| A: ah ik kunnen hem niet vinden 
+A|10| A: ja oké ja ja veertien 
+B|11| B: tafel _met_ [bak] [erop] 
+A|12| A: diegene [met] het plateau en [de] komen soep 
+A|13| A: oké 
+A|14| A: ja tien 
+B|15| B: o [met] dat tafel 
+B|16| B: jaja N 
+B|17| B: tafel [met] bakje er [op] 
+B|18| B: D 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : ja en zo'n bak soep erop zeggen maar
+	Free: Pattern=erop, Pattern=bak
+	Constrained: 
+Turn ID=1| A | A : ja
+	Free: 
+	Constrained: 
+Turn ID=2| A | A : zestien
+	Free: 
+	Constrained: 
+Turn ID=3| B | B : deze hebben een tafel met een bak er op aan de voorkant
+	Free: Pattern=de, Pattern=op, Pattern=met, Pattern=bak
+	Constrained: 
+Turn ID=4| A | A : dit zijn de soep komen soep op de plateau
+	Free: Pattern=de, Pattern=op
+	Constrained: 
+Turn ID=5| B | B : even kijken waar die staan P
+	Free: Pattern=waar, Pattern=even, Pattern=die
+	Constrained: 
+Turn ID=6| A | A : ja
+	Free: 
+	Constrained: 
+Turn ID=7| A | A : even zoeken hoor
+	Free: Pattern=even
+	Constrained: 
+Turn ID=8| A | A : waar zijn die
+	Free: Pattern=waar, Pattern=die
+	Constrained: 
+Turn ID=9| A | A : ah ik kunnen hem niet vinden
+	Free: 
+	Constrained: 
+Turn ID=10| A | A : ja oké ja ja veertien
+	Free: 
+	Constrained: 
+Turn ID=11| B | B : tafel met bak erop
+	Free: Pattern=erop, Pattern=met, Pattern=bak
+	Constrained: 
+Turn ID=12| A | A : diegene met het plateau en de komen soep
+	Free: Pattern=de, Pattern=met
+	Constrained: 
+Turn ID=13| A | A : oké
+	Free: 
+	Constrained: 
+Turn ID=14| A | A : ja tien
+	Free: 
+	Constrained: 
+Turn ID=15| B | B : o met dat tafel
+	Free: Pattern=met
+	Constrained: 
+Turn ID=16| B | B : jaja N
+	Free: 
+	Constrained: 
+Turn ID=17| B | B : tafel met bakje er op
+	Free: Pattern=op, Pattern=met
+	Constrained: 
+Turn ID=18| B | B : D
+	Free: 
+	Constrained: 

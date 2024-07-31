@@ -1,0 +1,119 @@
+A|0| A: deze hebben _een_ plat rond _aan de rechterkant_ die horizontaal staan 
+A|1| A: _en_ er zitten link _een soort van_ hartjesvormuitsteeksel _met_ _een_ _met_ _een_ pin erin 
+A|2| A: _ook_ nog 
+A|3| A: _aan de rechterkant_ zitten _een_ horizontaal plat rond 
+A|4| A: _en_ link zitten _zeggen maar_ _een_ vormp _met_ _een_ _met_ _een_ punt erin 
+A|5| A: sterrenkijker _ja_ die _ja_ die _ja_ 
+A|6| A: die _ja_ 
+A|7| A: die _dat_ horizontaal cirkelding _dat_ hart _ja_ 
+A|8| A: _ja_ _dat zijn_ nummer drie 
+B|9| B: [ja] 
+B|10| B: [soort van] snelwegrail 
+B|11| B: of [een] kabel 
+B|12| B: misschien wat vergezocht hoor [maar] 
+B|13| B: [ja] nee dan denken ik [dat] ik hem [ook] wel weten 
+B|14| B: ik gaan voor m 
+A|15| A: _dit zijn_ die _met_ die plat horizontaal cirkel _en_ [dat] hart _met_ die pin erin [dat] uitstekend hartjevormding 
+B|16| B: [dit zijn] [dat] kop [met] het dienblad [aan de rechterkant] 
+B|17| B: [en] [een soort van] vangrail [aan de] linkerkant 
+B|18| B: [en] zo'n gek spijker daarin [zeggen maar] 
+A|19| A: [ja] 
+A|20| A: yes 
+A|21| A: [ja] 
+A|22| A: [dit zijn] die [met] die hartjesvorm [en] die sterrenkijker eruit 
+B|23| B: [ja] even kijken dan gaan ik voor m 
+A|24| A: [ja] _dat zijn_ negen 
+B|25| B: [dit zijn] [de] ober [met] [zijn] dienblad 
+B|26| B: [ja] heel goed 
+B|27| B: dienblad spijker door [de] vangrail [ja] helemaal goed [dat zijn] voor mij l 
+B|28| B: [de] ober [met] het tafel [aan] één kant [en] spijker door vangrail 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : deze hebben een plat rond aan de rechterkant die horizontaal staan
+	Free: Pattern=aan de rechterkant, Pattern=een
+	Constrained: Pattern=aan, Pattern=de, Pattern=aan de
+Turn ID=1| A | A : en er zitten link een soort van hartjesvormuitsteeksel met een met een pin erin
+	Free: Pattern=een soort van, Pattern=en, Pattern=een, Pattern=met
+	Constrained: Pattern=soort van, Pattern=een
+Turn ID=2| A | A : ook nog
+	Free: Pattern=ook
+	Constrained: 
+Turn ID=3| A | A : aan de rechterkant zitten een horizontaal plat rond
+	Free: Pattern=aan de rechterkant, Pattern=een
+	Constrained: Pattern=aan, Pattern=de, Pattern=aan de
+Turn ID=4| A | A : en link zitten zeggen maar een vormp met een met een punt erin
+	Free: Pattern=zeggen maar, Pattern=en, Pattern=een, Pattern=met
+	Constrained: Pattern=maar
+Turn ID=5| A | A : sterrenkijker ja die ja die ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=6| A | A : die ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=7| A | A : die dat horizontaal cirkelding dat hart ja
+	Free: Pattern=dat, Pattern=ja
+	Constrained: 
+Turn ID=8| A | A : ja dat zijn nummer drie
+	Free: Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=9| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=10| B | B : soort van snelwegrail
+	Free: Pattern=soort van
+	Constrained: 
+Turn ID=11| B | B : of een kabel
+	Free: Pattern=een
+	Constrained: 
+Turn ID=12| B | B : misschien wat vergezocht hoor maar
+	Free: Pattern=maar
+	Constrained: 
+Turn ID=13| B | B : ja nee dan denken ik dat ik hem ook wel weten
+	Free: Pattern=dat, Pattern=ja, Pattern=ook
+	Constrained: 
+Turn ID=14| B | B : ik gaan voor m
+	Free: 
+	Constrained: 
+Turn ID=15| A | A : dit zijn die met die plat horizontaal cirkel en dat hart met die pin erin dat uitstekend hartjevormding
+	Free: Pattern=dit zijn, Pattern=dat, Pattern=en, Pattern=met
+	Constrained: Pattern=zijn
+Turn ID=16| B | B : dit zijn dat kop met het dienblad aan de rechterkant
+	Free: Pattern=aan de rechterkant, Pattern=dit zijn, Pattern=dat, Pattern=met
+	Constrained: Pattern=aan, Pattern=de, Pattern=zijn, Pattern=aan de
+Turn ID=17| B | B : en een soort van vangrail aan de linkerkant
+	Free: Pattern=een soort van, Pattern=aan de, Pattern=en
+	Constrained: Pattern=aan, Pattern=een, Pattern=de, Pattern=soort van
+Turn ID=18| B | B : en zo'n gek spijker daarin zeggen maar
+	Free: Pattern=zeggen maar, Pattern=en
+	Constrained: Pattern=maar
+Turn ID=19| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=20| A | A : yes
+	Free: 
+	Constrained: 
+Turn ID=21| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=22| A | A : dit zijn die met die hartjesvorm en die sterrenkijker eruit
+	Free: Pattern=dit zijn, Pattern=en, Pattern=met
+	Constrained: Pattern=zijn
+Turn ID=23| B | B : ja even kijken dan gaan ik voor m
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=24| A | A : ja dat zijn negen
+	Free: Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=25| B | B : dit zijn de ober met zijn dienblad
+	Free: Pattern=dit zijn, Pattern=de, Pattern=zijn, Pattern=met
+	Constrained: Pattern=zijn
+Turn ID=26| B | B : ja heel goed
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=27| B | B : dienblad spijker door de vangrail ja helemaal goed dat zijn voor mij l
+	Free: Pattern=dat zijn, Pattern=de, Pattern=ja
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=28| B | B : de ober met het tafel aan één kant en spijker door vangrail
+	Free: Pattern=de, Pattern=en, Pattern=met, Pattern=aan
+	Constrained: 

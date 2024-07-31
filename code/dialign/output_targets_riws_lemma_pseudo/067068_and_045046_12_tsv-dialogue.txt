@@ -1,0 +1,103 @@
+B|0| B: _en_ _zo'n_ bijzettafel _aan_ _de_ rechterkant 
+B|1| B: L 
+B|2| B: _dit zijn_ weer dat bijzettafelt _met_ _een soort_ van spijker in _zo'n_ steken in _zo'n_ uitstekend ding 
+B|3| B: _nee_ lijken dat rond rond tafel zeggen maar 
+B|4| B: _en dan_ _hebben_ je _zo'n_ ander ding er link uit steken _met_ _zo'n_ spijker erin 
+A|5| A: nu [hebben] ik _ja_ [nee] [zo'n] 
+A|6| A: hij [hebben] _links_ [hebben] hij [een] [de] enig _die_ nog over [zijn] volgens mij [hebben] _die_ [een soort] staaf [en] daaraan vast zitten [een] heel dun dinge 
+A|7| A: waardoor _die_ best wel breed worden op zich _ja_ [een soort] 
+A|8| A: _ja_ [een soort] pion _ja_ 
+A|9| A: [en dan] _rechts_ [hebben] _die_ nog [een soort] dienblad vast 
+B|10| B: [ja] 
+B|11| B: C 
+A|12| A: [ja] [ja] [ja] ik [hebben] hem 
+A|13| A: nummer zeven 
+A|14| A: _dit zijn die_ pion 
+A|15| A: _die_ uitsteken [aan] [een soort] arm 
+A|16| A: [en] _rechts_ nog [een] dienblad 
+B|17| B: [dit zijn _die] met de_ spijker [links] _en het_ bij rond bijzettafel [rechts] 
+B|18| B: [ja] 
+B|19| B: A 
+A|20| A: [ja] 
+A|21| A: één 
+B|22| B: [de] [de] spijker [die] [links] uit komen [en dan] _het_ Ronde klein bijzettafel 
+A|23| A: ik [hebben] [die met de] pion [en het] dienblad 
+A|24| A: nummer dertien 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : en zo'n bijzettafel aan de rechterkant
+	Free: Pattern=zo'n, Pattern=aan, Pattern=de, Pattern=en
+	Constrained: 
+Turn ID=1| B | B : L
+	Free: 
+	Constrained: 
+Turn ID=2| B | B : dit zijn weer dat bijzettafelt met een soort van spijker in zo'n steken in zo'n uitstekend ding
+	Free: Pattern=een soort, Pattern=dit zijn, Pattern=zo'n, Pattern=met
+	Constrained: Pattern=een, Pattern=zijn
+Turn ID=3| B | B : nee lijken dat rond rond tafel zeggen maar
+	Free: Pattern=nee
+	Constrained: 
+Turn ID=4| B | B : en dan hebben je zo'n ander ding er link uit steken met zo'n spijker erin
+	Free: Pattern=en dan, Pattern=zo'n, Pattern=hebben, Pattern=met
+	Constrained: Pattern=en
+Turn ID=5| A | A : nu hebben ik ja nee zo'n
+	Free: Pattern=nee, Pattern=zo'n, Pattern=hebben, Pattern=ja
+	Constrained: 
+Turn ID=6| A | A : hij hebben links hebben hij een de enig die nog over zijn volgens mij hebben die een soort staaf en daaraan vast zitten een heel dun dinge
+	Free: Pattern=de, Pattern=een, Pattern=links, Pattern=hebben, Pattern=die, Pattern=een soort, Pattern=en, Pattern=zijn
+	Constrained: Pattern=een
+Turn ID=7| A | A : waardoor die best wel breed worden op zich ja een soort
+	Free: Pattern=een soort, Pattern=die, Pattern=ja
+	Constrained: Pattern=een
+Turn ID=8| A | A : ja een soort pion ja
+	Free: Pattern=een soort, Pattern=ja
+	Constrained: Pattern=een
+Turn ID=9| A | A : en dan rechts hebben die nog een soort dienblad vast
+	Free: Pattern=rechts, Pattern=en dan, Pattern=hebben, Pattern=die, Pattern=een soort
+	Constrained: Pattern=een, Pattern=en
+Turn ID=10| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=11| B | B : C
+	Free: 
+	Constrained: 
+Turn ID=12| A | A : ja ja ja ik hebben hem
+	Free: Pattern=hebben, Pattern=ja
+	Constrained: 
+Turn ID=13| A | A : nummer zeven
+	Free: 
+	Constrained: 
+Turn ID=14| A | A : dit zijn die pion
+	Free: Pattern=dit zijn die
+	Constrained: Pattern=dit zijn, Pattern=die, Pattern=zijn
+Turn ID=15| A | A : die uitsteken aan een soort arm
+	Free: Pattern=een soort, Pattern=aan, Pattern=die
+	Constrained: Pattern=een
+Turn ID=16| A | A : en rechts nog een dienblad
+	Free: Pattern=rechts, Pattern=een, Pattern=en
+	Constrained: 
+Turn ID=17| B | B : dit zijn die met de spijker links en het bij rond bijzettafel rechts
+	Free: Pattern=dit zijn die, Pattern=rechts, Pattern=en het, Pattern=die met de, Pattern=links
+	Constrained: Pattern=de, Pattern=het, Pattern=met, Pattern=die, Pattern=en, Pattern=zijn, Pattern=dit zijn
+Turn ID=18| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=19| B | B : A
+	Free: 
+	Constrained: 
+Turn ID=20| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=21| A | A : één
+	Free: 
+	Constrained: 
+Turn ID=22| B | B : de de spijker die links uit komen en dan het Ronde klein bijzettafel
+	Free: Pattern=de, Pattern=en dan, Pattern=links, Pattern=het, Pattern=die
+	Constrained: Pattern=en
+Turn ID=23| A | A : ik hebben die met de pion en het dienblad
+	Free: Pattern=die met de, Pattern=en het, Pattern=hebben
+	Constrained: Pattern=de, Pattern=het, Pattern=met, Pattern=die, Pattern=en
+Turn ID=24| A | A : nummer dertien
+	Free: 
+	Constrained: 

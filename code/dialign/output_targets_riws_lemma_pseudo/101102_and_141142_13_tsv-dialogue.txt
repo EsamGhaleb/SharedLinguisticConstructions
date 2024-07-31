@@ -1,0 +1,123 @@
+A|0| A: _oké_ 
+A|1| A: _ja_ 
+A|2| A: _met_ nog twee uitsteeksel _aan de_ achterkant 
+A|3| A: _ja_ 
+A|4| A: _dat zijn_ nummer vijf 
+B|5| B: _nou_ [ja] _het_ [zijn] _een_ kop _en_ hij _staan_ _op een_ vierkan 
+B|6| B: er zitten allemaal ruit [aan de] zijkant 
+B|7| B: hebben _je_ hem 
+B|8| B: [ja] 
+B|9| B: [ja] 
+B|10| B: [oké] 
+A|11| A: dit plaat [zijn] die [ja] wat zeggen [je] [nou] _met de_ vlech volgens mij 
+A|12| A: _met_ [het] bollet [aan de] voorkant die [op een] plateau [staan] _met_ [aan de] achterkant nog twee uitsteekselt 
+B|13| B: nee 
+B|14| B: [ja] [het] [het] kop [dat zijn] J 
+B|15| B: [ja] 
+B|16| B: [ja] 
+B|17| B: J 
+A|18| A: vlech 
+A|19| A: [ja] 
+A|20| A: elf 
+B|21| B: [nou] [ja] we hebben weer [het] [het] kop _op het_ vierkan 
+B|22| B: [met de] diaman eraan 
+A|23| A: dit _zijn het_ die [met de] vlech die [op het] plateau [staan] 
+A|24| A: [het] rond [aan de] voorkant 
+B|25| B: P 
+A|26| A: [ja] nummer negen 
+B|27| B: [het] [zijn het] kop [met de] diaman [aan de] zijkant 
+A|28| A: [en] dit [zijn het] meisje [met de] vlecht 
+B|29| B: diaman [dat zijn] L 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=1| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=2| A | A : met nog twee uitsteeksel aan de achterkant
+	Free: Pattern=aan de, Pattern=met
+	Constrained: 
+Turn ID=3| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=4| A | A : dat zijn nummer vijf
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn
+Turn ID=5| B | B : nou ja het zijn een kop en hij staan op een vierkan
+	Free: Pattern=nou, Pattern=ja, Pattern=het, Pattern=en, Pattern=zijn, Pattern=op een, Pattern=een, Pattern=staan
+	Constrained: Pattern=een
+Turn ID=6| B | B : er zitten allemaal ruit aan de zijkant
+	Free: Pattern=aan de
+	Constrained: 
+Turn ID=7| B | B : hebben je hem
+	Free: Pattern=je
+	Constrained: 
+Turn ID=8| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=9| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=10| B | B : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=11| A | A : dit plaat zijn die ja wat zeggen je nou met de vlech volgens mij
+	Free: Pattern=nou, Pattern=zijn, Pattern=je, Pattern=met de, Pattern=ja
+	Constrained: Pattern=met
+Turn ID=12| A | A : met het bollet aan de voorkant die op een plateau staan met aan de achterkant nog twee uitsteekselt
+	Free: Pattern=aan de, Pattern=staan, Pattern=het, Pattern=met, Pattern=op een
+	Constrained: Pattern=een
+Turn ID=13| B | B : nee
+	Free: 
+	Constrained: 
+Turn ID=14| B | B : ja het het kop dat zijn J
+	Free: Pattern=dat zijn, Pattern=het, Pattern=ja
+	Constrained: Pattern=zijn
+Turn ID=15| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=16| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=17| B | B : J
+	Free: 
+	Constrained: 
+Turn ID=18| A | A : vlech
+	Free: 
+	Constrained: 
+Turn ID=19| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=20| A | A : elf
+	Free: 
+	Constrained: 
+Turn ID=21| B | B : nou ja we hebben weer het het kop op het vierkan
+	Free: Pattern=op het, Pattern=nou, Pattern=het, Pattern=ja
+	Constrained: Pattern=het
+Turn ID=22| B | B : met de diaman eraan
+	Free: Pattern=met de
+	Constrained: Pattern=met
+Turn ID=23| A | A : dit zijn het die met de vlech die op het plateau staan
+	Free: Pattern=zijn het, Pattern=op het, Pattern=met de, Pattern=staan
+	Constrained: Pattern=zijn, Pattern=met, Pattern=het
+Turn ID=24| A | A : het rond aan de voorkant
+	Free: Pattern=aan de, Pattern=het
+	Constrained: 
+Turn ID=25| B | B : P
+	Free: 
+	Constrained: 
+Turn ID=26| A | A : ja nummer negen
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=27| B | B : het zijn het kop met de diaman aan de zijkant
+	Free: Pattern=zijn het, Pattern=aan de, Pattern=met de, Pattern=het
+	Constrained: Pattern=zijn, Pattern=het, Pattern=met
+Turn ID=28| A | A : en dit zijn het meisje met de vlecht
+	Free: Pattern=zijn het, Pattern=met de, Pattern=en
+	Constrained: Pattern=zijn, Pattern=het, Pattern=met
+Turn ID=29| B | B : diaman dat zijn L
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn

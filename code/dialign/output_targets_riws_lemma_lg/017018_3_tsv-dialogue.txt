@@ -1,0 +1,83 @@
+B|0| B: one even kijken deze hebben _een_ _een_ soort _wokkel aan de onderkant en_ daaraan _een driehoek_ 
+B|1| B: heel kenmerken 
+A|2| A: _ja_ _dat_ _kunnen er_ _maar één zijn_ 
+B|3| B: [ja] [kunnen er] echt [maar één zijn] 
+A|4| A: _dat zijn_ vier _voor mij_ 
+A|5| A: _dit zijn_ degeen _met de_ spiraal [aan de onderkant en] dan [een driehoek] 
+B|6| B: [ja] 
+A|7| A: [ja] 
+B|8| B: [dat zijn] [voor mij] A 
+B|9| B: _dit zijn die met_ het _wokkel_ [en] het [driehoek] eronder 
+A|10| A: [ja] 
+A|11| A: [dat zijn] tien [voor mij] 
+B|12| B: oké 
+A|13| A: [dit zijn die _met] de [wokkel_ aan de onderkant en] dan [de] [driehoek] 
+B|14| B: [dat zijn] L [voor mij] 
+B|15| B: [dit zijn die] weer [met de wokkel] [en] het [driehoek] [aan de onderkant] 
+A|16| A: [ja] [dat zijn] vier [voor mij] 
+A|17| A: [dit zijn] [de] [met de wokkel] onderaan 
+B|18| B: [ja] 
+B|19| B: F 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : one even kijken deze hebben een een soort wokkel aan de onderkant en daaraan een driehoek
+	Free: Pattern=wokkel aan de onderkant en, Pattern=een driehoek, Pattern=een
+	Constrained: Pattern=driehoek, Pattern=de, Pattern=wokkel, Pattern=een, Pattern=aan de onderkant, Pattern=aan de onderkant en, Pattern=en
+Turn ID=1| B | B : heel kenmerken
+	Free: 
+	Constrained: 
+Turn ID=2| A | A : ja dat kunnen er maar één zijn
+	Free: Pattern=maar één zijn, Pattern=kunnen er, Pattern=dat, Pattern=ja
+	Constrained: 
+Turn ID=3| B | B : ja kunnen er echt maar één zijn
+	Free: Pattern=maar één zijn, Pattern=kunnen er, Pattern=ja
+	Constrained: 
+Turn ID=4| A | A : dat zijn vier voor mij
+	Free: Pattern=dat zijn, Pattern=voor mij
+	Constrained: Pattern=dat
+Turn ID=5| A | A : dit zijn degeen met de spiraal aan de onderkant en dan een driehoek
+	Free: Pattern=aan de onderkant en, Pattern=dit zijn, Pattern=een driehoek, Pattern=met de
+	Constrained: Pattern=driehoek, Pattern=de, Pattern=een, Pattern=aan de onderkant, Pattern=en
+Turn ID=6| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=7| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=8| B | B : dat zijn voor mij A
+	Free: Pattern=dat zijn, Pattern=voor mij
+	Constrained: Pattern=dat
+Turn ID=9| B | B : dit zijn die met het wokkel en het driehoek eronder
+	Free: Pattern=dit zijn die met, Pattern=driehoek, Pattern=wokkel, Pattern=en
+	Constrained: Pattern=dit zijn, Pattern=dit zijn die
+Turn ID=10| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=11| A | A : dat zijn tien voor mij
+	Free: Pattern=dat zijn, Pattern=voor mij
+	Constrained: Pattern=dat
+Turn ID=12| B | B : oké
+	Free: 
+	Constrained: 
+Turn ID=13| A | A : dit zijn die met de wokkel aan de onderkant en dan de driehoek
+	Free: Pattern=driehoek, Pattern=de, Pattern=dit zijn die met, Pattern=wokkel aan de onderkant en, Pattern=met de wokkel
+	Constrained: Pattern=dit zijn die, Pattern=wokkel, Pattern=aan de onderkant, Pattern=aan de onderkant en, Pattern=en, Pattern=dit zijn, Pattern=de, Pattern=met de
+Turn ID=14| B | B : dat zijn L voor mij
+	Free: Pattern=dat zijn, Pattern=voor mij
+	Constrained: Pattern=dat
+Turn ID=15| B | B : dit zijn die weer met de wokkel en het driehoek aan de onderkant
+	Free: Pattern=driehoek, Pattern=dit zijn die, Pattern=aan de onderkant, Pattern=met de wokkel, Pattern=en
+	Constrained: Pattern=dit zijn, Pattern=met de, Pattern=de, Pattern=wokkel
+Turn ID=16| A | A : ja dat zijn vier voor mij
+	Free: Pattern=dat zijn, Pattern=voor mij, Pattern=ja
+	Constrained: Pattern=dat
+Turn ID=17| A | A : dit zijn de met de wokkel onderaan
+	Free: Pattern=met de wokkel, Pattern=dit zijn, Pattern=de
+	Constrained: Pattern=de, Pattern=met de, Pattern=wokkel
+Turn ID=18| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=19| B | B : F
+	Free: 
+	Constrained: 

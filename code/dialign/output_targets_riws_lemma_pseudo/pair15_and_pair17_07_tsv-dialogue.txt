@@ -1,0 +1,155 @@
+B|0| B: hier hebben je _soort van_ _een_ _ja_ _tafel_ rechthoek vierkant ding dwars onder _de_ emmer 
+B|1| B: _het_ lijken _een_ beetje alsof _er_ tafelpot _aan_ _zitten_ 
+B|2| B: _en_ daarop _staan_ _een soort van_ Trechterachtig hoekig trechterachtig dinget 
+B|3| B: _en_ daarachter komen _een_ tui uit uit _de_ emmer 
+B|4| B: _even kijken_ _ja_ je hebben je emmer 
+B|5| B: _en_ _daar zitten een soort_ vierkant doorheen 
+B|6| B: _en_ _daar_ komen twee poo uit 
+B|7| B: of twee 
+B|8| B: _ja_ uit _het_ vierkant 
+B|9| B: _dat_ door _de_ emmer heen is _de_ _dat zijn_ ongeveer op drievirie hoogte gaan _er_ _een soort van_ _een_ vierkant door _de_ emmer heen 
+B|10| B: _ja_ 
+B|11| B: f 
+A|12| A: [ja] klein 
+A|13| A: [ja] 
+A|14| A: uitsteeksel [en] dan bovenop _de tafel_ [daar zitten [een soort] van] trapezium omgekeerd 
+A|15| A: [ja] 
+A|16| A: [dat zijn] zes 
+B|17| B: deze hebben _het_ [tafel] wat door [de] emmer heen [zijn] _met de_ twee poo 
+B|18| B: [en] 
+B|19| B: drievirie hoogte gaan hij dwars door [de] emmer heen 
+B|20| B: [ja] 
+A|21| A: [even kijken] 
+A|22| A: dit [zijn] [de] kopvorm waar [er] als [het] [zijn] die [tafel] [er] half in [zitten] 
+A|23| A: [ja] 
+A|24| A: [ja] [en] [de] [aan] [de] linkerkant [het] 
+A|25| A: yes 
+B|26| B: [ja] [dat zijn] 
+B|27| B: where did it Go 
+B|28| B: [ja] h 
+B|29| B: [de tafel] 
+A|30| A: [ja] [even] zoeken waar die [staan] 
+A|31| A: [dat zijn] vier 
+B|32| B: d 
+A|33| A: dit [zijn] die [met [de] tafel] erin [met] [het] gek trapezium 
+A|34| A: [ja] [en] trapezium 
+A|35| A: drie 
+A|36| A: dit [zijn] die [met [de] tafel] erin 
+A|37| A: [met de] trapezium 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : hier hebben je soort van een ja tafel rechthoek vierkant ding dwars onder de emmer
+	Free: Pattern=een, Pattern=tafel, Pattern=soort van, Pattern=de, Pattern=ja
+	Constrained: 
+Turn ID=1| B | B : het lijken een beetje alsof er tafelpot aan zitten
+	Free: Pattern=aan, Pattern=een, Pattern=het, Pattern=zitten, Pattern=er
+	Constrained: 
+Turn ID=2| B | B : en daarop staan een soort van Trechterachtig hoekig trechterachtig dinget
+	Free: Pattern=een soort van, Pattern=en, Pattern=staan
+	Constrained: Pattern=een, Pattern=soort van
+Turn ID=3| B | B : en daarachter komen een tui uit uit de emmer
+	Free: Pattern=en, Pattern=de, Pattern=een
+	Constrained: 
+Turn ID=4| B | B : even kijken ja je hebben je emmer
+	Free: Pattern=even kijken, Pattern=ja
+	Constrained: Pattern=even
+Turn ID=5| B | B : en daar zitten een soort vierkant doorheen
+	Free: Pattern=daar zitten een soort, Pattern=en
+	Constrained: Pattern=daar, Pattern=een, Pattern=zitten
+Turn ID=6| B | B : en daar komen twee poo uit
+	Free: Pattern=en, Pattern=daar
+	Constrained: 
+Turn ID=7| B | B : of twee
+	Free: 
+	Constrained: 
+Turn ID=8| B | B : ja uit het vierkant
+	Free: Pattern=ja, Pattern=het
+	Constrained: 
+Turn ID=9| B | B : dat door de emmer heen is de dat zijn ongeveer op drievirie hoogte gaan er een soort van een vierkant door de emmer heen
+	Free: Pattern=de, Pattern=een, Pattern=een soort van, Pattern=er, Pattern=dat, Pattern=dat zijn
+	Constrained: Pattern=zijn, Pattern=soort van, Pattern=een, Pattern=dat
+Turn ID=10| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=11| B | B : f
+	Free: 
+	Constrained: 
+Turn ID=12| A | A : ja klein
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=13| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=14| A | A : uitsteeksel en dan bovenop de tafel daar zitten een soort van trapezium omgekeerd
+	Free: Pattern=daar zitten een soort, Pattern=een soort van, Pattern=de tafel, Pattern=en
+	Constrained: Pattern=de, Pattern=een, Pattern=soort van, Pattern=daar, Pattern=tafel, Pattern=zitten
+Turn ID=15| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=16| A | A : dat zijn zes
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=17| B | B : deze hebben het tafel wat door de emmer heen zijn met de twee poo
+	Free: Pattern=het, Pattern=tafel, Pattern=zijn, Pattern=de, Pattern=met de
+	Constrained: Pattern=de, Pattern=met
+Turn ID=18| B | B : en
+	Free: Pattern=en
+	Constrained: 
+Turn ID=19| B | B : drievirie hoogte gaan hij dwars door de emmer heen
+	Free: Pattern=de
+	Constrained: 
+Turn ID=20| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=21| A | A : even kijken
+	Free: Pattern=even kijken
+	Constrained: Pattern=even
+Turn ID=22| A | A : dit zijn de kopvorm waar er als het zijn die tafel er half in zitten
+	Free: Pattern=de, Pattern=het, Pattern=er, Pattern=zijn, Pattern=tafel, Pattern=zitten
+	Constrained: 
+Turn ID=23| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=24| A | A : ja en de aan de linkerkant het
+	Free: Pattern=het, Pattern=en, Pattern=de, Pattern=aan, Pattern=ja
+	Constrained: 
+Turn ID=25| A | A : yes
+	Free: 
+	Constrained: 
+Turn ID=26| B | B : ja dat zijn
+	Free: Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=27| B | B : where did it Go
+	Free: 
+	Constrained: 
+Turn ID=28| B | B : ja h
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=29| B | B : de tafel
+	Free: Pattern=de tafel
+	Constrained: Pattern=de, Pattern=tafel
+Turn ID=30| A | A : ja even zoeken waar die staan
+	Free: Pattern=even, Pattern=ja, Pattern=staan
+	Constrained: 
+Turn ID=31| A | A : dat zijn vier
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=32| B | B : d
+	Free: 
+	Constrained: 
+Turn ID=33| A | A : dit zijn die met de tafel erin met het gek trapezium
+	Free: Pattern=met de, Pattern=het, Pattern=de tafel, Pattern=met, Pattern=zijn
+	Constrained: Pattern=de, Pattern=met, Pattern=tafel
+Turn ID=34| A | A : ja en trapezium
+	Free: Pattern=en, Pattern=ja
+	Constrained: 
+Turn ID=35| A | A : drie
+	Free: 
+	Constrained: 
+Turn ID=36| A | A : dit zijn die met de tafel erin
+	Free: Pattern=de tafel, Pattern=met de, Pattern=zijn
+	Constrained: Pattern=de, Pattern=met, Pattern=tafel
+Turn ID=37| A | A : met de trapezium
+	Free: Pattern=met de
+	Constrained: Pattern=de, Pattern=met

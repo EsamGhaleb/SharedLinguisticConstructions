@@ -1,0 +1,115 @@
+B|0| B: _ja_ 
+B|1| B: J 
+A|2| A: nou _bovenop_ eigenlijk een heel [ja] een punt eigenlijk 
+A|3| A: uitsteeksel 
+A|4| A: [ja] soort van 
+A|5| A: [ja] 
+B|6| B: deze hebben _de pyramide bovenop_ 
+A|7| A: [ja] één 
+A|8| A: [ja] 
+A|9| A: nou niet echt een [pyramide] maar veel een [ja] potloodpunt 
+A|10| A: [ja] 
+B|11| B: [ja] b 
+A|12| A: [de] heel puntig ? _met_ 
+A|13| A: [ja] 
+B|14| B: _dit zijn die met_ _die_ [pyramide] boven [bovenop] 
+A|15| A: [ja] 
+A|16| A: achten 
+B|17| B: à 
+B|18| B: _dit zijn_ degeen _met de pyramide bovenop_ 
+A|19| A: [dit zijn die [met] de] punt aan [de] bovenkant [de] [de pyramide] zeggen maar 
+A|20| A: [ja] 
+A|21| A: [ja] [met] het toren aan [de] zijkant een 
+A|22| A: [dit zijn die [met] de pyramide bovenop] [de] punt en dan aan [de] linkerkant het 
+A|23| A: [ja] 
+A|24| A: [ja] 
+A|25| A: en [de] potloodpunt eruit 
+A|26| A: [ja] 
+A|27| A: een 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=1| B | B : J
+	Free: 
+	Constrained: 
+Turn ID=2| A | A : nou bovenop eigenlijk een heel ja een punt eigenlijk
+	Free: Pattern=bovenop, Pattern=ja
+	Constrained: 
+Turn ID=3| A | A : uitsteeksel
+	Free: 
+	Constrained: 
+Turn ID=4| A | A : ja soort van
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=5| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=6| B | B : deze hebben de pyramide bovenop
+	Free: Pattern=de pyramide bovenop
+	Constrained: Pattern=pyramide, Pattern=bovenop, Pattern=de, Pattern=de pyramide
+Turn ID=7| A | A : ja één
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=8| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=9| A | A : nou niet echt een pyramide maar veel een ja potloodpunt
+	Free: Pattern=pyramide, Pattern=ja
+	Constrained: 
+Turn ID=10| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=11| B | B : ja b
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=12| A | A : de heel puntig ? met
+	Free: Pattern=de, Pattern=met
+	Constrained: 
+Turn ID=13| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=14| B | B : dit zijn die met die pyramide boven bovenop
+	Free: Pattern=dit zijn die met, Pattern=pyramide, Pattern=bovenop, Pattern=die
+	Constrained: Pattern=dit zijn, Pattern=met, Pattern=die
+Turn ID=15| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=16| A | A : achten
+	Free: 
+	Constrained: 
+Turn ID=17| B | B : à
+	Free: 
+	Constrained: 
+Turn ID=18| B | B : dit zijn degeen met de pyramide bovenop
+	Free: Pattern=met de pyramide bovenop, Pattern=dit zijn
+	Constrained: Pattern=bovenop, Pattern=met, Pattern=de pyramide bovenop, Pattern=de, Pattern=met de, Pattern=pyramide, Pattern=de pyramide
+Turn ID=19| A | A : dit zijn die met de punt aan de bovenkant de de pyramide zeggen maar
+	Free: Pattern=dit zijn die met, Pattern=met de, Pattern=de pyramide, Pattern=de
+	Constrained: Pattern=de, Pattern=met, Pattern=die, Pattern=pyramide, Pattern=dit zijn
+Turn ID=20| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=21| A | A : ja met het toren aan de zijkant een
+	Free: Pattern=de, Pattern=met, Pattern=ja
+	Constrained: 
+Turn ID=22| A | A : dit zijn die met de pyramide bovenop de punt en dan aan de linkerkant het
+	Free: Pattern=dit zijn die met, Pattern=met de pyramide bovenop, Pattern=de
+	Constrained: Pattern=bovenop, Pattern=met, Pattern=die, Pattern=dit zijn, Pattern=de pyramide bovenop, Pattern=de, Pattern=met de, Pattern=pyramide, Pattern=de pyramide
+Turn ID=23| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=24| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=25| A | A : en de potloodpunt eruit
+	Free: Pattern=de
+	Constrained: 
+Turn ID=26| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=27| A | A : een
+	Free: 
+	Constrained: 

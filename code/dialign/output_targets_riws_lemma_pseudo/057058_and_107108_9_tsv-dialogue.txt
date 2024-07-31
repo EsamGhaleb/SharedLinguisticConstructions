@@ -1,0 +1,243 @@
+A|0| A: nou 
+A|1| A: _ja_ jij hebben _een_ rood vierkant als _het_ goed _zijn_ 
+B|2| B: ok _dit zijn_ _zeggen maar_ _dat_ 
+B|3| B: [ja] blauw dingetje _met_ [ja] _mij_ doen [het] _een beetje_ _denken_ _aan_ pinoccio _zeggen maar_ _zo'n_ _neus_ recht naar voren _en _één_ zo'n_ pluimp _zeggen maar_ _op_ [het] hoofd 
+A|4| A: oké 
+A|5| A: [ja] 
+A|6| A: [ja] 
+A|7| A: [een beetje] [aan] _de_ achterkant eens _even kijken_ 
+B|8| B: _ja _ja_ ja_ 
+A|9| A: [een] langwerpig [neus] [aan] _de_ voorkant 
+B|10| B: ok [ja] _bij mij_ _zijn het_ G _ik_ weten niet of _ik dat_ _nog_ moeten _zeggen maar_ [ja] 
+A|11| A: [en] _dan_ [een] 
+A|12| A: echt zo [zeggen maar] 
+B|13| B: [ja] volgens _mij_ wel [ja] 
+A|14| A: [ja] precies 
+A|15| A: [en één] uitsteekseltje [beetje] rechtsbof [en één] uitsteeksel link 
+A|16| A: [beetje] zeshoekig 
+A|17| A: precies precies [ja] 
+A|18| A: oké _dan_ [denken] [ik dat] [ik] hem hebben vinden 
+A|19| A: nummer dertien [bij mij] 
+A|20| A: [en] _dan_ [op] welk 
+A|21| A: [ja] 
+A|22| A: [ik] hebben [een] [ja] ook [zo'n] soort kwas bovenop 
+A|23| A: [en] _dan_ [zo'n] rond schijf helemaal achter er soort van tegenaan geplakt 
+A|24| A: [en] _dan_ [een] soort achthoekig staafje erin prikken [aan] _de_ zijkant 
+A|25| A: [ja] precies 
+B|26| B: [ja] 
+B|27| B: o _die_ o _die_ [mij] [dan] doen [denken] [aan] _die_ pinoccio [een beetje] 
+B|28| B: _ja _ja_ _ja_ ja_ _dat zijn_ [bij mij] O 
+B|29| B: ok 
+A|30| A: [ja] 
+A|31| A: _even kijken_ [een] rond plat dinge [aan] _de_ 
+A|32| A: welk [zijn] [dat] 
+A|33| A: [ja] [die] zo [nog] daarbovenuit daar [ja] 
+A|34| A: [en] [dan] inderdaad [dat] [een beetje] achthoekig 
+A|35| A: [ja] precies oké [ja] 
+A|36| A: [dat zijn] nummer acht 
+B|37| B: _nee_ 
+B|38| B: _dit zijn_ [bij] jou lijken [het] [een beetje] [op] [een] cocktail _met_ citroen [en] [bij mij] _zijn het_ [beetje] pinoccio 
+B|39| B: [ja] 
+B|40| B: ok [bij mij] N 
+A|41| A: oké [dit zijn] weer [dat] schotel achterop [met] [dat] soort freubel veertjeachtig iets bovenop 
+A|42| A: [en] [dan] [het] achthoekig 
+A|43| A: [ja] 
+A|44| A: [ja ja] [en] [het] achthoekig 
+A|45| A: [ja] precies nummer zeven 
+B|46| B: o [die] C 
+A|47| A: deze [zijn] weer [met] [dat] plateaut erachter [dat] halfronde plateautje erachter [en] [dan] [één zo'n] kwas erbovenop 
+A|48| A: [en] [het] achthoekig dinge 
+A|49| A: top 
+A|50| A: nou [dat [zijn] het] 
+A|51| A: wij [zijn] klaar [met] [dit] deel 
+A|52| A: top 
+A|53| A: [ja] toch 
+A|54| A: okidoki 
+A|55| A: [nee] [dat] beginnen [een beetje] 
+B|56| B: [dit zijn] [de] cocktail [en] pinoccio 
+B|57| B: ok [bij mij] N 
+B|58| B: [even kijken] waar [die] [zijn] o hier C 
+B|59| B: o bedanken voor [de] deelname nu komen [het] volgen keer 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : nou
+	Free: 
+	Constrained: 
+Turn ID=1| A | A : ja jij hebben een rood vierkant als het goed zijn
+	Free: Pattern=zijn, Pattern=het, Pattern=ja, Pattern=een
+	Constrained: 
+Turn ID=2| B | B : ok dit zijn zeggen maar dat
+	Free: Pattern=zeggen maar, Pattern=dit zijn, Pattern=dat
+	Constrained: Pattern=dit, Pattern=zijn
+Turn ID=3| B | B : ja blauw dingetje met ja mij doen het een beetje denken aan pinoccio zeggen maar zo'n neus recht naar voren en één zo'n pluimp zeggen maar op het hoofd
+	Free: Pattern=en één, Pattern=op, Pattern=één zo'n, Pattern=zeggen maar, Pattern=het, Pattern=neus, Pattern=met, Pattern=mij, Pattern=een beetje, Pattern=denken, Pattern=zo'n, Pattern=aan, Pattern=ja
+	Constrained: Pattern=een, Pattern=zo'n, Pattern=en, Pattern=beetje
+Turn ID=4| A | A : oké
+	Free: 
+	Constrained: 
+Turn ID=5| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=6| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=7| A | A : een beetje aan de achterkant eens even kijken
+	Free: Pattern=even kijken, Pattern=een beetje, Pattern=aan, Pattern=de
+	Constrained: Pattern=beetje, Pattern=een
+Turn ID=8| B | B : ja ja ja
+	Free: Pattern=ja ja
+	Constrained: Pattern=ja
+Turn ID=9| A | A : een langwerpig neus aan de voorkant
+	Free: Pattern=aan, Pattern=de, Pattern=neus, Pattern=een
+	Constrained: 
+Turn ID=10| B | B : ok ja bij mij zijn het G ik weten niet of ik dat nog moeten zeggen maar ja
+	Free: Pattern=zijn het, Pattern=nog, Pattern=ja, Pattern=zeggen maar, Pattern=bij mij, Pattern=ik dat, Pattern=ik
+	Constrained: Pattern=dat, Pattern=het, Pattern=bij, Pattern=zijn, Pattern=mij, Pattern=ik
+Turn ID=11| A | A : en dan een
+	Free: Pattern=dan, Pattern=en, Pattern=een
+	Constrained: 
+Turn ID=12| A | A : echt zo zeggen maar
+	Free: Pattern=zeggen maar
+	Constrained: 
+Turn ID=13| B | B : ja volgens mij wel ja
+	Free: Pattern=mij, Pattern=ja
+	Constrained: 
+Turn ID=14| A | A : ja precies
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=15| A | A : en één uitsteekseltje beetje rechtsbof en één uitsteeksel link
+	Free: Pattern=en één, Pattern=beetje
+	Constrained: Pattern=en
+Turn ID=16| A | A : beetje zeshoekig
+	Free: Pattern=beetje
+	Constrained: 
+Turn ID=17| A | A : precies precies ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=18| A | A : oké dan denken ik dat ik hem hebben vinden
+	Free: Pattern=ik dat, Pattern=dan, Pattern=denken, Pattern=ik
+	Constrained: Pattern=dat, Pattern=ik
+Turn ID=19| A | A : nummer dertien bij mij
+	Free: Pattern=bij mij
+	Constrained: Pattern=bij, Pattern=mij
+Turn ID=20| A | A : en dan op welk
+	Free: Pattern=dan, Pattern=en, Pattern=op
+	Constrained: 
+Turn ID=21| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=22| A | A : ik hebben een ja ook zo'n soort kwas bovenop
+	Free: Pattern=ik, Pattern=zo'n, Pattern=ja, Pattern=een
+	Constrained: 
+Turn ID=23| A | A : en dan zo'n rond schijf helemaal achter er soort van tegenaan geplakt
+	Free: Pattern=dan, Pattern=zo'n, Pattern=en
+	Constrained: 
+Turn ID=24| A | A : en dan een soort achthoekig staafje erin prikken aan de zijkant
+	Free: Pattern=dan, Pattern=een, Pattern=en, Pattern=de, Pattern=aan
+	Constrained: 
+Turn ID=25| A | A : ja precies
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=26| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=27| B | B : o die o die mij dan doen denken aan die pinoccio een beetje
+	Free: Pattern=denken, Pattern=aan, Pattern=dan, Pattern=die, Pattern=mij, Pattern=een beetje
+	Constrained: Pattern=beetje, Pattern=een
+Turn ID=28| B | B : ja ja ja ja dat zijn bij mij O
+	Free: Pattern=bij mij, Pattern=ja ja, Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=ja, Pattern=bij, Pattern=mij, Pattern=zijn
+Turn ID=29| B | B : ok
+	Free: 
+	Constrained: 
+Turn ID=30| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=31| A | A : even kijken een rond plat dinge aan de
+	Free: Pattern=even kijken, Pattern=aan, Pattern=de, Pattern=een
+	Constrained: 
+Turn ID=32| A | A : welk zijn dat
+	Free: Pattern=dat, Pattern=zijn
+	Constrained: 
+Turn ID=33| A | A : ja die zo nog daarbovenuit daar ja
+	Free: Pattern=die, Pattern=nog, Pattern=ja
+	Constrained: 
+Turn ID=34| A | A : en dan inderdaad dat een beetje achthoekig
+	Free: Pattern=een beetje, Pattern=dat, Pattern=dan, Pattern=en
+	Constrained: Pattern=beetje, Pattern=een
+Turn ID=35| A | A : ja precies oké ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=36| A | A : dat zijn nummer acht
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=37| B | B : nee
+	Free: Pattern=nee
+	Constrained: 
+Turn ID=38| B | B : dit zijn bij jou lijken het een beetje op een cocktail met citroen en bij mij zijn het beetje pinoccio
+	Free: Pattern=zijn het, Pattern=op, Pattern=beetje, Pattern=een, Pattern=het, Pattern=met, Pattern=bij, Pattern=en, Pattern=dit zijn, Pattern=bij mij, Pattern=een beetje
+	Constrained: Pattern=beetje, Pattern=een, Pattern=het, Pattern=dit, Pattern=bij, Pattern=mij, Pattern=zijn
+Turn ID=39| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=40| B | B : ok bij mij N
+	Free: Pattern=bij mij
+	Constrained: Pattern=bij, Pattern=mij
+Turn ID=41| A | A : oké dit zijn weer dat schotel achterop met dat soort freubel veertjeachtig iets bovenop
+	Free: Pattern=dit zijn, Pattern=dat, Pattern=met
+	Constrained: Pattern=dit, Pattern=zijn
+Turn ID=42| A | A : en dan het achthoekig
+	Free: Pattern=dan, Pattern=het, Pattern=en
+	Constrained: 
+Turn ID=43| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=44| A | A : ja ja en het achthoekig
+	Free: Pattern=ja ja, Pattern=het, Pattern=en
+	Constrained: Pattern=ja
+Turn ID=45| A | A : ja precies nummer zeven
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=46| B | B : o die C
+	Free: Pattern=die
+	Constrained: 
+Turn ID=47| A | A : deze zijn weer met dat plateaut erachter dat halfronde plateautje erachter en dan één zo'n kwas erbovenop
+	Free: Pattern=dat, Pattern=met, Pattern=en, Pattern=zijn, Pattern=één zo'n, Pattern=dan
+	Constrained: Pattern=zo'n
+Turn ID=48| A | A : en het achthoekig dinge
+	Free: Pattern=het, Pattern=en
+	Constrained: 
+Turn ID=49| A | A : top
+	Free: 
+	Constrained: 
+Turn ID=50| A | A : nou dat zijn het
+	Free: Pattern=zijn het, Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn, Pattern=het
+Turn ID=51| A | A : wij zijn klaar met dit deel
+	Free: Pattern=dit, Pattern=zijn, Pattern=met
+	Constrained: 
+Turn ID=52| A | A : top
+	Free: 
+	Constrained: 
+Turn ID=53| A | A : ja toch
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=54| A | A : okidoki
+	Free: 
+	Constrained: 
+Turn ID=55| A | A : nee dat beginnen een beetje
+	Free: Pattern=een beetje, Pattern=dat, Pattern=nee
+	Constrained: Pattern=beetje, Pattern=een
+Turn ID=56| B | B : dit zijn de cocktail en pinoccio
+	Free: Pattern=dit zijn, Pattern=en, Pattern=de
+	Constrained: Pattern=dit, Pattern=zijn
+Turn ID=57| B | B : ok bij mij N
+	Free: Pattern=bij mij
+	Constrained: Pattern=bij, Pattern=mij
+Turn ID=58| B | B : even kijken waar die zijn o hier C
+	Free: Pattern=even kijken, Pattern=zijn, Pattern=die
+	Constrained: 
+Turn ID=59| B | B : o bedanken voor de deelname nu komen het volgen keer
+	Free: Pattern=het, Pattern=de
+	Constrained: 

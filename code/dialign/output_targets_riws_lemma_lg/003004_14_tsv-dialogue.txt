@@ -1,0 +1,115 @@
+A|0| A: _ja_ even kijken er zitten _een_ ronde bal achterop _zeggen_ _maar_ _aan de_ bovenkant _en _aan de_ zijkant_ _hebben_ _die_ twee soort van handvaat _en aan de voorkant een_ 
+B|1| B: [ja] [en aan de voorkant een] _vierkant_ staaf 
+A|2| A: [ja] precies 
+B|3| B: d 
+B|4| B: _oké_ dit _zijn_ diegene _met die_ staaf [aan de voorkant] weer _met_ _dat_ bolle _bovenop_ 
+A|5| A: [ja] 
+B|6| B: _we_ [hebben] hem al [hebben] 
+A|7| A: [en] _met de_ hand _aan de zijkant_ 
+B|8| B: [met] [ja] _met die_ dinge [aan de zijkant] 
+A|9| A: [ja] 
+A|10| A: [oké] 
+A|11| A: vijftien 
+A|12| A: hoe noemen [we] deze ook alweer ? [die] [met die] grijparmp _met de_ bol [bovenop] 
+A|13| A: [en] _de vierkant_ blok 
+B|14| B: [ja] [met [de] vierkant] statief 
+A|15| A: hoe gaan [we] [die] noemen 
+B|16| B: [de] [een] pullup ik ik zien het wel als [een] [een] _basketbal_ laten [maar] [zeggen] 
+B|17| B: weten je wel _dat_ je _dat_ bolle als _de basketbal_ in het theekop doen 
+A|18| A: prima [basketbal] 
+B|19| B: [basketbal] 
+B|20| B: L 
+B|21| B: _de basketbal_ 
+A|22| A: [de basketbal] [dat] [zijn] [met die] armpjes [aan de zijkant] ook [ja] 
+B|23| B: [ja] [ja] 
+A|24| A: [dat] [zijn] zes 
+A|25| A: one even kijken welk [zijn] [dat] [de basketbal] 
+B|26| B: [de basketbal] 
+A|27| A: [basketbal] [dat] [zijn] drie 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : ja even kijken er zitten een ronde bal achterop zeggen maar aan de bovenkant en aan de zijkant hebben die twee soort van handvaat en aan de voorkant een
+	Free: Pattern=ja, Pattern=aan de, Pattern=en aan de voorkant een, Pattern=hebben, Pattern=zeggen, Pattern=die, Pattern=maar, Pattern=en aan de, Pattern=een, Pattern=aan de zijkant
+	Constrained: Pattern=de, Pattern=aan de, Pattern=een, Pattern=en, Pattern=aan de voorkant, Pattern=en aan de
+Turn ID=1| B | B : ja en aan de voorkant een vierkant staaf
+	Free: Pattern=en aan de voorkant een, Pattern=ja, Pattern=vierkant
+	Constrained: Pattern=de, Pattern=aan de, Pattern=een, Pattern=en, Pattern=aan de voorkant, Pattern=en aan de
+Turn ID=2| A | A : ja precies
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=3| B | B : d
+	Free: 
+	Constrained: 
+Turn ID=4| B | B : oké dit zijn diegene met die staaf aan de voorkant weer met dat bolle bovenop
+	Free: Pattern=met, Pattern=oké, Pattern=zijn, Pattern=aan de voorkant, Pattern=dat, Pattern=met die, Pattern=bovenop
+	Constrained: Pattern=de, Pattern=die, Pattern=aan de, Pattern=met
+Turn ID=5| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=6| B | B : we hebben hem al hebben
+	Free: Pattern=hebben, Pattern=we
+	Constrained: 
+Turn ID=7| A | A : en met de hand aan de zijkant
+	Free: Pattern=aan de zijkant, Pattern=met de, Pattern=en
+	Constrained: Pattern=de, Pattern=met, Pattern=aan de
+Turn ID=8| B | B : met ja met die dinge aan de zijkant
+	Free: Pattern=aan de zijkant, Pattern=met die, Pattern=met, Pattern=ja
+	Constrained: Pattern=de, Pattern=met, Pattern=die, Pattern=aan de
+Turn ID=9| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=10| A | A : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=11| A | A : vijftien
+	Free: 
+	Constrained: 
+Turn ID=12| A | A : hoe noemen we deze ook alweer ? die met die grijparmp met de bol bovenop
+	Free: Pattern=met de, Pattern=met die, Pattern=bovenop, Pattern=we, Pattern=die
+	Constrained: Pattern=die, Pattern=met, Pattern=de
+Turn ID=13| A | A : en de vierkant blok
+	Free: Pattern=de vierkant, Pattern=en
+	Constrained: Pattern=de, Pattern=vierkant
+Turn ID=14| B | B : ja met de vierkant statief
+	Free: Pattern=met de, Pattern=de vierkant, Pattern=ja
+	Constrained: Pattern=met, Pattern=de, Pattern=vierkant
+Turn ID=15| A | A : hoe gaan we die noemen
+	Free: Pattern=die, Pattern=we
+	Constrained: 
+Turn ID=16| B | B : de een pullup ik ik zien het wel als een een basketbal laten maar zeggen
+	Free: Pattern=de, Pattern=een, Pattern=zeggen, Pattern=basketbal, Pattern=maar
+	Constrained: 
+Turn ID=17| B | B : weten je wel dat je dat bolle als de basketbal in het theekop doen
+	Free: Pattern=de basketbal, Pattern=dat
+	Constrained: Pattern=de, Pattern=basketbal
+Turn ID=18| A | A : prima basketbal
+	Free: Pattern=basketbal
+	Constrained: 
+Turn ID=19| B | B : basketbal
+	Free: Pattern=basketbal
+	Constrained: 
+Turn ID=20| B | B : L
+	Free: 
+	Constrained: 
+Turn ID=21| B | B : de basketbal
+	Free: Pattern=de basketbal
+	Constrained: Pattern=de, Pattern=basketbal
+Turn ID=22| A | A : de basketbal dat zijn met die armpjes aan de zijkant ook ja
+	Free: Pattern=ja, Pattern=zijn, Pattern=dat, Pattern=met die, Pattern=aan de zijkant, Pattern=de basketbal
+	Constrained: Pattern=de, Pattern=aan de, Pattern=met, Pattern=die, Pattern=basketbal
+Turn ID=23| B | B : ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=24| A | A : dat zijn zes
+	Free: Pattern=dat, Pattern=zijn
+	Constrained: 
+Turn ID=25| A | A : one even kijken welk zijn dat de basketbal
+	Free: Pattern=de basketbal, Pattern=dat, Pattern=zijn
+	Constrained: Pattern=de, Pattern=basketbal
+Turn ID=26| B | B : de basketbal
+	Free: Pattern=de basketbal
+	Constrained: Pattern=de, Pattern=basketbal
+Turn ID=27| A | A : basketbal dat zijn drie
+	Free: Pattern=dat, Pattern=zijn, Pattern=basketbal
+	Constrained: 

@@ -1,0 +1,107 @@
+B|0| B: _deze hebben_ _een_ soort van tafel _aan de_ bovenkant _met_ _twee_ 
+B|1| B: _ja_ 
+B|2| B: b 
+A|3| A: wachten dan zitten ik verkeerd 
+A|4| A: [ja] 
+A|5| A: poo 
+A|6| A: maar _het_ plateau zitten _dat_ snijden [de] 
+A|7| A: en er _staan_ [twee] stekelt zeggen maar bovenop 
+A|8| A: nee 
+A|9| A: ah 
+A|10| A: [hebben] hij wat zitten er [aan de] zitten er ook iets achter [aan de] achterkant 
+A|11| A: [een] haak en op _het_ plateau _staan_ iets 
+A|12| A: [ja] okee gelukkig 
+A|13| A: vijfteen 
+A|14| A: _die_ ander [hebben] ik al [hebben] 
+B|15| B: [het] tafel _met_ [twee] poet 
+B|16| B: waar [staan] [die] 
+B|17| B: J 
+A|18| A: [deze hebben] zoals jij zeggen als je ontbijt op bed krijgen [een] dienblad [met] iets erop 
+A|19| A: krulle [aan de] achterkant 
+B|20| B: [deze] _zijn_ [met] [dat] tafel 
+B|21| B: n 
+A|22| A: [dat] [zijn] vijf 
+A|23| A: [deze hebben] ontbijt op bed 
+A|24| A: achten 
+A|25| A: ontbijt op bed 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : deze hebben een soort van tafel aan de bovenkant met twee
+	Free: Pattern=twee, Pattern=aan de, Pattern=een, Pattern=deze hebben, Pattern=met
+	Constrained: Pattern=hebben, Pattern=deze, Pattern=de
+Turn ID=1| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=2| B | B : b
+	Free: 
+	Constrained: 
+Turn ID=3| A | A : wachten dan zitten ik verkeerd
+	Free: 
+	Constrained: 
+Turn ID=4| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=5| A | A : poo
+	Free: 
+	Constrained: 
+Turn ID=6| A | A : maar het plateau zitten dat snijden de
+	Free: Pattern=het, Pattern=dat, Pattern=de
+	Constrained: 
+Turn ID=7| A | A : en er staan twee stekelt zeggen maar bovenop
+	Free: Pattern=twee, Pattern=staan
+	Constrained: 
+Turn ID=8| A | A : nee
+	Free: 
+	Constrained: 
+Turn ID=9| A | A : ah
+	Free: 
+	Constrained: 
+Turn ID=10| A | A : hebben hij wat zitten er aan de zitten er ook iets achter aan de achterkant
+	Free: Pattern=aan de, Pattern=hebben
+	Constrained: Pattern=de
+Turn ID=11| A | A : een haak en op het plateau staan iets
+	Free: Pattern=een, Pattern=het, Pattern=staan
+	Constrained: 
+Turn ID=12| A | A : ja okee gelukkig
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=13| A | A : vijfteen
+	Free: 
+	Constrained: 
+Turn ID=14| A | A : die ander hebben ik al hebben
+	Free: Pattern=hebben, Pattern=die
+	Constrained: 
+Turn ID=15| B | B : het tafel met twee poet
+	Free: Pattern=twee, Pattern=het, Pattern=met
+	Constrained: 
+Turn ID=16| B | B : waar staan die
+	Free: Pattern=staan, Pattern=die
+	Constrained: 
+Turn ID=17| B | B : J
+	Free: 
+	Constrained: 
+Turn ID=18| A | A : deze hebben zoals jij zeggen als je ontbijt op bed krijgen een dienblad met iets erop
+	Free: Pattern=deze hebben, Pattern=een, Pattern=met
+	Constrained: Pattern=hebben, Pattern=deze
+Turn ID=19| A | A : krulle aan de achterkant
+	Free: Pattern=aan de
+	Constrained: Pattern=de
+Turn ID=20| B | B : deze zijn met dat tafel
+	Free: Pattern=dat, Pattern=deze, Pattern=zijn, Pattern=met
+	Constrained: 
+Turn ID=21| B | B : n
+	Free: 
+	Constrained: 
+Turn ID=22| A | A : dat zijn vijf
+	Free: Pattern=dat, Pattern=zijn
+	Constrained: 
+Turn ID=23| A | A : deze hebben ontbijt op bed
+	Free: Pattern=deze hebben
+	Constrained: Pattern=hebben, Pattern=deze
+Turn ID=24| A | A : achten
+	Free: 
+	Constrained: 
+Turn ID=25| A | A : ontbijt op bed
+	Free: 
+	Constrained: 

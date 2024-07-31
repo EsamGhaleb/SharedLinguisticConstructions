@@ -1,0 +1,79 @@
+A|0| A: _deze_ _hebben_ _twee_ armp _aan de_ zijkant _en_ dan _hebben_ _die_ _aan de achterkant_ _een_ vlak _dat_ schuin omhooggaan 
+A|1| A: _en_ _daar_ komen _weer_ _een_ soort _ja_ _watervalle_ uit 
+B|2| B: _ja ik_ _ik_ [hebben] _hem_ _dat zijn_ _voor mij_ K 
+B|3| B: _even_ kijken [deze] _zijn_ 
+B|4| B: _even_ kijken [die] [hebben] [weer] links [en] rechts [een] [een] staaf [die] uitsteken _met_ [een] rond bolletje [daar] [aan] het einde [aan de achterkant] [dat] vierkant plaat _met_ het [watervalle] 
+A|5| A: [ja ik] moeten [hem] [even] zoeken maar [ik] weten welk je bedoelen [ja] 
+A|6| A: [dat zijn] negen [voor mij] 
+A|7| A: _dit zijn die met_ [de] _twee_ armp [aan de] zijkant [en] dan achteraan [dat] ding [dat] omhooggaan 
+A|8| A: [met] _de waterval_ 
+B|9| B: [ja] 
+B|10| B: [dat zijn] F [voor mij] 
+B|11| B: [dit zijn die met] [die] [twee] uitsteeksel naar links [en] rechts het plaat [en] [de waterval] 
+A|12| A: waar [zijn die] 
+A|13| A: [ja] [dat zijn] drie [voor mij] 
+A|14| A: [dit zijn die met] [de waterval] [aan de achterkant] 
+B|15| B: [dat zijn] L [voor mij] 
+A|16| A: poot 
+B|17| B: yes [dit zijn] [weer] [die met] [die] [twee] uitsteeksel links [en] rechts het plaat [aan de achterkant] [en] [de waterval] 
+A|18| A: waar [zijn die] ? [ja] [dat zijn] vijf [voor mij] 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : deze hebben twee armp aan de zijkant en dan hebben die aan de achterkant een vlak dat schuin omhooggaan
+	Free: Pattern=twee, Pattern=aan de, Pattern=een, Pattern=hebben, Pattern=die, Pattern=en, Pattern=deze, Pattern=dat, Pattern=aan de achterkant
+	Constrained: Pattern=aan, Pattern=de, Pattern=aan de
+Turn ID=1| A | A : en daar komen weer een soort ja watervalle uit
+	Free: Pattern=ja, Pattern=een, Pattern=en, Pattern=watervalle, Pattern=daar, Pattern=weer
+	Constrained: 
+Turn ID=2| B | B : ja ik ik hebben hem dat zijn voor mij K
+	Free: Pattern=dat zijn, Pattern=hebben, Pattern=voor mij, Pattern=ja ik, Pattern=ik, Pattern=hem
+	Constrained: Pattern=dat, Pattern=zijn, Pattern=ja, Pattern=ik
+Turn ID=3| B | B : even kijken deze zijn
+	Free: Pattern=even, Pattern=zijn, Pattern=deze
+	Constrained: 
+Turn ID=4| B | B : even kijken die hebben weer links en rechts een een staaf die uitsteken met een rond bolletje daar aan het einde aan de achterkant dat vierkant plaat met het watervalle
+	Free: Pattern=aan, Pattern=even, Pattern=een, Pattern=hebben, Pattern=met, Pattern=die, Pattern=en, Pattern=watervalle, Pattern=dat, Pattern=aan de achterkant, Pattern=daar, Pattern=weer
+	Constrained: Pattern=aan, Pattern=de, Pattern=aan de
+Turn ID=5| A | A : ja ik moeten hem even zoeken maar ik weten welk je bedoelen ja
+	Free: Pattern=ja, Pattern=even, Pattern=ja ik, Pattern=ik, Pattern=hem
+	Constrained: Pattern=ja, Pattern=ik
+Turn ID=6| A | A : dat zijn negen voor mij
+	Free: Pattern=voor mij, Pattern=dat zijn
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=7| A | A : dit zijn die met de twee armp aan de zijkant en dan achteraan dat ding dat omhooggaan
+	Free: Pattern=dat, Pattern=twee, Pattern=de, Pattern=aan de, Pattern=dit zijn die met, Pattern=en
+	Constrained: Pattern=zijn die, Pattern=die met, Pattern=met, Pattern=die, Pattern=zijn, Pattern=dit zijn, Pattern=de, Pattern=aan
+Turn ID=8| A | A : met de waterval
+	Free: Pattern=de waterval, Pattern=met
+	Constrained: Pattern=de
+Turn ID=9| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=10| B | B : dat zijn F voor mij
+	Free: Pattern=voor mij, Pattern=dat zijn
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=11| B | B : dit zijn die met die twee uitsteeksel naar links en rechts het plaat en de waterval
+	Free: Pattern=twee, Pattern=dit zijn die met, Pattern=die, Pattern=en, Pattern=de waterval
+	Constrained: Pattern=de, Pattern=zijn die, Pattern=die met, Pattern=met, Pattern=die, Pattern=zijn, Pattern=dit zijn
+Turn ID=12| A | A : waar zijn die
+	Free: Pattern=zijn die
+	Constrained: Pattern=die, Pattern=zijn
+Turn ID=13| A | A : ja dat zijn drie voor mij
+	Free: Pattern=voor mij, Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=14| A | A : dit zijn die met de waterval aan de achterkant
+	Free: Pattern=dit zijn die met, Pattern=aan de achterkant, Pattern=de waterval
+	Constrained: Pattern=aan de, Pattern=zijn die, Pattern=die met, Pattern=met, Pattern=die, Pattern=zijn, Pattern=dit zijn, Pattern=de, Pattern=aan
+Turn ID=15| B | B : dat zijn L voor mij
+	Free: Pattern=voor mij, Pattern=dat zijn
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=16| A | A : poot
+	Free: 
+	Constrained: 
+Turn ID=17| B | B : yes dit zijn weer die met die twee uitsteeksel links en rechts het plaat aan de achterkant en de waterval
+	Free: Pattern=aan de achterkant, Pattern=twee, Pattern=die met, Pattern=die, Pattern=en, Pattern=de waterval, Pattern=weer, Pattern=dit zijn
+	Constrained: Pattern=aan de, Pattern=met, Pattern=die, Pattern=zijn, Pattern=de, Pattern=aan
+Turn ID=18| A | A : waar zijn die ? ja dat zijn vijf voor mij
+	Free: Pattern=voor mij, Pattern=zijn die, Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=die, Pattern=zijn, Pattern=dat

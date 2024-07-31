@@ -1,0 +1,119 @@
+B|0| B: even kijken deze hebben _aan de_ bovenkant twee steel _die_ uitsteken waarvan _één_ 
+B|1| B: _ja_ zullen _je_ kunnen zeggen _dat_ het _een_ _soort_ van roerhou _zijn_ wat _je_ _in_ _de_ verfpot steken 
+A|2| A: [die] 
+B|3| B: _en_ _en_ 
+A|4| A: _met_ [dat] _driehoek aan de zijkant_ [dat] 
+B|5| B: _ja_ 
+B|6| B: _ja_ [driehoek aan de zijkant] _en_ [aan] of [aan de] linkerkant _en_ [aan de] rechterkant _een_ _soort_ van bolle 
+A|7| A: [ja] 
+A|8| A: [soort] [soort] neus [ja] 
+B|9| B: [ja] 
+A|10| A: _dat zijn_ veertien _voor mij_ 
+A|11| A: hier zitten [één] [ja] zo'n roerstaafje [in] _voor_ [je] _verf_ [en] dan [een] [een] schroevendraaier _voor_ kwastbovenkant 
+B|12| B: [ja] 
+B|13| B: bolle 
+A|14| A: [driehoek] [ja] 
+B|15| B: [driehoek aan de zijkant] 
+B|16| B: [ja] 
+B|17| B: [dat zijn] [voor mij] nummer N of letter N 
+B|18| B: [ja] 
+B|19| B: _dit zijn_ wederom _die met_ het [verf] spatel [en] het 
+A|20| A: yes [dat zijn] negen [voor mij] 
+A|21| A: [dit zijn] [die met] [de] verfroerstaaf 
+B|22| B: [ja] 
+B|23| B: soundbreathsmack one's [ja] 
+B|24| B: [dat zijn] G [voor mij] 
+B|25| B: weer [de] [verf] spatel 
+A|26| A: yes [dat zijn] vijf [voor mij] 
+A|27| A: [dit zijn] [die met] [de] verfroerstaaf 
+B|28| B: J 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : even kijken deze hebben aan de bovenkant twee steel die uitsteken waarvan één
+	Free: Pattern=aan de, Pattern=één, Pattern=die
+	Constrained: Pattern=de, Pattern=aan
+Turn ID=1| B | B : ja zullen je kunnen zeggen dat het een soort van roerhou zijn wat je in de verfpot steken
+	Free: Pattern=dat, Pattern=soort, Pattern=een, Pattern=in, Pattern=zijn, Pattern=je, Pattern=de, Pattern=ja
+	Constrained: 
+Turn ID=2| A | A : die
+	Free: Pattern=die
+	Constrained: 
+Turn ID=3| B | B : en en
+	Free: Pattern=en
+	Constrained: 
+Turn ID=4| A | A : met dat driehoek aan de zijkant dat
+	Free: Pattern=driehoek aan de zijkant, Pattern=dat, Pattern=met
+	Constrained: Pattern=aan, Pattern=de, Pattern=driehoek, Pattern=aan de
+Turn ID=5| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=6| B | B : ja driehoek aan de zijkant en aan of aan de linkerkant en aan de rechterkant een soort van bolle
+	Free: Pattern=soort, Pattern=aan de, Pattern=een, Pattern=driehoek aan de zijkant, Pattern=en, Pattern=aan, Pattern=ja
+	Constrained: Pattern=aan, Pattern=de, Pattern=driehoek, Pattern=aan de
+Turn ID=7| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=8| A | A : soort soort neus ja
+	Free: Pattern=ja, Pattern=soort
+	Constrained: 
+Turn ID=9| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=10| A | A : dat zijn veertien voor mij
+	Free: Pattern=dat zijn, Pattern=voor mij
+	Constrained: Pattern=dat, Pattern=zijn, Pattern=voor
+Turn ID=11| A | A : hier zitten één ja zo'n roerstaafje in voor je verf en dan een een schroevendraaier voor kwastbovenkant
+	Free: Pattern=ja, Pattern=verf, Pattern=een, Pattern=voor, Pattern=in, Pattern=en, Pattern=één, Pattern=je
+	Constrained: 
+Turn ID=12| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=13| B | B : bolle
+	Free: 
+	Constrained: 
+Turn ID=14| A | A : driehoek ja
+	Free: Pattern=ja, Pattern=driehoek
+	Constrained: 
+Turn ID=15| B | B : driehoek aan de zijkant
+	Free: Pattern=driehoek aan de zijkant
+	Constrained: Pattern=aan, Pattern=de, Pattern=driehoek, Pattern=aan de
+Turn ID=16| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=17| B | B : dat zijn voor mij nummer N of letter N
+	Free: Pattern=dat zijn, Pattern=voor mij
+	Constrained: Pattern=dat, Pattern=zijn, Pattern=voor
+Turn ID=18| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=19| B | B : dit zijn wederom die met het verf spatel en het
+	Free: Pattern=die met, Pattern=dit zijn, Pattern=en, Pattern=verf
+	Constrained: Pattern=die, Pattern=zijn, Pattern=met
+Turn ID=20| A | A : yes dat zijn negen voor mij
+	Free: Pattern=dat zijn, Pattern=voor mij
+	Constrained: Pattern=dat, Pattern=zijn, Pattern=voor
+Turn ID=21| A | A : dit zijn die met de verfroerstaaf
+	Free: Pattern=die met, Pattern=dit zijn, Pattern=de
+	Constrained: Pattern=die, Pattern=zijn, Pattern=met
+Turn ID=22| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=23| B | B : soundbreathsmack one's ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=24| B | B : dat zijn G voor mij
+	Free: Pattern=dat zijn, Pattern=voor mij
+	Constrained: Pattern=dat, Pattern=zijn, Pattern=voor
+Turn ID=25| B | B : weer de verf spatel
+	Free: Pattern=de, Pattern=verf
+	Constrained: 
+Turn ID=26| A | A : yes dat zijn vijf voor mij
+	Free: Pattern=dat zijn, Pattern=voor mij
+	Constrained: Pattern=dat, Pattern=zijn, Pattern=voor
+Turn ID=27| A | A : dit zijn die met de verfroerstaaf
+	Free: Pattern=die met, Pattern=dit zijn, Pattern=de
+	Constrained: Pattern=die, Pattern=zijn, Pattern=met
+Turn ID=28| B | B : J
+	Free: 
+	Constrained: 

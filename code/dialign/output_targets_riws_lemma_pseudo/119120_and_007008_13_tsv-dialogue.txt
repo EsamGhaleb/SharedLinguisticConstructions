@@ -1,0 +1,139 @@
+A|0| A: van _die_ spiraalt 
+A|1| A: _ja ja ja_ 
+A|2| A: _ja_ oké 
+A|3| A: _ja ja ja_ 
+A|4| A: _ja ja ja_ ik snapen hem _ja_ 
+A|5| A: A vijf 
+B|6| B: hij hebben _aan de_ _het_ hij staan eigenlijk ook gewoon _op_ _een_ _op_ _een_ vierkant _op_ _een_ blauw vierkant 
+B|7| B: [ja ja ja] _aan_ allebei _de_ _kant_ 
+A|8| A: degeen _met die_ drie raar dinge [aan de] zijkant van [het] hoofd [aan] beide [kant] 
+A|9| A: _met_ _plaat_ [op] [de] voorkant 
+A|10| A: _met_ [een] armpje uit [het] water hoe jij _dat_ noemen 
+A|11| A: tien 
+B|12| B: [ja ja ja] 
+B|13| B: J 
+A|14| A: [ja] 
+A|15| A: elf 
+A|16| A: d elf 
+A|17| A: oorbel drie van _die_ bollet [aan de] zijkant van [het] hoofd 
+A|18| A: zestien 
+A|19| A: [ja ja ja] 
+A|20| A: zestien 
+B|21| B: weer [die] [op] [een] vierkant [plaat] staan en [aan] allebei [de] [kant] zo'n diaman 
+B|22| B: [ja] 
+B|23| B: P 
+A|24| A: dus we zijn erachter _dat_ elk keer als [het] wat zijn zijn [het] hetzelfde 
+A|25| A: [ja] 
+A|26| A: K negen 
+B|27| B: weer [die] [op] [op] [dat] vierkant staan en [met die] diaman 
+A|28| A: jou oorbel 
+A|29| A: drie van [die] ding [aan] elk [kant] 
+A|30| A: yes 
+A|31| A: elf 
+B|32| B: [ja] 
+B|33| B: L 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : van die spiraalt
+	Free: Pattern=die
+	Constrained: 
+Turn ID=1| A | A : ja ja ja
+	Free: Pattern=ja ja ja
+	Constrained: Pattern=ja
+Turn ID=2| A | A : ja oké
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=3| A | A : ja ja ja
+	Free: Pattern=ja ja ja
+	Constrained: Pattern=ja
+Turn ID=4| A | A : ja ja ja ik snapen hem ja
+	Free: Pattern=ja ja ja, Pattern=ja
+	Constrained: Pattern=ja
+Turn ID=5| A | A : A vijf
+	Free: 
+	Constrained: 
+Turn ID=6| B | B : hij hebben aan de het hij staan eigenlijk ook gewoon op een op een vierkant op een blauw vierkant
+	Free: Pattern=aan de, Pattern=een, Pattern=het, Pattern=op
+	Constrained: Pattern=de, Pattern=aan
+Turn ID=7| B | B : ja ja ja aan allebei de kant
+	Free: Pattern=ja ja ja, Pattern=kant, Pattern=de, Pattern=aan
+	Constrained: Pattern=ja
+Turn ID=8| A | A : degeen met die drie raar dinge aan de zijkant van het hoofd aan beide kant
+	Free: Pattern=aan, Pattern=aan de, Pattern=het, Pattern=kant, Pattern=met die
+	Constrained: Pattern=die, Pattern=de, Pattern=aan, Pattern=met
+Turn ID=9| A | A : met plaat op de voorkant
+	Free: Pattern=plaat, Pattern=de, Pattern=met, Pattern=op
+	Constrained: 
+Turn ID=10| A | A : met een armpje uit het water hoe jij dat noemen
+	Free: Pattern=een, Pattern=dat, Pattern=het, Pattern=met
+	Constrained: 
+Turn ID=11| A | A : tien
+	Free: 
+	Constrained: 
+Turn ID=12| B | B : ja ja ja
+	Free: Pattern=ja ja ja
+	Constrained: Pattern=ja
+Turn ID=13| B | B : J
+	Free: 
+	Constrained: 
+Turn ID=14| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=15| A | A : elf
+	Free: 
+	Constrained: 
+Turn ID=16| A | A : d elf
+	Free: 
+	Constrained: 
+Turn ID=17| A | A : oorbel drie van die bollet aan de zijkant van het hoofd
+	Free: Pattern=aan de, Pattern=die, Pattern=het
+	Constrained: Pattern=de, Pattern=aan
+Turn ID=18| A | A : zestien
+	Free: 
+	Constrained: 
+Turn ID=19| A | A : ja ja ja
+	Free: Pattern=ja ja ja
+	Constrained: Pattern=ja
+Turn ID=20| A | A : zestien
+	Free: 
+	Constrained: 
+Turn ID=21| B | B : weer die op een vierkant plaat staan en aan allebei de kant zo'n diaman
+	Free: Pattern=kant, Pattern=op, Pattern=een, Pattern=die, Pattern=plaat, Pattern=de, Pattern=aan
+	Constrained: 
+Turn ID=22| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=23| B | B : P
+	Free: 
+	Constrained: 
+Turn ID=24| A | A : dus we zijn erachter dat elk keer als het wat zijn zijn het hetzelfde
+	Free: Pattern=dat, Pattern=het
+	Constrained: 
+Turn ID=25| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=26| A | A : K negen
+	Free: 
+	Constrained: 
+Turn ID=27| B | B : weer die op op dat vierkant staan en met die diaman
+	Free: Pattern=met die, Pattern=dat, Pattern=die, Pattern=op
+	Constrained: Pattern=die, Pattern=met
+Turn ID=28| A | A : jou oorbel
+	Free: 
+	Constrained: 
+Turn ID=29| A | A : drie van die ding aan elk kant
+	Free: Pattern=kant, Pattern=die, Pattern=aan
+	Constrained: 
+Turn ID=30| A | A : yes
+	Free: 
+	Constrained: 
+Turn ID=31| A | A : elf
+	Free: 
+	Constrained: 
+Turn ID=32| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=33| B | B : L
+	Free: 
+	Constrained: 

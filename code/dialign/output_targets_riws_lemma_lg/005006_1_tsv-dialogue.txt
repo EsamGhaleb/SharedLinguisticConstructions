@@ -1,0 +1,75 @@
+B|0| B: _deze hebben_ zegmaar _een_ _spijker_ bovenop _en_ _een vierkant_ vlak _aan de voorkant_ 
+A|1| A: ja _twee_ 
+B|2| B: met _twee blokkentorent_ link 
+A|3| A: ja 
+A|4| A: [deze hebben] [een vierkant] schijf ervoor [en] dat spijkertje er in [en] die [twee] blokkentorens ja 
+B|5| B: _blokkentorent_ 
+B|6| B: G 
+A|7| A: ja 
+B|8| B: hij [hebben] zegmaar [een] _spijker_ bovenop _links_ _twee blokkentorent_ [en] [een _vierkant] scherm_ 
+A|9| A: ja 
+A|10| A: negen 
+A|11| A: [vierkant scherm] [aan de voorkant] spijkertje er in [en] die [twee] blokkentorens 
+B|12| B: d 
+B|13| B: _twee blokkentorent_ link _spijker_ bovenaan [vierkant] schermpje vooraan 
+A|14| A: [twee] blokkentoar [links] 
+A|15| A: ja één 
+A|16| A: [vierkant scherm] [aan de voorkant] [spijker] [en] die [twee blokkentorent] 
+B|17| B: B 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : deze hebben zegmaar een spijker bovenop en een vierkant vlak aan de voorkant
+	Free: Pattern=een, Pattern=deze hebben, Pattern=en, Pattern=aan de voorkant, Pattern=spijker, Pattern=een vierkant
+	Constrained: Pattern=vierkant, Pattern=een, Pattern=hebben
+Turn ID=1| A | A : ja twee
+	Free: Pattern=twee
+	Constrained: 
+Turn ID=2| B | B : met twee blokkentorent link
+	Free: Pattern=twee blokkentorent
+	Constrained: Pattern=twee, Pattern=blokkentorent
+Turn ID=3| A | A : ja
+	Free: 
+	Constrained: 
+Turn ID=4| A | A : deze hebben een vierkant schijf ervoor en dat spijkertje er in en die twee blokkentorens ja
+	Free: Pattern=deze hebben, Pattern=een vierkant, Pattern=en, Pattern=twee
+	Constrained: Pattern=vierkant, Pattern=een, Pattern=hebben
+Turn ID=5| B | B : blokkentorent
+	Free: Pattern=blokkentorent
+	Constrained: 
+Turn ID=6| B | B : G
+	Free: 
+	Constrained: 
+Turn ID=7| A | A : ja
+	Free: 
+	Constrained: 
+Turn ID=8| B | B : hij hebben zegmaar een spijker bovenop links twee blokkentorent en een vierkant scherm
+	Free: Pattern=vierkant scherm, Pattern=een, Pattern=links, Pattern=hebben, Pattern=en, Pattern=spijker, Pattern=twee blokkentorent, Pattern=een vierkant
+	Constrained: Pattern=twee, Pattern=een, Pattern=blokkentorent, Pattern=vierkant
+Turn ID=9| A | A : ja
+	Free: 
+	Constrained: 
+Turn ID=10| A | A : negen
+	Free: 
+	Constrained: 
+Turn ID=11| A | A : vierkant scherm aan de voorkant spijkertje er in en die twee blokkentorens
+	Free: Pattern=aan de voorkant, Pattern=vierkant scherm, Pattern=en, Pattern=twee
+	Constrained: Pattern=vierkant
+Turn ID=12| B | B : d
+	Free: 
+	Constrained: 
+Turn ID=13| B | B : twee blokkentorent link spijker bovenaan vierkant schermpje vooraan
+	Free: Pattern=twee blokkentorent, Pattern=vierkant, Pattern=spijker
+	Constrained: Pattern=twee, Pattern=blokkentorent
+Turn ID=14| A | A : twee blokkentoar links
+	Free: Pattern=links, Pattern=twee
+	Constrained: 
+Turn ID=15| A | A : ja één
+	Free: 
+	Constrained: 
+Turn ID=16| A | A : vierkant scherm aan de voorkant spijker en die twee blokkentorent
+	Free: Pattern=vierkant scherm, Pattern=en, Pattern=aan de voorkant, Pattern=spijker, Pattern=twee blokkentorent
+	Constrained: Pattern=twee, Pattern=blokkentorent, Pattern=vierkant
+Turn ID=17| B | B : B
+	Free: 
+	Constrained: 

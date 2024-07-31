@@ -1,0 +1,67 @@
+B|0| B: _de lang_ die er _zijn_ het staan echt op zo'n voetstuk 
+A|1| A: _ja_ _dat zijn_ nummer vier 
+B|2| B: weten je hem 
+B|3| B: [ja] 
+A|4| A: _ik hebben_ [de] _heel lang_ _heel_ langwerpig 
+B|5| B: oké 
+B|6| B: [dat zijn] bij mij A 
+B|7| B: [ik hebben] [dat] [heel lang] figuur 
+A|8| A: nummer tien 
+A|9| A: [ik hebben] [de] [heel lang] 
+B|10| B: [dat zijn] bij mij L 
+B|11| B: [ik hebben] het [lang] voorwerp 
+B|12| B: die [heel lang] 
+A|13| A: nummer vier 
+A|14| A: [ik hebben] [de lang] langwerpig 
+B|15| B: [dat zijn] F 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : de lang die er zijn het staan echt op zo'n voetstuk
+	Free: Pattern=de lang, Pattern=zijn
+	Constrained: Pattern=de, Pattern=lang
+Turn ID=1| A | A : ja dat zijn nummer vier
+	Free: Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=2| B | B : weten je hem
+	Free: 
+	Constrained: 
+Turn ID=3| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=4| A | A : ik hebben de heel lang heel langwerpig
+	Free: Pattern=ik hebben, Pattern=heel lang, Pattern=de, Pattern=heel
+	Constrained: Pattern=lang, Pattern=heel
+Turn ID=5| B | B : oké
+	Free: 
+	Constrained: 
+Turn ID=6| B | B : dat zijn bij mij A
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=7| B | B : ik hebben dat heel lang figuur
+	Free: Pattern=ik hebben, Pattern=heel lang, Pattern=dat
+	Constrained: Pattern=lang, Pattern=heel
+Turn ID=8| A | A : nummer tien
+	Free: 
+	Constrained: 
+Turn ID=9| A | A : ik hebben de heel lang
+	Free: Pattern=ik hebben, Pattern=heel lang, Pattern=de
+	Constrained: Pattern=lang, Pattern=heel
+Turn ID=10| B | B : dat zijn bij mij L
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=11| B | B : ik hebben het lang voorwerp
+	Free: Pattern=ik hebben, Pattern=lang
+	Constrained: 
+Turn ID=12| B | B : die heel lang
+	Free: Pattern=heel lang
+	Constrained: Pattern=lang, Pattern=heel
+Turn ID=13| A | A : nummer vier
+	Free: 
+	Constrained: 
+Turn ID=14| A | A : ik hebben de lang langwerpig
+	Free: Pattern=de lang, Pattern=ik hebben
+	Constrained: Pattern=de, Pattern=lang
+Turn ID=15| B | B : dat zijn F
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn

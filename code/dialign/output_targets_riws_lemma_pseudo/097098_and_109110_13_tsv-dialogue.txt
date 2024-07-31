@@ -1,0 +1,123 @@
+A|0| A: _ja_ 
+A|1| A: nummer vijf 
+B|2| B: ok deze staat eigenlijk _zijn_ _een_ beker op _een_ tafel _en_ hij _hebben_ paar _van_ _die_ raar _bollet_ zo naar _de zijkant_ 
+B|3| B: _ja die_ _die_ _die_ _die drie_ _drie_ _van_ _die_ _soort_ 
+B|4| B: _ja ja_ inderdaad zo'n _soort_ schijf [ja] 
+A|5| A: dan [hebben] ik weer [de] koffiemok [die] _aan de voorkant_ [een] [soort] [van] plat satelliet [hebben] 
+A|6| A: [en] _aan [de_ zijkant] twee handvat _met_ [drie] [bollet] 
+A|7| A: [ja die] 
+A|8| A: [ja] 
+B|9| B: o [die] [die] jij [die] jij wokkel noemen 
+B|10| B: [en] [met] [die] cirkel [aan de voorkant] 
+B|11| B: ok J 
+B|12| B: ok _met de_ wokkel 
+B|13| B: [en] [ja] rond ding [aan de voorkant] 
+A|14| A: [ja] 
+A|15| A: [ja] 
+A|16| A: [ja ja] 
+A|17| A: dat [zijn] nummer elf hier 
+B|18| B: [ja] [met] cirkel [aan de voorkant] 
+B|19| B: P 
+A|20| A: dit [zijn] [de] mok [met] twee of handvaten [aan] beide kant [die] maken [zijn] [van] [drie] [bollet] 
+A|21| A: [die] 
+A|22| A: [ja] 
+A|23| A: [ja] 
+B|24| B: wokkel oor 
+A|25| A: [ja] 
+A|26| A: nummer negen 
+B|27| B: [ja] [met] cirkel [aan de voorkant] L 
+A|28| A: dit [zijn] [de] mok [met de] handvat [die drie] [bollet] [hebben] [aan] beide kant 
+A|29| A: [ja] 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=1| A | A : nummer vijf
+	Free: 
+	Constrained: 
+Turn ID=2| B | B : ok deze staat eigenlijk zijn een beker op een tafel en hij hebben paar van die raar bollet zo naar de zijkant
+	Free: Pattern=bollet, Pattern=een, Pattern=hebben, Pattern=die, Pattern=de zijkant, Pattern=zijn, Pattern=van, Pattern=en
+	Constrained: Pattern=de
+Turn ID=3| B | B : ja die die die die drie drie van die soort
+	Free: Pattern=die drie, Pattern=drie, Pattern=die, Pattern=van, Pattern=ja die, Pattern=soort
+	Constrained: Pattern=drie, Pattern=ja, Pattern=die
+Turn ID=4| B | B : ja ja inderdaad zo'n soort schijf ja
+	Free: Pattern=ja ja, Pattern=soort, Pattern=ja
+	Constrained: Pattern=ja
+Turn ID=5| A | A : dan hebben ik weer de koffiemok die aan de voorkant een soort van plat satelliet hebben
+	Free: Pattern=soort, Pattern=de, Pattern=een, Pattern=hebben, Pattern=die, Pattern=van, Pattern=aan de voorkant
+	Constrained: Pattern=aan, Pattern=de, Pattern=aan de
+Turn ID=6| A | A : en aan de zijkant twee handvat met drie bollet
+	Free: Pattern=bollet, Pattern=aan de, Pattern=drie, Pattern=met, Pattern=de zijkant, Pattern=en
+	Constrained: Pattern=aan, Pattern=de
+Turn ID=7| A | A : ja die
+	Free: Pattern=ja die
+	Constrained: Pattern=ja, Pattern=die
+Turn ID=8| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=9| B | B : o die die jij die jij wokkel noemen
+	Free: Pattern=die
+	Constrained: 
+Turn ID=10| B | B : en met die cirkel aan de voorkant
+	Free: Pattern=aan de voorkant, Pattern=met, Pattern=die, Pattern=en
+	Constrained: Pattern=aan, Pattern=de, Pattern=aan de
+Turn ID=11| B | B : ok J
+	Free: 
+	Constrained: 
+Turn ID=12| B | B : ok met de wokkel
+	Free: Pattern=met de
+	Constrained: Pattern=met, Pattern=de
+Turn ID=13| B | B : en ja rond ding aan de voorkant
+	Free: Pattern=aan de voorkant, Pattern=ja, Pattern=en
+	Constrained: Pattern=aan, Pattern=de, Pattern=aan de
+Turn ID=14| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=15| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=16| A | A : ja ja
+	Free: Pattern=ja ja
+	Constrained: Pattern=ja
+Turn ID=17| A | A : dat zijn nummer elf hier
+	Free: Pattern=zijn
+	Constrained: 
+Turn ID=18| B | B : ja met cirkel aan de voorkant
+	Free: Pattern=aan de voorkant, Pattern=met, Pattern=ja
+	Constrained: Pattern=aan, Pattern=de, Pattern=aan de
+Turn ID=19| B | B : P
+	Free: 
+	Constrained: 
+Turn ID=20| A | A : dit zijn de mok met twee of handvaten aan beide kant die maken zijn van drie bollet
+	Free: Pattern=bollet, Pattern=drie, Pattern=met, Pattern=die, Pattern=van, Pattern=zijn, Pattern=de, Pattern=aan
+	Constrained: 
+Turn ID=21| A | A : die
+	Free: Pattern=die
+	Constrained: 
+Turn ID=22| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=23| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=24| B | B : wokkel oor
+	Free: 
+	Constrained: 
+Turn ID=25| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=26| A | A : nummer negen
+	Free: 
+	Constrained: 
+Turn ID=27| B | B : ja met cirkel aan de voorkant L
+	Free: Pattern=aan de voorkant, Pattern=met, Pattern=ja
+	Constrained: Pattern=aan, Pattern=de, Pattern=aan de
+Turn ID=28| A | A : dit zijn de mok met de handvat die drie bollet hebben aan beide kant
+	Free: Pattern=bollet, Pattern=die drie, Pattern=hebben, Pattern=zijn, Pattern=de, Pattern=met de, Pattern=aan
+	Constrained: Pattern=met, Pattern=drie, Pattern=de, Pattern=die
+Turn ID=29| A | A : ja
+	Free: Pattern=ja
+	Constrained: 

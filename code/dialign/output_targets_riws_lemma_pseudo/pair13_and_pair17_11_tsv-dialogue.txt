@@ -1,0 +1,159 @@
+B|0| B: _je_ _hebben_ _een_ bal voorop 
+B|1| B: _dan_ _aan de_ zijkant _een_ driehoektui 
+B|2| B: _en_ bovenop _een_ rechthoekig handvat _en_ _een soort_ _van_ penachtig _iets_ 
+A|3| A: even kijken horen 
+A|4| A: [aan de] linkerkant [een soort] boek 
+A|5| A: zitten daar [een soort] lepeltje erin 
+A|6| A: of wat 
+A|7| A: [aan de] bovenzijde [van] [de] beker laten maar zeggen 
+A|8| A: wachten even zeggen maar zo'n [soort] ding [aan de] bovenzijde 
+A|9| A: [soort] vulkaanachtig [iets] 
+A|10| A: ik zien het niet 
+A|11| A: _ja_ hoe zien er het link _uitsteeksel_ eruit 
+A|12| A: wat [aan de] linkerzijde zitten 
+A|13| A: even kijken 
+A|14| A: [een] driehoek [aan de] linkerzijde 
+A|15| A: het [hebben] niet zo'n [soort] antenne _dat_ _zijn_ niet wat [je] bedoelen 
+A|16| A: [en] het [hebben] ook niet [aan de] onderzijde zo'n [soort] stroompje wat 
+A|17| A: [je] bedoelen met _dat_ opengeslagen boek zeggen maar _dat_ _dat_ zeggen maar _dat_ handvaa [van] [de] linkerkant _zijn_ 
+A|18| A: zitten daar [een soort] ei daar rechts [van] 
+A|19| A: [en] [dan] lijken het [een soort] kwastje [en] daarnaast nog [een] staafje 
+A|20| A: wat daarin zitten 
+A|21| A: okeeen ik zullen het even herhalen voor [de] duidelijkheid 
+A|22| A: [een] beker met [aan de] rechterzijde [een] ei het opengeslagen boek links [een soort] roerstaafje daarin [en] daarnaast ook nog [een] streepje erin 
+A|23| A: okee [dan] _zijn_ het nummer vier 
+B|24| B: [ja] g 
+B|25| B: deze [hebben] [een] bal voorop 
+B|26| B: twee [uitsteeksel] bovenop één [zijn] rechthoek [en] ander [soort] penachtig 
+B|27| B: [ja] k 
+B|28| B: deze [hebben] [de] bal voorop [en] [een] pen [en] [dat] rechthoekjeten Bovenin 
+B|29| B: where did it go [ja] n 
+A|30| A: dit [zijn] zeggen maar met zo'n [soort] mooi kwas erin 
+A|31| A: [en] [dan] daarnaast ook nog [een] staafje erin met [een] ei [aan de] rechterzijde 
+A|32| A: [en] met [dat] opengeslagen boek link 
+A|33| A: [ja] [dat] [zijn] nummer vijf 
+A|34| A: ei [aan de] rechterzijde 
+A|35| A: [soort] mooi kwas in het beker staafje erin [en] opengeslagen boek 
+A|36| A: link 
+A|37| A: [ja] nummer achten 
+A|38| A: mooi kwas met [een] staafje ernaast ei rechts [en] opengeslagen boek link 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : je hebben een bal voorop
+	Free: Pattern=een, Pattern=je, Pattern=hebben
+	Constrained: 
+Turn ID=1| B | B : dan aan de zijkant een driehoektui
+	Free: Pattern=aan de, Pattern=een, Pattern=dan
+	Constrained: Pattern=de
+Turn ID=2| B | B : en bovenop een rechthoekig handvat en een soort van penachtig iets
+	Free: Pattern=iets, Pattern=een, Pattern=een soort, Pattern=van, Pattern=en
+	Constrained: Pattern=een, Pattern=soort
+Turn ID=3| A | A : even kijken horen
+	Free: 
+	Constrained: 
+Turn ID=4| A | A : aan de linkerkant een soort boek
+	Free: Pattern=aan de, Pattern=een soort
+	Constrained: Pattern=een, Pattern=soort, Pattern=de
+Turn ID=5| A | A : zitten daar een soort lepeltje erin
+	Free: Pattern=een soort
+	Constrained: Pattern=een, Pattern=soort
+Turn ID=6| A | A : of wat
+	Free: 
+	Constrained: 
+Turn ID=7| A | A : aan de bovenzijde van de beker laten maar zeggen
+	Free: Pattern=aan de, Pattern=de, Pattern=van
+	Constrained: Pattern=de
+Turn ID=8| A | A : wachten even zeggen maar zo'n soort ding aan de bovenzijde
+	Free: Pattern=aan de, Pattern=soort
+	Constrained: Pattern=de
+Turn ID=9| A | A : soort vulkaanachtig iets
+	Free: Pattern=iets, Pattern=soort
+	Constrained: 
+Turn ID=10| A | A : ik zien het niet
+	Free: 
+	Constrained: 
+Turn ID=11| A | A : ja hoe zien er het link uitsteeksel eruit
+	Free: Pattern=uitsteeksel, Pattern=ja
+	Constrained: 
+Turn ID=12| A | A : wat aan de linkerzijde zitten
+	Free: Pattern=aan de
+	Constrained: Pattern=de
+Turn ID=13| A | A : even kijken
+	Free: 
+	Constrained: 
+Turn ID=14| A | A : een driehoek aan de linkerzijde
+	Free: Pattern=aan de, Pattern=een
+	Constrained: Pattern=de
+Turn ID=15| A | A : het hebben niet zo'n soort antenne dat zijn niet wat je bedoelen
+	Free: Pattern=dat, Pattern=soort, Pattern=hebben, Pattern=zijn, Pattern=je
+	Constrained: 
+Turn ID=16| A | A : en het hebben ook niet aan de onderzijde zo'n soort stroompje wat
+	Free: Pattern=aan de, Pattern=en, Pattern=soort, Pattern=hebben
+	Constrained: Pattern=de
+Turn ID=17| A | A : je bedoelen met dat opengeslagen boek zeggen maar dat dat zeggen maar dat handvaa van de linkerkant zijn
+	Free: Pattern=dat, Pattern=de, Pattern=van, Pattern=zijn, Pattern=je
+	Constrained: 
+Turn ID=18| A | A : zitten daar een soort ei daar rechts van
+	Free: Pattern=een soort, Pattern=van
+	Constrained: Pattern=een, Pattern=soort
+Turn ID=19| A | A : en dan lijken het een soort kwastje en daarnaast nog een staafje
+	Free: Pattern=een soort, Pattern=een, Pattern=en, Pattern=dan
+	Constrained: Pattern=een, Pattern=soort
+Turn ID=20| A | A : wat daarin zitten
+	Free: 
+	Constrained: 
+Turn ID=21| A | A : okeeen ik zullen het even herhalen voor de duidelijkheid
+	Free: Pattern=de
+	Constrained: 
+Turn ID=22| A | A : een beker met aan de rechterzijde een ei het opengeslagen boek links een soort roerstaafje daarin en daarnaast ook nog een streepje erin
+	Free: Pattern=aan de, Pattern=een soort, Pattern=een, Pattern=en
+	Constrained: Pattern=een, Pattern=soort, Pattern=de
+Turn ID=23| A | A : okee dan zijn het nummer vier
+	Free: Pattern=dan, Pattern=zijn
+	Constrained: 
+Turn ID=24| B | B : ja g
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=25| B | B : deze hebben een bal voorop
+	Free: Pattern=een, Pattern=hebben
+	Constrained: 
+Turn ID=26| B | B : twee uitsteeksel bovenop één zijn rechthoek en ander soort penachtig
+	Free: Pattern=en, Pattern=soort, Pattern=uitsteeksel, Pattern=zijn
+	Constrained: 
+Turn ID=27| B | B : ja k
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=28| B | B : deze hebben de bal voorop en een pen en dat rechthoekjeten Bovenin
+	Free: Pattern=dat, Pattern=de, Pattern=een, Pattern=hebben, Pattern=en
+	Constrained: 
+Turn ID=29| B | B : where did it go ja n
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=30| A | A : dit zijn zeggen maar met zo'n soort mooi kwas erin
+	Free: Pattern=soort, Pattern=zijn
+	Constrained: 
+Turn ID=31| A | A : en dan daarnaast ook nog een staafje erin met een ei aan de rechterzijde
+	Free: Pattern=aan de, Pattern=een, Pattern=en, Pattern=dan
+	Constrained: Pattern=de
+Turn ID=32| A | A : en met dat opengeslagen boek link
+	Free: Pattern=en, Pattern=dat
+	Constrained: 
+Turn ID=33| A | A : ja dat zijn nummer vijf
+	Free: Pattern=dat, Pattern=ja, Pattern=zijn
+	Constrained: 
+Turn ID=34| A | A : ei aan de rechterzijde
+	Free: Pattern=aan de
+	Constrained: Pattern=de
+Turn ID=35| A | A : soort mooi kwas in het beker staafje erin en opengeslagen boek
+	Free: Pattern=en, Pattern=soort
+	Constrained: 
+Turn ID=36| A | A : link
+	Free: 
+	Constrained: 
+Turn ID=37| A | A : ja nummer achten
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=38| A | A : mooi kwas met een staafje ernaast ei rechts en opengeslagen boek link
+	Free: Pattern=een, Pattern=en
+	Constrained: 

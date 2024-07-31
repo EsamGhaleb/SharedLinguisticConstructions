@@ -1,0 +1,95 @@
+A|0| A: het _zijn_ het degeen _met_ het driehoekje _bovenop_ 
+A|1| A: volgens mij _zijn_ _dat_ er maar één 
+A|2| A: _ja_ 
+B|3| B: [ja] 
+B|4| B: [zijn] gewoon prisma 
+B|5| B: [ja] [dat] [zijn] J 
+A|6| A: [ja] _even_ zoeken 
+A|7| A: [ja] nummer zes 
+B|8| B: deze hebben zegmaar een _driehoek bovenop_ soort van hanekam jij zeggen net een hamekam dan weten je denken ik welk ik bedoelen 
+B|9| B: [ja] 
+A|10| A: dit [zijn] degeen _met_ _de_ [driehoek bovenop] 
+A|11| A: [ja] tien 
+B|12| B: E 
+B|13| B: zo [met] die hanekam [dat] gek prisma vooraan half rond 
+A|14| A: dit [zijn] _de_ [driehoek bovenop] 
+A|15| A: staan bij mij helemaal links Bovenin 
+A|16| A: oké 
+A|17| A: [driehoek] 
+A|18| A: [bovenop] [ja] 
+A|19| A: tien 
+B|20| B: [even] kijken 
+B|21| B: en [dat] half rond linksonderin G 
+B|22| B: hanenkam gek prisma aan [de] voorkant 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : het zijn het degeen met het driehoekje bovenop
+	Free: Pattern=bovenop, Pattern=met, Pattern=zijn
+	Constrained: 
+Turn ID=1| A | A : volgens mij zijn dat er maar één
+	Free: Pattern=zijn, Pattern=dat
+	Constrained: 
+Turn ID=2| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=3| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=4| B | B : zijn gewoon prisma
+	Free: Pattern=zijn
+	Constrained: 
+Turn ID=5| B | B : ja dat zijn J
+	Free: Pattern=ja, Pattern=zijn, Pattern=dat
+	Constrained: 
+Turn ID=6| A | A : ja even zoeken
+	Free: Pattern=ja, Pattern=even
+	Constrained: 
+Turn ID=7| A | A : ja nummer zes
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=8| B | B : deze hebben zegmaar een driehoek bovenop soort van hanekam jij zeggen net een hamekam dan weten je denken ik welk ik bedoelen
+	Free: Pattern=driehoek bovenop
+	Constrained: Pattern=bovenop, Pattern=driehoek
+Turn ID=9| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=10| A | A : dit zijn degeen met de driehoek bovenop
+	Free: Pattern=driehoek bovenop, Pattern=met, Pattern=zijn, Pattern=de
+	Constrained: Pattern=bovenop, Pattern=driehoek
+Turn ID=11| A | A : ja tien
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=12| B | B : E
+	Free: 
+	Constrained: 
+Turn ID=13| B | B : zo met die hanekam dat gek prisma vooraan half rond
+	Free: Pattern=met, Pattern=dat
+	Constrained: 
+Turn ID=14| A | A : dit zijn de driehoek bovenop
+	Free: Pattern=driehoek bovenop, Pattern=zijn, Pattern=de
+	Constrained: Pattern=bovenop, Pattern=driehoek
+Turn ID=15| A | A : staan bij mij helemaal links Bovenin
+	Free: 
+	Constrained: 
+Turn ID=16| A | A : oké
+	Free: 
+	Constrained: 
+Turn ID=17| A | A : driehoek
+	Free: Pattern=driehoek
+	Constrained: 
+Turn ID=18| A | A : bovenop ja
+	Free: Pattern=bovenop, Pattern=ja
+	Constrained: 
+Turn ID=19| A | A : tien
+	Free: 
+	Constrained: 
+Turn ID=20| B | B : even kijken
+	Free: Pattern=even
+	Constrained: 
+Turn ID=21| B | B : en dat half rond linksonderin G
+	Free: Pattern=dat
+	Constrained: 
+Turn ID=22| B | B : hanenkam gek prisma aan de voorkant
+	Free: Pattern=de
+	Constrained: 

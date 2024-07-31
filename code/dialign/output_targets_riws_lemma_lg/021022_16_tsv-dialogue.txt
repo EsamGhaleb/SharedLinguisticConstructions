@@ -1,0 +1,103 @@
+A|0| A: _ja_ _ja dit zijn weer_ wat we net _zo_ _hebben_ over _zo'n_ pluim _en dan hebben je_ _er_ _hebben je_ _er_ _twee_ _aan_ _zitten_ één _aan de voorkant en_ één _er_ boven op 
+A|1| A: _en dan hebben je_ _dan_ _aan de_ zijkant _hebben je_ _soort_ van _twee_ arm waar ook _zo'n_ _kubus_ eigenlijk van smal naar breed gaan _aan de_ rechterzijde 
+B|2| B: [ja] o _die_ [hebben] zeggen maar _dat_ zelfde ding _dat_ _bovenop_ uitsteekt opsteken [aan de voorkant [en] dan] [zo'n] ding _dat_ langzaamaan _groot worden_ 
+A|3| A: [ja] 
+A|4| A: ook [aan de voorkant] [ja] [ja] 
+A|5| A: [groot worden] [ja] [die] [ja] 
+B|6| B: [ja] [dan] [zijn] het E 
+B|7| B: [ja dit zijn weer] diegene waarbij [de] [de] bovenkant _dat_ zelfde ding uitsteken als [aan de voorkant [en] dan] [zitten] [er] _daar_ _nog_ 
+B|8| B: [twee] ding naast _met die_ _blok die_ steeds _groot worden en_ een ding _dat_ een beetje afbuigen 
+A|9| A: [ja] 
+A|10| A: _dat zijn_ [dan] Numero elf 
+A|11| A: [ja dit zijn weer] [die] [met die] [twee] dezelfde pluim dus één [bovenop] [en] één [aan de voorkant] 
+A|12| A: _en dan hebben je_ [aan de] zijkant _hebben je_ [zo'n] [blok die] langzaam bred [worden _en] aan de_ onderkant _hebben je_ [zo'n] raar draai [nog] erbij 
+B|13| B: [ja] 
+B|14| B: [dat zijn] J 
+B|15| B: [dit zijn weer] diegene waarbij [er] _aan de voorkant en aan de_ bovenkant hetzelfde ding uitsteken [de] [blok _die] die_ _groot worden en_ [nog] een [soort] slurf of [zo] eraan 
+A|16| A: [ja] 
+A|17| A: vinden 
+A|18| A: [ja] [dat] [worden] [dan] [dit] nummer negen 
+A|19| A: [dit zijn] [die die] [met die] [met] dezelfde pluim van boven _en [aan de voorkant_ en aan de] zijkant _hebben je_ [zo'n] _kubus_ [die] langzaam [groot worden [en] aan de] ander kant _hebben je_ [zo'n] worm achtig gebeuren [ja] 
+B|20| B: [ja] 
+B|21| B: nu [hebben je] [weer] [dat] uitsteeksel [dan] bovenin [en aan de voorkant] eruit komen [en dan hebben je] [nog] [die] kronkel [en] [die die] uitgeklapt [kubus] 
+A|22| A: [ja] 
+A|23| A: [ja] [daar] [zijn] hij 
+A|24| A: nummer vier 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : ja ja dit zijn weer wat we net zo hebben over zo'n pluim en dan hebben je er hebben je er twee aan zitten één aan de voorkant en één er boven op
+	Free: Pattern=aan de voorkant en, Pattern=en dan hebben je, Pattern=hebben, Pattern=zo, Pattern=zitten, Pattern=er, Pattern=hebben je, Pattern=ja dit zijn weer, Pattern=zo'n, Pattern=twee, Pattern=aan, Pattern=ja
+	Constrained: Pattern=en dan, Pattern=aan de, Pattern=dan, Pattern=hebben, Pattern=dit, Pattern=hebben je, Pattern=en, Pattern=zijn, Pattern=dit zijn, Pattern=dit zijn weer, Pattern=de, Pattern=aan, Pattern=ja, Pattern=weer, Pattern=aan de voorkant
+Turn ID=1| A | A : en dan hebben je dan aan de zijkant hebben je soort van twee arm waar ook zo'n kubus eigenlijk van smal naar breed gaan aan de rechterzijde
+	Free: Pattern=soort, Pattern=aan de, Pattern=dan, Pattern=en dan hebben je, Pattern=hebben je, Pattern=kubus, Pattern=zo'n, Pattern=twee
+	Constrained: Pattern=en dan, Pattern=dan, Pattern=hebben, Pattern=hebben je, Pattern=en, Pattern=de, Pattern=aan
+Turn ID=2| B | B : ja o die hebben zeggen maar dat zelfde ding dat bovenop uitsteekt opsteken aan de voorkant en dan zo'n ding dat langzaamaan groot worden
+	Free: Pattern=aan de voorkant en, Pattern=zo'n, Pattern=ja, Pattern=en dan, Pattern=hebben, Pattern=die, Pattern=groot worden, Pattern=dat, Pattern=bovenop
+	Constrained: Pattern=dan, Pattern=en, Pattern=aan de voorkant, Pattern=de, Pattern=aan, Pattern=aan de, Pattern=worden
+Turn ID=3| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=4| A | A : ook aan de voorkant ja ja
+	Free: Pattern=aan de voorkant, Pattern=ja
+	Constrained: Pattern=aan, Pattern=de, Pattern=aan de
+Turn ID=5| A | A : groot worden ja die ja
+	Free: Pattern=groot worden, Pattern=die, Pattern=ja
+	Constrained: Pattern=worden
+Turn ID=6| B | B : ja dan zijn het E
+	Free: Pattern=ja, Pattern=zijn, Pattern=dan
+	Constrained: 
+Turn ID=7| B | B : ja dit zijn weer diegene waarbij de de bovenkant dat zelfde ding uitsteken als aan de voorkant en dan zitten er daar nog
+	Free: Pattern=dat, Pattern=de, Pattern=en dan, Pattern=zitten, Pattern=er, Pattern=ja dit zijn weer, Pattern=daar, Pattern=aan de voorkant en, Pattern=nog
+	Constrained: Pattern=aan de, Pattern=dan, Pattern=dit, Pattern=en, Pattern=zijn, Pattern=dit zijn, Pattern=dit zijn weer, Pattern=de, Pattern=aan, Pattern=ja, Pattern=weer, Pattern=aan de voorkant
+Turn ID=8| B | B : twee ding naast met die blok die steeds groot worden en een ding dat een beetje afbuigen
+	Free: Pattern=twee, Pattern=blok die, Pattern=groot worden en, Pattern=dat, Pattern=met die
+	Constrained: Pattern=worden, Pattern=worden en, Pattern=met, Pattern=die, Pattern=en, Pattern=groot worden
+Turn ID=9| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=10| A | A : dat zijn dan Numero elf
+	Free: Pattern=dat zijn, Pattern=dan
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=11| A | A : ja dit zijn weer die met die twee dezelfde pluim dus één bovenop en één aan de voorkant
+	Free: Pattern=twee, Pattern=die, Pattern=en, Pattern=ja dit zijn weer, Pattern=aan de voorkant, Pattern=met die, Pattern=bovenop
+	Constrained: Pattern=aan de, Pattern=dit, Pattern=met, Pattern=die, Pattern=zijn, Pattern=weer, Pattern=dit zijn, Pattern=dit zijn weer, Pattern=de, Pattern=aan, Pattern=ja
+Turn ID=12| A | A : en dan hebben je aan de zijkant hebben je zo'n blok die langzaam bred worden en aan de onderkant hebben je zo'n raar draai nog erbij
+	Free: Pattern=nog, Pattern=zo'n, Pattern=aan de, Pattern=en dan hebben je, Pattern=blok die, Pattern=worden en, Pattern=hebben je, Pattern=en aan de
+	Constrained: Pattern=en dan, Pattern=dan, Pattern=hebben, Pattern=die, Pattern=hebben je, Pattern=en, Pattern=de, Pattern=aan, Pattern=aan de, Pattern=worden
+Turn ID=13| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=14| B | B : dat zijn J
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=15| B | B : dit zijn weer diegene waarbij er aan de voorkant en aan de bovenkant hetzelfde ding uitsteken de blok die die groot worden en nog een soort slurf of zo eraan
+	Free: Pattern=de, Pattern=blok die, Pattern=zo, Pattern=groot worden en, Pattern=die die, Pattern=er, Pattern=aan de voorkant en aan de, Pattern=dit zijn weer, Pattern=nog, Pattern=soort
+	Constrained: Pattern=aan de voorkant en, Pattern=dit, Pattern=worden en, Pattern=die, Pattern=en, Pattern=groot worden, Pattern=zijn, Pattern=en aan de, Pattern=dit zijn, Pattern=de, Pattern=aan, Pattern=aan de, Pattern=worden, Pattern=weer, Pattern=aan de voorkant
+Turn ID=16| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=17| A | A : vinden
+	Free: 
+	Constrained: 
+Turn ID=18| A | A : ja dat worden dan dit nummer negen
+	Free: Pattern=dat, Pattern=ja, Pattern=worden, Pattern=dan, Pattern=dit
+	Constrained: 
+Turn ID=19| A | A : dit zijn die die met die met dezelfde pluim van boven en aan de voorkant en aan de zijkant hebben je zo'n kubus die langzaam groot worden en aan de ander kant hebben je zo'n worm achtig gebeuren ja
+	Free: Pattern=met die, Pattern=zo'n, Pattern=ja, Pattern=en aan de voorkant, Pattern=groot worden en, Pattern=met, Pattern=die, Pattern=die die, Pattern=hebben je, Pattern=aan de voorkant en aan de, Pattern=kubus, Pattern=en aan de, Pattern=dit zijn
+	Constrained: Pattern=aan de voorkant en, Pattern=hebben, Pattern=dit, Pattern=worden en, Pattern=met, Pattern=die, Pattern=en, Pattern=groot worden, Pattern=zijn, Pattern=aan de voorkant, Pattern=en aan de, Pattern=de, Pattern=aan, Pattern=aan de, Pattern=worden
+Turn ID=20| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=21| B | B : nu hebben je weer dat uitsteeksel dan bovenin en aan de voorkant eruit komen en dan hebben je nog die kronkel en die die uitgeklapt kubus
+	Free: Pattern=dat, Pattern=nog, Pattern=en aan de voorkant, Pattern=dan, Pattern=en dan hebben je, Pattern=die, Pattern=die die, Pattern=hebben je, Pattern=en, Pattern=kubus, Pattern=weer
+	Constrained: Pattern=en dan, Pattern=aan de, Pattern=dan, Pattern=hebben, Pattern=die, Pattern=hebben je, Pattern=en, Pattern=aan de voorkant, Pattern=en aan de, Pattern=de, Pattern=aan
+Turn ID=22| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=23| A | A : ja daar zijn hij
+	Free: Pattern=ja, Pattern=zijn, Pattern=daar
+	Constrained: 
+Turn ID=24| A | A : nummer vier
+	Free: 
+	Constrained: 

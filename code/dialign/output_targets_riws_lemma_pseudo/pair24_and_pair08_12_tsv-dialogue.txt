@@ -1,0 +1,119 @@
+A|0| A: _een_ bak weer _aan de_ _zijn_ _een_ je _aan de_ linkerkant van _de_ bak _zijn_ eerst _een_ _een_ _een_ uitsteeksel _en_ daarop staan nog _een_ uitsteeksel 
+A|1| A: _en_ _aan de rechterkant_ _zijn_ _een_ soort van _een_ plank waar je hem 
+A|2| A: _een_ rond plank , _ja_ 
+A|3| A: oké 
+A|4| A: _dat zijn_ nummer zes 
+B|5| B: [ja] [en] zo'n heel _groot_ ding links naar boven 
+B|6| B: zoiets 
+B|7| B: [ja] 
+B|8| B: [ja] 
+B|9| B: [ja] 
+B|10| B: [ja] [ja] 
+B|11| B: [dat zijn] H 
+B|12| B: [ja] dit [zijn] die _met_ [dat] dienblad wat jij zeggen 
+B|13| B: rechts [dat] dienblad [en] link die _spijker_ 
+B|14| B: [ja] 
+A|15| A: _de_ bak [met] _aan de rechterkant_ _een_ rond opzettafel , plank 
+A|16| A: _aan de_ linkerkant _een_ , nog _een_ uitstulping , [met] _een_ [groot] uitstulping erop 
+B|17| B: _ja dat zijn_ N 
+A|18| A: [met] _de_ [spijker] 
+A|19| A: [ja] 
+A|20| A: nummer drie 
+B|21| B: dit _zijn het_ dienblad [aan de rechterkant] 
+B|22| B: [en] [een] [spijker] links 
+A|23| A: [aan de rechterkant] [zijn het] rond plank 
+A|24| A: opzettafel 
+A|25| A: linkerkant [een] uitstulping [met] [een] lang 
+B|26| B: J 
+A|27| A: [ja dat zijn] nummer tien 
+B|28| B: dit [zijn] [dat] dienblad [en] [een] [spijker] links 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : een bak weer aan de zijn een je aan de linkerkant van de bak zijn eerst een een een uitsteeksel en daarop staan nog een uitsteeksel
+	Free: Pattern=de, Pattern=aan de, Pattern=een, Pattern=en, Pattern=zijn
+	Constrained: Pattern=de
+Turn ID=1| A | A : en aan de rechterkant zijn een soort van een plank waar je hem
+	Free: Pattern=aan de rechterkant, Pattern=en, Pattern=een, Pattern=zijn
+	Constrained: Pattern=aan de, Pattern=de
+Turn ID=2| A | A : een rond plank , ja
+	Free: Pattern=ja, Pattern=een
+	Constrained: 
+Turn ID=3| A | A : oké
+	Free: 
+	Constrained: 
+Turn ID=4| A | A : dat zijn nummer zes
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=5| B | B : ja en zo'n heel groot ding links naar boven
+	Free: Pattern=ja, Pattern=groot, Pattern=en
+	Constrained: 
+Turn ID=6| B | B : zoiets
+	Free: 
+	Constrained: 
+Turn ID=7| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=8| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=9| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=10| B | B : ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=11| B | B : dat zijn H
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=12| B | B : ja dit zijn die met dat dienblad wat jij zeggen
+	Free: Pattern=dat, Pattern=ja, Pattern=zijn, Pattern=met
+	Constrained: 
+Turn ID=13| B | B : rechts dat dienblad en link die spijker
+	Free: Pattern=dat, Pattern=en, Pattern=spijker
+	Constrained: 
+Turn ID=14| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=15| A | A : de bak met aan de rechterkant een rond opzettafel , plank
+	Free: Pattern=aan de rechterkant, Pattern=een, Pattern=de, Pattern=met
+	Constrained: Pattern=aan de, Pattern=de
+Turn ID=16| A | A : aan de linkerkant een , nog een uitstulping , met een groot uitstulping erop
+	Free: Pattern=aan de, Pattern=groot, Pattern=een, Pattern=met
+	Constrained: Pattern=de
+Turn ID=17| B | B : ja dat zijn N
+	Free: Pattern=ja dat zijn
+	Constrained: Pattern=dat zijn, Pattern=dat, Pattern=ja, Pattern=zijn
+Turn ID=18| A | A : met de spijker
+	Free: Pattern=de, Pattern=spijker, Pattern=met
+	Constrained: 
+Turn ID=19| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=20| A | A : nummer drie
+	Free: 
+	Constrained: 
+Turn ID=21| B | B : dit zijn het dienblad aan de rechterkant
+	Free: Pattern=aan de rechterkant, Pattern=zijn het
+	Constrained: Pattern=de, Pattern=zijn, Pattern=aan de
+Turn ID=22| B | B : en een spijker links
+	Free: Pattern=en, Pattern=een, Pattern=spijker
+	Constrained: 
+Turn ID=23| A | A : aan de rechterkant zijn het rond plank
+	Free: Pattern=aan de rechterkant, Pattern=zijn het
+	Constrained: Pattern=de, Pattern=zijn, Pattern=aan de
+Turn ID=24| A | A : opzettafel
+	Free: 
+	Constrained: 
+Turn ID=25| A | A : linkerkant een uitstulping met een lang
+	Free: Pattern=een, Pattern=met
+	Constrained: 
+Turn ID=26| B | B : J
+	Free: 
+	Constrained: 
+Turn ID=27| A | A : ja dat zijn nummer tien
+	Free: Pattern=ja dat zijn
+	Constrained: Pattern=dat zijn, Pattern=dat, Pattern=ja, Pattern=zijn
+Turn ID=28| B | B : dit zijn dat dienblad en een spijker links
+	Free: Pattern=dat, Pattern=een, Pattern=en, Pattern=zijn, Pattern=spijker
+	Constrained: 

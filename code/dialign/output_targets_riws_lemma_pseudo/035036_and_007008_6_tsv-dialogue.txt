@@ -1,0 +1,119 @@
+A|0| A: _oké_ 
+A|1| A: _ik_ zullen dit stuk beschrijven als een soort van kop _met_ een 
+A|2| A: rond handvatje waar een soort van _staaf_ doorheen _zijn_ steken 
+A|3| A: _oké_ 
+A|4| A: _en_ er zitten ook nog _weer_ _zo'n_ soort van konijnenoor _aan_ vast _maar_ _die_ zitten _aan de_ achterkant 
+A|5| A: _ja_ 
+B|6| B: [oké] nou hebben jij 
+B|7| B: [ja] [ja] [ja] 
+B|8| B: [en] [zijn] [aan de] ander hebben [die] [aan de] bovenkant twee dinget 
+B|9| B: bovenop 
+B|10| B: [oké] _even_ kijken 
+B|11| B: [ja] wachten [zo'n] toeter [ja] 
+B|12| B: het [zijn] het [zijn] zeggen [maar] [zo'n] bol [met] [zo'n] _staaf erdoorheen_ 
+B|13| B: [en] dan [zo'n] cirkel eraan 
+B|14| B: [oké] 
+B|15| B: F 
+A|16| A: [ja] _dat_ [die] [staaf erdoorheen] [even] zoeken hoor [ja] dit [zijn] vijf 
+B|17| B: nu hebben [ik] [weer] [die] [die] toeter zeggen [maar] [en] dan bovenop 
+B|18| B: [ja] 
+A|19| A: dit [zijn] _die met_ [de] neuspiercing 
+A|20| A: _dat_ [zijn] vijf 
+B|21| B: [ja] 
+B|22| B: A 
+A|23| A: [de] neuspiercing 
+B|24| B: [die met] [die] toeter [weer] [en] [die] [dat] blaad 
+A|25| A: [dat] [zijn] vijftien 
+B|26| B: [ja] 
+B|27| B: H 
+B|28| B: [die] toeter [en] [die] [de] appelblaadje 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=1| A | A : ik zullen dit stuk beschrijven als een soort van kop met een
+	Free: Pattern=ik, Pattern=met
+	Constrained: 
+Turn ID=2| A | A : rond handvatje waar een soort van staaf doorheen zijn steken
+	Free: Pattern=staaf, Pattern=zijn
+	Constrained: 
+Turn ID=3| A | A : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=4| A | A : en er zitten ook nog weer zo'n soort van konijnenoor aan vast maar die zitten aan de achterkant
+	Free: Pattern=zo'n, Pattern=aan, Pattern=aan de, Pattern=die, Pattern=en, Pattern=maar, Pattern=weer
+	Constrained: Pattern=aan, Pattern=de
+Turn ID=5| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=6| B | B : oké nou hebben jij
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=7| B | B : ja ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=8| B | B : en zijn aan de ander hebben die aan de bovenkant twee dinget
+	Free: Pattern=aan de, Pattern=en, Pattern=zijn, Pattern=die
+	Constrained: Pattern=aan, Pattern=de
+Turn ID=9| B | B : bovenop
+	Free: 
+	Constrained: 
+Turn ID=10| B | B : oké even kijken
+	Free: Pattern=even, Pattern=oké
+	Constrained: 
+Turn ID=11| B | B : ja wachten zo'n toeter ja
+	Free: Pattern=zo'n, Pattern=ja
+	Constrained: 
+Turn ID=12| B | B : het zijn het zijn zeggen maar zo'n bol met zo'n staaf erdoorheen
+	Free: Pattern=zo'n, Pattern=staaf erdoorheen, Pattern=met, Pattern=zijn, Pattern=maar
+	Constrained: Pattern=staaf
+Turn ID=13| B | B : en dan zo'n cirkel eraan
+	Free: Pattern=zo'n, Pattern=en
+	Constrained: 
+Turn ID=14| B | B : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=15| B | B : F
+	Free: 
+	Constrained: 
+Turn ID=16| A | A : ja dat die staaf erdoorheen even zoeken hoor ja dit zijn vijf
+	Free: Pattern=dat, Pattern=even, Pattern=die, Pattern=zijn, Pattern=staaf erdoorheen, Pattern=ja
+	Constrained: Pattern=staaf
+Turn ID=17| B | B : nu hebben ik weer die die toeter zeggen maar en dan bovenop
+	Free: Pattern=die, Pattern=ik, Pattern=en, Pattern=maar, Pattern=weer
+	Constrained: 
+Turn ID=18| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=19| A | A : dit zijn die met de neuspiercing
+	Free: Pattern=die met, Pattern=zijn, Pattern=de
+	Constrained: Pattern=die, Pattern=met
+Turn ID=20| A | A : dat zijn vijf
+	Free: Pattern=zijn, Pattern=dat
+	Constrained: 
+Turn ID=21| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=22| B | B : A
+	Free: 
+	Constrained: 
+Turn ID=23| A | A : de neuspiercing
+	Free: Pattern=de
+	Constrained: 
+Turn ID=24| B | B : die met die toeter weer en die dat blaad
+	Free: Pattern=dat, Pattern=die met, Pattern=die, Pattern=en, Pattern=weer
+	Constrained: Pattern=die, Pattern=met
+Turn ID=25| A | A : dat zijn vijftien
+	Free: Pattern=zijn, Pattern=dat
+	Constrained: 
+Turn ID=26| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=27| B | B : H
+	Free: 
+	Constrained: 
+Turn ID=28| B | B : die toeter en die de appelblaadje
+	Free: Pattern=en, Pattern=de, Pattern=die
+	Constrained: 

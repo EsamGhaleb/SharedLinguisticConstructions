@@ -1,0 +1,163 @@
+A|0| A: er _zitten_ _een_ _bovenop_ _zitten_ _een_ driehoek _met_ twee _staaf_ aan _de_ zijkant eruit 
+A|1| A: _en_ dan _zitten_ ervoor nog _een_ neus _en_ daaronder nog _een_ staart 
+A|2| A: _en_ aan _de_ zijkant _ook_ nog iets 
+A|3| A: _ja_ 
+B|4| B: [ja] 
+B|5| B: [en] 
+B|6| B: [ja] rechtsvoor of zoiets 
+B|7| B: [en] _die_ poot _hebben_ [een] soort _van_ kromming toch 
+B|8| B: [ja] 
+B|9| B: okee dat _zijn_ bij mij à 
+A|10| A: [ja] 
+A|11| A: _met_ 
+A|12| A: [ja] 
+A|13| A: [ja] 
+A|14| A: [ja] [en] aan _de_ bovenkant [zijn] _de_ driehoek 
+A|15| A: [ja] 
+A|16| A: [ja] 
+A|17| A: negen 
+B|18| B: deze _hebben_ onder [en] rechts kapstokding [en] naar voren steken [ook] [een] [staaf] [en] [bovenop] [zijn] [een] [een] vierkant [met] [een] punt _die_ [met] [de] punt zeggen maar erin [zitten] 
+B|19| B: [ja] 
+A|20| A: [bovenop] [zitten] [een] driehoek [met] twee [van] [die] pixelachtig dinget daaruit 
+A|21| A: onderop [zitten] [die] staart 
+A|22| A: [en] dan [hebben] je nog voor [en] aan [de] rechterkant nog twee dinget eruit komen 
+A|23| A: [bovenop] [die] driehoek 
+A|24| A: [met] twee pixel dinge 
+A|25| A: [ja] 
+A|26| A: [en] dan [een] staart aan [de] onderkant 
+A|27| A: [ja] 
+B|28| B: [ja] dat [zijn] o 
+B|29| B: dit [zijn] [met] onder [en] rechts [de] kapstokhak [en] [bovenop] [een] plat vierkant 
+B|30| B: [ja] 
+A|31| A: [zitten] er aan [de] rechterkant twee streepjes uit 
+A|32| A: [ja] 
+A|33| A: oké vijfteen 
+B|34| B: daar [ja] [ja] het spiegelen [een] beetje onder [een] plat [ja] dat [zijn] à 
+A|35| A: driehoek aan [de] bovenkant [met] twee [van] [die] pixeldinge eruit 
+B|36| B: [de] [de] kapstokk onder [en] rechts 
+A|37| A: [ja] 
+A|38| A: [en] [een] staart aan [de] ander kant 
+A|39| A: vijf 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : er zitten een bovenop zitten een driehoek met twee staaf aan de zijkant eruit
+	Free: Pattern=bovenop, Pattern=de, Pattern=staaf, Pattern=een, Pattern=met, Pattern=zitten
+	Constrained: 
+Turn ID=1| A | A : en dan zitten ervoor nog een neus en daaronder nog een staart
+	Free: Pattern=zitten, Pattern=een, Pattern=en
+	Constrained: 
+Turn ID=2| A | A : en aan de zijkant ook nog iets
+	Free: Pattern=en, Pattern=ook, Pattern=de
+	Constrained: 
+Turn ID=3| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=4| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=5| B | B : en
+	Free: Pattern=en
+	Constrained: 
+Turn ID=6| B | B : ja rechtsvoor of zoiets
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=7| B | B : en die poot hebben een soort van kromming toch
+	Free: Pattern=een, Pattern=hebben, Pattern=die, Pattern=van, Pattern=en
+	Constrained: 
+Turn ID=8| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=9| B | B : okee dat zijn bij mij à
+	Free: Pattern=zijn
+	Constrained: 
+Turn ID=10| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=11| A | A : met
+	Free: Pattern=met
+	Constrained: 
+Turn ID=12| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=13| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=14| A | A : ja en aan de bovenkant zijn de driehoek
+	Free: Pattern=en, Pattern=zijn, Pattern=de, Pattern=ja
+	Constrained: 
+Turn ID=15| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=16| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=17| A | A : negen
+	Free: 
+	Constrained: 
+Turn ID=18| B | B : deze hebben onder en rechts kapstokding en naar voren steken ook een staaf en bovenop zijn een een vierkant met een punt die met de punt zeggen maar erin zitten
+	Free: Pattern=bovenop, Pattern=de, Pattern=staaf, Pattern=ook, Pattern=een, Pattern=hebben, Pattern=met, Pattern=en, Pattern=zijn, Pattern=die, Pattern=zitten
+	Constrained: 
+Turn ID=19| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=20| A | A : bovenop zitten een driehoek met twee van die pixelachtig dinget daaruit
+	Free: Pattern=bovenop, Pattern=een, Pattern=met, Pattern=van, Pattern=die, Pattern=zitten
+	Constrained: 
+Turn ID=21| A | A : onderop zitten die staart
+	Free: Pattern=zitten, Pattern=die
+	Constrained: 
+Turn ID=22| A | A : en dan hebben je nog voor en aan de rechterkant nog twee dinget eruit komen
+	Free: Pattern=en, Pattern=de, Pattern=hebben
+	Constrained: 
+Turn ID=23| A | A : bovenop die driehoek
+	Free: Pattern=bovenop, Pattern=die
+	Constrained: 
+Turn ID=24| A | A : met twee pixel dinge
+	Free: Pattern=met
+	Constrained: 
+Turn ID=25| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=26| A | A : en dan een staart aan de onderkant
+	Free: Pattern=een, Pattern=en, Pattern=de
+	Constrained: 
+Turn ID=27| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=28| B | B : ja dat zijn o
+	Free: Pattern=zijn, Pattern=ja
+	Constrained: 
+Turn ID=29| B | B : dit zijn met onder en rechts de kapstokhak en bovenop een plat vierkant
+	Free: Pattern=bovenop, Pattern=de, Pattern=een, Pattern=met, Pattern=en, Pattern=zijn
+	Constrained: 
+Turn ID=30| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=31| A | A : zitten er aan de rechterkant twee streepjes uit
+	Free: Pattern=zitten, Pattern=de
+	Constrained: 
+Turn ID=32| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=33| A | A : oké vijfteen
+	Free: 
+	Constrained: 
+Turn ID=34| B | B : daar ja ja het spiegelen een beetje onder een plat ja dat zijn à
+	Free: Pattern=een, Pattern=zijn, Pattern=ja
+	Constrained: 
+Turn ID=35| A | A : driehoek aan de bovenkant met twee van die pixeldinge eruit
+	Free: Pattern=van, Pattern=met, Pattern=die, Pattern=de
+	Constrained: 
+Turn ID=36| B | B : de de kapstokk onder en rechts
+	Free: Pattern=en, Pattern=de
+	Constrained: 
+Turn ID=37| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=38| A | A : en een staart aan de ander kant
+	Free: Pattern=een, Pattern=en, Pattern=de
+	Constrained: 
+Turn ID=39| A | A : vijf
+	Free: 
+	Constrained: 

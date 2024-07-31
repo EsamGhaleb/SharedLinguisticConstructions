@@ -1,0 +1,191 @@
+A|0| A: _een schijf_ achter _het_ kop 
+B|1| B: _ik_ _hebben_ [het] rood 
+B|2| B: _ik_ vinden [het] wel _een beetje_ lijken op [een] cocktail 
+B|3| B: _met_ [een schijf] citroen misschien _een ja_ 
+B|4| B: _en dan_ _zitten er_ _een soort_ lepeltje boven 
+A|5| A: ok wat voor figuur _hebben je_ [er] allemaal in 
+B|6| B: _en_ [er] _zitten_ eigenlijk _aan de_ zijkant _dan_ [een] 
+B|7| B: [een] handvat 
+A|8| A: als in zien _je_ [een] vierkan _of_ [een] _rond_ 
+B|9| B: _ja_ 
+A|10| A: [ja] 
+A|11| A: [ja] 
+A|12| A: [ja] 
+A|13| A: ok _en dan aan de_ onderkant [zitten] [een soort] _van_ 
+A|14| A: [een beetje] rondig 
+A|15| A: ok _nou_ moeten [ik] [het] nummer _zeggen_ toch 
+A|16| A: dertien ? [en dan] [de] geel knop 
+A|17| A: ok deze [hebben] [een] ballonnetje [er] in [en] _zo'n_ [een] _rond_ [schijf] _maar_ _die_ [zitten er] _maar_ voor [de] helft _die_ _zijn_ _maar_ voor [de] helft zichtbaar [ja] _die_ [een ja] 
+A|18| A: [ja] [en] _dat_ blok onderin wat niet echt [een] blok _zijn_ 
+B|19| B: [ja] 
+B|20| B: [dat] [zijn] O 
+A|21| A: _nou_ _zijn het weer_ anders 
+A|22| A: [dat] blok achten 
+B|23| B: dit [zijn] [weer] [die] [soort] cocktail [zeggen] [maar] 
+B|24| B: _met dat_ kannet eronder 
+B|25| B: op [dat] 
+B|26| B: volgens mij [zijn het weer] [een] nieuw ronde trouwens 
+B|27| B: [nou] [ja] dus [zeggen] [maar] [dan] [hebben je] zo [zitten] stijgen [er] [zo'n] [soort] lepel _uit_ [en dan aan de] zijkant [zijn] [er] [aan de] [een] kant [zo'n] ding 
+B|28| B: [ja] [zo'n] [soort] balk [en dan] [dan] [zijn] [er] [zo'n] [rond] [ja] ananasschijfje citroenschijfje [of] zo 
+B|29| B: [ja] 
+B|30| B: [ja] 
+B|31| B: [ja] 
+A|32| A: ballonne [er] bovenin [en dan] [dat] half [schijf] [en] daar onderin [dat] blok [en] [een] [rond] wat [er] [uit] steken [zo'n] lang 
+A|33| A: [ja] 
+A|34| A: ballonne [er] [uit] 
+A|35| A: nog [een] keer 
+A|36| A: gewoon [het] gek blok [aan de] onderkant 
+A|37| A: zeven 
+B|38| B: cocktail waar [zijn] [je] 
+B|39| B: [ja] 
+B|40| B: ah C 
+B|41| B: [van] cocktail 
+B|42| B: [de] cocktail 
+A|43| A: [die] [met dat] gek blok [aan de] onderkant Ballonnetje [er] in half cirkel [en] [dat] dinge wat [er] [uit] steken 
+A|44| A: Jeuj 
+B|45| B: [de] cocktail C 
+B|46| B: [ja] 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : een schijf achter het kop
+	Free: Pattern=een schijf, Pattern=het
+	Constrained: Pattern=een, Pattern=schijf
+Turn ID=1| B | B : ik hebben het rood
+	Free: Pattern=het, Pattern=ik, Pattern=hebben
+	Constrained: 
+Turn ID=2| B | B : ik vinden het wel een beetje lijken op een cocktail
+	Free: Pattern=een beetje, Pattern=een, Pattern=het, Pattern=ik
+	Constrained: Pattern=een
+Turn ID=3| B | B : met een schijf citroen misschien een ja
+	Free: Pattern=een schijf, Pattern=een ja, Pattern=met
+	Constrained: Pattern=een, Pattern=schijf, Pattern=ja
+Turn ID=4| B | B : en dan zitten er een soort lepeltje boven
+	Free: Pattern=een soort, Pattern=zitten er, Pattern=en dan
+	Constrained: Pattern=soort, Pattern=dan, Pattern=een, Pattern=zitten, Pattern=er, Pattern=en
+Turn ID=5| A | A : ok wat voor figuur hebben je er allemaal in
+	Free: Pattern=hebben je, Pattern=er
+	Constrained: Pattern=je, Pattern=hebben
+Turn ID=6| B | B : en er zitten eigenlijk aan de zijkant dan een
+	Free: Pattern=aan de, Pattern=dan, Pattern=een, Pattern=zitten, Pattern=er, Pattern=en
+	Constrained: Pattern=de
+Turn ID=7| B | B : een handvat
+	Free: Pattern=een
+	Constrained: 
+Turn ID=8| A | A : als in zien je een vierkan of een rond
+	Free: Pattern=een, Pattern=je, Pattern=of, Pattern=rond
+	Constrained: 
+Turn ID=9| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=10| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=11| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=12| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=13| A | A : ok en dan aan de onderkant zitten een soort van
+	Free: Pattern=en dan aan de, Pattern=een soort, Pattern=van, Pattern=zitten
+	Constrained: Pattern=soort, Pattern=de, Pattern=en dan, Pattern=aan de, Pattern=dan, Pattern=een, Pattern=en
+Turn ID=14| A | A : een beetje rondig
+	Free: Pattern=een beetje
+	Constrained: Pattern=een
+Turn ID=15| A | A : ok nou moeten ik het nummer zeggen toch
+	Free: Pattern=het, Pattern=ik, Pattern=nou, Pattern=zeggen
+	Constrained: 
+Turn ID=16| A | A : dertien ? en dan de geel knop
+	Free: Pattern=en dan, Pattern=de
+	Constrained: Pattern=en, Pattern=dan
+Turn ID=17| A | A : ok deze hebben een ballonnetje er in en zo'n een rond schijf maar die zitten er maar voor de helft die zijn maar voor de helft zichtbaar ja die een ja
+	Free: Pattern=zo'n, Pattern=een, Pattern=die, Pattern=er, Pattern=rond, Pattern=de, Pattern=ja, Pattern=hebben, Pattern=schijf, Pattern=en, Pattern=een ja, Pattern=zijn, Pattern=maar, Pattern=zitten er
+	Constrained: Pattern=een, Pattern=er, Pattern=zitten, Pattern=ja
+Turn ID=18| A | A : ja en dat blok onderin wat niet echt een blok zijn
+	Free: Pattern=dat, Pattern=ja, Pattern=een, Pattern=en, Pattern=zijn
+	Constrained: 
+Turn ID=19| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=20| B | B : dat zijn O
+	Free: Pattern=dat, Pattern=zijn
+	Constrained: 
+Turn ID=21| A | A : nou zijn het weer anders
+	Free: Pattern=zijn het weer, Pattern=nou
+	Constrained: Pattern=weer, Pattern=het, Pattern=zijn
+Turn ID=22| A | A : dat blok achten
+	Free: Pattern=dat
+	Constrained: 
+Turn ID=23| B | B : dit zijn weer die soort cocktail zeggen maar
+	Free: Pattern=soort, Pattern=zeggen, Pattern=die, Pattern=weer, Pattern=zijn, Pattern=maar
+	Constrained: 
+Turn ID=24| B | B : met dat kannet eronder
+	Free: Pattern=met dat
+	Constrained: Pattern=dat, Pattern=met
+Turn ID=25| B | B : op dat
+	Free: Pattern=dat
+	Constrained: 
+Turn ID=26| B | B : volgens mij zijn het weer een nieuw ronde trouwens
+	Free: Pattern=zijn het weer, Pattern=een
+	Constrained: Pattern=weer, Pattern=het, Pattern=zijn
+Turn ID=27| B | B : nou ja dus zeggen maar dan hebben je zo zitten stijgen er zo'n soort lepel uit en dan aan de zijkant zijn er aan de een kant zo'n ding
+	Free: Pattern=soort, Pattern=ja, Pattern=dan, Pattern=een, Pattern=zeggen, Pattern=zitten, Pattern=en dan aan de, Pattern=er, Pattern=hebben je, Pattern=zo'n, Pattern=nou, Pattern=uit, Pattern=aan de, Pattern=zijn, Pattern=maar
+	Constrained: Pattern=de, Pattern=en dan, Pattern=aan de, Pattern=dan, Pattern=hebben, Pattern=en, Pattern=je
+Turn ID=28| B | B : ja zo'n soort balk en dan dan zijn er zo'n rond ja ananasschijfje citroenschijfje of zo
+	Free: Pattern=of, Pattern=soort, Pattern=zo'n, Pattern=ja, Pattern=en dan, Pattern=dan, Pattern=er, Pattern=rond, Pattern=zijn
+	Constrained: Pattern=en, Pattern=dan
+Turn ID=29| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=30| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=31| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=32| A | A : ballonne er bovenin en dan dat half schijf en daar onderin dat blok en een rond wat er uit steken zo'n lang
+	Free: Pattern=dat, Pattern=zo'n, Pattern=en dan, Pattern=uit, Pattern=een, Pattern=schijf, Pattern=er, Pattern=en, Pattern=rond
+	Constrained: Pattern=en, Pattern=dan
+Turn ID=33| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=34| A | A : ballonne er uit
+	Free: Pattern=er, Pattern=uit
+	Constrained: 
+Turn ID=35| A | A : nog een keer
+	Free: Pattern=een
+	Constrained: 
+Turn ID=36| A | A : gewoon het gek blok aan de onderkant
+	Free: Pattern=aan de, Pattern=het
+	Constrained: Pattern=de
+Turn ID=37| A | A : zeven
+	Free: 
+	Constrained: 
+Turn ID=38| B | B : cocktail waar zijn je
+	Free: Pattern=je, Pattern=zijn
+	Constrained: 
+Turn ID=39| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=40| B | B : ah C
+	Free: 
+	Constrained: 
+Turn ID=41| B | B : van cocktail
+	Free: Pattern=van
+	Constrained: 
+Turn ID=42| B | B : de cocktail
+	Free: Pattern=de
+	Constrained: 
+Turn ID=43| A | A : die met dat gek blok aan de onderkant Ballonnetje er in half cirkel en dat dinge wat er uit steken
+	Free: Pattern=dat, Pattern=met dat, Pattern=die, Pattern=er, Pattern=en, Pattern=uit, Pattern=aan de
+	Constrained: Pattern=dat, Pattern=de, Pattern=met
+Turn ID=44| A | A : Jeuj
+	Free: 
+	Constrained: 
+Turn ID=45| B | B : de cocktail C
+	Free: Pattern=de
+	Constrained: 
+Turn ID=46| B | B : ja
+	Free: Pattern=ja
+	Constrained: 

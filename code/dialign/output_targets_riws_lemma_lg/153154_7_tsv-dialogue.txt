@@ -1,0 +1,239 @@
+B|0| B: _dit_ vinden _ik_ _een soort_ lastig ding 
+B|1| B: _het zijn een_ kop hij _staan_ nergens _op_ hij _hebben_ halverwege _een heel_ lang _stok_ _en_ _twee van die_ poo _waar_ eigenlijk _zo'n_ _dat_ _op_ _zullen_ moeten rusten 
+A|2| A: [het zijn [een] soort] [van] kruiwagen [zullen] [het] _kunnen_ [zijn] 
+B|3| B: _en_ [een] 
+B|4| B: _ja_ _en_ [het] _hebben_ [een] 
+A|5| A: _met_ aan _de_ links _kant_ [een heel] smal _staaf_ wat _zo_ omhooggaan 
+A|6| A: _of_ [hebben] _je_ nu [een] _ander_ 
+B|7| B: _ja_ _maar_ _wel_ _bij_ [het] kop _zeggen maar_ 
+B|8| B: _niet_ _bij_ _dat_ _die stok_ lopen nog door 
+B|9| B: [of] _ik_ noemen [het] _maar_ even _stok_ 
+A|10| A: [hebben] _die [een_ soort] [van] omgekeerde _piramide_ aan _de_ _rechts_ _kant_ _zitten_ [zeggen maar] ? _de_ punt zien _je_ daarvan [niet] 
+B|11| B: _ja_ 
+B|12| B: [die] [zitten] daar nog bovenop 
+B|13| B: _ja_ 
+B|14| B: [die] [zitten] nog in _dat_ _stok_ noemen _ik_ [het] _dan_ 
+A|15| A: [ja] 
+A|16| A: [ja] [ja] [het zijn een] beetje alsof [die] [twee] punt [die] uit [die stok] _kunnen_ komen alsof [dat] [een soort] [van] handvaten [zullen] _kunnen_ [zijn] _als je hem_ 3D wat veel bekijken 
+B|17| B: _en dan_ _twee van die_ poo 
+B|18| B: [ja] 
+B|19| B: [ja] [of] [als je hem] neer _zo kunnen_ zetten _ergens op_ 
+A|20| A: [ja] [ja] [ja] [ja] [ja] [ja] 
+B|21| B: [ja] 
+A|22| A: [en dan] [maar] wat [dan] [wel] belangrijk [zijn] [dat] aan _de_ zijkant [zitten] er dus [zo'n] [soort] [van] punt omhoog [zeggen maar] 
+B|23| B: [ja] [rechts] 
+B|24| B: _link_ 
+A|25| A: [ja] [link] 
+B|26| B: _ik_ vinden [het] [heel] moeilijk om [dat] [de] [ander] [kant] [het] [zo] 
+A|27| A: [ja] [ik] doen [hem] na [maar] [ja] 
+B|28| B: [ja] 
+A|29| A: aan [de] links [kant] [zitten] [een soort] [van] slurf omhoog 
+B|30| B: [ja] 
+B|31| B: [ja] [een soort] staart 
+A|32| A: [ja] nee [dan] [dan] weten [ik] [hem] [ja] 
+B|33| B: [ja] 
+A|34| A: [zijn] zestien 
+A|35| A: [bij] mij [zijn] [het] _die een_ [die] [ik] waarvan jij denken we [kunnen] [hem] wegzetten [ergens op] [ik] denken [dat] [het] [een] kruiwagen [zijn] _met_ [twee van die] handvat [die] [je] [zo kunnen] pakken 
+B|36| B: [ja] 
+A|37| A: _met die _piramide_ erin_ 
+B|38| B: [ja] 
+B|39| B: [ja] hebbes 
+A|40| A: [ja] 
+B|41| B: _dat zijn_ P 
+B|42| B: _dit zijn die een met die_ half [piramide erin] 
+B|43| B: [en dan] [met die] [staaf] daarboven 
+A|44| A: _ja die_ kruiwag 
+B|45| B: [ja die] 
+A|46| A: [ja] 
+A|47| A: [dat zijn] nummer veertien [bij] mij 
+A|48| A: [dit zijn die een met die] kruiwag _met die piramide_ [die] er ondersteboven [op] liggen [zeggen maar] 
+B|49| B: [ja] 
+B|50| B: hebbes 
+B|51| B: N 
+B|52| B: [dit zijn die een [met die] piramide] [en] [die] [dat] [dat] ding 
+A|53| A: [ja] [de] kruiwag 
+B|54| B: [ja] 
+A|55| A: [waar] [staan] [die] ? tien 
+A|56| A: [de] kruiwag [met die piramide] [die] erop liggen 
+B|57| B: [ja] 
+B|58| B: d 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : dit vinden ik een soort lastig ding
+	Free: Pattern=een soort, Pattern=dit, Pattern=ik
+	Constrained: Pattern=een, Pattern=soort
+Turn ID=1| B | B : het zijn een kop hij staan nergens op hij hebben halverwege een heel lang stok en twee van die poo waar eigenlijk zo'n dat op zullen moeten rusten
+	Free: Pattern=dat, Pattern=zullen, Pattern=zo'n, Pattern=waar, Pattern=op, Pattern=het zijn een, Pattern=staan, Pattern=hebben, Pattern=stok, Pattern=en, Pattern=twee van die, Pattern=een heel
+	Constrained: Pattern=heel, Pattern=twee, Pattern=een, Pattern=het, Pattern=die, Pattern=van, Pattern=zijn
+Turn ID=2| A | A : het zijn een soort van kruiwagen zullen het kunnen zijn
+	Free: Pattern=zullen, Pattern=kunnen, Pattern=het zijn een, Pattern=het, Pattern=een soort, Pattern=van, Pattern=zijn
+	Constrained: Pattern=een, Pattern=zijn, Pattern=soort, Pattern=het
+Turn ID=3| B | B : en een
+	Free: Pattern=een, Pattern=en
+	Constrained: 
+Turn ID=4| B | B : ja en het hebben een
+	Free: Pattern=ja, Pattern=een, Pattern=het, Pattern=hebben, Pattern=en
+	Constrained: 
+Turn ID=5| A | A : met aan de links kant een heel smal staaf wat zo omhooggaan
+	Free: Pattern=een heel, Pattern=kant, Pattern=de, Pattern=staaf, Pattern=zo, Pattern=met
+	Constrained: Pattern=een, Pattern=heel
+Turn ID=6| A | A : of hebben je nu een ander
+	Free: Pattern=of, Pattern=een, Pattern=hebben, Pattern=ander, Pattern=je
+	Constrained: 
+Turn ID=7| B | B : ja maar wel bij het kop zeggen maar
+	Free: Pattern=ja, Pattern=wel, Pattern=zeggen maar, Pattern=het, Pattern=bij, Pattern=maar
+	Constrained: Pattern=maar
+Turn ID=8| B | B : niet bij dat die stok lopen nog door
+	Free: Pattern=die stok, Pattern=niet, Pattern=dat, Pattern=bij
+	Constrained: Pattern=stok, Pattern=die
+Turn ID=9| B | B : of ik noemen het maar even stok
+	Free: Pattern=of, Pattern=het, Pattern=maar, Pattern=ik, Pattern=stok
+	Constrained: 
+Turn ID=10| A | A : hebben die een soort van omgekeerde piramide aan de rechts kant zitten zeggen maar ? de punt zien je daarvan niet
+	Free: Pattern=kant, Pattern=piramide, Pattern=niet, Pattern=zeggen maar, Pattern=hebben, Pattern=zitten, Pattern=die een, Pattern=een soort, Pattern=van, Pattern=je, Pattern=de, Pattern=rechts
+	Constrained: Pattern=een, Pattern=maar, Pattern=die, Pattern=soort
+Turn ID=11| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=12| B | B : die zitten daar nog bovenop
+	Free: Pattern=zitten, Pattern=die
+	Constrained: 
+Turn ID=13| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=14| B | B : die zitten nog in dat stok noemen ik het dan
+	Free: Pattern=dat, Pattern=dan, Pattern=het, Pattern=die, Pattern=zitten, Pattern=ik, Pattern=stok
+	Constrained: 
+Turn ID=15| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=16| A | A : ja ja het zijn een beetje alsof die twee punt die uit die stok kunnen komen alsof dat een soort van handvaten zullen kunnen zijn als je hem 3D wat veel bekijken
+	Free: Pattern=dat, Pattern=ja, Pattern=het zijn een, Pattern=die, Pattern=als je hem, Pattern=een soort, Pattern=van, Pattern=zijn, Pattern=die stok, Pattern=zullen, Pattern=twee, Pattern=kunnen
+	Constrained: Pattern=soort, Pattern=een, Pattern=het, Pattern=die, Pattern=stok, Pattern=zijn, Pattern=je, Pattern=hem
+Turn ID=17| B | B : en dan twee van die poo
+	Free: Pattern=twee van die, Pattern=en dan
+	Constrained: Pattern=twee, Pattern=dan, Pattern=die, Pattern=van, Pattern=en
+Turn ID=18| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=19| B | B : ja of als je hem neer zo kunnen zetten ergens op
+	Free: Pattern=ja, Pattern=als je hem, Pattern=ergens op, Pattern=zo kunnen, Pattern=of
+	Constrained: Pattern=kunnen, Pattern=op, Pattern=zo, Pattern=je, Pattern=hem
+Turn ID=20| A | A : ja ja ja ja ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=21| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=22| A | A : en dan maar wat dan wel belangrijk zijn dat aan de zijkant zitten er dus zo'n soort van punt omhoog zeggen maar
+	Free: Pattern=dat, Pattern=soort, Pattern=zo'n, Pattern=de, Pattern=en dan, Pattern=dan, Pattern=wel, Pattern=zeggen maar, Pattern=zitten, Pattern=van, Pattern=zijn, Pattern=maar
+	Constrained: Pattern=dan, Pattern=maar, Pattern=en
+Turn ID=23| B | B : ja rechts
+	Free: Pattern=rechts, Pattern=ja
+	Constrained: 
+Turn ID=24| B | B : link
+	Free: Pattern=link
+	Constrained: 
+Turn ID=25| A | A : ja link
+	Free: Pattern=link, Pattern=ja
+	Constrained: 
+Turn ID=26| B | B : ik vinden het heel moeilijk om dat de ander kant het zo
+	Free: Pattern=heel, Pattern=de, Pattern=het, Pattern=zo, Pattern=dat, Pattern=kant, Pattern=ik, Pattern=ander
+	Constrained: 
+Turn ID=27| A | A : ja ik doen hem na maar ja
+	Free: Pattern=ik, Pattern=hem, Pattern=maar, Pattern=ja
+	Constrained: 
+Turn ID=28| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=29| A | A : aan de links kant zitten een soort van slurf omhoog
+	Free: Pattern=kant, Pattern=de, Pattern=zitten, Pattern=een soort, Pattern=van
+	Constrained: Pattern=een, Pattern=soort
+Turn ID=30| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=31| B | B : ja een soort staart
+	Free: Pattern=een soort, Pattern=ja
+	Constrained: Pattern=een, Pattern=soort
+Turn ID=32| A | A : ja nee dan dan weten ik hem ja
+	Free: Pattern=dan, Pattern=ik, Pattern=hem, Pattern=ja
+	Constrained: 
+Turn ID=33| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=34| A | A : zijn zestien
+	Free: Pattern=zijn
+	Constrained: 
+Turn ID=35| A | A : bij mij zijn het die een die ik waarvan jij denken we kunnen hem wegzetten ergens op ik denken dat het een kruiwagen zijn met twee van die handvat die je zo kunnen pakken
+	Free: Pattern=twee van die, Pattern=dat, Pattern=zo kunnen, Pattern=kunnen, Pattern=een, Pattern=het, Pattern=met, Pattern=die, Pattern=die een, Pattern=bij, Pattern=ik, Pattern=je, Pattern=hem, Pattern=ergens op, Pattern=zijn
+	Constrained: Pattern=op, Pattern=een, Pattern=zo, Pattern=die, Pattern=van, Pattern=twee, Pattern=kunnen
+Turn ID=36| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=37| A | A : met die piramide erin
+	Free: Pattern=met die piramide, Pattern=piramide erin
+	Constrained: Pattern=piramide, Pattern=met, Pattern=die, Pattern=met die
+Turn ID=38| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=39| B | B : ja hebbes
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=40| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=41| B | B : dat zijn P
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=42| B | B : dit zijn die een met die half piramide erin
+	Free: Pattern=dit zijn die een met die, Pattern=piramide erin
+	Constrained: Pattern=met die, Pattern=piramide, Pattern=een, Pattern=dit, Pattern=met, Pattern=die, Pattern=die een, Pattern=zijn
+Turn ID=43| B | B : en dan met die staaf daarboven
+	Free: Pattern=en dan, Pattern=met die, Pattern=staaf
+	Constrained: Pattern=dan, Pattern=die, Pattern=en, Pattern=met
+Turn ID=44| A | A : ja die kruiwag
+	Free: Pattern=ja die
+	Constrained: Pattern=ja, Pattern=die
+Turn ID=45| B | B : ja die
+	Free: Pattern=ja die
+	Constrained: Pattern=ja, Pattern=die
+Turn ID=46| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=47| A | A : dat zijn nummer veertien bij mij
+	Free: Pattern=dat zijn, Pattern=bij
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=48| A | A : dit zijn die een met die kruiwag met die piramide die er ondersteboven op liggen zeggen maar
+	Free: Pattern=op, Pattern=met die piramide, Pattern=zeggen maar, Pattern=die, Pattern=dit zijn die een met die
+	Constrained: Pattern=met die, Pattern=piramide, Pattern=een, Pattern=dit, Pattern=met, Pattern=die, Pattern=die een, Pattern=zijn, Pattern=maar
+Turn ID=49| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=50| B | B : hebbes
+	Free: 
+	Constrained: 
+Turn ID=51| B | B : N
+	Free: 
+	Constrained: 
+Turn ID=52| B | B : dit zijn die een met die piramide en die dat dat ding
+	Free: Pattern=dat, Pattern=met die piramide, Pattern=die, Pattern=en, Pattern=dit zijn die een met die
+	Constrained: Pattern=met die, Pattern=piramide, Pattern=een, Pattern=dit, Pattern=met, Pattern=die, Pattern=die een, Pattern=zijn
+Turn ID=53| A | A : ja de kruiwag
+	Free: Pattern=ja, Pattern=de
+	Constrained: 
+Turn ID=54| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=55| A | A : waar staan die ? tien
+	Free: Pattern=waar, Pattern=die, Pattern=staan
+	Constrained: 
+Turn ID=56| A | A : de kruiwag met die piramide die erop liggen
+	Free: Pattern=met die piramide, Pattern=de, Pattern=die
+	Constrained: Pattern=piramide, Pattern=met, Pattern=die, Pattern=met die
+Turn ID=57| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=58| B | B : d
+	Free: 
+	Constrained: 

@@ -1,0 +1,111 @@
+B|0| B: _ja_ 
+B|1| B: _aan de_ zijkant 
+B|2| B: _ja_ 
+B|3| B: _ja_ oké _dan_ _zijn_ _het_ E 
+A|4| A: _deze hebben_ [ja] hoe hoe leggen je _dat_ uit ? [het] [zijn] zeggen maar klokslag negen uur 
+A|5| A: vinden _ik_ _dat_ _hebben_ _ik_ ervan maken 
+A|6| A: omdat je dus _een_ stuk richting [de] negen _hebben_ _en_ _een_ stuk richting [de] twaalf 
+A|7| A: _en _dat_ zijn_ _een_ soort van bloemblaad van _een_ margriet of zo 
+A|8| A: _en dan_ zitten er _nog_ _een_ soort slurf [aan de] achterkant _en_ [aan de] schuin _voorkant_ _een_ _een_ soort kubus _die_ steeds groot worden 
+A|9| A: [ja] ? _hebben_ je hem door 
+B|10| B: oké [deze hebben] [een] _dit zijn_ [die] plantje in [een] pot 
+B|11| B: [en dan] ook één [aan de] zijkant [en] [die] toren [aan de] [voorkant] 
+A|12| A: [ja] [dan] [ja] [dan] weten _ik_ hem meteen 
+A|13| A: _ja ja ja ja_ 
+A|14| A: elf 
+B|15| B: [ja ja ja] [dat zijn] J 
+B|16| B: [ik] [hebben] diegene met [die] plant in [die] pot [en dan] ook [nog] [de] zo'n zelfde vorm [aan de] zijkant 
+B|17| B: [en] zo'n toren [aan de] [voorkant] 
+A|18| A: [dit zijn] negen uur 
+A|19| A: _ja _ja ja ja ja_ ja_ 
+B|20| B: plant 
+B|21| B: [ja ja ja ja ja] 
+B|22| B: [dat zijn] B 
+A|23| A: negen 
+B|24| B: oké [ik] [hebben] [die] plant in [die] pot met diezelfde uitsteeksel [en dat] toren 
+A|25| A: [dit zijn] negen uur 
+A|26| A: [dat zijn] vier 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=1| B | B : aan de zijkant
+	Free: Pattern=aan de
+	Constrained: Pattern=de
+Turn ID=2| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=3| B | B : ja oké dan zijn het E
+	Free: Pattern=zijn, Pattern=het, Pattern=ja, Pattern=dan
+	Constrained: 
+Turn ID=4| A | A : deze hebben ja hoe hoe leggen je dat uit ? het zijn zeggen maar klokslag negen uur
+	Free: Pattern=dat, Pattern=ja, Pattern=het, Pattern=deze hebben, Pattern=zijn
+	Constrained: Pattern=hebben
+Turn ID=5| A | A : vinden ik dat hebben ik ervan maken
+	Free: Pattern=hebben, Pattern=ik, Pattern=dat
+	Constrained: 
+Turn ID=6| A | A : omdat je dus een stuk richting de negen hebben en een stuk richting de twaalf
+	Free: Pattern=de, Pattern=hebben, Pattern=en, Pattern=een
+	Constrained: 
+Turn ID=7| A | A : en dat zijn een soort van bloemblaad van een margriet of zo
+	Free: Pattern=dat zijn, Pattern=en dat, Pattern=een
+	Constrained: Pattern=zijn, Pattern=dat, Pattern=en
+Turn ID=8| A | A : en dan zitten er nog een soort slurf aan de achterkant en aan de schuin voorkant een een soort kubus die steeds groot worden
+	Free: Pattern=nog, Pattern=en dan, Pattern=aan de, Pattern=voorkant, Pattern=een, Pattern=die, Pattern=en
+	Constrained: Pattern=de, Pattern=en, Pattern=dan
+Turn ID=9| A | A : ja ? hebben je hem door
+	Free: Pattern=hebben, Pattern=ja
+	Constrained: 
+Turn ID=10| B | B : oké deze hebben een dit zijn die plantje in een pot
+	Free: Pattern=deze hebben, Pattern=dit zijn, Pattern=die, Pattern=een
+	Constrained: Pattern=zijn, Pattern=hebben
+Turn ID=11| B | B : en dan ook één aan de zijkant en die toren aan de voorkant
+	Free: Pattern=en dan, Pattern=aan de, Pattern=voorkant, Pattern=die, Pattern=en
+	Constrained: Pattern=de, Pattern=en, Pattern=dan
+Turn ID=12| A | A : ja dan ja dan weten ik hem meteen
+	Free: Pattern=ik, Pattern=ja, Pattern=dan
+	Constrained: 
+Turn ID=13| A | A : ja ja ja ja
+	Free: Pattern=ja ja ja ja
+	Constrained: Pattern=ja ja ja, Pattern=ja
+Turn ID=14| A | A : elf
+	Free: 
+	Constrained: 
+Turn ID=15| B | B : ja ja ja dat zijn J
+	Free: Pattern=ja ja ja, Pattern=dat zijn
+	Constrained: Pattern=zijn, Pattern=ja, Pattern=dat
+Turn ID=16| B | B : ik hebben diegene met die plant in die pot en dan ook nog de zo'n zelfde vorm aan de zijkant
+	Free: Pattern=nog, Pattern=de, Pattern=en dan, Pattern=aan de, Pattern=hebben, Pattern=die, Pattern=ik
+	Constrained: Pattern=de, Pattern=en, Pattern=dan
+Turn ID=17| B | B : en zo'n toren aan de voorkant
+	Free: Pattern=aan de, Pattern=voorkant, Pattern=en
+	Constrained: Pattern=de
+Turn ID=18| A | A : dit zijn negen uur
+	Free: Pattern=dit zijn
+	Constrained: Pattern=zijn
+Turn ID=19| A | A : ja ja ja ja ja ja
+	Free: Pattern=ja ja ja ja ja
+	Constrained: Pattern=ja ja ja ja, Pattern=ja ja ja, Pattern=ja
+Turn ID=20| B | B : plant
+	Free: 
+	Constrained: 
+Turn ID=21| B | B : ja ja ja ja ja
+	Free: Pattern=ja ja ja ja ja
+	Constrained: Pattern=ja ja ja ja, Pattern=ja ja ja, Pattern=ja
+Turn ID=22| B | B : dat zijn B
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=23| A | A : negen
+	Free: 
+	Constrained: 
+Turn ID=24| B | B : oké ik hebben die plant in die pot met diezelfde uitsteeksel en dat toren
+	Free: Pattern=en dat, Pattern=die, Pattern=hebben, Pattern=ik
+	Constrained: Pattern=dat, Pattern=en
+Turn ID=25| A | A : dit zijn negen uur
+	Free: Pattern=dit zijn
+	Constrained: Pattern=zijn
+Turn ID=26| A | A : dat zijn vier
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn, Pattern=dat

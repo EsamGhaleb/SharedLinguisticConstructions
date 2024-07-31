@@ -1,0 +1,107 @@
+A|0| A: oké dit noemen _ik_ _een_ gieter 
+A|1| A: hij _hebben_ namelijk _aan de_ zowel linker als rechterkant _een_ _een_ soort _van_ uitteeksel _met_ _een_ bolle _aan_ het einde 
+A|2| A: _ja_ 
+B|3| B: [ja] nou die _dat_ zien zitten allemaal [aan de] achterkant [van] _dat_ ding 
+B|4| B: of niet 
+B|5| B: [ik] [ik] vinden hem [een] beetje op [een] honkbalknuppel lijken die achter [een] kop liggen 
+B|6| B: [ja] 
+B|7| B: K 
+A|8| A: [ja] 
+A|9| A: [ja] _dat zijn_ negen 
+B|10| B: nu [hebben] [ik] _weer_ die [met] die [met] die hoe heten [dat] ? [met] die honkbalknuppel 
+A|11| A: oké dit _zijn_ [de] gieter 
+A|12| A: [ja] _dat zijn_ [weer] _even_ zoeken 
+A|13| A: oké _dat zijn_ drie 
+B|14| B: [ja] 
+B|15| B: honkbalknuppel 
+B|16| B: [ja] 
+B|17| B: [even] kijken [dat zijn] F 
+A|18| A: [de] gieter 
+B|19| B: die honkbalknuppel 
+B|20| B: [hebben] [ik] nu 
+A|21| A: [dat zijn] vijf 
+B|22| B: [ja] 
+B|23| B: L 
+B|24| B: die honkbalknuppel 
+B|25| B: of elektrisch fiets 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : oké dit noemen ik een gieter
+	Free: Pattern=een, Pattern=ik
+	Constrained: 
+Turn ID=1| A | A : hij hebben namelijk aan de zowel linker als rechterkant een een soort van uitteeksel met een bolle aan het einde
+	Free: Pattern=aan, Pattern=aan de, Pattern=een, Pattern=hebben, Pattern=met, Pattern=van
+	Constrained: Pattern=aan, Pattern=de
+Turn ID=2| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=3| B | B : ja nou die dat zien zitten allemaal aan de achterkant van dat ding
+	Free: Pattern=aan de, Pattern=ja, Pattern=van, Pattern=dat
+	Constrained: Pattern=aan, Pattern=de
+Turn ID=4| B | B : of niet
+	Free: 
+	Constrained: 
+Turn ID=5| B | B : ik ik vinden hem een beetje op een honkbalknuppel lijken die achter een kop liggen
+	Free: Pattern=een, Pattern=ik
+	Constrained: 
+Turn ID=6| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=7| B | B : K
+	Free: 
+	Constrained: 
+Turn ID=8| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=9| A | A : ja dat zijn negen
+	Free: Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=10| B | B : nu hebben ik weer die met die met die hoe heten dat ? met die honkbalknuppel
+	Free: Pattern=dat, Pattern=hebben, Pattern=met, Pattern=ik, Pattern=weer
+	Constrained: 
+Turn ID=11| A | A : oké dit zijn de gieter
+	Free: Pattern=de, Pattern=zijn
+	Constrained: 
+Turn ID=12| A | A : ja dat zijn weer even zoeken
+	Free: Pattern=dat zijn, Pattern=weer, Pattern=ja, Pattern=even
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=13| A | A : oké dat zijn drie
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=14| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=15| B | B : honkbalknuppel
+	Free: 
+	Constrained: 
+Turn ID=16| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=17| B | B : even kijken dat zijn F
+	Free: Pattern=dat zijn, Pattern=even
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=18| A | A : de gieter
+	Free: Pattern=de
+	Constrained: 
+Turn ID=19| B | B : die honkbalknuppel
+	Free: 
+	Constrained: 
+Turn ID=20| B | B : hebben ik nu
+	Free: Pattern=hebben, Pattern=ik
+	Constrained: 
+Turn ID=21| A | A : dat zijn vijf
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=22| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=23| B | B : L
+	Free: 
+	Constrained: 
+Turn ID=24| B | B : die honkbalknuppel
+	Free: 
+	Constrained: 
+Turn ID=25| B | B : of elektrisch fiets
+	Free: 
+	Constrained: 

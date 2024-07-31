@@ -1,0 +1,159 @@
+A|0| A: die zitten net _op_ _het_ hoek 
+A|1| A: die _er_ eigenlijk _bijna af vallen_ 
+A|2| A: oké 
+A|3| A: nummer twaalf 
+B|4| B: _deze_ _zijn_ [het] lijken _een_ _beetje_ [op] _een_ [op] _een_ beeld 
+B|5| B: _zo'n_ _zo'n_ kromming _ook_ weten _je_ wel 
+B|6| B: _bovenop_ staan staan _een_ _blok_ _dat_ [bijna] [vallen] 
+B|7| B: _en_ 
+B|8| B: _ja_ 
+B|9| B: _ja_ 
+B|10| B: _ja_ 
+B|11| B: _ja_ 
+A|12| A: oké 
+A|13| A: [deze] [ook] _al_ _hebben_ 
+A|14| A: in [het] midden zitten _er_ [een] klein [blok] [bovenop] [en] dan _hebben_ [je] weer [zo'n] [blok] wat _er_ eigenlijk [bijna] afvlen 
+A|15| A: die zitten helemaal rechts [bovenop] [het] kop 
+A|16| A: dus dan _hebben_ [je] eigenlijk twee 
+A|17| A: twee vierkant [op] [het] kop 
+A|18| A: één zitten midden [op] [het] kop [dat] vierkan [en] de ander die [ja] die zitten helemaal aan de zijkant rechts 
+A|19| A: [ja] 
+B|20| B: okee [ja] ik [hebben] hem [al] 
+B|21| B: [ja] 
+B|22| B: [dat] _zijn_ d 
+A|23| A: [ja] nummer vijf 
+A|24| A: hier [dat] twee [blok] eigenlijk [bovenop] [het] kop 
+A|25| A: één in [het] midden [en] die ander die iets groot [zijn] die _er_ [beetje] _bijna af vallen_ 
+B|26| B: [deze] [zijn] met [dat] [vallen] [blok] 
+B|27| B: [en] [dat] ding [dat] [dat] ergens [op] [op] staan met [een] met [een] [ja] 
+B|28| B: [op] [dat] standaard staan [ja] 
+A|29| A: oké 
+A|30| A: nummer negen 
+A|31| A: weer de twee [blok] [bovenop] , waar _er_ één _bijna af vallen_ 
+B|32| B: [ja] [ja] [ja] [dat] [zijn] k 
+B|33| B: dit [zijn] [dat] ding [op] [op] [een] standaard 
+B|34| B: [en] waaruit [het] [blok] [er] [bijna af vallen] 
+B|35| B: [ja] wachten even 
+B|36| B: ik zoeken 
+B|37| B: ah [ja] [ja] 
+B|38| B: l 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : die zitten net op het hoek
+	Free: Pattern=het, Pattern=op
+	Constrained: 
+Turn ID=1| A | A : die er eigenlijk bijna af vallen
+	Free: Pattern=bijna af vallen, Pattern=er
+	Constrained: Pattern=vallen, Pattern=bijna
+Turn ID=2| A | A : oké
+	Free: 
+	Constrained: 
+Turn ID=3| A | A : nummer twaalf
+	Free: 
+	Constrained: 
+Turn ID=4| B | B : deze zijn het lijken een beetje op een op een beeld
+	Free: Pattern=op, Pattern=beetje, Pattern=een, Pattern=het, Pattern=zijn, Pattern=deze
+	Constrained: 
+Turn ID=5| B | B : zo'n zo'n kromming ook weten je wel
+	Free: Pattern=ook, Pattern=je, Pattern=zo'n
+	Constrained: 
+Turn ID=6| B | B : bovenop staan staan een blok dat bijna vallen
+	Free: Pattern=een, Pattern=vallen, Pattern=blok, Pattern=bijna, Pattern=dat, Pattern=bovenop
+	Constrained: 
+Turn ID=7| B | B : en
+	Free: Pattern=en
+	Constrained: 
+Turn ID=8| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=9| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=10| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=11| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=12| A | A : oké
+	Free: 
+	Constrained: 
+Turn ID=13| A | A : deze ook al hebben
+	Free: Pattern=ook, Pattern=al, Pattern=hebben, Pattern=deze
+	Constrained: 
+Turn ID=14| A | A : in het midden zitten er een klein blok bovenop en dan hebben je weer zo'n blok wat er eigenlijk bijna afvlen
+	Free: Pattern=bovenop, Pattern=zo'n, Pattern=een, Pattern=het, Pattern=hebben, Pattern=er, Pattern=en, Pattern=blok, Pattern=je, Pattern=bijna
+	Constrained: 
+Turn ID=15| A | A : die zitten helemaal rechts bovenop het kop
+	Free: Pattern=bovenop, Pattern=het
+	Constrained: 
+Turn ID=16| A | A : dus dan hebben je eigenlijk twee
+	Free: Pattern=hebben, Pattern=je
+	Constrained: 
+Turn ID=17| A | A : twee vierkant op het kop
+	Free: Pattern=het, Pattern=op
+	Constrained: 
+Turn ID=18| A | A : één zitten midden op het kop dat vierkan en de ander die ja die zitten helemaal aan de zijkant rechts
+	Free: Pattern=dat, Pattern=ja, Pattern=op, Pattern=het, Pattern=en
+	Constrained: 
+Turn ID=19| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=20| B | B : okee ja ik hebben hem al
+	Free: Pattern=al, Pattern=hebben, Pattern=ja
+	Constrained: 
+Turn ID=21| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=22| B | B : dat zijn d
+	Free: Pattern=dat, Pattern=zijn
+	Constrained: 
+Turn ID=23| A | A : ja nummer vijf
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=24| A | A : hier dat twee blok eigenlijk bovenop het kop
+	Free: Pattern=bovenop, Pattern=dat, Pattern=blok, Pattern=het
+	Constrained: 
+Turn ID=25| A | A : één in het midden en die ander die iets groot zijn die er beetje bijna af vallen
+	Free: Pattern=bijna af vallen, Pattern=beetje, Pattern=het, Pattern=er, Pattern=en, Pattern=zijn
+	Constrained: Pattern=vallen, Pattern=bijna
+Turn ID=26| B | B : deze zijn met dat vallen blok
+	Free: Pattern=dat, Pattern=vallen, Pattern=blok, Pattern=zijn, Pattern=deze
+	Constrained: 
+Turn ID=27| B | B : en dat ding dat dat ergens op op staan met een met een ja
+	Free: Pattern=dat, Pattern=ja, Pattern=op, Pattern=een, Pattern=en
+	Constrained: 
+Turn ID=28| B | B : op dat standaard staan ja
+	Free: Pattern=dat, Pattern=ja, Pattern=op
+	Constrained: 
+Turn ID=29| A | A : oké
+	Free: 
+	Constrained: 
+Turn ID=30| A | A : nummer negen
+	Free: 
+	Constrained: 
+Turn ID=31| A | A : weer de twee blok bovenop , waar er één bijna af vallen
+	Free: Pattern=bijna af vallen, Pattern=er, Pattern=bovenop, Pattern=blok
+	Constrained: Pattern=vallen, Pattern=bijna
+Turn ID=32| B | B : ja ja ja dat zijn k
+	Free: Pattern=dat, Pattern=zijn, Pattern=ja
+	Constrained: 
+Turn ID=33| B | B : dit zijn dat ding op op een standaard
+	Free: Pattern=een, Pattern=dat, Pattern=zijn, Pattern=op
+	Constrained: 
+Turn ID=34| B | B : en waaruit het blok er bijna af vallen
+	Free: Pattern=bijna af vallen, Pattern=het, Pattern=er, Pattern=en, Pattern=blok
+	Constrained: Pattern=vallen, Pattern=bijna
+Turn ID=35| B | B : ja wachten even
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=36| B | B : ik zoeken
+	Free: 
+	Constrained: 
+Turn ID=37| B | B : ah ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=38| B | B : l
+	Free: 
+	Constrained: 

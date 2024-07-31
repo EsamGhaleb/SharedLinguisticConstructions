@@ -1,0 +1,115 @@
+A|0| A: dit plaat vinden ik _een_ beetje dit plaat _hebben_ _aan_ beide kant uitsteeksel _een_ soort van arm _en_ _aan de bovenkant_ _een_ _bolle_ wat _een_ soort van hoofd lijken 
+A|1| A: _en_ _aan de_ voorkant _een_ soort paal 
+A|2| A: _ja_ 
+A|3| A: _ja_ 
+A|4| A: daar komen _het_ eigenlijk wel op neer 
+B|5| B: _zijn het_ d 
+B|6| B: [ja] bij mij heten _die_ d dus 
+A|7| A: [ja] moeten ik wel even vinden 
+A|8| A: [ja] 
+A|9| A: nummer vijftien 
+B|10| B: oké 
+B|11| B: nou 
+B|12| B: nu [hebben] we weer [een] kop 
+B|13| B: [het] ballet zitten erbovenop 
+B|14| B: _met die_ twee armp _die_ eruit staken [en] _die_ balk ervoor 
+B|15| B: _met_ [het] balle erop 
+B|16| B: [ja] 
+B|17| B: oké 
+A|18| A: dit [zijn] _dat_ dik man [met die] stok in [zijn] rug 
+B|19| B: oké _dat zijn_ L 
+A|20| A: [dat zijn] zes 
+B|21| B: [het] [zijn] weer [het] [bolle] [aan de bovenkant] 
+B|22| B: _met de_ twee armp [en] [de] balk ervoor 
+A|23| A: dit [zijn het] dik man [met de] pilaar 
+B|24| B: [zijn] J 
+A|25| A: [ja] nummer drie 
+B|26| B: twee armp ballet [en] [de] balk ervoor 
+B|27| B: [en] [het] balle erop 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : dit plaat vinden ik een beetje dit plaat hebben aan beide kant uitsteeksel een soort van arm en aan de bovenkant een bolle wat een soort van hoofd lijken
+	Free: Pattern=aan, Pattern=een, Pattern=hebben, Pattern=bolle, Pattern=aan de bovenkant, Pattern=en
+	Constrained: Pattern=aan, Pattern=de, Pattern=aan de
+Turn ID=1| A | A : en aan de voorkant een soort paal
+	Free: Pattern=aan de, Pattern=een, Pattern=en
+	Constrained: Pattern=de, Pattern=aan
+Turn ID=2| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=3| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=4| A | A : daar komen het eigenlijk wel op neer
+	Free: Pattern=het
+	Constrained: 
+Turn ID=5| B | B : zijn het d
+	Free: Pattern=zijn het
+	Constrained: Pattern=zijn, Pattern=het
+Turn ID=6| B | B : ja bij mij heten die d dus
+	Free: Pattern=die, Pattern=ja
+	Constrained: 
+Turn ID=7| A | A : ja moeten ik wel even vinden
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=8| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=9| A | A : nummer vijftien
+	Free: 
+	Constrained: 
+Turn ID=10| B | B : oké
+	Free: 
+	Constrained: 
+Turn ID=11| B | B : nou
+	Free: 
+	Constrained: 
+Turn ID=12| B | B : nu hebben we weer een kop
+	Free: Pattern=hebben, Pattern=een
+	Constrained: 
+Turn ID=13| B | B : het ballet zitten erbovenop
+	Free: Pattern=het
+	Constrained: 
+Turn ID=14| B | B : met die twee armp die eruit staken en die balk ervoor
+	Free: Pattern=met die, Pattern=die, Pattern=en
+	Constrained: Pattern=die, Pattern=met
+Turn ID=15| B | B : met het balle erop
+	Free: Pattern=met, Pattern=het
+	Constrained: 
+Turn ID=16| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=17| B | B : oké
+	Free: 
+	Constrained: 
+Turn ID=18| A | A : dit zijn dat dik man met die stok in zijn rug
+	Free: Pattern=met die, Pattern=dat, Pattern=zijn
+	Constrained: Pattern=die, Pattern=met
+Turn ID=19| B | B : oké dat zijn L
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=20| A | A : dat zijn zes
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=21| B | B : het zijn weer het bolle aan de bovenkant
+	Free: Pattern=aan de bovenkant, Pattern=zijn, Pattern=bolle, Pattern=het
+	Constrained: Pattern=aan, Pattern=de, Pattern=aan de
+Turn ID=22| B | B : met de twee armp en de balk ervoor
+	Free: Pattern=met de, Pattern=de, Pattern=en
+	Constrained: Pattern=de, Pattern=met
+Turn ID=23| A | A : dit zijn het dik man met de pilaar
+	Free: Pattern=met de, Pattern=zijn het
+	Constrained: Pattern=zijn, Pattern=de, Pattern=met, Pattern=het
+Turn ID=24| B | B : zijn J
+	Free: Pattern=zijn
+	Constrained: 
+Turn ID=25| A | A : ja nummer drie
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=26| B | B : twee armp ballet en de balk ervoor
+	Free: Pattern=de, Pattern=en
+	Constrained: 
+Turn ID=27| B | B : en het balle erop
+	Free: Pattern=het, Pattern=en
+	Constrained: 

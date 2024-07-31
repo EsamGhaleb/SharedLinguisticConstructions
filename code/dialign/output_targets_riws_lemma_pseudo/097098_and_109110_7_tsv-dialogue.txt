@@ -1,0 +1,107 @@
+A|0| A: _ja_ 
+A|1| A: dat _zijn_ hier nummer zestien 
+B|2| B: ok _ik hebben_ deze omschrijven als _een soort_ hoog tafel _met twee poo_ 
+B|3| B: _met_ _een soort_ _vierkant_ _bak_ _er_ _op_ 
+B|4| B: [ja] _met_ _vierkant_ _bak_ _er_ _op_ 
+B|5| B: ok P 
+A|6| A: [ik hebben] zeggen maar de koffiemok waar [een] plateau _aan_ vastzitten bovenin [met twee poo] _aan_ de onderkant en [een] [bak] _erop_ 
+A|7| A: en linksbof steken nog zo'n [soort] antenne uit 
+A|8| A: oké 
+B|9| B: [ja] mogen we zo ook communiceren gewoon goed kijken [ja] 
+B|10| B: ok tafel [met twee] poet 
+B|11| B: [met] _vierkant_ [bak] 
+A|12| A: [ja] 
+A|13| A: dat _zijn_ nummer veertien hier 
+B|14| B: [ja] [ik] [zijn] hem [aan] _het_ zoeken o [ja] N 
+A|15| A: dit [zijn] de mok waar [een] [vierkant] plateau bovenin [aan] vastzitten [met twee] poot [een] [bak] _erop_ en linksbof [een] klein antenne 
+A|16| A: [ja] in [het] bovenste deel zeggen maar je [hebben] nog [een] klein stuk van de rand van de mok over 
+A|17| A: daar hangen zeggen maar zo'n [vierkant] plateau [aan] vast waar [twee poo] onderuit steken 
+A|18| A: en [op] dat plateu staan [een soort] van [bak] 
+A|19| A: [ja] die 
+A|20| A: [ja] 
+B|21| B: tafel [met twee] pot [vierkant] blok 
+A|22| A: [ja] 
+A|23| A: nummer tien 
+B|24| B: [ja] [met] [vierkant] ding [erop] D 
+A|25| A: dit [zijn] de beker [met] dat plateau wat [er] [aan] de bovenkant [aan] hangen [met twee poo] naar onder en [een] [bak] [erop] 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=1| A | A : dat zijn hier nummer zestien
+	Free: Pattern=zijn
+	Constrained: 
+Turn ID=2| B | B : ok ik hebben deze omschrijven als een soort hoog tafel met twee poo
+	Free: Pattern=met twee poo, Pattern=ik hebben, Pattern=een soort
+	Constrained: Pattern=soort, Pattern=een, Pattern=hebben, Pattern=met twee, Pattern=met, Pattern=ik, Pattern=twee poo
+Turn ID=3| B | B : met een soort vierkant bak er op
+	Free: Pattern=op, Pattern=bak, Pattern=met, Pattern=er, Pattern=een soort, Pattern=vierkant
+	Constrained: Pattern=een, Pattern=soort
+Turn ID=4| B | B : ja met vierkant bak er op
+	Free: Pattern=ja, Pattern=op, Pattern=bak, Pattern=met, Pattern=er, Pattern=vierkant
+	Constrained: 
+Turn ID=5| B | B : ok P
+	Free: 
+	Constrained: 
+Turn ID=6| A | A : ik hebben zeggen maar de koffiemok waar een plateau aan vastzitten bovenin met twee poo aan de onderkant en een bak erop
+	Free: Pattern=ik hebben, Pattern=aan, Pattern=erop, Pattern=een, Pattern=bak, Pattern=met twee poo
+	Constrained: Pattern=hebben, Pattern=met twee, Pattern=met, Pattern=ik, Pattern=twee poo
+Turn ID=7| A | A : en linksbof steken nog zo'n soort antenne uit
+	Free: Pattern=soort
+	Constrained: 
+Turn ID=8| A | A : oké
+	Free: 
+	Constrained: 
+Turn ID=9| B | B : ja mogen we zo ook communiceren gewoon goed kijken ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=10| B | B : ok tafel met twee poet
+	Free: Pattern=met twee
+	Constrained: Pattern=met
+Turn ID=11| B | B : met vierkant bak
+	Free: Pattern=bak, Pattern=vierkant, Pattern=met
+	Constrained: 
+Turn ID=12| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=13| A | A : dat zijn nummer veertien hier
+	Free: Pattern=zijn
+	Constrained: 
+Turn ID=14| B | B : ja ik zijn hem aan het zoeken o ja N
+	Free: Pattern=het, Pattern=ik, Pattern=zijn, Pattern=aan, Pattern=ja
+	Constrained: 
+Turn ID=15| A | A : dit zijn de mok waar een vierkant plateau bovenin aan vastzitten met twee poot een bak erop en linksbof een klein antenne
+	Free: Pattern=aan, Pattern=erop, Pattern=een, Pattern=bak, Pattern=met twee, Pattern=zijn, Pattern=vierkant
+	Constrained: Pattern=met
+Turn ID=16| A | A : ja in het bovenste deel zeggen maar je hebben nog een klein stuk van de rand van de mok over
+	Free: Pattern=een, Pattern=ja, Pattern=het, Pattern=hebben
+	Constrained: 
+Turn ID=17| A | A : daar hangen zeggen maar zo'n vierkant plateau aan vast waar twee poo onderuit steken
+	Free: Pattern=twee poo, Pattern=aan, Pattern=vierkant
+	Constrained: 
+Turn ID=18| A | A : en op dat plateu staan een soort van bak
+	Free: Pattern=een soort, Pattern=bak, Pattern=op
+	Constrained: Pattern=een, Pattern=soort
+Turn ID=19| A | A : ja die
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=20| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=21| B | B : tafel met twee pot vierkant blok
+	Free: Pattern=met twee, Pattern=vierkant
+	Constrained: Pattern=met
+Turn ID=22| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=23| A | A : nummer tien
+	Free: 
+	Constrained: 
+Turn ID=24| B | B : ja met vierkant ding erop D
+	Free: Pattern=erop, Pattern=ja, Pattern=vierkant, Pattern=met
+	Constrained: 
+Turn ID=25| A | A : dit zijn de beker met dat plateau wat er aan de bovenkant aan hangen met twee poo naar onder en een bak erop
+	Free: Pattern=aan, Pattern=erop, Pattern=een, Pattern=bak, Pattern=met twee poo, Pattern=met, Pattern=er, Pattern=zijn
+	Constrained: Pattern=met, Pattern=twee poo, Pattern=met twee

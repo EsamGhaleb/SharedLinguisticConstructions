@@ -1,0 +1,95 @@
+B|0| B: _ok_ deze hebben _ik_ gewoon omschrijven als toren _zijn_ by far _de_ groot 
+A|1| A: [zijn] dat _met_ _die_ _die_ scheve _ding_ _zo_ _aan de onderkant_ _met_ _die_ kunkelhoek 
+B|2| B: [met] [met] _een_ soort [met] _een_ soort 
+B|3| B: _ja_ _een_ soort _kronkel_ [aan de onderkant] _op een_ plateau verhogen 
+A|4| A: jajaja nee dan weten [ik] _het_ al [ja] 
+A|5| A: [ja] 
+A|6| A: [ja] vier 
+A|7| A: [ok] dat [zijn] _die_ [met] _die_ [met] dat [kronkel] opzetstuk weten je wel [met] dat gedraaide lijken ook [op] _beetje_ [op een] glas 
+B|8| B: [ok] _die heel hoog_ zitten 
+A|9| A: [die heel hoog] lijken ook _een beetje_ [op een] _struisvogel_ of _zo_ 
+B|10| B: [ja] [ik] hebben [die] inderdaad hij hebben [een beetje] [zo] vleugel [aan de] achterkant [een] vierkantje rechts bovenop en [een] soort driehoekig platvorm waar hij [op] staat 
+A|11| A: [ja] kloppen [die] 
+B|12| B: [ok] A 
+B|13| B: [de] [struisvogel] 
+B|14| B: [het] [heel hoog] [ding] 
+A|15| A: dat [ding] [ja] tien 
+A|16| A: [die] [die] [struisvogel] Slash _wijnglas_ of [zo] [ja] 
+B|17| B: [ja] [ok] L 
+B|18| B: [struisvogel] 
+B|19| B: [wijnglas] 
+A|20| A: even zoeken [ik] zien hem al [ja] vier 
+A|21| A: [die] [struisvogel] Slash [wijnglas] of [zo] of ver kennen 
+B|22| B: o [ja] F 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : ok deze hebben ik gewoon omschrijven als toren zijn by far de groot
+	Free: Pattern=ik, Pattern=zijn, Pattern=de, Pattern=ok
+	Constrained: 
+Turn ID=1| A | A : zijn dat met die die scheve ding zo aan de onderkant met die kunkelhoek
+	Free: Pattern=ding, Pattern=aan de onderkant, Pattern=zo, Pattern=met, Pattern=die, Pattern=zijn
+	Constrained: Pattern=aan de, Pattern=de
+Turn ID=2| B | B : met met een soort met een soort
+	Free: Pattern=een, Pattern=met
+	Constrained: 
+Turn ID=3| B | B : ja een soort kronkel aan de onderkant op een plateau verhogen
+	Free: Pattern=ja, Pattern=kronkel, Pattern=een, Pattern=aan de onderkant, Pattern=op een
+	Constrained: Pattern=een, Pattern=de, Pattern=aan de, Pattern=op
+Turn ID=4| A | A : jajaja nee dan weten ik het al ja
+	Free: Pattern=ik, Pattern=ja, Pattern=het
+	Constrained: 
+Turn ID=5| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=6| A | A : ja vier
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=7| A | A : ok dat zijn die met die met dat kronkel opzetstuk weten je wel met dat gedraaide lijken ook op beetje op een glas
+	Free: Pattern=op, Pattern=ok, Pattern=met, Pattern=die, Pattern=zijn, Pattern=op een, Pattern=kronkel, Pattern=beetje
+	Constrained: Pattern=een, Pattern=op
+Turn ID=8| B | B : ok die heel hoog zitten
+	Free: Pattern=die heel hoog, Pattern=ok
+	Constrained: Pattern=heel hoog, Pattern=die
+Turn ID=9| A | A : die heel hoog lijken ook een beetje op een struisvogel of zo
+	Free: Pattern=zo, Pattern=struisvogel, Pattern=die heel hoog, Pattern=een beetje, Pattern=op een
+	Constrained: Pattern=op, Pattern=beetje, Pattern=een, Pattern=heel hoog, Pattern=die
+Turn ID=10| B | B : ja ik hebben die inderdaad hij hebben een beetje zo vleugel aan de achterkant een vierkantje rechts bovenop en een soort driehoekig platvorm waar hij op staat
+	Free: Pattern=ja, Pattern=een, Pattern=zo, Pattern=die, Pattern=ik, Pattern=een beetje, Pattern=op, Pattern=aan de
+	Constrained: Pattern=een, Pattern=de, Pattern=beetje
+Turn ID=11| A | A : ja kloppen die
+	Free: Pattern=die, Pattern=ja
+	Constrained: 
+Turn ID=12| B | B : ok A
+	Free: Pattern=ok
+	Constrained: 
+Turn ID=13| B | B : de struisvogel
+	Free: Pattern=de, Pattern=struisvogel
+	Constrained: 
+Turn ID=14| B | B : het heel hoog ding
+	Free: Pattern=heel hoog, Pattern=het, Pattern=ding
+	Constrained: 
+Turn ID=15| A | A : dat ding ja tien
+	Free: Pattern=ja, Pattern=ding
+	Constrained: 
+Turn ID=16| A | A : die die struisvogel Slash wijnglas of zo ja
+	Free: Pattern=ja, Pattern=wijnglas, Pattern=zo, Pattern=die, Pattern=struisvogel
+	Constrained: 
+Turn ID=17| B | B : ja ok L
+	Free: Pattern=ja, Pattern=ok
+	Constrained: 
+Turn ID=18| B | B : struisvogel
+	Free: Pattern=struisvogel
+	Constrained: 
+Turn ID=19| B | B : wijnglas
+	Free: Pattern=wijnglas
+	Constrained: 
+Turn ID=20| A | A : even zoeken ik zien hem al ja vier
+	Free: Pattern=ik, Pattern=ja
+	Constrained: 
+Turn ID=21| A | A : die struisvogel Slash wijnglas of zo of ver kennen
+	Free: Pattern=die, Pattern=zo, Pattern=struisvogel, Pattern=wijnglas
+	Constrained: 
+Turn ID=22| B | B : o ja F
+	Free: Pattern=ja
+	Constrained: 

@@ -1,0 +1,171 @@
+B|0| B: _ah_ oké 
+B|1| B: dus het _zijn_ _een kop met_ _de_ staaf _erdoorheen_ door het midden 
+B|2| B: _en_ _een_ rond op _de_ bovenkant _en_ _een_ staaf _aan de voorkant_ 
+B|3| B: _dan_ _zijn_ het B 
+A|4| A: okee next 
+A|5| A: _ja_ _nou_ [een] koffiekopje 
+A|6| A: _met een_ bal _bovenop_ 
+A|7| A: [aan de voorkant] weer [een] _ja_ [een] houten 
+A|8| A: houten lat weer 
+A|9| A: _ja_ _die_ [zijn] verticaal 
+A|10| A: [en] [dan] horizontaal [een] soort van leidingen 
+A|11| A: link steken _die_ ver uit [dan] rechts 
+A|12| A: okee 
+B|13| B: het [zijn] veranderen 
+B|14| B: oké 
+B|15| B: [nou] [dan] _hebben_ we _nog_ vijf te _gaan_ 
+B|16| B: _een kop met _een_ ei_ erbovenop [en] [een] pilaar [aan] gezichtszijde 
+B|17| B: [en] [met een] buis door het midden heen 
+A|18| A: _ja_ [en] _die_ plank _die_ lopen weer verticaal 
+A|19| A: _ja_ 
+A|20| A: ik [gaan] voor nummer zes 
+B|21| B: [ja] 
+B|22| B: _dat zijn_ L 
+B|23| B: _een kop met _een_ ei_ op [de] bovenkant [en] twee pinn doorboren hem _in_ het midden 
+A|24| A: [dat zijn] stom want je [hebben] ze al [in] je hoofd [en] [dan] moeten je ze [nog] zoeken 
+A|25| A: [ah] [ja] ik [zijn] [aan de] beurt trouwens 
+A|26| A: [een kop met een] houten plank weer 
+A|27| A: waarom hout 
+A|28| A: gewoon [een] plank 
+A|29| A: [aan de voorkant] 
+A|30| A: eit _bovenop en_ [ja] [de] uitsteeksel links rechts 
+A|31| A: [ja] 
+B|32| B: [ja] [dat zijn] L 
+A|33| A: [ja] 
+A|34| A: nummer vijfteen 
+B|35| B: [de] bak [met] het _ei_ er [bovenop en] doorboren door [een] pilaar paal 
+B|36| B: [die] leunt op [een] pilaar [aan de voorkant] 
+A|37| A: deze [hebben] [een ei] [bovenop] liggen 
+A|38| A: [een] houten plank [aan de voorkant] 
+A|39| A: verticaal 
+A|40| A: [en] horizontaal weer wat leiding [erdoorheen] 
+A|41| A: [ja] nummer tien 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : ah oké
+	Free: Pattern=ah
+	Constrained: 
+Turn ID=1| B | B : dus het zijn een kop met de staaf erdoorheen door het midden
+	Free: Pattern=een kop met, Pattern=de, Pattern=erdoorheen, Pattern=zijn
+	Constrained: Pattern=een, Pattern=met
+Turn ID=2| B | B : en een rond op de bovenkant en een staaf aan de voorkant
+	Free: Pattern=aan de voorkant, Pattern=en, Pattern=de, Pattern=een
+	Constrained: Pattern=aan, Pattern=de, Pattern=aan de
+Turn ID=3| B | B : dan zijn het B
+	Free: Pattern=dan, Pattern=zijn
+	Constrained: 
+Turn ID=4| A | A : okee next
+	Free: 
+	Constrained: 
+Turn ID=5| A | A : ja nou een koffiekopje
+	Free: Pattern=een, Pattern=nou, Pattern=ja
+	Constrained: 
+Turn ID=6| A | A : met een bal bovenop
+	Free: Pattern=met een, Pattern=bovenop
+	Constrained: Pattern=een, Pattern=met
+Turn ID=7| A | A : aan de voorkant weer een ja een houten
+	Free: Pattern=aan de voorkant, Pattern=een, Pattern=ja
+	Constrained: Pattern=aan, Pattern=de, Pattern=aan de
+Turn ID=8| A | A : houten lat weer
+	Free: 
+	Constrained: 
+Turn ID=9| A | A : ja die zijn verticaal
+	Free: Pattern=die, Pattern=zijn, Pattern=ja
+	Constrained: 
+Turn ID=10| A | A : en dan horizontaal een soort van leidingen
+	Free: Pattern=en, Pattern=een, Pattern=dan
+	Constrained: 
+Turn ID=11| A | A : link steken die ver uit dan rechts
+	Free: Pattern=dan, Pattern=die
+	Constrained: 
+Turn ID=12| A | A : okee
+	Free: 
+	Constrained: 
+Turn ID=13| B | B : het zijn veranderen
+	Free: Pattern=zijn
+	Constrained: 
+Turn ID=14| B | B : oké
+	Free: 
+	Constrained: 
+Turn ID=15| B | B : nou dan hebben we nog vijf te gaan
+	Free: Pattern=nog, Pattern=nou, Pattern=dan, Pattern=hebben, Pattern=gaan
+	Constrained: 
+Turn ID=16| B | B : een kop met een ei erbovenop en een pilaar aan gezichtszijde
+	Free: Pattern=aan, Pattern=een, Pattern=een ei, Pattern=een kop met een, Pattern=en
+	Constrained: Pattern=ei, Pattern=een kop met, Pattern=een, Pattern=met, Pattern=met een
+Turn ID=17| B | B : en met een buis door het midden heen
+	Free: Pattern=met een, Pattern=en
+	Constrained: Pattern=een, Pattern=met
+Turn ID=18| A | A : ja en die plank die lopen weer verticaal
+	Free: Pattern=en, Pattern=die, Pattern=ja
+	Constrained: 
+Turn ID=19| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=20| A | A : ik gaan voor nummer zes
+	Free: Pattern=gaan
+	Constrained: 
+Turn ID=21| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=22| B | B : dat zijn L
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn
+Turn ID=23| B | B : een kop met een ei op de bovenkant en twee pinn doorboren hem in het midden
+	Free: Pattern=de, Pattern=een ei, Pattern=en, Pattern=een kop met een, Pattern=in
+	Constrained: Pattern=ei, Pattern=een kop met, Pattern=een, Pattern=met, Pattern=met een
+Turn ID=24| A | A : dat zijn stom want je hebben ze al in je hoofd en dan moeten je ze nog zoeken
+	Free: Pattern=dat zijn, Pattern=nog, Pattern=dan, Pattern=hebben, Pattern=in, Pattern=en
+	Constrained: Pattern=zijn
+Turn ID=25| A | A : ah ja ik zijn aan de beurt trouwens
+	Free: Pattern=aan de, Pattern=ah, Pattern=zijn, Pattern=ja
+	Constrained: Pattern=de, Pattern=aan
+Turn ID=26| A | A : een kop met een houten plank weer
+	Free: Pattern=een kop met een
+	Constrained: Pattern=een, Pattern=met, Pattern=een kop met, Pattern=met een
+Turn ID=27| A | A : waarom hout
+	Free: 
+	Constrained: 
+Turn ID=28| A | A : gewoon een plank
+	Free: Pattern=een
+	Constrained: 
+Turn ID=29| A | A : aan de voorkant
+	Free: Pattern=aan de voorkant
+	Constrained: Pattern=aan, Pattern=de, Pattern=aan de
+Turn ID=30| A | A : eit bovenop en ja de uitsteeksel links rechts
+	Free: Pattern=bovenop en, Pattern=de, Pattern=ja
+	Constrained: Pattern=en, Pattern=bovenop
+Turn ID=31| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=32| B | B : ja dat zijn L
+	Free: Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=zijn
+Turn ID=33| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=34| A | A : nummer vijfteen
+	Free: 
+	Constrained: 
+Turn ID=35| B | B : de bak met het ei er bovenop en doorboren door een pilaar paal
+	Free: Pattern=ei, Pattern=de, Pattern=een, Pattern=bovenop en, Pattern=met
+	Constrained: Pattern=en, Pattern=bovenop
+Turn ID=36| B | B : die leunt op een pilaar aan de voorkant
+	Free: Pattern=aan de voorkant, Pattern=een, Pattern=die
+	Constrained: Pattern=aan, Pattern=de, Pattern=aan de
+Turn ID=37| A | A : deze hebben een ei bovenop liggen
+	Free: Pattern=een ei, Pattern=bovenop, Pattern=hebben
+	Constrained: Pattern=ei, Pattern=een
+Turn ID=38| A | A : een houten plank aan de voorkant
+	Free: Pattern=aan de voorkant, Pattern=een
+	Constrained: Pattern=aan, Pattern=de, Pattern=aan de
+Turn ID=39| A | A : verticaal
+	Free: 
+	Constrained: 
+Turn ID=40| A | A : en horizontaal weer wat leiding erdoorheen
+	Free: Pattern=en, Pattern=erdoorheen
+	Constrained: 
+Turn ID=41| A | A : ja nummer tien
+	Free: Pattern=ja
+	Constrained: 

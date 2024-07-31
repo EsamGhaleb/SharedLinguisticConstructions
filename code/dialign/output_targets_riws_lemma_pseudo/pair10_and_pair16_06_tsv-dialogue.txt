@@ -1,0 +1,183 @@
+A|0| A: _ja_ nou _hebben_ _ik_ _het_ vierkant 
+A|1| A: _het_ _zijn_ ook weer zo'n kopje _er_ _zitten_ _een_ rond _met_ zeggen maar _een een_ stok _erdoorheen_ 
+A|2| A: soort van spies _met een_ plat rond _aan_ _de_ achterkant 
+A|3| A: _en_ _er_ _zitten_ _nog een_ klein dinge in 
+A|4| A: _het_ lijken op _een_ lepel 
+A|5| A: _ja_ 
+A|6| A: _zitten_ _aan_ 
+A|7| A: _ja_ _zitten_ _aan_ _de_ achterkant van _het_ stok zeggen maar 
+A|8| A: soort van 
+A|9| A: rechterkant _ja_ inderdaad 
+A|10| A: _ja_ 
+A|11| A: yes 
+B|12| B: [ja] 
+B|13| B: [een] _bal_ [ja] 
+B|14| B: [ja] 
+B|15| B: [ik] [hebben] [een] vermoeden 
+B|16| B: [zitten] [er] [nog een] schijf toch 
+B|17| B: [ja] 
+B|18| B: okee 
+B|19| B: [ik] denken _dat_ [ik] hem wel weten 
+B|20| B: [ik] gaan voor a 
+A|21| A: [ja] 
+A|22| A: [ja] 
+A|23| A: yes _dat zijn_ nummer zestien 
+A|24| A: _dit zijn_ _die_ [dat] rond _met_ _die_ _met_ _die_ stok _erdoorheen_ _met_ _die_ plat ovaal _aan_ _de_ achterkant _en_ _de_ lepel erin 
+B|25| B: ah we komen nu bij [het] kop [met] eineus [met een] staafje [erdoorheen] 
+B|26| B: horizontaal [en] [aan] één uitein dus [een] schijf 
+B|27| B: [ja] [met] [het] pluimp bovenop [ja] 
+A|28| A: yes _dat zijn_ dertien 
+A|29| A: _dit zijn_ _die_ [met] _die_ gespie [bal] [met] _die_ lepel 
+B|30| B: [ja] 
+B|31| B: [ja] 
+B|32| B: [ja] 
+B|33| B: [dat zijn] voor mij f 
+A|34| A: [ja] yes [dat zijn] twee 
+B|35| B: koffie nodig 
+B|36| B: [dit zijn] [de] eineus [met een] horizontaal balk door [zijn] neus heen [en] [aan] [het] uitein [een een] schijf 
+B|37| B: [ja] 
+B|38| B: [ja] 
+B|39| B: waar [zijn] je waar [zijn] je 
+B|40| B: ah 
+B|41| B: [dat zijn] voor mij nu i 
+B|42| B: kop [met] eineus [met] daardoorheen [ja] dus [die] werkbank 
+B|43| B: waar [hebben] je [het] over of springplank 
+B|44| B: Springstok [ja] 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : ja nou hebben ik het vierkant
+	Free: Pattern=hebben, Pattern=het, Pattern=ja, Pattern=ik
+	Constrained: 
+Turn ID=1| A | A : het zijn ook weer zo'n kopje er zitten een rond met zeggen maar een een stok erdoorheen
+	Free: Pattern=een, Pattern=het, Pattern=erdoorheen, Pattern=zitten, Pattern=er, Pattern=zijn, Pattern=een een, Pattern=met
+	Constrained: Pattern=een
+Turn ID=2| A | A : soort van spies met een plat rond aan de achterkant
+	Free: Pattern=met een, Pattern=de, Pattern=aan
+	Constrained: Pattern=een, Pattern=met
+Turn ID=3| A | A : en er zitten nog een klein dinge in
+	Free: Pattern=nog een, Pattern=er, Pattern=en, Pattern=zitten
+	Constrained: Pattern=een
+Turn ID=4| A | A : het lijken op een lepel
+	Free: Pattern=een, Pattern=het
+	Constrained: 
+Turn ID=5| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=6| A | A : zitten aan
+	Free: Pattern=zitten, Pattern=aan
+	Constrained: 
+Turn ID=7| A | A : ja zitten aan de achterkant van het stok zeggen maar
+	Free: Pattern=het, Pattern=zitten, Pattern=de, Pattern=aan, Pattern=ja
+	Constrained: 
+Turn ID=8| A | A : soort van
+	Free: 
+	Constrained: 
+Turn ID=9| A | A : rechterkant ja inderdaad
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=10| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=11| A | A : yes
+	Free: 
+	Constrained: 
+Turn ID=12| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=13| B | B : een bal ja
+	Free: Pattern=een, Pattern=ja, Pattern=bal
+	Constrained: 
+Turn ID=14| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=15| B | B : ik hebben een vermoeden
+	Free: Pattern=een, Pattern=hebben, Pattern=ik
+	Constrained: 
+Turn ID=16| B | B : zitten er nog een schijf toch
+	Free: Pattern=nog een, Pattern=er, Pattern=zitten
+	Constrained: Pattern=een
+Turn ID=17| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=18| B | B : okee
+	Free: 
+	Constrained: 
+Turn ID=19| B | B : ik denken dat ik hem wel weten
+	Free: Pattern=dat, Pattern=ik
+	Constrained: 
+Turn ID=20| B | B : ik gaan voor a
+	Free: Pattern=ik
+	Constrained: 
+Turn ID=21| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=22| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=23| A | A : yes dat zijn nummer zestien
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=24| A | A : dit zijn die dat rond met die met die stok erdoorheen met die plat ovaal aan de achterkant en de lepel erin
+	Free: Pattern=dat, Pattern=erdoorheen, Pattern=met, Pattern=die, Pattern=en, Pattern=dit zijn, Pattern=de, Pattern=aan
+	Constrained: Pattern=zijn
+Turn ID=25| B | B : ah we komen nu bij het kop met eineus met een staafje erdoorheen
+	Free: Pattern=met een, Pattern=het, Pattern=met, Pattern=erdoorheen
+	Constrained: Pattern=een, Pattern=met
+Turn ID=26| B | B : horizontaal en aan één uitein dus een schijf
+	Free: Pattern=een, Pattern=en, Pattern=aan
+	Constrained: 
+Turn ID=27| B | B : ja met het pluimp bovenop ja
+	Free: Pattern=het, Pattern=ja, Pattern=met
+	Constrained: 
+Turn ID=28| A | A : yes dat zijn dertien
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=29| A | A : dit zijn die met die gespie bal met die lepel
+	Free: Pattern=dit zijn, Pattern=die, Pattern=met, Pattern=bal
+	Constrained: Pattern=zijn
+Turn ID=30| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=31| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=32| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=33| B | B : dat zijn voor mij f
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=34| A | A : ja yes dat zijn twee
+	Free: Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=35| B | B : koffie nodig
+	Free: 
+	Constrained: 
+Turn ID=36| B | B : dit zijn de eineus met een horizontaal balk door zijn neus heen en aan het uitein een een schijf
+	Free: Pattern=het, Pattern=een een, Pattern=met een, Pattern=en, Pattern=zijn, Pattern=dit zijn, Pattern=de, Pattern=aan
+	Constrained: Pattern=een, Pattern=zijn, Pattern=met
+Turn ID=37| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=38| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=39| B | B : waar zijn je waar zijn je
+	Free: Pattern=zijn
+	Constrained: 
+Turn ID=40| B | B : ah
+	Free: 
+	Constrained: 
+Turn ID=41| B | B : dat zijn voor mij nu i
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=42| B | B : kop met eineus met daardoorheen ja dus die werkbank
+	Free: Pattern=die, Pattern=ja, Pattern=met
+	Constrained: 
+Turn ID=43| B | B : waar hebben je het over of springplank
+	Free: Pattern=hebben, Pattern=het
+	Constrained: 
+Turn ID=44| B | B : Springstok ja
+	Free: Pattern=ja
+	Constrained: 

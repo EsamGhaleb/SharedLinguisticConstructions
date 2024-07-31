@@ -1,0 +1,171 @@
+A|0| A: _ja_ 
+A|1| A: _ja_ 
+A|2| A: _ja_ _lijken_ _een_ beetje op _een tafel_ 
+A|3| A: _die_ 
+A|4| A: _ja_ _oké_ top 
+A|5| A: dan _zijn_ _het_ zestien 
+B|6| B: [ja] 
+B|7| B: _dit zijn_ _dit zijn_ eigenlijk _de_ hier [lijken] [het] net of er [een tafel] doorheen zitten 
+B|8| B: _met_ [een] bak erbovenop 
+B|9| B: [ja] 
+B|10| B: zo'n kuifje [ja] 
+A|11| A: _dit zijn die_ [met] _die_ picknicktafel 
+A|12| A: _even_ zoeken 
+A|13| A: wow 
+A|14| A: [ja] 
+A|15| A: _oké_ _dat zijn_ veertien 
+B|16| B: bloempot 
+B|17| B: [even] kijken 
+B|18| B: [ja] er staan twee punt streepjes 
+B|19| B: zullen _ik_ 
+B|20| B: [het] [zijn] niet [die] cactus nee 
+B|21| B: [dat] [het] [zijn] gewoon [dat] er [een] soort plank in [het] midden 
+B|22| B: [die] ah _ik_ zien [het] volgens mij al 
+B|23| B: [een] klein stuk 
+B|24| B: [ja] [ja] [ja] 
+B|25| B: [dat zijn] P 
+A|26| A: [ik] hebben [die] [met] [de] picknicktafel 
+A|27| A: _oké_ 
+A|28| A: [even] zoeken 
+A|29| A: [dat zijn] tien 
+B|30| B: [ja] wat zeggen je [die] plantenbak [met] [dat] ding er 
+B|31| B: [ja] 
+B|32| B: [ja] [ja] [ja] 
+A|33| A: _dit zijn die_ [met] [de] picknicktafel 
+B|34| B: plantenbak 
+B|35| B: moeten [ik] [even] kijken waar [die] staan 
+B|36| B: ah [dat zijn] N 
+B|37| B: [ja] [dit zijn die] plantenbak 
+B|38| B: [de] bloempot 
+B|39| B: [oké] 
+B|40| B: ah [ja] 
+B|41| B: D 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=1| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=2| A | A : ja lijken een beetje op een tafel
+	Free: Pattern=een tafel, Pattern=lijken, Pattern=een, Pattern=ja
+	Constrained: Pattern=een
+Turn ID=3| A | A : die
+	Free: Pattern=die
+	Constrained: 
+Turn ID=4| A | A : ja oké top
+	Free: Pattern=oké, Pattern=ja
+	Constrained: 
+Turn ID=5| A | A : dan zijn het zestien
+	Free: Pattern=zijn, Pattern=het
+	Constrained: 
+Turn ID=6| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=7| B | B : dit zijn dit zijn eigenlijk de hier lijken het net of er een tafel doorheen zitten
+	Free: Pattern=een tafel, Pattern=de, Pattern=lijken, Pattern=het, Pattern=dit zijn
+	Constrained: Pattern=zijn, Pattern=een
+Turn ID=8| B | B : met een bak erbovenop
+	Free: Pattern=met, Pattern=een
+	Constrained: 
+Turn ID=9| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=10| B | B : zo'n kuifje ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=11| A | A : dit zijn die met die picknicktafel
+	Free: Pattern=dit zijn die, Pattern=die, Pattern=met
+	Constrained: Pattern=dit zijn, Pattern=zijn, Pattern=die
+Turn ID=12| A | A : even zoeken
+	Free: Pattern=even
+	Constrained: 
+Turn ID=13| A | A : wow
+	Free: 
+	Constrained: 
+Turn ID=14| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=15| A | A : oké dat zijn veertien
+	Free: Pattern=dat zijn, Pattern=oké
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=16| B | B : bloempot
+	Free: 
+	Constrained: 
+Turn ID=17| B | B : even kijken
+	Free: Pattern=even
+	Constrained: 
+Turn ID=18| B | B : ja er staan twee punt streepjes
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=19| B | B : zullen ik
+	Free: Pattern=ik
+	Constrained: 
+Turn ID=20| B | B : het zijn niet die cactus nee
+	Free: Pattern=zijn, Pattern=het, Pattern=die
+	Constrained: 
+Turn ID=21| B | B : dat het zijn gewoon dat er een soort plank in het midden
+	Free: Pattern=zijn, Pattern=dat, Pattern=het, Pattern=een
+	Constrained: 
+Turn ID=22| B | B : die ah ik zien het volgens mij al
+	Free: Pattern=het, Pattern=ik, Pattern=die
+	Constrained: 
+Turn ID=23| B | B : een klein stuk
+	Free: Pattern=een
+	Constrained: 
+Turn ID=24| B | B : ja ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=25| B | B : dat zijn P
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=26| A | A : ik hebben die met de picknicktafel
+	Free: Pattern=de, Pattern=ik, Pattern=die, Pattern=met
+	Constrained: 
+Turn ID=27| A | A : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=28| A | A : even zoeken
+	Free: Pattern=even
+	Constrained: 
+Turn ID=29| A | A : dat zijn tien
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=30| B | B : ja wat zeggen je die plantenbak met dat ding er
+	Free: Pattern=dat, Pattern=die, Pattern=met, Pattern=ja
+	Constrained: 
+Turn ID=31| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=32| B | B : ja ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=33| A | A : dit zijn die met de picknicktafel
+	Free: Pattern=dit zijn die, Pattern=de, Pattern=met
+	Constrained: Pattern=dit zijn, Pattern=zijn, Pattern=die
+Turn ID=34| B | B : plantenbak
+	Free: 
+	Constrained: 
+Turn ID=35| B | B : moeten ik even kijken waar die staan
+	Free: Pattern=ik, Pattern=even, Pattern=die
+	Constrained: 
+Turn ID=36| B | B : ah dat zijn N
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=37| B | B : ja dit zijn die plantenbak
+	Free: Pattern=dit zijn die, Pattern=ja
+	Constrained: Pattern=dit zijn, Pattern=zijn, Pattern=die
+Turn ID=38| B | B : de bloempot
+	Free: Pattern=de
+	Constrained: 
+Turn ID=39| B | B : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=40| B | B : ah ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=41| B | B : D
+	Free: 
+	Constrained: 

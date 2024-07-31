@@ -1,0 +1,187 @@
+A|0| A: dit _zijn_ _een soort_ _van_ _die_ mok waar _aan de_ bovenkant _een soort_ _van_ satelliet 
+A|1| A: _zitten_ dat _zijn_ eigenlijk maken _van_ _vierkant_ waarbij _er_ _aan de_ onderkant _ook_ _nog_ _zo'n_ _uitsteeksel_ _zitten_ 
+A|2| A: _ja_ 
+A|3| A: _ja_ 
+A|4| A: _hij_ lijken driehoekig maar _het_ _zijn_ _een_ vierkan 
+A|5| A: zeggen maar 
+A|6| A: want _hij_ _zijn_ draaien net 
+A|7| A: _en_ erdoorheen lopen blok 
+A|8| A: _en_ _aan de_ voorkant steken _nog een_ _een soort_ _van_ _neus_ uit 
+A|9| A: _en_ _aan de_ rechterkant _zitten nog een_ _een_ _een_ hoekig hengsel 
+A|10| A: _ja_ 
+A|11| A: _ja_ 
+B|12| B: [ja] 
+B|13| B: [ja] [en] [hij] _hebben_ [ook] [zo'n] [soort] heel dun [neus] 
+B|14| B: [en] _en dan_ [nog] [aan de] zijkant [zo'n] zelfde [uitsteeksel] _als_ onderin [zitten] 
+B|15| B: ok M 
+A|16| A: _even kijken_ horen 
+A|17| A: [ja] 
+A|18| A: verschillend 
+A|19| A: _zijn_ dat lijken dat _een_ beetje _op_ _een_ satelliet 
+A|20| A: of niet 
+A|21| A: [ja] 
+A|22| A: [en dan] komen _er_ één [als] _een soort_ _van_ [neus] uit [en] [aan de] onderkant _zitten nog_ 
+A|23| A: [ja] dat _zijn_ nummer negen hier 
+B|24| B: deze _hebben_ [een soort] [ja] dus inderdaad [die] negentig graad hoek onderin [en] 
+B|25| B: [en] [die] [en] _die soort_ pinoccio heel dun lang [neus] [en] bovenop [zitten nog [een] soort] [vierkant] _met_ iets [er] doorheen 
+B|26| B: [ja] [een] boek boek _met_ [een] balk [er] [nog] doorheen H 
+A|27| A: [ja] ik [hebben] [de] mok [met] [die soort] _van_ satelliet [die] daar linksbof [aan] vastzitten maken _van_ [vierkant] waarvan [er] 
+A|28| A: [zo'n] dubbel vierkan net [een] kwartslag draaien _zijn_ 
+A|29| A: [aan] beide kant komen [er] blok uit 
+A|30| A: [en] [aan de] onderkant [zitten] [zo'n] [zo'n] piele [zo'n] bochtig blok wat eruit steken [en] [aan de] voorkant [een] 
+A|31| A: [ja] [ja] 
+A|32| A: handig 
+B|33| B: [even kijken] [de] drie ding [met] twee ding [van] negentig graad [en] boek [met] [een] ding [er] doorheen 
+B|34| B: [met] [het] boek [op] [zijn] hoofd [met] [een] pilaar [er] bij 
+A|35| A: [ja] 
+A|36| A: [ja] 
+A|37| A: dat [zijn] nummer elf 
+B|38| B: [even kijken] 
+B|39| B: [ja] bij mij [zijn] [hij] [ook] links onder o D shit 
+A|40| A: dit [zijn] jou koffie machine 
+A|41| A: [met] [die] satellietvorm erboven 
+B|42| B: boek [met] [een] spijker [er] doorheen 
+B|43| B: twee keer negentig graad 
+A|44| A: oké 
+A|45| A: top nummer veertien 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : dit zijn een soort van die mok waar aan de bovenkant een soort van satelliet
+	Free: Pattern=aan de, Pattern=die, Pattern=een soort, Pattern=van, Pattern=zijn
+	Constrained: Pattern=soort, Pattern=aan, Pattern=de, Pattern=een
+Turn ID=1| A | A : zitten dat zijn eigenlijk maken van vierkant waarbij er aan de onderkant ook nog zo'n uitsteeksel zitten
+	Free: Pattern=nog, Pattern=zo'n, Pattern=uitsteeksel, Pattern=zitten, Pattern=er, Pattern=van, Pattern=zijn, Pattern=vierkant, Pattern=aan de, Pattern=ook
+	Constrained: Pattern=aan, Pattern=de
+Turn ID=2| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=3| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=4| A | A : hij lijken driehoekig maar het zijn een vierkan
+	Free: Pattern=het, Pattern=hij, Pattern=zijn, Pattern=een
+	Constrained: 
+Turn ID=5| A | A : zeggen maar
+	Free: 
+	Constrained: 
+Turn ID=6| A | A : want hij zijn draaien net
+	Free: Pattern=hij, Pattern=zijn
+	Constrained: 
+Turn ID=7| A | A : en erdoorheen lopen blok
+	Free: Pattern=en
+	Constrained: 
+Turn ID=8| A | A : en aan de voorkant steken nog een een soort van neus uit
+	Free: Pattern=nog een, Pattern=aan de, Pattern=neus, Pattern=een soort, Pattern=van, Pattern=en
+	Constrained: Pattern=een, Pattern=nog, Pattern=soort, Pattern=de, Pattern=aan
+Turn ID=9| A | A : en aan de rechterkant zitten nog een een een hoekig hengsel
+	Free: Pattern=zitten nog een, Pattern=aan de, Pattern=en, Pattern=een
+	Constrained: Pattern=nog, Pattern=nog een, Pattern=een, Pattern=zitten, Pattern=zitten nog, Pattern=de, Pattern=aan
+Turn ID=10| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=11| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=12| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=13| B | B : ja en hij hebben ook zo'n soort heel dun neus
+	Free: Pattern=soort, Pattern=zo'n, Pattern=ja, Pattern=ook, Pattern=hebben, Pattern=hij, Pattern=neus, Pattern=en
+	Constrained: 
+Turn ID=14| B | B : en en dan nog aan de zijkant zo'n zelfde uitsteeksel als onderin zitten
+	Free: Pattern=nog, Pattern=zo'n, Pattern=en dan, Pattern=aan de, Pattern=uitsteeksel, Pattern=als, Pattern=zitten, Pattern=en
+	Constrained: Pattern=en, Pattern=aan, Pattern=de
+Turn ID=15| B | B : ok M
+	Free: 
+	Constrained: 
+Turn ID=16| A | A : even kijken horen
+	Free: Pattern=even kijken
+	Constrained: 
+Turn ID=17| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=18| A | A : verschillend
+	Free: 
+	Constrained: 
+Turn ID=19| A | A : zijn dat lijken dat een beetje op een satelliet
+	Free: Pattern=zijn, Pattern=een, Pattern=op
+	Constrained: 
+Turn ID=20| A | A : of niet
+	Free: 
+	Constrained: 
+Turn ID=21| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=22| A | A : en dan komen er één als een soort van neus uit en aan de onderkant zitten nog
+	Free: Pattern=en dan, Pattern=aan de, Pattern=er, Pattern=een soort, Pattern=zitten nog, Pattern=neus, Pattern=als, Pattern=van, Pattern=en
+	Constrained: Pattern=een, Pattern=zitten, Pattern=en, Pattern=nog, Pattern=soort, Pattern=de, Pattern=aan
+Turn ID=23| A | A : ja dat zijn nummer negen hier
+	Free: Pattern=ja, Pattern=zijn
+	Constrained: 
+Turn ID=24| B | B : deze hebben een soort ja dus inderdaad die negentig graad hoek onderin en
+	Free: Pattern=ja, Pattern=hebben, Pattern=die, Pattern=een soort, Pattern=en
+	Constrained: Pattern=soort, Pattern=een
+Turn ID=25| B | B : en die en die soort pinoccio heel dun lang neus en bovenop zitten nog een soort vierkant met iets er doorheen
+	Free: Pattern=zitten nog een, Pattern=neus, Pattern=met, Pattern=die, Pattern=die soort, Pattern=er, Pattern=een soort, Pattern=en, Pattern=vierkant
+	Constrained: Pattern=nog een, Pattern=een, Pattern=zitten nog, Pattern=nog, Pattern=soort, Pattern=die, Pattern=zitten
+Turn ID=26| B | B : ja een boek boek met een balk er nog doorheen H
+	Free: Pattern=nog, Pattern=ja, Pattern=een, Pattern=met, Pattern=er
+	Constrained: 
+Turn ID=27| A | A : ja ik hebben de mok met die soort van satelliet die daar linksbof aan vastzitten maken van vierkant waarvan er
+	Free: Pattern=hebben, Pattern=met, Pattern=die, Pattern=die soort, Pattern=er, Pattern=van, Pattern=vierkant, Pattern=de, Pattern=aan, Pattern=ja
+	Constrained: Pattern=die, Pattern=soort
+Turn ID=28| A | A : zo'n dubbel vierkan net een kwartslag draaien zijn
+	Free: Pattern=zo'n, Pattern=zijn, Pattern=een
+	Constrained: 
+Turn ID=29| A | A : aan beide kant komen er blok uit
+	Free: Pattern=er, Pattern=aan
+	Constrained: 
+Turn ID=30| A | A : en aan de onderkant zitten zo'n zo'n piele zo'n bochtig blok wat eruit steken en aan de voorkant een
+	Free: Pattern=zo'n, Pattern=aan de, Pattern=een, Pattern=zitten, Pattern=en
+	Constrained: Pattern=aan, Pattern=de
+Turn ID=31| A | A : ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=32| A | A : handig
+	Free: 
+	Constrained: 
+Turn ID=33| B | B : even kijken de drie ding met twee ding van negentig graad en boek met een ding er doorheen
+	Free: Pattern=de, Pattern=een, Pattern=met, Pattern=even kijken, Pattern=er, Pattern=van, Pattern=en
+	Constrained: 
+Turn ID=34| B | B : met het boek op zijn hoofd met een pilaar er bij
+	Free: Pattern=op, Pattern=een, Pattern=het, Pattern=met, Pattern=er, Pattern=zijn
+	Constrained: 
+Turn ID=35| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=36| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=37| A | A : dat zijn nummer elf
+	Free: Pattern=zijn
+	Constrained: 
+Turn ID=38| B | B : even kijken
+	Free: Pattern=even kijken
+	Constrained: 
+Turn ID=39| B | B : ja bij mij zijn hij ook links onder o D shit
+	Free: Pattern=ook, Pattern=ja, Pattern=hij, Pattern=zijn
+	Constrained: 
+Turn ID=40| A | A : dit zijn jou koffie machine
+	Free: Pattern=zijn
+	Constrained: 
+Turn ID=41| A | A : met die satellietvorm erboven
+	Free: Pattern=die, Pattern=met
+	Constrained: 
+Turn ID=42| B | B : boek met een spijker er doorheen
+	Free: Pattern=er, Pattern=met, Pattern=een
+	Constrained: 
+Turn ID=43| B | B : twee keer negentig graad
+	Free: 
+	Constrained: 
+Turn ID=44| A | A : oké
+	Free: 
+	Constrained: 
+Turn ID=45| A | A : top nummer veertien
+	Free: 
+	Constrained: 

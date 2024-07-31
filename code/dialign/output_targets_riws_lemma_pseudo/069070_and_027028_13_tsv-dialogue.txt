@@ -1,0 +1,107 @@
+A|0| A: _ja_ 
+A|1| A: _ja_ _en_ zo'n plat rond ding _aan de_ voorkant 
+A|2| A: _ja_ oké _dan_ _zijn_ _het_ vijf 
+B|3| B: [ja] eigenlijk deze _hebben_ zeggen maar twee van _die_ uitsteeksel eigenlijk een beetje Pippi Langkousvlechten 
+B|4| B: [en] [dan] een ronde [ja] plaat daarvoor 
+B|5| B: [en] zeggen maar [het] _staan_ ook _op_ een plaat 
+B|6| B: [en] [aan de] achterkant _staan_ zeggen maar nog twee bog 
+B|7| B: [ja] [ja] [ja] 
+A|8| A: _dit zijn die_ met [die] drie bollet [aan] allebei [de] kant [die] [op] zo'n ding [staan] 
+A|9| A: [ja] 
+A|10| A: [en] dat plat ding [aan de] voorkant 
+A|11| A: [ja] oké dat _zijn_ elf 
+B|12| B: ah [ja] 
+B|13| B: J 
+A|14| A: ik [hebben] [die] met [die] drie bollet [aan] allebei [de] zijkant [en] [die] ding eronder 
+A|15| A: [ja] 
+A|16| A: [en] dat ding waar [die] [op] [staan] 
+A|17| A: [ja] dat _zijn_ negen 
+B|18| B: [dit zijn die] Pippi Langkous 
+A|19| A: [dit zijn die] met [die] drie bollet [aan] allebei [de] kant 
+A|20| A: [en] dat plat ding voor 
+B|21| B: [ja] 
+B|22| B: [ja] 
+B|23| B: P 
+B|24| B: Pippi Langkous 
+B|25| B: L 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=1| A | A : ja en zo'n plat rond ding aan de voorkant
+	Free: Pattern=aan de, Pattern=ja, Pattern=en
+	Constrained: Pattern=aan, Pattern=de
+Turn ID=2| A | A : ja oké dan zijn het vijf
+	Free: Pattern=dan, Pattern=ja, Pattern=het, Pattern=zijn
+	Constrained: 
+Turn ID=3| B | B : ja eigenlijk deze hebben zeggen maar twee van die uitsteeksel eigenlijk een beetje Pippi Langkousvlechten
+	Free: Pattern=ja, Pattern=die, Pattern=hebben
+	Constrained: 
+Turn ID=4| B | B : en dan een ronde ja plaat daarvoor
+	Free: Pattern=dan, Pattern=ja, Pattern=en
+	Constrained: 
+Turn ID=5| B | B : en zeggen maar het staan ook op een plaat
+	Free: Pattern=staan, Pattern=en, Pattern=het, Pattern=op
+	Constrained: 
+Turn ID=6| B | B : en aan de achterkant staan zeggen maar nog twee bog
+	Free: Pattern=aan de, Pattern=staan, Pattern=en
+	Constrained: Pattern=aan, Pattern=de
+Turn ID=7| B | B : ja ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=8| A | A : dit zijn die met die drie bollet aan allebei de kant die op zo'n ding staan
+	Free: Pattern=dit zijn die, Pattern=op, Pattern=staan, Pattern=die, Pattern=de, Pattern=aan
+	Constrained: Pattern=zijn, Pattern=die
+Turn ID=9| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=10| A | A : en dat plat ding aan de voorkant
+	Free: Pattern=aan de, Pattern=en
+	Constrained: Pattern=aan, Pattern=de
+Turn ID=11| A | A : ja oké dat zijn elf
+	Free: Pattern=ja, Pattern=zijn
+	Constrained: 
+Turn ID=12| B | B : ah ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=13| B | B : J
+	Free: 
+	Constrained: 
+Turn ID=14| A | A : ik hebben die met die drie bollet aan allebei de zijkant en die ding eronder
+	Free: Pattern=hebben, Pattern=die, Pattern=en, Pattern=de, Pattern=aan
+	Constrained: 
+Turn ID=15| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=16| A | A : en dat ding waar die op staan
+	Free: Pattern=staan, Pattern=en, Pattern=die, Pattern=op
+	Constrained: 
+Turn ID=17| A | A : ja dat zijn negen
+	Free: Pattern=ja, Pattern=zijn
+	Constrained: 
+Turn ID=18| B | B : dit zijn die Pippi Langkous
+	Free: Pattern=dit zijn die
+	Constrained: Pattern=zijn, Pattern=die
+Turn ID=19| A | A : dit zijn die met die drie bollet aan allebei de kant
+	Free: Pattern=dit zijn die, Pattern=aan, Pattern=de, Pattern=die
+	Constrained: Pattern=zijn, Pattern=die
+Turn ID=20| A | A : en dat plat ding voor
+	Free: Pattern=en
+	Constrained: 
+Turn ID=21| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=22| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=23| B | B : P
+	Free: 
+	Constrained: 
+Turn ID=24| B | B : Pippi Langkous
+	Free: 
+	Constrained: 
+Turn ID=25| B | B : L
+	Free: 
+	Constrained: 

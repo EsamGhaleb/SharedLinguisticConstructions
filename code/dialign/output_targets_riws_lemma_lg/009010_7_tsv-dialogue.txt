@@ -1,0 +1,115 @@
+B|0| B: _oké_ 
+B|1| B: ik vinden bij deze lijken alsof het _er_ een _soort_ plank aan vastzit _of_ een _soort_ _tafel_ 
+B|2| B: _waar_ het dan aan _hangen_ dus ik moeten denken aan een een een plantenpot _die_ aan _de_ muur _hangen_ _of_ zo 
+B|3| B: het _zijn_ _ja_ het lijken echt op een _tafel dat_ zo een beetje bovenaan _zitten_ 
+A|4| A: en [er] [er] [zitten] zo'n [soort] van omdraaien trapezium [zitten] erop 
+B|5| B: _ja_ 
+A|6| A: zo'n _piramide_ en [er] [zitten] Linksboven [zitten] nog zo'n [soort] van haak 
+B|7| B: _ja_ 
+B|8| B: _ja_ 
+A|9| A: [ja] _oké dat zijn_ zestien 
+A|10| A: _dit zijn die met_ [dat] _met_ [die] _plantenbak_ _met_ [dat] [tafel] 
+A|11| A: _met_ [die] _omgedraaide piramide_ erbovenop 
+B|12| B: _waar zijn die_ ? [ja] 
+B|13| B: dus [dat zijn] P 
+B|14| B: [dit zijn] _de_ _de_ [plantenbak] aan een [tafel] 
+A|15| A: even zoeken zoeken zoeken [waar zijn die] 
+A|16| A: [ja] 
+A|17| A: [dat zijn] veertien 
+A|18| A: [dit zijn] weer [dat] [tafel dat] in [de] lucht [hangen] _met_ [die] bak erop 
+B|19| B: [ja] 
+B|20| B: [dat zijn] N 
+B|21| B: [dit zijn die met] het [tafel] 
+B|22| B: [met] [de] te [de] plantenpot aan [tafel] [met] [de] [omgedraaide piramide] op het [tafel] 
+A|23| A: [ja] 
+A|24| A: [dat zijn] tien 
+A|25| A: [dit zijn] weer [die] [tafel] [die] opgetilgen worden 
+A|26| A: [of] tenminste [dat] [met] [die] plantenbakachtig 
+B|27| B: [oké dat zijn] D 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=1| B | B : ik vinden bij deze lijken alsof het er een soort plank aan vastzit of een soort tafel
+	Free: Pattern=tafel, Pattern=of, Pattern=er, Pattern=soort
+	Constrained: 
+Turn ID=2| B | B : waar het dan aan hangen dus ik moeten denken aan een een een plantenpot die aan de muur hangen of zo
+	Free: Pattern=of, Pattern=de, Pattern=waar, Pattern=hangen, Pattern=die
+	Constrained: 
+Turn ID=3| B | B : het zijn ja het lijken echt op een tafel dat zo een beetje bovenaan zitten
+	Free: Pattern=tafel dat, Pattern=zijn, Pattern=zitten, Pattern=ja
+	Constrained: Pattern=dat, Pattern=tafel
+Turn ID=4| A | A : en er er zitten zo'n soort van omdraaien trapezium zitten erop
+	Free: Pattern=zitten, Pattern=er, Pattern=soort
+	Constrained: 
+Turn ID=5| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=6| A | A : zo'n piramide en er zitten Linksboven zitten nog zo'n soort van haak
+	Free: Pattern=zitten, Pattern=piramide, Pattern=er, Pattern=soort
+	Constrained: 
+Turn ID=7| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=8| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=9| A | A : ja oké dat zijn zestien
+	Free: Pattern=oké dat zijn, Pattern=ja
+	Constrained: Pattern=dat zijn, Pattern=dat, Pattern=zijn, Pattern=oké
+Turn ID=10| A | A : dit zijn die met dat met die plantenbak met dat tafel
+	Free: Pattern=dat, Pattern=dit zijn die met, Pattern=met, Pattern=plantenbak, Pattern=tafel, Pattern=die
+	Constrained: Pattern=dit zijn, Pattern=zijn, Pattern=met, Pattern=die
+Turn ID=11| A | A : met die omgedraaide piramide erbovenop
+	Free: Pattern=omgedraaide piramide, Pattern=die, Pattern=met
+	Constrained: Pattern=piramide
+Turn ID=12| B | B : waar zijn die ? ja
+	Free: Pattern=waar zijn die, Pattern=ja
+	Constrained: Pattern=zijn, Pattern=waar, Pattern=die
+Turn ID=13| B | B : dus dat zijn P
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=14| B | B : dit zijn de de plantenbak aan een tafel
+	Free: Pattern=dit zijn, Pattern=tafel, Pattern=de, Pattern=plantenbak
+	Constrained: Pattern=zijn
+Turn ID=15| A | A : even zoeken zoeken zoeken waar zijn die
+	Free: Pattern=waar zijn die
+	Constrained: Pattern=zijn, Pattern=waar, Pattern=die
+Turn ID=16| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=17| A | A : dat zijn veertien
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=18| A | A : dit zijn weer dat tafel dat in de lucht hangen met die bak erop
+	Free: Pattern=dat, Pattern=de, Pattern=hangen, Pattern=met, Pattern=die, Pattern=tafel dat, Pattern=dit zijn
+	Constrained: Pattern=dat, Pattern=zijn, Pattern=tafel
+Turn ID=19| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=20| B | B : dat zijn N
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=21| B | B : dit zijn die met het tafel
+	Free: Pattern=dit zijn die met, Pattern=tafel
+	Constrained: Pattern=dit zijn, Pattern=zijn, Pattern=met, Pattern=die
+Turn ID=22| B | B : met de te de plantenpot aan tafel met de omgedraaide piramide op het tafel
+	Free: Pattern=omgedraaide piramide, Pattern=tafel, Pattern=de, Pattern=met
+	Constrained: Pattern=piramide
+Turn ID=23| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=24| A | A : dat zijn tien
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=25| A | A : dit zijn weer die tafel die opgetilgen worden
+	Free: Pattern=dit zijn, Pattern=tafel, Pattern=die
+	Constrained: Pattern=zijn
+Turn ID=26| A | A : of tenminste dat met die plantenbakachtig
+	Free: Pattern=dat, Pattern=of, Pattern=die, Pattern=met
+	Constrained: 
+Turn ID=27| B | B : oké dat zijn D
+	Free: Pattern=oké dat zijn
+	Constrained: Pattern=dat zijn, Pattern=dat, Pattern=zijn, Pattern=oké

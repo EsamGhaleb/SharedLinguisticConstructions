@@ -1,0 +1,203 @@
+B|0| B: geel knop 
+B|1| B: _ik_ _weten_ _niet_ _zo_ _goed_ _wat_ dit _zijn_ 
+B|2| B: dit _zijn_ _de_ weinig uitbundig vorm _maar_ _hij hebben _een_ balk_ plat erop liggen 
+B|3| B: _ja_ _dat_ denken _ik_ _wel_ _ja_ 
+A|4| A: [ja] [ja] [ja] dus [een balk] [dat] [dat] op hem zitten zeggen [maar] 
+A|5| A: [hij hebben een] soort van [ik] _vinden_ _het_ zo'n zo'n zo'n grijpen dinge zo'n machine 
+A|6| A: [dat] [zijn] [zijn] arm zeggen [maar] 
+A|7| A: [zijn] [zijn] [zijn] arm [zijn] zo'n cup zeggen [maar] 
+A|8| A: of zo'n zo'n zo'n hoekig Cup _waar_ waarmee je zeggen [maar] zand opgraaft en [zo] 
+A|9| A: oké 
+A|10| A: [dat] [zijn] op [een] gezicht lijken [dat] 
+A|11| A: [ja] 
+A|12| A: oké nee nee [goed] dan [weten] [ik] [dat] 
+A|13| A: misschien zitten we dan toch [niet] [niet] gelijk 
+A|14| A: [ja] 
+A|15| A: [een] trechteruitsteeksel 
+A|16| A: oké nee we zitten verkeerd 
+A|17| A: [een] vvormig 
+A|18| A: link [hebben] _die een_ neus 
+A|19| A: rechts [hebben] _die een_ vvormig uitsteeksel 
+A|20| A: nee 
+A|21| A: er zitten nog [een] staafje in _het_ uitsteeksel 
+A|22| A: wachten nee nee we zitten [wel] gewoon bij dezelfde 
+A|23| A: [ja] [maar] _die_ _zijn die_ _zijn die_ [zijn] rechts rechtsvoor zeggen [maar] _zijn dat_ Vhoekig 
+A|24| A: [ja] nee nee [ik] _vinden_ [dat] we bij dezelfde 
+A|25| A: oké 
+A|26| A: nee klpen [hij] [zijn] [wel] uniek 
+A|27| A: [dat] _zijn die balk_ eigenlijk gewoon hè ? _die balk_ [zijn] _het_ enig 
+A|28| A: nee oké 
+A|29| A: nummer achten dus 
+B|30| B: [waar] [zijn dat] kreng ? [ja] E 
+B|31| B: [het] [zijn [die] een] beetje nietszeggend _met_ [die balk] erbovenop 
+A|32| A: [ja] [ik] [hebben] [die] [die] [die balk] op [het] hoofd 
+A|33| A: [ja] [ja] 
+B|34| B: [waar] [zijn die] 
+B|35| B: E 
+A|36| A: [ja] 
+A|37| A: [ja] 
+A|38| A: [ja] 
+A|39| A: en en heel raar [ja] 
+A|40| A: vierkant hanenkam noemen we hem [ja] 
+A|41| A: [dat] [zijn] nummer één 
+B|42| B: [het] [zijn die] _met_ [die balk] erbovenop [die een] beetje nietszeggend 
+A|43| A: [met] [de] [met] [de] [balk] als hanenkamp 
+B|44| B: [waar] [zijn die balk] 
+B|45| B: [ja] [vinden] O 
+A|46| A: [wat] [een] beschrijving [ja] 
+A|47| A: [ja] nummer zestien 
+A|48| A: kloppen dan [wel] 
+A|49| A: [ik] [hebben] [de] [de] [de] rechthoekig hanenkam 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : geel knop
+	Free: 
+	Constrained: 
+Turn ID=1| B | B : ik weten niet zo goed wat dit zijn
+	Free: Pattern=goed, Pattern=niet, Pattern=weten, Pattern=zo, Pattern=wat, Pattern=ik, Pattern=zijn
+	Constrained: 
+Turn ID=2| B | B : dit zijn de weinig uitbundig vorm maar hij hebben een balk plat erop liggen
+	Free: Pattern=de, Pattern=hij hebben een, Pattern=een balk, Pattern=zijn, Pattern=maar
+	Constrained: Pattern=balk, Pattern=hij, Pattern=een, Pattern=hebben
+Turn ID=3| B | B : ja dat denken ik wel ja
+	Free: Pattern=dat, Pattern=wel, Pattern=ja, Pattern=ik
+	Constrained: 
+Turn ID=4| A | A : ja ja ja dus een balk dat dat op hem zitten zeggen maar
+	Free: Pattern=een balk, Pattern=dat, Pattern=ja, Pattern=maar
+	Constrained: Pattern=een, Pattern=balk
+Turn ID=5| A | A : hij hebben een soort van ik vinden het zo'n zo'n zo'n grijpen dinge zo'n machine
+	Free: Pattern=hij hebben een, Pattern=het, Pattern=vinden, Pattern=ik
+	Constrained: Pattern=hebben, Pattern=hij, Pattern=een
+Turn ID=6| A | A : dat zijn zijn arm zeggen maar
+	Free: Pattern=dat, Pattern=zijn, Pattern=maar
+	Constrained: 
+Turn ID=7| A | A : zijn zijn zijn arm zijn zo'n cup zeggen maar
+	Free: Pattern=zijn, Pattern=maar
+	Constrained: 
+Turn ID=8| A | A : of zo'n zo'n zo'n hoekig Cup waar waarmee je zeggen maar zand opgraaft en zo
+	Free: Pattern=zo, Pattern=waar, Pattern=maar
+	Constrained: 
+Turn ID=9| A | A : oké
+	Free: 
+	Constrained: 
+Turn ID=10| A | A : dat zijn op een gezicht lijken dat
+	Free: Pattern=dat, Pattern=zijn, Pattern=een
+	Constrained: 
+Turn ID=11| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=12| A | A : oké nee nee goed dan weten ik dat
+	Free: Pattern=dat, Pattern=weten, Pattern=ik, Pattern=goed
+	Constrained: 
+Turn ID=13| A | A : misschien zitten we dan toch niet niet gelijk
+	Free: Pattern=niet
+	Constrained: 
+Turn ID=14| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=15| A | A : een trechteruitsteeksel
+	Free: Pattern=een
+	Constrained: 
+Turn ID=16| A | A : oké nee we zitten verkeerd
+	Free: 
+	Constrained: 
+Turn ID=17| A | A : een vvormig
+	Free: Pattern=een
+	Constrained: 
+Turn ID=18| A | A : link hebben die een neus
+	Free: Pattern=die een, Pattern=hebben
+	Constrained: Pattern=een, Pattern=die
+Turn ID=19| A | A : rechts hebben die een vvormig uitsteeksel
+	Free: Pattern=die een, Pattern=hebben
+	Constrained: Pattern=een, Pattern=die
+Turn ID=20| A | A : nee
+	Free: 
+	Constrained: 
+Turn ID=21| A | A : er zitten nog een staafje in het uitsteeksel
+	Free: Pattern=het, Pattern=een
+	Constrained: 
+Turn ID=22| A | A : wachten nee nee we zitten wel gewoon bij dezelfde
+	Free: Pattern=wel
+	Constrained: 
+Turn ID=23| A | A : ja maar die zijn die zijn die zijn rechts rechtsvoor zeggen maar zijn dat Vhoekig
+	Free: Pattern=ja, Pattern=zijn die, Pattern=die, Pattern=zijn dat, Pattern=zijn, Pattern=maar
+	Constrained: Pattern=dat, Pattern=zijn, Pattern=die
+Turn ID=24| A | A : ja nee nee ik vinden dat we bij dezelfde
+	Free: Pattern=dat, Pattern=vinden, Pattern=ja, Pattern=ik
+	Constrained: 
+Turn ID=25| A | A : oké
+	Free: 
+	Constrained: 
+Turn ID=26| A | A : nee klpen hij zijn wel uniek
+	Free: Pattern=wel, Pattern=zijn, Pattern=hij
+	Constrained: 
+Turn ID=27| A | A : dat zijn die balk eigenlijk gewoon hè ? die balk zijn het enig
+	Free: Pattern=dat, Pattern=die balk, Pattern=het, Pattern=zijn, Pattern=zijn die balk
+	Constrained: Pattern=die balk, Pattern=zijn die, Pattern=balk, Pattern=die, Pattern=zijn
+Turn ID=28| A | A : nee oké
+	Free: 
+	Constrained: 
+Turn ID=29| A | A : nummer achten dus
+	Free: 
+	Constrained: 
+Turn ID=30| B | B : waar zijn dat kreng ? ja E
+	Free: Pattern=zijn dat, Pattern=waar, Pattern=ja
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=31| B | B : het zijn die een beetje nietszeggend met die balk erbovenop
+	Free: Pattern=die balk, Pattern=met, Pattern=die een, Pattern=het, Pattern=zijn die
+	Constrained: Pattern=zijn, Pattern=een, Pattern=die, Pattern=balk
+Turn ID=32| A | A : ja ik hebben die die die balk op het hoofd
+	Free: Pattern=die balk, Pattern=ja, Pattern=het, Pattern=hebben, Pattern=die, Pattern=ik
+	Constrained: Pattern=die, Pattern=balk
+Turn ID=33| A | A : ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=34| B | B : waar zijn die
+	Free: Pattern=zijn die, Pattern=waar
+	Constrained: Pattern=zijn, Pattern=die
+Turn ID=35| B | B : E
+	Free: 
+	Constrained: 
+Turn ID=36| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=37| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=38| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=39| A | A : en en heel raar ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=40| A | A : vierkant hanenkam noemen we hem ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=41| A | A : dat zijn nummer één
+	Free: Pattern=dat, Pattern=zijn
+	Constrained: 
+Turn ID=42| B | B : het zijn die met die balk erbovenop die een beetje nietszeggend
+	Free: Pattern=die balk, Pattern=met, Pattern=die een, Pattern=het, Pattern=zijn die
+	Constrained: Pattern=zijn, Pattern=een, Pattern=die, Pattern=balk
+Turn ID=43| A | A : met de met de balk als hanenkamp
+	Free: Pattern=de, Pattern=met, Pattern=balk
+	Constrained: 
+Turn ID=44| B | B : waar zijn die balk
+	Free: Pattern=zijn die balk, Pattern=waar
+	Constrained: Pattern=die balk, Pattern=zijn die, Pattern=balk, Pattern=die, Pattern=zijn
+Turn ID=45| B | B : ja vinden O
+	Free: Pattern=vinden, Pattern=ja
+	Constrained: 
+Turn ID=46| A | A : wat een beschrijving ja
+	Free: Pattern=ja, Pattern=een, Pattern=wat
+	Constrained: 
+Turn ID=47| A | A : ja nummer zestien
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=48| A | A : kloppen dan wel
+	Free: Pattern=wel
+	Constrained: 
+Turn ID=49| A | A : ik hebben de de de rechthoekig hanenkam
+	Free: Pattern=hebben, Pattern=de, Pattern=ik
+	Constrained: 

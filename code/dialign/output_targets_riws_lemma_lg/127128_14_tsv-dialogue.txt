@@ -1,0 +1,155 @@
+A|0| A: one _de_ _mok_ _hebben_ _aan_ beide _kant_ _een_ soort _van_ staafachtig _dinge_ _erdoorheen_ 
+A|1| A: _en_ echt _aan de voorkant_ _hebben_ _zitten_ _er_ _een een een_ blok _een_ soort _van_ Buis nee niet buis want _het_ _zijn _een_ balk_ 
+A|2| A: _zitten _aan de_ voorkant_ _van_ _de_ _mok_ 
+A|3| A: _en_ _dan_ _zitten_ erbovenop _een_ ronde bol 
+A|4| A: _en_ _aan de linkerkant_ _ook_ _een_ soort L'etje wat _erdoorheen gaan_ _en_ _die_ komen _er_ _aan de_ ander _kant_ uit 
+B|5| B: _oké_ 
+B|6| B: _die _balk_ aan de voorkant_ [zijn] gewoon [een een een] _zeggen maar_ rechthoekig _deze hebben_ ver geen dinget 
+A|7| A: _ja_ 
+A|8| A: nee 
+B|9| B: [en] [de] [de] _staaf_ [die] [erdoorheen gaan] [die] [zitten [aan de] linkerkant] iets laag [dan] _aan de rechterkant_ 
+A|10| A: _ja_ 
+A|11| A: kloppen [en] _er_ [zitten] bovenin echt [een] bal [die] erin zakken [zeggen maar] 
+B|12| B: ik noemen _dat_ _een ei_ 
+A|13| A: [een ei] 
+B|14| B: ik vinden [het] [een ei] 
+A|15| A: _ja_ _ja_ 
+B|16| B: [ja] _dat_ [zijn] bij mij d 
+A|17| A: [oké] 
+B|18| B: _dit [zijn_ een] [mok] _met_ daarvoor [de] [balk] 
+B|19| B: [die] staan [er] net iets _rechts_ [van] [het] midden voor zweven [ei] Erboven 
+A|20| A: [ja] 
+B|21| B: [aan] _deze_ [kant] [die] [en] [en] _een klein_ stuk _daarboven_ [zitten] [ook] weer zo'n [dinge] 
+A|22| A: [ja] nummer vijftien 
+A|23| A: [deze hebben] [dat] [ei] bovenop liggen _een [balk_ aan de voorkant] 
+A|24| A: [en] [dan] [een] soort Lvormig ding [er] link in [en] [aan de rechterkant] komen nog [een klein] [staaf] eruit 
+B|25| B: [ja] [dat] [zijn] bij mij L 
+B|26| B: _dit zijn_ [die] _met het ei_ [dat] erboven _zweeven_ 
+B|27| B: [zitten] [een balk] voor 
+A|28| A: [ja] 
+B|29| B: armp links [en] [een] [staaf] _rechts_ 
+A|30| A: [ja] nummer zes 
+A|31| A: [dit zijn] [met het ei] [die] [daarboven] vliegen [zweeven] 
+A|32| A: [met] [die balk] vooraan 
+A|33| A: [en] [die] Ldinge link [en] [dan] [een] kort balkje [rechts] 
+B|34| B: [ja] 
+B|35| B: [dat] [zijn] bij mij J 
+B|36| B: [dit zijn] [die] [met] [de] [balk] ervoor [ei] [dat] erboven [zweeven] armp zo stompje daar 
+A|37| A: [ja] drie 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : one de mok hebben aan beide kant een soort van staafachtig dinge erdoorheen
+	Free: Pattern=kant, Pattern=een, Pattern=dinge, Pattern=mok, Pattern=van, Pattern=de, Pattern=aan, Pattern=erdoorheen, Pattern=hebben
+	Constrained: 
+Turn ID=1| A | A : en echt aan de voorkant hebben zitten er een een een blok een soort van Buis nee niet buis want het zijn een balk
+	Free: Pattern=een een een, Pattern=zijn een, Pattern=een, Pattern=het, Pattern=hebben, Pattern=zitten, Pattern=er, Pattern=aan de voorkant, Pattern=een balk, Pattern=van, Pattern=en
+	Constrained: Pattern=aan de, Pattern=een, Pattern=balk, Pattern=zijn, Pattern=de, Pattern=aan
+Turn ID=2| A | A : zitten aan de voorkant van de mok
+	Free: Pattern=de, Pattern=zitten aan de, Pattern=mok, Pattern=van, Pattern=aan de voorkant
+	Constrained: Pattern=aan, Pattern=de, Pattern=zitten, Pattern=aan de
+Turn ID=3| A | A : en dan zitten erbovenop een ronde bol
+	Free: Pattern=en, Pattern=dan, Pattern=zitten, Pattern=een
+	Constrained: 
+Turn ID=4| A | A : en aan de linkerkant ook een soort L'etje wat erdoorheen gaan en die komen er aan de ander kant uit
+	Free: Pattern=kant, Pattern=erdoorheen gaan, Pattern=een, Pattern=die, Pattern=er, Pattern=en, Pattern=aan de linkerkant, Pattern=aan de, Pattern=ook
+	Constrained: Pattern=de, Pattern=aan de, Pattern=erdoorheen, Pattern=aan
+Turn ID=5| B | B : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=6| B | B : die balk aan de voorkant zijn gewoon een een een zeggen maar rechthoekig deze hebben ver geen dinget
+	Free: Pattern=balk aan de voorkant, Pattern=die balk, Pattern=een een een, Pattern=zeggen maar, Pattern=deze hebben, Pattern=zijn
+	Constrained: Pattern=aan de, Pattern=een, Pattern=hebben, Pattern=balk, Pattern=die, Pattern=de, Pattern=aan, Pattern=deze, Pattern=aan de voorkant
+Turn ID=7| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=8| A | A : nee
+	Free: 
+	Constrained: 
+Turn ID=9| B | B : en de de staaf die erdoorheen gaan die zitten aan de linkerkant iets laag dan aan de rechterkant
+	Free: Pattern=de, Pattern=dan, Pattern=zitten aan de, Pattern=en, Pattern=aan de linkerkant, Pattern=erdoorheen gaan, Pattern=staaf, Pattern=aan de rechterkant, Pattern=die
+	Constrained: Pattern=aan de, Pattern=erdoorheen, Pattern=zitten, Pattern=de, Pattern=aan
+Turn ID=10| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=11| A | A : kloppen en er zitten bovenin echt een bal die erin zakken zeggen maar
+	Free: Pattern=een, Pattern=zeggen maar, Pattern=er, Pattern=en, Pattern=die, Pattern=zitten
+	Constrained: 
+Turn ID=12| B | B : ik noemen dat een ei
+	Free: Pattern=een ei, Pattern=dat
+	Constrained: Pattern=ei, Pattern=een
+Turn ID=13| A | A : een ei
+	Free: Pattern=een ei
+	Constrained: Pattern=ei, Pattern=een
+Turn ID=14| B | B : ik vinden het een ei
+	Free: Pattern=een ei, Pattern=het
+	Constrained: Pattern=ei, Pattern=een
+Turn ID=15| A | A : ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=16| B | B : ja dat zijn bij mij d
+	Free: Pattern=dat, Pattern=zijn, Pattern=ja
+	Constrained: 
+Turn ID=17| A | A : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=18| B | B : dit zijn een mok met daarvoor de balk
+	Free: Pattern=de, Pattern=zijn een, Pattern=balk, Pattern=met, Pattern=mok, Pattern=dit zijn
+	Constrained: Pattern=zijn, Pattern=een
+Turn ID=19| B | B : die staan er net iets rechts van het midden voor zweven ei Erboven
+	Free: Pattern=ei, Pattern=rechts, Pattern=het, Pattern=die, Pattern=er, Pattern=van
+	Constrained: 
+Turn ID=20| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=21| B | B : aan deze kant die en en een klein stuk daarboven zitten ook weer zo'n dinge
+	Free: Pattern=kant, Pattern=aan, Pattern=ook, Pattern=en, Pattern=deze, Pattern=die, Pattern=zitten, Pattern=dinge, Pattern=daarboven, Pattern=een klein
+	Constrained: Pattern=een
+Turn ID=22| A | A : ja nummer vijftien
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=23| A | A : deze hebben dat ei bovenop liggen een balk aan de voorkant
+	Free: Pattern=balk aan de voorkant, Pattern=dat, Pattern=ei, Pattern=deze hebben, Pattern=een balk
+	Constrained: Pattern=aan de, Pattern=een, Pattern=hebben, Pattern=balk, Pattern=de, Pattern=aan, Pattern=deze, Pattern=aan de voorkant
+Turn ID=24| A | A : en dan een soort Lvormig ding er link in en aan de rechterkant komen nog een klein staaf eruit
+	Free: Pattern=staaf, Pattern=dan, Pattern=een, Pattern=aan de rechterkant, Pattern=er, Pattern=en, Pattern=een klein
+	Constrained: Pattern=aan, Pattern=een, Pattern=de, Pattern=aan de
+Turn ID=25| B | B : ja dat zijn bij mij L
+	Free: Pattern=dat, Pattern=zijn, Pattern=ja
+	Constrained: 
+Turn ID=26| B | B : dit zijn die met het ei dat erboven zweeven
+	Free: Pattern=met het ei, Pattern=dat, Pattern=zweeven, Pattern=die, Pattern=dit zijn
+	Constrained: Pattern=ei, Pattern=zijn, Pattern=met, Pattern=het
+Turn ID=27| B | B : zitten een balk voor
+	Free: Pattern=een balk, Pattern=zitten
+	Constrained: Pattern=balk, Pattern=een
+Turn ID=28| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=29| B | B : armp links en een staaf rechts
+	Free: Pattern=en, Pattern=een, Pattern=staaf, Pattern=rechts
+	Constrained: 
+Turn ID=30| A | A : ja nummer zes
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=31| A | A : dit zijn met het ei die daarboven vliegen zweeven
+	Free: Pattern=met het ei, Pattern=zweeven, Pattern=die, Pattern=dit zijn, Pattern=daarboven
+	Constrained: Pattern=ei, Pattern=zijn, Pattern=met, Pattern=het
+Turn ID=32| A | A : met die balk vooraan
+	Free: Pattern=die balk, Pattern=met
+	Constrained: Pattern=die, Pattern=balk
+Turn ID=33| A | A : en die Ldinge link en dan een kort balkje rechts
+	Free: Pattern=rechts, Pattern=dan, Pattern=een, Pattern=die, Pattern=en
+	Constrained: 
+Turn ID=34| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=35| B | B : dat zijn bij mij J
+	Free: Pattern=dat, Pattern=zijn
+	Constrained: 
+Turn ID=36| B | B : dit zijn die met de balk ervoor ei dat erboven zweeven armp zo stompje daar
+	Free: Pattern=dat, Pattern=ei, Pattern=de, Pattern=zweeven, Pattern=balk, Pattern=met, Pattern=die, Pattern=dit zijn
+	Constrained: Pattern=zijn
+Turn ID=37| A | A : ja drie
+	Free: Pattern=ja
+	Constrained: 

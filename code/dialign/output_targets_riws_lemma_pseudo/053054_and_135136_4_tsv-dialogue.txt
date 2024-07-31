@@ -1,0 +1,95 @@
+B|0| B: _een_ omgekeerd bloem _ja ik_ weten welk je bedoelen _dat zijn_ bij mij I 
+A|1| A: oké [ik] _hebben_ nu [een] _bovenop_ zitten [een] _driehoek_ waarvan het top eraf [zijn] snijden 
+A|2| A: _en_ _rechts_ zitten _twee_ staf zeggen maar _twee_ rechthoe 
+A|3| A: _en_ link zitten [een] staaf _met_ _twee_ puntig uiteinde _en_ nog _een _soort_ van_ uitstekend buis 
+B|4| B: deze [hebben] _twee van die_ streepjes naar [rechts] [en] [een soort] _afgekapte_ [driehoek] erbovenop 
+B|5| B: [met] _dat_ hoed [bovenop] [soort van] 
+B|6| B: _dat zijn_ bij mij M 
+A|7| A: [ja ik] [hebben] hem denken [ik] 
+A|8| A: [ja] dus zeggen maar links [zijn] [die] staaf _met die twee_ punt 
+A|9| A: [en] [bovenop] de [afgekapte] piramide 
+A|10| A: [en] [rechts] de [twee] ding 
+A|11| A: [ja] 
+A|12| A: oké [die] [zijn] dan nummer [twee] 
+A|13| A: _dit zijn_ [die] [een] _met die_ afgehakte piramide [bovenop] [en] [rechts] _die twee_ rechthoeak [en] link [die] 
+A|14| A: rechthoek _met die twee_ puntig uiteinde [en] nog zo'n buis zeggen maar daaruit 
+B|15| B: [dit zijn] weer [met die twee] streepjes naar [rechts] 
+B|16| B: _dat zijn_ bij mij F 
+B|17| B: [die] [met die] streepjes naar [rechts] 
+A|18| A: [ja] 
+A|19| A: [dat zijn] nummer negen 
+A|20| A: [dit zijn] [die] [een] [met die] [afgekapte] piramide [en] [rechts] [twee van die] rechthoe [en] link [dat] staafje [met die] punt 
+A|21| A: [ja] 
+A|22| A: [dat zijn] nummer zes 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : een omgekeerd bloem ja ik weten welk je bedoelen dat zijn bij mij I
+	Free: Pattern=ja ik, Pattern=dat zijn, Pattern=een
+	Constrained: Pattern=ja, Pattern=dat, Pattern=zijn, Pattern=ik
+Turn ID=1| A | A : oké ik hebben nu een bovenop zitten een driehoek waarvan het top eraf zijn snijden
+	Free: Pattern=driehoek, Pattern=bovenop, Pattern=een, Pattern=hebben, Pattern=ik, Pattern=zijn
+	Constrained: 
+Turn ID=2| A | A : en rechts zitten twee staf zeggen maar twee rechthoe
+	Free: Pattern=en, Pattern=twee, Pattern=rechts
+	Constrained: 
+Turn ID=3| A | A : en link zitten een staaf met twee puntig uiteinde en nog een soort van uitstekend buis
+	Free: Pattern=twee, Pattern=een, Pattern=met, Pattern=een soort, Pattern=en, Pattern=soort van
+	Constrained: Pattern=een
+Turn ID=4| B | B : deze hebben twee van die streepjes naar rechts en een soort afgekapte driehoek erbovenop
+	Free: Pattern=rechts, Pattern=hebben, Pattern=een soort, Pattern=en, Pattern=twee van die, Pattern=afgekapte, Pattern=driehoek
+	Constrained: Pattern=twee, Pattern=een, Pattern=die
+Turn ID=5| B | B : met dat hoed bovenop soort van
+	Free: Pattern=soort van, Pattern=bovenop, Pattern=dat, Pattern=met
+	Constrained: 
+Turn ID=6| B | B : dat zijn bij mij M
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=7| A | A : ja ik hebben hem denken ik
+	Free: Pattern=ja ik, Pattern=hebben, Pattern=ik
+	Constrained: Pattern=ja, Pattern=ik
+Turn ID=8| A | A : ja dus zeggen maar links zijn die staaf met die twee punt
+	Free: Pattern=met die twee, Pattern=ja, Pattern=zijn, Pattern=die
+	Constrained: Pattern=met die, Pattern=twee, Pattern=die twee, Pattern=met, Pattern=die
+Turn ID=9| A | A : en bovenop de afgekapte piramide
+	Free: Pattern=en, Pattern=bovenop, Pattern=afgekapte
+	Constrained: 
+Turn ID=10| A | A : en rechts de twee ding
+	Free: Pattern=en, Pattern=twee, Pattern=rechts
+	Constrained: 
+Turn ID=11| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=12| A | A : oké die zijn dan nummer twee
+	Free: Pattern=twee, Pattern=zijn, Pattern=die
+	Constrained: 
+Turn ID=13| A | A : dit zijn die een met die afgehakte piramide bovenop en rechts die twee rechthoeak en link die
+	Free: Pattern=rechts, Pattern=een, Pattern=die twee, Pattern=die, Pattern=en, Pattern=dit zijn, Pattern=met die, Pattern=bovenop
+	Constrained: Pattern=twee, Pattern=zijn, Pattern=met, Pattern=die
+Turn ID=14| A | A : rechthoek met die twee puntig uiteinde en nog zo'n buis zeggen maar daaruit
+	Free: Pattern=met die twee, Pattern=en
+	Constrained: Pattern=met die, Pattern=twee, Pattern=die twee, Pattern=met, Pattern=die
+Turn ID=15| B | B : dit zijn weer met die twee streepjes naar rechts
+	Free: Pattern=met die twee, Pattern=dit zijn, Pattern=rechts
+	Constrained: Pattern=met die, Pattern=twee, Pattern=die twee, Pattern=met, Pattern=die, Pattern=zijn
+Turn ID=16| B | B : dat zijn bij mij F
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=17| B | B : die met die streepjes naar rechts
+	Free: Pattern=met die, Pattern=rechts, Pattern=die
+	Constrained: Pattern=met, Pattern=die
+Turn ID=18| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=19| A | A : dat zijn nummer negen
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=20| A | A : dit zijn die een met die afgekapte piramide en rechts twee van die rechthoe en link dat staafje met die punt
+	Free: Pattern=rechts, Pattern=een, Pattern=die, Pattern=en, Pattern=dit zijn, Pattern=twee van die, Pattern=afgekapte, Pattern=dat, Pattern=met die
+	Constrained: Pattern=twee, Pattern=zijn, Pattern=met, Pattern=die
+Turn ID=21| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=22| A | A : dat zijn nummer zes
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn

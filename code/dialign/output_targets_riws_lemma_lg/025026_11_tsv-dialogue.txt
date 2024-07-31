@@ -1,0 +1,75 @@
+B|0| B: _ok_ _deze hebben _een_ soort_ _van_ groot ronde _neus_ _een_ _beetje_ _aan de_ rechterkant _aan de_ linkerkant _zitten_ _een soort_ _van_ 
+A|1| A: [ok] 
+B|2| B: _driehoek_ balk _er_ boven _in_ _zitten twee_ uitsteeksel _één_ _zijn_ _een_ _beetje_ kegelachtig _en_ _de_ _ander_ _zijn_ _een_ _ja_ _rechthoek_ 
+A|3| A: okan _dan_ [zijn] het veertien 
+A|4| A: [deze hebben een] [neus] [er] [zitten twee] dinge [in] het kop [één] [rechthoek] [en] [één] [ja] 
+A|5| A: [beetje] gekkig figuur [en] [aan de] zijkant [zitten] nog [een soort] [driehoek] wat [in] driehoekvorm lopen 
+B|6| B: [ja] dat [zijn] N 
+B|7| B: _dit zijn _met_ die_ [neus] [en] [dan] _die_ _twee ding_ bovenop 
+B|8| B: [neus] [zitten] [een] [beetje] [aan de] rechterkant 
+A|9| A: [ja] 
+A|10| A: [er] [zitten] ook nog [één] [ander] [ding] zo'n [driehoek] [ja] negen 
+B|11| B: [ja] links [ja] 
+A|12| A: [ja] [deze hebben een] [neus] niet [met _die] ding_ stang [er] doorheen [met] [twee ding] [in] het kop zeggen maar [die] wel verschillen [en] [die] [driehoek] [aan de] zijkant 
+B|13| B: [ja] dat [zijn] G 
+B|14| B: [ja] _dit zijn [met_ die] [neus] [en] _twee van [die_ ding] bovenin [en] link dat [driehoek] 
+A|15| A: [ja] [zijn] vijf 
+A|16| A: [dit zijn met] [de] [neus] niet [met] [de] staaf [er] doorheen [met] [twee van die] lepelt erin [die] wel verschillen 
+B|17| B: [ja] dat [zijn] J 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : ok deze hebben een soort van groot ronde neus een beetje aan de rechterkant aan de linkerkant zitten een soort van
+	Free: Pattern=aan de, Pattern=een, Pattern=ok, Pattern=neus, Pattern=zitten, Pattern=een soort, Pattern=van, Pattern=beetje, Pattern=deze hebben een
+	Constrained: Pattern=een, Pattern=de
+Turn ID=1| A | A : ok
+	Free: Pattern=ok
+	Constrained: 
+Turn ID=2| B | B : driehoek balk er boven in zitten twee uitsteeksel één zijn een beetje kegelachtig en de ander zijn een ja rechthoek
+	Free: Pattern=driehoek, Pattern=rechthoek, Pattern=beetje, Pattern=een, Pattern=zitten twee, Pattern=in, Pattern=er, Pattern=ander, Pattern=en, Pattern=zijn, Pattern=één, Pattern=de, Pattern=ja
+	Constrained: Pattern=zitten
+Turn ID=3| A | A : okan dan zijn het veertien
+	Free: Pattern=zijn, Pattern=dan
+	Constrained: 
+Turn ID=4| A | A : deze hebben een neus er zitten twee dinge in het kop één rechthoek en één ja
+	Free: Pattern=rechthoek, Pattern=ja, Pattern=deze hebben een, Pattern=zitten twee, Pattern=in, Pattern=neus, Pattern=er, Pattern=en, Pattern=één
+	Constrained: Pattern=een, Pattern=zitten
+Turn ID=5| A | A : beetje gekkig figuur en aan de zijkant zitten nog een soort driehoek wat in driehoekvorm lopen
+	Free: Pattern=driehoek, Pattern=aan de, Pattern=beetje, Pattern=in, Pattern=zitten, Pattern=een soort, Pattern=en
+	Constrained: Pattern=een, Pattern=de
+Turn ID=6| B | B : ja dat zijn N
+	Free: Pattern=zijn, Pattern=ja
+	Constrained: 
+Turn ID=7| B | B : dit zijn met die neus en dan die twee ding bovenop
+	Free: Pattern=met die, Pattern=dan, Pattern=dit zijn met, Pattern=twee ding, Pattern=neus, Pattern=die, Pattern=en
+	Constrained: Pattern=zijn, Pattern=met, Pattern=die, Pattern=ding
+Turn ID=8| B | B : neus zitten een beetje aan de rechterkant
+	Free: Pattern=aan de, Pattern=beetje, Pattern=een, Pattern=neus, Pattern=zitten
+	Constrained: Pattern=de
+Turn ID=9| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=10| A | A : er zitten ook nog één ander ding zo'n driehoek ja negen
+	Free: Pattern=driehoek, Pattern=ja, Pattern=ding, Pattern=zitten, Pattern=er, Pattern=ander, Pattern=één
+	Constrained: 
+Turn ID=11| B | B : ja links ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=12| A | A : ja deze hebben een neus niet met die ding stang er doorheen met twee ding in het kop zeggen maar die wel verschillen en die driehoek aan de zijkant
+	Free: Pattern=driehoek, Pattern=ja, Pattern=aan de, Pattern=deze hebben een, Pattern=neus, Pattern=met, Pattern=die, Pattern=er, Pattern=en, Pattern=met die, Pattern=die ding, Pattern=twee ding, Pattern=in
+	Constrained: Pattern=de, Pattern=ding, Pattern=een, Pattern=met, Pattern=die
+Turn ID=13| B | B : ja dat zijn G
+	Free: Pattern=zijn, Pattern=ja
+	Constrained: 
+Turn ID=14| B | B : ja dit zijn met die neus en twee van die ding bovenin en link dat driehoek
+	Free: Pattern=ja, Pattern=dit zijn met, Pattern=neus, Pattern=en, Pattern=twee van die, Pattern=driehoek, Pattern=met die, Pattern=die ding
+	Constrained: Pattern=ding, Pattern=met, Pattern=die, Pattern=van, Pattern=zijn
+Turn ID=15| A | A : ja zijn vijf
+	Free: Pattern=zijn, Pattern=ja
+	Constrained: 
+Turn ID=16| A | A : dit zijn met de neus niet met de staaf er doorheen met twee van die lepelt erin die wel verschillen
+	Free: Pattern=twee van die, Pattern=de, Pattern=dit zijn met, Pattern=neus, Pattern=met, Pattern=die, Pattern=er
+	Constrained: Pattern=zijn, Pattern=met, Pattern=die, Pattern=van
+Turn ID=17| B | B : ja dat zijn J
+	Free: Pattern=zijn, Pattern=ja
+	Constrained: 

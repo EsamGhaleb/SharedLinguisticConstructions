@@ -1,0 +1,139 @@
+B|0| B: oké wachten _het_ haak _zitten_ _aan de_ onderkant 
+B|1| B: kloppen _dat_ 
+B|2| B: _ja_ 
+A|3| A: _die_ _zijn_ _die_ [dat] kop _die_ _dan_ hebben _dan_ _bovenop_ _een_ piramide maar _die_ _zijn_ wel afgevlken 
+B|4| B: _en dan_ _twee_ blok rechts _en_ [een] soort _van_ hoedje 
+B|5| B: _I_ 
+A|6| A: [en dan] hebben _die twee_ [van] _die_ balk [aan de] zijkant _aan de rechterkant_ 
+A|7| A: [en] nog [een] neusje 
+A|8| A: [twee] [van] _die_ balk waar wel [een] gaa tussen [zitten] 
+A|9| A: waar wel [een] 
+A|10| A: [ja] 
+A|11| A: [ja] 
+A|12| A: [ja] [een] staart 
+A|13| A: [ja] 
+A|14| A: [I] 
+A|15| A: [ja] 
+B|16| B: dit [zijn] weer [dat] ding _met_ [een] soort [van] hoedje [aan] [bovenop] [en dan] [twee] blok rechts 
+A|17| A: [ja] 
+A|18| A: [ja] [dat] 
+A|19| A: [ja] nummer [twee] 
+B|20| B: [en] zo'n [ja] buis ding link 
+B|21| B: onderaan 
+A|22| A: [dat] isteken [en] [dat] _met die_ afgevlakte piramide 
+B|23| B: [rechterkant] [en] [twee] ding links 
+B|24| B: M 
+A|25| A: [met] [de] 
+A|26| A: nummer negen 
+B|27| B: dit [zijn] weer [met [die] twee] blok [aan de rechterkant] diezelfde grootte [en dan] zo'n hoedje [bovenop] 
+B|28| B: [en] [twee] dinget link 
+A|29| A: [het] isteken [en] [de] afgevlakte piramide 
+B|30| B: [ja] 
+B|31| B: F 
+A|32| A: [ja] [dat] [zijn] nummer zes 
+B|33| B: dit [zijn] weer [die] [met] [dat] soort [van] hoedje [en] [die twee] blok rechts [en] [twee] dinget link 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : oké wachten het haak zitten aan de onderkant
+	Free: Pattern=aan de, Pattern=het, Pattern=zitten
+	Constrained: Pattern=aan, Pattern=de
+Turn ID=1| B | B : kloppen dat
+	Free: Pattern=dat
+	Constrained: 
+Turn ID=2| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=3| A | A : die zijn die dat kop die dan hebben dan bovenop een piramide maar die zijn wel afgevlken
+	Free: Pattern=dan, Pattern=een, Pattern=die, Pattern=zijn, Pattern=dat, Pattern=bovenop
+	Constrained: 
+Turn ID=4| B | B : en dan twee blok rechts en een soort van hoedje
+	Free: Pattern=twee, Pattern=en dan, Pattern=een, Pattern=van, Pattern=en
+	Constrained: Pattern=en, Pattern=dan
+Turn ID=5| B | B : I
+	Free: Pattern=I
+	Constrained: 
+Turn ID=6| A | A : en dan hebben die twee van die balk aan de zijkant aan de rechterkant
+	Free: Pattern=en dan, Pattern=aan de, Pattern=die twee, Pattern=van, Pattern=aan de rechterkant, Pattern=die
+	Constrained: Pattern=twee, Pattern=aan de, Pattern=dan, Pattern=rechterkant, Pattern=die, Pattern=en, Pattern=de, Pattern=aan
+Turn ID=7| A | A : en nog een neusje
+	Free: Pattern=en, Pattern=een
+	Constrained: 
+Turn ID=8| A | A : twee van die balk waar wel een gaa tussen zitten
+	Free: Pattern=twee, Pattern=een, Pattern=van, Pattern=die, Pattern=zitten
+	Constrained: 
+Turn ID=9| A | A : waar wel een
+	Free: Pattern=een
+	Constrained: 
+Turn ID=10| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=11| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=12| A | A : ja een staart
+	Free: Pattern=ja, Pattern=een
+	Constrained: 
+Turn ID=13| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=14| A | A : I
+	Free: Pattern=I
+	Constrained: 
+Turn ID=15| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=16| B | B : dit zijn weer dat ding met een soort van hoedje aan bovenop en dan twee blok rechts
+	Free: Pattern=twee, Pattern=aan, Pattern=en dan, Pattern=een, Pattern=met, Pattern=van, Pattern=zijn, Pattern=dat, Pattern=bovenop
+	Constrained: Pattern=en, Pattern=dan
+Turn ID=17| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=18| A | A : ja dat
+	Free: Pattern=dat, Pattern=ja
+	Constrained: 
+Turn ID=19| A | A : ja nummer twee
+	Free: Pattern=ja, Pattern=twee
+	Constrained: 
+Turn ID=20| B | B : en zo'n ja buis ding link
+	Free: Pattern=ja, Pattern=en
+	Constrained: 
+Turn ID=21| B | B : onderaan
+	Free: 
+	Constrained: 
+Turn ID=22| A | A : dat isteken en dat met die afgevlakte piramide
+	Free: Pattern=met die, Pattern=dat, Pattern=en
+	Constrained: Pattern=die, Pattern=met
+Turn ID=23| B | B : rechterkant en twee ding links
+	Free: Pattern=en, Pattern=rechterkant, Pattern=twee
+	Constrained: 
+Turn ID=24| B | B : M
+	Free: 
+	Constrained: 
+Turn ID=25| A | A : met de
+	Free: Pattern=de, Pattern=met
+	Constrained: 
+Turn ID=26| A | A : nummer negen
+	Free: 
+	Constrained: 
+Turn ID=27| B | B : dit zijn weer met die twee blok aan de rechterkant diezelfde grootte en dan zo'n hoedje bovenop
+	Free: Pattern=en dan, Pattern=die twee, Pattern=aan de rechterkant, Pattern=zijn, Pattern=met die, Pattern=bovenop
+	Constrained: Pattern=twee, Pattern=aan de, Pattern=dan, Pattern=rechterkant, Pattern=met, Pattern=die, Pattern=en, Pattern=de, Pattern=aan
+Turn ID=28| B | B : en twee dinget link
+	Free: Pattern=en, Pattern=twee
+	Constrained: 
+Turn ID=29| A | A : het isteken en de afgevlakte piramide
+	Free: Pattern=het, Pattern=en, Pattern=de
+	Constrained: 
+Turn ID=30| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=31| B | B : F
+	Free: 
+	Constrained: 
+Turn ID=32| A | A : ja dat zijn nummer zes
+	Free: Pattern=dat, Pattern=ja, Pattern=zijn
+	Constrained: 
+Turn ID=33| B | B : dit zijn weer die met dat soort van hoedje en die twee blok rechts en twee dinget link
+	Free: Pattern=dat, Pattern=twee, Pattern=die twee, Pattern=met, Pattern=die, Pattern=zijn, Pattern=van, Pattern=en
+	Constrained: Pattern=die, Pattern=twee

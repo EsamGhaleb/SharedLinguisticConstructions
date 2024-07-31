@@ -1,0 +1,87 @@
+B|0| B: oké 
+B|1| B: one even kijken deze hebben _bovenop_ een een _soort_ rechthoekig _balk_ liggen 
+B|2| B: bijna over _de_ heel lengte _en_ _ja_ links hebben _die_ een _soort_ van _ja_ waar kunnen je het mee vergelijken ? een _soort_ muilkorf _voor_ een hond eraan hangen 
+A|3| A: [ja] precies [en] dan zo'n [soort] _bezemp_ 
+B|4| B: [ja] Bezempje onder _zijn_ arm _aan de_ [ja] 
+A|5| A: _aan de ander kant ja_ 
+B|6| B: [aan de ander kant ja] 
+A|7| A: _dat zijn_ acht _voor mij_ 
+A|8| A: _dit zijn_ _die met_ [ja] [de] horizontaal _balk bovenop_ [en] [de] [de] bezem 
+B|9| B: ik weten welk je bedoelen [ja] 
+B|10| B: [dat _zijn] voor mij_ E 
+B|11| B: [dit zijn] weer [die met] het [bezemp] [en] het [balk bovenop] 
+A|12| A: [die] [zijn voor mij] yes [dat zijn] één [voor mij] 
+A|13| A: [ja] [dit zijn] [de] [de] _schoonmaakrobot_ [met] [de] bezem [en] [de] [dat] ding [bovenop] 
+B|14| B: [schoonmaakrobot] 
+B|15| B: ik vinden hem goed vinden [dat zijn] E [voor mij] 
+B|16| B: even kijken one's het hoe zeggen je [dat] nou ? het schoonmaakrobo [met] Bezempje 
+A|17| A: yes 
+A|18| A: [dat zijn] zestien [voor mij] 
+A|19| A: [dit zijn] [de] [schoonmaakrobot] 
+B|20| B: [die] moeten ik weten [dat zijn] O 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : oké
+	Free: 
+	Constrained: 
+Turn ID=1| B | B : one even kijken deze hebben bovenop een een soort rechthoekig balk liggen
+	Free: Pattern=bovenop, Pattern=balk, Pattern=soort
+	Constrained: 
+Turn ID=2| B | B : bijna over de heel lengte en ja links hebben die een soort van ja waar kunnen je het mee vergelijken ? een soort muilkorf voor een hond eraan hangen
+	Free: Pattern=soort, Pattern=voor, Pattern=die, Pattern=en, Pattern=de, Pattern=ja
+	Constrained: 
+Turn ID=3| A | A : ja precies en dan zo'n soort bezemp
+	Free: Pattern=ja, Pattern=en, Pattern=bezemp, Pattern=soort
+	Constrained: 
+Turn ID=4| B | B : ja Bezempje onder zijn arm aan de ja
+	Free: Pattern=aan de, Pattern=ja, Pattern=zijn
+	Constrained: Pattern=de
+Turn ID=5| A | A : aan de ander kant ja
+	Free: Pattern=aan de ander kant ja
+	Constrained: Pattern=de, Pattern=aan de, Pattern=ja
+Turn ID=6| B | B : aan de ander kant ja
+	Free: Pattern=aan de ander kant ja
+	Constrained: Pattern=de, Pattern=aan de, Pattern=ja
+Turn ID=7| A | A : dat zijn acht voor mij
+	Free: Pattern=dat zijn, Pattern=voor mij
+	Constrained: Pattern=zijn, Pattern=voor, Pattern=dat
+Turn ID=8| A | A : dit zijn die met ja de horizontaal balk bovenop en de de bezem
+	Free: Pattern=balk bovenop, Pattern=die met, Pattern=en, Pattern=dit zijn, Pattern=de, Pattern=ja
+	Constrained: Pattern=bovenop, Pattern=balk, Pattern=met, Pattern=die, Pattern=zijn
+Turn ID=9| B | B : ik weten welk je bedoelen ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=10| B | B : dat zijn voor mij E
+	Free: Pattern=zijn voor mij, Pattern=dat zijn
+	Constrained: Pattern=voor mij, Pattern=voor, Pattern=dat, Pattern=zijn
+Turn ID=11| B | B : dit zijn weer die met het bezemp en het balk bovenop
+	Free: Pattern=balk bovenop, Pattern=die met, Pattern=en, Pattern=bezemp, Pattern=dit zijn
+	Constrained: Pattern=bovenop, Pattern=balk, Pattern=met, Pattern=die, Pattern=zijn
+Turn ID=12| A | A : die zijn voor mij yes dat zijn één voor mij
+	Free: Pattern=zijn voor mij, Pattern=dat zijn, Pattern=voor mij, Pattern=die
+	Constrained: Pattern=voor mij, Pattern=voor, Pattern=dat, Pattern=zijn
+Turn ID=13| A | A : ja dit zijn de de schoonmaakrobot met de bezem en de dat ding bovenop
+	Free: Pattern=schoonmaakrobot, Pattern=met, Pattern=en, Pattern=dit zijn, Pattern=dat, Pattern=bovenop, Pattern=de, Pattern=ja
+	Constrained: Pattern=zijn
+Turn ID=14| B | B : schoonmaakrobot
+	Free: Pattern=schoonmaakrobot
+	Constrained: 
+Turn ID=15| B | B : ik vinden hem goed vinden dat zijn E voor mij
+	Free: Pattern=dat zijn, Pattern=voor mij
+	Constrained: Pattern=zijn, Pattern=voor, Pattern=dat
+Turn ID=16| B | B : even kijken one's het hoe zeggen je dat nou ? het schoonmaakrobo met Bezempje
+	Free: Pattern=met, Pattern=dat
+	Constrained: 
+Turn ID=17| A | A : yes
+	Free: 
+	Constrained: 
+Turn ID=18| A | A : dat zijn zestien voor mij
+	Free: Pattern=dat zijn, Pattern=voor mij
+	Constrained: Pattern=zijn, Pattern=voor, Pattern=dat
+Turn ID=19| A | A : dit zijn de schoonmaakrobot
+	Free: Pattern=dit zijn, Pattern=de, Pattern=schoonmaakrobot
+	Constrained: Pattern=zijn
+Turn ID=20| B | B : die moeten ik weten dat zijn O
+	Free: Pattern=dat zijn, Pattern=die
+	Constrained: Pattern=zijn, Pattern=dat

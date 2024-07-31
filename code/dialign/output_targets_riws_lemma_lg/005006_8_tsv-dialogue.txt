@@ -1,0 +1,131 @@
+A|0| A: _o_ moeten ik nou _weer_ ? _ja_ _ja_ _het_ _hebben een_ _neus_ _een_ 
+B|1| B: [ja] 
+A|2| A: _niet_ _een_ rond zeggen maar maar _zo'n_ hexagon _en_ dan _een_ _lang_ staaf _en bovenin_ _hebben_ _hij_ 
+A|3| A: _een_ dubbel _vierkantje_ _waar_ ook ding uitsteken 
+A|4| A: dubbel _vierkan wat_ _er_ schuin in _zitten_ _en _aan de_ onderkant_ _hebben_ _je_ _een soort van vierkantje_ als _een soort van_ _glijbaan_ _zijn_ of _zo_ _wat_ _er uit_ komen 
+B|5| B: [o] eigenlijk [zo'n] slurf [zo] 
+A|6| A: [ja] _er uit_ _en_ 
+B|7| B: [ja] [en aan de] bovenkant [een soort van vierkantje] inderdaad _met_ [aan] beide kant iets _er uit steken_ 
+A|8| A: [ja] [ja] 
+B|9| B: [en] link [zitten] [een soort van] [ja] _armp ja_ _dat_ [zijn] M 
+A|10| A: [armp ja] 
+A|11| A: waarom [zijn] _het_ nou opeens allemaal hetzelfde dan 
+B|12| B: [ja] weten [niet] maken [het] wel makkelijk 
+B|13| B: [het] [zijn] zegmaar _die met_ [zo'n] [vierkantje] bovenop _die_ [aan] beide kant doorboren [zijn] [aan de onderkant] [zitten] [weer] [zo'n] gek 
+B|14| B: [glijbaan] [waar] [je] [het] net over [hebben] [en] [hij] [hebben een] heel [lang] [neus] bij wijze [van] spreken 
+A|15| A: [ja] negen 
+A|16| A: deze [hebben] [dat] [vierkantje] _wat_ schuin [zitten] [waar] ding uitkomen [en] _dat glijbaan_ [aan de onderkant] 
+B|17| B: [ja] [en] _met_ _die_ [neus] [ja] H 
+A|18| A: [ja] 
+B|19| B: [dat glijbaan] onderin [en bovenin] [zo'n] vierkant [wat] doorboren [zijn] [aan] beide kant 
+A|20| A: elf 
+A|21| A: [die met] [dat] [vierkantje] [wat] [zo] schuin staan [en] twee ding [er uit steken] [en] [dat] gleufje [en] _die arm_ 
+B|22| B: even kijken 
+B|23| B: even kijken [met] [die arm] 
+A|24| A: [ja] [aan de] zijkant [steken] [een] armpie [uit] 
+A|25| A: [en aan de] voorkant [zo'n] [lang] 
+B|26| B: [dat] bovenste [vierkan wat] doorboren [zijn] [aan] beide kant 
+A|27| A: [ja] 
+A|28| A: [ja] 
+B|29| B: [o] [ja] [dat] [ja] sorry D 
+B|30| B: [dat glijbaan] onderaan [en] doorbooren vierkant [aan] beide kant bovenaan 
+A|31| A: veertien 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : o moeten ik nou weer ? ja ja het hebben een neus een
+	Free: Pattern=hebben een, Pattern=ja, Pattern=een, Pattern=het, Pattern=neus, Pattern=weer, Pattern=o
+	Constrained: Pattern=hebben, Pattern=een
+Turn ID=1| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=2| A | A : niet een rond zeggen maar maar zo'n hexagon en dan een lang staaf en bovenin hebben hij
+	Free: Pattern=zo'n, Pattern=niet, Pattern=een, Pattern=hebben, Pattern=hij, Pattern=lang, Pattern=en bovenin, Pattern=en
+	Constrained: Pattern=en
+Turn ID=3| A | A : een dubbel vierkantje waar ook ding uitsteken
+	Free: Pattern=waar, Pattern=vierkantje, Pattern=een
+	Constrained: 
+Turn ID=4| A | A : dubbel vierkan wat er schuin in zitten en aan de onderkant hebben je een soort van vierkantje als een soort van glijbaan zijn of zo wat er uit komen
+	Free: Pattern=een soort van vierkantje, Pattern=hebben, Pattern=aan de onderkant, Pattern=zo, Pattern=een soort van, Pattern=zitten, Pattern=zijn, Pattern=je, Pattern=en aan de, Pattern=vierkan wat, Pattern=er uit, Pattern=wat, Pattern=glijbaan, Pattern=er
+	Constrained: Pattern=aan, Pattern=een, Pattern=een soort van, Pattern=vierkantje, Pattern=uit, Pattern=aan de, Pattern=wat, Pattern=er, Pattern=van, Pattern=en
+Turn ID=5| B | B : o eigenlijk zo'n slurf zo
+	Free: Pattern=zo'n, Pattern=zo, Pattern=o
+	Constrained: 
+Turn ID=6| A | A : ja er uit en
+	Free: Pattern=er uit, Pattern=ja, Pattern=en
+	Constrained: Pattern=er, Pattern=uit
+Turn ID=7| B | B : ja en aan de bovenkant een soort van vierkantje inderdaad met aan beide kant iets er uit steken
+	Free: Pattern=een soort van vierkantje, Pattern=met, Pattern=er uit steken, Pattern=en aan de, Pattern=aan, Pattern=ja
+	Constrained: Pattern=er uit, Pattern=aan, Pattern=een, Pattern=een soort van, Pattern=vierkantje, Pattern=er, Pattern=steken, Pattern=uit, Pattern=aan de, Pattern=van, Pattern=en
+Turn ID=8| A | A : ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=9| B | B : en link zitten een soort van ja armp ja dat zijn M
+	Free: Pattern=dat, Pattern=ja, Pattern=een soort van, Pattern=zitten, Pattern=armp ja, Pattern=en, Pattern=zijn
+	Constrained: Pattern=ja, Pattern=van, Pattern=een
+Turn ID=10| A | A : armp ja
+	Free: Pattern=armp ja
+	Constrained: Pattern=ja
+Turn ID=11| A | A : waarom zijn het nou opeens allemaal hetzelfde dan
+	Free: Pattern=zijn, Pattern=het
+	Constrained: 
+Turn ID=12| B | B : ja weten niet maken het wel makkelijk
+	Free: Pattern=ja, Pattern=niet, Pattern=het
+	Constrained: 
+Turn ID=13| B | B : het zijn zegmaar die met zo'n vierkantje bovenop die aan beide kant doorboren zijn aan de onderkant zitten weer zo'n gek
+	Free: Pattern=zo'n, Pattern=aan, Pattern=het, Pattern=aan de onderkant, Pattern=die met, Pattern=vierkantje, Pattern=zijn, Pattern=weer, Pattern=die, Pattern=zitten
+	Constrained: Pattern=aan, Pattern=met, Pattern=aan de, Pattern=die
+Turn ID=14| B | B : glijbaan waar je het net over hebben en hij hebben een heel lang neus bij wijze van spreken
+	Free: Pattern=hebben een, Pattern=waar, Pattern=het, Pattern=hebben, Pattern=hij, Pattern=neus, Pattern=glijbaan, Pattern=lang, Pattern=je, Pattern=van, Pattern=en
+	Constrained: Pattern=hebben, Pattern=een
+Turn ID=15| A | A : ja negen
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=16| A | A : deze hebben dat vierkantje wat schuin zitten waar ding uitkomen en dat glijbaan aan de onderkant
+	Free: Pattern=dat, Pattern=waar, Pattern=hebben, Pattern=aan de onderkant, Pattern=dat glijbaan, Pattern=vierkantje, Pattern=zitten, Pattern=wat, Pattern=en
+	Constrained: Pattern=aan, Pattern=dat, Pattern=glijbaan, Pattern=aan de
+Turn ID=17| B | B : ja en met die neus ja H
+	Free: Pattern=ja, Pattern=neus, Pattern=met, Pattern=die, Pattern=en
+	Constrained: 
+Turn ID=18| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=19| B | B : dat glijbaan onderin en bovenin zo'n vierkant wat doorboren zijn aan beide kant
+	Free: Pattern=zo'n, Pattern=aan, Pattern=dat glijbaan, Pattern=wat, Pattern=en bovenin, Pattern=zijn
+	Constrained: Pattern=glijbaan, Pattern=dat, Pattern=en
+Turn ID=20| A | A : elf
+	Free: 
+	Constrained: 
+Turn ID=21| A | A : die met dat vierkantje wat zo schuin staan en twee ding er uit steken en dat gleufje en die arm
+	Free: Pattern=dat, Pattern=die arm, Pattern=zo, Pattern=die met, Pattern=vierkantje, Pattern=er uit steken, Pattern=wat, Pattern=en
+	Constrained: Pattern=er uit, Pattern=uit, Pattern=met, Pattern=die, Pattern=er, Pattern=steken
+Turn ID=22| B | B : even kijken
+	Free: 
+	Constrained: 
+Turn ID=23| B | B : even kijken met die arm
+	Free: Pattern=die arm, Pattern=met
+	Constrained: Pattern=die
+Turn ID=24| A | A : ja aan de zijkant steken een armpie uit
+	Free: Pattern=ja, Pattern=een, Pattern=steken, Pattern=uit, Pattern=aan de
+	Constrained: Pattern=aan
+Turn ID=25| A | A : en aan de voorkant zo'n lang
+	Free: Pattern=en aan de, Pattern=zo'n, Pattern=lang
+	Constrained: Pattern=aan de, Pattern=aan, Pattern=en
+Turn ID=26| B | B : dat bovenste vierkan wat doorboren zijn aan beide kant
+	Free: Pattern=vierkan wat, Pattern=dat, Pattern=zijn, Pattern=aan
+	Constrained: Pattern=wat
+Turn ID=27| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=28| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=29| B | B : o ja dat ja sorry D
+	Free: Pattern=ja, Pattern=dat, Pattern=o
+	Constrained: 
+Turn ID=30| B | B : dat glijbaan onderaan en doorbooren vierkant aan beide kant bovenaan
+	Free: Pattern=dat glijbaan, Pattern=aan, Pattern=en
+	Constrained: Pattern=glijbaan, Pattern=dat
+Turn ID=31| A | A : veertien
+	Free: 
+	Constrained: 

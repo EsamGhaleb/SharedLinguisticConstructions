@@ -1,0 +1,151 @@
+B|0| B: _ja_ 
+B|1| B: _soort_ _van_ hengel uitsteeksel 
+B|2| B: p 
+A|3| A: even kijken zo'n beker _met_ _een_ [soort] ei wat erboven drijven 
+A|4| A: _met_ _twee_ armp _aan de_ zijkant 
+A|5| A: _en een_ [soort] staafje _aan de_ voorzijde 
+A|6| A: iets veel _aan de_ rechterkant inderdaad 
+B|7| B: deze _hebben_ we al _hebben_ _er_ _zitten_ bovenop _zitten_ _er een_ bal 
+B|8| B: _aan beide_ kant komen _er_ [twee] [soort] _van_ handvaten uit 
+B|9| B: [en] voorop _zijn_ _er een_ lang rechthoekig ding 
+B|10| B: _ja_ 
+B|11| B: _ja_ 
+B|12| B: J 
+B|13| B: deze _hebben_ [een] bal bovenop 
+B|14| B: [en] [twee] handvat [soort] _van_ _die_ eruit komen 
+B|15| B: [en] _er_ _zitten_ [een] staaf voorop 
+A|16| A: okee dus dat _aan de_ bovenzijde [van] _de_ beker hangen [er een] [soort] ei 
+A|17| A: [en] [die] [hebben] laten maar zeggen dat bekertje [twee] hand _en een_ [soort] balk _aan de_ voorzijde 
+A|18| A: [ja] okee 
+A|19| A: dan [zijn] het nummer twaalf 
+B|20| B: [ja] J 
+B|21| B: dit [zijn] [die] [met] [die] bal bovenop [twee] handvaten [aan de] [aan de] _beide_ kant [en een] staaf voorop 
+A|22| A: dat [zijn] [een] ei wat boven [zitten] 
+A|23| A: boven het beker 
+A|24| A: [met] [twee] armp zowel links [en] rechts [en een] [soort] balkje [aan de] voorzijde 
+A|25| A: even kijken welk [zijn] het ook alweer 
+A|26| A: [een] ei boven 
+A|27| A: [en] nog [een] [soort] blok wat rechtsvoor [zitten] 
+A|28| A: [ja] waarop [die] lijken vastgeplakt te [zitten] 
+A|29| A: dus 
+A|30| A: okee korfbal noemen jij [die] 
+A|31| A: okee dan [zijn] het nummer elf 
+A|32| A: [een] ei erboven [met] [twee] hand [aan beide] zijd [en] [met] [een] staafje rechtsvoor 
+A|33| A: dus beker [zitten] vast [aan] het staafje [en] [de] lucht 
+A|34| A: [ja] [die] vergeet ik telkens 
+A|35| A: [die] [ja] 
+A|36| A: nummer tien 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=1| B | B : soort van hengel uitsteeksel
+	Free: Pattern=soort, Pattern=van
+	Constrained: 
+Turn ID=2| B | B : p
+	Free: 
+	Constrained: 
+Turn ID=3| A | A : even kijken zo'n beker met een soort ei wat erboven drijven
+	Free: Pattern=soort, Pattern=met, Pattern=een
+	Constrained: 
+Turn ID=4| A | A : met twee armp aan de zijkant
+	Free: Pattern=aan de, Pattern=twee, Pattern=met
+	Constrained: Pattern=de, Pattern=aan
+Turn ID=5| A | A : en een soort staafje aan de voorzijde
+	Free: Pattern=aan de, Pattern=en een, Pattern=soort
+	Constrained: Pattern=en, Pattern=de, Pattern=aan, Pattern=een
+Turn ID=6| A | A : iets veel aan de rechterkant inderdaad
+	Free: Pattern=aan de
+	Constrained: Pattern=de, Pattern=aan
+Turn ID=7| B | B : deze hebben we al hebben er zitten bovenop zitten er een bal
+	Free: Pattern=er een, Pattern=er, Pattern=hebben, Pattern=zitten
+	Constrained: Pattern=er, Pattern=een
+Turn ID=8| B | B : aan beide kant komen er twee soort van handvaten uit
+	Free: Pattern=soort, Pattern=twee, Pattern=aan beide, Pattern=er, Pattern=van
+	Constrained: Pattern=aan, Pattern=beide
+Turn ID=9| B | B : en voorop zijn er een lang rechthoekig ding
+	Free: Pattern=er een, Pattern=en, Pattern=zijn
+	Constrained: Pattern=er, Pattern=een
+Turn ID=10| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=11| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=12| B | B : J
+	Free: 
+	Constrained: 
+Turn ID=13| B | B : deze hebben een bal bovenop
+	Free: Pattern=hebben, Pattern=een
+	Constrained: 
+Turn ID=14| B | B : en twee handvat soort van die eruit komen
+	Free: Pattern=soort, Pattern=twee, Pattern=die, Pattern=van, Pattern=en
+	Constrained: 
+Turn ID=15| B | B : en er zitten een staaf voorop
+	Free: Pattern=er, Pattern=en, Pattern=een, Pattern=zitten
+	Constrained: 
+Turn ID=16| A | A : okee dus dat aan de bovenzijde van de beker hangen er een soort ei
+	Free: Pattern=soort, Pattern=de, Pattern=aan de, Pattern=er een, Pattern=van
+	Constrained: Pattern=er, Pattern=de, Pattern=aan, Pattern=een
+Turn ID=17| A | A : en die hebben laten maar zeggen dat bekertje twee hand en een soort balk aan de voorzijde
+	Free: Pattern=soort, Pattern=twee, Pattern=aan de, Pattern=hebben, Pattern=die, Pattern=en, Pattern=en een
+	Constrained: Pattern=en, Pattern=de, Pattern=aan, Pattern=een
+Turn ID=18| A | A : ja okee
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=19| A | A : dan zijn het nummer twaalf
+	Free: Pattern=zijn
+	Constrained: 
+Turn ID=20| B | B : ja J
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=21| B | B : dit zijn die met die bal bovenop twee handvaten aan de aan de beide kant en een staaf voorop
+	Free: Pattern=twee, Pattern=aan de, Pattern=met, Pattern=die, Pattern=beide, Pattern=en een, Pattern=zijn
+	Constrained: Pattern=en, Pattern=de, Pattern=aan, Pattern=een
+Turn ID=22| A | A : dat zijn een ei wat boven zitten
+	Free: Pattern=zijn, Pattern=een, Pattern=zitten
+	Constrained: 
+Turn ID=23| A | A : boven het beker
+	Free: 
+	Constrained: 
+Turn ID=24| A | A : met twee armp zowel links en rechts en een soort balkje aan de voorzijde
+	Free: Pattern=soort, Pattern=twee, Pattern=aan de, Pattern=met, Pattern=en, Pattern=en een
+	Constrained: Pattern=en, Pattern=de, Pattern=aan, Pattern=een
+Turn ID=25| A | A : even kijken welk zijn het ook alweer
+	Free: Pattern=zijn
+	Constrained: 
+Turn ID=26| A | A : een ei boven
+	Free: Pattern=een
+	Constrained: 
+Turn ID=27| A | A : en nog een soort blok wat rechtsvoor zitten
+	Free: Pattern=en, Pattern=soort, Pattern=een, Pattern=zitten
+	Constrained: 
+Turn ID=28| A | A : ja waarop die lijken vastgeplakt te zitten
+	Free: Pattern=die, Pattern=ja, Pattern=zitten
+	Constrained: 
+Turn ID=29| A | A : dus
+	Free: 
+	Constrained: 
+Turn ID=30| A | A : okee korfbal noemen jij die
+	Free: Pattern=die
+	Constrained: 
+Turn ID=31| A | A : okee dan zijn het nummer elf
+	Free: Pattern=zijn
+	Constrained: 
+Turn ID=32| A | A : een ei erboven met twee hand aan beide zijd en met een staafje rechtsvoor
+	Free: Pattern=twee, Pattern=een, Pattern=aan beide, Pattern=met, Pattern=en
+	Constrained: Pattern=aan, Pattern=beide
+Turn ID=33| A | A : dus beker zitten vast aan het staafje en de lucht
+	Free: Pattern=en, Pattern=de, Pattern=aan, Pattern=zitten
+	Constrained: 
+Turn ID=34| A | A : ja die vergeet ik telkens
+	Free: Pattern=die, Pattern=ja
+	Constrained: 
+Turn ID=35| A | A : die ja
+	Free: Pattern=die, Pattern=ja
+	Constrained: 
+Turn ID=36| A | A : nummer tien
+	Free: 
+	Constrained: 

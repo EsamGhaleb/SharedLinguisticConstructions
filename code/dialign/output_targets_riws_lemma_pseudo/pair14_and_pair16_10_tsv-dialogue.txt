@@ -1,0 +1,143 @@
+A|0| A: bij deze misgaan er _zeggen maar_ door _het_ basisfiguur _gaan_ zo'n groot _staaf_ doorheen 
+A|1| A: _en_ _aan de achterkant_ _zitten_ zo'n vierkant er schuin _aan_ vast _waar_ _nog_ zo'n 
+A|2| A: _ah _ja_ ja_ _soort van_ petaal pedaal erachter _ja_ 
+A|3| A: _ja_ klpen _ja_ 
+A|4| A: _ja_ 
+B|5| B: [ja ja] 
+B|6| B: [ja] een [soort van] zonne-energiepaneeltje [aan de achterkant] [ja] 
+B|7| B: _ik_ weten [het] anders ook _niet_ [ja] 
+B|8| B: okee [ja] _ik_ denken _ik_ hem wel weten 
+B|9| B: _ik_ [gaan] voor c 
+A|10| A: [ja] _met_ die _met_ die [ja] _met_ die stang erdoorheen 
+A|11| A: [ja] 
+A|12| A: dat _zijn_ zestien 
+B|13| B: [ah ja] 
+B|14| B: [ja] hier _dit zijn_ [het] kop [waar] zelf niks op [zitten] [zeggen maar] 
+B|15| B: [maar] [waar] [aan de achterkant] een [soort van] rond [staaf] liggen [met] uiteinde bollet 
+B|16| B: [en] een een een zonne-energiepaneeltje weten je [nog] 
+B|17| B: [ja] 
+A|18| A: deze [zijn] weer [met] dat petaal pedaal er achterop 
+A|19| A: [waar] [zeggen maar] die die [staaf] doorheen steekt [en] die pedaal erachter 
+A|20| A: [ja ja] 
+B|21| B: [ja] 
+B|22| B: alright dan [gaan] _ik_ voor a 
+A|23| A: [aan de] zijkant 
+A|24| A: [ja] dat [zijn] zeven 
+A|25| A: [dit zijn] [met] dat petaal petaal er weer achterop 
+A|26| A: [het] pedaal achterop [zeggen maar] 
+A|27| A: [ja] 
+A|28| A: sorry [ik] kunnen [het] even [niet] uitspreken 
+A|29| A: [ik] kunnen [het] 
+B|30| B: kop [met] [aan de achterkant] een hoe heten [het] een [soort] pen [met] [met] bollet [aan de] [aan] beide kant [en] een zonnepaneel 
+A|31| A: [ja] achten 
+B|32| B: [ik] [gaan] voor b [ja] 
+B|33| B: nou [ja] 
+B|34| B: zonne-energiedakje 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : bij deze misgaan er zeggen maar door het basisfiguur gaan zo'n groot staaf doorheen
+	Free: Pattern=zeggen maar, Pattern=staaf, Pattern=gaan, Pattern=het
+	Constrained: Pattern=maar
+Turn ID=1| A | A : en aan de achterkant zitten zo'n vierkant er schuin aan vast waar nog zo'n
+	Free: Pattern=aan de achterkant, Pattern=nog, Pattern=aan, Pattern=waar, Pattern=zitten, Pattern=en
+	Constrained: Pattern=aan, Pattern=aan de
+Turn ID=2| A | A : ah ja ja soort van petaal pedaal erachter ja
+	Free: Pattern=ah ja, Pattern=soort van, Pattern=ja ja, Pattern=ja
+	Constrained: Pattern=soort, Pattern=ja
+Turn ID=3| A | A : ja klpen ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=4| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=5| B | B : ja ja
+	Free: Pattern=ja ja
+	Constrained: Pattern=ja
+Turn ID=6| B | B : ja een soort van zonne-energiepaneeltje aan de achterkant ja
+	Free: Pattern=aan de achterkant, Pattern=soort van, Pattern=ja
+	Constrained: Pattern=aan, Pattern=aan de, Pattern=soort
+Turn ID=7| B | B : ik weten het anders ook niet ja
+	Free: Pattern=niet, Pattern=ik, Pattern=ja, Pattern=het
+	Constrained: 
+Turn ID=8| B | B : okee ja ik denken ik hem wel weten
+	Free: Pattern=ik, Pattern=ja
+	Constrained: 
+Turn ID=9| B | B : ik gaan voor c
+	Free: Pattern=ik, Pattern=gaan
+	Constrained: 
+Turn ID=10| A | A : ja met die met die ja met die stang erdoorheen
+	Free: Pattern=ja, Pattern=met
+	Constrained: 
+Turn ID=11| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=12| A | A : dat zijn zestien
+	Free: Pattern=zijn
+	Constrained: 
+Turn ID=13| B | B : ah ja
+	Free: Pattern=ah ja
+	Constrained: Pattern=ja
+Turn ID=14| B | B : ja hier dit zijn het kop waar zelf niks op zitten zeggen maar
+	Free: Pattern=ja, Pattern=waar, Pattern=zeggen maar, Pattern=het, Pattern=zitten, Pattern=dit zijn
+	Constrained: Pattern=zijn, Pattern=maar
+Turn ID=15| B | B : maar waar aan de achterkant een soort van rond staaf liggen met uiteinde bollet
+	Free: Pattern=aan de achterkant, Pattern=met, Pattern=waar, Pattern=staaf, Pattern=soort van, Pattern=maar
+	Constrained: Pattern=aan, Pattern=aan de, Pattern=soort
+Turn ID=16| B | B : en een een een zonne-energiepaneeltje weten je nog
+	Free: Pattern=en, Pattern=nog
+	Constrained: 
+Turn ID=17| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=18| A | A : deze zijn weer met dat petaal pedaal er achterop
+	Free: Pattern=zijn, Pattern=met
+	Constrained: 
+Turn ID=19| A | A : waar zeggen maar die die staaf doorheen steekt en die pedaal erachter
+	Free: Pattern=zeggen maar, Pattern=en, Pattern=waar, Pattern=staaf
+	Constrained: Pattern=maar
+Turn ID=20| A | A : ja ja
+	Free: Pattern=ja ja
+	Constrained: Pattern=ja
+Turn ID=21| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=22| B | B : alright dan gaan ik voor a
+	Free: Pattern=ik, Pattern=gaan
+	Constrained: 
+Turn ID=23| A | A : aan de zijkant
+	Free: Pattern=aan de
+	Constrained: Pattern=aan
+Turn ID=24| A | A : ja dat zijn zeven
+	Free: Pattern=zijn, Pattern=ja
+	Constrained: 
+Turn ID=25| A | A : dit zijn met dat petaal petaal er weer achterop
+	Free: Pattern=dit zijn, Pattern=met
+	Constrained: Pattern=zijn
+Turn ID=26| A | A : het pedaal achterop zeggen maar
+	Free: Pattern=zeggen maar, Pattern=het
+	Constrained: Pattern=maar
+Turn ID=27| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=28| A | A : sorry ik kunnen het even niet uitspreken
+	Free: Pattern=niet, Pattern=ik, Pattern=het
+	Constrained: 
+Turn ID=29| A | A : ik kunnen het
+	Free: Pattern=ik, Pattern=het
+	Constrained: 
+Turn ID=30| B | B : kop met aan de achterkant een hoe heten het een soort pen met met bollet aan de aan beide kant en een zonnepaneel
+	Free: Pattern=aan de achterkant, Pattern=soort, Pattern=aan, Pattern=aan de, Pattern=het, Pattern=met, Pattern=en
+	Constrained: Pattern=aan, Pattern=aan de
+Turn ID=31| A | A : ja achten
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=32| B | B : ik gaan voor b ja
+	Free: Pattern=ik, Pattern=ja, Pattern=gaan
+	Constrained: 
+Turn ID=33| B | B : nou ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=34| B | B : zonne-energiedakje
+	Free: 
+	Constrained: 

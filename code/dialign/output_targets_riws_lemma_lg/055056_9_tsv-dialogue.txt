@@ -1,0 +1,223 @@
+B|0| B: _oké_ jij moeten raden nou 
+B|1| B: _ik hebben_ _een_ rood vierkant _en ik_ moeten _dat_ uit gaan doorleggen 
+A|2| A: [oké] [en] [en [ik] hebben] gewoon zestien dinget 
+B|3| B: nee 
+B|4| B: _ja_ jij [hebben] niks omheen _staan_ 
+A|5| A: [ja] 
+B|6| B: [ik hebben] als omschrijving _een_ _een_ _koek_ wat _je_ _in_ _de_ koffie dopen 
+B|7| B: _dus_ misschien _dat_ _je_ _daar_ _wel_ iets uit zullen kunnen halen 
+B|8| B: _met_ _een_ beetje fantasie 
+A|9| A: _zitten_ _er_ _ook_ _een lepeltje in_ 
+B|10| B: [ja] [er] [zitten] [een lepeltje in] [en] 
+A|11| A: _en een_ soort cilinderachtig ding aan [de] zijkant 
+B|12| B: [ja] _het_ _zijn_ [een] bijzonder bijzonder handvat inderdaad 
+A|13| A: [ja] 
+A|14| A: [hebben] _die ook_ _een smal onderkant_ _waar_ _die_ op staat 
+B|15| B: [ja] [hebben] [een smal onderkant] 
+A|16| A: [oké] dan dan _denken_ [ik] [dat] [ik] _hem_ [wel] weten 
+B|17| B: [ik] [denken] [dat] _je_ [de] 
+A|18| A: _dat zijn_ nummer dertien 
+B|19| B: moeten jij doordrukken 
+A|20| A: [ik hebben] [de] [het] koffiekoek 
+B|21| B: [ja] 
+A|22| A: [met] [de] [smal onderkant] 
+B|23| B: duidelijk 
+B|24| B: [dat zijn] letter O 
+A|25| A: ze [zijn] weer veranderen 
+B|26| B: [het] [ja] 
+B|27| B: [ik] zien [het] inderdaad [ik] moeten _even_ opnieuw schakelen 
+A|28| A: [dus] 
+A|29| A: [ja] 
+B|30| B: _koek_ [in] [de] koffie 
+B|31| B: [met] [een lepeltje] 
+A|32| A: [het] _rond_ [koek] 
+B|33| B: [ja] 
+A|34| A: [even] kijken _waar staan_ [je] _ook alweer_ ? [ja] [daar] 
+A|35| A: [dat zijn] nummer acht 
+A|36| A: [het] _rond_ _koffiekoekje_ 
+B|37| B: [ja] 
+B|38| B: [met] [een lepeltje] 
+A|39| A: [ja] 
+B|40| B: [en _een] raar_ oor 
+A|41| A: [ja] [een raar] [onderkant] 
+B|42| B: [dat zijn] letter C 
+B|43| B: koffiekopje [met] koekje 
+B|44| B: [rond] koekje 
+A|45| A: [het] [rond] [koek] 
+B|46| B: [ja] 
+A|47| A: hebbes 
+A|48| A: nummer zeven 
+A|49| A: _koffiekoekje_ 
+B|50| B: [koffiekoekje] [dat] ronde 
+A|51| A: [ja] 
+B|52| B: [waar staan] [die [ook] alweer] 
+B|53| B: letter C 
+B|54| B: [dat zijn] [hem] 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : oké jij moeten raden nou
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=1| B | B : ik hebben een rood vierkant en ik moeten dat uit gaan doorleggen
+	Free: Pattern=en ik, Pattern=ik hebben, Pattern=dat, Pattern=een
+	Constrained: Pattern=ik, Pattern=hebben, Pattern=en
+Turn ID=2| A | A : oké en en ik hebben gewoon zestien dinget
+	Free: Pattern=en ik, Pattern=ik hebben, Pattern=oké, Pattern=en
+	Constrained: Pattern=ik, Pattern=hebben, Pattern=en
+Turn ID=3| B | B : nee
+	Free: 
+	Constrained: 
+Turn ID=4| B | B : ja jij hebben niks omheen staan
+	Free: Pattern=ja, Pattern=staan, Pattern=hebben
+	Constrained: 
+Turn ID=5| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=6| B | B : ik hebben als omschrijving een een koek wat je in de koffie dopen
+	Free: Pattern=ik hebben, Pattern=de, Pattern=koek, Pattern=een, Pattern=in, Pattern=je
+	Constrained: Pattern=ik, Pattern=hebben
+Turn ID=7| B | B : dus misschien dat je daar wel iets uit zullen kunnen halen
+	Free: Pattern=dat, Pattern=dus, Pattern=wel, Pattern=daar, Pattern=je
+	Constrained: 
+Turn ID=8| B | B : met een beetje fantasie
+	Free: Pattern=een, Pattern=met
+	Constrained: 
+Turn ID=9| A | A : zitten er ook een lepeltje in
+	Free: Pattern=een lepeltje in, Pattern=ook, Pattern=zitten, Pattern=er
+	Constrained: Pattern=een lepeltje, Pattern=een, Pattern=in
+Turn ID=10| B | B : ja er zitten een lepeltje in en
+	Free: Pattern=ja, Pattern=zitten, Pattern=er, Pattern=en, Pattern=een lepeltje in
+	Constrained: Pattern=een lepeltje, Pattern=een, Pattern=in
+Turn ID=11| A | A : en een soort cilinderachtig ding aan de zijkant
+	Free: Pattern=en een, Pattern=de
+	Constrained: Pattern=een, Pattern=en
+Turn ID=12| B | B : ja het zijn een bijzonder bijzonder handvat inderdaad
+	Free: Pattern=zijn, Pattern=een, Pattern=ja, Pattern=het
+	Constrained: 
+Turn ID=13| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=14| A | A : hebben die ook een smal onderkant waar die op staat
+	Free: Pattern=een smal onderkant, Pattern=waar, Pattern=die ook, Pattern=hebben, Pattern=die
+	Constrained: Pattern=ook, Pattern=een, Pattern=die, Pattern=onderkant, Pattern=smal onderkant
+Turn ID=15| B | B : ja hebben een smal onderkant
+	Free: Pattern=een smal onderkant, Pattern=ja, Pattern=hebben
+	Constrained: Pattern=smal onderkant, Pattern=onderkant, Pattern=een
+Turn ID=16| A | A : oké dan dan denken ik dat ik hem wel weten
+	Free: Pattern=dat, Pattern=denken, Pattern=wel, Pattern=oké, Pattern=ik, Pattern=hem
+	Constrained: 
+Turn ID=17| B | B : ik denken dat je de
+	Free: Pattern=dat, Pattern=denken, Pattern=de, Pattern=ik, Pattern=je
+	Constrained: 
+Turn ID=18| A | A : dat zijn nummer dertien
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=19| B | B : moeten jij doordrukken
+	Free: 
+	Constrained: 
+Turn ID=20| A | A : ik hebben de het koffiekoek
+	Free: Pattern=ik hebben, Pattern=de, Pattern=het
+	Constrained: Pattern=ik, Pattern=hebben
+Turn ID=21| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=22| A | A : met de smal onderkant
+	Free: Pattern=smal onderkant, Pattern=de, Pattern=met
+	Constrained: Pattern=onderkant
+Turn ID=23| B | B : duidelijk
+	Free: 
+	Constrained: 
+Turn ID=24| B | B : dat zijn letter O
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=25| A | A : ze zijn weer veranderen
+	Free: Pattern=zijn
+	Constrained: 
+Turn ID=26| B | B : het ja
+	Free: Pattern=ja, Pattern=het
+	Constrained: 
+Turn ID=27| B | B : ik zien het inderdaad ik moeten even opnieuw schakelen
+	Free: Pattern=even, Pattern=ik, Pattern=het
+	Constrained: 
+Turn ID=28| A | A : dus
+	Free: Pattern=dus
+	Constrained: 
+Turn ID=29| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=30| B | B : koek in de koffie
+	Free: Pattern=koek, Pattern=de, Pattern=in
+	Constrained: 
+Turn ID=31| B | B : met een lepeltje
+	Free: Pattern=een lepeltje, Pattern=met
+	Constrained: Pattern=een
+Turn ID=32| A | A : het rond koek
+	Free: Pattern=rond, Pattern=koek, Pattern=het
+	Constrained: 
+Turn ID=33| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=34| A | A : even kijken waar staan je ook alweer ? ja daar
+	Free: Pattern=ook alweer, Pattern=ja, Pattern=even, Pattern=waar staan, Pattern=daar, Pattern=je
+	Constrained: Pattern=ook, Pattern=waar, Pattern=staan
+Turn ID=35| A | A : dat zijn nummer acht
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=36| A | A : het rond koffiekoekje
+	Free: Pattern=rond, Pattern=koffiekoekje, Pattern=het
+	Constrained: 
+Turn ID=37| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=38| B | B : met een lepeltje
+	Free: Pattern=een lepeltje, Pattern=met
+	Constrained: Pattern=een
+Turn ID=39| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=40| B | B : en een raar oor
+	Free: Pattern=een raar, Pattern=en een
+	Constrained: Pattern=een, Pattern=en
+Turn ID=41| A | A : ja een raar onderkant
+	Free: Pattern=een raar, Pattern=onderkant, Pattern=ja
+	Constrained: Pattern=een
+Turn ID=42| B | B : dat zijn letter C
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=43| B | B : koffiekopje met koekje
+	Free: Pattern=met
+	Constrained: 
+Turn ID=44| B | B : rond koekje
+	Free: Pattern=rond
+	Constrained: 
+Turn ID=45| A | A : het rond koek
+	Free: Pattern=rond, Pattern=koek, Pattern=het
+	Constrained: 
+Turn ID=46| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=47| A | A : hebbes
+	Free: 
+	Constrained: 
+Turn ID=48| A | A : nummer zeven
+	Free: 
+	Constrained: 
+Turn ID=49| A | A : koffiekoekje
+	Free: Pattern=koffiekoekje
+	Constrained: 
+Turn ID=50| B | B : koffiekoekje dat ronde
+	Free: Pattern=dat, Pattern=koffiekoekje
+	Constrained: 
+Turn ID=51| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=52| B | B : waar staan die ook alweer
+	Free: Pattern=waar staan, Pattern=die ook, Pattern=ook alweer
+	Constrained: Pattern=waar, Pattern=die, Pattern=staan, Pattern=ook
+Turn ID=53| B | B : letter C
+	Free: 
+	Constrained: 
+Turn ID=54| B | B : dat zijn hem
+	Free: Pattern=dat zijn, Pattern=hem
+	Constrained: Pattern=dat, Pattern=zijn

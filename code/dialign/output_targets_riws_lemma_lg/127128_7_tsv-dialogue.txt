@@ -1,0 +1,167 @@
+B|0| B: _dit zijn_ _een_ mok _met_ _een soort van_ weegschaal slash wipwap ervoor 
+B|1| B: er zitten zo'n _ja_ trapezium zitten ervoor 
+B|2| B: _en_ _het_ _zijn_ echt _een soort van_ bank _met_ twee poot 
+B|3| B: _en_ er opsteken aan de achterkant nog zo'n klein dinge uit 
+A|4| A: [ja] [en] op _dat_ [ja] _ik_ vinden [het] [een] _tafel_ _die_ wat zo optild 
+B|5| B: [tafel] [ja] kunnen _ook_ 
+A|6| A: daar _staan_ [een soort van] bakje op zeggen maar 
+B|7| B: [ja] 
+B|8| B: [ja] 
+A|9| A: oké [ja] _dat zijn_ nummer zestien 
+B|10| B: [een] saladeschaal 
+B|11| B: picknickbank 
+A|12| A: [ja] 
+A|13| A: [ja] 
+B|14| B: [ja] 
+A|15| A: [dit zijn] _dat_ _met dat tafel_ waar _dat_ _saladebakje_ op staat 
+B|16| B: [ja] 
+B|17| B: [dat zijn] _bij mij_ P 
+B|18| B: [dit zijn] [die] [met dat tafel] 
+A|19| A: [ja] [dat zijn] [met dat] _saladebakje_ 
+B|20| B: [ja] [ja] 
+A|21| A: even kijken waar [die] _staan_ 
+B|22| B: als [het] goed [zijn] tenminste als [het] dezelfde plek [zijn] [staan] [die] helemaal onderin 
+A|23| A: [ja] 
+B|24| B: _bij_ de middellijn 
+A|25| A: [en] [een] beetje in [het] midden [ja] 
+A|26| A: [dat zijn] nummer veertien 
+A|27| A: [dit zijn] [het] _tafel met het saladebakje_ 
+B|28| B: [dat zijn] _bij mij_ N 
+B|29| B: [dit zijn] [die] [ik] hebben weer [een] heel [ik] hebben nu [een] heel ander opstelling 
+B|30| B: [ik] hebben nu de de [tafel met het saladebakje] 
+A|31| A: [ja] [ik] [ook] 
+A|32| A: [ja] 
+B|33| B: [en] [die] [ja] [die] hebben [ik] dus 
+A|34| A: [ja] 
+A|35| A: oké 
+A|36| A: [dat zijn] nummer tien 
+A|37| A: [dit zijn] [het] of [het] [tafel met] [saladebakje] 
+B|38| B: [ja] 
+B|39| B: [dat zijn] _bij mij_ d 
+A|40| A: [en] hij [staan] [bij mij] in [het] vak rechtsboven 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : dit zijn een mok met een soort van weegschaal slash wipwap ervoor
+	Free: Pattern=een soort van, Pattern=dit zijn, Pattern=met, Pattern=een
+	Constrained: Pattern=zijn, Pattern=een
+Turn ID=1| B | B : er zitten zo'n ja trapezium zitten ervoor
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=2| B | B : en het zijn echt een soort van bank met twee poot
+	Free: Pattern=het, Pattern=een soort van, Pattern=met, Pattern=en, Pattern=zijn
+	Constrained: Pattern=een
+Turn ID=3| B | B : en er opsteken aan de achterkant nog zo'n klein dinge uit
+	Free: Pattern=en
+	Constrained: 
+Turn ID=4| A | A : ja en op dat ja ik vinden het een tafel die wat zo optild
+	Free: Pattern=dat, Pattern=ja, Pattern=een, Pattern=het, Pattern=ik, Pattern=en, Pattern=tafel, Pattern=die
+	Constrained: 
+Turn ID=5| B | B : tafel ja kunnen ook
+	Free: Pattern=ja, Pattern=tafel, Pattern=ook
+	Constrained: 
+Turn ID=6| A | A : daar staan een soort van bakje op zeggen maar
+	Free: Pattern=een soort van, Pattern=staan
+	Constrained: Pattern=een
+Turn ID=7| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=8| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=9| A | A : oké ja dat zijn nummer zestien
+	Free: Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=10| B | B : een saladeschaal
+	Free: Pattern=een
+	Constrained: 
+Turn ID=11| B | B : picknickbank
+	Free: 
+	Constrained: 
+Turn ID=12| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=13| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=14| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=15| A | A : dit zijn dat met dat tafel waar dat saladebakje op staat
+	Free: Pattern=met dat tafel, Pattern=dit zijn, Pattern=dat, Pattern=saladebakje
+	Constrained: Pattern=dat, Pattern=met dat, Pattern=met, Pattern=tafel, Pattern=zijn
+Turn ID=16| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=17| B | B : dat zijn bij mij P
+	Free: Pattern=bij mij, Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn, Pattern=bij
+Turn ID=18| B | B : dit zijn die met dat tafel
+	Free: Pattern=met dat tafel, Pattern=dit zijn, Pattern=die
+	Constrained: Pattern=dat, Pattern=met dat, Pattern=met, Pattern=tafel, Pattern=zijn
+Turn ID=19| A | A : ja dat zijn met dat saladebakje
+	Free: Pattern=dat zijn, Pattern=met dat, Pattern=ja, Pattern=saladebakje
+	Constrained: Pattern=dat, Pattern=zijn, Pattern=met
+Turn ID=20| B | B : ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=21| A | A : even kijken waar die staan
+	Free: Pattern=die, Pattern=staan
+	Constrained: 
+Turn ID=22| B | B : als het goed zijn tenminste als het dezelfde plek zijn staan die helemaal onderin
+	Free: Pattern=het, Pattern=zijn, Pattern=die, Pattern=staan
+	Constrained: 
+Turn ID=23| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=24| B | B : bij de middellijn
+	Free: Pattern=bij
+	Constrained: 
+Turn ID=25| A | A : en een beetje in het midden ja
+	Free: Pattern=ja, Pattern=het, Pattern=een, Pattern=en
+	Constrained: 
+Turn ID=26| A | A : dat zijn nummer veertien
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=27| A | A : dit zijn het tafel met het saladebakje
+	Free: Pattern=tafel met het saladebakje, Pattern=dit zijn, Pattern=het
+	Constrained: Pattern=tafel met, Pattern=saladebakje, Pattern=het, Pattern=met, Pattern=tafel, Pattern=zijn
+Turn ID=28| B | B : dat zijn bij mij N
+	Free: Pattern=bij mij, Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn, Pattern=bij
+Turn ID=29| B | B : dit zijn die ik hebben weer een heel ik hebben nu een heel ander opstelling
+	Free: Pattern=dit zijn, Pattern=ik, Pattern=die, Pattern=een
+	Constrained: Pattern=zijn
+Turn ID=30| B | B : ik hebben nu de de tafel met het saladebakje
+	Free: Pattern=tafel met het saladebakje, Pattern=ik
+	Constrained: Pattern=tafel met, Pattern=saladebakje, Pattern=het, Pattern=met, Pattern=tafel
+Turn ID=31| A | A : ja ik ook
+	Free: Pattern=ja, Pattern=ook, Pattern=ik
+	Constrained: 
+Turn ID=32| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=33| B | B : en die ja die hebben ik dus
+	Free: Pattern=ja, Pattern=ik, Pattern=die, Pattern=en
+	Constrained: 
+Turn ID=34| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=35| A | A : oké
+	Free: 
+	Constrained: 
+Turn ID=36| A | A : dat zijn nummer tien
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=37| A | A : dit zijn het of het tafel met saladebakje
+	Free: Pattern=dit zijn, Pattern=tafel met, Pattern=het, Pattern=saladebakje
+	Constrained: Pattern=tafel, Pattern=zijn, Pattern=met
+Turn ID=38| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=39| B | B : dat zijn bij mij d
+	Free: Pattern=bij mij, Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn, Pattern=bij
+Turn ID=40| A | A : en hij staan bij mij in het vak rechtsboven
+	Free: Pattern=bij mij, Pattern=het, Pattern=staan, Pattern=en
+	Constrained: Pattern=bij

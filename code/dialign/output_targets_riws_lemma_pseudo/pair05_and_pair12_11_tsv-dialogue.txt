@@ -1,0 +1,147 @@
+B|0| B: okeeen _deze hebben_ weer zo'n _neus_ aan de rechterkant 
+B|1| B: _en_ _twee_ verschillend sprieet bovenop _zijn_ _hoofd_ 
+B|2| B: _een_ _recht_ _en_ _één_ _met een_ raar _vorm_ 
+A|3| A: _okee_ 
+A|4| A: dertien 
+B|5| B: je moeten ze _ook_ _maar_ net zien 
+B|6| B: _ja_ 
+B|7| B: ik kunnen ze _niet_ ik kunnen ze _niet_ vinden 
+B|8| B: die _met_ _twee_ verschillend _oor_ _zeggen maar_ bovenop 
+B|9| B: [okee] _dat zijn_ I 
+B|10| B: _deze hebben een_ _neus_ rechts _maar_ geen piercing 
+A|11| A: [deze hebben een] aardappelneus [een] bol [neus] 
+A|12| A: [en] precies in het midden [een] staaf [recht] overeind [en] [zijn] [oor] [zijn] eigenlijk [een] [ook] [een] staaf [met een] driehoekvorm 
+A|13| A: [en] dan [zijn] er nog [één] 
+A|14| A: [ja] 
+A|15| A: dit [zijn] het driehoekoor 
+A|16| A: nee [dat zijn] het [niet] 
+A|17| A: het [oor] [zijn] dus [zeggen maar] [een] driehoek 
+A|18| A: driehoeksstaafvorm daar [zijn] er [maar] [één] van 
+A|19| A: [twee] staf op [hoofd] 
+A|20| A: van verschilen [vorm] 
+A|21| A: [ja] 
+B|22| B: piratenverrekijker 
+B|23| B: [okee] 
+B|24| B: I 
+B|25| B: de [neus] zonder piercing [met] [twee] voelsprieten 
+B|26| B: l 
+A|27| A: [ja] negen 
+A|28| A: [deze hebben een] driehoek [een] driehoeksoor 
+A|29| A: Aardappelneus 
+A|30| A: [een] staaf [en] [een] hendel of [ja] staaf [ja] 
+A|31| A: [ja] 
+A|32| A: [ja] [dat zijn] zes 
+A|33| A: driehoeksoor 
+A|34| A: Aardappelneus 
+A|35| A: misschien [zijn] [dat] [een] beetje [een] indiaan 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : okeeen deze hebben weer zo'n neus aan de rechterkant
+	Free: Pattern=deze hebben, Pattern=neus
+	Constrained: 
+Turn ID=1| B | B : en twee verschillend sprieet bovenop zijn hoofd
+	Free: Pattern=en, Pattern=zijn, Pattern=twee, Pattern=hoofd
+	Constrained: 
+Turn ID=2| B | B : een recht en één met een raar vorm
+	Free: Pattern=vorm, Pattern=een, Pattern=recht, Pattern=met een, Pattern=en, Pattern=één
+	Constrained: Pattern=een, Pattern=met
+Turn ID=3| A | A : okee
+	Free: Pattern=okee
+	Constrained: 
+Turn ID=4| A | A : dertien
+	Free: 
+	Constrained: 
+Turn ID=5| B | B : je moeten ze ook maar net zien
+	Free: Pattern=ook, Pattern=maar
+	Constrained: 
+Turn ID=6| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=7| B | B : ik kunnen ze niet ik kunnen ze niet vinden
+	Free: Pattern=niet
+	Constrained: 
+Turn ID=8| B | B : die met twee verschillend oor zeggen maar bovenop
+	Free: Pattern=zeggen maar, Pattern=oor, Pattern=twee, Pattern=met
+	Constrained: Pattern=maar
+Turn ID=9| B | B : okee dat zijn I
+	Free: Pattern=dat zijn, Pattern=okee
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=10| B | B : deze hebben een neus rechts maar geen piercing
+	Free: Pattern=deze hebben een, Pattern=neus, Pattern=maar
+	Constrained: Pattern=deze hebben, Pattern=een
+Turn ID=11| A | A : deze hebben een aardappelneus een bol neus
+	Free: Pattern=deze hebben een, Pattern=een, Pattern=neus
+	Constrained: Pattern=deze hebben, Pattern=een
+Turn ID=12| A | A : en precies in het midden een staaf recht overeind en zijn oor zijn eigenlijk een ook een staaf met een driehoekvorm
+	Free: Pattern=oor, Pattern=ook, Pattern=een, Pattern=recht, Pattern=met een, Pattern=en, Pattern=zijn
+	Constrained: Pattern=een, Pattern=met
+Turn ID=13| A | A : en dan zijn er nog één
+	Free: Pattern=en, Pattern=zijn, Pattern=één
+	Constrained: 
+Turn ID=14| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=15| A | A : dit zijn het driehoekoor
+	Free: Pattern=zijn
+	Constrained: 
+Turn ID=16| A | A : nee dat zijn het niet
+	Free: Pattern=dat zijn, Pattern=niet
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=17| A | A : het oor zijn dus zeggen maar een driehoek
+	Free: Pattern=zeggen maar, Pattern=een, Pattern=oor, Pattern=zijn
+	Constrained: Pattern=maar
+Turn ID=18| A | A : driehoeksstaafvorm daar zijn er maar één van
+	Free: Pattern=zijn, Pattern=één, Pattern=maar
+	Constrained: 
+Turn ID=19| A | A : twee staf op hoofd
+	Free: Pattern=twee, Pattern=hoofd
+	Constrained: 
+Turn ID=20| A | A : van verschilen vorm
+	Free: Pattern=vorm
+	Constrained: 
+Turn ID=21| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=22| B | B : piratenverrekijker
+	Free: 
+	Constrained: 
+Turn ID=23| B | B : okee
+	Free: Pattern=okee
+	Constrained: 
+Turn ID=24| B | B : I
+	Free: 
+	Constrained: 
+Turn ID=25| B | B : de neus zonder piercing met twee voelsprieten
+	Free: Pattern=neus, Pattern=twee, Pattern=met
+	Constrained: 
+Turn ID=26| B | B : l
+	Free: 
+	Constrained: 
+Turn ID=27| A | A : ja negen
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=28| A | A : deze hebben een driehoek een driehoeksoor
+	Free: Pattern=deze hebben een, Pattern=een
+	Constrained: Pattern=deze hebben, Pattern=een
+Turn ID=29| A | A : Aardappelneus
+	Free: 
+	Constrained: 
+Turn ID=30| A | A : een staaf en een hendel of ja staaf ja
+	Free: Pattern=een, Pattern=en, Pattern=ja
+	Constrained: 
+Turn ID=31| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=32| A | A : ja dat zijn zes
+	Free: Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=33| A | A : driehoeksoor
+	Free: 
+	Constrained: 
+Turn ID=34| A | A : Aardappelneus
+	Free: 
+	Constrained: 
+Turn ID=35| A | A : misschien zijn dat een beetje een indiaan
+	Free: Pattern=een, Pattern=dat, Pattern=zijn
+	Constrained: 

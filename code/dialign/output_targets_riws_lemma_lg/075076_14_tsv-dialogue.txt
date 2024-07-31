@@ -1,0 +1,115 @@
+A|0| A: _ja_ 
+A|1| A: even kijken _ik hebben_ _het_ figuur _met_ one _met_ _de verticaal balk_ laten maar zeggen 
+B|2| B: [de verticaal balk] 
+A|3| A: _die_ zo rechtop staan _en een_ bal _bovenop_ 
+B|4| B: [die] [en] twee armp 
+A|5| A: _ja_ 
+B|6| B: oké _dat zijn_ D 
+A|7| A: _ja_ 
+B|8| B: deze _zijn_ [met] [het] _balk aan de_ voorkant [en een] _ei bovenop_ 
+B|9| B: [hebben] we deze al [hebben] 
+B|10| B: _mij_ wel 
+A|11| A: even kijken 
+A|12| A: sorry [een] [balk aan de] 
+B|13| B: hij er liggen [een] _ei bovenop_ _dat zijn_ er niet veel 
+A|14| A: even kijken hoor 
+A|15| A: daar _ja_ [met] [die] [verticaal balk] weer 
+B|16| B: [ja] 
+A|17| A: [ja] [dat zijn] bij [mij] nummer vijftien 
+A|18| A: _ik hebben die_ [met] [die] [balk] [en] [dat] [ei bovenop] 
+B|19| B: [ja] 
+B|20| B: [dat zijn] L 
+B|21| B: [ik hebben] [dat] [een] ding [met] [het] _ei bovenop en_ [het] [balk aan de] voorkant 
+A|22| A: [ei bovenop] [balk] [ja] nummer zes 
+A|23| A: _ik hebben die_ [met] [dat] [ei bovenop en] [die] [verticaal [balk] aan de] rechterkant 
+B|24| B: [dat zijn] J 
+B|25| B: [ik hebben die] [een] [met] [het] [ei bovenop en] [het] [verticaal] staaf ervoor [en] [het] 
+A|26| A: nummer drie 
+B|27| B: [ja] 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=1| A | A : even kijken ik hebben het figuur met one met de verticaal balk laten maar zeggen
+	Free: Pattern=de verticaal balk, Pattern=ik hebben, Pattern=het, Pattern=met
+	Constrained: Pattern=verticaal, Pattern=hebben, Pattern=verticaal balk, Pattern=balk
+Turn ID=2| B | B : de verticaal balk
+	Free: Pattern=de verticaal balk
+	Constrained: Pattern=verticaal balk, Pattern=balk, Pattern=verticaal
+Turn ID=3| A | A : die zo rechtop staan en een bal bovenop
+	Free: Pattern=en een, Pattern=die, Pattern=bovenop
+	Constrained: Pattern=en, Pattern=een
+Turn ID=4| B | B : die en twee armp
+	Free: Pattern=en, Pattern=die
+	Constrained: 
+Turn ID=5| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=6| B | B : oké dat zijn D
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=7| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=8| B | B : deze zijn met het balk aan de voorkant en een ei bovenop
+	Free: Pattern=balk aan de, Pattern=het, Pattern=met, Pattern=ei bovenop, Pattern=en een, Pattern=zijn
+	Constrained: Pattern=balk, Pattern=bovenop, Pattern=een, Pattern=en
+Turn ID=9| B | B : hebben we deze al hebben
+	Free: Pattern=hebben
+	Constrained: 
+Turn ID=10| B | B : mij wel
+	Free: Pattern=mij
+	Constrained: 
+Turn ID=11| A | A : even kijken
+	Free: 
+	Constrained: 
+Turn ID=12| A | A : sorry een balk aan de
+	Free: Pattern=balk aan de, Pattern=een
+	Constrained: Pattern=balk
+Turn ID=13| B | B : hij er liggen een ei bovenop dat zijn er niet veel
+	Free: Pattern=ei bovenop, Pattern=dat zijn, Pattern=een
+	Constrained: Pattern=bovenop, Pattern=dat, Pattern=zijn
+Turn ID=14| A | A : even kijken hoor
+	Free: 
+	Constrained: 
+Turn ID=15| A | A : daar ja met die verticaal balk weer
+	Free: Pattern=verticaal balk, Pattern=die, Pattern=met, Pattern=ja
+	Constrained: Pattern=balk, Pattern=verticaal
+Turn ID=16| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=17| A | A : ja dat zijn bij mij nummer vijftien
+	Free: Pattern=dat zijn, Pattern=ja, Pattern=mij
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=18| A | A : ik hebben die met die balk en dat ei bovenop
+	Free: Pattern=dat, Pattern=balk, Pattern=met, Pattern=die, Pattern=ik hebben die, Pattern=en, Pattern=ei bovenop
+	Constrained: Pattern=bovenop, Pattern=die, Pattern=ik hebben, Pattern=hebben
+Turn ID=19| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=20| B | B : dat zijn L
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=21| B | B : ik hebben dat een ding met het ei bovenop en het balk aan de voorkant
+	Free: Pattern=ik hebben, Pattern=dat, Pattern=balk aan de, Pattern=een, Pattern=het, Pattern=met, Pattern=ei bovenop en
+	Constrained: Pattern=bovenop, Pattern=hebben, Pattern=balk, Pattern=en, Pattern=ei bovenop
+Turn ID=22| A | A : ei bovenop balk ja nummer zes
+	Free: Pattern=ei bovenop, Pattern=ja, Pattern=balk
+	Constrained: Pattern=bovenop
+Turn ID=23| A | A : ik hebben die met dat ei bovenop en die verticaal balk aan de rechterkant
+	Free: Pattern=dat, Pattern=balk aan de, Pattern=met, Pattern=die, Pattern=ik hebben die, Pattern=ei bovenop en, Pattern=verticaal balk
+	Constrained: Pattern=ik hebben, Pattern=bovenop, Pattern=verticaal, Pattern=hebben, Pattern=balk, Pattern=die, Pattern=en, Pattern=ei bovenop
+Turn ID=24| B | B : dat zijn J
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=25| B | B : ik hebben die een met het ei bovenop en het verticaal staaf ervoor en het
+	Free: Pattern=verticaal, Pattern=een, Pattern=het, Pattern=met, Pattern=ik hebben die, Pattern=en, Pattern=ei bovenop en
+	Constrained: Pattern=ik hebben, Pattern=bovenop, Pattern=hebben, Pattern=die, Pattern=en, Pattern=ei bovenop
+Turn ID=26| A | A : nummer drie
+	Free: 
+	Constrained: 
+Turn ID=27| B | B : ja
+	Free: Pattern=ja
+	Constrained: 

@@ -1,0 +1,127 @@
+B|0| B: _oké_ deze _hebben_ drie bollet uitsteeksel aan allebei _de_ kant 
+B|1| B: _en_ er zitten _een_ vlak onder 
+B|2| B: _ja_ 
+A|3| A: jij weer 
+A|4| A: [ja] _met die_ diamant zeggen maar of zo 
+A|5| A: [ja] 
+A|6| A: [oké] dan [hebben] _ik_ _dat_ 
+A|7| A: nummer vijf 
+B|8| B: [ja] 
+B|9| B: [oké] 
+B|10| B: [dat] zijn J 
+B|11| B: [oké] [ik] [hebben] [die] [die] [met die] drie boll aan _de_ zijkant aan allebei _de_ kant 
+B|12| B: [ja] 
+A|13| A: [ik] moeten drukken 
+A|14| A: [ja] diamantenoren 
+A|15| A: [en] dan zo'n zo'n bord of zo als [een] neus 
+B|16| B: [oké] 
+B|17| B: [ja] 
+B|18| B: [dat] zijn P 
+B|19| B: [dat] zijn staan ze op dezelfde plek 
+B|20| B: [oké] [ik] [hebben] [die] [met die] drie gelijk kra aan _de_ buitenkant 
+B|21| B: [ja] 
+A|22| A: [ja] 
+A|23| A: elf 
+B|24| B: [ja] 
+B|25| B: [oké] 
+B|26| B: [dat] zijn L 
+A|27| A: [ja] [dat] [dat] rond [en] dan [die] diamant 
+A|28| A: [ja] 
+A|29| A: negen 
+A|30| A: [de] diamantenoren [en] dan [dat] rond zeggen maar 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : oké deze hebben drie bollet uitsteeksel aan allebei de kant
+	Free: Pattern=hebben, Pattern=oké, Pattern=de
+	Constrained: 
+Turn ID=1| B | B : en er zitten een vlak onder
+	Free: Pattern=een, Pattern=en
+	Constrained: 
+Turn ID=2| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=3| A | A : jij weer
+	Free: 
+	Constrained: 
+Turn ID=4| A | A : ja met die diamant zeggen maar of zo
+	Free: Pattern=met die, Pattern=ja
+	Constrained: Pattern=die
+Turn ID=5| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=6| A | A : oké dan hebben ik dat
+	Free: Pattern=ik, Pattern=hebben, Pattern=dat, Pattern=oké
+	Constrained: 
+Turn ID=7| A | A : nummer vijf
+	Free: 
+	Constrained: 
+Turn ID=8| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=9| B | B : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=10| B | B : dat zijn J
+	Free: Pattern=dat
+	Constrained: 
+Turn ID=11| B | B : oké ik hebben die die met die drie boll aan de zijkant aan allebei de kant
+	Free: Pattern=met die, Pattern=de, Pattern=hebben, Pattern=die, Pattern=oké, Pattern=ik
+	Constrained: Pattern=die
+Turn ID=12| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=13| A | A : ik moeten drukken
+	Free: Pattern=ik
+	Constrained: 
+Turn ID=14| A | A : ja diamantenoren
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=15| A | A : en dan zo'n zo'n bord of zo als een neus
+	Free: Pattern=een, Pattern=en
+	Constrained: 
+Turn ID=16| B | B : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=17| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=18| B | B : dat zijn P
+	Free: Pattern=dat
+	Constrained: 
+Turn ID=19| B | B : dat zijn staan ze op dezelfde plek
+	Free: Pattern=dat
+	Constrained: 
+Turn ID=20| B | B : oké ik hebben die met die drie gelijk kra aan de buitenkant
+	Free: Pattern=met die, Pattern=de, Pattern=hebben, Pattern=die, Pattern=oké, Pattern=ik
+	Constrained: Pattern=die
+Turn ID=21| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=22| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=23| A | A : elf
+	Free: 
+	Constrained: 
+Turn ID=24| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=25| B | B : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=26| B | B : dat zijn L
+	Free: Pattern=dat
+	Constrained: 
+Turn ID=27| A | A : ja dat dat rond en dan die diamant
+	Free: Pattern=ja, Pattern=en, Pattern=die, Pattern=dat
+	Constrained: 
+Turn ID=28| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=29| A | A : negen
+	Free: 
+	Constrained: 
+Turn ID=30| A | A : de diamantenoren en dan dat rond zeggen maar
+	Free: Pattern=en, Pattern=dat, Pattern=de
+	Constrained: 

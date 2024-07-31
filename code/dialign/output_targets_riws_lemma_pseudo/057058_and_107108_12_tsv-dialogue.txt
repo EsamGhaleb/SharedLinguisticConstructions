@@ -1,0 +1,95 @@
+A|0| A: oké 
+A|1| A: deze hebben _een_ één _rond_ plateaut _aan de rechterkant_ _en_ dan _een_ soort uitstekend toeter links 
+A|2| A: _die_ _op een_ soort _ja_ hartjesvorm _die_ daar zo in geprikt staan 
+A|3| A: _ja_ _een_ soor toeter of zo _ja_ 
+A|4| A: _en_ ook _een beetje_ raar 
+A|5| A: _ja_ _ja_ precies nummer zeven _zijn dat_ _bij mij_ 
+B|6| B: welk _kant_ [op een] uitstekel 
+B|7| B: o [ja] [en] [aan de rechterkant] [een beetje] zo'n [rond] _plateau_ rad [ja] ok [ja] [dat] [zijn] [bij mij] L 
+B|8| B: ok ik moeten klikken 
+B|9| B: _dit [zijn_ dat] [die] [een] _met_ [die] spijker [en] [dat] [rond] plateautje 
+B|10| B: ok [bij mij] M 
+A|11| A: deze [zijn] weer [met] [dat] plateaut [aan de] zijkant [en] dan [dat] soort hartje waar [die] toeter uit komen 
+B|12| B: o [ja] [dat] [zijn] C 
+A|13| A: [ja] 
+A|14| A: nummer één 
+A|15| A: [dit zijn] weer het [plateau] [aan de] [een] [kant] har [met] toetertje [aan] [die] [kant] 
+B|16| B: [dit zijn] [de] spijker 
+B|17| B: ok [bij mij] O 
+A|18| A: nummer dertien 
+B|19| B: o hier A 
+B|20| B: o 
+B|21| B: [dit zijn] [de] spijker 
+B|22| B: ok 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : oké
+	Free: 
+	Constrained: 
+Turn ID=1| A | A : deze hebben een één rond plateaut aan de rechterkant en dan een soort uitstekend toeter links
+	Free: Pattern=aan de rechterkant, Pattern=en, Pattern=rond, Pattern=een
+	Constrained: Pattern=aan, Pattern=de, Pattern=aan de
+Turn ID=2| A | A : die op een soort ja hartjesvorm die daar zo in geprikt staan
+	Free: Pattern=op een, Pattern=ja, Pattern=die
+	Constrained: Pattern=een
+Turn ID=3| A | A : ja een soor toeter of zo ja
+	Free: Pattern=ja, Pattern=een
+	Constrained: 
+Turn ID=4| A | A : en ook een beetje raar
+	Free: Pattern=een beetje, Pattern=en
+	Constrained: Pattern=een
+Turn ID=5| A | A : ja ja precies nummer zeven zijn dat bij mij
+	Free: Pattern=bij mij, Pattern=zijn dat, Pattern=ja
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=6| B | B : welk kant op een uitstekel
+	Free: Pattern=op een, Pattern=kant
+	Constrained: Pattern=een
+Turn ID=7| B | B : o ja en aan de rechterkant een beetje zo'n rond plateau rad ja ok ja dat zijn bij mij L
+	Free: Pattern=dat, Pattern=ja, Pattern=plateau, Pattern=aan de rechterkant, Pattern=en, Pattern=rond, Pattern=zijn, Pattern=bij mij, Pattern=een beetje
+	Constrained: Pattern=aan, Pattern=een, Pattern=de, Pattern=aan de
+Turn ID=8| B | B : ok ik moeten klikken
+	Free: 
+	Constrained: 
+Turn ID=9| B | B : dit zijn dat die een met die spijker en dat rond plateautje
+	Free: Pattern=dat, Pattern=een, Pattern=met, Pattern=die, Pattern=en, Pattern=rond, Pattern=dit zijn, Pattern=zijn dat
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=10| B | B : ok bij mij M
+	Free: Pattern=bij mij
+	Constrained: 
+Turn ID=11| A | A : deze zijn weer met dat plateaut aan de zijkant en dan dat soort hartje waar die toeter uit komen
+	Free: Pattern=dat, Pattern=aan de, Pattern=met, Pattern=die, Pattern=en, Pattern=zijn
+	Constrained: Pattern=aan, Pattern=de
+Turn ID=12| B | B : o ja dat zijn C
+	Free: Pattern=ja, Pattern=zijn, Pattern=dat
+	Constrained: 
+Turn ID=13| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=14| A | A : nummer één
+	Free: 
+	Constrained: 
+Turn ID=15| A | A : dit zijn weer het plateau aan de een kant har met toetertje aan die kant
+	Free: Pattern=kant, Pattern=aan, Pattern=aan de, Pattern=een, Pattern=plateau, Pattern=met, Pattern=die, Pattern=dit zijn
+	Constrained: Pattern=aan, Pattern=de, Pattern=zijn
+Turn ID=16| B | B : dit zijn de spijker
+	Free: Pattern=dit zijn, Pattern=de
+	Constrained: Pattern=zijn
+Turn ID=17| B | B : ok bij mij O
+	Free: Pattern=bij mij
+	Constrained: 
+Turn ID=18| A | A : nummer dertien
+	Free: 
+	Constrained: 
+Turn ID=19| B | B : o hier A
+	Free: 
+	Constrained: 
+Turn ID=20| B | B : o
+	Free: 
+	Constrained: 
+Turn ID=21| B | B : dit zijn de spijker
+	Free: Pattern=dit zijn, Pattern=de
+	Constrained: Pattern=zijn
+Turn ID=22| B | B : ok
+	Free: 
+	Constrained: 

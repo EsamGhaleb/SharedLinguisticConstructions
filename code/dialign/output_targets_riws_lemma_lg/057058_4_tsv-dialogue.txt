@@ -1,0 +1,95 @@
+A|0| A: _oké_ 
+A|1| A: deze _hebben_ zo een beetje zo'n afgeplatte piramide zo'n conusje 
+B|2| B: _ja_ 
+A|3| A: _met_ twee _van_ _die_ uitstekend ding een beetje alsof er een vis op _zijn_ _zijkant_ liggen _met_ twee _van_ _die_ uitstekend vinne zo 
+B|4| B: [zijn] _dat_ _die dat_ istek waar _ik_ _het_ net over [hebben] denken _ik_ 
+A|5| A: _ja dat_ [ja] [ja] [ja] inderdaad 
+B|6| B: _oké [ja_ dat] [zijn] I bij mij 
+A|7| A: [oké] 
+B|8| B: precies _het_ [zijn] [oké] _het_ [zijn] [die] _met dat_ soort [van] _isteken_ _aan de zijkant_ 
+A|9| A: [ja] en [dat] conusje bovenop 
+B|10| B: yes 
+A|11| A: [ja] nummer twee 
+B|12| B: [ja] 
+A|13| A: [oké] [ik] [hebben] _weer_ [die _dat] istekentje aan de zijkant_ [met dat] afgeplaten conusje erbovenop 
+B|14| B: [ja dat] [zijn] M bij mij 
+B|15| B: [weer] [met [dat] istekentje aan de zijkant] 
+A|16| A: [oké ja] nummer negen 
+B|17| B: Alright 
+A|18| A: [het] [istekentje] [met dat] conusje bovenop 
+B|19| B: [oké] even zoeken 
+B|20| B: [ja] F bij mij 
+B|21| B: [weer] [met dat] istek 
+A|22| A: [isteken] nummer zes 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=1| A | A : deze hebben zo een beetje zo'n afgeplatte piramide zo'n conusje
+	Free: Pattern=hebben
+	Constrained: 
+Turn ID=2| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=3| A | A : met twee van die uitstekend ding een beetje alsof er een vis op zijn zijkant liggen met twee van die uitstekend vinne zo
+	Free: Pattern=met, Pattern=van, Pattern=zijn, Pattern=die, Pattern=zijkant
+	Constrained: 
+Turn ID=4| B | B : zijn dat die dat istek waar ik het net over hebben denken ik
+	Free: Pattern=dat, Pattern=die dat, Pattern=het, Pattern=hebben, Pattern=ik, Pattern=zijn
+	Constrained: Pattern=dat, Pattern=die
+Turn ID=5| A | A : ja dat ja ja ja inderdaad
+	Free: Pattern=ja dat, Pattern=ja
+	Constrained: Pattern=dat, Pattern=ja
+Turn ID=6| B | B : oké ja dat zijn I bij mij
+	Free: Pattern=oké ja, Pattern=ja dat, Pattern=zijn
+	Constrained: Pattern=dat, Pattern=ja, Pattern=oké
+Turn ID=7| A | A : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=8| B | B : precies het zijn oké het zijn die met dat soort van isteken aan de zijkant
+	Free: Pattern=aan de zijkant, Pattern=het, Pattern=met dat, Pattern=die, Pattern=oké, Pattern=isteken, Pattern=van, Pattern=zijn
+	Constrained: Pattern=dat, Pattern=met, Pattern=zijkant
+Turn ID=9| A | A : ja en dat conusje bovenop
+	Free: Pattern=dat, Pattern=ja
+	Constrained: 
+Turn ID=10| B | B : yes
+	Free: 
+	Constrained: 
+Turn ID=11| A | A : ja nummer twee
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=12| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=13| A | A : oké ik hebben weer die dat istekentje aan de zijkant met dat afgeplaten conusje erbovenop
+	Free: Pattern=dat istekentje aan de zijkant, Pattern=die dat, Pattern=hebben, Pattern=met dat, Pattern=oké, Pattern=ik, Pattern=weer
+	Constrained: Pattern=dat, Pattern=aan de zijkant, Pattern=met, Pattern=istekentje, Pattern=die, Pattern=zijkant
+Turn ID=14| B | B : ja dat zijn M bij mij
+	Free: Pattern=ja dat, Pattern=zijn
+	Constrained: Pattern=dat, Pattern=ja
+Turn ID=15| B | B : weer met dat istekentje aan de zijkant
+	Free: Pattern=dat istekentje aan de zijkant, Pattern=met dat, Pattern=weer
+	Constrained: Pattern=dat, Pattern=aan de zijkant, Pattern=met, Pattern=zijkant, Pattern=istekentje
+Turn ID=16| A | A : oké ja nummer negen
+	Free: Pattern=oké ja
+	Constrained: Pattern=ja, Pattern=oké
+Turn ID=17| B | B : Alright
+	Free: 
+	Constrained: 
+Turn ID=18| A | A : het istekentje met dat conusje bovenop
+	Free: Pattern=met dat, Pattern=istekentje, Pattern=het
+	Constrained: Pattern=dat, Pattern=met
+Turn ID=19| B | B : oké even zoeken
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=20| B | B : ja F bij mij
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=21| B | B : weer met dat istek
+	Free: Pattern=met dat, Pattern=weer
+	Constrained: Pattern=dat, Pattern=met
+Turn ID=22| A | A : isteken nummer zes
+	Free: Pattern=isteken
+	Constrained: 

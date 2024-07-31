@@ -1,0 +1,187 @@
+B|0| B: deze _zijn_ ook _wel_ 
+B|1| B: _ja_ 
+B|2| B: het _zijn_ zeggen _maar_ _ja_ _er_ _staan_ _er_ _zitten_ eigenlijk _een balk_ bovenop 
+A|3| A: wat [zitten] daarbovenop 
+B|4| B: _een balk_ 
+A|5| A: [een balk] [ja] 
+B|6| B: _en_ dan 
+B|7| B: aan _de_ [een] kant [ja] [een] soort uitsteeksel _dat zijn een_ soort [ja] ook [een] half cilinder denken _ik_ _en_ aan _de_ ander kant _ja ik_ zullen het _ja ik_ hebben het omschrijven _als een_ 
+B|8| B: [ja] zo'n _rad_ van [een] watermolen zeggen _maar_ 
+B|9| B: daar doen het me [een] beetje aan denken _maar_ 
+A|10| A: even 
+A|11| A: even kijken hoor 
+B|12| B: of het kunnen ook [een] armp _zijn_ 
+B|13| B: _dat_ iemand net [een] tas vasthouden 
+A|14| A: [een] [rad] [als een] 
+A|15| A: [zitten] [er] twee punt boven 
+B|16| B: nee het _zijn_ _één_ _recht balk_ 
+A|17| A: dus [dat _zijn] [dat_ zijn] helemaal [recht] [een] [recht balk] 
+A|18| A: [en] steekt _die_ [balk] uit 
+B|19| B: [ja] 
+B|20| B: [ja] beetje [ja] 
+B|21| B: [ja] _je_ kunnen ook _inderdaad_ _zien_ net zoals [dat] ander [zijn] _dit_ ook _wel_ eigenlijk zo _je_ kunnen het ook _zien_ [als een] tas daar net _een boek_ bovenuit opsteken 
+A|22| A: even kijken 
+A|23| A: one [ja] [inderdaad] [dat zijn een] kop [en] [een] _klein_ [balk] [een boek] 
+B|24| B: [ja] [ja] [ja] 
+A|25| A: [ja ik] [zien] hem 
+A|26| A: acht 
+A|27| A: _dit zijn_ _die klein boekentas_ 
+A|28| A: dus niet _die_ groot met _die_ handvat [maar] _die klein_ 
+B|29| B: [ja] 
+B|30| B: E 
+B|31| B: [ja] [dit [zijn] dat] [die klein boekentas] 
+A|32| A: [klein boekentas] waar [staan] [je] ? [de] groot [zien] [ik] [wel] 
+A|33| A: [ja] 
+A|34| A: [één] 
+A|35| A: [klein boekentas] 
+B|36| B: [klein boekentas] 
+B|37| B: E 
+B|38| B: [dit zijn] _de [klein_ boekentas] 
+A|39| A: [ja] 
+A|40| A: zestien 
+A|41| A: _de klein rugtas_ 
+B|42| B: [de klein rugtas] 
+A|43| A: pijnlijk been 
+B|44| B: [ja] 
+B|45| B: O 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : deze zijn ook wel
+	Free: Pattern=wel, Pattern=zijn
+	Constrained: 
+Turn ID=1| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=2| B | B : het zijn zeggen maar ja er staan er zitten eigenlijk een balk bovenop
+	Free: Pattern=ja, Pattern=staan, Pattern=zitten, Pattern=er, Pattern=een balk, Pattern=zijn, Pattern=maar
+	Constrained: Pattern=een, Pattern=balk
+Turn ID=3| A | A : wat zitten daarbovenop
+	Free: Pattern=zitten
+	Constrained: 
+Turn ID=4| B | B : een balk
+	Free: Pattern=een balk
+	Constrained: Pattern=een, Pattern=balk
+Turn ID=5| A | A : een balk ja
+	Free: Pattern=een balk, Pattern=ja
+	Constrained: Pattern=een, Pattern=balk
+Turn ID=6| B | B : en dan
+	Free: Pattern=en
+	Constrained: 
+Turn ID=7| B | B : aan de een kant ja een soort uitsteeksel dat zijn een soort ja ook een half cilinder denken ik en aan de ander kant ja ik zullen het ja ik hebben het omschrijven als een
+	Free: Pattern=een, Pattern=dat zijn een, Pattern=als een, Pattern=ja ik, Pattern=ik, Pattern=en, Pattern=de, Pattern=ja
+	Constrained: Pattern=ja, Pattern=een, Pattern=ik, Pattern=zijn, Pattern=dat, Pattern=dat zijn
+Turn ID=8| B | B : ja zo'n rad van een watermolen zeggen maar
+	Free: Pattern=ja, Pattern=maar, Pattern=rad, Pattern=een
+	Constrained: 
+Turn ID=9| B | B : daar doen het me een beetje aan denken maar
+	Free: Pattern=maar, Pattern=een
+	Constrained: 
+Turn ID=10| A | A : even
+	Free: 
+	Constrained: 
+Turn ID=11| A | A : even kijken hoor
+	Free: 
+	Constrained: 
+Turn ID=12| B | B : of het kunnen ook een armp zijn
+	Free: Pattern=een, Pattern=zijn
+	Constrained: 
+Turn ID=13| B | B : dat iemand net een tas vasthouden
+	Free: Pattern=dat, Pattern=een
+	Constrained: 
+Turn ID=14| A | A : een rad als een
+	Free: Pattern=als een, Pattern=rad, Pattern=een
+	Constrained: Pattern=een
+Turn ID=15| A | A : zitten er twee punt boven
+	Free: Pattern=er, Pattern=zitten
+	Constrained: 
+Turn ID=16| B | B : nee het zijn één recht balk
+	Free: Pattern=recht balk, Pattern=één, Pattern=zijn
+	Constrained: Pattern=recht, Pattern=balk
+Turn ID=17| A | A : dus dat zijn dat zijn helemaal recht een recht balk
+	Free: Pattern=dat zijn, Pattern=recht balk, Pattern=een, Pattern=recht, Pattern=zijn dat
+	Constrained: Pattern=dat, Pattern=recht, Pattern=balk, Pattern=zijn
+Turn ID=18| A | A : en steekt die balk uit
+	Free: Pattern=en, Pattern=balk, Pattern=die
+	Constrained: 
+Turn ID=19| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=20| B | B : ja beetje ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=21| B | B : ja je kunnen ook inderdaad zien net zoals dat ander zijn dit ook wel eigenlijk zo je kunnen het ook zien als een tas daar net een boek bovenuit opsteken
+	Free: Pattern=dat, Pattern=ja, Pattern=wel, Pattern=dit, Pattern=als een, Pattern=zien, Pattern=een boek, Pattern=zijn, Pattern=je, Pattern=inderdaad
+	Constrained: Pattern=een
+Turn ID=22| A | A : even kijken
+	Free: 
+	Constrained: 
+Turn ID=23| A | A : one ja inderdaad dat zijn een kop en een klein balk een boek
+	Free: Pattern=ja, Pattern=een, Pattern=dat zijn een, Pattern=balk, Pattern=een boek, Pattern=klein, Pattern=en, Pattern=inderdaad
+	Constrained: Pattern=zijn, Pattern=dat zijn, Pattern=een, Pattern=dat
+Turn ID=24| B | B : ja ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=25| A | A : ja ik zien hem
+	Free: Pattern=ja ik, Pattern=zien
+	Constrained: Pattern=ja, Pattern=ik
+Turn ID=26| A | A : acht
+	Free: 
+	Constrained: 
+Turn ID=27| A | A : dit zijn die klein boekentas
+	Free: Pattern=die klein boekentas, Pattern=dit zijn
+	Constrained: Pattern=klein boekentas, Pattern=dit, Pattern=die, Pattern=die klein, Pattern=klein, Pattern=zijn
+Turn ID=28| A | A : dus niet die groot met die handvat maar die klein
+	Free: Pattern=die klein, Pattern=maar, Pattern=die
+	Constrained: Pattern=klein, Pattern=die
+Turn ID=29| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=30| B | B : E
+	Free: 
+	Constrained: 
+Turn ID=31| B | B : ja dit zijn dat die klein boekentas
+	Free: Pattern=die klein boekentas, Pattern=zijn dat, Pattern=dit zijn, Pattern=ja
+	Constrained: Pattern=dat, Pattern=klein boekentas, Pattern=dit, Pattern=die, Pattern=die klein, Pattern=klein, Pattern=zijn
+Turn ID=32| A | A : klein boekentas waar staan je ? de groot zien ik wel
+	Free: Pattern=de, Pattern=klein boekentas, Pattern=zien, Pattern=ik, Pattern=je, Pattern=staan, Pattern=wel
+	Constrained: Pattern=klein
+Turn ID=33| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=34| A | A : één
+	Free: Pattern=één
+	Constrained: 
+Turn ID=35| A | A : klein boekentas
+	Free: Pattern=klein boekentas
+	Constrained: Pattern=klein
+Turn ID=36| B | B : klein boekentas
+	Free: Pattern=klein boekentas
+	Constrained: Pattern=klein
+Turn ID=37| B | B : E
+	Free: 
+	Constrained: 
+Turn ID=38| B | B : dit zijn de klein boekentas
+	Free: Pattern=klein boekentas, Pattern=dit zijn, Pattern=de klein
+	Constrained: Pattern=dit, Pattern=de, Pattern=zijn, Pattern=klein
+Turn ID=39| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=40| A | A : zestien
+	Free: 
+	Constrained: 
+Turn ID=41| A | A : de klein rugtas
+	Free: Pattern=de klein rugtas
+	Constrained: Pattern=de, Pattern=de klein, Pattern=klein
+Turn ID=42| B | B : de klein rugtas
+	Free: Pattern=de klein rugtas
+	Constrained: Pattern=de, Pattern=de klein, Pattern=klein
+Turn ID=43| A | A : pijnlijk been
+	Free: 
+	Constrained: 
+Turn ID=44| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=45| B | B : O
+	Free: 
+	Constrained: 

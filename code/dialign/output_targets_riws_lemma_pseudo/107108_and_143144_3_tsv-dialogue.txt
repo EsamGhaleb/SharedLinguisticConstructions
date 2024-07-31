@@ -1,0 +1,111 @@
+A|0| A: _ja_ 
+A|1| A: _ja_ 
+A|2| A: _ja dat_ _dat_ zien ik ook wel maar en _dan_ hebben hij aan de bovenkant twee vierkante en een zo'n ding 
+A|3| A: ok _ja_ ik vinden _het_ een beetje op een omgekeerd hond lijken of zo maar ok bij mij _zijn_ _dat_ vier 
+A|4| A: _ja_ toch 
+A|5| A: ok ik moeten klikken toch 
+B|6| B: [het] toren 
+B|7| B: _dat zijn_ met [het] dinge 
+A|8| A: _ja_ dit [zijn] die omgekeerd hond voor jou [het] juichen poppe 
+A|9| A: ok bij mij achten 
+B|10| B: [ja] 
+B|11| B: [dan] [zijn] [het] A 
+A|12| A: denken ik een hond ? bij iets 
+A|13| A: even kijken je juichen poppe die die omgekeerd hond [ja] [ja] nee je hebben helemaal gelijk [ja] nee je hebben gelijk [zijn] bij mij tien 
+A|14| A: ok 
+A|15| A: dit [zijn] die omgekeerd hond juichen poppe 
+A|16| A: [ja] bij mij twee 
+A|17| A: snapen niet hoe je daar een juichen poppe in zien 
+A|18| A: [ja] maar _ja dat zijn_ natuurlijk allemaal op een geven moment [dan] zien je er gewoon iets in en [dan] blijven [dat] ook zo 
+A|19| A: [ja] 
+B|20| B: [het] toren 
+A|21| A: even kijken waar die staan o [ja] [zijn] vier bij mij 
+A|22| A: dit [zijn] de hond slash juichen poppe 
+A|23| A: twee 
+B|24| B: [ja dat zijn] L 
+B|25| B: [het] toren 
+B|26| B: [ja dat zijn] F 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=1| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=2| A | A : ja dat dat zien ik ook wel maar en dan hebben hij aan de bovenkant twee vierkante en een zo'n ding
+	Free: Pattern=ja dat, Pattern=dan, Pattern=dat
+	Constrained: Pattern=ja, Pattern=dat
+Turn ID=3| A | A : ok ja ik vinden het een beetje op een omgekeerd hond lijken of zo maar ok bij mij zijn dat vier
+	Free: Pattern=zijn, Pattern=ja, Pattern=het, Pattern=dat
+	Constrained: 
+Turn ID=4| A | A : ja toch
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=5| A | A : ok ik moeten klikken toch
+	Free: 
+	Constrained: 
+Turn ID=6| B | B : het toren
+	Free: Pattern=het
+	Constrained: 
+Turn ID=7| B | B : dat zijn met het dinge
+	Free: Pattern=dat zijn, Pattern=het
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=8| A | A : ja dit zijn die omgekeerd hond voor jou het juichen poppe
+	Free: Pattern=zijn, Pattern=ja, Pattern=het
+	Constrained: 
+Turn ID=9| A | A : ok bij mij achten
+	Free: 
+	Constrained: 
+Turn ID=10| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=11| B | B : dan zijn het A
+	Free: Pattern=dan, Pattern=zijn, Pattern=het
+	Constrained: 
+Turn ID=12| A | A : denken ik een hond ? bij iets
+	Free: 
+	Constrained: 
+Turn ID=13| A | A : even kijken je juichen poppe die die omgekeerd hond ja ja nee je hebben helemaal gelijk ja nee je hebben gelijk zijn bij mij tien
+	Free: Pattern=zijn, Pattern=ja
+	Constrained: 
+Turn ID=14| A | A : ok
+	Free: 
+	Constrained: 
+Turn ID=15| A | A : dit zijn die omgekeerd hond juichen poppe
+	Free: Pattern=zijn
+	Constrained: 
+Turn ID=16| A | A : ja bij mij twee
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=17| A | A : snapen niet hoe je daar een juichen poppe in zien
+	Free: 
+	Constrained: 
+Turn ID=18| A | A : ja maar ja dat zijn natuurlijk allemaal op een geven moment dan zien je er gewoon iets in en dan blijven dat ook zo
+	Free: Pattern=ja dat zijn, Pattern=dan, Pattern=ja, Pattern=dat
+	Constrained: Pattern=ja, Pattern=zijn, Pattern=ja dat, Pattern=dat, Pattern=dat zijn
+Turn ID=19| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=20| B | B : het toren
+	Free: Pattern=het
+	Constrained: 
+Turn ID=21| A | A : even kijken waar die staan o ja zijn vier bij mij
+	Free: Pattern=zijn, Pattern=ja
+	Constrained: 
+Turn ID=22| A | A : dit zijn de hond slash juichen poppe
+	Free: Pattern=zijn
+	Constrained: 
+Turn ID=23| A | A : twee
+	Free: 
+	Constrained: 
+Turn ID=24| B | B : ja dat zijn L
+	Free: Pattern=ja dat zijn
+	Constrained: Pattern=ja, Pattern=zijn, Pattern=ja dat, Pattern=dat, Pattern=dat zijn
+Turn ID=25| B | B : het toren
+	Free: Pattern=het
+	Constrained: 
+Turn ID=26| B | B : ja dat zijn F
+	Free: Pattern=ja dat zijn
+	Constrained: Pattern=ja, Pattern=zijn, Pattern=ja dat, Pattern=dat, Pattern=dat zijn

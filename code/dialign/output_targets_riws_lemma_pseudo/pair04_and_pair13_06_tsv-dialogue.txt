@@ -1,0 +1,163 @@
+A|0| A: _okee_ nou zien ik inderdaad _een_ vierkant 
+A|1| A: ik hebben dus die hoofdbak weer gewoon 
+A|2| A: die je op elk plaat zien 
+A|3| A: _dan_ hebben ik _een_ _soort_ _rond_ neus op _de_ voorkant _en daar_ _ja_ _dat_ noemen ik maar _even_ _een_ piercing _zitten_ _een_ staaf _doorheen_ 
+A|4| A: _en_ _aan de rechterkant_ _van_ die staaf _zitten_ _een_ _cirkel_ 
+B|5| B: [en] hoe _het_ vastgemaakt _zijn_ [aan de] muur _zijn_ [dat] _zo'n_ [soort] [van] plat [cirkel] 
+A|6| A: nee ik hebben geen plateau 
+A|7| A: ik hebben dus gewoon [de] [de] bak 
+B|8| B: [ja] 
+A|9| A: _met een rond_ neus _een rond_ _een_ [soort] _ei_ eigenlijk 
+B|10| B: [okee] 
+A|11| A: [aan de] voorkant [van] die bak 
+B|12| B: [ja] 
+A|13| A: [en] door [dat] _ei_ _zitten_ _een_ staaf gewoon _een ja een_ _een_ staaf erdoorheen 
+B|14| B: [ja] hij [zitten] rechts [aan de] muur 
+B|15| B: [okee] [dan] _zijn_ _het_ e 
+A|16| A: [en] [dan] _aan de rechterkant_ [van] die staaf [zitten] _een_ cirkeltje opplken 
+A|17| A: [ja] 
+A|18| A: [ja] 
+A|19| A: nummer drie 
+A|20| A: ook bij _deze_ hoofdvorm [zitten] _een ei_ voorop die hebben _een_ staaf door _het ei_ heen 
+A|21| A: _aan de rechterkant_ worden [de] staaf afsluiten _met een_ [soort] [cirkel] 
+A|22| A: [ja] 
+A|23| A: nummer zestien 
+B|24| B: [deze] [zitten] tegen [de] muur [aan] [met een] lepeltje erin 
+B|25| B: [en] [een ja _een] ei en daar_ [doorheen] [zitten] _zo'n_ staafje [en] daarmee [zitten] [het] tegen [de] muur [aan] [met een rond] ding [aan de rechterkant] 
+B|26| B: [ja] 
+B|27| B: [ja] 
+A|28| A: dit [zijn] [de] hoofdvorm [met [een] ei en daar] [een] [een ei] voorop [en daar] [een] vierkant staaf [doorheen] [met] [aan de] uiteinde [zo'n] [rond] dinge 
+B|29| B: [ja] 
+B|30| B: [dat] [zijn] b 
+A|31| A: [ja] 
+A|32| A: nummer tien 
+B|33| B: [ja] [met] [het] lepeltje erin [en] [de] zuignap 
+B|34| B: [en] [het ei] 
+B|35| B: [ja] 
+B|36| B: [dat] [zijn] 
+B|37| B: [ja] 
+B|38| B: [dat] [zijn] h 
+B|39| B: [even] kijken lepel erin [en] [de] zuignap 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : okee nou zien ik inderdaad een vierkant
+	Free: Pattern=een, Pattern=okee
+	Constrained: 
+Turn ID=1| A | A : ik hebben dus die hoofdbak weer gewoon
+	Free: 
+	Constrained: 
+Turn ID=2| A | A : die je op elk plaat zien
+	Free: 
+	Constrained: 
+Turn ID=3| A | A : dan hebben ik een soort rond neus op de voorkant en daar ja dat noemen ik maar even een piercing zitten een staaf doorheen
+	Free: Pattern=soort, Pattern=even, Pattern=dan, Pattern=een, Pattern=zitten, Pattern=rond, Pattern=dat, Pattern=en daar, Pattern=de, Pattern=ja, Pattern=doorheen
+	Constrained: Pattern=en
+Turn ID=4| A | A : en aan de rechterkant van die staaf zitten een cirkel
+	Free: Pattern=cirkel, Pattern=een, Pattern=aan de rechterkant, Pattern=zitten, Pattern=van, Pattern=en
+	Constrained: Pattern=aan, Pattern=de, Pattern=aan de
+Turn ID=5| B | B : en hoe het vastgemaakt zijn aan de muur zijn dat zo'n soort van plat cirkel
+	Free: Pattern=cirkel, Pattern=dat, Pattern=soort, Pattern=zo'n, Pattern=aan de, Pattern=het, Pattern=zijn, Pattern=van, Pattern=en
+	Constrained: Pattern=aan, Pattern=de
+Turn ID=6| A | A : nee ik hebben geen plateau
+	Free: 
+	Constrained: 
+Turn ID=7| A | A : ik hebben dus gewoon de de bak
+	Free: Pattern=de
+	Constrained: 
+Turn ID=8| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=9| A | A : met een rond neus een rond een soort ei eigenlijk
+	Free: Pattern=met een rond, Pattern=een, Pattern=een rond, Pattern=ei, Pattern=soort
+	Constrained: Pattern=een, Pattern=met, Pattern=met een, Pattern=een rond, Pattern=rond
+Turn ID=10| B | B : okee
+	Free: Pattern=okee
+	Constrained: 
+Turn ID=11| A | A : aan de voorkant van die bak
+	Free: Pattern=aan de, Pattern=van
+	Constrained: Pattern=aan, Pattern=de
+Turn ID=12| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=13| A | A : en door dat ei zitten een staaf gewoon een ja een een staaf erdoorheen
+	Free: Pattern=dat, Pattern=ei, Pattern=een ja een, Pattern=een, Pattern=zitten, Pattern=en
+	Constrained: Pattern=een, Pattern=ja
+Turn ID=14| B | B : ja hij zitten rechts aan de muur
+	Free: Pattern=aan de, Pattern=zitten, Pattern=ja
+	Constrained: Pattern=aan, Pattern=de
+Turn ID=15| B | B : okee dan zijn het e
+	Free: Pattern=dan, Pattern=zijn, Pattern=okee, Pattern=het
+	Constrained: 
+Turn ID=16| A | A : en dan aan de rechterkant van die staaf zitten een cirkeltje opplken
+	Free: Pattern=dan, Pattern=een, Pattern=aan de rechterkant, Pattern=zitten, Pattern=van, Pattern=en
+	Constrained: Pattern=aan, Pattern=de, Pattern=aan de
+Turn ID=17| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=18| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=19| A | A : nummer drie
+	Free: 
+	Constrained: 
+Turn ID=20| A | A : ook bij deze hoofdvorm zitten een ei voorop die hebben een staaf door het ei heen
+	Free: Pattern=een, Pattern=een ei, Pattern=zitten, Pattern=deze, Pattern=het ei
+	Constrained: Pattern=ei, Pattern=een, Pattern=het
+Turn ID=21| A | A : aan de rechterkant worden de staaf afsluiten met een soort cirkel
+	Free: Pattern=cirkel, Pattern=soort, Pattern=de, Pattern=aan de rechterkant, Pattern=met een
+	Constrained: Pattern=aan de, Pattern=een, Pattern=met, Pattern=de, Pattern=aan
+Turn ID=22| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=23| A | A : nummer zestien
+	Free: 
+	Constrained: 
+Turn ID=24| B | B : deze zitten tegen de muur aan met een lepeltje erin
+	Free: Pattern=zitten, Pattern=met een, Pattern=deze, Pattern=de, Pattern=aan
+	Constrained: Pattern=een, Pattern=met
+Turn ID=25| B | B : en een ja een ei en daar doorheen zitten zo'n staafje en daarmee zitten het tegen de muur aan met een rond ding aan de rechterkant
+	Free: Pattern=met een rond, Pattern=zo'n, Pattern=een ja een, Pattern=een ei en daar, Pattern=het, Pattern=en, Pattern=de, Pattern=aan, Pattern=doorheen, Pattern=aan de rechterkant, Pattern=zitten
+	Constrained: Pattern=en daar, Pattern=ei, Pattern=aan de, Pattern=een, Pattern=een ei, Pattern=met, Pattern=met een, Pattern=en, Pattern=de, Pattern=aan, Pattern=ja, Pattern=een rond, Pattern=rond
+Turn ID=26| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=27| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=28| A | A : dit zijn de hoofdvorm met een ei en daar een een ei voorop en daar een vierkant staaf doorheen met aan de uiteinde zo'n rond dinge
+	Free: Pattern=en daar, Pattern=zo'n, Pattern=aan de, Pattern=een ei en daar, Pattern=een, Pattern=een ei, Pattern=met, Pattern=met een, Pattern=rond, Pattern=zijn, Pattern=de, Pattern=doorheen
+	Constrained: Pattern=en daar, Pattern=ei, Pattern=een, Pattern=een ei, Pattern=met, Pattern=en, Pattern=de, Pattern=aan
+Turn ID=29| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=30| B | B : dat zijn b
+	Free: Pattern=dat, Pattern=zijn
+	Constrained: 
+Turn ID=31| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=32| A | A : nummer tien
+	Free: 
+	Constrained: 
+Turn ID=33| B | B : ja met het lepeltje erin en de zuignap
+	Free: Pattern=het, Pattern=met, Pattern=en, Pattern=de, Pattern=ja
+	Constrained: 
+Turn ID=34| B | B : en het ei
+	Free: Pattern=het ei, Pattern=en
+	Constrained: Pattern=ei, Pattern=het
+Turn ID=35| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=36| B | B : dat zijn
+	Free: Pattern=dat, Pattern=zijn
+	Constrained: 
+Turn ID=37| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=38| B | B : dat zijn h
+	Free: Pattern=dat, Pattern=zijn
+	Constrained: 
+Turn ID=39| B | B : even kijken lepel erin en de zuignap
+	Free: Pattern=en, Pattern=de, Pattern=even
+	Constrained: 

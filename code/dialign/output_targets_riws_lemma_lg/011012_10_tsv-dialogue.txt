@@ -1,0 +1,111 @@
+A|0| A: _ik hebben_ er nu één _met_ zo'n soort staaf _met_ _twee_ _bollet aan de_ zijkant erdoorheen 
+B|1| B: _ja_ 
+A|2| A: _en_ [ja] het lijken _een_ soort zon _ja een_ soort scherm _of_ zo erachter _of_ _ik_ weten niet hoe _je_ _dat_ zien _maar_ zo'n soort _plaat_ erachter _met een_ 
+B|3| B: denken [ik] 
+B|4| B: [ja een] [plaat] [en] dan _daar_ _daar_ steken ook nog iets uit zeggen [maar] 
+A|5| A: [ja] 
+B|6| B: oké [dat] _zijn_ dan _bij mij_ dan _zijn dat_ K 
+B|7| B: [ik hebben] nou weer _die een met_ dan [hebben] [je] _die twee_ _uitsteeksel_ zeggen [maar] [met een] _bolle_ _erop_ weer 
+B|8| B: [en] dan [de] achterkant [hebben] [je] weer [ja] wat jij _net_ _noemen_ [een] _zonnescherm_ zeggen [maar] [of] [een] zonnepaneel zeggen [maar] 
+A|9| A: [ja] 
+A|10| A: [en] [die] _uitsteeksel met_ zo'n [bolle] _aan de_ zijkant [ja] 
+B|11| B: [met] nog 
+B|12| B: [ja] 
+A|13| A: negen [zijn dat] [bij mij] 
+A|14| A: dit [zijn] [met] [twee] van [die] staf naar buiten [en] _die bollet_ [erop] [en] [een] soort [zonnescherm] [noemen] [ik] het [net] 
+B|15| B: oké [ja] [dat] [zijn] [bij mij] [zijn dat] F 
+A|16| A: erachter 
+B|17| B: nou [hebben] we weer _die een met die_ zeggen [maar] [dat] [die] zonnepaneel [en] dan _die twee_ [uitsteeksel _met] die [bollet_ aan de] [aan de] uiteinde 
+A|18| A: [ja] even kijken [ik] weten welk [je] bedoelen [daar] 
+A|19| A: waar zitten [die] ? [ja] 
+A|20| A: even kijken nummer drie [zijn dat] [bij mij] 
+A|21| A: [ik hebben] nu [die een met die] _met dat zonnescherm_ erachter [noemen] [ik] [net] [en] _die twee uitstekend_ ding [met die bollet] eraan 
+B|22| B: weer [met dat zonnescherm] zeggen [maar] [en] dan [die twee uitstekend] arm [met die bollet] 
+A|23| A: [ja] [ik] [zijn] even [aan] het zoeken 
+A|24| A: waar waar ? [daar] 
+A|25| A: [ja] 
+A|26| A: [een] beetje [ja] 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : ik hebben er nu één met zo'n soort staaf met twee bollet aan de zijkant erdoorheen
+	Free: Pattern=bollet aan de, Pattern=ik hebben, Pattern=twee, Pattern=met
+	Constrained: Pattern=aan de, Pattern=hebben, Pattern=ik, Pattern=de, Pattern=aan
+Turn ID=1| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=2| A | A : en ja het lijken een soort zon ja een soort scherm of zo erachter of ik weten niet hoe je dat zien maar zo'n soort plaat erachter met een
+	Free: Pattern=dat, Pattern=of, Pattern=ja, Pattern=een, Pattern=ja een, Pattern=met een, Pattern=ik, Pattern=en, Pattern=maar, Pattern=je, Pattern=plaat
+	Constrained: Pattern=een, Pattern=ja, Pattern=met
+Turn ID=3| B | B : denken ik
+	Free: Pattern=ik
+	Constrained: 
+Turn ID=4| B | B : ja een plaat en dan daar daar steken ook nog iets uit zeggen maar
+	Free: Pattern=ja een, Pattern=en, Pattern=maar, Pattern=daar, Pattern=plaat
+	Constrained: Pattern=een, Pattern=ja
+Turn ID=5| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=6| B | B : oké dat zijn dan bij mij dan zijn dat K
+	Free: Pattern=bij mij, Pattern=zijn dat, Pattern=zijn, Pattern=dat
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=7| B | B : ik hebben nou weer die een met dan hebben je die twee uitsteeksel zeggen maar met een bolle erop weer
+	Free: Pattern=ik hebben, Pattern=die een met, Pattern=erop, Pattern=uitsteeksel, Pattern=die twee, Pattern=hebben, Pattern=bolle, Pattern=met een, Pattern=maar, Pattern=je
+	Constrained: Pattern=twee, Pattern=een, Pattern=hebben, Pattern=met, Pattern=die, Pattern=ik
+Turn ID=8| B | B : en dan de achterkant hebben je weer ja wat jij net noemen een zonnescherm zeggen maar of een zonnepaneel zeggen maar
+	Free: Pattern=of, Pattern=net, Pattern=een, Pattern=hebben, Pattern=en, Pattern=maar, Pattern=noemen, Pattern=de, Pattern=ja, Pattern=zonnescherm, Pattern=je
+	Constrained: 
+Turn ID=9| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=10| A | A : en die uitsteeksel met zo'n bolle aan de zijkant ja
+	Free: Pattern=ja, Pattern=aan de, Pattern=uitsteeksel met, Pattern=bolle, Pattern=die, Pattern=en
+	Constrained: Pattern=de, Pattern=aan, Pattern=met, Pattern=uitsteeksel
+Turn ID=11| B | B : met nog
+	Free: Pattern=met
+	Constrained: 
+Turn ID=12| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=13| A | A : negen zijn dat bij mij
+	Free: Pattern=bij mij, Pattern=zijn dat
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=14| A | A : dit zijn met twee van die staf naar buiten en die bollet erop en een soort zonnescherm noemen ik het net
+	Free: Pattern=erop, Pattern=een, Pattern=met, Pattern=die, Pattern=ik, Pattern=en, Pattern=die bollet, Pattern=zijn, Pattern=zonnescherm, Pattern=noemen, Pattern=net, Pattern=twee
+	Constrained: Pattern=die
+Turn ID=15| B | B : oké ja dat zijn bij mij zijn dat F
+	Free: Pattern=dat, Pattern=ja, Pattern=zijn, Pattern=bij mij, Pattern=zijn dat
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=16| A | A : erachter
+	Free: 
+	Constrained: 
+Turn ID=17| B | B : nou hebben we weer die een met die zeggen maar dat die zonnepaneel en dan die twee uitsteeksel met die bollet aan de aan de uiteinde
+	Free: Pattern=dat, Pattern=met die bollet, Pattern=aan de, Pattern=uitsteeksel met, Pattern=die een met die, Pattern=die twee, Pattern=hebben, Pattern=die, Pattern=en, Pattern=maar, Pattern=bollet aan de
+	Constrained: Pattern=twee, Pattern=aan de, Pattern=uitsteeksel, Pattern=een, Pattern=met, Pattern=die, Pattern=die bollet, Pattern=aan, Pattern=de, Pattern=die een met
+Turn ID=18| A | A : ja even kijken ik weten welk je bedoelen daar
+	Free: Pattern=ik, Pattern=daar, Pattern=ja, Pattern=je
+	Constrained: 
+Turn ID=19| A | A : waar zitten die ? ja
+	Free: Pattern=ja, Pattern=die
+	Constrained: 
+Turn ID=20| A | A : even kijken nummer drie zijn dat bij mij
+	Free: Pattern=bij mij, Pattern=zijn dat
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=21| A | A : ik hebben nu die een met die met dat zonnescherm erachter noemen ik net en die twee uitstekend ding met die bollet eraan
+	Free: Pattern=ik hebben, Pattern=die een met die, Pattern=met dat zonnescherm, Pattern=ik, Pattern=en, Pattern=die twee uitstekend, Pattern=noemen, Pattern=net, Pattern=met die bollet
+	Constrained: Pattern=dat, Pattern=twee, Pattern=die een met, Pattern=een, Pattern=die twee, Pattern=hebben, Pattern=met, Pattern=die, Pattern=ik, Pattern=die bollet, Pattern=zonnescherm
+Turn ID=22| B | B : weer met dat zonnescherm zeggen maar en dan die twee uitstekend arm met die bollet
+	Free: Pattern=met die bollet, Pattern=met dat zonnescherm, Pattern=en, Pattern=maar, Pattern=die twee uitstekend
+	Constrained: Pattern=dat, Pattern=twee, Pattern=die twee, Pattern=met, Pattern=die, Pattern=die bollet, Pattern=zonnescherm
+Turn ID=23| A | A : ja ik zijn even aan het zoeken
+	Free: Pattern=zijn, Pattern=ik, Pattern=aan, Pattern=ja
+	Constrained: 
+Turn ID=24| A | A : waar waar ? daar
+	Free: Pattern=daar
+	Constrained: 
+Turn ID=25| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=26| A | A : een beetje ja
+	Free: Pattern=een, Pattern=ja
+	Constrained: 

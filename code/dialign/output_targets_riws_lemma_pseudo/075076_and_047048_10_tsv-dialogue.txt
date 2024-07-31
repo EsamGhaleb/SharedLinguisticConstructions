@@ -1,0 +1,115 @@
+A|0| A: ik hebben _er één_ _met_ _een_ soort _van_ _het_ lijken alsof _er_ _twee_ paddenstoel _aan de_ zijkant laat maar zeggen zitten 
+A|1| A: _ja_ kloppen precies _die_ 
+A|2| A: _ja_ 
+B|3| B: en [een] 
+B|4| B: schuin dakje [aan de] achterkant 
+B|5| B: [ja] 
+B|6| B: K 
+A|7| A: [ja] ik moeten even zoeken 
+A|8| A: [ja] 
+A|9| A: [ja] _zijn_ bij mij nummer negen 
+B|10| B: [ja] deze [zijn] _met die_ [twee] handvat waarvan [er één] kort [zijn] dan [de] ander 
+B|11| B: en 
+B|12| B: [ja] schuin dakje 
+A|13| A: ik hebben diegene [met die] zoutvaat weer 
+B|14| B: oké 
+B|15| B: lang duren 
+B|16| B: [ja] F 
+A|17| A: [ja] [die] staan bij mij ik kunnen ze niet vinden 
+A|18| A: [ja] nummer drie 
+B|19| B: oké 
+B|20| B: dit [zijn] [die] [een] [met] [twee] handvat [van] ander lengte 
+B|21| B: [ja] dat vierkantig 
+A|22| A: ik hebben [de] [twee] zoutvaat 
+B|23| B: [ja] 
+B|24| B: L 
+A|25| A: nummer vijf 
+B|26| B: [het] [twee] handvat [van] [de] ander lengte 
+B|27| B: [ja] 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : ik hebben er één met een soort van het lijken alsof er twee paddenstoel aan de zijkant laat maar zeggen zitten
+	Free: Pattern=twee, Pattern=een, Pattern=het, Pattern=met, Pattern=er, Pattern=van, Pattern=aan de, Pattern=er één
+	Constrained: Pattern=de, Pattern=er
+Turn ID=1| A | A : ja kloppen precies die
+	Free: Pattern=ja, Pattern=die
+	Constrained: 
+Turn ID=2| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=3| B | B : en een
+	Free: Pattern=een
+	Constrained: 
+Turn ID=4| B | B : schuin dakje aan de achterkant
+	Free: Pattern=aan de
+	Constrained: Pattern=de
+Turn ID=5| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=6| B | B : K
+	Free: 
+	Constrained: 
+Turn ID=7| A | A : ja ik moeten even zoeken
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=8| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=9| A | A : ja zijn bij mij nummer negen
+	Free: Pattern=ja, Pattern=zijn
+	Constrained: 
+Turn ID=10| B | B : ja deze zijn met die twee handvat waarvan er één kort zijn dan de ander
+	Free: Pattern=met die, Pattern=twee, Pattern=er één, Pattern=zijn, Pattern=de, Pattern=ja
+	Constrained: Pattern=er, Pattern=die, Pattern=met
+Turn ID=11| B | B : en
+	Free: 
+	Constrained: 
+Turn ID=12| B | B : ja schuin dakje
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=13| A | A : ik hebben diegene met die zoutvaat weer
+	Free: Pattern=met die
+	Constrained: Pattern=die, Pattern=met
+Turn ID=14| B | B : oké
+	Free: 
+	Constrained: 
+Turn ID=15| B | B : lang duren
+	Free: 
+	Constrained: 
+Turn ID=16| B | B : ja F
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=17| A | A : ja die staan bij mij ik kunnen ze niet vinden
+	Free: Pattern=ja, Pattern=die
+	Constrained: 
+Turn ID=18| A | A : ja nummer drie
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=19| B | B : oké
+	Free: 
+	Constrained: 
+Turn ID=20| B | B : dit zijn die een met twee handvat van ander lengte
+	Free: Pattern=twee, Pattern=een, Pattern=met, Pattern=die, Pattern=van, Pattern=zijn
+	Constrained: 
+Turn ID=21| B | B : ja dat vierkantig
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=22| A | A : ik hebben de twee zoutvaat
+	Free: Pattern=twee, Pattern=de
+	Constrained: 
+Turn ID=23| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=24| B | B : L
+	Free: 
+	Constrained: 
+Turn ID=25| A | A : nummer vijf
+	Free: 
+	Constrained: 
+Turn ID=26| B | B : het twee handvat van de ander lengte
+	Free: Pattern=twee, Pattern=van, Pattern=de, Pattern=het
+	Constrained: 
+Turn ID=27| B | B : ja
+	Free: Pattern=ja
+	Constrained: 

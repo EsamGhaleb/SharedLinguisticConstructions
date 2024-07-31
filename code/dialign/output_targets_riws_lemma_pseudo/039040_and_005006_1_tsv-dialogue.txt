@@ -1,0 +1,87 @@
+A|0| A: ja ik weten welk je bedoelen dat zijn _twee_ 
+A|1| A: _en_ zo'n _vierkant_ 
+A|2| A: zo'n plat _vierkant_ erop plakken _en een_ antennetje 
+A|3| A: ja dat zijn _twee_ 
+B|4| B: deze hebben zegmaar [een] spijker _bovenop_ [en een] [vierkant] vlak aan _de_ voorkant 
+B|5| B: _met_ [twee] blokkentorent link 
+A|6| A: dit zijn degeen [met] [de] [twee] verrekijker 
+A|7| A: [en] zo'n antenne [bovenop] 
+A|8| A: ja 
+A|9| A: wachten even ja [twee] verrekijker 
+A|10| A: ja negen 
+B|11| B: blokkentorent 
+B|12| B: G 
+A|13| A: ja 
+A|14| A: dit zijn degeen [met] [de] [twee] verrekijker [en] [de] Antenne 
+B|15| B: hij hebben zegmaar [een] spijker [bovenop] links [twee] blokkentorent [en een] [vierkant] scherm 
+B|16| B: D 
+A|17| A: ja één 
+B|18| B: [twee] blokkentorent link spijker bovenaan [vierkant] schermpje vooraan 
+A|19| A: dit zijn degeen [met] [de] [twee] verrekijker 
+B|20| B: B 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : ja ik weten welk je bedoelen dat zijn twee
+	Free: Pattern=twee
+	Constrained: 
+Turn ID=1| A | A : en zo'n vierkant
+	Free: Pattern=vierkant, Pattern=en
+	Constrained: 
+Turn ID=2| A | A : zo'n plat vierkant erop plakken en een antennetje
+	Free: Pattern=en een, Pattern=vierkant
+	Constrained: Pattern=een, Pattern=en
+Turn ID=3| A | A : ja dat zijn twee
+	Free: Pattern=twee
+	Constrained: 
+Turn ID=4| B | B : deze hebben zegmaar een spijker bovenop en een vierkant vlak aan de voorkant
+	Free: Pattern=bovenop, Pattern=de, Pattern=een, Pattern=en een, Pattern=vierkant
+	Constrained: Pattern=een, Pattern=en
+Turn ID=5| B | B : met twee blokkentorent link
+	Free: Pattern=met, Pattern=twee
+	Constrained: 
+Turn ID=6| A | A : dit zijn degeen met de twee verrekijker
+	Free: Pattern=met, Pattern=twee, Pattern=de
+	Constrained: 
+Turn ID=7| A | A : en zo'n antenne bovenop
+	Free: Pattern=bovenop, Pattern=en
+	Constrained: 
+Turn ID=8| A | A : ja
+	Free: 
+	Constrained: 
+Turn ID=9| A | A : wachten even ja twee verrekijker
+	Free: Pattern=twee
+	Constrained: 
+Turn ID=10| A | A : ja negen
+	Free: 
+	Constrained: 
+Turn ID=11| B | B : blokkentorent
+	Free: 
+	Constrained: 
+Turn ID=12| B | B : G
+	Free: 
+	Constrained: 
+Turn ID=13| A | A : ja
+	Free: 
+	Constrained: 
+Turn ID=14| A | A : dit zijn degeen met de twee verrekijker en de Antenne
+	Free: Pattern=met, Pattern=twee, Pattern=en, Pattern=de
+	Constrained: 
+Turn ID=15| B | B : hij hebben zegmaar een spijker bovenop links twee blokkentorent en een vierkant scherm
+	Free: Pattern=bovenop, Pattern=twee, Pattern=een, Pattern=en een, Pattern=vierkant
+	Constrained: Pattern=een, Pattern=en
+Turn ID=16| B | B : D
+	Free: 
+	Constrained: 
+Turn ID=17| A | A : ja één
+	Free: 
+	Constrained: 
+Turn ID=18| B | B : twee blokkentorent link spijker bovenaan vierkant schermpje vooraan
+	Free: Pattern=twee, Pattern=vierkant
+	Constrained: 
+Turn ID=19| A | A : dit zijn degeen met de twee verrekijker
+	Free: Pattern=met, Pattern=twee, Pattern=de
+	Constrained: 
+Turn ID=20| B | B : B
+	Free: 
+	Constrained: 

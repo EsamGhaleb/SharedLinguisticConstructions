@@ -1,0 +1,175 @@
+A|0| A: deze hebben vier uitsteeksel één _aan de bovenkant_ _een beetje_ _een_ één glad _en_ dan _aan de rechterkant_ _een_ soort legoblok 
+A|1| A: _en_ dan _nog_ _nog_ één zo'n zelfde glad _een beetje_ in _het_ midden _en_ _nog_ _een_ soor regenpijp wormp naar _achter_ 
+A|2| A: _zo_ zullen _ik_ _het_ niet zelf kunnen willen noemen _denken ik_ _maar_ _het_ _zijn_ _een_ soor legblokje _die_ steeds groot worden _zeggen maar_ dus hij beginnen _met_ _een_ klein legoblok _en_ dan worden ze steeds groot 
+A|3| A: nee _die_ zitten _aan de_ zijkant sorry _die_ zitten rechts _aan_ _aan de_ rechterzijkant 
+B|4| B: o _ja_ [ik] _ja_ [ik] weten [denken ik] _wel_ welk je bedoelen _dat zijn_ bij mij E 
+A|5| A: nee [dat zijn] er één 
+A|6| A: één zo'n legoblok _en_ _aan de bovenkant_ één zo'n soort glad cactus 
+B|7| B: ok 
+A|8| A: [ja] _en_ _aan de_ linkerzijkant dezelfde _en_ _aan de_ rechterzijkant zo'n _blok_ _en_ 
+A|9| A: [ja] 
+A|10| A: oké 
+A|11| A: oké 
+A|12| A: [ja] 
+A|13| A: _even kijken waar_ [zijn] _die_ ? [ja] 
+A|14| A: [ja] 
+A|15| A: _en_ _met die_ regenpijp _ook_ _nog_ _zeggen maar aan de_ 
+A|16| A: [ja] oké nummer elf 
+B|17| B: _dit zijn_ [ja] _weer dat_ dinge _met dat_ _met dat_ ovaal dinge [aan de bovenkant] ovaal dinge [zeggen maar aan de] linkerkant [en] [die] 
+B|18| B: [blok] [aan de rechterkant] [en] [achter] [nog] iets van [een] slurf of [zo] 
+B|19| B: [ja] 
+B|20| B: ok bij mij F 
+A|21| A: oké 
+A|22| A: [ja] [dit zijn] [weer dat] [een] soort half fliebel bovenop 
+A|23| A: [met dat] legoblok links [en] dan datzelfde fliebel [weer] rechts [met dat] regenpijp 
+A|24| A: _het_ [zijn] echt [wel] lastig uitleggen sommig 
+A|25| A: _ja met_ [de] regenpijp 
+A|26| A: [ja] nummer negen 
+B|27| B: o [die] [met die] vierkant [ook] [ja] [dat zijn] bij mij J 
+B|28| B: ok 
+B|29| B: [ja] [het] _doen_ mij [een beetje] [denken] [aan] [een] miereneter van achteren of [zo] [ja met] vanwege [die] toet [zo] 
+B|30| B: [ja] 
+A|31| A: _even kijken_ deze [zijn] [weer] [met dat] [een] freubel bovenop [en] dan dezelfde [aan] [die] kant [en] [dat] legoblokje [en] [dat] regenpijp 
+A|32| A: [ja] _die zijn_ [wel] handig 
+B|33| B: [dit zijn] [zeggen maar] [die] bij mij op [de] miereneter [zeggen maar] op [de] van [achter] lijken 
+B|34| B: ok bij mij H 
+A|35| A: [ja] [en] [het] regenpijp 
+A|36| A: nummer vier 
+A|37| A: [die] regenpijp [doen] [het] hem 
+B|38| B: [even kijken waar] [die zijn] o daar B 
+B|39| B: h [even kijken] 
+B|40| B: ok 
+B|41| B: o [dit zijn] [de] miereneter van [achter] 
+B|42| B: ok bij mij E 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : deze hebben vier uitsteeksel één aan de bovenkant een beetje een één glad en dan aan de rechterkant een soort legoblok
+	Free: Pattern=een, Pattern=aan de rechterkant, Pattern=een beetje, Pattern=aan de bovenkant, Pattern=en
+	Constrained: Pattern=aan, Pattern=een, Pattern=de, Pattern=aan de
+Turn ID=1| A | A : en dan nog nog één zo'n zelfde glad een beetje in het midden en nog een soor regenpijp wormp naar achter
+	Free: Pattern=nog, Pattern=een, Pattern=het, Pattern=achter, Pattern=en, Pattern=een beetje
+	Constrained: Pattern=een
+Turn ID=2| A | A : zo zullen ik het niet zelf kunnen willen noemen denken ik maar het zijn een soor legblokje die steeds groot worden zeggen maar dus hij beginnen met een klein legoblok en dan worden ze steeds groot
+	Free: Pattern=zeggen maar, Pattern=het, Pattern=zo, Pattern=met, Pattern=die, Pattern=ik, Pattern=en, Pattern=een, Pattern=denken ik, Pattern=zijn, Pattern=maar
+	Constrained: Pattern=maar, Pattern=denken, Pattern=ik
+Turn ID=3| A | A : nee die zitten aan de zijkant sorry die zitten rechts aan aan de rechterzijkant
+	Free: Pattern=aan de, Pattern=aan, Pattern=die
+	Constrained: Pattern=aan, Pattern=de
+Turn ID=4| B | B : o ja ik ja ik weten denken ik wel welk je bedoelen dat zijn bij mij E
+	Free: Pattern=dat zijn, Pattern=ja, Pattern=ik, Pattern=wel, Pattern=denken ik
+	Constrained: Pattern=denken, Pattern=dat, Pattern=ik, Pattern=zijn
+Turn ID=5| A | A : nee dat zijn er één
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=6| A | A : één zo'n legoblok en aan de bovenkant één zo'n soort glad cactus
+	Free: Pattern=aan de bovenkant, Pattern=en
+	Constrained: Pattern=aan, Pattern=de, Pattern=aan de
+Turn ID=7| B | B : ok
+	Free: 
+	Constrained: 
+Turn ID=8| A | A : ja en aan de linkerzijkant dezelfde en aan de rechterzijkant zo'n blok en
+	Free: Pattern=aan de, Pattern=blok, Pattern=ja, Pattern=en
+	Constrained: Pattern=aan, Pattern=de
+Turn ID=9| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=10| A | A : oké
+	Free: 
+	Constrained: 
+Turn ID=11| A | A : oké
+	Free: 
+	Constrained: 
+Turn ID=12| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=13| A | A : even kijken waar zijn die ? ja
+	Free: Pattern=even kijken waar, Pattern=die, Pattern=ja, Pattern=zijn
+	Constrained: Pattern=even kijken
+Turn ID=14| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=15| A | A : en met die regenpijp ook nog zeggen maar aan de
+	Free: Pattern=met die, Pattern=nog, Pattern=ook, Pattern=zeggen maar aan de, Pattern=en
+	Constrained: Pattern=aan de, Pattern=zeggen maar, Pattern=met, Pattern=die, Pattern=maar, Pattern=de, Pattern=aan
+Turn ID=16| A | A : ja oké nummer elf
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=17| B | B : dit zijn ja weer dat dinge met dat met dat ovaal dinge aan de bovenkant ovaal dinge zeggen maar aan de linkerkant en die
+	Free: Pattern=ja, Pattern=met dat, Pattern=zeggen maar aan de, Pattern=die, Pattern=dit zijn, Pattern=weer dat, Pattern=aan de bovenkant, Pattern=en
+	Constrained: Pattern=dat, Pattern=aan de, Pattern=zeggen maar, Pattern=met, Pattern=weer, Pattern=de, Pattern=aan, Pattern=zijn, Pattern=maar
+Turn ID=18| B | B : blok aan de rechterkant en achter nog iets van een slurf of zo
+	Free: Pattern=nog, Pattern=een, Pattern=achter, Pattern=zo, Pattern=aan de rechterkant, Pattern=en, Pattern=blok
+	Constrained: Pattern=aan, Pattern=de, Pattern=aan de
+Turn ID=19| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=20| B | B : ok bij mij F
+	Free: 
+	Constrained: 
+Turn ID=21| A | A : oké
+	Free: 
+	Constrained: 
+Turn ID=22| A | A : ja dit zijn weer dat een soort half fliebel bovenop
+	Free: Pattern=weer dat, Pattern=dit zijn, Pattern=een, Pattern=ja
+	Constrained: Pattern=dat, Pattern=weer, Pattern=zijn
+Turn ID=23| A | A : met dat legoblok links en dan datzelfde fliebel weer rechts met dat regenpijp
+	Free: Pattern=met dat, Pattern=weer, Pattern=en
+	Constrained: Pattern=dat, Pattern=met
+Turn ID=24| A | A : het zijn echt wel lastig uitleggen sommig
+	Free: Pattern=het, Pattern=wel, Pattern=zijn
+	Constrained: 
+Turn ID=25| A | A : ja met de regenpijp
+	Free: Pattern=ja met, Pattern=de
+	Constrained: Pattern=ja, Pattern=met
+Turn ID=26| A | A : ja nummer negen
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=27| B | B : o die met die vierkant ook ja dat zijn bij mij J
+	Free: Pattern=ja, Pattern=ook, Pattern=die, Pattern=dat zijn, Pattern=met die
+	Constrained: Pattern=die, Pattern=dat, Pattern=met, Pattern=zijn
+Turn ID=28| B | B : ok
+	Free: 
+	Constrained: 
+Turn ID=29| B | B : ja het doen mij een beetje denken aan een miereneter van achteren of zo ja met vanwege die toet zo
+	Free: Pattern=het, Pattern=zo, Pattern=die, Pattern=een beetje, Pattern=denken, Pattern=doen, Pattern=aan, Pattern=ja, Pattern=een, Pattern=ja met
+	Constrained: Pattern=een, Pattern=ja, Pattern=met
+Turn ID=30| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=31| A | A : even kijken deze zijn weer met dat een freubel bovenop en dan dezelfde aan die kant en dat legoblokje en dat regenpijp
+	Free: Pattern=dat, Pattern=aan, Pattern=een, Pattern=met dat, Pattern=die, Pattern=even kijken, Pattern=en, Pattern=zijn, Pattern=weer
+	Constrained: Pattern=dat, Pattern=met
+Turn ID=32| A | A : ja die zijn wel handig
+	Free: Pattern=die zijn, Pattern=ja, Pattern=wel
+	Constrained: Pattern=die, Pattern=zijn
+Turn ID=33| B | B : dit zijn zeggen maar die bij mij op de miereneter zeggen maar op de van achter lijken
+	Free: Pattern=de, Pattern=zeggen maar, Pattern=achter, Pattern=die, Pattern=dit zijn
+	Constrained: Pattern=maar, Pattern=zijn
+Turn ID=34| B | B : ok bij mij H
+	Free: 
+	Constrained: 
+Turn ID=35| A | A : ja en het regenpijp
+	Free: Pattern=het, Pattern=ja, Pattern=en
+	Constrained: 
+Turn ID=36| A | A : nummer vier
+	Free: 
+	Constrained: 
+Turn ID=37| A | A : die regenpijp doen het hem
+	Free: Pattern=die, Pattern=het, Pattern=doen
+	Constrained: 
+Turn ID=38| B | B : even kijken waar die zijn o daar B
+	Free: Pattern=even kijken waar, Pattern=die zijn
+	Constrained: Pattern=even kijken, Pattern=zijn, Pattern=die
+Turn ID=39| B | B : h even kijken
+	Free: Pattern=even kijken
+	Constrained: 
+Turn ID=40| B | B : ok
+	Free: 
+	Constrained: 
+Turn ID=41| B | B : o dit zijn de miereneter van achter
+	Free: Pattern=dit zijn, Pattern=achter, Pattern=de
+	Constrained: Pattern=zijn
+Turn ID=42| B | B : ok bij mij E
+	Free: 
+	Constrained: 

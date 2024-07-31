@@ -1,0 +1,99 @@
+B|0| B: _ja_ _en_ _dan_ 
+B|1| B: _ja_ _en_ _twee_ _bollet_ _op de_ 
+B|2| B: oké _ja_ 
+B|3| B: K 
+A|4| A: [ja] deze hebben eigenlijk gewoon _een_ kop zonder ver _iets_ er _aan_ [op de] voorgrond 
+A|5| A: [en] daarachter liggen _een_ soort _staaf_ _met_ [twee] van _die_ [bollet] _aan_ _het_ einde dat lijken alsof hij er helemaal achterlangs lopen 
+A|6| A: _met_ _een_ soort schuin vlak erachter _met_ achter _het_ schuin vlak _weer_ zo'n ding naar beneden 
+A|7| A: _een_ schans [ja] [ja] [ja] 
+A|8| A: [ja] 
+A|9| A: [ja] _maar_ [dan] niet net niet niet helemaal recht alsof hij echt zo'n hoek maken achter [de] 
+A|10| A: ok 
+B|11| B: _dit zijn met die_ [staaf] [die] door [het] mokje heen gaan [maar] [aan] [de] linkerkant [iets] weinig [dan] [aan] [de] rechterkant 
+B|12| B: [ja] 
+B|13| B: [ja] 
+B|14| B: F 
+A|15| A: [ja] [ja] [ja] dat [zijn] nummer negen 
+B|16| B: _dit zijn weer met die_ [staaf] erdoorheen [en] [dan] [aan] [de] linkerkant [een] klein stuk [dan] [aan] [de] rechterkant 
+A|17| A: [ja] [dit zijn met die] doorlopen spijkerachtig dat achterlangs lopen [met] zo'n knik erachter [en] [die] schans 
+B|18| B: link [iets] weinig [en] rechts [iets] veel 
+B|19| B: L 
+B|20| B: _dit zijn weer_ [die] [staaf] [die] link [iets] weinig erdoorheen opsteken [en] rechts [iets] veel 
+A|21| A: [ja] even zoeken waar [die] staan dat [zijn] nummer drie 
+A|22| A: [dit zijn weer met die] spijker [die] er achterlangs helemaal doorheen lopen [en] [de] schans 
+A|23| A: [ja] dat [zijn] nummer vijf 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : ja en dan
+	Free: Pattern=en, Pattern=dan, Pattern=ja
+	Constrained: 
+Turn ID=1| B | B : ja en twee bollet op de
+	Free: Pattern=ja, Pattern=en, Pattern=op de, Pattern=twee, Pattern=bollet
+	Constrained: Pattern=de
+Turn ID=2| B | B : oké ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=3| B | B : K
+	Free: 
+	Constrained: 
+Turn ID=4| A | A : ja deze hebben eigenlijk gewoon een kop zonder ver iets er aan op de voorgrond
+	Free: Pattern=een, Pattern=op de, Pattern=aan, Pattern=iets, Pattern=ja
+	Constrained: Pattern=de
+Turn ID=5| A | A : en daarachter liggen een soort staaf met twee van die bollet aan het einde dat lijken alsof hij er helemaal achterlangs lopen
+	Free: Pattern=aan, Pattern=staaf, Pattern=een, Pattern=het, Pattern=met, Pattern=die, Pattern=en, Pattern=twee, Pattern=bollet
+	Constrained: 
+Turn ID=6| A | A : met een soort schuin vlak erachter met achter het schuin vlak weer zo'n ding naar beneden
+	Free: Pattern=het, Pattern=weer, Pattern=met, Pattern=een
+	Constrained: 
+Turn ID=7| A | A : een schans ja ja ja
+	Free: Pattern=ja, Pattern=een
+	Constrained: 
+Turn ID=8| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=9| A | A : ja maar dan niet net niet niet helemaal recht alsof hij echt zo'n hoek maken achter de
+	Free: Pattern=dan, Pattern=maar, Pattern=de, Pattern=ja
+	Constrained: 
+Turn ID=10| A | A : ok
+	Free: 
+	Constrained: 
+Turn ID=11| B | B : dit zijn met die staaf die door het mokje heen gaan maar aan de linkerkant iets weinig dan aan de rechterkant
+	Free: Pattern=staaf, Pattern=dan, Pattern=het, Pattern=die, Pattern=maar, Pattern=dit zijn met die, Pattern=de, Pattern=aan, Pattern=iets
+	Constrained: Pattern=zijn, Pattern=met, Pattern=die
+Turn ID=12| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=13| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=14| B | B : F
+	Free: 
+	Constrained: 
+Turn ID=15| A | A : ja ja ja dat zijn nummer negen
+	Free: Pattern=zijn, Pattern=ja
+	Constrained: 
+Turn ID=16| B | B : dit zijn weer met die staaf erdoorheen en dan aan de linkerkant een klein stuk dan aan de rechterkant
+	Free: Pattern=dit zijn weer met die, Pattern=staaf, Pattern=dan, Pattern=een, Pattern=en, Pattern=de, Pattern=aan
+	Constrained: Pattern=met, Pattern=die, Pattern=zijn, Pattern=weer, Pattern=dit zijn weer
+Turn ID=17| A | A : ja dit zijn met die doorlopen spijkerachtig dat achterlangs lopen met zo'n knik erachter en die schans
+	Free: Pattern=ja, Pattern=met, Pattern=die, Pattern=en, Pattern=dit zijn met die
+	Constrained: Pattern=zijn, Pattern=met, Pattern=die
+Turn ID=18| B | B : link iets weinig en rechts iets veel
+	Free: Pattern=en, Pattern=iets
+	Constrained: 
+Turn ID=19| B | B : L
+	Free: 
+	Constrained: 
+Turn ID=20| B | B : dit zijn weer die staaf die link iets weinig erdoorheen opsteken en rechts iets veel
+	Free: Pattern=iets, Pattern=staaf, Pattern=die, Pattern=en, Pattern=dit zijn weer
+	Constrained: Pattern=zijn, Pattern=weer
+Turn ID=21| A | A : ja even zoeken waar die staan dat zijn nummer drie
+	Free: Pattern=die, Pattern=zijn, Pattern=ja
+	Constrained: 
+Turn ID=22| A | A : dit zijn weer met die spijker die er achterlangs helemaal doorheen lopen en de schans
+	Free: Pattern=dit zijn weer met die, Pattern=en, Pattern=die, Pattern=de
+	Constrained: Pattern=met, Pattern=die, Pattern=zijn, Pattern=weer, Pattern=dit zijn weer
+Turn ID=23| A | A : ja dat zijn nummer vijf
+	Free: Pattern=zijn, Pattern=ja
+	Constrained: 

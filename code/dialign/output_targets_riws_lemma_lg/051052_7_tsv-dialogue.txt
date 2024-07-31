@@ -1,0 +1,187 @@
+B|0| B: _ja_ deze _hebben ook_ zo'n _ik_ denken _ook_ zo'n _vierkant_ vlak _maar_ _dan_ wat hoog _het_ lijken _een_ beetje zo'n _plank_ 
+B|1| B: _waar_ _dan_ zo'n _vierkant bak op staan_ 
+A|2| A: [een] [plank] [waar] [een] [vierkant bak op staan] 
+B|3| B: zeggen _maar_ [een] plaat _met twee_ poot 
+B|4| B: _die_ om _de_ beker [staan] 
+A|5| A: even even even overnieuw 
+B|6| B: _het_ _zijn_ _de_ beker gewoon _en _dan_ zijn_ _het_ zo'n [vierkant] plaat _die_ meerdere _hebben_ _en_ _die_ zitten _dan_ ongeveer [op] driekwart _dus_ best wel hoog 
+A|7| A: [ja] 
+B|8| B: _en het_ lijken alsof _het_ zo'n [plank] _zijn_ _en_ _daar_ [staan] _dan een soort_ vierkantig [bak op] 
+B|9| B: [op] _dat_ [plank] 
+A|10| A: wachten [en] _oké_ [dus] [en] hij [hebben ook] nog [twee] van [die] balkjes naar beneden 
+B|11| B: [ja] 
+A|12| A: [en [dan] een soort] van [ja] [een] _kuip_ [en dan] nog [een] klein oor _aan de_ linkerkant 
+B|13| B: [ja] 
+A|14| A: [dan zijn] [dat] nummer zestien 
+A|15| A: [ja] _dit zijn_ _dat kop met dat_ balk [met twee] balk [die] daaraan hangen [en] [dat] 
+A|16| A: mand [dat] [op] [het] balk [staan] [en] [dat] klein oor Linksboven 
+B|17| B: _ja ja_ 
+B|18| B: [dat] [dat] [plank] zullen _ik_ _maar_ zeggen 
+A|19| A: [ja] 
+B|20| B: [oké] _dat zijn_ P 
+B|21| B: [dit zijn] weer [dat kop met dat] [plank] [met] [die] [twee] poot 
+B|22| B: [waar] [dan] [dat] [kuip] [op] staat 
+B|23| B: [en] _staart_ [aan de] achterkant 
+A|24| A: [staart] [daar] links 
+A|25| A: [ik] [zijn] hem even [aan] [het] zoeken [ik] weten welk je bedoelen [maar] 
+A|26| A: [waar] [staan] [die] nou 
+A|27| A: [ja ja] 
+A|28| A: [dit zijn] [kop] 
+A|29| A: balk [met twee] van [die] _ding_ 
+B|30| B: [ja] 
+A|31| A: dinge [en] [dat] oor link 
+B|32| B: [ja] 
+A|33| A: [dat zijn] nummer veertien 
+A|34| A: [het] [kop met] [de] balk [met] [de] [twee] klein balkjes _erop_ [en het] mand [die] [op] [het] balk [staan] [en het] klein oor [aan de] linkerkant 
+B|35| B: [ja] 
+B|36| B: [het] [plank] zullen [ik] [maar] zeggen 
+B|37| B: toch 
+A|38| A: [ja] 
+B|39| B: [dat zijn] N 
+B|40| B: [dit zijn] weer [dat] [ding] [dat] [plank] [met] [die] [twee] [plank] 
+A|41| A: [ja] [en het] [en het] nummer tien 
+B|42| B: [het] [bak] [erop] 
+A|43| A: [het] balk [met] [de] steunbalkjes [en het] [kuip] [en het] klein oor [aan de] linkerkant 
+B|44| B: [ja ja] 
+B|45| B: [dat zijn] D 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : ja deze hebben ook zo'n ik denken ook zo'n vierkant vlak maar dan wat hoog het lijken een beetje zo'n plank
+	Free: Pattern=ja, Pattern=dan, Pattern=een, Pattern=het, Pattern=ik, Pattern=vierkant, Pattern=plank, Pattern=ook, Pattern=hebben ook, Pattern=maar
+	Constrained: Pattern=ook, Pattern=hebben
+Turn ID=1| B | B : waar dan zo'n vierkant bak op staan
+	Free: Pattern=vierkant bak op staan, Pattern=dan, Pattern=waar
+	Constrained: Pattern=op, Pattern=bak op, Pattern=staan, Pattern=bak, Pattern=vierkant
+Turn ID=2| A | A : een plank waar een vierkant bak op staan
+	Free: Pattern=vierkant bak op staan, Pattern=waar, Pattern=plank, Pattern=een
+	Constrained: Pattern=op, Pattern=bak op, Pattern=staan, Pattern=bak, Pattern=vierkant
+Turn ID=3| B | B : zeggen maar een plaat met twee poot
+	Free: Pattern=met twee, Pattern=maar, Pattern=een
+	Constrained: Pattern=twee, Pattern=met
+Turn ID=4| B | B : die om de beker staan
+	Free: Pattern=die, Pattern=staan, Pattern=de
+	Constrained: 
+Turn ID=5| A | A : even even even overnieuw
+	Free: 
+	Constrained: 
+Turn ID=6| B | B : het zijn de beker gewoon en dan zijn het zo'n vierkant plaat die meerdere hebben en die zitten dan ongeveer op driekwart dus best wel hoog
+	Free: Pattern=en dan, Pattern=op, Pattern=dan, Pattern=het, Pattern=hebben, Pattern=die, Pattern=dan zijn, Pattern=en, Pattern=zijn, Pattern=vierkant, Pattern=de, Pattern=dus
+	Constrained: Pattern=dan, Pattern=en, Pattern=zijn
+Turn ID=7| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=8| B | B : en het lijken alsof het zo'n plank zijn en daar staan dan een soort vierkantig bak op
+	Free: Pattern=bak op, Pattern=staan, Pattern=het, Pattern=dan een soort, Pattern=en, Pattern=zijn, Pattern=daar, Pattern=plank, Pattern=en het
+	Constrained: Pattern=op, Pattern=dan, Pattern=een, Pattern=en, Pattern=bak, Pattern=het
+Turn ID=9| B | B : op dat plank
+	Free: Pattern=plank, Pattern=op, Pattern=dat
+	Constrained: 
+Turn ID=10| A | A : wachten en oké dus en hij hebben ook nog twee van die balkjes naar beneden
+	Free: Pattern=twee, Pattern=dus, Pattern=die, Pattern=oké, Pattern=en, Pattern=hebben ook
+	Constrained: Pattern=ook, Pattern=hebben
+Turn ID=11| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=12| A | A : en dan een soort van ja een kuip en dan nog een klein oor aan de linkerkant
+	Free: Pattern=en dan, Pattern=aan de, Pattern=een, Pattern=dan een soort, Pattern=kuip, Pattern=ja
+	Constrained: Pattern=dan, Pattern=een, Pattern=en, Pattern=de, Pattern=aan
+Turn ID=13| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=14| A | A : dan zijn dat nummer zestien
+	Free: Pattern=dan zijn, Pattern=dat
+	Constrained: Pattern=dan, Pattern=zijn
+Turn ID=15| A | A : ja dit zijn dat kop met dat balk met twee balk die daaraan hangen en dat
+	Free: Pattern=ja, Pattern=met twee, Pattern=die, Pattern=en, Pattern=dit zijn, Pattern=dat, Pattern=dat kop met dat
+	Constrained: Pattern=dat, Pattern=twee, Pattern=kop met, Pattern=kop, Pattern=met, Pattern=zijn
+Turn ID=16| A | A : mand dat op het balk staan en dat klein oor Linksboven
+	Free: Pattern=dat, Pattern=op, Pattern=staan, Pattern=het, Pattern=en
+	Constrained: 
+Turn ID=17| B | B : ja ja
+	Free: Pattern=ja ja
+	Constrained: Pattern=ja
+Turn ID=18| B | B : dat dat plank zullen ik maar zeggen
+	Free: Pattern=plank, Pattern=maar, Pattern=ik, Pattern=dat
+	Constrained: 
+Turn ID=19| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=20| B | B : oké dat zijn P
+	Free: Pattern=dat zijn, Pattern=oké
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=21| B | B : dit zijn weer dat kop met dat plank met die twee poot
+	Free: Pattern=dat kop met dat, Pattern=twee, Pattern=plank, Pattern=met, Pattern=die, Pattern=dit zijn
+	Constrained: Pattern=dat, Pattern=kop met, Pattern=kop, Pattern=met, Pattern=zijn
+Turn ID=22| B | B : waar dan dat kuip op staat
+	Free: Pattern=dat, Pattern=kuip, Pattern=waar, Pattern=op, Pattern=dan
+	Constrained: 
+Turn ID=23| B | B : en staart aan de achterkant
+	Free: Pattern=aan de, Pattern=staart, Pattern=en
+	Constrained: Pattern=aan, Pattern=de
+Turn ID=24| A | A : staart daar links
+	Free: Pattern=staart, Pattern=daar
+	Constrained: 
+Turn ID=25| A | A : ik zijn hem even aan het zoeken ik weten welk je bedoelen maar
+	Free: Pattern=aan, Pattern=het, Pattern=ik, Pattern=zijn, Pattern=maar
+	Constrained: 
+Turn ID=26| A | A : waar staan die nou
+	Free: Pattern=waar, Pattern=die, Pattern=staan
+	Constrained: 
+Turn ID=27| A | A : ja ja
+	Free: Pattern=ja ja
+	Constrained: Pattern=ja
+Turn ID=28| A | A : dit zijn kop
+	Free: Pattern=dit zijn, Pattern=kop
+	Constrained: Pattern=zijn
+Turn ID=29| A | A : balk met twee van die ding
+	Free: Pattern=met twee, Pattern=die, Pattern=ding
+	Constrained: Pattern=twee, Pattern=met
+Turn ID=30| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=31| A | A : dinge en dat oor link
+	Free: Pattern=en, Pattern=dat
+	Constrained: 
+Turn ID=32| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=33| A | A : dat zijn nummer veertien
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=34| A | A : het kop met de balk met de twee klein balkjes erop en het mand die op het balk staan en het klein oor aan de linkerkant
+	Free: Pattern=twee, Pattern=de, Pattern=staan, Pattern=het, Pattern=met, Pattern=die, Pattern=kop met, Pattern=erop, Pattern=op, Pattern=aan de, Pattern=en het
+	Constrained: Pattern=het, Pattern=kop, Pattern=met, Pattern=en, Pattern=de, Pattern=aan
+Turn ID=35| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=36| B | B : het plank zullen ik maar zeggen
+	Free: Pattern=plank, Pattern=maar, Pattern=ik, Pattern=het
+	Constrained: 
+Turn ID=37| B | B : toch
+	Free: 
+	Constrained: 
+Turn ID=38| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=39| B | B : dat zijn N
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=40| B | B : dit zijn weer dat ding dat plank met die twee plank
+	Free: Pattern=dat, Pattern=twee, Pattern=plank, Pattern=ding, Pattern=met, Pattern=die, Pattern=dit zijn
+	Constrained: Pattern=zijn
+Turn ID=41| A | A : ja en het en het nummer tien
+	Free: Pattern=en het, Pattern=ja
+	Constrained: Pattern=en, Pattern=het
+Turn ID=42| B | B : het bak erop
+	Free: Pattern=erop, Pattern=het, Pattern=bak
+	Constrained: 
+Turn ID=43| A | A : het balk met de steunbalkjes en het kuip en het klein oor aan de linkerkant
+	Free: Pattern=het, Pattern=met, Pattern=de, Pattern=kuip, Pattern=aan de, Pattern=en het
+	Constrained: Pattern=aan, Pattern=en, Pattern=de, Pattern=het
+Turn ID=44| B | B : ja ja
+	Free: Pattern=ja ja
+	Constrained: Pattern=ja
+Turn ID=45| B | B : dat zijn D
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn

@@ -1,0 +1,135 @@
+B|0| B: _het_ _zijn_ er zeggen maar _één_ _met_ _een_ _balk bovenop_ voor _de_ rest zitten er niks _bovenop_ 
+B|1| B: zeggen maar liggen _balk_ _en_ links zitten _nog_ _ja een_ _gek_ vorm _een_ soort van pilonvorm half 
+B|2| B: _ja_ zoeits 
+B|3| B: _en_ rechts zitten _ja_ ook _nog_ _een_ soort van _staafje_ _met_ _een_ _driehoek_ _zijn_ _het_ _denken_ _ik_ waar _die_ op staan 
+B|4| B: _ja_ 
+B|5| B: _ja_ links _en_ rechts _zijn_ wel anders zeggen maar _dat_ wel 
+B|6| B: _bovenop_ liggen alleen zeggen maar liggen soort van chocoladereep 
+A|7| A: [ja] 
+A|8| A: [ja] 
+A|9| A: [ja] 
+A|10| A: volgens mij _ja dat_ [denken] [dat] [ik] weten _met die_ [driehoek] _en dan_ daarop [dat] dun pinne 
+A|11| A: [ja] [ja] 
+A|12| A: [dat] [zijn] acht 
+B|13| B: _dat gek_ vormp [ja] soort van [ja dat] balkje er zo wat er op liggen eigenlijk 
+B|14| B: [ja] [zijn] E 
+B|15| B: _die _met_ dat_ liggen balkje bovenin [en dan] [die] spaceshuttle 
+A|16| A: [ja] dit [zijn] [ja] [ik] noemen [het] altijd [de] ander vogel _met die_ horizontaal [balk] boven [en dan] [dat gek] driehoekje [met dat] 
+A|17| A: [ja] dun [staafje] erop [en dan] aan [de] zijkant [nog] [die] [ja] [die] uitlopen driehoeken 
+A|18| A: [die _met] die_ [die] horizontaal staaf boven 
+A|19| A: [ja] 
+A|20| A: [ja] [en dan] [ja een] neus [met] [nog] zo'n [staafje] erbovenop 
+B|21| B: _zoeken_ 
+B|22| B: [met dat] blok _bovenop_ [dat] liggen E 
+A|23| A: [ja] [ja] 
+A|24| A: [dat] [zijn] [één] 
+B|25| B: [met die] spaceshuttle [dat] blok liggen _bovenop_ 
+B|26| B: [ja] [met dat] liggen blok O 
+A|27| A: [ja] dit [zijn] [de] twee vogel [met die] [balk bovenop] 
+A|28| A: [ja] 
+A|29| A: [zoeken] [zoeken] 
+A|30| A: [ja] 
+A|31| A: [dat] [zijn] zestien 
+A|32| A: dit [zijn] [de] twee vogel [met] [de] [balk] boven 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : het zijn er zeggen maar één met een balk bovenop voor de rest zitten er niks bovenop
+	Free: Pattern=bovenop, Pattern=de, Pattern=een, Pattern=het, Pattern=balk bovenop, Pattern=met, Pattern=zijn, Pattern=één
+	Constrained: Pattern=bovenop, Pattern=balk
+Turn ID=1| B | B : zeggen maar liggen balk en links zitten nog ja een gek vorm een soort van pilonvorm half
+	Free: Pattern=nog, Pattern=een, Pattern=balk, Pattern=ja een, Pattern=gek, Pattern=en
+	Constrained: Pattern=ja, Pattern=een
+Turn ID=2| B | B : ja zoeits
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=3| B | B : en rechts zitten ja ook nog een soort van staafje met een driehoek zijn het denken ik waar die op staan
+	Free: Pattern=driehoek, Pattern=nog, Pattern=denken, Pattern=ja, Pattern=een, Pattern=het, Pattern=staafje, Pattern=met, Pattern=die, Pattern=ik, Pattern=en, Pattern=zijn
+	Constrained: 
+Turn ID=4| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=5| B | B : ja links en rechts zijn wel anders zeggen maar dat wel
+	Free: Pattern=en, Pattern=dat, Pattern=ja, Pattern=zijn
+	Constrained: 
+Turn ID=6| B | B : bovenop liggen alleen zeggen maar liggen soort van chocoladereep
+	Free: Pattern=bovenop
+	Constrained: 
+Turn ID=7| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=8| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=9| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=10| A | A : volgens mij ja dat denken dat ik weten met die driehoek en dan daarop dat dun pinne
+	Free: Pattern=driehoek, Pattern=denken, Pattern=en dan, Pattern=ik, Pattern=ja dat, Pattern=dat, Pattern=met die
+	Constrained: Pattern=dat, Pattern=ja, Pattern=met, Pattern=die, Pattern=en
+Turn ID=11| A | A : ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=12| A | A : dat zijn acht
+	Free: Pattern=dat, Pattern=zijn
+	Constrained: 
+Turn ID=13| B | B : dat gek vormp ja soort van ja dat balkje er zo wat er op liggen eigenlijk
+	Free: Pattern=ja dat, Pattern=dat gek, Pattern=ja
+	Constrained: Pattern=dat, Pattern=ja, Pattern=gek
+Turn ID=14| B | B : ja zijn E
+	Free: Pattern=ja, Pattern=zijn
+	Constrained: 
+Turn ID=15| B | B : die met dat liggen balkje bovenin en dan die spaceshuttle
+	Free: Pattern=met dat, Pattern=en dan, Pattern=die met, Pattern=die
+	Constrained: Pattern=dat, Pattern=met, Pattern=die, Pattern=en
+Turn ID=16| A | A : ja dit zijn ja ik noemen het altijd de ander vogel met die horizontaal balk boven en dan dat gek driehoekje met dat
+	Free: Pattern=met die, Pattern=en dan, Pattern=het, Pattern=ik, Pattern=zijn, Pattern=dat gek, Pattern=de, Pattern=ja, Pattern=balk, Pattern=met dat
+	Constrained: Pattern=dat, Pattern=met, Pattern=die, Pattern=gek, Pattern=en
+Turn ID=17| A | A : ja dun staafje erop en dan aan de zijkant nog die ja die uitlopen driehoeken
+	Free: Pattern=nog, Pattern=en dan, Pattern=staafje, Pattern=die, Pattern=de, Pattern=ja
+	Constrained: Pattern=en
+Turn ID=18| A | A : die met die die horizontaal staaf boven
+	Free: Pattern=die met, Pattern=met die, Pattern=die
+	Constrained: Pattern=die, Pattern=met
+Turn ID=19| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=20| A | A : ja en dan ja een neus met nog zo'n staafje erbovenop
+	Free: Pattern=nog, Pattern=ja, Pattern=en dan, Pattern=staafje, Pattern=ja een, Pattern=met
+	Constrained: Pattern=en, Pattern=ja, Pattern=een
+Turn ID=21| B | B : zoeken
+	Free: Pattern=zoeken
+	Constrained: 
+Turn ID=22| B | B : met dat blok bovenop dat liggen E
+	Free: Pattern=met dat, Pattern=bovenop, Pattern=dat
+	Constrained: Pattern=dat, Pattern=met
+Turn ID=23| A | A : ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=24| A | A : dat zijn één
+	Free: Pattern=één, Pattern=dat, Pattern=zijn
+	Constrained: 
+Turn ID=25| B | B : met die spaceshuttle dat blok liggen bovenop
+	Free: Pattern=met die, Pattern=bovenop, Pattern=dat
+	Constrained: Pattern=die, Pattern=met
+Turn ID=26| B | B : ja met dat liggen blok O
+	Free: Pattern=met dat, Pattern=ja
+	Constrained: Pattern=dat, Pattern=met
+Turn ID=27| A | A : ja dit zijn de twee vogel met die balk bovenop
+	Free: Pattern=met die, Pattern=balk bovenop, Pattern=zijn, Pattern=de, Pattern=ja
+	Constrained: Pattern=bovenop, Pattern=die, Pattern=balk, Pattern=met
+Turn ID=28| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=29| A | A : zoeken zoeken
+	Free: Pattern=zoeken
+	Constrained: 
+Turn ID=30| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=31| A | A : dat zijn zestien
+	Free: Pattern=dat, Pattern=zijn
+	Constrained: 
+Turn ID=32| A | A : dit zijn de twee vogel met de balk boven
+	Free: Pattern=de, Pattern=balk, Pattern=zijn, Pattern=met
+	Constrained: 

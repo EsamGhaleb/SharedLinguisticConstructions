@@ -1,0 +1,99 @@
+A|0| A: _ik hebben_ nu _een_ mok _die_ _hebben_ _een soort_ van hoed _op_ eigenlijk 
+A|1| A: _en_ _aan de rechterkant_ komen er twee balk uit _die_ _even_ groot _zijn_ 
+A|2| A: linksonder zitten 
+B|3| B: lijken _op een_ isgelijktek 
+A|4| A: _ja_ 
+B|5| B: [ja] dan [zijn] _het_ bij mij _nummer_ I 
+A|6| A: [op een] [zijn] 
+A|7| A: [ja] 
+A|8| A: [ja] 
+B|9| B: [ik hebben] degeen _met het_ isgelijktek [aan de rechterkant] dan [een soort] hendel 
+A|10| A: [ja] _dat zijn_ [nummer] twee 
+B|11| B: yes 
+A|12| A: nou dit [zijn] [de] mok [met het] isteken 
+B|13| B: ah [ja] 
+B|14| B: [even] zien 
+B|15| B: [dat zijn] bij mij M 
+B|16| B: [ik hebben] degeen [met het] isgelijktek [en] dan [de] hendelt 
+A|17| A: top [dat zijn] [nummer] negen 
+B|18| B: [ja] 
+A|19| A: nou dit [zijn] [de] mok [met het] isteken 
+B|20| B: yeslen [en] [die] staan bij mij bij [nummer] F 
+B|21| B: yeslen [ik hebben] [het] isgelijkteken 
+A|22| A: [nummer] zes 
+B|23| B: yes 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : ik hebben nu een mok die hebben een soort van hoed op eigenlijk
+	Free: Pattern=ik hebben, Pattern=op, Pattern=een, Pattern=hebben, Pattern=die, Pattern=een soort
+	Constrained: Pattern=een, Pattern=hebben
+Turn ID=1| A | A : en aan de rechterkant komen er twee balk uit die even groot zijn
+	Free: Pattern=even, Pattern=en, Pattern=zijn, Pattern=aan de rechterkant, Pattern=die
+	Constrained: Pattern=de
+Turn ID=2| A | A : linksonder zitten
+	Free: 
+	Constrained: 
+Turn ID=3| B | B : lijken op een isgelijktek
+	Free: Pattern=op een
+	Constrained: Pattern=op, Pattern=een
+Turn ID=4| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=5| B | B : ja dan zijn het bij mij nummer I
+	Free: Pattern=het, Pattern=nummer, Pattern=ja, Pattern=zijn
+	Constrained: 
+Turn ID=6| A | A : op een zijn
+	Free: Pattern=op een, Pattern=zijn
+	Constrained: Pattern=op, Pattern=een
+Turn ID=7| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=8| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=9| B | B : ik hebben degeen met het isgelijktek aan de rechterkant dan een soort hendel
+	Free: Pattern=aan de rechterkant, Pattern=ik hebben, Pattern=een soort, Pattern=met het
+	Constrained: Pattern=een, Pattern=de, Pattern=het, Pattern=hebben
+Turn ID=10| A | A : ja dat zijn nummer twee
+	Free: Pattern=dat zijn, Pattern=nummer, Pattern=ja
+	Constrained: Pattern=zijn
+Turn ID=11| B | B : yes
+	Free: 
+	Constrained: 
+Turn ID=12| A | A : nou dit zijn de mok met het isteken
+	Free: Pattern=met het, Pattern=zijn, Pattern=de
+	Constrained: Pattern=het
+Turn ID=13| B | B : ah ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=14| B | B : even zien
+	Free: Pattern=even
+	Constrained: 
+Turn ID=15| B | B : dat zijn bij mij M
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn
+Turn ID=16| B | B : ik hebben degeen met het isgelijktek en dan de hendelt
+	Free: Pattern=ik hebben, Pattern=met het, Pattern=en, Pattern=de
+	Constrained: Pattern=het, Pattern=hebben
+Turn ID=17| A | A : top dat zijn nummer negen
+	Free: Pattern=dat zijn, Pattern=nummer
+	Constrained: Pattern=zijn
+Turn ID=18| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=19| A | A : nou dit zijn de mok met het isteken
+	Free: Pattern=met het, Pattern=zijn, Pattern=de
+	Constrained: Pattern=het
+Turn ID=20| B | B : yeslen en die staan bij mij bij nummer F
+	Free: Pattern=nummer, Pattern=en, Pattern=die
+	Constrained: 
+Turn ID=21| B | B : yeslen ik hebben het isgelijkteken
+	Free: Pattern=ik hebben, Pattern=het
+	Constrained: Pattern=hebben
+Turn ID=22| A | A : nummer zes
+	Free: Pattern=nummer
+	Constrained: 
+Turn ID=23| B | B : yes
+	Free: 
+	Constrained: 

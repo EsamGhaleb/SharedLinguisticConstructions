@@ -1,0 +1,171 @@
+B|0| B: _ik hebben_ _het_ vierkant volgens mij 
+B|1| B: _het_ _zijn_ nou _ja die_ basisvorm _en_ _dan_ _zitten_ _er_ _een_ _half cirkel achter_ 
+B|2| B: _met_ _aan de_ linkerkant _zijn_ _een_ _soort van_ armp _wat_ uitsteken _en_ _dan_ _zitten_ _er_ _een_ _soort van_ 
+A|3| A: [ja] zo'n 
+B|4| B: [ja] 
+A|5| A: [ja] 
+A|6| A: [ja die] [hebben] [ik] 
+A|7| A: [zijn] nummer dertien 
+A|8| A: _moeten_ [ik] [dan] _op een_ geel knop drukken 
+B|9| B: [ja] 
+A|10| A: dit [zijn] degeen [met] zo'n stokuitsteeksel [en] zo'n [ja] [soort van] _kegel_ zo 
+A|11| A: [en] daar [zitten] ook _nog_ [een] [cirkel] [aan de] achterkant 
+A|12| A: [die] kunnen je _niet_ helemaal zien 
+A|13| A: _en hij_ _staan_ _op een_ [er] [zitten] ook _nog_ niets onder 
+B|14| B: [ja] [ja] dat [zijn] O 
+A|15| A: _we_ gaan weer veranderen [wat] leuk 
+B|16| B: shit 
+B|17| B: _ik hebben_ _het_ rood licht sorry 
+B|18| B: _het_ [zijn] [die] [die] [op een] [soort van] dinge [staan] waardoor _het_ lijken alsof [hij] poot [hebben] [en hij] [hebben] [die] _half cirkel_ daarachter 
+B|19| B: [en] [een] [kegel] 
+A|20| A: [ja] [ik] weten welk je bedoelen even zoeken 
+A|21| A: [ja] [ik hebben] hem 
+A|22| A: acht 
+A|23| A: dit [zijn] degeen [met] [de] hoe hoe noemen je deze ook alweer 
+A|24| A: [er] [zitten] zo'n zo'n uitsteeksel [en] zo'n stok 
+A|25| A: [en] [het] rond [achter] 
+A|26| A: [die] je _niet_ helemaal kunnen zien 
+B|27| B: [ja] C 
+B|28| B: [het] [zijn] [die] [met] [die] [soort van] been [en] [met] [die] _half cirkel_ erachter 
+A|29| A: [ja] 
+A|30| A: [zijn] zo'n blok veel toch 
+A|31| A: [en] zo'n 
+B|32| B: [ja] 
+A|33| A: oké 
+A|34| A: [ja] zeven 
+A|35| A: dit [zijn] diegene [met] [de] [half cirkel achter] [en] [de] [kegel] bovenop 
+B|36| B: [ja] 
+B|37| B: C 
+A|38| A: kijken 
+B|39| B: [ik] hopen [niet] dat [we] [nog] lang [moeten] [staan] 
+A|40| A: nee [ik] denken [het] [niet] 
+B|41| B: klaar mee 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : ik hebben het vierkant volgens mij
+	Free: Pattern=ik hebben, Pattern=het
+	Constrained: Pattern=hebben, Pattern=ik
+Turn ID=1| B | B : het zijn nou ja die basisvorm en dan zitten er een half cirkel achter
+	Free: Pattern=ja die, Pattern=dan, Pattern=een, Pattern=het, Pattern=half cirkel achter, Pattern=zitten, Pattern=er, Pattern=en, Pattern=zijn
+	Constrained: Pattern=cirkel, Pattern=ja, Pattern=achter, Pattern=die, Pattern=half cirkel
+Turn ID=2| B | B : met aan de linkerkant zijn een soort van armp wat uitsteken en dan zitten er een soort van
+	Free: Pattern=aan de, Pattern=dan, Pattern=een, Pattern=met, Pattern=zitten, Pattern=en, Pattern=wat, Pattern=er, Pattern=soort van, Pattern=zijn
+	Constrained: Pattern=de
+Turn ID=3| A | A : ja zo'n
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=4| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=5| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=6| A | A : ja die hebben ik
+	Free: Pattern=ja die, Pattern=hebben, Pattern=ik
+	Constrained: Pattern=ja, Pattern=die
+Turn ID=7| A | A : zijn nummer dertien
+	Free: Pattern=zijn
+	Constrained: 
+Turn ID=8| A | A : moeten ik dan op een geel knop drukken
+	Free: Pattern=op een, Pattern=dan, Pattern=moeten, Pattern=ik
+	Constrained: Pattern=een
+Turn ID=9| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=10| A | A : dit zijn degeen met zo'n stokuitsteeksel en zo'n ja soort van kegel zo
+	Free: Pattern=kegel, Pattern=ja, Pattern=met, Pattern=en, Pattern=soort van, Pattern=zijn
+	Constrained: 
+Turn ID=11| A | A : en daar zitten ook nog een cirkel aan de achterkant
+	Free: Pattern=cirkel, Pattern=nog, Pattern=aan de, Pattern=een, Pattern=zitten, Pattern=en
+	Constrained: Pattern=de
+Turn ID=12| A | A : die kunnen je niet helemaal zien
+	Free: Pattern=niet, Pattern=die
+	Constrained: 
+Turn ID=13| A | A : en hij staan op een er zitten ook nog niets onder
+	Free: Pattern=nog, Pattern=staan, Pattern=zitten, Pattern=en hij, Pattern=er, Pattern=op een
+	Constrained: Pattern=en, Pattern=een, Pattern=hij
+Turn ID=14| B | B : ja ja dat zijn O
+	Free: Pattern=ja, Pattern=zijn
+	Constrained: 
+Turn ID=15| A | A : we gaan weer veranderen wat leuk
+	Free: Pattern=we, Pattern=wat
+	Constrained: 
+Turn ID=16| B | B : shit
+	Free: 
+	Constrained: 
+Turn ID=17| B | B : ik hebben het rood licht sorry
+	Free: Pattern=ik hebben, Pattern=het
+	Constrained: Pattern=hebben, Pattern=ik
+Turn ID=18| B | B : het zijn die die op een soort van dinge staan waardoor het lijken alsof hij poot hebben en hij hebben die half cirkel daarachter
+	Free: Pattern=staan, Pattern=het, Pattern=hebben, Pattern=hij, Pattern=die, Pattern=en hij, Pattern=op een, Pattern=half cirkel, Pattern=soort van, Pattern=zijn
+	Constrained: Pattern=hij, Pattern=een, Pattern=cirkel, Pattern=en
+Turn ID=19| B | B : en een kegel
+	Free: Pattern=en, Pattern=kegel, Pattern=een
+	Constrained: 
+Turn ID=20| A | A : ja ik weten welk je bedoelen even zoeken
+	Free: Pattern=ja, Pattern=ik
+	Constrained: 
+Turn ID=21| A | A : ja ik hebben hem
+	Free: Pattern=ik hebben, Pattern=ja
+	Constrained: Pattern=hebben, Pattern=ik
+Turn ID=22| A | A : acht
+	Free: 
+	Constrained: 
+Turn ID=23| A | A : dit zijn degeen met de hoe hoe noemen je deze ook alweer
+	Free: Pattern=de, Pattern=zijn, Pattern=met
+	Constrained: 
+Turn ID=24| A | A : er zitten zo'n zo'n uitsteeksel en zo'n stok
+	Free: Pattern=er, Pattern=en, Pattern=zitten
+	Constrained: 
+Turn ID=25| A | A : en het rond achter
+	Free: Pattern=en, Pattern=het, Pattern=achter
+	Constrained: 
+Turn ID=26| A | A : die je niet helemaal kunnen zien
+	Free: Pattern=niet, Pattern=die
+	Constrained: 
+Turn ID=27| B | B : ja C
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=28| B | B : het zijn die met die soort van been en met die half cirkel erachter
+	Free: Pattern=het, Pattern=met, Pattern=die, Pattern=en, Pattern=half cirkel, Pattern=soort van, Pattern=zijn
+	Constrained: Pattern=cirkel
+Turn ID=29| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=30| A | A : zijn zo'n blok veel toch
+	Free: Pattern=zijn
+	Constrained: 
+Turn ID=31| A | A : en zo'n
+	Free: Pattern=en
+	Constrained: 
+Turn ID=32| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=33| A | A : oké
+	Free: 
+	Constrained: 
+Turn ID=34| A | A : ja zeven
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=35| A | A : dit zijn diegene met de half cirkel achter en de kegel bovenop
+	Free: Pattern=kegel, Pattern=de, Pattern=half cirkel achter, Pattern=met, Pattern=en, Pattern=zijn
+	Constrained: Pattern=half cirkel, Pattern=achter, Pattern=cirkel
+Turn ID=36| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=37| B | B : C
+	Free: 
+	Constrained: 
+Turn ID=38| A | A : kijken
+	Free: 
+	Constrained: 
+Turn ID=39| B | B : ik hopen niet dat we nog lang moeten staan
+	Free: Pattern=nog, Pattern=niet, Pattern=staan, Pattern=moeten, Pattern=we, Pattern=ik
+	Constrained: 
+Turn ID=40| A | A : nee ik denken het niet
+	Free: Pattern=niet, Pattern=het, Pattern=ik
+	Constrained: 
+Turn ID=41| B | B : klaar mee
+	Free: 
+	Constrained: 

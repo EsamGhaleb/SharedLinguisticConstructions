@@ -1,0 +1,159 @@
+A|0| A: top 
+A|1| A: nou _hebben_ _ik_ hem 
+A|2| A: _het_ _zijn_ _een soort_ _van_ koffiekopje waarbij _het_ _lijken_ alsof _het_ lepel Linksboven daaruit steken 
+A|3| A: _en _aan_ de_ _voorkant_ _zitten_ _een rond_ balle _met een_ rechthoekig staaf erdoorheen _met een soort_ _van_ _schotel_ _aan het_ einde 
+B|4| B: [en] [zitten] [het] [schotel] echt onder [het] 
+A|5| A: nee _aan de_ _voorkant_ _aan het_ _aan het_ handvat _maar_ eigenlijk _als_ _je_ kijken naar [het] lepeltje wat linksboven uitsteken 
+B|6| B: [aan het] [voorkant] 
+B|7| B: _ja_ 
+B|8| B: _ja_ 
+A|9| A: _dan_ _zijn_ [het] er _als_ [het] goed _zijn_ _maar_ één 
+B|10| B: _ja_ precies _dat zijn_ bij mij _nummer_ F denken [ik] 
+B|11| B: moeten [je] op [de] geel drukken _ja_ toch ? 
+B|12| B: [ik] [hebben] [het] eivormig deel voor 
+B|13| B: twee zeggen [maar] _dat_ eivormig deel [lijken] [het] _balk_ te doorsplitsen _en aan het_ eind [van] [het] _balk_ [zitten] [dan] _een plat_ cirkel 
+B|14| B: [en] [dan] _opsteken_ daarboven nog _een klein_ frommeltje _uit_ 
+A|15| A: [ja] 
+A|16| A: [dat zijn] [nummer] vijf 
+B|17| B: yes 
+A|18| A: dit [zijn] [de] mok waarbij er Linksboven [een klein] lepeltje [uit] [opsteken] 
+A|19| A: [en _aan] de_ [voorkant] [zitten] [een] verticaal [balk] die vasthouden worden _door _een_ rond_ 
+A|20| A: [en aan het] einde [zitten] zo'n _soort_ [van] [plat] _rond_ _aan de rechterkant_ 
+B|21| B: [ja] [dat zijn] [dan] denken [ik] [de] A 
+B|22| B: [ja] 
+B|23| B: [ik] [hebben] degeen [met _een] plat_ cirkel [aan de rechterkant] 
+B|24| B: volgen [door [een] klein] cilinder 
+B|25| B: [een rond] vorm 
+B|26| B: weer [een klein] of [klein] [balk] [en] [dan] [aan de] linkerkant [dat] uitstekend lepeltjeidee 
+A|27| A: [ja] 
+A|28| A: [dat zijn] [nummer] vijf hier 
+A|29| A: hier [opsteken] [het] koffielepel linksboven [uit] 
+A|30| A: [aan de] [voorkant] [zitten] [een] [een] horizontaal staaf 
+A|31| A: die gaan [door [een] rond] heen 
+B|32| B: ah [ja] 
+A|33| A: [en [aan] de rechterkant] [zitten] [een plat] [rond] 
+B|34| B: bij mij [zijn] [dat] [nummer] H 
+B|35| B: [ik] [hebben] degeen [met een soort] ei voor 
+B|36| B: [dan] waar twee [balk] [uit] komen rechts [een plat] cirkel [als] afsluiter [en] links [dat] 
+A|37| A: [ja] 
+A|38| A: [nummer] vijftien 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : top
+	Free: 
+	Constrained: 
+Turn ID=1| A | A : nou hebben ik hem
+	Free: Pattern=hebben, Pattern=ik
+	Constrained: 
+Turn ID=2| A | A : het zijn een soort van koffiekopje waarbij het lijken alsof het lepel Linksboven daaruit steken
+	Free: Pattern=lijken, Pattern=het, Pattern=een soort, Pattern=van, Pattern=zijn
+	Constrained: Pattern=soort, Pattern=een
+Turn ID=3| A | A : en aan de voorkant zitten een rond balle met een rechthoekig staaf erdoorheen met een soort van schotel aan het einde
+	Free: Pattern=aan het, Pattern=aan de, Pattern=voorkant, Pattern=schotel, Pattern=met een soort, Pattern=zitten, Pattern=met een, Pattern=van, Pattern=een rond, Pattern=en aan
+	Constrained: Pattern=soort, Pattern=de, Pattern=een, Pattern=het, Pattern=met een, Pattern=een soort, Pattern=en, Pattern=rond
+Turn ID=4| B | B : en zitten het schotel echt onder het
+	Free: Pattern=en, Pattern=het, Pattern=schotel, Pattern=zitten
+	Constrained: 
+Turn ID=5| A | A : nee aan de voorkant aan het aan het handvat maar eigenlijk als je kijken naar het lepeltje wat linksboven uitsteken
+	Free: Pattern=aan het, Pattern=aan de, Pattern=voorkant, Pattern=het, Pattern=als, Pattern=maar, Pattern=je
+	Constrained: Pattern=het, Pattern=de
+Turn ID=6| B | B : aan het voorkant
+	Free: Pattern=aan het, Pattern=voorkant
+	Constrained: Pattern=het
+Turn ID=7| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=8| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=9| A | A : dan zijn het er als het goed zijn maar één
+	Free: Pattern=dan, Pattern=het, Pattern=als, Pattern=zijn, Pattern=maar
+	Constrained: 
+Turn ID=10| B | B : ja precies dat zijn bij mij nummer F denken ik
+	Free: Pattern=dat zijn, Pattern=ik, Pattern=ja, Pattern=nummer
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=11| B | B : moeten je op de geel drukken ja toch ?
+	Free: Pattern=je, Pattern=ja, Pattern=de
+	Constrained: 
+Turn ID=12| B | B : ik hebben het eivormig deel voor
+	Free: Pattern=hebben, Pattern=ik, Pattern=het
+	Constrained: 
+Turn ID=13| B | B : twee zeggen maar dat eivormig deel lijken het balk te doorsplitsen en aan het eind van het balk zitten dan een plat cirkel
+	Free: Pattern=dat, Pattern=een plat, Pattern=balk, Pattern=zitten, Pattern=van, Pattern=maar, Pattern=lijken, Pattern=dan, Pattern=en aan het, Pattern=het
+	Constrained: Pattern=aan het, Pattern=een, Pattern=het, Pattern=en, Pattern=plat, Pattern=en aan
+Turn ID=14| B | B : en dan opsteken daarboven nog een klein frommeltje uit
+	Free: Pattern=uit, Pattern=dan, Pattern=opsteken, Pattern=en, Pattern=een klein
+	Constrained: Pattern=klein, Pattern=een
+Turn ID=15| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=16| A | A : dat zijn nummer vijf
+	Free: Pattern=dat zijn, Pattern=nummer
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=17| B | B : yes
+	Free: 
+	Constrained: 
+Turn ID=18| A | A : dit zijn de mok waarbij er Linksboven een klein lepeltje uit opsteken
+	Free: Pattern=de, Pattern=uit, Pattern=opsteken, Pattern=zijn, Pattern=een klein
+	Constrained: Pattern=klein, Pattern=een
+Turn ID=19| A | A : en aan de voorkant zitten een verticaal balk die vasthouden worden door een rond
+	Free: Pattern=aan de, Pattern=voorkant, Pattern=een, Pattern=balk, Pattern=zitten, Pattern=door een, Pattern=een rond, Pattern=en aan
+	Constrained: Pattern=een, Pattern=de, Pattern=rond, Pattern=en
+Turn ID=20| A | A : en aan het einde zitten zo'n soort van plat rond aan de rechterkant
+	Free: Pattern=soort, Pattern=en aan het, Pattern=van, Pattern=aan de rechterkant, Pattern=zitten, Pattern=rond, Pattern=plat
+	Constrained: Pattern=aan het, Pattern=de, Pattern=aan de, Pattern=het, Pattern=en, Pattern=en aan
+Turn ID=21| B | B : ja dat zijn dan denken ik de A
+	Free: Pattern=dat zijn, Pattern=dan, Pattern=ik, Pattern=de, Pattern=ja
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=22| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=23| B | B : ik hebben degeen met een plat cirkel aan de rechterkant
+	Free: Pattern=een plat, Pattern=hebben, Pattern=aan de rechterkant, Pattern=met een, Pattern=ik
+	Constrained: Pattern=een, Pattern=de, Pattern=plat, Pattern=aan de
+Turn ID=24| B | B : volgen door een klein cilinder
+	Free: Pattern=een klein, Pattern=door een
+	Constrained: Pattern=klein, Pattern=een
+Turn ID=25| B | B : een rond vorm
+	Free: Pattern=een rond
+	Constrained: Pattern=rond, Pattern=een
+Turn ID=26| B | B : weer een klein of klein balk en dan aan de linkerkant dat uitstekend lepeltjeidee
+	Free: Pattern=dat, Pattern=aan de, Pattern=dan, Pattern=balk, Pattern=klein, Pattern=en, Pattern=een klein
+	Constrained: Pattern=klein, Pattern=een, Pattern=de
+Turn ID=27| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=28| A | A : dat zijn nummer vijf hier
+	Free: Pattern=dat zijn, Pattern=nummer
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=29| A | A : hier opsteken het koffielepel linksboven uit
+	Free: Pattern=uit, Pattern=opsteken, Pattern=het
+	Constrained: 
+Turn ID=30| A | A : aan de voorkant zitten een een horizontaal staaf
+	Free: Pattern=aan de, Pattern=voorkant, Pattern=zitten, Pattern=een
+	Constrained: Pattern=de
+Turn ID=31| A | A : die gaan door een rond heen
+	Free: Pattern=een rond, Pattern=door een
+	Constrained: Pattern=rond, Pattern=een
+Turn ID=32| B | B : ah ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=33| A | A : en aan de rechterkant zitten een plat rond
+	Free: Pattern=een plat, Pattern=rond, Pattern=en aan, Pattern=aan de rechterkant, Pattern=zitten
+	Constrained: Pattern=de, Pattern=aan de, Pattern=een, Pattern=en, Pattern=plat
+Turn ID=34| B | B : bij mij zijn dat nummer H
+	Free: Pattern=dat, Pattern=zijn, Pattern=nummer
+	Constrained: 
+Turn ID=35| B | B : ik hebben degeen met een soort ei voor
+	Free: Pattern=met een soort, Pattern=hebben, Pattern=ik
+	Constrained: Pattern=een soort, Pattern=met een, Pattern=soort, Pattern=een
+Turn ID=36| B | B : dan waar twee balk uit komen rechts een plat cirkel als afsluiter en links dat
+	Free: Pattern=dat, Pattern=dan, Pattern=en, Pattern=uit, Pattern=een plat, Pattern=als, Pattern=balk
+	Constrained: Pattern=een, Pattern=plat
+Turn ID=37| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=38| A | A : nummer vijftien
+	Free: Pattern=nummer
+	Constrained: 

@@ -1,0 +1,139 @@
+B|0| B: _ja _ja_ _dat_ zijn_ _ja_ _ik weten_ hem 
+B|1| B: J 
+B|2| B: _ik_ _hebben_ _een soort_ van zonnepaneel _aan de achterkant_ _weten_ je wel 
+B|3| B: _en een_ _staaf_ _aan de rechterkant_ _en een_ gelijkwaardig _staaf_ _die_ wat _kort en_ dikk _zijn aan de linkerkant_ 
+B|4| B: zonnepaneel _zijn_ _het_ _ja_ f 
+A|5| A: dan [hebben] we nu één met [een] [een] horizontaal achthoekig [staaf] met [aan] beide uiteinde rond , cirkel 
+B|6| B: f 
+A|7| A: [en een] beetje achter [de] [staaf] lijken er [een] [een] vierkant schuil te gaan met daar [aan de] onderkant [een soort] [ja] poo zullen [ik] zeggen 
+A|8| A: [die] [staaf] [zijn aan de linkerkant] heel [kort en] [aan de rechterkant] lijken hij [een] stuk lang 
+A|9| A: nee [aan de rechterkant] [zijn] alleen [die] [ja] [het] [zijn] [een soort] achthoekig [staaf] denken [ik] [dat] [het] [zijn] of in ieder geval [een] vierkant of zeshoekig misschien [ik weten] [het] niet precies 
+A|10| A: [aan de] buitenkant zitten _twee_ rond vorm 
+A|11| A: [ja] 
+B|12| B: okeeen [ik] [hebben] [dat] zonnepaneel _aan de achterkant_ _en die twee_ staf links [en] _rechts_ 
+B|13| B: zonnepaneel 
+B|14| B: h 
+A|15| A: [ja] 
+A|16| A: [en] [aan de achterkant] [dat] vierkan 
+A|17| A: [ja] nummer [een] 
+B|18| B: [ja] f god 
+B|19| B: [de] zonnepaneel [aan de achterkant] 
+A|20| A: dit [zijn] weer volgens mij noemen we deze [de] gieter geloven [ik] [dat zijn] met [die] achthoekig [staaf] met [die twee] rond uiteinde 
+A|21| A: [ja] 
+A|22| A: [ja] 
+A|23| A: [de] gieter even kijken hoor 
+A|24| A: [ja ja] met [die] handvat [zijn] [de] gieter hè ? zo noemen we [die] toch 
+A|25| A: [en] [het] bak toch ? [en] [het] [de] driehoek zonder uh , punt , omgekeerd driehoek 
+A|26| A: of zitten [ik] verkeerd 
+A|27| A: ah [dat zijn] [die] 
+A|28| A: [ja] met [die] rond [ja ja] [en] [aan de achterkant] [dat] vierkan [dat] zo [ja] precies nummer veertien 
+A|29| A: dit [zijn] [de] gieter noemen we [die] geloven [ik] 
+A|30| A: met [die] acht hoekig [staaf] [en die twee] ronde 
+A|31| A: [ja] 
+A|32| A: [twee] ballet [rechts] 
+A|33| A: [ja dat] [ja dat] ding , [ja] nummer dertien 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : ja ja dat zijn ja ik weten hem
+	Free: Pattern=dat zijn, Pattern=ik weten, Pattern=ja dat, Pattern=ja, Pattern=ja ja
+	Constrained: Pattern=dat, Pattern=ja, Pattern=weten, Pattern=ik, Pattern=zijn
+Turn ID=1| B | B : J
+	Free: 
+	Constrained: 
+Turn ID=2| B | B : ik hebben een soort van zonnepaneel aan de achterkant weten je wel
+	Free: Pattern=aan de achterkant, Pattern=weten, Pattern=hebben, Pattern=ik, Pattern=een soort
+	Constrained: Pattern=aan, Pattern=een, Pattern=de, Pattern=aan de
+Turn ID=3| B | B : en een staaf aan de rechterkant en een gelijkwaardig staaf die wat kort en dikk zijn aan de linkerkant
+	Free: Pattern=staaf, Pattern=kort en, Pattern=zijn aan de linkerkant, Pattern=en een, Pattern=aan de rechterkant, Pattern=die
+	Constrained: Pattern=aan de, Pattern=een, Pattern=en, Pattern=zijn, Pattern=de, Pattern=aan
+Turn ID=4| B | B : zonnepaneel zijn het ja f
+	Free: Pattern=het, Pattern=ja, Pattern=zijn
+	Constrained: 
+Turn ID=5| A | A : dan hebben we nu één met een een horizontaal achthoekig staaf met aan beide uiteinde rond , cirkel
+	Free: Pattern=aan, Pattern=staaf, Pattern=hebben, Pattern=een
+	Constrained: 
+Turn ID=6| B | B : f
+	Free: 
+	Constrained: 
+Turn ID=7| A | A : en een beetje achter de staaf lijken er een een vierkant schuil te gaan met daar aan de onderkant een soort ja poo zullen ik zeggen
+	Free: Pattern=staaf, Pattern=aan de, Pattern=een, Pattern=en een, Pattern=de, Pattern=ja, Pattern=ik, Pattern=een soort
+	Constrained: Pattern=aan, Pattern=een, Pattern=de, Pattern=en
+Turn ID=8| A | A : die staaf zijn aan de linkerkant heel kort en aan de rechterkant lijken hij een stuk lang
+	Free: Pattern=staaf, Pattern=een, Pattern=kort en, Pattern=zijn aan de linkerkant, Pattern=aan de rechterkant, Pattern=die
+	Constrained: Pattern=aan de, Pattern=en, Pattern=zijn, Pattern=de, Pattern=aan
+Turn ID=9| A | A : nee aan de rechterkant zijn alleen die ja het zijn een soort achthoekig staaf denken ik dat het zijn of in ieder geval een vierkant of zeshoekig misschien ik weten het niet precies
+	Free: Pattern=dat, Pattern=ja, Pattern=staaf, Pattern=een, Pattern=het, Pattern=ik weten, Pattern=zijn, Pattern=aan de rechterkant, Pattern=die, Pattern=ik, Pattern=een soort
+	Constrained: Pattern=aan de, Pattern=een, Pattern=weten, Pattern=ik, Pattern=de, Pattern=aan
+Turn ID=10| A | A : aan de buitenkant zitten twee rond vorm
+	Free: Pattern=aan de, Pattern=twee
+	Constrained: Pattern=aan, Pattern=de
+Turn ID=11| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=12| B | B : okeeen ik hebben dat zonnepaneel aan de achterkant en die twee staf links en rechts
+	Free: Pattern=rechts, Pattern=en die twee, Pattern=hebben, Pattern=ik, Pattern=en, Pattern=dat, Pattern=aan de achterkant
+	Constrained: Pattern=twee, Pattern=aan de, Pattern=die twee, Pattern=die, Pattern=en, Pattern=de, Pattern=aan
+Turn ID=13| B | B : zonnepaneel
+	Free: 
+	Constrained: 
+Turn ID=14| B | B : h
+	Free: 
+	Constrained: 
+Turn ID=15| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=16| A | A : en aan de achterkant dat vierkan
+	Free: Pattern=aan de achterkant, Pattern=dat, Pattern=en
+	Constrained: Pattern=aan, Pattern=de, Pattern=aan de
+Turn ID=17| A | A : ja nummer een
+	Free: Pattern=een, Pattern=ja
+	Constrained: 
+Turn ID=18| B | B : ja f god
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=19| B | B : de zonnepaneel aan de achterkant
+	Free: Pattern=aan de achterkant, Pattern=de
+	Constrained: Pattern=aan, Pattern=de, Pattern=aan de
+Turn ID=20| A | A : dit zijn weer volgens mij noemen we deze de gieter geloven ik dat zijn met die achthoekig staaf met die twee rond uiteinde
+	Free: Pattern=dat zijn, Pattern=de, Pattern=staaf, Pattern=die twee, Pattern=die, Pattern=ik, Pattern=zijn
+	Constrained: Pattern=twee, Pattern=dat, Pattern=die, Pattern=zijn
+Turn ID=21| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=22| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=23| A | A : de gieter even kijken hoor
+	Free: Pattern=de
+	Constrained: 
+Turn ID=24| A | A : ja ja met die handvat zijn de gieter hè ? zo noemen we die toch
+	Free: Pattern=ja ja, Pattern=de, Pattern=die, Pattern=zijn
+	Constrained: Pattern=ja
+Turn ID=25| A | A : en het bak toch ? en het de driehoek zonder uh , punt , omgekeerd driehoek
+	Free: Pattern=de, Pattern=en, Pattern=het
+	Constrained: 
+Turn ID=26| A | A : of zitten ik verkeerd
+	Free: Pattern=ik
+	Constrained: 
+Turn ID=27| A | A : ah dat zijn die
+	Free: Pattern=dat zijn, Pattern=die
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=28| A | A : ja met die rond ja ja en aan de achterkant dat vierkan dat zo ja precies nummer veertien
+	Free: Pattern=die, Pattern=en, Pattern=dat, Pattern=aan de achterkant, Pattern=ja, Pattern=ja ja
+	Constrained: Pattern=aan, Pattern=de, Pattern=aan de, Pattern=ja
+Turn ID=29| A | A : dit zijn de gieter noemen we die geloven ik
+	Free: Pattern=ik, Pattern=de, Pattern=die, Pattern=zijn
+	Constrained: 
+Turn ID=30| A | A : met die acht hoekig staaf en die twee ronde
+	Free: Pattern=en die twee, Pattern=staaf, Pattern=die
+	Constrained: Pattern=die twee, Pattern=twee, Pattern=en, Pattern=die
+Turn ID=31| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=32| A | A : twee ballet rechts
+	Free: Pattern=rechts, Pattern=twee
+	Constrained: 
+Turn ID=33| A | A : ja dat ja dat ding , ja nummer dertien
+	Free: Pattern=ja dat, Pattern=ja
+	Constrained: Pattern=dat, Pattern=ja

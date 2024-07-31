@@ -1,0 +1,115 @@
+B|0| B: _oké_ 
+B|1| B: er zitten _een_ vlak doorheen 
+B|2| B: _en_ er zitten _twee_ dinge bovenaan uit 
+B|3| B: _ja_ 
+A|4| A: [ja] 
+A|5| A: [oké] 
+A|6| A: [ja] 
+A|7| A: [oké] _dat zijn_ zes 
+B|8| B: _ja ja_ 
+B|9| B: [ja] [dat zijn] C 
+B|10| B: [oké] ik hebben diegene _met die_ plaat _erdoorheen_ _en dan twee_ uitsteeksel _en_ _nog_ _twee_ in _het_ midden zeggen maar 
+A|11| A: dit [zijn] weer [met] _zo'n_ _zo'n_ plat schijf [erdoorheen] 
+A|12| A: _en dan twee klein_ balk erbovenuit 
+A|13| A: [en] [een] _soort_ glijbaan naar beneden aan _de_ voorkant [en dan] [nog] [een] armpje [die] zo omhoog steken 
+B|14| B: [oké] 
+B|15| B: [ja] 
+B|16| B: [ja] [dat zijn] J 
+A|17| A: [ja [ja] ja] 
+A|18| A: dertien 
+B|19| B: [oké] bij mij ik hebben [die] _met de_ er [erdoorheen] [en dan twee klein] uitsteeksel erboven 
+B|20| B: [en] [zo'n] [soort] van ik vinden _het_ [een] pijp lijken 
+B|21| B: [oké] 
+A|22| A: dit [zijn] [die] [een] [met de] glijbaan [en] [en] [een] vierkant door [het] kop heen 
+A|23| A: [ja [ja] ja] 
+B|24| B: [ja] [dat zijn] N 
+A|25| A: [dat zijn] negen 
+A|26| A: dit [zijn] [de] glijbaan 
+A|27| A: [met die] schoorsteen 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=1| B | B : er zitten een vlak doorheen
+	Free: Pattern=een
+	Constrained: 
+Turn ID=2| B | B : en er zitten twee dinge bovenaan uit
+	Free: Pattern=twee, Pattern=en
+	Constrained: 
+Turn ID=3| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=4| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=5| A | A : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=6| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=7| A | A : oké dat zijn zes
+	Free: Pattern=dat zijn, Pattern=oké
+	Constrained: Pattern=zijn
+Turn ID=8| B | B : ja ja
+	Free: Pattern=ja ja
+	Constrained: Pattern=ja
+Turn ID=9| B | B : ja dat zijn C
+	Free: Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=zijn
+Turn ID=10| B | B : oké ik hebben diegene met die plaat erdoorheen en dan twee uitsteeksel en nog twee in het midden zeggen maar
+	Free: Pattern=met die, Pattern=nog, Pattern=twee, Pattern=het, Pattern=erdoorheen, Pattern=oké, Pattern=en, Pattern=en dan twee
+	Constrained: Pattern=twee, Pattern=en dan, Pattern=met, Pattern=die, Pattern=en
+Turn ID=11| A | A : dit zijn weer met zo'n zo'n plat schijf erdoorheen
+	Free: Pattern=zijn, Pattern=zo'n, Pattern=met, Pattern=erdoorheen
+	Constrained: 
+Turn ID=12| A | A : en dan twee klein balk erbovenuit
+	Free: Pattern=en dan twee klein
+	Constrained: Pattern=twee, Pattern=en dan, Pattern=en, Pattern=en dan twee
+Turn ID=13| A | A : en een soort glijbaan naar beneden aan de voorkant en dan nog een armpje die zo omhoog steken
+	Free: Pattern=de, Pattern=en dan, Pattern=een, Pattern=die, Pattern=en, Pattern=nog, Pattern=soort
+	Constrained: Pattern=en
+Turn ID=14| B | B : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=15| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=16| B | B : ja dat zijn J
+	Free: Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=zijn
+Turn ID=17| A | A : ja ja ja
+	Free: Pattern=ja ja
+	Constrained: Pattern=ja
+Turn ID=18| A | A : dertien
+	Free: 
+	Constrained: 
+Turn ID=19| B | B : oké bij mij ik hebben die met de er erdoorheen en dan twee klein uitsteeksel erboven
+	Free: Pattern=met de, Pattern=erdoorheen, Pattern=die, Pattern=en dan twee klein, Pattern=oké
+	Constrained: Pattern=twee, Pattern=de, Pattern=en dan, Pattern=met, Pattern=en, Pattern=en dan twee
+Turn ID=20| B | B : en zo'n soort van ik vinden het een pijp lijken
+	Free: Pattern=soort, Pattern=zo'n, Pattern=een, Pattern=het, Pattern=en
+	Constrained: 
+Turn ID=21| B | B : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=22| A | A : dit zijn die een met de glijbaan en en een vierkant door het kop heen
+	Free: Pattern=met de, Pattern=een, Pattern=het, Pattern=die, Pattern=en, Pattern=zijn
+	Constrained: Pattern=de, Pattern=met
+Turn ID=23| A | A : ja ja ja
+	Free: Pattern=ja ja
+	Constrained: Pattern=ja
+Turn ID=24| B | B : ja dat zijn N
+	Free: Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=zijn
+Turn ID=25| A | A : dat zijn negen
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn
+Turn ID=26| A | A : dit zijn de glijbaan
+	Free: Pattern=de, Pattern=zijn
+	Constrained: 
+Turn ID=27| A | A : met die schoorsteen
+	Free: Pattern=met die
+	Constrained: Pattern=die, Pattern=met

@@ -1,0 +1,135 @@
+B|0| B: _ja ik weten_ welk je bedoelen 
+B|1| B: J 
+A|2| A: [ik] hebben _één_ ook bijzonder hij hebben er staan _een soort_ _punt_ _een soort_ 
+A|3| A: hoorn staan erbovenop 
+A|4| A: _en dan_ hebben _die_ link nog [ja ik weten] niet _een heel_ gek dinge _dat_ bijna het niet aanraken 
+A|5| A: _en_ rechts nog _een_ figuur _en_ eronder ook nog wat 
+A|6| A: [ja] 
+A|7| A: [ja] 
+B|8| B: _dat zijn_ echt [een heel] vag 
+B|9| B: _soort van_ _soort van_ driehoek bovenop 
+B|10| B: [en] [een] blok [dat] aan de voorkant eruit steken [en] [een] 
+B|11| B: [ja] 
+B|12| B: even opnieuw zoeken 
+B|13| B: vierkant _met_ de [punt] omhoog 
+B|14| B: _met die_ ding [die] ding eruit steken [en dan] 
+B|15| B: [die] 
+B|16| B: [ja] oké _met_ [een _soort] van_ piramide bovenop 
+B|17| B: E 
+A|18| A: [ja] 
+A|19| A: [ja] [dat zijn] nummer zes 
+B|20| B: _dit zijn weer met_ _met die_ [dat] driehoek [die] eruit steken [die] [punt] 
+B|21| B: [en] [één] of ander raar blok aan de voorkant [en] 
+B|22| B: [ja] 
+A|23| A: [dit zijn weer [met] die] [soort van] punthoed [en] [heel] klein dinge [dat] [heel] klein beetje aanraken link 
+B|24| B: [ja] [met die] raar blok 
+B|25| B: G 
+A|26| A: yes nummer tien 
+B|27| B: de de [punt] [die] eruit steken [met] zo'n raar blok [dat] aan de voorkant uit komen 
+B|28| B: [en] de twee ander dinget 
+A|29| A: [ja] 
+A|30| A: [ik] hebben [één] helemaal wachten gewoon punthoed klein dinge link [dat] bijna net niet aanraken 
+A|31| A: [ja] [ja] 
+A|32| A: nummer tien 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : ja ik weten welk je bedoelen
+	Free: Pattern=ja ik weten
+	Constrained: Pattern=ja, Pattern=ik
+Turn ID=1| B | B : J
+	Free: 
+	Constrained: 
+Turn ID=2| A | A : ik hebben één ook bijzonder hij hebben er staan een soort punt een soort
+	Free: Pattern=een soort, Pattern=één, Pattern=punt, Pattern=ik
+	Constrained: Pattern=een
+Turn ID=3| A | A : hoorn staan erbovenop
+	Free: 
+	Constrained: 
+Turn ID=4| A | A : en dan hebben die link nog ja ik weten niet een heel gek dinge dat bijna het niet aanraken
+	Free: Pattern=een heel, Pattern=dat, Pattern=en dan, Pattern=die, Pattern=ja ik weten
+	Constrained: Pattern=heel, Pattern=ja, Pattern=een, Pattern=ik, Pattern=en
+Turn ID=5| A | A : en rechts nog een figuur en eronder ook nog wat
+	Free: Pattern=en, Pattern=een
+	Constrained: 
+Turn ID=6| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=7| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=8| B | B : dat zijn echt een heel vag
+	Free: Pattern=een heel, Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=een, Pattern=heel
+Turn ID=9| B | B : soort van soort van driehoek bovenop
+	Free: Pattern=soort van
+	Constrained: 
+Turn ID=10| B | B : en een blok dat aan de voorkant eruit steken en een
+	Free: Pattern=dat, Pattern=en, Pattern=een
+	Constrained: 
+Turn ID=11| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=12| B | B : even opnieuw zoeken
+	Free: 
+	Constrained: 
+Turn ID=13| B | B : vierkant met de punt omhoog
+	Free: Pattern=punt, Pattern=met
+	Constrained: 
+Turn ID=14| B | B : met die ding die ding eruit steken en dan
+	Free: Pattern=en dan, Pattern=met die, Pattern=die
+	Constrained: Pattern=met, Pattern=en, Pattern=die
+Turn ID=15| B | B : die
+	Free: Pattern=die
+	Constrained: 
+Turn ID=16| B | B : ja oké met een soort van piramide bovenop
+	Free: Pattern=soort van, Pattern=een soort, Pattern=met, Pattern=ja
+	Constrained: Pattern=een
+Turn ID=17| B | B : E
+	Free: 
+	Constrained: 
+Turn ID=18| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=19| A | A : ja dat zijn nummer zes
+	Free: Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=dat
+Turn ID=20| B | B : dit zijn weer met met die dat driehoek die eruit steken die punt
+	Free: Pattern=die, Pattern=dat, Pattern=met die, Pattern=punt, Pattern=dit zijn weer met
+	Constrained: Pattern=met, Pattern=die
+Turn ID=21| B | B : en één of ander raar blok aan de voorkant en
+	Free: Pattern=één, Pattern=en
+	Constrained: 
+Turn ID=22| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=23| A | A : dit zijn weer met die soort van punthoed en heel klein dinge dat heel klein beetje aanraken link
+	Free: Pattern=dit zijn weer met, Pattern=heel, Pattern=en, Pattern=soort van, Pattern=dat, Pattern=met die
+	Constrained: Pattern=met, Pattern=die
+Turn ID=24| B | B : ja met die raar blok
+	Free: Pattern=met die, Pattern=ja
+	Constrained: Pattern=met, Pattern=die
+Turn ID=25| B | B : G
+	Free: 
+	Constrained: 
+Turn ID=26| A | A : yes nummer tien
+	Free: 
+	Constrained: 
+Turn ID=27| B | B : de de punt die eruit steken met zo'n raar blok dat aan de voorkant uit komen
+	Free: Pattern=dat, Pattern=punt, Pattern=met, Pattern=die
+	Constrained: 
+Turn ID=28| B | B : en de twee ander dinget
+	Free: Pattern=en
+	Constrained: 
+Turn ID=29| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=30| A | A : ik hebben één helemaal wachten gewoon punthoed klein dinge link dat bijna net niet aanraken
+	Free: Pattern=één, Pattern=dat, Pattern=ik
+	Constrained: 
+Turn ID=31| A | A : ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=32| A | A : nummer tien
+	Free: 
+	Constrained: 

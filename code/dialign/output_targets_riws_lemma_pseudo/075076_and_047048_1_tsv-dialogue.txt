@@ -1,0 +1,71 @@
+A|0| A: _ja en_ _een_ soort van paddenstoel bovenop 
+A|1| A: _ja_ dat _zijn_ bij mij nummer _twee_ 
+B|2| B: _dit zijn_ _de_ robot 
+B|3| B: _met_ [een] antenne 
+B|4| B: [ja en] [twee] Minecraftogen 
+A|5| A: [dit zijn] die [een] weer [met] dat paddenstoel bovenop [en] dan dat heel groot vierkant aan [de] rechterkant erbij [en] die [twee] stapel aan [de] linkerkant 
+A|6| A: [ja] nummer [en] dat vierkant vlak 
+A|7| A: [ja] nummer negen 
+B|8| B: oké G 
+B|9| B: [de] robot 
+A|10| A: ik hebben die [met] het paddenstoel bovenop 
+B|11| B: oké d 
+A|12| A: [ja] 
+A|13| A: nummer één 
+A|14| A: ik hebben die [een] [met] die paddenstoel bovenop [en] dat vierkant vlak aan [de] rechterkant 
+B|15| B: robot 
+B|16| B: B 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : ja en een soort van paddenstoel bovenop
+	Free: Pattern=ja en, Pattern=een
+	Constrained: Pattern=ja, Pattern=en
+Turn ID=1| A | A : ja dat zijn bij mij nummer twee
+	Free: Pattern=twee, Pattern=ja, Pattern=zijn
+	Constrained: 
+Turn ID=2| B | B : dit zijn de robot
+	Free: Pattern=dit zijn, Pattern=de
+	Constrained: Pattern=zijn
+Turn ID=3| B | B : met een antenne
+	Free: Pattern=een, Pattern=met
+	Constrained: 
+Turn ID=4| B | B : ja en twee Minecraftogen
+	Free: Pattern=ja en, Pattern=twee
+	Constrained: Pattern=ja, Pattern=en
+Turn ID=5| A | A : dit zijn die een weer met dat paddenstoel bovenop en dan dat heel groot vierkant aan de rechterkant erbij en die twee stapel aan de linkerkant
+	Free: Pattern=twee, Pattern=de, Pattern=een, Pattern=met, Pattern=en, Pattern=dit zijn
+	Constrained: Pattern=zijn
+Turn ID=6| A | A : ja nummer en dat vierkant vlak
+	Free: Pattern=ja, Pattern=en
+	Constrained: 
+Turn ID=7| A | A : ja nummer negen
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=8| B | B : oké G
+	Free: 
+	Constrained: 
+Turn ID=9| B | B : de robot
+	Free: Pattern=de
+	Constrained: 
+Turn ID=10| A | A : ik hebben die met het paddenstoel bovenop
+	Free: Pattern=met
+	Constrained: 
+Turn ID=11| B | B : oké d
+	Free: 
+	Constrained: 
+Turn ID=12| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=13| A | A : nummer één
+	Free: 
+	Constrained: 
+Turn ID=14| A | A : ik hebben die een met die paddenstoel bovenop en dat vierkant vlak aan de rechterkant
+	Free: Pattern=een, Pattern=de, Pattern=en, Pattern=met
+	Constrained: 
+Turn ID=15| B | B : robot
+	Free: 
+	Constrained: 
+Turn ID=16| B | B : B
+	Free: 
+	Constrained: 

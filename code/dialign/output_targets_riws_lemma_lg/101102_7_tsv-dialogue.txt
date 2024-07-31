@@ -1,0 +1,71 @@
+B|0| B: Alright _ja_ _dit zijn_ een soort er zitten een soort _uitklaptafelt_ wat vast zitten plakken aan een aan een _mok_ bovenin 
+A|1| A: [ja] 
+B|2| B: daar staan een soort komme op 
+A|3| A: _oké_ _dat zijn_ nummer zestien 
+A|4| A: [dit zijn] _de mok met _het_ uitklaptafelt met het bak_ erop 
+B|5| B: ah [ja] P 
+B|6| B: [oké] _dit zijn [het uitklaptafelt_ met het bak] erbovenop 
+A|7| A: [ja] veertien 
+A|8| A: [dit zijn] die [met [het] uitklaptafelt] 
+A|9| A: en _dat_ [bak] 
+B|10| B: [ja] 
+B|11| B: [dat zijn] N 
+B|12| B: _dit zijn het uitklaptafelt_ op [de mok met het] kop [met het bak] bovenop 
+A|13| A: [ja] 
+A|14| A: nummer tien 
+A|15| A: en [dit zijn het uitklaptafelt] 
+B|16| B: d 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : Alright ja dit zijn een soort er zitten een soort uitklaptafelt wat vast zitten plakken aan een aan een mok bovenin
+	Free: Pattern=dit zijn, Pattern=ja, Pattern=mok, Pattern=uitklaptafelt
+	Constrained: 
+Turn ID=1| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=2| B | B : daar staan een soort komme op
+	Free: 
+	Constrained: 
+Turn ID=3| A | A : oké dat zijn nummer zestien
+	Free: Pattern=dat zijn, Pattern=oké
+	Constrained: Pattern=dat
+Turn ID=4| A | A : dit zijn de mok met het uitklaptafelt met het bak erop
+	Free: Pattern=het uitklaptafelt met het bak, Pattern=de mok met het, Pattern=dit zijn
+	Constrained: Pattern=het uitklaptafelt, Pattern=bak, Pattern=met het bak, Pattern=mok, Pattern=uitklaptafelt, Pattern=met het
+Turn ID=5| B | B : ah ja P
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=6| B | B : oké dit zijn het uitklaptafelt met het bak erbovenop
+	Free: Pattern=het uitklaptafelt met het bak, Pattern=dit zijn het uitklaptafelt, Pattern=oké
+	Constrained: Pattern=het uitklaptafelt, Pattern=bak, Pattern=met het bak, Pattern=uitklaptafelt, Pattern=met het, Pattern=dit zijn
+Turn ID=7| A | A : ja veertien
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=8| A | A : dit zijn die met het uitklaptafelt
+	Free: Pattern=met het, Pattern=dit zijn, Pattern=het uitklaptafelt
+	Constrained: Pattern=uitklaptafelt
+Turn ID=9| A | A : en dat bak
+	Free: Pattern=dat, Pattern=bak
+	Constrained: 
+Turn ID=10| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=11| B | B : dat zijn N
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat
+Turn ID=12| B | B : dit zijn het uitklaptafelt op de mok met het kop met het bak bovenop
+	Free: Pattern=dit zijn het uitklaptafelt, Pattern=de mok met het, Pattern=met het bak
+	Constrained: Pattern=het uitklaptafelt, Pattern=bak, Pattern=mok, Pattern=uitklaptafelt, Pattern=met het, Pattern=dit zijn
+Turn ID=13| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=14| A | A : nummer tien
+	Free: 
+	Constrained: 
+Turn ID=15| A | A : en dit zijn het uitklaptafelt
+	Free: Pattern=dit zijn het uitklaptafelt
+	Constrained: Pattern=dit zijn, Pattern=het uitklaptafelt, Pattern=uitklaptafelt
+Turn ID=16| B | B : d
+	Free: 
+	Constrained: 

@@ -1,0 +1,131 @@
+B|0| B: _oké_ _ja_ _dit zijn_ die we net denken _dat_ _dat_ je die _hebben_ _dat zijn_ met _dat_ _ja_ wat _ik_ vinden _zijn_ _een_ _picknicktafel_ 
+B|1| B: dus ook met _dat_ vlak _maar_ dan aan _de_ bovenste helft _van_ _het_ kop _zeggen maar_ 
+A|2| A: [ja] 
+B|3| B: doorheen met die twee schuin poot en dan _dat_ trechterdinge erbovenop 
+B|4| B: _ik_ vinden _een_ beetje _de_ poot _van_ _een_ _picknicktafel_ omdat ze zo schuin _staan_ 
+B|5| B: weten je welk _ik_ bedoelen 
+A|6| A: [dat] snap [ik] wel [ja] 
+B|7| B: [ja] 
+A|8| A: [ja] er zitten er zitten [zeggen maar] [een] bak nog op [het] tafel [een] soort [van] 
+B|9| B: [ja] [ja] 
+A|10| A: [ja] 
+A|11| A: nee [oké] [hebben] [ik] hem 
+B|12| B: [ja] 
+A|13| A: [dat zijn] nummer zestien 
+A|14| A: [dit zijn] [het] _picknick_ tafel 
+B|15| B: [oké] 
+B|16| B: [dat zijn] bij mij P [van] [picknick] 
+B|17| B: [oké] [dit zijn] met die _picknicktafel_ 
+A|18| A: [ja] 
+A|19| A: even daar 
+A|20| A: nummer veertien 
+A|21| A: [de] [picknicktafel] 
+B|22| B: [oké] [dat zijn] bij mij N [van] Nico 
+B|23| B: nu met die [picknicktafel] [maar] nu [zijn] ze allemaal weer veranderen 
+A|24| A: [ja] [zijn] nummer tien 
+A|25| A: [de] [picknicktafel] 
+B|26| B: [ja] 
+A|27| A: [staan] rechts 
+B|28| B: hij moeten kunnen niet weg [zijn] 
+B|29| B: [ja] bij mij [staan] die rechtsboven [zeggen maar] [dat zijn] D 
+A|30| A: in [een] 
+A|31| A: [ja] 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : oké ja dit zijn die we net denken dat dat je die hebben dat zijn met dat ja wat ik vinden zijn een picknicktafel
+	Free: Pattern=ja, Pattern=een, Pattern=hebben, Pattern=picknicktafel, Pattern=oké, Pattern=ik, Pattern=zijn, Pattern=dit zijn, Pattern=dat, Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=1| B | B : dus ook met dat vlak maar dan aan de bovenste helft van het kop zeggen maar
+	Free: Pattern=dat, Pattern=de, Pattern=zeggen maar, Pattern=het, Pattern=van, Pattern=maar
+	Constrained: Pattern=maar
+Turn ID=2| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=3| B | B : doorheen met die twee schuin poot en dan dat trechterdinge erbovenop
+	Free: Pattern=dat
+	Constrained: 
+Turn ID=4| B | B : ik vinden een beetje de poot van een picknicktafel omdat ze zo schuin staan
+	Free: Pattern=de, Pattern=picknicktafel, Pattern=ik, Pattern=van, Pattern=een, Pattern=staan
+	Constrained: 
+Turn ID=5| B | B : weten je welk ik bedoelen
+	Free: Pattern=ik
+	Constrained: 
+Turn ID=6| A | A : dat snap ik wel ja
+	Free: Pattern=dat, Pattern=ik, Pattern=ja
+	Constrained: 
+Turn ID=7| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=8| A | A : ja er zitten er zitten zeggen maar een bak nog op het tafel een soort van
+	Free: Pattern=ja, Pattern=een, Pattern=zeggen maar, Pattern=het, Pattern=van
+	Constrained: Pattern=maar
+Turn ID=9| B | B : ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=10| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=11| A | A : nee oké hebben ik hem
+	Free: Pattern=hebben, Pattern=oké, Pattern=ik
+	Constrained: 
+Turn ID=12| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=13| A | A : dat zijn nummer zestien
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=14| A | A : dit zijn het picknick tafel
+	Free: Pattern=dit zijn, Pattern=picknick, Pattern=het
+	Constrained: Pattern=zijn
+Turn ID=15| B | B : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=16| B | B : dat zijn bij mij P van picknick
+	Free: Pattern=dat zijn, Pattern=picknick, Pattern=van
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=17| B | B : oké dit zijn met die picknicktafel
+	Free: Pattern=dit zijn, Pattern=picknicktafel, Pattern=oké
+	Constrained: Pattern=zijn
+Turn ID=18| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=19| A | A : even daar
+	Free: 
+	Constrained: 
+Turn ID=20| A | A : nummer veertien
+	Free: 
+	Constrained: 
+Turn ID=21| A | A : de picknicktafel
+	Free: Pattern=de, Pattern=picknicktafel
+	Constrained: 
+Turn ID=22| B | B : oké dat zijn bij mij N van Nico
+	Free: Pattern=dat zijn, Pattern=oké, Pattern=van
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=23| B | B : nu met die picknicktafel maar nu zijn ze allemaal weer veranderen
+	Free: Pattern=picknicktafel, Pattern=zijn, Pattern=maar
+	Constrained: 
+Turn ID=24| A | A : ja zijn nummer tien
+	Free: Pattern=zijn, Pattern=ja
+	Constrained: 
+Turn ID=25| A | A : de picknicktafel
+	Free: Pattern=de, Pattern=picknicktafel
+	Constrained: 
+Turn ID=26| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=27| A | A : staan rechts
+	Free: Pattern=staan
+	Constrained: 
+Turn ID=28| B | B : hij moeten kunnen niet weg zijn
+	Free: Pattern=zijn
+	Constrained: 
+Turn ID=29| B | B : ja bij mij staan die rechtsboven zeggen maar dat zijn D
+	Free: Pattern=dat zijn, Pattern=zeggen maar, Pattern=staan, Pattern=ja
+	Constrained: Pattern=dat, Pattern=zijn, Pattern=maar
+Turn ID=30| A | A : in een
+	Free: Pattern=een
+	Constrained: 
+Turn ID=31| A | A : ja
+	Free: Pattern=ja
+	Constrained: 

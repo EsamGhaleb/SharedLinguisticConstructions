@@ -1,0 +1,111 @@
+B|0| B: _ja_ 
+B|1| B: _ja_ 
+B|2| B: _ja_ _het_ lijken _een beetje_ _op_ _een_ tent daarboven 
+B|3| B: oké 
+B|4| B: _ja_ 
+B|5| B: _het_ _zijn_ _een_ _het_ _zijn_ J 
+A|6| A: deze _hebben_ [een] best wel hoog _driehoek_ [op] _de bovenkant_ van [het] kop _en_ [een] heel _klein_ 
+A|7| A: _die_ ook [een beetje] rond [zijn] _aan de_ linkerkant 
+A|8| A: _en_ [een] soort wiel onder _de_ kop 
+A|9| A: _en_ dan zitten _er_ nog [een] [een] vag vorm ervoor zeggen maar 
+A|10| A: _die_ [ja] [een] vliegerachtig iets 
+B|11| B: _dit zijn_ diegene _met die_ [driehoek] [aan [de] bovenkant] [en] [die] pijl [die] [er] zo in gaan 
+A|12| A: [de] vlieger [ja] 
+A|13| A: zes 
+B|14| B: [ja] _dat_ [zijn] E 
+B|15| B: oké ik [hebben] [die] _met_ _de driehoek_ _erop_ 
+B|16| B: [en] zo één [klein] dinge erin 
+A|17| A: [dit zijn] [met die] vlieger [erop] 
+A|18| A: [en] [de driehoek] erboven [en] 
+B|19| B: [ja] 
+B|20| B: _dat_ [zijn] G 
+A|21| A: [ja] [ja] 
+A|22| A: tien 
+B|23| B: oké ik [hebben] diegene [met die] piramide [die] [driehoek] [aan [de] bovenkant] [en] zo [de] pijl daarin [aan de] zijkant 
+A|24| A: [dit zijn] [de] vlieger 
+A|25| A: [met] [dat] wiel [aan de] onderkant 
+A|26| A: tien 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=1| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=2| B | B : ja het lijken een beetje op een tent daarboven
+	Free: Pattern=ja, Pattern=op, Pattern=een, Pattern=het, Pattern=een beetje
+	Constrained: Pattern=een
+Turn ID=3| B | B : oké
+	Free: 
+	Constrained: 
+Turn ID=4| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=5| B | B : het zijn een het zijn J
+	Free: Pattern=een, Pattern=zijn, Pattern=het
+	Constrained: 
+Turn ID=6| A | A : deze hebben een best wel hoog driehoek op de bovenkant van het kop en een heel klein
+	Free: Pattern=driehoek, Pattern=op, Pattern=de bovenkant, Pattern=een, Pattern=het, Pattern=hebben, Pattern=klein, Pattern=en
+	Constrained: Pattern=de
+Turn ID=7| A | A : die ook een beetje rond zijn aan de linkerkant
+	Free: Pattern=een beetje, Pattern=aan de, Pattern=die, Pattern=zijn
+	Constrained: Pattern=een, Pattern=de
+Turn ID=8| A | A : en een soort wiel onder de kop
+	Free: Pattern=een, Pattern=en, Pattern=de
+	Constrained: 
+Turn ID=9| A | A : en dan zitten er nog een een vag vorm ervoor zeggen maar
+	Free: Pattern=een, Pattern=er, Pattern=en
+	Constrained: 
+Turn ID=10| A | A : die ja een vliegerachtig iets
+	Free: Pattern=een, Pattern=ja, Pattern=die
+	Constrained: 
+Turn ID=11| B | B : dit zijn diegene met die driehoek aan de bovenkant en die pijl die er zo in gaan
+	Free: Pattern=driehoek, Pattern=met die, Pattern=aan de, Pattern=de bovenkant, Pattern=die, Pattern=er, Pattern=en, Pattern=dit zijn
+	Constrained: Pattern=de, Pattern=zijn, Pattern=met, Pattern=die
+Turn ID=12| A | A : de vlieger ja
+	Free: Pattern=ja, Pattern=de
+	Constrained: 
+Turn ID=13| A | A : zes
+	Free: 
+	Constrained: 
+Turn ID=14| B | B : ja dat zijn E
+	Free: Pattern=dat, Pattern=ja, Pattern=zijn
+	Constrained: 
+Turn ID=15| B | B : oké ik hebben die met de driehoek erop
+	Free: Pattern=erop, Pattern=de driehoek, Pattern=hebben, Pattern=met, Pattern=die
+	Constrained: Pattern=de, Pattern=driehoek
+Turn ID=16| B | B : en zo één klein dinge erin
+	Free: Pattern=en, Pattern=klein
+	Constrained: 
+Turn ID=17| A | A : dit zijn met die vlieger erop
+	Free: Pattern=met die, Pattern=dit zijn, Pattern=erop
+	Constrained: Pattern=met, Pattern=die, Pattern=zijn
+Turn ID=18| A | A : en de driehoek erboven en
+	Free: Pattern=de driehoek, Pattern=en
+	Constrained: Pattern=de, Pattern=driehoek
+Turn ID=19| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=20| B | B : dat zijn G
+	Free: Pattern=dat, Pattern=zijn
+	Constrained: 
+Turn ID=21| A | A : ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=22| A | A : tien
+	Free: 
+	Constrained: 
+Turn ID=23| B | B : oké ik hebben diegene met die piramide die driehoek aan de bovenkant en zo de pijl daarin aan de zijkant
+	Free: Pattern=driehoek, Pattern=met die, Pattern=de, Pattern=aan de, Pattern=de bovenkant, Pattern=hebben, Pattern=die, Pattern=en
+	Constrained: Pattern=met, Pattern=de, Pattern=die
+Turn ID=24| A | A : dit zijn de vlieger
+	Free: Pattern=dit zijn, Pattern=de
+	Constrained: Pattern=zijn
+Turn ID=25| A | A : met dat wiel aan de onderkant
+	Free: Pattern=aan de, Pattern=met, Pattern=dat
+	Constrained: Pattern=de
+Turn ID=26| A | A : tien
+	Free: 
+	Constrained: 

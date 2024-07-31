@@ -1,0 +1,187 @@
+B|0| B: _oké_ 
+A|1| A: jij _hebben_ nu _het_ vierkant _ja_ 
+B|2| B: hij [hebben] weer hij [hebben] _een_ echt _zeggen maar_ echt _zo'n bol_ _neus_ 
+B|3| B: of [ja] [het] zitten _veel_ _aan de zijkant_ 
+B|4| B: _en_ bovenop _zijn een_ _een_ _een_ rechthoek 
+B|5| B: _en één_ iets ander _dat_ lijken _een_ beetje op _zo'n_ bowling kegel 
+A|6| A: [ja] [ja] [ja] [ja] [ja] 
+A|7| A: _en dan_ [aan de zijkant] [zo'n] driehoek 
+B|8| B: [ja] 
+B|9| B: [ja] 
+A|10| A: [oké] 
+A|11| A: veertien 
+A|12| A: ze [hebben] trouwens heel formaat veranderen 
+A|13| A: ze [hebben] _die_ formaat veranderen 
+B|14| B: Hoezo 
+A|15| A: van [de] 
+A|16| A: want er [zijn een] paar foto _die_ we al hetzelfde [hebben] [zeggen] 
+B|17| B: [ja] 
+A|18| A: [dat] [zijn] best makkelijk nu 
+A|19| A: [ja] [dat] [zijn] _met_ _met_ [dat] _balk_ _en dan zo'n_ _ik weten_ niet [veel] wat je net [zeggen] [zo'n] [zo'n] misvormd _waterdruppel_ 
+B|20| B: kegel 
+B|21| B: [ja] [en dan] [en dan _zo'n] bol_ weer 
+A|22| A: [ja] 
+A|23| A: [zo'n bol] [ja] 
+B|24| B: [ja] 
+B|25| B: N 
+B|26| B: weer [die] [bol] _zeggen maar_ 
+B|27| B: [en dan] bovenop [een] blok [en] [een] kegel 
+A|28| A: [ja] 
+A|29| A: _en die_ [die] driehoek 
+B|30| B: [ja] 
+A|31| A: [oké] 
+A|32| A: negen 
+A|33| A: [ja] [dat] [dat] [dat] [neus] [dat] bal [zeggen maar] [en dan] [één] _balk_ [en één] kromen _waterdruppel_ 
+B|34| B: [ja] 
+B|35| B: G 
+B|36| B: weer [die] rond _neus en dan_ [met] [die] [met] zo [een] [waterdruppel] [en die] [balk] 
+A|37| A: [ja] 
+B|38| B: bovenop 
+A|39| A: vijf 
+A|40| A: [ja] [neus en dan] [balk] [en] misvormd [waterdruppel] 
+A|41| A: [en dan zo'n] driehoek 
+B|42| B: [ja] eventjes zoeken 
+B|43| B: [ik weten] precies hoe [die] eruitziet [maar] [ik] kunnen hem hier staan [die] 
+A|44| A: van mij [zijn] rechts 
+B|45| B: J 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=1| A | A : jij hebben nu het vierkant ja
+	Free: Pattern=hebben, Pattern=het, Pattern=ja
+	Constrained: 
+Turn ID=2| B | B : hij hebben weer hij hebben een echt zeggen maar echt zo'n bol neus
+	Free: Pattern=zo'n bol, Pattern=een, Pattern=zeggen maar, Pattern=hebben, Pattern=neus
+	Constrained: Pattern=zo'n, Pattern=bol, Pattern=zeggen, Pattern=maar
+Turn ID=3| B | B : of ja het zitten veel aan de zijkant
+	Free: Pattern=aan de zijkant, Pattern=veel, Pattern=het, Pattern=ja
+	Constrained: Pattern=de
+Turn ID=4| B | B : en bovenop zijn een een een rechthoek
+	Free: Pattern=zijn een, Pattern=en, Pattern=een
+	Constrained: Pattern=zijn, Pattern=een
+Turn ID=5| B | B : en één iets ander dat lijken een beetje op zo'n bowling kegel
+	Free: Pattern=en één, Pattern=dat, Pattern=zo'n, Pattern=een
+	Constrained: Pattern=en, Pattern=één
+Turn ID=6| A | A : ja ja ja ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=7| A | A : en dan aan de zijkant zo'n driehoek
+	Free: Pattern=aan de zijkant, Pattern=en dan, Pattern=zo'n
+	Constrained: Pattern=de, Pattern=en
+Turn ID=8| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=9| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=10| A | A : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=11| A | A : veertien
+	Free: 
+	Constrained: 
+Turn ID=12| A | A : ze hebben trouwens heel formaat veranderen
+	Free: Pattern=hebben
+	Constrained: 
+Turn ID=13| A | A : ze hebben die formaat veranderen
+	Free: Pattern=hebben, Pattern=die
+	Constrained: 
+Turn ID=14| B | B : Hoezo
+	Free: 
+	Constrained: 
+Turn ID=15| A | A : van de
+	Free: Pattern=de
+	Constrained: 
+Turn ID=16| A | A : want er zijn een paar foto die we al hetzelfde hebben zeggen
+	Free: Pattern=zijn een, Pattern=hebben, Pattern=zeggen, Pattern=die
+	Constrained: Pattern=zijn, Pattern=een
+Turn ID=17| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=18| A | A : dat zijn best makkelijk nu
+	Free: Pattern=dat, Pattern=zijn
+	Constrained: 
+Turn ID=19| A | A : ja dat zijn met met dat balk en dan zo'n ik weten niet veel wat je net zeggen zo'n zo'n misvormd waterdruppel
+	Free: Pattern=zo'n, Pattern=veel, Pattern=zeggen, Pattern=balk, Pattern=met, Pattern=ik weten, Pattern=zijn, Pattern=dat, Pattern=en dan zo'n, Pattern=ja, Pattern=waterdruppel
+	Constrained: Pattern=en dan, Pattern=zo'n, Pattern=en, Pattern=ik
+Turn ID=20| B | B : kegel
+	Free: 
+	Constrained: 
+Turn ID=21| B | B : ja en dan en dan zo'n bol weer
+	Free: Pattern=en dan zo'n, Pattern=zo'n bol, Pattern=en dan, Pattern=ja
+	Constrained: Pattern=bol, Pattern=en dan, Pattern=zo'n, Pattern=en
+Turn ID=22| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=23| A | A : zo'n bol ja
+	Free: Pattern=zo'n bol, Pattern=ja
+	Constrained: Pattern=zo'n, Pattern=bol
+Turn ID=24| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=25| B | B : N
+	Free: 
+	Constrained: 
+Turn ID=26| B | B : weer die bol zeggen maar
+	Free: Pattern=zeggen maar, Pattern=bol, Pattern=die
+	Constrained: Pattern=zeggen, Pattern=maar
+Turn ID=27| B | B : en dan bovenop een blok en een kegel
+	Free: Pattern=en dan, Pattern=en, Pattern=een
+	Constrained: Pattern=en
+Turn ID=28| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=29| A | A : en die die driehoek
+	Free: Pattern=en die, Pattern=die
+	Constrained: Pattern=en, Pattern=die
+Turn ID=30| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=31| A | A : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=32| A | A : negen
+	Free: 
+	Constrained: 
+Turn ID=33| A | A : ja dat dat dat neus dat bal zeggen maar en dan één balk en één kromen waterdruppel
+	Free: Pattern=en één, Pattern=dat, Pattern=en dan, Pattern=zeggen maar, Pattern=één, Pattern=ja, Pattern=waterdruppel, Pattern=neus, Pattern=balk
+	Constrained: Pattern=en, Pattern=één, Pattern=maar, Pattern=zeggen
+Turn ID=34| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=35| B | B : G
+	Free: 
+	Constrained: 
+Turn ID=36| B | B : weer die rond neus en dan met die met zo een waterdruppel en die balk
+	Free: Pattern=en die, Pattern=waterdruppel, Pattern=neus en dan, Pattern=een, Pattern=balk, Pattern=met, Pattern=die
+	Constrained: Pattern=neus, Pattern=en dan, Pattern=die, Pattern=en
+Turn ID=37| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=38| B | B : bovenop
+	Free: 
+	Constrained: 
+Turn ID=39| A | A : vijf
+	Free: 
+	Constrained: 
+Turn ID=40| A | A : ja neus en dan balk en misvormd waterdruppel
+	Free: Pattern=neus en dan, Pattern=balk, Pattern=en, Pattern=ja, Pattern=waterdruppel
+	Constrained: Pattern=en dan, Pattern=en, Pattern=neus
+Turn ID=41| A | A : en dan zo'n driehoek
+	Free: Pattern=en dan zo'n
+	Constrained: Pattern=en dan, Pattern=zo'n, Pattern=en
+Turn ID=42| B | B : ja eventjes zoeken
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=43| B | B : ik weten precies hoe die eruitziet maar ik kunnen hem hier staan die
+	Free: Pattern=ik weten, Pattern=ik, Pattern=maar, Pattern=die
+	Constrained: Pattern=ik
+Turn ID=44| A | A : van mij zijn rechts
+	Free: Pattern=zijn
+	Constrained: 
+Turn ID=45| B | B : J
+	Free: 
+	Constrained: 

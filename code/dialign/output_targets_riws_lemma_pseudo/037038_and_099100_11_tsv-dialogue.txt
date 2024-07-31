@@ -1,0 +1,143 @@
+A|0| A: zo'n raar 
+A|1| A: nog _één_ zo'n dinge 
+A|2| A: _ja_ oké 
+A|3| A: _dan zijn het_ nummer veertien 
+B|4| B: _dit zijn_ _een_ _een_ _soort_ theekopje _met twee_ lepeltjes erin 
+B|5| B: [één] hebben _een_ wat puntig _en_ _een_ _neus_ hebben _die_ _en_ [één] oor 
+B|6| B: [ja] er zitten _een_ _een_ staafje of _een_ balk in 
+A|7| A: [ja] [dit zijn] _dat_ ding [met twee] ding zo bovenop 
+A|8| A: [één] gewoon zo'n recht _balkje_ [en] [die] [soort] kegel [die] [een] beetje schuin staan 
+A|9| A: [ja] [en] _dan_ _dat_ armpje [en] [die] rond [neus] vooraan 
+B|10| B: [ja] 
+B|11| B: balk 
+B|12| B: [en] de oor [en] de [neus] 
+B|13| B: [dan zijn het] N 
+A|14| A: [ja] ik weten welk [het] [zijn] 
+A|15| A: [en] [dan] _dat_ _balkje_ [en] [dan] _dat_ rond ervoor 
+A|16| A: [ja] 
+A|17| A: nummer negen 
+A|18| A: [dit zijn] _dat_ poppe [met] _dat_ rond ding voor links [één] zo'n driehoekarmpje [en] [die] kegel [en] _dat_ recht dinge bovenop [zijn] hoofd 
+A|19| A: [ja] [die] kegel [die] zo'n beetje schuin staan 
+A|20| A: [met] _dat_ rond voor 
+A|21| A: oké nummer vijf 
+A|22| A: [ja] _dat_ poppet _met die_ schuin kegel op [zijn] hoofd [en] _dat_ recht blok 
+A|23| A: [en] [dan] nog _dat_ armpje link 
+B|24| B: [dit zijn] weer [dat] theekopje 
+B|25| B: [met die] eenpuntig uitsteeksel [één] [balkje] 
+B|26| B: oor [en] de [neus] 
+B|27| B: [ja] 
+B|28| B: [ja] 
+B|29| B: [ja] 
+B|30| B: [dat] [zijn] [dan] G 
+B|31| B: [dit zijn] weer [dat] theekopje [met die] [twee] staafjes erin 
+B|32| B: [één] puntig [en] [één] [balkje] 
+B|33| B: [ja] 
+B|34| B: [dat] [zijn] J 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : zo'n raar
+	Free: 
+	Constrained: 
+Turn ID=1| A | A : nog één zo'n dinge
+	Free: Pattern=één
+	Constrained: 
+Turn ID=2| A | A : ja oké
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=3| A | A : dan zijn het nummer veertien
+	Free: Pattern=dan zijn het
+	Constrained: Pattern=dan, Pattern=het, Pattern=zijn
+Turn ID=4| B | B : dit zijn een een soort theekopje met twee lepeltjes erin
+	Free: Pattern=met twee, Pattern=dit zijn, Pattern=soort, Pattern=een
+	Constrained: Pattern=twee, Pattern=zijn, Pattern=met
+Turn ID=5| B | B : één hebben een wat puntig en een neus hebben die en één oor
+	Free: Pattern=een, Pattern=neus, Pattern=die, Pattern=en, Pattern=één
+	Constrained: 
+Turn ID=6| B | B : ja er zitten een een staafje of een balk in
+	Free: Pattern=ja, Pattern=een
+	Constrained: 
+Turn ID=7| A | A : ja dit zijn dat ding met twee ding zo bovenop
+	Free: Pattern=met twee, Pattern=dit zijn, Pattern=dat, Pattern=ja
+	Constrained: Pattern=twee, Pattern=zijn, Pattern=met
+Turn ID=8| A | A : één gewoon zo'n recht balkje en die soort kegel die een beetje schuin staan
+	Free: Pattern=soort, Pattern=een, Pattern=balkje, Pattern=die, Pattern=en, Pattern=één
+	Constrained: 
+Turn ID=9| A | A : ja en dan dat armpje en die rond neus vooraan
+	Free: Pattern=dat, Pattern=ja, Pattern=dan, Pattern=neus, Pattern=die, Pattern=en
+	Constrained: 
+Turn ID=10| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=11| B | B : balk
+	Free: 
+	Constrained: 
+Turn ID=12| B | B : en de oor en de neus
+	Free: Pattern=en, Pattern=neus
+	Constrained: 
+Turn ID=13| B | B : dan zijn het N
+	Free: Pattern=dan zijn het
+	Constrained: Pattern=dan, Pattern=het, Pattern=zijn
+Turn ID=14| A | A : ja ik weten welk het zijn
+	Free: Pattern=het, Pattern=zijn, Pattern=ja
+	Constrained: 
+Turn ID=15| A | A : en dan dat balkje en dan dat rond ervoor
+	Free: Pattern=en, Pattern=dat, Pattern=balkje, Pattern=dan
+	Constrained: 
+Turn ID=16| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=17| A | A : nummer negen
+	Free: 
+	Constrained: 
+Turn ID=18| A | A : dit zijn dat poppe met dat rond ding voor links één zo'n driehoekarmpje en die kegel en dat recht dinge bovenop zijn hoofd
+	Free: Pattern=dat, Pattern=met, Pattern=die, Pattern=en, Pattern=zijn, Pattern=één, Pattern=dit zijn
+	Constrained: Pattern=zijn
+Turn ID=19| A | A : ja die kegel die zo'n beetje schuin staan
+	Free: Pattern=die, Pattern=ja
+	Constrained: 
+Turn ID=20| A | A : met dat rond voor
+	Free: Pattern=dat, Pattern=met
+	Constrained: 
+Turn ID=21| A | A : oké nummer vijf
+	Free: 
+	Constrained: 
+Turn ID=22| A | A : ja dat poppet met die schuin kegel op zijn hoofd en dat recht blok
+	Free: Pattern=ja, Pattern=en, Pattern=zijn, Pattern=dat, Pattern=met die
+	Constrained: Pattern=die, Pattern=met
+Turn ID=23| A | A : en dan nog dat armpje link
+	Free: Pattern=en, Pattern=dat, Pattern=dan
+	Constrained: 
+Turn ID=24| B | B : dit zijn weer dat theekopje
+	Free: Pattern=dit zijn, Pattern=dat
+	Constrained: Pattern=zijn
+Turn ID=25| B | B : met die eenpuntig uitsteeksel één balkje
+	Free: Pattern=met die, Pattern=balkje, Pattern=één
+	Constrained: Pattern=die, Pattern=met
+Turn ID=26| B | B : oor en de neus
+	Free: Pattern=en, Pattern=neus
+	Constrained: 
+Turn ID=27| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=28| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=29| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=30| B | B : dat zijn dan G
+	Free: Pattern=dat, Pattern=dan, Pattern=zijn
+	Constrained: 
+Turn ID=31| B | B : dit zijn weer dat theekopje met die twee staafjes erin
+	Free: Pattern=met die, Pattern=dit zijn, Pattern=dat, Pattern=twee
+	Constrained: Pattern=zijn, Pattern=die, Pattern=met
+Turn ID=32| B | B : één puntig en één balkje
+	Free: Pattern=en, Pattern=balkje, Pattern=één
+	Constrained: 
+Turn ID=33| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=34| B | B : dat zijn J
+	Free: Pattern=dat, Pattern=zijn
+	Constrained: 

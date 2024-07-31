@@ -1,0 +1,63 @@
+B|0| B: _het toren_ 
+A|1| A: _ja_ 
+B|2| B: _dat zijn_ _met het_ dinge 
+A|3| A: [dat zijn] Numero vier 
+A|4| A: _ja_ dit [zijn] de kasteel [met het] spiraal eronder 
+B|5| B: [ja] 
+B|6| B: dan [zijn] [het] A 
+B|7| B: _het toren_ 
+A|8| A: [het toren] [dat zijn] Numero tien 
+A|9| A: [het toren] 
+B|10| B: [ja] [dat zijn] L 
+B|11| B: [het toren] 
+A|12| A: [dat zijn] Numero vier 
+A|13| A: [het toren] 
+B|14| B: [ja] [dat zijn] F 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : het toren
+	Free: Pattern=het toren
+	Constrained: Pattern=het
+Turn ID=1| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=2| B | B : dat zijn met het dinge
+	Free: Pattern=dat zijn, Pattern=met het
+	Constrained: Pattern=zijn, Pattern=het
+Turn ID=3| A | A : dat zijn Numero vier
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn
+Turn ID=4| A | A : ja dit zijn de kasteel met het spiraal eronder
+	Free: Pattern=met het, Pattern=zijn, Pattern=ja
+	Constrained: Pattern=het
+Turn ID=5| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=6| B | B : dan zijn het A
+	Free: Pattern=zijn, Pattern=het
+	Constrained: 
+Turn ID=7| B | B : het toren
+	Free: Pattern=het toren
+	Constrained: Pattern=het
+Turn ID=8| A | A : het toren dat zijn Numero tien
+	Free: Pattern=dat zijn, Pattern=het toren
+	Constrained: Pattern=zijn, Pattern=het
+Turn ID=9| A | A : het toren
+	Free: Pattern=het toren
+	Constrained: Pattern=het
+Turn ID=10| B | B : ja dat zijn L
+	Free: Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=zijn
+Turn ID=11| B | B : het toren
+	Free: Pattern=het toren
+	Constrained: Pattern=het
+Turn ID=12| A | A : dat zijn Numero vier
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn
+Turn ID=13| A | A : het toren
+	Free: Pattern=het toren
+	Constrained: Pattern=het
+Turn ID=14| B | B : ja dat zijn F
+	Free: Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=zijn

@@ -1,0 +1,99 @@
+B|0| B: _ja_ _ik_ weten welk je bedoelen 
+B|1| B: _dat zijn_ K 
+A|2| A: [ik] _hebben_ nu [ja] er steken zeggen maar links _en_ rechts _een soort_ van pilaar uit 
+A|3| A: _het_ lijken _een_ beetje op _een_ zoutpo _met_ _zo'n_ _bol_ zeggen maar nog erbovenop op _die_ pilaar _een soort_ van 
+A|4| A: _en aan de_ achterkant steken _een soort_ van klep uit _en_ daaruit steken _weer_ _een soort_ van Buis 
+A|5| A: oké 
+B|6| B: deze [hebben] [weer] [zo'n] doorlopen staaf [met] [aan] [het] einde [een] [bol] [en aan de] ander kant ook [het] einde [een] [bol] 
+B|7| B: [en] [een soort] schuin plaat link 
+B|8| B: [ja] 
+A|9| A: [ja] 
+A|10| A: [ja] 
+A|11| A: [dat zijn] nummer negen 
+B|12| B: [ja] 
+B|13| B: [ik] [zijn] hem _even_ [aan] [het] zoeken 
+B|14| B: _ja dat zijn_ bij mij F 
+A|15| A: [even] kijken dit [zijn] _die_ [een] _met die_ zout pott zeggen maar _aan de zijkant_ 
+A|16| A: [en] achteruit _die_ klep [met] [weer] [dat] daaruit [weer] [dat] aansteeksel uitsteeksel 
+B|17| B: [die] doorlopen staaf [met die] boll [aan de zijkant] 
+B|18| B: [en] [die] plank schuin 
+B|19| B: L 
+A|20| A: [ja dat zijn] nummer drie 
+B|21| B: [die] [met die] strokk staaf [met die] twee boll [aan de zijkant] 
+A|22| A: dit [zijn] [met die] zoutding zeggen maar [aan de zijkant] 
+A|23| A: [ja dat zijn] nummer vijf 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : ja ik weten welk je bedoelen
+	Free: Pattern=ik, Pattern=ja
+	Constrained: 
+Turn ID=1| B | B : dat zijn K
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=2| A | A : ik hebben nu ja er steken zeggen maar links en rechts een soort van pilaar uit
+	Free: Pattern=ja, Pattern=hebben, Pattern=en, Pattern=ik, Pattern=een soort
+	Constrained: Pattern=een
+Turn ID=3| A | A : het lijken een beetje op een zoutpo met zo'n bol zeggen maar nog erbovenop op die pilaar een soort van
+	Free: Pattern=zo'n, Pattern=bol, Pattern=een, Pattern=het, Pattern=met, Pattern=die, Pattern=een soort
+	Constrained: Pattern=een
+Turn ID=4| A | A : en aan de achterkant steken een soort van klep uit en daaruit steken weer een soort van Buis
+	Free: Pattern=en aan de, Pattern=een soort, Pattern=en, Pattern=weer
+	Constrained: Pattern=aan, Pattern=een, Pattern=en
+Turn ID=5| A | A : oké
+	Free: 
+	Constrained: 
+Turn ID=6| B | B : deze hebben weer zo'n doorlopen staaf met aan het einde een bol en aan de ander kant ook het einde een bol
+	Free: Pattern=zo'n, Pattern=aan, Pattern=bol, Pattern=een, Pattern=het, Pattern=hebben, Pattern=met, Pattern=weer, Pattern=en aan de
+	Constrained: Pattern=en, Pattern=aan
+Turn ID=7| B | B : en een soort schuin plaat link
+	Free: Pattern=een soort, Pattern=en
+	Constrained: Pattern=een
+Turn ID=8| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=9| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=10| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=11| A | A : dat zijn nummer negen
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=12| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=13| B | B : ik zijn hem even aan het zoeken
+	Free: Pattern=aan, Pattern=even, Pattern=het, Pattern=ik, Pattern=zijn
+	Constrained: 
+Turn ID=14| B | B : ja dat zijn bij mij F
+	Free: Pattern=ja dat zijn
+	Constrained: Pattern=dat zijn, Pattern=dat, Pattern=zijn, Pattern=ja
+Turn ID=15| A | A : even kijken dit zijn die een met die zout pott zeggen maar aan de zijkant
+	Free: Pattern=met die, Pattern=even, Pattern=die, Pattern=zijn, Pattern=een, Pattern=aan de zijkant
+	Constrained: Pattern=aan, Pattern=met, Pattern=die
+Turn ID=16| A | A : en achteruit die klep met weer dat daaruit weer dat aansteeksel uitsteeksel
+	Free: Pattern=dat, Pattern=met, Pattern=die, Pattern=en, Pattern=weer
+	Constrained: 
+Turn ID=17| B | B : die doorlopen staaf met die boll aan de zijkant
+	Free: Pattern=aan de zijkant, Pattern=met die, Pattern=die
+	Constrained: Pattern=aan, Pattern=met, Pattern=die
+Turn ID=18| B | B : en die plank schuin
+	Free: Pattern=en, Pattern=die
+	Constrained: 
+Turn ID=19| B | B : L
+	Free: 
+	Constrained: 
+Turn ID=20| A | A : ja dat zijn nummer drie
+	Free: Pattern=ja dat zijn
+	Constrained: Pattern=dat zijn, Pattern=dat, Pattern=zijn, Pattern=ja
+Turn ID=21| B | B : die met die strokk staaf met die twee boll aan de zijkant
+	Free: Pattern=aan de zijkant, Pattern=met die, Pattern=die
+	Constrained: Pattern=aan, Pattern=met, Pattern=die
+Turn ID=22| A | A : dit zijn met die zoutding zeggen maar aan de zijkant
+	Free: Pattern=aan de zijkant, Pattern=met die, Pattern=zijn
+	Constrained: Pattern=aan, Pattern=met, Pattern=die
+Turn ID=23| A | A : ja dat zijn nummer vijf
+	Free: Pattern=ja dat zijn
+	Constrained: Pattern=dat zijn, Pattern=dat, Pattern=zijn, Pattern=ja

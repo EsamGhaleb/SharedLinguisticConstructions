@@ -1,0 +1,103 @@
+A|0| A: _ja_ 
+A|1| A: _ja_ _ik_ weten wel welk je bedoelen _dan_ vijf voor mij 
+A|2| A: ok o _dan_ moeten _ik_ _ja_ 
+B|3| B: [ik] noemen _dit_ de gek professor _met die_ gek staaf aan de zijkant _met_ _een_ _plateau_ eronder 
+B|4| B: groot ronde 
+B|5| B: [ja] _die_ heel gek staaf 
+A|6| A: ok [dit] _zijn_ [die] [een] [met] _dat_ [plateau] en [die] feestslinger 
+A|7| A: bij mij tien 
+A|8| A: [ja] 
+A|9| A: [ja] _zijn_ elf bij mij 
+B|10| B: [ja] 
+B|11| B: _met die_ gek [ja] 
+B|12| B: [dan] gaan het om J 
+A|13| A: [dit] _zijn_ [die] _dat_ [plateau] [met die] slinger 
+A|14| A: zestien 
+A|15| A: o jij moeten klikken 
+B|16| B: [dit] gaan om de professor 
+B|17| B: [met die] gek ding uit [zijn] oor 
+A|18| A: o [ja] negen bij mij 
+B|19| B: [ja] 
+B|20| B: [dat] worden P 
+A|21| A: [dit] [zijn] [dat] plateaut [met die] slinger 
+A|22| A: [ja] elf bij mij 
+B|23| B: de professor 
+B|24| B: [ja] [dan] gaan het om L 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=1| A | A : ja ik weten wel welk je bedoelen dan vijf voor mij
+	Free: Pattern=ja, Pattern=ik, Pattern=dan
+	Constrained: 
+Turn ID=2| A | A : ok o dan moeten ik ja
+	Free: Pattern=ja, Pattern=ik, Pattern=dan
+	Constrained: 
+Turn ID=3| B | B : ik noemen dit de gek professor met die gek staaf aan de zijkant met een plateau eronder
+	Free: Pattern=met die, Pattern=een, Pattern=met, Pattern=ik, Pattern=plateau, Pattern=dit
+	Constrained: Pattern=met, Pattern=die
+Turn ID=4| B | B : groot ronde
+	Free: 
+	Constrained: 
+Turn ID=5| B | B : ja die heel gek staaf
+	Free: Pattern=ja, Pattern=die
+	Constrained: 
+Turn ID=6| A | A : ok dit zijn die een met dat plateau en die feestslinger
+	Free: Pattern=dat, Pattern=een, Pattern=met, Pattern=die, Pattern=zijn, Pattern=plateau, Pattern=dit
+	Constrained: 
+Turn ID=7| A | A : bij mij tien
+	Free: 
+	Constrained: 
+Turn ID=8| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=9| A | A : ja zijn elf bij mij
+	Free: Pattern=ja, Pattern=zijn
+	Constrained: 
+Turn ID=10| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=11| B | B : met die gek ja
+	Free: Pattern=met die, Pattern=ja
+	Constrained: Pattern=met, Pattern=die
+Turn ID=12| B | B : dan gaan het om J
+	Free: Pattern=dan
+	Constrained: 
+Turn ID=13| A | A : dit zijn die dat plateau met die slinger
+	Free: Pattern=die, Pattern=zijn, Pattern=dat, Pattern=met die, Pattern=plateau, Pattern=dit
+	Constrained: Pattern=met, Pattern=die
+Turn ID=14| A | A : zestien
+	Free: 
+	Constrained: 
+Turn ID=15| A | A : o jij moeten klikken
+	Free: 
+	Constrained: 
+Turn ID=16| B | B : dit gaan om de professor
+	Free: Pattern=dit
+	Constrained: 
+Turn ID=17| B | B : met die gek ding uit zijn oor
+	Free: Pattern=met die, Pattern=zijn
+	Constrained: Pattern=met, Pattern=die
+Turn ID=18| A | A : o ja negen bij mij
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=19| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=20| B | B : dat worden P
+	Free: Pattern=dat
+	Constrained: 
+Turn ID=21| A | A : dit zijn dat plateaut met die slinger
+	Free: Pattern=met die, Pattern=dat, Pattern=zijn, Pattern=dit
+	Constrained: Pattern=met, Pattern=die
+Turn ID=22| A | A : ja elf bij mij
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=23| B | B : de professor
+	Free: 
+	Constrained: 
+Turn ID=24| B | B : ja dan gaan het om L
+	Free: Pattern=ja, Pattern=dan
+	Constrained: 

@@ -1,0 +1,175 @@
+B|0| B: _ik weten_ al welk _je_ bedoelen _ik vinden_ _het_ _een_ boiler _denken_ _ik_ 
+B|1| B: _met_ _zo_ 
+B|2| B: _ja_ 
+B|3| B: _ja_ 
+B|4| B: _ja_ 
+B|5| B: _ja_ 
+B|6| B: _ja_ 
+B|7| B: _ja_ 
+B|8| B: _ik vinden_ _het_ echt _op een_ boiler _lijken ik weten_ _niet_ _waarom_ 
+B|9| B: M 
+A|10| A: [ja] [ik vinden] deze [op een] [op een] kat [lijken] die hebben zo'n soort aan _de_ achterkant zo'n 
+A|11| A: zo'n hoe _noemen_ [je] _dat_ [een] [een] ruit [met] twee van die telescoopachtig ding aan _de_ zijkant die naar links _en_ rechts eruit steken 
+A|12| A: _en_ aan _de_ voorkant hebben hij gewoon [een] soort recht staaf _en_ dan onderaan [het] kop [een] haak _en_ rechts aan [het] kop ook [een] haak 
+A|13| A: dus [je] hebben één [je] hebben één kopje die [op] _de_ achterkant zo'n [niet] [een] volledig ruit hebben maar [een] deel die er [zo] half achterin zitten 
+A|14| A: _en_ dan aan _de_ zijkant uitsteken er twee van die ding uit die ruit uit 
+A|15| A: [ja] [ik vinden] _dat_ [je] die ruit [op een] kat [lijken ik weten] [het] [niet] _dat_ zijn [het] één wat in me opkomen 
+A|16| A: [ja] [ja] 
+A|17| A: [ja] gewoon helemaal precies aan _de_ onderkant zo'n 
+A|18| A: _ja en_ [een] soort staaf die er recht uitkomen [ja] 
+A|19| A: ok [ja] 
+B|20| B: [ik] [noemen] [het] [de] boiler 
+B|21| B: jij [noemen] [het] iets ander 
+B|22| B: _met dat_ vierkant boek bovenop 
+B|23| B: pinokkio [ja] Pinokkio 
+B|24| B: [de] 
+B|25| B: [de] boiler 
+B|26| B: [ik] zien hem [niet] 
+B|27| B: [ja en] _met dat_ boek bovenop 
+B|28| B: [ja] 
+B|29| B: H 
+A|30| A: [ja] die kat 
+A|31| A: [ja] [denken] [het] wel 
+A|32| A: [ja] [ja en] aan [de] zijkant [en] recht vooruit zo'n 
+A|33| A: [ja] alleen [dat] alleen die ruit [met] die [ja] [ik weten] [waarom] [ik] gewoon die ruit [dat] [vinden] [ik] [op een] kattenhoofd [lijken] zeggen maar maken [niet] die ding die er uit komen [niet] eens maar gewoon 
+A|34| A: ok [dat] zijn negen 
+B|35| B: oké [de] boiler 
+B|36| B: [de] boiler 
+A|37| A: [ja] dit zijn die kat [met dat] [met] die ruit [en] die telescoop aan [de] zijkant 
+A|38| A: [ja] [ja] heel goed [ja] [dat] zijn elf 
+A|39| A: dit zijn weer die kat 
+A|40| A: [met] [de] ruit [en] 
+A|41| A: [ja] 
+A|42| A: [ja] zijn nummer veertien 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : ik weten al welk je bedoelen ik vinden het een boiler denken ik
+	Free: Pattern=denken, Pattern=ik vinden, Pattern=een, Pattern=het, Pattern=ik weten, Pattern=ik, Pattern=je
+	Constrained: Pattern=ik, Pattern=vinden
+Turn ID=1| B | B : met zo
+	Free: Pattern=met, Pattern=zo
+	Constrained: 
+Turn ID=2| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=3| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=4| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=5| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=6| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=7| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=8| B | B : ik vinden het echt op een boiler lijken ik weten niet waarom
+	Free: Pattern=waarom, Pattern=ik vinden, Pattern=niet, Pattern=het, Pattern=lijken ik weten, Pattern=op een
+	Constrained: Pattern=vinden, Pattern=op, Pattern=lijken, Pattern=een, Pattern=ik weten, Pattern=ik
+Turn ID=9| B | B : M
+	Free: 
+	Constrained: 
+Turn ID=10| A | A : ja ik vinden deze op een op een kat lijken die hebben zo'n soort aan de achterkant zo'n
+	Free: Pattern=ik vinden, Pattern=lijken, Pattern=op een, Pattern=de, Pattern=ja
+	Constrained: Pattern=een, Pattern=ik, Pattern=vinden, Pattern=op
+Turn ID=11| A | A : zo'n hoe noemen je dat een een ruit met twee van die telescoopachtig ding aan de zijkant die naar links en rechts eruit steken
+	Free: Pattern=dat, Pattern=de, Pattern=een, Pattern=met, Pattern=en, Pattern=je, Pattern=noemen
+	Constrained: 
+Turn ID=12| A | A : en aan de voorkant hebben hij gewoon een soort recht staaf en dan onderaan het kop een haak en rechts aan het kop ook een haak
+	Free: Pattern=een, Pattern=en, Pattern=de, Pattern=het
+	Constrained: 
+Turn ID=13| A | A : dus je hebben één je hebben één kopje die op de achterkant zo'n niet een volledig ruit hebben maar een deel die er zo half achterin zitten
+	Free: Pattern=de, Pattern=op, Pattern=niet, Pattern=een, Pattern=zo, Pattern=je
+	Constrained: 
+Turn ID=14| A | A : en dan aan de zijkant uitsteken er twee van die ding uit die ruit uit
+	Free: Pattern=en, Pattern=de
+	Constrained: 
+Turn ID=15| A | A : ja ik vinden dat je die ruit op een kat lijken ik weten het niet dat zijn het één wat in me opkomen
+	Free: Pattern=dat, Pattern=ja, Pattern=ik vinden, Pattern=niet, Pattern=het, Pattern=lijken ik weten, Pattern=je, Pattern=op een
+	Constrained: Pattern=vinden, Pattern=op, Pattern=lijken, Pattern=een, Pattern=ik weten, Pattern=ik
+Turn ID=16| A | A : ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=17| A | A : ja gewoon helemaal precies aan de onderkant zo'n
+	Free: Pattern=de, Pattern=ja
+	Constrained: 
+Turn ID=18| A | A : ja en een soort staaf die er recht uitkomen ja
+	Free: Pattern=ja en, Pattern=een, Pattern=ja
+	Constrained: Pattern=en, Pattern=ja
+Turn ID=19| A | A : ok ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=20| B | B : ik noemen het de boiler
+	Free: Pattern=noemen, Pattern=de, Pattern=het, Pattern=ik
+	Constrained: 
+Turn ID=21| B | B : jij noemen het iets ander
+	Free: Pattern=noemen, Pattern=het
+	Constrained: 
+Turn ID=22| B | B : met dat vierkant boek bovenop
+	Free: Pattern=met dat
+	Constrained: Pattern=met, Pattern=dat
+Turn ID=23| B | B : pinokkio ja Pinokkio
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=24| B | B : de
+	Free: Pattern=de
+	Constrained: 
+Turn ID=25| B | B : de boiler
+	Free: Pattern=de
+	Constrained: 
+Turn ID=26| B | B : ik zien hem niet
+	Free: Pattern=niet, Pattern=ik
+	Constrained: 
+Turn ID=27| B | B : ja en met dat boek bovenop
+	Free: Pattern=ja en, Pattern=met dat
+	Constrained: Pattern=met, Pattern=en, Pattern=dat, Pattern=ja
+Turn ID=28| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=29| B | B : H
+	Free: 
+	Constrained: 
+Turn ID=30| A | A : ja die kat
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=31| A | A : ja denken het wel
+	Free: Pattern=het, Pattern=ja, Pattern=denken
+	Constrained: 
+Turn ID=32| A | A : ja ja en aan de zijkant en recht vooruit zo'n
+	Free: Pattern=ja en, Pattern=en, Pattern=de, Pattern=ja
+	Constrained: Pattern=en, Pattern=ja
+Turn ID=33| A | A : ja alleen dat alleen die ruit met die ja ik weten waarom ik gewoon die ruit dat vinden ik op een kattenhoofd lijken zeggen maar maken niet die ding die er uit komen niet eens maar gewoon
+	Free: Pattern=dat, Pattern=waarom, Pattern=met, Pattern=ik weten, Pattern=ik, Pattern=op een, Pattern=vinden, Pattern=ja, Pattern=lijken, Pattern=niet
+	Constrained: Pattern=een, Pattern=ik, Pattern=op
+Turn ID=34| A | A : ok dat zijn negen
+	Free: Pattern=dat
+	Constrained: 
+Turn ID=35| B | B : oké de boiler
+	Free: Pattern=de
+	Constrained: 
+Turn ID=36| B | B : de boiler
+	Free: Pattern=de
+	Constrained: 
+Turn ID=37| A | A : ja dit zijn die kat met dat met die ruit en die telescoop aan de zijkant
+	Free: Pattern=met dat, Pattern=met, Pattern=en, Pattern=de, Pattern=ja
+	Constrained: Pattern=met, Pattern=dat
+Turn ID=38| A | A : ja ja heel goed ja dat zijn elf
+	Free: Pattern=dat, Pattern=ja
+	Constrained: 
+Turn ID=39| A | A : dit zijn weer die kat
+	Free: 
+	Constrained: 
+Turn ID=40| A | A : met de ruit en
+	Free: Pattern=met, Pattern=en, Pattern=de
+	Constrained: 
+Turn ID=41| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=42| A | A : ja zijn nummer veertien
+	Free: Pattern=ja
+	Constrained: 

@@ -1,0 +1,103 @@
+A|0| A: even kijken dit plaat hebben aan _de_ rechterkant een rond uitsteeksel alsof _het_ een soort loep _zijn_ 
+A|1| A: _en_ aan _de_ linkerkant komen er een soort Pacmanvormig figuur uit _en_ daar komen dan nog één _ja_ wat _zijn_ _het_ een soort 
+A|2| A: _ja_ _ja_ _die_ komen er dan nog vanuit dat uitsteeksel komen _die_ dan nog omhoog zeggen maar 
+B|3| B: nee 
+B|4| B: [ja] 
+B|5| B: oké 
+B|6| B: [ja] 
+B|7| B: ik zien [het] [het] [zijn] L 
+B|8| B: nou [het] [zijn] weer [het] beker _met_ [die] omgekeerd bank [en] [die] nagel erin 
+A|9| A: [ja] 
+A|10| A: nummer zeven 
+B|11| B: oké 
+A|12| A: dit [zijn] je bleekselderij 
+A|13| A: [met] aan _de_ 
+A|14| A: [ja] 
+B|15| B: C 
+B|16| B: C 
+A|17| A: [ja] 
+A|18| A: nummer één 
+B|19| B: [het] _zijn de_ [de] [de] [de] spijkerbank weer 
+A|20| A: [en] dit [zijn de] bleekselderij [met] [het] plateaut aan [de] rechterkant 
+B|21| B: [ja] 
+B|22| B: [zijn] A 
+A|23| A: dertien 
+B|24| B: [het] [zijn de] bank [met] [de] [met] [de] spijker 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : even kijken dit plaat hebben aan de rechterkant een rond uitsteeksel alsof het een soort loep zijn
+	Free: Pattern=het, Pattern=zijn, Pattern=de
+	Constrained: 
+Turn ID=1| A | A : en aan de linkerkant komen er een soort Pacmanvormig figuur uit en daar komen dan nog één ja wat zijn het een soort
+	Free: Pattern=het, Pattern=en, Pattern=zijn, Pattern=de, Pattern=ja
+	Constrained: 
+Turn ID=2| A | A : ja ja die komen er dan nog vanuit dat uitsteeksel komen die dan nog omhoog zeggen maar
+	Free: Pattern=ja, Pattern=die
+	Constrained: 
+Turn ID=3| B | B : nee
+	Free: 
+	Constrained: 
+Turn ID=4| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=5| B | B : oké
+	Free: 
+	Constrained: 
+Turn ID=6| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=7| B | B : ik zien het het zijn L
+	Free: Pattern=het, Pattern=zijn
+	Constrained: 
+Turn ID=8| B | B : nou het zijn weer het beker met die omgekeerd bank en die nagel erin
+	Free: Pattern=het, Pattern=met, Pattern=die, Pattern=en, Pattern=zijn
+	Constrained: 
+Turn ID=9| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=10| A | A : nummer zeven
+	Free: 
+	Constrained: 
+Turn ID=11| B | B : oké
+	Free: 
+	Constrained: 
+Turn ID=12| A | A : dit zijn je bleekselderij
+	Free: Pattern=zijn
+	Constrained: 
+Turn ID=13| A | A : met aan de
+	Free: Pattern=met, Pattern=de
+	Constrained: 
+Turn ID=14| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=15| B | B : C
+	Free: 
+	Constrained: 
+Turn ID=16| B | B : C
+	Free: 
+	Constrained: 
+Turn ID=17| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=18| A | A : nummer één
+	Free: 
+	Constrained: 
+Turn ID=19| B | B : het zijn de de de de spijkerbank weer
+	Free: Pattern=zijn de, Pattern=het, Pattern=de
+	Constrained: Pattern=zijn, Pattern=de
+Turn ID=20| A | A : en dit zijn de bleekselderij met het plateaut aan de rechterkant
+	Free: Pattern=de, Pattern=het, Pattern=met, Pattern=en, Pattern=zijn de
+	Constrained: Pattern=zijn, Pattern=de
+Turn ID=21| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=22| B | B : zijn A
+	Free: Pattern=zijn
+	Constrained: 
+Turn ID=23| A | A : dertien
+	Free: 
+	Constrained: 
+Turn ID=24| B | B : het zijn de bank met de met de spijker
+	Free: Pattern=zijn de, Pattern=met, Pattern=het, Pattern=de
+	Constrained: Pattern=zijn, Pattern=de

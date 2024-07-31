@@ -1,0 +1,83 @@
+B|0| B: _dit zijn_ _die _met die_ staart_ in principe _van die_ ruit 
+A|1| A: [van die] deze zo'n kralenketting 
+B|2| B: _ja_ 
+A|3| A: [ja] _dat_ hebben zo hebben ik hem 
+A|4| A: [ja] 
+A|5| A: [ja] wachten _dat zijn_ nummer vijf 
+A|6| A: _of_ moeten ik drukken 
+A|7| A: [ja] ik moeten wel drukken 
+B|8| B: [ja] 
+A|9| A: [ja] ik hebben diegene [met [die] met die] bollet [met die] kraal zeggen maar [met die] 
+B|10| B: [dat zijn] J 
+B|11| B: _het_ [zijn] [die _met die] staart of_ uitsteeksel [met die] rui 
+A|12| A: [ja] [ja] 
+A|13| A: [dat zijn] elf 
+A|14| A: [dit zijn] diegene [met die staart of] kralenketting [of] wat je [het] willen noemen 
+B|15| B: [ja] P 
+B|16| B: [het] [zijn] [die [met die] staart of] 
+A|17| A: [ja] [ja] negen 
+A|18| A: [dit zijn] degeen [met] de [staart of] ketting 
+B|19| B: [ja] L 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : dit zijn die met die staart in principe van die ruit
+	Free: Pattern=die met die, Pattern=met die staart, Pattern=dit zijn, Pattern=van die
+	Constrained: Pattern=zijn, Pattern=met, Pattern=met die
+Turn ID=1| A | A : van die deze zo'n kralenketting
+	Free: Pattern=van die
+	Constrained: 
+Turn ID=2| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=3| A | A : ja dat hebben zo hebben ik hem
+	Free: Pattern=dat, Pattern=ja
+	Constrained: 
+Turn ID=4| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=5| A | A : ja wachten dat zijn nummer vijf
+	Free: Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=6| A | A : of moeten ik drukken
+	Free: Pattern=of
+	Constrained: 
+Turn ID=7| A | A : ja ik moeten wel drukken
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=8| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=9| A | A : ja ik hebben diegene met die met die bollet met die kraal zeggen maar met die
+	Free: Pattern=die met die, Pattern=met die, Pattern=ja
+	Constrained: Pattern=met die, Pattern=met
+Turn ID=10| B | B : dat zijn J
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=11| B | B : het zijn die met die staart of uitsteeksel met die rui
+	Free: Pattern=met die, Pattern=met die staart of, Pattern=die met die, Pattern=het, Pattern=zijn
+	Constrained: Pattern=met die, Pattern=met, Pattern=staart of, Pattern=met die staart, Pattern=of
+Turn ID=12| A | A : ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=13| A | A : dat zijn elf
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=14| A | A : dit zijn diegene met die staart of kralenketting of wat je het willen noemen
+	Free: Pattern=met die staart of, Pattern=dit zijn, Pattern=het, Pattern=of
+	Constrained: Pattern=met die, Pattern=met, Pattern=staart of, Pattern=zijn, Pattern=met die staart, Pattern=of
+Turn ID=15| B | B : ja P
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=16| B | B : het zijn die met die staart of
+	Free: Pattern=met die staart of, Pattern=die met die, Pattern=het, Pattern=zijn
+	Constrained: Pattern=met die, Pattern=met, Pattern=staart of, Pattern=met die staart, Pattern=of
+Turn ID=17| A | A : ja ja negen
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=18| A | A : dit zijn degeen met de staart of ketting
+	Free: Pattern=dit zijn, Pattern=staart of, Pattern=met
+	Constrained: Pattern=of, Pattern=zijn
+Turn ID=19| B | B : ja L
+	Free: Pattern=ja
+	Constrained: 

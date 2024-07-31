@@ -1,0 +1,119 @@
+A|0| A: _het_ _zijn_ _een_ beetje _een_ basketbal _die_ in _een_ net terechtkomen 
+A|1| A: _ja_ 
+A|2| A: nog nog twee uitsteeksel _zeggen maar_ je hebben _zeggen maar_ _zo'n_ _zo'n_ pilaar _en dan_ _een_ basketbal _met een_ net 
+A|3| A: of _een_ korfbal _lijken het_ wel _een_ beetje _op_ 
+B|4| B: vooraan [een] lang balk 
+B|5| B: [en] liggen daarbovenop [een] bolle 
+B|6| B: [ja] 
+B|7| B: D 
+A|8| A: Basketbal _ja die_ hebben we hebben vijftien 
+B|9| B: _dit zijn_ [zo'n] ding [met een] lang balk 
+B|10| B: [lijken] [lijken] gewoon [op] [een] hoog toren [zeggen maar] [en] bovenin bovenop liggen [een] bol [op] [het] plaat 
+B|11| B: aan _de_ zijkant van [die] 
+B|12| B: [ja] 
+A|13| A: [dit zijn] [de] basketbalnet 
+A|14| A: [een] basketbal 
+B|15| B: _even_ 
+B|16| B: [ja die] bol bovenop [en dan] één toren van [het] World Trade Center [lijken het] 
+B|17| B: L 
+A|18| A: [ja] 
+A|19| A: [even] kijken waar staan [die] ? hier 
+A|20| A: zes 
+B|21| B: [met] [die] rond bovenop [die] bol [zeggen maar] [en dan] weer [die] lang balk aan [de] voorkant 
+B|22| B: [ja] 
+B|23| B: [ja] 
+B|24| B: [ja] 
+A|25| A: [de] [de] basketbal 
+B|26| B: [die] bol [en dan] weer [die] World Trade Center 
+A|27| A: [ja] 
+A|28| A: drie 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : het zijn een beetje een basketbal die in een net terechtkomen
+	Free: Pattern=die, Pattern=een, Pattern=het, Pattern=zijn
+	Constrained: 
+Turn ID=1| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=2| A | A : nog nog twee uitsteeksel zeggen maar je hebben zeggen maar zo'n zo'n pilaar en dan een basketbal met een net
+	Free: Pattern=zo'n, Pattern=en dan, Pattern=een, Pattern=zeggen maar, Pattern=met een
+	Constrained: Pattern=een, Pattern=met, Pattern=en
+Turn ID=3| A | A : of een korfbal lijken het wel een beetje op
+	Free: Pattern=lijken het, Pattern=een, Pattern=op
+	Constrained: Pattern=het, Pattern=lijken
+Turn ID=4| B | B : vooraan een lang balk
+	Free: Pattern=een
+	Constrained: 
+Turn ID=5| B | B : en liggen daarbovenop een bolle
+	Free: Pattern=een, Pattern=en
+	Constrained: 
+Turn ID=6| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=7| B | B : D
+	Free: 
+	Constrained: 
+Turn ID=8| A | A : Basketbal ja die hebben we hebben vijftien
+	Free: Pattern=ja die
+	Constrained: Pattern=die, Pattern=ja
+Turn ID=9| B | B : dit zijn zo'n ding met een lang balk
+	Free: Pattern=dit zijn, Pattern=met een, Pattern=zo'n
+	Constrained: Pattern=met, Pattern=een, Pattern=zijn
+Turn ID=10| B | B : lijken lijken gewoon op een hoog toren zeggen maar en bovenin bovenop liggen een bol op het plaat
+	Free: Pattern=op, Pattern=lijken, Pattern=een, Pattern=zeggen maar, Pattern=het, Pattern=en
+	Constrained: 
+Turn ID=11| B | B : aan de zijkant van die
+	Free: Pattern=die, Pattern=de
+	Constrained: 
+Turn ID=12| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=13| A | A : dit zijn de basketbalnet
+	Free: Pattern=dit zijn, Pattern=de
+	Constrained: Pattern=zijn
+Turn ID=14| A | A : een basketbal
+	Free: Pattern=een
+	Constrained: 
+Turn ID=15| B | B : even
+	Free: Pattern=even
+	Constrained: 
+Turn ID=16| B | B : ja die bol bovenop en dan één toren van het World Trade Center lijken het
+	Free: Pattern=ja die, Pattern=lijken het, Pattern=en dan, Pattern=het
+	Constrained: Pattern=ja, Pattern=lijken, Pattern=het, Pattern=die, Pattern=en
+Turn ID=17| B | B : L
+	Free: 
+	Constrained: 
+Turn ID=18| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=19| A | A : even kijken waar staan die ? hier
+	Free: Pattern=die, Pattern=even
+	Constrained: 
+Turn ID=20| A | A : zes
+	Free: 
+	Constrained: 
+Turn ID=21| B | B : met die rond bovenop die bol zeggen maar en dan weer die lang balk aan de voorkant
+	Free: Pattern=de, Pattern=en dan, Pattern=zeggen maar, Pattern=met, Pattern=die
+	Constrained: Pattern=en
+Turn ID=22| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=23| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=24| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=25| A | A : de de basketbal
+	Free: Pattern=de
+	Constrained: 
+Turn ID=26| B | B : die bol en dan weer die World Trade Center
+	Free: Pattern=en dan, Pattern=die
+	Constrained: Pattern=en
+Turn ID=27| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=28| A | A : drie
+	Free: 
+	Constrained: 

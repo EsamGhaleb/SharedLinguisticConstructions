@@ -1,0 +1,211 @@
+B|0| B: hopen _ik_ 
+B|1| B: _ja_ 
+B|2| B: _ik_ zien _het_ _als_ R2D2 _zo'n_ _rond_ kop _met_ twee _van_ _die_ voet links _of_ armp hoe _je_ _het_ ook willen kijkgen eens naar mij _zo_ _dit_ _zo_ _die_ hand 
+B|3| B: _zo_ houden _hij_ ze _aan de_ beide zij _van_ _zijn_ lijf _en_ _zijn_ hoofd _zijn_ langwerpig 
+B|4| B: _het zijn dus een_ kop 
+B|5| B: _met_ _aan de linkerkant_ _een_ dinge _en_ _aan de_ rechterkant _een_ dinge , _ja ik_ vinden _het_ _als_ twee armpjes eruit zien , _hebben_ _je_ enig idee _wat_ _ik_ _dan_ bedoelen 
+A|6| A: [een] [rond] plateaut [een] dienblad 
+B|7| B: _ja_ _of_ _die liggen _horizontaal_ op_ _hem_ 
+A|8| A: niet 
+B|9| B: precies _ja_ 
+A|10| A: ah 
+A|11| A: [het zijn dus een] _ander_ 
+A|12| A: wachten één afzuigkap [aan de linkerkant] [wat] voor vorm 
+A|13| A: ah okee 
+A|14| A: ah 
+A|15| A: [met] _dat_ rechthoekje [die] er [horizontaal] bovenop [liggen] [die] _dat_ 
+A|16| A: ah [die] [en] [dan] één [of] _ander_ gek staafje [met] [een] soort [van] 
+A|17| A: soort [van] veger [en] blik [en] [dan] _dat_ blik [zo] [zo'n] [die] [zo'n] staan 
+A|18| A: daar lijken [die] [op] 
+A|19| A: ah [dan] weten [ik] welk 
+A|20| A: okee nummer vijf 
+B|21| B: _ja die_ _zitten_ toch _ja_ [zo] zien [ik] [het] [een] beetje [zo] toch 
+B|22| B: [zijn] [op] gelijk hoogte [van] elkaar _maar_ [dan] [ander] kant 
+B|23| B: [dat] [zijn] P 
+B|24| B: poppe [met] [de] armpjes 
+B|25| B: [de] [horizontaal] _balk_ [op] [zijn] kop 
+B|26| B: _ja_ 
+A|27| A: [dit] [zijn] [dat] [een] figuur waarvan we niet weten [wat] er rechts [zitten] 
+A|28| A: [en] [dat] we [dat] [maar] [als] veger [en] blik [en] [dan] [dat] blik [hebben] doen 
+A|29| A: [ja] 
+A|30| A: [ja [die] liggen horizontaal] erop [en] link één [of] [ander] kap 
+A|31| A: [ja] 
+A|32| A: kap [ja] 
+B|33| B: K 
+A|34| A: ah 
+A|35| A: waar [zijn] [je] 
+A|36| A: [ja ik] [zijn] [hem] ah [ja] 
+A|37| A: [ja] inderdaad 
+A|38| A: uhu 
+A|39| A: [ja] kloppen 
+A|40| A: [ja] nummer vijfteen 
+B|41| B: poppe [met] twee armp 
+B|42| B: [en] [een] paal [op] [zijn] kop 
+A|43| A: [dit] [zijn] [dat] [een] gek figuur weer 
+A|44| A: [balk] [aan de] bovenkant [horizontaal] [het] blik [van] veger [en] blik [en] afzuigkap link 
+A|45| A: [ja] kloppen 
+A|46| A: [je] weten welk [het zijn] 
+B|47| B: N 
+A|48| A: waar [zijn] [hij] 
+A|49| A: ah [ja] 
+A|50| A: nummer vijfteen 
+A|51| A: ons stoffer [en] blik rechthoek [horizontaal op] [de] bovenkant [en] afzuigkap link 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : hopen ik
+	Free: Pattern=ik
+	Constrained: 
+Turn ID=1| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=2| B | B : ik zien het als R2D2 zo'n rond kop met twee van die voet links of armp hoe je het ook willen kijkgen eens naar mij zo dit zo die hand
+	Free: Pattern=of, Pattern=zo'n, Pattern=het, Pattern=als, Pattern=met, Pattern=die, Pattern=ik, Pattern=van, Pattern=rond, Pattern=je, Pattern=zo, Pattern=dit
+	Constrained: 
+Turn ID=3| B | B : zo houden hij ze aan de beide zij van zijn lijf en zijn hoofd zijn langwerpig
+	Free: Pattern=aan de, Pattern=zijn, Pattern=hij, Pattern=zo, Pattern=van, Pattern=en
+	Constrained: Pattern=de
+Turn ID=4| B | B : het zijn dus een kop
+	Free: Pattern=het zijn dus een
+	Constrained: Pattern=een, Pattern=zijn, Pattern=het, Pattern=het zijn
+Turn ID=5| B | B : met aan de linkerkant een dinge en aan de rechterkant een dinge , ja ik vinden het als twee armpjes eruit zien , hebben je enig idee wat ik dan bedoelen
+	Free: Pattern=aan de, Pattern=dan, Pattern=een, Pattern=het, Pattern=hebben, Pattern=als, Pattern=met, Pattern=ik, Pattern=en, Pattern=je, Pattern=aan de linkerkant, Pattern=wat, Pattern=ja ik
+	Constrained: Pattern=de, Pattern=ik, Pattern=aan de, Pattern=ja
+Turn ID=6| A | A : een rond plateaut een dienblad
+	Free: Pattern=rond, Pattern=een
+	Constrained: 
+Turn ID=7| B | B : ja of die liggen horizontaal op hem
+	Free: Pattern=horizontaal op, Pattern=of, Pattern=ja, Pattern=die liggen horizontaal, Pattern=hem
+	Constrained: Pattern=liggen, Pattern=horizontaal, Pattern=die, Pattern=op
+Turn ID=8| A | A : niet
+	Free: 
+	Constrained: 
+Turn ID=9| B | B : precies ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=10| A | A : ah
+	Free: 
+	Constrained: 
+Turn ID=11| A | A : het zijn dus een ander
+	Free: Pattern=het zijn dus een, Pattern=ander
+	Constrained: Pattern=een, Pattern=zijn, Pattern=het, Pattern=het zijn
+Turn ID=12| A | A : wachten één afzuigkap aan de linkerkant wat voor vorm
+	Free: Pattern=aan de linkerkant, Pattern=wat
+	Constrained: Pattern=aan de, Pattern=de
+Turn ID=13| A | A : ah okee
+	Free: 
+	Constrained: 
+Turn ID=14| A | A : ah
+	Free: 
+	Constrained: 
+Turn ID=15| A | A : met dat rechthoekje die er horizontaal bovenop liggen die dat
+	Free: Pattern=dat, Pattern=met, Pattern=die, Pattern=liggen, Pattern=horizontaal
+	Constrained: 
+Turn ID=16| A | A : ah die en dan één of ander gek staafje met een soort van
+	Free: Pattern=of, Pattern=dan, Pattern=een, Pattern=met, Pattern=die, Pattern=ander, Pattern=van, Pattern=en
+	Constrained: 
+Turn ID=17| A | A : soort van veger en blik en dan dat blik zo zo'n die zo'n staan
+	Free: Pattern=dat, Pattern=zo'n, Pattern=dan, Pattern=zo, Pattern=die, Pattern=van, Pattern=en
+	Constrained: 
+Turn ID=18| A | A : daar lijken die op
+	Free: Pattern=die, Pattern=op
+	Constrained: 
+Turn ID=19| A | A : ah dan weten ik welk
+	Free: Pattern=dan, Pattern=ik
+	Constrained: 
+Turn ID=20| A | A : okee nummer vijf
+	Free: 
+	Constrained: 
+Turn ID=21| B | B : ja die zitten toch ja zo zien ik het een beetje zo toch
+	Free: Pattern=ja die, Pattern=ja, Pattern=een, Pattern=het, Pattern=zo, Pattern=zitten, Pattern=ik
+	Constrained: Pattern=ja, Pattern=die
+Turn ID=22| B | B : zijn op gelijk hoogte van elkaar maar dan ander kant
+	Free: Pattern=op, Pattern=dan, Pattern=ander, Pattern=van, Pattern=zijn, Pattern=maar
+	Constrained: 
+Turn ID=23| B | B : dat zijn P
+	Free: Pattern=dat, Pattern=zijn
+	Constrained: 
+Turn ID=24| B | B : poppe met de armpjes
+	Free: Pattern=de, Pattern=met
+	Constrained: 
+Turn ID=25| B | B : de horizontaal balk op zijn kop
+	Free: Pattern=de, Pattern=op, Pattern=balk, Pattern=zijn, Pattern=horizontaal
+	Constrained: 
+Turn ID=26| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=27| A | A : dit zijn dat een figuur waarvan we niet weten wat er rechts zitten
+	Free: Pattern=dat, Pattern=een, Pattern=dit, Pattern=zitten, Pattern=wat, Pattern=zijn
+	Constrained: 
+Turn ID=28| A | A : en dat we dat maar als veger en blik en dan dat blik hebben doen
+	Free: Pattern=dat, Pattern=dan, Pattern=hebben, Pattern=als, Pattern=en, Pattern=maar
+	Constrained: 
+Turn ID=29| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=30| A | A : ja die liggen horizontaal erop en link één of ander kap
+	Free: Pattern=of, Pattern=ja die, Pattern=die liggen horizontaal, Pattern=ander, Pattern=en
+	Constrained: Pattern=liggen, Pattern=horizontaal, Pattern=die, Pattern=ja
+Turn ID=31| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=32| A | A : kap ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=33| B | B : K
+	Free: 
+	Constrained: 
+Turn ID=34| A | A : ah
+	Free: 
+	Constrained: 
+Turn ID=35| A | A : waar zijn je
+	Free: Pattern=je, Pattern=zijn
+	Constrained: 
+Turn ID=36| A | A : ja ik zijn hem ah ja
+	Free: Pattern=ja ik, Pattern=zijn, Pattern=ja, Pattern=hem
+	Constrained: Pattern=ik, Pattern=ja
+Turn ID=37| A | A : ja inderdaad
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=38| A | A : uhu
+	Free: 
+	Constrained: 
+Turn ID=39| A | A : ja kloppen
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=40| A | A : ja nummer vijfteen
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=41| B | B : poppe met twee armp
+	Free: Pattern=met
+	Constrained: 
+Turn ID=42| B | B : en een paal op zijn kop
+	Free: Pattern=en, Pattern=zijn, Pattern=op, Pattern=een
+	Constrained: 
+Turn ID=43| A | A : dit zijn dat een gek figuur weer
+	Free: Pattern=dat, Pattern=dit, Pattern=zijn, Pattern=een
+	Constrained: 
+Turn ID=44| A | A : balk aan de bovenkant horizontaal het blik van veger en blik en afzuigkap link
+	Free: Pattern=aan de, Pattern=het, Pattern=balk, Pattern=horizontaal, Pattern=van, Pattern=en
+	Constrained: Pattern=de
+Turn ID=45| A | A : ja kloppen
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=46| A | A : je weten welk het zijn
+	Free: Pattern=het zijn, Pattern=je
+	Constrained: Pattern=zijn, Pattern=het
+Turn ID=47| B | B : N
+	Free: 
+	Constrained: 
+Turn ID=48| A | A : waar zijn hij
+	Free: Pattern=zijn, Pattern=hij
+	Constrained: 
+Turn ID=49| A | A : ah ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=50| A | A : nummer vijfteen
+	Free: 
+	Constrained: 
+Turn ID=51| A | A : ons stoffer en blik rechthoek horizontaal op de bovenkant en afzuigkap link
+	Free: Pattern=horizontaal op, Pattern=en, Pattern=de
+	Constrained: Pattern=horizontaal, Pattern=op

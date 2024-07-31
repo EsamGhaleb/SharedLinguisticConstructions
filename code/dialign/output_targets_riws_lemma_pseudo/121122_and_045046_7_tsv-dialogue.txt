@@ -1,0 +1,95 @@
+B|0| B: dit vinden _ik_ _een_ _soort_ van tafel _die_ erdoorheen _zijn_ steken 
+B|1| B: ding _en_ er zitten _een_ bak bovenop 
+B|2| B: _ja_ 
+A|3| A: [ja] zo'n [soort] [ik] noemen het [een] bumper 
+A|4| A: zo'n bumper om zich heen 
+A|5| A: _met een_ ook zo'n omdraaien piramide _erop_ 
+A|6| A: _oké_ 
+A|7| A: dat [zijn] nummer zestien 
+B|8| B: [met een] bak [erop] P 
+A|9| A: [die] [met] [die] bumper [en] [die] omgekeerd piramide 
+A|10| A: [met] [die] bumper [ja] 
+A|11| A: dat [zijn] nummer veertien 
+B|12| B: dit [zijn] _de_ tafel [die] erdoorheen steken _de_ groot tafel [met een] bak erbovenop 
+A|13| A: [die] [met] [die] bumper [en] [die] omgekeerd piramide 
+B|14| B: [oké] 
+B|15| B: N 
+A|16| A: [met] [de] bumper 
+A|17| A: dat [zijn] nummer tien 
+B|18| B: dit [zijn] [de] groot tafel [met een] bakje [erop] 
+A|19| A: [die] [met] [die] bumper [en] [die] piramide 
+A|20| A: omgekeerd 
+B|21| B: [ja] 
+B|22| B: D 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : dit vinden ik een soort van tafel die erdoorheen zijn steken
+	Free: Pattern=soort, Pattern=een, Pattern=die, Pattern=ik, Pattern=zijn
+	Constrained: 
+Turn ID=1| B | B : ding en er zitten een bak bovenop
+	Free: Pattern=een, Pattern=en
+	Constrained: 
+Turn ID=2| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=3| A | A : ja zo'n soort ik noemen het een bumper
+	Free: Pattern=soort, Pattern=een, Pattern=ja, Pattern=ik
+	Constrained: 
+Turn ID=4| A | A : zo'n bumper om zich heen
+	Free: 
+	Constrained: 
+Turn ID=5| A | A : met een ook zo'n omdraaien piramide erop
+	Free: Pattern=met een, Pattern=erop
+	Constrained: Pattern=met, Pattern=een
+Turn ID=6| A | A : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=7| A | A : dat zijn nummer zestien
+	Free: Pattern=zijn
+	Constrained: 
+Turn ID=8| B | B : met een bak erop P
+	Free: Pattern=met een, Pattern=erop
+	Constrained: Pattern=met, Pattern=een
+Turn ID=9| A | A : die met die bumper en die omgekeerd piramide
+	Free: Pattern=met, Pattern=en, Pattern=die
+	Constrained: 
+Turn ID=10| A | A : met die bumper ja
+	Free: Pattern=met, Pattern=ja, Pattern=die
+	Constrained: 
+Turn ID=11| A | A : dat zijn nummer veertien
+	Free: Pattern=zijn
+	Constrained: 
+Turn ID=12| B | B : dit zijn de tafel die erdoorheen steken de groot tafel met een bak erbovenop
+	Free: Pattern=met een, Pattern=die, Pattern=zijn, Pattern=de
+	Constrained: Pattern=met, Pattern=een
+Turn ID=13| A | A : die met die bumper en die omgekeerd piramide
+	Free: Pattern=met, Pattern=en, Pattern=die
+	Constrained: 
+Turn ID=14| B | B : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=15| B | B : N
+	Free: 
+	Constrained: 
+Turn ID=16| A | A : met de bumper
+	Free: Pattern=met, Pattern=de
+	Constrained: 
+Turn ID=17| A | A : dat zijn nummer tien
+	Free: Pattern=zijn
+	Constrained: 
+Turn ID=18| B | B : dit zijn de groot tafel met een bakje erop
+	Free: Pattern=met een, Pattern=erop, Pattern=zijn, Pattern=de
+	Constrained: Pattern=met, Pattern=een
+Turn ID=19| A | A : die met die bumper en die piramide
+	Free: Pattern=met, Pattern=en, Pattern=die
+	Constrained: 
+Turn ID=20| A | A : omgekeerd
+	Free: 
+	Constrained: 
+Turn ID=21| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=22| B | B : D
+	Free: 
+	Constrained: 

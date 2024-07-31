@@ -1,0 +1,135 @@
+B|0| B: deze _hebben_ _een_ _een soort_ van 
+B|1| B: _ja_ plaat er _weer_ doorheen lopen _met_ tafelpot eraan _daar_ vergelijk _ik_ _het_ _een beetje_ mee 
+B|2| B: _ja_ waar _ook een bak op_ staat _ja_ 
+A|3| A: [ja] 
+A|4| A: [ja] 
+A|5| A: [ja] 
+A|6| A: [ja] 
+A|7| A: [ik] [met] twee hendel wat je eigenlijk zo [op] kunnen pakken 
+A|8| A: [ja] 
+A|9| A: [ik] denken [een soort] kruiwag of zo idee 
+A|10| A: _dat zijn_ bij _mij_ _en_ aan _de_ achterkant [hebben] je nog [een] klein pluk zitten 
+A|11| A: [ja] 
+A|12| A: _dat zijn_ nummer zestien bij _mij_ 
+B|13| B: [ja] 
+B|14| B: [dat zijn] voor [mij] [de] letter P 
+A|15| A: [ja] _dit zijn weer_ [een beetje] _die_ kruiwag _die_ je eigenlijk zo [op] kunnen pakken 
+A|16| A: dus [dat] _die_ basisvorm 
+A|17| A: daardoorheen eigenlijk _die_ rond 
+A|18| A: [met] [daar] [ook een bak op] 
+A|19| A: _en_ [dat] tentakel aan [de] achterzijde 
+B|20| B: _dit zijn de_ [met] [de] plaat erdoor doorheen [met] [de] tafelpoot [en] _het bak_ erop 
+A|21| A: [met] _die_ twee 
+A|22| A: _die_ kruiwag 
+A|23| A: [ja] 
+A|24| A: [dat zijn] veertien 
+B|25| B: [dat zijn] voor [mij] N 
+B|26| B: [dit zijn weer] [de] tafel [die] _het_ doorboort _met het bak_ erop 
+A|27| A: [dit zijn de] kruiwag 
+A|28| A: dus [die] je eigenlijk zo [op] kunnen pakken [met het bak] erbovenop 
+A|29| A: _oké_ [dat zijn] nummer tien 
+B|30| B: [oké] 
+B|31| B: D 
+A|32| A: [dit zijn de] kruiwag 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : deze hebben een een soort van
+	Free: Pattern=een soort, Pattern=hebben, Pattern=een
+	Constrained: Pattern=een
+Turn ID=1| B | B : ja plaat er weer doorheen lopen met tafelpot eraan daar vergelijk ik het een beetje mee
+	Free: Pattern=ja, Pattern=het, Pattern=met, Pattern=ik, Pattern=daar, Pattern=weer, Pattern=een beetje
+	Constrained: Pattern=een
+Turn ID=2| B | B : ja waar ook een bak op staat ja
+	Free: Pattern=ook een bak op, Pattern=ja
+	Constrained: Pattern=op, Pattern=een
+Turn ID=3| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=4| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=5| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=6| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=7| A | A : ik met twee hendel wat je eigenlijk zo op kunnen pakken
+	Free: Pattern=op, Pattern=met, Pattern=ik
+	Constrained: 
+Turn ID=8| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=9| A | A : ik denken een soort kruiwag of zo idee
+	Free: Pattern=een soort, Pattern=ik
+	Constrained: Pattern=een
+Turn ID=10| A | A : dat zijn bij mij en aan de achterkant hebben je nog een klein pluk zitten
+	Free: Pattern=dat zijn, Pattern=de, Pattern=een, Pattern=hebben, Pattern=mij, Pattern=en
+	Constrained: Pattern=dat
+Turn ID=11| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=12| A | A : dat zijn nummer zestien bij mij
+	Free: Pattern=dat zijn, Pattern=mij
+	Constrained: Pattern=dat
+Turn ID=13| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=14| B | B : dat zijn voor mij de letter P
+	Free: Pattern=dat zijn, Pattern=mij, Pattern=de
+	Constrained: Pattern=dat
+Turn ID=15| A | A : ja dit zijn weer een beetje die kruiwag die je eigenlijk zo op kunnen pakken
+	Free: Pattern=ja, Pattern=op, Pattern=die, Pattern=een beetje, Pattern=dit zijn weer
+	Constrained: Pattern=weer, Pattern=een
+Turn ID=16| A | A : dus dat die basisvorm
+	Free: Pattern=die, Pattern=dat
+	Constrained: 
+Turn ID=17| A | A : daardoorheen eigenlijk die rond
+	Free: Pattern=die
+	Constrained: 
+Turn ID=18| A | A : met daar ook een bak op
+	Free: Pattern=ook een bak op, Pattern=daar, Pattern=met
+	Constrained: Pattern=op, Pattern=een
+Turn ID=19| A | A : en dat tentakel aan de achterzijde
+	Free: Pattern=en, Pattern=de, Pattern=dat
+	Constrained: 
+Turn ID=20| B | B : dit zijn de met de plaat erdoor doorheen met de tafelpoot en het bak erop
+	Free: Pattern=de, Pattern=het bak, Pattern=met, Pattern=en, Pattern=dit zijn de
+	Constrained: Pattern=de, Pattern=het
+Turn ID=21| A | A : met die twee
+	Free: Pattern=die, Pattern=met
+	Constrained: 
+Turn ID=22| A | A : die kruiwag
+	Free: Pattern=die
+	Constrained: 
+Turn ID=23| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=24| A | A : dat zijn veertien
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat
+Turn ID=25| B | B : dat zijn voor mij N
+	Free: Pattern=dat zijn, Pattern=mij
+	Constrained: Pattern=dat
+Turn ID=26| B | B : dit zijn weer de tafel die het doorboort met het bak erop
+	Free: Pattern=de, Pattern=het, Pattern=dit zijn weer, Pattern=met het bak, Pattern=die
+	Constrained: Pattern=weer, Pattern=met, Pattern=het, Pattern=het bak
+Turn ID=27| A | A : dit zijn de kruiwag
+	Free: Pattern=dit zijn de
+	Constrained: Pattern=de
+Turn ID=28| A | A : dus die je eigenlijk zo op kunnen pakken met het bak erbovenop
+	Free: Pattern=met het bak, Pattern=die, Pattern=op
+	Constrained: Pattern=het bak, Pattern=het, Pattern=met
+Turn ID=29| A | A : oké dat zijn nummer tien
+	Free: Pattern=dat zijn, Pattern=oké
+	Constrained: Pattern=dat
+Turn ID=30| B | B : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=31| B | B : D
+	Free: 
+	Constrained: 
+Turn ID=32| A | A : dit zijn de kruiwag
+	Free: Pattern=dit zijn de
+	Constrained: Pattern=de

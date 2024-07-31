@@ -1,0 +1,107 @@
+B|0| B: je hebben _dat_ bak _en_ _van_ _de_ linkerkant komen _twee_ _soort_ _van_ pijlt _erin_ steken 
+B|1| B: _en_ hij hebben _aan de voorkant_ _een_ _een_ vierkantje waarmee het lijken als je hem alsof je hem tegen _de_ muur kunnen plakken 
+B|2| B: _en_ _van_ _de_ bovenkant staan er _een_ spijker of _een_ paddenstoel in 
+B|3| B: oké 
+A|4| A: _ja_ 
+A|5| A: [van] die laseroogjes 
+A|6| A: [dat] zijn [twee] voor mij 
+B|7| B: [ja] 
+B|8| B: _en_ hij lijken alsof je hem tegen _de_ muur kunnen plakken 
+B|9| B: [ja] 
+B|10| B: letter G 
+A|11| A: dit zijn die met link [de] groot _worden_ vierkant _en een_ [soort] [ja] wat zitten [erin] ? antenne bovenop 
+A|12| A: groot vlak [aan de voorkant] 
+A|13| A: [ja] 
+B|14| B: hij lijken alsof je hem tegen [de] muur kunnen plakken 
+B|15| B: hij hebben [twee] piercen ding [en een] paddenstoel 
+A|16| A: [en] [de] blok yes [dat] zijn negen voor mij 
+B|17| B: letter D 
+A|18| A: groot _worden_ vierkant links 
+A|19| A: Antenne bovenop 
+A|20| A: [ja] [dat] zijn één voor mij 
+B|21| B: hij kunnen [aan de] muur plakken [worden] 
+B|22| B: [en] hij hebben [twee] boor doorboren dinge 
+A|23| A: dit zijn die met [de] vierkant plaat voorop [en] [de] groot [worden] vierkant links 
+B|24| B: [ja] 
+B|25| B: letter B 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : je hebben dat bak en van de linkerkant komen twee soort van pijlt erin steken
+	Free: Pattern=dat, Pattern=soort, Pattern=twee, Pattern=de, Pattern=erin, Pattern=van, Pattern=en
+	Constrained: 
+Turn ID=1| B | B : en hij hebben aan de voorkant een een vierkantje waarmee het lijken als je hem alsof je hem tegen de muur kunnen plakken
+	Free: Pattern=aan de voorkant, Pattern=en, Pattern=de, Pattern=een
+	Constrained: Pattern=aan de, Pattern=de
+Turn ID=2| B | B : en van de bovenkant staan er een spijker of een paddenstoel in
+	Free: Pattern=en, Pattern=de, Pattern=van, Pattern=een
+	Constrained: 
+Turn ID=3| B | B : oké
+	Free: 
+	Constrained: 
+Turn ID=4| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=5| A | A : van die laseroogjes
+	Free: Pattern=van
+	Constrained: 
+Turn ID=6| A | A : dat zijn twee voor mij
+	Free: Pattern=dat, Pattern=twee
+	Constrained: 
+Turn ID=7| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=8| B | B : en hij lijken alsof je hem tegen de muur kunnen plakken
+	Free: Pattern=en, Pattern=de
+	Constrained: 
+Turn ID=9| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=10| B | B : letter G
+	Free: 
+	Constrained: 
+Turn ID=11| A | A : dit zijn die met link de groot worden vierkant en een soort ja wat zitten erin ? antenne bovenop
+	Free: Pattern=soort, Pattern=worden, Pattern=erin, Pattern=en een, Pattern=de, Pattern=ja
+	Constrained: Pattern=en, Pattern=een
+Turn ID=12| A | A : groot vlak aan de voorkant
+	Free: Pattern=aan de voorkant
+	Constrained: Pattern=aan de, Pattern=de
+Turn ID=13| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=14| B | B : hij lijken alsof je hem tegen de muur kunnen plakken
+	Free: Pattern=de
+	Constrained: 
+Turn ID=15| B | B : hij hebben twee piercen ding en een paddenstoel
+	Free: Pattern=en een, Pattern=twee
+	Constrained: Pattern=en, Pattern=een
+Turn ID=16| A | A : en de blok yes dat zijn negen voor mij
+	Free: Pattern=en, Pattern=dat, Pattern=de
+	Constrained: 
+Turn ID=17| B | B : letter D
+	Free: 
+	Constrained: 
+Turn ID=18| A | A : groot worden vierkant links
+	Free: Pattern=worden
+	Constrained: 
+Turn ID=19| A | A : Antenne bovenop
+	Free: 
+	Constrained: 
+Turn ID=20| A | A : ja dat zijn één voor mij
+	Free: Pattern=dat, Pattern=ja
+	Constrained: 
+Turn ID=21| B | B : hij kunnen aan de muur plakken worden
+	Free: Pattern=aan de, Pattern=worden
+	Constrained: Pattern=de
+Turn ID=22| B | B : en hij hebben twee boor doorboren dinge
+	Free: Pattern=en, Pattern=twee
+	Constrained: 
+Turn ID=23| A | A : dit zijn die met de vierkant plaat voorop en de groot worden vierkant links
+	Free: Pattern=en, Pattern=de, Pattern=worden
+	Constrained: 
+Turn ID=24| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=25| B | B : letter B
+	Free: 
+	Constrained: 

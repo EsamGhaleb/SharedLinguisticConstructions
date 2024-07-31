@@ -1,0 +1,123 @@
+A|0| A: _ja_ deze _hebben_ ik als _een_ soort van het _zijn_ _een_ heel dom omschrijving maar ik _hebben_ _een_ soort trechter het _hebben_ zeggen maar _aan de_ linkerkant r 
+A|1| A: helemaal links _in_ het hoek van het _plaat_ _hebben_ het _een_ vierkant ding wat dan smal worden dat lopen weer over 
+A|2| A: _op_ _een_ gek figuur wat aansluisen _op_ dat kop zeggen maar 
+A|3| A: maar _aan de_ rechterkant van het kop _hebben_ _je_ ook nog iets daar zitten _een_ _rond_ cirkel 
+B|4| B: _rond plaat_ _waar_ [je] [in] principe [een] _taart_ [op] zullen kunnen zetten 
+A|5| A: _ja_ [een] [rond plaat] 
+A|6| A: _ja_ precies 
+B|7| B: [ja] 
+A|8| A: en _de_ linkerkant [ja] beetje wazig 
+B|9| B: [ja] 
+B|10| B: [ja] [ja] 
+B|11| B: L 
+B|12| B: one's dit [zijn] _die_ lastig _die_ we net [hebben] met _die_ [rond] _taarthouder_ [aan de] voorkant 
+A|13| A: ah [ja] _oké_ dat worden dus _de taarthouder_ vanaf nu 
+B|14| B: [de taarthouder] [oké] 
+A|15| A: even kijken [waar] ah daar 
+A|16| A: zeven 
+A|17| A: [de] [taart] 
+B|18| B: [de taarthouder] 
+A|19| A: [ja] [de taarthouder] 
+B|20| B: C 
+B|21| B: dit [zijn] [de taarthouder] 
+A|22| A: [de taarthouder] [die] [ja] dat [zijn] één 
+A|23| A: [de taarthouder] 
+B|24| B: [ja] 
+B|25| B: A 
+A|26| A: bij mij 
+B|27| B: [de taarthouder] 
+A|28| A: [de taarthouder] even kijken 
+A|29| A: [ja] dertien 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : ja deze hebben ik als een soort van het zijn een heel dom omschrijving maar ik hebben een soort trechter het hebben zeggen maar aan de linkerkant r
+	Free: Pattern=ja, Pattern=aan de, Pattern=een, Pattern=hebben, Pattern=zijn
+	Constrained: Pattern=de
+Turn ID=1| A | A : helemaal links in het hoek van het plaat hebben het een vierkant ding wat dan smal worden dat lopen weer over
+	Free: Pattern=plaat, Pattern=hebben, Pattern=in, Pattern=een
+	Constrained: 
+Turn ID=2| A | A : op een gek figuur wat aansluisen op dat kop zeggen maar
+	Free: Pattern=een, Pattern=op
+	Constrained: 
+Turn ID=3| A | A : maar aan de rechterkant van het kop hebben je ook nog iets daar zitten een rond cirkel
+	Free: Pattern=aan de, Pattern=een, Pattern=hebben, Pattern=rond, Pattern=je
+	Constrained: Pattern=de
+Turn ID=4| B | B : rond plaat waar je in principe een taart op zullen kunnen zetten
+	Free: Pattern=waar, Pattern=een, Pattern=in, Pattern=op, Pattern=rond plaat, Pattern=taart, Pattern=je
+	Constrained: Pattern=rond, Pattern=plaat
+Turn ID=5| A | A : ja een rond plaat
+	Free: Pattern=rond plaat, Pattern=ja, Pattern=een
+	Constrained: Pattern=rond, Pattern=plaat
+Turn ID=6| A | A : ja precies
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=7| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=8| A | A : en de linkerkant ja beetje wazig
+	Free: Pattern=de, Pattern=ja
+	Constrained: 
+Turn ID=9| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=10| B | B : ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=11| B | B : L
+	Free: 
+	Constrained: 
+Turn ID=12| B | B : one's dit zijn die lastig die we net hebben met die rond taarthouder aan de voorkant
+	Free: Pattern=taarthouder, Pattern=aan de, Pattern=hebben, Pattern=die, Pattern=rond, Pattern=zijn
+	Constrained: Pattern=de
+Turn ID=13| A | A : ah ja oké dat worden dus de taarthouder vanaf nu
+	Free: Pattern=de taarthouder, Pattern=oké, Pattern=ja
+	Constrained: Pattern=taarthouder, Pattern=de
+Turn ID=14| B | B : de taarthouder oké
+	Free: Pattern=de taarthouder, Pattern=oké
+	Constrained: Pattern=taarthouder, Pattern=de
+Turn ID=15| A | A : even kijken waar ah daar
+	Free: Pattern=waar
+	Constrained: 
+Turn ID=16| A | A : zeven
+	Free: 
+	Constrained: 
+Turn ID=17| A | A : de taart
+	Free: Pattern=taart, Pattern=de
+	Constrained: 
+Turn ID=18| B | B : de taarthouder
+	Free: Pattern=de taarthouder
+	Constrained: Pattern=taarthouder, Pattern=de
+Turn ID=19| A | A : ja de taarthouder
+	Free: Pattern=de taarthouder, Pattern=ja
+	Constrained: Pattern=taarthouder, Pattern=de
+Turn ID=20| B | B : C
+	Free: 
+	Constrained: 
+Turn ID=21| B | B : dit zijn de taarthouder
+	Free: Pattern=de taarthouder, Pattern=zijn
+	Constrained: Pattern=taarthouder, Pattern=de
+Turn ID=22| A | A : de taarthouder die ja dat zijn één
+	Free: Pattern=de taarthouder, Pattern=zijn, Pattern=die, Pattern=ja
+	Constrained: Pattern=taarthouder, Pattern=de
+Turn ID=23| A | A : de taarthouder
+	Free: Pattern=de taarthouder
+	Constrained: Pattern=taarthouder, Pattern=de
+Turn ID=24| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=25| B | B : A
+	Free: 
+	Constrained: 
+Turn ID=26| A | A : bij mij
+	Free: 
+	Constrained: 
+Turn ID=27| B | B : de taarthouder
+	Free: Pattern=de taarthouder
+	Constrained: Pattern=taarthouder, Pattern=de
+Turn ID=28| A | A : de taarthouder even kijken
+	Free: Pattern=de taarthouder
+	Constrained: Pattern=taarthouder, Pattern=de
+Turn ID=29| A | A : ja dertien
+	Free: Pattern=ja
+	Constrained: 

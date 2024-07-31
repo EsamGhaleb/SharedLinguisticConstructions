@@ -1,0 +1,191 @@
+A|0| A: ook _zo'n_ bolle 
+A|1| A: uitsteekselt 
+A|2| A: _ja_ 
+A|3| A: _oké_ 
+A|4| A: nummer veertien 
+B|5| B: [ja] _dit zijn_ deze hebben _een_ [zo'n] rond voorkant [zo'n] rond neus net als _met_ die _met_ _dat_ ijstheestok 
+B|6| B: naar links _een_ nee 
+B|7| B: nee hij hebben echt [zo'n] echt precies [zo'n] zelfde neus als die _met_ _dat_ ijstheestaafje 
+B|8| B: dus echt [zo'n] ronde 
+B|9| B: zelfde kant _op_ 
+B|10| B: [ja] _twee_ van die gek ding bovenop _en_ één ding naar [ja] 
+B|11| B: [ja] link [ja] 
+B|12| B: driehoek [ja] [ja] [ja] 
+B|13| B: [oké] [ja] 
+B|14| B: bij mij _zijn_ _dat_ P 
+B|15| B: P [ja] 
+B|16| B: die 
+B|17| B: alleen _de_ neus [ja] 
+B|18| B: driehoekje _aan de_ 
+B|19| B: [ja] 
+B|20| B: N 
+B|21| B: N drie 
+A|22| A: [dit] lijken [op] [dat] bak [met] [twee] tandenborstel wat jij zeggen er zitten [zo'n] bolle voor nog 
+A|23| A: [en] [dat] stok _aan de zijkant_ 
+B|24| B: [ja] die waar waarvan alleen die neus [en] dan [dat] driehoek uit _zijn_ oor [en] dan [twee] staaf bovenop 
+B|25| B: G bij mij 
+B|26| B: driehoek driehoekig zo [aan de zijkant] [en] die bol neus 
+B|27| B: [ja] 
+B|28| B: [ja] 
+B|29| B: die [ja] 
+B|30| B: G 
+A|31| A: yes 
+A|32| A: nummer _negen_ 
+B|33| B: [ja] 
+B|34| B: dus _met de_ driehoek [ja] G 
+B|35| B: G dertien 
+B|36| B: _dit zijn_ [de] ijstheestamper zonder ijstheestamper dus alleen [de] neus 
+B|37| B: O 
+A|38| A: [dit zijn] [een] bak [met de] [twee] tandenborstel 
+A|39| A: [en] het neusje ervoor 
+A|40| A: yes 
+A|41| A: nummer vijf 
+B|42| B: [ja] 
+B|43| B: even 
+B|44| B: J [negen] 
+A|45| A: bak [met] tandenborstel 
+A|46| A: [en] het neusje 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : ook zo'n bolle
+	Free: Pattern=zo'n
+	Constrained: 
+Turn ID=1| A | A : uitsteekselt
+	Free: 
+	Constrained: 
+Turn ID=2| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=3| A | A : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=4| A | A : nummer veertien
+	Free: 
+	Constrained: 
+Turn ID=5| B | B : ja dit zijn deze hebben een zo'n rond voorkant zo'n rond neus net als met die met dat ijstheestok
+	Free: Pattern=dat, Pattern=zo'n, Pattern=ja, Pattern=een, Pattern=met, Pattern=dit zijn
+	Constrained: Pattern=dit, Pattern=zijn
+Turn ID=6| B | B : naar links een nee
+	Free: Pattern=een
+	Constrained: 
+Turn ID=7| B | B : nee hij hebben echt zo'n echt precies zo'n zelfde neus als die met dat ijstheestaafje
+	Free: Pattern=dat, Pattern=zo'n, Pattern=met
+	Constrained: 
+Turn ID=8| B | B : dus echt zo'n ronde
+	Free: Pattern=zo'n
+	Constrained: 
+Turn ID=9| B | B : zelfde kant op
+	Free: Pattern=op
+	Constrained: 
+Turn ID=10| B | B : ja twee van die gek ding bovenop en één ding naar ja
+	Free: Pattern=en, Pattern=twee, Pattern=ja
+	Constrained: 
+Turn ID=11| B | B : ja link ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=12| B | B : driehoek ja ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=13| B | B : oké ja
+	Free: Pattern=oké, Pattern=ja
+	Constrained: 
+Turn ID=14| B | B : bij mij zijn dat P
+	Free: Pattern=dat, Pattern=zijn
+	Constrained: 
+Turn ID=15| B | B : P ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=16| B | B : die
+	Free: 
+	Constrained: 
+Turn ID=17| B | B : alleen de neus ja
+	Free: Pattern=de, Pattern=ja
+	Constrained: 
+Turn ID=18| B | B : driehoekje aan de
+	Free: Pattern=aan de
+	Constrained: Pattern=de
+Turn ID=19| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=20| B | B : N
+	Free: 
+	Constrained: 
+Turn ID=21| B | B : N drie
+	Free: 
+	Constrained: 
+Turn ID=22| A | A : dit lijken op dat bak met twee tandenborstel wat jij zeggen er zitten zo'n bolle voor nog
+	Free: Pattern=dat, Pattern=op, Pattern=dit, Pattern=met, Pattern=zo'n, Pattern=twee
+	Constrained: 
+Turn ID=23| A | A : en dat stok aan de zijkant
+	Free: Pattern=aan de zijkant, Pattern=en, Pattern=dat
+	Constrained: Pattern=aan de, Pattern=de
+Turn ID=24| B | B : ja die waar waarvan alleen die neus en dan dat driehoek uit zijn oor en dan twee staaf bovenop
+	Free: Pattern=dat, Pattern=twee, Pattern=ja, Pattern=en, Pattern=zijn
+	Constrained: 
+Turn ID=25| B | B : G bij mij
+	Free: 
+	Constrained: 
+Turn ID=26| B | B : driehoek driehoekig zo aan de zijkant en die bol neus
+	Free: Pattern=aan de zijkant, Pattern=en
+	Constrained: Pattern=aan de, Pattern=de
+Turn ID=27| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=28| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=29| B | B : die ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=30| B | B : G
+	Free: 
+	Constrained: 
+Turn ID=31| A | A : yes
+	Free: 
+	Constrained: 
+Turn ID=32| A | A : nummer negen
+	Free: Pattern=negen
+	Constrained: 
+Turn ID=33| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=34| B | B : dus met de driehoek ja G
+	Free: Pattern=met de, Pattern=ja
+	Constrained: Pattern=de, Pattern=met
+Turn ID=35| B | B : G dertien
+	Free: 
+	Constrained: 
+Turn ID=36| B | B : dit zijn de ijstheestamper zonder ijstheestamper dus alleen de neus
+	Free: Pattern=dit zijn, Pattern=de
+	Constrained: Pattern=dit, Pattern=zijn
+Turn ID=37| B | B : O
+	Free: 
+	Constrained: 
+Turn ID=38| A | A : dit zijn een bak met de twee tandenborstel
+	Free: Pattern=met de, Pattern=dit zijn, Pattern=een, Pattern=twee
+	Constrained: Pattern=dit, Pattern=de, Pattern=zijn, Pattern=met
+Turn ID=39| A | A : en het neusje ervoor
+	Free: Pattern=en
+	Constrained: 
+Turn ID=40| A | A : yes
+	Free: 
+	Constrained: 
+Turn ID=41| A | A : nummer vijf
+	Free: 
+	Constrained: 
+Turn ID=42| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=43| B | B : even
+	Free: 
+	Constrained: 
+Turn ID=44| B | B : J negen
+	Free: Pattern=negen
+	Constrained: 
+Turn ID=45| A | A : bak met tandenborstel
+	Free: Pattern=met
+	Constrained: 
+Turn ID=46| A | A : en het neusje
+	Free: Pattern=en
+	Constrained: 

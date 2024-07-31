@@ -1,0 +1,111 @@
+B|0| B: nou _ja_ _het_ _zijn_ _een_ beetje _een_ _een_ vorm van _een_ glas en dan zitten er twee blok op 
+B|1| B: en _een soort_ van Lvormig uitsteeksel 
+B|2| B: _een_ _een_ glas _met_ _een_ voe 
+B|3| B: _met_ twee blok erop 
+B|4| B: _ja_ 
+B|5| B: _ja_ 
+B|6| B: _ja_ 
+A|7| A: armp 
+A|8| A: [ja] 
+A|9| A: _dat zijn_ nummer vier 
+A|10| A: dit _zijn weer_ _dat_ [ja] [een soort] wijnglas _met de draaien_ poo 
+B|11| B: [ja] [dat zijn] A 
+B|12| B: [ja] 
+A|13| A: [ja] 
+A|14| A: nummer tien 
+B|15| B: _het_ [zijn weer] die [een] in [de] vorm van _het_ glaas 
+B|16| B: [met de] blok erop 
+B|17| B: [de] driehoekig standaard 
+B|18| B: gedraaide [ja] 
+A|19| A: oké dit [zijn] [het] wijnglas [met] [het] gedraai poo 
+B|20| B: [ja] 
+B|21| B: L 
+A|22| A: nummer vier 
+A|23| A: dit [zijn] [het] wijnglas 
+B|24| B: [het] glaasje [met de draaien] onderkant 
+B|25| B: en [het] driehoekje aan [de] onderkant 
+B|26| B: [draaien] onderkant F 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : nou ja het zijn een beetje een een vorm van een glas en dan zitten er twee blok op
+	Free: Pattern=ja, Pattern=zijn, Pattern=een, Pattern=het
+	Constrained: 
+Turn ID=1| B | B : en een soort van Lvormig uitsteeksel
+	Free: Pattern=een soort
+	Constrained: Pattern=een
+Turn ID=2| B | B : een een glas met een voe
+	Free: Pattern=met, Pattern=een
+	Constrained: 
+Turn ID=3| B | B : met twee blok erop
+	Free: Pattern=met
+	Constrained: 
+Turn ID=4| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=5| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=6| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=7| A | A : armp
+	Free: 
+	Constrained: 
+Turn ID=8| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=9| A | A : dat zijn nummer vier
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=10| A | A : dit zijn weer dat ja een soort wijnglas met de draaien poo
+	Free: Pattern=dat, Pattern=met de draaien, Pattern=ja, Pattern=een soort, Pattern=zijn weer
+	Constrained: Pattern=draaien, Pattern=een, Pattern=met, Pattern=zijn, Pattern=de, Pattern=met de
+Turn ID=11| B | B : ja dat zijn A
+	Free: Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=12| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=13| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=14| A | A : nummer tien
+	Free: 
+	Constrained: 
+Turn ID=15| B | B : het zijn weer die een in de vorm van het glaas
+	Free: Pattern=zijn weer, Pattern=de, Pattern=een, Pattern=het
+	Constrained: Pattern=zijn
+Turn ID=16| B | B : met de blok erop
+	Free: Pattern=met de
+	Constrained: Pattern=de, Pattern=met
+Turn ID=17| B | B : de driehoekig standaard
+	Free: Pattern=de
+	Constrained: 
+Turn ID=18| B | B : gedraaide ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=19| A | A : oké dit zijn het wijnglas met het gedraai poo
+	Free: Pattern=zijn, Pattern=met, Pattern=het
+	Constrained: 
+Turn ID=20| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=21| B | B : L
+	Free: 
+	Constrained: 
+Turn ID=22| A | A : nummer vier
+	Free: 
+	Constrained: 
+Turn ID=23| A | A : dit zijn het wijnglas
+	Free: Pattern=zijn, Pattern=het
+	Constrained: 
+Turn ID=24| B | B : het glaasje met de draaien onderkant
+	Free: Pattern=met de draaien, Pattern=het
+	Constrained: Pattern=draaien, Pattern=de, Pattern=met, Pattern=met de
+Turn ID=25| B | B : en het driehoekje aan de onderkant
+	Free: Pattern=de, Pattern=het
+	Constrained: 
+Turn ID=26| B | B : draaien onderkant F
+	Free: Pattern=draaien
+	Constrained: 

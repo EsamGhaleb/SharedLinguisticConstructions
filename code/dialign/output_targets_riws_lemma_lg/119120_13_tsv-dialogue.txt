@@ -1,0 +1,187 @@
+B|0| B: _oké_ deze _noemen_ _ik_ stoom _uit_ _de_ oor 
+B|1| B: omdat _die _drie_ van die_ _aan beide kant_ _drie van die_ bolle _uit_ _de_ oor hebben _uit_ _de_ 
+A|2| A: _van die spiraalt_ 
+B|3| B: _ja_ [van die spiraalt] _ja_ 
+A|4| A: [ja] [ja] [ja] 
+B|5| B: [ja] 
+A|6| A: [ja] [oké] 
+B|7| B: en [die] hebben [ja] [van die] armpjes in _het water_ of zo 
+A|8| A: [ja] [ja] [ja] 
+A|9| A: [ja] [ja] [ja] [ik] snapen hem [ja] 
+B|10| B: [ja] 
+B|11| B: [oké] _dat_ _zijn_ bij mij _A_ 
+A|12| A: [A] vijf 
+A|13| A: degeen _met die drie_ raar _dinge_ [aan] _de zijkant_ [van] [het] hoofd [aan beide kant] 
+B|14| B: even kijken 
+A|15| A: _met_ plaat op [de] voorkant 
+A|16| A: _met_ een armp [uit] [het water] hoe jij [dat] [noemen] 
+B|17| B: [die] [ja] 
+B|18| B: J 
+B|19| B: en bij _jou_ 
+A|20| A: _tien_ 
+B|21| B: J [tien] 
+B|22| B: dit _zijn_ [met die drie] [dinge] zo [uit] [de] [uit] [de] [uit] [de zijkant] 
+A|23| A: [ja] 
+B|24| B: _d_ 
+A|25| A: _elf_ 
+A|26| A: [d] _elf_ 
+A|27| A: oorbel [drie van die] bollet [aan] [de zijkant] [van] [het] hoofd 
+B|28| B: [ja] 
+A|29| A: _zestien_ 
+B|30| B: wachten dit [de] [de] [drie] [drie] 
+A|31| A: [ja] [ja] [ja] 
+B|32| B: [ja] 
+B|33| B: P [zestien] 
+A|34| A: [zestien] 
+A|35| A: dus we [zijn] erachter [dat] elk keer als [het] wat [zijn] [zijn] [het] hetzelfde 
+B|36| B: dit [zijn] [die] [met die] [die drie] _ding_ zo [uit] [uit] [de] oor [met die] plat neus _K_ 
+A|37| A: [ja] 
+A|38| A: [K] negen 
+A|39| A: [jou] oorbel 
+A|40| A: _drie van die ding_ [aan] elk [kant] 
+B|41| B: [drie van die ding] 
+A|42| A: yes 
+A|43| A: _elf_ 
+B|44| B: L 
+B|45| B: L [elf] 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : oké deze noemen ik stoom uit de oor
+	Free: Pattern=de, Pattern=uit, Pattern=oké, Pattern=ik, Pattern=noemen
+	Constrained: 
+Turn ID=1| B | B : omdat die drie van die aan beide kant drie van die bolle uit de oor hebben uit de
+	Free: Pattern=drie van die, Pattern=de, Pattern=aan beide kant, Pattern=uit, Pattern=die drie
+	Constrained: Pattern=kant, Pattern=aan, Pattern=drie, Pattern=die, Pattern=van, Pattern=van die
+Turn ID=2| A | A : van die spiraalt
+	Free: Pattern=van die spiraalt
+	Constrained: Pattern=die, Pattern=van, Pattern=van die
+Turn ID=3| B | B : ja van die spiraalt ja
+	Free: Pattern=van die spiraalt, Pattern=ja
+	Constrained: Pattern=die, Pattern=van, Pattern=van die
+Turn ID=4| A | A : ja ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=5| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=6| A | A : ja oké
+	Free: Pattern=oké, Pattern=ja
+	Constrained: 
+Turn ID=7| B | B : en die hebben ja van die armpjes in het water of zo
+	Free: Pattern=van die, Pattern=het water, Pattern=ja, Pattern=die
+	Constrained: Pattern=die, Pattern=het, Pattern=van
+Turn ID=8| A | A : ja ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=9| A | A : ja ja ja ik snapen hem ja
+	Free: Pattern=ja, Pattern=ik
+	Constrained: 
+Turn ID=10| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=11| B | B : oké dat zijn bij mij A
+	Free: Pattern=oké, Pattern=zijn, Pattern=A, Pattern=dat
+	Constrained: 
+Turn ID=12| A | A : A vijf
+	Free: Pattern=A
+	Constrained: 
+Turn ID=13| A | A : degeen met die drie raar dinge aan de zijkant van het hoofd aan beide kant
+	Free: Pattern=aan, Pattern=aan beide kant, Pattern=dinge, Pattern=de zijkant, Pattern=van, Pattern=het, Pattern=met die drie
+	Constrained: Pattern=die drie, Pattern=drie, Pattern=met, Pattern=die, Pattern=kant, Pattern=met die, Pattern=de, Pattern=aan
+Turn ID=14| B | B : even kijken
+	Free: 
+	Constrained: 
+Turn ID=15| A | A : met plaat op de voorkant
+	Free: Pattern=met, Pattern=de
+	Constrained: 
+Turn ID=16| A | A : met een armp uit het water hoe jij dat noemen
+	Free: Pattern=dat, Pattern=het water, Pattern=uit, Pattern=met, Pattern=noemen
+	Constrained: Pattern=het
+Turn ID=17| B | B : die ja
+	Free: Pattern=ja, Pattern=die
+	Constrained: 
+Turn ID=18| B | B : J
+	Free: 
+	Constrained: 
+Turn ID=19| B | B : en bij jou
+	Free: Pattern=jou
+	Constrained: 
+Turn ID=20| A | A : tien
+	Free: Pattern=tien
+	Constrained: 
+Turn ID=21| B | B : J tien
+	Free: Pattern=tien
+	Constrained: 
+Turn ID=22| B | B : dit zijn met die drie dinge zo uit de uit de uit de zijkant
+	Free: Pattern=de, Pattern=uit, Pattern=met die drie, Pattern=dinge, Pattern=de zijkant, Pattern=zijn
+	Constrained: Pattern=met die, Pattern=de, Pattern=die drie, Pattern=drie, Pattern=met, Pattern=die
+Turn ID=23| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=24| B | B : d
+	Free: Pattern=d
+	Constrained: 
+Turn ID=25| A | A : elf
+	Free: Pattern=elf
+	Constrained: 
+Turn ID=26| A | A : d elf
+	Free: Pattern=elf, Pattern=d
+	Constrained: 
+Turn ID=27| A | A : oorbel drie van die bollet aan de zijkant van het hoofd
+	Free: Pattern=drie van die, Pattern=aan, Pattern=het, Pattern=de zijkant, Pattern=van
+	Constrained: Pattern=de, Pattern=drie, Pattern=die, Pattern=van, Pattern=van die
+Turn ID=28| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=29| A | A : zestien
+	Free: Pattern=zestien
+	Constrained: 
+Turn ID=30| B | B : wachten dit de de drie drie
+	Free: Pattern=de, Pattern=drie
+	Constrained: 
+Turn ID=31| A | A : ja ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=32| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=33| B | B : P zestien
+	Free: Pattern=zestien
+	Constrained: 
+Turn ID=34| A | A : zestien
+	Free: Pattern=zestien
+	Constrained: 
+Turn ID=35| A | A : dus we zijn erachter dat elk keer als het wat zijn zijn het hetzelfde
+	Free: Pattern=zijn, Pattern=het, Pattern=dat
+	Constrained: 
+Turn ID=36| B | B : dit zijn die met die die drie ding zo uit uit de oor met die plat neus K
+	Free: Pattern=met die, Pattern=de, Pattern=uit, Pattern=ding, Pattern=die drie, Pattern=die, Pattern=zijn, Pattern=K
+	Constrained: Pattern=met, Pattern=die, Pattern=drie
+Turn ID=37| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=38| A | A : K negen
+	Free: Pattern=K
+	Constrained: 
+Turn ID=39| A | A : jou oorbel
+	Free: Pattern=jou
+	Constrained: 
+Turn ID=40| A | A : drie van die ding aan elk kant
+	Free: Pattern=drie van die ding, Pattern=aan, Pattern=kant
+	Constrained: Pattern=drie van die, Pattern=ding, Pattern=drie, Pattern=die, Pattern=van, Pattern=van die
+Turn ID=41| B | B : drie van die ding
+	Free: Pattern=drie van die ding
+	Constrained: Pattern=drie van die, Pattern=ding, Pattern=drie, Pattern=die, Pattern=van, Pattern=van die
+Turn ID=42| A | A : yes
+	Free: 
+	Constrained: 
+Turn ID=43| A | A : elf
+	Free: Pattern=elf
+	Constrained: 
+Turn ID=44| B | B : L
+	Free: 
+	Constrained: 
+Turn ID=45| B | B : L elf
+	Free: Pattern=elf
+	Constrained: 

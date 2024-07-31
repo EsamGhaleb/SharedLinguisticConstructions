@@ -1,0 +1,191 @@
+B|0| B: _oké_ _nu_ _hebben_ _ik_ _een soort_ _ja_ _een soort_ _stoomboot_ _hebben_ _die_ hij _hebben_ _twee_ _twee_ dinge op _zijn_ _hoofd_ 
+B|1| B: _en_ _een_ groot neus _die_ rond _zijn_ _ja_ _een_ cilinder eigenlijk 
+B|2| B: _en_ hij _hebben_ _een_ hij _zijn_ doorboren _met_ _een_ _plaat_ 
+A|3| A: _ja en_ dan aan _de_ linkerkant [hebben] _je_ [een soort] van L eraan zitten 
+B|4| B: [ja en] nog [een] haak [ja] [ja] 
+A|5| A: [ja] 
+A|6| A: dus [die] gaan _we_ vanaf [nu] [stoomboot] _noemen_ 
+B|7| B: [ja] [stoomboot] 
+A|8| A: [oké] 
+A|9| A: welk [zijn] [die] _bij jou_ 
+B|10| B: hij _H_ 
+A|11| A: [H] zes 
+A|12| A: [plaat] recht _door_ _de_ emmer heen [een] L aan _de_ zijkant van _het_ [hoofd] [twee] spriet bovenop 
+B|13| B: [ja] [ja] [ja] [ja] [ja] [ja] 
+A|14| A: _zestien_ 
+B|15| B: C 
+B|16| B: C [zestien] 
+B|17| B: [de] [stoomboot] _met de_ rond neus 
+B|18| B: [die] langwerpig ronde neus [plaat] [door] [het] midden 
+A|19| A: [ik] weten welk _je_ bedoelen maar [ik] moeten hem eerst vinden 
+B|20| B: wat zeggen [je] 
+A|21| A: [ik] moeten hem vinden 
+B|22| B: [ja] 
+A|23| A: [met de] L aan [de] zijkant 
+B|24| B: [ja] 
+A|25| A: [ja] [oké] 
+B|26| B: _I_ 
+A|27| A: [I] dertien 
+A|28| A: [stoomboot] van _jou_ 
+A|29| A: [met] [die] L aan [de] zijkant 
+B|30| B: [ja] even kijken 
+B|31| B: J [en] [bij jou] 
+A|32| A: _vijftien_ 
+B|33| B: J [vijftien] 
+B|34| B: deze [noemen] [we] [de] [stoomboot] 
+B|35| B: [met] L'etje 
+A|36| A: [ja] 
+A|37| A: welk [zijn] [het] 
+B|38| B: _M_ 
+B|39| B: sorry 
+A|40| A: [M] negen [ja] maken niet uit 
+A|41| A: [ik] vergeet [het] zelf ook [de] heel tijd 
+A|42| A: [je] [stoomboot] 
+A|43| A: [met de] L aan [de] zijkant 
+B|44| B: [ja] even kijken [ja] 
+A|45| A: acht 
+B|46| B: N achten 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : oké nu hebben ik een soort ja een soort stoomboot hebben die hij hebben twee twee dinge op zijn hoofd
+	Free: Pattern=twee, Pattern=ja, Pattern=nu, Pattern=stoomboot, Pattern=hebben, Pattern=die, Pattern=oké, Pattern=zijn, Pattern=hoofd, Pattern=ik, Pattern=een soort
+	Constrained: Pattern=een
+Turn ID=1| B | B : en een groot neus die rond zijn ja een cilinder eigenlijk
+	Free: Pattern=ja, Pattern=een, Pattern=die, Pattern=en, Pattern=zijn
+	Constrained: 
+Turn ID=2| B | B : en hij hebben een hij zijn doorboren met een plaat
+	Free: Pattern=een, Pattern=hebben, Pattern=met, Pattern=en, Pattern=zijn, Pattern=plaat
+	Constrained: 
+Turn ID=3| A | A : ja en dan aan de linkerkant hebben je een soort van L eraan zitten
+	Free: Pattern=de, Pattern=hebben, Pattern=een soort, Pattern=je, Pattern=ja en
+	Constrained: Pattern=een, Pattern=en, Pattern=ja
+Turn ID=4| B | B : ja en nog een haak ja ja
+	Free: Pattern=ja en, Pattern=een, Pattern=ja
+	Constrained: Pattern=en, Pattern=ja
+Turn ID=5| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=6| A | A : dus die gaan we vanaf nu stoomboot noemen
+	Free: Pattern=nu, Pattern=stoomboot, Pattern=noemen, Pattern=we, Pattern=die
+	Constrained: 
+Turn ID=7| B | B : ja stoomboot
+	Free: Pattern=stoomboot, Pattern=ja
+	Constrained: 
+Turn ID=8| A | A : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=9| A | A : welk zijn die bij jou
+	Free: Pattern=bij jou, Pattern=zijn, Pattern=die
+	Constrained: Pattern=jou
+Turn ID=10| B | B : hij H
+	Free: Pattern=H
+	Constrained: 
+Turn ID=11| A | A : H zes
+	Free: Pattern=H
+	Constrained: 
+Turn ID=12| A | A : plaat recht door de emmer heen een L aan de zijkant van het hoofd twee spriet bovenop
+	Free: Pattern=twee, Pattern=de, Pattern=door, Pattern=een, Pattern=het, Pattern=hoofd, Pattern=plaat
+	Constrained: 
+Turn ID=13| B | B : ja ja ja ja ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=14| A | A : zestien
+	Free: Pattern=zestien
+	Constrained: 
+Turn ID=15| B | B : C
+	Free: 
+	Constrained: 
+Turn ID=16| B | B : C zestien
+	Free: Pattern=zestien
+	Constrained: 
+Turn ID=17| B | B : de stoomboot met de rond neus
+	Free: Pattern=met de, Pattern=stoomboot, Pattern=de
+	Constrained: Pattern=de, Pattern=met
+Turn ID=18| B | B : die langwerpig ronde neus plaat door het midden
+	Free: Pattern=plaat, Pattern=door, Pattern=die, Pattern=het
+	Constrained: 
+Turn ID=19| A | A : ik weten welk je bedoelen maar ik moeten hem eerst vinden
+	Free: Pattern=je, Pattern=ik
+	Constrained: 
+Turn ID=20| B | B : wat zeggen je
+	Free: Pattern=je
+	Constrained: 
+Turn ID=21| A | A : ik moeten hem vinden
+	Free: Pattern=ik
+	Constrained: 
+Turn ID=22| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=23| A | A : met de L aan de zijkant
+	Free: Pattern=met de, Pattern=de
+	Constrained: Pattern=de, Pattern=met
+Turn ID=24| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=25| A | A : ja oké
+	Free: Pattern=oké, Pattern=ja
+	Constrained: 
+Turn ID=26| B | B : I
+	Free: Pattern=I
+	Constrained: 
+Turn ID=27| A | A : I dertien
+	Free: Pattern=I
+	Constrained: 
+Turn ID=28| A | A : stoomboot van jou
+	Free: Pattern=jou, Pattern=stoomboot
+	Constrained: 
+Turn ID=29| A | A : met die L aan de zijkant
+	Free: Pattern=die, Pattern=de, Pattern=met
+	Constrained: 
+Turn ID=30| B | B : ja even kijken
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=31| B | B : J en bij jou
+	Free: Pattern=bij jou, Pattern=en
+	Constrained: Pattern=jou
+Turn ID=32| A | A : vijftien
+	Free: Pattern=vijftien
+	Constrained: 
+Turn ID=33| B | B : J vijftien
+	Free: Pattern=vijftien
+	Constrained: 
+Turn ID=34| B | B : deze noemen we de stoomboot
+	Free: Pattern=we, Pattern=noemen, Pattern=stoomboot, Pattern=de
+	Constrained: 
+Turn ID=35| B | B : met L'etje
+	Free: Pattern=met
+	Constrained: 
+Turn ID=36| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=37| A | A : welk zijn het
+	Free: Pattern=zijn, Pattern=het
+	Constrained: 
+Turn ID=38| B | B : M
+	Free: Pattern=M
+	Constrained: 
+Turn ID=39| B | B : sorry
+	Free: 
+	Constrained: 
+Turn ID=40| A | A : M negen ja maken niet uit
+	Free: Pattern=M, Pattern=ja
+	Constrained: 
+Turn ID=41| A | A : ik vergeet het zelf ook de heel tijd
+	Free: Pattern=de, Pattern=ik, Pattern=het
+	Constrained: 
+Turn ID=42| A | A : je stoomboot
+	Free: Pattern=je, Pattern=stoomboot
+	Constrained: 
+Turn ID=43| A | A : met de L aan de zijkant
+	Free: Pattern=met de, Pattern=de
+	Constrained: Pattern=de, Pattern=met
+Turn ID=44| B | B : ja even kijken ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=45| A | A : acht
+	Free: 
+	Constrained: 
+Turn ID=46| B | B : N achten
+	Free: 
+	Constrained: 

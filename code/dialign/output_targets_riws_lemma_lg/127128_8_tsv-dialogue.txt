@@ -1,0 +1,159 @@
+A|0| A: _er_ _komen een_ _uit_ _een_ mok _komen_ _aan de_ bovenkant _een_ ruitvormig _figuur_ _wat_ _worden_ doorboren door _een_ aantal vlak achter elkaar 
+A|1| A: _en_ _aan de onderkant_ _opsteken_ _er_ _een_ staaf _uit_ _wat_ deze vorm _hebben_ _zo_ 
+B|2| B: _ja_ _hij hebben_ _ook_ [een] neus [en] [een] _dinge_ [aan de] zijkant 
+A|3| A: [en] [hij hebben] [ja] _er_ _zitten_ _nog_ _twee_ _ding_ [aan] [aan] [en] [aan de] bovenkant _zijn_ het echt _een ruit_ _met_ vier [ja] _met_ _zo'n_ _blok_ erdoorheen 
+B|4| B: _met dat_ gek [blok] zeggen maar [de] soort van bliksemschichtdinge 
+A|5| A: _ja ja_ 
+B|6| B: oké 
+B|7| B: _dat zijn_ bij mij M 
+B|8| B: _dit zijn_ _die_ heel dynamisch _ook_ [hebben] [een] balk _die_ _er aan de_ voorkant [uit] [opsteken] [hebben] [een] [ding] [wat] [er] [zo] [aan de onderkant] [uit] [komen een] [ding] [wat] [er] [zo] [uit] [komen] 
+B|9| B: [zitten] [een] [zitten] [twee] _of_ tenminste nee [zitten] [een] [een] [een] [een] [een] [een] [een] vierkant [wat] op [zijn] kop [een ruit] 
+B|10| B: _die erin_ verdwijnen _en dan_ [twee] van _die_ klein wordende zeggen maar balk _die_ [er] [zo] in _gaan_ 
+A|11| A: [ja] 
+A|12| A: [ja] dus [een ruit] _wat erin vallen_ 
+B|13| B: [ja] 
+A|14| A: [ja] 
+A|15| A: [dat zijn] nummer negen 
+A|16| A: hoe noemen we deze [ook] alweer ? deze [zijn] [met dat] _ruit die _erin_ vallen_ waar al [die] [blok] _doorheen_ [gaan] [die] [blok] [gaan] door [dat] [ruit] heen 
+A|17| A: [en dan] [komen] [er [aan de] onderkant] _zo'n_ staaf [uit] _zo'n_ buigen staaf [en] [aan de] rechterkant [zitten] _nog_ [een] armp [of] iets [wat] het [ook] mogen [zijn] 
+B|18| B: [ruit die] _die ruit die_ Erbovenin [zitten] daar daar [gaan] [dat] klein [worden] [ding] [doorheen] 
+B|19| B: [dat zijn] bij mij H 
+B|20| B: _dit zijn_ [die] heel complex [figuur] _met die ruit die erin_ [zitten] klein wordend vierkant bij mij [zitten] [die] links bovenin 
+A|21| A: [ja] 
+B|22| B: [zitten] _zo'n dinge_ [wat] uitsteken [zo'n] L [en dan] weer [zo'n] [ding] 
+A|23| A: [ja] [er] [komen] echt [zo'n dinge] onderuit 
+B|24| B: [ja ja] 
+A|25| A: [ja] 
+A|26| A: [dat zijn] nummer elf 
+A|27| A: [dit zijn] [met die ruit die _erin] vallen_ [met die] [blok] erdoorheen 
+B|28| B: [ja] 
+A|29| A: onderaan [dat] [ding] _en dan nog_ [twee] uitsteeksel 
+B|30| B: [dat zijn] bij mij d 
+B|31| B: [en] [dit zijn] [die] veel complex [figuur] [met dat] vierkantje [wat erin vallen] [dat] klein [worden] balk [wat erin] [gaan] 
+A|32| A: [ja] 
+B|33| B: [die] L [aan de onderkant] [aan de] zijkant [en dan nog] [zo'n] Pinokkioneus 
+A|34| A: [ja] 
+A|35| A: [ja] [die ruit die [erin] vallen] 
+B|36| B: [ja] [zo'n] [ruit] [ja] 
+A|37| A: [ja] 
+A|38| A: veertien 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : er komen een uit een mok komen aan de bovenkant een ruitvormig figuur wat worden doorboren door een aantal vlak achter elkaar
+	Free: Pattern=komen, Pattern=een, Pattern=figuur, Pattern=komen een, Pattern=uit, Pattern=aan de, Pattern=worden, Pattern=wat, Pattern=er
+	Constrained: Pattern=aan, Pattern=de, Pattern=komen, Pattern=een
+Turn ID=1| A | A : en aan de onderkant opsteken er een staaf uit wat deze vorm hebben zo
+	Free: Pattern=uit, Pattern=een, Pattern=hebben, Pattern=aan de onderkant, Pattern=zo, Pattern=opsteken, Pattern=en, Pattern=wat, Pattern=er
+	Constrained: Pattern=aan, Pattern=de, Pattern=aan de
+Turn ID=2| B | B : ja hij hebben ook een neus en een dinge aan de zijkant
+	Free: Pattern=ja, Pattern=een, Pattern=hij hebben, Pattern=dinge, Pattern=en, Pattern=aan de, Pattern=ook
+	Constrained: Pattern=aan, Pattern=de, Pattern=hebben
+Turn ID=3| A | A : en hij hebben ja er zitten nog twee ding aan aan en aan de bovenkant zijn het echt een ruit met vier ja met zo'n blok erdoorheen
+	Free: Pattern=nog, Pattern=aan de, Pattern=ding, Pattern=een ruit, Pattern=hij hebben, Pattern=met, Pattern=zitten, Pattern=er, Pattern=en, Pattern=blok, Pattern=zijn, Pattern=zo'n, Pattern=twee, Pattern=aan, Pattern=ja
+	Constrained: Pattern=ruit, Pattern=een, Pattern=hebben, Pattern=de, Pattern=aan
+Turn ID=4| B | B : met dat gek blok zeggen maar de soort van bliksemschichtdinge
+	Free: Pattern=met dat, Pattern=de, Pattern=blok
+	Constrained: Pattern=dat, Pattern=met
+Turn ID=5| A | A : ja ja
+	Free: Pattern=ja ja
+	Constrained: Pattern=ja
+Turn ID=6| B | B : oké
+	Free: 
+	Constrained: 
+Turn ID=7| B | B : dat zijn bij mij M
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=8| B | B : dit zijn die heel dynamisch ook hebben een balk die er aan de voorkant uit opsteken hebben een ding wat er zo aan de onderkant uit komen een ding wat er zo uit komen
+	Free: Pattern=er aan de, Pattern=een, Pattern=hebben, Pattern=aan de onderkant, Pattern=zo, Pattern=opsteken, Pattern=die, Pattern=uit, Pattern=ook, Pattern=komen, Pattern=ding, Pattern=wat, Pattern=er, Pattern=komen een, Pattern=dit zijn
+	Constrained: Pattern=aan de, Pattern=komen, Pattern=een, Pattern=er, Pattern=zijn, Pattern=de, Pattern=aan
+Turn ID=9| B | B : zitten een zitten twee of tenminste nee zitten een een een een een een een vierkant wat op zijn kop een ruit
+	Free: Pattern=of, Pattern=twee, Pattern=een, Pattern=een ruit, Pattern=zitten, Pattern=wat, Pattern=zijn
+	Constrained: Pattern=ruit, Pattern=een
+Turn ID=10| B | B : die erin verdwijnen en dan twee van die klein wordende zeggen maar balk die er zo in gaan
+	Free: Pattern=twee, Pattern=en dan, Pattern=zo, Pattern=die, Pattern=er, Pattern=die erin, Pattern=gaan
+	Constrained: Pattern=die, Pattern=en
+Turn ID=11| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=12| A | A : ja dus een ruit wat erin vallen
+	Free: Pattern=wat erin vallen, Pattern=een ruit, Pattern=ja
+	Constrained: Pattern=ruit, Pattern=een, Pattern=erin vallen, Pattern=wat erin, Pattern=wat
+Turn ID=13| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=14| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=15| A | A : dat zijn nummer negen
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=16| A | A : hoe noemen we deze ook alweer ? deze zijn met dat ruit die erin vallen waar al die blok doorheen gaan die blok gaan door dat ruit heen
+	Free: Pattern=dat, Pattern=ruit, Pattern=doorheen, Pattern=ook, Pattern=erin vallen, Pattern=met dat, Pattern=ruit die erin, Pattern=die, Pattern=blok, Pattern=zijn, Pattern=gaan
+	Constrained: Pattern=dat, Pattern=ruit, Pattern=ruit die, Pattern=met, Pattern=die, Pattern=die erin
+Turn ID=17| A | A : en dan komen er aan de onderkant zo'n staaf uit zo'n buigen staaf en aan de rechterkant zitten nog een armp of iets wat het ook mogen zijn
+	Free: Pattern=of, Pattern=nog, Pattern=en dan, Pattern=komen, Pattern=een, Pattern=aan de onderkant, Pattern=zitten, Pattern=wat, Pattern=en, Pattern=zijn, Pattern=er aan de, Pattern=zo'n, Pattern=uit, Pattern=aan de, Pattern=ook
+	Constrained: Pattern=aan de, Pattern=er, Pattern=en, Pattern=de, Pattern=aan
+Turn ID=18| B | B : ruit die die ruit die Erbovenin zitten daar daar gaan dat klein worden ding doorheen
+	Free: Pattern=dat, Pattern=die ruit die, Pattern=doorheen, Pattern=worden, Pattern=ding, Pattern=ruit die, Pattern=zitten, Pattern=gaan
+	Constrained: Pattern=ruit die, Pattern=die, Pattern=ruit
+Turn ID=19| B | B : dat zijn bij mij H
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=20| B | B : dit zijn die heel complex figuur met die ruit die erin zitten klein wordend vierkant bij mij zitten die links bovenin
+	Free: Pattern=met die ruit die erin, Pattern=figuur, Pattern=dit zijn, Pattern=die, Pattern=zitten
+	Constrained: Pattern=met die, Pattern=ruit die, Pattern=die, Pattern=die erin, Pattern=zijn, Pattern=die ruit die erin, Pattern=die ruit die, Pattern=ruit, Pattern=ruit die erin, Pattern=met
+Turn ID=21| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=22| B | B : zitten zo'n dinge wat uitsteken zo'n L en dan weer zo'n ding
+	Free: Pattern=zo'n, Pattern=zo'n dinge, Pattern=en dan, Pattern=ding, Pattern=zitten, Pattern=wat
+	Constrained: Pattern=en, Pattern=zo'n, Pattern=dinge
+Turn ID=23| A | A : ja er komen echt zo'n dinge onderuit
+	Free: Pattern=zo'n dinge, Pattern=komen, Pattern=er, Pattern=ja
+	Constrained: Pattern=zo'n, Pattern=dinge
+Turn ID=24| B | B : ja ja
+	Free: Pattern=ja ja
+	Constrained: Pattern=ja
+Turn ID=25| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=26| A | A : dat zijn nummer elf
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=27| A | A : dit zijn met die ruit die erin vallen met die blok erdoorheen
+	Free: Pattern=met die, Pattern=met die ruit die erin, Pattern=erin vallen, Pattern=blok, Pattern=dit zijn
+	Constrained: Pattern=met die, Pattern=ruit die, Pattern=die, Pattern=die erin, Pattern=zijn, Pattern=die ruit die erin, Pattern=die ruit die, Pattern=ruit, Pattern=ruit die erin, Pattern=met
+Turn ID=28| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=29| A | A : onderaan dat ding en dan nog twee uitsteeksel
+	Free: Pattern=en dan nog, Pattern=dat, Pattern=ding, Pattern=twee
+	Constrained: Pattern=nog, Pattern=en dan, Pattern=en
+Turn ID=30| B | B : dat zijn bij mij d
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=31| B | B : en dit zijn die veel complex figuur met dat vierkantje wat erin vallen dat klein worden balk wat erin gaan
+	Free: Pattern=dat, Pattern=worden, Pattern=wat erin vallen, Pattern=met dat, Pattern=die, Pattern=en, Pattern=gaan, Pattern=dit zijn, Pattern=figuur, Pattern=wat erin
+	Constrained: Pattern=dat, Pattern=erin vallen, Pattern=met, Pattern=wat erin, Pattern=wat, Pattern=zijn
+Turn ID=32| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=33| B | B : die L aan de onderkant aan de zijkant en dan nog zo'n Pinokkioneus
+	Free: Pattern=zo'n, Pattern=en dan nog, Pattern=aan de, Pattern=aan de onderkant, Pattern=die
+	Constrained: Pattern=nog, Pattern=en dan, Pattern=aan de, Pattern=en, Pattern=de, Pattern=aan
+Turn ID=34| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=35| A | A : ja die ruit die erin vallen
+	Free: Pattern=die ruit die erin, Pattern=erin vallen, Pattern=ja
+	Constrained: Pattern=ruit die, Pattern=ruit die erin, Pattern=die, Pattern=die erin, Pattern=die ruit die, Pattern=ruit
+Turn ID=36| B | B : ja zo'n ruit ja
+	Free: Pattern=ruit, Pattern=zo'n, Pattern=ja
+	Constrained: 
+Turn ID=37| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=38| A | A : veertien
+	Free: 
+	Constrained: 

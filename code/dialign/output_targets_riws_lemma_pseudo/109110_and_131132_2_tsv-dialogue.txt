@@ -1,0 +1,159 @@
+A|0| A: deze vinden _ik_ _wel_ _raar_ _er_ zitten een _soort_ piramide bovenop 
+A|1| A: _de_ ander nee _dat _dat_ zijn_ 
+A|2| A: _dat zijn_ _wel_ _de_ enig 
+A|3| A: _ja_ _nog_ zo'n piramide alleen _zijn_ _de_ bovenkant _van_ af gesneden _die_ zitten _er_ toch _ja_ _ja_ _ja_ je _hebben_ _wel_ _de_ goed in ieder geval _en_ _de_ _aan de_ linkerkant zitten _ook_ iets wat _op_ kogel lijken 
+A|4| A: _ja_ _ja_ _ja_ 
+A|5| A: _ja_ 
+B|6| B: _met dat_ punt zeggen maar [ja] 
+B|7| B: [ja] 
+B|8| B: [ja] we [hebben] [er] [ook] [nog] niet zoveel niet [hebben] dus [dat] moeten [wel] J [zijn] want ver [hebben] [die] allemaal [van] [die] [raar] uitsteeksel 
+B|9| B: [ja] 
+B|10| B: [ja] 
+B|11| B: [ja] [soort] [van] [ja] 
+B|12| B: [ja] dan [zijn] het J 
+A|13| A: o _ik_ zullen even zoeken hoor 
+A|14| A: o _ik_ zien hem al [ja] 
+A|15| A: [ja] [ja] [met] _de_ piramide _op_ [zijn] hoofd 
+A|16| A: ok zes 
+B|17| B: oké dit [zijn] _die _met_ dat_ _met dat_ puntmuts zeggen maar 
+B|18| B: _met dat_ blok [aan de] zijkant [en] [dat dat] puntdak 
+B|19| B: het piramidedinge 
+B|20| B: [ja] 
+A|21| A: o [die met] [die] piramide _op_ [zijn] hoofd weten je [wel] [en] [met dat] geblokken neus [met] [die] kogel 
+A|22| A: [ja] 
+B|23| B: [ja] 
+B|24| B: [dat zijn] _bij mij_ E 
+A|25| A: [ja] _ik_ zien hem al 
+A|26| A: [ja] 
+A|27| A: tien 
+B|28| B: nu [hebben] [ik] [met dat] piramidehoofd 
+B|29| B: [ja] [op] wielt 
+B|30| B: tja 
+B|31| B: want [dat] staan [er] [wel] 
+B|32| B: [ja] 
+A|33| A: [die met] [die] piramide [op] [zijn] hoofd [en] [die] kogel 
+A|34| A: [bij mij] zitten hij helemaal linksbof 
+A|35| A: ok tien 
+B|36| B: [ja] 
+B|37| B: [dat zijn] [bij mij] G 
+B|38| B: [ik] [hebben] [die [met] dat] piramidehoed 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : deze vinden ik wel raar er zitten een soort piramide bovenop
+	Free: Pattern=soort, Pattern=wel, Pattern=er, Pattern=ik, Pattern=raar
+	Constrained: 
+Turn ID=1| A | A : de ander nee dat dat zijn
+	Free: Pattern=dat zijn, Pattern=dat dat, Pattern=de
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=2| A | A : dat zijn wel de enig
+	Free: Pattern=dat zijn, Pattern=wel, Pattern=de
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=3| A | A : ja nog zo'n piramide alleen zijn de bovenkant van af gesneden die zitten er toch ja ja ja je hebben wel de goed in ieder geval en de aan de linkerkant zitten ook iets wat op kogel lijken
+	Free: Pattern=nog, Pattern=wel, Pattern=hebben, Pattern=die, Pattern=er, Pattern=zijn, Pattern=de, Pattern=ja, Pattern=op, Pattern=aan de, Pattern=ook, Pattern=van, Pattern=en
+	Constrained: Pattern=de
+Turn ID=4| A | A : ja ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=5| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=6| B | B : met dat punt zeggen maar ja
+	Free: Pattern=met dat, Pattern=ja
+	Constrained: Pattern=dat, Pattern=met
+Turn ID=7| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=8| B | B : ja we hebben er ook nog niet zoveel niet hebben dus dat moeten wel J zijn want ver hebben die allemaal van die raar uitsteeksel
+	Free: Pattern=dat, Pattern=nog, Pattern=ja, Pattern=ook, Pattern=wel, Pattern=hebben, Pattern=die, Pattern=er, Pattern=van, Pattern=zijn, Pattern=raar
+	Constrained: 
+Turn ID=9| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=10| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=11| B | B : ja soort van ja
+	Free: Pattern=soort, Pattern=ja, Pattern=van
+	Constrained: 
+Turn ID=12| B | B : ja dan zijn het J
+	Free: Pattern=ja, Pattern=zijn
+	Constrained: 
+Turn ID=13| A | A : o ik zullen even zoeken hoor
+	Free: Pattern=ik
+	Constrained: 
+Turn ID=14| A | A : o ik zien hem al ja
+	Free: Pattern=ja, Pattern=ik
+	Constrained: 
+Turn ID=15| A | A : ja ja met de piramide op zijn hoofd
+	Free: Pattern=op, Pattern=met, Pattern=zijn, Pattern=de, Pattern=ja
+	Constrained: 
+Turn ID=16| A | A : ok zes
+	Free: 
+	Constrained: 
+Turn ID=17| B | B : oké dit zijn die met dat met dat puntmuts zeggen maar
+	Free: Pattern=die met, Pattern=met dat, Pattern=zijn
+	Constrained: Pattern=dat, Pattern=met, Pattern=die
+Turn ID=18| B | B : met dat blok aan de zijkant en dat dat puntdak
+	Free: Pattern=aan de, Pattern=dat dat, Pattern=met dat, Pattern=en
+	Constrained: Pattern=dat, Pattern=met, Pattern=de
+Turn ID=19| B | B : het piramidedinge
+	Free: 
+	Constrained: 
+Turn ID=20| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=21| A | A : o die met die piramide op zijn hoofd weten je wel en met dat geblokken neus met die kogel
+	Free: Pattern=op, Pattern=wel, Pattern=die met, Pattern=met dat, Pattern=met, Pattern=die, Pattern=en, Pattern=zijn
+	Constrained: Pattern=dat, Pattern=met, Pattern=die
+Turn ID=22| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=23| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=24| B | B : dat zijn bij mij E
+	Free: Pattern=bij mij, Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=25| A | A : ja ik zien hem al
+	Free: Pattern=ja, Pattern=ik
+	Constrained: 
+Turn ID=26| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=27| A | A : tien
+	Free: 
+	Constrained: 
+Turn ID=28| B | B : nu hebben ik met dat piramidehoofd
+	Free: Pattern=met dat, Pattern=hebben, Pattern=ik
+	Constrained: Pattern=dat, Pattern=met
+Turn ID=29| B | B : ja op wielt
+	Free: Pattern=ja, Pattern=op
+	Constrained: 
+Turn ID=30| B | B : tja
+	Free: 
+	Constrained: 
+Turn ID=31| B | B : want dat staan er wel
+	Free: Pattern=wel, Pattern=dat, Pattern=er
+	Constrained: 
+Turn ID=32| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=33| A | A : die met die piramide op zijn hoofd en die kogel
+	Free: Pattern=op, Pattern=die met, Pattern=die, Pattern=en, Pattern=zijn
+	Constrained: Pattern=met, Pattern=die
+Turn ID=34| A | A : bij mij zitten hij helemaal linksbof
+	Free: Pattern=bij mij
+	Constrained: 
+Turn ID=35| A | A : ok tien
+	Free: 
+	Constrained: 
+Turn ID=36| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=37| B | B : dat zijn bij mij G
+	Free: Pattern=bij mij, Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=38| B | B : ik hebben die met dat piramidehoed
+	Free: Pattern=die met, Pattern=met dat, Pattern=hebben, Pattern=ik
+	Constrained: Pattern=dat, Pattern=met, Pattern=die

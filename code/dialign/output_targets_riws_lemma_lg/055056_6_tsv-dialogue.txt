@@ -1,0 +1,143 @@
+A|0| A: zo 
+A|1| A: oké _dan_ mogen _ik_ gaan omschrijven 
+A|2| A: nou _het zijn_ wel mooi _dat_ we allebei _in_ koffie _en_ theebeker denken 
+A|3| A: er _zijn een_ _een_ _lepel_ _dat_ mooit schuin hangen 
+A|4| A: _en_ aan _de_ zijkant zitten _een_ bol 
+A|5| A: _en_ _door_ die bol _heen_ zitten _een_ staaf _met_ _een soort_ _zuignap_ aan _de_ rechterkant 
+B|6| B: [dan] 
+B|7| B: nee _ja_ 
+B|8| B: [een soort] _spijker_ [in] [de] 
+B|9| B: hebben [ik] [het] idee maar [ik] weten welk je bedoelen [in] ieder geval 
+A|10| A: oké 
+B|11| B: _dat zijn_ letter F 
+B|12| B: koffiekopje [met] iets [door] [het] _ei_ [heen] klein [lepel] erbovenuit 
+B|13| B: [het [zijn] [een] soort] spijk of zoals jij [het] noemen [een] [zuignap] 
+A|14| A: [ja] 
+A|15| A: [ja] [dat zijn] duidelijk [dat zijn] nummer vijf 
+A|16| A: [ei] aan [de] voorkant [met] [spijker] [dan] wel [zuignap] 
+B|17| B: [ja] 
+B|18| B: [en] [een] dinge 
+A|19| A: [een] lepeltje 
+B|20| B: [ja] 
+B|21| B: [dat zijn] letter A 
+B|22| B: [de] [ei] [met] [het] [spijker] _erdoorheen_ 
+A|23| A: lepeltje Bovenkant 
+B|24| B: [ja] 
+A|25| A: nummer vijf 
+A|26| A: [ei] aan [de] voorkant [met] [spijker] [en] [zuignap] [erdoorheen] 
+B|27| B: [ja] 
+A|28| A: [lepel] aan [de] bovenkant 
+B|29| B: [dat zijn] letter H 
+B|30| B: [de] [spijker] [door] [het] [ei] 
+B|31| B: [zuignap] 
+A|32| A: even kijken check 
+B|33| B: [ja] 
+A|34| A: [dat zijn] nummer vijftien 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : zo
+	Free: 
+	Constrained: 
+Turn ID=1| A | A : oké dan mogen ik gaan omschrijven
+	Free: Pattern=dan, Pattern=ik
+	Constrained: 
+Turn ID=2| A | A : nou het zijn wel mooi dat we allebei in koffie en theebeker denken
+	Free: Pattern=het zijn, Pattern=en, Pattern=dat, Pattern=in
+	Constrained: Pattern=het
+Turn ID=3| A | A : er zijn een een lepel dat mooit schuin hangen
+	Free: Pattern=zijn een, Pattern=een, Pattern=dat, Pattern=lepel
+	Constrained: Pattern=een
+Turn ID=4| A | A : en aan de zijkant zitten een bol
+	Free: Pattern=een, Pattern=en, Pattern=de
+	Constrained: 
+Turn ID=5| A | A : en door die bol heen zitten een staaf met een soort zuignap aan de rechterkant
+	Free: Pattern=de, Pattern=door, Pattern=een, Pattern=heen, Pattern=met, Pattern=een soort, Pattern=en, Pattern=zuignap
+	Constrained: Pattern=een
+Turn ID=6| B | B : dan
+	Free: Pattern=dan
+	Constrained: 
+Turn ID=7| B | B : nee ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=8| B | B : een soort spijker in de
+	Free: Pattern=een soort, Pattern=in, Pattern=de, Pattern=spijker
+	Constrained: Pattern=een
+Turn ID=9| B | B : hebben ik het idee maar ik weten welk je bedoelen in ieder geval
+	Free: Pattern=in, Pattern=ik, Pattern=het
+	Constrained: 
+Turn ID=10| A | A : oké
+	Free: 
+	Constrained: 
+Turn ID=11| B | B : dat zijn letter F
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat
+Turn ID=12| B | B : koffiekopje met iets door het ei heen klein lepel erbovenuit
+	Free: Pattern=lepel, Pattern=ei, Pattern=door, Pattern=het, Pattern=heen, Pattern=met
+	Constrained: 
+Turn ID=13| B | B : het zijn een soort spijk of zoals jij het noemen een zuignap
+	Free: Pattern=zijn een, Pattern=een, Pattern=het, Pattern=het zijn, Pattern=een soort, Pattern=zuignap
+	Constrained: Pattern=een, Pattern=het
+Turn ID=14| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=15| A | A : ja dat zijn duidelijk dat zijn nummer vijf
+	Free: Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=dat
+Turn ID=16| A | A : ei aan de voorkant met spijker dan wel zuignap
+	Free: Pattern=ei, Pattern=de, Pattern=dan, Pattern=met, Pattern=zuignap, Pattern=spijker
+	Constrained: 
+Turn ID=17| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=18| B | B : en een dinge
+	Free: Pattern=een, Pattern=en
+	Constrained: 
+Turn ID=19| A | A : een lepeltje
+	Free: Pattern=een
+	Constrained: 
+Turn ID=20| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=21| B | B : dat zijn letter A
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat
+Turn ID=22| B | B : de ei met het spijker erdoorheen
+	Free: Pattern=ei, Pattern=de, Pattern=het, Pattern=erdoorheen, Pattern=met, Pattern=spijker
+	Constrained: 
+Turn ID=23| A | A : lepeltje Bovenkant
+	Free: 
+	Constrained: 
+Turn ID=24| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=25| A | A : nummer vijf
+	Free: 
+	Constrained: 
+Turn ID=26| A | A : ei aan de voorkant met spijker en zuignap erdoorheen
+	Free: Pattern=ei, Pattern=de, Pattern=erdoorheen, Pattern=met, Pattern=en, Pattern=zuignap, Pattern=spijker
+	Constrained: 
+Turn ID=27| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=28| A | A : lepel aan de bovenkant
+	Free: Pattern=de, Pattern=lepel
+	Constrained: 
+Turn ID=29| B | B : dat zijn letter H
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat
+Turn ID=30| B | B : de spijker door het ei
+	Free: Pattern=ei, Pattern=de, Pattern=door, Pattern=het, Pattern=spijker
+	Constrained: 
+Turn ID=31| B | B : zuignap
+	Free: Pattern=zuignap
+	Constrained: 
+Turn ID=32| A | A : even kijken check
+	Free: 
+	Constrained: 
+Turn ID=33| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=34| A | A : dat zijn nummer vijftien
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat

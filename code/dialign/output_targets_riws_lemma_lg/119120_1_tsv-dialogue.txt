@@ -1,0 +1,139 @@
+B|0| B: _ja_ deze hebben de _verrekijker_ 
+B|1| B: hebben _twee_ van die 
+A|2| A: _spijker op het hoofd_ 
+B|3| B: _ja_ [spijker op het hoofd] 
+A|4| A: [ja] welk 
+B|5| B: plat plat ding 
+A|6| A: [ja] 
+B|7| B: _B_ 
+A|8| A: [B] [twee] 
+B|9| B: [ja] 
+A|10| A: [spijker op het hoofd] [verrekijker] 
+B|11| B: [ja] G 
+A|12| A: _dertien_ 
+B|13| B: G [dertien] 
+B|14| B: dit zijn de [verrekijker] met zo'n antenne of zo'n hoed 
+A|15| A: [ja] [ja] [ja] [ja] 
+B|16| B: [ja] 
+B|17| B: [B] 
+A|18| A: _B negen_ 
+A|19| A: [verrekijker] 
+A|20| A: [spijker op het hoofd] 
+B|21| B: [ja] D 
+A|22| A: _zeven_ 
+B|23| B: d [zeven] 
+B|24| B: deze noemen _ik_ [verrekijker] met die antenne zo 
+A|25| A: [ik] weten welk je bedoelen 
+B|26| B: _P_ 
+A|27| A: welk 
+B|28| B: _P_ 
+A|29| A: [P] één 
+A|30| A: jou [verrekijker] 
+B|31| B: even kijken [B] 
+A|32| A: _negen_ 
+B|33| B: [B negen] 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : ja deze hebben de verrekijker
+	Free: Pattern=verrekijker, Pattern=ja
+	Constrained: 
+Turn ID=1| B | B : hebben twee van die
+	Free: Pattern=twee
+	Constrained: 
+Turn ID=2| A | A : spijker op het hoofd
+	Free: Pattern=spijker op het hoofd
+	Constrained: 
+Turn ID=3| B | B : ja spijker op het hoofd
+	Free: Pattern=spijker op het hoofd, Pattern=ja
+	Constrained: 
+Turn ID=4| A | A : ja welk
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=5| B | B : plat plat ding
+	Free: 
+	Constrained: 
+Turn ID=6| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=7| B | B : B
+	Free: Pattern=B
+	Constrained: 
+Turn ID=8| A | A : B twee
+	Free: Pattern=twee, Pattern=B
+	Constrained: 
+Turn ID=9| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=10| A | A : spijker op het hoofd verrekijker
+	Free: Pattern=spijker op het hoofd, Pattern=verrekijker
+	Constrained: 
+Turn ID=11| B | B : ja G
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=12| A | A : dertien
+	Free: Pattern=dertien
+	Constrained: 
+Turn ID=13| B | B : G dertien
+	Free: Pattern=dertien
+	Constrained: 
+Turn ID=14| B | B : dit zijn de verrekijker met zo'n antenne of zo'n hoed
+	Free: Pattern=verrekijker
+	Constrained: 
+Turn ID=15| A | A : ja ja ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=16| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=17| B | B : B
+	Free: Pattern=B
+	Constrained: 
+Turn ID=18| A | A : B negen
+	Free: Pattern=B negen
+	Constrained: Pattern=B, Pattern=negen
+Turn ID=19| A | A : verrekijker
+	Free: Pattern=verrekijker
+	Constrained: 
+Turn ID=20| A | A : spijker op het hoofd
+	Free: Pattern=spijker op het hoofd
+	Constrained: 
+Turn ID=21| B | B : ja D
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=22| A | A : zeven
+	Free: Pattern=zeven
+	Constrained: 
+Turn ID=23| B | B : d zeven
+	Free: Pattern=zeven
+	Constrained: 
+Turn ID=24| B | B : deze noemen ik verrekijker met die antenne zo
+	Free: Pattern=verrekijker, Pattern=ik
+	Constrained: 
+Turn ID=25| A | A : ik weten welk je bedoelen
+	Free: Pattern=ik
+	Constrained: 
+Turn ID=26| B | B : P
+	Free: Pattern=P
+	Constrained: 
+Turn ID=27| A | A : welk
+	Free: 
+	Constrained: 
+Turn ID=28| B | B : P
+	Free: Pattern=P
+	Constrained: 
+Turn ID=29| A | A : P één
+	Free: Pattern=P
+	Constrained: 
+Turn ID=30| A | A : jou verrekijker
+	Free: Pattern=verrekijker
+	Constrained: 
+Turn ID=31| B | B : even kijken B
+	Free: Pattern=B
+	Constrained: 
+Turn ID=32| A | A : negen
+	Free: Pattern=negen
+	Constrained: 
+Turn ID=33| B | B : B negen
+	Free: Pattern=B negen
+	Constrained: Pattern=B, Pattern=negen

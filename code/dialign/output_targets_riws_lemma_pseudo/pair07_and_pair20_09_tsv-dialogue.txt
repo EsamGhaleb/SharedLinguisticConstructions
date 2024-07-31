@@ -1,0 +1,151 @@
+B|0| B: _ja_ ik mogen beginnen 
+B|1| B: okee 
+B|2| B: eens even kijken horen 
+B|3| B: _de_ _ja_ _het_ _zijn_ allemaal kop toch 
+B|4| B: _ja_ okee mooi 
+B|5| B: _deze hebben_ _een_ _een soort_ één groot balk _aan de_ onderkant waar _die_ op staan 
+A|6| A: [ja] 
+B|7| B: _het_ lijken alsof _die_ _een soort_ lepeltje _hebben_ 
+A|8| A: vijfteen 
+B|9| B: voor mijn gevoel _dan_ 
+B|10| B: _er_ zitten _een_ één _rond_ handvat _aan_ _die_ je gewoon _zo_ vast _kunnen_ houden 
+A|11| A: _dat_ [kunnen] jij niet _zien_ _dat_ _dat_ goed [zijn] [ja] 
+B|12| B: _en_ _een_ _een_ plat _schijf aan de achterkant_ 
+B|13| B: [ja] 
+B|14| B: [ja] _zo_ zullen je hem wel [kunnen] [zien] even kijken hoor 
+B|15| B: [ja] 
+B|16| B: [ja] [ja] [ja] [ja] [ja] 
+B|17| B: [ja] [ja] [ja] 
+A|18| A: [deze hebben] [aan de achterkant] [een] [rond] [schijf] [zo] [er] tegenaan [en] [aan de] linkerkant [een] [rond] koker [en] [aan de] bovenkant nog zo'n zo'n kegel 
+A|19| A: klein [ja] [een] kegeltje erbovenop 
+A|20| A: [en] [dan] 
+A|21| A: [ja] [aan de achterkant] 
+A|22| A: [en] [dan] [aan de] linkerkant [een soort] [rond] koker 
+A|23| A: [ja] 
+A|24| A: [ja] 
+A|25| A: [ja] zestien 
+B|26| B: [ja] [dat] [zijn] à 
+A|27| A: _dit zijn_ [die] _met_ [die] [rond] [schijf aan de achterkant] [dat] kegelt Rechtsbovenop [en] 
+B|28| B: ah _dit zijn de_ degeen [die] ik als één moeten omschrijven _met _het_ citroen_ erin 
+A|29| A: [ja] 
+A|30| A: [ja] dertien 
+A|31| A: [dit zijn de] [het citroen] [aan de achterkant] [met het] kegelt 
+B|32| B: [citroen] [en] [het] lepel eens even kijken horen 
+B|33| B: [ja] ik 
+B|34| B: daar [dat] [zijn] c 
+B|35| B: [dit zijn] [het citroen] 
+B|36| B: [dat] [zijn] o 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : ja ik mogen beginnen
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=1| B | B : okee
+	Free: 
+	Constrained: 
+Turn ID=2| B | B : eens even kijken horen
+	Free: 
+	Constrained: 
+Turn ID=3| B | B : de ja het zijn allemaal kop toch
+	Free: Pattern=zijn, Pattern=de, Pattern=ja, Pattern=het
+	Constrained: 
+Turn ID=4| B | B : ja okee mooi
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=5| B | B : deze hebben een een soort één groot balk aan de onderkant waar die op staan
+	Free: Pattern=aan de, Pattern=een, Pattern=deze hebben, Pattern=die, Pattern=een soort
+	Constrained: Pattern=aan, Pattern=een, Pattern=de, Pattern=hebben
+Turn ID=6| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=7| B | B : het lijken alsof die een soort lepeltje hebben
+	Free: Pattern=een soort, Pattern=hebben, Pattern=het, Pattern=die
+	Constrained: Pattern=een
+Turn ID=8| A | A : vijfteen
+	Free: 
+	Constrained: 
+Turn ID=9| B | B : voor mijn gevoel dan
+	Free: Pattern=dan
+	Constrained: 
+Turn ID=10| B | B : er zitten een één rond handvat aan die je gewoon zo vast kunnen houden
+	Free: Pattern=kunnen, Pattern=aan, Pattern=een, Pattern=zo, Pattern=die, Pattern=er, Pattern=rond
+	Constrained: 
+Turn ID=11| A | A : dat kunnen jij niet zien dat dat goed zijn ja
+	Free: Pattern=dat, Pattern=kunnen, Pattern=ja, Pattern=zien, Pattern=zijn
+	Constrained: 
+Turn ID=12| B | B : en een een plat schijf aan de achterkant
+	Free: Pattern=schijf aan de achterkant, Pattern=een, Pattern=en
+	Constrained: Pattern=aan de achterkant, Pattern=aan de, Pattern=schijf, Pattern=de, Pattern=aan
+Turn ID=13| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=14| B | B : ja zo zullen je hem wel kunnen zien even kijken hoor
+	Free: Pattern=kunnen, Pattern=zien, Pattern=ja, Pattern=zo
+	Constrained: 
+Turn ID=15| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=16| B | B : ja ja ja ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=17| B | B : ja ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=18| A | A : deze hebben aan de achterkant een rond schijf zo er tegenaan en aan de linkerkant een rond koker en aan de bovenkant nog zo'n zo'n kegel
+	Free: Pattern=aan de achterkant, Pattern=aan de, Pattern=een, Pattern=schijf, Pattern=er, Pattern=en, Pattern=rond, Pattern=deze hebben, Pattern=zo
+	Constrained: Pattern=aan, Pattern=de, Pattern=aan de, Pattern=hebben
+Turn ID=19| A | A : klein ja een kegeltje erbovenop
+	Free: Pattern=ja, Pattern=een
+	Constrained: 
+Turn ID=20| A | A : en dan
+	Free: Pattern=dan, Pattern=en
+	Constrained: 
+Turn ID=21| A | A : ja aan de achterkant
+	Free: Pattern=aan de achterkant, Pattern=ja
+	Constrained: Pattern=aan, Pattern=de, Pattern=aan de
+Turn ID=22| A | A : en dan aan de linkerkant een soort rond koker
+	Free: Pattern=aan de, Pattern=dan, Pattern=een soort, Pattern=en, Pattern=rond
+	Constrained: Pattern=aan, Pattern=de, Pattern=een
+Turn ID=23| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=24| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=25| A | A : ja zestien
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=26| B | B : ja dat zijn à
+	Free: Pattern=dat, Pattern=zijn, Pattern=ja
+	Constrained: 
+Turn ID=27| A | A : dit zijn die met die rond schijf aan de achterkant dat kegelt Rechtsbovenop en
+	Free: Pattern=dat, Pattern=met, Pattern=die, Pattern=en, Pattern=rond, Pattern=schijf aan de achterkant, Pattern=dit zijn
+	Constrained: Pattern=aan de achterkant, Pattern=aan de, Pattern=schijf, Pattern=zijn, Pattern=de, Pattern=aan
+Turn ID=28| B | B : ah dit zijn de degeen die ik als één moeten omschrijven met het citroen erin
+	Free: Pattern=dit zijn de, Pattern=het citroen, Pattern=met het, Pattern=die
+	Constrained: Pattern=de, Pattern=het, Pattern=met, Pattern=citroen, Pattern=zijn, Pattern=dit zijn
+Turn ID=29| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=30| A | A : ja dertien
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=31| A | A : dit zijn de het citroen aan de achterkant met het kegelt
+	Free: Pattern=dit zijn de, Pattern=aan de achterkant, Pattern=het citroen, Pattern=met het
+	Constrained: Pattern=aan de, Pattern=het, Pattern=met, Pattern=citroen, Pattern=zijn, Pattern=dit zijn, Pattern=de, Pattern=aan
+Turn ID=32| B | B : citroen en het lepel eens even kijken horen
+	Free: Pattern=het, Pattern=en, Pattern=citroen
+	Constrained: 
+Turn ID=33| B | B : ja ik
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=34| B | B : daar dat zijn c
+	Free: Pattern=dat, Pattern=zijn
+	Constrained: 
+Turn ID=35| B | B : dit zijn het citroen
+	Free: Pattern=het citroen, Pattern=dit zijn
+	Constrained: Pattern=zijn, Pattern=het, Pattern=citroen
+Turn ID=36| B | B : dat zijn o
+	Free: Pattern=dat, Pattern=zijn
+	Constrained: 

@@ -1,0 +1,91 @@
+A|0| A: _ja_ _het ISteken_ _aan de rechterkant_ 
+A|1| A: waarvan 
+B|2| B: [het] egaalteken kennen ik niet 
+B|3| B: sorry 
+B|4| B: = [ja] [ja] [ja] okee [ja] dan weten ik hem denken ik al 
+B|5| B: [ja] okee dan weten ik hem al dat zijn nummer getal letter p bij mij 
+A|6| A: achten 
+A|7| A: _ISteken_ _aan de rechterkant_ 
+A|8| A: veertien 
+B|9| B: deze hebben twee dezelfde arm [aan de rechterkant] 
+B|10| B: zijn rechthoekje 
+B|11| B: en een een puntmuts maar [de] punt zijn er niet zeggen maar die zijn er afgehken 
+A|12| A: _het ISteken_ [aan de rechterkant] 
+B|13| B: [ja] [ja] 
+B|14| B: [ja] die 
+B|15| B: [ja] f 
+A|16| A: tien 
+B|17| B: deze zijn met [het ISteken] en [de] afgekapte puntmuts 
+B|18| B: [ja] 
+B|19| B: dat zijn f 
+B|20| B: f sorry hard 
+B|21| B: dit zijn [het ISteken] en [de] afgekapte puntmuts 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : ja het ISteken aan de rechterkant
+	Free: Pattern=aan de rechterkant, Pattern=het ISteken, Pattern=ja
+	Constrained: Pattern=de, Pattern=ISteken, Pattern=het
+Turn ID=1| A | A : waarvan
+	Free: 
+	Constrained: 
+Turn ID=2| B | B : het egaalteken kennen ik niet
+	Free: Pattern=het
+	Constrained: 
+Turn ID=3| B | B : sorry
+	Free: 
+	Constrained: 
+Turn ID=4| B | B : = ja ja ja okee ja dan weten ik hem denken ik al
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=5| B | B : ja okee dan weten ik hem al dat zijn nummer getal letter p bij mij
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=6| A | A : achten
+	Free: 
+	Constrained: 
+Turn ID=7| A | A : ISteken aan de rechterkant
+	Free: Pattern=aan de rechterkant, Pattern=ISteken
+	Constrained: Pattern=de
+Turn ID=8| A | A : veertien
+	Free: 
+	Constrained: 
+Turn ID=9| B | B : deze hebben twee dezelfde arm aan de rechterkant
+	Free: Pattern=aan de rechterkant
+	Constrained: Pattern=de
+Turn ID=10| B | B : zijn rechthoekje
+	Free: 
+	Constrained: 
+Turn ID=11| B | B : en een een puntmuts maar de punt zijn er niet zeggen maar die zijn er afgehken
+	Free: Pattern=de
+	Constrained: 
+Turn ID=12| A | A : het ISteken aan de rechterkant
+	Free: Pattern=aan de rechterkant, Pattern=het ISteken
+	Constrained: Pattern=de, Pattern=ISteken, Pattern=het
+Turn ID=13| B | B : ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=14| B | B : ja die
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=15| B | B : ja f
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=16| A | A : tien
+	Free: 
+	Constrained: 
+Turn ID=17| B | B : deze zijn met het ISteken en de afgekapte puntmuts
+	Free: Pattern=het ISteken, Pattern=de
+	Constrained: Pattern=ISteken, Pattern=het
+Turn ID=18| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=19| B | B : dat zijn f
+	Free: 
+	Constrained: 
+Turn ID=20| B | B : f sorry hard
+	Free: 
+	Constrained: 
+Turn ID=21| B | B : dit zijn het ISteken en de afgekapte puntmuts
+	Free: Pattern=het ISteken, Pattern=de
+	Constrained: Pattern=ISteken, Pattern=het

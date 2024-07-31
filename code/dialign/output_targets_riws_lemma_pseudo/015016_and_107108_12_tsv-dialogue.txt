@@ -1,0 +1,103 @@
+A|0| A: _ja_ _dit zijn_ _die_ figuur _met_ dan hebben je _die_ emmer dan zitten er _zo'n_ arm _aan_ 
+A|1| A: _en_ _op_ _die_ arm zitten weer _zo'n_ toeter 
+A|2| A: _ja_ _zo'n_ _plateau_ _ja_ 
+B|3| B: welk kant [op] een uitstekel 
+B|4| B: o [ja] [en] [aan] _de_ rechterkant een beetje [zo'n] rond [plateau] rad [ja] ok [ja] _dat zijn_ bij mij L 
+B|5| B: ok ik moeten klikken 
+A|6| A: _die_ _met die_ toeter eruit 
+A|7| A: [dat zijn] zeven 
+B|8| B: [dit zijn] [dat] [die] een [met die] spijker [en] [dat] rond plateautje 
+B|9| B: ok bij mij M 
+A|10| A: [ja] [dit zijn] [die] [met die] arm [en] [die] toeter erop 
+B|11| B: o [ja] [dat zijn] C 
+A|12| A: [de] arm [met] [de] toeter 
+A|13| A: één 
+A|14| A: één [zijn] het 
+B|15| B: [dit zijn] [de] spijker 
+B|16| B: ok bij mij O 
+A|17| A: [dit zijn] [die] arm [met die] toeter erop 
+B|18| B: o hier A 
+B|19| B: o 
+A|20| A: [ja] 
+A|21| A: [die] toeter 
+A|22| A: dertien 
+B|23| B: [dit zijn] [de] spijker 
+B|24| B: ok 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : ja dit zijn die figuur met dan hebben je die emmer dan zitten er zo'n arm aan
+	Free: Pattern=zo'n, Pattern=met, Pattern=die, Pattern=dit zijn, Pattern=aan, Pattern=ja
+	Constrained: Pattern=zijn
+Turn ID=1| A | A : en op die arm zitten weer zo'n toeter
+	Free: Pattern=en, Pattern=zo'n, Pattern=op, Pattern=die
+	Constrained: 
+Turn ID=2| A | A : ja zo'n plateau ja
+	Free: Pattern=plateau, Pattern=ja, Pattern=zo'n
+	Constrained: 
+Turn ID=3| B | B : welk kant op een uitstekel
+	Free: Pattern=op
+	Constrained: 
+Turn ID=4| B | B : o ja en aan de rechterkant een beetje zo'n rond plateau rad ja ok ja dat zijn bij mij L
+	Free: Pattern=dat zijn, Pattern=zo'n, Pattern=plateau, Pattern=en, Pattern=de, Pattern=aan, Pattern=ja
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=5| B | B : ok ik moeten klikken
+	Free: 
+	Constrained: 
+Turn ID=6| A | A : die met die toeter eruit
+	Free: Pattern=met die, Pattern=die
+	Constrained: Pattern=met, Pattern=die
+Turn ID=7| A | A : dat zijn zeven
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=8| B | B : dit zijn dat die een met die spijker en dat rond plateautje
+	Free: Pattern=die, Pattern=en, Pattern=dit zijn, Pattern=dat, Pattern=met die
+	Constrained: Pattern=met, Pattern=die, Pattern=zijn
+Turn ID=9| B | B : ok bij mij M
+	Free: 
+	Constrained: 
+Turn ID=10| A | A : ja dit zijn die met die arm en die toeter erop
+	Free: Pattern=met die, Pattern=ja, Pattern=die, Pattern=en, Pattern=dit zijn
+	Constrained: Pattern=met, Pattern=die, Pattern=zijn
+Turn ID=11| B | B : o ja dat zijn C
+	Free: Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=12| A | A : de arm met de toeter
+	Free: Pattern=met, Pattern=de
+	Constrained: 
+Turn ID=13| A | A : één
+	Free: 
+	Constrained: 
+Turn ID=14| A | A : één zijn het
+	Free: Pattern=zijn
+	Constrained: 
+Turn ID=15| B | B : dit zijn de spijker
+	Free: Pattern=dit zijn, Pattern=de
+	Constrained: Pattern=zijn
+Turn ID=16| B | B : ok bij mij O
+	Free: 
+	Constrained: 
+Turn ID=17| A | A : dit zijn die arm met die toeter erop
+	Free: Pattern=dit zijn, Pattern=met die, Pattern=die
+	Constrained: Pattern=met, Pattern=die, Pattern=zijn
+Turn ID=18| B | B : o hier A
+	Free: 
+	Constrained: 
+Turn ID=19| B | B : o
+	Free: 
+	Constrained: 
+Turn ID=20| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=21| A | A : die toeter
+	Free: Pattern=die
+	Constrained: 
+Turn ID=22| A | A : dertien
+	Free: 
+	Constrained: 
+Turn ID=23| B | B : dit zijn de spijker
+	Free: Pattern=dit zijn, Pattern=de
+	Constrained: Pattern=zijn
+Turn ID=24| B | B : ok
+	Free: 
+	Constrained: 

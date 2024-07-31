@@ -1,0 +1,147 @@
+A|0| A: _hier_ _zitten zeggen maar_ twee staf in _een_ kort _en een_ lang _met_ _een_ bolle _aan de _aan_ de_ _uiteinde_ 
+A|1| A: _en_ er staan _nog_ iets _van_ _een_ vierkant achter 
+A|2| A: _op_ _een_ stok 
+A|3| A: _ja_ welk vorm hebben ze _een_ beetje vierkant vijfhoek zoiets 
+A|4| A: _zeggen maar_ er _zitten_ twee _van_ die ovaalt _aan de_ _uiteinde_ _van_ _de_ staven 
+A|5| A: _het_ _zijn_ best _wel_ groot staven 
+A|6| A: daarachter _zitten zeggen maar_ _een_ plat vierkant _maar_ hij lijken _op_ _een_ ruit 
+A|7| A: als _je_ er zo naar kijken die zien _je_ zien _hem_ _maar_ _voor_ _de_ helft 
+A|8| A: _ja_ klopt dat hebben _ik_ _niet_ _zeggen_ 
+A|9| A: nee links _en_ rechts _ja_ _en_ daarachter zo'n gek ruitding 
+A|10| A: _ja_ inderdaad _ja_ 
+B|11| B: [ja] [ja] 
+B|12| B: [ja] [een] soort [van] zonne-energiepaneeltje [aan de] achterkant [ja] 
+B|13| B: [ik] _weten_ [het] anders ook [niet] [ja] 
+B|14| B: okee [ja] [ik] denken [ik] [hem] [wel] _weten_ 
+B|15| B: [ik] gaan [voor] c 
+A|16| A: [ja] yes 
+A|17| A: _met_ die vierkant _en_ dat rechthoekding 
+A|18| A: [ja] dat _zijn_ nummer tien 
+A|19| A: _dit zijn_ die _met_ die twee stokk _met_ die bal [aan de] _uiteinde_ _met_ die rechthoek nee wat _zijn _het_ een_ ruit erachter 
+A|20| A: _weten je_ _nou ja_ 
+B|21| B: ah [ja] 
+B|22| B: [ja] [hier] [dit [zijn] het] kop waar zelf niks [op] [zitten zeggen maar] 
+B|23| B: [maar] waar [aan de] achterkant [een] soort [van] rond staaf liggen [met] [uiteinde] bollet 
+B|24| B: [en een] [een] [een] zonne-energiepaneeltje [weten je] [nog] 
+B|25| B: [ja] 
+A|26| A: [ja] [en] erachter [nog] [ja] 
+A|27| A: prima dat [zijn] vier 
+A|28| A: [dit zijn] die [met] die twee staf [met] die bal [aan] [het] uitein [en] daarachter [een] ruit 
+B|29| B: [ja] 
+B|30| B: alright dan gaan [ik] [voor] a 
+A|31| A: [ja] dat [zijn] zes 
+B|32| B: kop [met] [aan de] achterkant [een] hoe heten [het een] soort pen [met] [met] bollet [aan de aan] beide kant [en een] zonnepaneel 
+B|33| B: [ik] gaan [voor] b [ja] 
+B|34| B: [nou ja] 
+B|35| B: zonne-energiedakje 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : hier zitten zeggen maar twee staf in een kort en een lang met een bolle aan de aan de uiteinde
+	Free: Pattern=hier, Pattern=aan de, Pattern=aan de aan, Pattern=met, Pattern=en een, Pattern=een, Pattern=zitten zeggen maar, Pattern=uiteinde
+	Constrained: Pattern=aan de, Pattern=een, Pattern=zeggen maar, Pattern=zeggen, Pattern=zitten, Pattern=en, Pattern=maar, Pattern=de, Pattern=aan
+Turn ID=1| A | A : en er staan nog iets van een vierkant achter
+	Free: Pattern=nog, Pattern=van, Pattern=en, Pattern=een
+	Constrained: 
+Turn ID=2| A | A : op een stok
+	Free: Pattern=op, Pattern=een
+	Constrained: 
+Turn ID=3| A | A : ja welk vorm hebben ze een beetje vierkant vijfhoek zoiets
+	Free: Pattern=ja, Pattern=een
+	Constrained: 
+Turn ID=4| A | A : zeggen maar er zitten twee van die ovaalt aan de uiteinde van de staven
+	Free: Pattern=de, Pattern=aan de, Pattern=uiteinde, Pattern=zeggen maar, Pattern=zitten, Pattern=van
+	Constrained: Pattern=aan, Pattern=de, Pattern=maar, Pattern=zeggen
+Turn ID=5| A | A : het zijn best wel groot staven
+	Free: Pattern=zijn, Pattern=wel, Pattern=het
+	Constrained: 
+Turn ID=6| A | A : daarachter zitten zeggen maar een plat vierkant maar hij lijken op een ruit
+	Free: Pattern=zitten zeggen maar, Pattern=op, Pattern=maar, Pattern=een
+	Constrained: Pattern=zeggen maar, Pattern=maar, Pattern=zeggen, Pattern=zitten
+Turn ID=7| A | A : als je er zo naar kijken die zien je zien hem maar voor de helft
+	Free: Pattern=de, Pattern=voor, Pattern=maar, Pattern=je, Pattern=hem
+	Constrained: 
+Turn ID=8| A | A : ja klopt dat hebben ik niet zeggen
+	Free: Pattern=niet, Pattern=ja, Pattern=ik, Pattern=zeggen
+	Constrained: 
+Turn ID=9| A | A : nee links en rechts ja en daarachter zo'n gek ruitding
+	Free: Pattern=en, Pattern=ja
+	Constrained: 
+Turn ID=10| A | A : ja inderdaad ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=11| B | B : ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=12| B | B : ja een soort van zonne-energiepaneeltje aan de achterkant ja
+	Free: Pattern=aan de, Pattern=van, Pattern=ja, Pattern=een
+	Constrained: Pattern=aan, Pattern=de
+Turn ID=13| B | B : ik weten het anders ook niet ja
+	Free: Pattern=ja, Pattern=niet, Pattern=weten, Pattern=het, Pattern=ik
+	Constrained: 
+Turn ID=14| B | B : okee ja ik denken ik hem wel weten
+	Free: Pattern=ja, Pattern=wel, Pattern=weten, Pattern=ik, Pattern=hem
+	Constrained: 
+Turn ID=15| B | B : ik gaan voor c
+	Free: Pattern=ik, Pattern=voor
+	Constrained: 
+Turn ID=16| A | A : ja yes
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=17| A | A : met die vierkant en dat rechthoekding
+	Free: Pattern=en, Pattern=met
+	Constrained: 
+Turn ID=18| A | A : ja dat zijn nummer tien
+	Free: Pattern=zijn, Pattern=ja
+	Constrained: 
+Turn ID=19| A | A : dit zijn die met die twee stokk met die bal aan de uiteinde met die rechthoek nee wat zijn het een ruit erachter
+	Free: Pattern=het een, Pattern=zijn het, Pattern=aan de, Pattern=uiteinde, Pattern=met, Pattern=dit zijn
+	Constrained: Pattern=een, Pattern=het, Pattern=zijn, Pattern=de, Pattern=aan
+Turn ID=20| A | A : weten je nou ja
+	Free: Pattern=weten je, Pattern=nou ja
+	Constrained: Pattern=je, Pattern=ja, Pattern=weten
+Turn ID=21| B | B : ah ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=22| B | B : ja hier dit zijn het kop waar zelf niks op zitten zeggen maar
+	Free: Pattern=zijn het, Pattern=ja, Pattern=hier, Pattern=op, Pattern=zitten zeggen maar, Pattern=dit zijn
+	Constrained: Pattern=zeggen maar, Pattern=het, Pattern=zeggen, Pattern=zitten, Pattern=zijn, Pattern=maar
+Turn ID=23| B | B : maar waar aan de achterkant een soort van rond staaf liggen met uiteinde bollet
+	Free: Pattern=aan de, Pattern=met, Pattern=van, Pattern=maar, Pattern=een, Pattern=uiteinde
+	Constrained: Pattern=aan, Pattern=de
+Turn ID=24| B | B : en een een een zonne-energiepaneeltje weten je nog
+	Free: Pattern=en een, Pattern=weten je, Pattern=nog, Pattern=een
+	Constrained: Pattern=en, Pattern=je, Pattern=weten, Pattern=een
+Turn ID=25| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=26| A | A : ja en erachter nog ja
+	Free: Pattern=nog, Pattern=en, Pattern=ja
+	Constrained: 
+Turn ID=27| A | A : prima dat zijn vier
+	Free: Pattern=zijn
+	Constrained: 
+Turn ID=28| A | A : dit zijn die met die twee staf met die bal aan het uitein en daarachter een ruit
+	Free: Pattern=aan, Pattern=een, Pattern=het, Pattern=met, Pattern=en, Pattern=dit zijn
+	Constrained: Pattern=zijn
+Turn ID=29| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=30| B | B : alright dan gaan ik voor a
+	Free: Pattern=ik, Pattern=voor
+	Constrained: 
+Turn ID=31| A | A : ja dat zijn zes
+	Free: Pattern=zijn, Pattern=ja
+	Constrained: 
+Turn ID=32| B | B : kop met aan de achterkant een hoe heten het een soort pen met met bollet aan de aan beide kant en een zonnepaneel
+	Free: Pattern=het een, Pattern=aan de, Pattern=een, Pattern=aan de aan, Pattern=met, Pattern=en een
+	Constrained: Pattern=aan de, Pattern=een, Pattern=het, Pattern=en, Pattern=de, Pattern=aan
+Turn ID=33| B | B : ik gaan voor b ja
+	Free: Pattern=ja, Pattern=ik, Pattern=voor
+	Constrained: 
+Turn ID=34| B | B : nou ja
+	Free: Pattern=nou ja
+	Constrained: Pattern=ja
+Turn ID=35| B | B : zonne-energiedakje
+	Free: 
+	Constrained: 

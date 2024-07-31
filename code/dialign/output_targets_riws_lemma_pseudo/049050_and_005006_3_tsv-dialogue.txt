@@ -1,0 +1,91 @@
+B|0| B: deze hebben zeggen _maar_ _een_ _driehoek_ er onder _en_ er zitten zeggen _maar_ _een_ staafje _aan_ _en_ _die_ _zijn_ draaien 
+B|1| B: _dat zijn_ _dan_ _twee_ 
+B|2| B: _ja_ ok 
+A|3| A: [een] soort [driehoek] of zo 
+A|4| A: [ja] 
+A|5| A: [maar] in ieder geval [die] kronkel [en] [dan] op [die] [driehoek] 
+A|6| A: [ja] [dat zijn] vier 
+B|7| B: _driehoekje_ [ja] [zijn] A 
+A|8| A: [ja] dit [zijn] [die] op [dat] driehoekig platformp _met die_ kringel omhoog 
+A|9| A: [en] [dan] [die] [twee] kubus bovenop [en] _aan de_ linkerkant [dat] [driehoekje] 
+A|10| A: [ja] 
+B|11| B: [die] draaien [driehoek] onderin 
+B|12| B: [een] blok vallen er bijna af bovenaan 
+B|13| B: L 
+B|14| B: [met die] draaien _driehoek aan de onderkant_ blok wat er boven bijna af vallen 
+A|15| A: [ja] [dat zijn] tien 
+B|16| B: F 
+A|17| A: [ja] dit [zijn] [dat] man [met die] [die] draai richting [dat] [driehoekje] [aan de onderkant] 
+A|18| A: [ja] 
+A|19| A: [ja] 
+A|20| A: [dat zijn] vier 
+A|21| A: dit [zijn] [ja] het man [met] [de] spiraal [en] [de] [driehoek aan de onderkant] 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : deze hebben zeggen maar een driehoek er onder en er zitten zeggen maar een staafje aan en die zijn draaien
+	Free: Pattern=driehoek, Pattern=aan, Pattern=een, Pattern=die, Pattern=en, Pattern=zijn, Pattern=maar
+	Constrained: 
+Turn ID=1| B | B : dat zijn dan twee
+	Free: Pattern=dat zijn, Pattern=twee, Pattern=dan
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=2| B | B : ja ok
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=3| A | A : een soort driehoek of zo
+	Free: Pattern=een, Pattern=driehoek
+	Constrained: 
+Turn ID=4| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=5| A | A : maar in ieder geval die kronkel en dan op die driehoek
+	Free: Pattern=driehoek, Pattern=dan, Pattern=die, Pattern=en, Pattern=maar
+	Constrained: 
+Turn ID=6| A | A : ja dat zijn vier
+	Free: Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=7| B | B : driehoekje ja zijn A
+	Free: Pattern=driehoekje, Pattern=zijn, Pattern=ja
+	Constrained: 
+Turn ID=8| A | A : ja dit zijn die op dat driehoekig platformp met die kringel omhoog
+	Free: Pattern=ja, Pattern=die, Pattern=zijn, Pattern=dat, Pattern=met die
+	Constrained: Pattern=die, Pattern=met
+Turn ID=9| A | A : en dan die twee kubus bovenop en aan de linkerkant dat driehoekje
+	Free: Pattern=dat, Pattern=twee, Pattern=aan de, Pattern=dan, Pattern=die, Pattern=en, Pattern=driehoekje
+	Constrained: Pattern=aan, Pattern=de
+Turn ID=10| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=11| B | B : die draaien driehoek onderin
+	Free: Pattern=die, Pattern=driehoek
+	Constrained: 
+Turn ID=12| B | B : een blok vallen er bijna af bovenaan
+	Free: Pattern=een
+	Constrained: 
+Turn ID=13| B | B : L
+	Free: 
+	Constrained: 
+Turn ID=14| B | B : met die draaien driehoek aan de onderkant blok wat er boven bijna af vallen
+	Free: Pattern=driehoek aan de onderkant, Pattern=met die
+	Constrained: Pattern=driehoek, Pattern=aan de, Pattern=aan de onderkant, Pattern=met, Pattern=die, Pattern=de, Pattern=aan
+Turn ID=15| A | A : ja dat zijn tien
+	Free: Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=16| B | B : F
+	Free: 
+	Constrained: 
+Turn ID=17| A | A : ja dit zijn dat man met die die draai richting dat driehoekje aan de onderkant
+	Free: Pattern=ja, Pattern=aan de onderkant, Pattern=die, Pattern=driehoekje, Pattern=zijn, Pattern=dat, Pattern=met die
+	Constrained: Pattern=aan de, Pattern=met, Pattern=die, Pattern=de, Pattern=aan
+Turn ID=18| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=19| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=20| A | A : dat zijn vier
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=21| A | A : dit zijn ja het man met de spiraal en de driehoek aan de onderkant
+	Free: Pattern=driehoek aan de onderkant, Pattern=met, Pattern=en, Pattern=zijn, Pattern=de, Pattern=ja
+	Constrained: Pattern=driehoek, Pattern=aan de, Pattern=aan de onderkant, Pattern=de, Pattern=aan

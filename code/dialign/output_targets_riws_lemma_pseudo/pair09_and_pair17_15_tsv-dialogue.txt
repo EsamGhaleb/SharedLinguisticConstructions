@@ -1,0 +1,115 @@
+B|0| B: _die_ _van_ mij _soort van_ _een_ vierkant midden _door de_ emmer 
+B|1| B: _en_ daarboven _zijn_ _soort van_ klein pijpje 
+B|2| B: _en_ helemaal bovenop _zijn_ _twee_ stok _die_ daaruit komen 
+A|3| A: [twee] kuifjes hier 
+A|4| A: _ja_ hier 
+A|5| A: _en hij_ _hebben_ zo'n arm zo 
+A|6| A: _en een_ langwerpig neus 
+A|7| A: okee [zijn] nummer [een] 
+B|8| B: [en hij] roken [een] pijpje 
+B|9| B: [ja] l 
+B|10| B: _deze_ [ja] _dat _zijn_ die een die_ _het_ pijpje roken [en] waar _dat_ vierkant er _door_ _die_ emmer heen [zijn] halverwege 
+A|11| A: [deze] [zijn] half doorgezakt [door de] [door de] tafel laten we [het] zo maar zeggen 
+B|12| B: _en twee_ staaf bovenaan uitkomen 
+A|13| A: _hebben_ zo'n arm [en twee] ding hierzo uitsteken 
+A|14| A: [ja] [en] dan één zo'n raar neus [die] 
+A|15| A: okee [dat zijn] nummer zes 
+B|16| B: [ja] 
+B|17| B: [ja] 
+B|18| B: n 
+A|19| A: [deze] half [door de] tafel zakken met zo'n arm [en] hier [twee] [van] diezelfde ding 
+A|20| A: _en een_ neus 
+B|21| B: [deze] [hebben] [dat] vierkant [dat] er dwars doormidd gaan [en een] pijpje aan [de] linkerkant 
+B|22| B: [twee] staaf bovenop 
+B|23| B: b 
+A|24| A: [ja] [en] zo'n arm 
+A|25| A: [dat zijn] vijfteen 
+A|26| A: dit [zijn die een die] half doorgezakken [zijn] met [twee] dezelfde ding hierboven [en] zo [ja] zo'n arm 
+A|27| A: [en een] [soort van] 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : die van mij soort van een vierkant midden door de emmer
+	Free: Pattern=een, Pattern=die, Pattern=van, Pattern=soort van, Pattern=door de
+	Constrained: Pattern=de, Pattern=van, Pattern=door
+Turn ID=1| B | B : en daarboven zijn soort van klein pijpje
+	Free: Pattern=soort van, Pattern=zijn, Pattern=en
+	Constrained: Pattern=van
+Turn ID=2| B | B : en helemaal bovenop zijn twee stok die daaruit komen
+	Free: Pattern=zijn, Pattern=en, Pattern=twee, Pattern=die
+	Constrained: 
+Turn ID=3| A | A : twee kuifjes hier
+	Free: Pattern=twee
+	Constrained: 
+Turn ID=4| A | A : ja hier
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=5| A | A : en hij hebben zo'n arm zo
+	Free: Pattern=en hij, Pattern=hebben
+	Constrained: Pattern=en
+Turn ID=6| A | A : en een langwerpig neus
+	Free: Pattern=en een
+	Constrained: Pattern=en, Pattern=een
+Turn ID=7| A | A : okee zijn nummer een
+	Free: Pattern=zijn, Pattern=een
+	Constrained: 
+Turn ID=8| B | B : en hij roken een pijpje
+	Free: Pattern=en hij, Pattern=een
+	Constrained: Pattern=en
+Turn ID=9| B | B : ja l
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=10| B | B : deze ja dat zijn die een die het pijpje roken en waar dat vierkant er door die emmer heen zijn halverwege
+	Free: Pattern=door, Pattern=het, Pattern=die, Pattern=en, Pattern=zijn, Pattern=deze, Pattern=dat, Pattern=dat zijn, Pattern=ja, Pattern=zijn die een die
+	Constrained: Pattern=zijn, Pattern=die, Pattern=een, Pattern=dat
+Turn ID=11| A | A : deze zijn half doorgezakt door de door de tafel laten we het zo maar zeggen
+	Free: Pattern=door de, Pattern=zijn, Pattern=deze, Pattern=het
+	Constrained: Pattern=de, Pattern=door
+Turn ID=12| B | B : en twee staaf bovenaan uitkomen
+	Free: Pattern=en twee
+	Constrained: Pattern=en, Pattern=twee
+Turn ID=13| A | A : hebben zo'n arm en twee ding hierzo uitsteken
+	Free: Pattern=en twee, Pattern=hebben
+	Constrained: Pattern=en, Pattern=twee
+Turn ID=14| A | A : ja en dan één zo'n raar neus die
+	Free: Pattern=en, Pattern=ja, Pattern=die
+	Constrained: 
+Turn ID=15| A | A : okee dat zijn nummer zes
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=16| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=17| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=18| B | B : n
+	Free: 
+	Constrained: 
+Turn ID=19| A | A : deze half door de tafel zakken met zo'n arm en hier twee van diezelfde ding
+	Free: Pattern=twee, Pattern=van, Pattern=en, Pattern=deze, Pattern=door de
+	Constrained: Pattern=de, Pattern=door
+Turn ID=20| A | A : en een neus
+	Free: Pattern=en een
+	Constrained: Pattern=en, Pattern=een
+Turn ID=21| B | B : deze hebben dat vierkant dat er dwars doormidd gaan en een pijpje aan de linkerkant
+	Free: Pattern=dat, Pattern=de, Pattern=hebben, Pattern=en een, Pattern=deze
+	Constrained: Pattern=en, Pattern=een
+Turn ID=22| B | B : twee staaf bovenop
+	Free: Pattern=twee
+	Constrained: 
+Turn ID=23| B | B : b
+	Free: 
+	Constrained: 
+Turn ID=24| A | A : ja en zo'n arm
+	Free: Pattern=en, Pattern=ja
+	Constrained: 
+Turn ID=25| A | A : dat zijn vijfteen
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=26| A | A : dit zijn die een die half doorgezakken zijn met twee dezelfde ding hierboven en zo ja zo'n arm
+	Free: Pattern=twee, Pattern=en, Pattern=zijn, Pattern=ja, Pattern=zijn die een die
+	Constrained: Pattern=een, Pattern=zijn, Pattern=die
+Turn ID=27| A | A : en een soort van
+	Free: Pattern=soort van, Pattern=en een
+	Constrained: Pattern=en, Pattern=een, Pattern=van

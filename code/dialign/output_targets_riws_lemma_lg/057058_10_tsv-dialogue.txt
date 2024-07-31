@@ -1,0 +1,135 @@
+A|0| A: _oké_ 
+A|1| A: _ja_ deze doen me een beetje denken aan een soor _strandstoel_ wat er _zo_ links uit opsteken _en_ dan nog een groot soort _honkbalknuppel_ daar dwars doorheen 
+B|2| B: [ja] 
+B|3| B: _ja dat zijn_ K _bij mij_ ik _noemen_ _het_ _ook_ _de_ knuppel 
+A|4| A: _oké_ 
+B|5| B: ik _noemen_ _het_ _zonnepaneel_ [zo] 
+A|6| A: [zonnepaneel] [ja dat _zijn] ook_ wel een mooi inderdaad 
+B|7| B: _die_ [strandstoel] [zijn ook] leuk 
+B|8| B: [oké] [ja] 
+B|9| B: dus [dat zijn] K 
+B|10| B: _het_ _zijn weer_ _die_ [honkbalknuppel] 
+A|11| A: [ja] 
+B|12| B: [en] _het_ [strandstoel] 
+A|13| A: [oké] nummer negen [zijn] [dat] [bij mij] 
+A|14| A: [oké] 
+A|15| A: nou dit [zijn _weer] de honkbalknuppel_ _met het_ zonnecelle [strandstoel] 
+B|16| B: [oké] 
+B|17| B: _even_ 
+A|18| A: hoe je [het] [noemen] willen 
+B|19| B: [ja] sorry ik moeten _even zoeken_ [ja] F 
+A|20| A: [zijn] [even zoeken] soms 
+A|21| A: [die] [zijn] lastig 
+B|22| B: [de honkbalknuppel] 
+A|23| A: [honkbalknuppel] waar [zijn] [die] ? waar [zijn] [die] 
+B|24| B: [met het] [strandstoel] 
+A|25| A: daar 
+A|26| A: nummer drie 
+A|27| A: [de honkbalknuppel] [en] [de] zonnecellet [strandstoel] 
+B|28| B: [even] kijken [ja dat zijn] L [bij mij] 
+A|29| A: [oké] 
+B|30| B: [weer de honkbalknuppel] 
+A|31| A: [honkbalknuppel] 
+A|32| A: [ja] nummer vijf 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=1| A | A : ja deze doen me een beetje denken aan een soor strandstoel wat er zo links uit opsteken en dan nog een groot soort honkbalknuppel daar dwars doorheen
+	Free: Pattern=ja, Pattern=zo, Pattern=honkbalknuppel, Pattern=en, Pattern=strandstoel
+	Constrained: 
+Turn ID=2| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=3| B | B : ja dat zijn K bij mij ik noemen het ook de knuppel
+	Free: Pattern=de, Pattern=ook, Pattern=ja dat zijn, Pattern=het, Pattern=bij mij, Pattern=noemen
+	Constrained: Pattern=dat, Pattern=zijn, Pattern=dat zijn, Pattern=ja
+Turn ID=4| A | A : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=5| B | B : ik noemen het zonnepaneel zo
+	Free: Pattern=noemen, Pattern=zo, Pattern=zonnepaneel, Pattern=het
+	Constrained: 
+Turn ID=6| A | A : zonnepaneel ja dat zijn ook wel een mooi inderdaad
+	Free: Pattern=ja dat zijn, Pattern=zijn ook, Pattern=zonnepaneel
+	Constrained: Pattern=ja, Pattern=ook, Pattern=zijn, Pattern=dat, Pattern=dat zijn
+Turn ID=7| B | B : die strandstoel zijn ook leuk
+	Free: Pattern=zijn ook, Pattern=die, Pattern=strandstoel
+	Constrained: Pattern=zijn, Pattern=ook
+Turn ID=8| B | B : oké ja
+	Free: Pattern=oké, Pattern=ja
+	Constrained: 
+Turn ID=9| B | B : dus dat zijn K
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=10| B | B : het zijn weer die honkbalknuppel
+	Free: Pattern=zijn weer, Pattern=honkbalknuppel, Pattern=die, Pattern=het
+	Constrained: Pattern=zijn
+Turn ID=11| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=12| B | B : en het strandstoel
+	Free: Pattern=en, Pattern=strandstoel, Pattern=het
+	Constrained: 
+Turn ID=13| A | A : oké nummer negen zijn dat bij mij
+	Free: Pattern=bij mij, Pattern=oké, Pattern=zijn, Pattern=dat
+	Constrained: 
+Turn ID=14| A | A : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=15| A | A : nou dit zijn weer de honkbalknuppel met het zonnecelle strandstoel
+	Free: Pattern=weer de honkbalknuppel, Pattern=zijn weer, Pattern=met het, Pattern=strandstoel
+	Constrained: Pattern=de, Pattern=het, Pattern=honkbalknuppel, Pattern=zijn, Pattern=de honkbalknuppel
+Turn ID=16| B | B : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=17| B | B : even
+	Free: Pattern=even
+	Constrained: 
+Turn ID=18| A | A : hoe je het noemen willen
+	Free: Pattern=noemen, Pattern=het
+	Constrained: 
+Turn ID=19| B | B : ja sorry ik moeten even zoeken ja F
+	Free: Pattern=even zoeken, Pattern=ja
+	Constrained: Pattern=even
+Turn ID=20| A | A : zijn even zoeken soms
+	Free: Pattern=even zoeken, Pattern=zijn
+	Constrained: Pattern=even
+Turn ID=21| A | A : die zijn lastig
+	Free: Pattern=zijn, Pattern=die
+	Constrained: 
+Turn ID=22| B | B : de honkbalknuppel
+	Free: Pattern=de honkbalknuppel
+	Constrained: Pattern=honkbalknuppel, Pattern=de
+Turn ID=23| A | A : honkbalknuppel waar zijn die ? waar zijn die
+	Free: Pattern=honkbalknuppel, Pattern=zijn, Pattern=die
+	Constrained: 
+Turn ID=24| B | B : met het strandstoel
+	Free: Pattern=met het, Pattern=strandstoel
+	Constrained: Pattern=het
+Turn ID=25| A | A : daar
+	Free: 
+	Constrained: 
+Turn ID=26| A | A : nummer drie
+	Free: 
+	Constrained: 
+Turn ID=27| A | A : de honkbalknuppel en de zonnecellet strandstoel
+	Free: Pattern=de honkbalknuppel, Pattern=en, Pattern=de, Pattern=strandstoel
+	Constrained: Pattern=honkbalknuppel, Pattern=de
+Turn ID=28| B | B : even kijken ja dat zijn L bij mij
+	Free: Pattern=ja dat zijn, Pattern=bij mij, Pattern=even
+	Constrained: Pattern=dat, Pattern=zijn, Pattern=dat zijn, Pattern=ja
+Turn ID=29| A | A : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=30| B | B : weer de honkbalknuppel
+	Free: Pattern=weer de honkbalknuppel
+	Constrained: Pattern=de honkbalknuppel, Pattern=honkbalknuppel, Pattern=de
+Turn ID=31| A | A : honkbalknuppel
+	Free: Pattern=honkbalknuppel
+	Constrained: 
+Turn ID=32| A | A : ja nummer vijf
+	Free: Pattern=ja
+	Constrained: 

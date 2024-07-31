@@ -1,0 +1,111 @@
+A|0| A: _ja_ nu _hebben_ _ik_ _dat_ ding wat zo raar uitsteken _die_ zo uit het niets eigenlijk komen een _ja_ _ik_ zien het als een soort toren 
+A|1| A: _die_ en hij _hebben_ zo'n zo'n rond _plateau_ 
+B|2| B: _aan_ _de_ zijkant [ja] 
+A|3| A: [aan] één kant 
+A|4| A: [ja] 
+B|5| B: [ja] 
+B|6| B: _ja oké_ 
+B|7| B: _dat zijn_ L 
+B|8| B: _oké_ dit _zijn_ _de Eiffeltoren_ 
+B|9| B: met [dat] [plateau] 
+A|10| A: [ja] 
+B|11| B: _oké_ 
+A|12| A: zeven 
+B|13| B: _oké_ 
+A|14| A: _ik hebben_ weer [de Eiffeltoren] 
+B|15| B: [ja] 
+B|16| B: _oké_ _dat zijn_ C 
+B|17| B: _oké_ [ik hebben] [de Eiffeltoren] 
+A|18| A: [oké] [ja oké] 
+A|19| A: [dat zijn] nummer één 
+A|20| A: [de Eiffeltoren] 
+B|21| B: [oké] 
+B|22| B: waar [zijn] [die] ? daar 
+B|23| B: [dat zijn] A 
+B|24| B: [de Eiffeltoren] 
+A|25| A: [ja] 
+A|26| A: [dat zijn] nummer dertien 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : ja nu hebben ik dat ding wat zo raar uitsteken die zo uit het niets eigenlijk komen een ja ik zien het als een soort toren
+	Free: Pattern=dat, Pattern=ja, Pattern=hebben, Pattern=die, Pattern=ik
+	Constrained: 
+Turn ID=1| A | A : die en hij hebben zo'n zo'n rond plateau
+	Free: Pattern=die, Pattern=plateau, Pattern=hebben
+	Constrained: 
+Turn ID=2| B | B : aan de zijkant ja
+	Free: Pattern=ja, Pattern=de, Pattern=aan
+	Constrained: 
+Turn ID=3| A | A : aan één kant
+	Free: Pattern=aan
+	Constrained: 
+Turn ID=4| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=5| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=6| B | B : ja oké
+	Free: Pattern=ja oké
+	Constrained: Pattern=oké, Pattern=ja
+Turn ID=7| B | B : dat zijn L
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=8| B | B : oké dit zijn de Eiffeltoren
+	Free: Pattern=de Eiffeltoren, Pattern=oké, Pattern=zijn
+	Constrained: Pattern=de
+Turn ID=9| B | B : met dat plateau
+	Free: Pattern=dat, Pattern=plateau
+	Constrained: 
+Turn ID=10| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=11| B | B : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=12| A | A : zeven
+	Free: 
+	Constrained: 
+Turn ID=13| B | B : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=14| A | A : ik hebben weer de Eiffeltoren
+	Free: Pattern=de Eiffeltoren, Pattern=ik hebben
+	Constrained: Pattern=ik, Pattern=de, Pattern=hebben
+Turn ID=15| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=16| B | B : oké dat zijn C
+	Free: Pattern=dat zijn, Pattern=oké
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=17| B | B : oké ik hebben de Eiffeltoren
+	Free: Pattern=de Eiffeltoren, Pattern=ik hebben, Pattern=oké
+	Constrained: Pattern=ik, Pattern=de, Pattern=hebben
+Turn ID=18| A | A : oké ja oké
+	Free: Pattern=ja oké, Pattern=oké
+	Constrained: Pattern=oké, Pattern=ja
+Turn ID=19| A | A : dat zijn nummer één
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=20| A | A : de Eiffeltoren
+	Free: Pattern=de Eiffeltoren
+	Constrained: Pattern=de
+Turn ID=21| B | B : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=22| B | B : waar zijn die ? daar
+	Free: Pattern=zijn, Pattern=die
+	Constrained: 
+Turn ID=23| B | B : dat zijn A
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=24| B | B : de Eiffeltoren
+	Free: Pattern=de Eiffeltoren
+	Constrained: Pattern=de
+Turn ID=25| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=26| A | A : dat zijn nummer dertien
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn, Pattern=dat

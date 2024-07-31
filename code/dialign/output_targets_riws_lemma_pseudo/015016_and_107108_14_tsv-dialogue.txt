@@ -1,0 +1,155 @@
+A|0| A: deze deze hebben hiervoor _even kijken_ deze hebben _je_ hebben _die_ _die_ _weten_ _je_ _wel dat_ _dat_ hoofdfiguur zeggen maar _daar_ _daar_ _die_ emmer zeggen maar 
+A|1| A: _en_ _dan_ _ja_ 
+A|2| A: _en_ _dan_ daarvoor staan _daar_ zo'n rechthoekig staaf _zo_ verticaal 
+A|3| A: _ja_ zo'n bal bovenop _en_ _dan_ 
+A|4| A: _ja ja die ja_ 
+A|5| A: oké 
+B|6| B: o [ja] volgens [ja] ik denken [wel dat] ik [weten] tenminste mij doen het beetje denken _aan_ Bolpuntcom man ik [weten] _niet_ of [je] het [dan] 
+B|7| B: [ja] ok [dan] _zijn_ het denken ik [wel] dezelfde [ja] [dan] _dat zijn_ bij mij _in_ ieder geval D 
+B|8| B: o [dan] moeten ik eerst nog drukken 
+A|9| A: _even_ 
+A|10| A: _even kijken_ 
+A|11| A: _zo_ rechtop 
+A|12| A: [ja] van _die_ ronde 
+A|13| A: [ja] 
+A|14| A: één _met_ zo'n hoek _en_ _de_ ander [niet] 
+A|15| A: [ja] één _zo_ [in] _de_ hoek [ja] 
+A|16| A: [dat zijn] vijftien 
+B|17| B: o _dit zijn_ o _dit zijn_ weer dezelfde beetje [dat] Bolpuntcom man waar het mij _aan_ doen denken _met die_ armp [zo] _aan de_ zijkant _en dat_ blok 
+B|18| B: er voor 
+B|19| B: [ja ja] 
+B|20| B: ok bij mij K 
+A|21| A: [ja] [dit zijn] [die] [met die] recht staaf [die] ervoor staan [en dat] ei bovenop [en dat] 
+B|22| B: o [die] ok [ja] [dat zijn] bij mij L 
+B|23| B: [ja ja die ja] 
+B|24| B: ok 
+A|25| A: [die] verticaal staaf [en] [die] bal 
+A|26| A: zes 
+B|27| B: o wachten gaan ik weer [even] uitleggen 
+B|28| B: [ja] [dat zijn] waar 
+B|29| B: [dit zijn] het Bolpuntcom man [met] een blok voor 
+B|30| B: ok bij mij M 
+A|31| A: [dit zijn] [die] rechthoekig staaf [aan de] voorkant 
+A|32| A: [en dat] ei bovenop 
+A|33| A: [ja] drie 
+B|34| B: [even kijken] waar [die] [zijn] o [daar] J 
+B|35| B: o 
+B|36| B: het Bolpuntcom poppe 
+B|37| B: ok bij mij A 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : deze deze hebben hiervoor even kijken deze hebben je hebben die die weten je wel dat dat hoofdfiguur zeggen maar daar daar die emmer zeggen maar
+	Free: Pattern=dat, Pattern=weten, Pattern=wel dat, Pattern=die, Pattern=even kijken, Pattern=daar, Pattern=je
+	Constrained: Pattern=wel, Pattern=even, Pattern=dat
+Turn ID=1| A | A : en dan ja
+	Free: Pattern=dan, Pattern=ja, Pattern=en
+	Constrained: 
+Turn ID=2| A | A : en dan daarvoor staan daar zo'n rechthoekig staaf zo verticaal
+	Free: Pattern=zo, Pattern=dan, Pattern=daar, Pattern=en
+	Constrained: 
+Turn ID=3| A | A : ja zo'n bal bovenop en dan
+	Free: Pattern=dan, Pattern=ja, Pattern=en
+	Constrained: 
+Turn ID=4| A | A : ja ja die ja
+	Free: Pattern=ja ja die ja
+	Constrained: Pattern=die, Pattern=ja ja, Pattern=ja
+Turn ID=5| A | A : oké
+	Free: 
+	Constrained: 
+Turn ID=6| B | B : o ja volgens ja ik denken wel dat ik weten tenminste mij doen het beetje denken aan Bolpuntcom man ik weten niet of je het dan
+	Free: Pattern=weten, Pattern=wel dat, Pattern=je, Pattern=aan, Pattern=ja, Pattern=niet, Pattern=dan
+	Constrained: Pattern=wel, Pattern=dat
+Turn ID=7| B | B : ja ok dan zijn het denken ik wel dezelfde ja dan dat zijn bij mij in ieder geval D
+	Free: Pattern=dat zijn, Pattern=ja, Pattern=dan, Pattern=wel, Pattern=in, Pattern=zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=8| B | B : o dan moeten ik eerst nog drukken
+	Free: Pattern=dan
+	Constrained: 
+Turn ID=9| A | A : even
+	Free: Pattern=even
+	Constrained: 
+Turn ID=10| A | A : even kijken
+	Free: Pattern=even kijken
+	Constrained: Pattern=even
+Turn ID=11| A | A : zo rechtop
+	Free: Pattern=zo
+	Constrained: 
+Turn ID=12| A | A : ja van die ronde
+	Free: Pattern=die, Pattern=ja
+	Constrained: 
+Turn ID=13| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=14| A | A : één met zo'n hoek en de ander niet
+	Free: Pattern=de, Pattern=niet, Pattern=met, Pattern=en
+	Constrained: 
+Turn ID=15| A | A : ja één zo in de hoek ja
+	Free: Pattern=in, Pattern=de, Pattern=zo, Pattern=ja
+	Constrained: 
+Turn ID=16| A | A : dat zijn vijftien
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=17| B | B : o dit zijn o dit zijn weer dezelfde beetje dat Bolpuntcom man waar het mij aan doen denken met die armp zo aan de zijkant en dat blok
+	Free: Pattern=aan, Pattern=aan de, Pattern=zo, Pattern=dit zijn, Pattern=en dat, Pattern=dat, Pattern=met die
+	Constrained: Pattern=dat, Pattern=met, Pattern=die, Pattern=en, Pattern=zijn, Pattern=de, Pattern=aan
+Turn ID=18| B | B : er voor
+	Free: 
+	Constrained: 
+Turn ID=19| B | B : ja ja
+	Free: Pattern=ja ja
+	Constrained: Pattern=ja
+Turn ID=20| B | B : ok bij mij K
+	Free: 
+	Constrained: 
+Turn ID=21| A | A : ja dit zijn die met die recht staaf die ervoor staan en dat ei bovenop en dat
+	Free: Pattern=met die, Pattern=ja, Pattern=die, Pattern=dit zijn, Pattern=en dat
+	Constrained: Pattern=dat, Pattern=met, Pattern=die, Pattern=en, Pattern=zijn
+Turn ID=22| B | B : o die ok ja dat zijn bij mij L
+	Free: Pattern=dat zijn, Pattern=die, Pattern=ja
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=23| B | B : ja ja die ja
+	Free: Pattern=ja ja die ja
+	Constrained: Pattern=die, Pattern=ja ja, Pattern=ja
+Turn ID=24| B | B : ok
+	Free: 
+	Constrained: 
+Turn ID=25| A | A : die verticaal staaf en die bal
+	Free: Pattern=die, Pattern=en
+	Constrained: 
+Turn ID=26| A | A : zes
+	Free: 
+	Constrained: 
+Turn ID=27| B | B : o wachten gaan ik weer even uitleggen
+	Free: Pattern=even
+	Constrained: 
+Turn ID=28| B | B : ja dat zijn waar
+	Free: Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=29| B | B : dit zijn het Bolpuntcom man met een blok voor
+	Free: Pattern=dit zijn, Pattern=met
+	Constrained: Pattern=zijn
+Turn ID=30| B | B : ok bij mij M
+	Free: 
+	Constrained: 
+Turn ID=31| A | A : dit zijn die rechthoekig staaf aan de voorkant
+	Free: Pattern=dit zijn, Pattern=aan de, Pattern=die
+	Constrained: Pattern=de, Pattern=aan, Pattern=zijn
+Turn ID=32| A | A : en dat ei bovenop
+	Free: Pattern=en dat
+	Constrained: Pattern=dat, Pattern=en
+Turn ID=33| A | A : ja drie
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=34| B | B : even kijken waar die zijn o daar J
+	Free: Pattern=even kijken, Pattern=die, Pattern=daar, Pattern=zijn
+	Constrained: Pattern=even
+Turn ID=35| B | B : o
+	Free: 
+	Constrained: 
+Turn ID=36| B | B : het Bolpuntcom poppe
+	Free: 
+	Constrained: 
+Turn ID=37| B | B : ok bij mij A
+	Free: 
+	Constrained: 

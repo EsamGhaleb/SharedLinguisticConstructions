@@ -1,0 +1,91 @@
+A|0| A: _dit zijn_ ook _de_ emmer _daar_ zitten _een_ ovaal bol _bovenop en_ _een_ _recht_ stok _aan de voorkant_ ervoor 
+A|1| A: _en_ nog _een_ rechts _aan de_ rechterkant _een_ 
+A|2| A: _en_ _aan de_ linkerkant 
+A|3| A: _ja ja_ 
+B|4| B: [ja] je mogen _het_ nummer niet zeggen nee 
+B|5| B: [een] balk [aan de voorkant] 
+B|6| B: okee staan _die_ 
+B|7| B: _die_ _die_ balk staan _die_ [recht] naar of rechtop 
+B|8| B: okee 
+B|9| B: [ja ja] okee _dat_ [zijn] l 
+A|10| A: [ja] 
+A|11| A: [ja] twaalf 
+B|12| B: eens even kijken hoor nou deze _dit zijn het_ kop _met_ [de] balk _die_ [recht] naar beneden staan [en] _het_ bijna heel ei [aan de] bovenkant _met_ [de] twee fiets fietshandvaten 
+A|13| A: [dit zijn] emmer [met] [een] rond bol _bovenop en_ [een] rechthoekig _staaf aan de voorkant_ verticaal 
+A|14| A: [ja] 
+A|15| A: tien 
+A|16| A: [dit zijn het] rond _bovenop_ [die] er half in zitten [met] [dat] vierkant ding ervoor 
+B|17| B: [ja] eens even kijken hoor ah [daar] [dat] [zijn] b 
+A|18| A: [ja] negen 
+B|19| B: deze hebben [de] [de] [staaf aan de voorkant] [het] eit [bovenop en] [de] fiets fietshendel 
+B|20| B: [ja] eens even kijken [dat] [zijn] c 
+B|21| B: [dit zijn] [de] balk [aan de voorkant] ei [aan de] bovenkant [en] [de] fiets handvaten 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : dit zijn ook de emmer daar zitten een ovaal bol bovenop en een recht stok aan de voorkant ervoor
+	Free: Pattern=de, Pattern=een, Pattern=dit zijn, Pattern=bovenop en, Pattern=recht, Pattern=daar, Pattern=aan de voorkant
+	Constrained: Pattern=bovenop, Pattern=de, Pattern=aan de, Pattern=en, Pattern=zijn
+Turn ID=1| A | A : en nog een rechts aan de rechterkant een
+	Free: Pattern=aan de, Pattern=en, Pattern=een
+	Constrained: Pattern=de
+Turn ID=2| A | A : en aan de linkerkant
+	Free: Pattern=aan de, Pattern=en
+	Constrained: Pattern=de
+Turn ID=3| A | A : ja ja
+	Free: Pattern=ja ja
+	Constrained: Pattern=ja
+Turn ID=4| B | B : ja je mogen het nummer niet zeggen nee
+	Free: Pattern=ja, Pattern=het
+	Constrained: 
+Turn ID=5| B | B : een balk aan de voorkant
+	Free: Pattern=aan de voorkant, Pattern=een
+	Constrained: Pattern=aan de, Pattern=de
+Turn ID=6| B | B : okee staan die
+	Free: Pattern=die
+	Constrained: 
+Turn ID=7| B | B : die die balk staan die recht naar of rechtop
+	Free: Pattern=recht, Pattern=die
+	Constrained: 
+Turn ID=8| B | B : okee
+	Free: 
+	Constrained: 
+Turn ID=9| B | B : ja ja okee dat zijn l
+	Free: Pattern=ja ja, Pattern=zijn, Pattern=dat
+	Constrained: Pattern=ja
+Turn ID=10| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=11| A | A : ja twaalf
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=12| B | B : eens even kijken hoor nou deze dit zijn het kop met de balk die recht naar beneden staan en het bijna heel ei aan de bovenkant met de twee fiets fietshandvaten
+	Free: Pattern=de, Pattern=aan de, Pattern=met, Pattern=die, Pattern=en, Pattern=dit zijn het, Pattern=het, Pattern=recht
+	Constrained: Pattern=dit zijn, Pattern=de, Pattern=het, Pattern=zijn
+Turn ID=13| A | A : dit zijn emmer met een rond bol bovenop en een rechthoekig staaf aan de voorkant verticaal
+	Free: Pattern=staaf aan de voorkant, Pattern=een, Pattern=bovenop en, Pattern=met, Pattern=dit zijn
+	Constrained: Pattern=bovenop, Pattern=de, Pattern=aan de, Pattern=en, Pattern=zijn, Pattern=aan de voorkant
+Turn ID=14| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=15| A | A : tien
+	Free: 
+	Constrained: 
+Turn ID=16| A | A : dit zijn het rond bovenop die er half in zitten met dat vierkant ding ervoor
+	Free: Pattern=met, Pattern=die, Pattern=dit zijn het, Pattern=dat, Pattern=bovenop
+	Constrained: Pattern=dit zijn, Pattern=zijn, Pattern=het
+Turn ID=17| B | B : ja eens even kijken hoor ah daar dat zijn b
+	Free: Pattern=zijn, Pattern=ja, Pattern=dat, Pattern=daar
+	Constrained: 
+Turn ID=18| A | A : ja negen
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=19| B | B : deze hebben de de staaf aan de voorkant het eit bovenop en de fiets fietshendel
+	Free: Pattern=staaf aan de voorkant, Pattern=bovenop en, Pattern=de, Pattern=het
+	Constrained: Pattern=bovenop, Pattern=de, Pattern=aan de, Pattern=en, Pattern=aan de voorkant
+Turn ID=20| B | B : ja eens even kijken dat zijn c
+	Free: Pattern=zijn, Pattern=ja, Pattern=dat
+	Constrained: 
+Turn ID=21| B | B : dit zijn de balk aan de voorkant ei aan de bovenkant en de fiets handvaten
+	Free: Pattern=de, Pattern=aan de, Pattern=en, Pattern=aan de voorkant, Pattern=dit zijn
+	Constrained: Pattern=de, Pattern=zijn, Pattern=aan de

@@ -1,0 +1,183 @@
+B|0| B: _ja_ 
+B|1| B: _en één_ _of_ _ander_ buis _aan de_ achterkant 
+B|2| B: oké 
+B|3| B: E 
+A|4| A: nu hebben _ik_ _er_ [één] _die_ heel vaag _zijn_ 
+A|5| A: hij hebben [één] _een_ raar figuur bovenop 
+A|6| A: [één] _naar achteren_ [één] _naar_ voren [en één] _een_ beetje _naar_ [de] zijkant 
+A|7| A: [ja] _het_ _zijn_ [één] [één] hebben zo _van_ drie _blok_ _boven_ op elkaar 
+A|8| A: _die_ staan _een_ beetje _naar_ rechts 
+A|9| A: je hebben _een soort_ _soort_ ovaal _die_ staan _een_ beetje _naar_ _links_ je hebben _een_ ovaal _die_ staan _er_ recht bovenop 
+A|10| A: [en] je hebben _een soort_ armpje _die_ _een_ beetje _naar_ achter staan 
+A|11| A: [ja] je hebben dus vier vier _ding_ [en] ze staan allemaal echt exact _een_ [ander] richting op 
+A|12| A: [en] ze raken elkaar _niet_ [aan] ook 
+A|13| A: _aan de rechterkant_ _zijn_ _het_ vier _van_ _die_ kubus _boven_ op elkaar 
+A|14| A: [ja] [ja] [ja] [ja] 
+A|15| A: [ja] [ja] [ja] op zich _zien ik_ dat wel [ja] 
+A|16| A: [ja] [ja] 
+A|17| A: [ja] [ja] dat _zijn_ hem 
+B|18| B: oké _dit zijn_ _weer_ [die] [blok] [die] steeds groot worden zitten [aan de rechterkant] 
+B|19| B: [en] twee vergelijk [ding] [boven] [en] _link_ 
+B|20| B: [en] [een soort] [van] buis [naar achteren] 
+B|21| B: [ja] 
+B|22| B: [ja] 
+A|23| A: [ja] 
+A|24| A: even kijken waar [die] staan 
+A|25| A: [ja] nummer elf 
+B|26| B: [ja] precies 
+B|27| B: J 
+B|28| B: _dit zijn_ _weer_ [ja] [die] [de] [een] _met_ [het] groot vierkant worden _of_ klein worden 
+B|29| B: [aan de rechterkant] [en] dan [die] [ding] [boven] [en] [links] [en] _zo'n_ pijp [aan de] achterkant 
+A|30| A: [dit zijn] [ding] [die] hebben [weer] vier uitsteeksel [zo'n] borstel erboven wcborstel [één] [link] bol 
+A|31| A: kubus rechts [en één] erachter 
+A|32| A: negen 
+B|33| B: [ja] 
+B|34| B: waarom [zien ik] [die] [niet] 
+B|35| B: hier 
+B|36| B: B 
+B|37| B: [de] [blok] [die] steeds klein worden [aan de rechterkant] [en] dan [die] [ding] [boven] uitsteken [en] [links] [en] [aan de] achterkant steken [er] nog iets uit 
+B|38| B: [de] zeggen maar [die] klein worden [blok] zitten [aan de rechterkant] 
+B|39| B: _met_ [die] twee antenneding [ja] 
+A|40| A: [ja] 
+A|41| A: [ik] hebben [die] [met] waar we [het] net over hebben borstel kegeltje [of] raar dinge [en] blokkentoren weten je wel 
+A|42| A: [die] [die] [die] je net ertussen proberen te passen 
+A|43| A: [ja] 
+A|44| A: nummer vier 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=1| B | B : en één of ander buis aan de achterkant
+	Free: Pattern=aan de, Pattern=en één, Pattern=ander, Pattern=of
+	Constrained: Pattern=en, Pattern=de, Pattern=aan, Pattern=één
+Turn ID=2| B | B : oké
+	Free: 
+	Constrained: 
+Turn ID=3| B | B : E
+	Free: 
+	Constrained: 
+Turn ID=4| A | A : nu hebben ik er één die heel vaag zijn
+	Free: Pattern=die, Pattern=er, Pattern=ik, Pattern=zijn, Pattern=één
+	Constrained: 
+Turn ID=5| A | A : hij hebben één een raar figuur bovenop
+	Free: Pattern=één, Pattern=een
+	Constrained: 
+Turn ID=6| A | A : één naar achteren één naar voren en één een beetje naar de zijkant
+	Free: Pattern=en één, Pattern=de, Pattern=een, Pattern=naar achteren, Pattern=één, Pattern=naar
+	Constrained: Pattern=en, Pattern=één, Pattern=naar
+Turn ID=7| A | A : ja het zijn één één hebben zo van drie blok boven op elkaar
+	Free: Pattern=ja, Pattern=boven, Pattern=het, Pattern=van, Pattern=blok, Pattern=zijn, Pattern=één
+	Constrained: 
+Turn ID=8| A | A : die staan een beetje naar rechts
+	Free: Pattern=die, Pattern=naar, Pattern=een
+	Constrained: 
+Turn ID=9| A | A : je hebben een soort soort ovaal die staan een beetje naar links je hebben een ovaal die staan er recht bovenop
+	Free: Pattern=soort, Pattern=een, Pattern=links, Pattern=die, Pattern=er, Pattern=een soort, Pattern=naar
+	Constrained: Pattern=soort, Pattern=een
+Turn ID=10| A | A : en je hebben een soort armpje die een beetje naar achter staan
+	Free: Pattern=een, Pattern=die, Pattern=een soort, Pattern=en, Pattern=naar
+	Constrained: Pattern=soort, Pattern=een
+Turn ID=11| A | A : ja je hebben dus vier vier ding en ze staan allemaal echt exact een ander richting op
+	Free: Pattern=ja, Pattern=ding, Pattern=een, Pattern=ander, Pattern=en
+	Constrained: 
+Turn ID=12| A | A : en ze raken elkaar niet aan ook
+	Free: Pattern=en, Pattern=niet, Pattern=aan
+	Constrained: 
+Turn ID=13| A | A : aan de rechterkant zijn het vier van die kubus boven op elkaar
+	Free: Pattern=boven, Pattern=het, Pattern=van, Pattern=zijn, Pattern=aan de rechterkant, Pattern=die
+	Constrained: Pattern=aan, Pattern=de, Pattern=aan de
+Turn ID=14| A | A : ja ja ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=15| A | A : ja ja ja op zich zien ik dat wel ja
+	Free: Pattern=zien ik, Pattern=ja
+	Constrained: Pattern=ik
+Turn ID=16| A | A : ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=17| A | A : ja ja dat zijn hem
+	Free: Pattern=zijn, Pattern=ja
+	Constrained: 
+Turn ID=18| B | B : oké dit zijn weer die blok die steeds groot worden zitten aan de rechterkant
+	Free: Pattern=blok, Pattern=weer, Pattern=dit zijn, Pattern=aan de rechterkant, Pattern=die
+	Constrained: Pattern=aan, Pattern=de, Pattern=zijn, Pattern=aan de
+Turn ID=19| B | B : en twee vergelijk ding boven en link
+	Free: Pattern=boven, Pattern=en, Pattern=link, Pattern=ding
+	Constrained: 
+Turn ID=20| B | B : en een soort van buis naar achteren
+	Free: Pattern=een soort, Pattern=naar achteren, Pattern=en, Pattern=van
+	Constrained: Pattern=soort, Pattern=naar, Pattern=een
+Turn ID=21| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=22| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=23| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=24| A | A : even kijken waar die staan
+	Free: Pattern=die
+	Constrained: 
+Turn ID=25| A | A : ja nummer elf
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=26| B | B : ja precies
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=27| B | B : J
+	Free: 
+	Constrained: 
+Turn ID=28| B | B : dit zijn weer ja die de een met het groot vierkant worden of klein worden
+	Free: Pattern=of, Pattern=een, Pattern=het, Pattern=met, Pattern=die, Pattern=weer, Pattern=dit zijn, Pattern=de, Pattern=ja
+	Constrained: Pattern=zijn
+Turn ID=29| B | B : aan de rechterkant en dan die ding boven en links en zo'n pijp aan de achterkant
+	Free: Pattern=zo'n, Pattern=aan de, Pattern=boven, Pattern=ding, Pattern=links, Pattern=en, Pattern=aan de rechterkant, Pattern=die
+	Constrained: Pattern=aan, Pattern=de, Pattern=aan de
+Turn ID=30| A | A : dit zijn ding die hebben weer vier uitsteeksel zo'n borstel erboven wcborstel één link bol
+	Free: Pattern=zo'n, Pattern=ding, Pattern=die, Pattern=link, Pattern=dit zijn, Pattern=weer, Pattern=één
+	Constrained: Pattern=zijn
+Turn ID=31| A | A : kubus rechts en één erachter
+	Free: Pattern=en één
+	Constrained: Pattern=en, Pattern=één
+Turn ID=32| A | A : negen
+	Free: 
+	Constrained: 
+Turn ID=33| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=34| B | B : waarom zien ik die niet
+	Free: Pattern=zien ik, Pattern=niet, Pattern=die
+	Constrained: Pattern=ik
+Turn ID=35| B | B : hier
+	Free: 
+	Constrained: 
+Turn ID=36| B | B : B
+	Free: 
+	Constrained: 
+Turn ID=37| B | B : de blok die steeds klein worden aan de rechterkant en dan die ding boven uitsteken en links en aan de achterkant steken er nog iets uit
+	Free: Pattern=de, Pattern=aan de, Pattern=boven, Pattern=ding, Pattern=links, Pattern=er, Pattern=en, Pattern=blok, Pattern=aan de rechterkant, Pattern=die
+	Constrained: Pattern=aan, Pattern=de, Pattern=aan de
+Turn ID=38| B | B : de zeggen maar die klein worden blok zitten aan de rechterkant
+	Free: Pattern=aan de rechterkant, Pattern=blok, Pattern=de, Pattern=die
+	Constrained: Pattern=aan, Pattern=de, Pattern=aan de
+Turn ID=39| B | B : met die twee antenneding ja
+	Free: Pattern=ja, Pattern=die, Pattern=met
+	Constrained: 
+Turn ID=40| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=41| A | A : ik hebben die met waar we het net over hebben borstel kegeltje of raar dinge en blokkentoren weten je wel
+	Free: Pattern=of, Pattern=het, Pattern=met, Pattern=die, Pattern=ik, Pattern=en
+	Constrained: 
+Turn ID=42| A | A : die die die je net ertussen proberen te passen
+	Free: Pattern=die
+	Constrained: 
+Turn ID=43| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=44| A | A : nummer vier
+	Free: 
+	Constrained: 

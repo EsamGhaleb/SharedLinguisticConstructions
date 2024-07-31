@@ -1,0 +1,119 @@
+A|0| A: _deze hebben_ _aan de rechterkant_ _een_ _schijf_ als _een_ soort dienblad 
+A|1| A: _en_ _aan de linkerkant_ _hebben die_ _een_ soort uitgereken kidneyboon _of_ _zo_ _met een_ soort spijker erin 
+A|2| A: maar _het_ makkelijk te omschrijven _zijn_ _een_ soort _aan de rechterkant_ _hebben die_ echt _een_ soort _schijf_ als _een_ dienblad 
+A|3| A: _en_ bovenop zitten niks 
+A|4| A: _ja_ _die_ _steken_ er _zo_ in 
+A|5| A: _ja_ _ja_ _ja_ _die_ 
+B|6| B: [ja] 
+B|7| B: [ja] 
+B|8| B: _dat zijn_ L 
+A|9| A: [ja] 
+A|10| A: even zoeken [ja] _het_ dienblad [zijn] al [ja] 
+A|11| A: _dat zijn bij mij_ zeven 
+B|12| B: [deze [hebben] die] [schijf] horizontaal eruit [steken] [aan de rechterkant] 
+B|13| B: [en] dan [aan de linkerkant] nog [een] gek vorm [met een] tuu eraan [die] [zo] steeds breder worden [aan] [het] einde vierkant 
+A|14| A: [deze hebben] [het] [het] dienblad weer _met de_ omgekeerd pion 
+B|15| B: [ja] 
+B|16| B: [ja] 
+B|17| B: [dat zijn bij mij] C 
+A|18| A: [met] [het] dienblaad 
+A|19| A: [ja] [dat zijn bij mij] één 
+A|20| A: _dit zijn_ [die] [met] [het] dienblad 
+B|21| B: [deze [hebben] die] gek uitsteeksel [met] [dat] vierkant [en] [die] ingedeukt ding 
+B|22| B: [of] [die] dinge wat smal [zijn] [en] dan breder worden [met een] vierkant eraan [aan] [dat] gek ingedeukt ding [en] [die] [schijf] [aan de] ander kant 
+B|23| B: [ja] 
+A|24| A: [met] [het] dienblad 
+A|25| A: [ja] [dat zijn] nummer dertien 
+B|26| B: [ja] 
+B|27| B: [dat zijn bij mij] A 
+B|28| B: [dit zijn] [met] [dat] [die] ingedeukt ding [aan de linkerkant] [met de] [schijf] [aan de rechterkant] [en] [dat] tuu [of] zoiets erbovenop 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : deze hebben aan de rechterkant een schijf als een soort dienblad
+	Free: Pattern=aan de rechterkant, Pattern=deze hebben, Pattern=een, Pattern=schijf
+	Constrained: Pattern=aan, Pattern=aan de
+Turn ID=1| A | A : en aan de linkerkant hebben die een soort uitgereken kidneyboon of zo met een soort spijker erin
+	Free: Pattern=of, Pattern=een, Pattern=zo, Pattern=met een, Pattern=en, Pattern=hebben die, Pattern=aan de linkerkant
+	Constrained: Pattern=aan, Pattern=aan de, Pattern=een, Pattern=met, Pattern=die
+Turn ID=2| A | A : maar het makkelijk te omschrijven zijn een soort aan de rechterkant hebben die echt een soort schijf als een dienblad
+	Free: Pattern=een, Pattern=het, Pattern=schijf, Pattern=aan de rechterkant, Pattern=zijn, Pattern=hebben die
+	Constrained: Pattern=aan, Pattern=die, Pattern=aan de
+Turn ID=3| A | A : en bovenop zitten niks
+	Free: Pattern=en
+	Constrained: 
+Turn ID=4| A | A : ja die steken er zo in
+	Free: Pattern=die, Pattern=zo, Pattern=steken, Pattern=ja
+	Constrained: 
+Turn ID=5| A | A : ja ja ja die
+	Free: Pattern=die, Pattern=ja
+	Constrained: 
+Turn ID=6| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=7| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=8| B | B : dat zijn L
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=9| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=10| A | A : even zoeken ja het dienblad zijn al ja
+	Free: Pattern=zijn, Pattern=ja, Pattern=het
+	Constrained: 
+Turn ID=11| A | A : dat zijn bij mij zeven
+	Free: Pattern=dat zijn bij mij
+	Constrained: Pattern=dat, Pattern=zijn, Pattern=dat zijn
+Turn ID=12| B | B : deze hebben die schijf horizontaal eruit steken aan de rechterkant
+	Free: Pattern=schijf, Pattern=deze hebben, Pattern=aan de rechterkant, Pattern=hebben die, Pattern=steken
+	Constrained: Pattern=aan, Pattern=die, Pattern=aan de
+Turn ID=13| B | B : en dan aan de linkerkant nog een gek vorm met een tuu eraan die zo steeds breder worden aan het einde vierkant
+	Free: Pattern=aan, Pattern=een, Pattern=het, Pattern=zo, Pattern=die, Pattern=met een, Pattern=en, Pattern=aan de linkerkant
+	Constrained: Pattern=aan, Pattern=met, Pattern=aan de, Pattern=een
+Turn ID=14| A | A : deze hebben het het dienblad weer met de omgekeerd pion
+	Free: Pattern=deze hebben, Pattern=met de, Pattern=het
+	Constrained: Pattern=met
+Turn ID=15| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=16| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=17| B | B : dat zijn bij mij C
+	Free: Pattern=dat zijn bij mij
+	Constrained: Pattern=dat, Pattern=zijn, Pattern=dat zijn
+Turn ID=18| A | A : met het dienblaad
+	Free: Pattern=met, Pattern=het
+	Constrained: 
+Turn ID=19| A | A : ja dat zijn bij mij één
+	Free: Pattern=dat zijn bij mij, Pattern=ja
+	Constrained: Pattern=dat, Pattern=zijn, Pattern=dat zijn
+Turn ID=20| A | A : dit zijn die met het dienblad
+	Free: Pattern=dit zijn, Pattern=die, Pattern=met, Pattern=het
+	Constrained: Pattern=zijn
+Turn ID=21| B | B : deze hebben die gek uitsteeksel met dat vierkant en die ingedeukt ding
+	Free: Pattern=dat, Pattern=deze hebben, Pattern=met, Pattern=die, Pattern=en, Pattern=hebben die
+	Constrained: Pattern=die
+Turn ID=22| B | B : of die dinge wat smal zijn en dan breder worden met een vierkant eraan aan dat gek ingedeukt ding en die schijf aan de ander kant
+	Free: Pattern=dat, Pattern=of, Pattern=aan, Pattern=aan de, Pattern=schijf, Pattern=die, Pattern=met een, Pattern=en, Pattern=zijn
+	Constrained: Pattern=met, Pattern=een, Pattern=aan
+Turn ID=23| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=24| A | A : met het dienblad
+	Free: Pattern=met, Pattern=het
+	Constrained: 
+Turn ID=25| A | A : ja dat zijn nummer dertien
+	Free: Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=26| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=27| B | B : dat zijn bij mij A
+	Free: Pattern=dat zijn bij mij
+	Constrained: Pattern=dat, Pattern=zijn, Pattern=dat zijn
+Turn ID=28| B | B : dit zijn met dat die ingedeukt ding aan de linkerkant met de schijf aan de rechterkant en dat tuu of zoiets erbovenop
+	Free: Pattern=dat, Pattern=of, Pattern=met de, Pattern=schijf, Pattern=met, Pattern=en, Pattern=dit zijn, Pattern=aan de linkerkant, Pattern=aan de rechterkant, Pattern=die
+	Constrained: Pattern=aan, Pattern=zijn, Pattern=met, Pattern=aan de

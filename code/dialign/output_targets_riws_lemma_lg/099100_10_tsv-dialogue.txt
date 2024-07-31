@@ -1,0 +1,159 @@
+A|0| A: one's deze _hebben_ eigenlijk _aan_ beide kant _een soort van_ _ja_ uitsteeksel rond _en _dan_ zijn_ _de een _lang_ dan de ander_ 
+A|1| A: _en dan_ _hebben_ _die_ linksachter _een soort van_ vierkant _met _een_ soort_ staart _eraan_ 
+B|2| B: [ja] 
+B|3| B: [ja] 
+B|4| B: _dan weten ik_ al welk het [zijn] [dan zijn] het K 
+B|5| B: dit [zijn] weer _die dat_ kop _met die twee_ _arm_ waarvan [de een lang] [zijn] [dan de ander] 
+A|6| A: [ja] 
+B|7| B: [met] _dat vierkantje_ [met een] poo [eraan] 
+A|8| A: [ja] 
+A|9| A: nou _zeggen_ kunnen _hem_ niet vinden 
+A|10| A: [een _lang] dan de ander_ 
+A|11| A: [ik] oké [dan weten ik] niet _of_ we dezelfde _hebben_ 
+A|12| A: nee 
+A|13| A: oké wachten omschrijf _hem_ nog eens 
+B|14| B: het [zijn] [zeggen] _maar_ [een] [een] pot [en dan] zitten er [ja] [ik] denken _dat_ het [een soort van] knuppel _zijn die_ _erachter_ zitten [of] zo 
+A|15| A: [ja] 
+B|16| B: _maar_ [aan] [de] rechterkant _zijn die_ [dan] iets [lang dan] [aan] [de] linkerkant 
+A|17| A: [ja] 
+B|18| B: [en] daarachter [zijn] [een soort] scherm [die] op [een] voetstuk staan 
+B|19| B: _je_ [hebben] [hem] straks ook omschrijven 
+A|20| A: [ja] [maar] [ik] kunnen [hem] gewoon nu niet vinden 
+A|21| A: even kijken hoor 
+A|22| A: [ja] inderdaad [ik] zien [hem] oké nummer negen 
+A|23| A: _dat [zijn_ _die] een_ [met die] _ongelijk arm_ eigenlijk [die] [ik] toestraks niet kunnen vinden 
+B|24| B: [ja] 
+B|25| B: [dat zijn] F 
+B|26| B: dit [zijn] weer [met die] knuppel [aan] [de] achterkant [met] [dat] [een] ding [lang dan de ander] 
+B|27| B: [en] [met] [dat] dinge 
+A|28| A: wachten [die] _die twee ongelijk arm_ bedoelen [je] 
+B|29| B: _ja [die_ twee ongelijk arm] [ja] 
+A|30| A: [en dan] zo'n vierkan [erachter] 
+B|31| B: [ja] 
+A|32| A: [ja] oké [dat zijn] nummer drie 
+A|33| A: [dat zijn] [met [die twee] ongelijk arm] [en] [ja [die] [dat] vierkantje] achter [met die] staart 
+B|34| B: [arm] 
+B|35| B: [ja] 
+B|36| B: [ja] [dat zijn] L 
+B|37| B: dit [zijn] weer [met [die] een] [arm] [lang dan de ander] 
+A|38| A: ah [dat zijn] nummer vijf 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : one's deze hebben eigenlijk aan beide kant een soort van ja uitsteeksel rond en dan zijn de een lang dan de ander
+	Free: Pattern=de een lang, Pattern=en dan, Pattern=lang dan de ander, Pattern=hebben, Pattern=een soort van, Pattern=dan zijn, Pattern=aan, Pattern=ja
+	Constrained: Pattern=de, Pattern=een, Pattern=dan de ander, Pattern=een soort, Pattern=en, Pattern=lang dan, Pattern=zijn, Pattern=een lang, Pattern=dan
+Turn ID=1| A | A : en dan hebben die linksachter een soort van vierkant met een soort staart eraan
+	Free: Pattern=en dan, Pattern=eraan, Pattern=hebben, Pattern=een soort van, Pattern=die, Pattern=met een, Pattern=een soort
+	Constrained: Pattern=dan, Pattern=een, Pattern=met, Pattern=een soort, Pattern=en
+Turn ID=2| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=3| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=4| B | B : dan weten ik al welk het zijn dan zijn het K
+	Free: Pattern=dan weten ik, Pattern=dan zijn, Pattern=zijn
+	Constrained: Pattern=dan, Pattern=ik, Pattern=zijn
+Turn ID=5| B | B : dit zijn weer die dat kop met die twee arm waarvan de een lang zijn dan de ander
+	Free: Pattern=de een lang, Pattern=met die twee, Pattern=die dat, Pattern=dan de ander, Pattern=arm, Pattern=zijn
+	Constrained: Pattern=de, Pattern=een, Pattern=met, Pattern=die, Pattern=dat, Pattern=met die, Pattern=een lang, Pattern=dan
+Turn ID=6| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=7| B | B : met dat vierkantje met een poo eraan
+	Free: Pattern=dat vierkantje, Pattern=met een, Pattern=met, Pattern=eraan
+	Constrained: Pattern=dat, Pattern=een, Pattern=met
+Turn ID=8| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=9| A | A : nou zeggen kunnen hem niet vinden
+	Free: Pattern=zeggen, Pattern=hem
+	Constrained: 
+Turn ID=10| A | A : een lang dan de ander
+	Free: Pattern=lang dan de ander, Pattern=een lang
+	Constrained: Pattern=de, Pattern=dan, Pattern=een, Pattern=dan de ander, Pattern=lang dan
+Turn ID=11| A | A : ik oké dan weten ik niet of we dezelfde hebben
+	Free: Pattern=dan weten ik, Pattern=hebben, Pattern=ik, Pattern=of
+	Constrained: Pattern=dan, Pattern=ik
+Turn ID=12| A | A : nee
+	Free: 
+	Constrained: 
+Turn ID=13| A | A : oké wachten omschrijf hem nog eens
+	Free: Pattern=hem
+	Constrained: 
+Turn ID=14| B | B : het zijn zeggen maar een een pot en dan zitten er ja ik denken dat het een soort van knuppel zijn die erachter zitten of zo
+	Free: Pattern=of, Pattern=ja, Pattern=en dan, Pattern=een, Pattern=zijn die, Pattern=zeggen, Pattern=een soort van, Pattern=ik, Pattern=dat, Pattern=erachter, Pattern=zijn, Pattern=maar
+	Constrained: Pattern=dan, Pattern=een, Pattern=die, Pattern=een soort, Pattern=en, Pattern=zijn
+Turn ID=15| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=16| B | B : maar aan de rechterkant zijn die dan iets lang dan aan de linkerkant
+	Free: Pattern=dan, Pattern=zijn die, Pattern=lang dan, Pattern=maar, Pattern=de, Pattern=aan
+	Constrained: Pattern=dan, Pattern=die, Pattern=zijn
+Turn ID=17| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=18| B | B : en daarachter zijn een soort scherm die op een voetstuk staan
+	Free: Pattern=een, Pattern=die, Pattern=een soort, Pattern=en, Pattern=zijn
+	Constrained: Pattern=een
+Turn ID=19| B | B : je hebben hem straks ook omschrijven
+	Free: Pattern=hebben, Pattern=hem, Pattern=je
+	Constrained: 
+Turn ID=20| A | A : ja maar ik kunnen hem gewoon nu niet vinden
+	Free: Pattern=maar, Pattern=hem, Pattern=ja, Pattern=ik
+	Constrained: 
+Turn ID=21| A | A : even kijken hoor
+	Free: 
+	Constrained: 
+Turn ID=22| A | A : ja inderdaad ik zien hem oké nummer negen
+	Free: Pattern=hem, Pattern=ja, Pattern=ik
+	Constrained: 
+Turn ID=23| A | A : dat zijn die een met die ongelijk arm eigenlijk die ik toestraks niet kunnen vinden
+	Free: Pattern=ongelijk arm, Pattern=zijn die, Pattern=die, Pattern=die een, Pattern=ik, Pattern=dat zijn, Pattern=met die
+	Constrained: Pattern=dat, Pattern=een, Pattern=met, Pattern=die, Pattern=arm, Pattern=zijn
+Turn ID=24| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=25| B | B : dat zijn F
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=26| B | B : dit zijn weer met die knuppel aan de achterkant met dat een ding lang dan de ander
+	Free: Pattern=lang dan de ander, Pattern=een, Pattern=met, Pattern=zijn, Pattern=dat, Pattern=met die, Pattern=de, Pattern=aan
+	Constrained: Pattern=de, Pattern=dan, Pattern=dan de ander, Pattern=met, Pattern=die, Pattern=lang dan
+Turn ID=27| B | B : en met dat dinge
+	Free: Pattern=dat, Pattern=met, Pattern=en
+	Constrained: 
+Turn ID=28| A | A : wachten die die twee ongelijk arm bedoelen je
+	Free: Pattern=die twee ongelijk arm, Pattern=die, Pattern=je
+	Constrained: Pattern=die, Pattern=arm, Pattern=ongelijk arm
+Turn ID=29| B | B : ja die twee ongelijk arm ja
+	Free: Pattern=die twee ongelijk arm, Pattern=ja die, Pattern=ja
+	Constrained: Pattern=die, Pattern=ja, Pattern=arm, Pattern=ongelijk arm
+Turn ID=30| A | A : en dan zo'n vierkan erachter
+	Free: Pattern=en dan, Pattern=erachter
+	Constrained: Pattern=dan, Pattern=en
+Turn ID=31| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=32| A | A : ja oké dat zijn nummer drie
+	Free: Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=33| A | A : dat zijn met die twee ongelijk arm en ja die dat vierkantje achter met die staart
+	Free: Pattern=ja die, Pattern=met die twee, Pattern=die dat, Pattern=dat vierkantje, Pattern=en, Pattern=die twee ongelijk arm, Pattern=dat zijn, Pattern=met die
+	Constrained: Pattern=ja, Pattern=ongelijk arm, Pattern=met, Pattern=die, Pattern=arm, Pattern=zijn, Pattern=dat, Pattern=met die
+Turn ID=34| B | B : arm
+	Free: Pattern=arm
+	Constrained: 
+Turn ID=35| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=36| B | B : ja dat zijn L
+	Free: Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=37| B | B : dit zijn weer met die een arm lang dan de ander
+	Free: Pattern=met die, Pattern=lang dan de ander, Pattern=die een, Pattern=arm, Pattern=zijn
+	Constrained: Pattern=de, Pattern=dan, Pattern=een, Pattern=dan de ander, Pattern=met, Pattern=die, Pattern=lang dan
+Turn ID=38| A | A : ah dat zijn nummer vijf
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn

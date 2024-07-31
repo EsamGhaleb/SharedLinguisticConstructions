@@ -1,0 +1,83 @@
+B|0| B: _oké_ nou nu _zijn_ het _die_ _trofee_ 
+A|1| A: leuk 
+B|2| B: _dat zijn_ best _wel_ makkelijk _ja_ 
+A|3| A: [ja] [dat] [die] [die] [zijn] [wel] duidelijk 
+B|4| B: met [dat] draaien poo 
+A|5| A: [oké] [ja] precies 
+A|6| A: [dat zijn] dan nummer vier _bij mij_ 
+A|7| A: _dit zijn_ de [trofee] 
+B|8| B: [oké] 
+B|9| B: A 
+B|10| B: [oké] [dit zijn] [die] [trofee] 
+A|11| A: [ja] 
+A|12| A: nummer tien 
+A|13| A: de [trofee] 
+B|14| B: [dat zijn] [bij mij] L 
+B|15| B: nu hebben ik [die] [trofee] 
+A|16| A: ah [die] moeten we nog [ja] nummer vier 
+B|17| B: [ja] 
+A|18| A: de [trofee] 
+B|19| B: [dat zijn] [bij mij] F 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : oké nou nu zijn het die trofee
+	Free: Pattern=zijn, Pattern=die, Pattern=oké, Pattern=trofee
+	Constrained: 
+Turn ID=1| A | A : leuk
+	Free: 
+	Constrained: 
+Turn ID=2| B | B : dat zijn best wel makkelijk ja
+	Free: Pattern=dat zijn, Pattern=ja, Pattern=wel
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=3| A | A : ja dat die die zijn wel duidelijk
+	Free: Pattern=dat, Pattern=ja, Pattern=wel, Pattern=die, Pattern=zijn
+	Constrained: 
+Turn ID=4| B | B : met dat draaien poo
+	Free: Pattern=dat
+	Constrained: 
+Turn ID=5| A | A : oké ja precies
+	Free: Pattern=ja, Pattern=oké
+	Constrained: 
+Turn ID=6| A | A : dat zijn dan nummer vier bij mij
+	Free: Pattern=bij mij, Pattern=dat zijn
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=7| A | A : dit zijn de trofee
+	Free: Pattern=dit zijn, Pattern=trofee
+	Constrained: Pattern=zijn
+Turn ID=8| B | B : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=9| B | B : A
+	Free: 
+	Constrained: 
+Turn ID=10| B | B : oké dit zijn die trofee
+	Free: Pattern=dit zijn, Pattern=die, Pattern=oké, Pattern=trofee
+	Constrained: Pattern=zijn
+Turn ID=11| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=12| A | A : nummer tien
+	Free: 
+	Constrained: 
+Turn ID=13| A | A : de trofee
+	Free: Pattern=trofee
+	Constrained: 
+Turn ID=14| B | B : dat zijn bij mij L
+	Free: Pattern=bij mij, Pattern=dat zijn
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=15| B | B : nu hebben ik die trofee
+	Free: Pattern=die, Pattern=trofee
+	Constrained: 
+Turn ID=16| A | A : ah die moeten we nog ja nummer vier
+	Free: Pattern=ja, Pattern=die
+	Constrained: 
+Turn ID=17| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=18| A | A : de trofee
+	Free: Pattern=trofee
+	Constrained: 
+Turn ID=19| B | B : dat zijn bij mij F
+	Free: Pattern=bij mij, Pattern=dat zijn
+	Constrained: Pattern=zijn, Pattern=dat

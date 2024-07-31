@@ -1,0 +1,119 @@
+A|0| A: _ja_ 
+A|1| A: ik vinden _het_ _een soort_ ruimteschip 
+A|2| A: hij hebben ook _nog een_ antenne 
+A|3| A: _ja_ 
+A|4| A: _dan_ _zijn_ _het_ 
+A|5| A: _ja_ precies _dan_ _zijn_ _het_ _twee_ 
+B|6| B: ok _dit zijn_ _die_ telescoop wat je _zeggen_ alleen _met_ [twee] ding 
+B|7| B: _en_ [dan] [het] _vlak_ rechts zitten er op _en_ [dan] _bovenop_ zitten er [nog [een] soort] spijker 
+B|8| B: [ja] 
+A|9| A: check 
+A|10| A: [dit zijn] _dat_ ruimteschip 
+A|11| A: [met] [die] [twee] torent blokkentorent erin [een] antenne _en een_ [ja] _en [een_ soort] tv of zo gewoon [een] vierkan aan _de_ voorkant 
+A|12| A: [een] [een] [vlak] 
+A|13| A: [ja] 
+A|14| A: [ja] 
+A|15| A: [ja] 
+A|16| A: _dat zijn_ [een] ruimteschip 
+A|17| A: negen 
+A|18| A: [het] ruimteschip _met de_ Antenne [bovenop] [en] _de_ [twee] blokkentorens [die] erin steken aan _de_ linkerkant 
+B|19| B: [ja] [dat zijn] voor mij G 
+B|20| B: ok [dit zijn] [met de] telescoop [twee] ding [een] vierkant [vlak] [en] _één_ spijker [bovenop] 
+A|21| A: [ja] 
+A|22| A: [één] 
+A|23| A: oeh ik [zeggen] [het] bijna niet 
+A|24| A: ruimteschip 
+A|25| A: [ja] 
+B|26| B: [ja] [dat zijn] voor mij d 
+B|27| B: [dit zijn] [met] [twee] telesco [één] vierkant [en een] spijker 
+B|28| B: [ja] [dat zijn] voor mij B 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=1| A | A : ik vinden het een soort ruimteschip
+	Free: Pattern=een soort, Pattern=het
+	Constrained: Pattern=een
+Turn ID=2| A | A : hij hebben ook nog een antenne
+	Free: Pattern=nog een
+	Constrained: Pattern=een
+Turn ID=3| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=4| A | A : dan zijn het
+	Free: Pattern=het, Pattern=zijn, Pattern=dan
+	Constrained: 
+Turn ID=5| A | A : ja precies dan zijn het twee
+	Free: Pattern=twee, Pattern=ja, Pattern=dan, Pattern=het, Pattern=zijn
+	Constrained: 
+Turn ID=6| B | B : ok dit zijn die telescoop wat je zeggen alleen met twee ding
+	Free: Pattern=twee, Pattern=zeggen, Pattern=met, Pattern=die, Pattern=dit zijn
+	Constrained: Pattern=zijn
+Turn ID=7| B | B : en dan het vlak rechts zitten er op en dan bovenop zitten er nog een soort spijker
+	Free: Pattern=bovenop, Pattern=nog een, Pattern=dan, Pattern=het, Pattern=en, Pattern=vlak, Pattern=een soort
+	Constrained: Pattern=een
+Turn ID=8| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=9| A | A : check
+	Free: 
+	Constrained: 
+Turn ID=10| A | A : dit zijn dat ruimteschip
+	Free: Pattern=dit zijn, Pattern=dat
+	Constrained: Pattern=zijn
+Turn ID=11| A | A : met die twee torent blokkentorent erin een antenne en een ja en een soort tv of zo gewoon een vierkan aan de voorkant
+	Free: Pattern=twee, Pattern=een, Pattern=met, Pattern=die, Pattern=een soort, Pattern=en een, Pattern=de, Pattern=ja
+	Constrained: Pattern=een, Pattern=en
+Turn ID=12| A | A : een een vlak
+	Free: Pattern=een, Pattern=vlak
+	Constrained: 
+Turn ID=13| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=14| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=15| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=16| A | A : dat zijn een ruimteschip
+	Free: Pattern=dat zijn, Pattern=een
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=17| A | A : negen
+	Free: 
+	Constrained: 
+Turn ID=18| A | A : het ruimteschip met de Antenne bovenop en de twee blokkentorens die erin steken aan de linkerkant
+	Free: Pattern=bovenop, Pattern=twee, Pattern=het, Pattern=die, Pattern=en, Pattern=de, Pattern=met de
+	Constrained: Pattern=de, Pattern=met
+Turn ID=19| B | B : ja dat zijn voor mij G
+	Free: Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=20| B | B : ok dit zijn met de telescoop twee ding een vierkant vlak en één spijker bovenop
+	Free: Pattern=bovenop, Pattern=twee, Pattern=met de, Pattern=een, Pattern=vlak, Pattern=en, Pattern=één, Pattern=dit zijn
+	Constrained: Pattern=zijn, Pattern=de, Pattern=met
+Turn ID=21| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=22| A | A : één
+	Free: Pattern=één
+	Constrained: 
+Turn ID=23| A | A : oeh ik zeggen het bijna niet
+	Free: Pattern=het, Pattern=zeggen
+	Constrained: 
+Turn ID=24| A | A : ruimteschip
+	Free: 
+	Constrained: 
+Turn ID=25| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=26| B | B : ja dat zijn voor mij d
+	Free: Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=27| B | B : dit zijn met twee telesco één vierkant en een spijker
+	Free: Pattern=twee, Pattern=met, Pattern=en een, Pattern=één, Pattern=dit zijn
+	Constrained: Pattern=een, Pattern=zijn, Pattern=en
+Turn ID=28| B | B : ja dat zijn voor mij B
+	Free: Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=zijn, Pattern=dat

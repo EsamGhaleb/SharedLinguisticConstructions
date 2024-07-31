@@ -1,0 +1,95 @@
+B|0| B: oké begin of het _zijn_ het bakje _en_ het bak staan op _een_ soort van Swirly dingetje 
+B|1| B: _en_ _dat_ Swirly dinget zitten op _een_ driehoekje 
+B|2| B: ik vinden het net _een_ robot _die_ naar boven komen zeggen _maar_ draaien 
+B|3| B: oké 
+A|4| A: _ja_ [dat] kunnen er [maar] één [zijn] 
+A|5| A: [dat] [zijn] vier voor mij 
+B|6| B: [ja] 
+B|7| B: [ja] [ja] [ja] ik hebben hem 
+B|8| B: [ja] 
+B|9| B: A 
+A|10| A: dit [zijn] degeen met de spiraal aan de onderkant [en] dan [een] driehoek 
+A|11| A: [ja] 
+B|12| B: het fancy cocktailglas 
+A|13| A: [ja] 
+A|14| A: [dat] [zijn] tien voor mij 
+B|15| B: [ja] 
+B|16| B: letter L 
+A|17| A: dit [zijn] [die] met de wokkel aan de onderkant [en] dan de driehoek 
+A|18| A: [ja] [dat] [zijn] vier voor mij 
+B|19| B: cocktailglas 
+A|20| A: dit [zijn] de met de wokkel onderaan 
+B|21| B: yes 
+B|22| B: letter F 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : oké begin of het zijn het bakje en het bak staan op een soort van Swirly dingetje
+	Free: Pattern=een, Pattern=en, Pattern=zijn
+	Constrained: 
+Turn ID=1| B | B : en dat Swirly dinget zitten op een driehoekje
+	Free: Pattern=een, Pattern=en, Pattern=dat
+	Constrained: 
+Turn ID=2| B | B : ik vinden het net een robot die naar boven komen zeggen maar draaien
+	Free: Pattern=die, Pattern=maar, Pattern=een
+	Constrained: 
+Turn ID=3| B | B : oké
+	Free: 
+	Constrained: 
+Turn ID=4| A | A : ja dat kunnen er maar één zijn
+	Free: Pattern=maar, Pattern=ja, Pattern=dat, Pattern=zijn
+	Constrained: 
+Turn ID=5| A | A : dat zijn vier voor mij
+	Free: Pattern=dat, Pattern=zijn
+	Constrained: 
+Turn ID=6| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=7| B | B : ja ja ja ik hebben hem
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=8| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=9| B | B : A
+	Free: 
+	Constrained: 
+Turn ID=10| A | A : dit zijn degeen met de spiraal aan de onderkant en dan een driehoek
+	Free: Pattern=een, Pattern=en, Pattern=zijn
+	Constrained: 
+Turn ID=11| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=12| B | B : het fancy cocktailglas
+	Free: 
+	Constrained: 
+Turn ID=13| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=14| A | A : dat zijn tien voor mij
+	Free: Pattern=dat, Pattern=zijn
+	Constrained: 
+Turn ID=15| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=16| B | B : letter L
+	Free: 
+	Constrained: 
+Turn ID=17| A | A : dit zijn die met de wokkel aan de onderkant en dan de driehoek
+	Free: Pattern=die, Pattern=en, Pattern=zijn
+	Constrained: 
+Turn ID=18| A | A : ja dat zijn vier voor mij
+	Free: Pattern=ja, Pattern=dat, Pattern=zijn
+	Constrained: 
+Turn ID=19| B | B : cocktailglas
+	Free: 
+	Constrained: 
+Turn ID=20| A | A : dit zijn de met de wokkel onderaan
+	Free: Pattern=zijn
+	Constrained: 
+Turn ID=21| B | B : yes
+	Free: 
+	Constrained: 
+Turn ID=22| B | B : letter F
+	Free: 
+	Constrained: 

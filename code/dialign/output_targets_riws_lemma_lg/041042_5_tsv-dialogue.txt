@@ -1,0 +1,103 @@
+B|0| B: oké deze _vinden ik_ _heel_ _vinden ik_ _de_ klein eigenlijk van allemaal 
+B|1| B: _want_ zeggen maar _een_ komme _en_ daarvoor _zitten_ zeggen maar soort van _een_ _een_ _hand_ _en die_ houden _een_ klein _paal_ vast 
+A|2| A: _ja_ _ja_ [heel] stokstijf [vinden ik] hem staan [want] [die] _hebben_ [een] _balk_ 
+B|3| B: dus [die] _zijn_ [ja] 
+B|4| B: _zo_ recht op _zijn_ hoofd _zo'n_ _hanenkam_ _zo_ 
+B|5| B: _en_ dan [hebben] [die] hier _zo'n paal_ _en_ dan _zitten_ er hier nog [een] soort van [een] komme [die] andersom _zitten_ [een] _beker die_ andersom _zitten_ 
+A|6| A: [een] 
+A|7| A: [ja] 
+A|8| A: _dat zijn_ nummer acht 
+A|9| A: [ja] _dat zijn_ _met_ [die] [hanenkam] 
+A|10| A: [die] [beker die] omgedraaid [zitten] [en die] [hand] [die] [zo'n paal] omhoog [hebben] 
+B|11| B: [dat zijn] E 
+B|12| B: _dit zijn_ [dat] compact man [met] [dat] _staaf_ in [zijn] [hand] 
+A|13| A: [ja] 
+A|14| A: [die] stokstijve [met] [die] [hanenkam] 
+A|15| A: [dat zijn] nummer één 
+A|16| A: [dit zijn] het _poppe_ [met] [de] [hanenkam] [en die] [ja] spastisch [met] het 
+B|17| B: [dat zijn] E 
+B|18| B: [dit zijn] [dat] [poppe] [dat] [dat] [balk] vasthouden in [zijn] [hand] 
+A|19| A: [met] [die] [hanenkam] weer 
+B|20| B: [ja] 
+A|21| A: [ja] 
+A|22| A: nummer zestien 
+A|23| A: [dit zijn] het [poppe] [die] het [staaf] [zo] vastheeft [en] [met] [de] [hanenkam] 
+B|24| B: [dat zijn] O 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : oké deze vinden ik heel vinden ik de klein eigenlijk van allemaal
+	Free: Pattern=vinden ik, Pattern=heel, Pattern=de
+	Constrained: 
+Turn ID=1| B | B : want zeggen maar een komme en daarvoor zitten zeggen maar soort van een een hand en die houden een klein paal vast
+	Free: Pattern=en die, Pattern=want, Pattern=een, Pattern=zitten, Pattern=hand, Pattern=paal, Pattern=en
+	Constrained: Pattern=en, Pattern=die
+Turn ID=2| A | A : ja ja heel stokstijf vinden ik hem staan want die hebben een balk
+	Free: Pattern=ja, Pattern=hebben, Pattern=balk, Pattern=die, Pattern=want, Pattern=heel, Pattern=een, Pattern=vinden ik
+	Constrained: 
+Turn ID=3| B | B : dus die zijn ja
+	Free: Pattern=ja, Pattern=zijn, Pattern=die
+	Constrained: 
+Turn ID=4| B | B : zo recht op zijn hoofd zo'n hanenkam zo
+	Free: Pattern=hanenkam, Pattern=zo, Pattern=zijn, Pattern=zo'n
+	Constrained: 
+Turn ID=5| B | B : en dan hebben die hier zo'n paal en dan zitten er hier nog een soort van een komme die andersom zitten een beker die andersom zitten
+	Free: Pattern=een, Pattern=hebben, Pattern=zo'n paal, Pattern=en, Pattern=beker die, Pattern=die, Pattern=zitten
+	Constrained: Pattern=zo'n, Pattern=die, Pattern=paal
+Turn ID=6| A | A : een
+	Free: Pattern=een
+	Constrained: 
+Turn ID=7| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=8| A | A : dat zijn nummer acht
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=9| A | A : ja dat zijn met die hanenkam
+	Free: Pattern=dat zijn, Pattern=ja, Pattern=met, Pattern=die, Pattern=hanenkam
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=10| A | A : die beker die omgedraaid zitten en die hand die zo'n paal omhoog hebben
+	Free: Pattern=en die, Pattern=hebben, Pattern=zo'n paal, Pattern=hand, Pattern=beker die, Pattern=die, Pattern=zitten
+	Constrained: Pattern=en, Pattern=zo'n, Pattern=die, Pattern=paal
+Turn ID=11| B | B : dat zijn E
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=12| B | B : dit zijn dat compact man met dat staaf in zijn hand
+	Free: Pattern=dat, Pattern=staaf, Pattern=met, Pattern=hand, Pattern=zijn, Pattern=dit zijn
+	Constrained: Pattern=zijn
+Turn ID=13| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=14| A | A : die stokstijve met die hanenkam
+	Free: Pattern=hanenkam, Pattern=die, Pattern=met
+	Constrained: 
+Turn ID=15| A | A : dat zijn nummer één
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=16| A | A : dit zijn het poppe met de hanenkam en die ja spastisch met het
+	Free: Pattern=en die, Pattern=poppe, Pattern=met, Pattern=hanenkam, Pattern=dit zijn, Pattern=de, Pattern=ja
+	Constrained: Pattern=zijn, Pattern=en, Pattern=die
+Turn ID=17| B | B : dat zijn E
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=18| B | B : dit zijn dat poppe dat dat balk vasthouden in zijn hand
+	Free: Pattern=dat, Pattern=hand, Pattern=zijn, Pattern=dit zijn, Pattern=balk, Pattern=poppe
+	Constrained: Pattern=zijn
+Turn ID=19| A | A : met die hanenkam weer
+	Free: Pattern=hanenkam, Pattern=die, Pattern=met
+	Constrained: 
+Turn ID=20| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=21| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=22| A | A : nummer zestien
+	Free: 
+	Constrained: 
+Turn ID=23| A | A : dit zijn het poppe die het staaf zo vastheeft en met de hanenkam
+	Free: Pattern=de, Pattern=staaf, Pattern=zo, Pattern=poppe, Pattern=met, Pattern=die, Pattern=dit zijn, Pattern=en, Pattern=hanenkam
+	Constrained: Pattern=zijn
+Turn ID=24| B | B : dat zijn O
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn, Pattern=dat

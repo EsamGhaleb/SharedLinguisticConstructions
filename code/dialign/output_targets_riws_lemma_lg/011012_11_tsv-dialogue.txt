@@ -1,0 +1,115 @@
+B|0| B: one's _ik hebben_ nou _een_ plaat _met zo'n_ _een_ bol _aan de voorkant_ _zeggen maar_ 
+B|1| B: _en_ dan _hebben_ je _een_ _aan de_ bovenkant _een_ recht _staaf_ _en_ _een_ _staaf_ _dat_ _een_ beetje lijken op _een_ _bowlingpin zeggen maar_ 
+B|2| B: _en_ dan opsteken _er_ _aan de_ linkerkant nog _een_ _een_ _driehoek_ uit 
+A|3| A: driehoekig _ja_ 
+B|4| B: _dat_ 
+A|5| A: _dat zijn bij mij_ nummer veertien 
+A|6| A: [ik hebben] [er] nu _één_ [met zo'n] _bolle_ ervoor 
+A|7| A: [en] even kijken jij noemen _het_ _het_ [bowlingpin] of _zo_ daar [aan de] zijkant [en] _één_ _Erboven_ [en] [zo'n] driehoekig ding naar buiten 
+B|8| B: [ja] 
+B|9| B: [ja] 
+B|10| B: [dat zijn bij mij] _zijn dat_ N 
+B|11| B: nou [hebben] [ik] weer _die een met dat bolle_ _aan de voorkant_ _zeggen maar en_ dan [hebben] je [zo'n] [het] [één] 
+B|12| B: recht _staaf _zeggen maar_ en_ dan [zo'n] soort van [bowlingpin] weer [aan de] bovenkant _die_ erin zitten [en] dan nog [zo'n] _driehoek_ wat [er] uit opsteken 
+A|13| A: ah [ja] 
+A|14| A: [ja] 
+A|15| A: [dat zijn bij mij] nummer negen 
+A|16| A: [ik hebben] [die een met dat] bollet [zeggen maar] _aan de voorkant en_ [bowlingpin [zeggen maar] en] [dat] [driehoek] [aan de] zijkant of hij staan [bij mij] ongeveer _in_ [het] midden 
+B|17| B: [ja] 
+B|18| B: [ja] [bij mij] [zijn] [het] G 
+B|19| B: weer [met dat] rond [aan de voorkant en] dan [zo'n] [in] [een] rechthoek [zo] [die] [Erboven] uitsteken [en] ook [in] [zo'n] soort van [bowlingpin] 
+A|20| A: [ja] 
+A|21| A: nummer vijf [zijn dat] [bij mij] 
+A|22| A: kijken [ik hebben] nu [die een met dat bolle] ervoor 
+A|23| A: [en] [dat] [die] bowling [staaf zeggen maar] 
+B|24| B: [ja] 
+B|25| B: oké 
+A|26| A: [en] [één] ervoor [en] [dat] driehoekig ding [aan de] zijkant 
+B|27| B: [dat zijn bij mij] J 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : one's ik hebben nou een plaat met zo'n een bol aan de voorkant zeggen maar
+	Free: Pattern=ik hebben, Pattern=een, Pattern=zeggen maar, Pattern=aan de voorkant, Pattern=met zo'n
+	Constrained: Pattern=zo'n, Pattern=aan de, Pattern=ik, Pattern=hebben
+Turn ID=1| B | B : en dan hebben je een aan de bovenkant een recht staaf en een staaf dat een beetje lijken op een bowlingpin zeggen maar
+	Free: Pattern=dat, Pattern=staaf, Pattern=aan de, Pattern=een, Pattern=hebben, Pattern=bowlingpin zeggen maar, Pattern=en
+	Constrained: Pattern=zeggen maar, Pattern=bowlingpin
+Turn ID=2| B | B : en dan opsteken er aan de linkerkant nog een een driehoek uit
+	Free: Pattern=driehoek, Pattern=aan de, Pattern=een, Pattern=er, Pattern=en
+	Constrained: 
+Turn ID=3| A | A : driehoekig ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=4| B | B : dat
+	Free: Pattern=dat
+	Constrained: 
+Turn ID=5| A | A : dat zijn bij mij nummer veertien
+	Free: Pattern=dat zijn bij mij
+	Constrained: Pattern=dat, Pattern=bij mij, Pattern=zijn
+Turn ID=6| A | A : ik hebben er nu één met zo'n bolle ervoor
+	Free: Pattern=ik hebben, Pattern=bolle, Pattern=er, Pattern=één, Pattern=met zo'n
+	Constrained: Pattern=zo'n, Pattern=ik, Pattern=hebben
+Turn ID=7| A | A : en even kijken jij noemen het het bowlingpin of zo daar aan de zijkant en één Erboven en zo'n driehoekig ding naar buiten
+	Free: Pattern=zo'n, Pattern=aan de, Pattern=het, Pattern=bowlingpin, Pattern=zo, Pattern=Erboven, Pattern=en, Pattern=één
+	Constrained: 
+Turn ID=8| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=9| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=10| B | B : dat zijn bij mij zijn dat N
+	Free: Pattern=dat zijn bij mij, Pattern=zijn dat
+	Constrained: Pattern=dat, Pattern=bij mij, Pattern=zijn
+Turn ID=11| B | B : nou hebben ik weer die een met dat bolle aan de voorkant zeggen maar en dan hebben je zo'n het één
+	Free: Pattern=die een met dat bolle, Pattern=zo'n, Pattern=het, Pattern=hebben, Pattern=zeggen maar en, Pattern=ik, Pattern=één, Pattern=aan de voorkant
+	Constrained: Pattern=dat, Pattern=aan de, Pattern=een, Pattern=zeggen maar, Pattern=met dat, Pattern=bolle, Pattern=die, Pattern=en, Pattern=die een met dat
+Turn ID=12| B | B : recht staaf zeggen maar en dan zo'n soort van bowlingpin weer aan de bovenkant die erin zitten en dan nog zo'n driehoek wat er uit opsteken
+	Free: Pattern=driehoek, Pattern=zo'n, Pattern=aan de, Pattern=staaf zeggen maar, Pattern=bowlingpin, Pattern=die, Pattern=zeggen maar en, Pattern=er, Pattern=en
+	Constrained: Pattern=staaf, Pattern=zeggen maar, Pattern=en
+Turn ID=13| A | A : ah ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=14| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=15| A | A : dat zijn bij mij nummer negen
+	Free: Pattern=dat zijn bij mij
+	Constrained: Pattern=dat, Pattern=bij mij, Pattern=zijn
+Turn ID=16| A | A : ik hebben die een met dat bollet zeggen maar aan de voorkant en bowlingpin zeggen maar en dat driehoek aan de zijkant of hij staan bij mij ongeveer in het midden
+	Free: Pattern=dat, Pattern=aan de voorkant en, Pattern=aan de, Pattern=zeggen maar, Pattern=het, Pattern=in, Pattern=bowlingpin zeggen maar, Pattern=zeggen maar en, Pattern=ik hebben, Pattern=driehoek, Pattern=bij mij, Pattern=die een met dat
+	Constrained: Pattern=dat, Pattern=aan de, Pattern=een, Pattern=zeggen maar, Pattern=hebben, Pattern=bowlingpin, Pattern=met dat, Pattern=die, Pattern=ik, Pattern=en, Pattern=aan de voorkant
+Turn ID=17| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=18| B | B : ja bij mij zijn het G
+	Free: Pattern=bij mij, Pattern=zijn, Pattern=ja, Pattern=het
+	Constrained: 
+Turn ID=19| B | B : weer met dat rond aan de voorkant en dan zo'n in een rechthoek zo die Erboven uitsteken en ook in zo'n soort van bowlingpin
+	Free: Pattern=aan de voorkant en, Pattern=zo'n, Pattern=een, Pattern=bowlingpin, Pattern=zo, Pattern=in, Pattern=die, Pattern=en, Pattern=Erboven, Pattern=met dat
+	Constrained: Pattern=dat, Pattern=en, Pattern=aan de, Pattern=aan de voorkant
+Turn ID=20| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=21| A | A : nummer vijf zijn dat bij mij
+	Free: Pattern=bij mij, Pattern=zijn dat
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=22| A | A : kijken ik hebben nu die een met dat bolle ervoor
+	Free: Pattern=die een met dat bolle, Pattern=ik hebben
+	Constrained: Pattern=dat, Pattern=een, Pattern=hebben, Pattern=met dat, Pattern=bolle, Pattern=die, Pattern=ik, Pattern=die een met dat
+Turn ID=23| A | A : en dat die bowling staaf zeggen maar
+	Free: Pattern=staaf zeggen maar, Pattern=die, Pattern=dat, Pattern=en
+	Constrained: Pattern=zeggen maar, Pattern=staaf
+Turn ID=24| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=25| B | B : oké
+	Free: 
+	Constrained: 
+Turn ID=26| A | A : en één ervoor en dat driehoekig ding aan de zijkant
+	Free: Pattern=aan de, Pattern=één, Pattern=dat, Pattern=en
+	Constrained: 
+Turn ID=27| B | B : dat zijn bij mij J
+	Free: Pattern=dat zijn bij mij
+	Constrained: Pattern=dat, Pattern=bij mij, Pattern=zijn

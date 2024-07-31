@@ -1,0 +1,127 @@
+B|0| B: dit noemen _ik_ _tafel_ 
+A|1| A: _ja_ _oké_ _ja_ 
+B|2| B: met blok 
+A|3| A: _ja_ _ja_ _ja_ _ja_ _ja_ [ik] weten hem 
+A|4| A: welk 
+B|5| B: [oké] 
+B|6| B: _O_ 
+A|7| A: [O] _zestien_ 
+A|8| A: [tafel] 
+B|9| B: [tafel] tafeltje waar _zijn_ [tafel] 
+A|10| A: _veertien_ 
+B|11| B: _P veertien_ 
+B|12| B: [tafel] 
+A|13| A: _ja_ welk [zijn] dat 
+B|14| B: _P_ 
+A|15| A: [P] 
+B|16| B: [ja] 
+A|17| A: [P] vijftien [P veertien] 
+A|18| A: [tafel] 
+B|19| B: [oké] N 
+A|20| A: _achten_ sorry 
+B|21| B: N [achten] 
+B|22| B: een nieuw scherm 
+B|23| B: [tafel] 
+A|24| A: [ja] 
+B|25| B: _I_ 
+A|26| A: [I] tien 
+A|27| A: [tafel] 
+B|28| B: kijken d 
+A|29| A: _zestien_ 
+B|30| B: dus d [zestien] 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : dit noemen ik tafel
+	Free: Pattern=ik, Pattern=tafel
+	Constrained: 
+Turn ID=1| A | A : ja oké ja
+	Free: Pattern=ja, Pattern=oké
+	Constrained: 
+Turn ID=2| B | B : met blok
+	Free: 
+	Constrained: 
+Turn ID=3| A | A : ja ja ja ja ja ik weten hem
+	Free: Pattern=ja, Pattern=ik
+	Constrained: 
+Turn ID=4| A | A : welk
+	Free: 
+	Constrained: 
+Turn ID=5| B | B : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=6| B | B : O
+	Free: Pattern=O
+	Constrained: 
+Turn ID=7| A | A : O zestien
+	Free: Pattern=zestien, Pattern=O
+	Constrained: 
+Turn ID=8| A | A : tafel
+	Free: Pattern=tafel
+	Constrained: 
+Turn ID=9| B | B : tafel tafeltje waar zijn tafel
+	Free: Pattern=tafel, Pattern=zijn
+	Constrained: 
+Turn ID=10| A | A : veertien
+	Free: Pattern=veertien
+	Constrained: 
+Turn ID=11| B | B : P veertien
+	Free: Pattern=P veertien
+	Constrained: Pattern=P, Pattern=veertien
+Turn ID=12| B | B : tafel
+	Free: Pattern=tafel
+	Constrained: 
+Turn ID=13| A | A : ja welk zijn dat
+	Free: Pattern=ja, Pattern=zijn
+	Constrained: 
+Turn ID=14| B | B : P
+	Free: Pattern=P
+	Constrained: 
+Turn ID=15| A | A : P
+	Free: Pattern=P
+	Constrained: 
+Turn ID=16| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=17| A | A : P vijftien P veertien
+	Free: Pattern=P veertien, Pattern=P
+	Constrained: Pattern=P, Pattern=veertien
+Turn ID=18| A | A : tafel
+	Free: Pattern=tafel
+	Constrained: 
+Turn ID=19| B | B : oké N
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=20| A | A : achten sorry
+	Free: Pattern=achten
+	Constrained: 
+Turn ID=21| B | B : N achten
+	Free: Pattern=achten
+	Constrained: 
+Turn ID=22| B | B : een nieuw scherm
+	Free: 
+	Constrained: 
+Turn ID=23| B | B : tafel
+	Free: Pattern=tafel
+	Constrained: 
+Turn ID=24| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=25| B | B : I
+	Free: Pattern=I
+	Constrained: 
+Turn ID=26| A | A : I tien
+	Free: Pattern=I
+	Constrained: 
+Turn ID=27| A | A : tafel
+	Free: Pattern=tafel
+	Constrained: 
+Turn ID=28| B | B : kijken d
+	Free: 
+	Constrained: 
+Turn ID=29| A | A : zestien
+	Free: Pattern=zestien
+	Constrained: 
+Turn ID=30| B | B : dus d zestien
+	Free: Pattern=zestien
+	Constrained: 

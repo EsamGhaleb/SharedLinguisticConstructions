@@ -1,0 +1,115 @@
+B|0| B: deze _vinden_ _ik_ deze _zijn_ _wel_ _het_ veel apart _die_ _lijken_ _het_ weinig _op_ de ander want _die_ hebben zo 
+B|1| B: _een_ rond van voor en dan staan _die_ _op een_ plaat 
+B|2| B: en dan _met die_ zo drie van _die_ dinge aan beide kant 
+A|3| A: [met die] _kralenketting_ achtig 
+B|4| B: _ja_ _het_ _lijken_ inderdaad _een beetje op een_ _een_ recht [kralenketting] _ja_ 
+A|5| A: [ja] 
+A|6| A: [ja] _dat zijn_ vijf 
+A|7| A: [ik] [vinden] _dat_ [een beetje op een] zwembad [lijken] 
+B|8| B: oké 
+B|9| B: [ik] denken aan [een] _clown_ omdat zo 
+A|10| A: _dat zijn_ ook [ja] [die] zien [ik] ook [wel] 
+B|11| B: [ja] 
+A|12| A: _dit zijn_ [die] [clown] _weer_ 
+B|13| B: oké [dat zijn] J 
+B|14| B: [ik] hebben _weer die_ [op] de plaat rust 
+A|15| A: [die] [clown] 
+B|16| B: [ja] 
+A|17| A: [dat zijn] elf 
+B|18| B: [lijken] echt zo heel wazig [op een] [clown] 
+A|19| A: [ja] maar [dat] maken [het] makkelijk 
+B|20| B: [ja] 
+A|21| A: _dit zijn_ [weer die] [clown] 
+B|22| B: [ja] dus P 
+B|23| B: [dit zijn] de [clown] 
+A|24| A: [dat zijn] negen 
+A|25| A: [dit zijn] [weer die] [clown] 
+A|26| A: of zwembad 
+B|27| B: L 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : deze vinden ik deze zijn wel het veel apart die lijken het weinig op de ander want die hebben zo
+	Free: Pattern=vinden, Pattern=op, Pattern=lijken, Pattern=wel, Pattern=het, Pattern=die, Pattern=ik, Pattern=zijn
+	Constrained: 
+Turn ID=1| B | B : een rond van voor en dan staan die op een plaat
+	Free: Pattern=op een, Pattern=een, Pattern=die
+	Constrained: Pattern=een, Pattern=op
+Turn ID=2| B | B : en dan met die zo drie van die dinge aan beide kant
+	Free: Pattern=met die, Pattern=die
+	Constrained: Pattern=die
+Turn ID=3| A | A : met die kralenketting achtig
+	Free: Pattern=met die, Pattern=kralenketting
+	Constrained: Pattern=die
+Turn ID=4| B | B : ja het lijken inderdaad een beetje op een een recht kralenketting ja
+	Free: Pattern=een beetje op een, Pattern=ja, Pattern=een, Pattern=het, Pattern=lijken, Pattern=kralenketting
+	Constrained: Pattern=op een, Pattern=een, Pattern=op
+Turn ID=5| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=6| A | A : ja dat zijn vijf
+	Free: Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=7| A | A : ik vinden dat een beetje op een zwembad lijken
+	Free: Pattern=dat, Pattern=een beetje op een, Pattern=vinden, Pattern=lijken, Pattern=ik
+	Constrained: Pattern=op een, Pattern=een, Pattern=op
+Turn ID=8| B | B : oké
+	Free: 
+	Constrained: 
+Turn ID=9| B | B : ik denken aan een clown omdat zo
+	Free: Pattern=een, Pattern=ik, Pattern=clown
+	Constrained: 
+Turn ID=10| A | A : dat zijn ook ja die zien ik ook wel
+	Free: Pattern=dat zijn, Pattern=ja, Pattern=wel, Pattern=die, Pattern=ik
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=11| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=12| A | A : dit zijn die clown weer
+	Free: Pattern=dit zijn, Pattern=die, Pattern=weer, Pattern=clown
+	Constrained: Pattern=zijn
+Turn ID=13| B | B : oké dat zijn J
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=14| B | B : ik hebben weer die op de plaat rust
+	Free: Pattern=weer die, Pattern=ik, Pattern=op
+	Constrained: Pattern=die, Pattern=weer
+Turn ID=15| A | A : die clown
+	Free: Pattern=die, Pattern=clown
+	Constrained: 
+Turn ID=16| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=17| A | A : dat zijn elf
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=18| B | B : lijken echt zo heel wazig op een clown
+	Free: Pattern=op een, Pattern=lijken, Pattern=clown
+	Constrained: Pattern=een, Pattern=op
+Turn ID=19| A | A : ja maar dat maken het makkelijk
+	Free: Pattern=het, Pattern=dat, Pattern=ja
+	Constrained: 
+Turn ID=20| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=21| A | A : dit zijn weer die clown
+	Free: Pattern=dit zijn, Pattern=weer die, Pattern=clown
+	Constrained: Pattern=die, Pattern=weer, Pattern=zijn
+Turn ID=22| B | B : ja dus P
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=23| B | B : dit zijn de clown
+	Free: Pattern=dit zijn, Pattern=clown
+	Constrained: Pattern=zijn
+Turn ID=24| A | A : dat zijn negen
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=25| A | A : dit zijn weer die clown
+	Free: Pattern=dit zijn, Pattern=weer die, Pattern=clown
+	Constrained: Pattern=die, Pattern=weer, Pattern=zijn
+Turn ID=26| A | A : of zwembad
+	Free: 
+	Constrained: 
+Turn ID=27| B | B : L
+	Free: 
+	Constrained: 

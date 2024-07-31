@@ -1,0 +1,75 @@
+B|0| B: nou _deze hebben_ die _drie_ bollet _aan_ elk kant met dat vlak _aan de_ onderkant 
+B|1| B: dat zijn _de_ makkelijk 
+A|2| A: ja 
+A|3| A: okee 
+A|4| A: veertien 
+B|5| B: met die _drie_ 
+B|6| B: c 
+B|7| B: die met dat vlak _aan de_ onderkant _en_ _drie_ stuk 
+B|8| B: o 
+A|9| A: [deze hebben] jij zeggen _het_ anders maar ik zien een soort spiraal of vlecht 
+A|10| A: ja 
+A|11| A: plat cirkel [aan de] voorkant [en] een plateau eronder 
+B|12| B: [het] vlak onderaan met [de] _drie_ stuk links [en] rechts 
+B|13| B: b 
+A|14| A: zestien 
+A|15| A: [deze hebben] vlecht 
+A|16| A: [drie] 
+A|17| A: vlech 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : nou deze hebben die drie bollet aan elk kant met dat vlak aan de onderkant
+	Free: Pattern=deze hebben, Pattern=aan de, Pattern=aan, Pattern=drie
+	Constrained: Pattern=aan, Pattern=de
+Turn ID=1| B | B : dat zijn de makkelijk
+	Free: Pattern=de
+	Constrained: 
+Turn ID=2| A | A : ja
+	Free: 
+	Constrained: 
+Turn ID=3| A | A : okee
+	Free: 
+	Constrained: 
+Turn ID=4| A | A : veertien
+	Free: 
+	Constrained: 
+Turn ID=5| B | B : met die drie
+	Free: Pattern=drie
+	Constrained: 
+Turn ID=6| B | B : c
+	Free: 
+	Constrained: 
+Turn ID=7| B | B : die met dat vlak aan de onderkant en drie stuk
+	Free: Pattern=aan de, Pattern=drie, Pattern=en
+	Constrained: Pattern=aan, Pattern=de
+Turn ID=8| B | B : o
+	Free: 
+	Constrained: 
+Turn ID=9| A | A : deze hebben jij zeggen het anders maar ik zien een soort spiraal of vlecht
+	Free: Pattern=deze hebben, Pattern=het
+	Constrained: 
+Turn ID=10| A | A : ja
+	Free: 
+	Constrained: 
+Turn ID=11| A | A : plat cirkel aan de voorkant en een plateau eronder
+	Free: Pattern=aan de, Pattern=en
+	Constrained: Pattern=aan, Pattern=de
+Turn ID=12| B | B : het vlak onderaan met de drie stuk links en rechts
+	Free: Pattern=het, Pattern=drie, Pattern=en, Pattern=de
+	Constrained: 
+Turn ID=13| B | B : b
+	Free: 
+	Constrained: 
+Turn ID=14| A | A : zestien
+	Free: 
+	Constrained: 
+Turn ID=15| A | A : deze hebben vlecht
+	Free: Pattern=deze hebben
+	Constrained: 
+Turn ID=16| A | A : drie
+	Free: Pattern=drie
+	Constrained: 
+Turn ID=17| A | A : vlech
+	Free: 
+	Constrained: 

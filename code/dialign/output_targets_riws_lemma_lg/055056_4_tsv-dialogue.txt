@@ -1,0 +1,131 @@
+A|0| A: deze _zullen ik_ de ander stekker _noemen_ 
+A|1| A: maar dan aan de rechterkant steken _er_ twee wat bredere pinn uit 
+A|2| A: hij hebben _een_ soort drinktui aan de bovenkant 
+B|3| B: _ja_ 
+A|4| A: en links nog twee verschillend soort uitsteeksel 
+A|5| A: één midden één wat _veel_ onderaan 
+B|6| B: _ja_ 
+B|7| B: als _je_ hem [een] kwartslag [zullen] draaien [zullen ik] [er] [een] _varken_ in zien 
+B|8| B: met [veel] fantasie 
+A|9| A: nice [ja] nee net 
+B|10| B: [ja] dat _zijn_ hem 
+B|11| B: dat _zijn_ letter I 
+A|12| A: net 
+B|13| B: [ja] [ik] [noemen] _het_ _het varken_ als _je_ hem iets draaien 
+A|14| A: [ja] 
+A|15| A: oké [ja] hebbes nummer twee 
+B|16| B: [ja] 
+A|17| A: [het varken] 
+B|18| B: [het _varken] waar_ staan die ook alweer 
+B|19| B: [ja] 
+B|20| B: letter M 
+B|21| B: [het varken] 
+A|22| A: [varken waar] [zijn] [je] ? [waar] [zijn] [je] ? [waar] [zijn] [je] 
+A|23| A: hebbes 
+A|24| A: nummer negen 
+A|25| A: [varken] 
+B|26| B: [het varken] 
+B|27| B: letter F 
+B|28| B: [het varken] 
+A|29| A: [varken waar] [zijn] [je] 
+A|30| A: hebbes 
+A|31| A: nummer zes 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : deze zullen ik de ander stekker noemen
+	Free: Pattern=zullen ik, Pattern=noemen
+	Constrained: Pattern=ik, Pattern=zullen
+Turn ID=1| A | A : maar dan aan de rechterkant steken er twee wat bredere pinn uit
+	Free: Pattern=er
+	Constrained: 
+Turn ID=2| A | A : hij hebben een soort drinktui aan de bovenkant
+	Free: Pattern=een
+	Constrained: 
+Turn ID=3| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=4| A | A : en links nog twee verschillend soort uitsteeksel
+	Free: 
+	Constrained: 
+Turn ID=5| A | A : één midden één wat veel onderaan
+	Free: Pattern=veel
+	Constrained: 
+Turn ID=6| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=7| B | B : als je hem een kwartslag zullen draaien zullen ik er een varken in zien
+	Free: Pattern=een, Pattern=er, Pattern=je, Pattern=varken, Pattern=zullen ik, Pattern=zullen
+	Constrained: Pattern=ik, Pattern=zullen
+Turn ID=8| B | B : met veel fantasie
+	Free: Pattern=veel
+	Constrained: 
+Turn ID=9| A | A : nice ja nee net
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=10| B | B : ja dat zijn hem
+	Free: Pattern=zijn, Pattern=ja
+	Constrained: 
+Turn ID=11| B | B : dat zijn letter I
+	Free: Pattern=zijn
+	Constrained: 
+Turn ID=12| A | A : net
+	Free: 
+	Constrained: 
+Turn ID=13| B | B : ja ik noemen het het varken als je hem iets draaien
+	Free: Pattern=ja, Pattern=het varken, Pattern=het, Pattern=ik, Pattern=je, Pattern=noemen
+	Constrained: Pattern=het, Pattern=varken
+Turn ID=14| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=15| A | A : oké ja hebbes nummer twee
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=16| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=17| A | A : het varken
+	Free: Pattern=het varken
+	Constrained: Pattern=het, Pattern=varken
+Turn ID=18| B | B : het varken waar staan die ook alweer
+	Free: Pattern=het varken, Pattern=varken waar
+	Constrained: Pattern=waar, Pattern=het, Pattern=varken
+Turn ID=19| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=20| B | B : letter M
+	Free: 
+	Constrained: 
+Turn ID=21| B | B : het varken
+	Free: Pattern=het varken
+	Constrained: Pattern=het, Pattern=varken
+Turn ID=22| A | A : varken waar zijn je ? waar zijn je ? waar zijn je
+	Free: Pattern=varken waar, Pattern=zijn, Pattern=waar, Pattern=je
+	Constrained: Pattern=waar, Pattern=varken
+Turn ID=23| A | A : hebbes
+	Free: 
+	Constrained: 
+Turn ID=24| A | A : nummer negen
+	Free: 
+	Constrained: 
+Turn ID=25| A | A : varken
+	Free: Pattern=varken
+	Constrained: 
+Turn ID=26| B | B : het varken
+	Free: Pattern=het varken
+	Constrained: Pattern=het, Pattern=varken
+Turn ID=27| B | B : letter F
+	Free: 
+	Constrained: 
+Turn ID=28| B | B : het varken
+	Free: Pattern=het varken
+	Constrained: Pattern=het, Pattern=varken
+Turn ID=29| A | A : varken waar zijn je
+	Free: Pattern=varken waar, Pattern=zijn, Pattern=je
+	Constrained: Pattern=waar, Pattern=varken
+Turn ID=30| A | A : hebbes
+	Free: 
+	Constrained: 
+Turn ID=31| A | A : nummer zes
+	Free: 
+	Constrained: 

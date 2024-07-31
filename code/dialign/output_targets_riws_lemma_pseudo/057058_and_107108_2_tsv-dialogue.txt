@@ -1,0 +1,123 @@
+A|0| A: deze _zijn_ hebben echt _een_ _een_ scherp _piramide_ _bovenop_ 
+A|1| A: _met_ nog _een_ gek soort vierkant driehoekdinge aan de zijkant _en_ 
+A|2| A: _ja_ _ik weten_ niet eens wat _het_ _voor_ _moeten_ stellen maar 
+B|3| B: o [ja] [ja] _dat_ [ik weten] welk je bedoelen 
+B|4| B: [ja] [ja] _dat_ [zijn] bij mij J 
+B|5| B: ok _dan_ [moeten] [ik] klikken 
+A|6| A: oké 
+A|7| A: [ja] 
+A|8| A: inderdaad _en _dat_ een_ piele nog klein kogelpiele aan de ander kant 
+A|9| A: [ja] 
+A|10| A: nummer zes 
+B|11| B: _dit zijn_ [dat een] [met] [dat] punt punt punthoedje eigenlijk vinden [ik] [het] [een] beetje _er_ [bovenop] 
+B|12| B: [en] 
+B|13| B: [ja] [ja] 
+B|14| B: ok bij mij H 
+A|15| A: _dit zijn weer_ [met] _die_ puntig _piramide_ aan de bovenkant [en] [dan] [dat] groot blokkie aan deze kant [en] [het] klein kogelpiele aan _die_ kant 
+A|16| A: top 
+A|17| A: [ja] 
+A|18| A: [ja] 
+A|19| A: waar _zijn die_ ? tien 
+B|20| B: [dat] [zijn] E bij mij 
+A|21| A: oké deze hebben _weer_ _die_ _piramide_ [bovenop] [en] [dan] _die_ kogel aan één kant 
+A|22| A: [en] [met] de 
+A|23| A: [er] [zijn] ook geen ander _die_ [dat] doen hebben 
+B|24| B: o [dit [zijn] die] [een] [met] [dat] hoed boven [en] [voor] zo'n afgesneden [piramide] achtig iets [ja] 
+B|25| B: ok bij mij A 
+A|26| A: tien 
+B|27| B: even kijken o daar o G 
+B|28| B: [dit zijn weer] [dat] [dat] [ja] hoedje voorop [en dat] driehoekje afsnijden [ja] 
+B|29| B: ok bij mij K 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : deze zijn hebben echt een een scherp piramide bovenop
+	Free: Pattern=bovenop, Pattern=piramide, Pattern=zijn, Pattern=een
+	Constrained: 
+Turn ID=1| A | A : met nog een gek soort vierkant driehoekdinge aan de zijkant en
+	Free: Pattern=een, Pattern=met, Pattern=en
+	Constrained: 
+Turn ID=2| A | A : ja ik weten niet eens wat het voor moeten stellen maar
+	Free: Pattern=ja, Pattern=ik weten, Pattern=moeten, Pattern=het, Pattern=voor
+	Constrained: Pattern=ik
+Turn ID=3| B | B : o ja ja dat ik weten welk je bedoelen
+	Free: Pattern=ik weten, Pattern=dat, Pattern=ja
+	Constrained: Pattern=ik
+Turn ID=4| B | B : ja ja dat zijn bij mij J
+	Free: Pattern=dat, Pattern=ja, Pattern=zijn
+	Constrained: 
+Turn ID=5| B | B : ok dan moeten ik klikken
+	Free: Pattern=moeten, Pattern=dan, Pattern=ik
+	Constrained: 
+Turn ID=6| A | A : oké
+	Free: 
+	Constrained: 
+Turn ID=7| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=8| A | A : inderdaad en dat een piele nog klein kogelpiele aan de ander kant
+	Free: Pattern=dat een, Pattern=en dat
+	Constrained: Pattern=dat, Pattern=een, Pattern=en
+Turn ID=9| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=10| A | A : nummer zes
+	Free: 
+	Constrained: 
+Turn ID=11| B | B : dit zijn dat een met dat punt punt punthoedje eigenlijk vinden ik het een beetje er bovenop
+	Free: Pattern=dat een, Pattern=een, Pattern=het, Pattern=met, Pattern=er, Pattern=ik, Pattern=dit zijn, Pattern=dat, Pattern=bovenop
+	Constrained: Pattern=dat, Pattern=zijn, Pattern=een
+Turn ID=12| B | B : en
+	Free: Pattern=en
+	Constrained: 
+Turn ID=13| B | B : ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=14| B | B : ok bij mij H
+	Free: 
+	Constrained: 
+Turn ID=15| A | A : dit zijn weer met die puntig piramide aan de bovenkant en dan dat groot blokkie aan deze kant en het klein kogelpiele aan die kant
+	Free: Pattern=dat, Pattern=piramide, Pattern=dan, Pattern=het, Pattern=met, Pattern=die, Pattern=en, Pattern=dit zijn weer
+	Constrained: Pattern=dit zijn, Pattern=zijn, Pattern=weer
+Turn ID=16| A | A : top
+	Free: 
+	Constrained: 
+Turn ID=17| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=18| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=19| A | A : waar zijn die ? tien
+	Free: Pattern=zijn die
+	Constrained: Pattern=die, Pattern=zijn
+Turn ID=20| B | B : dat zijn E bij mij
+	Free: Pattern=dat, Pattern=zijn
+	Constrained: 
+Turn ID=21| A | A : oké deze hebben weer die piramide bovenop en dan die kogel aan één kant
+	Free: Pattern=bovenop, Pattern=piramide, Pattern=dan, Pattern=die, Pattern=en, Pattern=weer
+	Constrained: 
+Turn ID=22| A | A : en met de
+	Free: Pattern=met, Pattern=en
+	Constrained: 
+Turn ID=23| A | A : er zijn ook geen ander die dat doen hebben
+	Free: Pattern=dat, Pattern=die, Pattern=zijn, Pattern=er
+	Constrained: 
+Turn ID=24| B | B : o dit zijn die een met dat hoed boven en voor zo'n afgesneden piramide achtig iets ja
+	Free: Pattern=dat, Pattern=ja, Pattern=piramide, Pattern=een, Pattern=met, Pattern=en, Pattern=dit zijn, Pattern=zijn die, Pattern=voor
+	Constrained: Pattern=die, Pattern=zijn
+Turn ID=25| B | B : ok bij mij A
+	Free: 
+	Constrained: 
+Turn ID=26| A | A : tien
+	Free: 
+	Constrained: 
+Turn ID=27| B | B : even kijken o daar o G
+	Free: 
+	Constrained: 
+Turn ID=28| B | B : dit zijn weer dat dat ja hoedje voorop en dat driehoekje afsnijden ja
+	Free: Pattern=dit zijn weer, Pattern=en dat, Pattern=dat, Pattern=ja
+	Constrained: Pattern=dat, Pattern=en, Pattern=zijn, Pattern=weer, Pattern=dit zijn
+Turn ID=29| B | B : ok bij mij K
+	Free: 
+	Constrained: 

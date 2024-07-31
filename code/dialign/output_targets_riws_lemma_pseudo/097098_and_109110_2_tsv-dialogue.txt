@@ -1,0 +1,143 @@
+A|0| A: dit _zijn_ _de_ mok _met een_ driehoek 
+A|1| A: _die_ komen _er_ linksbof uit 
+A|2| A: _aan de_ linkerkant _zitten een soort_ _van_ kno _die_ je bijna _aan_ _en_ uit zullen kunnen zetten 
+A|3| A: _aan de_ onderkant lijken _een soort_ linksonder _een soort_ _van_ rond te _zitten een soort_ wiele 
+A|4| A: _en er_ komen _een soort_ _van_ blok uit _zijn_ uit _het_ kop _het_ lijken _een_ beetje _op_ _een soort_ _van_ _neus_ 
+A|5| A: nee niet helemaal nee hij _hebben_ echt als je vooral let _op_ _die_ _soort_ _van_ _piramide_ zeggen maar linksbof _die_ uit _het_ kop komen 
+A|6| A: dat _hebben_ al ander vorm eigenlijk niet 
+A|7| A: _en_ link _zitten een soort_ _van_ prikker zeggen maar _die_ 
+A|8| A: nee _die_ 
+A|9| A: _ja_ 
+B|10| B: [een soort] punt [ja] ik [hebben] deze geloven ik punthoofd [en er] [zitten een soort] vierkant [neus] 
+B|11| B: [zitten] [er] inderdaad [een soort] kogel waar waar alleen [de] punt [er] [van] in [zitten] 
+B|12| B: ok J 
+A|13| A: dat _zijn_ makkelijk 
+A|14| A: [ja] 
+A|15| A: [ja] dat _zijn_ nummer zes hier 
+B|16| B: [met [een] soort] puntmuts [op] ? kogel in [zijn] [aan de] zijkant 
+B|17| B: [en] vierkant [neus] 
+B|18| B: [ja] [ja] [piramide] [op] [zijn] hoofd 
+B|19| B: ah 
+B|20| B: [ja] [met] [die] vierkant [neus] [en] [die] kogel [ja] E 
+A|21| A: dit [zijn] [de] mok [met] driehoek 
+A|22| A: [die] [soort] [van] [piramide] [die] linksbof staan waarvan jij zeggen dat [die] verschillend kleur [hebben] 
+A|23| A: nou [die] 
+B|24| B: kogel [met] [het] [piramide] hoofd [piramide] [op] [zijn] hoofd 
+B|25| B: [met] vierkant [neus] 
+A|26| A: [ja] 
+A|27| A: nummer tien 
+A|28| A: [ja] 
+B|29| B: o [ja] bij mij ook vierkant [neus] G 
+B|30| B: kogel [en] [piramide] hoofd 
+A|31| A: dit [zijn] [de] mok [met] jou [piramide] link bovenop [die] verschillend kleur [hebben] 
+A|32| A: [die] 
+A|33| A: [ja] 
+A|34| A: nummer tien 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : dit zijn de mok met een driehoek
+	Free: Pattern=met een, Pattern=de, Pattern=zijn
+	Constrained: Pattern=met, Pattern=een
+Turn ID=1| A | A : die komen er linksbof uit
+	Free: Pattern=er, Pattern=die
+	Constrained: 
+Turn ID=2| A | A : aan de linkerkant zitten een soort van kno die je bijna aan en uit zullen kunnen zetten
+	Free: Pattern=aan, Pattern=aan de, Pattern=die, Pattern=zitten een soort, Pattern=van, Pattern=en
+	Constrained: Pattern=soort, Pattern=een, Pattern=zitten, Pattern=een soort, Pattern=de, Pattern=aan
+Turn ID=3| A | A : aan de onderkant lijken een soort linksonder een soort van rond te zitten een soort wiele
+	Free: Pattern=zitten een soort, Pattern=aan de, Pattern=een soort, Pattern=van
+	Constrained: Pattern=soort, Pattern=een, Pattern=zitten, Pattern=een soort, Pattern=de, Pattern=aan
+Turn ID=4| A | A : en er komen een soort van blok uit zijn uit het kop het lijken een beetje op een soort van neus
+	Free: Pattern=op, Pattern=een, Pattern=en er, Pattern=het, Pattern=neus, Pattern=een soort, Pattern=van, Pattern=zijn
+	Constrained: Pattern=een, Pattern=er, Pattern=en, Pattern=soort
+Turn ID=5| A | A : nee niet helemaal nee hij hebben echt als je vooral let op die soort van piramide zeggen maar linksbof die uit het kop komen
+	Free: Pattern=soort, Pattern=het, Pattern=hebben, Pattern=die, Pattern=van, Pattern=piramide, Pattern=op
+	Constrained: 
+Turn ID=6| A | A : dat hebben al ander vorm eigenlijk niet
+	Free: Pattern=hebben
+	Constrained: 
+Turn ID=7| A | A : en link zitten een soort van prikker zeggen maar die
+	Free: Pattern=zitten een soort, Pattern=en, Pattern=van, Pattern=die
+	Constrained: Pattern=een soort, Pattern=een, Pattern=zitten, Pattern=soort
+Turn ID=8| A | A : nee die
+	Free: Pattern=die
+	Constrained: 
+Turn ID=9| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=10| B | B : een soort punt ja ik hebben deze geloven ik punthoofd en er zitten een soort vierkant neus
+	Free: Pattern=ja, Pattern=en er, Pattern=hebben, Pattern=neus, Pattern=een soort, Pattern=zitten een soort
+	Constrained: Pattern=soort, Pattern=een, Pattern=zitten, Pattern=er, Pattern=een soort, Pattern=en
+Turn ID=11| B | B : zitten er inderdaad een soort kogel waar waar alleen de punt er van in zitten
+	Free: Pattern=de, Pattern=zitten, Pattern=er, Pattern=een soort, Pattern=van
+	Constrained: Pattern=een, Pattern=soort
+Turn ID=12| B | B : ok J
+	Free: 
+	Constrained: 
+Turn ID=13| A | A : dat zijn makkelijk
+	Free: Pattern=zijn
+	Constrained: 
+Turn ID=14| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=15| A | A : ja dat zijn nummer zes hier
+	Free: Pattern=zijn, Pattern=ja
+	Constrained: 
+Turn ID=16| B | B : met een soort puntmuts op ? kogel in zijn aan de zijkant
+	Free: Pattern=met een, Pattern=een soort, Pattern=zijn, Pattern=op, Pattern=aan de
+	Constrained: Pattern=soort, Pattern=een, Pattern=met, Pattern=de, Pattern=aan
+Turn ID=17| B | B : en vierkant neus
+	Free: Pattern=en, Pattern=neus
+	Constrained: 
+Turn ID=18| B | B : ja ja piramide op zijn hoofd
+	Free: Pattern=zijn, Pattern=ja, Pattern=piramide, Pattern=op
+	Constrained: 
+Turn ID=19| B | B : ah
+	Free: 
+	Constrained: 
+Turn ID=20| B | B : ja met die vierkant neus en die kogel ja E
+	Free: Pattern=ja, Pattern=neus, Pattern=met, Pattern=die, Pattern=en
+	Constrained: 
+Turn ID=21| A | A : dit zijn de mok met driehoek
+	Free: Pattern=met, Pattern=de, Pattern=zijn
+	Constrained: 
+Turn ID=22| A | A : die soort van piramide die linksbof staan waarvan jij zeggen dat die verschillend kleur hebben
+	Free: Pattern=soort, Pattern=piramide, Pattern=hebben, Pattern=die, Pattern=van
+	Constrained: 
+Turn ID=23| A | A : nou die
+	Free: Pattern=die
+	Constrained: 
+Turn ID=24| B | B : kogel met het piramide hoofd piramide op zijn hoofd
+	Free: Pattern=het, Pattern=met, Pattern=zijn, Pattern=piramide, Pattern=op
+	Constrained: 
+Turn ID=25| B | B : met vierkant neus
+	Free: Pattern=met, Pattern=neus
+	Constrained: 
+Turn ID=26| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=27| A | A : nummer tien
+	Free: 
+	Constrained: 
+Turn ID=28| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=29| B | B : o ja bij mij ook vierkant neus G
+	Free: Pattern=neus, Pattern=ja
+	Constrained: 
+Turn ID=30| B | B : kogel en piramide hoofd
+	Free: Pattern=en, Pattern=piramide
+	Constrained: 
+Turn ID=31| A | A : dit zijn de mok met jou piramide link bovenop die verschillend kleur hebben
+	Free: Pattern=de, Pattern=piramide, Pattern=hebben, Pattern=met, Pattern=die, Pattern=zijn
+	Constrained: 
+Turn ID=32| A | A : die
+	Free: Pattern=die
+	Constrained: 
+Turn ID=33| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=34| A | A : nummer tien
+	Free: 
+	Constrained: 

@@ -1,0 +1,151 @@
+A|0| A: _hij_ _hebben_ _een groot_ lang ovaal druppel _boven en_ _link_ 
+A|1| A: _en een_ kubus _aan de rechterkant_ 
+A|2| A: net als _een_ trapezius _dat_ _hij_ zo _een_ beetje inkrompen _zijn die_ kubus 
+A|3| A: dus kubus _rechts_ _en_ zo'n lang druppel _boven en_ _link_ 
+A|4| A: dus _één_ zo'n ovaal _dinge_ zo 
+A|5| A: daarboven _en dan_ ook _link_ 
+A|6| A: _en dan_ _rechts_ _een_ kubus 
+A|7| A: _en_ _boven_ _die_ linker _zijn_ _nog _een_ klein_ heel _klein_ uitsteeksel 
+B|8| B: wachten even [dan] [hebben] ik [de] verkeerd 
+B|9| B: ik denken [de] puntmuts 
+B|10| B: _ja_ _ja_ 
+B|11| B: [dan] weten ik het al wel 
+B|12| B: staart _ja_ [dat] [zijn] nummer e 
+A|13| A: [ja] 
+A|14| A: negen 
+B|15| B: deze [hebben] [dat] geblokken ding wat we zeiden met [een groot] blok [en dan] [klein] blok [dat] [hebben] [hij] [aan de rechterkant] 
+A|16| A: [de] ovaal antenne _boven en links en_ [de] kubus _rechts_ 
+B|17| B: [een] arm zeggen maar 
+B|18| B: [en] twee dezelfde ding [die] naar [boven] steken [en] [één] [die] naar [link] steken 
+B|19| B: [een] soort hoe noemen je [dat] kegel 
+B|20| B: [en [een] klein] [dinge] [nog] [links] 
+B|21| B: krom [dinge] 
+B|22| B: [ja] 
+B|23| B: [ja] 
+B|24| B: [ja] 
+A|25| A: [ja] vijfteen 
+A|26| A: [de] kubus _rechts_ [en] [de] voelspriet erboven [en] [link] 
+B|27| B: [ja] ik zitten even te kijken waar [die] staan 
+B|28| B: [ja] [dat] [zijn] k 
+A|29| A: [een] 
+B|30| B: dit [zijn die] met twee kegel [één] naar [boven en] [één] naar [links [en] een] pixeliseren neus [aan de rechterkant] of arm 
+B|31| B: [en] [nog een] uitstulpsel [link] 
+B|32| B: [ja] 
+B|33| B: pixeliseren ding 
+B|34| B: [ja] h 
+B|35| B: dit [zijn] met twee kegel [boven en links [en] een] pixeliseren arm neus [rechts] 
+B|36| B: [en] [nog een] uitstulsel [link] 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : hij hebben een groot lang ovaal druppel boven en link
+	Free: Pattern=een groot, Pattern=hebben, Pattern=hij, Pattern=boven en, Pattern=link
+	Constrained: Pattern=en, Pattern=boven, Pattern=een
+Turn ID=1| A | A : en een kubus aan de rechterkant
+	Free: Pattern=aan de rechterkant, Pattern=en een
+	Constrained: Pattern=een, Pattern=de, Pattern=en
+Turn ID=2| A | A : net als een trapezius dat hij zo een beetje inkrompen zijn die kubus
+	Free: Pattern=zijn die, Pattern=dat, Pattern=hij, Pattern=een
+	Constrained: Pattern=die, Pattern=zijn
+Turn ID=3| A | A : dus kubus rechts en zo'n lang druppel boven en link
+	Free: Pattern=boven en, Pattern=en, Pattern=rechts, Pattern=link
+	Constrained: Pattern=en, Pattern=boven
+Turn ID=4| A | A : dus één zo'n ovaal dinge zo
+	Free: Pattern=één, Pattern=dinge
+	Constrained: 
+Turn ID=5| A | A : daarboven en dan ook link
+	Free: Pattern=en dan, Pattern=link
+	Constrained: Pattern=en, Pattern=dan
+Turn ID=6| A | A : en dan rechts een kubus
+	Free: Pattern=en dan, Pattern=rechts, Pattern=een
+	Constrained: Pattern=en, Pattern=dan
+Turn ID=7| A | A : en boven die linker zijn nog een klein heel klein uitsteeksel
+	Free: Pattern=nog een, Pattern=boven, Pattern=die, Pattern=klein, Pattern=en, Pattern=zijn, Pattern=een klein
+	Constrained: Pattern=klein, Pattern=nog, Pattern=een
+Turn ID=8| B | B : wachten even dan hebben ik de verkeerd
+	Free: Pattern=de, Pattern=dan, Pattern=hebben
+	Constrained: 
+Turn ID=9| B | B : ik denken de puntmuts
+	Free: Pattern=de
+	Constrained: 
+Turn ID=10| B | B : ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=11| B | B : dan weten ik het al wel
+	Free: Pattern=dan
+	Constrained: 
+Turn ID=12| B | B : staart ja dat zijn nummer e
+	Free: Pattern=dat, Pattern=ja, Pattern=zijn
+	Constrained: 
+Turn ID=13| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=14| A | A : negen
+	Free: 
+	Constrained: 
+Turn ID=15| B | B : deze hebben dat geblokken ding wat we zeiden met een groot blok en dan klein blok dat hebben hij aan de rechterkant
+	Free: Pattern=dat, Pattern=een groot, Pattern=en dan, Pattern=hebben, Pattern=hij, Pattern=aan de rechterkant, Pattern=klein
+	Constrained: Pattern=dan, Pattern=een, Pattern=de, Pattern=en
+Turn ID=16| A | A : de ovaal antenne boven en links en de kubus rechts
+	Free: Pattern=boven en links en, Pattern=de, Pattern=rechts
+	Constrained: Pattern=boven, Pattern=links, Pattern=boven en, Pattern=en, Pattern=links en
+Turn ID=17| B | B : een arm zeggen maar
+	Free: Pattern=een
+	Constrained: 
+Turn ID=18| B | B : en twee dezelfde ding die naar boven steken en één die naar link steken
+	Free: Pattern=boven, Pattern=die, Pattern=link, Pattern=en, Pattern=één
+	Constrained: 
+Turn ID=19| B | B : een soort hoe noemen je dat kegel
+	Free: Pattern=dat, Pattern=een
+	Constrained: 
+Turn ID=20| B | B : en een klein dinge nog links
+	Free: Pattern=nog, Pattern=links, Pattern=dinge, Pattern=en een, Pattern=een klein
+	Constrained: Pattern=en, Pattern=klein, Pattern=een
+Turn ID=21| B | B : krom dinge
+	Free: Pattern=dinge
+	Constrained: 
+Turn ID=22| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=23| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=24| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=25| A | A : ja vijfteen
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=26| A | A : de kubus rechts en de voelspriet erboven en link
+	Free: Pattern=en, Pattern=de, Pattern=rechts, Pattern=link
+	Constrained: 
+Turn ID=27| B | B : ja ik zitten even te kijken waar die staan
+	Free: Pattern=die, Pattern=ja
+	Constrained: 
+Turn ID=28| B | B : ja dat zijn k
+	Free: Pattern=dat, Pattern=ja, Pattern=zijn
+	Constrained: 
+Turn ID=29| A | A : een
+	Free: Pattern=een
+	Constrained: 
+Turn ID=30| B | B : dit zijn die met twee kegel één naar boven en één naar links en een pixeliseren neus aan de rechterkant of arm
+	Free: Pattern=zijn die, Pattern=aan de rechterkant, Pattern=boven en, Pattern=en een, Pattern=één, Pattern=links en
+	Constrained: Pattern=de, Pattern=boven, Pattern=een, Pattern=links, Pattern=die, Pattern=en, Pattern=zijn
+Turn ID=31| B | B : en nog een uitstulpsel link
+	Free: Pattern=nog een, Pattern=en, Pattern=link
+	Constrained: Pattern=nog, Pattern=een
+Turn ID=32| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=33| B | B : pixeliseren ding
+	Free: 
+	Constrained: 
+Turn ID=34| B | B : ja h
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=35| B | B : dit zijn met twee kegel boven en links en een pixeliseren arm neus rechts
+	Free: Pattern=boven en links en, Pattern=en een, Pattern=rechts, Pattern=zijn
+	Constrained: Pattern=boven, Pattern=een, Pattern=links, Pattern=boven en, Pattern=en, Pattern=links en
+Turn ID=36| B | B : en nog een uitstulsel link
+	Free: Pattern=nog een, Pattern=en, Pattern=link
+	Constrained: Pattern=nog, Pattern=een

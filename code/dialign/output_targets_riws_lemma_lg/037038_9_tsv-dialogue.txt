@@ -1,0 +1,151 @@
+A|0| A: _hebben_ _jij_ _het_ rood vierkant 
+B|1| B: _ja ik_ [hebben] [het] vierkantje 
+A|2| A: _oké_ 
+B|3| B: even kijken 
+B|4| B: _aan de_ linkerkant _zitten_ _een_ soort van potlooduitein 
+B|5| B: rechtsboven _zijn_ _een_ _ja_ kaarsvlammetje _lijken_ [het] wel _op_ 
+B|6| B: _aan de_ achterkant _zitten_ _een_ half cirkel _die_ je nog net _zien_ 
+B|7| B: _weten_ je _welk_ _ik_ bedoelen 
+A|8| A: [ja] _zijn dat_ bij _dat_ ding _wat_ daarbovenop [zitten] lopen _dat_ [een] beetje ovaal en dan _zo_ dunn naar boven 
+B|9| B: [ja] 
+A|10| A: _oké_ dan [weten] [ik] [welk] [het] [zijn] denken [ik] 
+B|11| B: _aan de_ onderkant [zitten] [een] soort van poot _die_ langwerpig [zijn] [zo] 
+A|12| A: [ja] zo'n 
+B|13| B: [ja] 
+A|14| A: [ja] _oké_ 
+A|15| A: [ik] moeten nu [het] nummer zeggen toch 
+B|16| B: [ja] 
+A|17| A: en dan [op] geel 
+A|18| A: _oké_ nummer dertien 
+A|19| A: [ja] _dit_ vinden [ik] [een] beetje [lijken] [op] [een] _steelpannetje_ met [een] lepel erin 
+A|20| A: maar _dat _zijn_ dat_ [een] [die] we ook al [hebben] [hebben] met [een] beetje [die] kegel [zo] er en _dat_ rond erachter 
+B|21| B: _ja ik_ [weten] [het] 
+A|22| A: en daar waar [die] [op] staat en _dat_ dinge [aan de] zijkant 
+B|23| B: [ja] 
+B|24| B: [dat zijn] [de] O 
+B|25| B: _dit zijn dat steelpannetjeten_ 
+A|26| A: [ja ik] [zien] hem 
+B|27| B: [wat] [jij] net noemen 
+A|28| A: nummer acht 
+A|29| A: [dit zijn dat steelpannetjeten] 
+B|30| B: [ja] C 
+B|31| B: [steelpannetje] 
+A|32| A: [ja] nummer zeven 
+A|33| A: [het] [steelpannetje] 
+B|34| B: [ja] C 
+B|35| B: [oké] 
+A|36| A: [ik] [zijn] benieuwd 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : hebben jij het rood vierkant
+	Free: Pattern=hebben, Pattern=het, Pattern=jij
+	Constrained: 
+Turn ID=1| B | B : ja ik hebben het vierkantje
+	Free: Pattern=ja ik, Pattern=hebben, Pattern=het
+	Constrained: Pattern=ja, Pattern=ik
+Turn ID=2| A | A : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=3| B | B : even kijken
+	Free: 
+	Constrained: 
+Turn ID=4| B | B : aan de linkerkant zitten een soort van potlooduitein
+	Free: Pattern=aan de, Pattern=zitten, Pattern=een
+	Constrained: Pattern=de
+Turn ID=5| B | B : rechtsboven zijn een ja kaarsvlammetje lijken het wel op
+	Free: Pattern=ja, Pattern=op, Pattern=lijken, Pattern=een, Pattern=het, Pattern=zijn
+	Constrained: 
+Turn ID=6| B | B : aan de achterkant zitten een half cirkel die je nog net zien
+	Free: Pattern=aan de, Pattern=een, Pattern=zitten, Pattern=die, Pattern=zien
+	Constrained: Pattern=de
+Turn ID=7| B | B : weten je welk ik bedoelen
+	Free: Pattern=weten, Pattern=ik, Pattern=welk
+	Constrained: 
+Turn ID=8| A | A : ja zijn dat bij dat ding wat daarbovenop zitten lopen dat een beetje ovaal en dan zo dunn naar boven
+	Free: Pattern=dat, Pattern=ja, Pattern=een, Pattern=zo, Pattern=zitten, Pattern=wat, Pattern=zijn dat
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=9| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=10| A | A : oké dan weten ik welk het zijn denken ik
+	Free: Pattern=weten, Pattern=het, Pattern=oké, Pattern=welk, Pattern=ik, Pattern=zijn
+	Constrained: 
+Turn ID=11| B | B : aan de onderkant zitten een soort van poot die langwerpig zijn zo
+	Free: Pattern=aan de, Pattern=een, Pattern=zo, Pattern=zijn, Pattern=die, Pattern=zitten
+	Constrained: Pattern=de
+Turn ID=12| A | A : ja zo'n
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=13| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=14| A | A : ja oké
+	Free: Pattern=oké, Pattern=ja
+	Constrained: 
+Turn ID=15| A | A : ik moeten nu het nummer zeggen toch
+	Free: Pattern=het, Pattern=ik
+	Constrained: 
+Turn ID=16| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=17| A | A : en dan op geel
+	Free: Pattern=op
+	Constrained: 
+Turn ID=18| A | A : oké nummer dertien
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=19| A | A : ja dit vinden ik een beetje lijken op een steelpannetje met een lepel erin
+	Free: Pattern=steelpannetje, Pattern=ja, Pattern=op, Pattern=lijken, Pattern=een, Pattern=dit, Pattern=ik
+	Constrained: 
+Turn ID=20| A | A : maar dat zijn dat een die we ook al hebben hebben met een beetje die kegel zo er en dat rond erachter
+	Free: Pattern=een, Pattern=hebben, Pattern=zo, Pattern=die, Pattern=zijn dat, Pattern=dat, Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=21| B | B : ja ik weten het
+	Free: Pattern=ja ik, Pattern=weten, Pattern=het
+	Constrained: Pattern=ja, Pattern=ik
+Turn ID=22| A | A : en daar waar die op staat en dat dinge aan de zijkant
+	Free: Pattern=aan de, Pattern=dat, Pattern=die, Pattern=op
+	Constrained: Pattern=de
+Turn ID=23| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=24| B | B : dat zijn de O
+	Free: Pattern=dat zijn, Pattern=de
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=25| B | B : dit zijn dat steelpannetjeten
+	Free: Pattern=dit zijn dat steelpannetjeten
+	Constrained: Pattern=dit, Pattern=zijn dat, Pattern=dat, Pattern=zijn
+Turn ID=26| A | A : ja ik zien hem
+	Free: Pattern=ja ik, Pattern=zien
+	Constrained: Pattern=ja, Pattern=ik
+Turn ID=27| B | B : wat jij net noemen
+	Free: Pattern=jij, Pattern=wat
+	Constrained: 
+Turn ID=28| A | A : nummer acht
+	Free: 
+	Constrained: 
+Turn ID=29| A | A : dit zijn dat steelpannetjeten
+	Free: Pattern=dit zijn dat steelpannetjeten
+	Constrained: Pattern=dit, Pattern=zijn dat, Pattern=dat, Pattern=zijn
+Turn ID=30| B | B : ja C
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=31| B | B : steelpannetje
+	Free: Pattern=steelpannetje
+	Constrained: 
+Turn ID=32| A | A : ja nummer zeven
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=33| A | A : het steelpannetje
+	Free: Pattern=steelpannetje, Pattern=het
+	Constrained: 
+Turn ID=34| B | B : ja C
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=35| B | B : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=36| A | A : ik zijn benieuwd
+	Free: Pattern=zijn, Pattern=ik
+	Constrained: 

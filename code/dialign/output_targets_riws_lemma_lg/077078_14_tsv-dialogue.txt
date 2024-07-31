@@ -1,0 +1,135 @@
+A|0| A: _oké_ dus je _hebben_ _dat_ komme 
+A|1| A: bovenop liggen dus weer _dat_ _rond_ _bolle_ 
+A|2| A: _en_ 
+A|3| A: _net_ als wat _dat neus_ wat je daarnet _hebben_ 
+B|4| B: [dat neus] 
+A|5| A: _zeggen maar zo'n bolle_ 
+A|6| A: _die_ liggen erbovenop _en_ dan daarvoor _staan een_ _een_ _een balk_ 
+A|7| A: _en_ aan de zijkant _van_ _het_ komme zitten _zeggen maar_ _twee armp_ _die_ beetje rondlopen 
+B|8| B: _ja_ 
+B|9| B: _ja_ 
+B|10| B: _ja_ [oké] 
+B|11| B: d 
+B|12| B: er _zijn_ [een] bak [en] [het] bak [hebben] [twee] arm deze [hebben] jij al voor mij doen [net] 
+B|13| B: [en] hij [hebben] [een] neusje _op_ _zijn_ hoofd 
+B|14| B: [zeggen maar zo'n bolle] 
+A|15| A: [ja] ik zoeken _hem_ even 
+B|16| B: geen probleem 
+B|17| B: [en] voor [hem] [staan [een] balk] 
+A|18| A: [ja] 
+A|19| A: _yes_ 
+A|20| A: nummer vijftien 
+A|21| A: dit [zijn] _die_ [een] waar [dat] [bolle] bovenop liggen [en] [dat] rechthoekig staaf ervoor [staan] [en] dan [twee] _rond_ dinge aan de zijkant _twee armp_ 
+B|22| B: [ja] 
+B|23| B: letter L 
+B|24| B: hij [hebben] [een balk] voor zich [en] hij [hebben] [een] [rond] bolletje boven [hem] [en] hij [hebben] [twee] [van] [die] ijzerig [armp] 
+A|25| A: [ja] 
+A|26| A: nummer zes 
+A|27| A: dit [zijn] [die] [een] waar [dat] [bolle] [op] liggen [en] dan met [die] rechthoekig staaf ervoor [en] [die] _twee armp_ 
+B|28| B: [yes] 
+B|29| B: letter J 
+B|30| B: hij [hebben] [een balk] voor zich hij [hebben] [twee armp] [en] [een] balle [op] [zijn] hoofd 
+A|31| A: [ja] 
+A|32| A: nummer drie 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : oké dus je hebben dat komme
+	Free: Pattern=dat, Pattern=hebben, Pattern=oké
+	Constrained: 
+Turn ID=1| A | A : bovenop liggen dus weer dat rond bolle
+	Free: Pattern=rond, Pattern=dat, Pattern=bolle
+	Constrained: 
+Turn ID=2| A | A : en
+	Free: Pattern=en
+	Constrained: 
+Turn ID=3| A | A : net als wat dat neus wat je daarnet hebben
+	Free: Pattern=dat neus, Pattern=net, Pattern=hebben
+	Constrained: Pattern=dat
+Turn ID=4| B | B : dat neus
+	Free: Pattern=dat neus
+	Constrained: Pattern=dat
+Turn ID=5| A | A : zeggen maar zo'n bolle
+	Free: Pattern=zeggen maar zo'n bolle
+	Constrained: Pattern=bolle, Pattern=zeggen maar
+Turn ID=6| A | A : die liggen erbovenop en dan daarvoor staan een een een balk
+	Free: Pattern=staan een, Pattern=een, Pattern=die, Pattern=en, Pattern=een balk
+	Constrained: Pattern=een, Pattern=staan
+Turn ID=7| A | A : en aan de zijkant van het komme zitten zeggen maar twee armp die beetje rondlopen
+	Free: Pattern=twee armp, Pattern=zeggen maar, Pattern=het, Pattern=die, Pattern=van, Pattern=en
+	Constrained: Pattern=armp, Pattern=twee
+Turn ID=8| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=9| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=10| B | B : ja oké
+	Free: Pattern=ja, Pattern=oké
+	Constrained: 
+Turn ID=11| B | B : d
+	Free: 
+	Constrained: 
+Turn ID=12| B | B : er zijn een bak en het bak hebben twee arm deze hebben jij al voor mij doen net
+	Free: Pattern=een, Pattern=het, Pattern=hebben, Pattern=en, Pattern=zijn, Pattern=net, Pattern=twee
+	Constrained: 
+Turn ID=13| B | B : en hij hebben een neusje op zijn hoofd
+	Free: Pattern=op, Pattern=een, Pattern=hebben, Pattern=en, Pattern=zijn
+	Constrained: 
+Turn ID=14| B | B : zeggen maar zo'n bolle
+	Free: Pattern=zeggen maar zo'n bolle
+	Constrained: Pattern=bolle, Pattern=zeggen maar
+Turn ID=15| A | A : ja ik zoeken hem even
+	Free: Pattern=ja, Pattern=hem
+	Constrained: 
+Turn ID=16| B | B : geen probleem
+	Free: 
+	Constrained: 
+Turn ID=17| B | B : en voor hem staan een balk
+	Free: Pattern=staan een, Pattern=een balk, Pattern=en, Pattern=hem
+	Constrained: Pattern=een, Pattern=staan
+Turn ID=18| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=19| A | A : yes
+	Free: Pattern=yes
+	Constrained: 
+Turn ID=20| A | A : nummer vijftien
+	Free: 
+	Constrained: 
+Turn ID=21| A | A : dit zijn die een waar dat bolle bovenop liggen en dat rechthoekig staaf ervoor staan en dan twee rond dinge aan de zijkant twee armp
+	Free: Pattern=dat, Pattern=twee, Pattern=bolle, Pattern=die, Pattern=en, Pattern=rond, Pattern=zijn, Pattern=een, Pattern=staan, Pattern=twee armp
+	Constrained: Pattern=armp, Pattern=twee
+Turn ID=22| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=23| B | B : letter L
+	Free: 
+	Constrained: 
+Turn ID=24| B | B : hij hebben een balk voor zich en hij hebben een rond bolletje boven hem en hij hebben twee van die ijzerig armp
+	Free: Pattern=twee, Pattern=een, Pattern=armp, Pattern=hebben, Pattern=die, Pattern=rond, Pattern=hem, Pattern=een balk, Pattern=van, Pattern=en
+	Constrained: Pattern=een
+Turn ID=25| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=26| A | A : nummer zes
+	Free: 
+	Constrained: 
+Turn ID=27| A | A : dit zijn die een waar dat bolle op liggen en dan met die rechthoekig staaf ervoor en die twee armp
+	Free: Pattern=dat, Pattern=op, Pattern=bolle, Pattern=die, Pattern=en, Pattern=zijn, Pattern=een, Pattern=twee armp
+	Constrained: Pattern=armp, Pattern=twee
+Turn ID=28| B | B : yes
+	Free: Pattern=yes
+	Constrained: 
+Turn ID=29| B | B : letter J
+	Free: 
+	Constrained: 
+Turn ID=30| B | B : hij hebben een balk voor zich hij hebben twee armp en een balle op zijn hoofd
+	Free: Pattern=op, Pattern=hebben, Pattern=en, Pattern=zijn, Pattern=een balk, Pattern=een, Pattern=twee armp
+	Constrained: Pattern=een, Pattern=armp, Pattern=twee
+Turn ID=31| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=32| A | A : nummer drie
+	Free: 
+	Constrained: 

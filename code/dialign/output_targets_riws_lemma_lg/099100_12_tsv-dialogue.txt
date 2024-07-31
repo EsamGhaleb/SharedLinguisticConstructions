@@ -1,0 +1,103 @@
+A|0| A: _oké_ one's _deze_ hebben _ja_ ik vinden _het_ _een soort_ _een soort_ _dienblad_ 
+A|1| A: zo'n rond iets _dat_ _die_ aan _het_ vasthouden _zijn_ _en_ _dan_ hebben _die_ links hebben _die_ echt zo'n groot _ja_ trompetachtig iets weten je wel ? echt zo'n uitsteeksel 
+B|2| B: [ja] 
+A|3| A: ik weten niet of 
+A|4| A: snapan je hem 
+B|5| B: [ja] 
+B|6| B: [het] [zijn] [een soort] [ja] [zijn] [een soort] van _spijker_ [zijn] [het] ook weer wat in daarin zitten zeggen maar 
+A|7| A: [ja] [ja] 
+A|8| A: [ja] 
+B|9| B: _ja oké_ 
+B|10| B: [dan] [zijn] [het] L 
+B|11| B: [deze] staan nee _dit zijn_ [een] kop _met dat_ dienblaad [en] [dat] _spijker_ in [dat] oor 
+A|12| A: [ja oké] _even_ kijken 
+A|13| A: [ja] ik zien hem 
+A|14| A: nummer zeven 
+A|15| A: [dit zijn] weten je wel ? _met dat dienblad_ [en] _die_ [spijker] 
+B|16| B: [ja] [even] zoeken [ja] _dat zijn_ C 
+B|17| B: [dit zijn] [die] [met dat dienblad] 
+A|18| A: [even] kijken 
+A|19| A: ah [dat zijn] nummer één 
+A|20| A: _dit zijn [met_ dat dienblad] [en] [die] [spijker] 
+B|21| B: [ja] 
+B|22| B: [dat zijn] A 
+B|23| B: [dit zijn met] de [dienblad] 
+A|24| A: [even] [zijn] nummer dertien 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : oké one's deze hebben ja ik vinden het een soort een soort dienblad
+	Free: Pattern=ja, Pattern=het, Pattern=oké, Pattern=dienblad, Pattern=een soort, Pattern=deze
+	Constrained: Pattern=een
+Turn ID=1| A | A : zo'n rond iets dat die aan het vasthouden zijn en dan hebben die links hebben die echt zo'n groot ja trompetachtig iets weten je wel ? echt zo'n uitsteeksel
+	Free: Pattern=dat, Pattern=ja, Pattern=dan, Pattern=het, Pattern=die, Pattern=en, Pattern=zijn
+	Constrained: 
+Turn ID=2| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=3| A | A : ik weten niet of
+	Free: 
+	Constrained: 
+Turn ID=4| A | A : snapan je hem
+	Free: 
+	Constrained: 
+Turn ID=5| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=6| B | B : het zijn een soort ja zijn een soort van spijker zijn het ook weer wat in daarin zitten zeggen maar
+	Free: Pattern=ja, Pattern=het, Pattern=een soort, Pattern=zijn, Pattern=spijker
+	Constrained: Pattern=een
+Turn ID=7| A | A : ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=8| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=9| B | B : ja oké
+	Free: Pattern=ja oké
+	Constrained: Pattern=ja, Pattern=oké
+Turn ID=10| B | B : dan zijn het L
+	Free: Pattern=zijn, Pattern=dan, Pattern=het
+	Constrained: 
+Turn ID=11| B | B : deze staan nee dit zijn een kop met dat dienblaad en dat spijker in dat oor
+	Free: Pattern=dat, Pattern=een, Pattern=met dat, Pattern=en, Pattern=deze, Pattern=dit zijn, Pattern=spijker
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=12| A | A : ja oké even kijken
+	Free: Pattern=ja oké, Pattern=even
+	Constrained: Pattern=ja, Pattern=oké
+Turn ID=13| A | A : ja ik zien hem
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=14| A | A : nummer zeven
+	Free: 
+	Constrained: 
+Turn ID=15| A | A : dit zijn weten je wel ? met dat dienblad en die spijker
+	Free: Pattern=die, Pattern=met dat dienblad, Pattern=en, Pattern=dit zijn, Pattern=spijker
+	Constrained: Pattern=dienblad, Pattern=dat, Pattern=zijn, Pattern=met dat
+Turn ID=16| B | B : ja even zoeken ja dat zijn C
+	Free: Pattern=dat zijn, Pattern=ja, Pattern=even
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=17| B | B : dit zijn die met dat dienblad
+	Free: Pattern=met dat dienblad, Pattern=dit zijn, Pattern=die
+	Constrained: Pattern=dienblad, Pattern=dat, Pattern=zijn, Pattern=met dat
+Turn ID=18| A | A : even kijken
+	Free: Pattern=even
+	Constrained: 
+Turn ID=19| A | A : ah dat zijn nummer één
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=20| A | A : dit zijn met dat dienblad en die spijker
+	Free: Pattern=dit zijn met, Pattern=die, Pattern=met dat dienblad, Pattern=en, Pattern=spijker
+	Constrained: Pattern=dat, Pattern=met dat, Pattern=dienblad, Pattern=zijn, Pattern=dit zijn
+Turn ID=21| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=22| B | B : dat zijn A
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=23| B | B : dit zijn met de dienblad
+	Free: Pattern=dit zijn met, Pattern=dienblad
+	Constrained: Pattern=dit zijn, Pattern=zijn
+Turn ID=24| A | A : even zijn nummer dertien
+	Free: Pattern=even, Pattern=zijn
+	Constrained: 

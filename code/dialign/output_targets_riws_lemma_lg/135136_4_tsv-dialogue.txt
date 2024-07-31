@@ -1,0 +1,71 @@
+A|0| A: oké _deze hebben_ _bovenop_ _een soort_ nou _ja_ laten we het _een omgekeerde_ bloempot noemen 
+A|1| A: _en_ aan de rechterkant _twee_ lat of plank zeggen maar 
+A|2| A: even lang even groot _zijn_ ze 
+B|3| B: [een omgekeerde] bloem [ja] ik _weten_ welk _je_ bedoelen _dat zijn bij mij_ I 
+B|4| B: [deze hebben] [twee] van _die streepjes naar rechts en_ [een soort] afgekapte driehoek _erbovenop_ 
+A|5| A: [ja] [dat zijn bij mij] [twee] 
+A|6| A: [deze hebben] _weer_ _die twee_ plank aan de rechterkant [die] hetzelfde [zijn] 
+B|7| B: _met dat hoed bovenop_ [soort] van 
+A|8| A: [weten] [je] dan genoeg 
+A|9| A: [met dat hoed bovenop] [ja] 
+B|10| B: [dat zijn bij mij] M 
+B|11| B: _dit zijn_ [weer] _met die twee streepjes naar rechts_ 
+A|12| A: [met die twee streepjes naar rechts] [ja] [dat zijn bij mij] negen 
+A|13| A: [dit zijn] _die [met die_ twee] plank aan de rechterkant 
+B|14| B: [dat zijn bij mij] F 
+B|15| B: _die met die streepjes naar rechts_ 
+A|16| A: [die met [die streepjes naar rechts] en] [dat] ding [erbovenop] [dat zijn] nummer zes 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : oké deze hebben bovenop een soort nou ja laten we het een omgekeerde bloempot noemen
+	Free: Pattern=bovenop, Pattern=ja, Pattern=een omgekeerde, Pattern=deze hebben, Pattern=een soort
+	Constrained: Pattern=soort
+Turn ID=1| A | A : en aan de rechterkant twee lat of plank zeggen maar
+	Free: Pattern=twee, Pattern=en
+	Constrained: 
+Turn ID=2| A | A : even lang even groot zijn ze
+	Free: Pattern=zijn
+	Constrained: 
+Turn ID=3| B | B : een omgekeerde bloem ja ik weten welk je bedoelen dat zijn bij mij I
+	Free: Pattern=ja, Pattern=een omgekeerde, Pattern=weten, Pattern=dat zijn bij mij, Pattern=je
+	Constrained: Pattern=zijn, Pattern=dat zijn, Pattern=dat
+Turn ID=4| B | B : deze hebben twee van die streepjes naar rechts en een soort afgekapte driehoek erbovenop
+	Free: Pattern=twee, Pattern=deze hebben, Pattern=die streepjes naar rechts en, Pattern=erbovenop, Pattern=een soort
+	Constrained: Pattern=die, Pattern=soort, Pattern=en
+Turn ID=5| A | A : ja dat zijn bij mij twee
+	Free: Pattern=dat zijn bij mij, Pattern=twee, Pattern=ja
+	Constrained: Pattern=dat, Pattern=zijn, Pattern=dat zijn
+Turn ID=6| A | A : deze hebben weer die twee plank aan de rechterkant die hetzelfde zijn
+	Free: Pattern=die twee, Pattern=deze hebben, Pattern=die, Pattern=zijn, Pattern=weer
+	Constrained: Pattern=die, Pattern=twee
+Turn ID=7| B | B : met dat hoed bovenop soort van
+	Free: Pattern=met dat hoed bovenop, Pattern=soort
+	Constrained: Pattern=bovenop, Pattern=dat
+Turn ID=8| A | A : weten je dan genoeg
+	Free: Pattern=je, Pattern=weten
+	Constrained: 
+Turn ID=9| A | A : met dat hoed bovenop ja
+	Free: Pattern=met dat hoed bovenop, Pattern=ja
+	Constrained: Pattern=bovenop, Pattern=dat
+Turn ID=10| B | B : dat zijn bij mij M
+	Free: Pattern=dat zijn bij mij
+	Constrained: Pattern=dat, Pattern=zijn, Pattern=dat zijn
+Turn ID=11| B | B : dit zijn weer met die twee streepjes naar rechts
+	Free: Pattern=met die twee streepjes naar rechts, Pattern=dit zijn, Pattern=weer
+	Constrained: Pattern=twee, Pattern=met die twee, Pattern=die twee, Pattern=die, Pattern=zijn
+Turn ID=12| A | A : met die twee streepjes naar rechts ja dat zijn bij mij negen
+	Free: Pattern=met die twee streepjes naar rechts, Pattern=dat zijn bij mij, Pattern=ja
+	Constrained: Pattern=twee, Pattern=met die twee, Pattern=die twee, Pattern=die, Pattern=zijn, Pattern=dat, Pattern=dat zijn
+Turn ID=13| A | A : dit zijn die met die twee plank aan de rechterkant
+	Free: Pattern=met die twee, Pattern=die met die, Pattern=dit zijn
+	Constrained: Pattern=zijn, Pattern=die, Pattern=twee, Pattern=die twee
+Turn ID=14| B | B : dat zijn bij mij F
+	Free: Pattern=dat zijn bij mij
+	Constrained: Pattern=dat, Pattern=zijn, Pattern=dat zijn
+Turn ID=15| B | B : die met die streepjes naar rechts
+	Free: Pattern=die met die streepjes naar rechts
+	Constrained: Pattern=die, Pattern=die met die
+Turn ID=16| A | A : die met die streepjes naar rechts en dat ding erbovenop dat zijn nummer zes
+	Free: Pattern=die met die streepjes naar rechts, Pattern=erbovenop, Pattern=die streepjes naar rechts en, Pattern=dat, Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=die met die, Pattern=die, Pattern=en, Pattern=zijn

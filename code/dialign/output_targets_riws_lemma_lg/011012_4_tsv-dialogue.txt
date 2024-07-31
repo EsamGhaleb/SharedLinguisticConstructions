@@ -1,0 +1,175 @@
+A|0| A: _ik hebben_ er _nu_ eigenlijk _één_ _met_ _twee_ _soort_ _uithangbordjes_ _aan de rechterkant_ 
+A|1| A: _en_ _zo'n_ _soort_ _ja_ het _zijn_ eigenlijk _gewoon twee_ bord boven elkaar lijken het wel 
+A|2| A: _en_ erop staan _ook_ _nog_ _zo'n_ _soort_ hoe noemen _je_ _dat_ ? _zo'n_ _soort_ 
+A|3| A: _ja_ _zo'n_ vierhoek _zo'n_ _ja_ het lijken _een soort_ lampenkop _ik_ weten niet hoe _je_ _dat_ _zeggen_ 
+A|4| A: _maar_ het _zijn_ _echt_ _twee_ bord _aan de rechterkant_ _die_ er hangen _en_ _nog_ _zo'n_ 
+A|5| A: _staaf_ _een_ beetje linksonder _en_ _één_ in het midden links 
+B|6| B: moeten [ik] even goed kijken 
+B|7| B: wachten [ik] denken [dat] [ik] dus [je] [hebben] _inderdaad_ dan [echt] [gewoon twee] staf [die] uitsteken [aan de rechterkant] [en] dan 
+A|8| A: [en] _aan de linkerkant_ _zo'n_ _nog_ _zo'n_ _zo'n_ dinge [en] daarbovenop _zo'n_ _soort_ lampenkop of [ik] weten niet hoe [je] [dat] uitleggen 
+B|9| B: [nog] [één] [ja] 
+B|10| B: [en] dan _inderdaad_ rechtsonder [hebben] [je] [nog] [een soort] van _staart_ zitten [zeggen] [maar] 
+A|11| A: [ja] 
+B|12| B: oké [dat] [zijn] _bij mij_ dan I 
+B|13| B: _ik hebben nu die een met_ [aan de rechterkant] weer [twee] van [die] [staaf] [zeggen] [maar] 
+B|14| B: [en] dan [aan de] bovenkant [zijn] [hebben] [je] weer _die lampenkap_ [zeggen] [maar] 
+A|15| A: [ja] 
+B|16| B: [en] dan [aan de] _eronder_ dan [ook] weer [zo'n] _staart_ [zeggen] [maar] [en] dan [nog] [aan de] 
+A|17| A: [ja] [die] 
+A|18| A: [en] in het midden [nog] [zo'n] dinge [aan de] link 
+B|19| B: [ja] 
+A|20| A: [ja] 
+A|21| A: [bij mij] nummer [twee] 
+A|22| A: [ik hebben nu] _met die_ uithangbord noemen [ik] net [met] [zo'n] lampenkop erop 
+A|23| A: [bij mij] staan [die] link onderin ongeveer [ik] weten niet of [die] [bij] jou [ook] daar [ook] staan 
+B|24| B: even kijken 
+A|25| A: [zo'n] [staaf] [eronder] 
+B|26| B: [met die] uithangbordje 
+A|27| A: [ja] _die twee_ bord [aan de rechterkant] 
+B|28| B: [die] [en] weer [dat] [dat] _staart_ [zeggen] [maar] [ook] 
+A|29| A: [ja] [die] [staart] [aan de] ander kant _aan de linkerkant_ [inderdaad] [eronder] 
+B|30| B: [ja] oké 
+B|31| B: [dat] [zijn] [bij mij] M 
+B|32| B: nou [hebben] we weer [die twee] [uithangbordjes] _met die lampenkap_ erbovenop [en] [dat] [staart] [zeggen] [maar] [aan de linkerkant] 
+A|33| A: [ja] 
+A|34| A: [ja] 
+A|35| A: nummer negen _zijn dat_ [bij mij] 
+A|36| A: [ik hebben nu die een [met] die] of [ja] noemen [ik] net zo [met die lampenkap] erboven staan [bij mij] ongeveer midden 
+B|37| B: [met die] 
+B|38| B: [ja] 
+B|39| B: [bij mij] [zijn dat] F 
+B|40| B: [die twee] uithangborde [en] [die lampenkap] [aan de] bovenkant [zeggen] [maar] 
+A|41| A: [ja] 
+A|42| A: nummer zes [zijn dat] [bij mij] 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : ik hebben er nu eigenlijk één met twee soort uithangbordjes aan de rechterkant
+	Free: Pattern=ik hebben, Pattern=soort, Pattern=twee, Pattern=nu, Pattern=met, Pattern=aan de rechterkant, Pattern=uithangbordjes, Pattern=één
+	Constrained: Pattern=aan de, Pattern=ik, Pattern=hebben
+Turn ID=1| A | A : en zo'n soort ja het zijn eigenlijk gewoon twee bord boven elkaar lijken het wel
+	Free: Pattern=soort, Pattern=zo'n, Pattern=ja, Pattern=gewoon twee, Pattern=en, Pattern=zijn
+	Constrained: Pattern=twee
+Turn ID=2| A | A : en erop staan ook nog zo'n soort hoe noemen je dat ? zo'n soort
+	Free: Pattern=dat, Pattern=zo'n, Pattern=ook, Pattern=en, Pattern=je, Pattern=nog, Pattern=soort
+	Constrained: 
+Turn ID=3| A | A : ja zo'n vierhoek zo'n ja het lijken een soort lampenkop ik weten niet hoe je dat zeggen
+	Free: Pattern=dat, Pattern=zo'n, Pattern=ja, Pattern=zeggen, Pattern=je, Pattern=ik, Pattern=een soort
+	Constrained: Pattern=een, Pattern=soort
+Turn ID=4| A | A : maar het zijn echt twee bord aan de rechterkant die er hangen en nog zo'n
+	Free: Pattern=nog, Pattern=echt, Pattern=en, Pattern=zo'n, Pattern=twee, Pattern=aan de rechterkant, Pattern=die, Pattern=zijn, Pattern=maar
+	Constrained: Pattern=aan de
+Turn ID=5| A | A : staaf een beetje linksonder en één in het midden links
+	Free: Pattern=een, Pattern=staaf, Pattern=één, Pattern=en
+	Constrained: 
+Turn ID=6| B | B : moeten ik even goed kijken
+	Free: Pattern=ik
+	Constrained: 
+Turn ID=7| B | B : wachten ik denken dat ik dus je hebben inderdaad dan echt gewoon twee staf die uitsteken aan de rechterkant en dan
+	Free: Pattern=dat, Pattern=gewoon twee, Pattern=hebben, Pattern=echt, Pattern=ik, Pattern=en, Pattern=aan de rechterkant, Pattern=die, Pattern=je, Pattern=inderdaad
+	Constrained: Pattern=twee, Pattern=aan de
+Turn ID=8| A | A : en aan de linkerkant zo'n nog zo'n zo'n dinge en daarbovenop zo'n soort lampenkop of ik weten niet hoe je dat uitleggen
+	Free: Pattern=dat, Pattern=zo'n, Pattern=ik, Pattern=en, Pattern=je, Pattern=aan de linkerkant, Pattern=nog, Pattern=soort
+	Constrained: Pattern=aan de
+Turn ID=9| B | B : nog één ja
+	Free: Pattern=ja, Pattern=nog, Pattern=één
+	Constrained: 
+Turn ID=10| B | B : en dan inderdaad rechtsonder hebben je nog een soort van staart zitten zeggen maar
+	Free: Pattern=nog, Pattern=staart, Pattern=hebben, Pattern=zeggen, Pattern=een soort, Pattern=en, Pattern=maar, Pattern=je, Pattern=inderdaad
+	Constrained: Pattern=een, Pattern=soort
+Turn ID=11| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=12| B | B : oké dat zijn bij mij dan I
+	Free: Pattern=bij mij, Pattern=zijn, Pattern=dat
+	Constrained: Pattern=bij
+Turn ID=13| B | B : ik hebben nu die een met aan de rechterkant weer twee van die staaf zeggen maar
+	Free: Pattern=twee, Pattern=staaf, Pattern=zeggen, Pattern=ik hebben nu die een met, Pattern=maar, Pattern=aan de rechterkant, Pattern=die
+	Constrained: Pattern=ik hebben, Pattern=aan de, Pattern=een, Pattern=nu, Pattern=hebben, Pattern=met, Pattern=die, Pattern=ik, Pattern=ik hebben nu
+Turn ID=14| B | B : en dan aan de bovenkant zijn hebben je weer die lampenkap zeggen maar
+	Free: Pattern=aan de, Pattern=die lampenkap, Pattern=hebben, Pattern=zeggen, Pattern=en, Pattern=je, Pattern=zijn, Pattern=maar
+	Constrained: Pattern=die
+Turn ID=15| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=16| B | B : en dan aan de eronder dan ook weer zo'n staart zeggen maar en dan nog aan de
+	Free: Pattern=nog, Pattern=zo'n, Pattern=staart, Pattern=zeggen, Pattern=maar, Pattern=aan de, Pattern=ook, Pattern=en, Pattern=eronder
+	Constrained: 
+Turn ID=17| A | A : ja die
+	Free: Pattern=die, Pattern=ja
+	Constrained: 
+Turn ID=18| A | A : en in het midden nog zo'n dinge aan de link
+	Free: Pattern=aan de, Pattern=zo'n, Pattern=nog, Pattern=en
+	Constrained: 
+Turn ID=19| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=20| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=21| A | A : bij mij nummer twee
+	Free: Pattern=bij mij, Pattern=twee
+	Constrained: Pattern=bij
+Turn ID=22| A | A : ik hebben nu met die uithangbord noemen ik net met zo'n lampenkop erop
+	Free: Pattern=met die, Pattern=zo'n, Pattern=met, Pattern=ik, Pattern=ik hebben nu
+	Constrained: Pattern=ik hebben, Pattern=nu, Pattern=hebben, Pattern=met, Pattern=die, Pattern=ik
+Turn ID=23| A | A : bij mij staan die link onderin ongeveer ik weten niet of die bij jou ook daar ook staan
+	Free: Pattern=ook, Pattern=die, Pattern=bij, Pattern=ik, Pattern=bij mij
+	Constrained: Pattern=bij
+Turn ID=24| B | B : even kijken
+	Free: 
+	Constrained: 
+Turn ID=25| A | A : zo'n staaf eronder
+	Free: Pattern=eronder, Pattern=zo'n, Pattern=staaf
+	Constrained: 
+Turn ID=26| B | B : met die uithangbordje
+	Free: Pattern=met die
+	Constrained: Pattern=met, Pattern=die
+Turn ID=27| A | A : ja die twee bord aan de rechterkant
+	Free: Pattern=aan de rechterkant, Pattern=die twee, Pattern=ja
+	Constrained: Pattern=twee, Pattern=die, Pattern=aan de
+Turn ID=28| B | B : die en weer dat dat staart zeggen maar ook
+	Free: Pattern=dat, Pattern=ook, Pattern=staart, Pattern=zeggen, Pattern=die, Pattern=en, Pattern=maar
+	Constrained: 
+Turn ID=29| A | A : ja die staart aan de ander kant aan de linkerkant inderdaad eronder
+	Free: Pattern=ja, Pattern=aan de, Pattern=staart, Pattern=die, Pattern=eronder, Pattern=inderdaad, Pattern=aan de linkerkant
+	Constrained: Pattern=aan de
+Turn ID=30| B | B : ja oké
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=31| B | B : dat zijn bij mij M
+	Free: Pattern=bij mij, Pattern=zijn, Pattern=dat
+	Constrained: Pattern=bij
+Turn ID=32| B | B : nou hebben we weer die twee uithangbordjes met die lampenkap erbovenop en dat staart zeggen maar aan de linkerkant
+	Free: Pattern=dat, Pattern=hebben, Pattern=zeggen, Pattern=met die lampenkap, Pattern=maar, Pattern=aan de linkerkant, Pattern=die twee, Pattern=staart, Pattern=en, Pattern=uithangbordjes
+	Constrained: Pattern=met die, Pattern=twee, Pattern=aan de, Pattern=die lampenkap, Pattern=met, Pattern=die
+Turn ID=33| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=34| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=35| A | A : nummer negen zijn dat bij mij
+	Free: Pattern=bij mij, Pattern=zijn dat
+	Constrained: Pattern=zijn, Pattern=bij, Pattern=dat
+Turn ID=36| A | A : ik hebben nu die een met die of ja noemen ik net zo met die lampenkap erboven staan bij mij ongeveer midden
+	Free: Pattern=met die, Pattern=ja, Pattern=met die lampenkap, Pattern=ik hebben nu die een met, Pattern=ik, Pattern=bij mij
+	Constrained: Pattern=ik hebben, Pattern=met die, Pattern=een, Pattern=hebben, Pattern=met, Pattern=die, Pattern=bij, Pattern=ik, Pattern=ik hebben nu, Pattern=die lampenkap, Pattern=nu
+Turn ID=37| B | B : met die
+	Free: Pattern=met die
+	Constrained: Pattern=met, Pattern=die
+Turn ID=38| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=39| B | B : bij mij zijn dat F
+	Free: Pattern=bij mij, Pattern=zijn dat
+	Constrained: Pattern=zijn, Pattern=bij, Pattern=dat
+Turn ID=40| B | B : die twee uithangborde en die lampenkap aan de bovenkant zeggen maar
+	Free: Pattern=aan de, Pattern=die lampenkap, Pattern=die twee, Pattern=zeggen, Pattern=en, Pattern=maar
+	Constrained: Pattern=die, Pattern=twee
+Turn ID=41| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=42| A | A : nummer zes zijn dat bij mij
+	Free: Pattern=bij mij, Pattern=zijn dat
+	Constrained: Pattern=zijn, Pattern=bij, Pattern=dat

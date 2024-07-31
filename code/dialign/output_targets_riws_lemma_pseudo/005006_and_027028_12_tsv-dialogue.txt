@@ -1,0 +1,99 @@
+A|0| A: _ja_ deze hebben _een_ _een_ vierkant _kop_ _en_ dan komen _er_ _een_ spijker uit _eigenlijk_ 
+A|1| A: _en die_ prikken dan ergens _in_ wat _een_ _soort_ van hart _zijn_ wat heel lang uitgerken _zijn_ 
+A|2| A: _een_ schijf _ja_ 
+B|3| B: zo'n [soort] Eiffeltoren op [zijn] [kop] 
+B|4| B: [ja] 
+B|5| B: oké _dat_ [zijn] L 
+A|6| A: [ja] zeven 
+B|7| B: [ja] dit [zijn] [ja] _weer_ _het_ [kop] _met dat_ [een] plat plaa [en die] omgekeerd Eiffeltoren 
+B|8| B: [ja] _het_ [zijn] zeggen maar _één_ zo _dat_ [zijn] [eigenlijk] [die] naald zeggen maar [die] [er] 
+B|9| B: [ja] 
+B|10| B: [ja] 
+B|11| B: [ja] [ja] 
+A|12| A: deze hebben [weer] [die] spijker [met dat] hartje [en] [een] schijf 
+B|13| B: [ja] [ja] 
+B|14| B: [ja] [ja] [ja] 
+B|15| B: [ja] 
+B|16| B: C 
+A|17| A: [ja] [één] 
+B|18| B: [dat] [zijn] [die] naald [in] [die] arm 
+A|19| A: [die] [met dat] spijker [en] [het] hartje [en] [het] schijf 
+B|20| B: A 
+A|21| A: dertien 
+B|22| B: de naald 
+B|23| B: [in] de arm 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : ja deze hebben een een vierkant kop en dan komen er een spijker uit eigenlijk
+	Free: Pattern=ja, Pattern=een, Pattern=er, Pattern=en, Pattern=kop, Pattern=eigenlijk
+	Constrained: 
+Turn ID=1| A | A : en die prikken dan ergens in wat een soort van hart zijn wat heel lang uitgerken zijn
+	Free: Pattern=en die, Pattern=soort, Pattern=een, Pattern=in, Pattern=zijn
+	Constrained: Pattern=die, Pattern=en
+Turn ID=2| A | A : een schijf ja
+	Free: Pattern=een, Pattern=ja
+	Constrained: 
+Turn ID=3| B | B : zo'n soort Eiffeltoren op zijn kop
+	Free: Pattern=zijn, Pattern=soort, Pattern=kop
+	Constrained: 
+Turn ID=4| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=5| B | B : oké dat zijn L
+	Free: Pattern=dat, Pattern=zijn
+	Constrained: 
+Turn ID=6| A | A : ja zeven
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=7| B | B : ja dit zijn ja weer het kop met dat een plat plaa en die omgekeerd Eiffeltoren
+	Free: Pattern=en die, Pattern=ja, Pattern=een, Pattern=het, Pattern=kop, Pattern=met dat, Pattern=zijn, Pattern=weer
+	Constrained: Pattern=dat, Pattern=die, Pattern=en
+Turn ID=8| B | B : ja het zijn zeggen maar één zo dat zijn eigenlijk die naald zeggen maar die er
+	Free: Pattern=dat, Pattern=ja, Pattern=het, Pattern=eigenlijk, Pattern=die, Pattern=er, Pattern=zijn, Pattern=één
+	Constrained: 
+Turn ID=9| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=10| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=11| B | B : ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=12| A | A : deze hebben weer die spijker met dat hartje en een schijf
+	Free: Pattern=een, Pattern=met dat, Pattern=die, Pattern=en, Pattern=weer
+	Constrained: Pattern=dat
+Turn ID=13| B | B : ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=14| B | B : ja ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=15| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=16| B | B : C
+	Free: 
+	Constrained: 
+Turn ID=17| A | A : ja één
+	Free: Pattern=één, Pattern=ja
+	Constrained: 
+Turn ID=18| B | B : dat zijn die naald in die arm
+	Free: Pattern=dat, Pattern=zijn, Pattern=in, Pattern=die
+	Constrained: 
+Turn ID=19| A | A : die met dat spijker en het hartje en het schijf
+	Free: Pattern=met dat, Pattern=het, Pattern=die, Pattern=en
+	Constrained: Pattern=dat
+Turn ID=20| B | B : A
+	Free: 
+	Constrained: 
+Turn ID=21| A | A : dertien
+	Free: 
+	Constrained: 
+Turn ID=22| B | B : de naald
+	Free: 
+	Constrained: 
+Turn ID=23| B | B : in de arm
+	Free: Pattern=in
+	Constrained: 

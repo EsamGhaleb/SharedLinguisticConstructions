@@ -1,0 +1,131 @@
+B|0| B: _een_ bakje ? of zo ? of 
+B|1| B: kunnen _het_ ik _weten_ niet kunnen _het_ _zijn_ _dat_ _het_ misschien _een_ beetje op _een_ _een_ kruiwagen lijken ? als _je_ als er zeggen maar _een_ wiel aan zullen zitten ? of zo 
+B|2| B: ik _weten_ niet ik denken _dat_ ik _het_ associeren _met_ _een_ kruiwag maar ik misschien denken jij doen jij _dat_ niet 
+B|3| B: nee ik denken _dat_ _het_ _wel_ _die_ _zijn_ 
+B|4| B: lopen er zeggen maar als _het_ _zijn_ _zo'n_ balk omheen _en_ daaraan zitten staaf 
+B|5| B: zeggen maar aan de linkerkant zitten _een_ balk _en_ aan de rechterkant lopen ook weer _een_ balk ervoor _en_ aan _die_ balk zitten _twee_ staaf 
+B|6| B: nee kijkgen als _je_ _dat_ zeggen maar gewoon _dat_ rond ding hebben wat overal zitten _dan_ lopen er zeggen maar _zo'n_ balk aan _die_ kant langs _en_ aan de voorkant _en_ daaraan zitten _twee_ van _die_ staaf 
+B|7| B: nee ? ok nog _een_ keer 
+B|8| B: _ja_ 
+B|9| B: o _ja_ 
+B|10| B: _ja_ 
+B|11| B: _ja_ 
+B|12| B: zitten _een_ beetje _een_ hoed op 
+B|13| B: ok _ja_ _en_ aan de onderkant zitten nog _zo'n_ dinge ok _dan_ _zijn_ _het_ I 
+A|14| A: [ja] hierin [zijn] eigenlijk [een] isteken verwerken 
+A|15| A: dus [weten] [je] [wel] ? één plus [ja] [die] [en] [dan] 
+A|16| A: [ja] _zo'n hoedje_ [en] [dan] 
+A|17| A: [ja] 
+A|18| A: [ja] [die] 
+B|19| B: ok [ja] _dit zijn_ weer _dat_ ding _met_ _twee_ van [die] dinget [en] [zo'n] beetje [zo'n hoedje] daar bovenop 
+B|20| B: [ja] 
+B|21| B: _ah_ [ja] maar niet [die] piramide 
+B|22| B: ok [dan] [zijn] _het_ M 
+A|23| A: [ah] oké _dat zijn_ nummer [twee] 
+A|24| A: _dit zijn met dat_ isteken 
+B|25| B: o [ja] [dit zijn met dat] zeggen maar [hoedje] geen piramide [met] [twee] van [die] ding [die] zo steken 
+B|26| B: [ja] 
+B|27| B: [ja] [dat zijn] F 
+B|28| B: o [dit zijn met dat] driehoekje niet de piramide maar [met] [die] [twee] dinget 
+A|29| A: [zijn] nummer negen 
+A|30| A: [dit zijn met] [het] isteken 
+A|31| A: [dat zijn] nummer zes 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : een bakje ? of zo ? of
+	Free: Pattern=een
+	Constrained: 
+Turn ID=1| B | B : kunnen het ik weten niet kunnen het zijn dat het misschien een beetje op een een kruiwagen lijken ? als je als er zeggen maar een wiel aan zullen zitten ? of zo
+	Free: Pattern=dat, Pattern=een, Pattern=weten, Pattern=het, Pattern=zijn, Pattern=je
+	Constrained: 
+Turn ID=2| B | B : ik weten niet ik denken dat ik het associeren met een kruiwag maar ik misschien denken jij doen jij dat niet
+	Free: Pattern=dat, Pattern=een, Pattern=weten, Pattern=het, Pattern=met
+	Constrained: 
+Turn ID=3| B | B : nee ik denken dat het wel die zijn
+	Free: Pattern=dat, Pattern=wel, Pattern=het, Pattern=die, Pattern=zijn
+	Constrained: 
+Turn ID=4| B | B : lopen er zeggen maar als het zijn zo'n balk omheen en daaraan zitten staaf
+	Free: Pattern=het, Pattern=zo'n, Pattern=en, Pattern=zijn
+	Constrained: 
+Turn ID=5| B | B : zeggen maar aan de linkerkant zitten een balk en aan de rechterkant lopen ook weer een balk ervoor en aan die balk zitten twee staaf
+	Free: Pattern=twee, Pattern=die, Pattern=en, Pattern=een
+	Constrained: 
+Turn ID=6| B | B : nee kijkgen als je dat zeggen maar gewoon dat rond ding hebben wat overal zitten dan lopen er zeggen maar zo'n balk aan die kant langs en aan de voorkant en daaraan zitten twee van die staaf
+	Free: Pattern=dat, Pattern=dan, Pattern=die, Pattern=en, Pattern=je, Pattern=zo'n, Pattern=twee
+	Constrained: 
+Turn ID=7| B | B : nee ? ok nog een keer
+	Free: Pattern=een
+	Constrained: 
+Turn ID=8| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=9| B | B : o ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=10| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=11| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=12| B | B : zitten een beetje een hoed op
+	Free: Pattern=een
+	Constrained: 
+Turn ID=13| B | B : ok ja en aan de onderkant zitten nog zo'n dinge ok dan zijn het I
+	Free: Pattern=zo'n, Pattern=ja, Pattern=dan, Pattern=het, Pattern=en, Pattern=zijn
+	Constrained: 
+Turn ID=14| A | A : ja hierin zijn eigenlijk een isteken verwerken
+	Free: Pattern=ja, Pattern=zijn, Pattern=een
+	Constrained: 
+Turn ID=15| A | A : dus weten je wel ? één plus ja die en dan
+	Free: Pattern=ja, Pattern=dan, Pattern=wel, Pattern=weten, Pattern=die, Pattern=en, Pattern=je
+	Constrained: 
+Turn ID=16| A | A : ja zo'n hoedje en dan
+	Free: Pattern=zo'n hoedje, Pattern=ja, Pattern=en, Pattern=dan
+	Constrained: Pattern=hoedje, Pattern=zo'n
+Turn ID=17| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=18| A | A : ja die
+	Free: Pattern=ja, Pattern=die
+	Constrained: 
+Turn ID=19| B | B : ok ja dit zijn weer dat ding met twee van die dinget en zo'n beetje zo'n hoedje daar bovenop
+	Free: Pattern=dat, Pattern=ja, Pattern=zo'n hoedje, Pattern=met, Pattern=die, Pattern=en, Pattern=dit zijn, Pattern=zo'n, Pattern=twee
+	Constrained: Pattern=hoedje, Pattern=zo'n, Pattern=zijn
+Turn ID=20| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=21| B | B : ah ja maar niet die piramide
+	Free: Pattern=ah, Pattern=ja, Pattern=die
+	Constrained: 
+Turn ID=22| B | B : ok dan zijn het M
+	Free: Pattern=het, Pattern=zijn, Pattern=dan
+	Constrained: 
+Turn ID=23| A | A : ah oké dat zijn nummer twee
+	Free: Pattern=dat zijn, Pattern=ah, Pattern=twee
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=24| A | A : dit zijn met dat isteken
+	Free: Pattern=dit zijn met dat
+	Constrained: Pattern=dat, Pattern=dit zijn met, Pattern=met, Pattern=zijn, Pattern=dit zijn
+Turn ID=25| B | B : o ja dit zijn met dat zeggen maar hoedje geen piramide met twee van die ding die zo steken
+	Free: Pattern=twee, Pattern=ja, Pattern=hoedje, Pattern=dit zijn met dat, Pattern=met, Pattern=die
+	Constrained: Pattern=dat, Pattern=dit zijn met, Pattern=met, Pattern=zijn, Pattern=dit zijn
+Turn ID=26| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=27| B | B : ja dat zijn F
+	Free: Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=28| B | B : o dit zijn met dat driehoekje niet de piramide maar met die twee dinget
+	Free: Pattern=dit zijn met dat, Pattern=twee, Pattern=die, Pattern=met
+	Constrained: Pattern=dat, Pattern=dit zijn met, Pattern=met, Pattern=zijn, Pattern=dit zijn
+Turn ID=29| A | A : zijn nummer negen
+	Free: Pattern=zijn
+	Constrained: 
+Turn ID=30| A | A : dit zijn met het isteken
+	Free: Pattern=dit zijn met, Pattern=het
+	Constrained: Pattern=dit zijn, Pattern=met, Pattern=zijn
+Turn ID=31| A | A : dat zijn nummer zes
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn

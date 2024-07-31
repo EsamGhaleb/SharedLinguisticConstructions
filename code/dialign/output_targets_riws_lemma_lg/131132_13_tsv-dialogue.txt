@@ -1,0 +1,99 @@
+B|0| B: _dat_ gaan best wel smooth 
+B|1| B: _ja_ deze uitzien er heel anders uit _dan_ _de_ rest vinden _ik_ zelf 
+B|2| B: _dit zijn_ _dat_ kop wat _zeggen maar_ op een plaat staan _met_ twee _van die_ geribbeld oort _zeggen maar_ 
+A|3| A: leuk [ja] _zo_ [van die] [ja] [ja] [ja] 
+B|4| B: [ja] 
+A|5| A: [ja] nee _dan weten ik_ hem 
+B|6| B: [ja] 
+A|7| A: _dat zijn_ voor _mij_ nummer vijf 
+A|8| A: [dit zijn] [met] [de] [de] leuk raar oor [zeggen maar] 
+B|9| B: [ja] 
+B|10| B: [ja] _als je_ [zo] doen [dan weten ik] het wel [ja] 
+A|11| A: [als je] [de] [de] _Pippi_ Langkousharen of [zo] [ik] [weten] niet 
+B|12| B: [ja] beetje wel [ja] 
+A|13| A: [ja] 
+B|14| B: [dat zijn] J 
+B|15| B: oké nu hebben [ik] [met] [die] [Pippi] Langkousdingen 
+A|16| A: [ja] nummer elf 
+A|17| A: [de] [de] _Pippi Langkous_ 
+B|18| B: [die] [Pippi Langkous] [dat zijn] bij [mij] P 
+B|19| B: [van] [Pippi] 
+B|20| B: oké nu hebben [ik] [die] [Pippi Langkous] 
+A|21| A: [ja] nummer negen 
+A|22| A: [de] [Pippi Langkous] 
+B|23| B: [dat zijn] L 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : dat gaan best wel smooth
+	Free: Pattern=dat
+	Constrained: 
+Turn ID=1| B | B : ja deze uitzien er heel anders uit dan de rest vinden ik zelf
+	Free: Pattern=ik, Pattern=de, Pattern=dan, Pattern=ja
+	Constrained: 
+Turn ID=2| B | B : dit zijn dat kop wat zeggen maar op een plaat staan met twee van die geribbeld oort zeggen maar
+	Free: Pattern=dat, Pattern=zeggen maar, Pattern=met, Pattern=van die, Pattern=dit zijn
+	Constrained: Pattern=die, Pattern=van
+Turn ID=3| A | A : leuk ja zo van die ja ja ja
+	Free: Pattern=van die, Pattern=zo, Pattern=ja
+	Constrained: Pattern=die, Pattern=van
+Turn ID=4| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=5| A | A : ja nee dan weten ik hem
+	Free: Pattern=dan weten ik, Pattern=ja
+	Constrained: Pattern=weten, Pattern=ik, Pattern=dan
+Turn ID=6| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=7| A | A : dat zijn voor mij nummer vijf
+	Free: Pattern=dat zijn, Pattern=mij
+	Constrained: Pattern=dat
+Turn ID=8| A | A : dit zijn met de de leuk raar oor zeggen maar
+	Free: Pattern=zeggen maar, Pattern=dit zijn, Pattern=met, Pattern=de
+	Constrained: 
+Turn ID=9| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=10| B | B : ja als je zo doen dan weten ik het wel ja
+	Free: Pattern=dan weten ik, Pattern=als je, Pattern=zo, Pattern=ja
+	Constrained: Pattern=dan, Pattern=weten, Pattern=ik
+Turn ID=11| A | A : als je de de Pippi Langkousharen of zo ik weten niet
+	Free: Pattern=de, Pattern=Pippi, Pattern=weten, Pattern=zo, Pattern=als je, Pattern=ik
+	Constrained: 
+Turn ID=12| B | B : ja beetje wel ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=13| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=14| B | B : dat zijn J
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat
+Turn ID=15| B | B : oké nu hebben ik met die Pippi Langkousdingen
+	Free: Pattern=die, Pattern=Pippi, Pattern=met, Pattern=ik
+	Constrained: 
+Turn ID=16| A | A : ja nummer elf
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=17| A | A : de de Pippi Langkous
+	Free: Pattern=Pippi Langkous, Pattern=de
+	Constrained: Pattern=Pippi
+Turn ID=18| B | B : die Pippi Langkous dat zijn bij mij P
+	Free: Pattern=dat zijn, Pattern=Pippi Langkous, Pattern=die, Pattern=mij
+	Constrained: Pattern=dat, Pattern=Pippi
+Turn ID=19| B | B : van Pippi
+	Free: Pattern=Pippi, Pattern=van
+	Constrained: 
+Turn ID=20| B | B : oké nu hebben ik die Pippi Langkous
+	Free: Pattern=Pippi Langkous, Pattern=die, Pattern=ik
+	Constrained: Pattern=Pippi
+Turn ID=21| A | A : ja nummer negen
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=22| A | A : de Pippi Langkous
+	Free: Pattern=Pippi Langkous, Pattern=de
+	Constrained: Pattern=Pippi
+Turn ID=23| B | B : dat zijn L
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat

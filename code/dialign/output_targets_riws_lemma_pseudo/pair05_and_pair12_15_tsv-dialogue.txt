@@ -1,0 +1,99 @@
+B|0| B: _deze hebben_ _twee_ voelsprieet bovenop 
+B|1| B: _en_ _een_ vierkant vlak erdoorheen 
+A|2| A: ja 
+A|3| A: lang neus 
+A|4| A: [en] die haak zijn [een] soort l-vorm 
+A|5| A: okee 
+A|6| A: [twee] 
+B|7| B: met _de_ sprieet bovenop 
+B|8| B: p 
+B|9| B: p 
+B|10| B: _het_ spriet bovenop [en] _het_ rechtervlak _door_ _het_ _midden_ 
+B|11| B: g 
+A|12| A: [deze hebben] [het] plateau zeggen maar dwars [door] zijn body _en twee_ stekel [midden] op [het] hoofd 
+B|13| B: vlak [door] [het] [midden] [en twee] spriet bovenop 
+A|14| A: ja 
+A|15| A: vijfteen 
+B|16| B: d 
+A|17| A: [deze hebben] [een] plateau [door] zijn die doorsnijden 
+A|18| A: [twee] 
+A|19| A: ja 
+A|20| A: ja elf 
+A|21| A: [de] 
+A|22| A: [het] plateau dat doorsnijden 
+A|23| A: [het] zullen ook [een] rok kunnen zijn 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : deze hebben twee voelsprieet bovenop
+	Free: Pattern=deze hebben, Pattern=twee
+	Constrained: 
+Turn ID=1| B | B : en een vierkant vlak erdoorheen
+	Free: Pattern=een, Pattern=en
+	Constrained: 
+Turn ID=2| A | A : ja
+	Free: 
+	Constrained: 
+Turn ID=3| A | A : lang neus
+	Free: 
+	Constrained: 
+Turn ID=4| A | A : en die haak zijn een soort l-vorm
+	Free: Pattern=een, Pattern=en
+	Constrained: 
+Turn ID=5| A | A : okee
+	Free: 
+	Constrained: 
+Turn ID=6| A | A : twee
+	Free: Pattern=twee
+	Constrained: 
+Turn ID=7| B | B : met de sprieet bovenop
+	Free: Pattern=de
+	Constrained: 
+Turn ID=8| B | B : p
+	Free: 
+	Constrained: 
+Turn ID=9| B | B : p
+	Free: 
+	Constrained: 
+Turn ID=10| B | B : het spriet bovenop en het rechtervlak door het midden
+	Free: Pattern=het, Pattern=midden, Pattern=door, Pattern=en
+	Constrained: 
+Turn ID=11| B | B : g
+	Free: 
+	Constrained: 
+Turn ID=12| A | A : deze hebben het plateau zeggen maar dwars door zijn body en twee stekel midden op het hoofd
+	Free: Pattern=door, Pattern=het, Pattern=deze hebben, Pattern=midden, Pattern=en twee
+	Constrained: Pattern=en, Pattern=twee
+Turn ID=13| B | B : vlak door het midden en twee spriet bovenop
+	Free: Pattern=en twee, Pattern=het, Pattern=midden, Pattern=door
+	Constrained: Pattern=en, Pattern=twee
+Turn ID=14| A | A : ja
+	Free: 
+	Constrained: 
+Turn ID=15| A | A : vijfteen
+	Free: 
+	Constrained: 
+Turn ID=16| B | B : d
+	Free: 
+	Constrained: 
+Turn ID=17| A | A : deze hebben een plateau door zijn die doorsnijden
+	Free: Pattern=deze hebben, Pattern=een, Pattern=door
+	Constrained: 
+Turn ID=18| A | A : twee
+	Free: Pattern=twee
+	Constrained: 
+Turn ID=19| A | A : ja
+	Free: 
+	Constrained: 
+Turn ID=20| A | A : ja elf
+	Free: 
+	Constrained: 
+Turn ID=21| A | A : de
+	Free: Pattern=de
+	Constrained: 
+Turn ID=22| A | A : het plateau dat doorsnijden
+	Free: Pattern=het
+	Constrained: 
+Turn ID=23| A | A : het zullen ook een rok kunnen zijn
+	Free: Pattern=een, Pattern=het
+	Constrained: 

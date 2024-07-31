@@ -1,0 +1,87 @@
+A|0| A: _dat zijn_ _een_ groot _balk_ _recht_ ervoor van boven naar beneden 
+A|1| A: _en een_ balle bovenop 
+B|2| B: ja ja [dat zijn] nummer j 
+B|3| B: letter J 
+A|4| A: ronde 1 [zijn] 
+A|5| A: vijf 
+B|6| B: okeeen deze hebben linksboven [een] ei op [zijn] hoofd 
+B|7| B: [en] er [en een] _lang_ [recht] [balk] rechtsonder 
+B|8| B: [en] twee arm _de_ [een] [zijn] krom _de_ ander [zijn] kort [en] [recht] 
+A|9| A: [de] [lang] [balk] voor beneden van boven naar beneden _met_ balle bovenop 
+A|10| A: drie 
+A|11| A: [de] [balk] van boven naar onder aan [de] voorkant 
+A|12| A: twaalf 
+B|13| B: ja ja ja 
+B|14| B: ja [dat zijn] m 
+B|15| B: dit [zijn] die [met] het ei linksbof op [zijn] hoofd twee arm één zo één zo [en] die [balk] 
+B|16| B: ja 
+B|17| B: ja e 
+B|18| B: tree hugg 
+B|19| B: [en] ei 
+B|20| B: linksbof 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : dat zijn een groot balk recht ervoor van boven naar beneden
+	Free: Pattern=dat zijn, Pattern=balk, Pattern=een, Pattern=recht
+	Constrained: Pattern=zijn
+Turn ID=1| A | A : en een balle bovenop
+	Free: Pattern=en een
+	Constrained: Pattern=een, Pattern=en
+Turn ID=2| B | B : ja ja dat zijn nummer j
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn
+Turn ID=3| B | B : letter J
+	Free: 
+	Constrained: 
+Turn ID=4| A | A : ronde 1 zijn
+	Free: Pattern=zijn
+	Constrained: 
+Turn ID=5| A | A : vijf
+	Free: 
+	Constrained: 
+Turn ID=6| B | B : okeeen deze hebben linksboven een ei op zijn hoofd
+	Free: Pattern=een, Pattern=zijn
+	Constrained: 
+Turn ID=7| B | B : en er en een lang recht balk rechtsonder
+	Free: Pattern=recht, Pattern=balk, Pattern=lang, Pattern=en, Pattern=en een
+	Constrained: Pattern=een, Pattern=en
+Turn ID=8| B | B : en twee arm de een zijn krom de ander zijn kort en recht
+	Free: Pattern=de, Pattern=een, Pattern=recht, Pattern=en, Pattern=zijn
+	Constrained: 
+Turn ID=9| A | A : de lang balk voor beneden van boven naar beneden met balle bovenop
+	Free: Pattern=met, Pattern=lang, Pattern=balk, Pattern=de
+	Constrained: 
+Turn ID=10| A | A : drie
+	Free: 
+	Constrained: 
+Turn ID=11| A | A : de balk van boven naar onder aan de voorkant
+	Free: Pattern=balk, Pattern=de
+	Constrained: 
+Turn ID=12| A | A : twaalf
+	Free: 
+	Constrained: 
+Turn ID=13| B | B : ja ja ja
+	Free: 
+	Constrained: 
+Turn ID=14| B | B : ja dat zijn m
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn
+Turn ID=15| B | B : dit zijn die met het ei linksbof op zijn hoofd twee arm één zo één zo en die balk
+	Free: Pattern=met, Pattern=balk, Pattern=zijn, Pattern=en
+	Constrained: 
+Turn ID=16| B | B : ja
+	Free: 
+	Constrained: 
+Turn ID=17| B | B : ja e
+	Free: 
+	Constrained: 
+Turn ID=18| B | B : tree hugg
+	Free: 
+	Constrained: 
+Turn ID=19| B | B : en ei
+	Free: Pattern=en
+	Constrained: 
+Turn ID=20| B | B : linksbof
+	Free: 
+	Constrained: 

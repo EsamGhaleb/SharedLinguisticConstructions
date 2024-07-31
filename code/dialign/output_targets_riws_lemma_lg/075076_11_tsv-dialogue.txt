@@ -1,0 +1,91 @@
+B|0| B: _ja_ dit _zijn_ deze _hebben_ ook _zo'n_ eivorm _aan de_ voorkant 
+A|1| A: [ja] 
+B|2| B: maar dan niet _met zo'n_ _staaf_ erdoorheen 
+A|3| A: [ja] 
+A|4| A: [met zo'n] rechthoek _bovenop_ 
+B|5| B: [ja] _en_ dan nog _een_ penseelachtig _ding_ 
+A|6| A: [ja] [zo'n] [ding] 
+A|7| A: bij mij [zijn] _dat_ veertien 
+A|8| A: _ik hebben die een met_ _dat_ _ei aan de_ rechterkant 
+B|9| B: [ja] _en de_ twee [ding] [bovenop] 
+A|10| A: [ja] 
+B|11| B: _dat zijn_ N 
+B|12| B: [ik hebben die een _met] het ei aan de_ voorkant _en_ twee [ding] boven 
+A|13| A: _ja dat zijn_ bij mij nummer negen 
+A|14| A: [ik hebben die] [met het ei aan de] [aan de] rechterkant sorry [en] [dat] vierkantje [en] [die] kegel [bovenop] 
+B|15| B: [ja] 
+A|16| A: of penseel 
+B|17| B: [dat zijn] G 
+B|18| B: [ik hebben die een [met] het ei] rechts _en de_ twee [ding] [bovenop] 
+A|19| A: [ja] nummer vijf 
+A|20| A: [ik hebben die een met] [dat] [ei aan de] rechterkant [en de] kegel [en] [het] [staaf] [bovenop] 
+B|21| B: [ja dat zijn] J 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : ja dit zijn deze hebben ook zo'n eivorm aan de voorkant
+	Free: Pattern=zo'n, Pattern=ja, Pattern=aan de, Pattern=hebben, Pattern=zijn
+	Constrained: 
+Turn ID=1| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=2| B | B : maar dan niet met zo'n staaf erdoorheen
+	Free: Pattern=met zo'n, Pattern=staaf
+	Constrained: Pattern=zo'n
+Turn ID=3| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=4| A | A : met zo'n rechthoek bovenop
+	Free: Pattern=met zo'n, Pattern=bovenop
+	Constrained: Pattern=zo'n
+Turn ID=5| B | B : ja en dan nog een penseelachtig ding
+	Free: Pattern=en, Pattern=ding, Pattern=ja, Pattern=een
+	Constrained: 
+Turn ID=6| A | A : ja zo'n ding
+	Free: Pattern=ding, Pattern=zo'n, Pattern=ja
+	Constrained: 
+Turn ID=7| A | A : bij mij zijn dat veertien
+	Free: Pattern=zijn, Pattern=dat
+	Constrained: 
+Turn ID=8| A | A : ik hebben die een met dat ei aan de rechterkant
+	Free: Pattern=ik hebben die een met, Pattern=ei aan de, Pattern=dat
+	Constrained: Pattern=aan de, Pattern=een, Pattern=hebben, Pattern=die, Pattern=ik hebben die
+Turn ID=9| B | B : ja en de twee ding bovenop
+	Free: Pattern=en de, Pattern=ding, Pattern=bovenop, Pattern=ja
+	Constrained: Pattern=en
+Turn ID=10| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=11| B | B : dat zijn N
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=12| B | B : ik hebben die een met het ei aan de voorkant en twee ding boven
+	Free: Pattern=ik hebben die een met, Pattern=met het ei aan de, Pattern=en, Pattern=ding
+	Constrained: Pattern=met het ei, Pattern=aan de, Pattern=een, Pattern=het, Pattern=hebben, Pattern=die, Pattern=ik hebben die, Pattern=ei aan de
+Turn ID=13| A | A : ja dat zijn bij mij nummer negen
+	Free: Pattern=ja dat zijn
+	Constrained: Pattern=dat zijn, Pattern=ja, Pattern=zijn, Pattern=dat
+Turn ID=14| A | A : ik hebben die met het ei aan de aan de rechterkant sorry en dat vierkantje en die kegel bovenop
+	Free: Pattern=aan de, Pattern=met het ei aan de, Pattern=die, Pattern=ik hebben die, Pattern=en, Pattern=dat, Pattern=bovenop
+	Constrained: Pattern=met het ei, Pattern=aan de, Pattern=het, Pattern=hebben, Pattern=die, Pattern=ei aan de
+Turn ID=15| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=16| A | A : of penseel
+	Free: 
+	Constrained: 
+Turn ID=17| B | B : dat zijn G
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=18| B | B : ik hebben die een met het ei rechts en de twee ding bovenop
+	Free: Pattern=met het ei, Pattern=bovenop, Pattern=ding, Pattern=en de, Pattern=ik hebben die een met
+	Constrained: Pattern=een, Pattern=het, Pattern=hebben, Pattern=die, Pattern=ik hebben die, Pattern=en
+Turn ID=19| A | A : ja nummer vijf
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=20| A | A : ik hebben die een met dat ei aan de rechterkant en de kegel en het staaf bovenop
+	Free: Pattern=staaf, Pattern=en de, Pattern=het, Pattern=en, Pattern=ei aan de, Pattern=ik hebben die een met, Pattern=dat, Pattern=bovenop
+	Constrained: Pattern=aan de, Pattern=een, Pattern=hebben, Pattern=die, Pattern=ik hebben die, Pattern=en
+Turn ID=21| B | B : ja dat zijn J
+	Free: Pattern=ja dat zijn
+	Constrained: Pattern=dat zijn, Pattern=ja, Pattern=zijn, Pattern=dat

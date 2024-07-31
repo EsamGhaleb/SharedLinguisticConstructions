@@ -1,0 +1,131 @@
+B|0| B: er zitten _een bal_ op 
+B|1| B: oké 
+B|2| B: _die_ 
+B|3| B: _ja_ _ja_ D 
+A|4| A: [ja] 
+A|5| A: even kijken ik hebben _het_ figuur _met_ _met de_ _verticaal balk_ laten maar zeggen 
+A|6| A: [die] zo rechtop staan _en [een_ bal] bovenop 
+A|7| A: [ja] 
+A|8| A: [ja] 
+A|9| A: even kijken 
+A|10| A: sorry _een balk_ aan _de_ 
+A|11| A: even kijken horen 
+A|12| A: daar [ja] _met_ [die] _verticaal balk_ weer 
+A|13| A: [ja] dat _zijn_ bij _mij_ nummer vijftien 
+B|14| B: volgens [mij] [zijn] dit degeen [die] jij net 
+B|15| B: fietsmand noemen 
+B|16| B: [met] [een bal] erop 
+B|17| B: [ja] [ja] dun handvaet 
+B|18| B: [en [een] balk] 
+B|19| B: [ja] [een] [verticaal balk] 
+A|20| A: ik hebben [die] [met] [die] [balk] [en] dat ei bovenop 
+B|21| B: [ja] 
+B|22| B: L 
+A|23| A: ei bovenop balkje [ja] nummer zes 
+B|24| B: [het] fietsmand 
+B|25| B: [met de] [bal] 
+A|26| A: ik hebben [die] [met] dat ei bovenop [en] [die] [verticaal balk] aan [de] rechterkant 
+B|27| B: fietsmand 
+B|28| B: J 
+B|29| B: [met de] [bal] erin 
+A|30| A: nummer drie 
+B|31| B: [het] fietsmand [met de] [bal] 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : er zitten een bal op
+	Free: Pattern=een bal
+	Constrained: Pattern=een, Pattern=bal
+Turn ID=1| B | B : oké
+	Free: 
+	Constrained: 
+Turn ID=2| B | B : die
+	Free: Pattern=die
+	Constrained: 
+Turn ID=3| B | B : ja ja D
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=4| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=5| A | A : even kijken ik hebben het figuur met met de verticaal balk laten maar zeggen
+	Free: Pattern=verticaal balk, Pattern=met de, Pattern=het, Pattern=met
+	Constrained: Pattern=de, Pattern=met, Pattern=balk
+Turn ID=6| A | A : die zo rechtop staan en een bal bovenop
+	Free: Pattern=en een, Pattern=een bal, Pattern=die
+	Constrained: Pattern=en, Pattern=een, Pattern=bal
+Turn ID=7| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=8| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=9| A | A : even kijken
+	Free: 
+	Constrained: 
+Turn ID=10| A | A : sorry een balk aan de
+	Free: Pattern=een balk, Pattern=de
+	Constrained: Pattern=een, Pattern=balk
+Turn ID=11| A | A : even kijken horen
+	Free: 
+	Constrained: 
+Turn ID=12| A | A : daar ja met die verticaal balk weer
+	Free: Pattern=verticaal balk, Pattern=ja, Pattern=die, Pattern=met
+	Constrained: Pattern=balk
+Turn ID=13| A | A : ja dat zijn bij mij nummer vijftien
+	Free: Pattern=ja, Pattern=zijn, Pattern=mij
+	Constrained: 
+Turn ID=14| B | B : volgens mij zijn dit degeen die jij net
+	Free: Pattern=die, Pattern=zijn, Pattern=mij
+	Constrained: 
+Turn ID=15| B | B : fietsmand noemen
+	Free: 
+	Constrained: 
+Turn ID=16| B | B : met een bal erop
+	Free: Pattern=een bal, Pattern=met
+	Constrained: Pattern=een, Pattern=bal
+Turn ID=17| B | B : ja ja dun handvaet
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=18| B | B : en een balk
+	Free: Pattern=en een, Pattern=een balk
+	Constrained: Pattern=en, Pattern=een, Pattern=balk
+Turn ID=19| B | B : ja een verticaal balk
+	Free: Pattern=verticaal balk, Pattern=een, Pattern=ja
+	Constrained: Pattern=balk
+Turn ID=20| A | A : ik hebben die met die balk en dat ei bovenop
+	Free: Pattern=en, Pattern=die, Pattern=met, Pattern=balk
+	Constrained: 
+Turn ID=21| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=22| B | B : L
+	Free: 
+	Constrained: 
+Turn ID=23| A | A : ei bovenop balkje ja nummer zes
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=24| B | B : het fietsmand
+	Free: Pattern=het
+	Constrained: 
+Turn ID=25| B | B : met de bal
+	Free: Pattern=met de, Pattern=bal
+	Constrained: Pattern=de, Pattern=met
+Turn ID=26| A | A : ik hebben die met dat ei bovenop en die verticaal balk aan de rechterkant
+	Free: Pattern=de, Pattern=met, Pattern=die, Pattern=en, Pattern=verticaal balk
+	Constrained: Pattern=balk
+Turn ID=27| B | B : fietsmand
+	Free: 
+	Constrained: 
+Turn ID=28| B | B : J
+	Free: 
+	Constrained: 
+Turn ID=29| B | B : met de bal erin
+	Free: Pattern=met de, Pattern=bal
+	Constrained: Pattern=de, Pattern=met
+Turn ID=30| A | A : nummer drie
+	Free: 
+	Constrained: 
+Turn ID=31| B | B : het fietsmand met de bal
+	Free: Pattern=met de, Pattern=het, Pattern=bal
+	Constrained: Pattern=de, Pattern=met

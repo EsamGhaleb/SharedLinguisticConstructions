@@ -1,0 +1,135 @@
+A|0| A: _ik hebben_ nu _de_ mok _met_ _een soort_ van steuntje _aan de achterkant_ _die_ lijken op _een_ paal te staan _en_ _het_ _zijn_ _een soort_ van vier _of_ rechthoek 
+A|1| A: _en_ _er_ zitten twee hoe zeggen _je_ _dat_ handvaten waarvan _de linkerkant_ _iets_ _kort_ _zijn_ _en_ _de rechterkant_ _lang_ 
+A|2| A: oké 
+B|3| B: o bij 
+B|4| B: [ik] a _ja_ jij jij zien [het] zo [ik hebben] [ik hebben] [dat] _als_ [een soort] zijwaarts peper [en] zout vat denken [ik] dus 
+B|5| B: kunnen [je] daar [iets] bij voorstel [of] [en] _dan_ [aan [de] linkerkant] [zijn] hij [kort] [en] [aan [de] rechterkant] [zijn] hij _dan_ _wat_ [lang] [en] _dan_ inderdaad [er] achter zo'n [soort] paneel [dat] [een] beetje omhoog worden houden 
+B|6| B: ok K 
+A|7| A: [ja] 
+A|8| A: [dat] [zijn] nummer negen hier 
+B|9| B: [ja] _dit_ jij [hebben] [die] _als_ [een] grieks pilaar peper [en] zout vaa zonnepaneel [aan de achterkant] 
+B|10| B: [ja] 
+B|11| B: o [ja] F 
+A|12| A: [dit] [zijn] [de] mok waarbij [aan de achterkant] [een soort] van steunpilaart staan 
+A|13| A: op [een] paal _met_ [een] vierkant blok daaraan vast 
+A|14| A: [en] link zitten [een] handvat [wat] hetzelfde [zijn] [als] rechts alleen rechts [lang] 
+A|15| A: oké 
+B|16| B: peper [en] zout [de] balk zonnepaneel 
+A|17| A: [ja] 
+A|18| A: nummer drie [zijn] [dat] hier 
+B|19| B: [ja] [met] [het] zonnepaneel 
+B|20| B: L 
+A|21| A: [ja] gelijk 
+A|22| A: [dit] [zijn] [de] mok [met] [dat] rugsteun achterin 
+A|23| A: [die] op [een] paal staan [met] [een] vierkant daarachter 
+A|24| A: [met] handvaet [er] [die] rechter [lang] [zijn] [dan] links 
+A|25| A: oké 
+B|26| B: grieks pilaar peper [en] zout [met] zonnepaneel 
+B|27| B: o we [hebben] weer nieuw plaat inderdaad nieuw locatie 
+B|28| B: [of] peper [en] zout [met] [het] zonnepaneel 
+B|29| B: ok 
+A|30| A: [ja] 
+A|31| A: even kijken 
+A|32| A: nummer vijf 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : ik hebben nu de mok met een soort van steuntje aan de achterkant die lijken op een paal te staan en het zijn een soort van vier of rechthoek
+	Free: Pattern=ik hebben, Pattern=aan de achterkant, Pattern=of, Pattern=de, Pattern=een, Pattern=het, Pattern=met, Pattern=die, Pattern=een soort, Pattern=en, Pattern=zijn
+	Constrained: Pattern=soort, Pattern=de, Pattern=aan de, Pattern=een, Pattern=hebben, Pattern=ik
+Turn ID=1| A | A : en er zitten twee hoe zeggen je dat handvaten waarvan de linkerkant iets kort zijn en de rechterkant lang
+	Free: Pattern=dat, Pattern=iets, Pattern=de rechterkant, Pattern=de linkerkant, Pattern=lang, Pattern=en, Pattern=zijn, Pattern=je, Pattern=kort, Pattern=er
+	Constrained: Pattern=de
+Turn ID=2| A | A : oké
+	Free: 
+	Constrained: 
+Turn ID=3| B | B : o bij
+	Free: 
+	Constrained: 
+Turn ID=4| B | B : ik a ja jij jij zien het zo ik hebben ik hebben dat als een soort zijwaarts peper en zout vat denken ik dus
+	Free: Pattern=ik hebben, Pattern=dat, Pattern=ja, Pattern=het, Pattern=als, Pattern=en, Pattern=ik, Pattern=een soort
+	Constrained: Pattern=soort, Pattern=ik, Pattern=hebben, Pattern=een
+Turn ID=5| B | B : kunnen je daar iets bij voorstel of en dan aan de linkerkant zijn hij kort en aan de rechterkant zijn hij dan wat lang en dan inderdaad er achter zo'n soort paneel dat een beetje omhoog worden houden
+	Free: Pattern=dat, Pattern=of, Pattern=soort, Pattern=iets, Pattern=de rechterkant, Pattern=aan de, Pattern=dan, Pattern=een, Pattern=de linkerkant, Pattern=lang, Pattern=en, Pattern=zijn, Pattern=je, Pattern=wat, Pattern=kort, Pattern=er
+	Constrained: Pattern=de
+Turn ID=6| B | B : ok K
+	Free: 
+	Constrained: 
+Turn ID=7| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=8| A | A : dat zijn nummer negen hier
+	Free: Pattern=dat, Pattern=zijn
+	Constrained: 
+Turn ID=9| B | B : ja dit jij hebben die als een grieks pilaar peper en zout vaa zonnepaneel aan de achterkant
+	Free: Pattern=aan de achterkant, Pattern=ja, Pattern=een, Pattern=hebben, Pattern=dit, Pattern=als, Pattern=die, Pattern=en
+	Constrained: Pattern=aan de, Pattern=de
+Turn ID=10| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=11| B | B : o ja F
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=12| A | A : dit zijn de mok waarbij aan de achterkant een soort van steunpilaart staan
+	Free: Pattern=aan de achterkant, Pattern=de, Pattern=dit, Pattern=een soort, Pattern=zijn
+	Constrained: Pattern=een, Pattern=de, Pattern=soort, Pattern=aan de
+Turn ID=13| A | A : op een paal met een vierkant blok daaraan vast
+	Free: Pattern=een, Pattern=met
+	Constrained: 
+Turn ID=14| A | A : en link zitten een handvat wat hetzelfde zijn als rechts alleen rechts lang
+	Free: Pattern=een, Pattern=als, Pattern=wat, Pattern=lang, Pattern=en, Pattern=zijn
+	Constrained: 
+Turn ID=15| A | A : oké
+	Free: 
+	Constrained: 
+Turn ID=16| B | B : peper en zout de balk zonnepaneel
+	Free: Pattern=en, Pattern=de
+	Constrained: 
+Turn ID=17| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=18| A | A : nummer drie zijn dat hier
+	Free: Pattern=dat, Pattern=zijn
+	Constrained: 
+Turn ID=19| B | B : ja met het zonnepaneel
+	Free: Pattern=ja, Pattern=het, Pattern=met
+	Constrained: 
+Turn ID=20| B | B : L
+	Free: 
+	Constrained: 
+Turn ID=21| A | A : ja gelijk
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=22| A | A : dit zijn de mok met dat rugsteun achterin
+	Free: Pattern=dat, Pattern=de, Pattern=dit, Pattern=met, Pattern=zijn
+	Constrained: 
+Turn ID=23| A | A : die op een paal staan met een vierkant daarachter
+	Free: Pattern=die, Pattern=een, Pattern=met
+	Constrained: 
+Turn ID=24| A | A : met handvaet er die rechter lang zijn dan links
+	Free: Pattern=dan, Pattern=met, Pattern=die, Pattern=er, Pattern=lang, Pattern=zijn
+	Constrained: 
+Turn ID=25| A | A : oké
+	Free: 
+	Constrained: 
+Turn ID=26| B | B : grieks pilaar peper en zout met zonnepaneel
+	Free: Pattern=en, Pattern=met
+	Constrained: 
+Turn ID=27| B | B : o we hebben weer nieuw plaat inderdaad nieuw locatie
+	Free: Pattern=hebben
+	Constrained: 
+Turn ID=28| B | B : of peper en zout met het zonnepaneel
+	Free: Pattern=en, Pattern=of, Pattern=het, Pattern=met
+	Constrained: 
+Turn ID=29| B | B : ok
+	Free: 
+	Constrained: 
+Turn ID=30| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=31| A | A : even kijken
+	Free: 
+	Constrained: 
+Turn ID=32| A | A : nummer vijf
+	Free: 
+	Constrained: 

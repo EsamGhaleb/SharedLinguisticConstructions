@@ -1,0 +1,155 @@
+B|0| B: _ik_ _vinden_ dit best _wel_ op _een_ _mens_ lijken 
+B|1| B: _een_ kop _en dan_ twee _ja_ afkappink _aan de zijkant_ naar buiten _die_ _als_ _oor_ kunnen dienen _een_ staaf rechtsvoor 
+B|2| B: _met een_ dubbel onderop _en_ _een_ _ja_ _vierkant_ langwerpig dinge _bovenop_ 
+B|3| B: _kijken_ _maar_ naar _dat vierkant_ langwerpig dinge _bovenop_ 
+A|4| A: [ja] ah [en dan] [aan de zijkant] [die] [die] [oor] [die] zitten [dan] [een] beetje laag [en] [aan de] voorkant zo'n _neus_ [met een] gek rond [en] zo'n 
+B|5| B: [ja] 
+B|6| B: [ja] 
+B|7| B: [ja] 
+A|8| A: oké [ja] 
+B|9| B: [die] [ja] 
+A|10| A: oké acht 
+A|11| A: even [kijken] 
+A|12| A: hoe hebben we [die] noemen 
+A|13| A: [ja] jij hebben [die] uitleggen [maar] [ik] weten 
+A|14| A: [ja] [ik] hebben het [als] [een] soort _raket_ uitleggen [maar] [dat] zijn heel dom [maar] echt je hebben [aan de] jij hebben het [als] [de] [mens] uitleggen [met] [die] [oor] [die] heel laag zitten _en _de_ neus en_ 
+B|15| B: [een] [raket] 
+B|16| B: [ja] [ja] [ja] [ja] [ja] [met] _dat vierkant_ dinge _bovenop_ 
+A|17| A: Blok [bovenop] [ja] 
+A|18| A: dus we noemen het menshanenkam of zo 
+B|19| B: [ja] 
+B|20| B: _een hanenkam_ 
+A|21| A: [dat vierkant] ding _vinden ik_ [wel] [een hanenkam] 
+B|22| B: [hanenkam] [vinden ik] [een] goed 
+A|23| A: [ja] prima 
+B|24| B: E 
+B|25| B: [hanenkam] 
+A|26| A: [hanenkam] yes 
+A|27| A: één 
+A|28| A: _de hanenkam_ 
+B|29| B: oeh oeh 
+B|30| B: [met] [de] [met] [de neus [en] de] [oor] 
+A|31| A: [ja] 
+B|32| B: [ja] E 
+B|33| B: [de hanenkam] 
+A|34| A: [de hanenkam] zestien 
+A|35| A: [ja] shit 
+A|36| A: [de hanenkam] 
+B|37| B: [ja] 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : ik vinden dit best wel op een mens lijken
+	Free: Pattern=mens, Pattern=vinden, Pattern=ik, Pattern=een, Pattern=wel
+	Constrained: 
+Turn ID=1| B | B : een kop en dan twee ja afkappink aan de zijkant naar buiten die als oor kunnen dienen een staaf rechtsvoor
+	Free: Pattern=en dan, Pattern=als, Pattern=die, Pattern=oor, Pattern=ja, Pattern=een, Pattern=aan de zijkant
+	Constrained: Pattern=de, Pattern=en, Pattern=aan de, Pattern=dan
+Turn ID=2| B | B : met een dubbel onderop en een ja vierkant langwerpig dinge bovenop
+	Free: Pattern=bovenop, Pattern=ja, Pattern=een, Pattern=met een, Pattern=en, Pattern=vierkant
+	Constrained: Pattern=een, Pattern=met
+Turn ID=3| B | B : kijken maar naar dat vierkant langwerpig dinge bovenop
+	Free: Pattern=dat vierkant, Pattern=bovenop, Pattern=maar, Pattern=kijken
+	Constrained: Pattern=dat, Pattern=vierkant
+Turn ID=4| A | A : ja ah en dan aan de zijkant die die oor die zitten dan een beetje laag en aan de voorkant zo'n neus met een gek rond en zo'n
+	Free: Pattern=en dan, Pattern=aan de, Pattern=dan, Pattern=neus, Pattern=die, Pattern=met een, Pattern=en, Pattern=oor, Pattern=ja, Pattern=een, Pattern=aan de zijkant
+	Constrained: Pattern=de, Pattern=aan de, Pattern=dan, Pattern=een, Pattern=met, Pattern=en
+Turn ID=5| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=6| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=7| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=8| A | A : oké ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=9| B | B : die ja
+	Free: Pattern=ja, Pattern=die
+	Constrained: 
+Turn ID=10| A | A : oké acht
+	Free: 
+	Constrained: 
+Turn ID=11| A | A : even kijken
+	Free: Pattern=kijken
+	Constrained: 
+Turn ID=12| A | A : hoe hebben we die noemen
+	Free: Pattern=die
+	Constrained: 
+Turn ID=13| A | A : ja jij hebben die uitleggen maar ik weten
+	Free: Pattern=ik, Pattern=maar, Pattern=ja, Pattern=die
+	Constrained: 
+Turn ID=14| A | A : ja ik hebben het als een soort raket uitleggen maar dat zijn heel dom maar echt je hebben aan de jij hebben het als de mens uitleggen met die oor die heel laag zitten en de neus en
+	Free: Pattern=mens, Pattern=dat, Pattern=aan de, Pattern=een, Pattern=en de, Pattern=als, Pattern=met, Pattern=die, Pattern=ik, Pattern=maar, Pattern=de, Pattern=oor, Pattern=ja, Pattern=de neus en, Pattern=raket
+	Constrained: Pattern=de, Pattern=neus, Pattern=en
+Turn ID=15| B | B : een raket
+	Free: Pattern=een, Pattern=raket
+	Constrained: 
+Turn ID=16| B | B : ja ja ja ja ja met dat vierkant dinge bovenop
+	Free: Pattern=dat vierkant, Pattern=bovenop, Pattern=met, Pattern=ja
+	Constrained: Pattern=dat, Pattern=vierkant
+Turn ID=17| A | A : Blok bovenop ja
+	Free: Pattern=bovenop, Pattern=ja
+	Constrained: 
+Turn ID=18| A | A : dus we noemen het menshanenkam of zo
+	Free: 
+	Constrained: 
+Turn ID=19| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=20| B | B : een hanenkam
+	Free: Pattern=een hanenkam
+	Constrained: Pattern=een, Pattern=hanenkam
+Turn ID=21| A | A : dat vierkant ding vinden ik wel een hanenkam
+	Free: Pattern=vinden ik, Pattern=dat vierkant, Pattern=een hanenkam, Pattern=wel
+	Constrained: Pattern=dat, Pattern=vinden, Pattern=een, Pattern=ik, Pattern=hanenkam, Pattern=vierkant
+Turn ID=22| B | B : hanenkam vinden ik een goed
+	Free: Pattern=vinden ik, Pattern=een, Pattern=hanenkam
+	Constrained: Pattern=ik, Pattern=vinden
+Turn ID=23| A | A : ja prima
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=24| B | B : E
+	Free: 
+	Constrained: 
+Turn ID=25| B | B : hanenkam
+	Free: Pattern=hanenkam
+	Constrained: 
+Turn ID=26| A | A : hanenkam yes
+	Free: Pattern=hanenkam
+	Constrained: 
+Turn ID=27| A | A : één
+	Free: 
+	Constrained: 
+Turn ID=28| A | A : de hanenkam
+	Free: Pattern=de hanenkam
+	Constrained: Pattern=de, Pattern=hanenkam
+Turn ID=29| B | B : oeh oeh
+	Free: 
+	Constrained: 
+Turn ID=30| B | B : met de met de neus en de oor
+	Free: Pattern=de neus en, Pattern=en de, Pattern=met, Pattern=de, Pattern=oor
+	Constrained: Pattern=de, Pattern=neus, Pattern=en
+Turn ID=31| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=32| B | B : ja E
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=33| B | B : de hanenkam
+	Free: Pattern=de hanenkam
+	Constrained: Pattern=de, Pattern=hanenkam
+Turn ID=34| A | A : de hanenkam zestien
+	Free: Pattern=de hanenkam
+	Constrained: Pattern=de, Pattern=hanenkam
+Turn ID=35| A | A : ja shit
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=36| A | A : de hanenkam
+	Free: Pattern=de hanenkam
+	Constrained: Pattern=de, Pattern=hanenkam
+Turn ID=37| B | B : ja
+	Free: Pattern=ja
+	Constrained: 

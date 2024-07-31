@@ -1,0 +1,103 @@
+A|0| A: _ja_ _en_ er zitten _nog _een_ spijker_ bovenop 
+A|1| A: _ja_ 
+A|2| A: okee _dat zijn_ nummer dertien 
+B|3| B: okeeen _deze_ [zijn] wel grappig 
+B|4| B: bij _deze hebben_ _aan de linkerkant_ _hebben_ hij [ja] het lijken [een] beetje _twee_ oog _van_ legoblokjes 
+B|5| B: [ja] [een spijker] als Antenne [en] dan rechts _aan _de_ voorkant_ [nog een] [een] plaat 
+B|6| B: [ja] joh [ja] 
+A|7| A: [deze hebben] [twee] [van] die sterrenkijker [aan de linkerkant] _en een_ plat vierkant op [de voorkant] [en] [nog [een] spijker] daar _bovenin_ 
+A|8| A: yes [ja] _dat zijn_ nummer [twee] 
+A|9| A: _dit zijn_ die _met_ die plat vierkant voorop _en een spijker_ bovenop [en] [twee] sterrenkijker link 
+B|10| B: aha [ja] 
+B|11| B: [ja] [ja] [ja] 
+B|12| B: [dat zijn] omdraaien natuurlijk [ja] 
+B|13| B: [ja] 
+B|14| B: [ja] 
+B|15| B: [ja] 
+B|16| B: nou dan gaan ik voor m 
+A|17| A: yes nummer drie 
+B|18| B: [dit zijn] degeen [met] [de] legoblokjesog [en een spijker] [aan de] bovenkant [en] één [ja] zo'n zo'n [ja] 
+A|19| A: [dit zijn] [met] die [twee] sterrenkijker links [en] die [spijker] erbovenop 
+B|20| B: [de] springstok [ja] [ja] 
+B|21| B: [en een spijker] Antennetje 
+B|22| B: [dat zijn] d 
+B|23| B: oog [aan de linkerkant] [een spijker] [bovenin] [en een] [een] scherm [aan de] rechterkant 
+B|24| B: jeej [dat zijn] h 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : ja en er zitten nog een spijker bovenop
+	Free: Pattern=nog een, Pattern=een spijker, Pattern=en, Pattern=ja
+	Constrained: Pattern=een, Pattern=spijker
+Turn ID=1| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=2| A | A : okee dat zijn nummer dertien
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn
+Turn ID=3| B | B : okeeen deze zijn wel grappig
+	Free: Pattern=zijn, Pattern=deze
+	Constrained: 
+Turn ID=4| B | B : bij deze hebben aan de linkerkant hebben hij ja het lijken een beetje twee oog van legoblokjes
+	Free: Pattern=twee, Pattern=ja, Pattern=een, Pattern=hebben, Pattern=deze hebben, Pattern=van, Pattern=aan de linkerkant
+	Constrained: Pattern=de, Pattern=deze, Pattern=aan de, Pattern=hebben
+Turn ID=5| B | B : ja een spijker als Antenne en dan rechts aan de voorkant nog een een plaat
+	Free: Pattern=nog een, Pattern=ja, Pattern=aan de, Pattern=een, Pattern=een spijker, Pattern=de voorkant, Pattern=en
+	Constrained: Pattern=een, Pattern=spijker, Pattern=de
+Turn ID=6| B | B : ja joh ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=7| A | A : deze hebben twee van die sterrenkijker aan de linkerkant en een plat vierkant op de voorkant en nog een spijker daar bovenin
+	Free: Pattern=deze hebben, Pattern=een spijker, Pattern=de voorkant, Pattern=en een, Pattern=bovenin, Pattern=aan de linkerkant, Pattern=twee, Pattern=nog een, Pattern=van, Pattern=en
+	Constrained: Pattern=de, Pattern=aan de, Pattern=een, Pattern=hebben, Pattern=en, Pattern=deze, Pattern=spijker
+Turn ID=8| A | A : yes ja dat zijn nummer twee
+	Free: Pattern=dat zijn, Pattern=twee, Pattern=ja
+	Constrained: Pattern=zijn
+Turn ID=9| A | A : dit zijn die met die plat vierkant voorop en een spijker bovenop en twee sterrenkijker link
+	Free: Pattern=twee, Pattern=met, Pattern=en een spijker, Pattern=en, Pattern=dit zijn
+	Constrained: Pattern=een, Pattern=een spijker, Pattern=en, Pattern=spijker, Pattern=en een, Pattern=zijn
+Turn ID=10| B | B : aha ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=11| B | B : ja ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=12| B | B : dat zijn omdraaien natuurlijk ja
+	Free: Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=zijn
+Turn ID=13| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=14| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=15| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=16| B | B : nou dan gaan ik voor m
+	Free: 
+	Constrained: 
+Turn ID=17| A | A : yes nummer drie
+	Free: 
+	Constrained: 
+Turn ID=18| B | B : dit zijn degeen met de legoblokjesog en een spijker aan de bovenkant en één ja zo'n zo'n ja
+	Free: Pattern=aan de, Pattern=met, Pattern=en een spijker, Pattern=en, Pattern=dit zijn, Pattern=de, Pattern=ja
+	Constrained: Pattern=de, Pattern=een, Pattern=een spijker, Pattern=en, Pattern=spijker, Pattern=en een, Pattern=zijn
+Turn ID=19| A | A : dit zijn met die twee sterrenkijker links en die spijker erbovenop
+	Free: Pattern=twee, Pattern=met, Pattern=en, Pattern=dit zijn, Pattern=spijker
+	Constrained: Pattern=zijn
+Turn ID=20| B | B : de springstok ja ja
+	Free: Pattern=ja, Pattern=de
+	Constrained: 
+Turn ID=21| B | B : en een spijker Antennetje
+	Free: Pattern=en een spijker
+	Constrained: Pattern=een, Pattern=een spijker, Pattern=en, Pattern=en een, Pattern=spijker
+Turn ID=22| B | B : dat zijn d
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn
+Turn ID=23| B | B : oog aan de linkerkant een spijker bovenin en een een scherm aan de rechterkant
+	Free: Pattern=aan de, Pattern=een, Pattern=een spijker, Pattern=en een, Pattern=bovenin, Pattern=aan de linkerkant
+	Constrained: Pattern=de, Pattern=aan de, Pattern=een, Pattern=en, Pattern=spijker
+Turn ID=24| B | B : jeej dat zijn h
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn

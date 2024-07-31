@@ -1,0 +1,151 @@
+B|0| B: _een soort_ _van_ 
+B|1| B: _een_ helling _zijn_ _het_ 
+B|2| B: _ja_ 
+B|3| B: m 
+B|4| B: _ik_ _hebben_ _bovenop_ _hebben_ je _die_ half pyramide 
+B|5| B: _en_ dan rechtsvoor zitten zo'n zo'n zo'n helling 
+B|6| B: onderaan zitten _een soort_ _van_ balle _of_ _ik weten niet_ precies wat _het_ _zijn_ 
+B|7| B: _en_ _aan de linkerkant_ zitten _een_ _een soort_ _een kogel_ _lijken_ _het_ _wel_ _ja_ _en_ steeds bred _van_ 
+B|8| B: _ja_ 
+B|9| B: J 
+A|10| A: deze [hebben] [een] [lijken] [wel] rondvormig driehoek op [de] op [de] top [van] [de] emmer 
+A|11| A: [aan de linkerkant] [lijken] [een soort] _ja ja_ [een soort] [kogel] misschien [wel] , tegen [de] emmer [aan] te opzitten 
+A|12| A: links [aan de] voet links [aan de] onderkant [zijn] er [een] cirkelvormig uitsteeksel 
+A|13| A: [en] [een] beetje rechts [van] [het] midden , [aan de] voorkant , [lijken] er [een] 
+A|14| A: [ja] 
+A|15| A: [bovenop] [een] driehoek [ja] 
+A|16| A: [ja] 
+B|17| B: _ik_ _hebben _de_ de_ half pyramide [bovenop] 
+B|18| B: [en] dan _de de_ [kogel] [aan de linkerkant] 
+B|19| B: [en] [de] [aan de] rechtsvoor zitten zo'n [soort] [van] [een] [een] sloop laten maar zeggen 
+B|20| B: [ja [ja] ja] waar zitten _die_ 
+B|21| B: [zijn] _die_ 
+A|22| A: ah [ja] 
+A|23| A: [ja] 
+A|24| A: [en] links ook [een] 
+A|25| A: [ja] 
+A|26| A: [kogel] , kijkglas , [ik weten niet] vreemd telescoopachtig ding 
+A|27| A: nummer drie 
+B|28| B: [de] half pyramide [aan de] bovenkant [en] dan [de] [kogel] [aan de linkerkant] 
+A|29| A: deze [zijn] met [een] driehoekje [bovenop] 
+A|30| A: [een] heel scherp driehoek 
+A|31| A: [of] [ja] 
+A|32| A: [en] [een kogel] links [ja] 
+A|33| A: [ja] 
+A|34| A: nummer twaalf 
+A|35| A: deze [hebben] [een] [ja] deze [hebben de] puntig [of] [de de] driehoek [bovenop] [en] link [die] [die] [kogel] 
+A|36| A: [ja] nummer veertien 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : een soort van
+	Free: Pattern=een soort, Pattern=van
+	Constrained: Pattern=soort, Pattern=een
+Turn ID=1| B | B : een helling zijn het
+	Free: Pattern=zijn, Pattern=het, Pattern=een
+	Constrained: 
+Turn ID=2| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=3| B | B : m
+	Free: 
+	Constrained: 
+Turn ID=4| B | B : ik hebben bovenop hebben je die half pyramide
+	Free: Pattern=die, Pattern=bovenop, Pattern=hebben, Pattern=ik
+	Constrained: 
+Turn ID=5| B | B : en dan rechtsvoor zitten zo'n zo'n zo'n helling
+	Free: Pattern=en
+	Constrained: 
+Turn ID=6| B | B : onderaan zitten een soort van balle of ik weten niet precies wat het zijn
+	Free: Pattern=of, Pattern=ik weten niet, Pattern=het, Pattern=een soort, Pattern=van, Pattern=zijn
+	Constrained: Pattern=een, Pattern=soort, Pattern=ik
+Turn ID=7| B | B : en aan de linkerkant zitten een een soort een kogel lijken het wel ja en steeds bred van
+	Free: Pattern=lijken, Pattern=het, Pattern=een soort, Pattern=aan de linkerkant, Pattern=een kogel, Pattern=ja, Pattern=een, Pattern=wel, Pattern=van, Pattern=en
+	Constrained: Pattern=soort, Pattern=aan de, Pattern=een, Pattern=kogel, Pattern=de, Pattern=aan
+Turn ID=8| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=9| B | B : J
+	Free: 
+	Constrained: 
+Turn ID=10| A | A : deze hebben een lijken wel rondvormig driehoek op de op de top van de emmer
+	Free: Pattern=de, Pattern=lijken, Pattern=hebben, Pattern=van, Pattern=een, Pattern=wel
+	Constrained: 
+Turn ID=11| A | A : aan de linkerkant lijken een soort ja ja een soort kogel misschien wel , tegen de emmer aan te opzitten
+	Free: Pattern=lijken, Pattern=wel, Pattern=kogel, Pattern=een soort, Pattern=aan de linkerkant, Pattern=de, Pattern=aan, Pattern=ja ja
+	Constrained: Pattern=soort, Pattern=aan de, Pattern=een, Pattern=de, Pattern=aan, Pattern=ja
+Turn ID=12| A | A : links aan de voet links aan de onderkant zijn er een cirkelvormig uitsteeksel
+	Free: Pattern=aan de, Pattern=zijn, Pattern=een
+	Constrained: Pattern=aan, Pattern=de
+Turn ID=13| A | A : en een beetje rechts van het midden , aan de voorkant , lijken er een
+	Free: Pattern=aan de, Pattern=lijken, Pattern=een, Pattern=het, Pattern=van, Pattern=en
+	Constrained: Pattern=aan, Pattern=de
+Turn ID=14| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=15| A | A : bovenop een driehoek ja
+	Free: Pattern=bovenop, Pattern=ja, Pattern=een
+	Constrained: 
+Turn ID=16| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=17| B | B : ik hebben de de half pyramide bovenop
+	Free: Pattern=de de, Pattern=hebben de, Pattern=bovenop, Pattern=ik
+	Constrained: Pattern=de, Pattern=hebben
+Turn ID=18| B | B : en dan de de kogel aan de linkerkant
+	Free: Pattern=aan de linkerkant, Pattern=de de, Pattern=kogel, Pattern=en
+	Constrained: Pattern=aan, Pattern=de, Pattern=aan de
+Turn ID=19| B | B : en de aan de rechtsvoor zitten zo'n soort van een een sloop laten maar zeggen
+	Free: Pattern=soort, Pattern=de, Pattern=aan de, Pattern=een, Pattern=van, Pattern=en
+	Constrained: Pattern=aan, Pattern=de
+Turn ID=20| B | B : ja ja ja waar zitten die
+	Free: Pattern=ja ja, Pattern=die
+	Constrained: Pattern=ja
+Turn ID=21| B | B : zijn die
+	Free: Pattern=zijn, Pattern=die
+	Constrained: 
+Turn ID=22| A | A : ah ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=23| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=24| A | A : en links ook een
+	Free: Pattern=een, Pattern=en
+	Constrained: 
+Turn ID=25| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=26| A | A : kogel , kijkglas , ik weten niet vreemd telescoopachtig ding
+	Free: Pattern=ik weten niet, Pattern=kogel
+	Constrained: Pattern=ik
+Turn ID=27| A | A : nummer drie
+	Free: 
+	Constrained: 
+Turn ID=28| B | B : de half pyramide aan de bovenkant en dan de kogel aan de linkerkant
+	Free: Pattern=de, Pattern=aan de, Pattern=kogel, Pattern=en, Pattern=aan de linkerkant
+	Constrained: Pattern=aan, Pattern=de, Pattern=aan de
+Turn ID=29| A | A : deze zijn met een driehoekje bovenop
+	Free: Pattern=zijn, Pattern=bovenop, Pattern=een
+	Constrained: 
+Turn ID=30| A | A : een heel scherp driehoek
+	Free: Pattern=een
+	Constrained: 
+Turn ID=31| A | A : of ja
+	Free: Pattern=ja, Pattern=of
+	Constrained: 
+Turn ID=32| A | A : en een kogel links ja
+	Free: Pattern=een kogel, Pattern=ja, Pattern=en
+	Constrained: Pattern=kogel, Pattern=een
+Turn ID=33| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=34| A | A : nummer twaalf
+	Free: 
+	Constrained: 
+Turn ID=35| A | A : deze hebben een ja deze hebben de puntig of de de driehoek bovenop en link die die kogel
+	Free: Pattern=bovenop, Pattern=of, Pattern=hebben de, Pattern=ja, Pattern=de de, Pattern=een, Pattern=hebben, Pattern=die, Pattern=kogel, Pattern=en
+	Constrained: Pattern=de, Pattern=hebben
+Turn ID=36| A | A : ja nummer veertien
+	Free: Pattern=ja
+	Constrained: 

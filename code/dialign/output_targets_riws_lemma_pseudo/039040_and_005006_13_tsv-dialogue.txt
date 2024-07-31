@@ -1,0 +1,91 @@
+A|0| A: _van_ _die_ deze zo'n kralenketting 
+A|1| A: _ja_ _dat_ _hebben_ zo _hebben_ ik hem 
+A|2| A: _ja_ 
+A|3| A: _ja_ wachten _dat_ _zijn_ nummer vijf 
+B|4| B: _het_ [zijn] er _zeggen maar_ één en [die] [hebben] twee soort [van] kralensnoert rechts en link 
+B|5| B: echt _de_ veel typisch [die] er [zijn] eigenlijk en dan rond schijf aan _de_ voorkant 
+B|6| B: precies [ja] 
+A|7| A: of moeten ik drukken 
+A|8| A: [ja] ik moeten wel drukken 
+A|9| A: [ja] ik [hebben] diegene _met die_ _met die_ bollet _met die_ kra [zeggen maar] _met die_ 
+B|10| B: [dat] 
+B|11| B: dienblad 
+B|12| B: [ja] J 
+A|13| A: [ja] [ja] 
+A|14| A: [dat] [zijn] elf 
+A|15| A: dit [zijn] diegene _met die_ staart of kralenketting of wat je [het] willen noemen 
+B|16| B: [het] [zijn] zegmaar [met die] kralensnoert op [dat] dienblad 
+B|17| B: B 
+A|18| A: [ja] [ja] negen 
+B|19| B: [met die] kralending op [dat] dienblad 
+A|20| A: dit [zijn] degeen [met] [de] staart of ketting 
+B|21| B: L 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : van die deze zo'n kralenketting
+	Free: Pattern=van, Pattern=die
+	Constrained: 
+Turn ID=1| A | A : ja dat hebben zo hebben ik hem
+	Free: Pattern=dat, Pattern=hebben, Pattern=ja
+	Constrained: 
+Turn ID=2| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=3| A | A : ja wachten dat zijn nummer vijf
+	Free: Pattern=dat, Pattern=ja, Pattern=zijn
+	Constrained: 
+Turn ID=4| B | B : het zijn er zeggen maar één en die hebben twee soort van kralensnoert rechts en link
+	Free: Pattern=zeggen maar, Pattern=het, Pattern=hebben, Pattern=die, Pattern=van, Pattern=zijn
+	Constrained: 
+Turn ID=5| B | B : echt de veel typisch die er zijn eigenlijk en dan rond schijf aan de voorkant
+	Free: Pattern=de, Pattern=die, Pattern=zijn
+	Constrained: 
+Turn ID=6| B | B : precies ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=7| A | A : of moeten ik drukken
+	Free: 
+	Constrained: 
+Turn ID=8| A | A : ja ik moeten wel drukken
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=9| A | A : ja ik hebben diegene met die met die bollet met die kra zeggen maar met die
+	Free: Pattern=zeggen maar, Pattern=met die, Pattern=hebben, Pattern=ja
+	Constrained: Pattern=met, Pattern=die
+Turn ID=10| B | B : dat
+	Free: Pattern=dat
+	Constrained: 
+Turn ID=11| B | B : dienblad
+	Free: 
+	Constrained: 
+Turn ID=12| B | B : ja J
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=13| A | A : ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=14| A | A : dat zijn elf
+	Free: Pattern=dat, Pattern=zijn
+	Constrained: 
+Turn ID=15| A | A : dit zijn diegene met die staart of kralenketting of wat je het willen noemen
+	Free: Pattern=met die, Pattern=het, Pattern=zijn
+	Constrained: Pattern=met, Pattern=die
+Turn ID=16| B | B : het zijn zegmaar met die kralensnoert op dat dienblad
+	Free: Pattern=met die, Pattern=het, Pattern=dat, Pattern=zijn
+	Constrained: Pattern=met, Pattern=die
+Turn ID=17| B | B : B
+	Free: 
+	Constrained: 
+Turn ID=18| A | A : ja ja negen
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=19| B | B : met die kralending op dat dienblad
+	Free: Pattern=met die, Pattern=dat
+	Constrained: Pattern=met, Pattern=die
+Turn ID=20| A | A : dit zijn degeen met de staart of ketting
+	Free: Pattern=met, Pattern=de, Pattern=zijn
+	Constrained: 
+Turn ID=21| B | B : L
+	Free: 
+	Constrained: 

@@ -1,0 +1,131 @@
+A|0| A: ik _vinden het_ _lijken_ _op een gieter_ 
+A|1| A: maar dan _een_ heel lelijk _gieter_ je _hebben_ gewoon _dat_ bakkie _en_ _aan_ _de_ _een_ kant of _ja_ _aan_ beide kant steken _een_ soort _zeshoekig_ staaf uit _en_ _aan_ _de_ _een_ kant _zijn_ _die_ vrij kort _aan_ _de_ ander kant lang 
+A|2| A: _en_ dan _aan_ beide uiteind _zitten een_ _bolle_ 
+A|3| A: _en_ dan bovenop _zitten_ er _nog_ _een_ soort kleppie waar dan ook weer _zo'n_ soort vierkant stok uit opsteken 
+B|4| B: [ja] 
+A|5| A: naar beneden 
+B|6| B: letter K 
+B|7| B: [het] [zijn] [een] bak 
+B|8| B: hij [hebben] _twee_ uitsteeksel hier [die] [zeshoekig] [zijn] 
+B|9| B: [aan] [het] einde [zitten een] half cirkel half _bollet_ [zitten] _erop_ 
+B|10| B: [en] achter [hebben] [die] [nog] [zo'n] platformp jij [vinden het] [op een] gek [gieter] [lijken] 
+A|11| A: [ja] 
+A|12| A: nummer negen 
+A|13| A: dit [zijn] wat ik dus [vinden] [lijken] [op] [die] [gieter] _met_ dus [die] [twee] [zeshoekig] dinget [en] één [zijn] iets lang [en] dan [die] [twee] [bollet] [aan] _de_ uiteind daarvan 
+B|14| B: [ja] 
+B|15| B: [ja] 
+A|16| A: [en] dan [een] klepje [erop] 
+B|17| B: [ja] 
+A|18| A: [aan] _de_ zijkant 
+B|19| B: [dat] [hebben] [twee] van [die] ding [ja] 
+B|20| B: letter F 
+B|21| B: jij [vinden het] [op een gieter] [lijken] 
+B|22| B: _met die_ _drie_ [met] [de] zeshoek [die] eruit komen [met] [zo'n] klein [bolle] eraan 
+A|23| A: yes 
+A|24| A: nummer [drie] 
+A|25| A: zeggen maar [dat] gieterdinge 
+B|26| B: [ja] 
+A|27| A: [met die] [twee] staaf waar [de] [bollet] [aan] [zitten] 
+B|28| B: [ja] 
+B|29| B: letter L 
+B|30| B: [de] [gieter] 
+A|31| A: nummer vijf 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : ik vinden het lijken op een gieter
+	Free: Pattern=op een gieter, Pattern=vinden het, Pattern=lijken
+	Constrained: Pattern=vinden, Pattern=op, Pattern=gieter, Pattern=een, Pattern=het, Pattern=op een
+Turn ID=1| A | A : maar dan een heel lelijk gieter je hebben gewoon dat bakkie en aan de een kant of ja aan beide kant steken een soort zeshoekig staaf uit en aan de een kant zijn die vrij kort aan de ander kant lang
+	Free: Pattern=dat, Pattern=gieter, Pattern=een, Pattern=hebben, Pattern=die, Pattern=en, Pattern=de, Pattern=aan, Pattern=ja, Pattern=zeshoekig, Pattern=zijn
+	Constrained: 
+Turn ID=2| A | A : en dan aan beide uiteind zitten een bolle
+	Free: Pattern=zitten een, Pattern=en, Pattern=aan, Pattern=bolle
+	Constrained: Pattern=een, Pattern=zitten
+Turn ID=3| A | A : en dan bovenop zitten er nog een soort kleppie waar dan ook weer zo'n soort vierkant stok uit opsteken
+	Free: Pattern=nog, Pattern=zo'n, Pattern=een, Pattern=zitten, Pattern=en
+	Constrained: 
+Turn ID=4| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=5| A | A : naar beneden
+	Free: 
+	Constrained: 
+Turn ID=6| B | B : letter K
+	Free: 
+	Constrained: 
+Turn ID=7| B | B : het zijn een bak
+	Free: Pattern=een, Pattern=zijn, Pattern=het
+	Constrained: 
+Turn ID=8| B | B : hij hebben twee uitsteeksel hier die zeshoekig zijn
+	Free: Pattern=twee, Pattern=hebben, Pattern=die, Pattern=zeshoekig, Pattern=zijn
+	Constrained: 
+Turn ID=9| B | B : aan het einde zitten een half cirkel half bollet zitten erop
+	Free: Pattern=bollet, Pattern=aan, Pattern=erop, Pattern=het, Pattern=zitten, Pattern=zitten een
+	Constrained: Pattern=een, Pattern=zitten
+Turn ID=10| B | B : en achter hebben die nog zo'n platformp jij vinden het op een gek gieter lijken
+	Free: Pattern=nog, Pattern=zo'n, Pattern=lijken, Pattern=gieter, Pattern=hebben, Pattern=die, Pattern=en, Pattern=vinden het, Pattern=op een
+	Constrained: Pattern=op, Pattern=een, Pattern=het, Pattern=vinden
+Turn ID=11| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=12| A | A : nummer negen
+	Free: 
+	Constrained: 
+Turn ID=13| A | A : dit zijn wat ik dus vinden lijken op die gieter met dus die twee zeshoekig dinget en één zijn iets lang en dan die twee bollet aan de uiteind daarvan
+	Free: Pattern=op, Pattern=lijken, Pattern=gieter, Pattern=met, Pattern=die, Pattern=en, Pattern=twee, Pattern=bollet, Pattern=de, Pattern=aan, Pattern=vinden, Pattern=zeshoekig, Pattern=zijn
+	Constrained: 
+Turn ID=14| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=15| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=16| A | A : en dan een klepje erop
+	Free: Pattern=erop, Pattern=een, Pattern=en
+	Constrained: 
+Turn ID=17| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=18| A | A : aan de zijkant
+	Free: Pattern=de, Pattern=aan
+	Constrained: 
+Turn ID=19| B | B : dat hebben twee van die ding ja
+	Free: Pattern=dat, Pattern=twee, Pattern=ja, Pattern=hebben, Pattern=die
+	Constrained: 
+Turn ID=20| B | B : letter F
+	Free: 
+	Constrained: 
+Turn ID=21| B | B : jij vinden het op een gieter lijken
+	Free: Pattern=op een gieter, Pattern=vinden het, Pattern=lijken
+	Constrained: Pattern=vinden, Pattern=op, Pattern=gieter, Pattern=een, Pattern=het, Pattern=op een
+Turn ID=22| B | B : met die drie met de zeshoek die eruit komen met zo'n klein bolle eraan
+	Free: Pattern=met die, Pattern=zo'n, Pattern=de, Pattern=drie, Pattern=die, Pattern=bolle, Pattern=met
+	Constrained: Pattern=met, Pattern=die
+Turn ID=23| A | A : yes
+	Free: 
+	Constrained: 
+Turn ID=24| A | A : nummer drie
+	Free: Pattern=drie
+	Constrained: 
+Turn ID=25| A | A : zeggen maar dat gieterdinge
+	Free: Pattern=dat
+	Constrained: 
+Turn ID=26| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=27| A | A : met die twee staaf waar de bollet aan zitten
+	Free: Pattern=met die, Pattern=zitten, Pattern=twee, Pattern=bollet, Pattern=de, Pattern=aan
+	Constrained: Pattern=met, Pattern=die
+Turn ID=28| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=29| B | B : letter L
+	Free: 
+	Constrained: 
+Turn ID=30| B | B : de gieter
+	Free: Pattern=de, Pattern=gieter
+	Constrained: 
+Turn ID=31| A | A : nummer vijf
+	Free: 
+	Constrained: 

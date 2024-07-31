@@ -1,0 +1,111 @@
+A|0| A: _ja ik_ vinden deze echt ook een beetje lastig _ik hebben_ er uiteindelijk een _F_ van maken als _je_ _zeggen_ maar soort kijken vanaf _het_ beker _dan_ _hebben_ _die_ _twee_ steeksel 
+A|1| A: _die_ een beetje doen denken _aan_ een _F_ als _je_ _de_ _de_ beker door zullen trekken als op één lijn 
+A|2| A: _en dan_ een soort van hoed _ja_ als een soort lampenkap 
+A|3| A: _en dan_ nog één _ja_ een soort _ja_ handvat eromheen _en_ een _staart_ 
+B|4| B: [staart] [ja] [ja _ik] hebben hem_ 
+A|5| A: [ja] 
+B|6| B: _dat zijn_ I 
+B|7| B: oké _dit zijn de_ wat jij [zeggen] _de F_ _met_ [die] [aan] [de] rechterkant [twee] uitstekend balk 
+A|8| A: [ja] 
+B|9| B: [en dan] erbovenop [de] half kegelachtig in [het] midden zo'n balk 
+A|10| A: [ja] 
+A|11| A: [ik hebben hem] 
+B|12| B: [ja] 
+A|13| A: [twee] 
+A|14| A: _dit zijn de F_ 
+A|15| A: [met] [het] soort van hoed [met] een driehoek 
+B|16| B: [de F] [zeggen] [je] toch 
+A|17| A: [ja] [de F] 
+B|18| B: [ja] 
+B|19| B: _dat zijn_ bij mij M 
+B|20| B: [dit zijn de F] [met] [de] 
+A|21| A: [ja] 
+A|22| A: [dat zijn] negen 
+A|23| A: [dit zijn de F] 
+B|24| B: _ja dat zijn_ [F] toevallig 
+B|25| B: [dit zijn de F] 
+A|26| A: [ja dat zijn] zes 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : ja ik vinden deze echt ook een beetje lastig ik hebben er uiteindelijk een F van maken als je zeggen maar soort kijken vanaf het beker dan hebben die twee steeksel
+	Free: Pattern=ik hebben, Pattern=twee, Pattern=dan, Pattern=F, Pattern=het, Pattern=hebben, Pattern=zeggen, Pattern=die, Pattern=ja ik, Pattern=je
+	Constrained: Pattern=hebben, Pattern=ja
+Turn ID=1| A | A : die een beetje doen denken aan een F als je de de beker door zullen trekken als op één lijn
+	Free: Pattern=F, Pattern=die, Pattern=je, Pattern=de, Pattern=aan
+	Constrained: 
+Turn ID=2| A | A : en dan een soort van hoed ja als een soort lampenkap
+	Free: Pattern=en dan, Pattern=ja
+	Constrained: Pattern=en, Pattern=dan
+Turn ID=3| A | A : en dan nog één ja een soort ja handvat eromheen en een staart
+	Free: Pattern=en dan, Pattern=staart, Pattern=en, Pattern=ja
+	Constrained: Pattern=en, Pattern=dan
+Turn ID=4| B | B : staart ja ja ik hebben hem
+	Free: Pattern=ik hebben hem, Pattern=ja ik, Pattern=staart, Pattern=ja
+	Constrained: Pattern=ik hebben, Pattern=ja, Pattern=hebben
+Turn ID=5| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=6| B | B : dat zijn I
+	Free: Pattern=dat zijn
+	Constrained: 
+Turn ID=7| B | B : oké dit zijn de wat jij zeggen de F met die aan de rechterkant twee uitstekend balk
+	Free: Pattern=twee, Pattern=de F, Pattern=zeggen, Pattern=met, Pattern=die, Pattern=dit zijn de, Pattern=de, Pattern=aan
+	Constrained: Pattern=de, Pattern=F
+Turn ID=8| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=9| B | B : en dan erbovenop de half kegelachtig in het midden zo'n balk
+	Free: Pattern=en dan, Pattern=het, Pattern=de
+	Constrained: Pattern=en, Pattern=dan
+Turn ID=10| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=11| A | A : ik hebben hem
+	Free: Pattern=ik hebben hem
+	Constrained: Pattern=ik hebben, Pattern=hebben
+Turn ID=12| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=13| A | A : twee
+	Free: Pattern=twee
+	Constrained: 
+Turn ID=14| A | A : dit zijn de F
+	Free: Pattern=dit zijn de F
+	Constrained: Pattern=F, Pattern=de, Pattern=de F, Pattern=dit zijn de
+Turn ID=15| A | A : met het soort van hoed met een driehoek
+	Free: Pattern=het, Pattern=met
+	Constrained: 
+Turn ID=16| B | B : de F zeggen je toch
+	Free: Pattern=de F, Pattern=zeggen, Pattern=je
+	Constrained: Pattern=de, Pattern=F
+Turn ID=17| A | A : ja de F
+	Free: Pattern=de F, Pattern=ja
+	Constrained: Pattern=de, Pattern=F
+Turn ID=18| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=19| B | B : dat zijn bij mij M
+	Free: Pattern=dat zijn
+	Constrained: 
+Turn ID=20| B | B : dit zijn de F met de
+	Free: Pattern=dit zijn de F, Pattern=de, Pattern=met
+	Constrained: Pattern=F, Pattern=de, Pattern=de F, Pattern=dit zijn de
+Turn ID=21| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=22| A | A : dat zijn negen
+	Free: Pattern=dat zijn
+	Constrained: 
+Turn ID=23| A | A : dit zijn de F
+	Free: Pattern=dit zijn de F
+	Constrained: Pattern=F, Pattern=de, Pattern=de F, Pattern=dit zijn de
+Turn ID=24| B | B : ja dat zijn F toevallig
+	Free: Pattern=ja dat zijn, Pattern=F
+	Constrained: Pattern=dat zijn, Pattern=ja
+Turn ID=25| B | B : dit zijn de F
+	Free: Pattern=dit zijn de F
+	Constrained: Pattern=F, Pattern=de, Pattern=de F, Pattern=dit zijn de
+Turn ID=26| A | A : ja dat zijn zes
+	Free: Pattern=ja dat zijn
+	Constrained: Pattern=dat zijn, Pattern=ja

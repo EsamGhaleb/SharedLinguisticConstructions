@@ -1,0 +1,143 @@
+B|0| B: oké 
+B|1| B: deze doen me denken aan _een_ zwaaiend _robot_ 
+B|2| B: _en_ hij _hebben_ _twee klein_ dinge _op zijn hoofd_ 
+B|3| B: _een_ lang neus _en_ 
+A|4| A: [hebben] _die_ zo'n horizontaal veld 
+B|5| B: _ja_ 
+B|6| B: laag bij beetje in het midden 
+A|7| A: [ja] 
+B|8| B: [ja] _één_ onder het midden 
+A|9| A: [ja] [ja] [ja] [en] [twee] [twee klein] punt _die_ hetzelfde eruitzien boven [op zijn hoofd] 
+B|10| B: [ja] 
+B|11| B: [en] dan _een_ soort rechterarm 
+A|12| A: [ja] 
+A|13| A: [ja] dat [zijn] nummer zes 
+B|14| B: [ja] 
+B|15| B: [ja] 
+A|16| A: _dit zijn_ [één] met weer zo'n horizontaal veld erdoorheen [twee] dinget bovenop [een] armp [en] 
+A|17| A: nog [een] armp 
+B|18| B: [die] Hallo zeggen _robot_ 
+A|19| A: [ja] 
+B|20| B: [ja] C 
+B|21| B: [ja] sorry ze [hebben] bij mij echt allemaal naamp krijgen 
+A|22| A: [ja] _ik_ ook 
+B|23| B: [dit zijn] zeggen maar het robo 
+B|24| B: jou _ballerina_ 
+A|25| A: [ja] [ja] 
+A|26| A: nummer dertien 
+A|27| A: _ik hebben_ [die] [ballerina] _of_ robotding 
+B|28| B: [ik] [zijn] hem even kwijt 
+B|29| B: ah _J_ 
+A|30| A: [J] 
+B|31| B: _ik hebben de robot_ [of] _de_ [ballerina] 
+A|32| A: nummer negen 
+A|33| A: [ik hebben de robot] [ballerina] 
+B|34| B: N 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : oké
+	Free: 
+	Constrained: 
+Turn ID=1| B | B : deze doen me denken aan een zwaaiend robot
+	Free: Pattern=robot, Pattern=een
+	Constrained: 
+Turn ID=2| B | B : en hij hebben twee klein dinge op zijn hoofd
+	Free: Pattern=op zijn hoofd, Pattern=twee klein, Pattern=hebben, Pattern=en
+	Constrained: Pattern=twee, Pattern=zijn
+Turn ID=3| B | B : een lang neus en
+	Free: Pattern=een, Pattern=en
+	Constrained: 
+Turn ID=4| A | A : hebben die zo'n horizontaal veld
+	Free: Pattern=hebben, Pattern=die
+	Constrained: 
+Turn ID=5| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=6| B | B : laag bij beetje in het midden
+	Free: 
+	Constrained: 
+Turn ID=7| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=8| B | B : ja één onder het midden
+	Free: Pattern=één, Pattern=ja
+	Constrained: 
+Turn ID=9| A | A : ja ja ja en twee twee klein punt die hetzelfde eruitzien boven op zijn hoofd
+	Free: Pattern=twee, Pattern=ja, Pattern=die, Pattern=en, Pattern=op zijn hoofd, Pattern=twee klein
+	Constrained: Pattern=twee, Pattern=zijn
+Turn ID=10| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=11| B | B : en dan een soort rechterarm
+	Free: Pattern=een, Pattern=en
+	Constrained: 
+Turn ID=12| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=13| A | A : ja dat zijn nummer zes
+	Free: Pattern=zijn, Pattern=ja
+	Constrained: 
+Turn ID=14| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=15| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=16| A | A : dit zijn één met weer zo'n horizontaal veld erdoorheen twee dinget bovenop een armp en
+	Free: Pattern=twee, Pattern=een, Pattern=en, Pattern=één, Pattern=dit zijn
+	Constrained: Pattern=zijn
+Turn ID=17| A | A : nog een armp
+	Free: Pattern=een
+	Constrained: 
+Turn ID=18| B | B : die Hallo zeggen robot
+	Free: Pattern=die, Pattern=robot
+	Constrained: 
+Turn ID=19| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=20| B | B : ja C
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=21| B | B : ja sorry ze hebben bij mij echt allemaal naamp krijgen
+	Free: Pattern=hebben, Pattern=ja
+	Constrained: 
+Turn ID=22| A | A : ja ik ook
+	Free: Pattern=ja, Pattern=ik
+	Constrained: 
+Turn ID=23| B | B : dit zijn zeggen maar het robo
+	Free: Pattern=dit zijn
+	Constrained: Pattern=zijn
+Turn ID=24| B | B : jou ballerina
+	Free: Pattern=ballerina
+	Constrained: 
+Turn ID=25| A | A : ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=26| A | A : nummer dertien
+	Free: 
+	Constrained: 
+Turn ID=27| A | A : ik hebben die ballerina of robotding
+	Free: Pattern=ik hebben, Pattern=die, Pattern=of, Pattern=ballerina
+	Constrained: Pattern=hebben, Pattern=ik
+Turn ID=28| B | B : ik zijn hem even kwijt
+	Free: Pattern=zijn, Pattern=ik
+	Constrained: 
+Turn ID=29| B | B : ah J
+	Free: Pattern=J
+	Constrained: 
+Turn ID=30| A | A : J
+	Free: Pattern=J
+	Constrained: 
+Turn ID=31| B | B : ik hebben de robot of de ballerina
+	Free: Pattern=ik hebben de robot, Pattern=de, Pattern=of, Pattern=ballerina
+	Constrained: Pattern=ik hebben, Pattern=de, Pattern=hebben, Pattern=ik, Pattern=robot
+Turn ID=32| A | A : nummer negen
+	Free: 
+	Constrained: 
+Turn ID=33| A | A : ik hebben de robot ballerina
+	Free: Pattern=ik hebben de robot, Pattern=ballerina
+	Constrained: Pattern=ik hebben, Pattern=de, Pattern=hebben, Pattern=ik, Pattern=robot
+Turn ID=34| B | B : N
+	Free: 
+	Constrained: 

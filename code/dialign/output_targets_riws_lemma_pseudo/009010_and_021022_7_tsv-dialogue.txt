@@ -1,0 +1,95 @@
+B|0| B: deze hebben eigenlijk ook een _soort_ plateau om zich heen maar _dat_ kunnen je niet heel goed zien _tenminste_ je kunnen niet echt _van_ bovenop _er_ op op opkijken 
+B|1| B: _er_ liggen dan ook een _soort_ _bak_ op twee poot _die_ uitsteken _en_ achterop hebben je _nog zo'n_ _zo'n_ krul ding bovenop 
+A|2| A: [en] [er] [er] _zitten_ [zo'n] [soort] [van] omgedraaide trapezium _zitten_ erop 
+A|3| A: [zo'n] piramide [en] [er] _zitten_ linksbof _zitten_ [nog zo'n] [soort] [van] haak 
+A|4| A: _ja_ oké _dat zijn_ zestien 
+B|5| B: [en] [dat] _bak_ [dat] lopen lopen af 
+B|6| B: _die_ poot _of_ zo 
+B|7| B: [ja] dan [zijn] [dat] P 
+A|8| A: _dit zijn_ [die] _met dat_ _met die_ plantenbak _met dat_ tafel 
+A|9| A: _met die_ omdraaien piramide erbovenop 
+B|10| B: [dit zijn] zeggen maar _weer die_ een [met dat] plateau [dat] redelijk bovenin [zitten] [die] twee dinget [die] [er] onderuit steken [en] [die] [soort] _bak_ [die] [er] op staat [en] dan hebben je achterop [nog zo'n] krullen aanhangsel 
+A|11| A: even zoeken zoeken zoeken _waar_ [zijn] [die] 
+A|12| A: [ja] 
+A|13| A: _dat zijn_ veertien 
+B|14| B: [zo'n] slurf [ja] [dat zijn] dan _de_ N [van] Nico 
+B|15| B: _dit zijn weer_ degeen [met dat] plateau [met die] poot [en] [waar] _die bak_ op staat [en] [die] slurf _of_ [dat] dinge [dat] staart _of_ zo [dat] aan _de_ achterkant 
+A|16| A: [dit zijn weer] [dat] tafel [dat] in [de] lucht hangen [met [die] bak] erop 
+A|17| A: [ja] 
+A|18| A: [dat zijn] tien 
+B|19| B: [ja] [en] [dat] arm dinge [nog] aan [de] achterkant 
+B|20| B: [ja] dan [zijn] [dat] D 
+A|21| A: [dit zijn [weer] die] tafel [die] opgetild worden 
+A|22| A: [of] [tenminste] [dat] [met die] plantenbakachtig 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : deze hebben eigenlijk ook een soort plateau om zich heen maar dat kunnen je niet heel goed zien tenminste je kunnen niet echt van bovenop er op op opkijken
+	Free: Pattern=dat, Pattern=soort, Pattern=tenminste, Pattern=er, Pattern=van
+	Constrained: 
+Turn ID=1| B | B : er liggen dan ook een soort bak op twee poot die uitsteken en achterop hebben je nog zo'n zo'n krul ding bovenop
+	Free: Pattern=soort, Pattern=zo'n, Pattern=bak, Pattern=die, Pattern=er, Pattern=en, Pattern=nog zo'n
+	Constrained: Pattern=nog, Pattern=zo'n
+Turn ID=2| A | A : en er er zitten zo'n soort van omgedraaide trapezium zitten erop
+	Free: Pattern=soort, Pattern=zo'n, Pattern=zitten, Pattern=er, Pattern=van, Pattern=en
+	Constrained: 
+Turn ID=3| A | A : zo'n piramide en er zitten linksbof zitten nog zo'n soort van haak
+	Free: Pattern=soort, Pattern=zo'n, Pattern=zitten, Pattern=er, Pattern=nog zo'n, Pattern=van, Pattern=en
+	Constrained: Pattern=nog, Pattern=zo'n
+Turn ID=4| A | A : ja oké dat zijn zestien
+	Free: Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=5| B | B : en dat bak dat lopen lopen af
+	Free: Pattern=en, Pattern=dat, Pattern=bak
+	Constrained: 
+Turn ID=6| B | B : die poot of zo
+	Free: Pattern=of, Pattern=die
+	Constrained: 
+Turn ID=7| B | B : ja dan zijn dat P
+	Free: Pattern=dat, Pattern=ja, Pattern=zijn
+	Constrained: 
+Turn ID=8| A | A : dit zijn die met dat met die plantenbak met dat tafel
+	Free: Pattern=dit zijn, Pattern=met die, Pattern=met dat, Pattern=die
+	Constrained: Pattern=dat, Pattern=die, Pattern=zijn
+Turn ID=9| A | A : met die omdraaien piramide erbovenop
+	Free: Pattern=met die
+	Constrained: Pattern=die
+Turn ID=10| B | B : dit zijn zeggen maar weer die een met dat plateau dat redelijk bovenin zitten die twee dinget die er onderuit steken en die soort bak die er op staat en dan hebben je achterop nog zo'n krullen aanhangsel
+	Free: Pattern=dat, Pattern=soort, Pattern=bak, Pattern=weer die, Pattern=met dat, Pattern=er, Pattern=en, Pattern=nog zo'n, Pattern=dit zijn, Pattern=die, Pattern=zitten
+	Constrained: Pattern=dat, Pattern=nog, Pattern=zo'n, Pattern=die, Pattern=zijn
+Turn ID=11| A | A : even zoeken zoeken zoeken waar zijn die
+	Free: Pattern=die, Pattern=zijn, Pattern=waar
+	Constrained: 
+Turn ID=12| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=13| A | A : dat zijn veertien
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=14| B | B : zo'n slurf ja dat zijn dan de N van Nico
+	Free: Pattern=dat zijn, Pattern=zo'n, Pattern=van, Pattern=de, Pattern=ja
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=15| B | B : dit zijn weer degeen met dat plateau met die poot en waar die bak op staat en die slurf of dat dinge dat staart of zo dat aan de achterkant
+	Free: Pattern=of, Pattern=de, Pattern=waar, Pattern=met dat, Pattern=die bak, Pattern=die, Pattern=en, Pattern=dit zijn weer, Pattern=dat, Pattern=met die
+	Constrained: Pattern=dat, Pattern=bak, Pattern=die, Pattern=zijn, Pattern=dit zijn
+Turn ID=16| A | A : dit zijn weer dat tafel dat in de lucht hangen met die bak erop
+	Free: Pattern=de, Pattern=die bak, Pattern=dit zijn weer, Pattern=dat, Pattern=met die
+	Constrained: Pattern=dit zijn, Pattern=bak, Pattern=zijn, Pattern=die
+Turn ID=17| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=18| A | A : dat zijn tien
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=19| B | B : ja en dat arm dinge nog aan de achterkant
+	Free: Pattern=dat, Pattern=nog, Pattern=en, Pattern=de, Pattern=ja
+	Constrained: 
+Turn ID=20| B | B : ja dan zijn dat D
+	Free: Pattern=dat, Pattern=ja, Pattern=zijn
+	Constrained: 
+Turn ID=21| A | A : dit zijn weer die tafel die opgetild worden
+	Free: Pattern=dit zijn weer, Pattern=weer die, Pattern=die
+	Constrained: Pattern=dit zijn, Pattern=zijn, Pattern=die
+Turn ID=22| A | A : of tenminste dat met die plantenbakachtig
+	Free: Pattern=met die, Pattern=dat, Pattern=of, Pattern=tenminste
+	Constrained: Pattern=die

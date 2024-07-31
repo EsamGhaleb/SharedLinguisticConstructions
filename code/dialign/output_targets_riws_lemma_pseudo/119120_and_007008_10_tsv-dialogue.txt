@@ -1,0 +1,135 @@
+A|0| A: oké _ik_ noemen deze draaiemmer 
+A|1| A: het _zijn_ _een_ het _zijn_ _die_ emmer voor _met_ _een_ _ja_ staaf erdoorheen _met_ twee rond knop _aan de_ zijkant 
+A|2| A: en dan ook nog zo'n zo'n paneel _aan de achterkant_ 
+A|3| A: tien 
+B|4| B: [ja] nou [die] _dat_ zien zitten allemaal [aan de achterkant] van _dat_ ding 
+B|5| B: of niet 
+B|6| B: [ik] [ik] vinden hem [een] beetje _op_ [een] honkbalknuppel lijken [die] achter [een] kop liggen 
+B|7| B: [ja] 
+B|8| B: _K_ 
+A|9| A: _met_ het _met_ [dat] paneel erachter 
+A|10| A: oké [ja] 
+A|11| A: welk _zijn_ het 
+A|12| A: B negen 
+B|13| B: nu hebben [ik] weer [die] [met] [die] [met] [die] hoe heten [dat] ? [met] [die] honkbalknuppel 
+A|14| A: draaiemmer degeen [de] emmer [met] [een] staaf erdoorheen [die] jij arm noemen 
+A|15| A: paneel [op] [de achterkant] 
+A|16| A: zeven 
+B|17| B: [ja] 
+B|18| B: honkbalknuppel 
+B|19| B: [ja] 
+B|20| B: even kijken [dat] [zijn] F 
+A|21| A: [ja] 
+A|22| A: [K] drie 
+B|23| B: [die] honkbalknuppel 
+B|24| B: hebben [ik] nu 
+A|25| A: oké jou arm [met] [dat] paneel [aan de achterkant] 
+A|26| A: veertien 
+A|27| A: [ja] 
+A|28| A: M vijf 
+B|29| B: [ja] 
+B|30| B: L 
+B|31| B: [die] honkbalknuppel 
+B|32| B: of elektrisch fiets 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : oké ik noemen deze draaiemmer
+	Free: Pattern=ik
+	Constrained: 
+Turn ID=1| A | A : het zijn een het zijn die emmer voor met een ja staaf erdoorheen met twee rond knop aan de zijkant
+	Free: Pattern=ja, Pattern=aan de, Pattern=een, Pattern=met, Pattern=die, Pattern=zijn
+	Constrained: Pattern=de
+Turn ID=2| A | A : en dan ook nog zo'n zo'n paneel aan de achterkant
+	Free: Pattern=aan de achterkant
+	Constrained: Pattern=de achterkant, Pattern=aan de, Pattern=de
+Turn ID=3| A | A : tien
+	Free: 
+	Constrained: 
+Turn ID=4| B | B : ja nou die dat zien zitten allemaal aan de achterkant van dat ding
+	Free: Pattern=aan de achterkant, Pattern=dat, Pattern=die, Pattern=ja
+	Constrained: Pattern=de achterkant, Pattern=aan de, Pattern=de
+Turn ID=5| B | B : of niet
+	Free: 
+	Constrained: 
+Turn ID=6| B | B : ik ik vinden hem een beetje op een honkbalknuppel lijken die achter een kop liggen
+	Free: Pattern=een, Pattern=die, Pattern=ik, Pattern=op
+	Constrained: 
+Turn ID=7| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=8| B | B : K
+	Free: Pattern=K
+	Constrained: 
+Turn ID=9| A | A : met het met dat paneel erachter
+	Free: Pattern=dat, Pattern=met
+	Constrained: 
+Turn ID=10| A | A : oké ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=11| A | A : welk zijn het
+	Free: Pattern=zijn
+	Constrained: 
+Turn ID=12| A | A : B negen
+	Free: 
+	Constrained: 
+Turn ID=13| B | B : nu hebben ik weer die met die met die hoe heten dat ? met die honkbalknuppel
+	Free: Pattern=dat, Pattern=die, Pattern=ik, Pattern=met
+	Constrained: 
+Turn ID=14| A | A : draaiemmer degeen de emmer met een staaf erdoorheen die jij arm noemen
+	Free: Pattern=een, Pattern=die, Pattern=de, Pattern=met
+	Constrained: 
+Turn ID=15| A | A : paneel op de achterkant
+	Free: Pattern=de achterkant, Pattern=op
+	Constrained: Pattern=de
+Turn ID=16| A | A : zeven
+	Free: 
+	Constrained: 
+Turn ID=17| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=18| B | B : honkbalknuppel
+	Free: 
+	Constrained: 
+Turn ID=19| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=20| B | B : even kijken dat zijn F
+	Free: Pattern=dat, Pattern=zijn
+	Constrained: 
+Turn ID=21| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=22| A | A : K drie
+	Free: Pattern=K
+	Constrained: 
+Turn ID=23| B | B : die honkbalknuppel
+	Free: Pattern=die
+	Constrained: 
+Turn ID=24| B | B : hebben ik nu
+	Free: Pattern=ik
+	Constrained: 
+Turn ID=25| A | A : oké jou arm met dat paneel aan de achterkant
+	Free: Pattern=aan de achterkant, Pattern=dat, Pattern=met
+	Constrained: Pattern=de achterkant, Pattern=aan de, Pattern=de
+Turn ID=26| A | A : veertien
+	Free: 
+	Constrained: 
+Turn ID=27| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=28| A | A : M vijf
+	Free: 
+	Constrained: 
+Turn ID=29| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=30| B | B : L
+	Free: 
+	Constrained: 
+Turn ID=31| B | B : die honkbalknuppel
+	Free: Pattern=die
+	Constrained: 
+Turn ID=32| B | B : of elektrisch fiets
+	Free: 
+	Constrained: 

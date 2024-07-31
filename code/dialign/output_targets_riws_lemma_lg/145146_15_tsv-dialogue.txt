@@ -1,0 +1,187 @@
+B|0| B: _oké_ 
+B|1| B: dit _zijn_ geen gezicht 
+B|2| B: maar je _hebben_ zeggen maar _dat_ vormp _wat_ ze allemaal _hebben_ 
+A|3| A: _ja_ 
+B|4| B: _en_ dan zitten er _nu_ _een_ vlak _een_ _plateau_ zeggen maar _en_ _dat_ zitten er dwars doorheen 
+A|5| A: _ja_ 
+A|6| A: _ja_ 
+B|7| B: _en_ dan _opsteken_ er iets naar voren _en twee_ spriet omhoog 
+A|8| A: _ja_ 
+A|9| A: _ja_ 
+B|10| B: weten je welk _ik_ bedoelen 
+A|11| A: _die_ [hebben] [ik] 
+A|12| A: _ja_ 
+A|13| A: [en] nog één aan de zijkant 
+A|14| A: [een] stuk _met_ _met_ [een] 
+B|15| B: _ja ja_ 
+B|16| B: [ja] [die] gaan zo 
+A|17| A: [ja ja] precies [ja ja] 
+B|18| B: _oké_ 
+A|19| A: [oké] [ja] _dat zijn_ zes 
+A|20| A: _ik hebben_ [nu] één _met_ [dat] vierkant [plateau] weer door _het kop_ heen 
+B|21| B: [ja ja] 
+A|22| A: [en twee] 
+B|23| B: [en twee] toef erop 
+A|24| A: [ja ja] 
+B|25| B: _oké dat zijn_ C 
+B|26| B: _oké _ik hebben_ [het_ kop] [en] dan [het] _plateau dat_ er zo doorheen gaan [en twee] voelspriet 
+A|27| A: [ja] 
+A|28| A: [ja] 
+A|29| A: even kijken waar [die] [zijn] [ja] [zijn] dertien 
+A|30| A: [oké ik hebben] [dat] [plateau dat] vierkant [plateau] [wat] weer door [dat] [kop] heen [opsteken] 
+B|31| B: [ja] 
+A|32| A: _met_ [twee] van [die] 
+B|33| B: [ja] 
+B|34| B: [oké] 
+B|35| B: [en twee] spriet 
+A|36| A: [ja] 
+B|37| B: _oké dat zijn_ J 
+B|38| B: _ik hebben die met_ [het] [plateau] erdoorheen 
+A|39| A: [ja] 
+A|40| A: [oké] nee 
+A|41| A: [ja] [oké dat zijn] nummer negen 
+A|42| A: [ik hebben het] gevoel [dat] [ik] de heel tijd nummer negen [hebben] 
+A|43| A: [ik hebben die met] [dat] vierkant [plateau] door [het kop] heen 
+B|44| B: [ja] 
+B|45| B: [dat zijn] N 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=1| B | B : dit zijn geen gezicht
+	Free: Pattern=zijn
+	Constrained: 
+Turn ID=2| B | B : maar je hebben zeggen maar dat vormp wat ze allemaal hebben
+	Free: Pattern=wat, Pattern=dat, Pattern=hebben
+	Constrained: 
+Turn ID=3| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=4| B | B : en dan zitten er nu een vlak een plateau zeggen maar en dat zitten er dwars doorheen
+	Free: Pattern=dat, Pattern=een, Pattern=nu, Pattern=plateau, Pattern=en
+	Constrained: 
+Turn ID=5| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=6| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=7| B | B : en dan opsteken er iets naar voren en twee spriet omhoog
+	Free: Pattern=en twee, Pattern=en, Pattern=opsteken
+	Constrained: Pattern=en, Pattern=twee
+Turn ID=8| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=9| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=10| B | B : weten je welk ik bedoelen
+	Free: Pattern=ik
+	Constrained: 
+Turn ID=11| A | A : die hebben ik
+	Free: Pattern=die, Pattern=ik, Pattern=hebben
+	Constrained: 
+Turn ID=12| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=13| A | A : en nog één aan de zijkant
+	Free: Pattern=en
+	Constrained: 
+Turn ID=14| A | A : een stuk met met een
+	Free: Pattern=met, Pattern=een
+	Constrained: 
+Turn ID=15| B | B : ja ja
+	Free: Pattern=ja ja
+	Constrained: Pattern=ja
+Turn ID=16| B | B : ja die gaan zo
+	Free: Pattern=die, Pattern=ja
+	Constrained: 
+Turn ID=17| A | A : ja ja precies ja ja
+	Free: Pattern=ja ja
+	Constrained: Pattern=ja
+Turn ID=18| B | B : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=19| A | A : oké ja dat zijn zes
+	Free: Pattern=dat zijn, Pattern=oké, Pattern=ja
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=20| A | A : ik hebben nu één met dat vierkant plateau weer door het kop heen
+	Free: Pattern=ik hebben, Pattern=dat, Pattern=het kop, Pattern=nu, Pattern=plateau, Pattern=met
+	Constrained: Pattern=het, Pattern=ik, Pattern=hebben, Pattern=kop
+Turn ID=21| B | B : ja ja
+	Free: Pattern=ja ja
+	Constrained: Pattern=ja
+Turn ID=22| A | A : en twee
+	Free: Pattern=en twee
+	Constrained: Pattern=en, Pattern=twee
+Turn ID=23| B | B : en twee toef erop
+	Free: Pattern=en twee
+	Constrained: Pattern=en, Pattern=twee
+Turn ID=24| A | A : ja ja
+	Free: Pattern=ja ja
+	Constrained: Pattern=ja
+Turn ID=25| B | B : oké dat zijn C
+	Free: Pattern=oké dat zijn
+	Constrained: Pattern=dat zijn, Pattern=oké, Pattern=zijn, Pattern=dat
+Turn ID=26| B | B : oké ik hebben het kop en dan het plateau dat er zo doorheen gaan en twee voelspriet
+	Free: Pattern=plateau dat, Pattern=oké ik hebben, Pattern=het kop, Pattern=ik hebben het, Pattern=het, Pattern=en, Pattern=en twee
+	Constrained: Pattern=ik hebben, Pattern=dat, Pattern=twee, Pattern=het, Pattern=hebben, Pattern=oké, Pattern=ik, Pattern=en, Pattern=kop, Pattern=plateau
+Turn ID=27| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=28| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=29| A | A : even kijken waar die zijn ja zijn dertien
+	Free: Pattern=zijn, Pattern=die, Pattern=ja
+	Constrained: 
+Turn ID=30| A | A : oké ik hebben dat plateau dat vierkant plateau wat weer door dat kop heen opsteken
+	Free: Pattern=dat, Pattern=plateau dat, Pattern=oké ik hebben, Pattern=opsteken, Pattern=wat, Pattern=kop, Pattern=plateau
+	Constrained: Pattern=ik hebben, Pattern=dat, Pattern=hebben, Pattern=plateau, Pattern=oké, Pattern=ik
+Turn ID=31| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=32| A | A : met twee van die
+	Free: Pattern=die, Pattern=twee, Pattern=met
+	Constrained: 
+Turn ID=33| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=34| B | B : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=35| B | B : en twee spriet
+	Free: Pattern=en twee
+	Constrained: Pattern=en, Pattern=twee
+Turn ID=36| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=37| B | B : oké dat zijn J
+	Free: Pattern=oké dat zijn
+	Constrained: Pattern=dat zijn, Pattern=oké, Pattern=zijn, Pattern=dat
+Turn ID=38| B | B : ik hebben die met het plateau erdoorheen
+	Free: Pattern=ik hebben die met, Pattern=het, Pattern=plateau
+	Constrained: Pattern=ik hebben, Pattern=hebben, Pattern=met, Pattern=die, Pattern=ik
+Turn ID=39| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=40| A | A : oké nee
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=41| A | A : ja oké dat zijn nummer negen
+	Free: Pattern=oké dat zijn, Pattern=ja
+	Constrained: Pattern=dat zijn, Pattern=oké, Pattern=zijn, Pattern=dat
+Turn ID=42| A | A : ik hebben het gevoel dat ik de heel tijd nummer negen hebben
+	Free: Pattern=ik hebben het, Pattern=ik, Pattern=dat, Pattern=hebben
+	Constrained: Pattern=het, Pattern=ik hebben, Pattern=ik, Pattern=hebben
+Turn ID=43| A | A : ik hebben die met dat vierkant plateau door het kop heen
+	Free: Pattern=ik hebben die met, Pattern=het kop, Pattern=plateau, Pattern=dat
+	Constrained: Pattern=ik hebben, Pattern=het, Pattern=hebben, Pattern=kop, Pattern=met, Pattern=die, Pattern=ik
+Turn ID=44| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=45| B | B : dat zijn N
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn, Pattern=dat

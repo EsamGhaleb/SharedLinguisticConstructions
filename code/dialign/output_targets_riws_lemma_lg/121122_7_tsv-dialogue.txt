@@ -1,0 +1,91 @@
+B|0| B: _ik_ hebben _het_ kop _en_ er lijken _een_ _soort_ bank bij te opzitten 
+A|1| A: _ja_ zo'n [soort] [ik] noemen [het] [een] _bumper_ 
+A|2| A: zo'n _bumper_ om zich heen 
+B|3| B: [ja] 
+A|4| A: _met een_ ook zo'n omgedraaide piramide erop 
+B|5| B: [ja] [met een] 
+A|6| A: oké 
+A|7| A: _dat zijn_ nummer zestien 
+A|8| A: _die_ [met] _die bumper_ [en] _die_ omgekeerd piramide 
+B|9| B: [ja] [dat zijn] P 
+B|10| B: [ik] hebben [met] [dat] bank [die bumper] 
+A|11| A: [met] [die bumper] [ja] 
+A|12| A: [dat zijn] nummer veertien 
+A|13| A: [die] [met] [die bumper] [en] [die] omgekeerd piramide 
+B|14| B: [ja] [dat zijn] N 
+B|15| B: _met de bumper_ 
+A|16| A: [met de bumper] 
+A|17| A: [dat zijn] nummer tien 
+A|18| A: [die] [met] [die bumper] [en] [die] piramide 
+A|19| A: omgekeeren 
+B|20| B: [ja] 
+B|21| B: [dat zijn] D 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : ik hebben het kop en er lijken een soort bank bij te opzitten
+	Free: Pattern=soort, Pattern=een, Pattern=het, Pattern=ik, Pattern=en
+	Constrained: 
+Turn ID=1| A | A : ja zo'n soort ik noemen het een bumper
+	Free: Pattern=soort, Pattern=ja, Pattern=een, Pattern=het, Pattern=bumper, Pattern=ik
+	Constrained: 
+Turn ID=2| A | A : zo'n bumper om zich heen
+	Free: Pattern=bumper
+	Constrained: 
+Turn ID=3| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=4| A | A : met een ook zo'n omgedraaide piramide erop
+	Free: Pattern=met een
+	Constrained: Pattern=met, Pattern=een
+Turn ID=5| B | B : ja met een
+	Free: Pattern=met een, Pattern=ja
+	Constrained: Pattern=met, Pattern=een
+Turn ID=6| A | A : oké
+	Free: 
+	Constrained: 
+Turn ID=7| A | A : dat zijn nummer zestien
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat
+Turn ID=8| A | A : die met die bumper en die omgekeerd piramide
+	Free: Pattern=die bumper, Pattern=en, Pattern=met, Pattern=die
+	Constrained: Pattern=bumper, Pattern=die
+Turn ID=9| B | B : ja dat zijn P
+	Free: Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=dat
+Turn ID=10| B | B : ik hebben met dat bank die bumper
+	Free: Pattern=die bumper, Pattern=ik, Pattern=met, Pattern=dat
+	Constrained: Pattern=bumper, Pattern=die
+Turn ID=11| A | A : met die bumper ja
+	Free: Pattern=die bumper, Pattern=ja, Pattern=met
+	Constrained: Pattern=bumper, Pattern=die
+Turn ID=12| A | A : dat zijn nummer veertien
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat
+Turn ID=13| A | A : die met die bumper en die omgekeerd piramide
+	Free: Pattern=die bumper, Pattern=en, Pattern=met, Pattern=die
+	Constrained: Pattern=bumper, Pattern=die
+Turn ID=14| B | B : ja dat zijn N
+	Free: Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=dat
+Turn ID=15| B | B : met de bumper
+	Free: Pattern=met de bumper
+	Constrained: Pattern=bumper, Pattern=met
+Turn ID=16| A | A : met de bumper
+	Free: Pattern=met de bumper
+	Constrained: Pattern=bumper, Pattern=met
+Turn ID=17| A | A : dat zijn nummer tien
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat
+Turn ID=18| A | A : die met die bumper en die piramide
+	Free: Pattern=die bumper, Pattern=en, Pattern=met, Pattern=die
+	Constrained: Pattern=bumper, Pattern=die
+Turn ID=19| A | A : omgekeeren
+	Free: 
+	Constrained: 
+Turn ID=20| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=21| B | B : dat zijn D
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat

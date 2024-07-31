@@ -1,0 +1,99 @@
+A|0| A: _oké_ nou _ik_ zien _dit_ _een_ beetje als _een soort_ van _neus en dan_ zitten _zo'n_ _ja_ rechthoekig staaf doorheen 
+B|1| B: _die_ 
+A|2| A: dus aan _de_ voorkant 
+B|3| B: [ja] 
+A|4| A: _en dan_ aan _het_ einde van [die] staaf zitten _een een_ rond 
+B|5| B: [ja] 
+B|6| B: [en] hij hebben ook nog [een [een] soort] lepeltje in [het] [ja] [oké] 
+A|7| A: [ja] [ja] precies [die] 
+B|8| B: [dan] _zijn_ [het] F 
+B|9| B: [dit] _zijn_ er één _met_ _een [neus_ en dan] [zo'n] spijker _erdoorheen en_ [een] tuu 
+A|10| A: [ja] 
+A|11| A: _ik_ weten wat je bedoelen _even_ kijken 
+A|12| A: [ja] _dat zijn_ nummer vijf 
+A|13| A: _dat zijn_ _die [een_ neus] _met die_ staaf [erdoorheen en] [zo'n] raar rond erdoor [ja] 
+B|14| B: [ja] 
+B|15| B: dinge op [de] 
+B|16| B: [dat zijn] A 
+B|17| B: [dit] [zijn] weer [die een] [met die] spijker door [de] [neus] 
+A|18| A: ah [dat zijn] nummer vijf 
+A|19| A: [dat zijn] [die] [neus] _met dat_ ding [erdoorheen] 
+B|20| B: [ja] 
+B|21| B: moeten [ik] [het] [even] goed zeggen [dat zijn] H 
+B|22| B: [dit] [zijn] [met dat] spijker door [de] [neus] 
+A|23| A: [dat zijn] nummer vijftien 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : oké nou ik zien dit een beetje als een soort van neus en dan zitten zo'n ja rechthoekig staaf doorheen
+	Free: Pattern=zo'n, Pattern=ja, Pattern=neus en dan, Pattern=een, Pattern=dit, Pattern=oké, Pattern=ik, Pattern=een soort
+	Constrained: Pattern=en dan, Pattern=dan, Pattern=een, Pattern=neus, Pattern=en
+Turn ID=1| B | B : die
+	Free: Pattern=die
+	Constrained: 
+Turn ID=2| A | A : dus aan de voorkant
+	Free: Pattern=de
+	Constrained: 
+Turn ID=3| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=4| A | A : en dan aan het einde van die staaf zitten een een rond
+	Free: Pattern=en dan, Pattern=een een, Pattern=die, Pattern=het
+	Constrained: Pattern=en, Pattern=dan, Pattern=een
+Turn ID=5| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=6| B | B : en hij hebben ook nog een een soort lepeltje in het ja oké
+	Free: Pattern=ja, Pattern=het, Pattern=een een, Pattern=oké, Pattern=een soort, Pattern=en
+	Constrained: Pattern=een
+Turn ID=7| A | A : ja ja precies die
+	Free: Pattern=ja, Pattern=die
+	Constrained: 
+Turn ID=8| B | B : dan zijn het F
+	Free: Pattern=dan, Pattern=zijn, Pattern=het
+	Constrained: 
+Turn ID=9| B | B : dit zijn er één met een neus en dan zo'n spijker erdoorheen en een tuu
+	Free: Pattern=een neus, Pattern=erdoorheen en, Pattern=zo'n, Pattern=neus en dan, Pattern=een, Pattern=dit, Pattern=met, Pattern=zijn
+	Constrained: Pattern=en dan, Pattern=dan, Pattern=een, Pattern=erdoorheen, Pattern=neus, Pattern=en
+Turn ID=10| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=11| A | A : ik weten wat je bedoelen even kijken
+	Free: Pattern=even, Pattern=ik
+	Constrained: 
+Turn ID=12| A | A : ja dat zijn nummer vijf
+	Free: Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=zijn
+Turn ID=13| A | A : dat zijn die een neus met die staaf erdoorheen en zo'n raar rond erdoor ja
+	Free: Pattern=erdoorheen en, Pattern=zo'n, Pattern=ja, Pattern=die een, Pattern=dat zijn, Pattern=met die, Pattern=een neus
+	Constrained: Pattern=een, Pattern=erdoorheen, Pattern=neus, Pattern=met, Pattern=die, Pattern=en, Pattern=zijn
+Turn ID=14| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=15| B | B : dinge op de
+	Free: Pattern=de
+	Constrained: 
+Turn ID=16| B | B : dat zijn A
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn
+Turn ID=17| B | B : dit zijn weer die een met die spijker door de neus
+	Free: Pattern=met die, Pattern=de, Pattern=dit, Pattern=neus, Pattern=die een, Pattern=zijn
+	Constrained: Pattern=met, Pattern=die, Pattern=een
+Turn ID=18| A | A : ah dat zijn nummer vijf
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn
+Turn ID=19| A | A : dat zijn die neus met dat ding erdoorheen
+	Free: Pattern=dat zijn, Pattern=erdoorheen, Pattern=die, Pattern=neus, Pattern=met dat
+	Constrained: Pattern=met, Pattern=zijn
+Turn ID=20| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=21| B | B : moeten ik het even goed zeggen dat zijn H
+	Free: Pattern=dat zijn, Pattern=even, Pattern=het, Pattern=ik
+	Constrained: Pattern=zijn
+Turn ID=22| B | B : dit zijn met dat spijker door de neus
+	Free: Pattern=de, Pattern=dit, Pattern=zijn, Pattern=neus, Pattern=met dat
+	Constrained: Pattern=met
+Turn ID=23| A | A : dat zijn nummer vijftien
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn

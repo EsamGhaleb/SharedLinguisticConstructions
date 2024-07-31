@@ -1,0 +1,139 @@
+B|0| B: _ja_ 
+B|1| B: _aan de_ zijkant 
+B|2| B: _ja_ 
+A|3| A: even kijken horen _dit_ figuur _hebben_ vier _uitsteeksel_ _één_ rechts _één_ links _één_ linksonder _en_ _één_ boven 
+B|4| B: _ja_ _oké_ dan _zijn_ het E 
+A|5| A: _en die_ boven _en_ linksonder [zijn] _een_ soort van pionnet 
+A|6| A: _en_ _ik_ kunnen hem misschien _nog_ makkelijk omschrijven [aan de] rechterkant _dat_ _uitsteeksel_ [zijn] eigenlijk _een_ _toren_ op [de] kop 
+A|7| A: dus _met_ [de] bovenkant van [de] _toren_ tegen [de] rechterkant [aan] 
+A|8| A: [ja] 
+A|9| A: linksonder 
+A|10| A: [ja] 
+B|11| B: _oké_ deze [hebben] [een] _dit zijn_ [die] plantje in [een] pot 
+B|12| B: [en] dan ook [één] [aan de] zijkant [en die] [toren] [aan de] voorkant 
+A|13| A: even kijken horen 
+A|14| A: [ja] [en] [de] [toren] daarvan op [de] kop [aan de] rechterkant 
+A|15| A: [ja] 
+A|16| A: _dat zijn_ nummer elf 
+B|17| B: [ja] [ja] [ja] [dat zijn] J 
+A|18| A: [dit zijn] [aan de] rechterkant streekt er [een] [toren] uit 
+A|19| A: [die] ertegenaan zitten [en] bovenop [en] linksonder zitten dezelfde figuur 
+A|20| A: [oké] 
+B|21| B: [ik] [hebben] diegene [met] [die] plant in [die] pot [en] dan ook [nog] [de] zo'n zelfde vorm [aan de] zijkant 
+B|22| B: [en] zo'n [toren] [aan de] voorkant 
+A|23| A: [ja] 
+A|24| A: [dat zijn] nummer negen 
+B|25| B: plant 
+B|26| B: [ja] [ja] [ja] [ja] [ja] 
+B|27| B: [dat zijn] B 
+A|28| A: [dit zijn] degeen [met] [de] [toren] [die] er rechts tegenaan steken [aan de] rechterkant 
+A|29| A: [met] [een] pionnetje erboven [en] linksonder 
+A|30| A: [ja] 
+B|31| B: [oké] [ik] [hebben] [die] plant in [die] pot [met] diezelfde [uitsteeksel] [en] [dat] [toren] 
+A|32| A: [ja] 
+A|33| A: nummer vier 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=1| B | B : aan de zijkant
+	Free: Pattern=aan de
+	Constrained: Pattern=de, Pattern=aan
+Turn ID=2| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=3| A | A : even kijken horen dit figuur hebben vier uitsteeksel één rechts één links één linksonder en één boven
+	Free: Pattern=uitsteeksel, Pattern=hebben, Pattern=dit, Pattern=en, Pattern=één
+	Constrained: 
+Turn ID=4| B | B : ja oké dan zijn het E
+	Free: Pattern=oké, Pattern=zijn, Pattern=ja
+	Constrained: 
+Turn ID=5| A | A : en die boven en linksonder zijn een soort van pionnet
+	Free: Pattern=en die, Pattern=en, Pattern=zijn, Pattern=een
+	Constrained: Pattern=die, Pattern=en
+Turn ID=6| A | A : en ik kunnen hem misschien nog makkelijk omschrijven aan de rechterkant dat uitsteeksel zijn eigenlijk een toren op de kop
+	Free: Pattern=toren, Pattern=dat, Pattern=nog, Pattern=de, Pattern=aan de, Pattern=uitsteeksel, Pattern=een, Pattern=ik, Pattern=en, Pattern=zijn
+	Constrained: Pattern=de, Pattern=aan
+Turn ID=7| A | A : dus met de bovenkant van de toren tegen de rechterkant aan
+	Free: Pattern=de, Pattern=aan, Pattern=toren, Pattern=met
+	Constrained: 
+Turn ID=8| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=9| A | A : linksonder
+	Free: 
+	Constrained: 
+Turn ID=10| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=11| B | B : oké deze hebben een dit zijn die plantje in een pot
+	Free: Pattern=een, Pattern=hebben, Pattern=die, Pattern=oké, Pattern=dit zijn
+	Constrained: Pattern=dit, Pattern=zijn
+Turn ID=12| B | B : en dan ook één aan de zijkant en die toren aan de voorkant
+	Free: Pattern=aan de, Pattern=en, Pattern=één, Pattern=en die, Pattern=toren
+	Constrained: Pattern=die, Pattern=en, Pattern=de, Pattern=aan
+Turn ID=13| A | A : even kijken horen
+	Free: 
+	Constrained: 
+Turn ID=14| A | A : ja en de toren daarvan op de kop aan de rechterkant
+	Free: Pattern=toren, Pattern=aan de, Pattern=en, Pattern=de, Pattern=ja
+	Constrained: Pattern=de, Pattern=aan
+Turn ID=15| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=16| A | A : dat zijn nummer elf
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=17| B | B : ja ja ja dat zijn J
+	Free: Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=18| A | A : dit zijn aan de rechterkant streekt er een toren uit
+	Free: Pattern=aan de, Pattern=dit zijn, Pattern=toren, Pattern=een
+	Constrained: Pattern=de, Pattern=dit, Pattern=zijn, Pattern=aan
+Turn ID=19| A | A : die ertegenaan zitten en bovenop en linksonder zitten dezelfde figuur
+	Free: Pattern=die, Pattern=en
+	Constrained: 
+Turn ID=20| A | A : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=21| B | B : ik hebben diegene met die plant in die pot en dan ook nog de zo'n zelfde vorm aan de zijkant
+	Free: Pattern=nog, Pattern=de, Pattern=aan de, Pattern=hebben, Pattern=met, Pattern=die, Pattern=ik, Pattern=en
+	Constrained: Pattern=de, Pattern=aan
+Turn ID=22| B | B : en zo'n toren aan de voorkant
+	Free: Pattern=aan de, Pattern=en, Pattern=toren
+	Constrained: Pattern=de, Pattern=aan
+Turn ID=23| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=24| A | A : dat zijn nummer negen
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=25| B | B : plant
+	Free: 
+	Constrained: 
+Turn ID=26| B | B : ja ja ja ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=27| B | B : dat zijn B
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=28| A | A : dit zijn degeen met de toren die er rechts tegenaan steken aan de rechterkant
+	Free: Pattern=toren, Pattern=de, Pattern=aan de, Pattern=met, Pattern=die, Pattern=dit zijn
+	Constrained: Pattern=de, Pattern=dit, Pattern=zijn, Pattern=aan
+Turn ID=29| A | A : met een pionnetje erboven en linksonder
+	Free: Pattern=en, Pattern=een, Pattern=met
+	Constrained: 
+Turn ID=30| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=31| B | B : oké ik hebben die plant in die pot met diezelfde uitsteeksel en dat toren
+	Free: Pattern=toren, Pattern=dat, Pattern=uitsteeksel, Pattern=hebben, Pattern=met, Pattern=die, Pattern=oké, Pattern=ik, Pattern=en
+	Constrained: 
+Turn ID=32| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=33| A | A : nummer vier
+	Free: 
+	Constrained: 

@@ -1,0 +1,87 @@
+A|0| A: _ja_ ik vinden _dit_ _een_ beetje lijken _op_ _een_ poppe _met_ _zo'n_ feestmuts zeggen maar 
+A|1| A: gewoon eigenlijk _dat_ noemen je _het_ 
+A|2| A: _ja_ hij _hebben_ linksonder _zo'n_ _rond_ _ja_ _en_ ik denken 
+A|3| A: _zo'n_ _ja_ raar uitstulpingding 
+B|4| B: [ja] 
+B|5| B: [en] dan [hebben] _die_ nog [zo'n] staart [en] nog [een] blok 
+B|6| B: [ja] oké dan _zijn_ [het] J 
+A|7| A: [ja] ik zien hem 
+A|8| A: nummer zes 
+A|9| A: _dit zijn die met_ de feestmuts 
+B|10| B: [dit zijn die met] [dat] piramide [op] [zijn] hoofd [die] [het] [rond] hoedje 
+B|11| B: [ja] 
+A|12| A: even zoeken waar [die] [zijn] 
+A|13| A: [ja] nummer tien 
+A|14| A: [het] feestmuts 
+B|15| B: [dat] [zijn] E 
+A|16| A: even kijken [ja] nummer tien 
+B|17| B: [dit zijn] [met] [dat] [met] [dat] hoed [dat] driehoekje [op] [zijn] hoofd 
+B|18| B: [ja] 
+B|19| B: [dat] [zijn] G 
+B|20| B: [dit zijn] [met] [het] [het] driehoekig hoed 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : ja ik vinden dit een beetje lijken op een poppe met zo'n feestmuts zeggen maar
+	Free: Pattern=zo'n, Pattern=ja, Pattern=op, Pattern=een, Pattern=dit, Pattern=met
+	Constrained: 
+Turn ID=1| A | A : gewoon eigenlijk dat noemen je het
+	Free: Pattern=het, Pattern=dat
+	Constrained: 
+Turn ID=2| A | A : ja hij hebben linksonder zo'n rond ja en ik denken
+	Free: Pattern=zo'n, Pattern=ja, Pattern=hebben, Pattern=en, Pattern=rond
+	Constrained: 
+Turn ID=3| A | A : zo'n ja raar uitstulpingding
+	Free: Pattern=ja, Pattern=zo'n
+	Constrained: 
+Turn ID=4| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=5| B | B : en dan hebben die nog zo'n staart en nog een blok
+	Free: Pattern=zo'n, Pattern=een, Pattern=hebben, Pattern=die, Pattern=en
+	Constrained: 
+Turn ID=6| B | B : ja oké dan zijn het J
+	Free: Pattern=ja, Pattern=het, Pattern=zijn
+	Constrained: 
+Turn ID=7| A | A : ja ik zien hem
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=8| A | A : nummer zes
+	Free: 
+	Constrained: 
+Turn ID=9| A | A : dit zijn die met de feestmuts
+	Free: Pattern=dit zijn die met
+	Constrained: Pattern=dit, Pattern=met, Pattern=die, Pattern=zijn, Pattern=dit zijn
+Turn ID=10| B | B : dit zijn die met dat piramide op zijn hoofd die het rond hoedje
+	Free: Pattern=dat, Pattern=op, Pattern=het, Pattern=dit zijn die met, Pattern=die, Pattern=rond, Pattern=zijn
+	Constrained: Pattern=dit, Pattern=met, Pattern=die, Pattern=zijn, Pattern=dit zijn
+Turn ID=11| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=12| A | A : even zoeken waar die zijn
+	Free: Pattern=zijn, Pattern=die
+	Constrained: 
+Turn ID=13| A | A : ja nummer tien
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=14| A | A : het feestmuts
+	Free: Pattern=het
+	Constrained: 
+Turn ID=15| B | B : dat zijn E
+	Free: Pattern=dat, Pattern=zijn
+	Constrained: 
+Turn ID=16| A | A : even kijken ja nummer tien
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=17| B | B : dit zijn met dat met dat hoed dat driehoekje op zijn hoofd
+	Free: Pattern=dat, Pattern=op, Pattern=met, Pattern=zijn, Pattern=dit zijn
+	Constrained: Pattern=zijn, Pattern=dit
+Turn ID=18| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=19| B | B : dat zijn G
+	Free: Pattern=dat, Pattern=zijn
+	Constrained: 
+Turn ID=20| B | B : dit zijn met het het driehoekig hoed
+	Free: Pattern=dit zijn, Pattern=het, Pattern=met
+	Constrained: Pattern=zijn, Pattern=dit

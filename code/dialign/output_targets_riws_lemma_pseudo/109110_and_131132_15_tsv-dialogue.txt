@@ -1,0 +1,187 @@
+A|0| A: o 
+A|1| A: _met dat_ _met _die_ _met_ die_ glijbaan 
+A|2| A: lijken of _een_ _ja_ 
+A|3| A: _ja_ _ja_ _ja _die_ die_ kennen _ik_ _wel_ _ja_ 
+A|4| A: _dat zijn_ mijn favoriet 
+A|5| A: _nee_ o _ik_ zullen het _zeggen_ _ja_ zes 
+B|6| B: [dat] gaan best [wel] soepel 
+B|7| B: oké _maar_ nu _hebben_ [ik] weer [een] vierkan 
+B|8| B: nu _hebben_ [ik] [ja] hoe _noemen_ _je_ [dat] ? [dat] beker [zeggen] _maar_ en _er_ _zitten_ halverwege _zo'n_ vierkant plaat _doorheen_ 
+B|9| B: [dat zijn] _er_ _maar_ één toch [die] [dat] _hebben_ 
+B|10| B: en _er_ _zitten_ _zo_ twee van [die] poo _in_ 
+B|11| B: [ja] dus _hij_ staan _niet_ _op_ [die] plaat _maar_ _er_ _er_ staan [een] plaat [zeggen] _maar_ horizontaal en daar _zitten_ [die] soort van half _zo_ _in_ 
+B|12| B: [ja] 
+B|13| B: [ja] 
+B|14| B: _dan_ denken [ik] [dat] we dezelfde _hebben_ 
+B|15| B: [ja] 
+B|16| B: [nee] [dat zijn] [zeggen] _maar_ [een] [ik] denken [dat] _jij een_ ander _in_ _je_ hoofd _hebben_ 
+B|17| B: deze _hebben_ ook _zo'n_ plaat _maar_ _hij_ [zijn] [zeggen] _maar_ helemaal vierkant en daar _zitten_ [die die] _zitten_ laag _op_ [dat] ding 
+B|18| B: [ja] 
+B|19| B: [ja] 
+B|20| B: echt [wel] [zeggen] _maar_ onderste één drie ongeveer en _dan_ _zitten_ _er_ twee van [die] piefjes [die] _er_ _zo_ uit steken 
+B|21| B: [ja] 
+A|22| A: o [die] [een] _met die_ glijbaan [die] [jij een] fabriek [noemen] 
+A|23| A: _met dat_ platvorm [er] recht [doorheen] [ja] 
+B|24| B: oké [ja] [dat zijn] [ja] en _dan_ [met die] twee uitsteekselt 
+B|25| B: [ja] 
+B|26| B: oké [dat zijn] C 
+A|27| A: [ja] 
+A|28| A: dertien 
+B|29| B: oké dit [zijn] [die met] [ja die] ballerina [dat] _je_ net [zeggen] [met dat] [dat] plateau _zo_ _onderin_ en _dan_ [die] twee antenne 
+B|30| B: ze 
+A|31| A: [die] glijbaan fabriek 
+A|32| A: _bij mij_ [zitten] [hij] [in] ieder geval [onderin] 
+B|33| B: oké even kijken waar [die] [zijn] J 
+A|34| A: ok 
+A|35| A: [ja] o negen 
+B|36| B: [ja] [bij mij] _niet_ dus _dan_ [zijn] [dat] rood 
+B|37| B: dit [zijn] [die] ballerina 
+A|38| A: [die] glijbaan fabriek 
+A|39| A: of stofzuiger of [zo] 
+A|40| A: [hebben] [je] [wel] eens [zo'n] Henry Stofzuiger zien 
+A|41| A: [zo'n] Henry Stofzuiger 
+A|42| A: [nee] laten [maar] [dan] kennen [je] hem [niet] [nee] 
+A|43| A: [hij] lijken [er] heel veel [op] 
+A|44| A: [nee] [nee] [niet] per se 
+B|45| B: [die] [zijn] [bij mij] N 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : o
+	Free: 
+	Constrained: 
+Turn ID=1| A | A : met dat met die met die glijbaan
+	Free: Pattern=die met, Pattern=met die, Pattern=met dat
+	Constrained: Pattern=dat, Pattern=die
+Turn ID=2| A | A : lijken of een ja
+	Free: Pattern=een, Pattern=ja
+	Constrained: 
+Turn ID=3| A | A : ja ja ja die die kennen ik wel ja
+	Free: Pattern=ja die, Pattern=ja, Pattern=wel, Pattern=die die, Pattern=ik
+	Constrained: Pattern=ja, Pattern=die
+Turn ID=4| A | A : dat zijn mijn favoriet
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=5| A | A : nee o ik zullen het zeggen ja zes
+	Free: Pattern=nee, Pattern=ja, Pattern=zeggen, Pattern=ik
+	Constrained: 
+Turn ID=6| B | B : dat gaan best wel soepel
+	Free: Pattern=dat, Pattern=wel
+	Constrained: 
+Turn ID=7| B | B : oké maar nu hebben ik weer een vierkan
+	Free: Pattern=een, Pattern=hebben, Pattern=maar, Pattern=ik
+	Constrained: 
+Turn ID=8| B | B : nu hebben ik ja hoe noemen je dat ? dat beker zeggen maar en er zitten halverwege zo'n vierkant plaat doorheen
+	Free: Pattern=dat, Pattern=zo'n, Pattern=hebben, Pattern=zeggen, Pattern=zitten, Pattern=er, Pattern=ik, Pattern=maar, Pattern=je, Pattern=noemen, Pattern=ja, Pattern=doorheen
+	Constrained: 
+Turn ID=9| B | B : dat zijn er maar één toch die dat hebben
+	Free: Pattern=hebben, Pattern=die, Pattern=er, Pattern=maar, Pattern=dat, Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=10| B | B : en er zitten zo twee van die poo in
+	Free: Pattern=zo, Pattern=in, Pattern=er, Pattern=die, Pattern=zitten
+	Constrained: 
+Turn ID=11| B | B : ja dus hij staan niet op die plaat maar er er staan een plaat zeggen maar horizontaal en daar zitten die soort van half zo in
+	Free: Pattern=ja, Pattern=op, Pattern=niet, Pattern=een, Pattern=in, Pattern=er, Pattern=maar, Pattern=zeggen, Pattern=hij, Pattern=zo, Pattern=die, Pattern=zitten
+	Constrained: 
+Turn ID=12| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=13| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=14| B | B : dan denken ik dat we dezelfde hebben
+	Free: Pattern=dat, Pattern=dan, Pattern=hebben, Pattern=ik
+	Constrained: 
+Turn ID=15| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=16| B | B : nee dat zijn zeggen maar een ik denken dat jij een ander in je hoofd hebben
+	Free: Pattern=jij een, Pattern=een, Pattern=nee, Pattern=hebben, Pattern=zeggen, Pattern=in, Pattern=ik, Pattern=maar, Pattern=je, Pattern=dat, Pattern=dat zijn
+	Constrained: Pattern=een, Pattern=dat, Pattern=zijn
+Turn ID=17| B | B : deze hebben ook zo'n plaat maar hij zijn zeggen maar helemaal vierkant en daar zitten die die zitten laag op dat ding
+	Free: Pattern=dat, Pattern=zo'n, Pattern=op, Pattern=hebben, Pattern=zitten, Pattern=die die, Pattern=zeggen, Pattern=hij, Pattern=zijn, Pattern=maar
+	Constrained: Pattern=die
+Turn ID=18| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=19| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=20| B | B : echt wel zeggen maar onderste één drie ongeveer en dan zitten er twee van die piefjes die er zo uit steken
+	Free: Pattern=dan, Pattern=wel, Pattern=er, Pattern=maar, Pattern=zeggen, Pattern=zo, Pattern=die, Pattern=zitten
+	Constrained: 
+Turn ID=21| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=22| A | A : o die een met die glijbaan die jij een fabriek noemen
+	Free: Pattern=met die, Pattern=jij een, Pattern=een, Pattern=die, Pattern=noemen
+	Constrained: Pattern=een, Pattern=die
+Turn ID=23| A | A : met dat platvorm er recht doorheen ja
+	Free: Pattern=met dat, Pattern=doorheen, Pattern=er, Pattern=ja
+	Constrained: Pattern=dat
+Turn ID=24| B | B : oké ja dat zijn ja en dan met die twee uitsteekselt
+	Free: Pattern=dat zijn, Pattern=met die, Pattern=dan, Pattern=ja
+	Constrained: Pattern=dat, Pattern=zijn, Pattern=die
+Turn ID=25| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=26| B | B : oké dat zijn C
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=27| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=28| A | A : dertien
+	Free: 
+	Constrained: 
+Turn ID=29| B | B : oké dit zijn die met ja die ballerina dat je net zeggen met dat dat plateau zo onderin en dan die twee antenne
+	Free: Pattern=dat, Pattern=ja die, Pattern=dan, Pattern=onderin, Pattern=die met, Pattern=met dat, Pattern=die, Pattern=zijn, Pattern=je, Pattern=zeggen, Pattern=zo
+	Constrained: Pattern=dat, Pattern=ja, Pattern=die
+Turn ID=30| B | B : ze
+	Free: 
+	Constrained: 
+Turn ID=31| A | A : die glijbaan fabriek
+	Free: Pattern=die
+	Constrained: 
+Turn ID=32| A | A : bij mij zitten hij in ieder geval onderin
+	Free: Pattern=onderin, Pattern=hij, Pattern=in, Pattern=zitten, Pattern=bij mij
+	Constrained: 
+Turn ID=33| B | B : oké even kijken waar die zijn J
+	Free: Pattern=zijn, Pattern=die
+	Constrained: 
+Turn ID=34| A | A : ok
+	Free: 
+	Constrained: 
+Turn ID=35| A | A : ja o negen
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=36| B | B : ja bij mij niet dus dan zijn dat rood
+	Free: Pattern=dat, Pattern=ja, Pattern=zijn, Pattern=bij mij, Pattern=niet, Pattern=dan
+	Constrained: 
+Turn ID=37| B | B : dit zijn die ballerina
+	Free: Pattern=zijn, Pattern=die
+	Constrained: 
+Turn ID=38| A | A : die glijbaan fabriek
+	Free: Pattern=die
+	Constrained: 
+Turn ID=39| A | A : of stofzuiger of zo
+	Free: Pattern=zo
+	Constrained: 
+Turn ID=40| A | A : hebben je wel eens zo'n Henry Stofzuiger zien
+	Free: Pattern=wel, Pattern=hebben, Pattern=zo'n, Pattern=je
+	Constrained: 
+Turn ID=41| A | A : zo'n Henry Stofzuiger
+	Free: Pattern=zo'n
+	Constrained: 
+Turn ID=42| A | A : nee laten maar dan kennen je hem niet nee
+	Free: Pattern=nee, Pattern=maar, Pattern=je, Pattern=niet, Pattern=dan
+	Constrained: 
+Turn ID=43| A | A : hij lijken er heel veel op
+	Free: Pattern=er, Pattern=hij, Pattern=op
+	Constrained: 
+Turn ID=44| A | A : nee nee niet per se
+	Free: Pattern=niet, Pattern=nee
+	Constrained: 
+Turn ID=45| B | B : die zijn bij mij N
+	Free: Pattern=bij mij, Pattern=zijn, Pattern=die
+	Constrained: 

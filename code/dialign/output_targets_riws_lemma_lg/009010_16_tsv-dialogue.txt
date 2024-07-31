@@ -1,0 +1,287 @@
+A|0| A: deze _vinden_ _ik_ heel raar 
+A|1| A: deze _hebben_ namelijk _een_ soort _van_ telescoopachtig _een_ soort _van die_ blokachtig _trechter_ 
+A|2| A: _die_ _zitten_ _aan de rechterkant_ 
+A|3| A: _en_ _dan_ _zitten_ _er_ _een_ staaf _zitten_ _er_ vanuit boven _zitten_ erin 
+A|4| A: maar vanuit _links_ _zitten_ _er_ _ook_ in 
+B|5| B: [er] [zitten] [een] [trechter] [aan de rechterkant] 
+A|6| A: _ja_ 
+B|7| B: _zijn_ _het_ iets _dat_ zo naar beneden gaan 
+B|8| B: zo 
+A|9| A: _ja dat_ [zitten] [aan de] achterkant 
+A|10| A: soort _van_ _links_ 
+A|11| A: _ik zitten_ even na _te_ deze _vinden_ _ik_ _ook_ heel heel raar 
+A|12| A: _het zijn_ [een] beetje [een] [een] [een] blokkig slurf achtig 
+A|13| A: _en_ _dan_ _hebben_ _je_ nog _twee_ 
+B|14| B: [zijn] [het] zo allemaal [van _die] steeds klein worden_ _blok die_ [dan] zo _één_ geheel _worden_ [aan de rechterkant] 
+A|15| A: _ja_ 
+A|16| A: _ja_ 
+B|17| B: _oké_ [ik zitten] naar _een ander_ [te] kijken 
+A|18| A: _je_ _hebben_ nog _zo'n_ [ander] plaat _en_ [die] _hebben_ [er] _twee_ maar deze _hebben_ [er] [dan] [één] 
+B|19| B: [één] _wat_ 
+A|20| A: _ja_ [één] _zo'n_ _je_ _hebben_ zeggen maar [dan] [die] soort [van] slurf _die met_ [van _die] [blok_ [die] steeds klein worden] 
+A|21| A: _en_ [er] [zijn] [een ander] [die] _hebben_ [er] _twee_ daarvan 
+A|22| A: _twee_ [van _die] [blok_ [die] steeds klein worden] 
+B|23| B: [ja] [ja] [ja] 
+A|24| A: maar _dit zijn die_ [ander] dus _met_ [één] _en_ [dan] vanuit [de] bovenkant komen [er] [dan] [een] 
+B|25| B: [ja] 
+B|26| B: _buttplug_ 
+A|27| A: [ja] 
+A|28| A: _en_ [van] [de] zijkant _ook_ [ja] 
+B|29| B: [en] [links] [ook] 
+B|30| B: [ja] 
+A|31| A: [oké] 
+B|32| B: _oké dat zijn_ E 
+B|33| B: [dit zijn [die] met] [de] veel _buttplug_ 
+A|34| A: wachten even hoor 
+B|35| B: [en] [met] [de] [de] [steeds klein worden] [blok] 
+A|36| A: [die] soort [van] stethoscoopachtig 
+B|37| B: [vinden] [je] [dat] op [een] _stethoscoop_ 
+A|38| A: [ja] 
+A|39| A: [stethoscoop] telescoop bedoelen [ik] 
+A|40| A: [stethoscoop] [zijn] _wel_ [wat] [ander] 
+B|41| B: [ja] nee 
+A|42| A: _zo'n_ _zo'n_ of _zo'n oud camera_ 
+B|43| B: [ik] inzien _gewoon_ 
+B|44| B: nee 
+B|45| B: [ja] 
+A|46| A: vroeg [met] _zo'n_ deken 
+B|47| B: [die blok] [ja] [ja dat] lijken [er] [wel] op 
+B|48| B: [dat] lijken op [zo'n oud camera] [ja] 
+A|49| A: [ja] 
+B|50| B: [ja] 
+A|51| A: [ja] [oké dat zijn] elf 
+B|52| B: [ja] 
+A|53| A: [dit zijn] _weer die_ [die] [die] [oud camera] [met] [die] _twee buttplug_ 
+B|54| B: ze blijven hem _gewoon_ geven 
+B|55| B: [oké dat zijn] J 
+A|56| A: we _hebben_ [het] [ook] [gewoon] kegel kunnen noemen maar goed 
+B|57| B: nee [het zijn] [buttplug] 
+B|58| B: [ik] [hebben] [weer [die] met] [de] [twee buttplug] 
+A|59| A: [met] [die] [oud camera] [ook] [weer] 
+B|60| B: [ja] 
+A|61| A: [dat zijn] negen 
+A|62| A: [dit zijn] [weer die] [oud camera] [met] [twee] [van die] [buttplug] 
+B|63| B: waar [zijn] [je] 
+A|64| A: [en] [die] slurf 
+B|65| B: waar [zijn die] 
+B|66| B: [ja [dat] zijn] B 
+B|67| B: [dit zijn [die] met] [de] [twee buttplug] 
+A|68| A: [en] [die] [oud camera] 
+B|69| B: [ja] 
+A|70| A: [zijn] vier 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : deze vinden ik heel raar
+	Free: Pattern=ik, Pattern=vinden
+	Constrained: 
+Turn ID=1| A | A : deze hebben namelijk een soort van telescoopachtig een soort van die blokachtig trechter
+	Free: Pattern=trechter, Pattern=een, Pattern=hebben, Pattern=van, Pattern=van die
+	Constrained: Pattern=die, Pattern=van
+Turn ID=2| A | A : die zitten aan de rechterkant
+	Free: Pattern=aan de rechterkant, Pattern=die, Pattern=zitten
+	Constrained: Pattern=aan de, Pattern=de
+Turn ID=3| A | A : en dan zitten er een staaf zitten er vanuit boven zitten erin
+	Free: Pattern=dan, Pattern=een, Pattern=zitten, Pattern=er, Pattern=en
+	Constrained: 
+Turn ID=4| A | A : maar vanuit links zitten er ook in
+	Free: Pattern=ook, Pattern=zitten, Pattern=links, Pattern=er
+	Constrained: 
+Turn ID=5| B | B : er zitten een trechter aan de rechterkant
+	Free: Pattern=trechter, Pattern=een, Pattern=er, Pattern=aan de rechterkant, Pattern=zitten
+	Constrained: Pattern=aan de, Pattern=de
+Turn ID=6| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=7| B | B : zijn het iets dat zo naar beneden gaan
+	Free: Pattern=het, Pattern=zijn, Pattern=dat
+	Constrained: 
+Turn ID=8| B | B : zo
+	Free: 
+	Constrained: 
+Turn ID=9| A | A : ja dat zitten aan de achterkant
+	Free: Pattern=aan de, Pattern=ja dat, Pattern=zitten
+	Constrained: Pattern=de, Pattern=ja, Pattern=dat
+Turn ID=10| A | A : soort van links
+	Free: Pattern=links, Pattern=van
+	Constrained: 
+Turn ID=11| A | A : ik zitten even na te deze vinden ik ook heel heel raar
+	Free: Pattern=ik zitten, Pattern=vinden, Pattern=ook, Pattern=te, Pattern=ik
+	Constrained: Pattern=ik, Pattern=zitten
+Turn ID=12| A | A : het zijn een beetje een een een blokkig slurf achtig
+	Free: Pattern=het zijn, Pattern=een
+	Constrained: Pattern=het, Pattern=zijn
+Turn ID=13| A | A : en dan hebben je nog twee
+	Free: Pattern=twee, Pattern=dan, Pattern=hebben, Pattern=en, Pattern=je
+	Constrained: 
+Turn ID=14| B | B : zijn het zo allemaal van die steeds klein worden blok die dan zo één geheel worden aan de rechterkant
+	Free: Pattern=worden, Pattern=dan, Pattern=het, Pattern=blok die, Pattern=aan de rechterkant, Pattern=van die, Pattern=zijn, Pattern=één, Pattern=die steeds klein worden
+	Constrained: Pattern=steeds klein worden, Pattern=de, Pattern=die, Pattern=van, Pattern=blok, Pattern=aan de, Pattern=worden
+Turn ID=15| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=16| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=17| B | B : oké ik zitten naar een ander te kijken
+	Free: Pattern=ik zitten, Pattern=een ander, Pattern=te, Pattern=oké
+	Constrained: Pattern=ik, Pattern=een, Pattern=ander, Pattern=zitten
+Turn ID=18| A | A : je hebben nog zo'n ander plaat en die hebben er twee maar deze hebben er dan één
+	Free: Pattern=dan, Pattern=hebben, Pattern=die, Pattern=er, Pattern=ander, Pattern=en, Pattern=zo'n, Pattern=twee, Pattern=één, Pattern=je
+	Constrained: 
+Turn ID=19| B | B : één wat
+	Free: Pattern=één, Pattern=wat
+	Constrained: 
+Turn ID=20| A | A : ja één zo'n je hebben zeggen maar dan die soort van slurf die met van die blok die steeds klein worden
+	Free: Pattern=ja, Pattern=dan, Pattern=hebben, Pattern=blok die, Pattern=die met, Pattern=die, Pattern=die steeds klein worden, Pattern=zo'n, Pattern=die blok, Pattern=van, Pattern=van die, Pattern=één, Pattern=je
+	Constrained: Pattern=steeds klein worden, Pattern=worden, Pattern=met, Pattern=die, Pattern=van, Pattern=blok
+Turn ID=21| A | A : en er zijn een ander die hebben er twee daarvan
+	Free: Pattern=hebben, Pattern=die, Pattern=er, Pattern=en, Pattern=zijn, Pattern=twee, Pattern=een ander
+	Constrained: Pattern=een, Pattern=ander
+Turn ID=22| A | A : twee van die blok die steeds klein worden
+	Free: Pattern=blok die, Pattern=van die, Pattern=die steeds klein worden, Pattern=twee, Pattern=die blok
+	Constrained: Pattern=steeds klein worden, Pattern=worden, Pattern=die, Pattern=van, Pattern=blok
+Turn ID=23| B | B : ja ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=24| A | A : maar dit zijn die ander dus met één en dan vanuit de bovenkant komen er dan een
+	Free: Pattern=dit zijn die, Pattern=de, Pattern=dan, Pattern=een, Pattern=met, Pattern=er, Pattern=ander, Pattern=en, Pattern=één
+	Constrained: Pattern=zijn die, Pattern=dit zijn, Pattern=die, Pattern=zijn
+Turn ID=25| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=26| B | B : buttplug
+	Free: Pattern=buttplug
+	Constrained: 
+Turn ID=27| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=28| A | A : en van de zijkant ook ja
+	Free: Pattern=ook, Pattern=de, Pattern=ja, Pattern=van, Pattern=en
+	Constrained: 
+Turn ID=29| B | B : en links ook
+	Free: Pattern=ook, Pattern=en, Pattern=links
+	Constrained: 
+Turn ID=30| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=31| A | A : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=32| B | B : oké dat zijn E
+	Free: Pattern=oké dat zijn
+	Constrained: Pattern=dat zijn, Pattern=oké, Pattern=zijn, Pattern=dat
+Turn ID=33| B | B : dit zijn die met de veel buttplug
+	Free: Pattern=dit zijn die, Pattern=die met, Pattern=de, Pattern=buttplug
+	Constrained: Pattern=zijn die, Pattern=met, Pattern=die, Pattern=zijn, Pattern=dit zijn
+Turn ID=34| A | A : wachten even hoor
+	Free: 
+	Constrained: 
+Turn ID=35| B | B : en met de de steeds klein worden blok
+	Free: Pattern=steeds klein worden, Pattern=de, Pattern=met, Pattern=en, Pattern=blok
+	Constrained: Pattern=worden
+Turn ID=36| A | A : die soort van stethoscoopachtig
+	Free: Pattern=die, Pattern=van
+	Constrained: 
+Turn ID=37| B | B : vinden je dat op een stethoscoop
+	Free: Pattern=dat, Pattern=vinden, Pattern=een, Pattern=stethoscoop, Pattern=je
+	Constrained: 
+Turn ID=38| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=39| A | A : stethoscoop telescoop bedoelen ik
+	Free: Pattern=ik, Pattern=stethoscoop
+	Constrained: 
+Turn ID=40| A | A : stethoscoop zijn wel wat ander
+	Free: Pattern=wel, Pattern=stethoscoop, Pattern=wat, Pattern=ander, Pattern=zijn
+	Constrained: 
+Turn ID=41| B | B : ja nee
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=42| A | A : zo'n zo'n of zo'n oud camera
+	Free: Pattern=zo'n oud camera, Pattern=zo'n
+	Constrained: Pattern=oud camera, Pattern=zo'n
+Turn ID=43| B | B : ik inzien gewoon
+	Free: Pattern=ik, Pattern=gewoon
+	Constrained: 
+Turn ID=44| B | B : nee
+	Free: 
+	Constrained: 
+Turn ID=45| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=46| A | A : vroeg met zo'n deken
+	Free: Pattern=zo'n, Pattern=met
+	Constrained: 
+Turn ID=47| B | B : die blok ja ja dat lijken er wel op
+	Free: Pattern=die blok, Pattern=ja, Pattern=wel, Pattern=er, Pattern=ja dat
+	Constrained: Pattern=blok, Pattern=die, Pattern=ja, Pattern=dat
+Turn ID=48| B | B : dat lijken op zo'n oud camera ja
+	Free: Pattern=zo'n oud camera, Pattern=ja, Pattern=dat
+	Constrained: Pattern=oud camera, Pattern=zo'n
+Turn ID=49| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=50| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=51| A | A : ja oké dat zijn elf
+	Free: Pattern=oké dat zijn, Pattern=ja
+	Constrained: Pattern=dat zijn, Pattern=oké, Pattern=zijn, Pattern=dat
+Turn ID=52| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=53| A | A : dit zijn weer die die die oud camera met die twee buttplug
+	Free: Pattern=oud camera, Pattern=weer die, Pattern=met, Pattern=die, Pattern=twee buttplug, Pattern=dit zijn
+	Constrained: Pattern=twee, Pattern=buttplug, Pattern=die, Pattern=zijn, Pattern=weer
+Turn ID=54| B | B : ze blijven hem gewoon geven
+	Free: Pattern=gewoon
+	Constrained: 
+Turn ID=55| B | B : oké dat zijn J
+	Free: Pattern=oké dat zijn
+	Constrained: Pattern=dat zijn, Pattern=oké, Pattern=zijn, Pattern=dat
+Turn ID=56| A | A : we hebben het ook gewoon kegel kunnen noemen maar goed
+	Free: Pattern=ook, Pattern=gewoon, Pattern=hebben, Pattern=het
+	Constrained: 
+Turn ID=57| B | B : nee het zijn buttplug
+	Free: Pattern=het zijn, Pattern=buttplug
+	Constrained: Pattern=het, Pattern=zijn
+Turn ID=58| B | B : ik hebben weer die met de twee buttplug
+	Free: Pattern=de, Pattern=hebben, Pattern=weer die, Pattern=die met, Pattern=twee buttplug, Pattern=ik
+	Constrained: Pattern=twee, Pattern=buttplug, Pattern=met, Pattern=die, Pattern=weer
+Turn ID=59| A | A : met die oud camera ook weer
+	Free: Pattern=ook, Pattern=oud camera, Pattern=met, Pattern=die, Pattern=weer
+	Constrained: 
+Turn ID=60| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=61| A | A : dat zijn negen
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=62| A | A : dit zijn weer die oud camera met twee van die buttplug
+	Free: Pattern=twee, Pattern=oud camera, Pattern=met, Pattern=van die, Pattern=dit zijn, Pattern=buttplug, Pattern=weer die
+	Constrained: Pattern=weer, Pattern=zijn, Pattern=die, Pattern=van
+Turn ID=63| B | B : waar zijn je
+	Free: Pattern=je, Pattern=zijn
+	Constrained: 
+Turn ID=64| A | A : en die slurf
+	Free: Pattern=die, Pattern=en
+	Constrained: 
+Turn ID=65| B | B : waar zijn die
+	Free: Pattern=zijn die
+	Constrained: Pattern=die, Pattern=zijn
+Turn ID=66| B | B : ja dat zijn B
+	Free: Pattern=ja dat, Pattern=dat zijn
+	Constrained: Pattern=ja, Pattern=zijn, Pattern=dat
+Turn ID=67| B | B : dit zijn die met de twee buttplug
+	Free: Pattern=dit zijn die, Pattern=die met, Pattern=twee buttplug, Pattern=de
+	Constrained: Pattern=twee, Pattern=zijn die, Pattern=buttplug, Pattern=met, Pattern=die, Pattern=zijn, Pattern=dit zijn
+Turn ID=68| A | A : en die oud camera
+	Free: Pattern=oud camera, Pattern=die, Pattern=en
+	Constrained: 
+Turn ID=69| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=70| A | A : zijn vier
+	Free: Pattern=zijn
+	Constrained: 

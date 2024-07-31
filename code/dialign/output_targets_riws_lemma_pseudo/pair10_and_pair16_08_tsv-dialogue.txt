@@ -1,0 +1,143 @@
+A|0| A: deze _hebben_ _twee_ identiek poot zeggen maar _er_ zitten _er_ één _onder_ _en_ één _aan de rechterkant_ 
+A|1| A: _en_ daar _bovenop_ _staan_ _een_ ruitding _met_ _twee van die_ _van die_ sterrenkijker _aan de_ zijkant 
+A|2| A: _en_ _er_ steken nog _een_ stok uit _aan de_ voorkant 
+A|3| A: _ja_ 
+A|4| A: _ja ja_ kloppen 
+B|5| B: alright 
+B|6| B: [ja] 
+B|7| B: [ja ja] 
+B|8| B: [en] hij [hebben] ook [een] soort [van] neus toch 
+B|9| B: soort [van] 
+B|10| B: [ja] 
+B|11| B: [ja] dan denken ik _dat_ ik hem ook wel weten ik gaan voor k 
+A|12| A: [ja] waar _twee van die_ sterrenkijker uitkomen 
+A|13| A: [ja] _dat _zijn_ een_ 
+A|14| A: _dit zijn_ _die_ _met_ _die_ _twee_ poo één _onder_ [en] één rechts [en] _bovenop_ _zijn_ _die_ ruit _met_ _die_ _twee_ sterrenkijker erin 
+A|15| A: [ja] 
+B|16| B: okee [dit [zijn] een] kop waarbij je [bovenop] [een] [twee van die] legoblokantennet [hebben] 
+B|17| B: [met] [een] [een] vierkan wat [er] in het kop [staan] 
+B|18| B: [een] soort pinokkio-neus 
+B|19| B: [een] _haak_ naar [onder] uitsteken 
+B|20| B: [en] [aan de] ander kant [hebben] je ook [een] uitstekend _haak_ [aan de rechterkant] [zijn] [dat] 
+B|21| B: [ja] 
+B|22| B: [met] lego dinget [ja] 
+A|23| A: yes [met] [die] sterrenkijiker 
+A|24| A: [ja] tien 
+A|25| A: [dit zijn] [met] [die] [twee] [haak] [onder] [en] rechts [en] [die] plat vierkanut [bovenop] 
+A|26| A: [ja] _dat zijn_ acht 
+B|27| B: [ja] 
+B|28| B: [dat zijn] k 
+B|29| B: [ja] 
+B|30| B: ruitvorm [met] legoblok [aan de] bovenkant 
+B|31| B: pinokkio-neus 
+B|32| B: [ja] 
+B|33| B: [dat zijn] voor mij j 
+B|34| B: ruitvorm [met] legoblok erdoorheen 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : deze hebben twee identiek poot zeggen maar er zitten er één onder en één aan de rechterkant
+	Free: Pattern=twee, Pattern=hebben, Pattern=onder, Pattern=aan de rechterkant, Pattern=er, Pattern=en
+	Constrained: Pattern=aan de
+Turn ID=1| A | A : en daar bovenop staan een ruitding met twee van die van die sterrenkijker aan de zijkant
+	Free: Pattern=twee van die, Pattern=bovenop, Pattern=aan de, Pattern=met, Pattern=een, Pattern=staan, Pattern=van die, Pattern=en
+	Constrained: Pattern=twee, Pattern=die, Pattern=van, Pattern=van die
+Turn ID=2| A | A : en er steken nog een stok uit aan de voorkant
+	Free: Pattern=aan de, Pattern=er, Pattern=een, Pattern=en
+	Constrained: 
+Turn ID=3| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=4| A | A : ja ja kloppen
+	Free: Pattern=ja ja
+	Constrained: Pattern=ja
+Turn ID=5| B | B : alright
+	Free: 
+	Constrained: 
+Turn ID=6| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=7| B | B : ja ja
+	Free: Pattern=ja ja
+	Constrained: Pattern=ja
+Turn ID=8| B | B : en hij hebben ook een soort van neus toch
+	Free: Pattern=van, Pattern=hebben, Pattern=een, Pattern=en
+	Constrained: 
+Turn ID=9| B | B : soort van
+	Free: Pattern=van
+	Constrained: 
+Turn ID=10| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=11| B | B : ja dan denken ik dat ik hem ook wel weten ik gaan voor k
+	Free: Pattern=dat, Pattern=ja
+	Constrained: 
+Turn ID=12| A | A : ja waar twee van die sterrenkijker uitkomen
+	Free: Pattern=twee van die, Pattern=ja
+	Constrained: Pattern=van die, Pattern=van, Pattern=twee, Pattern=die
+Turn ID=13| A | A : ja dat zijn een
+	Free: Pattern=dat zijn, Pattern=zijn een, Pattern=ja
+	Constrained: Pattern=dat, Pattern=zijn, Pattern=een
+Turn ID=14| A | A : dit zijn die met die twee poo één onder en één rechts en bovenop zijn die ruit met die twee sterrenkijker erin
+	Free: Pattern=bovenop, Pattern=twee, Pattern=onder, Pattern=met, Pattern=die, Pattern=en, Pattern=zijn, Pattern=dit zijn
+	Constrained: Pattern=zijn
+Turn ID=15| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=16| B | B : okee dit zijn een kop waarbij je bovenop een twee van die legoblokantennet hebben
+	Free: Pattern=twee van die, Pattern=bovenop, Pattern=zijn een, Pattern=een, Pattern=hebben, Pattern=dit zijn
+	Constrained: Pattern=twee, Pattern=een, Pattern=die, Pattern=zijn, Pattern=van, Pattern=van die
+Turn ID=17| B | B : met een een vierkan wat er in het kop staan
+	Free: Pattern=staan, Pattern=met, Pattern=er, Pattern=een
+	Constrained: 
+Turn ID=18| B | B : een soort pinokkio-neus
+	Free: Pattern=een
+	Constrained: 
+Turn ID=19| B | B : een haak naar onder uitsteken
+	Free: Pattern=haak, Pattern=een, Pattern=onder
+	Constrained: 
+Turn ID=20| B | B : en aan de ander kant hebben je ook een uitstekend haak aan de rechterkant zijn dat
+	Free: Pattern=dat, Pattern=aan de, Pattern=een, Pattern=hebben, Pattern=aan de rechterkant, Pattern=en, Pattern=haak, Pattern=zijn
+	Constrained: Pattern=aan de
+Turn ID=21| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=22| B | B : met lego dinget ja
+	Free: Pattern=met, Pattern=ja
+	Constrained: 
+Turn ID=23| A | A : yes met die sterrenkijiker
+	Free: Pattern=die, Pattern=met
+	Constrained: 
+Turn ID=24| A | A : ja tien
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=25| A | A : dit zijn met die twee haak onder en rechts en die plat vierkanut bovenop
+	Free: Pattern=bovenop, Pattern=twee, Pattern=onder, Pattern=met, Pattern=die, Pattern=en, Pattern=haak, Pattern=dit zijn
+	Constrained: Pattern=zijn
+Turn ID=26| A | A : ja dat zijn acht
+	Free: Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=27| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=28| B | B : dat zijn k
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=29| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=30| B | B : ruitvorm met legoblok aan de bovenkant
+	Free: Pattern=aan de, Pattern=met
+	Constrained: 
+Turn ID=31| B | B : pinokkio-neus
+	Free: 
+	Constrained: 
+Turn ID=32| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=33| B | B : dat zijn voor mij j
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=34| B | B : ruitvorm met legoblok erdoorheen
+	Free: Pattern=met
+	Constrained: 

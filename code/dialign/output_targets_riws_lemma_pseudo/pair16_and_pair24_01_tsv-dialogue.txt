@@ -1,0 +1,135 @@
+B|0| B: bak _met_ _een_ schermpje _op_ _zijn_ zij 
+B|1| B: _en_ _met_ _twee_ armp zo _voor_ zich uit _en een antenne_ _op_ _zijn_ kop 
+A|2| A: ah [en een antenne] _zo'n_ _spijker_ 
+A|3| A: ah 
+A|4| A: _ja_ lijken wel [een] robot 
+A|5| A: ik 
+A|6| A: _ja_ ik 
+A|7| A: ik gaan [voor] nummer twaalf 
+B|8| B: [ja] 
+B|9| B: _dat zijn_ J 
+B|10| B: bak 
+B|11| B: _ja een_ flatscreen tv'tje hebben hij _met_ zich mee , of _een vierkant_ 
+B|12| B: [en] _die_ zo _op_ _hem_ plken _zijn_ 
+B|13| B: [en] _twee_ armp _aan die kant_ , [en een antenne] _op_ _zijn_ hoofd 
+A|14| A: nou hier krijgen we [die] leuk robot weer 
+A|15| A: [die] weer _aan de linkerkant_ [met] [die] uitstekend oog [die] blok [die] groot worden 
+A|16| A: het _spijker_ als Antenne 
+A|17| A: _en aan de_ ik zullen zomaar zeggen _de linkerkant_ [voor] [hem] omdat ik denken [die] oog gaan [die kant] [op] maar [dat zijn] echt heel gek 
+A|18| A: maar dus eigenlijk rechtsvoor [aan die kant] [zijn] [een] één [ja [een] vierkant] plaa ertegenaan 
+A|19| A: [ja] 
+A|20| A: [ja] 
+A|21| A: [ja] 
+A|22| A: gaan ik [voor] nummer vijf 
+B|23| B: [zijn] I 
+B|24| B: [een] plaat [op] [zijn] zijkant , [spijker] [op] [zijn] kop , of [een antenne] , [en [aan de] linkerkant] _twee_ toren 
+A|25| A: nou dit [zijn] ons robot weer [met] vierkan plaa [aan de] voorkant 
+A|26| A: links [twee] oog [en] Antennetje [spijker] 
+A|27| A: [ja] 
+B|28| B: [met] [zo'n] rond plateautje 
+B|29| B: J 
+A|30| A: [ja] 
+A|31| A: [ja] nummer [twee] 
+A|32| A: ons robot 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : bak met een schermpje op zijn zij
+	Free: Pattern=zijn, Pattern=op, Pattern=met, Pattern=een
+	Constrained: 
+Turn ID=1| B | B : en met twee armp zo voor zich uit en een antenne op zijn kop
+	Free: Pattern=twee, Pattern=op, Pattern=en een antenne, Pattern=voor, Pattern=met, Pattern=en, Pattern=zijn
+	Constrained: Pattern=een antenne, Pattern=een, Pattern=en
+Turn ID=2| A | A : ah en een antenne zo'n spijker
+	Free: Pattern=en een antenne, Pattern=spijker, Pattern=zo'n
+	Constrained: Pattern=een antenne, Pattern=een, Pattern=en
+Turn ID=3| A | A : ah
+	Free: 
+	Constrained: 
+Turn ID=4| A | A : ja lijken wel een robot
+	Free: Pattern=ja, Pattern=een
+	Constrained: 
+Turn ID=5| A | A : ik
+	Free: 
+	Constrained: 
+Turn ID=6| A | A : ja ik
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=7| A | A : ik gaan voor nummer twaalf
+	Free: Pattern=voor
+	Constrained: 
+Turn ID=8| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=9| B | B : dat zijn J
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn
+Turn ID=10| B | B : bak
+	Free: 
+	Constrained: 
+Turn ID=11| B | B : ja een flatscreen tv'tje hebben hij met zich mee , of een vierkant
+	Free: Pattern=ja een, Pattern=een vierkant, Pattern=met
+	Constrained: Pattern=ja, Pattern=een
+Turn ID=12| B | B : en die zo op hem plken zijn
+	Free: Pattern=op, Pattern=die, Pattern=en, Pattern=zijn, Pattern=hem
+	Constrained: 
+Turn ID=13| B | B : en twee armp aan die kant , en een antenne op zijn hoofd
+	Free: Pattern=twee, Pattern=op, Pattern=en een antenne, Pattern=zijn, Pattern=en, Pattern=aan die kant
+	Constrained: Pattern=die kant, Pattern=een, Pattern=een antenne, Pattern=die, Pattern=en
+Turn ID=14| A | A : nou hier krijgen we die leuk robot weer
+	Free: Pattern=die
+	Constrained: 
+Turn ID=15| A | A : die weer aan de linkerkant met die uitstekend oog die blok die groot worden
+	Free: Pattern=aan de linkerkant, Pattern=die, Pattern=met
+	Constrained: Pattern=de linkerkant, Pattern=aan de
+Turn ID=16| A | A : het spijker als Antenne
+	Free: Pattern=spijker
+	Constrained: 
+Turn ID=17| A | A : en aan de ik zullen zomaar zeggen de linkerkant voor hem omdat ik denken die oog gaan die kant op maar dat zijn echt heel gek
+	Free: Pattern=dat zijn, Pattern=op, Pattern=die kant, Pattern=de linkerkant, Pattern=voor, Pattern=die, Pattern=en aan de, Pattern=hem
+	Constrained: Pattern=zijn, Pattern=die, Pattern=en, Pattern=aan de
+Turn ID=18| A | A : maar dus eigenlijk rechtsvoor aan die kant zijn een één ja een vierkant plaa ertegenaan
+	Free: Pattern=een, Pattern=ja een, Pattern=aan die kant, Pattern=zijn, Pattern=een vierkant
+	Constrained: Pattern=een, Pattern=die, Pattern=die kant, Pattern=ja
+Turn ID=19| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=20| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=21| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=22| A | A : gaan ik voor nummer vijf
+	Free: Pattern=voor
+	Constrained: 
+Turn ID=23| B | B : zijn I
+	Free: Pattern=zijn
+	Constrained: 
+Turn ID=24| B | B : een plaat op zijn zijkant , spijker op zijn kop , of een antenne , en aan de linkerkant twee toren
+	Free: Pattern=twee, Pattern=op, Pattern=een, Pattern=een antenne, Pattern=zijn, Pattern=en aan de, Pattern=spijker, Pattern=aan de linkerkant
+	Constrained: Pattern=en, Pattern=aan de, Pattern=een, Pattern=de linkerkant
+Turn ID=25| A | A : nou dit zijn ons robot weer met vierkan plaa aan de voorkant
+	Free: Pattern=aan de, Pattern=zijn, Pattern=met
+	Constrained: 
+Turn ID=26| A | A : links twee oog en Antennetje spijker
+	Free: Pattern=twee, Pattern=spijker, Pattern=en
+	Constrained: 
+Turn ID=27| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=28| B | B : met zo'n rond plateautje
+	Free: Pattern=met, Pattern=zo'n
+	Constrained: 
+Turn ID=29| B | B : J
+	Free: 
+	Constrained: 
+Turn ID=30| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=31| A | A : ja nummer twee
+	Free: Pattern=ja, Pattern=twee
+	Constrained: 
+Turn ID=32| A | A : ons robot
+	Free: 
+	Constrained: 

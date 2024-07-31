@@ -1,0 +1,91 @@
+B|0| B: _ja_ _dit_ _vinden_ _ik_ een soort _geweer_ _die_ _die_ langs _zijn_ hoofd _hebben_ _maar_ volgens mij _hebben_ jij _het_ straks over een _tafel_ _waar_ _die_ iets _diep_ in zitten 
+B|1| B: en dan _met_ zo'n blok _aan de_ rechterkant nog 
+A|2| A: [ja] 
+A|3| A: oké 
+A|4| A: [ja] [ik] weten welk [het] [zijn] _dat zijn_ zestien 
+A|5| A: oké _dit zijn_ [de] [diep] wasbakding [met] _dat_ vierkantje zo [aan de] voorkant 
+B|6| B: [ja] [dat zijn] P 
+B|7| B: _dit zijn die _diep_ door de tafel heen_ 
+A|8| A: even zoeken 
+A|9| A: [zijn die] er 
+A|10| A: [waar] [zijn die] 
+A|11| A: [diep door de tafel heen] 
+A|12| A: [ja] [ik] [hebben] hem [vinden] 
+A|13| A: [dat zijn] veertien 
+A|14| A: [dit zijn] [de] [diep] sink _of_ [die] [dat] [met] _het geweer_ 
+B|15| B: [ja] [dat zijn] N 
+B|16| B: [die] heel [diep door de tafel] _of het geweer_ 
+A|17| A: [ja] [maar] [waar] staan [die] 
+A|18| A: tien 
+A|19| A: [dit zijn die diep] gootsteen 
+A|20| A: [of] [de] [of het geweer] 
+B|21| B: [ja] [dat zijn] D 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : ja dit vinden ik een soort geweer die die langs zijn hoofd hebben maar volgens mij hebben jij het straks over een tafel waar die iets diep in zitten
+	Free: Pattern=waar, Pattern=het, Pattern=hebben, Pattern=dit, Pattern=diep, Pattern=ik, Pattern=geweer, Pattern=vinden, Pattern=ja, Pattern=tafel, Pattern=die, Pattern=zijn, Pattern=maar
+	Constrained: 
+Turn ID=1| B | B : en dan met zo'n blok aan de rechterkant nog
+	Free: Pattern=aan de, Pattern=met
+	Constrained: Pattern=de
+Turn ID=2| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=3| A | A : oké
+	Free: 
+	Constrained: 
+Turn ID=4| A | A : ja ik weten welk het zijn dat zijn zestien
+	Free: Pattern=dat zijn, Pattern=ja, Pattern=het, Pattern=ik, Pattern=zijn
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=5| A | A : oké dit zijn de diep wasbakding met dat vierkantje zo aan de voorkant
+	Free: Pattern=dat, Pattern=de, Pattern=aan de, Pattern=dit zijn, Pattern=diep, Pattern=met
+	Constrained: Pattern=zijn, Pattern=dit, Pattern=de
+Turn ID=6| B | B : ja dat zijn P
+	Free: Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=7| B | B : dit zijn die diep door de tafel heen
+	Free: Pattern=diep door de tafel heen, Pattern=dit zijn die diep
+	Constrained: Pattern=de, Pattern=zijn die, Pattern=dit, Pattern=diep, Pattern=diep door de tafel, Pattern=zijn, Pattern=dit zijn, Pattern=tafel, Pattern=die
+Turn ID=8| A | A : even zoeken
+	Free: 
+	Constrained: 
+Turn ID=9| A | A : zijn die er
+	Free: Pattern=zijn die
+	Constrained: Pattern=die, Pattern=zijn
+Turn ID=10| A | A : waar zijn die
+	Free: Pattern=zijn die, Pattern=waar
+	Constrained: Pattern=die, Pattern=zijn
+Turn ID=11| A | A : diep door de tafel heen
+	Free: Pattern=diep door de tafel heen
+	Constrained: Pattern=tafel, Pattern=diep, Pattern=diep door de tafel, Pattern=de
+Turn ID=12| A | A : ja ik hebben hem vinden
+	Free: Pattern=ja, Pattern=vinden, Pattern=hebben, Pattern=ik
+	Constrained: 
+Turn ID=13| A | A : dat zijn veertien
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=14| A | A : dit zijn de diep sink of die dat met het geweer
+	Free: Pattern=dat, Pattern=of, Pattern=de, Pattern=die, Pattern=het geweer, Pattern=dit zijn, Pattern=diep, Pattern=met
+	Constrained: Pattern=het, Pattern=zijn, Pattern=dit, Pattern=geweer
+Turn ID=15| B | B : ja dat zijn N
+	Free: Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=16| B | B : die heel diep door de tafel of het geweer
+	Free: Pattern=diep door de tafel, Pattern=of het geweer, Pattern=die
+	Constrained: Pattern=of, Pattern=de, Pattern=het, Pattern=diep, Pattern=tafel, Pattern=het geweer, Pattern=geweer
+Turn ID=17| A | A : ja maar waar staan die
+	Free: Pattern=die, Pattern=maar, Pattern=waar, Pattern=ja
+	Constrained: 
+Turn ID=18| A | A : tien
+	Free: 
+	Constrained: 
+Turn ID=19| A | A : dit zijn die diep gootsteen
+	Free: Pattern=dit zijn die diep
+	Constrained: Pattern=zijn die, Pattern=dit, Pattern=diep, Pattern=die, Pattern=zijn, Pattern=dit zijn
+Turn ID=20| A | A : of de of het geweer
+	Free: Pattern=of het geweer, Pattern=of, Pattern=de
+	Constrained: Pattern=het geweer, Pattern=het, Pattern=of, Pattern=geweer
+Turn ID=21| B | B : ja dat zijn D
+	Free: Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=zijn, Pattern=dat

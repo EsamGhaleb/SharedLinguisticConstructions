@@ -1,0 +1,119 @@
+B|0| B: oké 
+B|1| B: _het_ _kop_ _staan_ _op_ een _vierkant_ plateauachtig iets 
+B|2| B: _dat zijn_ eigenlijk _de_ enig _die op_ iets _staan_ 
+A|3| A: _ja_ 
+B|4| B: plat ding 
+B|5| B: _met_ allemaal van _die_ bollet dinget erachter 
+A|6| A: _ja_ [die] ruitjesachtig 
+B|7| B: [ja] _en_ dan nog een een cirkel _aan de voorkant en_ dan nog een _boog_ ernaast _en_ _aan de_ ander kant ook zo'n _boog_ ernaast 
+A|8| A: [ja] 
+A|9| A: [ja] [dat zijn] vijf 
+A|10| A: [ja] _dit zijn_ [dat] [kop] wat volledig [op] [het] plaat [staan] [vierkant] plaat 
+A|11| A: [met] [ja] [de] ruitsprietjes [aan de] zijkant [en] [het] rond [aan de voorkant en] [de] [boog] 
+B|12| B: [ja] 
+B|13| B: [dat zijn] [de] J 
+B|14| B: _dit zijn die_ [staan] [op] zo'n [vierkant] _plateau met_ rui _aan de achterkant_ [en] zo'n cirkel [aan de voorkant] 
+A|15| A: [ja] 
+A|16| A: [dat zijn] elf 
+A|17| A: [ja] [dit zijn] diegene [die op] [het] plaat [staan] _met de_ driehoek diaman 
+B|18| B: [ja] 
+A|19| A: [en] [de] rond [aan de voorkant] 
+B|20| B: [dat zijn] P [ja] 
+B|21| B: _dit zijn die op_ een [vierkant] ding [staan] 
+B|22| B: als enig 
+B|23| B: [met de] diamant erachter 
+A|24| A: [ja] [ja] 
+A|25| A: [dat zijn] negen 
+A|26| A: [dit zijn die op] [het] [op] [het] [plateau met] [die] diaman [aan de achterkant] 
+B|27| B: [ja] 
+B|28| B: [dat zijn] L 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : oké
+	Free: 
+	Constrained: 
+Turn ID=1| B | B : het kop staan op een vierkant plateauachtig iets
+	Free: Pattern=op, Pattern=staan, Pattern=het, Pattern=kop, Pattern=vierkant
+	Constrained: 
+Turn ID=2| B | B : dat zijn eigenlijk de enig die op iets staan
+	Free: Pattern=die op, Pattern=dat zijn, Pattern=de, Pattern=staan
+	Constrained: Pattern=op, Pattern=dat, Pattern=die
+Turn ID=3| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=4| B | B : plat ding
+	Free: 
+	Constrained: 
+Turn ID=5| B | B : met allemaal van die bollet dinget erachter
+	Free: Pattern=met, Pattern=die
+	Constrained: 
+Turn ID=6| A | A : ja die ruitjesachtig
+	Free: Pattern=ja, Pattern=die
+	Constrained: 
+Turn ID=7| B | B : ja en dan nog een een cirkel aan de voorkant en dan nog een boog ernaast en aan de ander kant ook zo'n boog ernaast
+	Free: Pattern=aan de voorkant en, Pattern=ja, Pattern=boog, Pattern=aan de, Pattern=en
+	Constrained: Pattern=en, Pattern=aan de, Pattern=aan de voorkant, Pattern=de
+Turn ID=8| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=9| A | A : ja dat zijn vijf
+	Free: Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=dat
+Turn ID=10| A | A : ja dit zijn dat kop wat volledig op het plaat staan vierkant plaat
+	Free: Pattern=dat, Pattern=ja, Pattern=op, Pattern=staan, Pattern=het, Pattern=kop, Pattern=vierkant, Pattern=dit zijn
+	Constrained: 
+Turn ID=11| A | A : met ja de ruitsprietjes aan de zijkant en het rond aan de voorkant en de boog
+	Free: Pattern=aan de voorkant en, Pattern=boog, Pattern=aan de, Pattern=het, Pattern=met, Pattern=en, Pattern=de, Pattern=ja
+	Constrained: Pattern=en, Pattern=aan de, Pattern=aan de voorkant, Pattern=de
+Turn ID=12| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=13| B | B : dat zijn de J
+	Free: Pattern=dat zijn, Pattern=de
+	Constrained: Pattern=dat
+Turn ID=14| B | B : dit zijn die staan op zo'n vierkant plateau met rui aan de achterkant en zo'n cirkel aan de voorkant
+	Free: Pattern=aan de achterkant, Pattern=dit zijn die, Pattern=op, Pattern=staan, Pattern=en, Pattern=plateau met, Pattern=vierkant, Pattern=aan de voorkant
+	Constrained: Pattern=de, Pattern=aan de, Pattern=met, Pattern=die, Pattern=dit zijn
+Turn ID=15| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=16| A | A : dat zijn elf
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat
+Turn ID=17| A | A : ja dit zijn diegene die op het plaat staan met de driehoek diaman
+	Free: Pattern=staan, Pattern=het, Pattern=die op, Pattern=dit zijn, Pattern=met de, Pattern=ja
+	Constrained: Pattern=de, Pattern=met, Pattern=die, Pattern=op
+Turn ID=18| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=19| A | A : en de rond aan de voorkant
+	Free: Pattern=aan de voorkant, Pattern=de, Pattern=en
+	Constrained: Pattern=aan de, Pattern=de
+Turn ID=20| B | B : dat zijn P ja
+	Free: Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=dat
+Turn ID=21| B | B : dit zijn die op een vierkant ding staan
+	Free: Pattern=dit zijn die op, Pattern=staan, Pattern=vierkant
+	Constrained: Pattern=dit zijn die, Pattern=op, Pattern=die, Pattern=die op, Pattern=dit zijn
+Turn ID=22| B | B : als enig
+	Free: 
+	Constrained: 
+Turn ID=23| B | B : met de diamant erachter
+	Free: Pattern=met de
+	Constrained: Pattern=de, Pattern=met
+Turn ID=24| A | A : ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=25| A | A : dat zijn negen
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat
+Turn ID=26| A | A : dit zijn die op het op het plateau met die diaman aan de achterkant
+	Free: Pattern=aan de achterkant, Pattern=op, Pattern=het, Pattern=dit zijn die op, Pattern=die, Pattern=plateau met
+	Constrained: Pattern=dit zijn die, Pattern=de, Pattern=met, Pattern=die, Pattern=die op, Pattern=dit zijn, Pattern=op, Pattern=aan de
+Turn ID=27| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=28| B | B : dat zijn L
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat

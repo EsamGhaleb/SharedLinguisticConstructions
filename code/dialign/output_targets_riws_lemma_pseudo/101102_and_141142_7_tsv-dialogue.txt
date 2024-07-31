@@ -1,0 +1,83 @@
+A|0| A: _ja_ 
+A|1| A: oké dat _zijn_ nummer zestien 
+B|2| B: nou _het_ _dit zijn_ een kop er zitten een soort van plank aan _met_ een omgekeerd lampenkap _erop_ 
+B|3| B: [ja] [ja] [ja] [ja] [ja] 
+B|4| B: precies 
+B|5| B: [ja] 
+A|6| A: [dit zijn] _de_ mok [met] [het] uitklaptafel [met] [het] bak [erop] 
+B|7| B: ah P 
+A|8| A: [ja] veertien 
+B|9| B: [het] [zijn] weer _die_ een [met] [de] plank [met] [de] lampenkap 
+B|10| B: [ja] 
+A|11| A: [dit zijn] [die] [met] [het] uitklaptafel 
+A|12| A: _en_ dat bak 
+B|13| B: N 
+A|14| A: [ja] 
+A|15| A: nummer tien 
+B|16| B: [en] [ja] [het] [zijn] weer [de] plank [met] [de] lampenkap 
+B|17| B: [en] [de] twee balk eruit 
+A|18| A: [en] [dit zijn] [het] uitklaptafeltje 
+B|19| B: D 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=1| A | A : oké dat zijn nummer zestien
+	Free: Pattern=zijn
+	Constrained: 
+Turn ID=2| B | B : nou het dit zijn een kop er zitten een soort van plank aan met een omgekeerd lampenkap erop
+	Free: Pattern=dit zijn, Pattern=erop, Pattern=met, Pattern=het
+	Constrained: Pattern=zijn
+Turn ID=3| B | B : ja ja ja ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=4| B | B : precies
+	Free: 
+	Constrained: 
+Turn ID=5| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=6| A | A : dit zijn de mok met het uitklaptafel met het bak erop
+	Free: Pattern=de, Pattern=erop, Pattern=het, Pattern=met, Pattern=dit zijn
+	Constrained: Pattern=zijn
+Turn ID=7| B | B : ah P
+	Free: 
+	Constrained: 
+Turn ID=8| A | A : ja veertien
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=9| B | B : het zijn weer die een met de plank met de lampenkap
+	Free: Pattern=de, Pattern=het, Pattern=met, Pattern=die, Pattern=zijn
+	Constrained: 
+Turn ID=10| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=11| A | A : dit zijn die met het uitklaptafel
+	Free: Pattern=dit zijn, Pattern=met, Pattern=het, Pattern=die
+	Constrained: Pattern=zijn
+Turn ID=12| A | A : en dat bak
+	Free: Pattern=en
+	Constrained: 
+Turn ID=13| B | B : N
+	Free: 
+	Constrained: 
+Turn ID=14| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=15| A | A : nummer tien
+	Free: 
+	Constrained: 
+Turn ID=16| B | B : en ja het zijn weer de plank met de lampenkap
+	Free: Pattern=het, Pattern=met, Pattern=en, Pattern=zijn, Pattern=de, Pattern=ja
+	Constrained: 
+Turn ID=17| B | B : en de twee balk eruit
+	Free: Pattern=en, Pattern=de
+	Constrained: 
+Turn ID=18| A | A : en dit zijn het uitklaptafeltje
+	Free: Pattern=dit zijn, Pattern=en, Pattern=het
+	Constrained: Pattern=zijn
+Turn ID=19| B | B : D
+	Free: 
+	Constrained: 

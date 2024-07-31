@@ -1,0 +1,91 @@
+B|0| B: hij hebben zeggen maar _van die_ verrekijker naar links _en dan_ hebben _die_ 
+B|1| B: _ja_ 
+A|2| A: [ja] [ja] [van die] neus [die] ik [en dan] zitten er een vierkant 
+A|3| A: [ja] [ja] [ja] _met_ een soort [van] raar knopding of zo of een spijker [ja] 
+A|4| A: [ja] ik denken _dat_ _het_ zo'n ejectionknop zo zoiets _zijn_ 
+A|5| A: [ja] _dat_ _dat_ _zijn_ bij mij _twee_ 
+B|6| B: [ja] [en] [het] vlak ervoor 
+B|7| B: G 
+B|8| B: _dit zijn die_ verrekijker _met die_ blok [en dan] [dat] vlak ervoor 
+B|9| B: [ja] 
+A|10| A: [dit zijn die] een _met dat_ raar vierkant _aan de_ rechts kant [en dan] [die] [die] ejectionknop 
+A|11| A: [en dan] [die] _twee_ soort [van] vierkant neus [die] eruit komen 
+B|12| B: D 
+A|13| A: [ja] [met die] ejection 
+A|14| A: [ja] [ja] [ja] 
+A|15| A: nummer negen 
+A|16| A: [dit zijn die] een _met dat_ vierkant [met die] ejectionknop [en] [die] _twee_ vierkant neus [die] eruit komen 
+B|17| B: [dit zijn die] [met dat] vlak [aan de] voorkant [en] [twee] verrekijker 
+A|18| A: [ja] [die] ejection [met die] [twee] [met die] vierkant neus [die] eruit komen 
+A|19| A: nummer één 
+B|20| B: [ja] B 
+A|21| A: degeen [met dat] vierkant schild [die] ejectionknop [en] [die] [twee] vierkant neus 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : hij hebben zeggen maar van die verrekijker naar links en dan hebben die
+	Free: Pattern=van die, Pattern=en dan, Pattern=die
+	Constrained: Pattern=en, Pattern=van, Pattern=die
+Turn ID=1| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=2| A | A : ja ja van die neus die ik en dan zitten er een vierkant
+	Free: Pattern=van die, Pattern=en dan, Pattern=die, Pattern=ja
+	Constrained: Pattern=en, Pattern=van, Pattern=die
+Turn ID=3| A | A : ja ja ja met een soort van raar knopding of zo of een spijker ja
+	Free: Pattern=van, Pattern=met, Pattern=ja
+	Constrained: 
+Turn ID=4| A | A : ja ik denken dat het zo'n ejectionknop zo zoiets zijn
+	Free: Pattern=dat, Pattern=zijn, Pattern=het, Pattern=ja
+	Constrained: 
+Turn ID=5| A | A : ja dat dat zijn bij mij twee
+	Free: Pattern=dat, Pattern=zijn, Pattern=ja, Pattern=twee
+	Constrained: 
+Turn ID=6| B | B : ja en het vlak ervoor
+	Free: Pattern=en, Pattern=het, Pattern=ja
+	Constrained: 
+Turn ID=7| B | B : G
+	Free: 
+	Constrained: 
+Turn ID=8| B | B : dit zijn die verrekijker met die blok en dan dat vlak ervoor
+	Free: Pattern=dit zijn die, Pattern=met die, Pattern=en dan, Pattern=dat
+	Constrained: Pattern=zijn, Pattern=met, Pattern=die, Pattern=en
+Turn ID=9| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=10| A | A : dit zijn die een met dat raar vierkant aan de rechts kant en dan die die ejectionknop
+	Free: Pattern=dit zijn die, Pattern=en dan, Pattern=aan de, Pattern=met dat, Pattern=die
+	Constrained: Pattern=dat, Pattern=met, Pattern=die, Pattern=en, Pattern=zijn
+Turn ID=11| A | A : en dan die twee soort van vierkant neus die eruit komen
+	Free: Pattern=en dan, Pattern=van, Pattern=die, Pattern=twee
+	Constrained: Pattern=en
+Turn ID=12| B | B : D
+	Free: 
+	Constrained: 
+Turn ID=13| A | A : ja met die ejection
+	Free: Pattern=met die, Pattern=ja
+	Constrained: Pattern=die, Pattern=met
+Turn ID=14| A | A : ja ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=15| A | A : nummer negen
+	Free: 
+	Constrained: 
+Turn ID=16| A | A : dit zijn die een met dat vierkant met die ejectionknop en die twee vierkant neus die eruit komen
+	Free: Pattern=met die, Pattern=dit zijn die, Pattern=twee, Pattern=met dat, Pattern=die, Pattern=en
+	Constrained: Pattern=dat, Pattern=zijn, Pattern=met, Pattern=die
+Turn ID=17| B | B : dit zijn die met dat vlak aan de voorkant en twee verrekijker
+	Free: Pattern=dit zijn die, Pattern=twee, Pattern=aan de, Pattern=met dat, Pattern=en
+	Constrained: Pattern=dat, Pattern=zijn, Pattern=met, Pattern=die
+Turn ID=18| A | A : ja die ejection met die twee met die vierkant neus die eruit komen
+	Free: Pattern=met die, Pattern=die, Pattern=ja, Pattern=twee
+	Constrained: Pattern=die, Pattern=met
+Turn ID=19| A | A : nummer één
+	Free: 
+	Constrained: 
+Turn ID=20| B | B : ja B
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=21| A | A : degeen met dat vierkant schild die ejectionknop en die twee vierkant neus
+	Free: Pattern=met dat, Pattern=en, Pattern=die, Pattern=twee
+	Constrained: Pattern=dat, Pattern=met

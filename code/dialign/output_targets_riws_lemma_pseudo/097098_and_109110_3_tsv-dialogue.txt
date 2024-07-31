@@ -1,0 +1,95 @@
+A|0| A: _ja_ 
+A|1| A: nummer vier 
+B|2| B: ok deze hebben ik gewoon omschrijven als toren _zijn_ by far _de_ groot 
+B|3| B: _met_ _met een soort_ _met een soort_ 
+B|4| B: [ja] _een soort_ kronkel _aan de onderkant_ _op een_ plateaut verhogen 
+A|5| A: nou dit [zijn] [de] wat jij eerder zeggen [de] enig kop [met een soort] van draaikolk [aan de onderkant] 
+A|6| A: _die_ eindigen [op een] driehoekje 
+B|7| B: ok [die] heel hoog zitten 
+B|8| B: [ja] ik hebben [die] inderdaad hij hebben [een] beetje zo vleugel [aan de] achterkant [een] vierkan rechts bovenop en [een soort] driehoekig platvorm waar hij [op] staat 
+B|9| B: ok A 
+B|10| B: [de] struisvogel 
+B|11| B: _het_ heel hoog ding 
+A|12| A: [ja] 
+A|13| A: nummer tien 
+B|14| B: [ja] ok L 
+A|15| A: nou dit [zijn] [het] enig plaa [met een] draaikolk 
+A|16| A: [die] [op een] driehoekje uitkomen 
+B|17| B: struisvogel 
+B|18| B: wijnglas 
+B|19| B: o [ja] F 
+A|20| A: [ja] 
+A|21| A: nummer vier [zijn] dat 
+A|22| A: dit [zijn] [de] mok [met] [de] draaikolk [die] [op een] driehoekje uitkomen 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=1| A | A : nummer vier
+	Free: 
+	Constrained: 
+Turn ID=2| B | B : ok deze hebben ik gewoon omschrijven als toren zijn by far de groot
+	Free: Pattern=zijn, Pattern=de
+	Constrained: 
+Turn ID=3| B | B : met met een soort met een soort
+	Free: Pattern=met een soort, Pattern=met
+	Constrained: Pattern=een soort, Pattern=een, Pattern=met, Pattern=met een
+Turn ID=4| B | B : ja een soort kronkel aan de onderkant op een plateaut verhogen
+	Free: Pattern=aan de onderkant, Pattern=op een, Pattern=een soort, Pattern=ja
+	Constrained: Pattern=een, Pattern=de, Pattern=aan de, Pattern=op
+Turn ID=5| A | A : nou dit zijn de wat jij eerder zeggen de enig kop met een soort van draaikolk aan de onderkant
+	Free: Pattern=aan de onderkant, Pattern=met een soort, Pattern=zijn, Pattern=de
+	Constrained: Pattern=de, Pattern=aan de, Pattern=een, Pattern=met, Pattern=met een, Pattern=een soort
+Turn ID=6| A | A : die eindigen op een driehoekje
+	Free: Pattern=op een, Pattern=die
+	Constrained: Pattern=een, Pattern=op
+Turn ID=7| B | B : ok die heel hoog zitten
+	Free: Pattern=die
+	Constrained: 
+Turn ID=8| B | B : ja ik hebben die inderdaad hij hebben een beetje zo vleugel aan de achterkant een vierkan rechts bovenop en een soort driehoekig platvorm waar hij op staat
+	Free: Pattern=ja, Pattern=een, Pattern=die, Pattern=een soort, Pattern=op, Pattern=aan de
+	Constrained: Pattern=een, Pattern=de
+Turn ID=9| B | B : ok A
+	Free: 
+	Constrained: 
+Turn ID=10| B | B : de struisvogel
+	Free: Pattern=de
+	Constrained: 
+Turn ID=11| B | B : het heel hoog ding
+	Free: Pattern=het
+	Constrained: 
+Turn ID=12| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=13| A | A : nummer tien
+	Free: 
+	Constrained: 
+Turn ID=14| B | B : ja ok L
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=15| A | A : nou dit zijn het enig plaa met een draaikolk
+	Free: Pattern=met een, Pattern=het, Pattern=zijn
+	Constrained: Pattern=een, Pattern=met
+Turn ID=16| A | A : die op een driehoekje uitkomen
+	Free: Pattern=op een, Pattern=die
+	Constrained: Pattern=een, Pattern=op
+Turn ID=17| B | B : struisvogel
+	Free: 
+	Constrained: 
+Turn ID=18| B | B : wijnglas
+	Free: 
+	Constrained: 
+Turn ID=19| B | B : o ja F
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=20| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=21| A | A : nummer vier zijn dat
+	Free: Pattern=zijn
+	Constrained: 
+Turn ID=22| A | A : dit zijn de mok met de draaikolk die op een driehoekje uitkomen
+	Free: Pattern=de, Pattern=met, Pattern=die, Pattern=zijn, Pattern=op een
+	Constrained: Pattern=een, Pattern=op

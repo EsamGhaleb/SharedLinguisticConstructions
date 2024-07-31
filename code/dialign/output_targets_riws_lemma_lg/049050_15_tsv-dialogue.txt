@@ -1,0 +1,171 @@
+B|0| B: _oké_ _het_ _plaat_ hebben 
+B|1| B: zeggen maar _zo'n_ plat _vierkant_ ding dwars _door _het_ ja_ tegen _de onderkant_ _aan_ _van_ _het kop_ 
+B|2| B: _en dan_ zitten _er_ nog een soort _van_ _rond_ buis _aan de voorkant_ 
+B|3| B: _en aan de_ _linkerkant_ zitten _er_ nog een _vierkant_ _staaf_ _met_ een hoek erin 
+B|4| B: _en _aan de_ bovenkant_ zitten nog _twee van die_ ministaaf 
+A|5| A: [ja] 
+A|6| A: [ja] _dat_ [plaat] gaan [er] wel _doorheen_ [dan] toch 
+B|7| B: [ja] 
+A|8| A: [ja] 
+B|9| B: zeggen maar [ja] dwars of hoe noemen je [dat] 
+A|10| A: [ja] [ja] [ja] 
+B|11| B: zo erdoorheen 
+A|12| A: _oké dat zijn_ [dan] zes 
+A|13| A: _dit zijn_ [het ja] [het kop] [met] op één drie [van] [de onderkant] [zo'n] _vierkant plateau_ 
+A|14| A: _en aan de voorkant_ [zo'n] _rond staaf_ 
+A|15| A: _aan de bovenkant _twee_ van die punt_ [en dan] [dat] haak [aan de] rechterkant 
+B|16| B: [ja] [aan de bovenkant twee] 
+B|17| B: [ja] 
+B|18| B: [dat zijn] C 
+A|19| A: [linkerkant] trouwens 
+B|20| B: [ja] 
+A|21| A: [ja] 
+B|22| B: C 
+B|23| B: _dit zijn die met_ [de] [vierkant] [plaat] [er] dwars [doorheen] 
+B|24| B: [en dan] [twee van die _punt] bovenop_ 
+B|25| B: [en aan de voorkant] nog een [rond staaf] [en] links nog een hoekig ding 
+A|26| A: [ja] 
+A|27| A: [dat zijn] dertien 
+A|28| A: [dit zijn die met] [dat] horizontaal vierkan [ja] [door] [de] helft net 
+A|29| A: [en dan] _die twee [punt_ bovenop] [dat] gehaakken dinge [aan de] _en die_ [rond staaf] [voorkant] 
+B|30| B: [ja] 
+B|31| B: [ja] 
+B|32| B: [ja] 
+B|33| B: [dat zijn] J 
+B|34| B: [dit zijn die met] [het] [vierkant plateau] [er] dwars [doorheen] 
+B|35| B: [en [die] twee punt] [aan de bovenkant] 
+A|36| A: [ja] 
+A|37| A: [met] [die] haak 
+B|38| B: [ja] 
+A|39| A: [dat zijn] negen 
+A|40| A: [dit zijn die met] [die] [plateau] [door het] midden [met] [die twee punt] boven haak 
+B|41| B: [oké dat zijn] N 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : oké het plaat hebben
+	Free: Pattern=plaat, Pattern=oké, Pattern=het
+	Constrained: 
+Turn ID=1| B | B : zeggen maar zo'n plat vierkant ding dwars door het ja tegen de onderkant aan van het kop
+	Free: Pattern=zo'n, Pattern=het kop, Pattern=de onderkant, Pattern=van, Pattern=door het, Pattern=vierkant, Pattern=het ja, Pattern=aan
+	Constrained: Pattern=door, Pattern=de, Pattern=het, Pattern=ja
+Turn ID=2| B | B : en dan zitten er nog een soort van rond buis aan de voorkant
+	Free: Pattern=en dan, Pattern=er, Pattern=van, Pattern=rond, Pattern=aan de voorkant
+	Constrained: Pattern=aan de, Pattern=dan, Pattern=voorkant, Pattern=en, Pattern=de, Pattern=aan
+Turn ID=3| B | B : en aan de linkerkant zitten er nog een vierkant staaf met een hoek erin
+	Free: Pattern=staaf, Pattern=met, Pattern=er, Pattern=vierkant, Pattern=en aan de, Pattern=linkerkant
+	Constrained: Pattern=aan de, Pattern=en, Pattern=aan, Pattern=de
+Turn ID=4| B | B : en aan de bovenkant zitten nog twee van die ministaaf
+	Free: Pattern=aan de bovenkant, Pattern=twee van die, Pattern=en aan de
+	Constrained: Pattern=aan de, Pattern=die, Pattern=de, Pattern=aan, Pattern=van, Pattern=en
+Turn ID=5| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=6| A | A : ja dat plaat gaan er wel doorheen dan toch
+	Free: Pattern=dat, Pattern=dan, Pattern=er, Pattern=plaat, Pattern=ja, Pattern=doorheen
+	Constrained: 
+Turn ID=7| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=8| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=9| B | B : zeggen maar ja dwars of hoe noemen je dat
+	Free: Pattern=dat, Pattern=ja
+	Constrained: 
+Turn ID=10| A | A : ja ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=11| B | B : zo erdoorheen
+	Free: 
+	Constrained: 
+Turn ID=12| A | A : oké dat zijn dan zes
+	Free: Pattern=oké dat zijn, Pattern=dan
+	Constrained: Pattern=dat zijn, Pattern=oké, Pattern=dat
+Turn ID=13| A | A : dit zijn het ja het kop met op één drie van de onderkant zo'n vierkant plateau
+	Free: Pattern=zo'n, Pattern=het ja, Pattern=het kop, Pattern=met, Pattern=de onderkant, Pattern=van, Pattern=vierkant plateau, Pattern=dit zijn
+	Constrained: Pattern=het, Pattern=plateau, Pattern=vierkant, Pattern=de, Pattern=ja
+Turn ID=14| A | A : en aan de voorkant zo'n rond staaf
+	Free: Pattern=en aan de voorkant, Pattern=rond staaf, Pattern=zo'n
+	Constrained: Pattern=staaf, Pattern=aan de, Pattern=voorkant, Pattern=en, Pattern=rond, Pattern=aan de voorkant, Pattern=en aan de, Pattern=de, Pattern=aan
+Turn ID=15| A | A : aan de bovenkant twee van die punt en dan dat haak aan de rechterkant
+	Free: Pattern=en dan, Pattern=aan de, Pattern=aan de bovenkant twee, Pattern=dat, Pattern=twee van die punt
+	Constrained: Pattern=twee van die, Pattern=aan de, Pattern=dan, Pattern=die, Pattern=de, Pattern=aan, Pattern=van, Pattern=aan de bovenkant, Pattern=en
+Turn ID=16| B | B : ja aan de bovenkant twee
+	Free: Pattern=aan de bovenkant twee, Pattern=ja
+	Constrained: Pattern=aan, Pattern=aan de bovenkant, Pattern=de, Pattern=aan de
+Turn ID=17| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=18| B | B : dat zijn C
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat
+Turn ID=19| A | A : linkerkant trouwens
+	Free: Pattern=linkerkant
+	Constrained: 
+Turn ID=20| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=21| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=22| B | B : C
+	Free: 
+	Constrained: 
+Turn ID=23| B | B : dit zijn die met de vierkant plaat er dwars doorheen
+	Free: Pattern=dit zijn die met, Pattern=er, Pattern=vierkant, Pattern=plaat, Pattern=de, Pattern=doorheen
+	Constrained: Pattern=dit zijn, Pattern=met, Pattern=die
+Turn ID=24| B | B : en dan twee van die punt bovenop
+	Free: Pattern=twee van die punt, Pattern=en dan, Pattern=punt bovenop
+	Constrained: Pattern=twee van die, Pattern=dan, Pattern=die, Pattern=van, Pattern=en
+Turn ID=25| B | B : en aan de voorkant nog een rond staaf en links nog een hoekig ding
+	Free: Pattern=en aan de voorkant, Pattern=rond staaf, Pattern=en
+	Constrained: Pattern=staaf, Pattern=aan de, Pattern=voorkant, Pattern=en, Pattern=rond, Pattern=aan de voorkant, Pattern=en aan de, Pattern=de, Pattern=aan
+Turn ID=26| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=27| A | A : dat zijn dertien
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat
+Turn ID=28| A | A : dit zijn die met dat horizontaal vierkan ja door de helft net
+	Free: Pattern=dat, Pattern=door, Pattern=dit zijn die met, Pattern=de, Pattern=ja
+	Constrained: Pattern=dit zijn, Pattern=met, Pattern=die
+Turn ID=29| A | A : en dan die twee punt bovenop dat gehaakken dinge aan de en die rond staaf voorkant
+	Free: Pattern=en die, Pattern=dat, Pattern=rond staaf, Pattern=en dan, Pattern=aan de, Pattern=die twee punt, Pattern=punt bovenop, Pattern=voorkant
+	Constrained: Pattern=staaf, Pattern=dan, Pattern=die, Pattern=en, Pattern=rond, Pattern=de, Pattern=aan
+Turn ID=30| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=31| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=32| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=33| B | B : dat zijn J
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat
+Turn ID=34| B | B : dit zijn die met het vierkant plateau er dwars doorheen
+	Free: Pattern=doorheen, Pattern=het, Pattern=dit zijn die met, Pattern=er, Pattern=vierkant plateau
+	Constrained: Pattern=plateau, Pattern=met, Pattern=die, Pattern=vierkant, Pattern=dit zijn
+Turn ID=35| B | B : en die twee punt aan de bovenkant
+	Free: Pattern=aan de bovenkant, Pattern=die twee punt, Pattern=en die
+	Constrained: Pattern=aan de, Pattern=die, Pattern=en, Pattern=de, Pattern=aan
+Turn ID=36| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=37| A | A : met die haak
+	Free: Pattern=die, Pattern=met
+	Constrained: 
+Turn ID=38| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=39| A | A : dat zijn negen
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat
+Turn ID=40| A | A : dit zijn die met die plateau door het midden met die twee punt boven haak
+	Free: Pattern=die twee punt, Pattern=plateau, Pattern=dit zijn die met, Pattern=met, Pattern=die, Pattern=door het
+	Constrained: Pattern=door, Pattern=het, Pattern=met, Pattern=die, Pattern=dit zijn
+Turn ID=41| B | B : oké dat zijn N
+	Free: Pattern=oké dat zijn
+	Constrained: Pattern=dat zijn, Pattern=oké, Pattern=dat

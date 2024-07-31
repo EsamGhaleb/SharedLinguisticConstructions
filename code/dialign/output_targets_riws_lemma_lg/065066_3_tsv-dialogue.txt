@@ -1,0 +1,107 @@
+B|0| B: kijken dit _zijn_ die met die voet 
+B|1| B: die _zo'n_ vierkant _op_ _het_ rand _hebben_ staan 
+A|2| A: [op] _zo'n statief_ 
+B|3| B: _ja_ [zo'n statief] inderdaad 
+A|4| A: [ja] 
+B|5| B: en _dan_ 
+A|6| A: [ja] 
+B|7| B: [ja] 
+A|8| A: [dan] [zijn] [het] vier 
+A|9| A: deze [hebben] weer een statiefje 
+A|10| A: een driehoekig statiefje 
+B|11| B: [ja] die met die blok aan _de_ bovenkant 
+A|12| A: [ja] 
+B|13| B: [ja] 
+B|14| B: A 
+B|15| B: kijken dit [zijn] die met _dat_ [statief] die voetensteun 
+A|16| A: [ja] 
+A|17| A: [dat] [zijn] tien 
+A|18| A: [zijn] [dat] [het] [statief] weer 
+B|19| B: L 
+B|20| B: dit [zijn] met die met [dat] [statief] 
+B|21| B: voe 
+A|22| A: [ja] waar [zijn] jij nou ? hier 
+A|23| A: vier 
+A|24| A: [de] [het] [statief] 
+B|25| B: F 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : kijken dit zijn die met die voet
+	Free: Pattern=zijn
+	Constrained: 
+Turn ID=1| B | B : die zo'n vierkant op het rand hebben staan
+	Free: Pattern=op, Pattern=hebben, Pattern=zo'n, Pattern=het
+	Constrained: 
+Turn ID=2| A | A : op zo'n statief
+	Free: Pattern=zo'n statief, Pattern=op
+	Constrained: Pattern=zo'n, Pattern=statief
+Turn ID=3| B | B : ja zo'n statief inderdaad
+	Free: Pattern=zo'n statief, Pattern=ja
+	Constrained: Pattern=zo'n, Pattern=statief
+Turn ID=4| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=5| B | B : en dan
+	Free: Pattern=dan
+	Constrained: 
+Turn ID=6| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=7| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=8| A | A : dan zijn het vier
+	Free: Pattern=het, Pattern=zijn, Pattern=dan
+	Constrained: 
+Turn ID=9| A | A : deze hebben weer een statiefje
+	Free: Pattern=hebben
+	Constrained: 
+Turn ID=10| A | A : een driehoekig statiefje
+	Free: 
+	Constrained: 
+Turn ID=11| B | B : ja die met die blok aan de bovenkant
+	Free: Pattern=ja, Pattern=de
+	Constrained: 
+Turn ID=12| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=13| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=14| B | B : A
+	Free: 
+	Constrained: 
+Turn ID=15| B | B : kijken dit zijn die met dat statief die voetensteun
+	Free: Pattern=dat, Pattern=statief, Pattern=zijn
+	Constrained: 
+Turn ID=16| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=17| A | A : dat zijn tien
+	Free: Pattern=dat, Pattern=zijn
+	Constrained: 
+Turn ID=18| A | A : zijn dat het statief weer
+	Free: Pattern=dat, Pattern=statief, Pattern=het, Pattern=zijn
+	Constrained: 
+Turn ID=19| B | B : L
+	Free: 
+	Constrained: 
+Turn ID=20| B | B : dit zijn met die met dat statief
+	Free: Pattern=dat, Pattern=statief, Pattern=zijn
+	Constrained: 
+Turn ID=21| B | B : voe
+	Free: 
+	Constrained: 
+Turn ID=22| A | A : ja waar zijn jij nou ? hier
+	Free: Pattern=ja, Pattern=zijn
+	Constrained: 
+Turn ID=23| A | A : vier
+	Free: 
+	Constrained: 
+Turn ID=24| A | A : de het statief
+	Free: Pattern=statief, Pattern=het, Pattern=de
+	Constrained: 
+Turn ID=25| B | B : F
+	Free: 
+	Constrained: 

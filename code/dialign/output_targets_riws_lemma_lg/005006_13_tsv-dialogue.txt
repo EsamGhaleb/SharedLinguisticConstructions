@@ -1,0 +1,75 @@
+B|0| B: _het_ zijn _er_ zeggen maar één _en die_ _hebben_ twee soort van kralensnoert rechts _en_ link 
+B|1| B: echt _de_ veel typisch _die_ _er_ zijn eigenlijk _en dan_ _rond schijf_ _aan de_ voorkant 
+A|2| A: [en] hij staan 
+A|3| A: [en] hij staan _op_ een vierkant ding _ja_ ok vijf 
+B|4| B: precies [ja] 
+A|5| A: deze [hebben] weer [die] kralenketting [aan de] zijkant [en] een vierkant 
+B|6| B: _dat_ 
+B|7| B: _dienblad_ 
+A|8| A: dienbladen [ja] [en] een [rond schijf] 
+B|9| B: [ja] J 
+B|10| B: _het_ zijn zegmaar _met die_ kralensnoer [op] _dat dienblad_ 
+A|11| A: elf 
+A|12| A: [met] [het] vierkant [schijf] [en die] kralenketting ding [en] [dat] [rond schijf] 
+B|13| B: B 
+B|14| B: _met die_ kralendingen [op] _dat dienblad_ 
+A|15| A: negen 
+A|16| A: [met die] kralenketting [en dan] [met] [dat dienblad] [er] onder [en] 
+B|17| B: L 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : het zijn er zeggen maar één en die hebben twee soort van kralensnoert rechts en link
+	Free: Pattern=en die, Pattern=het, Pattern=hebben, Pattern=er, Pattern=en
+	Constrained: Pattern=die, Pattern=en
+Turn ID=1| B | B : echt de veel typisch die er zijn eigenlijk en dan rond schijf aan de voorkant
+	Free: Pattern=de, Pattern=en dan, Pattern=aan de, Pattern=die, Pattern=er, Pattern=rond schijf
+	Constrained: Pattern=schijf, Pattern=de, Pattern=en
+Turn ID=2| A | A : en hij staan
+	Free: Pattern=en
+	Constrained: 
+Turn ID=3| A | A : en hij staan op een vierkant ding ja ok vijf
+	Free: Pattern=ja, Pattern=en, Pattern=op
+	Constrained: 
+Turn ID=4| B | B : precies ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=5| A | A : deze hebben weer die kralenketting aan de zijkant en een vierkant
+	Free: Pattern=aan de, Pattern=die, Pattern=hebben, Pattern=en
+	Constrained: Pattern=de
+Turn ID=6| B | B : dat
+	Free: Pattern=dat
+	Constrained: 
+Turn ID=7| B | B : dienblad
+	Free: Pattern=dienblad
+	Constrained: 
+Turn ID=8| A | A : dienbladen ja en een rond schijf
+	Free: Pattern=rond schijf, Pattern=ja, Pattern=en
+	Constrained: Pattern=schijf
+Turn ID=9| B | B : ja J
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=10| B | B : het zijn zegmaar met die kralensnoer op dat dienblad
+	Free: Pattern=met die, Pattern=dat dienblad, Pattern=op, Pattern=het
+	Constrained: Pattern=die, Pattern=dat, Pattern=dienblad, Pattern=met
+Turn ID=11| A | A : elf
+	Free: 
+	Constrained: 
+Turn ID=12| A | A : met het vierkant schijf en die kralenketting ding en dat rond schijf
+	Free: Pattern=en die, Pattern=dat, Pattern=het, Pattern=schijf, Pattern=met, Pattern=en, Pattern=rond schijf
+	Constrained: Pattern=schijf, Pattern=die, Pattern=en
+Turn ID=13| B | B : B
+	Free: 
+	Constrained: 
+Turn ID=14| B | B : met die kralendingen op dat dienblad
+	Free: Pattern=met die, Pattern=dat dienblad, Pattern=op
+	Constrained: Pattern=die, Pattern=dat, Pattern=dienblad, Pattern=met
+Turn ID=15| A | A : negen
+	Free: 
+	Constrained: 
+Turn ID=16| A | A : met die kralenketting en dan met dat dienblad er onder en
+	Free: Pattern=met die, Pattern=en dan, Pattern=met, Pattern=er, Pattern=en, Pattern=dat dienblad
+	Constrained: Pattern=dat, Pattern=met, Pattern=die, Pattern=dienblad, Pattern=en
+Turn ID=17| B | B : L
+	Free: 
+	Constrained: 

@@ -1,0 +1,131 @@
+B|0| B: _ja_ 
+B|1| B: _ja_ 
+B|2| B: _ja_ _het_ lijken _een beetje_ _op_ _een_ tent daarboven 
+B|3| B: _oké_ 
+B|4| B: _ja_ 
+B|5| B: _het_ _zijn_ _een_ _het_ _zijn_ J 
+A|6| A: best veel 
+A|7| A: oeh 
+A|8| A: [ja] zo'n zo'n hut puntig hutje 
+B|9| B: dit _zijn_ diegene met _die_ _driehoek_ _aan de_ bovenkant _en_ _die_ pijl _die_ er _zo_ in gaan 
+A|10| A: [op] [zijn] kop 
+A|11| A: [een beetje] open 
+A|12| A: [en] dan [driehoek] [zo] [op] [zijn] kop 
+A|13| A: [ja] 
+A|14| A: bij mij [zijn] [het] [een] [driehoek] 
+A|15| A: [een] kogel zeggen maar 
+B|16| B: _ja dat_ [zijn] E 
+A|17| A: [en] dan zo'n kogel [aan de] kant 
+A|18| A: [oké] 
+A|19| A: zes 
+B|20| B: [oké] ik hebben _die_ met [de] [driehoek] erop 
+B|21| B: [en] [zo] één klein dinge erin 
+B|22| B: [ja] 
+B|23| B: _dat_ [zijn] G 
+A|24| A: [ja dat] [dat] [dat] scherp [driehoek] [en] dan zo'n kogel _aan de zijkant_ 
+B|25| B: [oké] ik hebben diegene met _die_ piramide _die_ [driehoek] [aan de] bovenkant [en] [zo] [de] pijl daarin [aan de zijkant] 
+A|26| A: nummer tien 
+A|27| A: [dat] [dat] kogel [en] dan [dat] driehoekje [zo] 
+A|28| A: [die] heel scherp [driehoek] 
+A|29| A: jou beurt 
+A|30| A: waar [zijn] je 
+A|31| A: tien 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=1| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=2| B | B : ja het lijken een beetje op een tent daarboven
+	Free: Pattern=ja, Pattern=op, Pattern=een, Pattern=het, Pattern=een beetje
+	Constrained: Pattern=een
+Turn ID=3| B | B : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=4| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=5| B | B : het zijn een het zijn J
+	Free: Pattern=zijn, Pattern=het, Pattern=een
+	Constrained: 
+Turn ID=6| A | A : best veel
+	Free: 
+	Constrained: 
+Turn ID=7| A | A : oeh
+	Free: 
+	Constrained: 
+Turn ID=8| A | A : ja zo'n zo'n hut puntig hutje
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=9| B | B : dit zijn diegene met die driehoek aan de bovenkant en die pijl die er zo in gaan
+	Free: Pattern=driehoek, Pattern=aan de, Pattern=zo, Pattern=die, Pattern=en, Pattern=zijn
+	Constrained: Pattern=de
+Turn ID=10| A | A : op zijn kop
+	Free: Pattern=zijn, Pattern=op
+	Constrained: 
+Turn ID=11| A | A : een beetje open
+	Free: Pattern=een beetje
+	Constrained: Pattern=een
+Turn ID=12| A | A : en dan driehoek zo op zijn kop
+	Free: Pattern=driehoek, Pattern=op, Pattern=zo, Pattern=en, Pattern=zijn
+	Constrained: 
+Turn ID=13| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=14| A | A : bij mij zijn het een driehoek
+	Free: Pattern=zijn, Pattern=het, Pattern=driehoek, Pattern=een
+	Constrained: 
+Turn ID=15| A | A : een kogel zeggen maar
+	Free: Pattern=een
+	Constrained: 
+Turn ID=16| B | B : ja dat zijn E
+	Free: Pattern=ja dat, Pattern=zijn
+	Constrained: Pattern=dat, Pattern=ja
+Turn ID=17| A | A : en dan zo'n kogel aan de kant
+	Free: Pattern=aan de, Pattern=en
+	Constrained: Pattern=de
+Turn ID=18| A | A : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=19| A | A : zes
+	Free: 
+	Constrained: 
+Turn ID=20| B | B : oké ik hebben die met de driehoek erop
+	Free: Pattern=oké, Pattern=die, Pattern=de, Pattern=driehoek
+	Constrained: 
+Turn ID=21| B | B : en zo één klein dinge erin
+	Free: Pattern=en, Pattern=zo
+	Constrained: 
+Turn ID=22| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=23| B | B : dat zijn G
+	Free: Pattern=dat, Pattern=zijn
+	Constrained: 
+Turn ID=24| A | A : ja dat dat dat scherp driehoek en dan zo'n kogel aan de zijkant
+	Free: Pattern=driehoek, Pattern=dat, Pattern=aan de zijkant, Pattern=en, Pattern=ja dat
+	Constrained: Pattern=dat, Pattern=de, Pattern=aan de, Pattern=ja
+Turn ID=25| B | B : oké ik hebben diegene met die piramide die driehoek aan de bovenkant en zo de pijl daarin aan de zijkant
+	Free: Pattern=driehoek, Pattern=de, Pattern=aan de, Pattern=aan de zijkant, Pattern=zo, Pattern=die, Pattern=oké, Pattern=en
+	Constrained: Pattern=aan de, Pattern=de
+Turn ID=26| A | A : nummer tien
+	Free: 
+	Constrained: 
+Turn ID=27| A | A : dat dat kogel en dan dat driehoekje zo
+	Free: Pattern=en, Pattern=dat, Pattern=zo
+	Constrained: 
+Turn ID=28| A | A : die heel scherp driehoek
+	Free: Pattern=die, Pattern=driehoek
+	Constrained: 
+Turn ID=29| A | A : jou beurt
+	Free: 
+	Constrained: 
+Turn ID=30| A | A : waar zijn je
+	Free: Pattern=zijn
+	Constrained: 
+Turn ID=31| A | A : tien
+	Free: 
+	Constrained: 

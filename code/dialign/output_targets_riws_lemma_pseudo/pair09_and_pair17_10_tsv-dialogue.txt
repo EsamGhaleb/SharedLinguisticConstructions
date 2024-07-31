@@ -1,0 +1,139 @@
+B|0| B: _ja_ 
+B|1| B: _ja_ 
+B|2| B: b 
+A|3| A: _deze _hebben_ _een_ soort van_ twee arm _maar_ _de_ rechter _zijn_ _lang_ 
+A|4| A: _en_ _hebben_ _van_ _die_ knobbel in plaats _van_ hand 
+A|5| A: laten we _het_ _zo_ _maar_ zeggen 
+A|6| A: _en_ _die_ _hebben_ _zo_ _iets_ zo'n _ding_ dat _zo_ achteruit steken 
+B|7| B: [deze hebben] [die] [die] stok door [die] emmer heen 
+B|8| B: aan [de] [een] kant [zijn] hij wat _kort_ [en] hij [hebben een] bobbel aan [het] eind _en dan_ aan [de] ander kant [zijn] hij [iets] [lang] 
+B|9| B: achterop [zijn] [een] schuin vierkant 
+B|10| B: _met_ daar ook [een soort van] [ding] eraan 
+B|11| B: [zo] of hij liggen _achter_ [de] emmer [soort van] [een] baseballbat 
+B|12| B: [maar] _dan_ niet echt 
+B|13| B: _achter_ [de] emmer [zijn] [een] 
+B|14| B: _ja_ 
+B|15| B: _ja_ 
+B|16| B: _ja_ [die] staaf lijken [een] beetje op [een] baseballbat 
+A|17| A: [ja] zo'n [ding] [zo] naar [achter] 
+A|18| A: dat [zijn] nummer vier 
+B|19| B: [ja] 
+B|20| B: where did it go ? l 
+A|21| A: [deze hebben] dus [die] twee arm [met] één [de] rechter [lang] [dan] [de] linker [en] [met] [van] [die] knobbel 
+A|22| A: [en dan] 
+A|23| A: [ja] dat klein 
+B|24| B: [deze hebben] [de] baseballbat 
+A|25| A: twee arm [met] 
+A|26| A: [die] [zo] 
+A|27| A: dat [zijn] nummer vier 
+B|28| B: [ja] I 
+B|29| B: De baseballbat 
+A|30| A: [deze hebben] [zo] één [lang] arm één [kort] arm [en] [van] [die] knobbel laten we [het] [zo] [maar] zeggen [met] [de] klein [ding] er [zo] [achter] 
+A|31| A: [die] [zo] 
+A|32| A: waar zitten jij 
+A|33| A: nummer twee 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=1| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=2| B | B : b
+	Free: 
+	Constrained: 
+Turn ID=3| A | A : deze hebben een soort van twee arm maar de rechter zijn lang
+	Free: Pattern=hebben een, Pattern=de, Pattern=deze hebben, Pattern=een soort van, Pattern=lang, Pattern=zijn, Pattern=maar
+	Constrained: Pattern=soort van, Pattern=een, Pattern=hebben, Pattern=van
+Turn ID=4| A | A : en hebben van die knobbel in plaats van hand
+	Free: Pattern=die, Pattern=en, Pattern=hebben, Pattern=van
+	Constrained: 
+Turn ID=5| A | A : laten we het zo maar zeggen
+	Free: Pattern=zo, Pattern=het, Pattern=maar
+	Constrained: 
+Turn ID=6| A | A : en die hebben zo iets zo'n ding dat zo achteruit steken
+	Free: Pattern=iets, Pattern=ding, Pattern=hebben, Pattern=zo, Pattern=die, Pattern=en
+	Constrained: 
+Turn ID=7| B | B : deze hebben die die stok door die emmer heen
+	Free: Pattern=deze hebben, Pattern=die
+	Constrained: Pattern=hebben
+Turn ID=8| B | B : aan de een kant zijn hij wat kort en hij hebben een bobbel aan het eind en dan aan de ander kant zijn hij iets lang
+	Free: Pattern=hebben een, Pattern=en dan, Pattern=een, Pattern=het, Pattern=kort, Pattern=lang, Pattern=en, Pattern=zijn, Pattern=de, Pattern=iets
+	Constrained: Pattern=een, Pattern=en, Pattern=hebben, Pattern=dan
+Turn ID=9| B | B : achterop zijn een schuin vierkant
+	Free: Pattern=een, Pattern=zijn
+	Constrained: 
+Turn ID=10| B | B : met daar ook een soort van ding eraan
+	Free: Pattern=een soort van, Pattern=ding, Pattern=met
+	Constrained: Pattern=soort van, Pattern=een, Pattern=van
+Turn ID=11| B | B : zo of hij liggen achter de emmer soort van een baseballbat
+	Free: Pattern=de, Pattern=een, Pattern=achter, Pattern=zo, Pattern=soort van
+	Constrained: Pattern=van
+Turn ID=12| B | B : maar dan niet echt
+	Free: Pattern=dan, Pattern=maar
+	Constrained: 
+Turn ID=13| B | B : achter de emmer zijn een
+	Free: Pattern=een, Pattern=zijn, Pattern=de, Pattern=achter
+	Constrained: 
+Turn ID=14| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=15| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=16| B | B : ja die staaf lijken een beetje op een baseballbat
+	Free: Pattern=die, Pattern=een, Pattern=ja
+	Constrained: 
+Turn ID=17| A | A : ja zo'n ding zo naar achter
+	Free: Pattern=ding, Pattern=zo, Pattern=ja, Pattern=achter
+	Constrained: 
+Turn ID=18| A | A : dat zijn nummer vier
+	Free: Pattern=zijn
+	Constrained: 
+Turn ID=19| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=20| B | B : where did it go ? l
+	Free: 
+	Constrained: 
+Turn ID=21| A | A : deze hebben dus die twee arm met één de rechter lang dan de linker en met van die knobbel
+	Free: Pattern=de, Pattern=dan, Pattern=deze hebben, Pattern=met, Pattern=die, Pattern=lang, Pattern=van, Pattern=en
+	Constrained: Pattern=hebben
+Turn ID=22| A | A : en dan
+	Free: Pattern=en dan
+	Constrained: Pattern=en, Pattern=dan
+Turn ID=23| A | A : ja dat klein
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=24| B | B : deze hebben de baseballbat
+	Free: Pattern=deze hebben, Pattern=de
+	Constrained: Pattern=hebben
+Turn ID=25| A | A : twee arm met
+	Free: Pattern=met
+	Constrained: 
+Turn ID=26| A | A : die zo
+	Free: Pattern=die, Pattern=zo
+	Constrained: 
+Turn ID=27| A | A : dat zijn nummer vier
+	Free: Pattern=zijn
+	Constrained: 
+Turn ID=28| B | B : ja I
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=29| B | B : De baseballbat
+	Free: 
+	Constrained: 
+Turn ID=30| A | A : deze hebben zo één lang arm één kort arm en van die knobbel laten we het zo maar zeggen met de klein ding er zo achter
+	Free: Pattern=de, Pattern=ding, Pattern=het, Pattern=achter, Pattern=met, Pattern=die, Pattern=kort, Pattern=lang, Pattern=maar, Pattern=deze hebben, Pattern=zo, Pattern=van, Pattern=en
+	Constrained: Pattern=hebben
+Turn ID=31| A | A : die zo
+	Free: Pattern=die, Pattern=zo
+	Constrained: 
+Turn ID=32| A | A : waar zitten jij
+	Free: 
+	Constrained: 
+Turn ID=33| A | A : nummer twee
+	Free: 
+	Constrained: 

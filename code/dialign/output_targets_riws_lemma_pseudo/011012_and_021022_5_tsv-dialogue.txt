@@ -1,0 +1,115 @@
+B|0| B: _ja deze_ _hebben_ eigenlijk _bovenop_ _liggen_ er _een_ _soort_ _een_ _een_ _een_ staaf _of_ _een_ blok _liggen_ er _echt_ _bovenop_ _liggen_ 
+B|1| B: _en _aan de_ zijkant_ steken _een beetje_ _een_ _één_ _één_ _ja_ rond vormig ding uit worden steeds groot 
+B|2| B: volgens _mij_ _zitten_ _die_ ook nog _aan de ander kant_ _maar_ _dat_ vallen net ergens achter _en_ _dan_ _hebben_ je _een_ _soort_ veegje _met_ _een met_ _een_ buisje er in _die_ rechtop _staan_ 
+A|3| A: _zijn_ [dat] [die] [soort] _balk_ _of zo_ [die] _erop liggen_ 
+A|4| A: [ja] 
+A|5| A: oké [en] [die] [bovenop] _zijn_ [echt] [één] [liggen] [liggen] _balk_ 
+A|6| A: oké [ja] [dan] _zijn_ _het_ _bij_ [mij] nummer achten 
+B|7| B: [ja] 
+B|8| B: [en] [bij] [dat] _met_ [dat] buisje [of zo] _met_ [dat] _met_ _dat dinge_ _waar_ [het] _op_ _staan_ [ja] _dat zijn_ [dan] E 
+A|9| A: [ja deze] [zijn] [met] _die balk_ erboven zeggen [maar] 
+A|10| A: [en] [dat dinge] [met] zo'n klein staafje _erop_ 
+A|11| A: _en aan de ander _kant_ zitten_ [ja] jij noemen [het] vleugeltjes 
+A|12| A: [ja] 
+B|13| B: [ja] dit [zijn] diegene [die] [dat] balkje [bovenop] _hebben_ [maar] [die] [dan] [liggen] [en] weer [dat dinge] _aan de zijkant_ [dat] rond [zijn] [en] groot worden 
+B|14| B: [en] [dan] nog [dat] balkje [dat] ergens _op_ _staat_ [en aan de ander kant] ook zoiets 
+A|15| A: [ja] 
+A|16| A: [dat zijn] [bij] [mij] nummer [één] 
+B|17| B: [ja] 
+B|18| B: [ja] [dat zijn] [dan] E 
+B|19| B: [ja] dit [zijn] diegene waarbij [die balk] plat [erop liggen] [die] cirkel _aan de zijkant_ [die] steeds groot worden [die] [aan] beide [kant zitten] [en] [dan] [dat] buis nog [dat] er [aan] vast [zitten] 
+A|20| A: [ja] ik [hebben] nu [die] [een met] [die balk] [erop] [en] [die] vleugel [aan de zijkant] 
+A|21| A: [staan] [bij] [mij] [een beetje] link 
+B|22| B: [ja] 
+A|23| A: [ja] ik denken ik kijken even [waar] jij naartoe kijken 
+A|24| A: daar [zo] daaronder 
+A|25| A: nummer zestien 
+A|26| A: [staan] [bij] [mij] linksonder [met] zo'n [balk] erboven [en] [die] vleugel 
+A|27| A: [deze] [staat] wel ongeveer [op] dezelfde plek 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : ja deze hebben eigenlijk bovenop liggen er een soort een een een staaf of een blok liggen er echt bovenop liggen
+	Free: Pattern=bovenop, Pattern=of, Pattern=soort, Pattern=een, Pattern=hebben, Pattern=echt, Pattern=liggen, Pattern=ja deze
+	Constrained: Pattern=deze, Pattern=ja
+Turn ID=1| B | B : en aan de zijkant steken een beetje een één één ja rond vormig ding uit worden steeds groot
+	Free: Pattern=ja, Pattern=en aan de, Pattern=een, Pattern=aan de zijkant, Pattern=één, Pattern=een beetje
+	Constrained: Pattern=aan, Pattern=een, Pattern=en
+Turn ID=2| B | B : volgens mij zitten die ook nog aan de ander kant maar dat vallen net ergens achter en dan hebben je een soort veegje met een met een buisje er in die rechtop staan
+	Free: Pattern=dat, Pattern=soort, Pattern=dan, Pattern=hebben, Pattern=met, Pattern=een met, Pattern=mij, Pattern=en, Pattern=maar, Pattern=een, Pattern=staan, Pattern=aan de ander kant, Pattern=die, Pattern=zitten
+	Constrained: Pattern=aan, Pattern=een, Pattern=met
+Turn ID=3| A | A : zijn dat die soort balk of zo die erop liggen
+	Free: Pattern=dat, Pattern=soort, Pattern=of zo, Pattern=erop liggen, Pattern=balk, Pattern=die, Pattern=zijn
+	Constrained: Pattern=of, Pattern=liggen, Pattern=zo, Pattern=erop
+Turn ID=4| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=5| A | A : oké en die bovenop zijn echt één liggen liggen balk
+	Free: Pattern=bovenop, Pattern=balk, Pattern=die, Pattern=echt, Pattern=en, Pattern=liggen, Pattern=zijn, Pattern=één
+	Constrained: 
+Turn ID=6| A | A : oké ja dan zijn het bij mij nummer achten
+	Free: Pattern=ja, Pattern=dan, Pattern=het, Pattern=bij, Pattern=mij, Pattern=zijn
+	Constrained: 
+Turn ID=7| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=8| B | B : en bij dat met dat buisje of zo met dat met dat dinge waar het op staan ja dat zijn dan E
+	Free: Pattern=of zo, Pattern=ja, Pattern=waar, Pattern=op, Pattern=dan, Pattern=staan, Pattern=het, Pattern=met, Pattern=dat dinge, Pattern=bij, Pattern=en, Pattern=dat, Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn, Pattern=zo, Pattern=of
+Turn ID=9| A | A : ja deze zijn met die balk erboven zeggen maar
+	Free: Pattern=die balk, Pattern=met, Pattern=ja deze, Pattern=zijn, Pattern=maar
+	Constrained: Pattern=deze, Pattern=die, Pattern=ja, Pattern=balk
+Turn ID=10| A | A : en dat dinge met zo'n klein staafje erop
+	Free: Pattern=dat dinge, Pattern=en, Pattern=erop, Pattern=met
+	Constrained: Pattern=dat
+Turn ID=11| A | A : en aan de ander kant zitten ja jij noemen het vleugeltjes
+	Free: Pattern=en aan de ander kant, Pattern=kant zitten, Pattern=het, Pattern=ja
+	Constrained: Pattern=aan, Pattern=aan de ander kant, Pattern=zitten, Pattern=en, Pattern=en aan de
+Turn ID=12| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=13| B | B : ja dit zijn diegene die dat balkje bovenop hebben maar die dan liggen en weer dat dinge aan de zijkant dat rond zijn en groot worden
+	Free: Pattern=ja, Pattern=dan, Pattern=aan de zijkant, Pattern=hebben, Pattern=en, Pattern=liggen, Pattern=dat, Pattern=bovenop, Pattern=die, Pattern=dat dinge, Pattern=zijn, Pattern=maar
+	Constrained: Pattern=aan, Pattern=dat
+Turn ID=14| B | B : en dan nog dat balkje dat ergens op staat en aan de ander kant ook zoiets
+	Free: Pattern=dat, Pattern=staat, Pattern=op, Pattern=en, Pattern=en aan de ander kant, Pattern=dan
+	Constrained: Pattern=aan, Pattern=en aan de, Pattern=aan de ander kant, Pattern=en
+Turn ID=15| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=16| A | A : dat zijn bij mij nummer één
+	Free: Pattern=dat zijn, Pattern=mij, Pattern=bij, Pattern=één
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=17| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=18| B | B : ja dat zijn dan E
+	Free: Pattern=dat zijn, Pattern=dan, Pattern=ja
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=19| B | B : ja dit zijn diegene waarbij die balk plat erop liggen die cirkel aan de zijkant die steeds groot worden die aan beide kant zitten en dan dat buis nog dat er aan vast zitten
+	Free: Pattern=dat, Pattern=die balk, Pattern=aan de zijkant, Pattern=en, Pattern=zijn, Pattern=kant zitten, Pattern=aan, Pattern=ja, Pattern=erop liggen, Pattern=dan, Pattern=die, Pattern=zitten
+	Constrained: Pattern=aan, Pattern=erop, Pattern=balk, Pattern=liggen, Pattern=die, Pattern=zitten
+Turn ID=20| A | A : ja ik hebben nu die een met die balk erop en die vleugel aan de zijkant
+	Free: Pattern=die balk, Pattern=ja, Pattern=erop, Pattern=aan de zijkant, Pattern=hebben, Pattern=die, Pattern=een met, Pattern=en
+	Constrained: Pattern=aan, Pattern=een, Pattern=balk, Pattern=met, Pattern=die
+Turn ID=21| A | A : staan bij mij een beetje link
+	Free: Pattern=een beetje, Pattern=staan, Pattern=mij, Pattern=bij
+	Constrained: Pattern=een
+Turn ID=22| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=23| A | A : ja ik denken ik kijken even waar jij naartoe kijken
+	Free: Pattern=waar, Pattern=ja
+	Constrained: 
+Turn ID=24| A | A : daar zo daaronder
+	Free: Pattern=zo
+	Constrained: 
+Turn ID=25| A | A : nummer zestien
+	Free: 
+	Constrained: 
+Turn ID=26| A | A : staan bij mij linksonder met zo'n balk erboven en die vleugel
+	Free: Pattern=staan, Pattern=balk, Pattern=met, Pattern=die, Pattern=bij, Pattern=mij, Pattern=en
+	Constrained: 
+Turn ID=27| A | A : deze staat wel ongeveer op dezelfde plek
+	Free: Pattern=deze, Pattern=staat, Pattern=op
+	Constrained: 

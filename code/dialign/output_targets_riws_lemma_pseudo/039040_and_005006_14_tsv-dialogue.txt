@@ -1,0 +1,115 @@
+A|0| A: _ik_ _hebben_ nu één _die_ basisvorm _met_ _een_ bol hier of wachten even _een_ bol hier voor jou _en_ _dan_ zitten _aan de_ ander kant zitten zo'n paal naar beneden 
+A|1| A: _en_ daar zitten zo'n arm _aan_ 
+A|2| A: _ja_ _aan de voorkant_ 
+A|3| A: _ja_ 
+A|4| A: _van die_ 
+A|5| A: _ja_ 
+B|6| B: [ja] 
+B|7| B: [ja] [en] hij [hebben] [een] soort [van] twee _armp_ [aan de] zijkant [dan] _zijn_ _het_ d 
+B|8| B: [ik] moeten klikken toch [ja] 
+A|9| A: [ja] ze veranderen 
+A|10| A: nu weer 
+A|11| A: oké 
+A|12| A: [ja] vijftien 
+B|13| B: hij [hebben] zegmaar [een] bolle _bovenop en_ twee [van die] _armp en_ [een] vierkant pilaar [aan de voorkant] 
+A|14| A: dit [zijn] degeen _met_ [de] [armp en] [de] balle [bovenop en] [de] stok [aan de voorkant] 
+A|15| A: [ja] 
+A|16| A: even kijken horen 
+A|17| A: [ja] 
+A|18| A: nummer zes 
+B|19| B: pilaar 
+B|20| B: L 
+B|21| B: zegmaar bolle [bovenop] twee [armp en] pilaar [aan de voorkant] 
+A|22| A: dit [zijn] degeen _met_ [de] paal [aan de voorkant] [het] ballet erbovenop [en] [de] armpjes 
+B|23| B: J 
+A|24| A: _met die_ peil ervoor 
+A|25| A: sorry [ja] 
+A|26| A: nee dat maken me niet uit [ja] drie 
+B|27| B: [met die] [armp] bolle [bovenop en] pilaar [aan de voorkant] 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : ik hebben nu één die basisvorm met een bol hier of wachten even een bol hier voor jou en dan zitten aan de ander kant zitten zo'n paal naar beneden
+	Free: Pattern=aan de, Pattern=dan, Pattern=een, Pattern=hebben, Pattern=met, Pattern=die, Pattern=ik, Pattern=en
+	Constrained: Pattern=aan, Pattern=de
+Turn ID=1| A | A : en daar zitten zo'n arm aan
+	Free: Pattern=aan, Pattern=en
+	Constrained: 
+Turn ID=2| A | A : ja aan de voorkant
+	Free: Pattern=aan de voorkant, Pattern=ja
+	Constrained: Pattern=aan, Pattern=de, Pattern=aan de
+Turn ID=3| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=4| A | A : van die
+	Free: Pattern=van die
+	Constrained: Pattern=die, Pattern=van
+Turn ID=5| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=6| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=7| B | B : ja en hij hebben een soort van twee armp aan de zijkant dan zijn het d
+	Free: Pattern=ja, Pattern=aan de, Pattern=dan, Pattern=een, Pattern=armp, Pattern=het, Pattern=hebben, Pattern=zijn, Pattern=van, Pattern=en
+	Constrained: Pattern=aan, Pattern=de
+Turn ID=8| B | B : ik moeten klikken toch ja
+	Free: Pattern=ik, Pattern=ja
+	Constrained: 
+Turn ID=9| A | A : ja ze veranderen
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=10| A | A : nu weer
+	Free: 
+	Constrained: 
+Turn ID=11| A | A : oké
+	Free: 
+	Constrained: 
+Turn ID=12| A | A : ja vijftien
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=13| B | B : hij hebben zegmaar een bolle bovenop en twee van die armp en een vierkant pilaar aan de voorkant
+	Free: Pattern=een, Pattern=bovenop en, Pattern=hebben, Pattern=aan de voorkant, Pattern=van die, Pattern=armp en
+	Constrained: Pattern=bovenop, Pattern=aan de, Pattern=armp, Pattern=die, Pattern=de, Pattern=aan, Pattern=van, Pattern=en
+Turn ID=14| A | A : dit zijn degeen met de armp en de balle bovenop en de stok aan de voorkant
+	Free: Pattern=de, Pattern=bovenop en, Pattern=met, Pattern=armp en, Pattern=zijn, Pattern=aan de voorkant
+	Constrained: Pattern=bovenop, Pattern=aan de, Pattern=armp, Pattern=en, Pattern=de, Pattern=aan
+Turn ID=15| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=16| A | A : even kijken horen
+	Free: 
+	Constrained: 
+Turn ID=17| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=18| A | A : nummer zes
+	Free: 
+	Constrained: 
+Turn ID=19| B | B : pilaar
+	Free: 
+	Constrained: 
+Turn ID=20| B | B : L
+	Free: 
+	Constrained: 
+Turn ID=21| B | B : zegmaar bolle bovenop twee armp en pilaar aan de voorkant
+	Free: Pattern=aan de voorkant, Pattern=armp en, Pattern=bovenop
+	Constrained: Pattern=aan de, Pattern=armp, Pattern=en, Pattern=de, Pattern=aan
+Turn ID=22| A | A : dit zijn degeen met de paal aan de voorkant het ballet erbovenop en de armpjes
+	Free: Pattern=de, Pattern=het, Pattern=met, Pattern=en, Pattern=zijn, Pattern=aan de voorkant
+	Constrained: Pattern=aan, Pattern=de, Pattern=aan de
+Turn ID=23| B | B : J
+	Free: 
+	Constrained: 
+Turn ID=24| A | A : met die peil ervoor
+	Free: Pattern=met die
+	Constrained: Pattern=die, Pattern=met
+Turn ID=25| A | A : sorry ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=26| A | A : nee dat maken me niet uit ja drie
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=27| B | B : met die armp bolle bovenop en pilaar aan de voorkant
+	Free: Pattern=aan de voorkant, Pattern=bovenop en, Pattern=met die, Pattern=armp
+	Constrained: Pattern=bovenop, Pattern=aan de, Pattern=met, Pattern=die, Pattern=en, Pattern=de, Pattern=aan

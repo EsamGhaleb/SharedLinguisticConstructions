@@ -1,0 +1,119 @@
+A|0| A: _oké_ _deze hebben een soort_ punt _bovenop_ 
+A|1| A: _en dan_ _een_ _een soort_ _vierkant_ _aan de_ rechterkant _dat_ zo steeds breder worden 
+B|2| B: lijken [een] beetje op [een] hoed vinden ik 
+B|3| B: of niet 
+B|4| B: _ja_ 
+B|5| B: _met_ vier hoek maar [dan] geen [vierkant] 
+B|6| B: [oké] 
+B|7| B: _dat zijn bij mij_ J 
+A|8| A: [ja] [dat zijn bij mij] zes 
+B|9| B: [deze hebben een soort] driehoek [aan de] bovenkant 
+B|10| B: [en] het vierhoekding wat niet [vierkant] [zijn] of geen kubus [zijn] [aan] beetje voorkant rechts 
+B|11| B: [en dan] links _die_ [ja] wolk of zoiets of hoe noemen je het 
+B|12| B: [ja] 
+B|13| B: [en dan] [aan] linksonder nog [een] schijf 
+A|14| A: [deze hebben] [die] punt _bovenop_ 
+A|15| A: [en] [dat] [vierkant] [dat] steeds breder worden [aan de] rechterkant 
+A|16| A: [ja] [dat zijn bij mij] tien 
+B|17| B: [ja] 
+B|18| B: [ja] 
+B|19| B: [dat zijn bij mij] E 
+B|20| B: [deze] [zijn] _met_ [de] driehoek [aan de] bovenkant [en] [de] schijf [aan de] onderkant [en] rechts het vierhoek [en] link [de] 
+B|21| B: [ja] 
+A|22| A: [die] [met] [die] punt _bovenop_ [en] [dat] [vierkant] [aan de] zijkant [dat] steeds breder worden 
+A|23| A: [ja] [dat zijn] nummer tien 
+B|24| B: [ja] 
+B|25| B: waar staan [die] 
+B|26| B: [ja] 
+B|27| B: [dat zijn bij mij] G 
+B|28| B: dit [zijn] [met] [dat] wolk [aan de] linkerkant [en] [een] driehoekje [bovenop] 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : oké deze hebben een soort punt bovenop
+	Free: Pattern=deze hebben een soort, Pattern=oké, Pattern=bovenop
+	Constrained: Pattern=een soort, Pattern=deze hebben, Pattern=een, Pattern=deze
+Turn ID=1| A | A : en dan een een soort vierkant aan de rechterkant dat zo steeds breder worden
+	Free: Pattern=dat, Pattern=en dan, Pattern=aan de, Pattern=een, Pattern=een soort, Pattern=vierkant
+	Constrained: Pattern=dan, Pattern=een, Pattern=en, Pattern=de, Pattern=aan
+Turn ID=2| B | B : lijken een beetje op een hoed vinden ik
+	Free: Pattern=een
+	Constrained: 
+Turn ID=3| B | B : of niet
+	Free: 
+	Constrained: 
+Turn ID=4| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=5| B | B : met vier hoek maar dan geen vierkant
+	Free: Pattern=dan, Pattern=vierkant, Pattern=met
+	Constrained: 
+Turn ID=6| B | B : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=7| B | B : dat zijn bij mij J
+	Free: Pattern=dat zijn bij mij
+	Constrained: Pattern=dat, Pattern=zijn, Pattern=dat zijn
+Turn ID=8| A | A : ja dat zijn bij mij zes
+	Free: Pattern=dat zijn bij mij, Pattern=ja
+	Constrained: Pattern=dat, Pattern=zijn, Pattern=dat zijn
+Turn ID=9| B | B : deze hebben een soort driehoek aan de bovenkant
+	Free: Pattern=deze hebben een soort, Pattern=aan de
+	Constrained: Pattern=een, Pattern=deze hebben, Pattern=een soort, Pattern=deze, Pattern=de, Pattern=aan
+Turn ID=10| B | B : en het vierhoekding wat niet vierkant zijn of geen kubus zijn aan beetje voorkant rechts
+	Free: Pattern=aan, Pattern=zijn, Pattern=vierkant, Pattern=en
+	Constrained: 
+Turn ID=11| B | B : en dan links die ja wolk of zoiets of hoe noemen je het
+	Free: Pattern=en dan, Pattern=ja, Pattern=die
+	Constrained: Pattern=dan, Pattern=en
+Turn ID=12| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=13| B | B : en dan aan linksonder nog een schijf
+	Free: Pattern=en dan, Pattern=aan, Pattern=een
+	Constrained: Pattern=dan, Pattern=en
+Turn ID=14| A | A : deze hebben die punt bovenop
+	Free: Pattern=deze hebben, Pattern=die, Pattern=bovenop
+	Constrained: Pattern=deze
+Turn ID=15| A | A : en dat vierkant dat steeds breder worden aan de rechterkant
+	Free: Pattern=aan de, Pattern=dat, Pattern=vierkant, Pattern=en
+	Constrained: Pattern=aan, Pattern=de
+Turn ID=16| A | A : ja dat zijn bij mij tien
+	Free: Pattern=dat zijn bij mij, Pattern=ja
+	Constrained: Pattern=dat, Pattern=zijn, Pattern=dat zijn
+Turn ID=17| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=18| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=19| B | B : dat zijn bij mij E
+	Free: Pattern=dat zijn bij mij
+	Constrained: Pattern=dat, Pattern=zijn, Pattern=dat zijn
+Turn ID=20| B | B : deze zijn met de driehoek aan de bovenkant en de schijf aan de onderkant en rechts het vierhoek en link de
+	Free: Pattern=de, Pattern=aan de, Pattern=met, Pattern=en, Pattern=zijn, Pattern=deze
+	Constrained: Pattern=aan, Pattern=de
+Turn ID=21| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=22| A | A : die met die punt bovenop en dat vierkant aan de zijkant dat steeds breder worden
+	Free: Pattern=aan de, Pattern=met, Pattern=die, Pattern=en, Pattern=vierkant, Pattern=dat, Pattern=bovenop
+	Constrained: Pattern=aan, Pattern=de
+Turn ID=23| A | A : ja dat zijn nummer tien
+	Free: Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=24| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=25| B | B : waar staan die
+	Free: Pattern=die
+	Constrained: 
+Turn ID=26| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=27| B | B : dat zijn bij mij G
+	Free: Pattern=dat zijn bij mij
+	Constrained: Pattern=dat, Pattern=zijn, Pattern=dat zijn
+Turn ID=28| B | B : dit zijn met dat wolk aan de linkerkant en een driehoekje bovenop
+	Free: Pattern=aan de, Pattern=een, Pattern=met, Pattern=en, Pattern=zijn, Pattern=dat, Pattern=bovenop
+	Constrained: Pattern=aan, Pattern=de

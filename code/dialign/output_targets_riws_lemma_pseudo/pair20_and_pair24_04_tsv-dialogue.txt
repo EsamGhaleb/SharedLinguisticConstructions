@@ -1,0 +1,107 @@
+A|0| A: nou dat duren even 
+A|1| A: _ja_ 
+A|2| A: nee 
+A|3| A: dit _zijn_ het komme _en_ daarbovenop _zitten die_ koffiefiltervorm dus _een soort_ bakje omgekeerd _en_ daarnaast _zitten_ _twee_ blok _die_ even groot _zijn_ rechts _zitten die_ 
+A|4| A: _ja_ _een_ draaiinkje _en_ _en_ dan nog _soort_ wijz van _een_ klok naar links _ook_ 
+B|5| B: [ja] 
+B|6| B: [ja] [ja] [ja] [ja] 
+B|7| B: [ja] [en] hij _hebben_ [een soort] hoedje op 
+B|8| B: [zijn] nummer of letter A 
+A|9| A: [ja] 
+A|10| A: _die_ even groot [zijn] 
+A|11| A: achten 
+A|12| A: ik [hebben] nu diegene _met_ _die_ omgekeerd koffiefilter [en] _die twee_ _aan de rechterkant_ gelijkwaardig 
+B|13| B: [een] bak [met] [een] hoed [en] [aan de rechterkant] [twee] gelijk uitsteeksel 
+B|14| B: [en] [aan de] linkerkant [twee] [ook] [twee] uitsteeksel maar [die] [zijn] totaal anders 
+A|15| A: [twee] balk [aan de] 
+A|16| A: [ja] vijf 
+A|17| A: dit [zijn] [met] het koffiefilter [en] [de] [twee] balk [die] even groot [zijn] [aan de rechterkant] 
+B|18| B: [aan de rechterkant] [zitten [die] twee] gelijk 
+B|19| B: A 
+A|20| A: [een] veertien 
+B|21| B: bak [met] [twee] gelijk uitstulping [aan de rechterkant] 
+B|22| B: [en] bovenop [een] 
+B|23| B: [soort] hoedje [ja] 
+B|24| B: P 
+B|25| B: bak [met] [twee] gelijk uitstulping [aan de rechterkant] [en] [een] hoed op 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : nou dat duren even
+	Free: 
+	Constrained: 
+Turn ID=1| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=2| A | A : nee
+	Free: 
+	Constrained: 
+Turn ID=3| A | A : dit zijn het komme en daarbovenop zitten die koffiefiltervorm dus een soort bakje omgekeerd en daarnaast zitten twee blok die even groot zijn rechts zitten die
+	Free: Pattern=twee, Pattern=een soort, Pattern=zijn, Pattern=die, Pattern=zitten, Pattern=en, Pattern=zitten die
+	Constrained: Pattern=een, Pattern=soort, Pattern=die, Pattern=zitten
+Turn ID=4| A | A : ja een draaiinkje en en dan nog soort wijz van een klok naar links ook
+	Free: Pattern=soort, Pattern=ja, Pattern=ook, Pattern=een, Pattern=en
+	Constrained: 
+Turn ID=5| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=6| B | B : ja ja ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=7| B | B : ja en hij hebben een soort hoedje op
+	Free: Pattern=een soort, Pattern=ja, Pattern=en, Pattern=hebben
+	Constrained: Pattern=een, Pattern=soort
+Turn ID=8| B | B : zijn nummer of letter A
+	Free: Pattern=zijn
+	Constrained: 
+Turn ID=9| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=10| A | A : die even groot zijn
+	Free: Pattern=zijn, Pattern=die
+	Constrained: 
+Turn ID=11| A | A : achten
+	Free: 
+	Constrained: 
+Turn ID=12| A | A : ik hebben nu diegene met die omgekeerd koffiefilter en die twee aan de rechterkant gelijkwaardig
+	Free: Pattern=die twee, Pattern=hebben, Pattern=met, Pattern=en, Pattern=aan de rechterkant, Pattern=die
+	Constrained: Pattern=twee, Pattern=de, Pattern=die, Pattern=aan de
+Turn ID=13| B | B : een bak met een hoed en aan de rechterkant twee gelijk uitsteeksel
+	Free: Pattern=twee, Pattern=een, Pattern=met, Pattern=aan de rechterkant, Pattern=en
+	Constrained: Pattern=aan de, Pattern=de
+Turn ID=14| B | B : en aan de linkerkant twee ook twee uitsteeksel maar die zijn totaal anders
+	Free: Pattern=twee, Pattern=die, Pattern=en, Pattern=zijn, Pattern=aan de, Pattern=ook
+	Constrained: Pattern=de
+Turn ID=15| A | A : twee balk aan de
+	Free: Pattern=aan de, Pattern=twee
+	Constrained: Pattern=de
+Turn ID=16| A | A : ja vijf
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=17| A | A : dit zijn met het koffiefilter en de twee balk die even groot zijn aan de rechterkant
+	Free: Pattern=twee, Pattern=de, Pattern=met, Pattern=en, Pattern=zijn, Pattern=aan de rechterkant, Pattern=die
+	Constrained: Pattern=aan de, Pattern=de
+Turn ID=18| B | B : aan de rechterkant zitten die twee gelijk
+	Free: Pattern=aan de rechterkant, Pattern=die twee, Pattern=zitten die
+	Constrained: Pattern=twee, Pattern=de, Pattern=aan de, Pattern=die, Pattern=zitten
+Turn ID=19| B | B : A
+	Free: 
+	Constrained: 
+Turn ID=20| A | A : een veertien
+	Free: Pattern=een
+	Constrained: 
+Turn ID=21| B | B : bak met twee gelijk uitstulping aan de rechterkant
+	Free: Pattern=aan de rechterkant, Pattern=twee, Pattern=met
+	Constrained: Pattern=aan de, Pattern=de
+Turn ID=22| B | B : en bovenop een
+	Free: Pattern=een, Pattern=en
+	Constrained: 
+Turn ID=23| B | B : soort hoedje ja
+	Free: Pattern=ja, Pattern=soort
+	Constrained: 
+Turn ID=24| B | B : P
+	Free: 
+	Constrained: 
+Turn ID=25| B | B : bak met twee gelijk uitstulping aan de rechterkant en een hoed op
+	Free: Pattern=twee, Pattern=een, Pattern=met, Pattern=aan de rechterkant, Pattern=en
+	Constrained: Pattern=aan de, Pattern=de

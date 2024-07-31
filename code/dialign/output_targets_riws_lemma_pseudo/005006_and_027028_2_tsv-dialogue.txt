@@ -1,0 +1,107 @@
+A|0| A: deze hebben _een_ hanekam gewoon _een_ driehoekje best wel groot _er_ op 
+A|1| A: _en_ _dan_ _een_ vierkan wat heel raar aflopen wat _er_ in gaan zegmaar 
+A|2| A: _ja en_ _dan_ _een_ pun wat _er_ in doorgaan _en_ _aan de_ onderkant _zitten_ _een_ rond wat ook _een_ beetje verstopken _zitten_ 
+B|3| B: [ja en] [er] [zitten] zo'n [ja] soort isteken [aan de] [een] kant zeker 
+B|4| B: [ja] 
+B|5| B: [dan] zijn _dat_ wachten 
+B|6| B: _dat_ zijn J 
+A|7| A: [ja] 
+A|8| A: [ja en] [dan] _met_ [dat] rond schijf wat je half zien half niet 
+A|9| A: zes 
+B|10| B: dit zijn [dat] feestmuts _met die_ _blok en_ zo 
+B|11| B: [ja] [ja] 
+B|12| B: [ja] 
+A|13| A: [de] hanenkam [en] [dat] [blok en] [dat] schuif [en] _het_ punt 
+B|14| B: papier hoedje 
+B|15| B: [ja] 
+B|16| B: [ja] 
+B|17| B: E 
+A|18| A: tien 
+B|19| B: dit zijn [het] papieren hoedje 
+A|20| A: [met die] hanenkam 
+A|21| A: inhaal tien 
+B|22| B: feesthoed [ja] 
+B|23| B: ah 
+B|24| B: G 
+B|25| B: [de] feesthoed 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : deze hebben een hanekam gewoon een driehoekje best wel groot er op
+	Free: Pattern=een, Pattern=er
+	Constrained: 
+Turn ID=1| A | A : en dan een vierkan wat heel raar aflopen wat er in gaan zegmaar
+	Free: Pattern=een, Pattern=er, Pattern=dan, Pattern=en
+	Constrained: 
+Turn ID=2| A | A : ja en dan een pun wat er in doorgaan en aan de onderkant zitten een rond wat ook een beetje verstopken zitten
+	Free: Pattern=aan de, Pattern=dan, Pattern=een, Pattern=zitten, Pattern=er, Pattern=en, Pattern=ja en
+	Constrained: Pattern=ja, Pattern=de, Pattern=en
+Turn ID=3| B | B : ja en er zitten zo'n ja soort isteken aan de een kant zeker
+	Free: Pattern=ja, Pattern=aan de, Pattern=een, Pattern=zitten, Pattern=er, Pattern=ja en
+	Constrained: Pattern=ja, Pattern=de, Pattern=en
+Turn ID=4| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=5| B | B : dan zijn dat wachten
+	Free: Pattern=dat, Pattern=dan
+	Constrained: 
+Turn ID=6| B | B : dat zijn J
+	Free: Pattern=dat
+	Constrained: 
+Turn ID=7| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=8| A | A : ja en dan met dat rond schijf wat je half zien half niet
+	Free: Pattern=ja en, Pattern=dat, Pattern=dan, Pattern=met
+	Constrained: Pattern=ja, Pattern=en
+Turn ID=9| A | A : zes
+	Free: 
+	Constrained: 
+Turn ID=10| B | B : dit zijn dat feestmuts met die blok en zo
+	Free: Pattern=blok en, Pattern=met die, Pattern=dat
+	Constrained: Pattern=met, Pattern=en
+Turn ID=11| B | B : ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=12| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=13| A | A : de hanenkam en dat blok en dat schuif en het punt
+	Free: Pattern=dat, Pattern=de, Pattern=het, Pattern=en, Pattern=blok en
+	Constrained: Pattern=en
+Turn ID=14| B | B : papier hoedje
+	Free: 
+	Constrained: 
+Turn ID=15| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=16| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=17| B | B : E
+	Free: 
+	Constrained: 
+Turn ID=18| A | A : tien
+	Free: 
+	Constrained: 
+Turn ID=19| B | B : dit zijn het papieren hoedje
+	Free: Pattern=het
+	Constrained: 
+Turn ID=20| A | A : met die hanenkam
+	Free: Pattern=met die
+	Constrained: Pattern=met
+Turn ID=21| A | A : inhaal tien
+	Free: 
+	Constrained: 
+Turn ID=22| B | B : feesthoed ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=23| B | B : ah
+	Free: 
+	Constrained: 
+Turn ID=24| B | B : G
+	Free: 
+	Constrained: 
+Turn ID=25| B | B : de feesthoed
+	Free: Pattern=de
+	Constrained: 

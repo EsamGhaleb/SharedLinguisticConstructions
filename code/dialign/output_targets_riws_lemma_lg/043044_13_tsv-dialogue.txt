@@ -1,0 +1,99 @@
+B|0| B: _oké_ 
+B|1| B: _ik hebben_ _een_ vierkant als ondergrond _en_ door het het object heen zitten zitten _een_ staaf lijken het wel _met_ _drie_ _van_ _die_ balle _aan de_ uiteinde 
+A|2| A: _ja ik hebben hem_ 
+B|3| B: [ja] 
+B|4| B: _oké_ 
+A|5| A: _dat zijn_ nummer vijf 
+A|6| A: [oké] _dit zijn_ degeen [die] op [een] soort [van] plaat staan [met] [een] één [ja] _aan beide kant_ [een] soort [drie] bollet [ik] noemen _dat_ zelf [een] beetje _kraalt_ 
+B|7| B: [ja] 
+B|8| B: [ja ik hebben hem] al 
+A|9| A: yes helemaal goed 
+B|10| B: [dat zijn] J 
+B|11| B: [dit zijn] [die] [met] het _plateau_ _aan de_ onderkant _en_ [die] [drie] _kraal [aan_ beide kant] 
+A|12| A: yes 
+A|13| A: [dat zijn] elf 
+A|14| A: [dit zijn] weer op zo'n op zo'n soort [van] [een] [een] plat [ja] one's [ik] komen even niet op 
+B|15| B: _plateau_ 
+A|16| A: [ja] gewoon [ja] [plateau] inderdaad [en] dan [met] [die] [kraal] zeggen maar 
+B|17| B: [ja] 
+B|18| B: P 
+B|19| B: [dit zijn] _de_ _plateau met_ _de_ [drie] [kraalt] [aan beide kant] 
+A|20| A: [oké] 
+A|21| A: [die] [hebben] [ik] op negen 
+A|22| A: [dit zijn] weer op zo'n op zo'n [plateau met] dan [de] [kraal [aan] de] zijkant 
+B|23| B: [ja] L 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=1| B | B : ik hebben een vierkant als ondergrond en door het het object heen zitten zitten een staaf lijken het wel met drie van die balle aan de uiteinde
+	Free: Pattern=ik hebben, Pattern=aan de, Pattern=een, Pattern=drie, Pattern=met, Pattern=die, Pattern=van, Pattern=en
+	Constrained: Pattern=ik, Pattern=de, Pattern=hebben
+Turn ID=2| A | A : ja ik hebben hem
+	Free: Pattern=ja ik hebben hem
+	Constrained: Pattern=ik hebben, Pattern=ja, Pattern=ik, Pattern=hebben
+Turn ID=3| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=4| B | B : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=5| A | A : dat zijn nummer vijf
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat
+Turn ID=6| A | A : oké dit zijn degeen die op een soort van plaat staan met een één ja aan beide kant een soort drie bollet ik noemen dat zelf een beetje kraalt
+	Free: Pattern=dat, Pattern=ja, Pattern=aan beide kant, Pattern=een, Pattern=drie, Pattern=met, Pattern=die, Pattern=oké, Pattern=ik, Pattern=van, Pattern=kraalt, Pattern=dit zijn
+	Constrained: 
+Turn ID=7| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=8| B | B : ja ik hebben hem al
+	Free: Pattern=ja ik hebben hem
+	Constrained: Pattern=ik hebben, Pattern=ja, Pattern=ik, Pattern=hebben
+Turn ID=9| A | A : yes helemaal goed
+	Free: 
+	Constrained: 
+Turn ID=10| B | B : dat zijn J
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat
+Turn ID=11| B | B : dit zijn die met het plateau aan de onderkant en die drie kraal aan beide kant
+	Free: Pattern=aan de, Pattern=drie, Pattern=plateau, Pattern=met, Pattern=die, Pattern=en, Pattern=dit zijn, Pattern=kraal aan, Pattern=aan beide kant
+	Constrained: Pattern=de, Pattern=kraal
+Turn ID=12| A | A : yes
+	Free: 
+	Constrained: 
+Turn ID=13| A | A : dat zijn elf
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat
+Turn ID=14| A | A : dit zijn weer op zo'n op zo'n soort van een een plat ja one's ik komen even niet op
+	Free: Pattern=ja, Pattern=een, Pattern=ik, Pattern=van, Pattern=dit zijn
+	Constrained: 
+Turn ID=15| B | B : plateau
+	Free: Pattern=plateau
+	Constrained: 
+Turn ID=16| A | A : ja gewoon ja plateau inderdaad en dan met die kraal zeggen maar
+	Free: Pattern=kraal, Pattern=ja, Pattern=plateau, Pattern=met, Pattern=die, Pattern=en
+	Constrained: 
+Turn ID=17| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=18| B | B : P
+	Free: 
+	Constrained: 
+Turn ID=19| B | B : dit zijn de plateau met de drie kraalt aan beide kant
+	Free: Pattern=de, Pattern=aan beide kant, Pattern=drie, Pattern=kraalt, Pattern=dit zijn, Pattern=plateau met
+	Constrained: Pattern=plateau, Pattern=met
+Turn ID=20| A | A : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=21| A | A : die hebben ik op negen
+	Free: Pattern=ik, Pattern=die, Pattern=hebben
+	Constrained: 
+Turn ID=22| A | A : dit zijn weer op zo'n op zo'n plateau met dan de kraal aan de zijkant
+	Free: Pattern=de, Pattern=kraal aan, Pattern=aan de, Pattern=dit zijn, Pattern=plateau met
+	Constrained: Pattern=plateau, Pattern=de, Pattern=met, Pattern=kraal
+Turn ID=23| B | B : ja L
+	Free: Pattern=ja
+	Constrained: 

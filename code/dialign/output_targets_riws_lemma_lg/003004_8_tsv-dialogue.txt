@@ -1,0 +1,163 @@
+A|0| A: _ja_ _ik_ zijn _ik weten niet waarom_ die hebben _ik_ beschrijven als _Pinokkio_ maar dan _ja_ _het_ zijn 
+B|1| B: [ik weten] al welk je bedoelen _ik vinden _het_ een_ _boiler_ denken [ik] 
+A|2| A: nou [het] zijn [het] zijn [een] [het] hebben [een] heel lang neus _zo_ maar aan _de_ achterkant hebben [het een] soort van geruit geruit _iets_ _met_ [een] soort _boek_ _met_ twee _vierkant_ blok _ja_ 
+B|3| B: [met] [zo] 
+B|4| B: [ja] 
+B|5| B: [ja] 
+B|6| B: [ja] 
+B|7| B: [ja] 
+A|8| A: [ik vinden het] één die neus _Pinokkio_ _en_ _dat boek_ daar hebben [ik] nog _iets ander_ bij zetten maar 
+B|9| B: [ja] 
+B|10| B: [ja] 
+A|11| A: [ja] 
+B|12| B: [ik vinden het] echt _op_ [een] _boiler_ lijken [ik weten niet waarom] 
+A|13| A: [ja] kloppen [op] zich ook wel [een] beetje [ja] 
+B|14| B: M 
+B|15| B: _ik noemen het_ _de boiler_ 
+B|16| B: _jij_ _noemen het_ [iets ander] 
+A|17| A: [ja] 
+B|18| B: _met dat_ [vierkant] _boek bovenop_ 
+A|19| A: [ja] [ja] [ja] [ik noemen het] _Pinokkio_ maar [de boiler] [ja] 
+B|20| B: [Pinokkio] [ja] [Pinokkio] 
+A|21| A: negen 
+A|22| A: [Pinokkio] [jij] [de boiler] 
+B|23| B: [de] 
+A|24| A: [ja] [de boiler] 
+B|25| B: [de boiler] 
+B|26| B: [ik] zien hem [niet] 
+A|27| A: [met dat] [ja] [met dat] gek [vierkant] ding _en_ [de] twee zeggen maar die [vierkant] ding aan [de] achterkant _en_ 
+B|28| B: [ja] [en] [met _dat] boek bovenop_ 
+A|29| A: [ja] [dat boek bovenop] [ja] precies 
+B|30| B: [ja] 
+B|31| B: H 
+B|32| B: oké [de boiler] 
+A|33| A: [de boiler] 
+A|34| A: [ja] [dat] zijn elf 
+A|35| A: dan zitten die wel goed 
+A|36| A: [de boiler] 
+B|37| B: [de boiler] 
+A|38| A: [de boiler] 
+A|39| A: die hebben we ah daar veertien 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : ja ik zijn ik weten niet waarom die hebben ik beschrijven als Pinokkio maar dan ja het zijn
+	Free: Pattern=ja, Pattern=het, Pattern=ik weten niet waarom, Pattern=Pinokkio, Pattern=ik
+	Constrained: Pattern=ik weten, Pattern=niet, Pattern=ik
+Turn ID=1| B | B : ik weten al welk je bedoelen ik vinden het een boiler denken ik
+	Free: Pattern=het een, Pattern=boiler, Pattern=ik weten, Pattern=ik, Pattern=ik vinden het
+	Constrained: Pattern=een, Pattern=het, Pattern=ik
+Turn ID=2| A | A : nou het zijn het zijn een het hebben een heel lang neus zo maar aan de achterkant hebben het een soort van geruit geruit iets met een soort boek met twee vierkant blok ja
+	Free: Pattern=het een, Pattern=een, Pattern=het, Pattern=zo, Pattern=boek, Pattern=met, Pattern=vierkant, Pattern=de, Pattern=iets, Pattern=ja
+	Constrained: Pattern=het, Pattern=een
+Turn ID=3| B | B : met zo
+	Free: Pattern=zo, Pattern=met
+	Constrained: 
+Turn ID=4| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=5| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=6| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=7| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=8| A | A : ik vinden het één die neus Pinokkio en dat boek daar hebben ik nog iets ander bij zetten maar
+	Free: Pattern=dat boek, Pattern=Pinokkio, Pattern=ik, Pattern=en, Pattern=iets ander, Pattern=ik vinden het
+	Constrained: Pattern=dat, Pattern=iets, Pattern=het, Pattern=boek, Pattern=ik
+Turn ID=9| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=10| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=11| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=12| B | B : ik vinden het echt op een boiler lijken ik weten niet waarom
+	Free: Pattern=op, Pattern=een, Pattern=ik weten niet waarom, Pattern=boiler, Pattern=ik vinden het
+	Constrained: Pattern=ik weten, Pattern=niet, Pattern=het, Pattern=ik
+Turn ID=13| A | A : ja kloppen op zich ook wel een beetje ja
+	Free: Pattern=ja, Pattern=een, Pattern=op
+	Constrained: 
+Turn ID=14| B | B : M
+	Free: 
+	Constrained: 
+Turn ID=15| B | B : ik noemen het de boiler
+	Free: Pattern=ik noemen het, Pattern=de boiler
+	Constrained: Pattern=de, Pattern=het, Pattern=boiler, Pattern=noemen het, Pattern=ik
+Turn ID=16| B | B : jij noemen het iets ander
+	Free: Pattern=iets ander, Pattern=noemen het, Pattern=jij
+	Constrained: Pattern=het, Pattern=iets
+Turn ID=17| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=18| B | B : met dat vierkant boek bovenop
+	Free: Pattern=met dat, Pattern=boek bovenop, Pattern=vierkant
+	Constrained: Pattern=dat, Pattern=met, Pattern=boek
+Turn ID=19| A | A : ja ja ja ik noemen het Pinokkio maar de boiler ja
+	Free: Pattern=ik noemen het, Pattern=de boiler, Pattern=ja, Pattern=Pinokkio
+	Constrained: Pattern=de, Pattern=het, Pattern=boiler, Pattern=noemen het, Pattern=ik
+Turn ID=20| B | B : Pinokkio ja Pinokkio
+	Free: Pattern=ja, Pattern=Pinokkio
+	Constrained: 
+Turn ID=21| A | A : negen
+	Free: 
+	Constrained: 
+Turn ID=22| A | A : Pinokkio jij de boiler
+	Free: Pattern=de boiler, Pattern=jij, Pattern=Pinokkio
+	Constrained: Pattern=de, Pattern=boiler
+Turn ID=23| B | B : de
+	Free: Pattern=de
+	Constrained: 
+Turn ID=24| A | A : ja de boiler
+	Free: Pattern=de boiler, Pattern=ja
+	Constrained: Pattern=de, Pattern=boiler
+Turn ID=25| B | B : de boiler
+	Free: Pattern=de boiler
+	Constrained: Pattern=de, Pattern=boiler
+Turn ID=26| B | B : ik zien hem niet
+	Free: Pattern=ik, Pattern=niet
+	Constrained: 
+Turn ID=27| A | A : met dat ja met dat gek vierkant ding en de twee zeggen maar die vierkant ding aan de achterkant en
+	Free: Pattern=met dat, Pattern=en, Pattern=vierkant, Pattern=de, Pattern=ja
+	Constrained: Pattern=dat, Pattern=met
+Turn ID=28| B | B : ja en met dat boek bovenop
+	Free: Pattern=dat boek bovenop, Pattern=met dat, Pattern=ja, Pattern=en
+	Constrained: Pattern=dat, Pattern=dat boek, Pattern=boek, Pattern=met, Pattern=boek bovenop
+Turn ID=29| A | A : ja dat boek bovenop ja precies
+	Free: Pattern=dat boek bovenop, Pattern=ja
+	Constrained: Pattern=boek bovenop, Pattern=boek, Pattern=dat, Pattern=dat boek
+Turn ID=30| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=31| B | B : H
+	Free: 
+	Constrained: 
+Turn ID=32| B | B : oké de boiler
+	Free: Pattern=de boiler
+	Constrained: Pattern=de, Pattern=boiler
+Turn ID=33| A | A : de boiler
+	Free: Pattern=de boiler
+	Constrained: Pattern=de, Pattern=boiler
+Turn ID=34| A | A : ja dat zijn elf
+	Free: Pattern=dat, Pattern=ja
+	Constrained: 
+Turn ID=35| A | A : dan zitten die wel goed
+	Free: 
+	Constrained: 
+Turn ID=36| A | A : de boiler
+	Free: Pattern=de boiler
+	Constrained: Pattern=de, Pattern=boiler
+Turn ID=37| B | B : de boiler
+	Free: Pattern=de boiler
+	Constrained: Pattern=de, Pattern=boiler
+Turn ID=38| A | A : de boiler
+	Free: Pattern=de boiler
+	Constrained: Pattern=de, Pattern=boiler
+Turn ID=39| A | A : die hebben we ah daar veertien
+	Free: 
+	Constrained: 

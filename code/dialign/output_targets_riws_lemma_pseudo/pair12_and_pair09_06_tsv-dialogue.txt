@@ -1,0 +1,111 @@
+A|0| A: _zijn een_ kop _met_ _een neus_ aan _de_ rechterkant _en een_ vierkant piercing er eigenlijk 
+A|1| A: half wijnglas 
+A|2| A: _en een_ klein antenne bovenop 
+A|3| A: dus gewoon één balle _zitten_ aan _de_ voorkant 
+A|4| A: _en_ _die_ hebben zo'n eigenlijk _wel_ zo'n piercing _erdoorheen_ 
+A|5| A: _ja_ 
+A|6| A: juist 
+B|7| B: [ja] 
+B|8| B: wachten [een neus] [en] dan [ja] [ja] ik weten 
+B|9| B: link toch 
+B|10| B: wachten sorry [zitten] [een] rond link linksboven [zitten] dat ding [zijn een] haar of [een] zeggen je [ja] 
+B|11| B: okee nummer f [zijn] dit 
+A|12| A: [een] 
+A|13| A: _wel_ piercing 
+A|14| A: elf 
+B|15| B: deze [zijn] het ei [met] [de] stok [erdoorheen] [en een] lepeltje 
+B|16| B: [ja] 
+A|17| A: [met] neuspiercing 
+A|18| A: achten 
+B|19| B: [ja] even pijnlijk [wel] 
+B|20| B: nummer I [zijn] letter I [zijn] dat 
+B|21| B: dit [zijn] het ei [met] [de] stok erdoor 
+B|22| B: [en een] lepeltje 
+B|23| B: [ja] 
+B|24| B: waar [zijn] je blijven 
+B|25| B: [ja] a 
+B|26| B: dit [zijn] [die] [met] ei als [neus] [en een] stok erdoor [en een] lepeltje link 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : zijn een kop met een neus aan de rechterkant en een vierkant piercing er eigenlijk
+	Free: Pattern=een neus, Pattern=de, Pattern=zijn een, Pattern=met, Pattern=en een
+	Constrained: Pattern=neus, Pattern=een, Pattern=zijn, Pattern=en
+Turn ID=1| A | A : half wijnglas
+	Free: 
+	Constrained: 
+Turn ID=2| A | A : en een klein antenne bovenop
+	Free: Pattern=en een
+	Constrained: Pattern=een, Pattern=en
+Turn ID=3| A | A : dus gewoon één balle zitten aan de voorkant
+	Free: Pattern=de, Pattern=zitten
+	Constrained: 
+Turn ID=4| A | A : en die hebben zo'n eigenlijk wel zo'n piercing erdoorheen
+	Free: Pattern=erdoorheen, Pattern=en, Pattern=die, Pattern=wel
+	Constrained: 
+Turn ID=5| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=6| A | A : juist
+	Free: 
+	Constrained: 
+Turn ID=7| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=8| B | B : wachten een neus en dan ja ja ik weten
+	Free: Pattern=een neus, Pattern=ja, Pattern=en
+	Constrained: Pattern=neus, Pattern=een
+Turn ID=9| B | B : link toch
+	Free: 
+	Constrained: 
+Turn ID=10| B | B : wachten sorry zitten een rond link linksboven zitten dat ding zijn een haar of een zeggen je ja
+	Free: Pattern=zijn een, Pattern=een, Pattern=ja, Pattern=zitten
+	Constrained: Pattern=een, Pattern=zijn
+Turn ID=11| B | B : okee nummer f zijn dit
+	Free: Pattern=zijn
+	Constrained: 
+Turn ID=12| A | A : een
+	Free: Pattern=een
+	Constrained: 
+Turn ID=13| A | A : wel piercing
+	Free: Pattern=wel
+	Constrained: 
+Turn ID=14| A | A : elf
+	Free: 
+	Constrained: 
+Turn ID=15| B | B : deze zijn het ei met de stok erdoorheen en een lepeltje
+	Free: Pattern=de, Pattern=erdoorheen, Pattern=met, Pattern=en een, Pattern=zijn
+	Constrained: Pattern=een, Pattern=en
+Turn ID=16| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=17| A | A : met neuspiercing
+	Free: Pattern=met
+	Constrained: 
+Turn ID=18| A | A : achten
+	Free: 
+	Constrained: 
+Turn ID=19| B | B : ja even pijnlijk wel
+	Free: Pattern=ja, Pattern=wel
+	Constrained: 
+Turn ID=20| B | B : nummer I zijn letter I zijn dat
+	Free: Pattern=zijn
+	Constrained: 
+Turn ID=21| B | B : dit zijn het ei met de stok erdoor
+	Free: Pattern=met, Pattern=zijn, Pattern=de
+	Constrained: 
+Turn ID=22| B | B : en een lepeltje
+	Free: Pattern=en een
+	Constrained: Pattern=een, Pattern=en
+Turn ID=23| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=24| B | B : waar zijn je blijven
+	Free: Pattern=zijn
+	Constrained: 
+Turn ID=25| B | B : ja a
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=26| B | B : dit zijn die met ei als neus en een stok erdoor en een lepeltje link
+	Free: Pattern=neus, Pattern=met, Pattern=die, Pattern=en een, Pattern=zijn
+	Constrained: Pattern=een, Pattern=en

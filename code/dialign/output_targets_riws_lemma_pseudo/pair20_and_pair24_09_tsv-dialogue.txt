@@ -1,0 +1,171 @@
+B|0| B: oké ik hebben _een_ vierkant 
+A|1| A: jij mogen beginnen 
+B|2| B: ik vinden _het_ _lijken_ _op een_ wc-borstel 
+A|3| A: _ja_ 
+B|4| B: _of_ _een_ wc-pot _met_ _een_ borstel _erin_ ik _weten_ _het_ niet 
+A|5| A: _ja_ 
+B|6| B: _en _aan de_ linkerkant_ _een_ uitstulping 
+A|7| A: okee 
+B|8| B: _een staaf_ 
+B|9| B: _aan de rechterkant_ _zitten_ niks 
+B|10| B: _en_ hij _staan_ _wel_ _op _een_ soort_ voet 
+A|11| A: [een] plat schijf [aan de] achterkant 
+B|12| B: [ja] 
+A|13| A: [ja] _zijn_ [lijken] _die_ schijf [een] beetje [op] alsof er [een] citroen _in_ [zitten] 
+B|14| B: oké 
+A|15| A: dus er [zitten] [aan de rechterkant] voor mij rechts zeggen maar [een] lepeltje dus voor jou ook rechts [een] steel daarvan daaronder _zitten een_ balkje _dat_ door [het] midden lopen maar [wel] van [de] heel [een] kant naar [de] heel _ander_ kant [een staaf] [aan de linkerkant] _en [een_ soort] citroenschijfje 
+A|16| A: okee dan dan [weten] we [het] [het] _zijn_ nummer twee 
+A|17| A: dit _zijn_ [met] _die_ citroen [en] [het] spatel [of] [het] lepeltje [erin] [en] _dat_ uitsteeksel [en] [de] [en aan de] onderkant [staan] _die_ [op een] [op een] balkje 
+B|18| B: [ja] 
+B|19| B: [ja] [en een] rond 
+B|20| B: [de] [ander] 
+B|21| B: [ja] [ja] [dat] [zijn] hem [ja] 
+B|22| B: I 
+A|23| A: okee top 
+A|24| A: okee negen 
+B|25| B: next 
+B|26| B: [de] wc-kop 
+A|27| A: dit [zijn] _die_ [met] [het] citroen [en] [het] lepel [erin] 
+B|28| B: borstel 
+B|29| B: [op] [het] plateau 
+B|30| B: [die] even breed [zijn] als [het] kop zelf 
+A|31| A: [het] uitsteekselt link 
+B|32| B: [ja] ik zien [het] als [een] wc-borstel , [zitten een] borstel [in] 
+B|33| B: zoals ik [het] zien , [met] [een] uh , [met] [een] voet 
+B|34| B: [die] even breed [zijn] als [de] bak [de] kop zelf 
+A|35| A: citroen [zijn] numero [een] 
+A|36| A: dit [zijn] [met] [het] citroen [en] [het] lepel 
+B|37| B: yes 
+B|38| B: A 
+B|39| B: wc-bak [met] één [of] [een] wc-borstel [en een] gelijk plateau [die] even breed [zijn] als [het] kop 
+B|40| B: [aan de linkerkant] 
+B|41| B: D 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : oké ik hebben een vierkant
+	Free: Pattern=een
+	Constrained: 
+Turn ID=1| A | A : jij mogen beginnen
+	Free: 
+	Constrained: 
+Turn ID=2| B | B : ik vinden het lijken op een wc-borstel
+	Free: Pattern=op een, Pattern=het, Pattern=lijken
+	Constrained: Pattern=een, Pattern=op
+Turn ID=3| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=4| B | B : of een wc-pot met een borstel erin ik weten het niet
+	Free: Pattern=of, Pattern=een, Pattern=weten, Pattern=het, Pattern=met, Pattern=erin
+	Constrained: 
+Turn ID=5| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=6| B | B : en aan de linkerkant een uitstulping
+	Free: Pattern=aan de linkerkant, Pattern=en aan de, Pattern=een
+	Constrained: Pattern=de, Pattern=en, Pattern=aan de
+Turn ID=7| A | A : okee
+	Free: 
+	Constrained: 
+Turn ID=8| B | B : een staaf
+	Free: Pattern=een staaf
+	Constrained: Pattern=een
+Turn ID=9| B | B : aan de rechterkant zitten niks
+	Free: Pattern=aan de rechterkant, Pattern=zitten
+	Constrained: Pattern=aan de, Pattern=de
+Turn ID=10| B | B : en hij staan wel op een soort voet
+	Free: Pattern=een soort, Pattern=en, Pattern=op een, Pattern=staan, Pattern=wel
+	Constrained: Pattern=een, Pattern=op
+Turn ID=11| A | A : een plat schijf aan de achterkant
+	Free: Pattern=aan de, Pattern=een
+	Constrained: Pattern=de
+Turn ID=12| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=13| A | A : ja zijn lijken die schijf een beetje op alsof er een citroen in zitten
+	Free: Pattern=ja, Pattern=op, Pattern=lijken, Pattern=een, Pattern=in, Pattern=zijn, Pattern=die, Pattern=zitten
+	Constrained: 
+Turn ID=14| B | B : oké
+	Free: 
+	Constrained: 
+Turn ID=15| A | A : dus er zitten aan de rechterkant voor mij rechts zeggen maar een lepeltje dus voor jou ook rechts een steel daarvan daaronder zitten een balkje dat door het midden lopen maar wel van de heel een kant naar de heel ander kant een staaf aan de linkerkant en een soort citroenschijfje
+	Free: Pattern=dat, Pattern=de, Pattern=het, Pattern=een staaf, Pattern=en een, Pattern=aan de linkerkant, Pattern=een, Pattern=wel, Pattern=aan de rechterkant, Pattern=zitten, Pattern=zitten een, Pattern=een soort, Pattern=ander
+	Constrained: Pattern=de, Pattern=aan de, Pattern=een, Pattern=zitten, Pattern=en
+Turn ID=16| A | A : okee dan dan weten we het het zijn nummer twee
+	Free: Pattern=het, Pattern=zijn, Pattern=weten
+	Constrained: 
+Turn ID=17| A | A : dit zijn met die citroen en het spatel of het lepeltje erin en dat uitsteeksel en de en aan de onderkant staan die op een op een balkje
+	Free: Pattern=dat, Pattern=of, Pattern=de, Pattern=staan, Pattern=het, Pattern=met, Pattern=die, Pattern=en, Pattern=erin, Pattern=zijn, Pattern=en aan de, Pattern=op een
+	Constrained: Pattern=de, Pattern=een, Pattern=en, Pattern=op, Pattern=aan de
+Turn ID=18| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=19| B | B : ja en een rond
+	Free: Pattern=en een, Pattern=ja
+	Constrained: Pattern=een, Pattern=en
+Turn ID=20| B | B : de ander
+	Free: Pattern=de, Pattern=ander
+	Constrained: 
+Turn ID=21| B | B : ja ja dat zijn hem ja
+	Free: Pattern=ja, Pattern=dat, Pattern=zijn
+	Constrained: 
+Turn ID=22| B | B : I
+	Free: 
+	Constrained: 
+Turn ID=23| A | A : okee top
+	Free: 
+	Constrained: 
+Turn ID=24| A | A : okee negen
+	Free: 
+	Constrained: 
+Turn ID=25| B | B : next
+	Free: 
+	Constrained: 
+Turn ID=26| B | B : de wc-kop
+	Free: Pattern=de
+	Constrained: 
+Turn ID=27| A | A : dit zijn die met het citroen en het lepel erin
+	Free: Pattern=het, Pattern=met, Pattern=die, Pattern=en, Pattern=erin, Pattern=zijn
+	Constrained: 
+Turn ID=28| B | B : borstel
+	Free: 
+	Constrained: 
+Turn ID=29| B | B : op het plateau
+	Free: Pattern=het, Pattern=op
+	Constrained: 
+Turn ID=30| B | B : die even breed zijn als het kop zelf
+	Free: Pattern=het, Pattern=die, Pattern=zijn
+	Constrained: 
+Turn ID=31| A | A : het uitsteekselt link
+	Free: Pattern=het
+	Constrained: 
+Turn ID=32| B | B : ja ik zien het als een wc-borstel , zitten een borstel in
+	Free: Pattern=ja, Pattern=een, Pattern=het, Pattern=in, Pattern=zitten een
+	Constrained: Pattern=een, Pattern=zitten
+Turn ID=33| B | B : zoals ik het zien , met een uh , met een voet
+	Free: Pattern=een, Pattern=het, Pattern=met
+	Constrained: 
+Turn ID=34| B | B : die even breed zijn als de bak de kop zelf
+	Free: Pattern=de, Pattern=die, Pattern=zijn
+	Constrained: 
+Turn ID=35| A | A : citroen zijn numero een
+	Free: Pattern=een, Pattern=zijn
+	Constrained: 
+Turn ID=36| A | A : dit zijn met het citroen en het lepel
+	Free: Pattern=en, Pattern=het, Pattern=met, Pattern=zijn
+	Constrained: 
+Turn ID=37| B | B : yes
+	Free: 
+	Constrained: 
+Turn ID=38| B | B : A
+	Free: 
+	Constrained: 
+Turn ID=39| B | B : wc-bak met één of een wc-borstel en een gelijk plateau die even breed zijn als het kop
+	Free: Pattern=of, Pattern=een, Pattern=het, Pattern=met, Pattern=die, Pattern=en een, Pattern=zijn
+	Constrained: Pattern=een, Pattern=en
+Turn ID=40| B | B : aan de linkerkant
+	Free: Pattern=aan de linkerkant
+	Constrained: Pattern=aan de, Pattern=de
+Turn ID=41| B | B : D
+	Free: 
+	Constrained: 

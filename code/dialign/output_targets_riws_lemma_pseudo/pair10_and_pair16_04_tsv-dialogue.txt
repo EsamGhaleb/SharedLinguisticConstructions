@@ -1,0 +1,135 @@
+A|0| A: _deze_ _hebben_ _twee_ dezelfde rechthoe _aan _de_ rechterkant_ zitten _die_ eruit steken 
+A|1| A: _en_ er zitten dus maar _een_ lampenkap _bovenop_ _het_ kop 
+A|2| A: _en_ nog _een_ _twee_ ding _aan de _de_ _de_ linkerkant_ _een_ stok _en_ _een_ poo 
+B|3| B: _ja_ 
+B|4| B: _ja_ ik denken _dat_ ik wel weten welk je bedoelen 
+B|5| B: _ja_ _ja_ 
+B|6| B: ik gaan voor p 
+A|7| A: [ja] zo'n lampenkapding 
+A|8| A: [ja] 
+A|9| A: _en_ _dan_ _links_ nog _twee_ 
+A|10| A: [ja] 
+A|11| A: okee _dat zijn_ nummer twaalf 
+A|12| A: _deze_ _hebben_ _twee_ rechthoek _aan de zijkant_ identiek boven elkaar _en_ _een_ lampenkap erbovenopen nog _twee_ uitsteeksel _aan de linkerkant_ _een_ poo _en_ _een_ stok 
+A|13| A: zoiets 
+A|14| A: yes nummer zes 
+B|15| B: nou [deze] [die] zoals jij hem omschrijven [hebben] hij [bovenop] [hebben] hij [een] soort driehoekje [die] afkapten [zijn] 
+B|16| B: [aan de zijkant] rechts [twee] la 
+B|17| B: [en] [aan de] ander kant [een] [een] haak naar [links] toe [en] weten ik veel [twee] armp [een] armpje 
+B|18| B: ik weten [het] niet 
+B|19| B: [ja] 
+A|20| A: [deze] [hebben] [twee] van [die] rechthoekstok boven elkaar [aan _de] rechterkant_ _met_ [de] lampenkap [bovenop] 
+B|21| B: [ja] 
+B|22| B: [ja] 
+B|23| B: gaan ik voor g 
+A|24| A: yes _dat zijn_ elf 
+B|25| B: [dan] [de] driehoek [die] afkapten [zijn] [aan de] bovenkant 
+B|26| B: [aan de zijkant] [twee] la 
+B|27| B: [en] haakvormig uitstekel onderaan 
+B|28| B: [ja] 
+B|29| B: [dat zijn] e 
+B|30| B: afgekapte pyramide 
+B|31| B: [met] la [aan de] [aan de [de] rechterkant] [twee] 
+B|32| B: haakvormig dinge [aan de linkerkant] 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : deze hebben twee dezelfde rechthoe aan de rechterkant zitten die eruit steken
+	Free: Pattern=twee, Pattern=de rechterkant, Pattern=aan de, Pattern=hebben, Pattern=die, Pattern=deze
+	Constrained: Pattern=de
+Turn ID=1| A | A : en er zitten dus maar een lampenkap bovenop het kop
+	Free: Pattern=het, Pattern=een, Pattern=en, Pattern=bovenop
+	Constrained: 
+Turn ID=2| A | A : en nog een twee ding aan de de de linkerkant een stok en een poo
+	Free: Pattern=twee, Pattern=de de, Pattern=een, Pattern=de linkerkant, Pattern=en, Pattern=aan de de
+	Constrained: Pattern=aan de, Pattern=de de, Pattern=de
+Turn ID=3| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=4| B | B : ja ik denken dat ik wel weten welk je bedoelen
+	Free: Pattern=dat, Pattern=ja
+	Constrained: 
+Turn ID=5| B | B : ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=6| B | B : ik gaan voor p
+	Free: 
+	Constrained: 
+Turn ID=7| A | A : ja zo'n lampenkapding
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=8| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=9| A | A : en dan links nog twee
+	Free: Pattern=dan, Pattern=twee, Pattern=links, Pattern=en
+	Constrained: 
+Turn ID=10| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=11| A | A : okee dat zijn nummer twaalf
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=12| A | A : deze hebben twee rechthoek aan de zijkant identiek boven elkaar en een lampenkap erbovenopen nog twee uitsteeksel aan de linkerkant een poo en een stok
+	Free: Pattern=twee, Pattern=hebben, Pattern=en, Pattern=deze, Pattern=aan de linkerkant, Pattern=een, Pattern=aan de zijkant
+	Constrained: Pattern=de linkerkant, Pattern=de, Pattern=aan de
+Turn ID=13| A | A : zoiets
+	Free: 
+	Constrained: 
+Turn ID=14| A | A : yes nummer zes
+	Free: 
+	Constrained: 
+Turn ID=15| B | B : nou deze die zoals jij hem omschrijven hebben hij bovenop hebben hij een soort driehoekje die afkapten zijn
+	Free: Pattern=bovenop, Pattern=een, Pattern=hebben, Pattern=die, Pattern=zijn, Pattern=deze
+	Constrained: 
+Turn ID=16| B | B : aan de zijkant rechts twee la
+	Free: Pattern=aan de zijkant, Pattern=twee
+	Constrained: Pattern=aan de, Pattern=de
+Turn ID=17| B | B : en aan de ander kant een een haak naar links toe en weten ik veel twee armp een armpje
+	Free: Pattern=twee, Pattern=aan de, Pattern=een, Pattern=links, Pattern=en
+	Constrained: Pattern=de
+Turn ID=18| B | B : ik weten het niet
+	Free: Pattern=het
+	Constrained: 
+Turn ID=19| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=20| A | A : deze hebben twee van die rechthoekstok boven elkaar aan de rechterkant met de lampenkap bovenop
+	Free: Pattern=bovenop, Pattern=twee, Pattern=de, Pattern=de rechterkant, Pattern=aan de, Pattern=hebben, Pattern=met, Pattern=die, Pattern=deze
+	Constrained: Pattern=de
+Turn ID=21| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=22| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=23| B | B : gaan ik voor g
+	Free: 
+	Constrained: 
+Turn ID=24| A | A : yes dat zijn elf
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=25| B | B : dan de driehoek die afkapten zijn aan de bovenkant
+	Free: Pattern=de, Pattern=aan de, Pattern=dan, Pattern=die, Pattern=zijn
+	Constrained: Pattern=de
+Turn ID=26| B | B : aan de zijkant twee la
+	Free: Pattern=aan de zijkant, Pattern=twee
+	Constrained: Pattern=aan de, Pattern=de
+Turn ID=27| B | B : en haakvormig uitstekel onderaan
+	Free: Pattern=en
+	Constrained: 
+Turn ID=28| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=29| B | B : dat zijn e
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=30| B | B : afgekapte pyramide
+	Free: 
+	Constrained: 
+Turn ID=31| B | B : met la aan de aan de de rechterkant twee
+	Free: Pattern=twee, Pattern=de rechterkant, Pattern=aan de, Pattern=met, Pattern=aan de de
+	Constrained: Pattern=aan de, Pattern=de de, Pattern=de
+Turn ID=32| B | B : haakvormig dinge aan de linkerkant
+	Free: Pattern=aan de linkerkant
+	Constrained: Pattern=aan de, Pattern=de linkerkant, Pattern=de

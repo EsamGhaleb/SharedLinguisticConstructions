@@ -1,0 +1,191 @@
+A|0| A: _oké_ hierbij _hebben_ _je_ weer _dat_ basiskomme 
+A|1| A: _en_ _er_ opsteken iets eronder uit 
+A|2| A: _zo_ 
+A|3| A: _en_ _het_ _zijn_ _ook_ best wel _een_ complex _met_ _met_ eigenlijk boven _hebben die_ zo'n zo'n _ruit_ 
+B|4| B: _ja_ 
+B|5| B: _ja ja_ 
+A|6| A: _en dan_ _ook_ _nog_ _van die_ _twee van die_ 
+B|7| B: [oké] 
+B|8| B: _ik_ weten welk [je] bedoelen 
+B|9| B: _oké dat zijn_ M 
+B|10| B: dit [zijn] _die met _die_ ruit_ _aan_ _de_ achterkant 
+A|11| A: [ja] _en_ [dat] schoorsteen _of_ [die] 
+A|12| A: _dat dat_ pluimp _op de_ bovenkant [met] _twee van die rond_ 
+B|13| B: nee 
+B|14| B: _hij hebben_ niet [twee van die rond] [op de] nee nee nee 
+B|15| B: nee 
+B|16| B: _hij hebben_ zeggen maar _ik_ weten welk [je] bedoelen maar _dat _zijn_ hem_ niet 
+B|17| B: _hij hebben_ hier [een] _ruit _en_ dan zitten er_ _onder_ [het] kop _zitten_ [nog] [een] poo 
+B|18| B: [en dan] _aan_ [de] voorkant _zitten_ [nog] [een] poo [en] _hij hebben_ [ook] [een] armp [dat] [zo] gaan 
+A|19| A: [ja] 
+A|20| A: [ja] precies 
+A|21| A: [hij hebben] zo'n [en] [die] [er] [zitten] [van die] ruiten [en dan zitten er] [ook] [van _die] blok_ [aan] toch 
+B|22| B: [ja] 
+A|23| A: [ja] [oké] 
+A|24| A: [dat zijn] negen 
+A|25| A: _ik hebben_ weer [die met die] rui [op] [zijn] hoofd 
+A|26| A: [met die] _die blok_ weer [die] [er] [zo] insteken 
+A|27| A: in [die [ruit] en] onderin _hebben die_ weer [dat] 
+B|28| B: [ja] 
+B|29| B: [dat] gek poo [en] [een] arm [en] [een] been [of] [zo] 
+A|30| A: [ja] 
+A|31| A: [ja] 
+A|32| A: [ja] 
+B|33| B: _oké dat zijn_ H 
+B|34| B: _ik hebben [die_ met] [de] [ruit en] [de] [de] [dat dat] balkding [dat] erdoorheen gaan [die blok] 
+A|35| A: [ja] [ik] [zitten] [hem] [zijn hem] even [aan] [het] zoeken hoor 
+A|36| A: [ja [ja] ja] 
+A|37| A: [dat zijn] nummer elf [met] [met] zo'n zo'n _ding_ [er] [ook] weer [onder] 
+B|38| B: [ja] 
+A|39| A: [ja] 
+A|40| A: [dat zijn] nummer elf 
+A|41| A: [ik hebben [die] _ruit] [met_ [die] blok] allemaal erin 
+B|42| B: [ja] 
+B|43| B: _oké dat zijn_ D 
+B|44| B: [ik hebben] [de] [ruit met] [de] vierkant [ding] erdoorheen 
+A|45| A: [ja] 
+A|46| A: [oké dat zijn] nummer veertien 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : oké hierbij hebben je weer dat basiskomme
+	Free: Pattern=hebben, Pattern=je, Pattern=dat, Pattern=oké
+	Constrained: 
+Turn ID=1| A | A : en er opsteken iets eronder uit
+	Free: Pattern=en, Pattern=er
+	Constrained: 
+Turn ID=2| A | A : zo
+	Free: Pattern=zo
+	Constrained: 
+Turn ID=3| A | A : en het zijn ook best wel een complex met met eigenlijk boven hebben die zo'n zo'n ruit
+	Free: Pattern=ruit, Pattern=ook, Pattern=een, Pattern=het, Pattern=met, Pattern=en, Pattern=zijn, Pattern=hebben die
+	Constrained: Pattern=die, Pattern=hebben
+Turn ID=4| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=5| B | B : ja ja
+	Free: Pattern=ja ja
+	Constrained: Pattern=ja
+Turn ID=6| A | A : en dan ook nog van die twee van die
+	Free: Pattern=twee van die, Pattern=nog, Pattern=en dan, Pattern=ook, Pattern=van die
+	Constrained: Pattern=van die, Pattern=die, Pattern=en
+Turn ID=7| B | B : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=8| B | B : ik weten welk je bedoelen
+	Free: Pattern=ik, Pattern=je
+	Constrained: 
+Turn ID=9| B | B : oké dat zijn M
+	Free: Pattern=oké dat zijn
+	Constrained: Pattern=dat zijn, Pattern=zijn, Pattern=dat, Pattern=oké
+Turn ID=10| B | B : dit zijn die met die ruit aan de achterkant
+	Free: Pattern=die met die, Pattern=die ruit, Pattern=zijn, Pattern=de, Pattern=aan
+	Constrained: Pattern=met die, Pattern=ruit, Pattern=die met, Pattern=met, Pattern=die
+Turn ID=11| A | A : ja en dat schoorsteen of die
+	Free: Pattern=dat, Pattern=of, Pattern=ja, Pattern=die, Pattern=en
+	Constrained: 
+Turn ID=12| A | A : dat dat pluimp op de bovenkant met twee van die rond
+	Free: Pattern=twee van die rond, Pattern=dat dat, Pattern=op de, Pattern=met
+	Constrained: Pattern=twee van die, Pattern=dat, Pattern=de, Pattern=op, Pattern=die, Pattern=van die
+Turn ID=13| B | B : nee
+	Free: 
+	Constrained: 
+Turn ID=14| B | B : hij hebben niet twee van die rond op de nee nee nee
+	Free: Pattern=twee van die rond, Pattern=hij hebben, Pattern=op de
+	Constrained: Pattern=twee van die, Pattern=de, Pattern=op, Pattern=hebben, Pattern=die, Pattern=van die
+Turn ID=15| B | B : nee
+	Free: 
+	Constrained: 
+Turn ID=16| B | B : hij hebben zeggen maar ik weten welk je bedoelen maar dat zijn hem niet
+	Free: Pattern=dat zijn, Pattern=zijn hem, Pattern=hij hebben, Pattern=ik, Pattern=je
+	Constrained: Pattern=zijn, Pattern=hebben, Pattern=hem, Pattern=dat
+Turn ID=17| B | B : hij hebben hier een ruit en dan zitten er onder het kop zitten nog een poo
+	Free: Pattern=nog, Pattern=en dan zitten er, Pattern=een, Pattern=ruit en, Pattern=het, Pattern=onder, Pattern=hij hebben, Pattern=zitten
+	Constrained: Pattern=ruit, Pattern=en dan, Pattern=hebben, Pattern=zitten, Pattern=er, Pattern=en
+Turn ID=18| B | B : en dan aan de voorkant zitten nog een poo en hij hebben ook een armp dat zo gaan
+	Free: Pattern=dat, Pattern=nog, Pattern=en dan, Pattern=ook, Pattern=een, Pattern=zo, Pattern=hij hebben, Pattern=zitten, Pattern=en, Pattern=de, Pattern=aan
+	Constrained: Pattern=hebben, Pattern=en
+Turn ID=19| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=20| A | A : ja precies
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=21| A | A : hij hebben zo'n en die er zitten van die ruiten en dan zitten er ook van die blok aan toch
+	Free: Pattern=die blok, Pattern=aan, Pattern=ook, Pattern=en dan zitten er, Pattern=hij hebben, Pattern=er, Pattern=die, Pattern=zitten, Pattern=van die, Pattern=en
+	Constrained: Pattern=en dan, Pattern=hebben, Pattern=er, Pattern=en, Pattern=die, Pattern=zitten
+Turn ID=22| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=23| A | A : ja oké
+	Free: Pattern=ja, Pattern=oké
+	Constrained: 
+Turn ID=24| A | A : dat zijn negen
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=25| A | A : ik hebben weer die met die rui op zijn hoofd
+	Free: Pattern=die met die, Pattern=ik hebben, Pattern=zijn, Pattern=op
+	Constrained: Pattern=met die, Pattern=hebben, Pattern=die met, Pattern=met, Pattern=die, Pattern=ik
+Turn ID=26| A | A : met die die blok weer die er zo insteken
+	Free: Pattern=met die, Pattern=die blok, Pattern=zo, Pattern=die, Pattern=er
+	Constrained: Pattern=met, Pattern=die
+Turn ID=27| A | A : in die ruit en onderin hebben die weer dat
+	Free: Pattern=ruit en, Pattern=die ruit, Pattern=hebben die, Pattern=dat
+	Constrained: Pattern=die, Pattern=hebben, Pattern=en, Pattern=ruit
+Turn ID=28| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=29| B | B : dat gek poo en een arm en een been of zo
+	Free: Pattern=dat, Pattern=of, Pattern=een, Pattern=zo, Pattern=en
+	Constrained: 
+Turn ID=30| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=31| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=32| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=33| B | B : oké dat zijn H
+	Free: Pattern=oké dat zijn
+	Constrained: Pattern=dat zijn, Pattern=zijn, Pattern=dat, Pattern=oké
+Turn ID=34| B | B : ik hebben die met de ruit en de de dat dat balkding dat erdoorheen gaan die blok
+	Free: Pattern=dat, Pattern=die blok, Pattern=de, Pattern=ruit en, Pattern=die met, Pattern=dat dat, Pattern=ik hebben die
+	Constrained: Pattern=ik hebben, Pattern=dat, Pattern=ruit, Pattern=hebben, Pattern=met, Pattern=die, Pattern=ik, Pattern=en, Pattern=hebben die
+Turn ID=35| A | A : ja ik zitten hem zijn hem even aan het zoeken hoor
+	Free: Pattern=het, Pattern=zitten, Pattern=ik, Pattern=hem, Pattern=aan, Pattern=zijn hem, Pattern=ja
+	Constrained: Pattern=zijn, Pattern=hem
+Turn ID=36| A | A : ja ja ja
+	Free: Pattern=ja ja
+	Constrained: Pattern=ja
+Turn ID=37| A | A : dat zijn nummer elf met met zo'n zo'n ding er ook weer onder
+	Free: Pattern=dat zijn, Pattern=ook, Pattern=ding, Pattern=onder, Pattern=met, Pattern=er
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=38| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=39| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=40| A | A : dat zijn nummer elf
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=41| A | A : ik hebben die ruit met die blok allemaal erin
+	Free: Pattern=met die, Pattern=die blok, Pattern=die ruit, Pattern=ruit met, Pattern=ik hebben die
+	Constrained: Pattern=ik hebben, Pattern=ruit, Pattern=hebben, Pattern=met, Pattern=die, Pattern=ik, Pattern=hebben die
+Turn ID=42| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=43| B | B : oké dat zijn D
+	Free: Pattern=oké dat zijn
+	Constrained: Pattern=dat zijn, Pattern=zijn, Pattern=dat, Pattern=oké
+Turn ID=44| B | B : ik hebben de ruit met de vierkant ding erdoorheen
+	Free: Pattern=ik hebben, Pattern=ruit met, Pattern=ding, Pattern=de
+	Constrained: Pattern=met, Pattern=hebben, Pattern=ik, Pattern=ruit
+Turn ID=45| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=46| A | A : oké dat zijn nummer veertien
+	Free: Pattern=oké dat zijn
+	Constrained: Pattern=dat zijn, Pattern=zijn, Pattern=dat, Pattern=oké

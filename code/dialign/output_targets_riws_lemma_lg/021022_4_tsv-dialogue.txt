@@ -1,0 +1,147 @@
+A|0| A: _ok_ _dit zijn_ eigenlijk _dan_ _ook_ _weer_ _zo'n_ _kegel_ _met een_ _wat_ _zijn het_ _weer_ _een_ prisma _bovenop_ 
+A|1| A: _en_ _ja_ _aan de zijkant hebben_ hij _twee_ uitstekel naar rechts toe _en_ als _je_ _dan_ naar voorkant gaan kijken _hebben_ hij _ook_ _een_ uitstekel naar richting _de zijkant_ 
+A|2| A: _en_ _onderin_ _hebben_ hij _dan_ 
+B|3| B: [en] _liggen_ _liggen_ _liggen_ _er_ _nog een_ _soort_ los blok 
+A|4| A: _ja onderop_ zeggen _maar_ [liggen] [nog] 
+B|5| B: [ja onderop] [dan] [een] _soort_ los blok _en dan_ _aan de rechterkant_ [twee] [twee] [twee] 
+A|6| A: _hebben_ hij [twee] staf naar 
+B|7| B: plat plat dinget _en dan_ [bovenop] [een] [kegel] _die_ _die afgezaagd_ [zijn] of zo lijken [het] wel [ok] [dan] [zijn het] I 
+A|8| A: [ja] 
+A|9| A: [ja] 
+A|10| A: [ja] 
+B|11| B: _ja dit zijn_ [ook] _dat_ ding [met een] _soort_ _kegel bovenop_ [maar] _die_ _zijn dan_ op [een] geven moment afgezagen _dat het_ plat [zijn] 
+A|12| A: [ja] 
+B|13| B: [aan de zijkant _hebben] je nog_ _die_ [twee] balk _en dan hebben je_ _onderin _nog_ een_ dinge [en] _nog een_ _soort_ ding _dat_ uitsteken 
+A|14| A: [twee] pinn 
+A|15| A: [ja] 
+A|16| A: [ja] 
+A|17| A: _dat [zijn_ dan] nummero [twee] 
+A|18| A: _ja dit zijn weer die_ _ja die_ half [afgezaagd] [kegel bovenop] [dat het] _veel_ [een] beetje naar [een] prisma achtig gebeuren _zijn en dan_ [twee] vlak 
+A|19| A: zijde [aan de rechterkant] [en dan hebben je] [er] [onderin _nog] zo'n_ [soort] 
+B|20| B: ik 
+B|21| B: ik weten welk [je] bedoelen [maar] ik [zijn] hem even [aan] [het] zoeken [ja die] [twee] dinge [nog] _aan de zijkant en dan_ [een] dinge [onderop] 
+A|22| A: [zijkant] [ja] [en dan] [er] [dan] [onderin nog] één [en] één _dan nog_ één [aan de zijkant] [dan] [ja] [ja] 
+B|23| B: [ja] [dat zijn] M 
+B|24| B: _van_ mark 
+B|25| B: [dit zijn weer] [ja die] piramide _die afgezaagd_ [zijn] of zo [en _dan] die_ [twee] plaat [die] [er] uitsteken [en] [nog zo'n] dinge [onderop] [en [dan] nog] _iets_ [aan de zijkant] 
+A|26| A: [aan de zijkant] helemaal [ja] 
+A|27| A: [ja] 
+A|28| A: [dat [zijn] dan] nummer negen 
+A|29| A: [ja dit [zijn] [dan] [die] afgezaagd] [kegel] [van] [bovenop] [met] [aan de zijkant] [twee] plateaut [en] [onderin] [hebben je [nog] een] staart achtig [iets] [en dan] in midden [ja] 
+B|30| B: [ja] 
+B|31| B: [dat zijn] F 
+B|32| B: [ja dit zijn weer die] afgezaagen 
+B|33| B: piramide of [kegel] of weten ik [veel] [wat] [de] naam ervoor [zijn en dan] [weer die] [twee] plaat [die] hetzelfde [zijn] onder elkaar [ja] 
+A|34| A: [aan de zijkant en dan] [onderin] [ja] 
+A|35| A: [ok] [dat [zijn] dan] nummer zes 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : ok dit zijn eigenlijk dan ook weer zo'n kegel met een wat zijn het weer een prisma bovenop
+	Free: Pattern=kegel, Pattern=bovenop, Pattern=zijn het, Pattern=zo'n, Pattern=ook, Pattern=dan, Pattern=een, Pattern=ok, Pattern=met een, Pattern=wat, Pattern=weer, Pattern=dit zijn
+	Constrained: Pattern=het, Pattern=met, Pattern=een, Pattern=zijn
+Turn ID=1| A | A : en ja aan de zijkant hebben hij twee uitstekel naar rechts toe en als je dan naar voorkant gaan kijken hebben hij ook een uitstekel naar richting de zijkant
+	Free: Pattern=twee, Pattern=ja, Pattern=ook, Pattern=dan, Pattern=een, Pattern=hebben, Pattern=de zijkant, Pattern=en, Pattern=aan de zijkant hebben, Pattern=je
+	Constrained: Pattern=aan de zijkant, Pattern=hebben, Pattern=zijkant, Pattern=de zijkant, Pattern=de, Pattern=aan
+Turn ID=2| A | A : en onderin hebben hij dan
+	Free: Pattern=en, Pattern=dan, Pattern=hebben, Pattern=onderin
+	Constrained: 
+Turn ID=3| B | B : en liggen liggen liggen er nog een soort los blok
+	Free: Pattern=soort, Pattern=nog een, Pattern=er, Pattern=en, Pattern=liggen
+	Constrained: Pattern=nog, Pattern=een
+Turn ID=4| A | A : ja onderop zeggen maar liggen nog
+	Free: Pattern=ja onderop, Pattern=nog, Pattern=liggen, Pattern=maar
+	Constrained: Pattern=onderop, Pattern=ja
+Turn ID=5| B | B : ja onderop dan een soort los blok en dan aan de rechterkant twee twee twee
+	Free: Pattern=soort, Pattern=twee, Pattern=dan, Pattern=een, Pattern=aan de rechterkant, Pattern=ja onderop, Pattern=en dan
+	Constrained: Pattern=onderop, Pattern=dan, Pattern=en, Pattern=de, Pattern=aan, Pattern=ja
+Turn ID=6| A | A : hebben hij twee staf naar
+	Free: Pattern=twee, Pattern=hebben
+	Constrained: 
+Turn ID=7| B | B : plat plat dinget en dan bovenop een kegel die die afgezaagd zijn of zo lijken het wel ok dan zijn het I
+	Free: Pattern=kegel, Pattern=bovenop, Pattern=zijn het, Pattern=en dan, Pattern=dan, Pattern=een, Pattern=het, Pattern=ok, Pattern=die, Pattern=die afgezaagd, Pattern=zijn
+	Constrained: Pattern=afgezaagd, Pattern=dan, Pattern=het, Pattern=die, Pattern=en, Pattern=zijn
+Turn ID=8| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=9| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=10| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=11| B | B : ja dit zijn ook dat ding met een soort kegel bovenop maar die zijn dan op een geven moment afgezagen dat het plat zijn
+	Free: Pattern=dat, Pattern=soort, Pattern=dat het, Pattern=ook, Pattern=een, Pattern=ja dit zijn, Pattern=die, Pattern=met een, Pattern=kegel bovenop, Pattern=zijn dan, Pattern=zijn, Pattern=maar
+	Constrained: Pattern=kegel, Pattern=ja, Pattern=dan, Pattern=een, Pattern=het, Pattern=met, Pattern=zijn, Pattern=dit zijn, Pattern=dat, Pattern=bovenop
+Turn ID=12| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=13| B | B : aan de zijkant hebben je nog die twee balk en dan hebben je onderin nog een dinge en nog een soort ding dat uitsteken
+	Free: Pattern=dat, Pattern=soort, Pattern=en dan hebben je, Pattern=die, Pattern=hebben je nog, Pattern=aan de zijkant hebben, Pattern=twee, Pattern=nog een, Pattern=en, Pattern=onderin nog
+	Constrained: Pattern=nog, Pattern=en dan, Pattern=dan, Pattern=hebben, Pattern=zijkant, Pattern=de zijkant, Pattern=en, Pattern=je, Pattern=de, Pattern=aan, Pattern=een, Pattern=aan de zijkant, Pattern=onderin
+Turn ID=14| A | A : twee pinn
+	Free: Pattern=twee
+	Constrained: 
+Turn ID=15| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=16| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=17| A | A : dat zijn dan nummero twee
+	Free: Pattern=zijn dan, Pattern=dat zijn, Pattern=twee
+	Constrained: Pattern=dan, Pattern=dat, Pattern=zijn
+Turn ID=18| A | A : ja dit zijn weer die ja die half afgezaagd kegel bovenop dat het veel een beetje naar een prisma achtig gebeuren zijn en dan twee vlak
+	Free: Pattern=ja die, Pattern=afgezaagd, Pattern=veel, Pattern=een, Pattern=kegel bovenop, Pattern=zijn en dan, Pattern=ja dit zijn weer die, Pattern=twee, Pattern=dat het
+	Constrained: Pattern=kegel, Pattern=ja, Pattern=en dan, Pattern=dan, Pattern=het, Pattern=weer die, Pattern=ja dit zijn, Pattern=die, Pattern=en, Pattern=zijn, Pattern=weer, Pattern=dit zijn, Pattern=dit zijn weer, Pattern=dat, Pattern=bovenop
+Turn ID=19| A | A : zijde aan de rechterkant en dan hebben je er onderin nog zo'n soort
+	Free: Pattern=soort, Pattern=en dan hebben je, Pattern=aan de rechterkant, Pattern=er, Pattern=onderin nog, Pattern=nog zo'n
+	Constrained: Pattern=nog, Pattern=zo'n, Pattern=en dan, Pattern=dan, Pattern=onderin, Pattern=hebben, Pattern=en, Pattern=je, Pattern=de, Pattern=aan
+Turn ID=20| B | B : ik
+	Free: 
+	Constrained: 
+Turn ID=21| B | B : ik weten welk je bedoelen maar ik zijn hem even aan het zoeken ja die twee dinge nog aan de zijkant en dan een dinge onderop
+	Free: Pattern=aan, Pattern=een, Pattern=het, Pattern=je, Pattern=onderop, Pattern=nog, Pattern=ja die, Pattern=twee, Pattern=aan de zijkant en dan, Pattern=zijn, Pattern=maar
+	Constrained: Pattern=en dan, Pattern=dan, Pattern=aan de zijkant, Pattern=de zijkant, Pattern=en, Pattern=de, Pattern=aan, Pattern=ja, Pattern=die, Pattern=zijkant
+Turn ID=22| A | A : zijkant ja en dan er dan onderin nog één en één dan nog één aan de zijkant dan ja ja
+	Free: Pattern=ja, Pattern=en dan, Pattern=dan, Pattern=aan de zijkant, Pattern=zijkant, Pattern=er, Pattern=dan nog, Pattern=en, Pattern=onderin nog
+	Constrained: Pattern=nog, Pattern=dan, Pattern=onderin, Pattern=zijkant, Pattern=de zijkant, Pattern=en, Pattern=de, Pattern=aan
+Turn ID=23| B | B : ja dat zijn M
+	Free: Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=24| B | B : van mark
+	Free: Pattern=van
+	Constrained: 
+Turn ID=25| B | B : dit zijn weer ja die piramide die afgezaagd zijn of zo en dan die twee plaat die er uitsteken en nog zo'n dinge onderop en dan nog iets aan de zijkant
+	Free: Pattern=dan die, Pattern=twee, Pattern=iets, Pattern=en dan, Pattern=aan de zijkant, Pattern=die, Pattern=die afgezaagd, Pattern=en, Pattern=zijn, Pattern=nog zo'n, Pattern=dit zijn weer, Pattern=onderop, Pattern=ja die, Pattern=er, Pattern=dan nog
+	Constrained: Pattern=nog, Pattern=zo'n, Pattern=dan, Pattern=de zijkant, Pattern=en, Pattern=zijn, Pattern=weer, Pattern=dit zijn, Pattern=de, Pattern=afgezaagd, Pattern=aan, Pattern=ja, Pattern=die, Pattern=zijkant
+Turn ID=26| A | A : aan de zijkant helemaal ja
+	Free: Pattern=aan de zijkant, Pattern=ja
+	Constrained: Pattern=aan, Pattern=zijkant, Pattern=de zijkant, Pattern=de
+Turn ID=27| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=28| A | A : dat zijn dan nummer negen
+	Free: Pattern=zijn dan, Pattern=dat zijn
+	Constrained: Pattern=dan, Pattern=dat, Pattern=zijn
+Turn ID=29| A | A : ja dit zijn dan die afgezaagd kegel van bovenop met aan de zijkant twee plateaut en onderin hebben je nog een staart achtig iets en dan in midden ja
+	Free: Pattern=bovenop, Pattern=en dan, Pattern=zijn dan, Pattern=ja dit zijn, Pattern=met, Pattern=die afgezaagd, Pattern=hebben je nog, Pattern=kegel, Pattern=dan die, Pattern=twee, Pattern=nog een, Pattern=iets, Pattern=ja, Pattern=aan de zijkant, Pattern=onderin, Pattern=van, Pattern=en
+	Constrained: Pattern=nog, Pattern=dan, Pattern=een, Pattern=hebben, Pattern=de zijkant, Pattern=en, Pattern=zijn, Pattern=je, Pattern=dit zijn, Pattern=de, Pattern=afgezaagd, Pattern=aan, Pattern=ja, Pattern=die, Pattern=zijkant
+Turn ID=30| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=31| B | B : dat zijn F
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=32| B | B : ja dit zijn weer die afgezaagen
+	Free: Pattern=ja dit zijn weer die
+	Constrained: Pattern=ja, Pattern=weer die, Pattern=ja dit zijn, Pattern=die, Pattern=zijn, Pattern=weer, Pattern=dit zijn, Pattern=dit zijn weer
+Turn ID=33| B | B : piramide of kegel of weten ik veel wat de naam ervoor zijn en dan weer die twee plaat die hetzelfde zijn onder elkaar ja
+	Free: Pattern=kegel, Pattern=twee, Pattern=veel, Pattern=weer die, Pattern=zijn en dan, Pattern=die, Pattern=wat, Pattern=zijn, Pattern=de, Pattern=ja
+	Constrained: Pattern=en dan, Pattern=dan, Pattern=die, Pattern=en, Pattern=zijn, Pattern=weer
+Turn ID=34| A | A : aan de zijkant en dan onderin ja
+	Free: Pattern=aan de zijkant en dan, Pattern=ja, Pattern=onderin
+	Constrained: Pattern=en dan, Pattern=dan, Pattern=aan de zijkant, Pattern=zijkant, Pattern=de zijkant, Pattern=en, Pattern=de, Pattern=aan
+Turn ID=35| A | A : ok dat zijn dan nummer zes
+	Free: Pattern=zijn dan, Pattern=dat zijn, Pattern=ok
+	Constrained: Pattern=dan, Pattern=dat, Pattern=zijn

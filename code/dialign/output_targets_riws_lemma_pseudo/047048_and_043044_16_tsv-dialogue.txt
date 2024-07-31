@@ -1,0 +1,111 @@
+A|0| A: deze hebben twee keer dezelfde vorm waarvan _één_ zo staan _en_ _één_ zo _en_ _dit zijn_ _een_ beetje zo'n 
+A|1| A: _ja dat_ _ja_ precies _en_ dan hebben je _nog_ _één_ zo'n Minecraftblokje eraan vasthangen _en_ _nog_ _een_ uitlaat 
+A|2| A: _ja_ daar lijken het op 
+B|3| B: [een] propeller [ja] 
+B|4| B: [ja] [nog] _even_ nogmaals dus 
+B|5| B: _ja dat zijn_ E 
+A|6| A: _ja met_ [dat] [een] schuin dak zo 
+A|7| A: bedoelen je 
+A|8| A: wachten je bedoelen _die_ [een] _met_ _die_ Minecraft _en die_ uitlaat 
+A|9| A: [ja] 
+A|10| A: nummer elf 
+B|11| B: oké [dit zijn] weer [die] propeller dus [één] boven [één] links [en die] verrekijker rechts 
+A|12| A: [dit zijn] [die] _met_ [die] deegroller er 
+A|13| A: [even] zoeken 
+A|14| A: [ja dat zijn] negen 
+A|15| A: [ja] als je gewoon weten welk welk je hebben 
+B|16| B: de propeller 
+B|17| B: [even] de propeller who [ja] 
+B|18| B: [ja dat zijn] J 
+A|19| A: [die] deegroller 
+B|20| B: [dit zijn] de propeller [met] de verrekijker rechts 
+A|21| A: [ja] nummer vier 
+B|22| B: [ja met] de rug nee nee de propeller [zijn] [met] de verrekijker 
+B|23| B: [ja] [ja] [ja] 
+B|24| B: [dat zijn] de B 
+B|25| B: [dit zijn] de propeller 
+B|26| B: [met] de verrekijker 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : deze hebben twee keer dezelfde vorm waarvan één zo staan en één zo en dit zijn een beetje zo'n
+	Free: Pattern=dit zijn, Pattern=een, Pattern=en, Pattern=één
+	Constrained: Pattern=zijn
+Turn ID=1| A | A : ja dat ja precies en dan hebben je nog één zo'n Minecraftblokje eraan vasthangen en nog een uitlaat
+	Free: Pattern=nog, Pattern=ja, Pattern=een, Pattern=en, Pattern=één, Pattern=ja dat
+	Constrained: Pattern=ja, Pattern=dat
+Turn ID=2| A | A : ja daar lijken het op
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=3| B | B : een propeller ja
+	Free: Pattern=ja, Pattern=een
+	Constrained: 
+Turn ID=4| B | B : ja nog even nogmaals dus
+	Free: Pattern=ja, Pattern=even, Pattern=nog
+	Constrained: 
+Turn ID=5| B | B : ja dat zijn E
+	Free: Pattern=ja dat zijn
+	Constrained: Pattern=ja, Pattern=zijn, Pattern=ja dat, Pattern=dat, Pattern=dat zijn
+Turn ID=6| A | A : ja met dat een schuin dak zo
+	Free: Pattern=ja met, Pattern=een, Pattern=dat
+	Constrained: Pattern=met, Pattern=ja
+Turn ID=7| A | A : bedoelen je
+	Free: 
+	Constrained: 
+Turn ID=8| A | A : wachten je bedoelen die een met die Minecraft en die uitlaat
+	Free: Pattern=en die, Pattern=met, Pattern=die, Pattern=een
+	Constrained: Pattern=die, Pattern=en
+Turn ID=9| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=10| A | A : nummer elf
+	Free: 
+	Constrained: 
+Turn ID=11| B | B : oké dit zijn weer die propeller dus één boven één links en die verrekijker rechts
+	Free: Pattern=dit zijn, Pattern=en die, Pattern=die, Pattern=één
+	Constrained: Pattern=zijn, Pattern=die, Pattern=en
+Turn ID=12| A | A : dit zijn die met die deegroller er
+	Free: Pattern=dit zijn, Pattern=met, Pattern=die
+	Constrained: Pattern=zijn
+Turn ID=13| A | A : even zoeken
+	Free: Pattern=even
+	Constrained: 
+Turn ID=14| A | A : ja dat zijn negen
+	Free: Pattern=ja dat zijn
+	Constrained: Pattern=ja, Pattern=zijn, Pattern=ja dat, Pattern=dat, Pattern=dat zijn
+Turn ID=15| A | A : ja als je gewoon weten welk welk je hebben
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=16| B | B : de propeller
+	Free: 
+	Constrained: 
+Turn ID=17| B | B : even de propeller who ja
+	Free: Pattern=ja, Pattern=even
+	Constrained: 
+Turn ID=18| B | B : ja dat zijn J
+	Free: Pattern=ja dat zijn
+	Constrained: Pattern=ja, Pattern=zijn, Pattern=ja dat, Pattern=dat, Pattern=dat zijn
+Turn ID=19| A | A : die deegroller
+	Free: Pattern=die
+	Constrained: 
+Turn ID=20| B | B : dit zijn de propeller met de verrekijker rechts
+	Free: Pattern=dit zijn, Pattern=met
+	Constrained: Pattern=zijn
+Turn ID=21| A | A : ja nummer vier
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=22| B | B : ja met de rug nee nee de propeller zijn met de verrekijker
+	Free: Pattern=ja met, Pattern=met, Pattern=zijn
+	Constrained: Pattern=met, Pattern=ja
+Turn ID=23| B | B : ja ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=24| B | B : dat zijn de B
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=25| B | B : dit zijn de propeller
+	Free: Pattern=dit zijn
+	Constrained: Pattern=zijn
+Turn ID=26| B | B : met de verrekijker
+	Free: Pattern=met
+	Constrained: 

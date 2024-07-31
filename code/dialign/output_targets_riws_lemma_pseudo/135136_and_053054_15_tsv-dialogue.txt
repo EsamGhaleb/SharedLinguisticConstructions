@@ -1,0 +1,115 @@
+B|0| B: _deze hebben_ _een_ soort vierkant _in het midden_ erdoorheen 
+B|1| B: _en dan_ _aan de_ voorkant _een_ Ronde buis _die_ _naar_ voren steken 
+B|2| B: _aan de bovenkant_ _twee_ stekel _en_ _aan de_ linkerkant _een_ soort L _maar_ _dan_ andersom 
+A|3| A: want [die] [hebben] [die] [twee] [twee] uitsteeksel boven _ja_ 
+A|4| A: _ja_ 
+A|5| A: _dat zijn_ _nummer_ zes 
+B|6| B: [ja] 
+B|7| B: moeten je _het_ [nummer] of letter 
+B|8| B: _en dan_ _en dan_ knopje 
+A|9| A: [deze hebben] ook [een] plaat [maar] wat veel [naar] [het midden] 
+A|10| A: [en dan] [die] _twee dinget_ bovenop 
+A|11| A: [ja] wachten ik zoeken [die] [ja] [ja] [ja] [ja] precies 
+A|12| A: _dat zijn bij mij_ dertien 
+B|13| B: [ja] 
+B|14| B: [dat zijn bij mij] C 
+B|15| B: [deze hebben] [een] vierkant er zo plat doorheen 
+B|16| B: [en] [een] L _aan de_ linkerkant 
+B|17| B: _twee dinget aan de bovenkant_ [en] _de_ ding _aan de_ voorkant 
+A|18| A: _dit zijn_ weer [die] [een] _met_ [de] plank niet onderaan [maar] iets omhoog [en] [die] [twee dinget aan de bovenkant] 
+B|19| B: [ja] 
+B|20| B: [ja] 
+B|21| B: [dat zijn bij mij] J 
+A|22| A: [ja] [dat zijn] [nummer] negen 
+A|23| A: [die] _met_ [de] plaat [die] iets [in het midden] zitten 
+B|24| B: [dit zijn] [met] [dat] vierkant plat erdoorheen 
+B|25| B: [en] [twee dinget aan de bovenkant] [een] L [aan de] linkerkant 
+B|26| B: [ja] 
+B|27| B: [dat zijn bij mij] N 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : deze hebben een soort vierkant in het midden erdoorheen
+	Free: Pattern=in het midden, Pattern=deze hebben, Pattern=een
+	Constrained: Pattern=het midden, Pattern=hebben, Pattern=het
+Turn ID=1| B | B : en dan aan de voorkant een Ronde buis die naar voren steken
+	Free: Pattern=en dan, Pattern=aan de, Pattern=een, Pattern=die, Pattern=naar
+	Constrained: Pattern=de, Pattern=dan, Pattern=en
+Turn ID=2| B | B : aan de bovenkant twee stekel en aan de linkerkant een soort L maar dan andersom
+	Free: Pattern=twee, Pattern=aan de, Pattern=dan, Pattern=een, Pattern=maar, Pattern=aan de bovenkant, Pattern=en
+	Constrained: Pattern=aan de, Pattern=de
+Turn ID=3| A | A : want die hebben die twee twee uitsteeksel boven ja
+	Free: Pattern=die, Pattern=ja, Pattern=twee, Pattern=hebben
+	Constrained: 
+Turn ID=4| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=5| A | A : dat zijn nummer zes
+	Free: Pattern=dat zijn, Pattern=nummer
+	Constrained: Pattern=dat
+Turn ID=6| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=7| B | B : moeten je het nummer of letter
+	Free: Pattern=nummer, Pattern=het
+	Constrained: 
+Turn ID=8| B | B : en dan en dan knopje
+	Free: Pattern=en dan
+	Constrained: Pattern=dan, Pattern=en
+Turn ID=9| A | A : deze hebben ook een plaat maar wat veel naar het midden
+	Free: Pattern=het midden, Pattern=een, Pattern=deze hebben, Pattern=maar, Pattern=naar
+	Constrained: Pattern=hebben, Pattern=het
+Turn ID=10| A | A : en dan die twee dinget bovenop
+	Free: Pattern=en dan, Pattern=twee dinget, Pattern=die
+	Constrained: Pattern=dan, Pattern=en, Pattern=twee
+Turn ID=11| A | A : ja wachten ik zoeken die ja ja ja ja precies
+	Free: Pattern=die, Pattern=ja
+	Constrained: 
+Turn ID=12| A | A : dat zijn bij mij dertien
+	Free: Pattern=dat zijn bij mij
+	Constrained: Pattern=dat, Pattern=dat zijn
+Turn ID=13| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=14| B | B : dat zijn bij mij C
+	Free: Pattern=dat zijn bij mij
+	Constrained: Pattern=dat, Pattern=dat zijn
+Turn ID=15| B | B : deze hebben een vierkant er zo plat doorheen
+	Free: Pattern=deze hebben, Pattern=een
+	Constrained: Pattern=hebben
+Turn ID=16| B | B : en een L aan de linkerkant
+	Free: Pattern=aan de, Pattern=en, Pattern=een
+	Constrained: Pattern=de
+Turn ID=17| B | B : twee dinget aan de bovenkant en de ding aan de voorkant
+	Free: Pattern=twee dinget aan de bovenkant, Pattern=aan de, Pattern=de, Pattern=en
+	Constrained: Pattern=twee, Pattern=de, Pattern=aan de, Pattern=twee dinget, Pattern=aan de bovenkant
+Turn ID=18| A | A : dit zijn weer die een met de plank niet onderaan maar iets omhoog en die twee dinget aan de bovenkant
+	Free: Pattern=de, Pattern=een, Pattern=die, Pattern=en, Pattern=maar, Pattern=dit zijn, Pattern=twee dinget aan de bovenkant, Pattern=met
+	Constrained: Pattern=twee, Pattern=de, Pattern=aan de, Pattern=twee dinget, Pattern=aan de bovenkant
+Turn ID=19| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=20| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=21| B | B : dat zijn bij mij J
+	Free: Pattern=dat zijn bij mij
+	Constrained: Pattern=dat, Pattern=dat zijn
+Turn ID=22| A | A : ja dat zijn nummer negen
+	Free: Pattern=dat zijn, Pattern=nummer, Pattern=ja
+	Constrained: Pattern=dat
+Turn ID=23| A | A : die met de plaat die iets in het midden zitten
+	Free: Pattern=in het midden, Pattern=die, Pattern=de, Pattern=met
+	Constrained: Pattern=het midden, Pattern=het
+Turn ID=24| B | B : dit zijn met dat vierkant plat erdoorheen
+	Free: Pattern=dit zijn, Pattern=met, Pattern=dat
+	Constrained: 
+Turn ID=25| B | B : en twee dinget aan de bovenkant een L aan de linkerkant
+	Free: Pattern=twee dinget aan de bovenkant, Pattern=aan de, Pattern=en, Pattern=een
+	Constrained: Pattern=twee, Pattern=de, Pattern=aan de, Pattern=twee dinget, Pattern=aan de bovenkant
+Turn ID=26| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=27| B | B : dat zijn bij mij N
+	Free: Pattern=dat zijn bij mij
+	Constrained: Pattern=dat, Pattern=dat zijn

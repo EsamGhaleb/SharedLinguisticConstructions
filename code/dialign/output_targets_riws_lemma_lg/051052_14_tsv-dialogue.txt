@@ -1,0 +1,167 @@
+A|0| A: _oké_ 
+A|1| A: _ja_ _dit zijn_ _een_ _dat_ beker staan _op_ _een_ _een_ rechthoekig statief zeggen maar 
+A|2| A: _ik_ _hebben_ _het_ bij _die_ ander als _waterpomp_ omschrijven _ik_ weten _niet_ _of_ _dat_ _ja_ even je _hebben_ er nog _één_ ander _die_ _erop_ lijken 
+A|3| A: _ja_ je _hebben_ er _één_ _een_ ander _die_ _erop_ lijken maar _die_ staan _op_ _een_ driehoek _dat zijn_ _hem_ _niet_ 
+A|4| A: _en_ je _hebben_ er _één_ _met een_ soort van tuitje _dat zijn_ _hem_ _ook_ _niet_ 
+B|5| B: [ja] 
+B|6| B: _hij hebben zo'n balle op_ zich [of] [niet] 
+A|7| A: [hij hebben zo'n balle op] _en_ _twee_ handvat _aan de_ 
+B|8| B: [ja] 
+B|9| B: [ja] 
+A|10| A: [ja] 
+B|11| B: [oké] dan [zijn] [het] _nummer_ D 
+A|12| A: _volgens mij_ verspringen ze _ook_ telkens _een_ beetje 
+A|13| A: [ja] [ja] 
+B|14| B: [dit zijn] weer [een] kop [met een] [balle] [erop] 
+B|15| B: [volgens mij] [ook] [de] enig zo te zien 
+B|16| B: _die hebben_ [twee] armp [en] dan [één] [zo'n] verticaal balk [aan de] voorkant 
+A|17| A: [ja] mijn _waterpomp_ 
+A|18| A: [die hebben] we al [een] keer [hebben] 
+B|19| B: [ja] 
+B|20| B: [ja] 
+A|21| A: [ja] 
+A|22| A: _dat zijn_ [nummer] vijftien 
+A|23| A: [de] _waterpomp_ 
+B|24| B: waar [zijn] [die] 
+A|25| A: [de] staaf [en] [het] bolle bovenop 
+B|26| B: [ja] 
+B|27| B: [dat zijn] L 
+B|28| B: [oké] [dit zijn] weer [die] [met] [die] [het] [balle] [erop] [en] dan [die] verticaal balk ervoor 
+B|29| B: [de] pomp 
+A|30| A: [de] _waterpomp_ 
+B|31| B: [ja] 
+A|32| A: [nummer] zes 
+B|33| B: ah [oké] 
+A|34| A: [de] _waterpomp_ 
+B|35| B: waar [zijn] [die] 
+A|36| A: bolle bovenop [en] [die] staaf 
+B|37| B: [ja] [ik] zien [hem] voor me [ja] daar [zijn] [die] J 
+B|38| B: [de] pomp 
+B|39| B: [waterpomp] 
+A|40| A: [ja] [nummer] drie 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=1| A | A : ja dit zijn een dat beker staan op een een rechthoekig statief zeggen maar
+	Free: Pattern=dat, Pattern=ja, Pattern=op, Pattern=een, Pattern=dit zijn
+	Constrained: Pattern=zijn
+Turn ID=2| A | A : ik hebben het bij die ander als waterpomp omschrijven ik weten niet of dat ja even je hebben er nog één ander die erop lijken
+	Free: Pattern=dat, Pattern=of, Pattern=waterpomp, Pattern=ja, Pattern=erop, Pattern=niet, Pattern=het, Pattern=hebben, Pattern=die, Pattern=ik, Pattern=één
+	Constrained: 
+Turn ID=3| A | A : ja je hebben er één een ander die erop lijken maar die staan op een driehoek dat zijn hem niet
+	Free: Pattern=dat zijn, Pattern=ja, Pattern=erop, Pattern=op, Pattern=niet, Pattern=een, Pattern=hebben, Pattern=die, Pattern=één, Pattern=hem
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=4| A | A : en je hebben er één met een soort van tuitje dat zijn hem ook niet
+	Free: Pattern=dat zijn, Pattern=ook, Pattern=niet, Pattern=hebben, Pattern=met een, Pattern=en, Pattern=één, Pattern=hem
+	Constrained: Pattern=dat, Pattern=zijn, Pattern=met, Pattern=een
+Turn ID=5| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=6| B | B : hij hebben zo'n balle op zich of niet
+	Free: Pattern=hij hebben zo'n balle op, Pattern=niet, Pattern=of
+	Constrained: Pattern=zo'n, Pattern=hebben, Pattern=op, Pattern=balle
+Turn ID=7| A | A : hij hebben zo'n balle op en twee handvat aan de
+	Free: Pattern=hij hebben zo'n balle op, Pattern=aan de, Pattern=en, Pattern=twee
+	Constrained: Pattern=zo'n, Pattern=de, Pattern=op, Pattern=hebben, Pattern=balle
+Turn ID=8| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=9| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=10| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=11| B | B : oké dan zijn het nummer D
+	Free: Pattern=oké, Pattern=zijn, Pattern=het, Pattern=nummer
+	Constrained: 
+Turn ID=12| A | A : volgens mij verspringen ze ook telkens een beetje
+	Free: Pattern=volgens mij, Pattern=ook, Pattern=een
+	Constrained: 
+Turn ID=13| A | A : ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=14| B | B : dit zijn weer een kop met een balle erop
+	Free: Pattern=erop, Pattern=een, Pattern=balle, Pattern=met een, Pattern=dit zijn
+	Constrained: Pattern=zijn, Pattern=met, Pattern=een
+Turn ID=15| B | B : volgens mij ook de enig zo te zien
+	Free: Pattern=volgens mij, Pattern=ook, Pattern=de
+	Constrained: 
+Turn ID=16| B | B : die hebben twee armp en dan één zo'n verticaal balk aan de voorkant
+	Free: Pattern=aan de, Pattern=die hebben, Pattern=en, Pattern=één, Pattern=zo'n, Pattern=twee
+	Constrained: Pattern=hebben, Pattern=die, Pattern=de
+Turn ID=17| A | A : ja mijn waterpomp
+	Free: Pattern=waterpomp, Pattern=ja
+	Constrained: 
+Turn ID=18| A | A : die hebben we al een keer hebben
+	Free: Pattern=die hebben, Pattern=hebben, Pattern=een
+	Constrained: Pattern=hebben, Pattern=die
+Turn ID=19| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=20| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=21| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=22| A | A : dat zijn nummer vijftien
+	Free: Pattern=dat zijn, Pattern=nummer
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=23| A | A : de waterpomp
+	Free: Pattern=waterpomp, Pattern=de
+	Constrained: 
+Turn ID=24| B | B : waar zijn die
+	Free: Pattern=zijn, Pattern=die
+	Constrained: 
+Turn ID=25| A | A : de staaf en het bolle bovenop
+	Free: Pattern=en, Pattern=het, Pattern=de
+	Constrained: 
+Turn ID=26| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=27| B | B : dat zijn L
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=28| B | B : oké dit zijn weer die met die het balle erop en dan die verticaal balk ervoor
+	Free: Pattern=erop, Pattern=het, Pattern=met, Pattern=die, Pattern=en, Pattern=dit zijn, Pattern=oké, Pattern=balle
+	Constrained: Pattern=zijn
+Turn ID=29| B | B : de pomp
+	Free: Pattern=de
+	Constrained: 
+Turn ID=30| A | A : de waterpomp
+	Free: Pattern=waterpomp, Pattern=de
+	Constrained: 
+Turn ID=31| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=32| A | A : nummer zes
+	Free: Pattern=nummer
+	Constrained: 
+Turn ID=33| B | B : ah oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=34| A | A : de waterpomp
+	Free: Pattern=waterpomp, Pattern=de
+	Constrained: 
+Turn ID=35| B | B : waar zijn die
+	Free: Pattern=zijn, Pattern=die
+	Constrained: 
+Turn ID=36| A | A : bolle bovenop en die staaf
+	Free: Pattern=en, Pattern=die
+	Constrained: 
+Turn ID=37| B | B : ja ik zien hem voor me ja daar zijn die J
+	Free: Pattern=ja, Pattern=die, Pattern=ik, Pattern=zijn, Pattern=hem
+	Constrained: 
+Turn ID=38| B | B : de pomp
+	Free: Pattern=de
+	Constrained: 
+Turn ID=39| B | B : waterpomp
+	Free: Pattern=waterpomp
+	Constrained: 
+Turn ID=40| A | A : ja nummer drie
+	Free: Pattern=ja, Pattern=nummer
+	Constrained: 

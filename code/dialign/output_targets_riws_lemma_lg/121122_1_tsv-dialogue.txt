@@ -1,0 +1,119 @@
+B|0| B: _ik_ _hebben_ het doen me altijd _aan_ gamen _denken_ 
+B|1| B: _zo'n_ _joystick_ bovenop _en_ _zo'n_ vierkant _plaat aan de zijkant_ 
+A|2| A: _ja_ 
+B|3| B: _en_ _twee_ van _die_ verrekijkertjes _aan de zijkant_ 
+A|4| A: [ik] [denken] _dat_ [ik] weten welk je bedoelen 
+A|5| A: _een_ [joystick] 
+B|6| B: of [een] paddenstoel 
+B|7| B: lijken erbovenop te vaststaan 
+B|8| B: _met_ _twee_ van _die verrekijker_ eigenlijk _aan de zijkant_ 
+A|9| A: _ja_ _ja_ _ja_ 
+A|10| A: _ja_ 
+A|11| A: _ja_ _dat zijn_ nummer [twee] bij mij 
+A|12| A: [en] dan [hebben] [die] [zo'n] [plaat aan de zijkant] toch 
+B|13| B: [ja] 
+A|14| A: [ja] 
+A|15| A: [die] [die verrekijker] [met] [die] [met] [die] [plaat] [die] _gamer_ 
+B|16| B: [ja] 
+B|17| B: [dat zijn] G 
+B|18| B: [de] [gamer] 
+A|19| A: [ja] [dat zijn] negen 
+A|20| A: [die] [met] [die verrekijker] [die] [gamer] 
+B|21| B: oké [dat zijn] D 
+B|22| B: [de] [gamer] 
+B|23| B: [met] [de] [twee] [verrekijker] 
+A|24| A: [ja] [dat zijn] nummer één 
+A|25| A: [die] [met] [die verrekijker] [die] [gamer] 
+B|26| B: [ja] 
+B|27| B: [ja] 
+B|28| B: B 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : ik hebben het doen me altijd aan gamen denken
+	Free: Pattern=aan, Pattern=denken, Pattern=ik, Pattern=hebben
+	Constrained: 
+Turn ID=1| B | B : zo'n joystick bovenop en zo'n vierkant plaat aan de zijkant
+	Free: Pattern=plaat aan de zijkant, Pattern=en, Pattern=joystick, Pattern=zo'n
+	Constrained: Pattern=aan, Pattern=de, Pattern=aan de zijkant, Pattern=plaat
+Turn ID=2| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=3| B | B : en twee van die verrekijkertjes aan de zijkant
+	Free: Pattern=aan de zijkant, Pattern=en, Pattern=die, Pattern=twee
+	Constrained: Pattern=de, Pattern=aan
+Turn ID=4| A | A : ik denken dat ik weten welk je bedoelen
+	Free: Pattern=denken, Pattern=ik, Pattern=dat
+	Constrained: 
+Turn ID=5| A | A : een joystick
+	Free: Pattern=een, Pattern=joystick
+	Constrained: 
+Turn ID=6| B | B : of een paddenstoel
+	Free: Pattern=een
+	Constrained: 
+Turn ID=7| B | B : lijken erbovenop te vaststaan
+	Free: 
+	Constrained: 
+Turn ID=8| B | B : met twee van die verrekijker eigenlijk aan de zijkant
+	Free: Pattern=aan de zijkant, Pattern=die verrekijker, Pattern=met, Pattern=twee
+	Constrained: Pattern=aan, Pattern=verrekijker, Pattern=de, Pattern=die
+Turn ID=9| A | A : ja ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=10| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=11| A | A : ja dat zijn nummer twee bij mij
+	Free: Pattern=dat zijn, Pattern=ja, Pattern=twee
+	Constrained: Pattern=dat
+Turn ID=12| A | A : en dan hebben die zo'n plaat aan de zijkant toch
+	Free: Pattern=plaat aan de zijkant, Pattern=zo'n, Pattern=hebben, Pattern=die, Pattern=en
+	Constrained: Pattern=aan, Pattern=de, Pattern=aan de zijkant, Pattern=plaat
+Turn ID=13| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=14| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=15| A | A : die die verrekijker met die met die plaat die gamer
+	Free: Pattern=die verrekijker, Pattern=met, Pattern=die, Pattern=gamer, Pattern=plaat
+	Constrained: Pattern=verrekijker, Pattern=die
+Turn ID=16| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=17| B | B : dat zijn G
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat
+Turn ID=18| B | B : de gamer
+	Free: Pattern=de, Pattern=gamer
+	Constrained: 
+Turn ID=19| A | A : ja dat zijn negen
+	Free: Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=dat
+Turn ID=20| A | A : die met die verrekijker die gamer
+	Free: Pattern=die verrekijker, Pattern=gamer, Pattern=met, Pattern=die
+	Constrained: Pattern=verrekijker, Pattern=die
+Turn ID=21| B | B : oké dat zijn D
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat
+Turn ID=22| B | B : de gamer
+	Free: Pattern=de, Pattern=gamer
+	Constrained: 
+Turn ID=23| B | B : met de twee verrekijker
+	Free: Pattern=de, Pattern=verrekijker, Pattern=met, Pattern=twee
+	Constrained: 
+Turn ID=24| A | A : ja dat zijn nummer één
+	Free: Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=dat
+Turn ID=25| A | A : die met die verrekijker die gamer
+	Free: Pattern=die verrekijker, Pattern=gamer, Pattern=met, Pattern=die
+	Constrained: Pattern=verrekijker, Pattern=die
+Turn ID=26| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=27| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=28| B | B : B
+	Free: 
+	Constrained: 

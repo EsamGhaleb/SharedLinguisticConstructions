@@ -1,0 +1,187 @@
+B|0| B: okee _link_ _zitten_ _een soort van_ staafje _en _aan de_ achterkant_ _zitten_ _een_ _een_ _een_ cirkelt 
+B|1| B: _zitten_ _aan de achterkant_ _die_ zien je _niet_ zo _die_ zien je _maar_ voor _de_ helft 
+A|2| A: jij _hebben_ hem 
+B|3| B: _en_ onderaan _zitten_ _een soort van_ _een_ 
+B|4| B: _ja_ _wat_ _zijn het_ bovenaan _zitten_ trouwens rechtsbovenaan 
+A|5| A: zeshoekig uitsteeksel [aan de] linkerkant 
+B|6| B: _ja_ nee nee nee _ja_ _iets_ bread worden inderdaad 
+B|7| B: _ja_ _ja_ _een_ beetje rond 
+A|8| A: [en] _zo'n_ [soort van] deksel erachter 
+B|9| B: _en _aan de_ achterkant_ _zitten_ [zo'n] half _zijn_ _een_ _die schijf_ _die_ je _maar_ voor [de] helft zien 
+A|10| A: [ja] oké 
+A|11| A: dan weten _ik_ hem , twaalf 
+B|12| B: [ja] 
+B|13| B: [ja] 
+B|14| B: h 
+A|15| A: oké [ja] deze _hebben_ zegmaar [een soort van] [ja] één _ja die_ _hebben_ [iets] [aan de] onderkant 
+A|16| A: gewoon [ja] hij staan bovenop [iets] [maar] hij [zitten] wel vast [aan] 
+A|17| A: [en aan de] linkerkant [zijn het] ook [zo'n] zegmaar _ik_ weten [niet] [een] zeshoekig [een] cilinder zegmaar [aan de] linkerkant [wat] uitsteken 
+A|18| A: [en] weer [zo'n] [soort] met deksel erachter weer 
+B|19| B: okee _dit zijn_ [die] half _schijf_ of _die schijf_ _aan de achterkant_ [die] je half zien 
+B|20| B: [ja die] rond _schijf_ 
+B|21| B: [ja] 
+A|22| A: oké 
+A|23| A: [schijf] 
+A|24| A: [ja] 
+A|25| A: oké wachten [dit zijn] 
+A|26| A: [aan de] linkerkant _hebben_ hij [die schijf] 
+A|27| A: wachten 
+A|28| A: zeshoekig balk 
+A|29| A: [aan de] linkerkant 
+A|30| A: [ja] oké 
+A|31| A: [en] [maar] dan [zitten] dan weer met [zo'n] deksel erachter 
+A|32| A: oké [ja] _dat zijn_ elf 
+A|33| A: moeten _ik_ drukken 
+B|34| B: gek 
+B|35| B: [ja] [ja] [ja] g 
+B|36| B: [ik] [hebben] [de] [de] cirkel [die] je voor helft zien _aan de achterkant_ 
+A|37| A: [ja] [dit zijn] weer met _dat_ deksel [aan de achterkant] [en] [die] [ja] zeshoekig cilinderachtig [aan de] rechterkant 
+A|38| A: [link] 
+B|39| B: [ja] 
+B|40| B: [dat zijn] d 
+A|41| A: [ja] 
+A|42| A: [ja] [dat zijn] negen 
+A|43| A: [ja] [dit zijn] weer met [die] deksel erachter 
+A|44| A: [en] [zo'n] zeshoekig 
+A|45| A: [ja] 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : okee link zitten een soort van staafje en aan de achterkant zitten een een een cirkelt
+	Free: Pattern=aan de achterkant, Pattern=een, Pattern=een soort van, Pattern=zitten, Pattern=link, Pattern=en aan de
+	Constrained: Pattern=soort, Pattern=aan de, Pattern=een, Pattern=en, Pattern=soort van, Pattern=de, Pattern=aan
+Turn ID=1| B | B : zitten aan de achterkant die zien je niet zo die zien je maar voor de helft
+	Free: Pattern=aan de achterkant, Pattern=de, Pattern=niet, Pattern=maar, Pattern=die, Pattern=zitten
+	Constrained: Pattern=aan, Pattern=de, Pattern=aan de
+Turn ID=2| A | A : jij hebben hem
+	Free: Pattern=hebben
+	Constrained: 
+Turn ID=3| B | B : en onderaan zitten een soort van een
+	Free: Pattern=een soort van, Pattern=een, Pattern=zitten, Pattern=en
+	Constrained: Pattern=soort van, Pattern=soort, Pattern=een
+Turn ID=4| B | B : ja wat zijn het bovenaan zitten trouwens rechtsbovenaan
+	Free: Pattern=zijn het, Pattern=ja, Pattern=wat, Pattern=zitten
+	Constrained: Pattern=zijn
+Turn ID=5| A | A : zeshoekig uitsteeksel aan de linkerkant
+	Free: Pattern=aan de
+	Constrained: Pattern=aan, Pattern=de
+Turn ID=6| B | B : ja nee nee nee ja iets bread worden inderdaad
+	Free: Pattern=ja, Pattern=iets
+	Constrained: 
+Turn ID=7| B | B : ja ja een beetje rond
+	Free: Pattern=ja, Pattern=een
+	Constrained: 
+Turn ID=8| A | A : en zo'n soort van deksel erachter
+	Free: Pattern=soort van, Pattern=zo'n, Pattern=en
+	Constrained: Pattern=soort
+Turn ID=9| B | B : en aan de achterkant zitten zo'n half zijn een die schijf die je maar voor de helft zien
+	Free: Pattern=zo'n, Pattern=de, Pattern=een, Pattern=en aan de, Pattern=aan de achterkant, Pattern=die schijf, Pattern=die, Pattern=zitten, Pattern=zijn, Pattern=maar
+	Constrained: Pattern=aan de, Pattern=schijf, Pattern=die, Pattern=en, Pattern=de, Pattern=aan
+Turn ID=10| A | A : ja oké
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=11| A | A : dan weten ik hem , twaalf
+	Free: Pattern=ik
+	Constrained: 
+Turn ID=12| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=13| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=14| B | B : h
+	Free: 
+	Constrained: 
+Turn ID=15| A | A : oké ja deze hebben zegmaar een soort van ja één ja die hebben iets aan de onderkant
+	Free: Pattern=ja die, Pattern=aan de, Pattern=hebben, Pattern=een soort van, Pattern=iets, Pattern=ja
+	Constrained: Pattern=soort, Pattern=een, Pattern=die, Pattern=soort van, Pattern=de, Pattern=aan, Pattern=ja
+Turn ID=16| A | A : gewoon ja hij staan bovenop iets maar hij zitten wel vast aan
+	Free: Pattern=zitten, Pattern=maar, Pattern=aan, Pattern=iets, Pattern=ja
+	Constrained: 
+Turn ID=17| A | A : en aan de linkerkant zijn het ook zo'n zegmaar ik weten niet een zeshoekig een cilinder zegmaar aan de linkerkant wat uitsteken
+	Free: Pattern=zijn het, Pattern=zo'n, Pattern=aan de, Pattern=niet, Pattern=een, Pattern=wat, Pattern=ik, Pattern=en aan de
+	Constrained: Pattern=aan de, Pattern=en, Pattern=zijn, Pattern=de, Pattern=aan
+Turn ID=18| A | A : en weer zo'n soort met deksel erachter weer
+	Free: Pattern=soort, Pattern=zo'n, Pattern=en
+	Constrained: 
+Turn ID=19| B | B : okee dit zijn die half schijf of die schijf aan de achterkant die je half zien
+	Free: Pattern=schijf, Pattern=die, Pattern=dit zijn, Pattern=aan de achterkant, Pattern=die schijf
+	Constrained: Pattern=aan de, Pattern=schijf, Pattern=die, Pattern=zijn, Pattern=de, Pattern=aan
+Turn ID=20| B | B : ja die rond schijf
+	Free: Pattern=ja die, Pattern=schijf
+	Constrained: Pattern=die, Pattern=ja
+Turn ID=21| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=22| A | A : oké
+	Free: 
+	Constrained: 
+Turn ID=23| A | A : schijf
+	Free: Pattern=schijf
+	Constrained: 
+Turn ID=24| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=25| A | A : oké wachten dit zijn
+	Free: Pattern=dit zijn
+	Constrained: Pattern=zijn
+Turn ID=26| A | A : aan de linkerkant hebben hij die schijf
+	Free: Pattern=aan de, Pattern=die schijf, Pattern=hebben
+	Constrained: Pattern=aan, Pattern=die, Pattern=de, Pattern=schijf
+Turn ID=27| A | A : wachten
+	Free: 
+	Constrained: 
+Turn ID=28| A | A : zeshoekig balk
+	Free: 
+	Constrained: 
+Turn ID=29| A | A : aan de linkerkant
+	Free: Pattern=aan de
+	Constrained: Pattern=aan, Pattern=de
+Turn ID=30| A | A : ja oké
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=31| A | A : en maar dan zitten dan weer met zo'n deksel erachter
+	Free: Pattern=zo'n, Pattern=maar, Pattern=zitten, Pattern=en
+	Constrained: 
+Turn ID=32| A | A : oké ja dat zijn elf
+	Free: Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=33| A | A : moeten ik drukken
+	Free: Pattern=ik
+	Constrained: 
+Turn ID=34| B | B : gek
+	Free: 
+	Constrained: 
+Turn ID=35| B | B : ja ja ja g
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=36| B | B : ik hebben de de cirkel die je voor helft zien aan de achterkant
+	Free: Pattern=aan de achterkant, Pattern=de, Pattern=hebben, Pattern=die, Pattern=ik
+	Constrained: Pattern=aan, Pattern=de, Pattern=aan de
+Turn ID=37| A | A : ja dit zijn weer met dat deksel aan de achterkant en die ja zeshoekig cilinderachtig aan de rechterkant
+	Free: Pattern=ja, Pattern=aan de, Pattern=die, Pattern=en, Pattern=dit zijn, Pattern=dat, Pattern=aan de achterkant
+	Constrained: Pattern=aan, Pattern=de, Pattern=zijn, Pattern=aan de
+Turn ID=38| A | A : link
+	Free: Pattern=link
+	Constrained: 
+Turn ID=39| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=40| B | B : dat zijn d
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=41| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=42| A | A : ja dat zijn negen
+	Free: Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=43| A | A : ja dit zijn weer met die deksel erachter
+	Free: Pattern=dit zijn, Pattern=die, Pattern=ja
+	Constrained: Pattern=zijn
+Turn ID=44| A | A : en zo'n zeshoekig
+	Free: Pattern=zo'n, Pattern=en
+	Constrained: 
+Turn ID=45| A | A : ja
+	Free: Pattern=ja
+	Constrained: 

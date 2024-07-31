@@ -1,0 +1,107 @@
+A|0| A: top 
+A|1| A: ok hij _hebben_ _een_ beetje _een_ neusje 
+A|2| A: dus eigenlijk _een_ ovaal _aan de voorkant_ of _een_ beetje schuin _aan de voorkant_ _en_ daar zitten eigenlijk _een_ _ja_ stok doorheen _en_ _die_ _hebben_ _dan weer een_ _rond_ _aan_ _het_ uitein 
+A|3| A: _aan de_ bovenkant _van_ _het_ kop _hebben_ je eigenlijk _weer_ _dat_ lepeltje er zitten ver _ook_ niks _aan de_ bovenkant je zien _ook_ niks _aan de_ achterkant 
+A|4| A: _ja_ 
+A|5| A: _aan_ _het_ uitein 
+B|6| B: [ook] [en] [dan] [ook] _met_ _zo'n_ [een] staafje 
+B|7| B: [ja] 
+B|8| B: oké 
+B|9| B: [ja] [dan] _zijn_ [het] bij mij F 
+A|10| A: o [ja] _dat_ 
+A|11| A: [en] één dinge _aan de_ bovenkant _dat zijn_ vijf 
+B|12| B: ik [hebben] nou _weer die_ [een] _ook weer met_ _zo'n_ [een] bolle [aan de voorkant] zeggen maar _met_ _zo'n_ staaf erdoorheen [en] [dan weer een] 
+B|13| B: [aan de] einde [van] [de] staaf [ook] _zo'n_ [rond] zeggen maar 
+B|14| B: wat jij net [een] zuignap noemen 
+B|15| B: [ja] 
+A|16| A: [ja] dit [zijn] [ook weer _met] die_ neus alleen zitten er [dan] [zo'n] stok doorheen [met] [een] [rond] [aan] [het] uitein 
+A|17| A: [ja] _dat zijn_ vijf 
+B|18| B: [ja] 
+B|19| B: [dat zijn] bij mij A 
+A|20| A: [ja] dit [zijn] [die] [weer die] neus [met] [de] stang er doorheen 
+B|21| B: [weer die] [een] zuignap zeggen maar [met] [dat] [dat] [rond] [en] [dan] [die] staaf erdoorheen [en] 
+B|22| B: oké 
+A|23| A: [zijn] vijftien 
+B|24| B: [ja] bij mij [zijn] [dat] H 
+B|25| B: [die] [een] [met die] zuignap zeggen maar [dat] [rond] [en] [dan] 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : top
+	Free: 
+	Constrained: 
+Turn ID=1| A | A : ok hij hebben een beetje een neusje
+	Free: Pattern=een, Pattern=hebben
+	Constrained: 
+Turn ID=2| A | A : dus eigenlijk een ovaal aan de voorkant of een beetje schuin aan de voorkant en daar zitten eigenlijk een ja stok doorheen en die hebben dan weer een rond aan het uitein
+	Free: Pattern=dan weer een, Pattern=een, Pattern=het, Pattern=hebben, Pattern=die, Pattern=en, Pattern=rond, Pattern=aan de voorkant, Pattern=aan, Pattern=ja
+	Constrained: Pattern=aan de, Pattern=dan, Pattern=een, Pattern=weer, Pattern=de, Pattern=aan
+Turn ID=3| A | A : aan de bovenkant van het kop hebben je eigenlijk weer dat lepeltje er zitten ver ook niks aan de bovenkant je zien ook niks aan de achterkant
+	Free: Pattern=dat, Pattern=het, Pattern=hebben, Pattern=van, Pattern=weer, Pattern=aan de, Pattern=ook
+	Constrained: Pattern=aan, Pattern=de
+Turn ID=4| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=5| A | A : aan het uitein
+	Free: Pattern=het, Pattern=aan
+	Constrained: 
+Turn ID=6| B | B : ook en dan ook met zo'n een staafje
+	Free: Pattern=zo'n, Pattern=ook, Pattern=dan, Pattern=een, Pattern=met, Pattern=en
+	Constrained: 
+Turn ID=7| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=8| B | B : oké
+	Free: 
+	Constrained: 
+Turn ID=9| B | B : ja dan zijn het bij mij F
+	Free: Pattern=dan, Pattern=zijn, Pattern=het, Pattern=ja
+	Constrained: 
+Turn ID=10| A | A : o ja dat
+	Free: Pattern=dat, Pattern=ja
+	Constrained: 
+Turn ID=11| A | A : en één dinge aan de bovenkant dat zijn vijf
+	Free: Pattern=dat zijn, Pattern=aan de, Pattern=en
+	Constrained: Pattern=dat, Pattern=zijn, Pattern=aan, Pattern=de
+Turn ID=12| B | B : ik hebben nou weer die een ook weer met zo'n een bolle aan de voorkant zeggen maar met zo'n staaf erdoorheen en dan weer een
+	Free: Pattern=dan weer een, Pattern=zo'n, Pattern=ook weer met, Pattern=een, Pattern=hebben, Pattern=weer die, Pattern=met, Pattern=en, Pattern=aan de voorkant
+	Constrained: Pattern=dan, Pattern=een, Pattern=met, Pattern=die, Pattern=weer, Pattern=de, Pattern=aan, Pattern=aan de, Pattern=ook
+Turn ID=13| B | B : aan de einde van de staaf ook zo'n rond zeggen maar
+	Free: Pattern=zo'n, Pattern=de, Pattern=van, Pattern=rond, Pattern=aan de, Pattern=ook
+	Constrained: Pattern=aan, Pattern=de
+Turn ID=14| B | B : wat jij net een zuignap noemen
+	Free: Pattern=een
+	Constrained: 
+Turn ID=15| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=16| A | A : ja dit zijn ook weer met die neus alleen zitten er dan zo'n stok doorheen met een rond aan het uitein
+	Free: Pattern=met die, Pattern=zo'n, Pattern=ook weer met, Pattern=dan, Pattern=een, Pattern=het, Pattern=met, Pattern=rond, Pattern=zijn, Pattern=aan, Pattern=ja
+	Constrained: Pattern=weer, Pattern=met, Pattern=die, Pattern=ook
+Turn ID=17| A | A : ja dat zijn vijf
+	Free: Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=18| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=19| B | B : dat zijn bij mij A
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=20| A | A : ja dit zijn die weer die neus met de stang er doorheen
+	Free: Pattern=weer die, Pattern=met, Pattern=die, Pattern=zijn, Pattern=de, Pattern=ja
+	Constrained: Pattern=weer, Pattern=die
+Turn ID=21| B | B : weer die een zuignap zeggen maar met dat dat rond en dan die staaf erdoorheen en
+	Free: Pattern=dat, Pattern=dan, Pattern=een, Pattern=weer die, Pattern=met, Pattern=die, Pattern=en, Pattern=rond
+	Constrained: Pattern=weer, Pattern=die
+Turn ID=22| B | B : oké
+	Free: 
+	Constrained: 
+Turn ID=23| A | A : zijn vijftien
+	Free: Pattern=zijn
+	Constrained: 
+Turn ID=24| B | B : ja bij mij zijn dat H
+	Free: Pattern=dat, Pattern=zijn, Pattern=ja
+	Constrained: 
+Turn ID=25| B | B : die een met die zuignap zeggen maar dat rond en dan
+	Free: Pattern=dan, Pattern=een, Pattern=die, Pattern=en, Pattern=rond, Pattern=dat, Pattern=met die
+	Constrained: Pattern=met, Pattern=die

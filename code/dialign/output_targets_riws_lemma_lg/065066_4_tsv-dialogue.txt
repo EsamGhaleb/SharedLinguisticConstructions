@@ -1,0 +1,179 @@
+A|0| A: _dit zijn_ _ook_ een _onderzeeër_ alleen _die hebben_ _twee van die_ _vierkant staafjes aan de_ achterkant _en_ een dak 
+B|1| B: _twee [vierkant_ staafjes aan de] achter 
+A|2| A: _en_ _aan de voorkant_ zitten _ook_ een slurf 
+A|3| A: ik vinden _het_ _ook_ echt net een boo 
+B|4| B: [zijn] [die hebben] [die] zo'n [vierkant] vlak [aan de voorkant] 
+A|5| A: _nee_ 
+A|6| A: hij [hebben] hij [hebben] een een een armp zo 
+B|7| B: [nee] 
+B|8| B: _ja_ 
+A|9| A: _of_ zo eigenlijk 
+A|10| A: _en dan_ [twee vierkant] [aan de] [vierkant] blok [aan de] achterkant _en_ iets [aan de] onderkant 
+A|11| A: _het_ lijken 
+B|12| B: [en dan] [hebben] [die] zo'n dinge op [zijn] hoofd _ja_ 
+A|13| A: [ja] 
+A|14| A: [ja] 
+B|15| B: I 
+B|16| B: deze [hebben] [die] [twee] poot op [zijn] rug [en dan] zo'n dinge op [zijn] hoofd 
+A|17| A: [ja] [die] _ja ja_ [die] ander _onderzeeër_ 
+B|18| B: [ja ja] 
+A|19| A: gaan ik hem even [ja] 
+A|20| A: [ja] [twee] 
+A|21| A: [zijn] [de] _onderzeeër met het_ raar _het mislukken driehoek_ 
+B|22| B: [onderzeeër met [het] mislukken driehoek] 
+A|23| A: [ja] [die] dat bak [hebben] 
+B|24| B: [met] [die] 
+B|25| B: _ja met_ [die] [twee] pinnet [aan de] zijkant [en dan] nog één [en dan] zo'n [aan de] [ja] 
+A|26| A: [ja] [aan de] rechts 
+A|27| A: [ja] 
+A|28| A: [ja] 
+B|29| B: M 
+B|30| B: [dit zijn] [die] [onderzeeër] [ook] volgens mij [met] [twee van die] dinge [aan de] 
+A|31| A: [ja met] dat [mislukken driehoek] 
+B|32| B: [ja] 
+A|33| A: [ja] 
+A|34| A: negen 
+A|35| A: [dit zijn] [de] [mislukken driehoek] [onderzeeër] 
+B|36| B: F 
+B|37| B: [dit zijn] [die] [onderzeeër met] [die] [twee] dinge op [zijn] rug 
+A|38| A: [ja] 
+B|39| B: [of] op [zijn] zijkant 
+A|40| A: [ja] _die mislukken driehoek_ 
+B|41| B: [ja met] [die mislukken driehoek] [ja] 
+A|42| A: [ja] 
+A|43| A: zes 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : dit zijn ook een onderzeeër alleen die hebben twee van die vierkant staafjes aan de achterkant en een dak
+	Free: Pattern=twee van die, Pattern=ook, Pattern=die hebben, Pattern=onderzeeër, Pattern=en, Pattern=dit zijn, Pattern=vierkant staafjes aan de
+	Constrained: Pattern=twee, Pattern=de, Pattern=aan de, Pattern=hebben, Pattern=die, Pattern=zijn, Pattern=vierkant
+Turn ID=1| B | B : twee vierkant staafjes aan de achter
+	Free: Pattern=vierkant staafjes aan de, Pattern=twee vierkant
+	Constrained: Pattern=twee, Pattern=vierkant, Pattern=de, Pattern=aan de
+Turn ID=2| A | A : en aan de voorkant zitten ook een slurf
+	Free: Pattern=aan de voorkant, Pattern=en, Pattern=ook
+	Constrained: Pattern=aan de, Pattern=de
+Turn ID=3| A | A : ik vinden het ook echt net een boo
+	Free: Pattern=het, Pattern=ook
+	Constrained: 
+Turn ID=4| B | B : zijn die hebben die zo'n vierkant vlak aan de voorkant
+	Free: Pattern=die hebben, Pattern=die, Pattern=zijn, Pattern=vierkant, Pattern=aan de voorkant
+	Constrained: Pattern=de, Pattern=die, Pattern=aan de, Pattern=hebben
+Turn ID=5| A | A : nee
+	Free: Pattern=nee
+	Constrained: 
+Turn ID=6| A | A : hij hebben hij hebben een een een armp zo
+	Free: Pattern=hebben
+	Constrained: 
+Turn ID=7| B | B : nee
+	Free: Pattern=nee
+	Constrained: 
+Turn ID=8| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=9| A | A : of zo eigenlijk
+	Free: Pattern=of
+	Constrained: 
+Turn ID=10| A | A : en dan twee vierkant aan de vierkant blok aan de achterkant en iets aan de onderkant
+	Free: Pattern=en dan, Pattern=aan de, Pattern=en, Pattern=vierkant, Pattern=twee vierkant
+	Constrained: Pattern=twee, Pattern=vierkant, Pattern=de, Pattern=en
+Turn ID=11| A | A : het lijken
+	Free: Pattern=het
+	Constrained: 
+Turn ID=12| B | B : en dan hebben die zo'n dinge op zijn hoofd ja
+	Free: Pattern=ja, Pattern=en dan, Pattern=hebben, Pattern=die, Pattern=zijn
+	Constrained: Pattern=en
+Turn ID=13| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=14| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=15| B | B : I
+	Free: 
+	Constrained: 
+Turn ID=16| B | B : deze hebben die twee poot op zijn rug en dan zo'n dinge op zijn hoofd
+	Free: Pattern=twee, Pattern=en dan, Pattern=hebben, Pattern=die, Pattern=zijn
+	Constrained: Pattern=en
+Turn ID=17| A | A : ja die ja ja die ander onderzeeër
+	Free: Pattern=ja ja, Pattern=ja, Pattern=die, Pattern=onderzeeër
+	Constrained: Pattern=ja
+Turn ID=18| B | B : ja ja
+	Free: Pattern=ja ja
+	Constrained: Pattern=ja
+Turn ID=19| A | A : gaan ik hem even ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=20| A | A : ja twee
+	Free: Pattern=ja, Pattern=twee
+	Constrained: 
+Turn ID=21| A | A : zijn de onderzeeër met het raar het mislukken driehoek
+	Free: Pattern=onderzeeër met het, Pattern=het mislukken driehoek, Pattern=de, Pattern=zijn
+	Constrained: Pattern=mislukken driehoek, Pattern=het, Pattern=onderzeeër, Pattern=met, Pattern=onderzeeër met
+Turn ID=22| B | B : onderzeeër met het mislukken driehoek
+	Free: Pattern=onderzeeër met het, Pattern=het mislukken driehoek
+	Constrained: Pattern=mislukken driehoek, Pattern=het, Pattern=onderzeeër, Pattern=met, Pattern=onderzeeër met
+Turn ID=23| A | A : ja die dat bak hebben
+	Free: Pattern=ja, Pattern=hebben, Pattern=die
+	Constrained: 
+Turn ID=24| B | B : met die
+	Free: Pattern=die, Pattern=met
+	Constrained: 
+Turn ID=25| B | B : ja met die twee pinnet aan de zijkant en dan nog één en dan zo'n aan de ja
+	Free: Pattern=twee, Pattern=ja, Pattern=en dan, Pattern=aan de, Pattern=ja met, Pattern=die
+	Constrained: Pattern=de, Pattern=met, Pattern=en, Pattern=ja
+Turn ID=26| A | A : ja aan de rechts
+	Free: Pattern=aan de, Pattern=ja
+	Constrained: Pattern=de
+Turn ID=27| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=28| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=29| B | B : M
+	Free: 
+	Constrained: 
+Turn ID=30| B | B : dit zijn die onderzeeër ook volgens mij met twee van die dinge aan de
+	Free: Pattern=twee van die, Pattern=onderzeeër, Pattern=met, Pattern=die, Pattern=dit zijn, Pattern=aan de, Pattern=ook
+	Constrained: Pattern=twee, Pattern=de, Pattern=zijn, Pattern=die
+Turn ID=31| A | A : ja met dat mislukken driehoek
+	Free: Pattern=ja met, Pattern=mislukken driehoek
+	Constrained: Pattern=ja, Pattern=met
+Turn ID=32| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=33| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=34| A | A : negen
+	Free: 
+	Constrained: 
+Turn ID=35| A | A : dit zijn de mislukken driehoek onderzeeër
+	Free: Pattern=dit zijn, Pattern=mislukken driehoek, Pattern=onderzeeër, Pattern=de
+	Constrained: Pattern=zijn
+Turn ID=36| B | B : F
+	Free: 
+	Constrained: 
+Turn ID=37| B | B : dit zijn die onderzeeër met die twee dinge op zijn rug
+	Free: Pattern=twee, Pattern=die, Pattern=zijn, Pattern=dit zijn, Pattern=onderzeeër met
+	Constrained: Pattern=onderzeeër, Pattern=met, Pattern=zijn
+Turn ID=38| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=39| B | B : of op zijn zijkant
+	Free: Pattern=of, Pattern=zijn
+	Constrained: 
+Turn ID=40| A | A : ja die mislukken driehoek
+	Free: Pattern=die mislukken driehoek, Pattern=ja
+	Constrained: Pattern=mislukken driehoek, Pattern=die
+Turn ID=41| B | B : ja met die mislukken driehoek ja
+	Free: Pattern=die mislukken driehoek, Pattern=ja met, Pattern=ja
+	Constrained: Pattern=met, Pattern=die, Pattern=ja, Pattern=mislukken driehoek
+Turn ID=42| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=43| A | A : zes
+	Free: 
+	Constrained: 

@@ -1,0 +1,107 @@
+A|0| A: _ja_ deze vinden _ik_ _een_ beetje lijken hij hebben _een_ uitsteeksel _en_ daar _zitten een_ _spijker in_ 
+A|1| A: best wel groot _spijker_ 
+A|2| A: _aan de linkerkant_ 
+A|3| A: _ja_ 
+A|4| A: _ja_ 
+A|5| A: bij mij negen 
+A|6| A: o _ja_ _zijn_ zeven bij mij 
+B|7| B: [ja] 
+B|8| B: wat grappig [ja] 
+B|9| B: [ik] noemen _dat_ _de [spijker_ in] [de] arm 
+B|10| B: dus [een] plateau inderdaad [en] [aan de linkerkant] [zitten een] uitstulpsel met daarin weer wat 
+B|11| B: dan gaan het om L 
+A|12| A: _dit zijn_ die [spijker] 
+A|13| A: vijftien 
+B|14| B: [dit zijn] jou dienblad met [spijker] 
+B|15| B: met trompet zeggen maar 
+A|16| A: [ja] bij mij [zijn] [dat] één 
+B|17| B: jou serveerster of mijn serveerster 
+B|18| B: gaan het om 
+B|19| B: gaan het om C 
+A|20| A: _dit zijn [de_ spijker] 
+B|21| B: [dit zijn de] serveerster met [de] trompet slash Spijker 
+A|22| A: [zijn] dertien 
+B|23| B: [dat] gaan dan om A 
+B|24| B: [dit] gaan om [de spijker] serveerster 
+B|25| B: trompet 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : ja deze vinden ik een beetje lijken hij hebben een uitsteeksel en daar zitten een spijker in
+	Free: Pattern=spijker in, Pattern=ja, Pattern=een, Pattern=en, Pattern=ik, Pattern=zitten een
+	Constrained: Pattern=spijker, Pattern=een
+Turn ID=1| A | A : best wel groot spijker
+	Free: Pattern=spijker
+	Constrained: 
+Turn ID=2| A | A : aan de linkerkant
+	Free: Pattern=aan de linkerkant
+	Constrained: Pattern=de
+Turn ID=3| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=4| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=5| A | A : bij mij negen
+	Free: 
+	Constrained: 
+Turn ID=6| A | A : o ja zijn zeven bij mij
+	Free: Pattern=zijn, Pattern=ja
+	Constrained: 
+Turn ID=7| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=8| B | B : wat grappig ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=9| B | B : ik noemen dat de spijker in de arm
+	Free: Pattern=de spijker, Pattern=dat, Pattern=spijker in, Pattern=de, Pattern=ik
+	Constrained: Pattern=de, Pattern=spijker
+Turn ID=10| B | B : dus een plateau inderdaad en aan de linkerkant zitten een uitstulpsel met daarin weer wat
+	Free: Pattern=aan de linkerkant, Pattern=zitten een, Pattern=en, Pattern=een
+	Constrained: Pattern=de, Pattern=een
+Turn ID=11| B | B : dan gaan het om L
+	Free: 
+	Constrained: 
+Turn ID=12| A | A : dit zijn die spijker
+	Free: Pattern=dit zijn, Pattern=spijker
+	Constrained: Pattern=zijn, Pattern=dit
+Turn ID=13| A | A : vijftien
+	Free: 
+	Constrained: 
+Turn ID=14| B | B : dit zijn jou dienblad met spijker
+	Free: Pattern=dit zijn, Pattern=spijker
+	Constrained: Pattern=zijn, Pattern=dit
+Turn ID=15| B | B : met trompet zeggen maar
+	Free: 
+	Constrained: 
+Turn ID=16| A | A : ja bij mij zijn dat één
+	Free: Pattern=dat, Pattern=zijn, Pattern=ja
+	Constrained: 
+Turn ID=17| B | B : jou serveerster of mijn serveerster
+	Free: 
+	Constrained: 
+Turn ID=18| B | B : gaan het om
+	Free: 
+	Constrained: 
+Turn ID=19| B | B : gaan het om C
+	Free: 
+	Constrained: 
+Turn ID=20| A | A : dit zijn de spijker
+	Free: Pattern=dit zijn de, Pattern=de spijker
+	Constrained: Pattern=de, Pattern=dit, Pattern=zijn, Pattern=dit zijn, Pattern=spijker
+Turn ID=21| B | B : dit zijn de serveerster met de trompet slash Spijker
+	Free: Pattern=dit zijn de, Pattern=de
+	Constrained: Pattern=dit zijn, Pattern=dit, Pattern=de, Pattern=zijn
+Turn ID=22| A | A : zijn dertien
+	Free: Pattern=zijn
+	Constrained: 
+Turn ID=23| B | B : dat gaan dan om A
+	Free: Pattern=dat
+	Constrained: 
+Turn ID=24| B | B : dit gaan om de spijker serveerster
+	Free: Pattern=de spijker, Pattern=dit
+	Constrained: Pattern=de, Pattern=spijker
+Turn ID=25| B | B : trompet
+	Free: 
+	Constrained: 

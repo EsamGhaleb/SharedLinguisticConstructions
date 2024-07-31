@@ -1,0 +1,91 @@
+A|0| A: _deze_ _lijken_ _een_ beetje op _een_ _korf waar _een_ bal in_ gooien _worden_ _er_ zitten ook _een staaf_ _aan_ 
+A|1| A: _en_ _een_ _ja_ 
+B|2| B: [aan] beide kant steken _iets_ _iets uit_ 
+A|3| A: opsteken [iets uit] _ja_ 
+B|4| B: [ja] 
+B|5| B: dan denken ik _dat_ ik het al wel weten want [er] _zijn_ [er] niet heel veel [waar] [iets] van [een bal in] [lijken] te gaan vanaf _de_ bovenkant 
+B|6| B: dus _dat_ moeten dan _voor mij_ D _zijn_ 
+B|7| B: dus _dat_ [worden] dan geel 
+B|8| B: [deze] even kijken 
+B|9| B: volgens _mij_ hebben we [deze] al [een] keer hebben zelfs 
+B|10| B: [een] soort van [korf waar een] balle [in] gaan [waar] bij je dus links [en] rechts [een staaf] hebben [en] [aan] _de_ voorkant [een staaf] _die_ als het _zijn de korf_ omhooghoudt 
+A|11| A: [ja] [die] hem vasthouden 
+B|12| B: [ja] 
+A|13| A: _dat zijn_ vijftien [voor mij] 
+A|14| A: _dit zijn de_ [de korf] 
+B|15| B: even kijken [ja] [dat zijn] L [voor mij] 
+B|16| B: [dit zijn de] korfbal paal weer 
+A|17| A: yes [dat zijn] zes [voor mij] 
+A|18| A: [dit [zijn de] korf] 
+B|19| B: [dat zijn] J 
+B|20| B: [de] korfbalpaal 
+A|21| A: [ja] 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : deze lijken een beetje op een korf waar een bal in gooien worden er zitten ook een staaf aan
+	Free: Pattern=aan, Pattern=worden, Pattern=een, Pattern=een bal in, Pattern=er, Pattern=een staaf, Pattern=deze, Pattern=lijken, Pattern=korf waar een
+	Constrained: Pattern=in, Pattern=waar, Pattern=een
+Turn ID=1| A | A : en een ja
+	Free: Pattern=ja, Pattern=een, Pattern=en
+	Constrained: 
+Turn ID=2| B | B : aan beide kant steken iets iets uit
+	Free: Pattern=iets uit, Pattern=aan, Pattern=iets
+	Constrained: Pattern=iets
+Turn ID=3| A | A : opsteken iets uit ja
+	Free: Pattern=iets uit, Pattern=ja
+	Constrained: Pattern=iets
+Turn ID=4| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=5| B | B : dan denken ik dat ik het al wel weten want er zijn er niet heel veel waar iets van een bal in lijken te gaan vanaf de bovenkant
+	Free: Pattern=dat, Pattern=waar, Pattern=lijken, Pattern=een bal in, Pattern=er, Pattern=zijn, Pattern=de, Pattern=iets
+	Constrained: Pattern=in, Pattern=een
+Turn ID=6| B | B : dus dat moeten dan voor mij D zijn
+	Free: Pattern=voor mij, Pattern=dat, Pattern=zijn
+	Constrained: Pattern=mij
+Turn ID=7| B | B : dus dat worden dan geel
+	Free: Pattern=dat, Pattern=worden
+	Constrained: 
+Turn ID=8| B | B : deze even kijken
+	Free: Pattern=deze
+	Constrained: 
+Turn ID=9| B | B : volgens mij hebben we deze al een keer hebben zelfs
+	Free: Pattern=deze, Pattern=mij, Pattern=een
+	Constrained: 
+Turn ID=10| B | B : een soort van korf waar een balle in gaan waar bij je dus links en rechts een staaf hebben en aan de voorkant een staaf die als het zijn de korf omhooghoudt
+	Free: Pattern=waar, Pattern=korf waar een, Pattern=een, Pattern=in, Pattern=die, Pattern=de, Pattern=zijn de korf, Pattern=aan, Pattern=en, Pattern=een staaf
+	Constrained: Pattern=de, Pattern=waar, Pattern=een, Pattern=zijn, Pattern=de korf
+Turn ID=11| A | A : ja die hem vasthouden
+	Free: Pattern=ja, Pattern=die
+	Constrained: 
+Turn ID=12| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=13| A | A : dat zijn vijftien voor mij
+	Free: Pattern=voor mij, Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=mij, Pattern=zijn
+Turn ID=14| A | A : dit zijn de de korf
+	Free: Pattern=dit zijn de, Pattern=de korf
+	Constrained: Pattern=zijn, Pattern=de
+Turn ID=15| B | B : even kijken ja dat zijn L voor mij
+	Free: Pattern=voor mij, Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=dat, Pattern=mij, Pattern=zijn
+Turn ID=16| B | B : dit zijn de korfbal paal weer
+	Free: Pattern=dit zijn de
+	Constrained: Pattern=zijn, Pattern=de
+Turn ID=17| A | A : yes dat zijn zes voor mij
+	Free: Pattern=voor mij, Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=mij, Pattern=zijn
+Turn ID=18| A | A : dit zijn de korf
+	Free: Pattern=zijn de korf, Pattern=dit zijn de
+	Constrained: Pattern=de korf, Pattern=de, Pattern=zijn
+Turn ID=19| B | B : dat zijn J
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=20| B | B : de korfbalpaal
+	Free: Pattern=de
+	Constrained: 
+Turn ID=21| A | A : ja
+	Free: Pattern=ja
+	Constrained: 

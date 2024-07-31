@@ -1,0 +1,127 @@
+A|0| A: _ik vinden_ deze _er_ heel _plat_ _uitzien_ omdat _die_ rechts _hebben_ _die twee_ precies dezelfde _ja een soort_ isteken _zijn het_ eigenlijk 
+A|1| A: _en_ bovenop _zijn_ _een soort_ _ja_ espressocu _of_ zo _of_ _een_ hoed 
+A|2| A: _en_ links iets _ik_ weten niet precies wat _en_ link in _het_ midden van _het_ kop zitten nog _een_ nog _een_ vinne 
+A|3| A: bovenop zitten zo'n _ja_ klein cupje 
+A|4| A: _dat _zijn_ het_ enig wat bovenop zitten 
+B|5| B: [ja een soort] 
+B|6| B: [en] [die] [uitzien] [er] [plat] uit 
+B|7| B: [en] hij [hebben] aan _de_ rechterkant staan [twee] 
+A|8| A: [ja] 
+A|9| A: [ja] precies _dat zijn_ _dat_ isteken 
+B|10| B: _oké_ _ja ja_ [ik vinden] [het] [een soort] _kip_ maar 
+A|11| A: [een] [kip] 
+A|12| A: [ja [ja] [ja] ja] [oké] 
+B|13| B: dan [zijn het] [zijn het] I 
+A|14| A: [oké] 
+B|15| B: _dit zijn de kip_ 
+B|16| B: _met_ aan _de_ rechterkant [die twee] [of] [dat] [dat] istek 
+A|17| A: [ja] 
+A|18| A: [twee] 
+A|19| A: [dit zijn de kip] 
+B|20| B: [de kip] 
+B|21| B: [dat zijn] M 
+A|22| A: [met] [het] isteken 
+B|23| B: [ja] 
+B|24| B: [dit zijn de kip] 
+A|25| A: negen 
+A|26| A: [ja] 
+A|27| A: [de kip] 
+B|28| B: [de kip] [dat zijn] F 
+B|29| B: [kip] 
+A|30| A: zes 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : ik vinden deze er heel plat uitzien omdat die rechts hebben die twee precies dezelfde ja een soort isteken zijn het eigenlijk
+	Free: Pattern=zijn het, Pattern=ik vinden, Pattern=die twee, Pattern=hebben, Pattern=die, Pattern=uitzien, Pattern=er, Pattern=plat, Pattern=ja een soort
+	Constrained: Pattern=twee, Pattern=ja, Pattern=een, Pattern=het, Pattern=die, Pattern=zijn, Pattern=ik, Pattern=een soort
+Turn ID=1| A | A : en bovenop zijn een soort ja espressocu of zo of een hoed
+	Free: Pattern=of, Pattern=ja, Pattern=een, Pattern=een soort, Pattern=en, Pattern=zijn
+	Constrained: Pattern=een
+Turn ID=2| A | A : en links iets ik weten niet precies wat en link in het midden van het kop zitten nog een nog een vinne
+	Free: Pattern=en, Pattern=ik, Pattern=een, Pattern=het
+	Constrained: 
+Turn ID=3| A | A : bovenop zitten zo'n ja klein cupje
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=4| A | A : dat zijn het enig wat bovenop zitten
+	Free: Pattern=dat zijn, Pattern=zijn het
+	Constrained: Pattern=dat, Pattern=zijn, Pattern=het
+Turn ID=5| B | B : ja een soort
+	Free: Pattern=ja een soort
+	Constrained: Pattern=een soort, Pattern=ja, Pattern=een
+Turn ID=6| B | B : en die uitzien er plat uit
+	Free: Pattern=die, Pattern=uitzien, Pattern=er, Pattern=en, Pattern=plat
+	Constrained: 
+Turn ID=7| B | B : en hij hebben aan de rechterkant staan twee
+	Free: Pattern=en, Pattern=twee, Pattern=de, Pattern=hebben
+	Constrained: 
+Turn ID=8| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=9| A | A : ja precies dat zijn dat isteken
+	Free: Pattern=dat zijn, Pattern=dat, Pattern=ja
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=10| B | B : oké ja ja ik vinden het een soort kip maar
+	Free: Pattern=ja ja, Pattern=ik vinden, Pattern=het, Pattern=oké, Pattern=een soort, Pattern=kip
+	Constrained: Pattern=een, Pattern=ja, Pattern=ik
+Turn ID=11| A | A : een kip
+	Free: Pattern=een, Pattern=kip
+	Constrained: 
+Turn ID=12| A | A : ja ja ja ja oké
+	Free: Pattern=ja ja, Pattern=oké
+	Constrained: Pattern=ja
+Turn ID=13| B | B : dan zijn het zijn het I
+	Free: Pattern=zijn het
+	Constrained: Pattern=zijn, Pattern=het
+Turn ID=14| A | A : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=15| B | B : dit zijn de kip
+	Free: Pattern=dit zijn de kip
+	Constrained: Pattern=de kip, Pattern=de, Pattern=zijn, Pattern=kip
+Turn ID=16| B | B : met aan de rechterkant die twee of dat dat istek
+	Free: Pattern=dat, Pattern=of, Pattern=de, Pattern=die twee, Pattern=met
+	Constrained: Pattern=die, Pattern=twee
+Turn ID=17| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=18| A | A : twee
+	Free: Pattern=twee
+	Constrained: 
+Turn ID=19| A | A : dit zijn de kip
+	Free: Pattern=dit zijn de kip
+	Constrained: Pattern=de kip, Pattern=de, Pattern=zijn, Pattern=kip
+Turn ID=20| B | B : de kip
+	Free: Pattern=de kip
+	Constrained: Pattern=de, Pattern=kip
+Turn ID=21| B | B : dat zijn M
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=22| A | A : met het isteken
+	Free: Pattern=met, Pattern=het
+	Constrained: 
+Turn ID=23| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=24| B | B : dit zijn de kip
+	Free: Pattern=dit zijn de kip
+	Constrained: Pattern=de kip, Pattern=de, Pattern=zijn, Pattern=kip
+Turn ID=25| A | A : negen
+	Free: 
+	Constrained: 
+Turn ID=26| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=27| A | A : de kip
+	Free: Pattern=de kip
+	Constrained: Pattern=de, Pattern=kip
+Turn ID=28| B | B : de kip dat zijn F
+	Free: Pattern=dat zijn, Pattern=de kip
+	Constrained: Pattern=dat, Pattern=zijn, Pattern=de, Pattern=kip
+Turn ID=29| B | B : kip
+	Free: Pattern=kip
+	Constrained: 
+Turn ID=30| A | A : zes
+	Free: 
+	Constrained: 

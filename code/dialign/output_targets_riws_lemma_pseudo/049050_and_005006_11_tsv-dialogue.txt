@@ -1,0 +1,87 @@
+B|0| B: er zitten zeggen maar weer _een_ balonne in _soort_ van balonne _met_ _een_ 
+B|1| B: pilaar er langs _boven_ _en_ _aan de voorkant_ zitten _een_ bol _en_ link zitten _nog_ _een soort_ van goo 
+B|2| B: _ja_ _soort_ van _ja_ driehoekje inderdaad 
+A|3| A: [een soort] kegelachtig iets bedoelen je 
+A|4| A: [ja] 
+A|5| A: [ja] _dat zijn_ veertien 
+B|6| B: _de voorkant_ zo'n bolle zegmaar _die_ echt _dan_ [ja] ok [dat zijn] N 
+A|7| A: [ja] dit [zijn] het kop [met] het _bollet_ [aan de voorkant] 
+A|8| A: [en] Bovenin [een] vierkant staafje _en een_ kegelstaaf [en] _links_ [dan] [nog] [dat] driehoekig staafje 
+B|9| B: zegmaar _met dat bollet_ vooraan _links dat_ [soort] van goo [dat] driehoekje [en] [dan] [links] ballonne eruit [en een] blok eruit _boven_ 
+B|10| B: G 
+B|11| B: _die met dat bollet_ vooraan gleufje link ballonnetje er uit [en] blok er uit [aan de] bovenkant 
+A|12| A: [ja] [dat zijn] negen 
+B|13| B: J 
+A|14| A: dit [zijn] [die met dat bollet] rechtsvoor [en] [boven] [die] twee staaf [die] vierkant [en] [de] kegel 
+A|15| A: [en] [links dat] driehoekig staafje 
+A|16| A: [ja] 
+A|17| A: driehoek [ja] 
+A|18| A: [dat zijn] vijf 
+A|19| A: dit [zijn] [de] [met] het [bollet] 
+A|20| A: [aan de] rechtervoorkant [en] [die] twee staafjes [boven] [de] één één kegel [de] ander recht 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : er zitten zeggen maar weer een balonne in soort van balonne met een
+	Free: Pattern=soort, Pattern=een, Pattern=met
+	Constrained: 
+Turn ID=1| B | B : pilaar er langs boven en aan de voorkant zitten een bol en link zitten nog een soort van goo
+	Free: Pattern=nog, Pattern=boven, Pattern=een, Pattern=een soort, Pattern=en, Pattern=aan de voorkant
+	Constrained: Pattern=soort, Pattern=de, Pattern=aan de, Pattern=een, Pattern=de voorkant
+Turn ID=2| B | B : ja soort van ja driehoekje inderdaad
+	Free: Pattern=ja, Pattern=soort
+	Constrained: 
+Turn ID=3| A | A : een soort kegelachtig iets bedoelen je
+	Free: Pattern=een soort
+	Constrained: Pattern=soort, Pattern=een
+Turn ID=4| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=5| A | A : ja dat zijn veertien
+	Free: Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=6| B | B : de voorkant zo'n bolle zegmaar die echt dan ja ok dat zijn N
+	Free: Pattern=dat zijn, Pattern=ja, Pattern=dan, Pattern=de voorkant, Pattern=die
+	Constrained: Pattern=dat, Pattern=de, Pattern=zijn
+Turn ID=7| A | A : ja dit zijn het kop met het bollet aan de voorkant
+	Free: Pattern=bollet, Pattern=ja, Pattern=met, Pattern=zijn, Pattern=aan de voorkant
+	Constrained: Pattern=de voorkant, Pattern=aan de, Pattern=de
+Turn ID=8| A | A : en Bovenin een vierkant staafje en een kegelstaaf en links dan nog dat driehoekig staafje
+	Free: Pattern=dat, Pattern=nog, Pattern=dan, Pattern=een, Pattern=links, Pattern=en, Pattern=en een
+	Constrained: Pattern=en, Pattern=een
+Turn ID=9| B | B : zegmaar met dat bollet vooraan links dat soort van goo dat driehoekje en dan links ballonne eruit en een blok eruit boven
+	Free: Pattern=dat, Pattern=soort, Pattern=links, Pattern=met dat bollet, Pattern=links dat, Pattern=en, Pattern=en een, Pattern=boven, Pattern=dan
+	Constrained: Pattern=dat, Pattern=bollet, Pattern=een, Pattern=links, Pattern=met, Pattern=en
+Turn ID=10| B | B : G
+	Free: 
+	Constrained: 
+Turn ID=11| B | B : die met dat bollet vooraan gleufje link ballonnetje er uit en blok er uit aan de bovenkant
+	Free: Pattern=die met dat bollet, Pattern=aan de, Pattern=en
+	Constrained: Pattern=dat, Pattern=bollet, Pattern=de, Pattern=die, Pattern=met dat bollet, Pattern=met
+Turn ID=12| A | A : ja dat zijn negen
+	Free: Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=13| B | B : J
+	Free: 
+	Constrained: 
+Turn ID=14| A | A : dit zijn die met dat bollet rechtsvoor en boven die twee staaf die vierkant en de kegel
+	Free: Pattern=de, Pattern=boven, Pattern=die, Pattern=die met dat bollet, Pattern=en, Pattern=zijn
+	Constrained: Pattern=dat, Pattern=bollet, Pattern=die, Pattern=met dat bollet, Pattern=met
+Turn ID=15| A | A : en links dat driehoekig staafje
+	Free: Pattern=links dat, Pattern=en
+	Constrained: Pattern=dat, Pattern=links
+Turn ID=16| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=17| A | A : driehoek ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=18| A | A : dat zijn vijf
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=19| A | A : dit zijn de met het bollet
+	Free: Pattern=met, Pattern=de, Pattern=zijn, Pattern=bollet
+	Constrained: 
+Turn ID=20| A | A : aan de rechtervoorkant en die twee staafjes boven de één één kegel de ander recht
+	Free: Pattern=de, Pattern=aan de, Pattern=boven, Pattern=die, Pattern=en
+	Constrained: Pattern=de

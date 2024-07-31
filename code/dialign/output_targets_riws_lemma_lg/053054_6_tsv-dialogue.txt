@@ -1,0 +1,99 @@
+A|0| A: oké 
+A|1| A: ik _hebben_ nu _een_ figuur _met_ _een soort_ van klein _pluimp_ bovenop _een_ beetje veel _aan de_ linkerkant 
+A|2| A: _en aan de voorkant_ zitten _een_ _bol met_ _een_ staaf _erdoorheen _en_ _aan de_ rechterkant_ van _die_ staaf zitten weer zo'n plat _schijf_ ertegenaan drukken 
+B|3| B: _ja_ 
+B|4| B: F _zijn_ _dat_ bij mij 
+A|5| A: oké 
+B|6| B: _deze hebben_ [een soort] staart [aan de] bovenkant [en aan de voorkant] [een] bolle _met de_ rechthoek [erdoorheen en] [een] [schijf] [aan de rechterkant] eraan 
+A|7| A: [ja] 
+A|8| A: _dat zijn_ nummer vijf 
+A|9| A: [deze hebben] [dat] [soort] van pluimpje [een] beetje link bovenaan [en] dan vooraan _die bol_ plakken [met] _die_ staaf [erdoorheen en] daar nog weer zo'n 
+A|10| A: [schijf] op plakken [aan de rechterkant] 
+B|11| B: [ja] 
+B|12| B: [dat zijn] bij mij A 
+B|13| B: [deze] [zijn] [met] het [pluimp] [en] [de] _bol met de_ rechthoek [erdoorheen en] [de] [schijf] eraan 
+A|14| A: even zoeken hoor 
+A|15| A: [ja] 
+A|16| A: [ja] [dat zijn] nummer vijf 
+A|17| A: ik [hebben] nu _die_ [een] _met dat_ klein [pluimp] bovenaan [en aan de voorkant] _die bol met de_ staaf [erdoorheen en] daar _die_ [schijf] rechts op plakken 
+B|18| B: [ja] 
+B|19| B: [dat zijn] bij mij H 
+B|20| B: dit [zijn] [met dat] staart [en] [die bol met de] rechthoek [erdoorheen] [met de] [schijf] eraan 
+A|21| A: even zoeken 
+A|22| A: [ja] 
+A|23| A: [dat zijn] nummer vijftien 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : oké
+	Free: 
+	Constrained: 
+Turn ID=1| A | A : ik hebben nu een figuur met een soort van klein pluimp bovenop een beetje veel aan de linkerkant
+	Free: Pattern=aan de, Pattern=een, Pattern=hebben, Pattern=met, Pattern=een soort, Pattern=pluimp
+	Constrained: Pattern=de, Pattern=soort, Pattern=een
+Turn ID=2| A | A : en aan de voorkant zitten een bol met een staaf erdoorheen en aan de rechterkant van die staaf zitten weer zo'n plat schijf ertegenaan drukken
+	Free: Pattern=erdoorheen en, Pattern=en aan de voorkant, Pattern=een, Pattern=schijf, Pattern=bol met, Pattern=en aan de, Pattern=aan de rechterkant, Pattern=die
+	Constrained: Pattern=de, Pattern=aan de, Pattern=erdoorheen, Pattern=met, Pattern=en, Pattern=en aan de
+Turn ID=3| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=4| B | B : F zijn dat bij mij
+	Free: Pattern=dat, Pattern=zijn
+	Constrained: 
+Turn ID=5| A | A : oké
+	Free: 
+	Constrained: 
+Turn ID=6| B | B : deze hebben een soort staart aan de bovenkant en aan de voorkant een bolle met de rechthoek erdoorheen en een schijf aan de rechterkant eraan
+	Free: Pattern=erdoorheen en, Pattern=met de, Pattern=een, Pattern=schijf, Pattern=deze hebben, Pattern=aan de rechterkant, Pattern=een soort, Pattern=en aan de voorkant, Pattern=aan de
+	Constrained: Pattern=soort, Pattern=de, Pattern=aan de, Pattern=een, Pattern=met, Pattern=en, Pattern=deze, Pattern=en aan de, Pattern=erdoorheen, Pattern=hebben
+Turn ID=7| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=8| A | A : dat zijn nummer vijf
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=9| A | A : deze hebben dat soort van pluimpje een beetje link bovenaan en dan vooraan die bol plakken met die staaf erdoorheen en daar nog weer zo'n
+	Free: Pattern=dat, Pattern=een, Pattern=deze hebben, Pattern=met, Pattern=die, Pattern=en, Pattern=die bol, Pattern=erdoorheen en, Pattern=soort
+	Constrained: Pattern=die, Pattern=en, Pattern=deze, Pattern=erdoorheen, Pattern=hebben
+Turn ID=10| A | A : schijf op plakken aan de rechterkant
+	Free: Pattern=aan de rechterkant, Pattern=schijf
+	Constrained: Pattern=aan de, Pattern=de
+Turn ID=11| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=12| B | B : dat zijn bij mij A
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=13| B | B : deze zijn met het pluimp en de bol met de rechthoek erdoorheen en de schijf eraan
+	Free: Pattern=erdoorheen en, Pattern=de, Pattern=schijf, Pattern=met, Pattern=en, Pattern=deze, Pattern=pluimp, Pattern=bol met de, Pattern=zijn
+	Constrained: Pattern=erdoorheen, Pattern=met, Pattern=bol met, Pattern=en, Pattern=de, Pattern=met de
+Turn ID=14| A | A : even zoeken hoor
+	Free: 
+	Constrained: 
+Turn ID=15| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=16| A | A : ja dat zijn nummer vijf
+	Free: Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=17| A | A : ik hebben nu die een met dat klein pluimp bovenaan en aan de voorkant die bol met de staaf erdoorheen en daar die schijf rechts op plakken
+	Free: Pattern=erdoorheen en, Pattern=en aan de voorkant, Pattern=een, Pattern=met dat, Pattern=die, Pattern=die bol met de, Pattern=pluimp, Pattern=hebben, Pattern=schijf
+	Constrained: Pattern=dat, Pattern=aan de, Pattern=erdoorheen, Pattern=met, Pattern=die, Pattern=bol met, Pattern=en, Pattern=bol met de, Pattern=die bol, Pattern=en aan de, Pattern=de, Pattern=met de
+Turn ID=18| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=19| B | B : dat zijn bij mij H
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=20| B | B : dit zijn met dat staart en die bol met de rechthoek erdoorheen met de schijf eraan
+	Free: Pattern=met de, Pattern=met dat, Pattern=en, Pattern=die bol met de, Pattern=zijn, Pattern=erdoorheen, Pattern=schijf
+	Constrained: Pattern=dat, Pattern=met, Pattern=die, Pattern=bol met, Pattern=bol met de, Pattern=die bol, Pattern=de, Pattern=met de
+Turn ID=21| A | A : even zoeken
+	Free: 
+	Constrained: 
+Turn ID=22| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=23| A | A : dat zijn nummer vijftien
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn

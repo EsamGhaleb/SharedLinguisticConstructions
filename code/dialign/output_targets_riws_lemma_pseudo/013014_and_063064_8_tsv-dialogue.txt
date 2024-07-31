@@ -1,0 +1,171 @@
+A|0| A: dan zitten hij op _de_ goed plek 
+A|1| A: oké deze _zijn_ volgens mij hebben ik wel denken ik nou gewoon bekervorm natuurlijk _en_ dan hebben je een staafje er dwars doorheen maar _dat zijn_ best wel een klein staafje _en_ dan hebben je _twee_ driehoeken 
+A|2| A: _die_ een soort _van_ in liggen in _het_ volgens mij hebben er maar één _die_ 
+A|3| A: _en_ daar _zijn_ er _twee_ uitsteeksel _die_ vastzitten _aan_ driehoeken 
+A|4| A: _aan_ _de_ nee _aan_ _de_ vierhoek eigenlijk _het_ _zijn_ een er _zijn_ _twee_ _kubus die_ liggen op hun liggen op hun punt in _de_ beker 
+A|5| A: _en_ daar _zijn_ 
+A|6| A: _ja_ precies er gaan _drie_ stok in er _zijn_ _twee_ uitsteeksel 
+B|7| B: [ja] [dat zijn] N 
+A|8| A: [ja] 
+B|9| B: _dit zijn weer_ diegene _met_ [het] _vierkant_ kantelen [dat] [dat] erboven uitsteken 
+B|10| B: [en] [twee] [van] [die] oplopen [kubus] uit [dat] _vierkant_ 
+B|11| B: eruit 
+B|12| B: [en] 
+B|13| B: [ja] [ja] 
+A|14| A: [ja] ik zien hem 
+A|15| A: [ja] 
+A|16| A: [dat zijn] negen 
+B|17| B: [ja] _met die_ [kubus] [aan] allebei [de] kant [van] [het] 
+B|18| B: [ja] 
+B|19| B: [dat zijn] H 
+B|20| B: _dit _zijn_ _die_ _met_ die_ ruit _of_ [het] _vierkant_ erboven uitstekend _met de_ [kubus die] groot _worden_ 
+B|21| B: [en] [en] nog 
+A|22| A: oké ik [zijn weer] ach [dit zijn weer] [die] [de] [vierkant] [die] op [zijn] zij liggen in [het] kop [met de] [twee] [vierkant] [die] er soort [van] in gaan doen 
+A|23| A: er zitten een [het] [zijn] een [vierkant] [die] op [zijn] in [zijn] op [zijn] punt in [het] kop liggen 
+A|24| A: [met] [twee] [vierkant] [die] steeds klein [worden] 
+A|25| A: [die] hendel 
+B|26| B: [ja] [ja] [dat zijn] D 
+B|27| B: [dit zijn weer] [met] [dat] [vierkant] erbovenop [met de] groot [worden] [kubus] [aan] allebei [de] kant [van] [dat] [vierkant] 
+B|28| B: [en] nog [de] [drie] armp 
+A|29| A: [ja] 
+A|30| A: oké even kijken waar [zijn die] 
+A|31| A: waar [zijn die] 
+A|32| A: [zijn] [het] [zijn] [het] [zijn] [het] [die [met] de] [zijn] [het] [die [met] de] [de] [vierkant] [de] waar [die] in zitten in [de] hoek 
+A|33| A: [ja] [die] [zijn] [het] [ja] 
+A|34| A: [die] [zijn] zo ingewikkeld 
+A|35| A: elf [zijn] [dat] 
+A|36| A: [en] even kijken hoor 
+A|37| A: [ja] [dit zijn] [met de] driehoek [en] [de] [twee] [de] [de] vierhoek [met de] [twee] [vierkant] [die] eraan vastzitten als hendel 
+A|38| A: [zijn] jij 
+A|39| A: [ja] 
+A|40| A: [met die] [twee] uitsteeksel [ja] 
+A|41| A: [dat zijn] veertien click [of] the computer 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : dan zitten hij op de goed plek
+	Free: Pattern=de
+	Constrained: 
+Turn ID=1| A | A : oké deze zijn volgens mij hebben ik wel denken ik nou gewoon bekervorm natuurlijk en dan hebben je een staafje er dwars doorheen maar dat zijn best wel een klein staafje en dan hebben je twee driehoeken
+	Free: Pattern=dat zijn, Pattern=twee, Pattern=zijn, Pattern=en
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=2| A | A : die een soort van in liggen in het volgens mij hebben er maar één die
+	Free: Pattern=van, Pattern=het, Pattern=die
+	Constrained: 
+Turn ID=3| A | A : en daar zijn er twee uitsteeksel die vastzitten aan driehoeken
+	Free: Pattern=twee, Pattern=aan, Pattern=die, Pattern=en, Pattern=zijn
+	Constrained: 
+Turn ID=4| A | A : aan de nee aan de vierhoek eigenlijk het zijn een er zijn twee kubus die liggen op hun liggen op hun punt in de beker
+	Free: Pattern=twee, Pattern=het, Pattern=kubus die, Pattern=zijn, Pattern=de, Pattern=aan
+	Constrained: Pattern=kubus, Pattern=die
+Turn ID=5| A | A : en daar zijn
+	Free: Pattern=zijn, Pattern=en
+	Constrained: 
+Turn ID=6| A | A : ja precies er gaan drie stok in er zijn twee uitsteeksel
+	Free: Pattern=twee, Pattern=drie, Pattern=ja, Pattern=zijn
+	Constrained: 
+Turn ID=7| B | B : ja dat zijn N
+	Free: Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=8| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=9| B | B : dit zijn weer diegene met het vierkant kantelen dat dat erboven uitsteken
+	Free: Pattern=dat, Pattern=het, Pattern=met, Pattern=vierkant, Pattern=dit zijn weer
+	Constrained: Pattern=zijn weer, Pattern=dit zijn, Pattern=zijn
+Turn ID=10| B | B : en twee van die oplopen kubus uit dat vierkant
+	Free: Pattern=dat, Pattern=twee, Pattern=die, Pattern=van, Pattern=en, Pattern=vierkant, Pattern=kubus
+	Constrained: 
+Turn ID=11| B | B : eruit
+	Free: 
+	Constrained: 
+Turn ID=12| B | B : en
+	Free: Pattern=en
+	Constrained: 
+Turn ID=13| B | B : ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=14| A | A : ja ik zien hem
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=15| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=16| A | A : dat zijn negen
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=17| B | B : ja met die kubus aan allebei de kant van het
+	Free: Pattern=met die, Pattern=het, Pattern=van, Pattern=kubus, Pattern=de, Pattern=aan, Pattern=ja
+	Constrained: Pattern=die, Pattern=met
+Turn ID=18| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=19| B | B : dat zijn H
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=20| B | B : dit zijn die met die ruit of het vierkant erboven uitstekend met de kubus die groot worden
+	Free: Pattern=met die, Pattern=of, Pattern=met de, Pattern=worden, Pattern=die met, Pattern=kubus die, Pattern=vierkant, Pattern=dit zijn, Pattern=het, Pattern=zijn die
+	Constrained: Pattern=de, Pattern=met, Pattern=die, Pattern=zijn, Pattern=kubus
+Turn ID=21| B | B : en en nog
+	Free: Pattern=en
+	Constrained: 
+Turn ID=22| A | A : oké ik zijn weer ach dit zijn weer die de vierkant die op zijn zij liggen in het kop met de twee vierkant die er soort van in gaan doen
+	Free: Pattern=twee, Pattern=het, Pattern=die, Pattern=van, Pattern=zijn, Pattern=vierkant, Pattern=zijn weer, Pattern=dit zijn weer, Pattern=de, Pattern=met de
+	Constrained: Pattern=de, Pattern=met, Pattern=zijn, Pattern=dit zijn, Pattern=zijn weer
+Turn ID=23| A | A : er zitten een het zijn een vierkant die op zijn in zijn op zijn punt in het kop liggen
+	Free: Pattern=het, Pattern=die, Pattern=vierkant, Pattern=zijn
+	Constrained: 
+Turn ID=24| A | A : met twee vierkant die steeds klein worden
+	Free: Pattern=twee, Pattern=worden, Pattern=met, Pattern=die, Pattern=vierkant
+	Constrained: 
+Turn ID=25| A | A : die hendel
+	Free: Pattern=die
+	Constrained: 
+Turn ID=26| B | B : ja ja dat zijn D
+	Free: Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=27| B | B : dit zijn weer met dat vierkant erbovenop met de groot worden kubus aan allebei de kant van dat vierkant
+	Free: Pattern=dat, Pattern=worden, Pattern=met, Pattern=van, Pattern=dit zijn weer, Pattern=de, Pattern=met de, Pattern=aan, Pattern=vierkant, Pattern=kubus
+	Constrained: Pattern=de, Pattern=met, Pattern=zijn, Pattern=dit zijn, Pattern=zijn weer
+Turn ID=28| B | B : en nog de drie armp
+	Free: Pattern=de, Pattern=drie, Pattern=en
+	Constrained: 
+Turn ID=29| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=30| A | A : oké even kijken waar zijn die
+	Free: Pattern=zijn die
+	Constrained: Pattern=die, Pattern=zijn
+Turn ID=31| A | A : waar zijn die
+	Free: Pattern=zijn die
+	Constrained: Pattern=die, Pattern=zijn
+Turn ID=32| A | A : zijn het zijn het zijn het die met de zijn het die met de de vierkant de waar die in zitten in de hoek
+	Free: Pattern=het, Pattern=die met, Pattern=die, Pattern=zijn, Pattern=vierkant, Pattern=de, Pattern=met de
+	Constrained: Pattern=de, Pattern=die, Pattern=met
+Turn ID=33| A | A : ja die zijn het ja
+	Free: Pattern=het, Pattern=die, Pattern=ja, Pattern=zijn
+	Constrained: 
+Turn ID=34| A | A : die zijn zo ingewikkeld
+	Free: Pattern=die, Pattern=zijn
+	Constrained: 
+Turn ID=35| A | A : elf zijn dat
+	Free: Pattern=dat, Pattern=zijn
+	Constrained: 
+Turn ID=36| A | A : en even kijken hoor
+	Free: Pattern=en
+	Constrained: 
+Turn ID=37| A | A : ja dit zijn met de driehoek en de twee de de vierhoek met de twee vierkant die eraan vastzitten als hendel
+	Free: Pattern=twee, Pattern=die, Pattern=en, Pattern=vierkant, Pattern=dit zijn, Pattern=de, Pattern=met de, Pattern=ja
+	Constrained: Pattern=de, Pattern=zijn, Pattern=met
+Turn ID=38| A | A : zijn jij
+	Free: Pattern=zijn
+	Constrained: 
+Turn ID=39| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=40| A | A : met die twee uitsteeksel ja
+	Free: Pattern=met die, Pattern=twee, Pattern=ja
+	Constrained: Pattern=die, Pattern=met
+Turn ID=41| A | A : dat zijn veertien click of the computer
+	Free: Pattern=dat zijn, Pattern=of
+	Constrained: Pattern=dat, Pattern=zijn

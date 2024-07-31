@@ -1,0 +1,147 @@
+A|0| A: _okee_ nou _zijn_ _het_ weer _het_ bolle alleen _het_ bolle _liggen_ nu op _het_ beker 
+A|1| A: _ja_ 
+B|2| B: [ja] 
+B|3| B: soort houten lat 
+B|4| B: [zijn] _die_ verticaal 
+B|5| B: [okee] [ja] 
+B|6| B: [ja] 
+B|7| B: [okee] dan denken ik _dat_ ik hem ook wel weten 
+B|8| B: ik gaan voor g 
+A|9| A: [ja] 
+A|10| A: _en _aan de_ voorkant_ _een_ balk [die] onderaan uitsteken 
+A|11| A: _dat zijn_ nummer vijf 
+B|12| B: ah bij bij dit kop lijken [het] alsof _er_ [een] ei bovenin [liggen] 
+B|13| B: [en] _er_ zitten [aan de voorkant] zitten [een] [een] [een] lat 
+B|14| B: verticaal 
+B|15| B: [en] je hebben nog [een] uitsteeksel [aan de] linkerkant 
+B|16| B: [die] krom lopen 
+B|17| B: [en aan de] achterkant hebben je ook nog [een] uitsteeksel 
+B|18| B: [ja] 
+A|19| A: [het] bolle [aan de] bovenkant 
+A|20| A: [ja] 
+A|21| A: [ja] 
+A|22| A: vallen _naar_ beneden [ja] 
+A|23| A: [aan de voorkant] [dat] lang balk 
+A|24| A: vijfteen 
+A|25| A: nou [het] bolle [aan de] bovenkant [er] [zijn] [er] maar één 
+A|26| A: vier 
+B|27| B: je hebben [ja] [ja] toch ? [ja] 
+B|28| B: [het] gaan echt om [het] zoeken inderdaad [ja] [ja] 
+B|29| B: [ja] 
+B|30| B: uitsteeksel [aan de] zijkant 
+B|31| B: [dat zijn] c voor mij 
+B|32| B: hier [liggen] [het] eit bovenin [het] kop 
+B|33| B: met [een] verticaal lat [aan de voorkant] [en] twee uitsteeksel [naar] beide kant 
+B|34| B: [dat zijn] d 
+B|35| B: ei bovenop met [een] lat verticaal [aan de voorkant] 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : okee nou zijn het weer het bolle alleen het bolle liggen nu op het beker
+	Free: Pattern=zijn, Pattern=okee, Pattern=het, Pattern=liggen
+	Constrained: 
+Turn ID=1| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=2| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=3| B | B : soort houten lat
+	Free: 
+	Constrained: 
+Turn ID=4| B | B : zijn die verticaal
+	Free: Pattern=zijn, Pattern=die
+	Constrained: 
+Turn ID=5| B | B : okee ja
+	Free: Pattern=ja, Pattern=okee
+	Constrained: 
+Turn ID=6| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=7| B | B : okee dan denken ik dat ik hem ook wel weten
+	Free: Pattern=dat, Pattern=okee
+	Constrained: 
+Turn ID=8| B | B : ik gaan voor g
+	Free: 
+	Constrained: 
+Turn ID=9| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=10| A | A : en aan de voorkant een balk die onderaan uitsteken
+	Free: Pattern=aan de voorkant, Pattern=en aan de, Pattern=die, Pattern=een
+	Constrained: Pattern=en, Pattern=aan de
+Turn ID=11| A | A : dat zijn nummer vijf
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=12| B | B : ah bij bij dit kop lijken het alsof er een ei bovenin liggen
+	Free: Pattern=er, Pattern=een, Pattern=het, Pattern=liggen
+	Constrained: 
+Turn ID=13| B | B : en er zitten aan de voorkant zitten een een een lat
+	Free: Pattern=aan de voorkant, Pattern=en, Pattern=er, Pattern=een
+	Constrained: Pattern=aan de
+Turn ID=14| B | B : verticaal
+	Free: 
+	Constrained: 
+Turn ID=15| B | B : en je hebben nog een uitsteeksel aan de linkerkant
+	Free: Pattern=aan de, Pattern=en, Pattern=een
+	Constrained: 
+Turn ID=16| B | B : die krom lopen
+	Free: Pattern=die
+	Constrained: 
+Turn ID=17| B | B : en aan de achterkant hebben je ook nog een uitsteeksel
+	Free: Pattern=en aan de, Pattern=een
+	Constrained: Pattern=aan de, Pattern=en
+Turn ID=18| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=19| A | A : het bolle aan de bovenkant
+	Free: Pattern=aan de, Pattern=het
+	Constrained: 
+Turn ID=20| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=21| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=22| A | A : vallen naar beneden ja
+	Free: Pattern=ja, Pattern=naar
+	Constrained: 
+Turn ID=23| A | A : aan de voorkant dat lang balk
+	Free: Pattern=aan de voorkant, Pattern=dat
+	Constrained: Pattern=aan de
+Turn ID=24| A | A : vijfteen
+	Free: 
+	Constrained: 
+Turn ID=25| A | A : nou het bolle aan de bovenkant er zijn er maar één
+	Free: Pattern=aan de, Pattern=zijn, Pattern=er, Pattern=het
+	Constrained: 
+Turn ID=26| A | A : vier
+	Free: 
+	Constrained: 
+Turn ID=27| B | B : je hebben ja ja toch ? ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=28| B | B : het gaan echt om het zoeken inderdaad ja ja
+	Free: Pattern=ja, Pattern=het
+	Constrained: 
+Turn ID=29| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=30| B | B : uitsteeksel aan de zijkant
+	Free: Pattern=aan de
+	Constrained: 
+Turn ID=31| B | B : dat zijn c voor mij
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=32| B | B : hier liggen het eit bovenin het kop
+	Free: Pattern=het, Pattern=liggen
+	Constrained: 
+Turn ID=33| B | B : met een verticaal lat aan de voorkant en twee uitsteeksel naar beide kant
+	Free: Pattern=aan de voorkant, Pattern=en, Pattern=een, Pattern=naar
+	Constrained: Pattern=aan de
+Turn ID=34| B | B : dat zijn d
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=35| B | B : ei bovenop met een lat verticaal aan de voorkant
+	Free: Pattern=aan de voorkant, Pattern=een
+	Constrained: Pattern=aan de

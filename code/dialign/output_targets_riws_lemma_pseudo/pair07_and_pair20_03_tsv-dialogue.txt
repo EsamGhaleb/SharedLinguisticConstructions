@@ -1,0 +1,83 @@
+A|0| A: _ja_ _dat zijn_ dertien 
+B|1| B: eens _even_ kijken horen _deze_ _dit_ kop staan op een soort draaien poot _met_ een _driehoek_ _aan de onderkant_ 
+B|2| B: [ja] volgens mij wel 
+A|3| A: _deze hebben_ die cilinder [aan de onderkant] [met] die [driehoek] eronder 
+A|4| A: en twee blok bovenop 
+A|5| A: [ja] 
+B|6| B: in in [de] poot 
+B|7| B: yes [dat zijn] p 
+A|8| A: [ja] veertien 
+A|9| A: _dit zijn de_ cilinder [aan de onderkant] [met] [de] _driehoekje_ en twee blok bovenop 
+A|10| A: [ja] 
+A|11| A: [even] zoeken 
+A|12| A: zes 
+B|13| B: [deze hebben] [de] draaien poot 
+B|14| B: [met] het [driehoekje] 
+B|15| B: [ja] 
+A|16| A: _dit zijn de_ [met] [de] spiraal en [de] twee blok bovenop 
+B|17| B: yes [dat zijn] p 
+B|18| B: [dit zijn de] draaien poot [met] [driehoek] 
+B|19| B: yes [dat zijn] c 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : ja dat zijn dertien
+	Free: Pattern=dat zijn, Pattern=ja
+	Constrained: 
+Turn ID=1| B | B : eens even kijken horen deze dit kop staan op een soort draaien poot met een driehoek aan de onderkant
+	Free: Pattern=driehoek, Pattern=even, Pattern=aan de onderkant, Pattern=dit, Pattern=met, Pattern=deze
+	Constrained: Pattern=de
+Turn ID=2| B | B : ja volgens mij wel
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=3| A | A : deze hebben die cilinder aan de onderkant met die driehoek eronder
+	Free: Pattern=aan de onderkant, Pattern=deze hebben, Pattern=driehoek, Pattern=met
+	Constrained: Pattern=de, Pattern=deze
+Turn ID=4| A | A : en twee blok bovenop
+	Free: 
+	Constrained: 
+Turn ID=5| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=6| B | B : in in de poot
+	Free: Pattern=de
+	Constrained: 
+Turn ID=7| B | B : yes dat zijn p
+	Free: Pattern=dat zijn
+	Constrained: 
+Turn ID=8| A | A : ja veertien
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=9| A | A : dit zijn de cilinder aan de onderkant met de driehoekje en twee blok bovenop
+	Free: Pattern=de, Pattern=aan de onderkant, Pattern=met, Pattern=driehoekje, Pattern=dit zijn de
+	Constrained: Pattern=dit, Pattern=de
+Turn ID=10| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=11| A | A : even zoeken
+	Free: Pattern=even
+	Constrained: 
+Turn ID=12| A | A : zes
+	Free: 
+	Constrained: 
+Turn ID=13| B | B : deze hebben de draaien poot
+	Free: Pattern=deze hebben, Pattern=de
+	Constrained: Pattern=deze
+Turn ID=14| B | B : met het driehoekje
+	Free: Pattern=driehoekje, Pattern=met
+	Constrained: 
+Turn ID=15| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=16| A | A : dit zijn de met de spiraal en de twee blok bovenop
+	Free: Pattern=dit zijn de, Pattern=de, Pattern=met
+	Constrained: Pattern=de, Pattern=dit
+Turn ID=17| B | B : yes dat zijn p
+	Free: Pattern=dat zijn
+	Constrained: 
+Turn ID=18| B | B : dit zijn de draaien poot met driehoek
+	Free: Pattern=dit zijn de, Pattern=driehoek, Pattern=met
+	Constrained: Pattern=de, Pattern=dit
+Turn ID=19| B | B : yes dat zijn c
+	Free: Pattern=dat zijn
+	Constrained: 

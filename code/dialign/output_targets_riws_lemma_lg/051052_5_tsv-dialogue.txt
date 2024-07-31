@@ -1,0 +1,203 @@
+B|0| B: deze hebben zo'n _horizontaal balk op_ _zijn_ _kop_ _liggen_ _zullen_ _ik_ _maar_ _zeggen_ 
+B|1| B: _en_ _ja_ _en_ ver lijken _het_ alsof _hij_ zo'n _soort_ graver _van_ zo'n graafmachine in _zijn_ _armp_ hebben 
+B|2| B: _rechts_ 
+B|3| B: _ja_ 
+B|4| B: _het zijn niet_ _een_ bijzonder _ding_ 
+A|5| A: even denken hoor _ja ik_ zitten even te [ja] 
+B|6| B: [ja] _echt_ _een_ _horizontaal balk_ gewoon _op_ _op het kop_ _zeggen maar_ veel _niet_ 
+A|7| A: [op het kop] 
+A|8| A: _ik weten welk je_ bedoelen [maar] [ik] kunnen wachten even 
+A|9| A: [ja] 
+A|10| A: de [en] [en] _en hij_ [zijn] klein _dan_ [het kop] [het] [balk] 
+B|11| B: [en] [dan] hebben 
+B|12| B: [ja] 
+A|13| A: oké [het zijn niet] _dat_ [ding] _met_ [ja] [een] [soort] [balk] of _zo_ _met_ [een] _met_ [een] want _er_ [zijn] _er_ één _die_ [het] ook [zullen] [maar] [hij] [liggen] _er_ [echt] bovenop [het] [balk] [zeggen maar] 
+B|14| B: [ja] 
+B|15| B: [en hij] hebben [dan] links zo'n _armp_ [maar] _dat zijn_ wat dikk [een] beetje cilinderachtig 
+A|16| A: [ja] 
+B|17| B: [en] [dan] 
+A|18| A: [en] _die_ [van] klein naar groot worden 
+B|19| B: [ja] [en] [dan] _rechts_ zo'n 
+A|20| A: [zeggen maar] [een] toet [van] [een] theekan of _zo_ [zeggen maar] 
+B|21| B: _ja _ja_ _ja_ ja_ 
+A|22| A: [ja] 
+B|23| B: _en rechts_ [dan] [die] _heel_ _dun cilinder_ [met] [zo] [dat] _armp_ [er] nog _aan_ 
+A|24| A: [ja ja] 
+B|25| B: [ja] 
+A|26| A: [dan] [zijn] [dat] nummer acht 
+A|27| A: _dit zijn_ [dat] [kop] _met dat_ _balk erop_ 
+A|28| A: _dat koffietuitje_ eraan [en] [aan] de linkerkant [dat] [heel] smal ronde dinge [met] 
+B|29| B: [ja] 
+B|30| B: _dat zijn_ [met dat] _schep_ [ja] 
+A|31| A: [ja] 
+B|32| B: _dat zijn_ E 
+B|33| B: [dit zijn] weer [die] [met dat] theetui [met] [die] [balk erop] 
+B|34| B: [en] [dat] _schep_ _rechts_ 
+B|35| B: dus _horizontaal balk_ [die] [op het kop] [liggen] 
+B|36| B: [en] [dan] links zo'n 
+A|37| A: [ja] 
+A|38| A: _dat koffietuitje [en_ rechts] _dat [dun_ cilinder] [en] [het] [schep] 
+B|39| B: [ja] 
+B|40| B: [ja] 
+A|41| A: [dat zijn] nummer één 
+A|42| A: [het] [horizontaal balk [op] het kop] [het] koffietui [en] [het] [armp] 
+B|43| B: [ja [ik] weten welk je] [ja ja] daar [dat zijn] E 
+B|44| B: [dit zijn] [die] [met] [die] [horizontaal balk] [met [dat] koffietuitje en] [dat dun] [armp] [met dat] [schep] 
+A|45| A: [koffietuitje] waar [zijn] [je] 
+A|46| A: oké [horizontaal balk] [armp] tui [ja] nummer zestien 
+A|47| A: [het] [koffietuitje] [het] [balk] [aan] de bovenkant [en] [het] [armp] 
+B|48| B: [ja] 
+B|49| B: [dat zijn] O 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : deze hebben zo'n horizontaal balk op zijn kop liggen zullen ik maar zeggen
+	Free: Pattern=zullen, Pattern=horizontaal balk op, Pattern=ik, Pattern=liggen, Pattern=kop, Pattern=zeggen, Pattern=zijn, Pattern=maar
+	Constrained: Pattern=horizontaal balk, Pattern=balk, Pattern=op
+Turn ID=1| B | B : en ja en ver lijken het alsof hij zo'n soort graver van zo'n graafmachine in zijn armp hebben
+	Free: Pattern=soort, Pattern=ja, Pattern=armp, Pattern=het, Pattern=hij, Pattern=zijn, Pattern=van, Pattern=en
+	Constrained: 
+Turn ID=2| B | B : rechts
+	Free: Pattern=rechts
+	Constrained: 
+Turn ID=3| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=4| B | B : het zijn niet een bijzonder ding
+	Free: Pattern=het zijn niet, Pattern=een, Pattern=ding
+	Constrained: Pattern=het, Pattern=zijn, Pattern=niet
+Turn ID=5| A | A : even denken hoor ja ik zitten even te ja
+	Free: Pattern=ja ik, Pattern=ja
+	Constrained: Pattern=ik, Pattern=ja
+Turn ID=6| B | B : ja echt een horizontaal balk gewoon op op het kop zeggen maar veel niet
+	Free: Pattern=ja, Pattern=op, Pattern=niet, Pattern=een, Pattern=zeggen maar, Pattern=horizontaal balk, Pattern=echt, Pattern=op het kop
+	Constrained: Pattern=op, Pattern=het kop, Pattern=het, Pattern=balk, Pattern=maar, Pattern=kop, Pattern=zeggen
+Turn ID=7| A | A : op het kop
+	Free: Pattern=op het kop
+	Constrained: Pattern=het kop, Pattern=kop, Pattern=het, Pattern=op
+Turn ID=8| A | A : ik weten welk je bedoelen maar ik kunnen wachten even
+	Free: Pattern=ik weten welk je, Pattern=maar, Pattern=ik
+	Constrained: Pattern=je, Pattern=ik
+Turn ID=9| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=10| A | A : de en en en hij zijn klein dan het kop het balk
+	Free: Pattern=dan, Pattern=het kop, Pattern=het, Pattern=balk, Pattern=en hij, Pattern=en, Pattern=zijn
+	Constrained: Pattern=kop, Pattern=het, Pattern=en, Pattern=hij
+Turn ID=11| B | B : en dan hebben
+	Free: Pattern=dan, Pattern=en
+	Constrained: 
+Turn ID=12| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=13| A | A : oké het zijn niet dat ding met ja een soort balk of zo met een met een want er zijn er één die het ook zullen maar hij liggen er echt bovenop het balk zeggen maar
+	Free: Pattern=dat, Pattern=ja, Pattern=ding, Pattern=een, Pattern=zeggen maar, Pattern=het, Pattern=balk, Pattern=met, Pattern=die, Pattern=echt, Pattern=er, Pattern=liggen, Pattern=het zijn niet, Pattern=soort, Pattern=zullen, Pattern=hij, Pattern=zo, Pattern=zijn, Pattern=maar
+	Constrained: Pattern=niet, Pattern=het, Pattern=zeggen, Pattern=zijn, Pattern=maar
+Turn ID=14| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=15| B | B : en hij hebben dan links zo'n armp maar dat zijn wat dikk een beetje cilinderachtig
+	Free: Pattern=dat zijn, Pattern=dan, Pattern=een, Pattern=armp, Pattern=en hij, Pattern=maar
+	Constrained: Pattern=dat, Pattern=en, Pattern=zijn, Pattern=hij
+Turn ID=16| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=17| B | B : en dan
+	Free: Pattern=dan, Pattern=en
+	Constrained: 
+Turn ID=18| A | A : en die van klein naar groot worden
+	Free: Pattern=die, Pattern=van, Pattern=en
+	Constrained: 
+Turn ID=19| B | B : ja en dan rechts zo'n
+	Free: Pattern=dan, Pattern=rechts, Pattern=en, Pattern=ja
+	Constrained: 
+Turn ID=20| A | A : zeggen maar een toet van een theekan of zo zeggen maar
+	Free: Pattern=zeggen maar, Pattern=zo, Pattern=van, Pattern=een
+	Constrained: Pattern=maar, Pattern=zeggen
+Turn ID=21| B | B : ja ja ja ja
+	Free: Pattern=ja ja
+	Constrained: Pattern=ja
+Turn ID=22| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=23| B | B : en rechts dan die heel dun cilinder met zo dat armp er nog aan
+	Free: Pattern=en rechts, Pattern=dat, Pattern=heel, Pattern=aan, Pattern=armp, Pattern=zo, Pattern=met, Pattern=die, Pattern=er, Pattern=dun cilinder, Pattern=dan
+	Constrained: Pattern=rechts, Pattern=en
+Turn ID=24| A | A : ja ja
+	Free: Pattern=ja ja
+	Constrained: Pattern=ja
+Turn ID=25| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=26| A | A : dan zijn dat nummer acht
+	Free: Pattern=dat, Pattern=dan, Pattern=zijn
+	Constrained: 
+Turn ID=27| A | A : dit zijn dat kop met dat balk erop
+	Free: Pattern=dat, Pattern=balk erop, Pattern=kop, Pattern=met dat, Pattern=dit zijn
+	Constrained: Pattern=balk, Pattern=dat, Pattern=zijn, Pattern=met
+Turn ID=28| A | A : dat koffietuitje eraan en aan de linkerkant dat heel smal ronde dinge met
+	Free: Pattern=dat, Pattern=heel, Pattern=aan, Pattern=dat koffietuitje, Pattern=met, Pattern=en
+	Constrained: Pattern=dat, Pattern=koffietuitje
+Turn ID=29| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=30| B | B : dat zijn met dat schep ja
+	Free: Pattern=dat zijn, Pattern=met dat, Pattern=schep, Pattern=ja
+	Constrained: Pattern=dat, Pattern=met, Pattern=zijn
+Turn ID=31| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=32| B | B : dat zijn E
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=33| B | B : dit zijn weer die met dat theetui met die balk erop
+	Free: Pattern=balk erop, Pattern=met dat, Pattern=met, Pattern=die, Pattern=dit zijn
+	Constrained: Pattern=balk, Pattern=dat, Pattern=zijn, Pattern=met
+Turn ID=34| B | B : en dat schep rechts
+	Free: Pattern=schep, Pattern=dat, Pattern=rechts, Pattern=en
+	Constrained: 
+Turn ID=35| B | B : dus horizontaal balk die op het kop liggen
+	Free: Pattern=op het kop, Pattern=horizontaal balk, Pattern=die, Pattern=liggen
+	Constrained: Pattern=op, Pattern=het kop, Pattern=het, Pattern=kop, Pattern=balk
+Turn ID=36| B | B : en dan links zo'n
+	Free: Pattern=dan, Pattern=en
+	Constrained: 
+Turn ID=37| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=38| A | A : dat koffietuitje en rechts dat dun cilinder en het schep
+	Free: Pattern=en rechts, Pattern=dun cilinder, Pattern=het, Pattern=schep, Pattern=dat dun, Pattern=dat koffietuitje en, Pattern=en
+	Constrained: Pattern=dat, Pattern=rechts, Pattern=en, Pattern=dat koffietuitje, Pattern=koffietuitje
+Turn ID=39| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=40| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=41| A | A : dat zijn nummer één
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=42| A | A : het horizontaal balk op het kop het koffietui en het armp
+	Free: Pattern=armp, Pattern=het, Pattern=horizontaal balk op, Pattern=en, Pattern=op het kop
+	Constrained: Pattern=op, Pattern=het kop, Pattern=het, Pattern=kop, Pattern=horizontaal balk, Pattern=balk
+Turn ID=43| B | B : ja ik weten welk je ja ja daar dat zijn E
+	Free: Pattern=ik weten welk je, Pattern=dat zijn, Pattern=ja ik, Pattern=ja ja
+	Constrained: Pattern=dat, Pattern=ja, Pattern=ik, Pattern=zijn, Pattern=je
+Turn ID=44| B | B : dit zijn die met die horizontaal balk met dat koffietuitje en dat dun armp met dat schep
+	Free: Pattern=armp, Pattern=schep, Pattern=die, Pattern=dit zijn, Pattern=horizontaal balk, Pattern=dat dun, Pattern=met dat, Pattern=dat koffietuitje en, Pattern=met
+	Constrained: Pattern=dat, Pattern=balk, Pattern=met, Pattern=en, Pattern=zijn, Pattern=dat koffietuitje, Pattern=koffietuitje
+Turn ID=45| A | A : koffietuitje waar zijn je
+	Free: Pattern=je, Pattern=koffietuitje, Pattern=zijn
+	Constrained: 
+Turn ID=46| A | A : oké horizontaal balk armp tui ja nummer zestien
+	Free: Pattern=horizontaal balk, Pattern=armp, Pattern=ja
+	Constrained: Pattern=balk
+Turn ID=47| A | A : het koffietuitje het balk aan de bovenkant en het armp
+	Free: Pattern=aan, Pattern=koffietuitje, Pattern=armp, Pattern=het, Pattern=balk, Pattern=en
+	Constrained: 
+Turn ID=48| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=49| B | B : dat zijn O
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn

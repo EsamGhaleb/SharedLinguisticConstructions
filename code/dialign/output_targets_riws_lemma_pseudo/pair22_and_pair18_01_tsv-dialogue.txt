@@ -1,0 +1,99 @@
+B|0| B: okee bovenop staan een soort van paddestoel 
+B|1| B: kunnen _je_ hem mee vergelijken 
+B|2| B: en aan de linkerkant _zijn_ twee dezelfde blok _die_ steeds groot blok worden 
+B|3| B: _ja_ 
+A|4| A: oké 
+A|5| A: plat vierkant daar _ja ja ja_ 
+A|6| A: oké [ja] dat [zijn] vijf 
+B|7| B: steeds breder worden uitsteeksel aan de linkerkant 
+B|8| B: [ja] 
+B|9| B: [ja ja ja] ik zien hem p 
+B|10| B: de paddestoel 
+B|11| B: _met_ de _met_ de plaat ervoor 
+B|12| B: en _die_ twee groot worden blok aan de linkerkant 
+A|13| A: oké dit [zijn] weer [die] [die] robotog zoals [je] [die] noemen 
+B|14| B: [ja] 
+B|15| B: [ja] b 
+A|16| A: oké [ja] sure duidelijk negen 
+B|17| B: ik hebben de de paddestoel de Antenne bovenop en het de plaat voorop 
+A|18| A: dit [zijn] weer [met] [die] robotog 
+B|19| B: [ja] 
+B|20| B: à 
+A|21| A: oké 
+A|22| A: elf 
+A|23| A: [ja] dit [zijn] [die] robot 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : okee bovenop staan een soort van paddestoel
+	Free: 
+	Constrained: 
+Turn ID=1| B | B : kunnen je hem mee vergelijken
+	Free: Pattern=je
+	Constrained: 
+Turn ID=2| B | B : en aan de linkerkant zijn twee dezelfde blok die steeds groot blok worden
+	Free: Pattern=die, Pattern=zijn
+	Constrained: 
+Turn ID=3| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=4| A | A : oké
+	Free: 
+	Constrained: 
+Turn ID=5| A | A : plat vierkant daar ja ja ja
+	Free: Pattern=ja ja ja
+	Constrained: Pattern=ja
+Turn ID=6| A | A : oké ja dat zijn vijf
+	Free: Pattern=zijn, Pattern=ja
+	Constrained: 
+Turn ID=7| B | B : steeds breder worden uitsteeksel aan de linkerkant
+	Free: 
+	Constrained: 
+Turn ID=8| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=9| B | B : ja ja ja ik zien hem p
+	Free: Pattern=ja ja ja
+	Constrained: Pattern=ja
+Turn ID=10| B | B : de paddestoel
+	Free: 
+	Constrained: 
+Turn ID=11| B | B : met de met de plaat ervoor
+	Free: Pattern=met
+	Constrained: 
+Turn ID=12| B | B : en die twee groot worden blok aan de linkerkant
+	Free: Pattern=die
+	Constrained: 
+Turn ID=13| A | A : oké dit zijn weer die die robotog zoals je die noemen
+	Free: Pattern=je, Pattern=die, Pattern=zijn
+	Constrained: 
+Turn ID=14| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=15| B | B : ja b
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=16| A | A : oké ja sure duidelijk negen
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=17| B | B : ik hebben de de paddestoel de Antenne bovenop en het de plaat voorop
+	Free: 
+	Constrained: 
+Turn ID=18| A | A : dit zijn weer met die robotog
+	Free: Pattern=die, Pattern=zijn, Pattern=met
+	Constrained: 
+Turn ID=19| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=20| B | B : à
+	Free: 
+	Constrained: 
+Turn ID=21| A | A : oké
+	Free: 
+	Constrained: 
+Turn ID=22| A | A : elf
+	Free: 
+	Constrained: 
+Turn ID=23| A | A : ja dit zijn die robot
+	Free: Pattern=die, Pattern=zijn, Pattern=ja
+	Constrained: 

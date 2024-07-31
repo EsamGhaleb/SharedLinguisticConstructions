@@ -1,0 +1,127 @@
+A|0| A: _ja_ elf 
+B|1| B: deze _hebben_ _een_ ei als _neus_ 
+B|2| B: _links_ _een_ arm 
+B|3| B: klein 
+B|4| B: _en_ linksbof _een_ gek figuur _een_ traant _met_ nog _een_ rond eraan 
+B|5| B: _en_ vierkan _boven_ 
+B|6| B: [ja] rechthoek 
+B|7| B: [ja] 
+A|8| A: _dit zijn_ [een] beker [met] [links] [en] [boven] [een] driehoekig uitsteeksel [en] _een een_ ballet voorop 
+A|9| A: _het_ ballet voorop daar [hebben] we eigenlijk maar één 
+A|10| A: _die_ dan _niet_ _de_ piercing [hebben] 
+A|11| A: [ja] [ja] 
+A|12| A: vier 
+B|13| B: maken [niet] uit 
+B|14| B: okee wachten even kunnen je [die] nog [een] keer doen ? [die] weten ik even [niet] 
+B|15| B: [ja] [en] in [het] midden nog [een een] rechthoek 
+B|16| B: okee dat [zijn] l 
+A|17| A: [ja] _neus rechts_ 
+A|18| A: [met] niks erdoorheen _en de_ twee apart voelspriet 
+A|19| A: veertien 
+A|20| A: [neus] [met] twee apart voelspriet 
+B|21| B: deze [hebben] [een] ei als [neus] aan [de] rechterkant 
+B|22| B: linksbof je noemen [het] geen kegel je noemen [het] iets wat op [een] kegel lijken 
+B|23| B: [ja] wespenlichaam 
+B|24| B: [ja] zo'n ding recht omhoog 
+B|25| B: [ja] 
+B|26| B: [ja] dat [zijn] c 
+B|27| B: [dit zijn] [met] [de] wesp [en de] [het] ei als [neus rechts] 
+B|28| B: [ja] 
+B|29| B: [ja] 
+B|30| B: [ja] dat [zijn] b 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : ja elf
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=1| B | B : deze hebben een ei als neus
+	Free: Pattern=neus, Pattern=hebben, Pattern=een
+	Constrained: 
+Turn ID=2| B | B : links een arm
+	Free: Pattern=links, Pattern=een
+	Constrained: 
+Turn ID=3| B | B : klein
+	Free: 
+	Constrained: 
+Turn ID=4| B | B : en linksbof een gek figuur een traant met nog een rond eraan
+	Free: Pattern=en, Pattern=een, Pattern=met
+	Constrained: 
+Turn ID=5| B | B : en vierkan boven
+	Free: Pattern=boven, Pattern=en
+	Constrained: 
+Turn ID=6| B | B : ja rechthoek
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=7| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=8| A | A : dit zijn een beker met links en boven een driehoekig uitsteeksel en een een ballet voorop
+	Free: Pattern=boven, Pattern=een, Pattern=links, Pattern=en, Pattern=dit zijn, Pattern=een een, Pattern=met
+	Constrained: Pattern=zijn, Pattern=een
+Turn ID=9| A | A : het ballet voorop daar hebben we eigenlijk maar één
+	Free: Pattern=het, Pattern=hebben
+	Constrained: 
+Turn ID=10| A | A : die dan niet de piercing hebben
+	Free: Pattern=die, Pattern=niet, Pattern=hebben, Pattern=de
+	Constrained: 
+Turn ID=11| A | A : ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=12| A | A : vier
+	Free: 
+	Constrained: 
+Turn ID=13| B | B : maken niet uit
+	Free: Pattern=niet
+	Constrained: 
+Turn ID=14| B | B : okee wachten even kunnen je die nog een keer doen ? die weten ik even niet
+	Free: Pattern=die, Pattern=niet, Pattern=een
+	Constrained: 
+Turn ID=15| B | B : ja en in het midden nog een een rechthoek
+	Free: Pattern=een een, Pattern=en, Pattern=het, Pattern=ja
+	Constrained: Pattern=een
+Turn ID=16| B | B : okee dat zijn l
+	Free: Pattern=zijn
+	Constrained: 
+Turn ID=17| A | A : ja neus rechts
+	Free: Pattern=neus rechts, Pattern=ja
+	Constrained: Pattern=neus
+Turn ID=18| A | A : met niks erdoorheen en de twee apart voelspriet
+	Free: Pattern=en de, Pattern=met
+	Constrained: Pattern=en, Pattern=de
+Turn ID=19| A | A : veertien
+	Free: 
+	Constrained: 
+Turn ID=20| A | A : neus met twee apart voelspriet
+	Free: Pattern=neus, Pattern=met
+	Constrained: 
+Turn ID=21| B | B : deze hebben een ei als neus aan de rechterkant
+	Free: Pattern=neus, Pattern=hebben, Pattern=de, Pattern=een
+	Constrained: 
+Turn ID=22| B | B : linksbof je noemen het geen kegel je noemen het iets wat op een kegel lijken
+	Free: Pattern=het, Pattern=een
+	Constrained: 
+Turn ID=23| B | B : ja wespenlichaam
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=24| B | B : ja zo'n ding recht omhoog
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=25| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=26| B | B : ja dat zijn c
+	Free: Pattern=zijn, Pattern=ja
+	Constrained: 
+Turn ID=27| B | B : dit zijn met de wesp en de het ei als neus rechts
+	Free: Pattern=de, Pattern=en de, Pattern=het, Pattern=met, Pattern=neus rechts, Pattern=dit zijn
+	Constrained: Pattern=neus, Pattern=zijn, Pattern=en, Pattern=de
+Turn ID=28| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=29| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=30| B | B : ja dat zijn b
+	Free: Pattern=zijn, Pattern=ja
+	Constrained: 

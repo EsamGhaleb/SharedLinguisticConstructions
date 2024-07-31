@@ -1,0 +1,119 @@
+B|0| B: _ik hebben_ nou _dat_ _plaat_ _met_ _ja_ _zeggen maar_ kop _dat_ eigenlijk ook _op_ _een_ tafel staan _en_ waarbij dan _die_ _van_ _die_ ribbelt _aan_ allebei _de_ 
+A|1| A: [ja] [van] _zo'n_ _soort_ spiraalding _aan de zijkant_ _en zo'n_ _en zo'n_ 
+B|2| B: [ja] _met_ _drie_ _met_ _drie_ _drie dinget_ _zeggen maar_ 
+A|3| A: [ja] 
+B|4| B: _drie_ diamant _zeggen maar_ _op_ elkaar _een_ [soort] [van] 
+A|5| A: _zo'n_ _rond ervoor_ toch 
+B|6| B: [ja] _een [rond_ ervoor] [ja] 
+A|7| A: _zo'n_ ding 
+A|8| A: [ja] 
+A|9| A: _oké_ _dat zijn bij mij_ nummer vijf 
+A|10| A: [ik hebben] nu _met die_ spiraalding _met die drie_ dinge _aan de zijkant_ _en zo'n_ bolle [ervoor] [op] _zo'n plateau_ 
+B|11| B: [oké] 
+B|12| B: [ja] [en [zo'n] _plateau] ja_ [dat zijn bij mij] J 
+B|13| B: dan [hebben] we [ik hebben] nou weer _die een met die_ [ja] [met die drie] uisteekselt _zeggen maar_ [aan] allebei [de] kant 
+A|14| A: [en] [een rond] ding [ervoor] [op] [die] verhoging 
+B|15| B: [ja] 
+A|16| A: [dat zijn] nummer elf [bij mij] 
+B|17| B: [ja] 
+A|18| A: [ik hebben] nu [die een [met die] [drie] dinget] ernaast [zeggen maar] 
+B|19| B: [ja] 
+A|20| A: spiraal [en] _dat rond_ ding [ervoor] [en] [de] [plaat] eronder 
+B|21| B: [en] 
+B|22| B: [ja] 
+B|23| B: [dat zijn bij mij] P 
+B|24| B: [met die drie] diamant [zeggen maar] [aan de zijkant] [die] uitsteken _met dat rond_ [aan de] voorkant _op dat plateau_ 
+A|25| A: [op dat [plateau] ja] nummer negen 
+A|26| A: dit dit [zijn] [die drie] dinge [die] [zeggen maar] [die] [soort] spiraal [met dat [rond] ervoor] [en] [dat plateau] eronder 
+B|27| B: [ja] 
+B|28| B: [dat zijn bij mij] L 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : ik hebben nou dat plaat met ja zeggen maar kop dat eigenlijk ook op een tafel staan en waarbij dan die van die ribbelt aan allebei de
+	Free: Pattern=ik hebben, Pattern=dat, Pattern=op, Pattern=een, Pattern=zeggen maar, Pattern=met, Pattern=die, Pattern=plaat, Pattern=de, Pattern=aan, Pattern=ja, Pattern=van, Pattern=en
+	Constrained: Pattern=hebben
+Turn ID=1| A | A : ja van zo'n soort spiraalding aan de zijkant en zo'n en zo'n
+	Free: Pattern=en zo'n, Pattern=soort, Pattern=zo'n, Pattern=ja, Pattern=aan de zijkant, Pattern=van
+	Constrained: Pattern=zo'n, Pattern=aan de, Pattern=en, Pattern=de, Pattern=aan
+Turn ID=2| B | B : ja met drie met drie drie dinget zeggen maar
+	Free: Pattern=ja, Pattern=zeggen maar, Pattern=drie, Pattern=met, Pattern=drie dinget
+	Constrained: Pattern=drie
+Turn ID=3| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=4| B | B : drie diamant zeggen maar op elkaar een soort van
+	Free: Pattern=soort, Pattern=op, Pattern=een, Pattern=zeggen maar, Pattern=drie, Pattern=van
+	Constrained: 
+Turn ID=5| A | A : zo'n rond ervoor toch
+	Free: Pattern=rond ervoor, Pattern=zo'n
+	Constrained: Pattern=ervoor
+Turn ID=6| B | B : ja een rond ervoor ja
+	Free: Pattern=een rond, Pattern=rond ervoor, Pattern=ja
+	Constrained: Pattern=ervoor, Pattern=een
+Turn ID=7| A | A : zo'n ding
+	Free: Pattern=zo'n
+	Constrained: 
+Turn ID=8| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=9| A | A : oké dat zijn bij mij nummer vijf
+	Free: Pattern=dat zijn bij mij, Pattern=oké
+	Constrained: Pattern=dat, Pattern=bij mij, Pattern=zijn, Pattern=dat zijn
+Turn ID=10| A | A : ik hebben nu met die spiraalding met die drie dinge aan de zijkant en zo'n bolle ervoor op zo'n plateau
+	Free: Pattern=ik hebben, Pattern=op, Pattern=ervoor, Pattern=aan de zijkant, Pattern=met die drie, Pattern=zo'n plateau, Pattern=met die, Pattern=en zo'n
+	Constrained: Pattern=met die, Pattern=zo'n, Pattern=aan de, Pattern=die drie, Pattern=drie, Pattern=hebben, Pattern=met, Pattern=die, Pattern=en, Pattern=de, Pattern=aan
+Turn ID=11| B | B : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=12| B | B : ja en zo'n plateau ja dat zijn bij mij J
+	Free: Pattern=en zo'n, Pattern=ja, Pattern=plateau ja, Pattern=zo'n plateau, Pattern=dat zijn bij mij
+	Constrained: Pattern=zo'n, Pattern=ja, Pattern=en, Pattern=zijn, Pattern=bij mij, Pattern=dat, Pattern=dat zijn
+Turn ID=13| B | B : dan hebben we ik hebben nou weer die een met die ja met die drie uisteekselt zeggen maar aan allebei de kant
+	Free: Pattern=ik hebben, Pattern=die een met die, Pattern=zeggen maar, Pattern=met die drie, Pattern=hebben, Pattern=de, Pattern=aan, Pattern=ja
+	Constrained: Pattern=met die, Pattern=een, Pattern=die drie, Pattern=drie, Pattern=hebben, Pattern=met, Pattern=die
+Turn ID=14| A | A : en een rond ding ervoor op die verhoging
+	Free: Pattern=op, Pattern=ervoor, Pattern=die, Pattern=en, Pattern=een rond
+	Constrained: Pattern=een
+Turn ID=15| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=16| A | A : dat zijn nummer elf bij mij
+	Free: Pattern=dat zijn, Pattern=bij mij
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=17| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=18| A | A : ik hebben nu die een met die drie dinget ernaast zeggen maar
+	Free: Pattern=ik hebben, Pattern=die een met die, Pattern=zeggen maar, Pattern=met die drie, Pattern=drie dinget
+	Constrained: Pattern=met die, Pattern=een, Pattern=die drie, Pattern=drie, Pattern=hebben, Pattern=met, Pattern=die
+Turn ID=19| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=20| A | A : spiraal en dat rond ding ervoor en de plaat eronder
+	Free: Pattern=de, Pattern=ervoor, Pattern=dat rond, Pattern=en, Pattern=plaat
+	Constrained: Pattern=dat
+Turn ID=21| B | B : en
+	Free: Pattern=en
+	Constrained: 
+Turn ID=22| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=23| B | B : dat zijn bij mij P
+	Free: Pattern=dat zijn bij mij
+	Constrained: Pattern=dat, Pattern=bij mij, Pattern=zijn, Pattern=dat zijn
+Turn ID=24| B | B : met die drie diamant zeggen maar aan de zijkant die uitsteken met dat rond aan de voorkant op dat plateau
+	Free: Pattern=op dat plateau, Pattern=aan de, Pattern=aan de zijkant, Pattern=zeggen maar, Pattern=met die drie, Pattern=met dat rond, Pattern=die
+	Constrained: Pattern=dat plateau, Pattern=die drie, Pattern=drie, Pattern=dat rond, Pattern=met, Pattern=die, Pattern=dat, Pattern=met die, Pattern=de, Pattern=aan, Pattern=op, Pattern=aan de
+Turn ID=25| A | A : op dat plateau ja nummer negen
+	Free: Pattern=op dat plateau, Pattern=plateau ja
+	Constrained: Pattern=dat, Pattern=ja, Pattern=dat plateau, Pattern=op
+Turn ID=26| A | A : dit dit zijn die drie dinge die zeggen maar die soort spiraal met dat rond ervoor en dat plateau eronder
+	Free: Pattern=soort, Pattern=dat plateau, Pattern=die, Pattern=en, Pattern=zijn, Pattern=zeggen maar, Pattern=die drie, Pattern=met dat rond, Pattern=rond ervoor
+	Constrained: Pattern=dat, Pattern=ervoor, Pattern=drie, Pattern=dat rond, Pattern=met, Pattern=die
+Turn ID=27| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=28| B | B : dat zijn bij mij L
+	Free: Pattern=dat zijn bij mij
+	Constrained: Pattern=dat, Pattern=bij mij, Pattern=zijn, Pattern=dat zijn

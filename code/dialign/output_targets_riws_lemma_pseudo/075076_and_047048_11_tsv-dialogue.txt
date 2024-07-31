@@ -1,0 +1,131 @@
+A|0| A: _ja_ 
+A|1| A: _ja_ 
+A|2| A: _met_ zo'n rechthoek bovenop 
+A|3| A: _ja_ zo'n ding 
+A|4| A: bij mij _zijn_ _dat_ veertien 
+B|5| B: oké dit [zijn] _een_ _een_ kop [met] _een_ _een_ lepel erin lijken wel 
+B|6| B: _en_ _een_ _een_ rond neus 
+B|7| B: [ja] 
+B|8| B: [ja] [ja] 
+A|9| A: ik hebben _die een met_ _dat_ ei _aan de rechterkant_ 
+A|10| A: [ja] 
+B|11| B: [ja] 
+B|12| B: [met] [een] driehoekig dinge 
+B|13| B: [ja] 
+B|14| B: N 
+A|15| A: [ja] _dat zijn_ bij mij nummer negen 
+B|16| B: [dat zijn] [die een met] [de] rond neus 
+B|17| B: _en_ [een] driehoekig uitsteeksel [aan de rechterkant] linkerkant 
+B|18| B: _en_ [een] lepeltje 
+B|19| B: [ja] 
+A|20| A: ik hebben _die met_ het ei [aan de] [aan de rechterkant] sorry [en] [dat] vierkan [en] [die] kegel bovenop 
+A|21| A: of penseel 
+A|22| A: [ja] nummer vijf 
+B|23| B: [ja] [ja] 
+B|24| B: [die een] beetje lijken op [die] zuignap maar niet zonder zuignap 
+B|25| B: [ja] 
+B|26| B: G 
+B|27| B: [ja] [die met] [de] zuignap maar dan niet [met] [de] zuignap 
+B|28| B: [ja] 
+A|29| A: ik hebben [die een met] [dat] ei [aan de rechterkant] _en de_ kegel [en] het staafje bovenop 
+B|30| B: oké [en de] zuignap zonder zuignap 
+B|31| B: oké [dat zijn] J 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=1| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=2| A | A : met zo'n rechthoek bovenop
+	Free: Pattern=met
+	Constrained: 
+Turn ID=3| A | A : ja zo'n ding
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=4| A | A : bij mij zijn dat veertien
+	Free: Pattern=dat, Pattern=zijn
+	Constrained: 
+Turn ID=5| B | B : oké dit zijn een een kop met een een lepel erin lijken wel
+	Free: Pattern=een, Pattern=met, Pattern=zijn
+	Constrained: 
+Turn ID=6| B | B : en een een rond neus
+	Free: Pattern=een, Pattern=en
+	Constrained: 
+Turn ID=7| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=8| B | B : ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=9| A | A : ik hebben die een met dat ei aan de rechterkant
+	Free: Pattern=die een met, Pattern=aan de rechterkant, Pattern=dat
+	Constrained: Pattern=de, Pattern=aan de, Pattern=een, Pattern=met, Pattern=die, Pattern=die een
+Turn ID=10| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=11| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=12| B | B : met een driehoekig dinge
+	Free: Pattern=een, Pattern=met
+	Constrained: 
+Turn ID=13| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=14| B | B : N
+	Free: 
+	Constrained: 
+Turn ID=15| A | A : ja dat zijn bij mij nummer negen
+	Free: Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=16| B | B : dat zijn die een met de rond neus
+	Free: Pattern=die een met, Pattern=dat zijn, Pattern=de
+	Constrained: Pattern=dat, Pattern=een, Pattern=met, Pattern=die, Pattern=die een, Pattern=zijn
+Turn ID=17| B | B : en een driehoekig uitsteeksel aan de rechterkant linkerkant
+	Free: Pattern=aan de rechterkant, Pattern=een, Pattern=en
+	Constrained: Pattern=aan de, Pattern=de
+Turn ID=18| B | B : en een lepeltje
+	Free: Pattern=een, Pattern=en
+	Constrained: 
+Turn ID=19| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=20| A | A : ik hebben die met het ei aan de aan de rechterkant sorry en dat vierkan en die kegel bovenop
+	Free: Pattern=dat, Pattern=aan de, Pattern=die met, Pattern=en, Pattern=aan de rechterkant, Pattern=die
+	Constrained: Pattern=de, Pattern=met, Pattern=die, Pattern=aan de
+Turn ID=21| A | A : of penseel
+	Free: 
+	Constrained: 
+Turn ID=22| A | A : ja nummer vijf
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=23| B | B : ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=24| B | B : die een beetje lijken op die zuignap maar niet zonder zuignap
+	Free: Pattern=die een, Pattern=die
+	Constrained: Pattern=een, Pattern=die
+Turn ID=25| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=26| B | B : G
+	Free: 
+	Constrained: 
+Turn ID=27| B | B : ja die met de zuignap maar dan niet met de zuignap
+	Free: Pattern=die met, Pattern=de, Pattern=met, Pattern=ja
+	Constrained: Pattern=die, Pattern=met
+Turn ID=28| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=29| A | A : ik hebben die een met dat ei aan de rechterkant en de kegel en het staafje bovenop
+	Free: Pattern=dat, Pattern=die een met, Pattern=en de, Pattern=aan de rechterkant, Pattern=en
+	Constrained: Pattern=de, Pattern=aan de, Pattern=een, Pattern=met, Pattern=die, Pattern=die een, Pattern=en
+Turn ID=30| B | B : oké en de zuignap zonder zuignap
+	Free: Pattern=en de
+	Constrained: Pattern=de, Pattern=en
+Turn ID=31| B | B : oké dat zijn J
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn

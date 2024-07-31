@@ -1,0 +1,103 @@
+A|0| A: _oké_ 
+A|1| A: deze hebben eigenlijk _een soort_ van Pinokkioneus 
+A|2| A: en daarboven _ja_ ik vinden _het_ _een_ beetje _een soort_ van helikopterachtig weten je wel ? van _die_ zwaaiding lijken 
+B|3| B: [ja] 
+A|4| A: en _dan_ hebben _die_ daaronder _een_ been _voet_ en aan _de_ zijkant _een voet_ arm 
+B|5| B: [een voet] 
+B|6| B: [ja] 
+B|7| B: _zijn_ _dat_ wat op _zijn_ hoofd _zijn_ [een soort] ruitje doorboren _met_ iets 
+A|8| A: [ja] 
+B|9| B: [oké] 
+B|10| B: [dan] _zijn_ [het] M 
+B|11| B: _dit zijn_ [die] [een] _met_ [die] helikopter op _zijn_ op _zijn_ hoofd 
+A|12| A: ah [ja] 
+A|13| A: _even_ _even kijken_ waar [die] staan 
+A|14| A: ah nummer negen 
+A|15| A: [oké] _dit zijn _met_ dat helikopterdinge_ 
+B|16| B: [ja] 
+B|17| B: _dat zijn_ H 
+B|18| B: [dit zijn met] [de] helikopter 
+A|19| A: _even kijken_ 
+A|20| A: ah [zijn] nummer elf 
+A|21| A: [dat [zijn] _met] dat_ helikopterding 
+B|22| B: [ja] [even kijken] [dat zijn] D 
+B|23| B: [dit zijn] weer [met dat helikopterdinge] 
+A|24| A: [even kijken] ah nummer veertien 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=1| A | A : deze hebben eigenlijk een soort van Pinokkioneus
+	Free: Pattern=een soort
+	Constrained: Pattern=een
+Turn ID=2| A | A : en daarboven ja ik vinden het een beetje een soort van helikopterachtig weten je wel ? van die zwaaiding lijken
+	Free: Pattern=ja, Pattern=een, Pattern=het, Pattern=die, Pattern=een soort
+	Constrained: Pattern=een
+Turn ID=3| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=4| A | A : en dan hebben die daaronder een been voet en aan de zijkant een voet arm
+	Free: Pattern=de, Pattern=dan, Pattern=voet, Pattern=een, Pattern=die, Pattern=een voet
+	Constrained: Pattern=voet, Pattern=een
+Turn ID=5| B | B : een voet
+	Free: Pattern=een voet
+	Constrained: Pattern=voet, Pattern=een
+Turn ID=6| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=7| B | B : zijn dat wat op zijn hoofd zijn een soort ruitje doorboren met iets
+	Free: Pattern=een soort, Pattern=dat, Pattern=zijn, Pattern=met
+	Constrained: Pattern=een
+Turn ID=8| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=9| B | B : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=10| B | B : dan zijn het M
+	Free: Pattern=het, Pattern=zijn, Pattern=dan
+	Constrained: 
+Turn ID=11| B | B : dit zijn die een met die helikopter op zijn op zijn hoofd
+	Free: Pattern=een, Pattern=met, Pattern=die, Pattern=zijn, Pattern=dit zijn
+	Constrained: Pattern=zijn
+Turn ID=12| A | A : ah ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=13| A | A : even even kijken waar die staan
+	Free: Pattern=even kijken, Pattern=die, Pattern=even
+	Constrained: Pattern=even
+Turn ID=14| A | A : ah nummer negen
+	Free: 
+	Constrained: 
+Turn ID=15| A | A : oké dit zijn met dat helikopterdinge
+	Free: Pattern=dit zijn met, Pattern=met dat helikopterdinge, Pattern=oké
+	Constrained: Pattern=dat, Pattern=met dat, Pattern=met, Pattern=zijn met, Pattern=zijn, Pattern=dit zijn
+Turn ID=16| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=17| B | B : dat zijn H
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=18| B | B : dit zijn met de helikopter
+	Free: Pattern=dit zijn met, Pattern=de
+	Constrained: Pattern=zijn met, Pattern=dit zijn, Pattern=zijn, Pattern=met
+Turn ID=19| A | A : even kijken
+	Free: Pattern=even kijken
+	Constrained: Pattern=even
+Turn ID=20| A | A : ah zijn nummer elf
+	Free: Pattern=zijn
+	Constrained: 
+Turn ID=21| A | A : dat zijn met dat helikopterding
+	Free: Pattern=zijn met, Pattern=met dat, Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn, Pattern=met
+Turn ID=22| B | B : ja even kijken dat zijn D
+	Free: Pattern=even kijken, Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=dat, Pattern=zijn, Pattern=even
+Turn ID=23| B | B : dit zijn weer met dat helikopterdinge
+	Free: Pattern=met dat helikopterdinge, Pattern=dit zijn
+	Constrained: Pattern=dat, Pattern=zijn, Pattern=met, Pattern=met dat
+Turn ID=24| A | A : even kijken ah nummer veertien
+	Free: Pattern=even kijken
+	Constrained: Pattern=even

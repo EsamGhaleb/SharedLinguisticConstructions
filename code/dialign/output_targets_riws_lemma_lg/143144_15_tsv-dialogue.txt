@@ -1,0 +1,123 @@
+B|0| B: _oké_ _ik noemen_ _dit_ poppe _het_ _met_ _een_ badpak zeggen maar er lijken _dus_ _een_ soort van zwemband _eromheen_ te zitten _een_ soort vierkant om _het_ poppe heen 
+A|1| A: [oké] 
+B|2| B: hij hebben twee staaf _op_ _zijn_ hoofd hij hebben _op_ _zijn_ _neus_ hebben _die een_ lang staaf 
+A|3| A: _ja_ _ja_ _ja_ _ja_ _ja_ _ja_ _ja_ [ik] zien _hem_ al 
+B|4| B: _en_ hij hebben één armp _zo_ omhoog 
+A|5| A: _ja_ [en] _dan_ [ik noemen] _dat_ zelf _de glijbaan_ volgens _mij_ [met] [die] [neus] [die] [zo] naar beneden 
+B|6| B: precies [ja] 
+B|7| B: [en] hij hebben _een_ vierkant _eromheen_ zitten alsof _het_ _een_ soort van zwemband _zijn_ 
+A|8| A: [ja] 
+A|9| A: [ja] [ja] [ja] [ja] 
+A|10| A: [het] [zijn] Numero zes 
+A|11| A: [dit] [zijn] _de_ wat [ik noemen] _de glijbaan_ 
+A|12| A: [dus] [die] [die een] [die] [die] [die] slurf [die] [zo] naar beneden _gaan_ 
+B|13| B: [ja] 
+B|14| B: _ja met_ [het] [met] [het] _band eromheen_ toch ? _met dat_ 
+A|15| A: _de_ [ja] 
+A|16| A: [ja [met] dat] [band eromheen] 
+B|17| B: [dan] [gaan] [het] om C 
+B|18| B: [dit] [gaan] over [de _glijbaan] met_ [de] [band eromheen] 
+A|19| A: [ja] [ik] _zoeken hem even op_ 
+A|20| A: [dat] [zijn] Numero dertien 
+A|21| A: [dit] [zijn] [de glijbaan] 
+B|22| B: [ja] 
+B|23| B: [zoeken hem even op] [met] [de] ding [eromheen] 
+A|24| A: [ja] 
+B|25| B: [gaan] om J 
+B|26| B: bij [mij] [gaan] [het] hier om [de _glijbaan] met_ [het] [band] 
+A|27| A: [glijbaan met] [band] [dat] [zijn] Numero negen 
+A|28| A: [de glijbaan] 
+B|29| B: [ja] worden nummer N tweepoot N 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : oké ik noemen dit poppe het met een badpak zeggen maar er lijken dus een soort van zwemband eromheen te zitten een soort vierkant om het poppe heen
+	Free: Pattern=dus, Pattern=een, Pattern=het, Pattern=dit, Pattern=ik noemen, Pattern=met, Pattern=oké, Pattern=eromheen
+	Constrained: Pattern=ik
+Turn ID=1| A | A : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=2| B | B : hij hebben twee staaf op zijn hoofd hij hebben op zijn neus hebben die een lang staaf
+	Free: Pattern=die een, Pattern=zijn, Pattern=op, Pattern=neus
+	Constrained: Pattern=die, Pattern=een
+Turn ID=3| A | A : ja ja ja ja ja ja ja ik zien hem al
+	Free: Pattern=hem, Pattern=ik, Pattern=ja
+	Constrained: 
+Turn ID=4| B | B : en hij hebben één armp zo omhoog
+	Free: Pattern=zo, Pattern=en
+	Constrained: 
+Turn ID=5| A | A : ja en dan ik noemen dat zelf de glijbaan volgens mij met die neus die zo naar beneden
+	Free: Pattern=dat, Pattern=ja, Pattern=dan, Pattern=zo, Pattern=ik noemen, Pattern=neus, Pattern=met, Pattern=die, Pattern=mij, Pattern=en, Pattern=de glijbaan
+	Constrained: Pattern=ik, Pattern=de
+Turn ID=6| B | B : precies ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=7| B | B : en hij hebben een vierkant eromheen zitten alsof het een soort van zwemband zijn
+	Free: Pattern=een, Pattern=het, Pattern=en, Pattern=zijn, Pattern=eromheen
+	Constrained: 
+Turn ID=8| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=9| A | A : ja ja ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=10| A | A : het zijn Numero zes
+	Free: Pattern=zijn, Pattern=het
+	Constrained: 
+Turn ID=11| A | A : dit zijn de wat ik noemen de glijbaan
+	Free: Pattern=de, Pattern=dit, Pattern=ik noemen, Pattern=de glijbaan, Pattern=zijn
+	Constrained: Pattern=ik, Pattern=de
+Turn ID=12| A | A : dus die die een die die die slurf die zo naar beneden gaan
+	Free: Pattern=dus, Pattern=zo, Pattern=die, Pattern=die een, Pattern=gaan
+	Constrained: Pattern=die, Pattern=een
+Turn ID=13| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=14| B | B : ja met het met het band eromheen toch ? met dat
+	Free: Pattern=ja met, Pattern=met dat, Pattern=met, Pattern=het, Pattern=band eromheen
+	Constrained: Pattern=dat, Pattern=ja, Pattern=met, Pattern=band, Pattern=eromheen
+Turn ID=15| A | A : de ja
+	Free: Pattern=de, Pattern=ja
+	Constrained: 
+Turn ID=16| A | A : ja met dat band eromheen
+	Free: Pattern=met dat, Pattern=band eromheen, Pattern=ja met
+	Constrained: Pattern=dat, Pattern=ja, Pattern=met, Pattern=band, Pattern=eromheen
+Turn ID=17| B | B : dan gaan het om C
+	Free: Pattern=dan, Pattern=het, Pattern=gaan
+	Constrained: 
+Turn ID=18| B | B : dit gaan over de glijbaan met de band eromheen
+	Free: Pattern=glijbaan met, Pattern=de, Pattern=band eromheen, Pattern=dit, Pattern=de glijbaan, Pattern=gaan
+	Constrained: Pattern=band, Pattern=de, Pattern=met, Pattern=eromheen
+Turn ID=19| A | A : ja ik zoeken hem even op
+	Free: Pattern=zoeken hem even op, Pattern=ik, Pattern=ja
+	Constrained: Pattern=hem, Pattern=op
+Turn ID=20| A | A : dat zijn Numero dertien
+	Free: Pattern=dat, Pattern=zijn
+	Constrained: 
+Turn ID=21| A | A : dit zijn de glijbaan
+	Free: Pattern=de glijbaan, Pattern=dit, Pattern=zijn
+	Constrained: Pattern=de
+Turn ID=22| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=23| B | B : zoeken hem even op met de ding eromheen
+	Free: Pattern=zoeken hem even op, Pattern=de, Pattern=eromheen, Pattern=met
+	Constrained: Pattern=hem, Pattern=op
+Turn ID=24| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=25| B | B : gaan om J
+	Free: Pattern=gaan
+	Constrained: 
+Turn ID=26| B | B : bij mij gaan het hier om de glijbaan met het band
+	Free: Pattern=glijbaan met, Pattern=het, Pattern=mij, Pattern=band, Pattern=de glijbaan, Pattern=gaan
+	Constrained: Pattern=de, Pattern=met
+Turn ID=27| A | A : glijbaan met band dat zijn Numero negen
+	Free: Pattern=glijbaan met, Pattern=dat, Pattern=zijn, Pattern=band
+	Constrained: Pattern=met
+Turn ID=28| A | A : de glijbaan
+	Free: Pattern=de glijbaan
+	Constrained: Pattern=de
+Turn ID=29| B | B : ja worden nummer N tweepoot N
+	Free: Pattern=ja
+	Constrained: 

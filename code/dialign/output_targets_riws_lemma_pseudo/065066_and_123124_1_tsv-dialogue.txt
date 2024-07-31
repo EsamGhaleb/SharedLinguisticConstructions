@@ -1,0 +1,127 @@
+A|0| A: _twee_ van _die_ piramide 
+A|1| A: _een_ robot 
+A|2| A: _ja ja_ 
+A|3| A: dan _zijn_ _het_ _twee_ 
+A|4| A: _ja_ ik vinden _het_ echt _een_ robot zo 
+A|5| A: ik hebben net _het_ hebben net WALLE kunnen _zijn_ 
+B|6| B: aan _de_ voorkant [zijn] [een] heel groot vierkant vlak 
+B|7| B: _en_ aan _de_ linkerkant [twee] soort blokkendooz [die] erin gaan 
+B|8| B: [ja] 
+B|9| B: [ja ja] 
+B|10| B: iets futuristisch 
+A|11| A: [zijn] _het_ robotje weer 
+A|12| A: [die] machine [en] [die] 
+A|13| A: robot 
+A|14| A: _ja met_ _dat_ pinnet 
+A|15| A: [ja] 
+A|16| A: _dat zijn_ negen 
+B|17| B: [ja met] [twee] [twee] blokkentorens aan _de_ linkerkant 
+B|18| B: [dat zijn] G 
+B|19| B: dit [zijn] [dat] poppe [met] aan _de_ linkerkant [twee] blokkentorens [die] [het] hoofd ingaan aan _de_ voorkant [een] groot vierkant vak vlak 
+B|20| B: [ja] zoiets 
+A|21| A: robot 
+A|22| A: [ja] 
+A|23| A: even kijken waar jij [zijn] 
+A|24| A: waar [zijn] jij nou 
+A|25| A: [ja] één 
+B|26| B: [ja] [dat zijn] D 
+A|27| A: [de] robot 
+B|28| B: dit [zijn] [met] [ja] [het] volgens mij noemen we [het] ruimteschip [met] [de] [twee] blokkending [die] erin gaan 
+B|29| B: [met] voor [een] vierkant vlak 
+B|30| B: [dat zijn] B 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : twee van die piramide
+	Free: Pattern=die, Pattern=twee
+	Constrained: 
+Turn ID=1| A | A : een robot
+	Free: Pattern=een
+	Constrained: 
+Turn ID=2| A | A : ja ja
+	Free: Pattern=ja ja
+	Constrained: Pattern=ja
+Turn ID=3| A | A : dan zijn het twee
+	Free: Pattern=het, Pattern=zijn, Pattern=twee
+	Constrained: 
+Turn ID=4| A | A : ja ik vinden het echt een robot zo
+	Free: Pattern=een, Pattern=ja, Pattern=het
+	Constrained: 
+Turn ID=5| A | A : ik hebben net het hebben net WALLE kunnen zijn
+	Free: Pattern=het, Pattern=zijn
+	Constrained: 
+Turn ID=6| B | B : aan de voorkant zijn een heel groot vierkant vlak
+	Free: Pattern=een, Pattern=de, Pattern=zijn
+	Constrained: 
+Turn ID=7| B | B : en aan de linkerkant twee soort blokkendooz die erin gaan
+	Free: Pattern=die, Pattern=en, Pattern=de, Pattern=twee
+	Constrained: 
+Turn ID=8| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=9| B | B : ja ja
+	Free: Pattern=ja ja
+	Constrained: Pattern=ja
+Turn ID=10| B | B : iets futuristisch
+	Free: 
+	Constrained: 
+Turn ID=11| A | A : zijn het robotje weer
+	Free: Pattern=het, Pattern=zijn
+	Constrained: 
+Turn ID=12| A | A : die machine en die
+	Free: Pattern=die, Pattern=en
+	Constrained: 
+Turn ID=13| A | A : robot
+	Free: 
+	Constrained: 
+Turn ID=14| A | A : ja met dat pinnet
+	Free: Pattern=ja met, Pattern=dat
+	Constrained: Pattern=ja, Pattern=met
+Turn ID=15| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=16| A | A : dat zijn negen
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=17| B | B : ja met twee twee blokkentorens aan de linkerkant
+	Free: Pattern=ja met, Pattern=de, Pattern=twee
+	Constrained: Pattern=ja, Pattern=met
+Turn ID=18| B | B : dat zijn G
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=19| B | B : dit zijn dat poppe met aan de linkerkant twee blokkentorens die het hoofd ingaan aan de voorkant een groot vierkant vak vlak
+	Free: Pattern=dat, Pattern=twee, Pattern=de, Pattern=een, Pattern=het, Pattern=met, Pattern=die, Pattern=zijn
+	Constrained: 
+Turn ID=20| B | B : ja zoiets
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=21| A | A : robot
+	Free: 
+	Constrained: 
+Turn ID=22| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=23| A | A : even kijken waar jij zijn
+	Free: Pattern=zijn
+	Constrained: 
+Turn ID=24| A | A : waar zijn jij nou
+	Free: Pattern=zijn
+	Constrained: 
+Turn ID=25| A | A : ja één
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=26| B | B : ja dat zijn D
+	Free: Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=27| A | A : de robot
+	Free: Pattern=de
+	Constrained: 
+Turn ID=28| B | B : dit zijn met ja het volgens mij noemen we het ruimteschip met de twee blokkending die erin gaan
+	Free: Pattern=twee, Pattern=het, Pattern=met, Pattern=die, Pattern=zijn, Pattern=de, Pattern=ja
+	Constrained: 
+Turn ID=29| B | B : met voor een vierkant vlak
+	Free: Pattern=een, Pattern=met
+	Constrained: 
+Turn ID=30| B | B : dat zijn B
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn

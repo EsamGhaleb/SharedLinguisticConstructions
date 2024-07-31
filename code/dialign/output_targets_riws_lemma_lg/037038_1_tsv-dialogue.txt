@@ -1,0 +1,95 @@
+B|0| B: oké deze hebben aan de voorkant hebben _die_ een gewoon een vierkant zo hiervoor 
+B|1| B: _en_ aan de linkerkant zitten allemaal zitten _twee_ _van_ de armpjes _met_ steeds _groot worden blok_ 
+A|2| A: _ja_ 
+A|3| A: _ik_ weten welk _het_ zijn 
+A|4| A: nummer [twee] 
+A|5| A: one's dit zijn dat ding _met _die_ twee_ armp link _met _die blok_ die_ [groot worden] 
+A|6| A: [en] dan zo'n soort _antenne_ op op _het_ hoofd 
+B|7| B: [ja] [ik] hebben hem 
+B|8| B: G 
+B|9| B: deze hebben _die antenne bovenop_ [en] links [die twee] _van_ [die] armpjes [met die _blok] en_ vooraan [het] _vierkantje_ 
+A|10| A: [ja] 
+A|11| A: nummer negen 
+A|12| A: dit zijn dat ding [met] dat [vierkantje] voor [en] [twee] armp link 
+A|13| A: [met] [van] klein naar [groot worden [blok] en] [die antenne bovenop] 
+B|14| B: [ja] D 
+B|15| B: [die antenne bovenop] [en] links [die blok die] steeds [groot worden] 
+B|16| B: [en] voorop [die] plaat 
+A|17| A: [ja] 
+A|18| A: kijken waar [die] zijn [ja] 
+A|19| A: nummer één 
+A|20| A: dat ding [met [die] antenne] erop [en] [die twee] armp [met] [blok] 
+A|21| A: link 
+B|22| B: [ja] B 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : oké deze hebben aan de voorkant hebben die een gewoon een vierkant zo hiervoor
+	Free: Pattern=die
+	Constrained: 
+Turn ID=1| B | B : en aan de linkerkant zitten allemaal zitten twee van de armpjes met steeds groot worden blok
+	Free: Pattern=twee, Pattern=met, Pattern=van, Pattern=en, Pattern=groot worden blok
+	Constrained: Pattern=groot worden, Pattern=blok
+Turn ID=2| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=3| A | A : ik weten welk het zijn
+	Free: Pattern=ik, Pattern=het
+	Constrained: 
+Turn ID=4| A | A : nummer twee
+	Free: Pattern=twee
+	Constrained: 
+Turn ID=5| A | A : one's dit zijn dat ding met die twee armp link met die blok die groot worden
+	Free: Pattern=met die, Pattern=met die blok, Pattern=die twee, Pattern=die blok die, Pattern=groot worden
+	Constrained: Pattern=met die, Pattern=twee, Pattern=met, Pattern=die, Pattern=blok
+Turn ID=6| A | A : en dan zo'n soort antenne op op het hoofd
+	Free: Pattern=het, Pattern=antenne, Pattern=en
+	Constrained: 
+Turn ID=7| B | B : ja ik hebben hem
+	Free: Pattern=ik, Pattern=ja
+	Constrained: 
+Turn ID=8| B | B : G
+	Free: 
+	Constrained: 
+Turn ID=9| B | B : deze hebben die antenne bovenop en links die twee van die armpjes met die blok en vooraan het vierkantje
+	Free: Pattern=met die blok, Pattern=vierkantje, Pattern=die, Pattern=blok en, Pattern=het, Pattern=die twee, Pattern=van, Pattern=en, Pattern=die antenne bovenop
+	Constrained: Pattern=met die, Pattern=twee, Pattern=die antenne, Pattern=met, Pattern=die, Pattern=antenne, Pattern=en, Pattern=blok
+Turn ID=10| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=11| A | A : nummer negen
+	Free: 
+	Constrained: 
+Turn ID=12| A | A : dit zijn dat ding met dat vierkantje voor en twee armp link
+	Free: Pattern=met, Pattern=vierkantje, Pattern=twee, Pattern=en
+	Constrained: 
+Turn ID=13| A | A : met van klein naar groot worden blok en die antenne bovenop
+	Free: Pattern=met, Pattern=blok en, Pattern=van, Pattern=groot worden blok, Pattern=die antenne bovenop
+	Constrained: Pattern=die antenne, Pattern=die, Pattern=antenne, Pattern=en, Pattern=groot worden, Pattern=blok
+Turn ID=14| B | B : ja D
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=15| B | B : die antenne bovenop en links die blok die steeds groot worden
+	Free: Pattern=die antenne bovenop, Pattern=die blok die, Pattern=groot worden, Pattern=en
+	Constrained: Pattern=antenne, Pattern=die antenne, Pattern=die, Pattern=blok
+Turn ID=16| B | B : en voorop die plaat
+	Free: Pattern=die, Pattern=en
+	Constrained: 
+Turn ID=17| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=18| A | A : kijken waar die zijn ja
+	Free: Pattern=ja, Pattern=die
+	Constrained: 
+Turn ID=19| A | A : nummer één
+	Free: 
+	Constrained: 
+Turn ID=20| A | A : dat ding met die antenne erop en die twee armp met blok
+	Free: Pattern=met die, Pattern=die twee, Pattern=die antenne, Pattern=met, Pattern=en, Pattern=blok
+	Constrained: Pattern=met, Pattern=twee, Pattern=die, Pattern=antenne
+Turn ID=21| A | A : link
+	Free: 
+	Constrained: 
+Turn ID=22| B | B : ja B
+	Free: Pattern=ja
+	Constrained: 

@@ -1,0 +1,99 @@
+B|0| B: even kijken deze _doen me_ een beetje _denken aan_ een _robot_ 
+B|1| B: of waar we het net over hebben van _die_ steeds klein worden blok maar dan _zijn_ het er _twee_ 
+A|2| A: _ja met_ [die] _plaat_ 
+B|3| B: [ja met] de [plaat] ervoor [ja] 
+A|4| A: _ja dus_ [die] [doen me] ook [denken aan] [robot] 
+A|5| A: _dat zijn_ [twee] 
+A|6| A: _dit zijn_ _weer_ [die] [robot] 
+A|7| A: [met] [die] vierkant [plaat] 
+B|8| B: waar [zijn] [die] 
+B|9| B: [ja] 
+A|10| A: rechts 
+B|11| B: [ja] _en_ [met] zo'n soort _antenne_ of achtig 
+A|12| A: [ja] 
+B|13| B: [ja dus] [dat zijn] G 
+B|14| B: [dit zijn] de waarom krijgen ik deze [weer] 
+B|15| B: [die] [met] de [plaat] van voor [die] op een [robot] lijken 
+A|16| A: [ja] [dat zijn] negen 
+A|17| A: [dit zijn] [weer] [die] [robot] 
+A|18| A: [met] [die] [plaat] [en] [die] [antenne] 
+B|19| B: [ja dus] [dat zijn] D 
+B|20| B: [dit zijn] de [robot] [met] de [plaat] ervoor 
+A|21| A: [ja] [dat zijn] één 
+A|22| A: [dit zijn] [weer] [die] [robot] 
+B|23| B: [ja dus] [dat zijn] B 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : even kijken deze doen me een beetje denken aan een robot
+	Free: Pattern=doen me, Pattern=denken aan, Pattern=robot
+	Constrained: 
+Turn ID=1| B | B : of waar we het net over hebben van die steeds klein worden blok maar dan zijn het er twee
+	Free: Pattern=die, Pattern=twee, Pattern=zijn
+	Constrained: 
+Turn ID=2| A | A : ja met die plaat
+	Free: Pattern=ja met, Pattern=die, Pattern=plaat
+	Constrained: Pattern=ja, Pattern=met
+Turn ID=3| B | B : ja met de plaat ervoor ja
+	Free: Pattern=ja met, Pattern=ja, Pattern=plaat
+	Constrained: Pattern=ja, Pattern=met
+Turn ID=4| A | A : ja dus die doen me ook denken aan robot
+	Free: Pattern=doen me, Pattern=ja dus, Pattern=die, Pattern=robot, Pattern=denken aan
+	Constrained: Pattern=ja
+Turn ID=5| A | A : dat zijn twee
+	Free: Pattern=dat zijn, Pattern=twee
+	Constrained: Pattern=zijn
+Turn ID=6| A | A : dit zijn weer die robot
+	Free: Pattern=dit zijn, Pattern=robot, Pattern=die, Pattern=weer
+	Constrained: Pattern=zijn
+Turn ID=7| A | A : met die vierkant plaat
+	Free: Pattern=die, Pattern=plaat, Pattern=met
+	Constrained: 
+Turn ID=8| B | B : waar zijn die
+	Free: Pattern=die, Pattern=zijn
+	Constrained: 
+Turn ID=9| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=10| A | A : rechts
+	Free: 
+	Constrained: 
+Turn ID=11| B | B : ja en met zo'n soort antenne of achtig
+	Free: Pattern=antenne, Pattern=ja, Pattern=en, Pattern=met
+	Constrained: 
+Turn ID=12| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=13| B | B : ja dus dat zijn G
+	Free: Pattern=dat zijn, Pattern=ja dus
+	Constrained: Pattern=ja, Pattern=zijn
+Turn ID=14| B | B : dit zijn de waarom krijgen ik deze weer
+	Free: Pattern=dit zijn, Pattern=weer
+	Constrained: Pattern=zijn
+Turn ID=15| B | B : die met de plaat van voor die op een robot lijken
+	Free: Pattern=robot, Pattern=die, Pattern=plaat, Pattern=met
+	Constrained: 
+Turn ID=16| A | A : ja dat zijn negen
+	Free: Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=zijn
+Turn ID=17| A | A : dit zijn weer die robot
+	Free: Pattern=dit zijn, Pattern=robot, Pattern=die, Pattern=weer
+	Constrained: Pattern=zijn
+Turn ID=18| A | A : met die plaat en die antenne
+	Free: Pattern=met, Pattern=die, Pattern=antenne, Pattern=en, Pattern=plaat
+	Constrained: 
+Turn ID=19| B | B : ja dus dat zijn D
+	Free: Pattern=dat zijn, Pattern=ja dus
+	Constrained: Pattern=ja, Pattern=zijn
+Turn ID=20| B | B : dit zijn de robot met de plaat ervoor
+	Free: Pattern=dit zijn, Pattern=robot, Pattern=plaat, Pattern=met
+	Constrained: Pattern=zijn
+Turn ID=21| A | A : ja dat zijn één
+	Free: Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=zijn
+Turn ID=22| A | A : dit zijn weer die robot
+	Free: Pattern=dit zijn, Pattern=robot, Pattern=die, Pattern=weer
+	Constrained: Pattern=zijn
+Turn ID=23| B | B : ja dus dat zijn B
+	Free: Pattern=dat zijn, Pattern=ja dus
+	Constrained: Pattern=ja, Pattern=zijn

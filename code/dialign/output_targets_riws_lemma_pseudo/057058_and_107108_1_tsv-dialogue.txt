@@ -1,0 +1,139 @@
+A|0| A: top 
+A|1| A: _ja_ we 
+A|2| A: _ja_ 
+A|3| A: _en dan_ twee van _die_ 
+A|4| A: _ja_ 
+A|5| A: _en_ nog één _antenne_ bovenop 
+A|6| A: _ja_ vogelnes 
+A|7| A: nummer twee 
+B|8| B: [ja] dit doen mij eigenlijk denken _aan_ _een_ man _met_ _een_ verrekijker [en] _een_ [antenne] op _zijn_ hoofd 
+B|9| B: [ja] klpen [ja] [ja] _dat_ _zijn_ inderdaad _dat_ 
+B|10| B: ok bij mij B 
+A|11| A: deze hebben weer zo'n antennetje bovenop _en dan_ [dat] vierkan zo [aan] _de_ voorkant [een] beetje tegenaan plakken _en die_ 
+A|12| A: twee legoblok zeggen maar legoblokdingen [aan] _de_ zijkant 
+A|13| A: [ja] 
+A|14| A: _met de_ vierkant plat [en] het antennetje 
+A|15| A: nummer negen 
+B|16| B: o [die] [die] even kijken _waar_ [die] staan hier G 
+B|17| B: ok 
+A|18| A: oké 
+A|19| A: deze [zijn] weer [met] het Antennetje bovenop [en] _de_ twee legoblokjes [aan] één kant [en] het vierkan voorop 
+B|20| B: o dit [zijn] [dat] robot dinge [met] verrekijker [en die] [antenne] 
+B|21| B: [ja] 
+B|22| B: ok bij mij B 
+A|23| A: [ja] 
+A|24| A: [waar] 
+A|25| A: twee legoblok zeggen je 
+A|26| A: [ja] _met de_ [ja] nummer één 
+B|27| B: o [die] D 
+B|28| B: [ja] 
+A|29| A: deze [zijn] weer _met de_ twee legoblokjes [aan] [die] kant [en] het vierkan voorop [antenne] 
+B|30| B: o dit [zijn] [de] robot [met de] verrekijker [en dan] Antenne 
+B|31| B: ok bij mij P 
+B|32| B: o hier B 
+B|33| B: [ja] welk [ja] ik weten niet of [dat] cijfer ok 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : top
+	Free: 
+	Constrained: 
+Turn ID=1| A | A : ja we
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=2| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=3| A | A : en dan twee van die
+	Free: Pattern=en dan, Pattern=die
+	Constrained: Pattern=en
+Turn ID=4| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=5| A | A : en nog één antenne bovenop
+	Free: Pattern=en, Pattern=antenne
+	Constrained: 
+Turn ID=6| A | A : ja vogelnes
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=7| A | A : nummer twee
+	Free: 
+	Constrained: 
+Turn ID=8| B | B : ja dit doen mij eigenlijk denken aan een man met een verrekijker en een antenne op zijn hoofd
+	Free: Pattern=een, Pattern=met, Pattern=antenne, Pattern=en, Pattern=zijn, Pattern=aan, Pattern=ja
+	Constrained: 
+Turn ID=9| B | B : ja klpen ja ja dat zijn inderdaad dat
+	Free: Pattern=dat, Pattern=zijn, Pattern=ja
+	Constrained: 
+Turn ID=10| B | B : ok bij mij B
+	Free: 
+	Constrained: 
+Turn ID=11| A | A : deze hebben weer zo'n antennetje bovenop en dan dat vierkan zo aan de voorkant een beetje tegenaan plakken en die
+	Free: Pattern=en die, Pattern=dat, Pattern=en dan, Pattern=een, Pattern=de, Pattern=aan
+	Constrained: Pattern=die, Pattern=en
+Turn ID=12| A | A : twee legoblok zeggen maar legoblokdingen aan de zijkant
+	Free: Pattern=de, Pattern=aan
+	Constrained: 
+Turn ID=13| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=14| A | A : met de vierkant plat en het antennetje
+	Free: Pattern=met de, Pattern=en
+	Constrained: Pattern=de, Pattern=met
+Turn ID=15| A | A : nummer negen
+	Free: 
+	Constrained: 
+Turn ID=16| B | B : o die die even kijken waar die staan hier G
+	Free: Pattern=die, Pattern=waar
+	Constrained: 
+Turn ID=17| B | B : ok
+	Free: 
+	Constrained: 
+Turn ID=18| A | A : oké
+	Free: 
+	Constrained: 
+Turn ID=19| A | A : deze zijn weer met het Antennetje bovenop en de twee legoblokjes aan één kant en het vierkan voorop
+	Free: Pattern=met, Pattern=en, Pattern=zijn, Pattern=de, Pattern=aan
+	Constrained: 
+Turn ID=20| B | B : o dit zijn dat robot dinge met verrekijker en die antenne
+	Free: Pattern=en die, Pattern=dat, Pattern=met, Pattern=antenne, Pattern=zijn
+	Constrained: Pattern=die, Pattern=en
+Turn ID=21| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=22| B | B : ok bij mij B
+	Free: 
+	Constrained: 
+Turn ID=23| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=24| A | A : waar
+	Free: Pattern=waar
+	Constrained: 
+Turn ID=25| A | A : twee legoblok zeggen je
+	Free: 
+	Constrained: 
+Turn ID=26| A | A : ja met de ja nummer één
+	Free: Pattern=met de, Pattern=ja
+	Constrained: Pattern=de, Pattern=met
+Turn ID=27| B | B : o die D
+	Free: Pattern=die
+	Constrained: 
+Turn ID=28| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=29| A | A : deze zijn weer met de twee legoblokjes aan die kant en het vierkan voorop antenne
+	Free: Pattern=die, Pattern=antenne, Pattern=en, Pattern=zijn, Pattern=met de, Pattern=aan
+	Constrained: Pattern=de, Pattern=met
+Turn ID=30| B | B : o dit zijn de robot met de verrekijker en dan Antenne
+	Free: Pattern=en dan, Pattern=met de, Pattern=de, Pattern=zijn
+	Constrained: Pattern=de, Pattern=en, Pattern=met
+Turn ID=31| B | B : ok bij mij P
+	Free: 
+	Constrained: 
+Turn ID=32| B | B : o hier B
+	Free: 
+	Constrained: 
+Turn ID=33| B | B : ja welk ja ik weten niet of dat cijfer ok
+	Free: Pattern=dat, Pattern=ja
+	Constrained: 

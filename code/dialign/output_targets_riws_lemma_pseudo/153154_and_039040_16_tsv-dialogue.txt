@@ -1,0 +1,135 @@
+B|0| B: _die_ _soort van_ kegel _van_ bowling 
+B|1| B: _ja_ 
+B|2| B: _ja_ 
+B|3| B: _ja dat zijn_ E 
+A|4| A: oké bij mij dit vinden _ik_ zelf _een_ beetje _een_ apart 
+A|5| A: _ik_ zullen zeggen [dat] _het_ _een soort van_ hij _hebben_ _een soort van_ vierkant _neus_ _aan de_ rechts _kant_ zitten rechtsvoor 
+A|6| A: [ja] nou _het zijn_ niet per se _een_ blok _het zijn_ _een_ blok wat eigenlijk groot worden zo 
+A|7| A: _en dan_ zitten er twee [soort van] [ja] staf handvaten of zo _aan_ plus _nog een soort van_ slinger _aan de_ Linkerachterkant 
+A|8| A: [van] [van] [dat] _ding_ 
+A|9| A: _ik_ _hebben_ hem _ik_ zullen niet zeggen hoe _ik_ hem omschrijven _hebben_ in _de_ in _de_ ander test maar _ik_ weten niet of [dat] _nog_ nodig [zijn] maar er zitten dus twee _een soort van_ octoneus [van] [van] Sponge Bob zeggen maar 
+A|10| A: één _aan de_ bovenkant één _en dan_ 
+A|11| A: _en dan_ één linksvoor _en_ één [die] _een_ beetje _naar_ achter toe gaan maar [dat zijn] veel _een_ slurf zeggen maar [die] [zijn] niet helemaal zo _en dan_ zitten er _aan de_ rechtsvoorkant zitten er _een soort van_ vierkant _ding_ wat eruit komen 
+A|12| A: [ja] 
+A|13| A: welk [zijn] [dat] bij jou 
+B|14| B: [het zijn] [de] kegel erbovenop [een] kegel [naar] [die] [kant] richten denken [ik] [en dan] [hebben] [die] hier zo'n verrekijkerachtig [ding] 
+B|15| B: [en dan] [nog een soort van] bikinibroekachtig uitlaat [aan de] [die] [kant] 
+A|16| A: _met_ [die] _neus_ [ja] [ja] _die met_ [die] drie tentakel eigenlijk [en dan] [die] vierkant _neus_ 
+A|17| A: [ja] [ja] [ja] één zo [en dan] één [aan de] zijkant [en] [naar] achteren 
+A|18| A: [ja dat zijn] nummer elf bij mij 
+B|19| B: [ja] J 
+B|20| B: [het _zijn] [die_ met] [een] kegel op [zijn] hoofd [en] [een] kegel als [neus] [en dan] [een] verrekijker 
+B|21| B: [en dan] [nog een] mormel 
+A|22| A: oké dit [zijn die] [een] weer [met] [die] drie tentakel zeggen maar [met] [dat] vierkant [ding] wat eruit komen 
+A|23| A: wat groot worden 
+A|24| A: [ja] [ja] [die] slurf [die] octopus [soort van] even kijken 
+A|25| A: nummer negen 
+B|26| B: god 
+B|27| B: [ja] B 
+A|28| A: dit [zijn die] [een] [met] drie octopusding [die] eruit komen [en] [die] vierkant [neus] 
+B|29| B: [het [zijn] [die] met] [een] kegel erop kegel als [neus] [en] [een] verrekijker 
+B|30| B: [en] [nog een] dinge 
+A|31| A: [ja] 
+A|32| A: nummer vier 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : die soort van kegel van bowling
+	Free: Pattern=soort van, Pattern=van, Pattern=die
+	Constrained: Pattern=van
+Turn ID=1| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=2| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=3| B | B : ja dat zijn E
+	Free: Pattern=ja dat zijn
+	Constrained: Pattern=dat zijn, Pattern=dat, Pattern=zijn, Pattern=ja
+Turn ID=4| A | A : oké bij mij dit vinden ik zelf een beetje een apart
+	Free: Pattern=ik, Pattern=een
+	Constrained: 
+Turn ID=5| A | A : ik zullen zeggen dat het een soort van hij hebben een soort van vierkant neus aan de rechts kant zitten rechtsvoor
+	Free: Pattern=aan de, Pattern=het, Pattern=hebben, Pattern=een soort van, Pattern=neus, Pattern=ik, Pattern=dat, Pattern=kant
+	Constrained: Pattern=een, Pattern=van, Pattern=soort van, Pattern=de, Pattern=aan
+Turn ID=6| A | A : ja nou het zijn niet per se een blok het zijn een blok wat eigenlijk groot worden zo
+	Free: Pattern=het zijn, Pattern=ja, Pattern=een
+	Constrained: Pattern=het, Pattern=zijn
+Turn ID=7| A | A : en dan zitten er twee soort van ja staf handvaten of zo aan plus nog een soort van slinger aan de Linkerachterkant
+	Free: Pattern=en dan, Pattern=aan de, Pattern=nog een soort van, Pattern=soort van, Pattern=aan, Pattern=ja
+	Constrained: Pattern=nog, Pattern=nog een, Pattern=een, Pattern=een soort van, Pattern=soort van, Pattern=de, Pattern=aan, Pattern=van, Pattern=en
+Turn ID=8| A | A : van van dat ding
+	Free: Pattern=dat, Pattern=ding, Pattern=van
+	Constrained: 
+Turn ID=9| A | A : ik hebben hem ik zullen niet zeggen hoe ik hem omschrijven hebben in de in de ander test maar ik weten niet of dat nog nodig zijn maar er zitten dus twee een soort van octoneus van van Sponge Bob zeggen maar
+	Free: Pattern=dat, Pattern=nog, Pattern=de, Pattern=hebben, Pattern=een soort van, Pattern=ik, Pattern=van, Pattern=zijn
+	Constrained: Pattern=soort van, Pattern=van, Pattern=een
+Turn ID=10| A | A : één aan de bovenkant één en dan
+	Free: Pattern=aan de, Pattern=en dan
+	Constrained: Pattern=aan, Pattern=de, Pattern=en
+Turn ID=11| A | A : en dan één linksvoor en één die een beetje naar achter toe gaan maar dat zijn veel een slurf zeggen maar die zijn niet helemaal zo en dan zitten er aan de rechtsvoorkant zitten er een soort van vierkant ding wat eruit komen
+	Free: Pattern=dat zijn, Pattern=en dan, Pattern=aan de, Pattern=ding, Pattern=een, Pattern=een soort van, Pattern=die, Pattern=en, Pattern=zijn, Pattern=naar
+	Constrained: Pattern=dat, Pattern=een, Pattern=de, Pattern=aan, Pattern=van, Pattern=en, Pattern=soort van, Pattern=zijn
+Turn ID=12| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=13| A | A : welk zijn dat bij jou
+	Free: Pattern=dat, Pattern=zijn
+	Constrained: 
+Turn ID=14| B | B : het zijn de kegel erbovenop een kegel naar die kant richten denken ik en dan hebben die hier zo'n verrekijkerachtig ding
+	Free: Pattern=kant, Pattern=de, Pattern=en dan, Pattern=ding, Pattern=een, Pattern=hebben, Pattern=ik, Pattern=naar, Pattern=het zijn, Pattern=die
+	Constrained: Pattern=het, Pattern=zijn, Pattern=en
+Turn ID=15| B | B : en dan nog een soort van bikinibroekachtig uitlaat aan de die kant
+	Free: Pattern=kant, Pattern=en dan, Pattern=aan de, Pattern=nog een soort van, Pattern=die
+	Constrained: Pattern=nog, Pattern=nog een, Pattern=een, Pattern=een soort van, Pattern=soort van, Pattern=de, Pattern=aan, Pattern=van, Pattern=en
+Turn ID=16| A | A : met die neus ja ja die met die drie tentakel eigenlijk en dan die vierkant neus
+	Free: Pattern=ja, Pattern=en dan, Pattern=die met, Pattern=neus, Pattern=met, Pattern=die
+	Constrained: Pattern=met, Pattern=en, Pattern=die
+Turn ID=17| A | A : ja ja ja één zo en dan één aan de zijkant en naar achteren
+	Free: Pattern=ja, Pattern=en dan, Pattern=aan de, Pattern=en, Pattern=naar
+	Constrained: Pattern=aan, Pattern=de, Pattern=en
+Turn ID=18| A | A : ja dat zijn nummer elf bij mij
+	Free: Pattern=ja dat zijn
+	Constrained: Pattern=dat zijn, Pattern=dat, Pattern=zijn, Pattern=ja
+Turn ID=19| B | B : ja J
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=20| B | B : het zijn die met een kegel op zijn hoofd en een kegel als neus en dan een verrekijker
+	Free: Pattern=en dan, Pattern=een, Pattern=zijn die, Pattern=die met, Pattern=neus, Pattern=het zijn, Pattern=en, Pattern=zijn
+	Constrained: Pattern=het, Pattern=met, Pattern=die, Pattern=en, Pattern=zijn
+Turn ID=21| B | B : en dan nog een mormel
+	Free: Pattern=en dan, Pattern=nog een
+	Constrained: Pattern=nog, Pattern=een, Pattern=en
+Turn ID=22| A | A : oké dit zijn die een weer met die drie tentakel zeggen maar met dat vierkant ding wat eruit komen
+	Free: Pattern=dat, Pattern=ding, Pattern=een, Pattern=zijn die, Pattern=met, Pattern=die
+	Constrained: Pattern=zijn, Pattern=die
+Turn ID=23| A | A : wat groot worden
+	Free: 
+	Constrained: 
+Turn ID=24| A | A : ja ja die slurf die octopus soort van even kijken
+	Free: Pattern=soort van, Pattern=ja, Pattern=die
+	Constrained: Pattern=van
+Turn ID=25| A | A : nummer negen
+	Free: 
+	Constrained: 
+Turn ID=26| B | B : god
+	Free: 
+	Constrained: 
+Turn ID=27| B | B : ja B
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=28| A | A : dit zijn die een met drie octopusding die eruit komen en die vierkant neus
+	Free: Pattern=een, Pattern=zijn die, Pattern=neus, Pattern=met, Pattern=die, Pattern=en
+	Constrained: Pattern=zijn, Pattern=die
+Turn ID=29| B | B : het zijn die met een kegel erop kegel als neus en een verrekijker
+	Free: Pattern=een, Pattern=zijn die, Pattern=die met, Pattern=neus, Pattern=het zijn, Pattern=en
+	Constrained: Pattern=het, Pattern=met, Pattern=zijn, Pattern=die
+Turn ID=30| B | B : en nog een dinge
+	Free: Pattern=nog een, Pattern=en
+	Constrained: Pattern=nog, Pattern=een
+Turn ID=31| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=32| A | A : nummer vier
+	Free: 
+	Constrained: 

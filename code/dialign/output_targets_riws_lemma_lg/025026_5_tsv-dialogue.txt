@@ -1,0 +1,111 @@
+B|0| B: okan _ja_ deze _hebben_ _aan de bovenkant_ _een _balk_ aan de_ linkerkant _een beetje_ _soort_ van 
+B|1| B: _ja_ tui _of zo_ _en_ _aan de_ rechterkant _ja_ _zitten er_ _ook een_ vlak _en_ daar _zitten_ dan nog weer _een_ 
+B|2| B: _balk_ _op_ _hij zijn_ zeggen maar alles _zitten_ _wel_ _heel_ dicht tegen _het_ object _aan_ 
+A|3| A: _ok_ hoe hoe zien _die [balk_ [aan de] bovenkant] [er] uit ? [zitten er] één [op] [de bovenkant] 
+B|4| B: _ja_ liggen _ja_ [die] _zijn_ zeggen maar net _iets_ _klein_ dan _dat_ _rond_ _ding_ zelf 
+A|5| A: _ok_ [en] _zijn het_ [ding] wat [aan de] voorkant _zijn het_ steken [er] [wel] [aan] allebei [de] kant [een] [klein] [beetje] [iets] uit 
+B|6| B: _ja_ 
+A|7| A: [en] [hij zijn] [wel] echt _heel compact_ toch 
+B|8| B: _ja_ 
+A|9| A: _ok_ _dat zijn_ acht 
+A|10| A: o [ja] ik haaten _dit_ [ding] _er zitten_ _een balk bovenop_ [het] kop _en er zitten_ zo'n V [aan de] voorkant 
+A|11| A: [aan de] zijkant _hebben hij_ [een] [soort] vin [of zo] [die] [ook [een] beetje] [rond] lopen 
+B|12| B: [een balk bovenop] 
+A|13| A: [ja] 
+B|14| B: [zijn] [hij] zeggen maar _die heel compact_ [of] niet [ok] 
+A|15| A: [ja] [ja] [ja] 
+B|16| B: zeggen maar [die balk] erop [en] [aan de] linkerkant [hebben hij] zoiets [en] [aan de] rechterkant [en er zitten] nog [een] staaf [op] 
+A|17| A: [ja] 
+B|18| B: okan dan [zijn het] E 
+B|19| B: okan [ja] _dit zijn die_ [compact] met [dat] blok [bovenop] 
+A|20| A: [ja] _dat zijn_ één 
+A|21| A: [dit zijn] [de] [heel compact] 
+B|22| B: [ja] 
+B|23| B: [dat zijn] E 
+B|24| B: [ok] _dit zijn die_ [compact] 
+A|25| A: [ja] [dat zijn] zestien 
+A|26| A: [dit zijn [die] heel compact] 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : okan ja deze hebben aan de bovenkant een balk aan de linkerkant een beetje soort van
+	Free: Pattern=balk aan de, Pattern=soort, Pattern=ja, Pattern=hebben, Pattern=aan de bovenkant, Pattern=een beetje, Pattern=een balk
+	Constrained: Pattern=aan de, Pattern=beetje, Pattern=de bovenkant, Pattern=een, Pattern=balk, Pattern=de, Pattern=aan
+Turn ID=1| B | B : ja tui of zo en aan de rechterkant ja zitten er ook een vlak en daar zitten dan nog weer een
+	Free: Pattern=ja, Pattern=aan de, Pattern=een, Pattern=zitten, Pattern=en, Pattern=zitten er, Pattern=of zo, Pattern=ook een
+	Constrained: Pattern=of, Pattern=een, Pattern=zitten, Pattern=er, Pattern=de, Pattern=aan
+Turn ID=2| B | B : balk op hij zijn zeggen maar alles zitten wel heel dicht tegen het object aan
+	Free: Pattern=heel, Pattern=aan, Pattern=wel, Pattern=het, Pattern=balk, Pattern=zitten, Pattern=op, Pattern=hij zijn
+	Constrained: Pattern=zijn, Pattern=hij
+Turn ID=3| A | A : ok hoe hoe zien die balk aan de bovenkant er uit ? zitten er één op de bovenkant
+	Free: Pattern=balk aan de, Pattern=die balk, Pattern=op, Pattern=de bovenkant, Pattern=ok, Pattern=er, Pattern=aan de bovenkant, Pattern=zitten er
+	Constrained: Pattern=aan de, Pattern=de bovenkant, Pattern=balk, Pattern=er, Pattern=de, Pattern=aan, Pattern=die, Pattern=zitten
+Turn ID=4| B | B : ja liggen ja die zijn zeggen maar net iets klein dan dat rond ding zelf
+	Free: Pattern=dat, Pattern=ding, Pattern=die, Pattern=klein, Pattern=rond, Pattern=zijn, Pattern=iets, Pattern=ja
+	Constrained: 
+Turn ID=5| A | A : ok en zijn het ding wat aan de voorkant zijn het steken er wel aan allebei de kant een klein beetje iets uit
+	Free: Pattern=zijn het, Pattern=aan de, Pattern=beetje, Pattern=ding, Pattern=ok, Pattern=er, Pattern=klein, Pattern=en, Pattern=de, Pattern=aan, Pattern=iets, Pattern=een, Pattern=wel
+	Constrained: Pattern=de, Pattern=zijn, Pattern=het, Pattern=aan
+Turn ID=6| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=7| A | A : en hij zijn wel echt heel compact toch
+	Free: Pattern=hij zijn, Pattern=heel compact, Pattern=wel, Pattern=en
+	Constrained: Pattern=zijn, Pattern=compact, Pattern=heel, Pattern=hij
+Turn ID=8| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=9| A | A : ok dat zijn acht
+	Free: Pattern=dat zijn, Pattern=ok
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=10| A | A : o ja ik haaten dit ding er zitten een balk bovenop het kop en er zitten zo'n V aan de voorkant
+	Free: Pattern=een balk bovenop, Pattern=ja, Pattern=aan de, Pattern=het, Pattern=dit, Pattern=er zitten, Pattern=en er zitten, Pattern=ding
+	Constrained: Pattern=bovenop, Pattern=een, Pattern=balk, Pattern=zitten, Pattern=er zitten, Pattern=er, Pattern=en, Pattern=een balk, Pattern=de, Pattern=aan
+Turn ID=11| A | A : aan de zijkant hebben hij een soort vin of zo die ook een beetje rond lopen
+	Free: Pattern=hebben hij, Pattern=soort, Pattern=aan de, Pattern=een, Pattern=die, Pattern=rond, Pattern=een beetje, Pattern=of zo, Pattern=ook een
+	Constrained: Pattern=of, Pattern=beetje, Pattern=een, Pattern=hebben, Pattern=hij, Pattern=de, Pattern=aan
+Turn ID=12| B | B : een balk bovenop
+	Free: Pattern=een balk bovenop
+	Constrained: Pattern=een balk, Pattern=balk, Pattern=bovenop, Pattern=een
+Turn ID=13| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=14| B | B : zijn hij zeggen maar die heel compact of niet ok
+	Free: Pattern=of, Pattern=ok, Pattern=zijn, Pattern=hij, Pattern=die heel compact
+	Constrained: Pattern=heel compact, Pattern=die, Pattern=compact, Pattern=heel
+Turn ID=15| A | A : ja ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=16| B | B : zeggen maar die balk erop en aan de linkerkant hebben hij zoiets en aan de rechterkant en er zitten nog een staaf op
+	Free: Pattern=hebben hij, Pattern=die balk, Pattern=en er zitten, Pattern=een, Pattern=en, Pattern=op, Pattern=aan de
+	Constrained: Pattern=hebben, Pattern=hij, Pattern=balk, Pattern=er zitten, Pattern=er, Pattern=en, Pattern=de, Pattern=aan, Pattern=die, Pattern=zitten
+Turn ID=17| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=18| B | B : okan dan zijn het E
+	Free: Pattern=zijn het
+	Constrained: Pattern=zijn, Pattern=het
+Turn ID=19| B | B : okan ja dit zijn die compact met dat blok bovenop
+	Free: Pattern=dit zijn die, Pattern=ja, Pattern=compact, Pattern=dat, Pattern=bovenop
+	Constrained: Pattern=dit zijn, Pattern=dit, Pattern=zijn, Pattern=die
+Turn ID=20| A | A : ja dat zijn één
+	Free: Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=21| A | A : dit zijn de heel compact
+	Free: Pattern=heel compact, Pattern=dit zijn, Pattern=de
+	Constrained: Pattern=dit, Pattern=zijn, Pattern=compact, Pattern=heel
+Turn ID=22| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=23| B | B : dat zijn E
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=24| B | B : ok dit zijn die compact
+	Free: Pattern=dit zijn die, Pattern=ok, Pattern=compact
+	Constrained: Pattern=dit zijn, Pattern=dit, Pattern=zijn, Pattern=die
+Turn ID=25| A | A : ja dat zijn zestien
+	Free: Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=26| A | A : dit zijn die heel compact
+	Free: Pattern=die heel compact, Pattern=dit zijn die
+	Constrained: Pattern=heel compact, Pattern=heel, Pattern=compact, Pattern=dit, Pattern=die, Pattern=zijn, Pattern=dit zijn

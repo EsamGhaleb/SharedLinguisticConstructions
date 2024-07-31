@@ -1,0 +1,127 @@
+B|0| B: _oké_ 
+B|1| B: _het_ _zijn_ _het_ _bak_ _en_ hij hebben weer _zo'n_ _neus_ _aan de_ voorkant niet _op_ _de_ _op_ _zijn_ hoofd maar 
+A|2| A: _ook_ [zo'n] _bolle_ 
+B|3| B: _ja_ 
+B|4| B: _een_ [bolle] _aan de_ voorkant 
+B|5| B: _en het_ zullen [ook] kunnen _lijken op_ _zeggen_ maar _een_ _een bak_ waar _twee tandenborstel_ in staan 
+B|6| B: _en_ _de_ _een_ _zijn een_ _zijn een_ beetje artistiek vormen _en_ _de_ ander _zijn_ gewoon _een_ gewoon _een_ balk 
+B|7| B: _en_ _aan de_ linkerkant _zitten_ _een_ driehoekig staaf 
+A|8| A: uitsteeksel 
+A|9| A: [ja] 
+A|10| A: [oké] 
+A|11| A: nummer veertien 
+A|12| A: dit [lijken op] dat [bak] _met_ [twee tandenborstel] wat jij [zeggen] er [zitten] [zo'n] [bolle] voor nog 
+B|13| B: [ja] 
+A|14| A: [en] dat stok [aan de] zijkant 
+B|15| B: letter N 
+B|16| B: [tandenborstel] in _het_ glaas [met] _het neus_ [aan de] voorkant _en het_ armp 
+A|17| A: yes 
+A|18| A: nummer negen 
+A|19| A: dit [zijn [een] bak] [met] [de] [twee tandenborstel] 
+A|20| A: [en [het] neus] ervoor 
+B|21| B: [ja] 
+B|22| B: letter G 
+B|23| B: [tandenborstel] in [het] glaas [met] [het neus] [en het] armp 
+A|24| A: yes 
+A|25| A: nummer vijf 
+A|26| A: [bak] [met] [tandenborstel] 
+A|27| A: [en [het] neus] 
+B|28| B: even zoeken hoor 
+B|29| B: [ja] 
+B|30| B: letter J 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=1| B | B : het zijn het bak en hij hebben weer zo'n neus aan de voorkant niet op de op zijn hoofd maar
+	Free: Pattern=zo'n, Pattern=de, Pattern=neus, Pattern=en, Pattern=zijn, Pattern=op, Pattern=aan de, Pattern=bak, Pattern=het
+	Constrained: Pattern=de
+Turn ID=2| A | A : ook zo'n bolle
+	Free: Pattern=ook, Pattern=zo'n, Pattern=bolle
+	Constrained: 
+Turn ID=3| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=4| B | B : een bolle aan de voorkant
+	Free: Pattern=aan de, Pattern=een, Pattern=bolle
+	Constrained: Pattern=de
+Turn ID=5| B | B : en het zullen ook kunnen lijken op zeggen maar een een bak waar twee tandenborstel in staan
+	Free: Pattern=lijken op, Pattern=een, Pattern=zeggen, Pattern=een bak, Pattern=twee tandenborstel, Pattern=en het, Pattern=ook
+	Constrained: Pattern=tandenborstel, Pattern=op, Pattern=een, Pattern=en, Pattern=bak, Pattern=het
+Turn ID=6| B | B : en de een zijn een zijn een beetje artistiek vormen en de ander zijn gewoon een gewoon een balk
+	Free: Pattern=de, Pattern=zijn een, Pattern=een, Pattern=en, Pattern=zijn
+	Constrained: Pattern=een, Pattern=zijn
+Turn ID=7| B | B : en aan de linkerkant zitten een driehoekig staaf
+	Free: Pattern=aan de, Pattern=een, Pattern=en, Pattern=zitten
+	Constrained: Pattern=de
+Turn ID=8| A | A : uitsteeksel
+	Free: 
+	Constrained: 
+Turn ID=9| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=10| A | A : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=11| A | A : nummer veertien
+	Free: 
+	Constrained: 
+Turn ID=12| A | A : dit lijken op dat bak met twee tandenborstel wat jij zeggen er zitten zo'n bolle voor nog
+	Free: Pattern=zo'n, Pattern=lijken op, Pattern=bak, Pattern=zeggen, Pattern=zitten, Pattern=twee tandenborstel, Pattern=bolle, Pattern=met
+	Constrained: Pattern=tandenborstel, Pattern=op
+Turn ID=13| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=14| A | A : en dat stok aan de zijkant
+	Free: Pattern=aan de, Pattern=en
+	Constrained: Pattern=de
+Turn ID=15| B | B : letter N
+	Free: 
+	Constrained: 
+Turn ID=16| B | B : tandenborstel in het glaas met het neus aan de voorkant en het armp
+	Free: Pattern=tandenborstel, Pattern=het, Pattern=het neus, Pattern=met, Pattern=aan de, Pattern=en het
+	Constrained: Pattern=en, Pattern=neus, Pattern=het, Pattern=de
+Turn ID=17| A | A : yes
+	Free: 
+	Constrained: 
+Turn ID=18| A | A : nummer negen
+	Free: 
+	Constrained: 
+Turn ID=19| A | A : dit zijn een bak met de twee tandenborstel
+	Free: Pattern=de, Pattern=zijn een, Pattern=met, Pattern=een bak, Pattern=twee tandenborstel
+	Constrained: Pattern=een, Pattern=tandenborstel, Pattern=zijn, Pattern=bak
+Turn ID=20| A | A : en het neus ervoor
+	Free: Pattern=het neus, Pattern=en het
+	Constrained: Pattern=en, Pattern=neus, Pattern=het
+Turn ID=21| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=22| B | B : letter G
+	Free: 
+	Constrained: 
+Turn ID=23| B | B : tandenborstel in het glaas met het neus en het armp
+	Free: Pattern=tandenborstel, Pattern=en het, Pattern=het, Pattern=het neus, Pattern=met
+	Constrained: Pattern=en, Pattern=neus, Pattern=het
+Turn ID=24| A | A : yes
+	Free: 
+	Constrained: 
+Turn ID=25| A | A : nummer vijf
+	Free: 
+	Constrained: 
+Turn ID=26| A | A : bak met tandenborstel
+	Free: Pattern=tandenborstel, Pattern=met, Pattern=bak
+	Constrained: 
+Turn ID=27| A | A : en het neus
+	Free: Pattern=het neus, Pattern=en het
+	Constrained: Pattern=en, Pattern=neus, Pattern=het
+Turn ID=28| B | B : even zoeken hoor
+	Free: 
+	Constrained: 
+Turn ID=29| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=30| B | B : letter J
+	Free: 
+	Constrained: 

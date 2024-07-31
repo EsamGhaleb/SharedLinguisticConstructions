@@ -1,0 +1,91 @@
+B|0| B: _ja_ _ik_ _vinden_ het _ik_ wat het _zijn_ 
+B|1| B: er zitten _aan de_ linkerkant _twee_ van _die_ blok _die_ of steeds groot worden of steeds klein worden afhankelijk van hoe je het zien 
+B|2| B: _en een_ groot _vierkant_ plaat _aan de_ voorkant _en een antenne_ 
+A|3| A: [ja] [een] soort verrekijker 
+A|4| A: [ja] [vinden] [ik] wel 
+A|5| A: [ja] dat [zijn] nummer [twee] 
+B|6| B: _die_ klein worden 
+B|7| B: [ja] precies 
+B|8| B: G 
+B|9| B: dit [zijn] _weer met die_ _antenne bovenop_ _en_ _die_ _vierkant_ plaat ervoor _en_ dan _de_ _vierkant_ _die_ groot worden 
+A|10| A: [ik] hebben nu [die] [weer met die] verrekijkert [vierkant] [aan de] zijkant _en een antenne bovenop_ 
+B|11| B: oké 
+B|12| B: D 
+A|13| A: [ja] nummer negen 
+B|14| B: dit [zijn] [weer met die] [die] klein worden blok helemaal link 
+B|15| B: [twee] 
+B|16| B: [en] dan zo'n [vierkant] plaat voor [en een antenne bovenop] 
+A|17| A: [ik] hebben [die] [met] [twee] verrekijker [vierkant] [aan de] zijkant Antenne erbovenop 
+B|18| B: [ja] 
+B|19| B: B 
+A|20| A: nummer één 
+A|21| A: [ik] hebben [die] [met] verrekijker 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : ja ik vinden het ik wat het zijn
+	Free: Pattern=vinden, Pattern=ja, Pattern=zijn, Pattern=ik
+	Constrained: 
+Turn ID=1| B | B : er zitten aan de linkerkant twee van die blok die of steeds groot worden of steeds klein worden afhankelijk van hoe je het zien
+	Free: Pattern=aan de, Pattern=die, Pattern=twee
+	Constrained: Pattern=de
+Turn ID=2| B | B : en een groot vierkant plaat aan de voorkant en een antenne
+	Free: Pattern=en een antenne, Pattern=aan de, Pattern=en een, Pattern=vierkant
+	Constrained: Pattern=een, Pattern=de, Pattern=en, Pattern=en een
+Turn ID=3| A | A : ja een soort verrekijker
+	Free: Pattern=ja, Pattern=een
+	Constrained: 
+Turn ID=4| A | A : ja vinden ik wel
+	Free: Pattern=vinden, Pattern=ja, Pattern=ik
+	Constrained: 
+Turn ID=5| A | A : ja dat zijn nummer twee
+	Free: Pattern=ja, Pattern=zijn, Pattern=twee
+	Constrained: 
+Turn ID=6| B | B : die klein worden
+	Free: Pattern=die
+	Constrained: 
+Turn ID=7| B | B : ja precies
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=8| B | B : G
+	Free: 
+	Constrained: 
+Turn ID=9| B | B : dit zijn weer met die antenne bovenop en die vierkant plaat ervoor en dan de vierkant die groot worden
+	Free: Pattern=de, Pattern=die, Pattern=en, Pattern=zijn, Pattern=vierkant, Pattern=antenne bovenop, Pattern=weer met die
+	Constrained: Pattern=met, Pattern=die
+Turn ID=10| A | A : ik hebben nu die weer met die verrekijkert vierkant aan de zijkant en een antenne bovenop
+	Free: Pattern=weer met die, Pattern=aan de, Pattern=die, Pattern=ik, Pattern=vierkant, Pattern=en een antenne bovenop
+	Constrained: Pattern=de, Pattern=antenne bovenop, Pattern=een, Pattern=en een antenne, Pattern=met, Pattern=die, Pattern=en, Pattern=en een
+Turn ID=11| B | B : oké
+	Free: 
+	Constrained: 
+Turn ID=12| B | B : D
+	Free: 
+	Constrained: 
+Turn ID=13| A | A : ja nummer negen
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=14| B | B : dit zijn weer met die die klein worden blok helemaal link
+	Free: Pattern=weer met die, Pattern=zijn, Pattern=die
+	Constrained: Pattern=met, Pattern=die
+Turn ID=15| B | B : twee
+	Free: Pattern=twee
+	Constrained: 
+Turn ID=16| B | B : en dan zo'n vierkant plaat voor en een antenne bovenop
+	Free: Pattern=en een antenne bovenop, Pattern=vierkant, Pattern=en
+	Constrained: Pattern=antenne bovenop, Pattern=een, Pattern=en een antenne, Pattern=en, Pattern=en een
+Turn ID=17| A | A : ik hebben die met twee verrekijker vierkant aan de zijkant Antenne erbovenop
+	Free: Pattern=twee, Pattern=aan de, Pattern=met, Pattern=die, Pattern=ik, Pattern=vierkant
+	Constrained: Pattern=de
+Turn ID=18| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=19| B | B : B
+	Free: 
+	Constrained: 
+Turn ID=20| A | A : nummer één
+	Free: 
+	Constrained: 
+Turn ID=21| A | A : ik hebben die met verrekijker
+	Free: Pattern=met, Pattern=ik, Pattern=die
+	Constrained: 

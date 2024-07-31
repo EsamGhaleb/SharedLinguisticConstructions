@@ -1,0 +1,115 @@
+B|0| B: _een_ feesthoed 
+B|1| B: even zoeken 
+B|2| B: _ja_ ik _hebben_ hem m 
+B|3| B: _deze hebben_ _het_ groot _driehoek_ bovenop _en een kogel_ links 
+A|4| A: _deze hebben een driehoek_ of [een] pyramidevorm op _zijn hoofd_ 
+A|5| A: [en een] aan _de_ zijkant [een] soort [ja] je zullen [het] ook [een kogel] kunnen noemen 
+A|6| A: [en een] apart vormig neus 
+A|7| A: wauw 
+A|8| A: [ja] 
+A|9| A: [ja] 
+B|10| B: m 
+B|11| B: [deze hebben een driehoek] bovenop _zijn hoofd en een kogel_ links 
+A|12| A: [ja] 
+A|13| A: [ja] 
+A|14| A: nou 
+A|15| A: [ja] elf 
+B|16| B: J 
+B|17| B: [de] feesthoed [en] [de] [kogel] 
+A|18| A: [deze hebben een] pyramide op [zijn hoofd en een kogel] tegen [zijn] schedel aan link oor 
+A|19| A: [ja] 
+A|20| A: [ja] maar waar [zijn] die 
+A|21| A: [ja] veertien 
+A|22| A: pyramide 
+A|23| A: [kogel] 
+A|24| A: pyramide 
+A|25| A: [ja] 
+A|26| A: [ja] punthoed [zijn] ook goed 
+A|27| A: dertien 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : een feesthoed
+	Free: Pattern=een
+	Constrained: 
+Turn ID=1| B | B : even zoeken
+	Free: 
+	Constrained: 
+Turn ID=2| B | B : ja ik hebben hem m
+	Free: Pattern=ja, Pattern=hebben
+	Constrained: 
+Turn ID=3| B | B : deze hebben het groot driehoek bovenop en een kogel links
+	Free: Pattern=en een kogel, Pattern=deze hebben, Pattern=het, Pattern=driehoek
+	Constrained: Pattern=een kogel, Pattern=een, Pattern=hebben, Pattern=kogel, Pattern=en, Pattern=en een
+Turn ID=4| A | A : deze hebben een driehoek of een pyramidevorm op zijn hoofd
+	Free: Pattern=deze hebben een driehoek, Pattern=zijn hoofd, Pattern=een
+	Constrained: Pattern=driehoek, Pattern=deze hebben een, Pattern=een, Pattern=hebben, Pattern=deze hebben, Pattern=zijn
+Turn ID=5| A | A : en een aan de zijkant een soort ja je zullen het ook een kogel kunnen noemen
+	Free: Pattern=een, Pattern=het, Pattern=en een, Pattern=een kogel, Pattern=de, Pattern=ja
+	Constrained: Pattern=een, Pattern=kogel, Pattern=en
+Turn ID=6| A | A : en een apart vormig neus
+	Free: Pattern=en een
+	Constrained: Pattern=een, Pattern=en
+Turn ID=7| A | A : wauw
+	Free: 
+	Constrained: 
+Turn ID=8| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=9| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=10| B | B : m
+	Free: 
+	Constrained: 
+Turn ID=11| B | B : deze hebben een driehoek bovenop zijn hoofd en een kogel links
+	Free: Pattern=zijn hoofd en een kogel, Pattern=deze hebben een driehoek
+	Constrained: Pattern=driehoek, Pattern=zijn hoofd, Pattern=een kogel, Pattern=en een kogel, Pattern=deze hebben een, Pattern=een, Pattern=hebben, Pattern=deze hebben, Pattern=kogel, Pattern=en, Pattern=en een, Pattern=zijn
+Turn ID=12| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=13| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=14| A | A : nou
+	Free: 
+	Constrained: 
+Turn ID=15| A | A : ja elf
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=16| B | B : J
+	Free: 
+	Constrained: 
+Turn ID=17| B | B : de feesthoed en de kogel
+	Free: Pattern=kogel, Pattern=en, Pattern=de
+	Constrained: 
+Turn ID=18| A | A : deze hebben een pyramide op zijn hoofd en een kogel tegen zijn schedel aan link oor
+	Free: Pattern=zijn hoofd en een kogel, Pattern=deze hebben een, Pattern=zijn
+	Constrained: Pattern=zijn hoofd, Pattern=een kogel, Pattern=en een kogel, Pattern=een, Pattern=hebben, Pattern=deze hebben, Pattern=kogel, Pattern=en, Pattern=en een, Pattern=zijn
+Turn ID=19| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=20| A | A : ja maar waar zijn die
+	Free: Pattern=ja, Pattern=zijn
+	Constrained: 
+Turn ID=21| A | A : ja veertien
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=22| A | A : pyramide
+	Free: 
+	Constrained: 
+Turn ID=23| A | A : kogel
+	Free: Pattern=kogel
+	Constrained: 
+Turn ID=24| A | A : pyramide
+	Free: 
+	Constrained: 
+Turn ID=25| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=26| A | A : ja punthoed zijn ook goed
+	Free: Pattern=ja, Pattern=zijn
+	Constrained: 
+Turn ID=27| A | A : dertien
+	Free: 
+	Constrained: 

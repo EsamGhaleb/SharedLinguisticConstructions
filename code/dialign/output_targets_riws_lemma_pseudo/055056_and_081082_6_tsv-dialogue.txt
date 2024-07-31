@@ -1,0 +1,115 @@
+A|0| A: _zo_ 
+A|1| A: oké _dan_ mogen _ik_ gaan omschrijven 
+A|2| A: nou _het zijn_ wel mooi _dat_ we allebei in koffie _en_ theebeker denken 
+A|3| A: er _zijn_ een een lepeltje _dat_ mooit schuin afhangen 
+A|4| A: _en_ aan _de_ zijkant zitten een bol 
+A|5| A: _en_ door _die_ bol heen zitten een staaf met een soort zuignap aan _de_ rechterkant 
+A|6| A: oké 
+B|7| B: _ja_ [dan] weten [ik] al welk [het zijn] _ja_ 
+B|8| B: [en] hebben [die] ook [zo] zo'n haar op [de] achterkant [en] 
+B|9| B: _ja_ 
+B|10| B: _ja_ _ja_ _ja_ _ja_ _ja_ 
+B|11| B: [dan] [zijn] [dat] bij mij F 
+B|12| B: [de] neus neuspiercing 
+B|13| B: _even kijken_ _dat zijn_ A 
+A|14| A: [ja] 
+A|15| A: [ja] [dat zijn] duidelijk [dat zijn] nummer vijf 
+B|16| B: dit [zijn] [de] neuspiercing 
+B|17| B: [de] neuspiercing waar [zijn] je 
+B|18| B: H 
+A|19| A: ei aan [de] voorkant met spijker [dan] wel zuignap 
+B|20| B: [de] neuspiercing 
+A|21| A: een lepeltje 
+A|22| A: lepeltje bovenkant 
+A|23| A: nummer vijf 
+A|24| A: ei aan [de] voorkant met spijker [en] zuignap erdoorheen 
+A|25| A: lepel aan [de] bovenkant 
+A|26| A: [even kijken] check 
+A|27| A: [dat zijn] nummer vijftien 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : zo
+	Free: Pattern=zo
+	Constrained: 
+Turn ID=1| A | A : oké dan mogen ik gaan omschrijven
+	Free: Pattern=dan, Pattern=ik
+	Constrained: 
+Turn ID=2| A | A : nou het zijn wel mooi dat we allebei in koffie en theebeker denken
+	Free: Pattern=het zijn, Pattern=dat, Pattern=en
+	Constrained: Pattern=zijn
+Turn ID=3| A | A : er zijn een een lepeltje dat mooit schuin afhangen
+	Free: Pattern=dat, Pattern=zijn
+	Constrained: 
+Turn ID=4| A | A : en aan de zijkant zitten een bol
+	Free: Pattern=de, Pattern=en
+	Constrained: 
+Turn ID=5| A | A : en door die bol heen zitten een staaf met een soort zuignap aan de rechterkant
+	Free: Pattern=die, Pattern=de, Pattern=en
+	Constrained: 
+Turn ID=6| A | A : oké
+	Free: 
+	Constrained: 
+Turn ID=7| B | B : ja dan weten ik al welk het zijn ja
+	Free: Pattern=het zijn, Pattern=dan, Pattern=ja, Pattern=ik
+	Constrained: Pattern=zijn
+Turn ID=8| B | B : en hebben die ook zo zo'n haar op de achterkant en
+	Free: Pattern=die, Pattern=zo, Pattern=de, Pattern=en
+	Constrained: 
+Turn ID=9| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=10| B | B : ja ja ja ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=11| B | B : dan zijn dat bij mij F
+	Free: Pattern=dat, Pattern=dan, Pattern=zijn
+	Constrained: 
+Turn ID=12| B | B : de neus neuspiercing
+	Free: Pattern=de
+	Constrained: 
+Turn ID=13| B | B : even kijken dat zijn A
+	Free: Pattern=even kijken, Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=14| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=15| A | A : ja dat zijn duidelijk dat zijn nummer vijf
+	Free: Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=16| B | B : dit zijn de neuspiercing
+	Free: Pattern=zijn, Pattern=de
+	Constrained: 
+Turn ID=17| B | B : de neuspiercing waar zijn je
+	Free: Pattern=zijn, Pattern=de
+	Constrained: 
+Turn ID=18| B | B : H
+	Free: 
+	Constrained: 
+Turn ID=19| A | A : ei aan de voorkant met spijker dan wel zuignap
+	Free: Pattern=dan, Pattern=de
+	Constrained: 
+Turn ID=20| B | B : de neuspiercing
+	Free: Pattern=de
+	Constrained: 
+Turn ID=21| A | A : een lepeltje
+	Free: 
+	Constrained: 
+Turn ID=22| A | A : lepeltje bovenkant
+	Free: 
+	Constrained: 
+Turn ID=23| A | A : nummer vijf
+	Free: 
+	Constrained: 
+Turn ID=24| A | A : ei aan de voorkant met spijker en zuignap erdoorheen
+	Free: Pattern=de, Pattern=en
+	Constrained: 
+Turn ID=25| A | A : lepel aan de bovenkant
+	Free: Pattern=de
+	Constrained: 
+Turn ID=26| A | A : even kijken check
+	Free: Pattern=even kijken
+	Constrained: 
+Turn ID=27| A | A : dat zijn nummer vijftien
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn

@@ -1,0 +1,119 @@
+B|0| B: _ja_ _een soort_ van kogel of niet 
+B|1| B: _ja_ _ja_ _die_ vinden ik ook echt _heel raar_ 
+B|2| B: _ja dat zijn_ J bij mij 
+A|3| A: deze hebben [een] _piramide op_ _het_ dak 
+A|4| A: _en een_ [heel raar] blok _aan de_ voorkant 
+A|5| A: _en die_ [zijn] nog [een soort] champagnefle _aan de zijkant_ 
+B|6| B: weer _met_ _dat_ [soort] van _piramide op zijn_ hoofd [en die] [soort] van kogel [aan de zijkant] 
+B|7| B: _ja_ 
+B|8| B: _ja_ [en een] gek hoek 
+A|9| A: [ja] 
+A|10| A: [dat zijn] nummer zes 
+B|11| B: right 
+B|12| B: [ja] 
+B|13| B: [ja] dinge 
+B|14| B: [dat zijn] E bij mij 
+A|15| A: [met] _die piramide op zijn_ dak [en die] Champagnefles 
+B|16| B: top 
+B|17| B: [het] [zijn] weer [die piramide op zijn] hoofd [en] dan [een soort] van kogelachtig [aan de zijkant] 
+A|18| A: [ja] 
+A|19| A: [ja dat zijn] nummer tien 
+B|20| B: [ja dat zijn] G 
+B|21| B: nice 
+B|22| B: ik weten ook gelijk wat je bedoelen toen je [piramide] zeggen 
+B|23| B: nee klopt 
+A|24| A: [de] [piramide] [met] [de] Champagnefles 
+B|25| B: ander plek 
+B|26| B: [piramide op zijn] hoofd 
+B|27| B: [en] [de] kogel [aan de zijkant] 
+A|28| A: tien 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : ja een soort van kogel of niet
+	Free: Pattern=een soort, Pattern=ja
+	Constrained: Pattern=een, Pattern=soort
+Turn ID=1| B | B : ja ja die vinden ik ook echt heel raar
+	Free: Pattern=heel raar, Pattern=die, Pattern=ja
+	Constrained: 
+Turn ID=2| B | B : ja dat zijn J bij mij
+	Free: Pattern=ja dat zijn
+	Constrained: Pattern=dat zijn, Pattern=ja, Pattern=dat, Pattern=zijn
+Turn ID=3| A | A : deze hebben een piramide op het dak
+	Free: Pattern=piramide op, Pattern=het, Pattern=een
+	Constrained: Pattern=piramide
+Turn ID=4| A | A : en een heel raar blok aan de voorkant
+	Free: Pattern=heel raar, Pattern=en een, Pattern=aan de
+	Constrained: Pattern=en, Pattern=een, Pattern=de
+Turn ID=5| A | A : en die zijn nog een soort champagnefle aan de zijkant
+	Free: Pattern=aan de zijkant, Pattern=een soort, Pattern=en die, Pattern=zijn
+	Constrained: Pattern=soort, Pattern=de, Pattern=aan de, Pattern=een, Pattern=die, Pattern=en
+Turn ID=6| B | B : weer met dat soort van piramide op zijn hoofd en die soort van kogel aan de zijkant
+	Free: Pattern=en die, Pattern=dat, Pattern=soort, Pattern=aan de zijkant, Pattern=piramide op zijn, Pattern=met
+	Constrained: Pattern=de, Pattern=die, Pattern=piramide op, Pattern=en, Pattern=zijn, Pattern=piramide, Pattern=aan de
+Turn ID=7| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=8| B | B : ja en een gek hoek
+	Free: Pattern=en een, Pattern=ja
+	Constrained: Pattern=en, Pattern=een
+Turn ID=9| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=10| A | A : dat zijn nummer zes
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=11| B | B : right
+	Free: 
+	Constrained: 
+Turn ID=12| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=13| B | B : ja dinge
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=14| B | B : dat zijn E bij mij
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=15| A | A : met die piramide op zijn dak en die Champagnefles
+	Free: Pattern=die piramide op zijn, Pattern=en die, Pattern=met
+	Constrained: Pattern=piramide, Pattern=piramide op zijn, Pattern=die, Pattern=piramide op, Pattern=en, Pattern=zijn
+Turn ID=16| B | B : top
+	Free: 
+	Constrained: 
+Turn ID=17| B | B : het zijn weer die piramide op zijn hoofd en dan een soort van kogelachtig aan de zijkant
+	Free: Pattern=aan de zijkant, Pattern=het, Pattern=een soort, Pattern=en, Pattern=zijn, Pattern=die piramide op zijn
+	Constrained: Pattern=soort, Pattern=de, Pattern=een, Pattern=piramide op zijn, Pattern=die, Pattern=piramide op, Pattern=zijn, Pattern=piramide, Pattern=aan de
+Turn ID=18| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=19| A | A : ja dat zijn nummer tien
+	Free: Pattern=ja dat zijn
+	Constrained: Pattern=dat zijn, Pattern=ja, Pattern=dat, Pattern=zijn
+Turn ID=20| B | B : ja dat zijn G
+	Free: Pattern=ja dat zijn
+	Constrained: Pattern=dat zijn, Pattern=ja, Pattern=dat, Pattern=zijn
+Turn ID=21| B | B : nice
+	Free: 
+	Constrained: 
+Turn ID=22| B | B : ik weten ook gelijk wat je bedoelen toen je piramide zeggen
+	Free: Pattern=piramide
+	Constrained: 
+Turn ID=23| B | B : nee klopt
+	Free: 
+	Constrained: 
+Turn ID=24| A | A : de piramide met de Champagnefles
+	Free: Pattern=de, Pattern=met, Pattern=piramide
+	Constrained: 
+Turn ID=25| B | B : ander plek
+	Free: 
+	Constrained: 
+Turn ID=26| B | B : piramide op zijn hoofd
+	Free: Pattern=piramide op zijn
+	Constrained: Pattern=piramide, Pattern=zijn, Pattern=piramide op
+Turn ID=27| B | B : en de kogel aan de zijkant
+	Free: Pattern=aan de zijkant, Pattern=en, Pattern=de
+	Constrained: Pattern=aan de, Pattern=de
+Turn ID=28| A | A : tien
+	Free: 
+	Constrained: 

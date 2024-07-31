@@ -1,0 +1,127 @@
+B|0| B: _een_ soort van 
+B|1| B: _een_ helling _zijn_ het 
+B|2| B: _ja_ 
+B|3| B: m 
+A|4| A: oké dit [zijn] diegene met [een] _half_ [ja] zo noemen _ik_ _half_ kegel erbovenop 
+A|5| A: _en_ _zo'n_ gek dinge in _de aan de_ zijkant dat uitsteken 
+A|6| A: [ja] _precies_ 
+A|7| A: _en_ links _dan_ nog _zo'n_ schijf klein rond schijf 
+B|8| B: [ik] hebben bovenop hebben je _die half_ pyramide 
+B|9| B: [en] [dan] rechtsvoor zitten [zo'n] [zo'n] [zo'n] helling 
+B|10| B: onderaan zitten [een] soort van balle of [ik] weten niet [precies] wat het [zijn] 
+B|11| B: [en] [aan de] linkerkant zitten [een] [een] soort [een] kogel lijken het wel [ja] [en] steeds bred van 
+A|12| A: _ja _ja ja_ ja_ 
+A|13| A: _ja ja ja_ dat [zijn] elf 
+B|14| B: [ja] 
+B|15| B: J 
+B|16| B: [ik] hebben [de] [de] [half] pyramide bovenop 
+B|17| B: [en] [dan] [de] [de] kogel [aan de] linkerkant 
+B|18| B: [en] [de aan de] rechtsvoor zitten [zo'n] soort van [een] [een] sloop laten maar zeggen 
+A|19| A: [ja] dit [zijn] weer met [die half] kegel _aan de bovenkant en_ dat gek blok [aan de] rechterkant 
+B|20| B: [ja ja _ja] waar_ zitten [die] 
+B|21| B: [zijn] [die] 
+A|22| A: [ja waar] [zijn] hij 
+A|23| A: [ja] oké 
+A|24| A: [een] 
+B|25| B: [de] [half] pyramide [aan de bovenkant en] [dan] [de] kogel [aan de] linkerkant 
+A|26| A: dit [zijn] weer met [die] kegel erboven , [half] kegel erboven , [en] dat gek blok in [de] rechterkant 
+A|27| A: [ja] groot balk [aan de] voorkant 
+A|28| A: zoeken [waar] [zijn] hij 
+A|29| A: [ja ja] [aan de] rechterkant toch 
+A|30| A: [ja] oké drie 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : een soort van
+	Free: Pattern=een
+	Constrained: 
+Turn ID=1| B | B : een helling zijn het
+	Free: Pattern=zijn, Pattern=een
+	Constrained: 
+Turn ID=2| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=3| B | B : m
+	Free: 
+	Constrained: 
+Turn ID=4| A | A : oké dit zijn diegene met een half ja zo noemen ik half kegel erbovenop
+	Free: Pattern=ja, Pattern=een, Pattern=ik, Pattern=zijn, Pattern=half
+	Constrained: 
+Turn ID=5| A | A : en zo'n gek dinge in de aan de zijkant dat uitsteken
+	Free: Pattern=de aan de, Pattern=zo'n, Pattern=en
+	Constrained: Pattern=aan de, Pattern=de
+Turn ID=6| A | A : ja precies
+	Free: Pattern=precies, Pattern=ja
+	Constrained: 
+Turn ID=7| A | A : en links dan nog zo'n schijf klein rond schijf
+	Free: Pattern=zo'n, Pattern=dan, Pattern=en
+	Constrained: 
+Turn ID=8| B | B : ik hebben bovenop hebben je die half pyramide
+	Free: Pattern=die half, Pattern=ik
+	Constrained: Pattern=half, Pattern=die
+Turn ID=9| B | B : en dan rechtsvoor zitten zo'n zo'n zo'n helling
+	Free: Pattern=zo'n, Pattern=dan, Pattern=en
+	Constrained: 
+Turn ID=10| B | B : onderaan zitten een soort van balle of ik weten niet precies wat het zijn
+	Free: Pattern=ik, Pattern=zijn, Pattern=een, Pattern=precies
+	Constrained: 
+Turn ID=11| B | B : en aan de linkerkant zitten een een soort een kogel lijken het wel ja en steeds bred van
+	Free: Pattern=aan de, Pattern=en, Pattern=een, Pattern=ja
+	Constrained: Pattern=de
+Turn ID=12| A | A : ja ja ja ja
+	Free: Pattern=ja ja ja
+	Constrained: Pattern=ja ja, Pattern=ja
+Turn ID=13| A | A : ja ja ja dat zijn elf
+	Free: Pattern=ja ja ja, Pattern=zijn
+	Constrained: Pattern=ja ja, Pattern=ja
+Turn ID=14| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=15| B | B : J
+	Free: 
+	Constrained: 
+Turn ID=16| B | B : ik hebben de de half pyramide bovenop
+	Free: Pattern=de, Pattern=ik, Pattern=half
+	Constrained: 
+Turn ID=17| B | B : en dan de de kogel aan de linkerkant
+	Free: Pattern=aan de, Pattern=de, Pattern=dan, Pattern=en
+	Constrained: Pattern=de
+Turn ID=18| B | B : en de aan de rechtsvoor zitten zo'n soort van een een sloop laten maar zeggen
+	Free: Pattern=de aan de, Pattern=zo'n, Pattern=en, Pattern=een
+	Constrained: Pattern=aan de, Pattern=de
+Turn ID=19| A | A : ja dit zijn weer met die half kegel aan de bovenkant en dat gek blok aan de rechterkant
+	Free: Pattern=ja, Pattern=die half, Pattern=aan de, Pattern=zijn, Pattern=aan de bovenkant en
+	Constrained: Pattern=de, Pattern=aan de, Pattern=die, Pattern=en, Pattern=half
+Turn ID=20| B | B : ja ja ja waar zitten die
+	Free: Pattern=ja ja ja, Pattern=ja waar, Pattern=die
+	Constrained: Pattern=ja ja, Pattern=waar, Pattern=ja
+Turn ID=21| B | B : zijn die
+	Free: Pattern=die, Pattern=zijn
+	Constrained: 
+Turn ID=22| A | A : ja waar zijn hij
+	Free: Pattern=ja waar, Pattern=zijn
+	Constrained: Pattern=waar, Pattern=ja
+Turn ID=23| A | A : ja oké
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=24| A | A : een
+	Free: Pattern=een
+	Constrained: 
+Turn ID=25| B | B : de half pyramide aan de bovenkant en dan de kogel aan de linkerkant
+	Free: Pattern=de, Pattern=aan de, Pattern=dan, Pattern=aan de bovenkant en, Pattern=half
+	Constrained: Pattern=de, Pattern=en, Pattern=aan de
+Turn ID=26| A | A : dit zijn weer met die kegel erboven , half kegel erboven , en dat gek blok in de rechterkant
+	Free: Pattern=de, Pattern=die, Pattern=en, Pattern=zijn, Pattern=half
+	Constrained: 
+Turn ID=27| A | A : ja groot balk aan de voorkant
+	Free: Pattern=aan de, Pattern=ja
+	Constrained: Pattern=de
+Turn ID=28| A | A : zoeken waar zijn hij
+	Free: Pattern=waar, Pattern=zijn
+	Constrained: 
+Turn ID=29| A | A : ja ja aan de rechterkant toch
+	Free: Pattern=aan de, Pattern=ja ja
+	Constrained: Pattern=de, Pattern=ja
+Turn ID=30| A | A : ja oké drie
+	Free: Pattern=ja
+	Constrained: 

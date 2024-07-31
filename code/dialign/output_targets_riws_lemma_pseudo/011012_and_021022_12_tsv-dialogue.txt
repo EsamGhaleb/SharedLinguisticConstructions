@@ -1,0 +1,99 @@
+B|0| B: _ja_ _ja_ _en_ dan zitten er nog _een_ _soort_ plateau _bij_ _of zo_ _ja_ _dat zijn_ dan L 
+B|1| B: _ja_ _dit zijn_ eigenlijk diegene waarbij _die_ spijker _in_ _dat_ _uitsteeksel_ gaan _met_ _dat_ plateaut erbij 
+B|2| B: _je_ _hebben_ _zo'n_ _ding_ _en dat_ lijken _zijn_ _zeggen_ maar _een_ _een_ _soort_ pacman _of zo_ _en_ daar gaan _die_ spijker _in_ 
+B|3| B: _ja_ 
+A|4| A: [dit zijn] [zo'n] [soort] [ja] [zo'n] [soort] rond dienblaad [of zo] zullen [je] kunnen [zeggen] _hebben die_ aan de linkerkant 
+A|5| A: [en] aan de rechterkant [zo'n] raar [uitsteeksel] [met] [zo'n] heel groot trompet [of] 
+A|6| A: [ja] zoiets 
+A|7| A: [ja] 
+A|8| A: [en dat] rond [ding] ervoor 
+A|9| A: [dat zijn] [bij] mij nummer zeven 
+B|10| B: [ja] [dat zijn] dan [die] omgekeerd eiffeltoren [dat zijn] dan C 
+A|11| A: [dit zijn] _met die_ rond schijf [en] [die] trompet 
+B|12| B: [ja] [dit zijn] weer [die] pacman [met die] spijker [en dat] plateaut ernaast 
+B|13| B: [die] omgekeerd Eiffeltoren 
+B|14| B: [ja] 
+B|15| B: [ja] hij [hebben die] [die] [die] omgekeerde [die] spijker [of] [die] spijker [of zo] [die] er [die] er _in_ worden slaan [die] piramide Eiffeltoren plateau [ja] [die] 
+B|16| B: [ja] [ja] [dat zijn] A 
+A|17| A: [ja] 
+A|18| A: nummer één [bij] mij 
+B|19| B: [ja] _ik hebben nu die_ [met die] spijker [die] _in_ [die] pacman [of zo] gaan [en] dan [dat] plateaut er nog naast 
+A|20| A: [ik hebben nu die] [een] [met die] trompet staan [bij] mij [een] beetje links [in] het midden 
+A|21| A: [ja] 
+A|22| A: [ja] 
+A|23| A: nummer dertien 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : ja ja en dan zitten er nog een soort plateau bij of zo ja dat zijn dan L
+	Free: Pattern=dat zijn, Pattern=soort, Pattern=of zo, Pattern=ja, Pattern=een, Pattern=bij, Pattern=en
+	Constrained: Pattern=dat, Pattern=zijn, Pattern=of
+Turn ID=1| B | B : ja dit zijn eigenlijk diegene waarbij die spijker in dat uitsteeksel gaan met dat plateaut erbij
+	Free: Pattern=dat, Pattern=ja, Pattern=uitsteeksel, Pattern=in, Pattern=met, Pattern=die, Pattern=dit zijn
+	Constrained: Pattern=zijn
+Turn ID=2| B | B : je hebben zo'n ding en dat lijken zijn zeggen maar een een soort pacman of zo en daar gaan die spijker in
+	Free: Pattern=soort, Pattern=ding, Pattern=een, Pattern=hebben, Pattern=zeggen, Pattern=in, Pattern=die, Pattern=en, Pattern=zijn, Pattern=je, Pattern=en dat, Pattern=zo'n, Pattern=of zo
+	Constrained: Pattern=en, Pattern=dat, Pattern=of
+Turn ID=3| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=4| A | A : dit zijn zo'n soort ja zo'n soort rond dienblaad of zo zullen je kunnen zeggen hebben die aan de linkerkant
+	Free: Pattern=soort, Pattern=ja, Pattern=zeggen, Pattern=je, Pattern=hebben die, Pattern=dit zijn, Pattern=zo'n, Pattern=of zo
+	Constrained: Pattern=zijn, Pattern=die, Pattern=of, Pattern=hebben
+Turn ID=5| A | A : en aan de rechterkant zo'n raar uitsteeksel met zo'n heel groot trompet of
+	Free: Pattern=of, Pattern=zo'n, Pattern=uitsteeksel, Pattern=met, Pattern=en
+	Constrained: 
+Turn ID=6| A | A : ja zoiets
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=7| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=8| A | A : en dat rond ding ervoor
+	Free: Pattern=en dat, Pattern=ding
+	Constrained: Pattern=en, Pattern=dat
+Turn ID=9| A | A : dat zijn bij mij nummer zeven
+	Free: Pattern=dat zijn, Pattern=bij
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=10| B | B : ja dat zijn dan die omgekeerd eiffeltoren dat zijn dan C
+	Free: Pattern=dat zijn, Pattern=ja, Pattern=die
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=11| A | A : dit zijn met die rond schijf en die trompet
+	Free: Pattern=dit zijn, Pattern=met die, Pattern=en, Pattern=die
+	Constrained: Pattern=die, Pattern=zijn, Pattern=met
+Turn ID=12| B | B : ja dit zijn weer die pacman met die spijker en dat plateaut ernaast
+	Free: Pattern=met die, Pattern=ja, Pattern=die, Pattern=dit zijn, Pattern=en dat
+	Constrained: Pattern=dat, Pattern=met, Pattern=die, Pattern=en, Pattern=zijn
+Turn ID=13| B | B : die omgekeerd Eiffeltoren
+	Free: Pattern=die
+	Constrained: 
+Turn ID=14| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=15| B | B : ja hij hebben die die die omgekeerde die spijker of die spijker of zo die er die er in worden slaan die piramide Eiffeltoren plateau ja die
+	Free: Pattern=of, Pattern=of zo, Pattern=ja, Pattern=in, Pattern=die, Pattern=hebben die
+	Constrained: Pattern=hebben, Pattern=die, Pattern=of
+Turn ID=16| B | B : ja ja dat zijn A
+	Free: Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=17| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=18| A | A : nummer één bij mij
+	Free: Pattern=bij
+	Constrained: 
+Turn ID=19| B | B : ja ik hebben nu die met die spijker die in die pacman of zo gaan en dan dat plateaut er nog naast
+	Free: Pattern=of zo, Pattern=ja, Pattern=ik hebben nu die, Pattern=in, Pattern=die, Pattern=en, Pattern=dat, Pattern=met die
+	Constrained: Pattern=met, Pattern=die, Pattern=of, Pattern=hebben
+Turn ID=20| A | A : ik hebben nu die een met die trompet staan bij mij een beetje links in het midden
+	Free: Pattern=met die, Pattern=een, Pattern=ik hebben nu die, Pattern=in, Pattern=bij
+	Constrained: Pattern=met, Pattern=hebben, Pattern=die
+Turn ID=21| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=22| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=23| A | A : nummer dertien
+	Free: 
+	Constrained: 

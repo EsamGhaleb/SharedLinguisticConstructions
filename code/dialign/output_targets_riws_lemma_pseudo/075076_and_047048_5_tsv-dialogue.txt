@@ -1,0 +1,107 @@
+A|0| A: even kijken horen 
+A|1| A: even kijken _de_ kort laat _maar_ zeggen _de_ veel compact 
+A|2| A: _ja_ _met die_ horizontaal _balk_ bovenop 
+A|3| A: _ja dat zijn_ bij mij nummer achten 
+B|4| B: deze _hebben_ een neusvormig neus 
+B|5| B: aan [de] linkerkant 
+B|6| B: [ja] 
+B|7| B: geen vulkaanding 
+B|8| B: een [balk] op [zijn] hoofd 
+B|9| B: [ja] niet niet [die] [met die] driehoek op [zijn] hoofd [maar] [die] 
+B|10| B: [ja] 
+B|11| B: [ja dat zijn] hem 
+A|12| A: ik [hebben] [die] heel compact weer 
+B|13| B: [de] neus [met] [de] [balk] op [zijn] hoofd [ja] E 
+A|14| A: [ja] [zijn] bij mij nummer één 
+B|15| B: dit [zijn] [met] [de] neus en bak boven op [zijn] hoofd 
+B|16| B: en omgekeerd hamer 
+A|17| A: ik [hebben] [die] compact weer 
+B|18| B: [ja] 
+B|19| B: E 
+A|20| A: nummer zestien 
+B|21| B: [de] neus [met] [de] [balk] op [zijn] hoofd 
+B|22| B: en [de] omgekeerd hamer 
+A|23| A: ik [hebben] [die] compact 
+B|24| B: oké 
+B|25| B: O 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : even kijken horen
+	Free: 
+	Constrained: 
+Turn ID=1| A | A : even kijken de kort laat maar zeggen de veel compact
+	Free: Pattern=de, Pattern=maar
+	Constrained: 
+Turn ID=2| A | A : ja met die horizontaal balk bovenop
+	Free: Pattern=met die, Pattern=balk, Pattern=ja
+	Constrained: Pattern=met, Pattern=die
+Turn ID=3| A | A : ja dat zijn bij mij nummer achten
+	Free: Pattern=ja dat zijn
+	Constrained: Pattern=zijn, Pattern=ja
+Turn ID=4| B | B : deze hebben een neusvormig neus
+	Free: Pattern=hebben
+	Constrained: 
+Turn ID=5| B | B : aan de linkerkant
+	Free: Pattern=de
+	Constrained: 
+Turn ID=6| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=7| B | B : geen vulkaanding
+	Free: 
+	Constrained: 
+Turn ID=8| B | B : een balk op zijn hoofd
+	Free: Pattern=balk, Pattern=zijn
+	Constrained: 
+Turn ID=9| B | B : ja niet niet die met die driehoek op zijn hoofd maar die
+	Free: Pattern=met die, Pattern=ja, Pattern=die, Pattern=zijn, Pattern=maar
+	Constrained: Pattern=met, Pattern=die
+Turn ID=10| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=11| B | B : ja dat zijn hem
+	Free: Pattern=ja dat zijn
+	Constrained: Pattern=zijn, Pattern=ja
+Turn ID=12| A | A : ik hebben die heel compact weer
+	Free: Pattern=hebben, Pattern=die
+	Constrained: 
+Turn ID=13| B | B : de neus met de balk op zijn hoofd ja E
+	Free: Pattern=balk, Pattern=met, Pattern=zijn, Pattern=de, Pattern=ja
+	Constrained: 
+Turn ID=14| A | A : ja zijn bij mij nummer één
+	Free: Pattern=zijn, Pattern=ja
+	Constrained: 
+Turn ID=15| B | B : dit zijn met de neus en bak boven op zijn hoofd
+	Free: Pattern=met, Pattern=zijn, Pattern=de
+	Constrained: 
+Turn ID=16| B | B : en omgekeerd hamer
+	Free: 
+	Constrained: 
+Turn ID=17| A | A : ik hebben die compact weer
+	Free: Pattern=hebben, Pattern=die
+	Constrained: 
+Turn ID=18| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=19| B | B : E
+	Free: 
+	Constrained: 
+Turn ID=20| A | A : nummer zestien
+	Free: 
+	Constrained: 
+Turn ID=21| B | B : de neus met de balk op zijn hoofd
+	Free: Pattern=met, Pattern=balk, Pattern=zijn, Pattern=de
+	Constrained: 
+Turn ID=22| B | B : en de omgekeerd hamer
+	Free: Pattern=de
+	Constrained: 
+Turn ID=23| A | A : ik hebben die compact
+	Free: Pattern=hebben, Pattern=die
+	Constrained: 
+Turn ID=24| B | B : oké
+	Free: 
+	Constrained: 
+Turn ID=25| B | B : O
+	Free: 
+	Constrained: 

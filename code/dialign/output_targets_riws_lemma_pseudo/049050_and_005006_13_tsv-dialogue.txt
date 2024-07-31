@@ -1,0 +1,95 @@
+B|0| B: _het_ _zijn_ er zeggen maar één _en_ _die_ hebben twee soort van kralensnoert rechts _en_ link 
+B|1| B: echt _de_ veel typisch _die_ er _zijn_ eigenlijk _en_ dan _rond_ schijf _aan de voorkant_ 
+B|2| B: precies _ja_ 
+A|3| A: [ja] 
+A|4| A: [ja] [die] ruitjesachtig 
+A|5| A: [ja] 
+A|6| A: [ja] _dat_ [zijn] vijf 
+B|7| B: [dat] 
+B|8| B: dienblad 
+B|9| B: [ja] J 
+A|10| A: [ja] dit [zijn] [dat] kop wat volledig _op_ [het] plaat staan vierkant plaat 
+A|11| A: _met_ [ja] [de] ruitsprie [aan de] zijkant [en] [het] [rond] [aan de voorkant] [en] [de] boogjes 
+B|12| B: [het] [zijn] zegmaar _met die_ kralensnoert [op] [dat] dienblad 
+B|13| B: B 
+A|14| A: [ja] 
+A|15| A: [dat] [zijn] elf 
+B|16| B: _met die_ kralending [op] [dat] dienblad 
+B|17| B: L 
+A|18| A: [ja] dit [zijn] diegene [die] [op] [het] plaat staan [met] [de] driehoek diaman 
+A|19| A: [en] [de] [rond] [aan de voorkant] 
+A|20| A: [ja] [ja] 
+A|21| A: [dat] [zijn] negen 
+A|22| A: dit [zijn] [die] [op] [het] [op] [het] plateau [met die] diaman [aan de] achterkant 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : het zijn er zeggen maar één en die hebben twee soort van kralensnoert rechts en link
+	Free: Pattern=zijn, Pattern=en, Pattern=het, Pattern=die
+	Constrained: 
+Turn ID=1| B | B : echt de veel typisch die er zijn eigenlijk en dan rond schijf aan de voorkant
+	Free: Pattern=de, Pattern=die, Pattern=en, Pattern=rond, Pattern=zijn, Pattern=aan de voorkant
+	Constrained: Pattern=aan de, Pattern=de
+Turn ID=2| B | B : precies ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=3| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=4| A | A : ja die ruitjesachtig
+	Free: Pattern=ja, Pattern=die
+	Constrained: 
+Turn ID=5| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=6| A | A : ja dat zijn vijf
+	Free: Pattern=zijn, Pattern=ja, Pattern=dat
+	Constrained: 
+Turn ID=7| B | B : dat
+	Free: Pattern=dat
+	Constrained: 
+Turn ID=8| B | B : dienblad
+	Free: 
+	Constrained: 
+Turn ID=9| B | B : ja J
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=10| A | A : ja dit zijn dat kop wat volledig op het plaat staan vierkant plaat
+	Free: Pattern=dat, Pattern=ja, Pattern=op, Pattern=het, Pattern=zijn
+	Constrained: 
+Turn ID=11| A | A : met ja de ruitsprie aan de zijkant en het rond aan de voorkant en de boogjes
+	Free: Pattern=aan de, Pattern=het, Pattern=met, Pattern=en, Pattern=rond, Pattern=aan de voorkant, Pattern=de, Pattern=ja
+	Constrained: Pattern=aan de, Pattern=de
+Turn ID=12| B | B : het zijn zegmaar met die kralensnoert op dat dienblad
+	Free: Pattern=op, Pattern=het, Pattern=zijn, Pattern=dat, Pattern=met die
+	Constrained: Pattern=met, Pattern=die
+Turn ID=13| B | B : B
+	Free: 
+	Constrained: 
+Turn ID=14| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=15| A | A : dat zijn elf
+	Free: Pattern=zijn, Pattern=dat
+	Constrained: 
+Turn ID=16| B | B : met die kralending op dat dienblad
+	Free: Pattern=met die, Pattern=dat, Pattern=op
+	Constrained: Pattern=met, Pattern=die
+Turn ID=17| B | B : L
+	Free: 
+	Constrained: 
+Turn ID=18| A | A : ja dit zijn diegene die op het plaat staan met de driehoek diaman
+	Free: Pattern=op, Pattern=het, Pattern=met, Pattern=die, Pattern=zijn, Pattern=de, Pattern=ja
+	Constrained: 
+Turn ID=19| A | A : en de rond aan de voorkant
+	Free: Pattern=aan de voorkant, Pattern=de, Pattern=en, Pattern=rond
+	Constrained: Pattern=aan de, Pattern=de
+Turn ID=20| A | A : ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=21| A | A : dat zijn negen
+	Free: Pattern=zijn, Pattern=dat
+	Constrained: 
+Turn ID=22| A | A : dit zijn die op het op het plateau met die diaman aan de achterkant
+	Free: Pattern=met die, Pattern=het, Pattern=die, Pattern=zijn, Pattern=op, Pattern=aan de
+	Constrained: Pattern=met, Pattern=de, Pattern=die

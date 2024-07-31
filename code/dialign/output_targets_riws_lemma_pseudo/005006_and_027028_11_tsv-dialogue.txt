@@ -1,0 +1,187 @@
+A|0| A: _zo'n_ driehoekje 
+A|1| A: veertien 
+B|2| B: oké dit zijn _ja_ _er_ staan twee ding bovenop 
+B|3| B: één zijn _een_ beetje _dat_ zijn gewoon _een_ rechthoek 
+B|4| B: _en_ _de_ ander zijn _een_ beetje _ja_ _een_ handvat zeggen maar 
+B|5| B: _en_ _aan de zijkant_ één _hebben_ [zo'n] dik bol 
+B|6| B: _en_ _aan de_ ander kant zijn _een soort_ driehoek 
+B|7| B: _ja_ die staan _dan_ zeggen maar _in_ _een_ kwart _van_ elkaar 
+B|8| B: _en_ _er_ staan ver niks 
+B|9| B: _ja_ 
+B|10| B: _ja_ 
+B|11| B: staan één rechthoek _en_ één _soort_ _ja_ wat zullen _het_ zijn ? handvat cilinderachtig 
+B|12| B: _en dan_ _aan de zijkant_ _aan de_ _een_ _zijkant_ _ja_ _dan_ zijn _dat_ volgens mij link staan zijn _een_ handvat _van een_ driehoek 
+B|13| B: _en_ _aan de_ ander _ja_ _en een_ kwartslag ver zijn zeggen maar _een_ _rond_ ding _ja_ we kunnen _het_ zien _als een_ neus maar ik weten niet 
+B|14| B: _ja_ _ja_ 
+B|15| B: _ja_ _ja_ 
+B|16| B: _ja_ 
+A|17| A: _deze_ [hebben] [een] groot [ja] groot [rond] [aan de] voorkant [en dan] dus [dat] driehoekje [aan de zijkant] [als [een] soort] gleuf 
+A|18| A: vierkant blok op [de] bovenkant [en] [dat] gek ballonnetje [er] [in] 
+A|19| A: [ja] 
+B|20| B: [ja] 
+B|21| B: [en] [aan de zijkant] ook nog 
+B|22| B: [dat] zijn N 
+A|23| A: nee 
+A|24| A: [ja] 
+A|25| A: negen 
+B|26| B: [ja] wat zijn [deze] ? [dat] zijn die neus _met_ die twee ding erbovenop 
+B|27| B: niet [dat] niet die neuspiercing maar die ander 
+B|28| B: [ja] 
+B|29| B: [ja] 
+B|30| B: [ja] 
+B|31| B: [ja] 
+A|32| A: [dat] bolle [aan de] voorkant [en dan] gleufje [van een] driehoekje [aan de zijkant] [en een] vierkan [aan de] bovenkant 
+A|33| A: vijf 
+B|34| B: [ja] 
+B|35| B: [ja] [dat] zijn G 
+A|36| A: [met] [het] bollet [aan de] voorkant driehoekig gleufje [aan de zijkant] 
+B|37| B: dit zijn [de] gewoon neus 
+B|38| B: [de] gewoon neus 
+B|39| B: [met] die twee uitsteeksel 
+B|40| B: [ja] [ja] 
+B|41| B: [dat] zijn best wel 
+B|42| B: [ja] 
+B|43| B: [dat] zullen echt gemeen 
+B|44| B: ah [ja] 
+B|45| B: [dat] zijn J 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : zo'n driehoekje
+	Free: Pattern=zo'n
+	Constrained: 
+Turn ID=1| A | A : veertien
+	Free: 
+	Constrained: 
+Turn ID=2| B | B : oké dit zijn ja er staan twee ding bovenop
+	Free: Pattern=ja, Pattern=er
+	Constrained: 
+Turn ID=3| B | B : één zijn een beetje dat zijn gewoon een rechthoek
+	Free: Pattern=dat, Pattern=een
+	Constrained: 
+Turn ID=4| B | B : en de ander zijn een beetje ja een handvat zeggen maar
+	Free: Pattern=en, Pattern=ja, Pattern=een, Pattern=de
+	Constrained: 
+Turn ID=5| B | B : en aan de zijkant één hebben zo'n dik bol
+	Free: Pattern=aan de zijkant, Pattern=en, Pattern=zo'n, Pattern=hebben
+	Constrained: Pattern=aan de, Pattern=zijkant, Pattern=de
+Turn ID=6| B | B : en aan de ander kant zijn een soort driehoek
+	Free: Pattern=aan de, Pattern=een soort, Pattern=en
+	Constrained: Pattern=soort, Pattern=een, Pattern=de
+Turn ID=7| B | B : ja die staan dan zeggen maar in een kwart van elkaar
+	Free: Pattern=ja, Pattern=dan, Pattern=een, Pattern=in, Pattern=van
+	Constrained: 
+Turn ID=8| B | B : en er staan ver niks
+	Free: Pattern=en, Pattern=er
+	Constrained: 
+Turn ID=9| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=10| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=11| B | B : staan één rechthoek en één soort ja wat zullen het zijn ? handvat cilinderachtig
+	Free: Pattern=en, Pattern=soort, Pattern=ja, Pattern=het
+	Constrained: 
+Turn ID=12| B | B : en dan aan de zijkant aan de een zijkant ja dan zijn dat volgens mij link staan zijn een handvat van een driehoek
+	Free: Pattern=dat, Pattern=ja, Pattern=en dan, Pattern=aan de, Pattern=dan, Pattern=zijkant, Pattern=van een, Pattern=een, Pattern=aan de zijkant
+	Constrained: Pattern=de, Pattern=aan de, Pattern=dan, Pattern=een, Pattern=zijkant, Pattern=van, Pattern=en
+Turn ID=13| B | B : en aan de ander ja en een kwartslag ver zijn zeggen maar een rond ding ja we kunnen het zien als een neus maar ik weten niet
+	Free: Pattern=ja, Pattern=aan de, Pattern=een, Pattern=het, Pattern=als een, Pattern=en, Pattern=rond, Pattern=en een
+	Constrained: Pattern=en, Pattern=een, Pattern=de
+Turn ID=14| B | B : ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=15| B | B : ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=16| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=17| A | A : deze hebben een groot ja groot rond aan de voorkant en dan dus dat driehoekje aan de zijkant als een soort gleuf
+	Free: Pattern=dat, Pattern=ja, Pattern=en dan, Pattern=aan de, Pattern=hebben, Pattern=als een, Pattern=een soort, Pattern=rond, Pattern=deze, Pattern=een, Pattern=aan de zijkant
+	Constrained: Pattern=soort, Pattern=de, Pattern=aan de, Pattern=dan, Pattern=een, Pattern=zijkant, Pattern=en
+Turn ID=18| A | A : vierkant blok op de bovenkant en dat gek ballonnetje er in
+	Free: Pattern=dat, Pattern=de, Pattern=in, Pattern=er, Pattern=en
+	Constrained: 
+Turn ID=19| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=20| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=21| B | B : en aan de zijkant ook nog
+	Free: Pattern=aan de zijkant, Pattern=en
+	Constrained: Pattern=aan de, Pattern=zijkant, Pattern=de
+Turn ID=22| B | B : dat zijn N
+	Free: Pattern=dat
+	Constrained: 
+Turn ID=23| A | A : nee
+	Free: 
+	Constrained: 
+Turn ID=24| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=25| A | A : negen
+	Free: 
+	Constrained: 
+Turn ID=26| B | B : ja wat zijn deze ? dat zijn die neus met die twee ding erbovenop
+	Free: Pattern=dat, Pattern=ja, Pattern=deze, Pattern=met
+	Constrained: 
+Turn ID=27| B | B : niet dat niet die neuspiercing maar die ander
+	Free: Pattern=dat
+	Constrained: 
+Turn ID=28| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=29| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=30| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=31| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=32| A | A : dat bolle aan de voorkant en dan gleufje van een driehoekje aan de zijkant en een vierkan aan de bovenkant
+	Free: Pattern=dat, Pattern=en dan, Pattern=aan de, Pattern=aan de zijkant, Pattern=van een, Pattern=en een
+	Constrained: Pattern=de, Pattern=aan de, Pattern=dan, Pattern=een, Pattern=zijkant, Pattern=van, Pattern=en
+Turn ID=33| A | A : vijf
+	Free: 
+	Constrained: 
+Turn ID=34| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=35| B | B : ja dat zijn G
+	Free: Pattern=dat, Pattern=ja
+	Constrained: 
+Turn ID=36| A | A : met het bollet aan de voorkant driehoekig gleufje aan de zijkant
+	Free: Pattern=aan de zijkant, Pattern=aan de, Pattern=het, Pattern=met
+	Constrained: Pattern=aan de, Pattern=zijkant, Pattern=de
+Turn ID=37| B | B : dit zijn de gewoon neus
+	Free: Pattern=de
+	Constrained: 
+Turn ID=38| B | B : de gewoon neus
+	Free: Pattern=de
+	Constrained: 
+Turn ID=39| B | B : met die twee uitsteeksel
+	Free: Pattern=met
+	Constrained: 
+Turn ID=40| B | B : ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=41| B | B : dat zijn best wel
+	Free: Pattern=dat
+	Constrained: 
+Turn ID=42| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=43| B | B : dat zullen echt gemeen
+	Free: Pattern=dat
+	Constrained: 
+Turn ID=44| B | B : ah ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=45| B | B : dat zijn J
+	Free: Pattern=dat
+	Constrained: 

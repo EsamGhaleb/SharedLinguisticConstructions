@@ -1,0 +1,91 @@
+B|0| B: oké deze hebben _een_ soort van _lang neus_ vinden _ik_ 
+B|1| B: _en_ links hebben _die een_ soort van _armp_ _en_ _bovenop_ hebben _die twee spriet_ 
+A|2| A: _ja_ [ik] weten welk je bedoelen 
+B|3| B: oké 
+A|4| A: _ja_ 
+A|5| A: nummer zes 
+A|6| A: _ja_ dit _zijn_ [die een] _met die lang neus_ zo _en dat_ dinge zo eromheen 
+A|7| A: [en] dan _dat armp_ 
+B|8| B: even kijken 
+B|9| B: [ja] [dat] [zijn] C 
+B|10| B: deze [zijn] _met die lang neus en [dat_ armp] links _en die twee spriet_ boven 
+A|11| A: [ja] 
+A|12| A: nummer dertien 
+A|13| A: dit [zijn] [dat] poppe [met die] langwerpig [neus en dat] arm zo omhoog [met] [dat] dinge eromheen 
+B|14| B: [ik] zien hem niet 
+B|15| B: [ja] [ja] J 
+B|16| B: [die lang neus] [dat armp] link _die twee spriet bovenop_ 
+A|17| A: [ja] 
+A|18| A: nummer negen 
+A|19| A: het poppe [met die lang neus en dat] arm zo omhoog [en [die twee spriet] bovenop] 
+B|20| B: even kijken waar [die] [zijn] 
+B|21| B: [ja] N 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : oké deze hebben een soort van lang neus vinden ik
+	Free: Pattern=lang neus, Pattern=een, Pattern=ik
+	Constrained: 
+Turn ID=1| B | B : en links hebben die een soort van armp en bovenop hebben die twee spriet
+	Free: Pattern=bovenop, Pattern=armp, Pattern=die twee spriet, Pattern=die een, Pattern=en
+	Constrained: Pattern=een, Pattern=die
+Turn ID=2| A | A : ja ik weten welk je bedoelen
+	Free: Pattern=ja, Pattern=ik
+	Constrained: 
+Turn ID=3| B | B : oké
+	Free: 
+	Constrained: 
+Turn ID=4| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=5| A | A : nummer zes
+	Free: 
+	Constrained: 
+Turn ID=6| A | A : ja dit zijn die een met die lang neus zo en dat dinge zo eromheen
+	Free: Pattern=met die lang neus, Pattern=ja, Pattern=die een, Pattern=zijn, Pattern=en dat
+	Constrained: Pattern=die lang neus, Pattern=een, Pattern=met, Pattern=die, Pattern=lang neus, Pattern=en, Pattern=dat, Pattern=met die
+Turn ID=7| A | A : en dan dat armp
+	Free: Pattern=dat armp, Pattern=en
+	Constrained: Pattern=armp, Pattern=dat
+Turn ID=8| B | B : even kijken
+	Free: 
+	Constrained: 
+Turn ID=9| B | B : ja dat zijn C
+	Free: Pattern=ja, Pattern=zijn, Pattern=dat
+	Constrained: 
+Turn ID=10| B | B : deze zijn met die lang neus en dat armp links en die twee spriet boven
+	Free: Pattern=met die lang neus en dat, Pattern=en die twee spriet, Pattern=dat armp, Pattern=zijn
+	Constrained: Pattern=met die lang neus, Pattern=die lang neus, Pattern=armp, Pattern=die, Pattern=lang neus, Pattern=en, Pattern=neus en dat, Pattern=en dat, Pattern=dat, Pattern=met die, Pattern=die twee spriet, Pattern=met
+Turn ID=11| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=12| A | A : nummer dertien
+	Free: 
+	Constrained: 
+Turn ID=13| A | A : dit zijn dat poppe met die langwerpig neus en dat arm zo omhoog met dat dinge eromheen
+	Free: Pattern=met, Pattern=zijn, Pattern=neus en dat, Pattern=dat, Pattern=met die
+	Constrained: Pattern=dat, Pattern=met, Pattern=die, Pattern=en, Pattern=en dat
+Turn ID=14| B | B : ik zien hem niet
+	Free: Pattern=ik
+	Constrained: 
+Turn ID=15| B | B : ja ja J
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=16| B | B : die lang neus dat armp link die twee spriet bovenop
+	Free: Pattern=die twee spriet bovenop, Pattern=die lang neus, Pattern=dat armp
+	Constrained: Pattern=armp, Pattern=die twee spriet, Pattern=die, Pattern=lang neus, Pattern=dat, Pattern=bovenop
+Turn ID=17| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=18| A | A : nummer negen
+	Free: 
+	Constrained: 
+Turn ID=19| A | A : het poppe met die lang neus en dat arm zo omhoog en die twee spriet bovenop
+	Free: Pattern=met die lang neus en dat, Pattern=die twee spriet bovenop, Pattern=en die twee spriet
+	Constrained: Pattern=met die lang neus, Pattern=die lang neus, Pattern=die, Pattern=lang neus, Pattern=en, Pattern=neus en dat, Pattern=en dat, Pattern=dat, Pattern=met die, Pattern=bovenop, Pattern=die twee spriet, Pattern=met
+Turn ID=20| B | B : even kijken waar die zijn
+	Free: Pattern=zijn, Pattern=die
+	Constrained: 
+Turn ID=21| B | B : ja N
+	Free: Pattern=ja
+	Constrained: 

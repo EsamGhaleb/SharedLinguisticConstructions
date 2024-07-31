@@ -1,0 +1,83 @@
+A|0| A: _deze hebben_ _een_ _hanekam_ _gewoon_ _een driehoek_ best wel groot er op 
+B|1| B: _ja_ 
+A|2| A: _en_ _dan_ _een_ vierkan wat heel raar aflooppen wat er in gaan _zegmaar_ 
+B|3| B: zijn [gewoon] prisma 
+A|4| A: [ja] _en_ _dan_ _een_ punt wat er in gaan _en_ _aan de_ onderkant zitten _een_ _rond_ wat ook _een_ beetje verstpen zitten 
+B|5| B: [ja] _dat_ zijn J 
+B|6| B: [deze hebben] [zegmaar] [een driehoek] bovenop soort van [hanekam] jij zeggen net [een] hamekam [dan] weten _je_ denken ik welk ik bedoelen 
+A|7| A: [ja] 
+A|8| A: [ja] _en_ [dan] _met_ [dat] _rond_ schijf wat [je] _half_ zien _half_ niet 
+B|9| B: [ja] 
+A|10| A: zes 
+A|11| A: _de_ _hanenkam_ _en dat_ blok _en dat_ schuif _en_ het punt 
+B|12| B: E 
+B|13| B: zo _met die_ [hanekam] [dat] gek prisma vooraan [half] [rond] 
+A|14| A: tien 
+A|15| A: [met die] _hanenkam_ 
+B|16| B: even kijken 
+B|17| B: [en dat] [half] [rond] linksonderin G 
+B|18| B: [hanenkam] gek prisma [aan de] voorkant 
+A|19| A: inhaal tien 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : deze hebben een hanekam gewoon een driehoek best wel groot er op
+	Free: Pattern=een, Pattern=gewoon, Pattern=deze hebben, Pattern=hanekam, Pattern=een driehoek
+	Constrained: Pattern=een
+Turn ID=1| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=2| A | A : en dan een vierkan wat heel raar aflooppen wat er in gaan zegmaar
+	Free: Pattern=en, Pattern=een, Pattern=zegmaar, Pattern=dan
+	Constrained: 
+Turn ID=3| B | B : zijn gewoon prisma
+	Free: Pattern=gewoon
+	Constrained: 
+Turn ID=4| A | A : ja en dan een punt wat er in gaan en aan de onderkant zitten een rond wat ook een beetje verstpen zitten
+	Free: Pattern=ja, Pattern=aan de, Pattern=dan, Pattern=een, Pattern=en, Pattern=rond
+	Constrained: Pattern=de
+Turn ID=5| B | B : ja dat zijn J
+	Free: Pattern=dat, Pattern=ja
+	Constrained: 
+Turn ID=6| B | B : deze hebben zegmaar een driehoek bovenop soort van hanekam jij zeggen net een hamekam dan weten je denken ik welk ik bedoelen
+	Free: Pattern=dan, Pattern=een, Pattern=zegmaar, Pattern=deze hebben, Pattern=hanekam, Pattern=je, Pattern=een driehoek
+	Constrained: Pattern=een
+Turn ID=7| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=8| A | A : ja en dan met dat rond schijf wat je half zien half niet
+	Free: Pattern=dat, Pattern=ja, Pattern=dan, Pattern=met, Pattern=en, Pattern=rond, Pattern=je, Pattern=half
+	Constrained: 
+Turn ID=9| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=10| A | A : zes
+	Free: 
+	Constrained: 
+Turn ID=11| A | A : de hanenkam en dat blok en dat schuif en het punt
+	Free: Pattern=en dat, Pattern=en, Pattern=hanenkam, Pattern=de
+	Constrained: Pattern=en, Pattern=dat
+Turn ID=12| B | B : E
+	Free: 
+	Constrained: 
+Turn ID=13| B | B : zo met die hanekam dat gek prisma vooraan half rond
+	Free: Pattern=hanekam, Pattern=rond, Pattern=half, Pattern=dat, Pattern=met die
+	Constrained: Pattern=met
+Turn ID=14| A | A : tien
+	Free: 
+	Constrained: 
+Turn ID=15| A | A : met die hanenkam
+	Free: Pattern=met die, Pattern=hanenkam
+	Constrained: Pattern=met
+Turn ID=16| B | B : even kijken
+	Free: 
+	Constrained: 
+Turn ID=17| B | B : en dat half rond linksonderin G
+	Free: Pattern=en dat, Pattern=rond, Pattern=half
+	Constrained: Pattern=en, Pattern=dat
+Turn ID=18| B | B : hanenkam gek prisma aan de voorkant
+	Free: Pattern=aan de, Pattern=hanenkam
+	Constrained: Pattern=de
+Turn ID=19| A | A : inhaal tien
+	Free: 
+	Constrained: 

@@ -1,0 +1,199 @@
+A|0| A: _ik noemen_ deze kaneelstaaf 
+A|1| A: omdat _die_ links _hebben die_ een kaneelstaaf uit uit hoofd komen 
+A|2| A: _en_ boven _het_ kaneelstaaf _hebben_ je een soort van _zo'n_ _Batmanlogo_ schijnlich 
+B|3| B: wachten even we [hebben] er volgens mij [hebben] we ze allemaal [hebben] behalve _één_ 
+A|4| A: _en met_ dan 
+A|5| A: _ja_ 
+B|6| B: _zijn_ [het] _die [ik_ noemen] [noemen] [ik] [die] toeter 
+A|7| A: _en_ 
+B|8| B: zullen dat kunnen 
+A|9| A: weten [ik] veel 
+B|10| B: [hebben die] [zo'n] plat schijf voor _zich_ 
+A|11| A: _ja rechts_ 
+B|12| B: [ja] 
+A|13| A: [ja] 
+B|14| B: [en] _ja ja ja_ 
+B|15| B: L 
+A|16| A: ah nou _rechts naast zich_ dan 
+B|17| B: [ja [rechts] naast zich] [hebben die] [die] plat schijf 
+A|18| A: _oké_ 
+A|19| A: _negen_ 
+B|20| B: L [negen] 
+A|21| A: yes 
+B|22| B: dit _zijn die_ laat [die] we net [hebben] dus [die] toeter [noemen] [ik] hem [en met] [die] [met] dat schotel voor dat Batman teken 
+A|23| A: [ja ja ja] 
+A|24| A: welk [zijn die] 
+B|25| B: _M_ 
+A|26| A: [M] van Mieke 
+B|27| B: Merel [ja] 
+A|28| A: [ja] Mieke weten [ik] veel [M] zeven 
+A|29| A: _Batmanlogo_ kaneelstokjeten helikopterplatform _aan de_ zijkant 
+B|30| B: [ja] 
+B|31| B: C [en] _bij_ jou 
+A|32| A: _vijftien_ 
+B|33| B: C [vijftien] 
+B|34| B: [oké] dit [zijn] [de] toeter [de] Batmantoeter [met] [het] schotel [aan de] voorkant 
+B|35| B: of [aan de] rechterkant 
+A|36| A: [oké] 
+B|37| B: _O_ 
+A|38| A: [O] [één] 
+A|39| A: [die ik] kaneelstaaf [noemen] [bij] mijn logo Erboven [die] 
+B|40| B: [ja] 
+B|41| B: _A_ 
+A|42| A: _A drie_ 
+B|43| B: [A drie] 
+A|44| A: yes 
+B|45| B: [de] [de] toeter [de] Batman [Batmanlogo] 
+A|46| A: [ja] 
+B|47| B: _P_ 
+A|48| A: [P] dertien 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : ik noemen deze kaneelstaaf
+	Free: Pattern=ik noemen
+	Constrained: Pattern=ik, Pattern=noemen
+Turn ID=1| A | A : omdat die links hebben die een kaneelstaaf uit uit hoofd komen
+	Free: Pattern=hebben die, Pattern=die
+	Constrained: Pattern=die, Pattern=hebben
+Turn ID=2| A | A : en boven het kaneelstaaf hebben je een soort van zo'n Batmanlogo schijnlich
+	Free: Pattern=zo'n, Pattern=hebben, Pattern=en, Pattern=Batmanlogo, Pattern=het
+	Constrained: 
+Turn ID=3| B | B : wachten even we hebben er volgens mij hebben we ze allemaal hebben behalve één
+	Free: Pattern=hebben, Pattern=één
+	Constrained: 
+Turn ID=4| A | A : en met dan
+	Free: Pattern=en met
+	Constrained: Pattern=met, Pattern=en
+Turn ID=5| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=6| B | B : zijn het die ik noemen noemen ik die toeter
+	Free: Pattern=het, Pattern=ik noemen, Pattern=die, Pattern=ik, Pattern=die ik, Pattern=zijn, Pattern=noemen
+	Constrained: Pattern=die, Pattern=ik, Pattern=noemen
+Turn ID=7| A | A : en
+	Free: Pattern=en
+	Constrained: 
+Turn ID=8| B | B : zullen dat kunnen
+	Free: 
+	Constrained: 
+Turn ID=9| A | A : weten ik veel
+	Free: Pattern=ik
+	Constrained: 
+Turn ID=10| B | B : hebben die zo'n plat schijf voor zich
+	Free: Pattern=hebben die, Pattern=zo'n, Pattern=zich
+	Constrained: Pattern=die, Pattern=hebben
+Turn ID=11| A | A : ja rechts
+	Free: Pattern=ja rechts
+	Constrained: Pattern=ja
+Turn ID=12| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=13| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=14| B | B : en ja ja ja
+	Free: Pattern=ja ja ja, Pattern=en
+	Constrained: Pattern=ja
+Turn ID=15| B | B : L
+	Free: 
+	Constrained: 
+Turn ID=16| A | A : ah nou rechts naast zich dan
+	Free: Pattern=rechts naast zich
+	Constrained: Pattern=zich
+Turn ID=17| B | B : ja rechts naast zich hebben die die plat schijf
+	Free: Pattern=rechts naast zich, Pattern=ja rechts, Pattern=hebben die, Pattern=die
+	Constrained: Pattern=die, Pattern=zich, Pattern=ja, Pattern=hebben
+Turn ID=18| A | A : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=19| A | A : negen
+	Free: Pattern=negen
+	Constrained: 
+Turn ID=20| B | B : L negen
+	Free: Pattern=negen
+	Constrained: 
+Turn ID=21| A | A : yes
+	Free: 
+	Constrained: 
+Turn ID=22| B | B : dit zijn die laat die we net hebben dus die toeter noemen ik hem en met die met dat schotel voor dat Batman teken
+	Free: Pattern=zijn die, Pattern=hebben, Pattern=met, Pattern=ik, Pattern=noemen, Pattern=en met, Pattern=die
+	Constrained: Pattern=die, Pattern=met, Pattern=zijn, Pattern=en
+Turn ID=23| A | A : ja ja ja
+	Free: Pattern=ja ja ja
+	Constrained: Pattern=ja
+Turn ID=24| A | A : welk zijn die
+	Free: Pattern=zijn die
+	Constrained: Pattern=die, Pattern=zijn
+Turn ID=25| B | B : M
+	Free: Pattern=M
+	Constrained: 
+Turn ID=26| A | A : M van Mieke
+	Free: Pattern=M
+	Constrained: 
+Turn ID=27| B | B : Merel ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=28| A | A : ja Mieke weten ik veel M zeven
+	Free: Pattern=ik, Pattern=M, Pattern=ja
+	Constrained: 
+Turn ID=29| A | A : Batmanlogo kaneelstokjeten helikopterplatform aan de zijkant
+	Free: Pattern=aan de, Pattern=Batmanlogo
+	Constrained: Pattern=de
+Turn ID=30| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=31| B | B : C en bij jou
+	Free: Pattern=bij, Pattern=en
+	Constrained: 
+Turn ID=32| A | A : vijftien
+	Free: Pattern=vijftien
+	Constrained: 
+Turn ID=33| B | B : C vijftien
+	Free: Pattern=vijftien
+	Constrained: 
+Turn ID=34| B | B : oké dit zijn de toeter de Batmantoeter met het schotel aan de voorkant
+	Free: Pattern=de, Pattern=aan de, Pattern=het, Pattern=met, Pattern=oké, Pattern=zijn
+	Constrained: Pattern=de
+Turn ID=35| B | B : of aan de rechterkant
+	Free: Pattern=aan de
+	Constrained: Pattern=de
+Turn ID=36| A | A : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=37| B | B : O
+	Free: Pattern=O
+	Constrained: 
+Turn ID=38| A | A : O één
+	Free: Pattern=O, Pattern=één
+	Constrained: 
+Turn ID=39| A | A : die ik kaneelstaaf noemen bij mijn logo Erboven die
+	Free: Pattern=die ik, Pattern=die, Pattern=bij, Pattern=noemen
+	Constrained: Pattern=die, Pattern=ik
+Turn ID=40| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=41| B | B : A
+	Free: Pattern=A
+	Constrained: 
+Turn ID=42| A | A : A drie
+	Free: Pattern=A drie
+	Constrained: Pattern=A
+Turn ID=43| B | B : A drie
+	Free: Pattern=A drie
+	Constrained: Pattern=A
+Turn ID=44| A | A : yes
+	Free: 
+	Constrained: 
+Turn ID=45| B | B : de de toeter de Batman Batmanlogo
+	Free: Pattern=de, Pattern=Batmanlogo
+	Constrained: 
+Turn ID=46| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=47| B | B : P
+	Free: Pattern=P
+	Constrained: 
+Turn ID=48| A | A : P dertien
+	Free: Pattern=P
+	Constrained: 

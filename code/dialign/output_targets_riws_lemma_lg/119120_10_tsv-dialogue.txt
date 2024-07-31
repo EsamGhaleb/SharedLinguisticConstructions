@@ -1,0 +1,147 @@
+A|0| A: oké _ik_ _noemen_ _deze_ draaiemmer 
+A|1| A: het _zijn_ een het _zijn_ _die_ emmer voor _met_ een _ja_ staaf erdoorheen _met_ twee rond knopje aan de zijkant 
+B|2| B: [ja] _dat_ [zijn] bij mij _arm_ 
+B|3| B: denken [ik] even kijken 
+A|4| A: _en_ dan ook nog zo'n zo'n _paneel_ aan de _achterkant_ 
+B|5| B: [ja] [ja] [ja] _K_ [en] bij _jou_ 
+A|6| A: _tien_ 
+B|7| B: [tien] _K_ 
+B|8| B: dit dit [deze] dit [zijn] mijn armp 
+B|9| B: dus [die] zeshoekig armpjes 
+B|10| B: [met] [die] _met dat_ gek ding 
+A|11| A: [met] het _met dat paneel erachter_ 
+B|12| B: [ja] [met dat paneel erachter] 
+A|13| A: oké [ja] 
+A|14| A: welk [zijn] het 
+B|15| B: _B_ 
+A|16| A: [B] negen 
+A|17| A: draaiemmer degeen de emmer [met] een staaf erdoorheen [die] jij [arm] _noemen_ 
+B|18| B: [ja] 
+A|19| A: [paneel] op de _achterkant_ 
+B|20| B: F 
+A|21| A: _zeven_ 
+B|22| B: F [zeven] 
+B|23| B: dit [zijn] [met] [die] plat [achterkant] [die] [ik] armp [noemen] 
+A|24| A: [ja] 
+B|25| B: _K_ 
+A|26| A: [K] drie 
+A|27| A: oké [jou] [arm] [met dat paneel] aan de [achterkant] 
+B|28| B: even kijken 
+A|29| A: _veertien_ 
+B|30| B: L [veertien] 
+B|31| B: dit [zijn] mijn [arm] 
+B|32| B: [met] [die] plaat 
+A|33| A: [ja] 
+B|34| B: [ja] _M_ 
+A|35| A: [M] vijf 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : oké ik noemen deze draaiemmer
+	Free: Pattern=noemen, Pattern=ik, Pattern=deze
+	Constrained: 
+Turn ID=1| A | A : het zijn een het zijn die emmer voor met een ja staaf erdoorheen met twee rond knopje aan de zijkant
+	Free: Pattern=ja, Pattern=zijn, Pattern=die, Pattern=met
+	Constrained: 
+Turn ID=2| B | B : ja dat zijn bij mij arm
+	Free: Pattern=ja, Pattern=dat, Pattern=zijn, Pattern=arm
+	Constrained: 
+Turn ID=3| B | B : denken ik even kijken
+	Free: Pattern=ik
+	Constrained: 
+Turn ID=4| A | A : en dan ook nog zo'n zo'n paneel aan de achterkant
+	Free: Pattern=en, Pattern=paneel, Pattern=achterkant
+	Constrained: 
+Turn ID=5| B | B : ja ja ja K en bij jou
+	Free: Pattern=jou, Pattern=en, Pattern=ja, Pattern=K
+	Constrained: 
+Turn ID=6| A | A : tien
+	Free: Pattern=tien
+	Constrained: 
+Turn ID=7| B | B : tien K
+	Free: Pattern=K, Pattern=tien
+	Constrained: 
+Turn ID=8| B | B : dit dit deze dit zijn mijn armp
+	Free: Pattern=zijn, Pattern=deze
+	Constrained: 
+Turn ID=9| B | B : dus die zeshoekig armpjes
+	Free: Pattern=die
+	Constrained: 
+Turn ID=10| B | B : met die met dat gek ding
+	Free: Pattern=met dat, Pattern=die, Pattern=met
+	Constrained: Pattern=dat, Pattern=met
+Turn ID=11| A | A : met het met dat paneel erachter
+	Free: Pattern=met dat paneel erachter, Pattern=met
+	Constrained: Pattern=dat, Pattern=paneel, Pattern=met dat paneel, Pattern=met dat, Pattern=met
+Turn ID=12| B | B : ja met dat paneel erachter
+	Free: Pattern=met dat paneel erachter, Pattern=ja
+	Constrained: Pattern=dat, Pattern=paneel, Pattern=met dat paneel, Pattern=met dat, Pattern=met
+Turn ID=13| A | A : oké ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=14| A | A : welk zijn het
+	Free: Pattern=zijn
+	Constrained: 
+Turn ID=15| B | B : B
+	Free: Pattern=B
+	Constrained: 
+Turn ID=16| A | A : B negen
+	Free: Pattern=B
+	Constrained: 
+Turn ID=17| A | A : draaiemmer degeen de emmer met een staaf erdoorheen die jij arm noemen
+	Free: Pattern=noemen, Pattern=arm, Pattern=die, Pattern=met
+	Constrained: 
+Turn ID=18| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=19| A | A : paneel op de achterkant
+	Free: Pattern=paneel, Pattern=achterkant
+	Constrained: 
+Turn ID=20| B | B : F
+	Free: 
+	Constrained: 
+Turn ID=21| A | A : zeven
+	Free: Pattern=zeven
+	Constrained: 
+Turn ID=22| B | B : F zeven
+	Free: Pattern=zeven
+	Constrained: 
+Turn ID=23| B | B : dit zijn met die plat achterkant die ik armp noemen
+	Free: Pattern=met, Pattern=die, Pattern=ik, Pattern=zijn, Pattern=noemen, Pattern=achterkant
+	Constrained: 
+Turn ID=24| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=25| B | B : K
+	Free: Pattern=K
+	Constrained: 
+Turn ID=26| A | A : K drie
+	Free: Pattern=K
+	Constrained: 
+Turn ID=27| A | A : oké jou arm met dat paneel aan de achterkant
+	Free: Pattern=met dat paneel, Pattern=jou, Pattern=arm, Pattern=achterkant
+	Constrained: Pattern=paneel, Pattern=dat, Pattern=met, Pattern=met dat
+Turn ID=28| B | B : even kijken
+	Free: 
+	Constrained: 
+Turn ID=29| A | A : veertien
+	Free: Pattern=veertien
+	Constrained: 
+Turn ID=30| B | B : L veertien
+	Free: Pattern=veertien
+	Constrained: 
+Turn ID=31| B | B : dit zijn mijn arm
+	Free: Pattern=zijn, Pattern=arm
+	Constrained: 
+Turn ID=32| B | B : met die plaat
+	Free: Pattern=die, Pattern=met
+	Constrained: 
+Turn ID=33| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=34| B | B : ja M
+	Free: Pattern=ja, Pattern=M
+	Constrained: 
+Turn ID=35| A | A : M vijf
+	Free: Pattern=M
+	Constrained: 

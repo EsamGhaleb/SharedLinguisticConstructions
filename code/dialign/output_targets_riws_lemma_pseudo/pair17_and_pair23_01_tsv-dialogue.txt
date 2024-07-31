@@ -1,0 +1,127 @@
+B|0| B: het voelen alsof dit kop naar links _aan_ het bewegen _zijn_ als _een_ soort robot 
+B|1| B: _met_ _twee_ heel pixelachtig object _en_ _een_ soort van Antenne op _de_ kop 
+B|2| B: voorin zitten _een_ voorkant 
+A|3| A: _ja_ [twee] 
+B|4| B: alsof het erop plakken _zijn_ dat _vierkant_ 
+B|5| B: [ja] 
+B|6| B: hij zullen _zo_ naar _link_ kunnen gaan als het _zijn_ 
+B|7| B: [ja] 
+A|8| A: deze _hebben_ [twee] uitsteeksel _aan de linkerkant_ die kubus die [zo] steeds klein worden 
+A|9| A: [en] voor [de] emmer [zijn] [een] [vierkant] 
+A|10| A: [ja] 
+A|11| A: twaalf 
+B|12| B: [ja] 
+B|13| B: [ja] 
+B|14| B: [ja] 
+B|15| B: inderdaad [twee] pixelachtig ding [en] alsof hij naar links [aan] het gaan [zijn] 
+B|16| B: [ja] N 
+A|17| A: deze _hebben_ [een] [vierkant] voor [de] emmer 
+A|18| A: [en] [link] daarvan [zijn] [twee] keer die uitsteeksel [met] die kubuss 
+B|19| B: [vierkant] zitten _ervoor_ 
+B|20| B: spijker op [de] kop 
+B|21| B: _en twee_ pixelachtig ding gelijk [aan de linkerkant] 
+A|22| A: dertien 
+B|23| B: [ja] 
+B|24| B: ik [hebben] hem 
+B|25| B: D 
+A|26| A: [een] [vierkant] [ervoor] [en twee] kubusstaf die eruit komen [aan de linkerkant] 
+B|27| B: lopen naar links , [vierkant] [aan de] voorkant 
+B|28| B: [met] spijker op [de] kop 
+B|29| B: [ja] 
+B|30| B: L 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : het voelen alsof dit kop naar links aan het bewegen zijn als een soort robot
+	Free: Pattern=zijn, Pattern=een, Pattern=aan
+	Constrained: 
+Turn ID=1| B | B : met twee heel pixelachtig object en een soort van Antenne op de kop
+	Free: Pattern=twee, Pattern=de, Pattern=een, Pattern=met, Pattern=en
+	Constrained: 
+Turn ID=2| B | B : voorin zitten een voorkant
+	Free: Pattern=een
+	Constrained: 
+Turn ID=3| A | A : ja twee
+	Free: Pattern=ja, Pattern=twee
+	Constrained: 
+Turn ID=4| B | B : alsof het erop plakken zijn dat vierkant
+	Free: Pattern=zijn, Pattern=vierkant
+	Constrained: 
+Turn ID=5| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=6| B | B : hij zullen zo naar link kunnen gaan als het zijn
+	Free: Pattern=zijn, Pattern=zo, Pattern=link
+	Constrained: 
+Turn ID=7| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=8| A | A : deze hebben twee uitsteeksel aan de linkerkant die kubus die zo steeds klein worden
+	Free: Pattern=aan de linkerkant, Pattern=hebben, Pattern=twee, Pattern=zo
+	Constrained: Pattern=aan, Pattern=de, Pattern=aan de
+Turn ID=9| A | A : en voor de emmer zijn een vierkant
+	Free: Pattern=de, Pattern=een, Pattern=en, Pattern=zijn, Pattern=vierkant
+	Constrained: 
+Turn ID=10| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=11| A | A : twaalf
+	Free: 
+	Constrained: 
+Turn ID=12| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=13| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=14| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=15| B | B : inderdaad twee pixelachtig ding en alsof hij naar links aan het gaan zijn
+	Free: Pattern=en, Pattern=zijn, Pattern=twee, Pattern=aan
+	Constrained: 
+Turn ID=16| B | B : ja N
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=17| A | A : deze hebben een vierkant voor de emmer
+	Free: Pattern=hebben, Pattern=de, Pattern=een, Pattern=vierkant
+	Constrained: 
+Turn ID=18| A | A : en link daarvan zijn twee keer die uitsteeksel met die kubuss
+	Free: Pattern=twee, Pattern=met, Pattern=link, Pattern=en, Pattern=zijn
+	Constrained: 
+Turn ID=19| B | B : vierkant zitten ervoor
+	Free: Pattern=ervoor, Pattern=vierkant
+	Constrained: 
+Turn ID=20| B | B : spijker op de kop
+	Free: Pattern=de
+	Constrained: 
+Turn ID=21| B | B : en twee pixelachtig ding gelijk aan de linkerkant
+	Free: Pattern=aan de linkerkant, Pattern=en twee
+	Constrained: Pattern=twee, Pattern=aan de, Pattern=en, Pattern=de, Pattern=aan
+Turn ID=22| A | A : dertien
+	Free: 
+	Constrained: 
+Turn ID=23| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=24| B | B : ik hebben hem
+	Free: Pattern=hebben
+	Constrained: 
+Turn ID=25| B | B : D
+	Free: 
+	Constrained: 
+Turn ID=26| A | A : een vierkant ervoor en twee kubusstaf die eruit komen aan de linkerkant
+	Free: Pattern=ervoor, Pattern=een, Pattern=vierkant, Pattern=aan de linkerkant, Pattern=en twee
+	Constrained: Pattern=twee, Pattern=aan de, Pattern=en, Pattern=de, Pattern=aan
+Turn ID=27| B | B : lopen naar links , vierkant aan de voorkant
+	Free: Pattern=aan de, Pattern=vierkant
+	Constrained: Pattern=de, Pattern=aan
+Turn ID=28| B | B : met spijker op de kop
+	Free: Pattern=de, Pattern=met
+	Constrained: 
+Turn ID=29| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=30| B | B : L
+	Free: 
+	Constrained: 

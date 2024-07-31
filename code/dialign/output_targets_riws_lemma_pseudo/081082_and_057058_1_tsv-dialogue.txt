@@ -1,0 +1,135 @@
+B|0| B: gaan wel goed 
+B|1| B: _ja_ oké 
+B|2| B: het _zijn_ hij hebben _een_ vierkan aan _de_ _voorkant_ gewoon _een_ _plat_ vierkan 
+B|3| B: _en_ _twee_ van _die_ gebouw aan _de_ _of_ _ja_ _die_ legoding aan _de_ zijkant 
+B|4| B: _ja_ precies 
+A|5| A: _met_ zo'n toeter eruit 
+A|6| A: [of] niet 
+A|7| A: _met_ [een] _met_ één _met_ [een] champignon op [zijn] dak 
+A|8| A: [ja] 
+A|9| A: nummer [twee] 
+B|10| B: [ja] [ja] 
+B|11| B: [ja] 
+B|12| B: _dat zijn_ G bij mij 
+A|13| A: dit [zijn] [die] [een] _met_ [de] verrekijker [en] [de] champignon op [zijn] dak 
+A|14| A: _met_ [de] [plat] [voorkant] 
+B|15| B: weer [die] [twee] legoblokjes 
+B|16| B: aan [de] zijkant [met] _dat_ vierkant [plat] 
+B|17| B: yes 
+B|18| B: yes 
+A|19| A: [ja] [dat zijn] negen 
+B|20| B: het vierkan [ja] 
+B|21| B: [dat zijn] d bij mij 
+A|22| A: dit [zijn] [de] verrekijker [met] [de] champignon op [zijn] dak 
+B|23| B: het [zijn] weer [die] [twee] legoblokjes 
+B|24| B: [met] [dat] vierkant aan [de] [voorkant] 
+B|25| B: [en] [die] antenne 
+B|26| B: [twee] legoblokjes yes 
+B|27| B: [en] [dat] vierkan 
+B|28| B: oké 
+A|29| A: [dat zijn] één 
+B|30| B: yes 
+B|31| B: B bij mij 
+A|32| A: [de] verrekijker [met] [de] champignon op [zijn] dak 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : gaan wel goed
+	Free: 
+	Constrained: 
+Turn ID=1| B | B : ja oké
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=2| B | B : het zijn hij hebben een vierkan aan de voorkant gewoon een plat vierkan
+	Free: Pattern=de, Pattern=voorkant, Pattern=een, Pattern=plat, Pattern=zijn
+	Constrained: 
+Turn ID=3| B | B : en twee van die gebouw aan de of ja die legoding aan de zijkant
+	Free: Pattern=of, Pattern=twee, Pattern=die, Pattern=en, Pattern=de, Pattern=ja
+	Constrained: 
+Turn ID=4| B | B : ja precies
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=5| A | A : met zo'n toeter eruit
+	Free: Pattern=met
+	Constrained: 
+Turn ID=6| A | A : of niet
+	Free: Pattern=of
+	Constrained: 
+Turn ID=7| A | A : met een met één met een champignon op zijn dak
+	Free: Pattern=met, Pattern=een, Pattern=zijn
+	Constrained: 
+Turn ID=8| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=9| A | A : nummer twee
+	Free: Pattern=twee
+	Constrained: 
+Turn ID=10| B | B : ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=11| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=12| B | B : dat zijn G bij mij
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=13| A | A : dit zijn die een met de verrekijker en de champignon op zijn dak
+	Free: Pattern=de, Pattern=een, Pattern=met, Pattern=die, Pattern=en, Pattern=zijn
+	Constrained: 
+Turn ID=14| A | A : met de plat voorkant
+	Free: Pattern=voorkant, Pattern=met, Pattern=plat, Pattern=de
+	Constrained: 
+Turn ID=15| B | B : weer die twee legoblokjes
+	Free: Pattern=twee, Pattern=die
+	Constrained: 
+Turn ID=16| B | B : aan de zijkant met dat vierkant plat
+	Free: Pattern=met, Pattern=plat, Pattern=dat, Pattern=de
+	Constrained: 
+Turn ID=17| B | B : yes
+	Free: 
+	Constrained: 
+Turn ID=18| B | B : yes
+	Free: 
+	Constrained: 
+Turn ID=19| A | A : ja dat zijn negen
+	Free: Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=20| B | B : het vierkan ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=21| B | B : dat zijn d bij mij
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=22| A | A : dit zijn de verrekijker met de champignon op zijn dak
+	Free: Pattern=met, Pattern=zijn, Pattern=de
+	Constrained: 
+Turn ID=23| B | B : het zijn weer die twee legoblokjes
+	Free: Pattern=twee, Pattern=die, Pattern=zijn
+	Constrained: 
+Turn ID=24| B | B : met dat vierkant aan de voorkant
+	Free: Pattern=voorkant, Pattern=met, Pattern=dat, Pattern=de
+	Constrained: 
+Turn ID=25| B | B : en die antenne
+	Free: Pattern=en, Pattern=die
+	Constrained: 
+Turn ID=26| B | B : twee legoblokjes yes
+	Free: Pattern=twee
+	Constrained: 
+Turn ID=27| B | B : en dat vierkan
+	Free: Pattern=en, Pattern=dat
+	Constrained: 
+Turn ID=28| B | B : oké
+	Free: 
+	Constrained: 
+Turn ID=29| A | A : dat zijn één
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=30| B | B : yes
+	Free: 
+	Constrained: 
+Turn ID=31| B | B : B bij mij
+	Free: 
+	Constrained: 
+Turn ID=32| A | A : de verrekijker met de champignon op zijn dak
+	Free: Pattern=met, Pattern=zijn, Pattern=de
+	Constrained: 

@@ -1,0 +1,91 @@
+B|0| B: _je_ kunnen het een beetje beschrijven als _twee_ oog die die aan _de_ linkerkant hebben als _verrekijker_ _en_ een vierkant erop plakken 
+A|1| A: _ja_ 
+A|2| A: _ja_ 
+B|3| B: aan _de_ voorkant 
+A|4| A: [en] zo'n antenne erbovenop _ja_ [twee] 
+B|5| B: [ja] 
+A|6| A: _de verrekijker met_ [de] antenne _bovenop_ 
+A|7| A: [en] [de] 
+B|8| B: [met] het vierkant voorop 
+A|9| A: [ja] precies 
+B|10| B: [ja] 
+B|11| B: G 
+B|12| B: dit _zijn_ [de verrekijker met] vierkant voorop [en] het plubbeltje [bovenop] 
+A|13| A: negen 
+A|14| A: [de verrekijker] 
+B|15| B: d 
+B|16| B: dit _zijn_ [de verrekijker met] het vierkantje voorop plakken 
+A|17| A: [verrekijker] _waar staan_ [je] ? dat [zijn] één 
+A|18| A: [verrekijker] 
+B|19| B: [met] het vierkantje 
+A|20| A: [ja] 
+B|21| B: [waar staan] die 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : je kunnen het een beetje beschrijven als twee oog die die aan de linkerkant hebben als verrekijker en een vierkant erop plakken
+	Free: Pattern=twee, Pattern=de, Pattern=je, Pattern=verrekijker, Pattern=en
+	Constrained: 
+Turn ID=1| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=2| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=3| B | B : aan de voorkant
+	Free: Pattern=de
+	Constrained: 
+Turn ID=4| A | A : en zo'n antenne erbovenop ja twee
+	Free: Pattern=ja, Pattern=twee, Pattern=en
+	Constrained: 
+Turn ID=5| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=6| A | A : de verrekijker met de antenne bovenop
+	Free: Pattern=de verrekijker met, Pattern=bovenop, Pattern=de
+	Constrained: Pattern=de verrekijker, Pattern=verrekijker, Pattern=de, Pattern=met
+Turn ID=7| A | A : en de
+	Free: Pattern=de, Pattern=en
+	Constrained: 
+Turn ID=8| B | B : met het vierkant voorop
+	Free: Pattern=met
+	Constrained: 
+Turn ID=9| A | A : ja precies
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=10| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=11| B | B : G
+	Free: 
+	Constrained: 
+Turn ID=12| B | B : dit zijn de verrekijker met vierkant voorop en het plubbeltje bovenop
+	Free: Pattern=de verrekijker met, Pattern=zijn, Pattern=bovenop, Pattern=en
+	Constrained: Pattern=de verrekijker, Pattern=verrekijker, Pattern=de, Pattern=met
+Turn ID=13| A | A : negen
+	Free: 
+	Constrained: 
+Turn ID=14| A | A : de verrekijker
+	Free: Pattern=de verrekijker
+	Constrained: Pattern=verrekijker, Pattern=de
+Turn ID=15| B | B : d
+	Free: 
+	Constrained: 
+Turn ID=16| B | B : dit zijn de verrekijker met het vierkantje voorop plakken
+	Free: Pattern=de verrekijker met, Pattern=zijn
+	Constrained: Pattern=de verrekijker, Pattern=verrekijker, Pattern=de, Pattern=met
+Turn ID=17| A | A : verrekijker waar staan je ? dat zijn één
+	Free: Pattern=waar staan, Pattern=je, Pattern=zijn, Pattern=verrekijker
+	Constrained: 
+Turn ID=18| A | A : verrekijker
+	Free: Pattern=verrekijker
+	Constrained: 
+Turn ID=19| B | B : met het vierkantje
+	Free: Pattern=met
+	Constrained: 
+Turn ID=20| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=21| B | B : waar staan die
+	Free: Pattern=waar staan
+	Constrained: 

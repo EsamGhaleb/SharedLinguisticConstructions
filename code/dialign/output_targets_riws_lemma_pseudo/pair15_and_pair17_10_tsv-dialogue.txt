@@ -1,0 +1,155 @@
+B|0| B: _ja_ 
+B|1| B: _ja_ 
+B|2| B: b 
+A|3| A: okee nou _de_ kopvorm _met_ rechts naar _de_ rechterkant uitstekend _een_ balk eindigen in _een_ [ja] _iets_ _van_ _iets_ _van een_ rond 
+A|4| A: _aan de_ linkerkant zitten zo'n zelfde balk alleen _een_ stuk _kort_ 
+A|5| A: _ook_ eindigen in _een_ rond 
+A|6| A: _en_ bovenaan zitten nou [ja] _een_ _vierkant_ _met_ nog _een_ aanhangsel _eraan_ 
+A|7| A: _aan het_ _vierkant_ 
+A|8| A: nou rechts _een beetje_ _aan de_ onderkant 
+A|9| A: _daar_ zitten _een_ _staaf_ _met_ _een_ _een_ rond _aan het_ uitein 
+A|10| A: _aan de_ linkerkant zitten eigenlijk zo'n zelfde _staaf_ alleen _een_ stuk _kort_ 
+A|11| A: dus _het_ _lijken een beetje_ _die_ erdoorheen lopen 
+A|12| A: [ja] 
+A|13| A: [ja] dat zullen ik wel zeggen [ja] 
+A|14| A: okee 
+B|15| B: deze hebben [die] [die] stok door [die] emmer heen 
+B|16| B: [aan de] [een] kant _zijn_ hij wat [kort] [en] hij hebben [een] bobbel [aan het] eind [en] dan [aan de] ander kant _zijn_ hij [iets] lang 
+B|17| B: achterop _zijn_ [een] schuin [vierkant] 
+B|18| B: [met] [daar] [ook] [een] soort [van] _ding_ [eraan] 
+B|19| B: zo of hij liggen achter [de] emmer soort [van een] baseballbat 
+B|20| B: maar dan niet echt 
+B|21| B: achter [de] emmer _zijn_ [een] 
+B|22| B: [ja] 
+B|23| B: [ja] 
+B|24| B: [ja] [die] [staaf] [lijken een beetje] op [een] baseballbat 
+B|25| B: [ja] 
+B|26| B: where did it go ? l 
+A|27| A: [ja] 
+A|28| A: dat [zijn] vijf 
+B|29| B: deze hebben [de] baseballbat 
+B|30| B: [ja] I 
+A|31| A: dit [zijn] [die] [met] [het] zonnepaneel [aan de] achterkant [de] [met] [ja] [aan de] onderkant [de] [ding] erdoorheen 
+A|32| A: [ja] 
+B|33| B: De baseballbat 
+A|34| A: [ja] drie 
+A|35| A: even kijken dit [zijn] [die] [met] [het] zonnepaneel erachter 
+A|36| A: [en] [de] [ding] erdoorheen 
+A|37| A: [ja] drie 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=1| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=2| B | B : b
+	Free: 
+	Constrained: 
+Turn ID=3| A | A : okee nou de kopvorm met rechts naar de rechterkant uitstekend een balk eindigen in een ja iets van iets van een rond
+	Free: Pattern=een, Pattern=met, Pattern=van een, Pattern=van, Pattern=de, Pattern=iets, Pattern=ja
+	Constrained: Pattern=een, Pattern=van
+Turn ID=4| A | A : aan de linkerkant zitten zo'n zelfde balk alleen een stuk kort
+	Free: Pattern=aan de, Pattern=een, Pattern=kort
+	Constrained: Pattern=de
+Turn ID=5| A | A : ook eindigen in een rond
+	Free: Pattern=een, Pattern=ook
+	Constrained: 
+Turn ID=6| A | A : en bovenaan zitten nou ja een vierkant met nog een aanhangsel eraan
+	Free: Pattern=ja, Pattern=een, Pattern=eraan, Pattern=met, Pattern=en, Pattern=vierkant
+	Constrained: 
+Turn ID=7| A | A : aan het vierkant
+	Free: Pattern=aan het, Pattern=vierkant
+	Constrained: Pattern=het
+Turn ID=8| A | A : nou rechts een beetje aan de onderkant
+	Free: Pattern=aan de, Pattern=een beetje
+	Constrained: Pattern=een, Pattern=de
+Turn ID=9| A | A : daar zitten een staaf met een een rond aan het uitein
+	Free: Pattern=aan het, Pattern=staaf, Pattern=een, Pattern=met, Pattern=daar
+	Constrained: Pattern=het
+Turn ID=10| A | A : aan de linkerkant zitten eigenlijk zo'n zelfde staaf alleen een stuk kort
+	Free: Pattern=aan de, Pattern=een, Pattern=kort, Pattern=staaf
+	Constrained: Pattern=de
+Turn ID=11| A | A : dus het lijken een beetje die erdoorheen lopen
+	Free: Pattern=lijken een beetje, Pattern=die, Pattern=het
+	Constrained: Pattern=een beetje, Pattern=een
+Turn ID=12| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=13| A | A : ja dat zullen ik wel zeggen ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=14| A | A : okee
+	Free: 
+	Constrained: 
+Turn ID=15| B | B : deze hebben die die stok door die emmer heen
+	Free: Pattern=die
+	Constrained: 
+Turn ID=16| B | B : aan de een kant zijn hij wat kort en hij hebben een bobbel aan het eind en dan aan de ander kant zijn hij iets lang
+	Free: Pattern=aan het, Pattern=iets, Pattern=aan de, Pattern=een, Pattern=kort, Pattern=en, Pattern=zijn
+	Constrained: Pattern=de, Pattern=het
+Turn ID=17| B | B : achterop zijn een schuin vierkant
+	Free: Pattern=een, Pattern=zijn, Pattern=vierkant
+	Constrained: 
+Turn ID=18| B | B : met daar ook een soort van ding eraan
+	Free: Pattern=ook, Pattern=ding, Pattern=een, Pattern=eraan, Pattern=met, Pattern=van, Pattern=daar
+	Constrained: 
+Turn ID=19| B | B : zo of hij liggen achter de emmer soort van een baseballbat
+	Free: Pattern=van een, Pattern=de
+	Constrained: Pattern=een, Pattern=van
+Turn ID=20| B | B : maar dan niet echt
+	Free: 
+	Constrained: 
+Turn ID=21| B | B : achter de emmer zijn een
+	Free: Pattern=een, Pattern=zijn, Pattern=de
+	Constrained: 
+Turn ID=22| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=23| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=24| B | B : ja die staaf lijken een beetje op een baseballbat
+	Free: Pattern=ja, Pattern=staaf, Pattern=een, Pattern=lijken een beetje, Pattern=die
+	Constrained: Pattern=een beetje, Pattern=een
+Turn ID=25| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=26| B | B : where did it go ? l
+	Free: 
+	Constrained: 
+Turn ID=27| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=28| A | A : dat zijn vijf
+	Free: Pattern=zijn
+	Constrained: 
+Turn ID=29| B | B : deze hebben de baseballbat
+	Free: Pattern=de
+	Constrained: 
+Turn ID=30| B | B : ja I
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=31| A | A : dit zijn die met het zonnepaneel aan de achterkant de met ja aan de onderkant de ding erdoorheen
+	Free: Pattern=aan de, Pattern=ding, Pattern=het, Pattern=met, Pattern=die, Pattern=zijn, Pattern=de, Pattern=ja
+	Constrained: Pattern=de
+Turn ID=32| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=33| B | B : De baseballbat
+	Free: 
+	Constrained: 
+Turn ID=34| A | A : ja drie
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=35| A | A : even kijken dit zijn die met het zonnepaneel erachter
+	Free: Pattern=zijn, Pattern=die, Pattern=met, Pattern=het
+	Constrained: 
+Turn ID=36| A | A : en de ding erdoorheen
+	Free: Pattern=en, Pattern=de, Pattern=ding
+	Constrained: 
+Turn ID=37| A | A : ja drie
+	Free: Pattern=ja
+	Constrained: 

@@ -1,0 +1,131 @@
+B|0| B: _bal_ _er_ bovenop o _soort_ _soort_ 
+B|1| B: _beetje_ zo _dat_ _dat_ hij zo staan _bal_ bovenop _en_ dan _zo'n_ staaf _aan de_ zijkant _die_ _er_ onder uit _komen_ _ja_ dan _zijn het_ d 
+A|2| A: [ja] ik in deze zien ik een [soort] van poppe _met_ heel smal arm 
+A|3| A: [en] [er] je hebben zeggen maar een [bal] boven op [het] [soort] van kopje _liggen_ 
+A|4| A: [ja] 
+A|5| A: [ja] een ei een [bal] 
+A|6| A: [en] [er] zitten [zo'n] [ja] een _balk die_ _liggen_ zeggen maar of [die] 
+A|7| A: [ja] 
+A|8| A: [die] zitten voor voor [het] [ja] [het] 
+A|9| A: [ja] 
+A|10| A: [ja] 
+A|11| A: [ja] [ja] [ja] 
+A|12| A: [ja] 
+A|13| A: [het] lijken een [beetje] alsof _die die_ wolkenkrabber gaan knuffelen 
+A|14| A: [ja] [ja] 
+B|15| B: [ja] _dit zijn weer [die_ die] [bal] [die] bovenop [liggen] _met die_ _met die_ staaf _aan de_ zijkant [die] [er] onderin nog uitsteken 
+B|16| B: _aan_ [die] zijkant inderdaad [die] twee twee ding [die] afbuigen 
+A|17| A: [ja] maar ze [komen] zes keer langs toch 
+A|18| A: [zijn het] [die] doorboorde ei of niet 
+A|19| A: [met [die] die] [zo'n] knuffel geven 
+A|20| A: [ja] oké 
+A|21| A: _dat zijn_ vijftien 
+B|22| B: [ja] [en] [die] [balk die] dan zo _ja dat zijn_ L 
+A|23| A: [dit zijn weer die] knuffel [aan de] wolkenkrabber 
+B|24| B: [ja] [dit zijn weer] [dat] korfbal ding balle bovenop [en] [met die] [balk] ernaast 
+A|25| A: [ja dat zijn] zes 
+B|26| B: [ja] 
+B|27| B: [dit zijn] J 
+A|28| A: [dit zijn] [die die] wolkenkrabber gaan knuffelen 
+B|29| B: [dit zijn weer die] korfbal 
+A|30| A: [ja] 
+A|31| A: [dat zijn] drie 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : bal er bovenop o soort soort
+	Free: Pattern=er, Pattern=bal, Pattern=soort
+	Constrained: 
+Turn ID=1| B | B : beetje zo dat dat hij zo staan bal bovenop en dan zo'n staaf aan de zijkant die er onder uit komen ja dan zijn het d
+	Free: Pattern=dat, Pattern=zijn het, Pattern=ja, Pattern=aan de, Pattern=beetje, Pattern=komen, Pattern=die, Pattern=er, Pattern=en, Pattern=zo'n, Pattern=bal
+	Constrained: Pattern=het, Pattern=aan
+Turn ID=2| A | A : ja ik in deze zien ik een soort van poppe met heel smal arm
+	Free: Pattern=ja, Pattern=soort, Pattern=met
+	Constrained: 
+Turn ID=3| A | A : en er je hebben zeggen maar een bal boven op het soort van kopje liggen
+	Free: Pattern=soort, Pattern=bal, Pattern=het, Pattern=er, Pattern=en, Pattern=liggen
+	Constrained: 
+Turn ID=4| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=5| A | A : ja een ei een bal
+	Free: Pattern=bal, Pattern=ja
+	Constrained: 
+Turn ID=6| A | A : en er zitten zo'n ja een balk die liggen zeggen maar of die
+	Free: Pattern=zo'n, Pattern=ja, Pattern=balk die, Pattern=die, Pattern=er, Pattern=en, Pattern=liggen
+	Constrained: Pattern=balk, Pattern=die
+Turn ID=7| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=8| A | A : die zitten voor voor het ja het
+	Free: Pattern=ja, Pattern=het, Pattern=die
+	Constrained: 
+Turn ID=9| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=10| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=11| A | A : ja ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=12| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=13| A | A : het lijken een beetje alsof die die wolkenkrabber gaan knuffelen
+	Free: Pattern=die die, Pattern=beetje, Pattern=het
+	Constrained: Pattern=die
+Turn ID=14| A | A : ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=15| B | B : ja dit zijn weer die die bal die bovenop liggen met die met die staaf aan de zijkant die er onderin nog uitsteken
+	Free: Pattern=met die, Pattern=dit zijn weer die, Pattern=bal, Pattern=ja, Pattern=aan de, Pattern=die, Pattern=die die, Pattern=er, Pattern=liggen
+	Constrained: Pattern=aan, Pattern=met, Pattern=die, Pattern=dit zijn, Pattern=dit zijn weer
+Turn ID=16| B | B : aan die zijkant inderdaad die twee twee ding die afbuigen
+	Free: Pattern=aan, Pattern=die
+	Constrained: 
+Turn ID=17| A | A : ja maar ze komen zes keer langs toch
+	Free: Pattern=ja, Pattern=komen
+	Constrained: 
+Turn ID=18| A | A : zijn het die doorboorde ei of niet
+	Free: Pattern=zijn het, Pattern=die
+	Constrained: Pattern=het
+Turn ID=19| A | A : met die die zo'n knuffel geven
+	Free: Pattern=met die, Pattern=die die, Pattern=zo'n
+	Constrained: Pattern=met, Pattern=die
+Turn ID=20| A | A : ja oké
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=21| A | A : dat zijn vijftien
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat
+Turn ID=22| B | B : ja en die balk die dan zo ja dat zijn L
+	Free: Pattern=ja, Pattern=balk die, Pattern=ja dat zijn, Pattern=die, Pattern=en
+	Constrained: Pattern=ja, Pattern=balk, Pattern=die, Pattern=dat, Pattern=dat zijn
+Turn ID=23| A | A : dit zijn weer die knuffel aan de wolkenkrabber
+	Free: Pattern=dit zijn weer die, Pattern=aan de
+	Constrained: Pattern=dit zijn weer, Pattern=aan, Pattern=die, Pattern=dit zijn
+Turn ID=24| B | B : ja dit zijn weer dat korfbal ding balle bovenop en met die balk ernaast
+	Free: Pattern=ja, Pattern=balk, Pattern=en, Pattern=dit zijn weer, Pattern=dat, Pattern=met die
+	Constrained: Pattern=dit zijn, Pattern=met, Pattern=die
+Turn ID=25| A | A : ja dat zijn zes
+	Free: Pattern=ja dat zijn
+	Constrained: Pattern=dat zijn, Pattern=dat, Pattern=ja
+Turn ID=26| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=27| B | B : dit zijn J
+	Free: Pattern=dit zijn
+	Constrained: 
+Turn ID=28| A | A : dit zijn die die wolkenkrabber gaan knuffelen
+	Free: Pattern=dit zijn, Pattern=die die
+	Constrained: Pattern=die
+Turn ID=29| B | B : dit zijn weer die korfbal
+	Free: Pattern=dit zijn weer die
+	Constrained: Pattern=dit zijn weer, Pattern=die, Pattern=dit zijn
+Turn ID=30| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=31| A | A : dat zijn drie
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat

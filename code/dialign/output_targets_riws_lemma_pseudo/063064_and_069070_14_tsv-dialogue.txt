@@ -1,0 +1,123 @@
+B|0| B: _oké_ 
+B|1| B: even kijken 
+B|2| B: _ja_ 
+B|3| B: _ja_ _met_ _een_ hoek _erin_ _dat_ uitsteeksel 
+B|4| B: _ja_ _en die_ _balk_ _zijn_ eigenlijk gewoon los 
+B|5| B: _ja oké_ 
+B|6| B: _dan_ _zijn_ _het_ d 
+A|7| A: boven op [het] kop liggen bij mij weer _zo'n_ ei 
+A|8| A: [en] _aan de voorkant_ _hebben_ je [dan] [een] lang [balk] [die] naar beneden steken [en] nog onder [het] kop door gaan 
+A|9| A: [en] _aan de zijkant_ _van_ [het] kop _hebben_ je [een] soort _van_ _twee_ _arm_ 
+A|10| A: [ja] [ja] [ja] [ja] [ja] 
+B|11| B: _oké_ 
+B|12| B: deze [hebben] [een] _balk aan de voorkant_ 
+B|13| B: deze [hebben] _we al_ [hebben] [de] _balk aan de voorkant_ [en] [zo'n] bol _erbovenop _en_ twee_ [van] [die] [arm] [aan de zijkant] 
+A|14| A: [ja] [die] [die] [we al] [een] keer [hebben] [hebben] 
+A|15| A: [ja oké] 
+A|16| A: bij mij [zijn] [dat] vijftien 
+B|17| B: [ja] [en] [een] bal daarbovenop [ja] 
+B|18| B: [oké] _dat zijn_ L 
+B|19| B: _dit zijn_ degeen _waar_ [de] [balk] voor staat _met_ [twee] uitsteeksel [en] [een] bol _bovenop_ 
+A|20| A: [dit zijn] [met] [dat] ei [erbovenop en] [dan] [zo'n] lang [balk aan de voorkant] 
+A|21| A: [en twee] [arm] [waar] in één [zo'n] knik zitten 
+B|22| B: [die] [een] beetje losstaan [ja] 
+B|23| B: _dat zijn_ J 
+B|24| B: ik [hebben] diegene [waar] [de] [balk] voor staat _en die_ bol daarbovenop _en die twee_ uitsteeksel 
+A|25| A: zes 
+A|26| A: [dit zijn] [met] [dat] ei [bovenop] 
+A|27| A: [die] lang [balk aan de voorkant] [die] ver doorlopen [en die twee] [arm] 
+A|28| A: [met] [zo'n] knik [erin] 
+A|29| A: [dat zijn] drie 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=1| B | B : even kijken
+	Free: 
+	Constrained: 
+Turn ID=2| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=3| B | B : ja met een hoek erin dat uitsteeksel
+	Free: Pattern=dat, Pattern=ja, Pattern=een, Pattern=met, Pattern=erin
+	Constrained: 
+Turn ID=4| B | B : ja en die balk zijn eigenlijk gewoon los
+	Free: Pattern=en die, Pattern=zijn, Pattern=balk, Pattern=ja
+	Constrained: Pattern=en, Pattern=die
+Turn ID=5| B | B : ja oké
+	Free: Pattern=ja oké
+	Constrained: Pattern=oké, Pattern=ja
+Turn ID=6| B | B : dan zijn het d
+	Free: Pattern=dan, Pattern=zijn, Pattern=het
+	Constrained: 
+Turn ID=7| A | A : boven op het kop liggen bij mij weer zo'n ei
+	Free: Pattern=zo'n, Pattern=het
+	Constrained: 
+Turn ID=8| A | A : en aan de voorkant hebben je dan een lang balk die naar beneden steken en nog onder het kop door gaan
+	Free: Pattern=dan, Pattern=een, Pattern=het, Pattern=hebben, Pattern=balk, Pattern=die, Pattern=en, Pattern=aan de voorkant
+	Constrained: Pattern=de
+Turn ID=9| A | A : en aan de zijkant van het kop hebben je een soort van twee arm
+	Free: Pattern=twee, Pattern=het, Pattern=hebben, Pattern=een, Pattern=aan de zijkant, Pattern=arm, Pattern=van, Pattern=en
+	Constrained: Pattern=de
+Turn ID=10| A | A : ja ja ja ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=11| B | B : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=12| B | B : deze hebben een balk aan de voorkant
+	Free: Pattern=balk aan de voorkant, Pattern=hebben, Pattern=een
+	Constrained: Pattern=balk, Pattern=de, Pattern=aan de voorkant
+Turn ID=13| B | B : deze hebben we al hebben de balk aan de voorkant en zo'n bol erbovenop en twee van die arm aan de zijkant
+	Free: Pattern=balk aan de voorkant, Pattern=zo'n, Pattern=de, Pattern=aan de zijkant, Pattern=we al, Pattern=die, Pattern=en twee, Pattern=hebben, Pattern=erbovenop en, Pattern=arm, Pattern=van, Pattern=en
+	Constrained: Pattern=twee, Pattern=de, Pattern=balk, Pattern=en, Pattern=aan de voorkant
+Turn ID=14| A | A : ja die die we al een keer hebben hebben
+	Free: Pattern=ja, Pattern=een, Pattern=we al, Pattern=hebben, Pattern=die
+	Constrained: 
+Turn ID=15| A | A : ja oké
+	Free: Pattern=ja oké
+	Constrained: Pattern=oké, Pattern=ja
+Turn ID=16| A | A : bij mij zijn dat vijftien
+	Free: Pattern=dat, Pattern=zijn
+	Constrained: 
+Turn ID=17| B | B : ja en een bal daarbovenop ja
+	Free: Pattern=en, Pattern=ja, Pattern=een
+	Constrained: 
+Turn ID=18| B | B : oké dat zijn L
+	Free: Pattern=dat zijn, Pattern=oké
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=19| B | B : dit zijn degeen waar de balk voor staat met twee uitsteeksel en een bol bovenop
+	Free: Pattern=bovenop, Pattern=twee, Pattern=de, Pattern=waar, Pattern=een, Pattern=balk, Pattern=met, Pattern=en, Pattern=dit zijn
+	Constrained: Pattern=zijn
+Turn ID=20| A | A : dit zijn met dat ei erbovenop en dan zo'n lang balk aan de voorkant
+	Free: Pattern=balk aan de voorkant, Pattern=dat, Pattern=zo'n, Pattern=dan, Pattern=erbovenop en, Pattern=met, Pattern=dit zijn
+	Constrained: Pattern=de, Pattern=balk, Pattern=en, Pattern=zijn, Pattern=aan de voorkant
+Turn ID=21| A | A : en twee arm waar in één zo'n knik zitten
+	Free: Pattern=en twee, Pattern=arm, Pattern=zo'n, Pattern=waar
+	Constrained: Pattern=en, Pattern=twee
+Turn ID=22| B | B : die een beetje losstaan ja
+	Free: Pattern=die, Pattern=ja, Pattern=een
+	Constrained: 
+Turn ID=23| B | B : dat zijn J
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=24| B | B : ik hebben diegene waar de balk voor staat en die bol daarbovenop en die twee uitsteeksel
+	Free: Pattern=en die, Pattern=de, Pattern=waar, Pattern=en die twee, Pattern=hebben, Pattern=balk
+	Constrained: Pattern=die, Pattern=en, Pattern=en die, Pattern=twee
+Turn ID=25| A | A : zes
+	Free: 
+	Constrained: 
+Turn ID=26| A | A : dit zijn met dat ei bovenop
+	Free: Pattern=dit zijn, Pattern=dat, Pattern=met, Pattern=bovenop
+	Constrained: Pattern=zijn
+Turn ID=27| A | A : die lang balk aan de voorkant die ver doorlopen en die twee arm
+	Free: Pattern=balk aan de voorkant, Pattern=en die twee, Pattern=die, Pattern=arm
+	Constrained: Pattern=en die, Pattern=twee, Pattern=de, Pattern=balk, Pattern=die, Pattern=en, Pattern=aan de voorkant
+Turn ID=28| A | A : met zo'n knik erin
+	Free: Pattern=met, Pattern=zo'n, Pattern=erin
+	Constrained: 
+Turn ID=29| A | A : dat zijn drie
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn

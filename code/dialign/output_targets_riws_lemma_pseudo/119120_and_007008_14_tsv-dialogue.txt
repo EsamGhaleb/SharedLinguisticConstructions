@@ -1,0 +1,147 @@
+A|0| A: oké ik noemen deze arm 
+A|1| A: omdat _die_ _een_ soort _van_ knuffel willen geven _met_ twee heel dun arm 
+A|2| A: _één_ _één_ _bolle_ 
+A|3| A: _ja_ 
+A|4| A: _ja_ _ja_ 
+A|5| A: oké _dan_ _zijn_ _het_ d zeven 
+B|6| B: vooraan [een] lang _balk_ 
+B|7| B: en liggen daarbovenop [een] [bolle] 
+B|8| B: [ja] 
+B|9| B: D 
+A|10| A: mooi zo 
+A|11| A: jou armp of mijn armpjes 
+A|12| A: oké [ja] 
+A|13| A: K vijftien 
+B|14| B: dit [zijn] zo'n ding [met] [een] lang _balk_ 
+B|15| B: lijken lijken gewoon op [een] hoog toren zeggen maar en bovenin bovenop liggen [een] bol op [het] plaat 
+B|16| B: aan de zijkant [van] [die] 
+B|17| B: [ja] 
+A|18| A: [die] ik arm noemen _met die_ paal voor [het] hoofd 
+A|19| A: twee 
+A|20| A: zo 
+A|21| A: als ik hem kunnen vinden 
+A|22| A: M 
+A|23| A: M zes 
+B|24| B: even 
+B|25| B: [ja] [die] bol bovenop en [dan] [één] toren [van] [het] World Trade Center lijken [het] 
+B|26| B: L 
+B|27| B: [met die] rond bovenop [die] bol zeggen maar en [dan] weer [die] lang _balk_ aan de voorkant 
+B|28| B: [ja] 
+A|29| A: je mijn arm 
+A|30| A: [balk] [balk] ervoor 
+A|31| A: vijftien 
+A|32| A: A drie 
+B|33| B: [ja] 
+B|34| B: [ja] 
+B|35| B: [die] bol en [dan] weer [die] World Trade Center 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : oké ik noemen deze arm
+	Free: 
+	Constrained: 
+Turn ID=1| A | A : omdat die een soort van knuffel willen geven met twee heel dun arm
+	Free: Pattern=die, Pattern=met, Pattern=een, Pattern=van
+	Constrained: 
+Turn ID=2| A | A : één één bolle
+	Free: Pattern=bolle, Pattern=één
+	Constrained: 
+Turn ID=3| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=4| A | A : ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=5| A | A : oké dan zijn het d zeven
+	Free: Pattern=dan, Pattern=zijn, Pattern=het
+	Constrained: 
+Turn ID=6| B | B : vooraan een lang balk
+	Free: Pattern=balk, Pattern=een
+	Constrained: 
+Turn ID=7| B | B : en liggen daarbovenop een bolle
+	Free: Pattern=bolle, Pattern=een
+	Constrained: 
+Turn ID=8| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=9| B | B : D
+	Free: 
+	Constrained: 
+Turn ID=10| A | A : mooi zo
+	Free: 
+	Constrained: 
+Turn ID=11| A | A : jou armp of mijn armpjes
+	Free: 
+	Constrained: 
+Turn ID=12| A | A : oké ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=13| A | A : K vijftien
+	Free: 
+	Constrained: 
+Turn ID=14| B | B : dit zijn zo'n ding met een lang balk
+	Free: Pattern=met, Pattern=balk, Pattern=een, Pattern=zijn
+	Constrained: 
+Turn ID=15| B | B : lijken lijken gewoon op een hoog toren zeggen maar en bovenin bovenop liggen een bol op het plaat
+	Free: Pattern=een, Pattern=het
+	Constrained: 
+Turn ID=16| B | B : aan de zijkant van die
+	Free: Pattern=die, Pattern=van
+	Constrained: 
+Turn ID=17| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=18| A | A : die ik arm noemen met die paal voor het hoofd
+	Free: Pattern=met die, Pattern=die, Pattern=het
+	Constrained: Pattern=die, Pattern=met
+Turn ID=19| A | A : twee
+	Free: 
+	Constrained: 
+Turn ID=20| A | A : zo
+	Free: 
+	Constrained: 
+Turn ID=21| A | A : als ik hem kunnen vinden
+	Free: 
+	Constrained: 
+Turn ID=22| A | A : M
+	Free: 
+	Constrained: 
+Turn ID=23| A | A : M zes
+	Free: 
+	Constrained: 
+Turn ID=24| B | B : even
+	Free: 
+	Constrained: 
+Turn ID=25| B | B : ja die bol bovenop en dan één toren van het World Trade Center lijken het
+	Free: Pattern=ja, Pattern=dan, Pattern=het, Pattern=die, Pattern=van, Pattern=één
+	Constrained: 
+Turn ID=26| B | B : L
+	Free: 
+	Constrained: 
+Turn ID=27| B | B : met die rond bovenop die bol zeggen maar en dan weer die lang balk aan de voorkant
+	Free: Pattern=met die, Pattern=die, Pattern=balk, Pattern=dan
+	Constrained: Pattern=die, Pattern=met
+Turn ID=28| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=29| A | A : je mijn arm
+	Free: 
+	Constrained: 
+Turn ID=30| A | A : balk balk ervoor
+	Free: Pattern=balk
+	Constrained: 
+Turn ID=31| A | A : vijftien
+	Free: 
+	Constrained: 
+Turn ID=32| A | A : A drie
+	Free: 
+	Constrained: 
+Turn ID=33| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=34| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=35| B | B : die bol en dan weer die World Trade Center
+	Free: Pattern=die, Pattern=dan
+	Constrained: 

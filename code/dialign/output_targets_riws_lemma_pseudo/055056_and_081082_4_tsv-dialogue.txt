@@ -1,0 +1,115 @@
+B|0| B: _twee_ balk _aan de rechterkant_ _waar_ staan die ? _ja_ die 
+B|1| B: _ja_ _een soort_ hoedje op zeggen _je_ 
+B|2| B: _ja_ _ja_ _ja_ _ja_ _ja_ 
+B|3| B: bij mij _zijn_ dat _zijn_ dat nou _een_ I of _een_ L 
+B|4| B: dat _zijn_ _de_ I 
+A|5| A: deze zullen ik [de] ander stekker noemen 
+A|6| A: maar _dan_ [aan de rechterkant] steken er [twee] wat bredere pinn uit 
+A|7| A: hij hebben [een soort] drinktui [aan de] bovenkant 
+A|8| A: _en_ links nog [twee] verschillend [soort] uitsteeksel 
+A|9| A: één midden één wat veel onderaan 
+A|10| A: nice [ja] nee net 
+A|11| A: net 
+B|12| B: [dan] dit _zijn_ met die die [twee] balk [aan de] rechts kant 
+B|13| B: [en] [een] hoed op 
+B|14| B: uitlaat _het_ hoedje [en] [de] balk naar rechts [ja] dat _zijn_ bij mij M 
+A|15| A: [ja] 
+A|16| A: oké [ja] hebbes nummer [twee] 
+B|17| B: _het_ hoedje [en] [de] [twee] balk [aan de] rechts kant 
+B|18| B: _het_ hoedje [en] [de] [twee] balk _zijn_ bij mij F 
+A|19| A: [het] varken 
+B|20| B: [het] hoedje [en] [de] [twee] balk [aan de] rechts kant 
+A|21| A: varken [waar] [zijn] [je] ? [waar] [zijn] [je] ? [waar] [zijn] [je] 
+A|22| A: hebbes 
+A|23| A: nummer negen 
+A|24| A: varken 
+A|25| A: varken [waar] [zijn] [je] 
+A|26| A: hebbes 
+A|27| A: nummer zes 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : twee balk aan de rechterkant waar staan die ? ja die
+	Free: Pattern=aan de rechterkant, Pattern=waar, Pattern=twee, Pattern=ja
+	Constrained: Pattern=aan de, Pattern=de
+Turn ID=1| B | B : ja een soort hoedje op zeggen je
+	Free: Pattern=een soort, Pattern=je, Pattern=ja
+	Constrained: Pattern=soort, Pattern=een
+Turn ID=2| B | B : ja ja ja ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=3| B | B : bij mij zijn dat zijn dat nou een I of een L
+	Free: Pattern=zijn, Pattern=een
+	Constrained: 
+Turn ID=4| B | B : dat zijn de I
+	Free: Pattern=zijn, Pattern=de
+	Constrained: 
+Turn ID=5| A | A : deze zullen ik de ander stekker noemen
+	Free: Pattern=de
+	Constrained: 
+Turn ID=6| A | A : maar dan aan de rechterkant steken er twee wat bredere pinn uit
+	Free: Pattern=aan de rechterkant, Pattern=dan, Pattern=twee
+	Constrained: Pattern=aan de, Pattern=de
+Turn ID=7| A | A : hij hebben een soort drinktui aan de bovenkant
+	Free: Pattern=een soort, Pattern=aan de
+	Constrained: Pattern=soort, Pattern=de, Pattern=een
+Turn ID=8| A | A : en links nog twee verschillend soort uitsteeksel
+	Free: Pattern=soort, Pattern=twee, Pattern=en
+	Constrained: 
+Turn ID=9| A | A : één midden één wat veel onderaan
+	Free: 
+	Constrained: 
+Turn ID=10| A | A : nice ja nee net
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=11| A | A : net
+	Free: 
+	Constrained: 
+Turn ID=12| B | B : dan dit zijn met die die twee balk aan de rechts kant
+	Free: Pattern=aan de, Pattern=dan, Pattern=zijn, Pattern=twee
+	Constrained: Pattern=de
+Turn ID=13| B | B : en een hoed op
+	Free: Pattern=en, Pattern=een
+	Constrained: 
+Turn ID=14| B | B : uitlaat het hoedje en de balk naar rechts ja dat zijn bij mij M
+	Free: Pattern=het, Pattern=en, Pattern=zijn, Pattern=de, Pattern=ja
+	Constrained: 
+Turn ID=15| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=16| A | A : oké ja hebbes nummer twee
+	Free: Pattern=twee, Pattern=ja
+	Constrained: 
+Turn ID=17| B | B : het hoedje en de twee balk aan de rechts kant
+	Free: Pattern=twee, Pattern=de, Pattern=aan de, Pattern=het, Pattern=en
+	Constrained: Pattern=de
+Turn ID=18| B | B : het hoedje en de twee balk zijn bij mij F
+	Free: Pattern=twee, Pattern=de, Pattern=het, Pattern=en, Pattern=zijn
+	Constrained: 
+Turn ID=19| A | A : het varken
+	Free: Pattern=het
+	Constrained: 
+Turn ID=20| B | B : het hoedje en de twee balk aan de rechts kant
+	Free: Pattern=twee, Pattern=de, Pattern=aan de, Pattern=het, Pattern=en
+	Constrained: Pattern=de
+Turn ID=21| A | A : varken waar zijn je ? waar zijn je ? waar zijn je
+	Free: Pattern=zijn, Pattern=waar, Pattern=je
+	Constrained: 
+Turn ID=22| A | A : hebbes
+	Free: 
+	Constrained: 
+Turn ID=23| A | A : nummer negen
+	Free: 
+	Constrained: 
+Turn ID=24| A | A : varken
+	Free: 
+	Constrained: 
+Turn ID=25| A | A : varken waar zijn je
+	Free: Pattern=zijn, Pattern=waar, Pattern=je
+	Constrained: 
+Turn ID=26| A | A : hebbes
+	Free: 
+	Constrained: 
+Turn ID=27| A | A : nummer zes
+	Free: 
+	Constrained: 

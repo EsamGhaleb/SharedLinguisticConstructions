@@ -1,0 +1,127 @@
+A|0| A: _ja_ _hebben_ _het_ _een_ lepeltje 
+A|1| A: _of_ van _die_ oort 
+A|2| A: _een_ _vierkant_ band _ja_ _met_ één _armpje_ omhoog _en_ _zo'n_ neus naar 
+A|3| A: _ja_ _dan_ _zijn_ _het_ zes 
+B|4| B: [het] [ja] [het] doen mij [een] [ja] [ja] [het] aandoen mij denken aan [een] soort olifan maar [dan] weten ik natuurlijk niet [of] [het] jou daaraan doen denken 
+B|5| B: nee hij [hebben] uit [ja] echt [zo'n] slurf aan _de_ voorkant 
+B|6| B: [en] [dan] lijken [het] net alsof [die] zo zeggen maar [een] [armpje] op houden 
+B|7| B: [en] [dan] bovenop staan nog twee heel klein cilindertje 
+B|8| B: naast elkaar 
+B|9| B: [ja] er zitten [een] soort [vierkant] ding 
+B|10| B: [ja] 
+A|11| A: [die] [hebben] [een] rok _dat_ vierkan 
+A|12| A: [ja] dertien 
+B|13| B: [zo'n] [armpje] zo zullen je [het] zo kunnen zien 
+B|14| B: [en] 
+B|15| B: [ja] [ja] [dat] [zijn] C 
+B|16| B: dit [zijn] [die] [met] aan _de_ voorkant [een] slurf 
+B|17| B: boven op [het] hoofd twee [ja] cilindert [of] rechthoekje 
+B|18| B: [en] [het] armp 
+A|19| A: [het] rokje weer [die] 
+B|20| B: _de_ olifant even zeggen maar [met] _de_ arm zo 
+B|21| B: J 
+A|22| A: [ja] [zijn] negen 
+A|23| A: [het] [het] [het] rokje weer [dat] [de] ballerina 
+B|24| B: dit [zijn] [de] olifant [met] [het] [armpje] zo 
+B|25| B: [en] [het] [vierkant] plateau erdoorheen 
+B|26| B: bij mij staan [die] heel erg rechts 
+B|27| B: nou toevallig 
+B|28| B: olifan [met] [een] [armpje] 
+B|29| B: [ja] bij mij ook [ja] 
+B|30| B: [dat] [zijn] N 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : ja hebben het een lepeltje
+	Free: Pattern=het, Pattern=een, Pattern=hebben, Pattern=ja
+	Constrained: 
+Turn ID=1| A | A : of van die oort
+	Free: Pattern=of, Pattern=die
+	Constrained: 
+Turn ID=2| A | A : een vierkant band ja met één armpje omhoog en zo'n neus naar
+	Free: Pattern=armpje, Pattern=zo'n, Pattern=ja, Pattern=een, Pattern=met, Pattern=en, Pattern=vierkant
+	Constrained: 
+Turn ID=3| A | A : ja dan zijn het zes
+	Free: Pattern=het, Pattern=dan, Pattern=zijn, Pattern=ja
+	Constrained: 
+Turn ID=4| B | B : het ja het doen mij een ja ja het aandoen mij denken aan een soort olifan maar dan weten ik natuurlijk niet of het jou daaraan doen denken
+	Free: Pattern=of, Pattern=ja, Pattern=dan, Pattern=een, Pattern=het
+	Constrained: 
+Turn ID=5| B | B : nee hij hebben uit ja echt zo'n slurf aan de voorkant
+	Free: Pattern=de, Pattern=hebben, Pattern=ja, Pattern=zo'n
+	Constrained: 
+Turn ID=6| B | B : en dan lijken het net alsof die zo zeggen maar een armpje op houden
+	Free: Pattern=armpje, Pattern=dan, Pattern=een, Pattern=het, Pattern=die, Pattern=en
+	Constrained: 
+Turn ID=7| B | B : en dan bovenop staan nog twee heel klein cilindertje
+	Free: Pattern=en, Pattern=dan
+	Constrained: 
+Turn ID=8| B | B : naast elkaar
+	Free: 
+	Constrained: 
+Turn ID=9| B | B : ja er zitten een soort vierkant ding
+	Free: Pattern=een, Pattern=vierkant, Pattern=ja
+	Constrained: 
+Turn ID=10| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=11| A | A : die hebben een rok dat vierkan
+	Free: Pattern=een, Pattern=dat, Pattern=die, Pattern=hebben
+	Constrained: 
+Turn ID=12| A | A : ja dertien
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=13| B | B : zo'n armpje zo zullen je het zo kunnen zien
+	Free: Pattern=het, Pattern=armpje, Pattern=zo'n
+	Constrained: 
+Turn ID=14| B | B : en
+	Free: Pattern=en
+	Constrained: 
+Turn ID=15| B | B : ja ja dat zijn C
+	Free: Pattern=dat, Pattern=zijn, Pattern=ja
+	Constrained: 
+Turn ID=16| B | B : dit zijn die met aan de voorkant een slurf
+	Free: Pattern=de, Pattern=een, Pattern=met, Pattern=die, Pattern=zijn
+	Constrained: 
+Turn ID=17| B | B : boven op het hoofd twee ja cilindert of rechthoekje
+	Free: Pattern=het, Pattern=of, Pattern=ja
+	Constrained: 
+Turn ID=18| B | B : en het armp
+	Free: Pattern=het, Pattern=en
+	Constrained: 
+Turn ID=19| A | A : het rokje weer die
+	Free: Pattern=het, Pattern=die
+	Constrained: 
+Turn ID=20| B | B : de olifant even zeggen maar met de arm zo
+	Free: Pattern=met, Pattern=de
+	Constrained: 
+Turn ID=21| B | B : J
+	Free: 
+	Constrained: 
+Turn ID=22| A | A : ja zijn negen
+	Free: Pattern=zijn, Pattern=ja
+	Constrained: 
+Turn ID=23| A | A : het het het rokje weer dat de ballerina
+	Free: Pattern=het, Pattern=dat, Pattern=de
+	Constrained: 
+Turn ID=24| B | B : dit zijn de olifant met het armpje zo
+	Free: Pattern=armpje, Pattern=de, Pattern=het, Pattern=met, Pattern=zijn
+	Constrained: 
+Turn ID=25| B | B : en het vierkant plateau erdoorheen
+	Free: Pattern=het, Pattern=en, Pattern=vierkant
+	Constrained: 
+Turn ID=26| B | B : bij mij staan die heel erg rechts
+	Free: Pattern=die
+	Constrained: 
+Turn ID=27| B | B : nou toevallig
+	Free: 
+	Constrained: 
+Turn ID=28| B | B : olifan met een armpje
+	Free: Pattern=met, Pattern=een, Pattern=armpje
+	Constrained: 
+Turn ID=29| B | B : ja bij mij ook ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=30| B | B : dat zijn N
+	Free: Pattern=dat, Pattern=zijn
+	Constrained: 

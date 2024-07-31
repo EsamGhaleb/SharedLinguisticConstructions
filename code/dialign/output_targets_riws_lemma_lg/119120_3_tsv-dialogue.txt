@@ -1,0 +1,143 @@
+A|0| A: rood 
+B|1| B: _oké_ dit dit _zijn_ _het_ _voet_ _met_ _spiraal_ 
+A|2| A: _ja_ 
+B|3| B: [ja] 
+A|4| A: _en dan_ [met] _een_ _driehoek onderaan_ 
+B|5| B: [ja] [driehoek onderaan] [en] [een] vierkant bovenop [ja] 
+A|6| A: [oké] 
+A|7| A: [oké] welk [zijn] die 
+B|8| B: _C_ 
+A|9| A: [C] vier 
+A|10| A: omdraaien 
+A|11| A: _met het_ draaien draaien been [voet] 
+B|12| B: _de_ _de_ _de spiraal_ 
+A|13| A: [de spiraal] [ja] 
+B|14| B: [ja] 
+A|15| A: acht 
+B|16| B: A achten 
+B|17| B: dit [zijn] [een] [spiraal] op [het] driehoekig voe 
+A|18| A: [ja] 
+B|19| B: [en dan] zo omhoog 
+B|20| B: [ja] _K_ bij mij 
+A|21| A: [K] tien 
+A|22| A: draaien [voet] 
+B|23| B: even kijken 
+A|24| A: _twee_ 
+B|25| B: L [twee] 
+A|26| A: yes 
+B|27| B: [de spiraal] [met het] voe 
+A|28| A: [ja] 
+B|29| B: _E_ 
+A|30| A: [E] vier 
+A|31| A: spiraalvoet 
+B|32| B: F 
+A|33| A: [twee] 
+B|34| B: F [twee] 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : rood
+	Free: 
+	Constrained: 
+Turn ID=1| B | B : oké dit dit zijn het voet met spiraal
+	Free: Pattern=voet, Pattern=het, Pattern=met, Pattern=oké, Pattern=spiraal, Pattern=zijn
+	Constrained: 
+Turn ID=2| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=3| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=4| A | A : en dan met een driehoek onderaan
+	Free: Pattern=en dan, Pattern=driehoek onderaan, Pattern=een, Pattern=met
+	Constrained: Pattern=en
+Turn ID=5| B | B : ja driehoek onderaan en een vierkant bovenop ja
+	Free: Pattern=driehoek onderaan, Pattern=een, Pattern=en, Pattern=ja
+	Constrained: 
+Turn ID=6| A | A : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=7| A | A : oké welk zijn die
+	Free: Pattern=oké, Pattern=zijn
+	Constrained: 
+Turn ID=8| B | B : C
+	Free: Pattern=C
+	Constrained: 
+Turn ID=9| A | A : C vier
+	Free: Pattern=C
+	Constrained: 
+Turn ID=10| A | A : omdraaien
+	Free: 
+	Constrained: 
+Turn ID=11| A | A : met het draaien draaien been voet
+	Free: Pattern=met het, Pattern=voet
+	Constrained: Pattern=het, Pattern=met
+Turn ID=12| B | B : de de de spiraal
+	Free: Pattern=de spiraal, Pattern=de
+	Constrained: Pattern=spiraal, Pattern=de
+Turn ID=13| A | A : de spiraal ja
+	Free: Pattern=de spiraal, Pattern=ja
+	Constrained: Pattern=spiraal, Pattern=de
+Turn ID=14| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=15| A | A : acht
+	Free: 
+	Constrained: 
+Turn ID=16| B | B : A achten
+	Free: 
+	Constrained: 
+Turn ID=17| B | B : dit zijn een spiraal op het driehoekig voe
+	Free: Pattern=een, Pattern=spiraal, Pattern=het, Pattern=zijn
+	Constrained: 
+Turn ID=18| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=19| B | B : en dan zo omhoog
+	Free: Pattern=en dan
+	Constrained: Pattern=en
+Turn ID=20| B | B : ja K bij mij
+	Free: Pattern=K, Pattern=ja
+	Constrained: 
+Turn ID=21| A | A : K tien
+	Free: Pattern=K
+	Constrained: 
+Turn ID=22| A | A : draaien voet
+	Free: Pattern=voet
+	Constrained: 
+Turn ID=23| B | B : even kijken
+	Free: 
+	Constrained: 
+Turn ID=24| A | A : twee
+	Free: Pattern=twee
+	Constrained: 
+Turn ID=25| B | B : L twee
+	Free: Pattern=twee
+	Constrained: 
+Turn ID=26| A | A : yes
+	Free: 
+	Constrained: 
+Turn ID=27| B | B : de spiraal met het voe
+	Free: Pattern=de spiraal, Pattern=met het
+	Constrained: Pattern=spiraal, Pattern=de, Pattern=het, Pattern=met
+Turn ID=28| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=29| B | B : E
+	Free: Pattern=E
+	Constrained: 
+Turn ID=30| A | A : E vier
+	Free: Pattern=E
+	Constrained: 
+Turn ID=31| A | A : spiraalvoet
+	Free: 
+	Constrained: 
+Turn ID=32| B | B : F
+	Free: 
+	Constrained: 
+Turn ID=33| A | A : twee
+	Free: Pattern=twee
+	Constrained: 
+Turn ID=34| B | B : F twee
+	Free: Pattern=twee
+	Constrained: 

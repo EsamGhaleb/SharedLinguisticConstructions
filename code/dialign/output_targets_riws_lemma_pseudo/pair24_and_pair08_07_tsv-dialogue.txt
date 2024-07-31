@@ -1,0 +1,167 @@
+A|0| A: oké _ja_ 
+A|1| A: hij _ja_ hij hangen echt 
+A|2| A: oké 
+A|3| A: _dat zijn_ nummer vijfteen 
+B|4| B: deze hebben _een_ soort van plateau boven het midden _dit zijn_ _een_ beetje raar _en_ _die_ hebben dan twee poo 
+B|5| B: links _en_ rechts 
+B|6| B: _en_ in het midden zitten , van het plateau zegmaar , zitten [ja] _een_ soort piramide _op_ [zijn] kop 
+B|7| B: [ja] [ja] 
+A|8| A: [dit zijn] de bak [die] [op] de _hoe_ heten _dat_ [op] [een] [ja] ergens [op] leunlen 
+A|9| A: de ondersteunen balk met de houtversnipperaar erbij 
+B|10| B: [ja] 
+B|11| B: piramide [op] [zijn] kop [ja] 
+B|12| B: [ja] 
+B|13| B: [ja] 
+B|14| B: [dat zijn] L 
+A|15| A: oké vijfteen 
+B|16| B: [hoe] noemen we deze ook alweer ? deze hebben zo'n vierkant boven het midden _en_ dan twee stok aan 
+B|17| B: links _en_ rechts _en_ [een] piramide [op] [zijn] kop er _bovenop_ 
+B|18| B: _en_ [een] klein haak linksbof 
+B|19| B: niet veel [hoe] we [die] noemen 
+B|20| B: zo [ja] 
+B|21| B: [ja] 
+B|22| B: [ja] [dat zijn] hem , [ja] 
+B|23| B: [ja] 
+A|24| A: de bak [die] leunt [op] één of [die] echt ondersteunen worden door [een] met de houtversnipperaar [bovenop] [en] 
+A|25| A: nummer [een] 
+B|26| B: [ja] 
+B|27| B: [ja] 
+B|28| B: piramide [op] [zijn] kop 
+B|29| B: [ja] 
+B|30| B: I 
+B|31| B: [dit zijn] [dat] dienblad [die] je om kunnen gooien 
+B|32| B: ho 
+B|33| B: [en] [en] [een] piramide [op] [zijn] kop 
+B|34| B: [ja] 
+B|35| B: [ja] [ja] [ja] 
+A|36| A: de bak [die] ondersteunen worden door de de de houtversnipperaar 
+B|37| B: [ja] 
+B|38| B: ik zoeken hem 
+B|39| B: [ja] 
+B|40| B: L 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : oké ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=1| A | A : hij ja hij hangen echt
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=2| A | A : oké
+	Free: 
+	Constrained: 
+Turn ID=3| A | A : dat zijn nummer vijfteen
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=4| B | B : deze hebben een soort van plateau boven het midden dit zijn een beetje raar en die hebben dan twee poo
+	Free: Pattern=dit zijn, Pattern=een, Pattern=en, Pattern=die
+	Constrained: Pattern=zijn
+Turn ID=5| B | B : links en rechts
+	Free: Pattern=en
+	Constrained: 
+Turn ID=6| B | B : en in het midden zitten , van het plateau zegmaar , zitten ja een soort piramide op zijn kop
+	Free: Pattern=ja, Pattern=op, Pattern=een, Pattern=en, Pattern=zijn
+	Constrained: 
+Turn ID=7| B | B : ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=8| A | A : dit zijn de bak die op de hoe heten dat op een ja ergens op leunlen
+	Free: Pattern=ja, Pattern=op, Pattern=een, Pattern=die, Pattern=dit zijn, Pattern=dat, Pattern=hoe
+	Constrained: Pattern=zijn
+Turn ID=9| A | A : de ondersteunen balk met de houtversnipperaar erbij
+	Free: 
+	Constrained: 
+Turn ID=10| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=11| B | B : piramide op zijn kop ja
+	Free: Pattern=zijn, Pattern=op, Pattern=ja
+	Constrained: 
+Turn ID=12| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=13| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=14| B | B : dat zijn L
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=15| A | A : oké vijfteen
+	Free: 
+	Constrained: 
+Turn ID=16| B | B : hoe noemen we deze ook alweer ? deze hebben zo'n vierkant boven het midden en dan twee stok aan
+	Free: Pattern=en, Pattern=hoe
+	Constrained: 
+Turn ID=17| B | B : links en rechts en een piramide op zijn kop er bovenop
+	Free: Pattern=bovenop, Pattern=op, Pattern=een, Pattern=en, Pattern=zijn
+	Constrained: 
+Turn ID=18| B | B : en een klein haak linksbof
+	Free: Pattern=een, Pattern=en
+	Constrained: 
+Turn ID=19| B | B : niet veel hoe we die noemen
+	Free: Pattern=die, Pattern=hoe
+	Constrained: 
+Turn ID=20| B | B : zo ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=21| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=22| B | B : ja dat zijn hem , ja
+	Free: Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=23| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=24| A | A : de bak die leunt op één of die echt ondersteunen worden door een met de houtversnipperaar bovenop en
+	Free: Pattern=bovenop, Pattern=op, Pattern=een, Pattern=die, Pattern=en
+	Constrained: 
+Turn ID=25| A | A : nummer een
+	Free: Pattern=een
+	Constrained: 
+Turn ID=26| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=27| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=28| B | B : piramide op zijn kop
+	Free: Pattern=zijn, Pattern=op
+	Constrained: 
+Turn ID=29| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=30| B | B : I
+	Free: 
+	Constrained: 
+Turn ID=31| B | B : dit zijn dat dienblad die je om kunnen gooien
+	Free: Pattern=dit zijn, Pattern=die, Pattern=dat
+	Constrained: Pattern=zijn
+Turn ID=32| B | B : ho
+	Free: 
+	Constrained: 
+Turn ID=33| B | B : en en een piramide op zijn kop
+	Free: Pattern=een, Pattern=en, Pattern=zijn, Pattern=op
+	Constrained: 
+Turn ID=34| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=35| B | B : ja ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=36| A | A : de bak die ondersteunen worden door de de de houtversnipperaar
+	Free: Pattern=die
+	Constrained: 
+Turn ID=37| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=38| B | B : ik zoeken hem
+	Free: 
+	Constrained: 
+Turn ID=39| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=40| B | B : L
+	Free: 
+	Constrained: 

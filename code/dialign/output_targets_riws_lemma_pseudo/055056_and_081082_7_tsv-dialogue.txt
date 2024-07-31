@@ -1,0 +1,167 @@
+B|0| B: _oké_ 
+B|1| B: dit _zijn_ _met het_ tafel _aan de_ voorkant 
+B|2| B: _het_ plat lijken _op_ _een_ plat vlak _met twee poo_ 
+B|3| B: _met_ zo'n bak _erop_ 
+B|4| B: _met_ _die_ krullet _aan de_ zijkant 
+B|5| B: of niet 
+B|6| B: _dat_ tafel _ja_ 
+B|7| B: _oké_ _dat zijn_ bij mij P 
+A|8| A: hebben [die] [een] soort [een] soort piramideachtig [op] [de] bovenkant 
+A|9| A: _dus_ [de] 
+A|10| A: [een] soort dienblad 
+A|11| A: dienblad [met twee] schuin [poo] eronder 
+A|12| A: [oké] _en_ dan bijstaan daar _nog een_ soort bakblik [op] 
+A|13| A: [ja] _en aan de achterkant_ [een] soort haakje omhoog 
+A|14| A: [oké] [ja] 
+A|15| A: [dat zijn] nummer zestien 
+B|16| B: dit [zijn] _het_ tafel _met het_ piramidestuk _erop_ of zo 
+B|17| B: [en aan de achterkant] [nog _een] een_ kronkel 
+B|18| B: [dus] [dat] tafel [met] [die] [twee] 
+B|19| B: [met] [die] _twee poo_ [ja] 
+A|20| A: [het] vierkant dienblad _met de_ [poo] [en] [de] bakblik [erop] 
+A|21| A: [en] dienblad staan vrij hoog [aan] [het] koffiekopje 
+A|22| A: [ja] 
+A|23| A: haak [aan de achterkant] 
+A|24| A: [ja] 
+B|25| B: [ja] [dat zijn] N 
+B|26| B: [het] tafel [met de] _twee poo_ 
+A|27| A: dienblad 
+A|28| A: [ja] 
+A|29| A: nummer veertien 
+B|30| B: [dat zijn] D 
+A|31| A: dienblad 
+A|32| A: [aan de] bovenkant [met twee poo] [met het] bakblik [erop] 
+A|33| A: wat wat voor dienblad ? sorry 
+A|34| A: [het] Ronde 
+A|35| A: [een een] bakblik 
+A|36| A: [ja] 
+A|37| A: dienblad bakblik 
+A|38| A: nummer tien 
+A|39| A: koffiekopje [met] hoog dienblad [met] [poo] 
+A|40| A: Bakblik [erop] 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=1| B | B : dit zijn met het tafel aan de voorkant
+	Free: Pattern=aan de, Pattern=met het, Pattern=zijn
+	Constrained: Pattern=de, Pattern=aan, Pattern=het, Pattern=met
+Turn ID=2| B | B : het plat lijken op een plat vlak met twee poo
+	Free: Pattern=met twee poo, Pattern=een, Pattern=het, Pattern=op
+	Constrained: Pattern=twee, Pattern=poo, Pattern=met twee, Pattern=met, Pattern=twee poo
+Turn ID=3| B | B : met zo'n bak erop
+	Free: Pattern=met, Pattern=erop
+	Constrained: 
+Turn ID=4| B | B : met die krullet aan de zijkant
+	Free: Pattern=aan de, Pattern=die, Pattern=met
+	Constrained: Pattern=de, Pattern=aan
+Turn ID=5| B | B : of niet
+	Free: 
+	Constrained: 
+Turn ID=6| B | B : dat tafel ja
+	Free: Pattern=dat, Pattern=ja
+	Constrained: 
+Turn ID=7| B | B : oké dat zijn bij mij P
+	Free: Pattern=dat zijn, Pattern=oké
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=8| A | A : hebben die een soort een soort piramideachtig op de bovenkant
+	Free: Pattern=een, Pattern=die, Pattern=de, Pattern=op
+	Constrained: 
+Turn ID=9| A | A : dus de
+	Free: Pattern=dus, Pattern=de
+	Constrained: 
+Turn ID=10| A | A : een soort dienblad
+	Free: Pattern=een
+	Constrained: 
+Turn ID=11| A | A : dienblad met twee schuin poo eronder
+	Free: Pattern=met twee, Pattern=poo
+	Constrained: Pattern=twee, Pattern=met
+Turn ID=12| A | A : oké en dan bijstaan daar nog een soort bakblik op
+	Free: Pattern=nog een, Pattern=oké, Pattern=op, Pattern=en
+	Constrained: Pattern=een
+Turn ID=13| A | A : ja en aan de achterkant een soort haakje omhoog
+	Free: Pattern=en aan de achterkant, Pattern=een, Pattern=ja
+	Constrained: Pattern=aan de achterkant, Pattern=aan de, Pattern=en, Pattern=de, Pattern=aan
+Turn ID=14| A | A : oké ja
+	Free: Pattern=oké, Pattern=ja
+	Constrained: 
+Turn ID=15| A | A : dat zijn nummer zestien
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=16| B | B : dit zijn het tafel met het piramidestuk erop of zo
+	Free: Pattern=met het, Pattern=zijn, Pattern=het, Pattern=erop
+	Constrained: Pattern=het, Pattern=met
+Turn ID=17| B | B : en aan de achterkant nog een een kronkel
+	Free: Pattern=en aan de achterkant, Pattern=nog een, Pattern=een een
+	Constrained: Pattern=aan de achterkant, Pattern=aan de, Pattern=een, Pattern=en, Pattern=de, Pattern=aan
+Turn ID=18| B | B : dus dat tafel met die twee
+	Free: Pattern=dat, Pattern=twee, Pattern=dus, Pattern=met, Pattern=die
+	Constrained: 
+Turn ID=19| B | B : met die twee poo ja
+	Free: Pattern=twee poo, Pattern=die, Pattern=ja, Pattern=met
+	Constrained: Pattern=twee, Pattern=poo
+Turn ID=20| A | A : het vierkant dienblad met de poo en de bakblik erop
+	Free: Pattern=erop, Pattern=het, Pattern=en, Pattern=de, Pattern=met de, Pattern=poo
+	Constrained: Pattern=de, Pattern=met
+Turn ID=21| A | A : en dienblad staan vrij hoog aan het koffiekopje
+	Free: Pattern=aan, Pattern=het, Pattern=en
+	Constrained: 
+Turn ID=22| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=23| A | A : haak aan de achterkant
+	Free: Pattern=aan de achterkant
+	Constrained: Pattern=aan, Pattern=de, Pattern=aan de
+Turn ID=24| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=25| B | B : ja dat zijn N
+	Free: Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=26| B | B : het tafel met de twee poo
+	Free: Pattern=twee poo, Pattern=met de, Pattern=het
+	Constrained: Pattern=twee, Pattern=de, Pattern=poo, Pattern=met
+Turn ID=27| A | A : dienblad
+	Free: 
+	Constrained: 
+Turn ID=28| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=29| A | A : nummer veertien
+	Free: 
+	Constrained: 
+Turn ID=30| B | B : dat zijn D
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=31| A | A : dienblad
+	Free: 
+	Constrained: 
+Turn ID=32| A | A : aan de bovenkant met twee poo met het bakblik erop
+	Free: Pattern=met twee poo, Pattern=aan de, Pattern=met het, Pattern=erop
+	Constrained: Pattern=twee, Pattern=het, Pattern=met twee, Pattern=met, Pattern=twee poo, Pattern=de, Pattern=aan, Pattern=poo
+Turn ID=33| A | A : wat wat voor dienblad ? sorry
+	Free: 
+	Constrained: 
+Turn ID=34| A | A : het Ronde
+	Free: Pattern=het
+	Constrained: 
+Turn ID=35| A | A : een een bakblik
+	Free: Pattern=een een
+	Constrained: Pattern=een
+Turn ID=36| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=37| A | A : dienblad bakblik
+	Free: 
+	Constrained: 
+Turn ID=38| A | A : nummer tien
+	Free: 
+	Constrained: 
+Turn ID=39| A | A : koffiekopje met hoog dienblad met poo
+	Free: Pattern=poo, Pattern=met
+	Constrained: 
+Turn ID=40| A | A : Bakblik erop
+	Free: Pattern=erop
+	Constrained: 

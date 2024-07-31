@@ -1,0 +1,171 @@
+A|0| A: _ja_ _ik_ _ik_ _vinden_ deze _de_ raar vorm van van allemaal 
+A|1| A: _zitten_ _het_ _lijken_ _op_ _zo'n zo'n_ _satelliet_ _of_ zo 
+A|2| A: _bovenin_ 
+B|3| B: event kijken 
+B|4| B: _zijn_ _dat_ _met_ [zitten] er _ook_ [zo'n] vierkant plaat aan [de] zijkant [of] niet 
+B|5| B: _die_ [vinden] [ik] een beetje [op] een [satelliet] [lijken] 
+A|6| A: nee 
+A|7| A: _ja_ _het_ _hebben_ wel beneden _zeggen maar_ _zo'n zo'n_ waterslurfachtig 
+A|8| A: [zo'n] _zeggen maar_ _ja_ je zullen _het_ [ook] kunnen zien 
+B|9| B: _die_ 
+B|10| B: [ja] [ja] 
+B|11| B: [zitten] [bovenin] een ruit _met_ aan allebei [de] kant een dinget ? [ja] 
+A|12| A: [ja] juist 
+B|13| B: _en_ _en_ [bovenin] [zeggen maar] _veel_ _in_ [zo'n zo'n] Jvorm [zo'n] sik [of] niet 
+A|14| A: [ja] eigenlijk wel 
+B|15| B: [ja] 
+A|16| A: weten je wanneer je [in] _het_ ziekenhuis [zijn] [en] dan _hebben_ je van al [die] Tubes [en] zo 
+B|17| B: [ja] [ja] [ja] 
+B|18| B: [ja] 
+A|19| A: [dat] 
+B|20| B: _oké_ 
+A|21| A: [ja] kloppen 
+B|22| B: M 
+A|23| A: jou beurt 
+B|24| B: nu [hebben] [ik] weer _die die_ _met die_ blauw [of] _met die_ _met die_ sik onderaan 
+A|25| A: [met die] ding _boven_ _die satelliet_ [of] plateau weten [ik] [veel] wat _het zijn_ 
+B|26| B: [ja] 
+B|27| B: [ja] 
+A|28| A: [oké] 
+A|29| A: negen 
+A|30| A: [die die] J [zeggen maar] _met die satelliet_ daar bovenaan 
+B|31| B: [ja] 
+B|32| B: H 
+B|33| B: [die] [met die satelliet] [boven] [en] [die] sik daaronder 
+A|34| A: [ja] 
+A|35| A: elf 
+A|36| A: [ja] [die] sitconding wat je [zeggen] [of] [die] J [en] dan [die satelliet] 
+B|37| B: [ja] 
+B|38| B: d 
+B|39| B: [het zijn] [die satelliet] [en] [die] sik 
+A|40| A: [ja] 
+A|41| A: veertien 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : ja ik ik vinden deze de raar vorm van van allemaal
+	Free: Pattern=ik, Pattern=de, Pattern=vinden, Pattern=ja
+	Constrained: 
+Turn ID=1| A | A : zitten het lijken op zo'n zo'n satelliet of zo
+	Free: Pattern=of, Pattern=op, Pattern=lijken, Pattern=het, Pattern=zitten, Pattern=satelliet, Pattern=zo'n zo'n
+	Constrained: Pattern=zo'n
+Turn ID=2| A | A : bovenin
+	Free: Pattern=bovenin
+	Constrained: 
+Turn ID=3| B | B : event kijken
+	Free: 
+	Constrained: 
+Turn ID=4| B | B : zijn dat met zitten er ook zo'n vierkant plaat aan de zijkant of niet
+	Free: Pattern=dat, Pattern=of, Pattern=zo'n, Pattern=de, Pattern=ook, Pattern=met, Pattern=zitten, Pattern=zijn
+	Constrained: 
+Turn ID=5| B | B : die vinden ik een beetje op een satelliet lijken
+	Free: Pattern=vinden, Pattern=op, Pattern=lijken, Pattern=die, Pattern=ik, Pattern=satelliet
+	Constrained: 
+Turn ID=6| A | A : nee
+	Free: 
+	Constrained: 
+Turn ID=7| A | A : ja het hebben wel beneden zeggen maar zo'n zo'n waterslurfachtig
+	Free: Pattern=ja, Pattern=zeggen maar, Pattern=het, Pattern=hebben, Pattern=zo'n zo'n
+	Constrained: Pattern=zeggen, Pattern=zo'n
+Turn ID=8| A | A : zo'n zeggen maar ja je zullen het ook kunnen zien
+	Free: Pattern=zo'n, Pattern=ja, Pattern=ook, Pattern=zeggen maar, Pattern=het
+	Constrained: Pattern=zeggen
+Turn ID=9| B | B : die
+	Free: Pattern=die
+	Constrained: 
+Turn ID=10| B | B : ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=11| B | B : zitten bovenin een ruit met aan allebei de kant een dinget ? ja
+	Free: Pattern=met, Pattern=zitten, Pattern=bovenin, Pattern=de, Pattern=ja
+	Constrained: 
+Turn ID=12| A | A : ja juist
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=13| B | B : en en bovenin zeggen maar veel in zo'n zo'n Jvorm zo'n sik of niet
+	Free: Pattern=of, Pattern=zo'n, Pattern=veel, Pattern=zeggen maar, Pattern=in, Pattern=en, Pattern=zo'n zo'n, Pattern=bovenin
+	Constrained: Pattern=zeggen, Pattern=zo'n
+Turn ID=14| A | A : ja eigenlijk wel
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=15| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=16| A | A : weten je wanneer je in het ziekenhuis zijn en dan hebben je van al die Tubes en zo
+	Free: Pattern=het, Pattern=hebben, Pattern=in, Pattern=die, Pattern=en, Pattern=zijn
+	Constrained: 
+Turn ID=17| B | B : ja ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=18| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=19| A | A : dat
+	Free: Pattern=dat
+	Constrained: 
+Turn ID=20| B | B : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=21| A | A : ja kloppen
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=22| B | B : M
+	Free: 
+	Constrained: 
+Turn ID=23| A | A : jou beurt
+	Free: 
+	Constrained: 
+Turn ID=24| B | B : nu hebben ik weer die die met die blauw of met die met die sik onderaan
+	Free: Pattern=met die, Pattern=of, Pattern=hebben, Pattern=die die, Pattern=ik
+	Constrained: Pattern=met, Pattern=die
+Turn ID=25| A | A : met die ding boven die satelliet of plateau weten ik veel wat het zijn
+	Free: Pattern=met die, Pattern=of, Pattern=boven, Pattern=veel, Pattern=die satelliet, Pattern=het zijn, Pattern=ik
+	Constrained: Pattern=het, Pattern=met, Pattern=die, Pattern=satelliet, Pattern=zijn
+Turn ID=26| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=27| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=28| A | A : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=29| A | A : negen
+	Free: 
+	Constrained: 
+Turn ID=30| A | A : die die J zeggen maar met die satelliet daar bovenaan
+	Free: Pattern=met die satelliet, Pattern=zeggen maar, Pattern=die die
+	Constrained: Pattern=met die, Pattern=die satelliet, Pattern=zeggen, Pattern=met, Pattern=die, Pattern=satelliet
+Turn ID=31| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=32| B | B : H
+	Free: 
+	Constrained: 
+Turn ID=33| B | B : die met die satelliet boven en die sik daaronder
+	Free: Pattern=met die satelliet, Pattern=boven, Pattern=en, Pattern=die
+	Constrained: Pattern=met die, Pattern=die satelliet, Pattern=met, Pattern=die, Pattern=satelliet
+Turn ID=34| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=35| A | A : elf
+	Free: 
+	Constrained: 
+Turn ID=36| A | A : ja die sitconding wat je zeggen of die J en dan die satelliet
+	Free: Pattern=of, Pattern=ja, Pattern=die satelliet, Pattern=zeggen, Pattern=die, Pattern=en
+	Constrained: Pattern=satelliet, Pattern=die
+Turn ID=37| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=38| B | B : d
+	Free: 
+	Constrained: 
+Turn ID=39| B | B : het zijn die satelliet en die sik
+	Free: Pattern=het zijn, Pattern=die satelliet, Pattern=en, Pattern=die
+	Constrained: Pattern=satelliet, Pattern=zijn, Pattern=die, Pattern=het
+Turn ID=40| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=41| A | A : veertien
+	Free: 
+	Constrained: 

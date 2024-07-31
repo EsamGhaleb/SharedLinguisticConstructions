@@ -1,0 +1,135 @@
+A|0| A: _ja ik_ _zijn_ _ik_ weten niet waarom _die_ hebben _ik_ beschrijven _als_ pinokkio maar _dan_ _ja_ _het_ _zijn_ 
+A|1| A: nou _het_ _zijn het_ _zijn_ _een_ _het_ hebben _een_ heel lang neus zo maar _aan de_ achterkant hebben _het_ _een soort van_ ruiten ruiten iets _met_ _een soort_ boek _met_ _twee_ vierkant blok _ja_ 
+A|2| A: _ik_ vinden _het_ _een_ _die_ neus Pinokkio _en_ _dat_ boek daar hebben _ik_ _nog_ iets ander _bij_ zetten maar 
+A|3| A: _ja_ 
+A|4| A: _ja_ kloppen op zich _ook wel_ _een_ beetje _ja_ 
+B|5| B: [met] [aan] allebei [de] kant [twee] blokkentorens 
+B|6| B: oké [dan] [zijn het] M 
+A|7| A: _ja_ 
+A|8| A: _ja_ _ja_ _ja ik_ noemen [het] pinokkio maar [de] boiler _ja_ 
+A|9| A: negen 
+B|10| B: [ja] dit [zijn] [ja ik] zien [het] [als] [een] karatepoppe 
+B|11| B: [met] [aan de] voorkant [wel] [nog] [een soort] Pinokkioneus 
+B|12| B: [die] naar rechts gaan 
+B|13| B: [en] [aan de] onderkant [en] [aan de] rechterkant [een soort van] buigen dinge 
+B|14| B: [ja] 
+A|15| A: pinokkio jij [de] boiler 
+A|16| A: [ja] [de] boiler 
+A|17| A: [met] _dat_ [ja] [met] _dat_ gek vierkant ding [en] [de] [twee] zeggen maar [die] vierkant ding [aan de] achterkant [en] 
+A|18| A: [ja] _dat_ boek bovenop [ja] precies 
+B|19| B: Karate Kid waar staan Karate Kid 
+B|20| B: [ja] 
+B|21| B: _dat zijn_ H 
+A|22| A: [de] boiler 
+A|23| A: [ja] [dat zijn] elf 
+B|24| B: dit [zijn] Karate Kid poppe [met] [het] hoed [ook wel] 
+B|25| B: [ja] 
+A|26| A: [dan] zitten [die] [wel] goed 
+A|27| A: [de] boiler 
+B|28| B: Karate Kid staan [dat zijn] D 
+A|29| A: [de] boiler 
+A|30| A: [die] hebben we ah daar veertien 
+B|31| B: karatepoppe 
+B|32| B: [ja] hij staan [bij] mij helemaal links in [het] midden 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : ja ik zijn ik weten niet waarom die hebben ik beschrijven als pinokkio maar dan ja het zijn
+	Free: Pattern=ja, Pattern=dan, Pattern=het, Pattern=als, Pattern=die, Pattern=ja ik, Pattern=ik, Pattern=zijn
+	Constrained: Pattern=ja, Pattern=ik
+Turn ID=1| A | A : nou het zijn het zijn een het hebben een heel lang neus zo maar aan de achterkant hebben het een soort van ruiten ruiten iets met een soort boek met twee vierkant blok ja
+	Free: Pattern=zijn het, Pattern=twee, Pattern=ja, Pattern=aan de, Pattern=een, Pattern=het, Pattern=een soort van, Pattern=met, Pattern=een soort, Pattern=zijn
+	Constrained: Pattern=een, Pattern=het, Pattern=een soort, Pattern=zijn, Pattern=de, Pattern=aan
+Turn ID=2| A | A : ik vinden het een die neus Pinokkio en dat boek daar hebben ik nog iets ander bij zetten maar
+	Free: Pattern=dat, Pattern=nog, Pattern=een, Pattern=het, Pattern=die, Pattern=bij, Pattern=ik, Pattern=en
+	Constrained: 
+Turn ID=3| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=4| A | A : ja kloppen op zich ook wel een beetje ja
+	Free: Pattern=ook wel, Pattern=een, Pattern=ja
+	Constrained: Pattern=wel
+Turn ID=5| B | B : met aan allebei de kant twee blokkentorens
+	Free: Pattern=twee, Pattern=aan, Pattern=de, Pattern=met
+	Constrained: 
+Turn ID=6| B | B : oké dan zijn het M
+	Free: Pattern=zijn het, Pattern=dan
+	Constrained: Pattern=zijn, Pattern=het
+Turn ID=7| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=8| A | A : ja ja ja ik noemen het pinokkio maar de boiler ja
+	Free: Pattern=ja ik, Pattern=de, Pattern=ja, Pattern=het
+	Constrained: Pattern=ja, Pattern=ik
+Turn ID=9| A | A : negen
+	Free: 
+	Constrained: 
+Turn ID=10| B | B : ja dit zijn ja ik zien het als een karatepoppe
+	Free: Pattern=ja, Pattern=een, Pattern=het, Pattern=als, Pattern=ja ik, Pattern=zijn
+	Constrained: Pattern=ja, Pattern=ik
+Turn ID=11| B | B : met aan de voorkant wel nog een soort Pinokkioneus
+	Free: Pattern=nog, Pattern=aan de, Pattern=wel, Pattern=met, Pattern=een soort
+	Constrained: Pattern=aan, Pattern=een, Pattern=de
+Turn ID=12| B | B : die naar rechts gaan
+	Free: Pattern=die
+	Constrained: 
+Turn ID=13| B | B : en aan de onderkant en aan de rechterkant een soort van buigen dinge
+	Free: Pattern=een soort van, Pattern=aan de, Pattern=en
+	Constrained: Pattern=een soort, Pattern=aan, Pattern=een, Pattern=de
+Turn ID=14| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=15| A | A : pinokkio jij de boiler
+	Free: Pattern=de
+	Constrained: 
+Turn ID=16| A | A : ja de boiler
+	Free: Pattern=de, Pattern=ja
+	Constrained: 
+Turn ID=17| A | A : met dat ja met dat gek vierkant ding en de twee zeggen maar die vierkant ding aan de achterkant en
+	Free: Pattern=dat, Pattern=twee, Pattern=aan de, Pattern=met, Pattern=die, Pattern=en, Pattern=de, Pattern=ja
+	Constrained: Pattern=aan, Pattern=de
+Turn ID=18| A | A : ja dat boek bovenop ja precies
+	Free: Pattern=dat, Pattern=ja
+	Constrained: 
+Turn ID=19| B | B : Karate Kid waar staan Karate Kid
+	Free: 
+	Constrained: 
+Turn ID=20| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=21| B | B : dat zijn H
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=22| A | A : de boiler
+	Free: Pattern=de
+	Constrained: 
+Turn ID=23| A | A : ja dat zijn elf
+	Free: Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=24| B | B : dit zijn Karate Kid poppe met het hoed ook wel
+	Free: Pattern=ook wel, Pattern=zijn, Pattern=het, Pattern=met
+	Constrained: Pattern=wel
+Turn ID=25| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=26| A | A : dan zitten die wel goed
+	Free: Pattern=wel, Pattern=dan, Pattern=die
+	Constrained: 
+Turn ID=27| A | A : de boiler
+	Free: Pattern=de
+	Constrained: 
+Turn ID=28| B | B : Karate Kid staan dat zijn D
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=29| A | A : de boiler
+	Free: Pattern=de
+	Constrained: 
+Turn ID=30| A | A : die hebben we ah daar veertien
+	Free: Pattern=die
+	Constrained: 
+Turn ID=31| B | B : karatepoppe
+	Free: 
+	Constrained: 
+Turn ID=32| B | B : ja hij staan bij mij helemaal links in het midden
+	Free: Pattern=bij, Pattern=ja, Pattern=het
+	Constrained: 

@@ -1,0 +1,147 @@
+A|0| A: er zitten _bovenop_ het beker _een_ zo'n dinge zo'n trapezium zegmaar 
+A|1| A: _en_ _aan de_ zijkant _rechts_ zitten _twee staaf_ 
+A|2| A: even groot _twee_ vierkant stuk zegmaar 
+A|3| A: _ja_ 
+B|4| B: [ja] [ja] 
+B|5| B: [ja] 
+B|6| B: _dat_ zijn bij mij n 
+A|7| A: [ja] 
+A|8| A: [ja] 
+A|9| A: veertien 
+B|10| B: deze _hebben_ _aan de rechterkant_ [twee staaf] onder elkaar _bovenop een_ één kom die op zijn kop staan 
+B|11| B: of lampenkap [ja] [ja] 
+B|12| B: [ja] 
+B|13| B: [ja] 
+A|14| A: [twee] even groot [staaf] [aan de rechterkant] van het dinge 
+A|15| A: [bovenop een] trapeziumme 
+A|16| A: _en_ _en_ dan nog [een] streepje _en_ nog iets eronder 
+A|17| A: [ja] 
+B|18| B: [ja] 
+B|19| B: [ja] 
+B|20| B: zoiets 
+B|21| B: _dat_ zijn e 
+B|22| B: [rechts] [twee staaf] boven elkaar [en] [de] op zijn kop of [de] lampenkap [de] lampenkap 
+A|23| A: nog [een] staart [aan de] onderkant 
+A|24| A: oké dan denken ik [dat] ik hem net [een] fout [hebben] doen 
+A|25| A: vijfteen 
+B|26| B: [ja] [dat] zijn m 
+A|27| A: [twee] gelijk balk [aan de rechterkant] 
+A|28| A: [aan de] bovenkant zo'n 
+A|29| A: trapeziumpje 
+B|30| B: [de] [twee staaf] [rechts] [en] [de] lampenkap [bovenop] 
+A|31| A: [ja] 
+A|32| A: [ja] 
+A|33| A: [twee] , [en] [aan de] ander kant zitten nog [een] staart 
+A|34| A: [ja] 
+A|35| A: dertien 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : er zitten bovenop het beker een zo'n dinge zo'n trapezium zegmaar
+	Free: Pattern=bovenop, Pattern=een
+	Constrained: 
+Turn ID=1| A | A : en aan de zijkant rechts zitten twee staaf
+	Free: Pattern=aan de, Pattern=twee staaf, Pattern=rechts, Pattern=en
+	Constrained: Pattern=de, Pattern=staaf, Pattern=twee
+Turn ID=2| A | A : even groot twee vierkant stuk zegmaar
+	Free: Pattern=twee
+	Constrained: 
+Turn ID=3| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=4| B | B : ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=5| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=6| B | B : dat zijn bij mij n
+	Free: Pattern=dat
+	Constrained: 
+Turn ID=7| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=8| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=9| A | A : veertien
+	Free: 
+	Constrained: 
+Turn ID=10| B | B : deze hebben aan de rechterkant twee staaf onder elkaar bovenop een één kom die op zijn kop staan
+	Free: Pattern=aan de rechterkant, Pattern=twee staaf, Pattern=bovenop een, Pattern=hebben
+	Constrained: Pattern=bovenop, Pattern=twee, Pattern=de, Pattern=staaf, Pattern=aan de, Pattern=een
+Turn ID=11| B | B : of lampenkap ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=12| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=13| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=14| A | A : twee even groot staaf aan de rechterkant van het dinge
+	Free: Pattern=aan de rechterkant, Pattern=staaf, Pattern=twee
+	Constrained: Pattern=aan de, Pattern=de
+Turn ID=15| A | A : bovenop een trapeziumme
+	Free: Pattern=bovenop een
+	Constrained: Pattern=bovenop, Pattern=een
+Turn ID=16| A | A : en en dan nog een streepje en nog iets eronder
+	Free: Pattern=en, Pattern=een
+	Constrained: 
+Turn ID=17| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=18| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=19| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=20| B | B : zoiets
+	Free: 
+	Constrained: 
+Turn ID=21| B | B : dat zijn e
+	Free: Pattern=dat
+	Constrained: 
+Turn ID=22| B | B : rechts twee staaf boven elkaar en de op zijn kop of de lampenkap de lampenkap
+	Free: Pattern=twee staaf, Pattern=de, Pattern=rechts, Pattern=en
+	Constrained: Pattern=staaf, Pattern=twee
+Turn ID=23| A | A : nog een staart aan de onderkant
+	Free: Pattern=aan de, Pattern=een
+	Constrained: Pattern=de
+Turn ID=24| A | A : oké dan denken ik dat ik hem net een fout hebben doen
+	Free: Pattern=dat, Pattern=hebben, Pattern=een
+	Constrained: 
+Turn ID=25| A | A : vijfteen
+	Free: 
+	Constrained: 
+Turn ID=26| B | B : ja dat zijn m
+	Free: Pattern=dat, Pattern=ja
+	Constrained: 
+Turn ID=27| A | A : twee gelijk balk aan de rechterkant
+	Free: Pattern=aan de rechterkant, Pattern=twee
+	Constrained: Pattern=aan de, Pattern=de
+Turn ID=28| A | A : aan de bovenkant zo'n
+	Free: Pattern=aan de
+	Constrained: Pattern=de
+Turn ID=29| A | A : trapeziumpje
+	Free: 
+	Constrained: 
+Turn ID=30| B | B : de twee staaf rechts en de lampenkap bovenop
+	Free: Pattern=bovenop, Pattern=twee staaf, Pattern=en, Pattern=de, Pattern=rechts
+	Constrained: Pattern=staaf, Pattern=twee
+Turn ID=31| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=32| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=33| A | A : twee , en aan de ander kant zitten nog een staart
+	Free: Pattern=aan de, Pattern=en, Pattern=twee, Pattern=een
+	Constrained: Pattern=de
+Turn ID=34| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=35| A | A : dertien
+	Free: 
+	Constrained: 

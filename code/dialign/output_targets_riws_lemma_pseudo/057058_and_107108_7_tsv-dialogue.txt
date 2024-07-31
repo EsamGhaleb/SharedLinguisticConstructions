@@ -1,0 +1,175 @@
+A|0| A: even kijken horen 
+A|1| A: _ja_ helemaal bovenin _en_ _dan_ zo'n omdraaien 
+A|2| A: _ja_ precies 
+A|3| A: nummer zestien 
+B|4| B: [ja] _dit_ _moeten_ _mij_ _een beetje_ denken aan _zeggen maar_ _een_ plank wat [dan] ophangen _zijn_ _waar_ 
+B|5| B: _zeggen maar_ gat _in_ zitten _waar_ _een_ pan _in_ kunnen [en] _dat_ _zijn_ [dan] _dat_ rond ding [en] _dat_ _er_ nog _een_ bak _op_ _staan_ 
+B|6| B: wo 
+B|7| B: o 
+B|8| B: o wat _een_ fijn gelukkig 
+B|9| B: ok _bij mij_ O 
+B|10| B: _dan moeten_ jij klikken 
+A|11| A: oké 
+A|12| A: deze hebben _weer_ inderdaad [dat] plateautje [een beetje] bovenop _met_ [dat] omgekeerd driehoekje daarbovenop 
+A|13| A: _met die_ poo 
+B|14| B: o [die] [ja] [dat] _zijn_ P _bij mij_ 
+B|15| B: ok 
+A|16| A: [ja] 
+A|17| A: [ja] 
+A|18| A: [ja] even kijken [waar] [staan] [die] ? _daar_ 
+A|19| A: nummer veertien 
+A|20| A: zullen eigenlijk ook _de_ nummert [en] _de_ cijfertje want [die] zullen [in] theorie misschien ook wel hetzelfde [moeten] [zijn] of niet 
+A|21| A: nee want _ik_ hebben _het_ idee [dat] [die] [bij mij] wel hetzelfde blijven [zeggen maar] 
+A|22| A: _de_ cijfertje 
+A|23| A: dus misschien [dat] [die] [dat] [die] wel corresponderen _met_ jou letter [zeggen maar] [dat] als je _het_ [op] _de_ duur weten 
+A|24| A: [maar] [ja] [die] [dan moeten] je [er] zestien uit je hoofd weten 
+A|25| A: _ik_ ook niet [maar] [dat] bedenken _ik_ me nu net 
+A|26| A: never mind 
+A|27| A: [in] ieder geval _dit zijn weer_ _het_ plateautje _met de_ _de_ poo [en] _de_ omgedraai piramide 
+B|28| B: o [dit zijn weer] [dat] plank [met die] pan [er] [in] 
+B|29| B: [ja] 
+B|30| B: ok [bij mij] P 
+B|31| B: echt telkens automatisch 
+A|32| A: [ja] 
+A|33| A: [ja] 
+A|34| A: nummer tien 
+B|35| B: [die] N 
+A|36| A: oké deze [zijn weer] [met] [dat] plateaut _met de_ omgekeerd piramide erop _met de_ poo 
+B|37| B: [dan moeten] [ik] klikken [ja] 
+B|38| B: [dit zijn] [het] plank [met de] pan 
+B|39| B: ah 
+B|40| B: ok [bij mij] I 
+B|41| B: ok 
+B|42| B: o [daar] D 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : even kijken horen
+	Free: 
+	Constrained: 
+Turn ID=1| A | A : ja helemaal bovenin en dan zo'n omdraaien
+	Free: Pattern=en, Pattern=dan, Pattern=ja
+	Constrained: 
+Turn ID=2| A | A : ja precies
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=3| A | A : nummer zestien
+	Free: 
+	Constrained: 
+Turn ID=4| B | B : ja dit moeten mij een beetje denken aan zeggen maar een plank wat dan ophangen zijn waar
+	Free: Pattern=ja, Pattern=waar, Pattern=dan, Pattern=een, Pattern=zeggen maar, Pattern=moeten, Pattern=dit, Pattern=mij, Pattern=zijn, Pattern=een beetje
+	Constrained: Pattern=maar, Pattern=een
+Turn ID=5| B | B : zeggen maar gat in zitten waar een pan in kunnen en dat zijn dan dat rond ding en dat er nog een bak op staan
+	Free: Pattern=dat, Pattern=waar, Pattern=op, Pattern=dan, Pattern=zeggen maar, Pattern=in, Pattern=er, Pattern=en, Pattern=zijn, Pattern=een, Pattern=staan
+	Constrained: Pattern=maar
+Turn ID=6| B | B : wo
+	Free: 
+	Constrained: 
+Turn ID=7| B | B : o
+	Free: 
+	Constrained: 
+Turn ID=8| B | B : o wat een fijn gelukkig
+	Free: Pattern=een
+	Constrained: 
+Turn ID=9| B | B : ok bij mij O
+	Free: Pattern=bij mij
+	Constrained: Pattern=mij
+Turn ID=10| B | B : dan moeten jij klikken
+	Free: Pattern=dan moeten
+	Constrained: Pattern=dan, Pattern=moeten
+Turn ID=11| A | A : oké
+	Free: 
+	Constrained: 
+Turn ID=12| A | A : deze hebben weer inderdaad dat plateautje een beetje bovenop met dat omgekeerd driehoekje daarbovenop
+	Free: Pattern=een beetje, Pattern=weer, Pattern=dat, Pattern=met
+	Constrained: Pattern=een
+Turn ID=13| A | A : met die poo
+	Free: Pattern=met die
+	Constrained: Pattern=die, Pattern=met
+Turn ID=14| B | B : o die ja dat zijn P bij mij
+	Free: Pattern=dat, Pattern=ja, Pattern=die, Pattern=zijn, Pattern=bij mij
+	Constrained: Pattern=mij
+Turn ID=15| B | B : ok
+	Free: 
+	Constrained: 
+Turn ID=16| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=17| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=18| A | A : ja even kijken waar staan die ? daar
+	Free: Pattern=ja, Pattern=waar, Pattern=staan, Pattern=die, Pattern=daar
+	Constrained: 
+Turn ID=19| A | A : nummer veertien
+	Free: 
+	Constrained: 
+Turn ID=20| A | A : zullen eigenlijk ook de nummert en de cijfertje want die zullen in theorie misschien ook wel hetzelfde moeten zijn of niet
+	Free: Pattern=de, Pattern=moeten, Pattern=in, Pattern=die, Pattern=en, Pattern=zijn
+	Constrained: 
+Turn ID=21| A | A : nee want ik hebben het idee dat die bij mij wel hetzelfde blijven zeggen maar
+	Free: Pattern=dat, Pattern=zeggen maar, Pattern=het, Pattern=die, Pattern=ik, Pattern=bij mij
+	Constrained: Pattern=mij, Pattern=maar
+Turn ID=22| A | A : de cijfertje
+	Free: Pattern=de
+	Constrained: 
+Turn ID=23| A | A : dus misschien dat die dat die wel corresponderen met jou letter zeggen maar dat als je het op de duur weten
+	Free: Pattern=dat, Pattern=de, Pattern=op, Pattern=zeggen maar, Pattern=het, Pattern=met, Pattern=die
+	Constrained: Pattern=maar
+Turn ID=24| A | A : maar ja die dan moeten je er zestien uit je hoofd weten
+	Free: Pattern=ja, Pattern=dan moeten, Pattern=die, Pattern=er, Pattern=maar
+	Constrained: Pattern=dan, Pattern=moeten
+Turn ID=25| A | A : ik ook niet maar dat bedenken ik me nu net
+	Free: Pattern=dat, Pattern=ik, Pattern=maar
+	Constrained: 
+Turn ID=26| A | A : never mind
+	Free: 
+	Constrained: 
+Turn ID=27| A | A : in ieder geval dit zijn weer het plateautje met de de poo en de omgedraai piramide
+	Free: Pattern=het, Pattern=in, Pattern=en, Pattern=dit zijn weer, Pattern=de, Pattern=met de
+	Constrained: Pattern=de, Pattern=dit, Pattern=met, Pattern=zijn, Pattern=weer, Pattern=dit zijn, Pattern=zijn weer
+Turn ID=28| B | B : o dit zijn weer dat plank met die pan er in
+	Free: Pattern=in, Pattern=er, Pattern=dit zijn weer, Pattern=dat, Pattern=met die
+	Constrained: Pattern=dit, Pattern=met, Pattern=die, Pattern=zijn, Pattern=weer, Pattern=dit zijn, Pattern=zijn weer
+Turn ID=29| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=30| B | B : ok bij mij P
+	Free: Pattern=bij mij
+	Constrained: Pattern=mij
+Turn ID=31| B | B : echt telkens automatisch
+	Free: 
+	Constrained: 
+Turn ID=32| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=33| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=34| A | A : nummer tien
+	Free: 
+	Constrained: 
+Turn ID=35| B | B : die N
+	Free: Pattern=die
+	Constrained: 
+Turn ID=36| A | A : oké deze zijn weer met dat plateaut met de omgekeerd piramide erop met de poo
+	Free: Pattern=zijn weer, Pattern=met de, Pattern=dat, Pattern=met
+	Constrained: Pattern=weer, Pattern=de, Pattern=zijn, Pattern=met
+Turn ID=37| B | B : dan moeten ik klikken ja
+	Free: Pattern=dan moeten, Pattern=ik, Pattern=ja
+	Constrained: Pattern=dan, Pattern=moeten
+Turn ID=38| B | B : dit zijn het plank met de pan
+	Free: Pattern=dit zijn, Pattern=met de, Pattern=het
+	Constrained: Pattern=de, Pattern=zijn, Pattern=met, Pattern=dit
+Turn ID=39| B | B : ah
+	Free: 
+	Constrained: 
+Turn ID=40| B | B : ok bij mij I
+	Free: Pattern=bij mij
+	Constrained: Pattern=mij
+Turn ID=41| B | B : ok
+	Free: 
+	Constrained: 
+Turn ID=42| B | B : o daar D
+	Free: Pattern=daar
+	Constrained: 

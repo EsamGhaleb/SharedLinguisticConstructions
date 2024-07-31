@@ -1,0 +1,103 @@
+A|0| A: _ja_ even kijken er zitten _een_ rond bal achterop _zeggen maar_ aan _de_ bovenkant en aan _de_ zijkant hebben _die_ twee soort van handvaat en aan _de_ voorkant _een_ 
+A|1| A: _ja_ precies 
+B|2| B: [ja] 
+B|3| B: [zeggen maar] poppe alsof [die] iets _gaan_ omhelzen 
+B|4| B: zoiets [ja] _oké_ nee dan _zijn_ het _zijn_ het d 
+A|5| A: [ja] 
+A|6| A: en _met_ _de_ handjes aan _de_ zijkant 
+A|7| A: [ja] 
+A|8| A: [oké] 
+A|9| A: vijftien 
+B|10| B: dit _zijn_ [een] poppe wat [een] balkje omhelsen [met] Bovenin _ook_ [een] cirkel op het hoofd 
+B|11| B: of op het figuur 
+B|12| B: [ja] 
+A|13| A: hoe noemen we deze [ook] alweer ? [die] [met] [die] grijparmp [met] _de_ bol bovenop 
+A|14| A: en _de_ vierkant blok 
+A|15| A: hoe [gaan] we [die] noemen 
+A|16| A: prima basketbal 
+B|17| B: [ja] _dat zijn_ L 
+A|18| A: _de_ basketbal [dat zijn] [met] [die] armp aan _de_ zijkant [ook] [ja] 
+A|19| A: [dat zijn] zes 
+B|20| B: [de] het omhelzen poppet [zijn] dit 
+A|21| A: even kijken welk [zijn] [dat] [de] basketbal 
+B|22| B: [de] omhelzing J 
+A|23| A: basketbal [dat zijn] drie 
+B|24| B: [de] omhelzing 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : ja even kijken er zitten een rond bal achterop zeggen maar aan de bovenkant en aan de zijkant hebben die twee soort van handvaat en aan de voorkant een
+	Free: Pattern=een, Pattern=zeggen maar, Pattern=die, Pattern=de, Pattern=ja
+	Constrained: 
+Turn ID=1| A | A : ja precies
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=2| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=3| B | B : zeggen maar poppe alsof die iets gaan omhelzen
+	Free: Pattern=zeggen maar, Pattern=gaan, Pattern=die
+	Constrained: 
+Turn ID=4| B | B : zoiets ja oké nee dan zijn het zijn het d
+	Free: Pattern=zijn, Pattern=oké, Pattern=ja
+	Constrained: 
+Turn ID=5| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=6| A | A : en met de handjes aan de zijkant
+	Free: Pattern=met, Pattern=de
+	Constrained: 
+Turn ID=7| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=8| A | A : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=9| A | A : vijftien
+	Free: 
+	Constrained: 
+Turn ID=10| B | B : dit zijn een poppe wat een balkje omhelsen met Bovenin ook een cirkel op het hoofd
+	Free: Pattern=met, Pattern=zijn, Pattern=een, Pattern=ook
+	Constrained: 
+Turn ID=11| B | B : of op het figuur
+	Free: 
+	Constrained: 
+Turn ID=12| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=13| A | A : hoe noemen we deze ook alweer ? die met die grijparmp met de bol bovenop
+	Free: Pattern=met, Pattern=ook, Pattern=de, Pattern=die
+	Constrained: 
+Turn ID=14| A | A : en de vierkant blok
+	Free: Pattern=de
+	Constrained: 
+Turn ID=15| A | A : hoe gaan we die noemen
+	Free: Pattern=gaan, Pattern=die
+	Constrained: 
+Turn ID=16| A | A : prima basketbal
+	Free: 
+	Constrained: 
+Turn ID=17| B | B : ja dat zijn L
+	Free: Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=18| A | A : de basketbal dat zijn met die armp aan de zijkant ook ja
+	Free: Pattern=dat zijn, Pattern=ook, Pattern=met, Pattern=die, Pattern=de, Pattern=ja
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=19| A | A : dat zijn zes
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=20| B | B : de het omhelzen poppet zijn dit
+	Free: Pattern=zijn, Pattern=de
+	Constrained: 
+Turn ID=21| A | A : even kijken welk zijn dat de basketbal
+	Free: Pattern=zijn, Pattern=dat, Pattern=de
+	Constrained: 
+Turn ID=22| B | B : de omhelzing J
+	Free: Pattern=de
+	Constrained: 
+Turn ID=23| A | A : basketbal dat zijn drie
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=24| B | B : de omhelzing
+	Free: Pattern=de
+	Constrained: 

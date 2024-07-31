@@ -1,0 +1,135 @@
+A|0| A: want _dat_ kunnen ook niet want _de_ vorig _zijn_ ook niet 
+A|1| A: oké _dit zijn_ _driehoek op_ het hoofd 
+A|2| A: raar neus 
+A|3| A: _ja_ _en _aan de_ linkerkant_ _een_ soort van _kogel_ naast het hoofd 
+A|4| A: _ja_ _ja_ _die_ 
+A|5| A: vijftien 
+B|6| B: [dat] [zijn] [een] [driehoek op] [zijn] kop 
+B|7| B: [en _aan de] zijkant_ [aan de linkerkant] zien je daar [een] beetje zo'n 
+B|8| B: [ja] [een] [kogel] 
+B|9| B: [ja] 
+B|10| B: J 
+A|11| A: _met _de_ kogel_ [aan de zijkant] 
+A|12| A: oké [ja] zo [ja] oké 
+A|13| A: welk 
+A|14| A: nou weer welk letter 
+A|15| A: H zes 
+B|16| B: [dit zijn] [die] [met] [die] piramide boven [op] [zijn] kop 
+B|17| B: [ja] 
+A|18| A: [driehoek op] [driehoek op] het hoofd kogelen [aan de zijkant] [de] raar neus 
+A|19| A: [ja] zestien 
+A|20| A: zestien 
+B|21| B: [ja] 
+B|22| B: E 
+A|23| A: [kogel] [aan de zijkant] 
+A|24| A: A tien 
+B|25| B: [die] [met de] _driehoek bovenop_ [en] [de kogel] 
+B|26| B: [aan de zijkant] 
+A|27| A: hoe heten [dat] ding 
+A|28| A: [kogel] [aan de zijkant] van het hoofd [en] [driehoek bovenop] 
+A|29| A: [ja] dertien 
+A|30| A: ik weten niet veel wat het woord [driehoek] betekenen 
+A|31| A: K tien 
+B|32| B: [die] [kogel] [en] [de] [driehoek] Bovenin 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : want dat kunnen ook niet want de vorig zijn ook niet
+	Free: Pattern=zijn, Pattern=de, Pattern=dat
+	Constrained: 
+Turn ID=1| A | A : oké dit zijn driehoek op het hoofd
+	Free: Pattern=driehoek op, Pattern=dit zijn
+	Constrained: Pattern=zijn, Pattern=op, Pattern=driehoek
+Turn ID=2| A | A : raar neus
+	Free: 
+	Constrained: 
+Turn ID=3| A | A : ja en aan de linkerkant een soort van kogel naast het hoofd
+	Free: Pattern=ja, Pattern=een, Pattern=kogel, Pattern=en aan de, Pattern=aan de linkerkant
+	Constrained: Pattern=de, Pattern=en
+Turn ID=4| A | A : ja ja die
+	Free: Pattern=die, Pattern=ja
+	Constrained: 
+Turn ID=5| A | A : vijftien
+	Free: 
+	Constrained: 
+Turn ID=6| B | B : dat zijn een driehoek op zijn kop
+	Free: Pattern=driehoek op, Pattern=zijn, Pattern=dat, Pattern=een
+	Constrained: Pattern=op, Pattern=driehoek
+Turn ID=7| B | B : en aan de zijkant aan de linkerkant zien je daar een beetje zo'n
+	Free: Pattern=aan de linkerkant, Pattern=aan de zijkant, Pattern=en aan de, Pattern=een
+	Constrained: Pattern=de, Pattern=en
+Turn ID=8| B | B : ja een kogel
+	Free: Pattern=kogel, Pattern=ja, Pattern=een
+	Constrained: 
+Turn ID=9| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=10| B | B : J
+	Free: 
+	Constrained: 
+Turn ID=11| A | A : met de kogel aan de zijkant
+	Free: Pattern=aan de zijkant, Pattern=de kogel, Pattern=met de
+	Constrained: Pattern=de, Pattern=met, Pattern=kogel
+Turn ID=12| A | A : oké ja zo ja oké
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=13| A | A : welk
+	Free: 
+	Constrained: 
+Turn ID=14| A | A : nou weer welk letter
+	Free: 
+	Constrained: 
+Turn ID=15| A | A : H zes
+	Free: 
+	Constrained: 
+Turn ID=16| B | B : dit zijn die met die piramide boven op zijn kop
+	Free: Pattern=op, Pattern=met, Pattern=die, Pattern=zijn, Pattern=dit zijn
+	Constrained: Pattern=zijn
+Turn ID=17| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=18| A | A : driehoek op driehoek op het hoofd kogelen aan de zijkant de raar neus
+	Free: Pattern=aan de zijkant, Pattern=driehoek op, Pattern=de
+	Constrained: Pattern=de, Pattern=driehoek, Pattern=op
+Turn ID=19| A | A : ja zestien
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=20| A | A : zestien
+	Free: 
+	Constrained: 
+Turn ID=21| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=22| B | B : E
+	Free: 
+	Constrained: 
+Turn ID=23| A | A : kogel aan de zijkant
+	Free: Pattern=aan de zijkant, Pattern=kogel
+	Constrained: Pattern=de
+Turn ID=24| A | A : A tien
+	Free: 
+	Constrained: 
+Turn ID=25| B | B : die met de driehoek bovenop en de kogel
+	Free: Pattern=met de, Pattern=driehoek bovenop, Pattern=die, Pattern=en, Pattern=de kogel
+	Constrained: Pattern=de, Pattern=met, Pattern=driehoek, Pattern=kogel
+Turn ID=26| B | B : aan de zijkant
+	Free: Pattern=aan de zijkant
+	Constrained: Pattern=de
+Turn ID=27| A | A : hoe heten dat ding
+	Free: Pattern=dat
+	Constrained: 
+Turn ID=28| A | A : kogel aan de zijkant van het hoofd en driehoek bovenop
+	Free: Pattern=aan de zijkant, Pattern=driehoek bovenop, Pattern=kogel, Pattern=en
+	Constrained: Pattern=de, Pattern=driehoek
+Turn ID=29| A | A : ja dertien
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=30| A | A : ik weten niet veel wat het woord driehoek betekenen
+	Free: Pattern=driehoek
+	Constrained: 
+Turn ID=31| A | A : K tien
+	Free: 
+	Constrained: 
+Turn ID=32| B | B : die kogel en de driehoek Bovenin
+	Free: Pattern=driehoek, Pattern=de, Pattern=die, Pattern=kogel, Pattern=en
+	Constrained: 

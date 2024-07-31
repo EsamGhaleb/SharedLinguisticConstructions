@@ -1,0 +1,95 @@
+A|0| A: dit _zijn een_ kegelvorm dus zo'n vorm 
+A|1| A: _en_ die staan bovenop _de_ _op_ het kop _zijn_ eigenlijk _de_ enig die zo _zijn_ 
+A|2| A: _ja_ die _zijn_ hol 
+A|3| A: _en_ dan zitten daar links _een_ klein uitsteekselt _en_ 
+A|4| A: okee 
+B|5| B: [ja] [ja] [ja] 
+B|6| B: [zijn een] soort vogel als je hem [op] [zijn] zij kijken 
+B|7| B: [ja] 
+B|8| B: [en] _dat [zijn_ een] G 
+A|9| A: die [zijn] makkelijk 
+A|10| A: hol kegel bovenop [dat zijn] zeven 
+B|11| B: [dat zijn] [de] vogel [op] [zijn] kant 
+B|12| B: of _met_ [een] feesthoed [op] 
+A|13| A: deze hebben die die kegelvorm bovenin die hol [zijn] 
+A|14| A: hol kegel [zijn] nummer zeven 
+B|15| B: [ja] 
+B|16| B: [dat zijn] M 
+A|17| A: dit [zijn] [met] [met] [de] kegelvorm die hol [zijn] 
+A|18| A: hol kegel [zijn] nummer twaalf 
+B|19| B: vogel [op] [zijn] zij 
+B|20| B: [met] [een] feesthoed [op] van [de] bovenkant van [de] voorkant gewoon zien 
+B|21| B: G 
+B|22| B: vogel [met] [een] feesthoed [op] 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : dit zijn een kegelvorm dus zo'n vorm
+	Free: Pattern=zijn een
+	Constrained: Pattern=een, Pattern=zijn
+Turn ID=1| A | A : en die staan bovenop de op het kop zijn eigenlijk de enig die zo zijn
+	Free: Pattern=en, Pattern=zijn, Pattern=de, Pattern=op
+	Constrained: 
+Turn ID=2| A | A : ja die zijn hol
+	Free: Pattern=ja, Pattern=zijn
+	Constrained: 
+Turn ID=3| A | A : en dan zitten daar links een klein uitsteekselt en
+	Free: Pattern=een, Pattern=en
+	Constrained: 
+Turn ID=4| A | A : okee
+	Free: 
+	Constrained: 
+Turn ID=5| B | B : ja ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=6| B | B : zijn een soort vogel als je hem op zijn zij kijken
+	Free: Pattern=zijn een, Pattern=zijn, Pattern=op
+	Constrained: Pattern=een, Pattern=zijn
+Turn ID=7| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=8| B | B : en dat zijn een G
+	Free: Pattern=zijn een, Pattern=dat zijn, Pattern=en
+	Constrained: Pattern=een, Pattern=zijn
+Turn ID=9| A | A : die zijn makkelijk
+	Free: Pattern=zijn
+	Constrained: 
+Turn ID=10| A | A : hol kegel bovenop dat zijn zeven
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn
+Turn ID=11| B | B : dat zijn de vogel op zijn kant
+	Free: Pattern=dat zijn, Pattern=zijn, Pattern=de, Pattern=op
+	Constrained: Pattern=zijn
+Turn ID=12| B | B : of met een feesthoed op
+	Free: Pattern=met, Pattern=een, Pattern=op
+	Constrained: 
+Turn ID=13| A | A : deze hebben die die kegelvorm bovenin die hol zijn
+	Free: Pattern=zijn
+	Constrained: 
+Turn ID=14| A | A : hol kegel zijn nummer zeven
+	Free: Pattern=zijn
+	Constrained: 
+Turn ID=15| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=16| B | B : dat zijn M
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn
+Turn ID=17| A | A : dit zijn met met de kegelvorm die hol zijn
+	Free: Pattern=met, Pattern=zijn, Pattern=de
+	Constrained: 
+Turn ID=18| A | A : hol kegel zijn nummer twaalf
+	Free: Pattern=zijn
+	Constrained: 
+Turn ID=19| B | B : vogel op zijn zij
+	Free: Pattern=zijn, Pattern=op
+	Constrained: 
+Turn ID=20| B | B : met een feesthoed op van de bovenkant van de voorkant gewoon zien
+	Free: Pattern=met, Pattern=een, Pattern=de, Pattern=op
+	Constrained: 
+Turn ID=21| B | B : G
+	Free: 
+	Constrained: 
+Turn ID=22| B | B : vogel met een feesthoed op
+	Free: Pattern=met, Pattern=een, Pattern=op
+	Constrained: 

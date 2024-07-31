@@ -1,0 +1,79 @@
+B|0| B: bijzetting _ja_ 
+B|1| B: _ja_ 
+B|2| B: k 
+A|3| A: _deze hebben_ _hebben_ _aan_ _deze_ _kant_ _hebben_ hij een _soort van_ lijken net of of hij een dienblad vasthouden 
+A|4| A: _en_ _aan de ander kant_ _hebben_ hij een _soort van_ raarvormig neus _met_ een toeter _eraan_ kunnen je zeggen 
+B|5| B: [deze hebben] _dat_ bijzettafel [soort van] [en] _die_ uitsteeksel [met] _die_ _dat_ ding wat omhoog gaan 
+A|6| A: [ja] zo'n toeter 
+A|7| A: [dat] _zijn_ vijfteen 
+B|8| B: [ja] 
+B|9| B: even kijken waar _die_ blijven [zijn] [ja] g 
+A|10| A: [deze] [die] ophouden _de_ weer zo'n dienblad vast [met] _de_ toeter 
+A|11| A: dienblad [en] toeter 
+B|12| B: [deze hebben] het bijzettafelt [eraan] [en] dan [aan de ander kant] [dat] ding wat eruit komen 
+A|13| A: [ja] [dat] [zijn] nummer acht 
+B|14| B: l 
+A|15| A: [deze hebben] [de] dienblad [en] [de] toeter 
+B|16| B: [deze hebben] het bijzettafelt 
+A|17| A: toeter 
+A|18| A: nummer twaalf 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : bijzetting ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=1| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=2| B | B : k
+	Free: 
+	Constrained: 
+Turn ID=3| A | A : deze hebben hebben aan deze kant hebben hij een soort van lijken net of of hij een dienblad vasthouden
+	Free: Pattern=kant, Pattern=aan, Pattern=hebben, Pattern=deze hebben, Pattern=soort van, Pattern=deze
+	Constrained: Pattern=deze, Pattern=hebben
+Turn ID=4| A | A : en aan de ander kant hebben hij een soort van raarvormig neus met een toeter eraan kunnen je zeggen
+	Free: Pattern=aan de ander kant, Pattern=eraan, Pattern=hebben, Pattern=met, Pattern=en, Pattern=soort van
+	Constrained: Pattern=aan, Pattern=kant, Pattern=de
+Turn ID=5| B | B : deze hebben dat bijzettafel soort van en die uitsteeksel met die dat ding wat omhoog gaan
+	Free: Pattern=dat, Pattern=deze hebben, Pattern=met, Pattern=die, Pattern=en, Pattern=soort van
+	Constrained: Pattern=deze, Pattern=hebben
+Turn ID=6| A | A : ja zo'n toeter
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=7| A | A : dat zijn vijfteen
+	Free: Pattern=zijn, Pattern=dat
+	Constrained: 
+Turn ID=8| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=9| B | B : even kijken waar die blijven zijn ja g
+	Free: Pattern=die, Pattern=ja, Pattern=zijn
+	Constrained: 
+Turn ID=10| A | A : deze die ophouden de weer zo'n dienblad vast met de toeter
+	Free: Pattern=die, Pattern=deze, Pattern=de, Pattern=met
+	Constrained: 
+Turn ID=11| A | A : dienblad en toeter
+	Free: Pattern=en
+	Constrained: 
+Turn ID=12| B | B : deze hebben het bijzettafelt eraan en dan aan de ander kant dat ding wat eruit komen
+	Free: Pattern=dat, Pattern=aan de ander kant, Pattern=eraan, Pattern=deze hebben, Pattern=en
+	Constrained: Pattern=kant, Pattern=hebben, Pattern=deze, Pattern=de, Pattern=aan
+Turn ID=13| A | A : ja dat zijn nummer acht
+	Free: Pattern=ja, Pattern=zijn, Pattern=dat
+	Constrained: 
+Turn ID=14| B | B : l
+	Free: 
+	Constrained: 
+Turn ID=15| A | A : deze hebben de dienblad en de toeter
+	Free: Pattern=deze hebben, Pattern=en, Pattern=de
+	Constrained: Pattern=deze, Pattern=hebben
+Turn ID=16| B | B : deze hebben het bijzettafelt
+	Free: Pattern=deze hebben
+	Constrained: Pattern=deze, Pattern=hebben
+Turn ID=17| A | A : toeter
+	Free: 
+	Constrained: 
+Turn ID=18| A | A : nummer twaalf
+	Free: 
+	Constrained: 

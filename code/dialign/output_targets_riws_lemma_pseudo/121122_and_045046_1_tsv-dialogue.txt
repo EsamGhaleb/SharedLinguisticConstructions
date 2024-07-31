@@ -1,0 +1,111 @@
+B|0| B: _ja_ _ik_ vinden het _ik_ wat het _zijn_ 
+B|1| B: er zitten _aan de_ linkerkant _twee_ van _die_ blok _die_ of steeds groot worden of steeds klein worden afhankelijk van hoe _je_ het zien 
+B|2| B: _en_ _een_ groot vierkant _plaat aan de_ voorkant _en_ _een_ antenne 
+A|3| A: [ja] 
+A|4| A: [ik] denken dat [ik] weten welk [je] bedoelen 
+A|5| A: [een] joystick 
+A|6| A: [ja] [ja] [ja] 
+A|7| A: [ja] 
+A|8| A: [ja] dat [zijn] nummer [twee] bij mij 
+A|9| A: _en dan_ hebben [die] _zo'n_ [plaat aan de] zijkant toch 
+A|10| A: [ja] 
+A|11| A: _die die_ verrekijker _met die_ _met die_ [plaat] [die] gamer 
+B|12| B: [die] klein worden 
+B|13| B: [ja] precies 
+B|14| B: G 
+A|15| A: [ja] dat [zijn] negen 
+B|16| B: dit [zijn] weer [met die] antenne bovenop [en] [die] vierkant [plaat] ervoor [en dan] [de] vierkant [die] groot worden 
+A|17| A: [die] [met die] verrekijker [die] gamer 
+B|18| B: oké 
+B|19| B: D 
+A|20| A: [ja] dat [zijn] nummer één 
+B|21| B: dit [zijn] weer [met [die] die] klein worden blok helemaal link 
+B|22| B: [twee] 
+B|23| B: [en dan] [zo'n] vierkant [plaat] voor [en] [een] antenne bovenop 
+A|24| A: [die] [met die] verrekijker [die] gamer 
+B|25| B: [ja] 
+B|26| B: B 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : ja ik vinden het ik wat het zijn
+	Free: Pattern=ja, Pattern=zijn, Pattern=ik
+	Constrained: 
+Turn ID=1| B | B : er zitten aan de linkerkant twee van die blok die of steeds groot worden of steeds klein worden afhankelijk van hoe je het zien
+	Free: Pattern=aan de, Pattern=je, Pattern=die, Pattern=twee
+	Constrained: Pattern=de
+Turn ID=2| B | B : en een groot vierkant plaat aan de voorkant en een antenne
+	Free: Pattern=plaat aan de, Pattern=en, Pattern=een
+	Constrained: Pattern=aan de, Pattern=plaat, Pattern=de
+Turn ID=3| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=4| A | A : ik denken dat ik weten welk je bedoelen
+	Free: Pattern=je, Pattern=ik
+	Constrained: 
+Turn ID=5| A | A : een joystick
+	Free: Pattern=een
+	Constrained: 
+Turn ID=6| A | A : ja ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=7| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=8| A | A : ja dat zijn nummer twee bij mij
+	Free: Pattern=ja, Pattern=zijn, Pattern=twee
+	Constrained: 
+Turn ID=9| A | A : en dan hebben die zo'n plaat aan de zijkant toch
+	Free: Pattern=plaat aan de, Pattern=en dan, Pattern=die, Pattern=zo'n
+	Constrained: Pattern=de, Pattern=en, Pattern=aan de, Pattern=plaat
+Turn ID=10| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=11| A | A : die die verrekijker met die met die plaat die gamer
+	Free: Pattern=die die, Pattern=met die, Pattern=die, Pattern=plaat
+	Constrained: Pattern=die
+Turn ID=12| B | B : die klein worden
+	Free: Pattern=die
+	Constrained: 
+Turn ID=13| B | B : ja precies
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=14| B | B : G
+	Free: 
+	Constrained: 
+Turn ID=15| A | A : ja dat zijn negen
+	Free: Pattern=ja, Pattern=zijn
+	Constrained: 
+Turn ID=16| B | B : dit zijn weer met die antenne bovenop en die vierkant plaat ervoor en dan de vierkant die groot worden
+	Free: Pattern=met die, Pattern=de, Pattern=en dan, Pattern=die, Pattern=en, Pattern=zijn, Pattern=plaat
+	Constrained: Pattern=die, Pattern=en
+Turn ID=17| A | A : die met die verrekijker die gamer
+	Free: Pattern=met die, Pattern=die
+	Constrained: Pattern=die
+Turn ID=18| B | B : oké
+	Free: 
+	Constrained: 
+Turn ID=19| B | B : D
+	Free: 
+	Constrained: 
+Turn ID=20| A | A : ja dat zijn nummer één
+	Free: Pattern=ja, Pattern=zijn
+	Constrained: 
+Turn ID=21| B | B : dit zijn weer met die die klein worden blok helemaal link
+	Free: Pattern=die die, Pattern=met die, Pattern=zijn
+	Constrained: Pattern=die
+Turn ID=22| B | B : twee
+	Free: Pattern=twee
+	Constrained: 
+Turn ID=23| B | B : en dan zo'n vierkant plaat voor en een antenne bovenop
+	Free: Pattern=zo'n, Pattern=en dan, Pattern=een, Pattern=en, Pattern=plaat
+	Constrained: Pattern=en
+Turn ID=24| A | A : die met die verrekijker die gamer
+	Free: Pattern=met die, Pattern=die
+	Constrained: Pattern=die
+Turn ID=25| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=26| B | B : B
+	Free: 
+	Constrained: 

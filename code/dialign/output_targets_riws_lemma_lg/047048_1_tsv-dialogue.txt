@@ -1,0 +1,71 @@
+B|0| B: _dit zijn_ _de robot_ 
+B|1| B: _met_ een antenne 
+A|2| A: [met] zo'n vlak vierkant op [zijn] gezicht 
+B|3| B: _ja_ en _twee_ minecraftogen 
+A|4| A: of het 
+A|5| A: [ja] [ja] [ja] [ja] 
+A|6| A: [ja] dat [zijn] [twee] 
+A|7| A: [dit zijn] die [robot] weer 
+B|8| B: oké G 
+B|9| B: _de robot_ 
+A|10| A: [ja] negen 
+A|11| A: [de robot] 
+B|12| B: oké D 
+A|13| A: nummer één 
+A|14| A: [de robot] 
+B|15| B: [robot] 
+B|16| B: B 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : dit zijn de robot
+	Free: Pattern=de robot, Pattern=dit zijn
+	Constrained: Pattern=robot, Pattern=zijn
+Turn ID=1| B | B : met een antenne
+	Free: Pattern=met
+	Constrained: 
+Turn ID=2| A | A : met zo'n vlak vierkant op zijn gezicht
+	Free: Pattern=met, Pattern=zijn
+	Constrained: 
+Turn ID=3| B | B : ja en twee minecraftogen
+	Free: Pattern=twee, Pattern=ja
+	Constrained: 
+Turn ID=4| A | A : of het
+	Free: 
+	Constrained: 
+Turn ID=5| A | A : ja ja ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=6| A | A : ja dat zijn twee
+	Free: Pattern=twee, Pattern=ja, Pattern=zijn
+	Constrained: 
+Turn ID=7| A | A : dit zijn die robot weer
+	Free: Pattern=dit zijn, Pattern=robot
+	Constrained: Pattern=zijn
+Turn ID=8| B | B : oké G
+	Free: 
+	Constrained: 
+Turn ID=9| B | B : de robot
+	Free: Pattern=de robot
+	Constrained: Pattern=robot
+Turn ID=10| A | A : ja negen
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=11| A | A : de robot
+	Free: Pattern=de robot
+	Constrained: Pattern=robot
+Turn ID=12| B | B : oké D
+	Free: 
+	Constrained: 
+Turn ID=13| A | A : nummer één
+	Free: 
+	Constrained: 
+Turn ID=14| A | A : de robot
+	Free: Pattern=de robot
+	Constrained: Pattern=robot
+Turn ID=15| B | B : robot
+	Free: Pattern=robot
+	Constrained: 
+Turn ID=16| B | B : B
+	Free: 
+	Constrained: 

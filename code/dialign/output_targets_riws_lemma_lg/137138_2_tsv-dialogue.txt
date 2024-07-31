@@ -1,0 +1,75 @@
+A|0| A: _oké_ deze hebben heel duidelijk _een_ één _de_ enig _een_ _piramide bovenop_ 
+B|1| B: _ja_ J 
+B|2| B: [oké] dit _zijn met de piramide bovenop_ 
+B|3| B: en [een] [een] soort 
+A|4| A: [de] enig [met] [een] heel [piramide] 
+B|5| B: _ja_ en [een] kogel soort kogel aan [de] linkerkant 
+A|6| A: [ja] 
+A|7| A: _dat zijn_ nummer zes 
+A|8| A: deze [zijn met de piramide bovenop] 
+A|9| A: [de] heel [piramide] 
+B|10| B: [dat zijn] E 
+B|11| B: [piramide bovenop] 
+A|12| A: [ja] nummer tien 
+A|13| A: deze [zijn met de piramide] erbovenop 
+B|14| B: [ja] 
+B|15| B: [piramide bovenop] 
+A|16| A: [piramide bovenop] 
+A|17| A: [ja] nummer tien 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : oké deze hebben heel duidelijk een één de enig een piramide bovenop
+	Free: Pattern=piramide bovenop, Pattern=oké, Pattern=de, Pattern=een
+	Constrained: Pattern=piramide
+Turn ID=1| B | B : ja J
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=2| B | B : oké dit zijn met de piramide bovenop
+	Free: Pattern=zijn met de piramide bovenop, Pattern=oké
+	Constrained: Pattern=de, Pattern=piramide, Pattern=piramide bovenop, Pattern=met, Pattern=zijn met de piramide
+Turn ID=3| B | B : en een een soort
+	Free: Pattern=een
+	Constrained: 
+Turn ID=4| A | A : de enig met een heel piramide
+	Free: Pattern=piramide, Pattern=de, Pattern=met, Pattern=een
+	Constrained: 
+Turn ID=5| B | B : ja en een kogel soort kogel aan de linkerkant
+	Free: Pattern=de, Pattern=ja, Pattern=een
+	Constrained: 
+Turn ID=6| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=7| A | A : dat zijn nummer zes
+	Free: Pattern=dat zijn
+	Constrained: 
+Turn ID=8| A | A : deze zijn met de piramide bovenop
+	Free: Pattern=zijn met de piramide bovenop
+	Constrained: Pattern=de, Pattern=piramide, Pattern=piramide bovenop, Pattern=met, Pattern=zijn met de piramide
+Turn ID=9| A | A : de heel piramide
+	Free: Pattern=piramide, Pattern=de
+	Constrained: 
+Turn ID=10| B | B : dat zijn E
+	Free: Pattern=dat zijn
+	Constrained: 
+Turn ID=11| B | B : piramide bovenop
+	Free: Pattern=piramide bovenop
+	Constrained: Pattern=piramide
+Turn ID=12| A | A : ja nummer tien
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=13| A | A : deze zijn met de piramide erbovenop
+	Free: Pattern=zijn met de piramide
+	Constrained: Pattern=piramide, Pattern=de, Pattern=met
+Turn ID=14| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=15| B | B : piramide bovenop
+	Free: Pattern=piramide bovenop
+	Constrained: Pattern=piramide
+Turn ID=16| A | A : piramide bovenop
+	Free: Pattern=piramide bovenop
+	Constrained: Pattern=piramide
+Turn ID=17| A | A : ja nummer tien
+	Free: Pattern=ja
+	Constrained: 

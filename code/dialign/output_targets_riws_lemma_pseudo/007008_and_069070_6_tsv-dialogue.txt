@@ -1,0 +1,119 @@
+B|0| B: _ja_ 
+B|1| B: _ja_ 
+B|2| B: _met_ _een_ plat stuk eraan 
+B|3| B: _ja_ _dan_ _weten_ _ik_ welk _het_ zijn _en_ _er_ zitten nog _één_ fliep 
+B|4| B: _ja_ 
+B|5| B: _oké_ _dan_ zijn _het_ F 
+A|6| A: nu _hebben_ [ik] oeh 
+A|7| A: [oké] [het] lijken op [een] [ja] [ik] [het] _hebben_ beschrijven als [een] [één] [een] [een] clown zeggen maar toeter [weten] je 
+A|8| A: _aan_ _aan de_ zijkant van _zo'n_ oor zeggen maar 
+A|9| A: _ik hebben_ [er] [één] 
+A|10| A: hij lijken op [een] 
+A|11| A: [ja] 
+A|12| A: kloppen 
+A|13| A: alles link 
+B|14| B: [oké] dit zijn degeen _met_ [de] bal [aan de] voorkant waar _dat_ ding doorheen zitten _en dan_ [aan de] achterkant nog zo _dat_ 
+B|15| B: [ja] _dat_ zijn A 
+A|16| A: jou beurt 
+A|17| A: _zo'n_ appel 
+A|18| A: [oké] 
+A|19| A: vijf 
+B|20| B: [ik hebben] diegene _met_ [een] bol [aan de] voorkant waar [een] ding doorheen zitten _en_ [één] fliebel 
+B|21| B: [ja] 
+B|22| B: [ja] even zoeken [ja] [ja] _dat_ zijn h 
+A|23| A: _die_ clowntoeter [en dan] _zo'n_ blad 
+A|24| A: _zo'n_ Pokemonblad [weten] je toentertijd 
+A|25| A: nummer vijf 
+B|26| B: [ik hebben] [die] boor _met_ [die] balk erdoorheen _met_ [zo'n] fliebel in [die] pot 
+A|27| A: [de] toeter [met] [dat] appelblad zeggen maar 
+A|28| A: vijftien 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=1| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=2| B | B : met een plat stuk eraan
+	Free: Pattern=met, Pattern=een
+	Constrained: 
+Turn ID=3| B | B : ja dan weten ik welk het zijn en er zitten nog één fliep
+	Free: Pattern=ja, Pattern=dan, Pattern=weten, Pattern=het, Pattern=er, Pattern=ik, Pattern=en, Pattern=één
+	Constrained: 
+Turn ID=4| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=5| B | B : oké dan zijn het F
+	Free: Pattern=dan, Pattern=oké, Pattern=het
+	Constrained: 
+Turn ID=6| A | A : nu hebben ik oeh
+	Free: Pattern=hebben, Pattern=ik
+	Constrained: 
+Turn ID=7| A | A : oké het lijken op een ja ik het hebben beschrijven als een één een een clown zeggen maar toeter weten je
+	Free: Pattern=ja, Pattern=een, Pattern=weten, Pattern=het, Pattern=hebben, Pattern=oké, Pattern=ik, Pattern=één
+	Constrained: 
+Turn ID=8| A | A : aan aan de zijkant van zo'n oor zeggen maar
+	Free: Pattern=aan de, Pattern=aan, Pattern=zo'n
+	Constrained: Pattern=aan, Pattern=de
+Turn ID=9| A | A : ik hebben er één
+	Free: Pattern=ik hebben, Pattern=er, Pattern=één
+	Constrained: Pattern=hebben, Pattern=ik
+Turn ID=10| A | A : hij lijken op een
+	Free: Pattern=een
+	Constrained: 
+Turn ID=11| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=12| A | A : kloppen
+	Free: 
+	Constrained: 
+Turn ID=13| A | A : alles link
+	Free: 
+	Constrained: 
+Turn ID=14| B | B : oké dit zijn degeen met de bal aan de voorkant waar dat ding doorheen zitten en dan aan de achterkant nog zo dat
+	Free: Pattern=dat, Pattern=de, Pattern=en dan, Pattern=aan de, Pattern=met, Pattern=oké
+	Constrained: Pattern=aan, Pattern=en, Pattern=dan, Pattern=de
+Turn ID=15| B | B : ja dat zijn A
+	Free: Pattern=dat, Pattern=ja
+	Constrained: 
+Turn ID=16| A | A : jou beurt
+	Free: 
+	Constrained: 
+Turn ID=17| A | A : zo'n appel
+	Free: Pattern=zo'n
+	Constrained: 
+Turn ID=18| A | A : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=19| A | A : vijf
+	Free: 
+	Constrained: 
+Turn ID=20| B | B : ik hebben diegene met een bol aan de voorkant waar een ding doorheen zitten en één fliebel
+	Free: Pattern=ik hebben, Pattern=aan de, Pattern=een, Pattern=met, Pattern=en, Pattern=één
+	Constrained: Pattern=aan, Pattern=de, Pattern=hebben, Pattern=ik
+Turn ID=21| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=22| B | B : ja even zoeken ja ja dat zijn h
+	Free: Pattern=dat, Pattern=ja
+	Constrained: 
+Turn ID=23| A | A : die clowntoeter en dan zo'n blad
+	Free: Pattern=en dan, Pattern=die, Pattern=zo'n
+	Constrained: Pattern=en, Pattern=dan
+Turn ID=24| A | A : zo'n Pokemonblad weten je toentertijd
+	Free: Pattern=zo'n, Pattern=weten
+	Constrained: 
+Turn ID=25| A | A : nummer vijf
+	Free: 
+	Constrained: 
+Turn ID=26| B | B : ik hebben die boor met die balk erdoorheen met zo'n fliebel in die pot
+	Free: Pattern=ik hebben, Pattern=die, Pattern=zo'n, Pattern=met
+	Constrained: Pattern=hebben, Pattern=ik
+Turn ID=27| A | A : de toeter met dat appelblad zeggen maar
+	Free: Pattern=dat, Pattern=de, Pattern=met
+	Constrained: 
+Turn ID=28| A | A : vijftien
+	Free: 
+	Constrained: 

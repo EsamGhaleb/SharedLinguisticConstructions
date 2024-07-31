@@ -1,0 +1,83 @@
+A|0| A: ik vinden dit _een_ stopcontact _er_ _zitten_ _twee_ balk _zo_ naar wachten even voor jou _zijn dat_ _de_ ander kant 
+A|1| A: _er_ _zitten_ _twee_ balk naar _de_ zijkant 
+A|2| A: _en_ zo'n zo'n vorm _aan de bovenkant_ 
+A|3| A: _en_ _er_ _zitten_ nog _een_ gek uitsteeksel _aan_ 
+A|4| A: _ja_ zo'n uitlaa _aan de_ onderkant _en dan_ zeggen maar voor mij _zijn_ _het_ _die_ 
+B|5| B: met [een] soort van pionnetje bovenop 
+B|6| B: [die] [die] waar [het] topje van missen [dat] [zijn] [zijn dat] nou [een] L of [een] I 
+B|7| B: [zitten] [er] [een] I bij ? [dat] [zijn] [een] I 
+A|8| A: _ja_ 
+A|9| A: oké nummer _twee_ 
+A|10| A: dit [zijn] _de_ stekker 
+B|11| B: deze hebben zegmaar [een] pilon [en dan] [zijn dat] bovenkan weer afsnijden [en] rechts [twee] blok eruit 
+B|12| B: [ja] [dat] [ja] precies 
+B|13| B: M 
+A|14| A: [ja] nummer negen 
+A|15| A: dit [zijn] [het] _de_ stekker stekker 
+B|16| B: pilonne wat [zo] [aan de bovenkant] [zijn] afknipken [en] [twee] vierkant dinget rechts [de] istek 
+B|17| B: F 
+A|18| A: [ja] zes 
+B|19| B: half pilonne wat af [zijn] snijden [aan de bovenkant] iste 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : ik vinden dit een stopcontact er zitten twee balk zo naar wachten even voor jou zijn dat de ander kant
+	Free: Pattern=twee, Pattern=de, Pattern=een, Pattern=zo, Pattern=zitten, Pattern=er, Pattern=zijn dat
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=1| A | A : er zitten twee balk naar de zijkant
+	Free: Pattern=de, Pattern=er, Pattern=zitten, Pattern=twee
+	Constrained: 
+Turn ID=2| A | A : en zo'n zo'n vorm aan de bovenkant
+	Free: Pattern=aan de bovenkant, Pattern=en
+	Constrained: Pattern=aan, Pattern=de, Pattern=aan de
+Turn ID=3| A | A : en er zitten nog een gek uitsteeksel aan
+	Free: Pattern=aan, Pattern=een, Pattern=zitten, Pattern=er, Pattern=en
+	Constrained: 
+Turn ID=4| A | A : ja zo'n uitlaa aan de onderkant en dan zeggen maar voor mij zijn het die
+	Free: Pattern=ja, Pattern=en dan, Pattern=aan de, Pattern=het, Pattern=die, Pattern=zijn
+	Constrained: Pattern=en, Pattern=aan, Pattern=de
+Turn ID=5| B | B : met een soort van pionnetje bovenop
+	Free: Pattern=een
+	Constrained: 
+Turn ID=6| B | B : die die waar het topje van missen dat zijn zijn dat nou een L of een I
+	Free: Pattern=dat, Pattern=een, Pattern=het, Pattern=die, Pattern=zijn, Pattern=zijn dat
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=7| B | B : zitten er een I bij ? dat zijn een I
+	Free: Pattern=dat, Pattern=een, Pattern=zitten, Pattern=er, Pattern=zijn
+	Constrained: 
+Turn ID=8| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=9| A | A : oké nummer twee
+	Free: Pattern=twee
+	Constrained: 
+Turn ID=10| A | A : dit zijn de stekker
+	Free: Pattern=zijn, Pattern=de
+	Constrained: 
+Turn ID=11| B | B : deze hebben zegmaar een pilon en dan zijn dat bovenkan weer afsnijden en rechts twee blok eruit
+	Free: Pattern=twee, Pattern=en dan, Pattern=een, Pattern=en, Pattern=zijn dat
+	Constrained: Pattern=en, Pattern=dat, Pattern=zijn
+Turn ID=12| B | B : ja dat ja precies
+	Free: Pattern=dat, Pattern=ja
+	Constrained: 
+Turn ID=13| B | B : M
+	Free: 
+	Constrained: 
+Turn ID=14| A | A : ja nummer negen
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=15| A | A : dit zijn het de stekker stekker
+	Free: Pattern=zijn, Pattern=de, Pattern=het
+	Constrained: 
+Turn ID=16| B | B : pilonne wat zo aan de bovenkant zijn afknipken en twee vierkant dinget rechts de istek
+	Free: Pattern=twee, Pattern=de, Pattern=zo, Pattern=zijn, Pattern=aan de bovenkant, Pattern=en
+	Constrained: Pattern=aan, Pattern=de, Pattern=aan de
+Turn ID=17| B | B : F
+	Free: 
+	Constrained: 
+Turn ID=18| A | A : ja zes
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=19| B | B : half pilonne wat af zijn snijden aan de bovenkant iste
+	Free: Pattern=aan de bovenkant, Pattern=zijn
+	Constrained: Pattern=aan, Pattern=de, Pattern=aan de

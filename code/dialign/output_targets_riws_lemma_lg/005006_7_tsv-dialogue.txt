@@ -1,0 +1,59 @@
+B|0| B: deze hebben een _tafel met_ een bak er op aan de voorkant 
+A|1| A: ja zestien 
+A|2| A: het [tafel met] het schotel 
+B|3| B: even kijken waar die staan P 
+B|4| B: [tafel met] bakje erop 
+A|5| A: veertien 
+A|6| A: _o_ _dat_ dienblad _met dat_ schotel 
+B|7| B: [o] [met _dat] tafel_ 
+A|8| A: ja [dat tafel] 
+B|9| B: jaja N 
+B|10| B: [tafel met] bakje er op 
+A|11| A: tien 
+A|12| A: [dat [tafel] met] het schotel 
+B|13| B: d 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : deze hebben een tafel met een bak er op aan de voorkant
+	Free: Pattern=tafel met
+	Constrained: 
+Turn ID=1| A | A : ja zestien
+	Free: 
+	Constrained: 
+Turn ID=2| A | A : het tafel met het schotel
+	Free: Pattern=tafel met
+	Constrained: 
+Turn ID=3| B | B : even kijken waar die staan P
+	Free: 
+	Constrained: 
+Turn ID=4| B | B : tafel met bakje erop
+	Free: Pattern=tafel met
+	Constrained: 
+Turn ID=5| A | A : veertien
+	Free: 
+	Constrained: 
+Turn ID=6| A | A : o dat dienblad met dat schotel
+	Free: Pattern=met dat, Pattern=dat, Pattern=o
+	Constrained: Pattern=dat
+Turn ID=7| B | B : o met dat tafel
+	Free: Pattern=dat tafel, Pattern=met dat, Pattern=o
+	Constrained: Pattern=dat
+Turn ID=8| A | A : ja dat tafel
+	Free: Pattern=dat tafel
+	Constrained: Pattern=dat
+Turn ID=9| B | B : jaja N
+	Free: 
+	Constrained: 
+Turn ID=10| B | B : tafel met bakje er op
+	Free: Pattern=tafel met
+	Constrained: 
+Turn ID=11| A | A : tien
+	Free: 
+	Constrained: 
+Turn ID=12| A | A : dat tafel met het schotel
+	Free: Pattern=tafel met, Pattern=dat tafel
+	Constrained: Pattern=dat
+Turn ID=13| B | B : d
+	Free: 
+	Constrained: 

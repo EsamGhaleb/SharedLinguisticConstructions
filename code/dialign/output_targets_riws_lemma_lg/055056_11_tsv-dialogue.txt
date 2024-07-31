@@ -1,0 +1,211 @@
+B|0| B: _ja_ _ik_ zullen _het_ weer in koffiebekert omschrijven 
+B|1| B: dus _ik_ _hebben_ _het_ omschrijven _als_ _een_ koffiekopje _met_ _een_ _ei_ ervoor 
+B|2| B: _zonder iets_ _door_ _dat _ei_ heen_ 
+A|3| A: [ja] 
+B|4| B: _het_ _hebben_ ver _twee_ lepelt in _het_ koffiekopje 
+B|5| B: _en_ er zitten weer _een_ klein [ja] _een beetje_ _driehoekig_ uitsteeksel _aan_ 
+A|6| A: [ja] 
+A|7| A: [en] _de_ ding _die_ erin _hangen_ één _zijn_ [een beetje] staafachtig [en] _de_ _ander_ [een beetje] _een penseel_ kwastachtig ding 
+B|8| B: [ja] 
+B|9| B: _dat zijn_ hem 
+A|10| A: [ja] 
+A|11| A: [dat zijn] nummer veertien 
+A|12| A: dan [hebben] [ik] _de_ koffiebeker _met de ei_ [zonder iets] erdoorheen _aan de_ voorkant 
+A|13| A: [en] _link_ steken _een _een_ driehoek_ [iets] uit 
+B|14| B: [met] _twee_ lepelt 
+A|15| A: _met de_ _staaf_ [en] _de_ _penseel_ Erbovenin 
+B|16| B: [ja] 
+B|17| B: [ja] [dat zijn] letter N 
+B|18| B: _het_ koffiekopje [met] [een [een] penseel] uitstekend _een staaf_ [een] [ei] vooraan 
+A|19| A: [dat ei] [hebben] [een staaf] erdoorheen 
+B|20| B: _nee_ 
+A|21| A: oké _die twee aan de bovenkant_ [en] _de_ _driehoek link_ 
+B|22| B: [dat] [ander] 
+B|23| B: [met] [die twee aan de bovenkant] 
+B|24| B: [ja] 
+B|25| B: [driehoek link] 
+A|26| A: oké 
+A|27| A: _het ei_ 
+A|28| A: [dat zijn] nummer negen 
+A|29| A: [ei] [aan de] voorkant 
+A|30| A: [twee] ding erin om te roeren 
+A|31| A: [en] nog _een _driehoek_ aan de_ zijkant 
+B|32| B: [ja] [dat zijn] letter G 
+B|33| B: [dat] kop [met de ei] _als_ neus [een penseel] _als_ roerstaafje [en] [een] [ander] [staaf] erbij [en] [een driehoek] 
+B|34| B: [aan de] linkerkant 
+A|35| A: [ja] hebbes 
+A|36| A: nummer vijf 
+A|37| A: [ei] [aan de] voorkant [iets] rechts 
+A|38| A: [driehoekig] aanhangsel [en] [twee] ding van bovenaf erin 
+B|39| B: _door het ei heen_ 
+A|40| A: [nee] 
+A|41| A: niks [door het ei heen] 
+A|42| A: [en] [twee] ding [aan de bovenkant] erin [een staaf] [en] [penseel] 
+B|43| B: weer [die] 
+B|44| B: [die] [hebben] _we_ _vaak hebben_ 
+B|45| B: [met] [dat] [driehoek aan de] linkerkant 
+A|46| A: [ja] 
+B|47| B: [ja] 
+A|48| A: [we] [hebben] ze allemaal even [vaak hebben] [als] [het] goed [zijn] 
+B|49| B: [ja] waarschijnlijk wel 
+B|50| B: letter J 
+B|51| B: sommig blijven [hangen] denken [ik] 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : ja ik zullen het weer in koffiebekert omschrijven
+	Free: Pattern=ja, Pattern=het, Pattern=ik
+	Constrained: 
+Turn ID=1| B | B : dus ik hebben het omschrijven als een koffiekopje met een ei ervoor
+	Free: Pattern=ei, Pattern=een, Pattern=het, Pattern=hebben, Pattern=als, Pattern=met, Pattern=ik
+	Constrained: 
+Turn ID=2| B | B : zonder iets door dat ei heen
+	Free: Pattern=dat ei, Pattern=ei heen, Pattern=zonder iets, Pattern=door
+	Constrained: Pattern=ei, Pattern=iets, Pattern=dat
+Turn ID=3| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=4| B | B : het hebben ver twee lepelt in het koffiekopje
+	Free: Pattern=hebben, Pattern=twee, Pattern=het
+	Constrained: 
+Turn ID=5| B | B : en er zitten weer een klein ja een beetje driehoekig uitsteeksel aan
+	Free: Pattern=een, Pattern=driehoekig, Pattern=en, Pattern=een beetje, Pattern=aan, Pattern=ja
+	Constrained: Pattern=een
+Turn ID=6| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=7| A | A : en de ding die erin hangen één zijn een beetje staafachtig en de ander een beetje een penseel kwastachtig ding
+	Free: Pattern=de, Pattern=een penseel, Pattern=hangen, Pattern=die, Pattern=ander, Pattern=en, Pattern=zijn, Pattern=een beetje
+	Constrained: Pattern=penseel, Pattern=een
+Turn ID=8| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=9| B | B : dat zijn hem
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=10| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=11| A | A : dat zijn nummer veertien
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=12| A | A : dan hebben ik de koffiebeker met de ei zonder iets erdoorheen aan de voorkant
+	Free: Pattern=de, Pattern=hebben, Pattern=zonder iets, Pattern=ik, Pattern=aan de, Pattern=met de ei
+	Constrained: Pattern=ei, Pattern=met, Pattern=de, Pattern=met de, Pattern=aan, Pattern=iets
+Turn ID=13| A | A : en link steken een een driehoek iets uit
+	Free: Pattern=iets, Pattern=een een, Pattern=link, Pattern=en, Pattern=een driehoek
+	Constrained: Pattern=een
+Turn ID=14| B | B : met twee lepelt
+	Free: Pattern=met, Pattern=twee
+	Constrained: 
+Turn ID=15| A | A : met de staaf en de penseel Erbovenin
+	Free: Pattern=penseel, Pattern=staaf, Pattern=en, Pattern=de, Pattern=met de
+	Constrained: Pattern=met, Pattern=de
+Turn ID=16| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=17| B | B : ja dat zijn letter N
+	Free: Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=18| B | B : het koffiekopje met een een penseel uitstekend een staaf een ei vooraan
+	Free: Pattern=ei, Pattern=een, Pattern=een staaf, Pattern=een penseel, Pattern=het, Pattern=een een, Pattern=met
+	Constrained: Pattern=staaf, Pattern=penseel, Pattern=een
+Turn ID=19| A | A : dat ei hebben een staaf erdoorheen
+	Free: Pattern=dat ei, Pattern=een staaf, Pattern=hebben
+	Constrained: Pattern=ei, Pattern=staaf, Pattern=een, Pattern=dat
+Turn ID=20| B | B : nee
+	Free: Pattern=nee
+	Constrained: 
+Turn ID=21| A | A : oké die twee aan de bovenkant en de driehoek link
+	Free: Pattern=die twee aan de bovenkant, Pattern=driehoek link, Pattern=de, Pattern=en
+	Constrained: Pattern=twee, Pattern=aan de, Pattern=die, Pattern=link, Pattern=aan de bovenkant, Pattern=de, Pattern=aan
+Turn ID=22| B | B : dat ander
+	Free: Pattern=ander, Pattern=dat
+	Constrained: 
+Turn ID=23| B | B : met die twee aan de bovenkant
+	Free: Pattern=die twee aan de bovenkant, Pattern=met
+	Constrained: Pattern=twee, Pattern=aan de, Pattern=die, Pattern=aan de bovenkant, Pattern=de, Pattern=aan
+Turn ID=24| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=25| B | B : driehoek link
+	Free: Pattern=driehoek link
+	Constrained: Pattern=link
+Turn ID=26| A | A : oké
+	Free: 
+	Constrained: 
+Turn ID=27| A | A : het ei
+	Free: Pattern=het ei
+	Constrained: Pattern=ei, Pattern=het
+Turn ID=28| A | A : dat zijn nummer negen
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=29| A | A : ei aan de voorkant
+	Free: Pattern=aan de, Pattern=ei
+	Constrained: Pattern=de, Pattern=aan
+Turn ID=30| A | A : twee ding erin om te roeren
+	Free: Pattern=twee
+	Constrained: 
+Turn ID=31| A | A : en nog een driehoek aan de zijkant
+	Free: Pattern=driehoek aan de, Pattern=een driehoek, Pattern=en
+	Constrained: Pattern=aan, Pattern=een, Pattern=de, Pattern=aan de
+Turn ID=32| B | B : ja dat zijn letter G
+	Free: Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=33| B | B : dat kop met de ei als neus een penseel als roerstaafje en een ander staaf erbij en een driehoek
+	Free: Pattern=dat, Pattern=staaf, Pattern=met de ei, Pattern=een, Pattern=een penseel, Pattern=als, Pattern=ander, Pattern=en, Pattern=een driehoek
+	Constrained: Pattern=penseel, Pattern=ei, Pattern=een, Pattern=met, Pattern=de, Pattern=met de
+Turn ID=34| B | B : aan de linkerkant
+	Free: Pattern=aan de
+	Constrained: Pattern=de, Pattern=aan
+Turn ID=35| A | A : ja hebbes
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=36| A | A : nummer vijf
+	Free: 
+	Constrained: 
+Turn ID=37| A | A : ei aan de voorkant iets rechts
+	Free: Pattern=aan de, Pattern=ei, Pattern=iets
+	Constrained: Pattern=de, Pattern=aan
+Turn ID=38| A | A : driehoekig aanhangsel en twee ding van bovenaf erin
+	Free: Pattern=twee, Pattern=driehoekig, Pattern=en
+	Constrained: 
+Turn ID=39| B | B : door het ei heen
+	Free: Pattern=door het ei heen
+	Constrained: Pattern=ei, Pattern=ei heen, Pattern=door, Pattern=het, Pattern=het ei
+Turn ID=40| A | A : nee
+	Free: Pattern=nee
+	Constrained: 
+Turn ID=41| A | A : niks door het ei heen
+	Free: Pattern=door het ei heen
+	Constrained: Pattern=ei, Pattern=ei heen, Pattern=door, Pattern=het, Pattern=het ei
+Turn ID=42| A | A : en twee ding aan de bovenkant erin een staaf en penseel
+	Free: Pattern=penseel, Pattern=twee, Pattern=aan de bovenkant, Pattern=en, Pattern=een staaf
+	Constrained: Pattern=staaf, Pattern=aan de, Pattern=een, Pattern=de, Pattern=aan
+Turn ID=43| B | B : weer die
+	Free: Pattern=die
+	Constrained: 
+Turn ID=44| B | B : die hebben we vaak hebben
+	Free: Pattern=vaak hebben, Pattern=hebben, Pattern=we, Pattern=die
+	Constrained: Pattern=hebben
+Turn ID=45| B | B : met dat driehoek aan de linkerkant
+	Free: Pattern=driehoek aan de, Pattern=met, Pattern=dat
+	Constrained: Pattern=aan de, Pattern=de, Pattern=aan
+Turn ID=46| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=47| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=48| A | A : we hebben ze allemaal even vaak hebben als het goed zijn
+	Free: Pattern=vaak hebben, Pattern=het, Pattern=hebben, Pattern=als, Pattern=we, Pattern=zijn
+	Constrained: Pattern=hebben
+Turn ID=49| B | B : ja waarschijnlijk wel
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=50| B | B : letter J
+	Free: 
+	Constrained: 
+Turn ID=51| B | B : sommig blijven hangen denken ik
+	Free: Pattern=hangen, Pattern=ik
+	Constrained: 

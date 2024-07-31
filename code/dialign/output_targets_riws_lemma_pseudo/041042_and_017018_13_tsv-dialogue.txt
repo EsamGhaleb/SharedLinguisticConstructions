@@ -1,0 +1,135 @@
+A|0| A: oké 
+A|1| A: _ja_ 
+A|2| A: _ja_ 
+A|3| A: dan _de_ 
+A|4| A: _ja_ 
+A|5| A: soort _Pippi Langkous_ idee _en_ dan _ook_ _een_ ondergrond 
+A|6| A: _ja_ 
+A|7| A: _dat zijn_ bij _mij nummer_ vijf 
+A|8| A: dus vijf geel 
+B|9| B: [ja] deze hij _hebben_ _aan_ het [zijn] [ook] _weer_ zo'n zo'n kop natuurlijk _aan_ [de] voorkant [een] rond [en] _aan beide kant_ _drie_ van _die_ kraalt 
+B|10| B: [ja] [ja] precies [ja] 
+B|11| B: yes [dat zijn] voor [mij nummer] J of letter J 
+A|12| A: _dit zijn weer_ _die Pippi Langkous_ _met die_ [aan beide kant] [die] [drie] vormp 
+A|13| A: [en] [de] grond 
+B|14| B: [dit zijn] wederom [die] [met [die] Pippi Langkous] vlechtjes 
+A|15| A: [de] 
+A|16| A: [ja] [met] [de] staar 
+A|17| A: oké 
+A|18| A: [ja] ik [hebben] dan ik [hebben] juist [een] ander als clown noemen dus 
+A|19| A: ik [hebben] [de] clown [met] [de] bol neus 
+A|20| A: maar [dit zijn] dus [met] [de] plat neus [Pippi Langkous] 
+A|21| A: [dat zijn] elf 
+B|22| B: [ja] 
+B|23| B: [dat zijn] P voor [mij] 
+A|24| A: _dit zijn weer de [Pippi_ Langkous] 
+A|25| A: dus [met] [de] twee 
+B|26| B: [dit zijn weer de Pippi] Langkousvlechtjes 
+A|27| A: oké 
+A|28| A: [ja] 
+A|29| A: [ja] 
+A|30| A: [dat zijn] [nummer] negen 
+B|31| B: L 
+A|32| A: [dit zijn] [Pippi Langkous] 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : oké
+	Free: 
+	Constrained: 
+Turn ID=1| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=2| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=3| A | A : dan de
+	Free: Pattern=de
+	Constrained: 
+Turn ID=4| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=5| A | A : soort Pippi Langkous idee en dan ook een ondergrond
+	Free: Pattern=Pippi Langkous, Pattern=ook, Pattern=een, Pattern=en
+	Constrained: 
+Turn ID=6| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=7| A | A : dat zijn bij mij nummer vijf
+	Free: Pattern=mij nummer, Pattern=dat zijn
+	Constrained: Pattern=mij, Pattern=zijn, Pattern=nummer
+Turn ID=8| A | A : dus vijf geel
+	Free: 
+	Constrained: 
+Turn ID=9| B | B : ja deze hij hebben aan het zijn ook weer zo'n zo'n kop natuurlijk aan de voorkant een rond en aan beide kant drie van die kraalt
+	Free: Pattern=aan beide kant, Pattern=ook, Pattern=een, Pattern=drie, Pattern=hebben, Pattern=die, Pattern=en, Pattern=zijn, Pattern=weer, Pattern=de, Pattern=aan, Pattern=ja
+	Constrained: Pattern=aan
+Turn ID=10| B | B : ja ja precies ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=11| B | B : yes dat zijn voor mij nummer J of letter J
+	Free: Pattern=mij nummer, Pattern=dat zijn
+	Constrained: Pattern=mij, Pattern=zijn, Pattern=nummer
+Turn ID=12| A | A : dit zijn weer die Pippi Langkous met die aan beide kant die drie vormp
+	Free: Pattern=met die, Pattern=aan beide kant, Pattern=drie, Pattern=die, Pattern=die Pippi Langkous, Pattern=dit zijn weer
+	Constrained: Pattern=aan, Pattern=Pippi Langkous, Pattern=met, Pattern=die, Pattern=zijn, Pattern=weer, Pattern=dit zijn
+Turn ID=13| A | A : en de grond
+	Free: Pattern=en, Pattern=de
+	Constrained: 
+Turn ID=14| B | B : dit zijn wederom die met die Pippi Langkous vlechtjes
+	Free: Pattern=die Pippi Langkous, Pattern=dit zijn, Pattern=met die, Pattern=die
+	Constrained: Pattern=zijn, Pattern=met, Pattern=die, Pattern=Pippi Langkous
+Turn ID=15| A | A : de
+	Free: Pattern=de
+	Constrained: 
+Turn ID=16| A | A : ja met de staar
+	Free: Pattern=ja, Pattern=met, Pattern=de
+	Constrained: 
+Turn ID=17| A | A : oké
+	Free: 
+	Constrained: 
+Turn ID=18| A | A : ja ik hebben dan ik hebben juist een ander als clown noemen dus
+	Free: Pattern=ja, Pattern=een, Pattern=hebben
+	Constrained: 
+Turn ID=19| A | A : ik hebben de clown met de bol neus
+	Free: Pattern=met, Pattern=hebben, Pattern=de
+	Constrained: 
+Turn ID=20| A | A : maar dit zijn dus met de plat neus Pippi Langkous
+	Free: Pattern=Pippi Langkous, Pattern=dit zijn, Pattern=met, Pattern=de
+	Constrained: Pattern=zijn
+Turn ID=21| A | A : dat zijn elf
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn
+Turn ID=22| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=23| B | B : dat zijn P voor mij
+	Free: Pattern=dat zijn, Pattern=mij
+	Constrained: Pattern=zijn
+Turn ID=24| A | A : dit zijn weer de Pippi Langkous
+	Free: Pattern=dit zijn weer de Pippi, Pattern=Pippi Langkous
+	Constrained: Pattern=de, Pattern=zijn, Pattern=weer, Pattern=dit zijn, Pattern=dit zijn weer
+Turn ID=25| A | A : dus met de twee
+	Free: Pattern=met, Pattern=de
+	Constrained: 
+Turn ID=26| B | B : dit zijn weer de Pippi Langkousvlechtjes
+	Free: Pattern=dit zijn weer de Pippi
+	Constrained: Pattern=de, Pattern=zijn, Pattern=weer, Pattern=dit zijn, Pattern=dit zijn weer
+Turn ID=27| A | A : oké
+	Free: 
+	Constrained: 
+Turn ID=28| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=29| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=30| A | A : dat zijn nummer negen
+	Free: Pattern=dat zijn, Pattern=nummer
+	Constrained: Pattern=zijn
+Turn ID=31| B | B : L
+	Free: 
+	Constrained: 
+Turn ID=32| A | A : dit zijn Pippi Langkous
+	Free: Pattern=Pippi Langkous, Pattern=dit zijn
+	Constrained: Pattern=zijn

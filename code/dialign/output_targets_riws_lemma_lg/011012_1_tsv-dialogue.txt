@@ -1,0 +1,103 @@
+B|0| B: _ik hebben_ _er_ nou _één_ _dat_ _ja_ je kunnen _het_ _een beetje_ eigenlijk als _een_ verrekijker zien _of_ zo _dat_ _aan de_ 
+B|1| B: _linkerkant_ _hebben_ je dan _twee_ van _die_ _ja_ _met_ _vierkant die_ dan telkens _groot worden_ 
+B|2| B: _en_ dan _hebben_ je bovenop _hebben_ je dan nog _een_ soort van _antenne_ zitten _of_ zo lijken _het_ wel 
+A|3| A: [en] daarvoor zo'n [vierkant] plaat 
+B|4| B: _ja_ 
+A|5| A: [ja] 
+B|6| B: _die_ 
+A|7| A: _dat zijn bij mij_ nummer [twee] 
+A|8| A: [ik hebben] nu [de] [een] mat _met _die_ antenne_ [en] _dat vierkant_ [of] [ja] [die] plaat ervoor zeggen maar _en _die_ twee_ [vierkant] uitstekend ding 
+B|9| B: [ja] 
+B|10| B: [dat zijn bij mij] G 
+B|11| B: we [hebben] nou weer _die een met_ [dat _vierkant] aan de_ voorkant [en] dan weer [met _die] vierkant die_ telkens _groot worden_ dan [die twee] naast elkaar _en die antenne_ inderdaad 
+A|12| A: [en die antenne] erop 
+A|13| A: [ja] 
+A|14| A: nummer negen [bij mij] 
+A|15| A: [ik hebben] nu [die een [met] [die] antenne] erop [die] plaat ervoor _en die [vierkant_ aan de] [linkerkant] 
+B|16| B: [ja] 
+B|17| B: [dat zijn bij mij] d 
+B|18| B: [die een] weer [met] [dat [vierkant] aan de] voorkant [en die antenne] [aan de] bovenkant _en die vierkant die_ telkens _groot worden_ 
+A|19| A: [ja] 
+A|20| A: nummer [één] _zijn dat_ [bij mij] 
+A|21| A: [ik hebben] [die] [met [die] antenne] staan [bij mij] onderin [een beetje] in [het] midden 
+A|22| A: [met] zo'n [vierkant] plaat [er] voor [en die vierkant die] [groot worden] 
+B|23| B: [ja] 
+B|24| B: [bij mij] [zijn dat] B 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : ik hebben er nou één dat ja je kunnen het een beetje eigenlijk als een verrekijker zien of zo dat aan de
+	Free: Pattern=ik hebben, Pattern=dat, Pattern=of, Pattern=ja, Pattern=aan de, Pattern=een, Pattern=het, Pattern=er, Pattern=één, Pattern=een beetje
+	Constrained: Pattern=een, Pattern=de, Pattern=hebben
+Turn ID=1| B | B : linkerkant hebben je dan twee van die ja met vierkant die dan telkens groot worden
+	Free: Pattern=twee, Pattern=ja, Pattern=vierkant die, Pattern=hebben, Pattern=met, Pattern=die, Pattern=groot worden, Pattern=linkerkant
+	Constrained: Pattern=vierkant, Pattern=die
+Turn ID=2| B | B : en dan hebben je bovenop hebben je dan nog een soort van antenne zitten of zo lijken het wel
+	Free: Pattern=of, Pattern=een, Pattern=het, Pattern=hebben, Pattern=antenne, Pattern=en
+	Constrained: 
+Turn ID=3| A | A : en daarvoor zo'n vierkant plaat
+	Free: Pattern=vierkant, Pattern=en
+	Constrained: 
+Turn ID=4| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=5| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=6| B | B : die
+	Free: Pattern=die
+	Constrained: 
+Turn ID=7| A | A : dat zijn bij mij nummer twee
+	Free: Pattern=dat zijn bij mij, Pattern=twee
+	Constrained: Pattern=dat, Pattern=bij mij
+Turn ID=8| A | A : ik hebben nu de een mat met die antenne en dat vierkant of ja die plaat ervoor zeggen maar en die twee vierkant uitstekend ding
+	Free: Pattern=met die, Pattern=of, Pattern=een, Pattern=die twee, Pattern=dat vierkant, Pattern=die antenne, Pattern=die, Pattern=en, Pattern=vierkant, Pattern=ik hebben, Pattern=en die, Pattern=de, Pattern=ja
+	Constrained: Pattern=dat, Pattern=twee, Pattern=hebben, Pattern=met, Pattern=die, Pattern=antenne, Pattern=en, Pattern=vierkant
+Turn ID=9| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=10| B | B : dat zijn bij mij G
+	Free: Pattern=dat zijn bij mij
+	Constrained: Pattern=dat, Pattern=bij mij
+Turn ID=11| B | B : we hebben nou weer die een met dat vierkant aan de voorkant en dan weer met die vierkant die telkens groot worden dan die twee naast elkaar en die antenne inderdaad
+	Free: Pattern=met die, Pattern=die een met, Pattern=en die antenne, Pattern=die twee, Pattern=die vierkant die, Pattern=en, Pattern=groot worden, Pattern=vierkant aan de, Pattern=dat vierkant, Pattern=hebben
+	Constrained: Pattern=en die, Pattern=dat, Pattern=twee, Pattern=de, Pattern=aan de, Pattern=een, Pattern=vierkant die, Pattern=die antenne, Pattern=met, Pattern=die, Pattern=en, Pattern=vierkant, Pattern=die een, Pattern=antenne
+Turn ID=12| A | A : en die antenne erop
+	Free: Pattern=en die antenne
+	Constrained: Pattern=en die, Pattern=die antenne, Pattern=die, Pattern=antenne, Pattern=en
+Turn ID=13| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=14| A | A : nummer negen bij mij
+	Free: Pattern=bij mij
+	Constrained: 
+Turn ID=15| A | A : ik hebben nu die een met die antenne erop die plaat ervoor en die vierkant aan de linkerkant
+	Free: Pattern=ik hebben, Pattern=met die, Pattern=die een met, Pattern=die antenne, Pattern=die, Pattern=en die vierkant, Pattern=linkerkant, Pattern=vierkant aan de
+	Constrained: Pattern=en die, Pattern=de, Pattern=aan de, Pattern=een, Pattern=hebben, Pattern=met, Pattern=die, Pattern=en, Pattern=vierkant, Pattern=die een, Pattern=antenne
+Turn ID=16| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=17| B | B : dat zijn bij mij d
+	Free: Pattern=dat zijn bij mij
+	Constrained: Pattern=dat, Pattern=bij mij
+Turn ID=18| B | B : die een weer met dat vierkant aan de voorkant en die antenne aan de bovenkant en die vierkant die telkens groot worden
+	Free: Pattern=aan de, Pattern=en die antenne, Pattern=dat vierkant, Pattern=met, Pattern=die een, Pattern=groot worden, Pattern=vierkant aan de, Pattern=en die vierkant die
+	Constrained: Pattern=en die, Pattern=dat, Pattern=de, Pattern=aan de, Pattern=een, Pattern=vierkant die, Pattern=die, Pattern=antenne, Pattern=en die vierkant, Pattern=en, Pattern=vierkant, Pattern=die vierkant die, Pattern=die antenne
+Turn ID=19| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=20| A | A : nummer één zijn dat bij mij
+	Free: Pattern=bij mij, Pattern=zijn dat, Pattern=één
+	Constrained: Pattern=dat
+Turn ID=21| A | A : ik hebben die met die antenne staan bij mij onderin een beetje in het midden
+	Free: Pattern=ik hebben, Pattern=met die, Pattern=het, Pattern=die antenne, Pattern=die, Pattern=bij mij, Pattern=een beetje
+	Constrained: Pattern=een, Pattern=hebben, Pattern=met, Pattern=die, Pattern=antenne
+Turn ID=22| A | A : met zo'n vierkant plaat er voor en die vierkant die groot worden
+	Free: Pattern=met, Pattern=er, Pattern=groot worden, Pattern=vierkant, Pattern=en die vierkant die
+	Constrained: Pattern=en die, Pattern=vierkant die, Pattern=die vierkant die, Pattern=die, Pattern=en die vierkant, Pattern=en, Pattern=vierkant
+Turn ID=23| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=24| B | B : bij mij zijn dat B
+	Free: Pattern=bij mij, Pattern=zijn dat
+	Constrained: Pattern=dat

@@ -1,0 +1,123 @@
+A|0| A: _ja_ 
+A|1| A: _ja_ 
+A|2| A: _ja_ nummer vijf _zijn_ _dat_ 
+B|3| B: _dit _zijn_ de_ enig _die_ _soort van_ been _en_ _voet_ hebben 
+B|4| B: [ja] 
+B|5| B: [ja] 
+A|6| A: [dit zijn] weer [de] bak [en] er zitten bovenop drie ding , _een_ draaien paal [en] hij steunen op _een_ driehoek 
+A|7| A: hij lijken _een_ beetje op _een_ gieter als je er [van] 
+A|8| A: [ja] _een_ [soort van] gieter [zijn] _dat_ 
+A|9| A: vast 
+A|10| A: [en] [de] misschien [zijn] het het veel opvallen [zijn de] pilaar waar [die] op zitten dus _dat_ gedraaide [die] gedraaide 
+A|11| A: [ja] 
+A|12| A: [en] op driehoek leunen hij 
+A|13| A: [de] [voet] [van] [de] pilaar [zijn] _een_ driehoek 
+B|14| B: [een] [voet] [ja] 
+B|15| B: [ja] [en] [een] staart link 
+B|16| B: [ja] 
+B|17| B: [ja] 
+B|18| B: [ja] 
+B|19| B: [dat] [zijn] A 
+A|20| A: nummer veertien 
+B|21| B: [dit zijn] [die] vogel kip 
+A|22| A: [de] bak [die] draaien staan met [de] draaien pilaar 
+A|23| A: [die] leunt op het driehoekje 
+A|24| A: nummer drie 
+B|25| B: [ja] ik zoeken hem 
+B|26| B: [ja] [dat] [zijn] K 
+A|27| A: [de] bak [die] draaien met [de] draaien pilaar [die] op het driehoek staan 
+B|28| B: [dit [zijn] de] vogel 
+B|29| B: J 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=1| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=2| A | A : ja nummer vijf zijn dat
+	Free: Pattern=zijn, Pattern=dat, Pattern=ja
+	Constrained: 
+Turn ID=3| B | B : dit zijn de enig die soort van been en voet hebben
+	Free: Pattern=voet, Pattern=die, Pattern=en, Pattern=soort van, Pattern=zijn de, Pattern=dit zijn
+	Constrained: Pattern=van, Pattern=zijn, Pattern=de
+Turn ID=4| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=5| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=6| A | A : dit zijn weer de bak en er zitten bovenop drie ding , een draaien paal en hij steunen op een driehoek
+	Free: Pattern=dit zijn, Pattern=en, Pattern=de, Pattern=een
+	Constrained: Pattern=zijn
+Turn ID=7| A | A : hij lijken een beetje op een gieter als je er van
+	Free: Pattern=van, Pattern=een
+	Constrained: 
+Turn ID=8| A | A : ja een soort van gieter zijn dat
+	Free: Pattern=dat, Pattern=ja, Pattern=een, Pattern=soort van, Pattern=zijn
+	Constrained: Pattern=van
+Turn ID=9| A | A : vast
+	Free: 
+	Constrained: 
+Turn ID=10| A | A : en de misschien zijn het het veel opvallen zijn de pilaar waar die op zitten dus dat gedraaide die gedraaide
+	Free: Pattern=dat, Pattern=de, Pattern=die, Pattern=en, Pattern=zijn, Pattern=zijn de
+	Constrained: Pattern=zijn, Pattern=de
+Turn ID=11| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=12| A | A : en op driehoek leunen hij
+	Free: Pattern=en
+	Constrained: 
+Turn ID=13| A | A : de voet van de pilaar zijn een driehoek
+	Free: Pattern=de, Pattern=voet, Pattern=een, Pattern=van, Pattern=zijn
+	Constrained: 
+Turn ID=14| B | B : een voet ja
+	Free: Pattern=voet, Pattern=ja, Pattern=een
+	Constrained: 
+Turn ID=15| B | B : ja en een staart link
+	Free: Pattern=en, Pattern=ja, Pattern=een
+	Constrained: 
+Turn ID=16| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=17| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=18| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=19| B | B : dat zijn A
+	Free: Pattern=zijn, Pattern=dat
+	Constrained: 
+Turn ID=20| A | A : nummer veertien
+	Free: 
+	Constrained: 
+Turn ID=21| B | B : dit zijn die vogel kip
+	Free: Pattern=dit zijn, Pattern=die
+	Constrained: Pattern=zijn
+Turn ID=22| A | A : de bak die draaien staan met de draaien pilaar
+	Free: Pattern=de, Pattern=die
+	Constrained: 
+Turn ID=23| A | A : die leunt op het driehoekje
+	Free: Pattern=die
+	Constrained: 
+Turn ID=24| A | A : nummer drie
+	Free: 
+	Constrained: 
+Turn ID=25| B | B : ja ik zoeken hem
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=26| B | B : ja dat zijn K
+	Free: Pattern=zijn, Pattern=dat, Pattern=ja
+	Constrained: 
+Turn ID=27| A | A : de bak die draaien met de draaien pilaar die op het driehoek staan
+	Free: Pattern=de, Pattern=die
+	Constrained: 
+Turn ID=28| B | B : dit zijn de vogel
+	Free: Pattern=zijn de, Pattern=dit zijn
+	Constrained: Pattern=zijn, Pattern=de
+Turn ID=29| B | B : J
+	Free: 
+	Constrained: 

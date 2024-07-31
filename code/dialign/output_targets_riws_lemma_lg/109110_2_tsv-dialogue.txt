@@ -1,0 +1,123 @@
+A|0| A: _deze_ vinden _ik_ wel raar _er zitten een soort_ _piramide_ bovenop 
+B|1| B: [een soort] punt _ja ik_ _hebben_ [deze] geloven [ik] punthoofd _en_ [er zitten een soort] vierkant _neus_ 
+A|2| A: _de_ ander nee dat dat _zijn_ 
+A|3| A: dat _zijn_ wel _de_ enig 
+A|4| A: [ja] nog zo'n _piramide_ _alleen_ _zijn_ _de_ bovenkant _van_ af snijden _die_ _zitten er_ toch _ja _ja_ ja_ je [hebben] wel _de_ goed _in_ ieder geval [en] _de_ _aan de_ linkerkant [zitten] _ook_ iets wat _op_ _kogel_ lijken 
+B|5| B: [zitten er] inderdaad [een soort] [kogel] waar waar [alleen] [de] punt [er] [van] [in] [zitten] 
+A|6| A: _ja _ja_ ja_ 
+A|7| A: [ja] 
+B|8| B: okan J 
+B|9| B: _met_ [een soort] puntmuts [op] ? [kogel] [in] [zijn] [aan de] zijkant 
+A|10| A: _o_ [ik] zullen even zoeken hoor 
+B|11| B: [en] vierkant _neus_ 
+A|12| A: _o_ [ik] zien hem al [ja] 
+A|13| A: _ja _ja_ met_ [de] _piramide op zijn hoofd_ 
+B|14| B: [ja ja] [piramide op zijn hoofd] 
+A|15| A: ok zes 
+B|16| B: ah 
+A|17| A: _o_ _die_ _met die_ [piramide op zijn hoofd] weten je wel [en] [met] dat geblokken [neus] _met _die_ kogel_ 
+B|18| B: [ja [met] die] vierkant [neus] _en die kogel_ [ja] E 
+A|19| A: [ja] 
+B|20| B: [kogel] [met] het [piramide] [hoofd] [piramide op zijn hoofd] 
+A|21| A: [ja ik] zien hem al 
+B|22| B: [met] vierkant [neus] 
+A|23| A: [ja] 
+A|24| A: tien 
+A|25| A: [die] [met die] [piramide op zijn hoofd] [en die kogel] 
+A|26| A: _bij mij_ [zitten] hij helemaal linksboven 
+B|27| B: [o] [ja] [bij mij] [ook] vierkant [neus] G 
+B|28| B: [kogel] [en] [piramide] [hoofd] 
+A|29| A: ok tien 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : deze vinden ik wel raar er zitten een soort piramide bovenop
+	Free: Pattern=er zitten een soort, Pattern=ik, Pattern=piramide, Pattern=deze
+	Constrained: Pattern=een soort, Pattern=zitten, Pattern=er
+Turn ID=1| B | B : een soort punt ja ik hebben deze geloven ik punthoofd en er zitten een soort vierkant neus
+	Free: Pattern=hebben, Pattern=neus, Pattern=ja ik, Pattern=en, Pattern=deze, Pattern=er zitten een soort, Pattern=ik, Pattern=een soort
+	Constrained: Pattern=ja, Pattern=zitten, Pattern=er, Pattern=ik, Pattern=een soort
+Turn ID=2| A | A : de ander nee dat dat zijn
+	Free: Pattern=zijn, Pattern=de
+	Constrained: 
+Turn ID=3| A | A : dat zijn wel de enig
+	Free: Pattern=zijn, Pattern=de
+	Constrained: 
+Turn ID=4| A | A : ja nog zo'n piramide alleen zijn de bovenkant van af snijden die zitten er toch ja ja ja je hebben wel de goed in ieder geval en de aan de linkerkant zitten ook iets wat op kogel lijken
+	Free: Pattern=hebben, Pattern=in, Pattern=kogel, Pattern=de, Pattern=ja, Pattern=ja ja, Pattern=piramide, Pattern=op, Pattern=aan de, Pattern=ook, Pattern=alleen, Pattern=die, Pattern=zitten, Pattern=van, Pattern=en, Pattern=zijn, Pattern=zitten er
+	Constrained: Pattern=zitten, Pattern=ja, Pattern=de, Pattern=er
+Turn ID=5| B | B : zitten er inderdaad een soort kogel waar waar alleen de punt er van in zitten
+	Free: Pattern=de, Pattern=alleen, Pattern=in, Pattern=zitten, Pattern=een soort, Pattern=van, Pattern=zitten er, Pattern=kogel, Pattern=er
+	Constrained: Pattern=zitten, Pattern=er
+Turn ID=6| A | A : ja ja ja
+	Free: Pattern=ja ja
+	Constrained: Pattern=ja
+Turn ID=7| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=8| B | B : okan J
+	Free: 
+	Constrained: 
+Turn ID=9| B | B : met een soort puntmuts op ? kogel in zijn aan de zijkant
+	Free: Pattern=in, Pattern=met, Pattern=kogel, Pattern=een soort, Pattern=zijn, Pattern=op, Pattern=aan de
+	Constrained: Pattern=de
+Turn ID=10| A | A : o ik zullen even zoeken hoor
+	Free: Pattern=ik, Pattern=o
+	Constrained: 
+Turn ID=11| B | B : en vierkant neus
+	Free: Pattern=en, Pattern=neus
+	Constrained: 
+Turn ID=12| A | A : o ik zien hem al ja
+	Free: Pattern=ik, Pattern=ja, Pattern=o
+	Constrained: 
+Turn ID=13| A | A : ja ja met de piramide op zijn hoofd
+	Free: Pattern=piramide op zijn hoofd, Pattern=ja ja, Pattern=ja met, Pattern=de
+	Constrained: Pattern=ja, Pattern=met, Pattern=zijn, Pattern=hoofd, Pattern=piramide, Pattern=op
+Turn ID=14| B | B : ja ja piramide op zijn hoofd
+	Free: Pattern=piramide op zijn hoofd, Pattern=ja ja
+	Constrained: Pattern=ja, Pattern=zijn, Pattern=hoofd, Pattern=piramide, Pattern=op
+Turn ID=15| A | A : ok zes
+	Free: 
+	Constrained: 
+Turn ID=16| B | B : ah
+	Free: 
+	Constrained: 
+Turn ID=17| A | A : o die met die piramide op zijn hoofd weten je wel en met dat geblokken neus met die kogel
+	Free: Pattern=met die, Pattern=piramide op zijn hoofd, Pattern=neus, Pattern=met, Pattern=die, Pattern=en, Pattern=die kogel, Pattern=o
+	Constrained: Pattern=met, Pattern=die, Pattern=kogel, Pattern=zijn, Pattern=hoofd, Pattern=piramide, Pattern=op
+Turn ID=18| B | B : ja met die vierkant neus en die kogel ja E
+	Free: Pattern=met die, Pattern=ja, Pattern=en die kogel, Pattern=ja met, Pattern=neus
+	Constrained: Pattern=ja, Pattern=met, Pattern=die, Pattern=kogel, Pattern=en, Pattern=die kogel
+Turn ID=19| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=20| B | B : kogel met het piramide hoofd piramide op zijn hoofd
+	Free: Pattern=piramide op zijn hoofd, Pattern=piramide, Pattern=met, Pattern=kogel, Pattern=hoofd
+	Constrained: Pattern=piramide, Pattern=hoofd, Pattern=zijn, Pattern=op
+Turn ID=21| A | A : ja ik zien hem al
+	Free: Pattern=ja ik
+	Constrained: Pattern=ik, Pattern=ja
+Turn ID=22| B | B : met vierkant neus
+	Free: Pattern=met, Pattern=neus
+	Constrained: 
+Turn ID=23| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=24| A | A : tien
+	Free: 
+	Constrained: 
+Turn ID=25| A | A : die met die piramide op zijn hoofd en die kogel
+	Free: Pattern=piramide op zijn hoofd, Pattern=en die kogel, Pattern=met die, Pattern=die
+	Constrained: Pattern=met, Pattern=die, Pattern=kogel, Pattern=en, Pattern=zijn, Pattern=die kogel, Pattern=hoofd, Pattern=piramide, Pattern=op
+Turn ID=26| A | A : bij mij zitten hij helemaal linksboven
+	Free: Pattern=bij mij, Pattern=zitten
+	Constrained: 
+Turn ID=27| B | B : o ja bij mij ook vierkant neus G
+	Free: Pattern=ja, Pattern=ook, Pattern=neus, Pattern=bij mij, Pattern=o
+	Constrained: 
+Turn ID=28| B | B : kogel en piramide hoofd
+	Free: Pattern=piramide, Pattern=hoofd, Pattern=kogel, Pattern=en
+	Constrained: 
+Turn ID=29| A | A : ok tien
+	Free: 
+	Constrained: 

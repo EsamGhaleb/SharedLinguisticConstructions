@@ -1,0 +1,151 @@
+B|0| B: nog _een_ keer 
+B|1| B: _ja_ 
+B|2| B: _ik_ denken _dat_ _ik_ _hem_ _hebben_ _hebben die_ zeggen maar _een_ heel lang neus 
+B|3| B: zeggen maar dus _dat_ staafje komen komen eruit 
+B|4| B: _en_ daarachter _zijn_ dus _ja_ _ik_ zien het als _een_ boek _dat_ _een_ beetje gepiercet _worden door_ van _door_ iets 
+B|5| B: _ja_ oké 
+B|6| B: letter M 
+A|7| A: deze [hebben] twee ruit bovenop _waar_ [een] 
+A|8| A: vierkant staaf doorheen gaan 
+A|9| A: [en] _aan de onderkant_ [hebben die] _een soort_ [ja] zwanenhalsgen 
+A|10| A: [ja] 
+B|11| B: hij [hebben] van _dat_ wat _ik_ één op [een] boek plaatsvinden lijken _dat_ doorpiercet _worden_ 
+B|12| B: [aan de] achterkant 
+B|13| B: [en] onder [hebben die] nog [een soort] van handvat [waar] je _hem_ kunnen vastpakken 
+B|14| B: hij [hebben] [een] neusje _dat_ heel erg spits _zijn_ 
+B|15| B: [en] hij [hebben] nog [een] arm 
+A|16| A: [ja] 
+A|17| A: [ik] [hebben] [hem] 
+A|18| A: [dat] [zijn] negen voor mij 
+B|19| B: ah 
+B|20| B: [ja] [ja] 
+B|21| B: [ja] 
+B|22| B: letter letter H 
+A|23| A: dit [zijn] [die] met [de] ruit erbovenop [die] doorboren [worden door] [de] groot [worden] vierkante 
+B|24| B: hij [worden] het boekachtig [worden] gepiercet 
+B|25| B: [en] hij [hebben] [een] handvat [aan de onderkant] [en] [een] spits neusje 
+B|26| B: ho 
+B|27| B: spits neusje 
+B|28| B: [ja] 
+A|29| A: _yes_ 
+A|30| A: [dat] [zijn] elf voor mij 
+A|31| A: dit [zijn] [die] met [de] ruit erbovenop [die] doorboren [worden door] [die] groot [worden] vierkante 
+B|32| B: [yes] 
+B|33| B: letter D 
+A|34| A: even [ja] [dat] [zijn] veertien voor mij 
+B|35| B: het boek [worden] doorpiercet van achteren 
+B|36| B: [en] hij [hebben] [een] handvat [aan de onderkant] [aan de] rechterkant [en] er [zijn] [een] neus 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : nog een keer
+	Free: Pattern=een
+	Constrained: 
+Turn ID=1| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=2| B | B : ik denken dat ik hem hebben hebben die zeggen maar een heel lang neus
+	Free: Pattern=dat, Pattern=een, Pattern=hebben, Pattern=ik, Pattern=hebben die, Pattern=hem
+	Constrained: Pattern=die, Pattern=hebben
+Turn ID=3| B | B : zeggen maar dus dat staafje komen komen eruit
+	Free: Pattern=dat
+	Constrained: 
+Turn ID=4| B | B : en daarachter zijn dus ja ik zien het als een boek dat een beetje gepiercet worden door van door iets
+	Free: Pattern=dat, Pattern=ja, Pattern=door, Pattern=een, Pattern=en, Pattern=zijn, Pattern=ik, Pattern=worden door
+	Constrained: Pattern=door, Pattern=worden
+Turn ID=5| B | B : ja oké
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=6| B | B : letter M
+	Free: 
+	Constrained: 
+Turn ID=7| A | A : deze hebben twee ruit bovenop waar een
+	Free: Pattern=waar, Pattern=hebben, Pattern=een
+	Constrained: 
+Turn ID=8| A | A : vierkant staaf doorheen gaan
+	Free: 
+	Constrained: 
+Turn ID=9| A | A : en aan de onderkant hebben die een soort ja zwanenhalsgen
+	Free: Pattern=ja, Pattern=aan de onderkant, Pattern=een soort, Pattern=en, Pattern=hebben die
+	Constrained: Pattern=de, Pattern=aan de, Pattern=een, Pattern=hebben, Pattern=die
+Turn ID=10| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=11| B | B : hij hebben van dat wat ik één op een boek plaatsvinden lijken dat doorpiercet worden
+	Free: Pattern=dat, Pattern=worden, Pattern=een, Pattern=hebben, Pattern=ik
+	Constrained: 
+Turn ID=12| B | B : aan de achterkant
+	Free: Pattern=aan de
+	Constrained: Pattern=de
+Turn ID=13| B | B : en onder hebben die nog een soort van handvat waar je hem kunnen vastpakken
+	Free: Pattern=waar, Pattern=een soort, Pattern=en, Pattern=hebben die, Pattern=hem
+	Constrained: Pattern=die, Pattern=hebben, Pattern=een
+Turn ID=14| B | B : hij hebben een neusje dat heel erg spits zijn
+	Free: Pattern=dat, Pattern=zijn, Pattern=hebben, Pattern=een
+	Constrained: 
+Turn ID=15| B | B : en hij hebben nog een arm
+	Free: Pattern=en, Pattern=hebben, Pattern=een
+	Constrained: 
+Turn ID=16| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=17| A | A : ik hebben hem
+	Free: Pattern=hem, Pattern=hebben, Pattern=ik
+	Constrained: 
+Turn ID=18| A | A : dat zijn negen voor mij
+	Free: Pattern=dat, Pattern=zijn
+	Constrained: 
+Turn ID=19| B | B : ah
+	Free: 
+	Constrained: 
+Turn ID=20| B | B : ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=21| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=22| B | B : letter letter H
+	Free: 
+	Constrained: 
+Turn ID=23| A | A : dit zijn die met de ruit erbovenop die doorboren worden door de groot worden vierkante
+	Free: Pattern=de, Pattern=worden, Pattern=die, Pattern=worden door, Pattern=zijn
+	Constrained: Pattern=door, Pattern=worden
+Turn ID=24| B | B : hij worden het boekachtig worden gepiercet
+	Free: Pattern=worden
+	Constrained: 
+Turn ID=25| B | B : en hij hebben een handvat aan de onderkant en een spits neusje
+	Free: Pattern=aan de onderkant, Pattern=en, Pattern=hebben, Pattern=een
+	Constrained: Pattern=aan de, Pattern=de
+Turn ID=26| B | B : ho
+	Free: 
+	Constrained: 
+Turn ID=27| B | B : spits neusje
+	Free: 
+	Constrained: 
+Turn ID=28| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=29| A | A : yes
+	Free: Pattern=yes
+	Constrained: 
+Turn ID=30| A | A : dat zijn elf voor mij
+	Free: Pattern=dat, Pattern=zijn
+	Constrained: 
+Turn ID=31| A | A : dit zijn die met de ruit erbovenop die doorboren worden door die groot worden vierkante
+	Free: Pattern=de, Pattern=worden, Pattern=die, Pattern=worden door, Pattern=zijn
+	Constrained: Pattern=door, Pattern=worden
+Turn ID=32| B | B : yes
+	Free: Pattern=yes
+	Constrained: 
+Turn ID=33| B | B : letter D
+	Free: 
+	Constrained: 
+Turn ID=34| A | A : even ja dat zijn veertien voor mij
+	Free: Pattern=dat, Pattern=zijn, Pattern=ja
+	Constrained: 
+Turn ID=35| B | B : het boek worden doorpiercet van achteren
+	Free: Pattern=worden
+	Constrained: 
+Turn ID=36| B | B : en hij hebben een handvat aan de onderkant aan de rechterkant en er zijn een neus
+	Free: Pattern=aan de, Pattern=een, Pattern=hebben, Pattern=aan de onderkant, Pattern=en, Pattern=zijn
+	Constrained: Pattern=aan de, Pattern=de

@@ -1,0 +1,131 @@
+B|0| B: _een_ soort blokkentoren 
+B|1| B: _oké_ 
+B|2| B: _dan_ _zijn het_ E 
+A|3| A: [oké] 
+A|4| A: nou hij hebben _aan_ al kant hebben _die_ wat 
+A|5| A: hij hebben [een] _één_ _ja_ _één_ 
+A|6| A: _ja_ hij hebben [een] lepel 
+A|7| A: hij hebben zo'n staart 
+A|8| A: nou 
+A|9| A: _ja_ _en_ als [het] [een] man [zijn] [zijn] [dan] 
+A|10| A: _ja_ 
+A|11| A: _rechts_ 
+A|12| A: _die_ _ja_ 
+A|13| A: gaan ik hem even zoeken 
+A|14| A: _ja dat_ _die_ lepel _en_ _een blok_ 
+A|15| A: _ja_ 
+A|16| A: _ja_ _ja_ precies 
+A|17| A: elf 
+B|18| B: _dit zijn die_ twee waarvan jij zeggen met [die] joysticks 
+B|19| B: twee van [die] joysticks [één] boven [één] links [en] [dan] [aan] _de_ rechterkant [een blok] [een] Blokkendoos 
+A|20| A: [dit zijn die] [zijn het] man weer 
+A|21| A: _ja_ 
+A|22| A: waar [zijn] [de] man blijven 
+A|23| A: _ja_ negen 
+B|24| B: [ja dat] [zijn] J 
+B|25| B: [dit zijn] joystick boven joystick link 
+B|26| B: blokkentoren [rechts] 
+A|27| A: [het] man 
+A|28| A: vier 
+B|29| B: [de] joystick 
+B|30| B: B 
+B|31| B: joystick boven joystick link 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : een soort blokkentoren
+	Free: Pattern=een
+	Constrained: 
+Turn ID=1| B | B : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=2| B | B : dan zijn het E
+	Free: Pattern=zijn het, Pattern=dan
+	Constrained: Pattern=het, Pattern=zijn
+Turn ID=3| A | A : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=4| A | A : nou hij hebben aan al kant hebben die wat
+	Free: Pattern=die, Pattern=aan
+	Constrained: 
+Turn ID=5| A | A : hij hebben een één ja één
+	Free: Pattern=ja, Pattern=een, Pattern=één
+	Constrained: 
+Turn ID=6| A | A : ja hij hebben een lepel
+	Free: Pattern=ja, Pattern=een
+	Constrained: 
+Turn ID=7| A | A : hij hebben zo'n staart
+	Free: 
+	Constrained: 
+Turn ID=8| A | A : nou
+	Free: 
+	Constrained: 
+Turn ID=9| A | A : ja en als het een man zijn zijn dan
+	Free: Pattern=ja, Pattern=dan, Pattern=een, Pattern=het, Pattern=en, Pattern=zijn
+	Constrained: 
+Turn ID=10| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=11| A | A : rechts
+	Free: Pattern=rechts
+	Constrained: 
+Turn ID=12| A | A : die ja
+	Free: Pattern=ja, Pattern=die
+	Constrained: 
+Turn ID=13| A | A : gaan ik hem even zoeken
+	Free: 
+	Constrained: 
+Turn ID=14| A | A : ja dat die lepel en een blok
+	Free: Pattern=ja dat, Pattern=een blok, Pattern=en, Pattern=die
+	Constrained: Pattern=ja, Pattern=een
+Turn ID=15| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=16| A | A : ja ja precies
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=17| A | A : elf
+	Free: 
+	Constrained: 
+Turn ID=18| B | B : dit zijn die twee waarvan jij zeggen met die joysticks
+	Free: Pattern=dit zijn die, Pattern=die
+	Constrained: Pattern=dit zijn, Pattern=die, Pattern=zijn
+Turn ID=19| B | B : twee van die joysticks één boven één links en dan aan de rechterkant een blok een Blokkendoos
+	Free: Pattern=dan, Pattern=een, Pattern=die, Pattern=en, Pattern=één, Pattern=een blok, Pattern=de, Pattern=aan
+	Constrained: Pattern=een
+Turn ID=20| A | A : dit zijn die zijn het man weer
+	Free: Pattern=dit zijn die, Pattern=zijn het
+	Constrained: Pattern=dit zijn, Pattern=zijn, Pattern=die, Pattern=het
+Turn ID=21| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=22| A | A : waar zijn de man blijven
+	Free: Pattern=de, Pattern=zijn
+	Constrained: 
+Turn ID=23| A | A : ja negen
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=24| B | B : ja dat zijn J
+	Free: Pattern=ja dat, Pattern=zijn
+	Constrained: Pattern=ja
+Turn ID=25| B | B : dit zijn joystick boven joystick link
+	Free: Pattern=dit zijn
+	Constrained: Pattern=zijn
+Turn ID=26| B | B : blokkentoren rechts
+	Free: Pattern=rechts
+	Constrained: 
+Turn ID=27| A | A : het man
+	Free: Pattern=het
+	Constrained: 
+Turn ID=28| A | A : vier
+	Free: 
+	Constrained: 
+Turn ID=29| B | B : de joystick
+	Free: Pattern=de
+	Constrained: 
+Turn ID=30| B | B : B
+	Free: 
+	Constrained: 
+Turn ID=31| B | B : joystick boven joystick link
+	Free: 
+	Constrained: 

@@ -1,0 +1,107 @@
+A|0| A: _ja_ ik weten niet _waar_ ik dit op plaatsvinden lijken veel _een soort van_ bak met zo _het_ _zijn_ _een_ _de_ _die_ basisvorm _en_ _er_ zitten dan _aan de zijkant_ zitten _van die_ _twee van die_ ding _en_ _er_ zitten bollet _aan_ _het_ uitein 
+A|1| A: _aan de achterkant_ zitten _een_ schuin 
+A|2| A: oké _zijn_ goed 
+B|3| B: o [ja] [een soort van] schermpje [aan de achterkant] [waar] [ja] _dat zijn_ K 
+A|4| A: [ja] [zijn] [dat] diegene met _die_ _twee_ stokk met _die_ bollet 
+A|5| A: oké [ja] dan [zijn] _het_ nummer negen 
+B|6| B: _deze_ hebben zegmaar _weer_ [dat] liggen schermpje [er] achter [en] _twee uitstekend_ [ja] _wat_ zullen _je_ [het] _kunnen_ noemen spijker iets in [die] richting 
+A|7| A: dit [zijn] diegene met [die] [twee uitstekend] stok met [die] bollet ik weten niet [wat] jij daarop vinden lijken 
+A|8| A: wachten 
+A|9| A: [ja] 
+B|10| B: _even_ kijken [waar] [die] staan F 
+A|11| A: ze gaan [weer] veranderen [wat] leuk 
+A|12| A: [wat] welk [zijn] [dat] ook alweer 
+A|13| A: [ja] theepot [en] gieter 
+A|14| A: zeggen maar _twee van die_ arm [en] zo'n bollet zo 
+A|15| A: [dat zijn] zo'n ah 
+A|16| A: oké nummer drie 
+B|17| B: o jee 
+B|18| B: _deze_ hebben zegmaar [dat] liggen schermpje [en] [twee van die] spijker [aan] beide kant 
+A|19| A: [deze] vinden [je] op [een] theepot lijken 
+A|20| A: we gaan [weer] switchen 
+A|21| A: [ja] 
+A|22| A: [even] zoeken 
+A|23| A: [kunnen] hem niet [ja] vijf 
+B|24| B: [even] voorkijken L 
+B|25| B: [twee] spijker [aan de zijkant] liggen schermpje achter 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : ja ik weten niet waar ik dit op plaatsvinden lijken veel een soort van bak met zo het zijn een de die basisvorm en er zitten dan aan de zijkant zitten van die twee van die ding en er zitten bollet aan het uitein
+	Free: Pattern=twee van die, Pattern=waar, Pattern=het, Pattern=een soort van, Pattern=die, Pattern=er, Pattern=zijn, Pattern=de, Pattern=aan, Pattern=ja, Pattern=een, Pattern=aan de zijkant, Pattern=van die, Pattern=en
+	Constrained: Pattern=twee, Pattern=een, Pattern=die, Pattern=van die, Pattern=de, Pattern=aan
+Turn ID=1| A | A : aan de achterkant zitten een schuin
+	Free: Pattern=aan de achterkant, Pattern=een
+	Constrained: Pattern=aan, Pattern=de
+Turn ID=2| A | A : oké zijn goed
+	Free: Pattern=zijn
+	Constrained: 
+Turn ID=3| B | B : o ja een soort van schermpje aan de achterkant waar ja dat zijn K
+	Free: Pattern=ja, Pattern=waar, Pattern=een soort van, Pattern=dat zijn, Pattern=aan de achterkant
+	Constrained: Pattern=dat, Pattern=een, Pattern=zijn, Pattern=de, Pattern=aan
+Turn ID=4| A | A : ja zijn dat diegene met die twee stokk met die bollet
+	Free: Pattern=dat, Pattern=twee, Pattern=ja, Pattern=die, Pattern=zijn
+	Constrained: 
+Turn ID=5| A | A : oké ja dan zijn het nummer negen
+	Free: Pattern=zijn, Pattern=het, Pattern=ja
+	Constrained: 
+Turn ID=6| B | B : deze hebben zegmaar weer dat liggen schermpje er achter en twee uitstekend ja wat zullen je het kunnen noemen spijker iets in die richting
+	Free: Pattern=dat, Pattern=kunnen, Pattern=ja, Pattern=het, Pattern=die, Pattern=en, Pattern=twee uitstekend, Pattern=wat, Pattern=er, Pattern=deze, Pattern=weer, Pattern=je
+	Constrained: Pattern=twee
+Turn ID=7| A | A : dit zijn diegene met die twee uitstekend stok met die bollet ik weten niet wat jij daarop vinden lijken
+	Free: Pattern=twee uitstekend, Pattern=zijn, Pattern=die, Pattern=wat
+	Constrained: Pattern=twee
+Turn ID=8| A | A : wachten
+	Free: 
+	Constrained: 
+Turn ID=9| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=10| B | B : even kijken waar die staan F
+	Free: Pattern=even, Pattern=die, Pattern=waar
+	Constrained: 
+Turn ID=11| A | A : ze gaan weer veranderen wat leuk
+	Free: Pattern=wat, Pattern=weer
+	Constrained: 
+Turn ID=12| A | A : wat welk zijn dat ook alweer
+	Free: Pattern=dat, Pattern=zijn, Pattern=wat
+	Constrained: 
+Turn ID=13| A | A : ja theepot en gieter
+	Free: Pattern=ja, Pattern=en
+	Constrained: 
+Turn ID=14| A | A : zeggen maar twee van die arm en zo'n bollet zo
+	Free: Pattern=twee van die, Pattern=en
+	Constrained: Pattern=van die, Pattern=die, Pattern=twee
+Turn ID=15| A | A : dat zijn zo'n ah
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=16| A | A : oké nummer drie
+	Free: 
+	Constrained: 
+Turn ID=17| B | B : o jee
+	Free: 
+	Constrained: 
+Turn ID=18| B | B : deze hebben zegmaar dat liggen schermpje en twee van die spijker aan beide kant
+	Free: Pattern=twee van die, Pattern=dat, Pattern=aan, Pattern=en, Pattern=deze
+	Constrained: Pattern=van die, Pattern=die, Pattern=twee
+Turn ID=19| A | A : deze vinden je op een theepot lijken
+	Free: Pattern=je, Pattern=deze, Pattern=een
+	Constrained: 
+Turn ID=20| A | A : we gaan weer switchen
+	Free: Pattern=weer
+	Constrained: 
+Turn ID=21| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=22| A | A : even zoeken
+	Free: Pattern=even
+	Constrained: 
+Turn ID=23| A | A : kunnen hem niet ja vijf
+	Free: Pattern=kunnen, Pattern=ja
+	Constrained: 
+Turn ID=24| B | B : even voorkijken L
+	Free: Pattern=even
+	Constrained: 
+Turn ID=25| B | B : twee spijker aan de zijkant liggen schermpje achter
+	Free: Pattern=aan de zijkant, Pattern=twee
+	Constrained: Pattern=aan, Pattern=de

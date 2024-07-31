@@ -1,0 +1,119 @@
+A|0| A: _ja_ _dit _zijn_ bij mij_ _ja ik hebben_ even kijken _ja ik_ omschrijf _dat_ veel als _een_ zeepaard of _zo_ 
+A|1| A: _ja_ 
+A|2| A: _ja_ zeggen maar _die_ _die_ _die_ driehoek _aan_ _het_ einde _en_ dan _aan_ de achter achter _die_ emmer zeggen maar _daar_ zitten _die_ zitten zo'n ruit of _zo en_ dan _aan_ beide kant zitten dezelfde zelfde 
+A|3| A: nee _ja_ alleen de onderkant onderkant 
+A|4| A: _ja_ 
+A|5| A: nee precies 
+A|6| A: _die_ _ja_ 
+A|7| A: _M_ 
+B|8| B: o [ja] [ja] 
+B|9| B: [ja] 
+B|10| B: [ja ik hebben] [het] [ik hebben] [die] ook [dat] doen hij me inderdaad ook [aan] denken [en] _dat [zijn_ bij mij] _zijn dat_ [M] 
+B|11| B: ok 
+A|12| A: [het] zeepaard van [mij] 
+A|13| A: eens even kijken [dat zijn] negen 
+B|14| B: o [dit zijn] weer [dat] dansen poppe met [die] [dat] met [die] been [zo en] [die] been [zo en] nog [een] arm [zo] [ja] 
+B|15| B: ok [bij mij] I 
+A|16| A: [ja] [dit [zijn] dat] zeepaard 
+A|17| A: _H_ 
+B|18| B: o [H] 
+B|19| B: ok klikken 
+A|20| A: [het] zeepaard 
+A|21| A: elf 
+A|22| A: [dit [zijn] dat] zeepaard 
+B|23| B: o [dit zijn] [het] dansen poppe 
+B|24| B: ok [bij mij] F 
+A|25| A: [het] zeepaard veertien 
+B|26| B: o [daar] D 
+B|27| B: o [dit zijn] weer [dat] dansen poppe 
+B|28| B: [ja] [bij mij] G 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : ja dit zijn bij mij ja ik hebben even kijken ja ik omschrijf dat veel als een zeepaard of zo
+	Free: Pattern=dat, Pattern=ja, Pattern=een, Pattern=ja ik, Pattern=zijn bij mij, Pattern=dit zijn, Pattern=ja ik hebben, Pattern=zo
+	Constrained: Pattern=ik hebben, Pattern=ja, Pattern=ja ik, Pattern=mij, Pattern=bij mij
+Turn ID=1| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=2| A | A : ja zeggen maar die die die driehoek aan het einde en dan aan de achter achter die emmer zeggen maar daar zitten die zitten zo'n ruit of zo en dan aan beide kant zitten dezelfde zelfde
+	Free: Pattern=zo en, Pattern=het, Pattern=die, Pattern=en, Pattern=daar, Pattern=aan, Pattern=ja
+	Constrained: Pattern=zo, Pattern=en
+Turn ID=3| A | A : nee ja alleen de onderkant onderkant
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=4| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=5| A | A : nee precies
+	Free: 
+	Constrained: 
+Turn ID=6| A | A : die ja
+	Free: Pattern=die, Pattern=ja
+	Constrained: 
+Turn ID=7| A | A : M
+	Free: Pattern=M
+	Constrained: 
+Turn ID=8| B | B : o ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=9| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=10| B | B : ja ik hebben het ik hebben die ook dat doen hij me inderdaad ook aan denken en dat zijn bij mij zijn dat M
+	Free: Pattern=ik hebben, Pattern=aan, Pattern=M, Pattern=het, Pattern=ja ik hebben, Pattern=die, Pattern=en, Pattern=zijn bij mij, Pattern=zijn dat, Pattern=dat, Pattern=dat zijn
+	Constrained: Pattern=ik hebben, Pattern=dat, Pattern=ja, Pattern=ja ik, Pattern=mij, Pattern=bij mij
+Turn ID=11| B | B : ok
+	Free: 
+	Constrained: 
+Turn ID=12| A | A : het zeepaard van mij
+	Free: Pattern=mij, Pattern=het
+	Constrained: 
+Turn ID=13| A | A : eens even kijken dat zijn negen
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat
+Turn ID=14| B | B : o dit zijn weer dat dansen poppe met die dat met die been zo en die been zo en nog een arm zo ja
+	Free: Pattern=dat, Pattern=zo en, Pattern=ja, Pattern=een, Pattern=zo, Pattern=die, Pattern=dit zijn
+	Constrained: Pattern=zo, Pattern=en
+Turn ID=15| B | B : ok bij mij I
+	Free: Pattern=bij mij
+	Constrained: Pattern=mij
+Turn ID=16| A | A : ja dit zijn dat zeepaard
+	Free: Pattern=zijn dat, Pattern=dit zijn, Pattern=ja
+	Constrained: Pattern=dat
+Turn ID=17| A | A : H
+	Free: Pattern=H
+	Constrained: 
+Turn ID=18| B | B : o H
+	Free: Pattern=H
+	Constrained: 
+Turn ID=19| B | B : ok klikken
+	Free: 
+	Constrained: 
+Turn ID=20| A | A : het zeepaard
+	Free: Pattern=het
+	Constrained: 
+Turn ID=21| A | A : elf
+	Free: 
+	Constrained: 
+Turn ID=22| A | A : dit zijn dat zeepaard
+	Free: Pattern=zijn dat, Pattern=dit zijn
+	Constrained: Pattern=dat
+Turn ID=23| B | B : o dit zijn het dansen poppe
+	Free: Pattern=dit zijn, Pattern=het
+	Constrained: 
+Turn ID=24| B | B : ok bij mij F
+	Free: Pattern=bij mij
+	Constrained: Pattern=mij
+Turn ID=25| A | A : het zeepaard veertien
+	Free: Pattern=het
+	Constrained: 
+Turn ID=26| B | B : o daar D
+	Free: Pattern=daar
+	Constrained: 
+Turn ID=27| B | B : o dit zijn weer dat dansen poppe
+	Free: Pattern=dit zijn, Pattern=dat
+	Constrained: 
+Turn ID=28| B | B : ja bij mij G
+	Free: Pattern=bij mij, Pattern=ja
+	Constrained: Pattern=mij

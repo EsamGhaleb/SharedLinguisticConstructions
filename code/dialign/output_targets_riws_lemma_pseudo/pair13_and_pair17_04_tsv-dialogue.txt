@@ -1,0 +1,135 @@
+B|0| B: _ja_ I 
+B|1| B: deze _hebben_ _die twee_ rechthoekjes boven elkaar _aan de_ rechterkant _van_ _de_ emmer 
+B|2| B: bovenop _hebben het_ op _zijn_ kop _de_ omgedraaide trechter _of_ heten _dat_ _een_ trapezoid 
+B|3| B: _en aan de_ _aan de_ linkerkant _hebben_ _hij_ _soort van_ 
+B|4| B: _ja_ 
+B|5| B: _ja_ 
+B|6| B: _ja_ c 
+A|7| A: even kijken _dit_ [hebben] [een] [soort] ik [hebben het] omschrijven alsof [het] [een] [soort] vulkaan uit [het] beker komen 
+A|8| A: laten maar zeggen [ja] [het] lijken alsof er [een] bergje uit [het] beker uitsteken 
+A|9| A: [aan de] rechterzijde [hebben het] [twee] [ja] [soort van] post its laat maar zeggen eraan hangen 
+A|10| A: [en aan de] linkerzijde zitten er ook nog [een] [soort] handvat [en] dan daaronder lijken [het] alsof [het] [een] staart [hebben] 
+A|11| A: [ja] 
+A|12| A: [ja] maar dan zonder top 
+A|13| A: [ja] laten maar zeggen wel [een] tipitent maar dan staan [hij] niet 
+A|14| A: ik denken [dat] je [een] ander bedoelen 
+A|15| A: laten maar zeggen wel [een] [soort] driehoek waarvan zeggen maar [de] top [zijn] afsnijden 
+A|16| A: zo zien [de] bovenkant eruit 
+A|17| A: [en] [hij] steken uit [het] beker 
+A|18| A: [soort] plaksel 
+A|19| A: [ja] je zullen [het] in [een] stopcontact kunnen zetten 
+A|20| A: [en] dan links [hebben het] ook [een] [soort] vaa [en] dan [een] [soort] staar [aan de] onderzijde 
+B|21| B: _dit zijn_ _die_ [een] _met die twee_ blok nee [twee] rechthoekjes [aan de] rechterkant bovenop elkaar 
+B|22| B: [en] _die_ omgedraaide trechter bovenop 
+B|23| B: o 
+B|24| B: _dit zijn_ _die_ [een] _met_ op [zijn] kop trechter bovenop [en] [twee] blok [aan de] rechterkant 
+A|25| A: [ja] [dat] [zijn] nummer vijfteen 
+A|26| A: [dit zijn] [met die twee] post its [aan de] rechterzijde 
+A|27| A: [ja] [dit zijn] [de] half tipi 
+A|28| A: [met] [of] [ja] [de] tipi [met] zonder top 
+A|29| A: [ja] 
+A|30| A: nummer achten 
+A|31| A: [de] half tipi [en] [de] [twee] post its rechts [en] [het] staart 
+A|32| A: [ja] nummer drie 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : ja I
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=1| B | B : deze hebben die twee rechthoekjes boven elkaar aan de rechterkant van de emmer
+	Free: Pattern=de, Pattern=aan de, Pattern=die twee, Pattern=hebben, Pattern=van
+	Constrained: Pattern=de, Pattern=twee, Pattern=die
+Turn ID=2| B | B : bovenop hebben het op zijn kop de omgedraaide trechter of heten dat een trapezoid
+	Free: Pattern=dat, Pattern=de, Pattern=een, Pattern=zijn, Pattern=hebben het, Pattern=of
+	Constrained: Pattern=het, Pattern=hebben
+Turn ID=3| B | B : en aan de aan de linkerkant hebben hij soort van
+	Free: Pattern=aan de, Pattern=hebben, Pattern=hij, Pattern=soort van, Pattern=en aan de
+	Constrained: Pattern=soort, Pattern=de, Pattern=aan de, Pattern=van, Pattern=en
+Turn ID=4| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=5| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=6| B | B : ja c
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=7| A | A : even kijken dit hebben een soort ik hebben het omschrijven alsof het een soort vulkaan uit het beker komen
+	Free: Pattern=hebben het, Pattern=soort, Pattern=een, Pattern=het, Pattern=hebben, Pattern=dit
+	Constrained: Pattern=het, Pattern=hebben
+Turn ID=8| A | A : laten maar zeggen ja het lijken alsof er een bergje uit het beker uitsteken
+	Free: Pattern=het, Pattern=ja, Pattern=een
+	Constrained: 
+Turn ID=9| A | A : aan de rechterzijde hebben het twee ja soort van post its laat maar zeggen eraan hangen
+	Free: Pattern=hebben het, Pattern=twee, Pattern=ja, Pattern=aan de, Pattern=soort van
+	Constrained: Pattern=soort, Pattern=de, Pattern=het, Pattern=hebben, Pattern=van
+Turn ID=10| A | A : en aan de linkerzijde zitten er ook nog een soort handvat en dan daaronder lijken het alsof het een staart hebben
+	Free: Pattern=soort, Pattern=een, Pattern=het, Pattern=hebben, Pattern=en, Pattern=en aan de
+	Constrained: Pattern=aan de, Pattern=de, Pattern=en
+Turn ID=11| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=12| A | A : ja maar dan zonder top
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=13| A | A : ja laten maar zeggen wel een tipitent maar dan staan hij niet
+	Free: Pattern=hij, Pattern=ja, Pattern=een
+	Constrained: 
+Turn ID=14| A | A : ik denken dat je een ander bedoelen
+	Free: Pattern=dat, Pattern=een
+	Constrained: 
+Turn ID=15| A | A : laten maar zeggen wel een soort driehoek waarvan zeggen maar de top zijn afsnijden
+	Free: Pattern=de, Pattern=soort, Pattern=zijn, Pattern=een
+	Constrained: 
+Turn ID=16| A | A : zo zien de bovenkant eruit
+	Free: Pattern=de
+	Constrained: 
+Turn ID=17| A | A : en hij steken uit het beker
+	Free: Pattern=het, Pattern=hij, Pattern=en
+	Constrained: 
+Turn ID=18| A | A : soort plaksel
+	Free: Pattern=soort
+	Constrained: 
+Turn ID=19| A | A : ja je zullen het in een stopcontact kunnen zetten
+	Free: Pattern=het, Pattern=ja, Pattern=een
+	Constrained: 
+Turn ID=20| A | A : en dan links hebben het ook een soort vaa en dan een soort staar aan de onderzijde
+	Free: Pattern=hebben het, Pattern=soort, Pattern=aan de, Pattern=een, Pattern=en
+	Constrained: Pattern=de, Pattern=het, Pattern=hebben
+Turn ID=21| B | B : dit zijn die een met die twee blok nee twee rechthoekjes aan de rechterkant bovenop elkaar
+	Free: Pattern=twee, Pattern=aan de, Pattern=met die twee, Pattern=een, Pattern=die, Pattern=dit zijn
+	Constrained: Pattern=twee, Pattern=de, Pattern=die twee, Pattern=dit, Pattern=met, Pattern=die, Pattern=zijn
+Turn ID=22| B | B : en die omgedraaide trechter bovenop
+	Free: Pattern=die, Pattern=en
+	Constrained: 
+Turn ID=23| B | B : o
+	Free: 
+	Constrained: 
+Turn ID=24| B | B : dit zijn die een met op zijn kop trechter bovenop en twee blok aan de rechterkant
+	Free: Pattern=twee, Pattern=aan de, Pattern=een, Pattern=met, Pattern=die, Pattern=en, Pattern=zijn, Pattern=dit zijn
+	Constrained: Pattern=de, Pattern=dit, Pattern=zijn
+Turn ID=25| A | A : ja dat zijn nummer vijfteen
+	Free: Pattern=dat, Pattern=zijn, Pattern=ja
+	Constrained: 
+Turn ID=26| A | A : dit zijn met die twee post its aan de rechterzijde
+	Free: Pattern=met die twee, Pattern=aan de, Pattern=dit zijn
+	Constrained: Pattern=twee, Pattern=de, Pattern=die twee, Pattern=dit, Pattern=met, Pattern=die, Pattern=zijn
+Turn ID=27| A | A : ja dit zijn de half tipi
+	Free: Pattern=dit zijn, Pattern=de, Pattern=ja
+	Constrained: Pattern=dit, Pattern=zijn
+Turn ID=28| A | A : met of ja de tipi met zonder top
+	Free: Pattern=de, Pattern=ja, Pattern=of, Pattern=met
+	Constrained: 
+Turn ID=29| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=30| A | A : nummer achten
+	Free: 
+	Constrained: 
+Turn ID=31| A | A : de half tipi en de twee post its rechts en het staart
+	Free: Pattern=de, Pattern=twee, Pattern=het, Pattern=en
+	Constrained: 
+Turn ID=32| A | A : ja nummer drie
+	Free: Pattern=ja
+	Constrained: 

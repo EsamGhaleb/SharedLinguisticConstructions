@@ -1,0 +1,107 @@
+B|0| B: ok _ja_ deze hebben _aan_ de bovenkant _een_ _balk_ _aan_ de linkerkant _een beetje_ soort van 
+B|1| B: _ja_ tui of zo _en_ _aan_ de rechterkant _ja_ zitten er ook _een_ vlak _en_ daar zitten _dan_ nog weer _een_ 
+B|2| B: _balk_ _op_ hij _zijn_ _zeggen_ _maar_ alles zitten _wel_ _heel_ dicht tegen _het_ object _aan_ 
+B|3| B: _ja_ liggen _ja_ _die zijn_ _zeggen_ _maar_ net _iets_ klein _dan_ _dat_ rond ding zelf 
+B|4| B: _ja_ 
+B|5| B: _ja_ 
+A|6| A: [ja] ik [ja] ik denken [dat] ik [het] weten echt inderdaad zo'n balkje _bovenop_ 
+A|7| A: [en] [dan] [ja] ik vinden [het] [een beetje] [op] kort mouw lijken 
+A|8| A: zullen ik [maar] [zeggen] [aan] twee kant 
+A|9| A: [en] [dan] inderdaad zo'n [heel] dun _staafje_ _met_ [iets] dus _dan zijn het_ nummer acht 
+B|10| B: [een] _balk_ [bovenop] 
+B|11| B: [zijn] hij [zeggen] [maar] _die_ [heel] compact of niet ok 
+B|12| B: [zeggen] [maar] _die_ _balk_ erop [en] [aan] de linkerkant hebben hij zoiets [en] [aan] de rechterkant [en] er zitten nog [een] [staafje] [op] 
+B|13| B: ok [dan zijn het] E 
+A|14| A: _dit zijn_ weten je [wel] ? _met_ [die] hanenkam [en] [dat] jij denken [aan] [een] espressoapparaat 
+B|15| B: ok [ja] [dit zijn] [die] compacte _met dat_ blok [bovenop] 
+A|16| A: [ja] [met dat] [balk] 
+B|17| B: [ja] 
+B|18| B: _dat zijn_ E 
+A|19| A: ah [ja] even kijken waar [die zijn] 
+A|20| A: [ja] [dat zijn] nummer één 
+B|21| B: ok [dit zijn] [die] compact 
+A|22| A: [dit zijn] [dat] espressoapparaat [met] zo'n balkje 
+A|23| A: even kijken 
+A|24| A: ah [dat zijn] nummer zestien 
+A|25| A: [dat zijn] [dat] espressoapparaat 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : ok ja deze hebben aan de bovenkant een balk aan de linkerkant een beetje soort van
+	Free: Pattern=een, Pattern=balk, Pattern=een beetje, Pattern=aan, Pattern=ja
+	Constrained: Pattern=een
+Turn ID=1| B | B : ja tui of zo en aan de rechterkant ja zitten er ook een vlak en daar zitten dan nog weer een
+	Free: Pattern=dan, Pattern=een, Pattern=en, Pattern=aan, Pattern=ja
+	Constrained: 
+Turn ID=2| B | B : balk op hij zijn zeggen maar alles zitten wel heel dicht tegen het object aan
+	Free: Pattern=heel, Pattern=aan, Pattern=op, Pattern=wel, Pattern=het, Pattern=zeggen, Pattern=balk, Pattern=zijn, Pattern=maar
+	Constrained: 
+Turn ID=3| B | B : ja liggen ja die zijn zeggen maar net iets klein dan dat rond ding zelf
+	Free: Pattern=dat, Pattern=dan, Pattern=zeggen, Pattern=maar, Pattern=die zijn, Pattern=iets, Pattern=ja
+	Constrained: Pattern=die, Pattern=zijn
+Turn ID=4| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=5| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=6| A | A : ja ik ja ik denken dat ik het weten echt inderdaad zo'n balkje bovenop
+	Free: Pattern=bovenop, Pattern=dat, Pattern=ja, Pattern=het
+	Constrained: 
+Turn ID=7| A | A : en dan ja ik vinden het een beetje op kort mouw lijken
+	Free: Pattern=ja, Pattern=op, Pattern=dan, Pattern=het, Pattern=en, Pattern=een beetje
+	Constrained: Pattern=een
+Turn ID=8| A | A : zullen ik maar zeggen aan twee kant
+	Free: Pattern=maar, Pattern=aan, Pattern=zeggen
+	Constrained: 
+Turn ID=9| A | A : en dan inderdaad zo'n heel dun staafje met iets dus dan zijn het nummer acht
+	Free: Pattern=heel, Pattern=dan, Pattern=staafje, Pattern=met, Pattern=en, Pattern=iets, Pattern=dan zijn het
+	Constrained: Pattern=zijn, Pattern=het, Pattern=dan
+Turn ID=10| B | B : een balk bovenop
+	Free: Pattern=een, Pattern=bovenop, Pattern=balk
+	Constrained: 
+Turn ID=11| B | B : zijn hij zeggen maar die heel compact of niet ok
+	Free: Pattern=heel, Pattern=zeggen, Pattern=die, Pattern=zijn, Pattern=maar
+	Constrained: 
+Turn ID=12| B | B : zeggen maar die balk erop en aan de linkerkant hebben hij zoiets en aan de rechterkant en er zitten nog een staafje op
+	Free: Pattern=aan, Pattern=op, Pattern=een, Pattern=staafje, Pattern=zeggen, Pattern=balk, Pattern=die, Pattern=en, Pattern=maar
+	Constrained: 
+Turn ID=13| B | B : ok dan zijn het E
+	Free: Pattern=dan zijn het
+	Constrained: Pattern=zijn, Pattern=het, Pattern=dan
+Turn ID=14| A | A : dit zijn weten je wel ? met die hanenkam en dat jij denken aan een espressoapparaat
+	Free: Pattern=dat, Pattern=aan, Pattern=met, Pattern=die, Pattern=en, Pattern=dit zijn, Pattern=een, Pattern=wel
+	Constrained: Pattern=zijn
+Turn ID=15| B | B : ok ja dit zijn die compacte met dat blok bovenop
+	Free: Pattern=bovenop, Pattern=ja, Pattern=met dat, Pattern=die, Pattern=dit zijn
+	Constrained: Pattern=dat, Pattern=zijn, Pattern=met
+Turn ID=16| A | A : ja met dat balk
+	Free: Pattern=met dat, Pattern=ja, Pattern=balk
+	Constrained: Pattern=dat, Pattern=met
+Turn ID=17| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=18| B | B : dat zijn E
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=19| A | A : ah ja even kijken waar die zijn
+	Free: Pattern=die zijn, Pattern=ja
+	Constrained: Pattern=die, Pattern=zijn
+Turn ID=20| A | A : ja dat zijn nummer één
+	Free: Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=21| B | B : ok dit zijn die compact
+	Free: Pattern=dit zijn, Pattern=die
+	Constrained: Pattern=zijn
+Turn ID=22| A | A : dit zijn dat espressoapparaat met zo'n balkje
+	Free: Pattern=dit zijn, Pattern=dat, Pattern=met
+	Constrained: Pattern=zijn
+Turn ID=23| A | A : even kijken
+	Free: 
+	Constrained: 
+Turn ID=24| A | A : ah dat zijn nummer zestien
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=25| A | A : dat zijn dat espressoapparaat
+	Free: Pattern=dat zijn, Pattern=dat
+	Constrained: Pattern=dat, Pattern=zijn

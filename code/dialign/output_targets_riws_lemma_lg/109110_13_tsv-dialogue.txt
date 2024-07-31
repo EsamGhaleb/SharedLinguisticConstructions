@@ -1,0 +1,115 @@
+B|0| B: _ok_ deze staan eigenlijk _zijn_ _een_ beker _op_ _een_ tafel _en_ hij hebben paar van _die_ raar bollet zo naar de zijkant 
+A|1| A: _o die_ _wokkel_ dinge _ja_ 
+B|2| B: [ja] [die] [die] [die] [die] drie drie van [die] soort 
+A|3| A: [ja] nee _ja met_ dat platform [en] [die] _wokkel_ [en] [die] dat rond _ding_ er voor [op] 
+B|4| B: [ja] [ja] _inderdaad_ zo'n soort schijf [ja] 
+A|5| A: [ja] jajaja [ok] 
+A|6| A: [ja] nou vijf 
+A|7| A: [ok] dat [zijn] [die] [een] _met die_ kronkel arm 
+A|8| A: _met_ dat [op] dat platform 
+B|9| B: [o die] [die] jij [die] jij [wokkel] noemen 
+A|10| A: zeggen maar _met die_ beetje kristalle 
+A|11| A: [ja] [wokkel] [inderdaad] 
+B|12| B: [en] [met die] cirkel aan de voorkant 
+A|13| A: [ja] precies 
+B|14| B: okan J 
+B|15| B: [ok] [met] de [wokkel] 
+A|16| A: [die] wokkeloor dinge [ja] 
+B|17| B: [en] [ja] ronde [ding] aan de voorkant 
+A|18| A: [ja] ik weten het al [ja] elf 
+A|19| A: nou [die] wokkeloren 
+B|20| B: [ja met] cirkel aan de voorkant 
+A|21| A: [wokkel] [ding] 
+A|22| A: [ja] 
+B|23| B: P 
+B|24| B: [wokkel] oor 
+A|25| A: nice negen 
+A|26| A: [wokkel] meneer 
+B|27| B: [ja met] cirkel aan de voorkant L 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : ok deze staan eigenlijk zijn een beker op een tafel en hij hebben paar van die raar bollet zo naar de zijkant
+	Free: Pattern=op, Pattern=een, Pattern=ok, Pattern=die, Pattern=en, Pattern=zijn
+	Constrained: 
+Turn ID=1| A | A : o die wokkel dinge ja
+	Free: Pattern=o die, Pattern=wokkel, Pattern=ja
+	Constrained: Pattern=die
+Turn ID=2| B | B : ja die die die die drie drie van die soort
+	Free: Pattern=die, Pattern=ja
+	Constrained: 
+Turn ID=3| A | A : ja nee ja met dat platform en die wokkel en die dat rond ding er voor op
+	Free: Pattern=ja, Pattern=wokkel, Pattern=op, Pattern=ding, Pattern=ja met, Pattern=die, Pattern=en
+	Constrained: Pattern=met, Pattern=ja
+Turn ID=4| B | B : ja ja inderdaad zo'n soort schijf ja
+	Free: Pattern=inderdaad, Pattern=ja
+	Constrained: 
+Turn ID=5| A | A : ja jajaja ok
+	Free: Pattern=ok, Pattern=ja
+	Constrained: 
+Turn ID=6| A | A : ja nou vijf
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=7| A | A : ok dat zijn die een met die kronkel arm
+	Free: Pattern=met die, Pattern=een, Pattern=ok, Pattern=die, Pattern=zijn
+	Constrained: Pattern=met, Pattern=die
+Turn ID=8| A | A : met dat op dat platform
+	Free: Pattern=met, Pattern=op
+	Constrained: 
+Turn ID=9| B | B : o die die jij die jij wokkel noemen
+	Free: Pattern=o die, Pattern=die, Pattern=wokkel
+	Constrained: Pattern=die
+Turn ID=10| A | A : zeggen maar met die beetje kristalle
+	Free: Pattern=met die
+	Constrained: Pattern=met, Pattern=die
+Turn ID=11| A | A : ja wokkel inderdaad
+	Free: Pattern=inderdaad, Pattern=wokkel, Pattern=ja
+	Constrained: 
+Turn ID=12| B | B : en met die cirkel aan de voorkant
+	Free: Pattern=met die, Pattern=en
+	Constrained: Pattern=met, Pattern=die
+Turn ID=13| A | A : ja precies
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=14| B | B : okan J
+	Free: 
+	Constrained: 
+Turn ID=15| B | B : ok met de wokkel
+	Free: Pattern=met, Pattern=ok, Pattern=wokkel
+	Constrained: 
+Turn ID=16| A | A : die wokkeloor dinge ja
+	Free: Pattern=die, Pattern=ja
+	Constrained: 
+Turn ID=17| B | B : en ja ronde ding aan de voorkant
+	Free: Pattern=ding, Pattern=en, Pattern=ja
+	Constrained: 
+Turn ID=18| A | A : ja ik weten het al ja elf
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=19| A | A : nou die wokkeloren
+	Free: Pattern=die
+	Constrained: 
+Turn ID=20| B | B : ja met cirkel aan de voorkant
+	Free: Pattern=ja met
+	Constrained: Pattern=met, Pattern=ja
+Turn ID=21| A | A : wokkel ding
+	Free: Pattern=ding, Pattern=wokkel
+	Constrained: 
+Turn ID=22| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=23| B | B : P
+	Free: 
+	Constrained: 
+Turn ID=24| B | B : wokkel oor
+	Free: Pattern=wokkel
+	Constrained: 
+Turn ID=25| A | A : nice negen
+	Free: 
+	Constrained: 
+Turn ID=26| A | A : wokkel meneer
+	Free: Pattern=wokkel
+	Constrained: 
+Turn ID=27| B | B : ja met cirkel aan de voorkant L
+	Free: Pattern=ja met
+	Constrained: Pattern=met, Pattern=ja

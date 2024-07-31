@@ -1,0 +1,119 @@
+A|0| A: _oké_ nu _hebben_ _ik_ _een_ rood vierkant 
+A|1| A: _ik hebben_ _zo'n_ _ja_ er _een_ beetje _aan de_ rechterkant ervoor zitten _zo'n_ soort _staaf_ 
+A|2| A: _met zo'n_ _bolle_ in _het_ midden 
+A|3| A: _en_ er opsteken _zo'n_ _ja_ _rond_ uit _het_ lijken _een_ beetje op _zo'n_ _zuignap_ alsof _die_ _die_ vastheeft 
+B|4| B: _ook_ [en] dan _ook_ [met zo'n] [een] [staaf] 
+A|5| A: lepel of zo lijken _het_ of _die_ er [een] beetje in zitten in _dat_ komme of _ja_ [zo'n] soort dinge steken eruit 
+B|6| B: [ja] 
+B|7| B: [oké] 
+B|8| B: [ja] dan _zijn_ [het] _bij mij_ F 
+B|9| B: [ik hebben] nou weer _die een_ _ook_ weer [met zo'n] [een] [bolle] [aan de] voorkant _zeggen maar [met_ zo'n] [staaf] erdoorheen [en] dan weer [een] 
+B|10| B: [aan de] einde van [de] [staaf] _ook_ [zo'n] [rond] _zeggen maar_ 
+B|11| B: wat jij net [een] [zuignap] noemen 
+A|12| A: [ja] [die] 
+A|13| A: _met dat_ dinge [ook] nog eruit steken 
+B|14| B: [ja] 
+A|15| A: [oké] _dat zijn_ nummer vijf [bij mij] 
+A|16| A: [ik hebben] nu _die een met die zuignap_ 
+A|17| A: _dat_ [bolle] ervoor [zeggen maar _met] die zuignap_ [zo'n] arm [zo'n] dinge eruit 
+B|18| B: [ja] 
+B|19| B: [dat zijn] [bij mij] A 
+B|20| B: weer [die een] [zuignap] [zeggen maar [met] dat] [dat] [rond] [en] dan [die] [staaf] erdoorheen [en] 
+A|21| A: [ja] 
+A|22| A: nummer vijf _zijn dat_ [bij mij] 
+B|23| B: [oké] 
+A|24| A: [ik hebben] nu _die een met die zuignap_ staan [bij mij] helemaal midden onderin 
+B|25| B: [ja] [bij mij] [zijn dat] H 
+B|26| B: [die een met die zuignap] [zeggen maar] [dat] [rond] [en] dan 
+A|27| A: [ja] 
+A|28| A: nummer vijftien [zijn dat] [bij mij] 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : oké nu hebben ik een rood vierkant
+	Free: Pattern=oké, Pattern=hebben, Pattern=een, Pattern=ik
+	Constrained: 
+Turn ID=1| A | A : ik hebben zo'n ja er een beetje aan de rechterkant ervoor zitten zo'n soort staaf
+	Free: Pattern=ik hebben, Pattern=zo'n, Pattern=ja, Pattern=staaf, Pattern=aan de, Pattern=een
+	Constrained: Pattern=de, Pattern=hebben, Pattern=ik
+Turn ID=2| A | A : met zo'n bolle in het midden
+	Free: Pattern=met zo'n, Pattern=bolle, Pattern=het
+	Constrained: Pattern=zo'n
+Turn ID=3| A | A : en er opsteken zo'n ja rond uit het lijken een beetje op zo'n zuignap alsof die die vastheeft
+	Free: Pattern=zo'n, Pattern=ja, Pattern=een, Pattern=het, Pattern=die, Pattern=en, Pattern=rond, Pattern=zuignap
+	Constrained: 
+Turn ID=4| B | B : ook en dan ook met zo'n een staaf
+	Free: Pattern=staaf, Pattern=ook, Pattern=een, Pattern=en, Pattern=met zo'n
+	Constrained: Pattern=zo'n
+Turn ID=5| A | A : lepel of zo lijken het of die er een beetje in zitten in dat komme of ja zo'n soort dinge steken eruit
+	Free: Pattern=dat, Pattern=zo'n, Pattern=ja, Pattern=een, Pattern=het, Pattern=die
+	Constrained: 
+Turn ID=6| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=7| B | B : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=8| B | B : ja dan zijn het bij mij F
+	Free: Pattern=bij mij, Pattern=het, Pattern=zijn, Pattern=ja
+	Constrained: 
+Turn ID=9| B | B : ik hebben nou weer die een ook weer met zo'n een bolle aan de voorkant zeggen maar met zo'n staaf erdoorheen en dan weer een
+	Free: Pattern=ik hebben, Pattern=staaf, Pattern=een, Pattern=zeggen maar met, Pattern=bolle, Pattern=die een, Pattern=en, Pattern=met zo'n, Pattern=aan de, Pattern=ook
+	Constrained: Pattern=zo'n, Pattern=de, Pattern=een, Pattern=zeggen maar, Pattern=hebben, Pattern=die, Pattern=ik
+Turn ID=10| B | B : aan de einde van de staaf ook zo'n rond zeggen maar
+	Free: Pattern=zo'n, Pattern=de, Pattern=staaf, Pattern=zeggen maar, Pattern=rond, Pattern=aan de, Pattern=ook
+	Constrained: Pattern=de
+Turn ID=11| B | B : wat jij net een zuignap noemen
+	Free: Pattern=een, Pattern=zuignap
+	Constrained: 
+Turn ID=12| A | A : ja die
+	Free: Pattern=die, Pattern=ja
+	Constrained: 
+Turn ID=13| A | A : met dat dinge ook nog eruit steken
+	Free: Pattern=met dat, Pattern=ook
+	Constrained: Pattern=dat
+Turn ID=14| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=15| A | A : oké dat zijn nummer vijf bij mij
+	Free: Pattern=dat zijn, Pattern=bij mij, Pattern=oké
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=16| A | A : ik hebben nu die een met die zuignap
+	Free: Pattern=die een met die zuignap, Pattern=ik hebben
+	Constrained: Pattern=met die zuignap, Pattern=een, Pattern=hebben, Pattern=die, Pattern=die een, Pattern=ik, Pattern=zuignap
+Turn ID=17| A | A : dat bolle ervoor zeggen maar met die zuignap zo'n arm zo'n dinge eruit
+	Free: Pattern=met die zuignap, Pattern=dat, Pattern=zo'n, Pattern=zeggen maar met, Pattern=bolle
+	Constrained: Pattern=zuignap, Pattern=die, Pattern=zeggen maar
+Turn ID=18| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=19| B | B : dat zijn bij mij A
+	Free: Pattern=dat zijn, Pattern=bij mij
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=20| B | B : weer die een zuignap zeggen maar met dat dat rond en dan die staaf erdoorheen en
+	Free: Pattern=dat, Pattern=staaf, Pattern=zeggen maar met, Pattern=met dat, Pattern=die, Pattern=die een, Pattern=en, Pattern=rond, Pattern=zuignap
+	Constrained: Pattern=een, Pattern=dat, Pattern=die, Pattern=zeggen maar
+Turn ID=21| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=22| A | A : nummer vijf zijn dat bij mij
+	Free: Pattern=zijn dat, Pattern=bij mij
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=23| B | B : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=24| A | A : ik hebben nu die een met die zuignap staan bij mij helemaal midden onderin
+	Free: Pattern=die een met die zuignap, Pattern=ik hebben, Pattern=bij mij
+	Constrained: Pattern=met die zuignap, Pattern=een, Pattern=hebben, Pattern=die, Pattern=die een, Pattern=ik, Pattern=zuignap
+Turn ID=25| B | B : ja bij mij zijn dat H
+	Free: Pattern=zijn dat, Pattern=bij mij, Pattern=ja
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=26| B | B : die een met die zuignap zeggen maar dat rond en dan
+	Free: Pattern=dat, Pattern=zeggen maar, Pattern=die een met die zuignap, Pattern=en, Pattern=rond
+	Constrained: Pattern=met die zuignap, Pattern=een, Pattern=die, Pattern=die een, Pattern=zuignap
+Turn ID=27| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=28| A | A : nummer vijftien zijn dat bij mij
+	Free: Pattern=zijn dat, Pattern=bij mij
+	Constrained: Pattern=dat, Pattern=zijn

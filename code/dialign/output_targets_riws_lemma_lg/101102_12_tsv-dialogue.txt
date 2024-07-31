@@ -1,0 +1,87 @@
+A|0| A: even kijken _dit_ plaat hebben _aan de rechterkant_ _een rond_ uitsteeksel alsof _het_ _een_ soort loep _zijn_ 
+A|1| A: _en_ _aan de linkerkant_ _komen_ er _een_ soort Pacmanvormig figuurt _uit_ _en_ daar _komen_ _dan_ nog één _ja wat_ _zijn het_ _een_ soort 
+B|2| B: _bleekselderij_ [ja wat] [het] [zijn het] [ja] 
+A|3| A: [ja] [ja] _die_ _komen_ er _dan_ nog vanuit _dat_ uitsteeksel _komen_ _die_ _dan_ nog omhoog zeggen maar 
+B|4| B: [ja] 
+B|5| B: [dat] [zijn] L 
+B|6| B: [ja] _dit zijn_ weer [die] waar [die] rabarberstengel of [die] _bleekselderij_ [uit] [uit] [komen] [en] [dan] [aan de rechterkant] zo'n _plateau_ 
+B|7| B: [een rond] _plateau_ 
+A|8| A: [ja] 
+A|9| A: nummer zeven 
+A|10| A: [dit zijn] je [bleekselderij] 
+A|11| A: _met_ [aan de] 
+B|12| B: ah C 
+A|13| A: [ja] 
+B|14| B: _de bleekselderij_ [en] _het plateau aan de rechterkant_ 
+A|15| A: [ja] 
+A|16| A: nummer één 
+A|17| A: [en] [dit zijn] [de bleekselderij] _met_ [het plateau aan de rechterkant] 
+B|18| B: [dat] [zijn] A 
+B|19| B: [met] [de] rabarberstengel [aan de linkerkant] 
+A|20| A: dertien 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : even kijken dit plaat hebben aan de rechterkant een rond uitsteeksel alsof het een soort loep zijn
+	Free: Pattern=een, Pattern=het, Pattern=dit, Pattern=aan de rechterkant, Pattern=een rond, Pattern=zijn
+	Constrained: Pattern=een, Pattern=de, Pattern=aan de
+Turn ID=1| A | A : en aan de linkerkant komen er een soort Pacmanvormig figuurt uit en daar komen dan nog één ja wat zijn het een soort
+	Free: Pattern=zijn het, Pattern=uit, Pattern=dan, Pattern=komen, Pattern=een, Pattern=en, Pattern=ja wat, Pattern=aan de linkerkant
+	Constrained: Pattern=aan de, Pattern=het, Pattern=zijn, Pattern=de, Pattern=ja
+Turn ID=2| B | B : bleekselderij ja wat het zijn het ja
+	Free: Pattern=zijn het, Pattern=ja, Pattern=bleekselderij, Pattern=het, Pattern=ja wat
+	Constrained: Pattern=ja, Pattern=het, Pattern=zijn
+Turn ID=3| A | A : ja ja die komen er dan nog vanuit dat uitsteeksel komen die dan nog omhoog zeggen maar
+	Free: Pattern=dat, Pattern=ja, Pattern=dan, Pattern=komen, Pattern=die
+	Constrained: 
+Turn ID=4| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=5| B | B : dat zijn L
+	Free: Pattern=dat, Pattern=zijn
+	Constrained: 
+Turn ID=6| B | B : ja dit zijn weer die waar die rabarberstengel of die bleekselderij uit uit komen en dan aan de rechterkant zo'n plateau
+	Free: Pattern=ja, Pattern=uit, Pattern=komen, Pattern=plateau, Pattern=en, Pattern=dit zijn, Pattern=bleekselderij, Pattern=dan, Pattern=aan de rechterkant, Pattern=die
+	Constrained: Pattern=dit, Pattern=de, Pattern=zijn, Pattern=aan de
+Turn ID=7| B | B : een rond plateau
+	Free: Pattern=een rond, Pattern=plateau
+	Constrained: Pattern=een
+Turn ID=8| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=9| A | A : nummer zeven
+	Free: 
+	Constrained: 
+Turn ID=10| A | A : dit zijn je bleekselderij
+	Free: Pattern=dit zijn, Pattern=bleekselderij
+	Constrained: Pattern=dit, Pattern=zijn
+Turn ID=11| A | A : met aan de
+	Free: Pattern=aan de, Pattern=met
+	Constrained: Pattern=de
+Turn ID=12| B | B : ah C
+	Free: 
+	Constrained: 
+Turn ID=13| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=14| B | B : de bleekselderij en het plateau aan de rechterkant
+	Free: Pattern=het plateau aan de rechterkant, Pattern=de bleekselderij, Pattern=en
+	Constrained: Pattern=de, Pattern=aan de, Pattern=bleekselderij, Pattern=het, Pattern=plateau, Pattern=aan de rechterkant
+Turn ID=15| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=16| A | A : nummer één
+	Free: 
+	Constrained: 
+Turn ID=17| A | A : en dit zijn de bleekselderij met het plateau aan de rechterkant
+	Free: Pattern=de bleekselderij, Pattern=het plateau aan de rechterkant, Pattern=met, Pattern=en, Pattern=dit zijn
+	Constrained: Pattern=de, Pattern=aan de, Pattern=bleekselderij, Pattern=het, Pattern=aan de rechterkant, Pattern=zijn, Pattern=plateau, Pattern=dit
+Turn ID=18| B | B : dat zijn A
+	Free: Pattern=dat, Pattern=zijn
+	Constrained: 
+Turn ID=19| B | B : met de rabarberstengel aan de linkerkant
+	Free: Pattern=aan de linkerkant, Pattern=de, Pattern=met
+	Constrained: Pattern=aan de, Pattern=de
+Turn ID=20| A | A : dertien
+	Free: 
+	Constrained: 

@@ -1,0 +1,135 @@
+B|0| B: hebben _die_ bovenop _een soort_ _ja_ of _vierkant_ maar dan kantelen 
+B|1| B: _ja_ _met die_ blok weer _in_ elkaar 
+B|2| B: oké dan _zijn_ _het_ M 
+A|3| A: oeh _deze zijn_ wel _deze_ vinden ik best wel raar [het] [zijn] [een soort] van [ja] [een soort] van Pinokkio _met een_ raar hoed _met [een_ soort] van 
+A|4| A: [vierkant] hoed [met] de [met] iets erdoorheen 
+A|5| A: [ja] [die] ander [ja] Pinokkio [met] de hand _en_ [een soort] van ding _eronder_ nog [een soort] van klein lijf wat eraan zitten 
+A|6| A: [ja] 
+A|7| A: [ja] 
+A|8| A: [ja] [die] 
+A|9| A: [ja] [die] 
+A|10| A: [ja] 
+B|11| B: [deze] hebben _zo'n_ _dinge_ daaronder [met een] knikje 
+B|12| B: [en] [ja] _zo'n_ [vierkant] _dat_ _een beetje_ 
+B|13| B: nee [ja] klopt 
+B|14| B: even zoeken 
+B|15| B: _dat zijn_ bij mij H 
+B|16| B: [deze zijn] weer _met dat_ _dinge_ [eronder] _zo_ 
+A|17| A: [ja] [en] [die] [en] [dat] ding aan de onderkant 
+A|18| A: [dat zijn] numero negen 
+B|19| B: [dat zijn] bij mij D 
+B|20| B: _met dat_ knikje onderaan 
+A|21| A: dit [zijn] [die] heel gek 
+A|22| A: hij vallen [een beetje] weg trouwens [in] [het] scherm zien ik 
+A|23| A: [met die] [met die] [met dat] uitstulping aan de onderkant [en] [dat] armpje aan de rechterkant 
+A|24| A: [en] [met] [zo'n] half vierkan op [zijn] hoofd wat [zo] doorboord [zijn] 
+A|25| A: [dat] 
+A|26| A: pinokkio [met] eigenlijk Pinokkio [met] arm 
+A|27| A: [en] [dat] ding beneden 
+A|28| A: [ja] [ja] [ja] [ja] 
+A|29| A: pinokkio [met] [dinge] door de hanenkam [dat zijn] numero elf 
+A|30| A: de Pinokkio [met] de hanenkam 
+A|31| A: [ja] 
+A|32| A: [dat zijn] numero veertien 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : hebben die bovenop een soort ja of vierkant maar dan kantelen
+	Free: Pattern=een soort, Pattern=vierkant, Pattern=ja, Pattern=die
+	Constrained: 
+Turn ID=1| B | B : ja met die blok weer in elkaar
+	Free: Pattern=met die, Pattern=in, Pattern=ja
+	Constrained: Pattern=die, Pattern=met
+Turn ID=2| B | B : oké dan zijn het M
+	Free: Pattern=zijn, Pattern=het
+	Constrained: 
+Turn ID=3| A | A : oeh deze zijn wel deze vinden ik best wel raar het zijn een soort van ja een soort van Pinokkio met een raar hoed met een soort van
+	Free: Pattern=het, Pattern=met een, Pattern=een soort, Pattern=zijn, Pattern=deze, Pattern=ja, Pattern=deze zijn
+	Constrained: Pattern=zijn, Pattern=met, Pattern=deze
+Turn ID=4| A | A : vierkant hoed met de met iets erdoorheen
+	Free: Pattern=vierkant, Pattern=met
+	Constrained: 
+Turn ID=5| A | A : ja die ander ja Pinokkio met de hand en een soort van ding eronder nog een soort van klein lijf wat eraan zitten
+	Free: Pattern=ja, Pattern=met, Pattern=die, Pattern=een soort, Pattern=en, Pattern=eronder
+	Constrained: 
+Turn ID=6| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=7| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=8| A | A : ja die
+	Free: Pattern=ja, Pattern=die
+	Constrained: 
+Turn ID=9| A | A : ja die
+	Free: Pattern=ja, Pattern=die
+	Constrained: 
+Turn ID=10| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=11| B | B : deze hebben zo'n dinge daaronder met een knikje
+	Free: Pattern=met een, Pattern=zo'n, Pattern=dinge, Pattern=deze
+	Constrained: Pattern=met
+Turn ID=12| B | B : en ja zo'n vierkant dat een beetje
+	Free: Pattern=dat, Pattern=zo'n, Pattern=ja, Pattern=en, Pattern=vierkant, Pattern=een beetje
+	Constrained: 
+Turn ID=13| B | B : nee ja klopt
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=14| B | B : even zoeken
+	Free: 
+	Constrained: 
+Turn ID=15| B | B : dat zijn bij mij H
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=16| B | B : deze zijn weer met dat dinge eronder zo
+	Free: Pattern=deze zijn, Pattern=zo, Pattern=met dat, Pattern=dinge, Pattern=eronder
+	Constrained: Pattern=dat, Pattern=zijn, Pattern=deze, Pattern=met
+Turn ID=17| A | A : ja en die en dat ding aan de onderkant
+	Free: Pattern=en, Pattern=dat, Pattern=ja, Pattern=die
+	Constrained: 
+Turn ID=18| A | A : dat zijn numero negen
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=19| B | B : dat zijn bij mij D
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=20| B | B : met dat knikje onderaan
+	Free: Pattern=met dat
+	Constrained: Pattern=dat, Pattern=met
+Turn ID=21| A | A : dit zijn die heel gek
+	Free: Pattern=zijn, Pattern=die
+	Constrained: 
+Turn ID=22| A | A : hij vallen een beetje weg trouwens in het scherm zien ik
+	Free: Pattern=een beetje, Pattern=in, Pattern=het
+	Constrained: 
+Turn ID=23| A | A : met die met die met dat uitstulping aan de onderkant en dat armpje aan de rechterkant
+	Free: Pattern=met die, Pattern=met dat, Pattern=en, Pattern=dat
+	Constrained: Pattern=dat, Pattern=die, Pattern=met
+Turn ID=24| A | A : en met zo'n half vierkan op zijn hoofd wat zo doorboord zijn
+	Free: Pattern=zo'n, Pattern=zo, Pattern=met, Pattern=en, Pattern=zijn
+	Constrained: 
+Turn ID=25| A | A : dat
+	Free: Pattern=dat
+	Constrained: 
+Turn ID=26| A | A : pinokkio met eigenlijk Pinokkio met arm
+	Free: Pattern=met
+	Constrained: 
+Turn ID=27| A | A : en dat ding beneden
+	Free: Pattern=en, Pattern=dat
+	Constrained: 
+Turn ID=28| A | A : ja ja ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=29| A | A : pinokkio met dinge door de hanenkam dat zijn numero elf
+	Free: Pattern=dat zijn, Pattern=dinge, Pattern=met
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=30| A | A : de Pinokkio met de hanenkam
+	Free: Pattern=met
+	Constrained: 
+Turn ID=31| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=32| A | A : dat zijn numero veertien
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn

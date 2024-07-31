@@ -1,0 +1,135 @@
+A|0| A: oké _ja_ _dit zijn_ _een_ _een_ _een_ kop waarbij er _een_ _soort van_ _haakje_ _onder_ zitten 
+A|1| A: _een_ _haak_ _aan de_ zijkant _een_ _soort_ Pinokkioneus naar voren _zo'n_ 
+B|2| B: [ja] 
+B|3| B: _dat zijn_ bij _mij_ M 
+A|4| A: [ja] _en dan_ zitten er nog _een_ _een_ _een_ _vierkant_ achter waar _ook_ weer iets uit komen 
+A|5| A: [ja] 
+A|6| A: [dat zijn] negen 
+A|7| A: _dit zijn die_ raar _die zo'n_ hengsel _van_ _onder_ _hebben_ _van_ _de_ zijkant _en_ _die_ _hebben_ _dan_ _van_ achter _hebben die een_ _vierkant_ waar _ook_ weer iets _doorheen_ zitten 
+A|8| A: [ja] [ja] [dat] _ja ik_ _ik zien hem_ 
+A|9| A: even kijken [ja] [ja] [ja] [ja] 
+A|10| A: [ja] _met_ [dat] _vierkant_ waar _ook_ weer _dan_ wat in zitten achterin [ja] 
+A|11| A: elf 
+B|12| B: [dit zijn die] [aan de] rechtervoorkant [hebben [die] zo'n] rond staaf 
+B|13| B: als [soort van] neus [en] [aan de] onderkant [hebben [die] zo'n] [vierkant] [haak] 
+B|14| B: [en] rechts [ook] 
+B|15| B: [en dan] bovenop [hebben die een] diamantvorm [met] [die] kubusding erdoorheen 
+B|16| B: [ja] 
+A|17| A: [dit zijn] degeen [met] het [vierkant] achter [met] waar waar weer wat _doorheen_ zitten [en] 
+A|18| A: zeggen maar het potlood [van] voor [en] het [haak] beneden [en] het [haak] hier [aan de] rechterkant 
+A|19| A: [een] beetje [een] wasbak volgens [mij] 
+A|20| A: [ja] veertien 
+B|21| B: [ja] 
+B|22| B: [ja] 
+B|23| B: [ja] 
+B|24| B: [dat zijn] H 
+B|25| B: [dit zijn die] [met] diamant [aan de] bovenkant [met] [die] [vierkant] staaf [die] klein worden erdoorheen [en dan] [onder] 
+B|26| B: [haak] rechts [een] [haakje] [en] [een] staaf als neus 
+B|27| B: [ja] 
+B|28| B: [ja [ik] zien hem] al 
+B|29| B: [dat zijn] D 
+B|30| B: [dit zijn die] [met] [die] diamant [aan de] bovenkant [met] [die] [vierkant] staaf [doorheen] 
+B|31| B: [die] klein worden 
+B|32| B: [ja] 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : oké ja dit zijn een een een kop waarbij er een soort van haakje onder zitten
+	Free: Pattern=ja, Pattern=een, Pattern=haakje, Pattern=onder, Pattern=soort van, Pattern=dit zijn
+	Constrained: Pattern=van, Pattern=soort
+Turn ID=1| A | A : een haak aan de zijkant een soort Pinokkioneus naar voren zo'n
+	Free: Pattern=soort, Pattern=zo'n, Pattern=aan de, Pattern=een, Pattern=haak
+	Constrained: Pattern=de
+Turn ID=2| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=3| B | B : dat zijn bij mij M
+	Free: Pattern=dat zijn, Pattern=mij
+	Constrained: Pattern=dat
+Turn ID=4| A | A : ja en dan zitten er nog een een een vierkant achter waar ook weer iets uit komen
+	Free: Pattern=ja, Pattern=en dan, Pattern=ook, Pattern=een, Pattern=vierkant
+	Constrained: Pattern=en, Pattern=dan
+Turn ID=5| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=6| A | A : dat zijn negen
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat
+Turn ID=7| A | A : dit zijn die raar die zo'n hengsel van onder hebben van de zijkant en die hebben dan van achter hebben die een vierkant waar ook weer iets doorheen zitten
+	Free: Pattern=dit zijn die, Pattern=ook, Pattern=dan, Pattern=hebben, Pattern=onder, Pattern=die, Pattern=hebben die een, Pattern=die zo'n, Pattern=vierkant, Pattern=de, Pattern=doorheen, Pattern=van, Pattern=en
+	Constrained: Pattern=zo'n, Pattern=een, Pattern=hebben, Pattern=die, Pattern=hebben die, Pattern=dit zijn
+Turn ID=8| A | A : ja ja dat ja ik ik zien hem
+	Free: Pattern=ik zien hem, Pattern=ja ik, Pattern=ja, Pattern=dat
+	Constrained: Pattern=ja
+Turn ID=9| A | A : even kijken ja ja ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=10| A | A : ja met dat vierkant waar ook weer dan wat in zitten achterin ja
+	Free: Pattern=dat, Pattern=ja, Pattern=ook, Pattern=dan, Pattern=met, Pattern=vierkant
+	Constrained: 
+Turn ID=11| A | A : elf
+	Free: 
+	Constrained: 
+Turn ID=12| B | B : dit zijn die aan de rechtervoorkant hebben die zo'n rond staaf
+	Free: Pattern=dit zijn die, Pattern=die zo'n, Pattern=aan de, Pattern=hebben die
+	Constrained: Pattern=zo'n, Pattern=de, Pattern=hebben, Pattern=die, Pattern=dit zijn
+Turn ID=13| B | B : als soort van neus en aan de onderkant hebben die zo'n vierkant haak
+	Free: Pattern=aan de, Pattern=en, Pattern=die zo'n, Pattern=vierkant, Pattern=hebben die, Pattern=soort van, Pattern=haak
+	Constrained: Pattern=soort, Pattern=zo'n, Pattern=de, Pattern=hebben, Pattern=die, Pattern=van
+Turn ID=14| B | B : en rechts ook
+	Free: Pattern=ook, Pattern=en
+	Constrained: 
+Turn ID=15| B | B : en dan bovenop hebben die een diamantvorm met die kubusding erdoorheen
+	Free: Pattern=hebben die een, Pattern=en dan, Pattern=met, Pattern=die
+	Constrained: Pattern=dan, Pattern=een, Pattern=hebben, Pattern=die, Pattern=en, Pattern=hebben die
+Turn ID=16| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=17| A | A : dit zijn degeen met het vierkant achter met waar waar weer wat doorheen zitten en
+	Free: Pattern=doorheen, Pattern=met, Pattern=en, Pattern=vierkant, Pattern=dit zijn
+	Constrained: 
+Turn ID=18| A | A : zeggen maar het potlood van voor en het haak beneden en het haak hier aan de rechterkant
+	Free: Pattern=aan de, Pattern=van, Pattern=en, Pattern=haak
+	Constrained: Pattern=de
+Turn ID=19| A | A : een beetje een wasbak volgens mij
+	Free: Pattern=mij, Pattern=een
+	Constrained: 
+Turn ID=20| A | A : ja veertien
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=21| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=22| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=23| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=24| B | B : dat zijn H
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat
+Turn ID=25| B | B : dit zijn die met diamant aan de bovenkant met die vierkant staaf die klein worden erdoorheen en dan onder
+	Free: Pattern=dit zijn die, Pattern=en dan, Pattern=aan de, Pattern=onder, Pattern=met, Pattern=die, Pattern=vierkant
+	Constrained: Pattern=de, Pattern=dan, Pattern=die, Pattern=en, Pattern=dit zijn
+Turn ID=26| B | B : haak rechts een haakje en een staaf als neus
+	Free: Pattern=haakje, Pattern=en, Pattern=een, Pattern=haak
+	Constrained: 
+Turn ID=27| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=28| B | B : ja ik zien hem al
+	Free: Pattern=ik zien hem, Pattern=ja ik
+	Constrained: Pattern=ja
+Turn ID=29| B | B : dat zijn D
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat
+Turn ID=30| B | B : dit zijn die met die diamant aan de bovenkant met die vierkant staaf doorheen
+	Free: Pattern=dit zijn die, Pattern=doorheen, Pattern=aan de, Pattern=met, Pattern=die, Pattern=vierkant
+	Constrained: Pattern=dit zijn, Pattern=die, Pattern=de
+Turn ID=31| B | B : die klein worden
+	Free: Pattern=die
+	Constrained: 
+Turn ID=32| B | B : ja
+	Free: Pattern=ja
+	Constrained: 

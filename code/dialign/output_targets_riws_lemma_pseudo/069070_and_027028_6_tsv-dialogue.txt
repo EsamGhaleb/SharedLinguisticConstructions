@@ -1,0 +1,143 @@
+A|0| A: _oké_ nu _hebben ik_ _een_ rood vierkant 
+A|1| A: _er_ zitten _een_ soort bol op _de_ voorkant 
+A|2| A: _en_ _daar_ zitten _een_ uitsteeksel doorheen 
+A|3| A: _met een_ _met zo'n_ rond 
+B|4| B: _iets_ erbovenuit 
+A|5| A: _ja_ _ja_ 
+A|6| A: _en_ _één_ dinge bovenop 
+A|7| A: _ja_ 
+B|8| B: teken van [een] voet 
+B|9| B: [ja] 
+B|10| B: [één] [zo'n] streepje erboven _dat zijn_ eigenlijk ook _aan de_ zijkant hetzelfde 
+B|11| B: _hebben die_ zo [hebben] _het_ zeggen maar [zo'n] kuifje erboven 
+B|12| B: [ja] 
+B|13| B: [en] _zijn het_ _dan_ zo [ja] [zo'n] eigenlijk _dat_ _het_ net lijken of _dat_ [er] [een] neus _zijn_ [met een] neuspiercing 
+B|14| B: [ja] [oké] 
+B|15| B: [ja] 
+B|16| B: [oké] [ja] 
+B|17| B: _dan_ [hebben ik] hem 
+B|18| B: F 
+A|19| A: [ja] 
+A|20| A: [ja] [dan] [zijn het] vijf 
+A|21| A: [ik] [hebben _die] _met_ die_ [dat] fliep bovenop [en] [zo'n] bol [aan de] voorkant _waar_ [iets] doorheen steken 
+B|22| B: [en] dit [zijn] weer [die _met] dat_ kuifje [en] [dan] [met die] neus [met zo'n] _ding erdoorheen_ 
+B|23| B: [ja] 
+A|24| A: [ja] 
+A|25| A: [ja] [dat zijn] vijf 
+A|26| A: [ik] [hebben [die] [met] die] uitstekend bol [en] [met dat] [ding erdoorheen] 
+A|27| A: [en] [met dat] fliebel bovenop 
+B|28| B: [de] neuspiercing [dat zijn] A 
+B|29| B: [de] neuspiercing 
+A|30| A: [ja] [dat zijn] vijftien 
+B|31| B: [waar] [zijn] 
+B|32| B: even kijken [waar] [daar] 
+B|33| B: H 
+B|34| B: [de] neuspiercing 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : oké nu hebben ik een rood vierkant
+	Free: Pattern=hebben ik, Pattern=oké, Pattern=een
+	Constrained: Pattern=hebben, Pattern=ik
+Turn ID=1| A | A : er zitten een soort bol op de voorkant
+	Free: Pattern=een, Pattern=de, Pattern=er
+	Constrained: 
+Turn ID=2| A | A : en daar zitten een uitsteeksel doorheen
+	Free: Pattern=en, Pattern=daar, Pattern=een
+	Constrained: 
+Turn ID=3| A | A : met een met zo'n rond
+	Free: Pattern=met een, Pattern=met zo'n
+	Constrained: Pattern=een, Pattern=zo'n
+Turn ID=4| B | B : iets erbovenuit
+	Free: Pattern=iets
+	Constrained: 
+Turn ID=5| A | A : ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=6| A | A : en één dinge bovenop
+	Free: Pattern=en, Pattern=één
+	Constrained: 
+Turn ID=7| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=8| B | B : teken van een voet
+	Free: Pattern=een
+	Constrained: 
+Turn ID=9| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=10| B | B : één zo'n streepje erboven dat zijn eigenlijk ook aan de zijkant hetzelfde
+	Free: Pattern=aan de, Pattern=dat zijn, Pattern=zo'n, Pattern=één
+	Constrained: Pattern=dat, Pattern=de, Pattern=zijn
+Turn ID=11| B | B : hebben die zo hebben het zeggen maar zo'n kuifje erboven
+	Free: Pattern=hebben die, Pattern=het, Pattern=zo'n, Pattern=hebben
+	Constrained: Pattern=hebben
+Turn ID=12| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=13| B | B : en zijn het dan zo ja zo'n eigenlijk dat het net lijken of dat er een neus zijn met een neuspiercing
+	Free: Pattern=dat, Pattern=zijn het, Pattern=zo'n, Pattern=ja, Pattern=dan, Pattern=een, Pattern=het, Pattern=met een, Pattern=er, Pattern=en, Pattern=zijn
+	Constrained: Pattern=een, Pattern=het, Pattern=zijn
+Turn ID=14| B | B : ja oké
+	Free: Pattern=oké, Pattern=ja
+	Constrained: 
+Turn ID=15| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=16| B | B : oké ja
+	Free: Pattern=oké, Pattern=ja
+	Constrained: 
+Turn ID=17| B | B : dan hebben ik hem
+	Free: Pattern=hebben ik, Pattern=dan
+	Constrained: Pattern=hebben, Pattern=ik
+Turn ID=18| B | B : F
+	Free: 
+	Constrained: 
+Turn ID=19| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=20| A | A : ja dan zijn het vijf
+	Free: Pattern=zijn het, Pattern=dan, Pattern=ja
+	Constrained: Pattern=het, Pattern=zijn
+Turn ID=21| A | A : ik hebben die met die dat fliep bovenop en zo'n bol aan de voorkant waar iets doorheen steken
+	Free: Pattern=zo'n, Pattern=iets, Pattern=waar, Pattern=aan de, Pattern=die met, Pattern=ik, Pattern=en, Pattern=hebben die, Pattern=dat, Pattern=met die
+	Constrained: Pattern=de, Pattern=hebben
+Turn ID=22| B | B : en dit zijn weer die met dat kuifje en dan met die neus met zo'n ding erdoorheen
+	Free: Pattern=met die, Pattern=dan, Pattern=die met, Pattern=met dat, Pattern=ding erdoorheen, Pattern=en, Pattern=zijn, Pattern=met zo'n
+	Constrained: Pattern=dat, Pattern=zo'n
+Turn ID=23| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=24| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=25| A | A : ja dat zijn vijf
+	Free: Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=26| A | A : ik hebben die met die uitstekend bol en met dat ding erdoorheen
+	Free: Pattern=met die, Pattern=die met, Pattern=met dat, Pattern=ding erdoorheen, Pattern=ik, Pattern=en, Pattern=hebben die
+	Constrained: Pattern=dat, Pattern=hebben
+Turn ID=27| A | A : en met dat fliebel bovenop
+	Free: Pattern=met dat, Pattern=en
+	Constrained: Pattern=dat
+Turn ID=28| B | B : de neuspiercing dat zijn A
+	Free: Pattern=dat zijn, Pattern=de
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=29| B | B : de neuspiercing
+	Free: Pattern=de
+	Constrained: 
+Turn ID=30| A | A : ja dat zijn vijftien
+	Free: Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=31| B | B : waar zijn
+	Free: Pattern=waar, Pattern=zijn
+	Constrained: 
+Turn ID=32| B | B : even kijken waar daar
+	Free: Pattern=daar, Pattern=waar
+	Constrained: 
+Turn ID=33| B | B : H
+	Free: 
+	Constrained: 
+Turn ID=34| B | B : de neuspiercing
+	Free: Pattern=de
+	Constrained: 

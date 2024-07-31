@@ -1,0 +1,99 @@
+B|0| B: _ja_ _deze hebben_ eigenlijk heel weinig uitsteeksel 
+B|1| B: hij _hebben een_ soort van _neus_ linksonder 
+B|2| B: _en_ _bovenop_ liggen _een_ blok 
+A|3| A: maar wat zeggen wat zeggen je in _het_ begin 
+A|4| A: ah 
+A|5| A: [ja] [en] dan [een] _de neus_ _zijn_ [een] staaf 
+A|6| A: wat zitten er [bovenop] _het_ _hoofd_ 
+A|7| A: maar dat _zijn_ [een] één [een] [een] langhoek [een] 
+A|8| A: plat staaf 
+A|9| A: [ja] okee dan _zijn_ _het_ even zeker weten vijf 
+B|10| B: h 
+B|11| B: _deze hebben een_ [neus] linksonder [en] [het] blok [bovenop] [zijn] [hoofd] 
+B|12| B: met [een] heel raar vormp aan [de] rechterkant 
+B|13| B: c 
+B|14| B: [de neus] linksonder [en] [het] balk horizontaal [bovenop] 
+A|15| A: [deze hebben een] hanekam 
+A|16| A: [ja] ? okee 
+B|17| B: à 
+A|18| A: [ja] 
+A|19| A: dat [zijn] twee 
+A|20| A: [deze hebben een] hanekam 
+A|21| A: [en] uitlopen oor 
+A|22| A: even zoeken [een] 
+A|23| A: hanekam 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : ja deze hebben eigenlijk heel weinig uitsteeksel
+	Free: Pattern=deze hebben, Pattern=ja
+	Constrained: 
+Turn ID=1| B | B : hij hebben een soort van neus linksonder
+	Free: Pattern=hebben een, Pattern=neus
+	Constrained: Pattern=een
+Turn ID=2| B | B : en bovenop liggen een blok
+	Free: Pattern=een, Pattern=en, Pattern=bovenop
+	Constrained: 
+Turn ID=3| A | A : maar wat zeggen wat zeggen je in het begin
+	Free: Pattern=het
+	Constrained: 
+Turn ID=4| A | A : ah
+	Free: 
+	Constrained: 
+Turn ID=5| A | A : ja en dan een de neus zijn een staaf
+	Free: Pattern=ja, Pattern=de neus, Pattern=een, Pattern=en, Pattern=zijn
+	Constrained: Pattern=neus, Pattern=de
+Turn ID=6| A | A : wat zitten er bovenop het hoofd
+	Free: Pattern=het, Pattern=hoofd, Pattern=bovenop
+	Constrained: 
+Turn ID=7| A | A : maar dat zijn een één een een langhoek een
+	Free: Pattern=een, Pattern=zijn
+	Constrained: 
+Turn ID=8| A | A : plat staaf
+	Free: 
+	Constrained: 
+Turn ID=9| A | A : ja okee dan zijn het even zeker weten vijf
+	Free: Pattern=het, Pattern=ja, Pattern=zijn
+	Constrained: 
+Turn ID=10| B | B : h
+	Free: 
+	Constrained: 
+Turn ID=11| B | B : deze hebben een neus linksonder en het blok bovenop zijn hoofd
+	Free: Pattern=bovenop, Pattern=deze hebben een, Pattern=het, Pattern=neus, Pattern=en, Pattern=zijn, Pattern=hoofd
+	Constrained: Pattern=deze hebben, Pattern=hebben een, Pattern=een
+Turn ID=12| B | B : met een heel raar vormp aan de rechterkant
+	Free: Pattern=een, Pattern=de
+	Constrained: 
+Turn ID=13| B | B : c
+	Free: 
+	Constrained: 
+Turn ID=14| B | B : de neus linksonder en het balk horizontaal bovenop
+	Free: Pattern=de neus, Pattern=het, Pattern=en, Pattern=bovenop
+	Constrained: Pattern=neus, Pattern=de
+Turn ID=15| A | A : deze hebben een hanekam
+	Free: Pattern=deze hebben een
+	Constrained: Pattern=deze hebben, Pattern=hebben een, Pattern=een
+Turn ID=16| A | A : ja ? okee
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=17| B | B : à
+	Free: 
+	Constrained: 
+Turn ID=18| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=19| A | A : dat zijn twee
+	Free: Pattern=zijn
+	Constrained: 
+Turn ID=20| A | A : deze hebben een hanekam
+	Free: Pattern=deze hebben een
+	Constrained: Pattern=deze hebben, Pattern=hebben een, Pattern=een
+Turn ID=21| A | A : en uitlopen oor
+	Free: Pattern=en
+	Constrained: 
+Turn ID=22| A | A : even zoeken een
+	Free: Pattern=een
+	Constrained: 
+Turn ID=23| A | A : hanekam
+	Free: 
+	Constrained: 

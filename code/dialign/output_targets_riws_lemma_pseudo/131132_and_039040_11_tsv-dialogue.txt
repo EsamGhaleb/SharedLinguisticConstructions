@@ -1,0 +1,119 @@
+B|0| B: _het_ _zijn die_ _met_ _met_ _zo'n_ neus aan _de_ voorkant 
+B|1| B: _en dan_ zonder 
+B|2| B: wat 
+B|3| B: _ja_ 
+B|4| B: _en dan hebben die_ een soort van kegel op _zijn_ hoofd _en_ nog een plank 
+B|5| B: _ja_ 
+A|6| A: [ja] 
+A|7| A: dat [zijn] ook [de] enig [met] _twee_ staafjes erin volgens mij 
+A|8| A: [ja] 
+A|9| A: juist [ja] [ja] 
+A|10| A: [en dan hebben die] [zo'n] [zo'n] [zo'n] afvoerbak naar _de zijkant_ toe [en] [zo'n] 
+A|11| A: [ja] oké 
+A|12| A: dat [zijn] voor mij nummer veertien 
+B|13| B: waar één van een kegel [zijn] 
+B|14| B: [ja] N 
+A|15| A: [zijn] degeen [met] _twee_ spatelt [de] lineaal [en] [de] penseel 
+A|16| A: [ja] 
+B|17| B: _het_ _zijn die_ [met] [die] neusachtig iets [en dan hebben die] [twee] uitsteeksel erbovenop [en] één aan [de zijkant] 
+B|18| B: [ja] G 
+B|19| B: _het_ _zijn die_ [met] [die] neus [en] [die] [twee] uitsteeksel op [zijn] hoofd 
+A|20| A: [ja] daar [zijn die] 
+A|21| A: nummer negen 
+B|22| B: [ja] _ik_ weten welk je bedoelen even 
+B|23| B: [ja] vinden 
+B|24| B: J 
+A|25| A: [ik] [hebben] degeen [met] [de] lineaal [en] [de] penseel erin 
+A|26| A: staan bij mij in [het] midden 
+A|27| A: [ja] nummer vijf 
+A|28| A: [ik] [hebben] [de] penseel [en] lineaal 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : het zijn die met met zo'n neus aan de voorkant
+	Free: Pattern=zo'n, Pattern=de, Pattern=met, Pattern=het, Pattern=zijn die
+	Constrained: Pattern=zijn, Pattern=die
+Turn ID=1| B | B : en dan zonder
+	Free: Pattern=en dan
+	Constrained: Pattern=en
+Turn ID=2| B | B : wat
+	Free: 
+	Constrained: 
+Turn ID=3| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=4| B | B : en dan hebben die een soort van kegel op zijn hoofd en nog een plank
+	Free: Pattern=en dan hebben die, Pattern=zijn, Pattern=en
+	Constrained: Pattern=en dan, Pattern=die, Pattern=en, Pattern=hebben
+Turn ID=5| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=6| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=7| A | A : dat zijn ook de enig met twee staafjes erin volgens mij
+	Free: Pattern=twee, Pattern=zijn, Pattern=met, Pattern=de
+	Constrained: 
+Turn ID=8| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=9| A | A : juist ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=10| A | A : en dan hebben die zo'n zo'n zo'n afvoerbak naar de zijkant toe en zo'n
+	Free: Pattern=en dan hebben die, Pattern=de zijkant, Pattern=zo'n, Pattern=en
+	Constrained: Pattern=de, Pattern=en dan, Pattern=hebben, Pattern=die, Pattern=en
+Turn ID=11| A | A : ja oké
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=12| A | A : dat zijn voor mij nummer veertien
+	Free: Pattern=zijn
+	Constrained: 
+Turn ID=13| B | B : waar één van een kegel zijn
+	Free: Pattern=zijn
+	Constrained: 
+Turn ID=14| B | B : ja N
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=15| A | A : zijn degeen met twee spatelt de lineaal en de penseel
+	Free: Pattern=twee, Pattern=de, Pattern=met, Pattern=en, Pattern=zijn
+	Constrained: 
+Turn ID=16| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=17| B | B : het zijn die met die neusachtig iets en dan hebben die twee uitsteeksel erbovenop en één aan de zijkant
+	Free: Pattern=twee, Pattern=en dan hebben die, Pattern=met, Pattern=die, Pattern=de zijkant, Pattern=en, Pattern=het, Pattern=zijn die
+	Constrained: Pattern=de, Pattern=en dan, Pattern=hebben, Pattern=die, Pattern=en, Pattern=zijn
+Turn ID=18| B | B : ja G
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=19| B | B : het zijn die met die neus en die twee uitsteeksel op zijn hoofd
+	Free: Pattern=twee, Pattern=met, Pattern=die, Pattern=en, Pattern=zijn, Pattern=het, Pattern=zijn die
+	Constrained: Pattern=zijn, Pattern=die
+Turn ID=20| A | A : ja daar zijn die
+	Free: Pattern=zijn die, Pattern=ja
+	Constrained: Pattern=zijn, Pattern=die
+Turn ID=21| A | A : nummer negen
+	Free: 
+	Constrained: 
+Turn ID=22| B | B : ja ik weten welk je bedoelen even
+	Free: Pattern=ja, Pattern=ik
+	Constrained: 
+Turn ID=23| B | B : ja vinden
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=24| B | B : J
+	Free: 
+	Constrained: 
+Turn ID=25| A | A : ik hebben degeen met de lineaal en de penseel erin
+	Free: Pattern=de, Pattern=hebben, Pattern=met, Pattern=ik, Pattern=en
+	Constrained: 
+Turn ID=26| A | A : staan bij mij in het midden
+	Free: Pattern=het
+	Constrained: 
+Turn ID=27| A | A : ja nummer vijf
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=28| A | A : ik hebben de penseel en lineaal
+	Free: Pattern=de, Pattern=hebben, Pattern=en, Pattern=ik
+	Constrained: 

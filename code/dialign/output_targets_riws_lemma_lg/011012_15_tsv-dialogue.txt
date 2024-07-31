@@ -1,0 +1,131 @@
+B|0| B: _oké_ _ik hebben_ er nou _één met_ volgens _mij_ _zijn dat_ _de_ enig _van_ al _plaat_ waarbij _aan de_ bovenkant _hebben_ je _twee_ stok _zeggen maar_ 
+B|1| B: _en_ dan _hebben_ je _aan de_ 
+A|2| A: in _het_ midden _zo'n_ [plaat] erdoorheen [zeggen maar] 
+B|3| B: _ja_ _die_ 
+A|4| A: [oké] 
+A|5| A: _dat zijn bij mij_ nummer zes 
+A|6| A: [ja] 
+A|7| A: [oké] 
+A|8| A: druk [ik] op geel 
+A|9| A: [ik hebben] nu [één _met] die twee staaf_ Erboven [en] _zo'n_ [plaat] _door het_ midden 
+B|10| B: [ja] [en] dan nog [zo'n] [ja] een soort _van_ een rond wat er ook uit opsteken 
+A|11| A: [ja] [zo'n] slurf of zo 
+B|12| B: [ja] 
+B|13| B: [dat zijn bij mij] C 
+B|14| B: we [hebben] nou weer [die] een [met] [zeggen maar] [die] schijf [door het] dinge [en] dan weer [met die twee] 
+B|15| B: [ja] [die twee] 
+A|16| A: _staaf_ erop 
+B|17| B: [staaf] erbovenop [ja] 
+A|18| A: [ja] 
+A|19| A: [en] [die] slurf [aan de] voorkant [zeggen maar] 
+B|20| B: [ja] 
+A|21| A: nummer dertien [zijn dat] [bij mij] 
+A|22| A: [die] [met die twee] uitsteeksel Erboven [en] [die] [plaat] erdoorheen 
+A|23| A: ongeveer in [het] midden onder liggen [die] [bij mij] 
+B|24| B: [ja] 
+B|25| B: [bij mij] [zijn dat] J 
+B|26| B: weer [die] een [met die twee staaf] [zeggen maar] [aan de] bovenkant 
+A|27| A: [met die] [plaat] [door het] midden 
+B|28| B: [ja] 
+A|29| A: nummer negen 
+A|30| A: [die] staan [bij mij] ongeveer in [het] midden boven [met] [twee] [van] [die] antenne [en] [zo'n] [plaat] erdoorheen [zeggen maar] [en] [die] slurf 
+B|31| B: [ja] even zoeken 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : oké ik hebben er nou één met volgens mij zijn dat de enig van al plaat waarbij aan de bovenkant hebben je twee stok zeggen maar
+	Free: Pattern=ik hebben, Pattern=twee, Pattern=de, Pattern=aan de, Pattern=zeggen maar, Pattern=hebben, Pattern=oké, Pattern=mij, Pattern=van, Pattern=één met, Pattern=zijn dat, Pattern=plaat
+	Constrained: Pattern=de, Pattern=met, Pattern=ik, Pattern=hebben
+Turn ID=1| B | B : en dan hebben je aan de
+	Free: Pattern=aan de, Pattern=hebben, Pattern=en
+	Constrained: Pattern=de
+Turn ID=2| A | A : in het midden zo'n plaat erdoorheen zeggen maar
+	Free: Pattern=zeggen maar, Pattern=plaat, Pattern=het, Pattern=zo'n
+	Constrained: 
+Turn ID=3| B | B : ja die
+	Free: Pattern=ja, Pattern=die
+	Constrained: 
+Turn ID=4| A | A : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=5| A | A : dat zijn bij mij nummer zes
+	Free: Pattern=dat zijn bij mij
+	Constrained: Pattern=bij mij, Pattern=mij
+Turn ID=6| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=7| A | A : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=8| A | A : druk ik op geel
+	Free: Pattern=ik
+	Constrained: 
+Turn ID=9| A | A : ik hebben nu één met die twee staaf Erboven en zo'n plaat door het midden
+	Free: Pattern=ik hebben, Pattern=zo'n, Pattern=met die twee staaf, Pattern=en, Pattern=plaat, Pattern=één met, Pattern=door het
+	Constrained: Pattern=met die, Pattern=twee, Pattern=staaf, Pattern=met die twee, Pattern=hebben, Pattern=met, Pattern=die, Pattern=ik, Pattern=het, Pattern=die twee
+Turn ID=10| B | B : ja en dan nog zo'n ja een soort van een rond wat er ook uit opsteken
+	Free: Pattern=ja, Pattern=zo'n, Pattern=van, Pattern=en
+	Constrained: 
+Turn ID=11| A | A : ja zo'n slurf of zo
+	Free: Pattern=ja, Pattern=zo'n
+	Constrained: 
+Turn ID=12| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=13| B | B : dat zijn bij mij C
+	Free: Pattern=dat zijn bij mij
+	Constrained: Pattern=bij mij, Pattern=mij
+Turn ID=14| B | B : we hebben nou weer die een met zeggen maar die schijf door het dinge en dan weer met die twee
+	Free: Pattern=met die twee, Pattern=zeggen maar, Pattern=hebben, Pattern=met, Pattern=die, Pattern=en, Pattern=door het
+	Constrained: Pattern=met die, Pattern=twee, Pattern=met, Pattern=die, Pattern=het, Pattern=die twee
+Turn ID=15| B | B : ja die twee
+	Free: Pattern=die twee, Pattern=ja
+	Constrained: Pattern=twee, Pattern=die
+Turn ID=16| A | A : staaf erop
+	Free: Pattern=staaf
+	Constrained: 
+Turn ID=17| B | B : staaf erbovenop ja
+	Free: Pattern=ja, Pattern=staaf
+	Constrained: 
+Turn ID=18| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=19| A | A : en die slurf aan de voorkant zeggen maar
+	Free: Pattern=aan de, Pattern=zeggen maar, Pattern=die, Pattern=en
+	Constrained: Pattern=de
+Turn ID=20| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=21| A | A : nummer dertien zijn dat bij mij
+	Free: Pattern=bij mij, Pattern=zijn dat
+	Constrained: Pattern=mij
+Turn ID=22| A | A : die met die twee uitsteeksel Erboven en die plaat erdoorheen
+	Free: Pattern=met die twee, Pattern=plaat, Pattern=die, Pattern=en
+	Constrained: Pattern=met die, Pattern=twee, Pattern=die twee, Pattern=met, Pattern=die
+Turn ID=23| A | A : ongeveer in het midden onder liggen die bij mij
+	Free: Pattern=bij mij, Pattern=het, Pattern=die
+	Constrained: Pattern=mij
+Turn ID=24| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=25| B | B : bij mij zijn dat J
+	Free: Pattern=bij mij, Pattern=zijn dat
+	Constrained: Pattern=mij
+Turn ID=26| B | B : weer die een met die twee staaf zeggen maar aan de bovenkant
+	Free: Pattern=met die twee staaf, Pattern=aan de, Pattern=zeggen maar, Pattern=die
+	Constrained: Pattern=met die, Pattern=twee, Pattern=de, Pattern=staaf, Pattern=met die twee, Pattern=die twee, Pattern=met, Pattern=die
+Turn ID=27| A | A : met die plaat door het midden
+	Free: Pattern=door het, Pattern=met die, Pattern=plaat
+	Constrained: Pattern=het, Pattern=met, Pattern=die
+Turn ID=28| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=29| A | A : nummer negen
+	Free: 
+	Constrained: 
+Turn ID=30| A | A : die staan bij mij ongeveer in het midden boven met twee van die antenne en zo'n plaat erdoorheen zeggen maar en die slurf
+	Free: Pattern=zeggen maar, Pattern=het, Pattern=met, Pattern=die, Pattern=bij mij, Pattern=plaat, Pattern=zo'n, Pattern=twee, Pattern=van, Pattern=en
+	Constrained: Pattern=mij
+Turn ID=31| B | B : ja even zoeken
+	Free: Pattern=ja
+	Constrained: 

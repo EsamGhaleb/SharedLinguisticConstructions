@@ -1,0 +1,95 @@
+B|0| B: deze hebben het het _vierkant_ aan _de_ voorkant 
+B|1| B: en dan aan _de_ linkerkant van het van _die_ emmer zitten _twee_ van dezelfde ding naar _de_ buitenkant 
+A|2| A: _ja_ ik noemen 
+A|3| A: _ja_ ik noemen _dat_ [die] _robot_ 
+B|4| B: [ja] lijken een beetje op een [robot] ufoachtig Ruimteding 
+A|5| A: [ja] 
+A|6| A: [ja] precies 
+A|7| A: _dat_ _zijn_ [twee] 
+A|8| A: [ja] _dit zijn_ [die] [robot] 
+B|9| B: [ja] G 
+B|10| B: [dit zijn] _de robot_ _met_ [dat] _vierkant_ vlak voorop 
+A|11| A: [ja] even kijken _waar staan die_ 
+A|12| A: negen [zijn] [dat] [robot] 
+A|13| A: [ja] [dat] [zijn] [die] [robot] 
+A|14| A: [met] [de] [vierkant] plaat 
+B|15| B: yes 
+B|16| B: d 
+B|17| B: _de robot_ 
+A|18| A: [de robot] even kijken één [zijn] [dat] bij mij 
+A|19| A: [dit zijn] [die] [robot] 
+B|20| B: [ja] [waar staan die] 
+B|21| B: [ja] 
+B|22| B: B 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : deze hebben het het vierkant aan de voorkant
+	Free: Pattern=de, Pattern=vierkant
+	Constrained: 
+Turn ID=1| B | B : en dan aan de linkerkant van het van die emmer zitten twee van dezelfde ding naar de buitenkant
+	Free: Pattern=de, Pattern=twee, Pattern=die
+	Constrained: 
+Turn ID=2| A | A : ja ik noemen
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=3| A | A : ja ik noemen dat die robot
+	Free: Pattern=ja, Pattern=dat, Pattern=robot, Pattern=die
+	Constrained: 
+Turn ID=4| B | B : ja lijken een beetje op een robot ufoachtig Ruimteding
+	Free: Pattern=ja, Pattern=robot
+	Constrained: 
+Turn ID=5| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=6| A | A : ja precies
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=7| A | A : dat zijn twee
+	Free: Pattern=dat, Pattern=twee, Pattern=zijn
+	Constrained: 
+Turn ID=8| A | A : ja dit zijn die robot
+	Free: Pattern=dit zijn, Pattern=ja, Pattern=robot, Pattern=die
+	Constrained: Pattern=zijn
+Turn ID=9| B | B : ja G
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=10| B | B : dit zijn de robot met dat vierkant vlak voorop
+	Free: Pattern=dat, Pattern=met, Pattern=dit zijn, Pattern=de robot, Pattern=vierkant
+	Constrained: Pattern=de, Pattern=robot, Pattern=zijn
+Turn ID=11| A | A : ja even kijken waar staan die
+	Free: Pattern=waar staan die, Pattern=ja
+	Constrained: Pattern=die
+Turn ID=12| A | A : negen zijn dat robot
+	Free: Pattern=dat, Pattern=robot, Pattern=zijn
+	Constrained: 
+Turn ID=13| A | A : ja dat zijn die robot
+	Free: Pattern=dat, Pattern=ja, Pattern=die, Pattern=zijn, Pattern=robot
+	Constrained: 
+Turn ID=14| A | A : met de vierkant plaat
+	Free: Pattern=de, Pattern=vierkant, Pattern=met
+	Constrained: 
+Turn ID=15| B | B : yes
+	Free: 
+	Constrained: 
+Turn ID=16| B | B : d
+	Free: 
+	Constrained: 
+Turn ID=17| B | B : de robot
+	Free: Pattern=de robot
+	Constrained: Pattern=de, Pattern=robot
+Turn ID=18| A | A : de robot even kijken één zijn dat bij mij
+	Free: Pattern=de robot, Pattern=dat, Pattern=zijn
+	Constrained: Pattern=de, Pattern=robot
+Turn ID=19| A | A : dit zijn die robot
+	Free: Pattern=dit zijn, Pattern=robot, Pattern=die
+	Constrained: Pattern=zijn
+Turn ID=20| B | B : ja waar staan die
+	Free: Pattern=waar staan die, Pattern=ja
+	Constrained: Pattern=die
+Turn ID=21| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=22| B | B : B
+	Free: 
+	Constrained: 

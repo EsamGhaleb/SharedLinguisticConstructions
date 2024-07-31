@@ -1,0 +1,119 @@
+A|0| A: _dit zijn_ degeen _het_ kop _met_ _een_ _een bolle_ erboven 
+A|1| A: _twee dun dinge aan de_ zijde _en_ nog _een_ pilaar _ervoor_ 
+B|2| B: _ja_ 
+B|3| B: _dat zijn_ D 
+A|4| A: _die_ pilaar 
+A|5| A: [ja] 
+A|6| A: vijftien 
+B|7| B: deze hebben [een bolle] [aan de] bovenkant liggen 
+B|8| B: [en] dan zo'n vierkant staaf [aan de] voorkant 
+B|9| B: [en] dan [die] hebben we _al_ hebben trouwens [en] [aan de] linkerkant zo'n rond buis [aan de] rechterkant ook maar dan afgekapt 
+B|10| B: Buis 
+B|11| B: [ja] 
+B|12| B: staaf 
+B|13| B: [ja] 
+A|14| A: _dit zijn_ _met_ [een] balle boven _die twee dun_ sprie _aan de zijkant_ [en] [de] pilaar 
+A|15| A: [ja] [ja] 
+A|16| A: zes 
+A|17| A: _dit zijn_ _met het bollet_ hoog pilaar voor _en die twee dun_ armpjes _aan de zijkant_ 
+A|18| A: [aan] [al] _twee_ [al] [al] _twee_ [de] kant één 
+A|19| A: yes yes [dat zijn] drie 
+B|20| B: [ja] 
+B|21| B: [dat zijn] L 
+B|22| B: [dit zijn] [die] [met het bollet] bovenop 
+B|23| B: [en] dan vierkant staaf [ervoor] [en] dan [die] staaf links [en] rechts horizontaal 
+B|24| B: [ja] 
+B|25| B: [ja] 
+B|26| B: [dat zijn] J 
+B|27| B: [dit zijn] [die] [met] [bolle] [aan de] bovenkant [en] dan vierkant staaf [aan de] voorkant [en die [twee dun] dinge [aan de] zijkant] 
+B|28| B: [ja] 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : dit zijn degeen het kop met een een bolle erboven
+	Free: Pattern=een, Pattern=het, Pattern=een bolle, Pattern=met, Pattern=dit zijn
+	Constrained: Pattern=bolle, Pattern=een
+Turn ID=1| A | A : twee dun dinge aan de zijde en nog een pilaar ervoor
+	Free: Pattern=twee dun dinge aan de, Pattern=ervoor, Pattern=en, Pattern=een
+	Constrained: Pattern=twee, Pattern=aan, Pattern=aan de, Pattern=de
+Turn ID=2| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=3| B | B : dat zijn D
+	Free: Pattern=dat zijn
+	Constrained: 
+Turn ID=4| A | A : die pilaar
+	Free: Pattern=die
+	Constrained: 
+Turn ID=5| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=6| A | A : vijftien
+	Free: 
+	Constrained: 
+Turn ID=7| B | B : deze hebben een bolle aan de bovenkant liggen
+	Free: Pattern=aan de, Pattern=een bolle
+	Constrained: Pattern=de, Pattern=aan, Pattern=bolle, Pattern=een
+Turn ID=8| B | B : en dan zo'n vierkant staaf aan de voorkant
+	Free: Pattern=aan de, Pattern=en
+	Constrained: Pattern=de, Pattern=aan
+Turn ID=9| B | B : en dan die hebben we al hebben trouwens en aan de linkerkant zo'n rond buis aan de rechterkant ook maar dan afgekapt
+	Free: Pattern=aan de, Pattern=al, Pattern=die, Pattern=en
+	Constrained: Pattern=de, Pattern=aan
+Turn ID=10| B | B : Buis
+	Free: 
+	Constrained: 
+Turn ID=11| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=12| B | B : staaf
+	Free: 
+	Constrained: 
+Turn ID=13| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=14| A | A : dit zijn met een balle boven die twee dun sprie aan de zijkant en de pilaar
+	Free: Pattern=de, Pattern=die twee dun, Pattern=met, Pattern=en, Pattern=dit zijn, Pattern=een, Pattern=aan de zijkant
+	Constrained: Pattern=twee, Pattern=aan de, Pattern=die, Pattern=de, Pattern=aan
+Turn ID=15| A | A : ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=16| A | A : zes
+	Free: 
+	Constrained: 
+Turn ID=17| A | A : dit zijn met het bollet hoog pilaar voor en die twee dun armpjes aan de zijkant
+	Free: Pattern=en die twee dun, Pattern=aan de zijkant, Pattern=met het bollet, Pattern=dit zijn
+	Constrained: Pattern=twee, Pattern=aan de, Pattern=het, Pattern=die twee dun, Pattern=met, Pattern=die, Pattern=en, Pattern=de, Pattern=aan
+Turn ID=18| A | A : aan al twee al al twee de kant één
+	Free: Pattern=de, Pattern=al, Pattern=aan, Pattern=twee
+	Constrained: 
+Turn ID=19| A | A : yes yes dat zijn drie
+	Free: Pattern=dat zijn
+	Constrained: 
+Turn ID=20| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=21| B | B : dat zijn L
+	Free: Pattern=dat zijn
+	Constrained: 
+Turn ID=22| B | B : dit zijn die met het bollet bovenop
+	Free: Pattern=met het bollet, Pattern=dit zijn, Pattern=die
+	Constrained: Pattern=met, Pattern=het
+Turn ID=23| B | B : en dan vierkant staaf ervoor en dan die staaf links en rechts horizontaal
+	Free: Pattern=ervoor, Pattern=die, Pattern=en
+	Constrained: 
+Turn ID=24| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=25| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=26| B | B : dat zijn J
+	Free: Pattern=dat zijn
+	Constrained: 
+Turn ID=27| B | B : dit zijn die met bolle aan de bovenkant en dan vierkant staaf aan de voorkant en die twee dun dinge aan de zijkant
+	Free: Pattern=twee dun dinge aan de, Pattern=aan de, Pattern=aan de zijkant, Pattern=die, Pattern=dit zijn, Pattern=bolle, Pattern=met, Pattern=en, Pattern=en die twee dun
+	Constrained: Pattern=twee, Pattern=aan de, Pattern=die twee dun, Pattern=die, Pattern=en, Pattern=de, Pattern=aan
+Turn ID=28| B | B : ja
+	Free: Pattern=ja
+	Constrained: 

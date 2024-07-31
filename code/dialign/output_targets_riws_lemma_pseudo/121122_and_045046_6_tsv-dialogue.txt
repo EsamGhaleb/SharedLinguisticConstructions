@@ -1,0 +1,99 @@
+A|0| A: _oké_ 
+A|1| A: ik hebben _dat_ plaa _en_ het lijken _een_ beetje alsof _die_ aan _de_ rechterkant _een neus_ hebben _met_ daar _een_ _een_ paal doorheen 
+A|2| A: _dus_ zo'n rond _en_ daar 
+A|3| A: zitten nog _een_ klein tuu _zijn_ _een_ beetje zien _een_ beetje uit als _een_ inboorling zeggen maar _met_ _een_ neusring 
+A|4| A: _oké_ 
+B|5| B: [oké] 
+B|6| B: [dus] weer [met] [die] schijf erachter [en] [dat] ding erdoorheen 
+B|7| B: _ja_ 
+B|8| B: [oké] 
+B|9| B: G 
+B|10| B: dit [zijn] [de] [neus] _met de_ piercing 
+A|11| A: [de] inboorling 
+A|12| A: nummer vijf 
+A|13| A: [die] inboorling 
+B|14| B: [oké] 
+B|15| B: A 
+A|16| A: [dat] [zijn] nummer vijf 
+B|17| B: [de] piercing 
+B|18| B: [neus] _met de_ piercing 
+A|19| A: [met de] neusring 
+A|20| A: inboorling [die] [ja] 
+B|21| B: H 
+A|22| A: [ja] nummer vijftien 
+B|23| B: [een neus] [met de] piercing 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=1| A | A : ik hebben dat plaa en het lijken een beetje alsof die aan de rechterkant een neus hebben met daar een een paal doorheen
+	Free: Pattern=de, Pattern=een, Pattern=met, Pattern=die, Pattern=en, Pattern=dat, Pattern=een neus
+	Constrained: Pattern=een, Pattern=neus
+Turn ID=2| A | A : dus zo'n rond en daar
+	Free: Pattern=en, Pattern=dus
+	Constrained: 
+Turn ID=3| A | A : zitten nog een klein tuu zijn een beetje zien een beetje uit als een inboorling zeggen maar met een neusring
+	Free: Pattern=met, Pattern=een, Pattern=zijn
+	Constrained: 
+Turn ID=4| A | A : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=5| B | B : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=6| B | B : dus weer met die schijf erachter en dat ding erdoorheen
+	Free: Pattern=dat, Pattern=dus, Pattern=met, Pattern=die, Pattern=en
+	Constrained: 
+Turn ID=7| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=8| B | B : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=9| B | B : G
+	Free: 
+	Constrained: 
+Turn ID=10| B | B : dit zijn de neus met de piercing
+	Free: Pattern=met de, Pattern=neus, Pattern=zijn, Pattern=de
+	Constrained: Pattern=met, Pattern=de
+Turn ID=11| A | A : de inboorling
+	Free: Pattern=de
+	Constrained: 
+Turn ID=12| A | A : nummer vijf
+	Free: 
+	Constrained: 
+Turn ID=13| A | A : die inboorling
+	Free: Pattern=die
+	Constrained: 
+Turn ID=14| B | B : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=15| B | B : A
+	Free: 
+	Constrained: 
+Turn ID=16| A | A : dat zijn nummer vijf
+	Free: Pattern=zijn, Pattern=dat
+	Constrained: 
+Turn ID=17| B | B : de piercing
+	Free: Pattern=de
+	Constrained: 
+Turn ID=18| B | B : neus met de piercing
+	Free: Pattern=met de, Pattern=neus
+	Constrained: Pattern=met, Pattern=de
+Turn ID=19| A | A : met de neusring
+	Free: Pattern=met de
+	Constrained: Pattern=met, Pattern=de
+Turn ID=20| A | A : inboorling die ja
+	Free: Pattern=ja, Pattern=die
+	Constrained: 
+Turn ID=21| B | B : H
+	Free: 
+	Constrained: 
+Turn ID=22| A | A : ja nummer vijftien
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=23| B | B : een neus met de piercing
+	Free: Pattern=een neus, Pattern=met de
+	Constrained: Pattern=met, Pattern=een, Pattern=neus, Pattern=de

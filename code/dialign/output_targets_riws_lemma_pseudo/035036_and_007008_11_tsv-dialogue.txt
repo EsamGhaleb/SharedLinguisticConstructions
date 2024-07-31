@@ -1,0 +1,151 @@
+A|0| A: _met die_ dansen been 
+A|1| A: _oké_ 
+A|2| A: _een_ dartpijl 
+A|3| A: _ja_ 
+A|4| A: groot _rond neus_ 
+A|5| A: _en dan_ achterin _een_ _zo'n_ _beetje_ _zo'n_ _ja_ _zo'n_ _met zo_ van _een_ ruitvorm _zeggen maar_ 
+A|6| A: _en dan_ nog _een_ klein stuk eronder _en dan_ _hebben_ _hij_ ook nog _een_ soort van rechthoekig ding ernaast 
+A|7| A: _oké_ 
+A|8| A: _ja_ _dat_ _zijn_ veertien 
+B|9| B: [oké] 
+B|10| B: [hij] [hebben] weer [hij] [hebben] [een] echt [zeggen maar] echt [zo'n] bol [neus] 
+B|11| B: of [ja] het zitten veel aan _de_ zijkant 
+B|12| B: [en] bovenop [zijn] [een] [een] [een] rechthoek 
+B|13| B: [en] één iets ander [dat] lijken [een] [beetje] _op_ [zo'n] bowling kegel 
+B|14| B: [ja] 
+B|15| B: [ja] 
+A|16| A: dit [zijn] _die met_ [de] _rond neus en_ [de] dartpijl achter [op] [zijn] hoofd 
+B|17| B: Hoezo 
+B|18| B: [ja] 
+B|19| B: kegel 
+B|20| B: [ja] [en dan] [en dan] [zo'n] bol weer 
+B|21| B: [ja] 
+B|22| B: N 
+A|23| A: [dat] [zijn] negen 
+A|24| A: dit [zijn] [de] _rond neus en_ dartpijl in [zijn] achterhoofd 
+B|25| B: weer [die] bol [zeggen maar] 
+B|26| B: [en dan] bovenop [een] blok [en] [een] kegel 
+B|27| B: [ja] 
+A|28| A: vijf 
+A|29| A: [dat] [zijn] _die met_ [de] dartpijl 
+B|30| B: [ja] 
+B|31| B: G 
+B|32| B: weer [die] [rond neus [en] dan] [met [die] [met] zo] [een] waterdruppel [en] [die] balk 
+B|33| B: bovenop 
+B|34| B: [ja] even zoeken 
+B|35| B: ik weten precies hoe [die] eruitzieten [maar] ik kunnen hem hier staan [die] 
+B|36| B: J 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : met die dansen been
+	Free: Pattern=met die
+	Constrained: Pattern=die
+Turn ID=1| A | A : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=2| A | A : een dartpijl
+	Free: Pattern=een
+	Constrained: 
+Turn ID=3| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=4| A | A : groot rond neus
+	Free: Pattern=rond neus
+	Constrained: Pattern=neus
+Turn ID=5| A | A : en dan achterin een zo'n beetje zo'n ja zo'n met zo van een ruitvorm zeggen maar
+	Free: Pattern=zo'n, Pattern=ja, Pattern=en dan, Pattern=beetje, Pattern=een, Pattern=zeggen maar, Pattern=met zo
+	Constrained: Pattern=en, Pattern=maar
+Turn ID=6| A | A : en dan nog een klein stuk eronder en dan hebben hij ook nog een soort van rechthoekig ding ernaast
+	Free: Pattern=en dan, Pattern=hij, Pattern=een, Pattern=hebben
+	Constrained: Pattern=en
+Turn ID=7| A | A : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=8| A | A : ja dat zijn veertien
+	Free: Pattern=ja, Pattern=dat, Pattern=zijn
+	Constrained: 
+Turn ID=9| B | B : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=10| B | B : hij hebben weer hij hebben een echt zeggen maar echt zo'n bol neus
+	Free: Pattern=zo'n, Pattern=een, Pattern=zeggen maar, Pattern=hebben, Pattern=hij, Pattern=neus
+	Constrained: Pattern=maar
+Turn ID=11| B | B : of ja het zitten veel aan de zijkant
+	Free: Pattern=ja, Pattern=de
+	Constrained: 
+Turn ID=12| B | B : en bovenop zijn een een een rechthoek
+	Free: Pattern=en, Pattern=zijn, Pattern=een
+	Constrained: 
+Turn ID=13| B | B : en één iets ander dat lijken een beetje op zo'n bowling kegel
+	Free: Pattern=dat, Pattern=zo'n, Pattern=op, Pattern=beetje, Pattern=een, Pattern=en
+	Constrained: 
+Turn ID=14| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=15| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=16| A | A : dit zijn die met de rond neus en de dartpijl achter op zijn hoofd
+	Free: Pattern=de, Pattern=op, Pattern=die met, Pattern=rond neus en, Pattern=zijn
+	Constrained: Pattern=rond neus, Pattern=neus, Pattern=die, Pattern=en
+Turn ID=17| B | B : Hoezo
+	Free: 
+	Constrained: 
+Turn ID=18| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=19| B | B : kegel
+	Free: 
+	Constrained: 
+Turn ID=20| B | B : ja en dan en dan zo'n bol weer
+	Free: Pattern=en dan, Pattern=zo'n, Pattern=ja
+	Constrained: Pattern=en
+Turn ID=21| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=22| B | B : N
+	Free: 
+	Constrained: 
+Turn ID=23| A | A : dat zijn negen
+	Free: Pattern=dat, Pattern=zijn
+	Constrained: 
+Turn ID=24| A | A : dit zijn de rond neus en dartpijl in zijn achterhoofd
+	Free: Pattern=rond neus en, Pattern=de, Pattern=zijn
+	Constrained: Pattern=rond neus, Pattern=en, Pattern=neus
+Turn ID=25| B | B : weer die bol zeggen maar
+	Free: Pattern=zeggen maar, Pattern=die
+	Constrained: Pattern=maar
+Turn ID=26| B | B : en dan bovenop een blok en een kegel
+	Free: Pattern=en dan, Pattern=en, Pattern=een
+	Constrained: Pattern=en
+Turn ID=27| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=28| A | A : vijf
+	Free: 
+	Constrained: 
+Turn ID=29| A | A : dat zijn die met de dartpijl
+	Free: Pattern=die met, Pattern=dat, Pattern=de, Pattern=zijn
+	Constrained: Pattern=die
+Turn ID=30| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=31| B | B : G
+	Free: 
+	Constrained: 
+Turn ID=32| B | B : weer die rond neus en dan met die met zo een waterdruppel en die balk
+	Free: Pattern=met die, Pattern=en dan, Pattern=een, Pattern=die met, Pattern=rond neus en, Pattern=die, Pattern=met zo, Pattern=en
+	Constrained: Pattern=rond neus, Pattern=neus, Pattern=die, Pattern=en
+Turn ID=33| B | B : bovenop
+	Free: 
+	Constrained: 
+Turn ID=34| B | B : ja even zoeken
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=35| B | B : ik weten precies hoe die eruitzieten maar ik kunnen hem hier staan die
+	Free: Pattern=maar, Pattern=die
+	Constrained: 
+Turn ID=36| B | B : J
+	Free: 
+	Constrained: 

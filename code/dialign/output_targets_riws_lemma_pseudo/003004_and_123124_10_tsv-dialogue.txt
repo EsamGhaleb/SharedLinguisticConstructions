@@ -1,0 +1,167 @@
+A|0| A: _oké_ _ja_ hoe hebben _ik_ hem beschrijven ? nou _het_ _zijn_ gewoon _die_ rond kop weer _en aan de_ zowel _aan de_ linker _als_ rechterkant hebben je _een_ rond ovaal staaf wat _er_ eigenlijk doorheen gaan 
+A|1| A: je uitzien _aan de linkerkant_ zien je _een_ klein _stuk_ ervan _aan de_ rechterkant _steken_ _die_ lang _uit_ 
+A|2| A: _en aan de achterkant_ hebben je _zo'n_ _soort_ _schuin_ plank _zeggen maar_ 
+A|3| A: _ja_ 
+B|4| B: dus [als] [een] [soort] scha 
+B|5| B: zo _met_ twee van [die] poot zitten [er] ook onder 
+B|6| B: of [zijn] [het] _dat_ [het] ook wel lijken [aan de linkerkant] [steken] _iets_ [uit] 
+B|7| B: lijken [een] beetje alsof [het] zo [zijn] dichtgevouwen 
+B|8| B: [ja] alsof [zo'n] [een] vlak alsof [het] op [een] standaard _staan_ 
+B|9| B: [oké] 
+B|10| B: dan [zijn] [het] K 
+A|11| A: ah [ja] [ja] [ja] even kijken waar _staan die_ _bij mij_ 
+A|12| A: _daar_ 
+A|13| A: negen 
+B|14| B: [ja] dit [zijn] _dat_ figuur _met_ daarachter [een] vlak op [een] standaard [en] twee 
+B|15| B: paal [aan de] zijkant [die] [daar] zo in ge duwd [zijn] 
+B|16| B: _dat_ vlak _dat_ [staan] [er] [zeggen maar] [schuin] achter 
+B|17| B: op [een] standaard 
+B|18| B: lijken [het] 
+B|19| B: zo [staan die] zo tegen _dat_ figuur [aan] 
+B|20| B: [en] dan twee [een] [soort] van paal 
+B|21| B: één heel _kort_ [aan de] 
+B|22| B: [ja] 
+A|23| A: [met] [die] even kijken [dat] plaat [met] [die] rol door _het midden_ [zeggen maar] [met] link [iets] [kort] rechts [iets] lang 
+B|24| B: [met] [het] plateaut [aan de achterkant] [met] standaard 
+B|25| B: [dat] [zijn] F 
+A|26| A: [oké] [ja] 
+A|27| A: drie 
+B|28| B: dit [zijn] [met] [de] twee paal [die] [een] beetje [aan de] onderkant [er] zo in duwen [zijn] [en aan de achterkant] [een] vierkant vlak [met] [een] standaard 
+B|29| B: [ja] [ik] zitten te twijfelen [ik] weten niet of jij deze [de] Hamer noemen 
+B|30| B: [oké] dan [de] hamer 
+A|31| A: [dat] kop [met] [die] staaf erdoorheen [met] [linkerkant] 
+A|32| A: [ja] precies 
+B|33| B: [het] ding [aan de achterkant] 
+B|34| B: [dat] [zijn] L 
+A|35| A: [ja] 
+A|36| A: even kijken 
+A|37| A: waar [zijn] [die] verstoppen ? ah vijf 
+B|38| B: dit [zijn] [de] hamer [met] [het] plateau boek erachter 
+B|39| B: [bij mij] [staan die] in [het midden] 
+B|40| B: [en] dan [een] [stuk] naar onder 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : oké ja hoe hebben ik hem beschrijven ? nou het zijn gewoon die rond kop weer en aan de zowel aan de linker als rechterkant hebben je een rond ovaal staaf wat er eigenlijk doorheen gaan
+	Free: Pattern=ja, Pattern=aan de, Pattern=een, Pattern=het, Pattern=als, Pattern=die, Pattern=oké, Pattern=er, Pattern=ik, Pattern=zijn, Pattern=en aan de
+	Constrained: Pattern=aan de, Pattern=en, Pattern=de, Pattern=aan
+Turn ID=1| A | A : je uitzien aan de linkerkant zien je een klein stuk ervan aan de rechterkant steken die lang uit
+	Free: Pattern=een, Pattern=stuk, Pattern=die, Pattern=uit, Pattern=aan de, Pattern=steken, Pattern=aan de linkerkant
+	Constrained: Pattern=linkerkant, Pattern=aan, Pattern=de, Pattern=aan de
+Turn ID=2| A | A : en aan de achterkant hebben je zo'n soort schuin plank zeggen maar
+	Free: Pattern=soort, Pattern=zeggen maar, Pattern=schuin, Pattern=zo'n, Pattern=en aan de achterkant
+	Constrained: Pattern=aan de achterkant, Pattern=aan de, Pattern=en, Pattern=en aan de, Pattern=de, Pattern=aan
+Turn ID=3| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=4| B | B : dus als een soort scha
+	Free: Pattern=soort, Pattern=een, Pattern=als
+	Constrained: 
+Turn ID=5| B | B : zo met twee van die poot zitten er ook onder
+	Free: Pattern=die, Pattern=met, Pattern=er
+	Constrained: 
+Turn ID=6| B | B : of zijn het dat het ook wel lijken aan de linkerkant steken iets uit
+	Free: Pattern=dat, Pattern=iets, Pattern=uit, Pattern=het, Pattern=zijn, Pattern=steken, Pattern=aan de linkerkant
+	Constrained: Pattern=linkerkant, Pattern=aan, Pattern=de, Pattern=aan de
+Turn ID=7| B | B : lijken een beetje alsof het zo zijn dichtgevouwen
+	Free: Pattern=zijn, Pattern=een, Pattern=het
+	Constrained: 
+Turn ID=8| B | B : ja alsof zo'n een vlak alsof het op een standaard staan
+	Free: Pattern=zo'n, Pattern=ja, Pattern=het, Pattern=een, Pattern=staan
+	Constrained: 
+Turn ID=9| B | B : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=10| B | B : dan zijn het K
+	Free: Pattern=zijn, Pattern=het
+	Constrained: 
+Turn ID=11| A | A : ah ja ja ja even kijken waar staan die bij mij
+	Free: Pattern=staan die, Pattern=bij mij, Pattern=ja
+	Constrained: Pattern=die, Pattern=staan
+Turn ID=12| A | A : daar
+	Free: Pattern=daar
+	Constrained: 
+Turn ID=13| A | A : negen
+	Free: 
+	Constrained: 
+Turn ID=14| B | B : ja dit zijn dat figuur met daarachter een vlak op een standaard en twee
+	Free: Pattern=dat, Pattern=ja, Pattern=een, Pattern=met, Pattern=en, Pattern=zijn
+	Constrained: 
+Turn ID=15| B | B : paal aan de zijkant die daar zo in ge duwd zijn
+	Free: Pattern=aan de, Pattern=zijn, Pattern=die, Pattern=daar
+	Constrained: Pattern=de, Pattern=aan
+Turn ID=16| B | B : dat vlak dat staan er zeggen maar schuin achter
+	Free: Pattern=dat, Pattern=staan, Pattern=zeggen maar, Pattern=er, Pattern=schuin
+	Constrained: 
+Turn ID=17| B | B : op een standaard
+	Free: Pattern=een
+	Constrained: 
+Turn ID=18| B | B : lijken het
+	Free: Pattern=het
+	Constrained: 
+Turn ID=19| B | B : zo staan die zo tegen dat figuur aan
+	Free: Pattern=staan die, Pattern=dat, Pattern=aan
+	Constrained: Pattern=die, Pattern=staan
+Turn ID=20| B | B : en dan twee een soort van paal
+	Free: Pattern=en, Pattern=soort, Pattern=een
+	Constrained: 
+Turn ID=21| B | B : één heel kort aan de
+	Free: Pattern=aan de, Pattern=kort
+	Constrained: Pattern=de, Pattern=aan
+Turn ID=22| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=23| A | A : met die even kijken dat plaat met die rol door het midden zeggen maar met link iets kort rechts iets lang
+	Free: Pattern=dat, Pattern=het midden, Pattern=iets, Pattern=zeggen maar, Pattern=met, Pattern=die, Pattern=kort
+	Constrained: Pattern=het
+Turn ID=24| B | B : met het plateaut aan de achterkant met standaard
+	Free: Pattern=aan de achterkant, Pattern=met, Pattern=het
+	Constrained: Pattern=aan, Pattern=de, Pattern=aan de
+Turn ID=25| B | B : dat zijn F
+	Free: Pattern=dat, Pattern=zijn
+	Constrained: 
+Turn ID=26| A | A : oké ja
+	Free: Pattern=oké, Pattern=ja
+	Constrained: 
+Turn ID=27| A | A : drie
+	Free: 
+	Constrained: 
+Turn ID=28| B | B : dit zijn met de twee paal die een beetje aan de onderkant er zo in duwen zijn en aan de achterkant een vierkant vlak met een standaard
+	Free: Pattern=en aan de achterkant, Pattern=de, Pattern=aan de, Pattern=een, Pattern=met, Pattern=die, Pattern=er, Pattern=zijn
+	Constrained: Pattern=aan de achterkant, Pattern=aan de, Pattern=en, Pattern=en aan de, Pattern=de, Pattern=aan
+Turn ID=29| B | B : ja ik zitten te twijfelen ik weten niet of jij deze de Hamer noemen
+	Free: Pattern=de, Pattern=ik, Pattern=ja
+	Constrained: 
+Turn ID=30| B | B : oké dan de hamer
+	Free: Pattern=oké, Pattern=de
+	Constrained: 
+Turn ID=31| A | A : dat kop met die staaf erdoorheen met linkerkant
+	Free: Pattern=linkerkant, Pattern=dat, Pattern=die, Pattern=met
+	Constrained: 
+Turn ID=32| A | A : ja precies
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=33| B | B : het ding aan de achterkant
+	Free: Pattern=aan de achterkant, Pattern=het
+	Constrained: Pattern=aan, Pattern=de, Pattern=aan de
+Turn ID=34| B | B : dat zijn L
+	Free: Pattern=dat, Pattern=zijn
+	Constrained: 
+Turn ID=35| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=36| A | A : even kijken
+	Free: 
+	Constrained: 
+Turn ID=37| A | A : waar zijn die verstoppen ? ah vijf
+	Free: Pattern=zijn, Pattern=die
+	Constrained: 
+Turn ID=38| B | B : dit zijn de hamer met het plateau boek erachter
+	Free: Pattern=zijn, Pattern=de, Pattern=met, Pattern=het
+	Constrained: 
+Turn ID=39| B | B : bij mij staan die in het midden
+	Free: Pattern=staan die, Pattern=bij mij, Pattern=het midden
+	Constrained: Pattern=die, Pattern=het, Pattern=staan
+Turn ID=40| B | B : en dan een stuk naar onder
+	Free: Pattern=en, Pattern=stuk, Pattern=een
+	Constrained: 

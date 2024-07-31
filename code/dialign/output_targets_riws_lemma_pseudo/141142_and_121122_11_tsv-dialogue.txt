@@ -1,0 +1,147 @@
+B|0| B: _oké_ _dit zijn_ _een_ kop _met_ lijken zo'n dik neus te _hebben_ _aan de_ voorkant 
+B|1| B: _en_ _hebben_ _die_ één soort van kwast _nog_ eruit 
+B|2| B: _en_ _nog_ _twee_ uitstulpsel 
+B|3| B: _ja_ zo'n dik rond _hebben_ _die_ _aan de_ voorkant 
+B|4| B: _ja_ je _hebben_ _net_ zoals _die_ inboorling 
+B|5| B: maar _dan_ zonder _die_ neuspiercing 
+B|6| B: _ja_ _en aan de_ zijkant _ook nog_ één 
+B|7| B: _ja_ 
+A|8| A: [oké] 
+A|9| A: [ja] [oké] 
+A|10| A: [ja] [dan] [dan] [hebben] _ik_ hem _dat zijn_ veertien voor _mij_ [dan] 
+B|11| B: [ja] 
+B|12| B: [dat zijn] bij [mij] nummer N 
+B|13| B: niet 
+B|14| B: letter N _weer_ 
+B|15| B: [ik] [hebben] _met_ _die_ gewoon neus 
+B|16| B: niet _de_ inboorlingneus 
+A|17| A: yes 
+A|18| A: [oké] deze [hebben] [twee] kegelt [aan de] bovenkant [die] er [net] wat ander uitzien 
+A|19| A: [aan de] rechterkant [een] bol 
+A|20| A: [en aan de] linkerkant [een] [ook nog] [een] uitsteeksel 
+A|21| A: [oké] 
+B|22| B: [ja] [dat zijn] G 
+B|23| B: [ik] [hebben] [de] nietinboorling 
+B|24| B: [de] gewoon neus 
+B|25| B: [ja] [zijn] J 
+A|26| A: [ja] dus inderdaad [die] [die] [die] [twee] kegel boven 
+A|27| A: [ja] [oké] [dat zijn] negen [weer] 
+A|28| A: yes 
+A|29| A: [dit zijn] [die] [met] [de] bol rechts [en] [de] [twee] [twee] kegel [aan de] bovenkant [die] er ander uitzien 
+A|30| A: yes [oké] [dat zijn] vijf 
+A|31| A: [ja] [oké] 
+A|32| A: [de] bol [aan de] rechterkant 
+A|33| A: [en] [dan] [die] [twee] kegel er erbovenop 
+A|34| A: [die] er ander uitzien 
+A|35| A: yes 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : oké dit zijn een kop met lijken zo'n dik neus te hebben aan de voorkant
+	Free: Pattern=aan de, Pattern=een, Pattern=hebben, Pattern=met, Pattern=oké, Pattern=dit zijn
+	Constrained: Pattern=de, Pattern=zijn
+Turn ID=1| B | B : en hebben die één soort van kwast nog eruit
+	Free: Pattern=die, Pattern=en, Pattern=hebben, Pattern=nog
+	Constrained: 
+Turn ID=2| B | B : en nog twee uitstulpsel
+	Free: Pattern=en, Pattern=twee, Pattern=nog
+	Constrained: 
+Turn ID=3| B | B : ja zo'n dik rond hebben die aan de voorkant
+	Free: Pattern=aan de, Pattern=die, Pattern=ja, Pattern=hebben
+	Constrained: Pattern=de
+Turn ID=4| B | B : ja je hebben net zoals die inboorling
+	Free: Pattern=die, Pattern=net, Pattern=ja, Pattern=hebben
+	Constrained: 
+Turn ID=5| B | B : maar dan zonder die neuspiercing
+	Free: Pattern=die, Pattern=dan
+	Constrained: 
+Turn ID=6| B | B : ja en aan de zijkant ook nog één
+	Free: Pattern=en aan de, Pattern=ook nog, Pattern=ja
+	Constrained: Pattern=aan de, Pattern=en, Pattern=de, Pattern=nog
+Turn ID=7| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=8| A | A : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=9| A | A : ja oké
+	Free: Pattern=oké, Pattern=ja
+	Constrained: 
+Turn ID=10| A | A : ja dan dan hebben ik hem dat zijn veertien voor mij dan
+	Free: Pattern=dat zijn, Pattern=ja, Pattern=dan, Pattern=hebben, Pattern=mij, Pattern=ik
+	Constrained: Pattern=zijn
+Turn ID=11| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=12| B | B : dat zijn bij mij nummer N
+	Free: Pattern=dat zijn, Pattern=mij
+	Constrained: Pattern=zijn
+Turn ID=13| B | B : niet
+	Free: 
+	Constrained: 
+Turn ID=14| B | B : letter N weer
+	Free: Pattern=weer
+	Constrained: 
+Turn ID=15| B | B : ik hebben met die gewoon neus
+	Free: Pattern=die, Pattern=ik, Pattern=hebben, Pattern=met
+	Constrained: 
+Turn ID=16| B | B : niet de inboorlingneus
+	Free: Pattern=de
+	Constrained: 
+Turn ID=17| A | A : yes
+	Free: 
+	Constrained: 
+Turn ID=18| A | A : oké deze hebben twee kegelt aan de bovenkant die er net wat ander uitzien
+	Free: Pattern=aan de, Pattern=hebben, Pattern=die, Pattern=oké, Pattern=net, Pattern=twee
+	Constrained: Pattern=de
+Turn ID=19| A | A : aan de rechterkant een bol
+	Free: Pattern=aan de, Pattern=een
+	Constrained: Pattern=de
+Turn ID=20| A | A : en aan de linkerkant een ook nog een uitsteeksel
+	Free: Pattern=en aan de, Pattern=ook nog, Pattern=een
+	Constrained: Pattern=aan de, Pattern=en, Pattern=de, Pattern=nog
+Turn ID=21| A | A : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=22| B | B : ja dat zijn G
+	Free: Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=zijn
+Turn ID=23| B | B : ik hebben de nietinboorling
+	Free: Pattern=de, Pattern=ik, Pattern=hebben
+	Constrained: 
+Turn ID=24| B | B : de gewoon neus
+	Free: Pattern=de
+	Constrained: 
+Turn ID=25| B | B : ja zijn J
+	Free: Pattern=zijn, Pattern=ja
+	Constrained: 
+Turn ID=26| A | A : ja dus inderdaad die die die twee kegel boven
+	Free: Pattern=die, Pattern=twee, Pattern=ja
+	Constrained: 
+Turn ID=27| A | A : ja oké dat zijn negen weer
+	Free: Pattern=dat zijn, Pattern=oké, Pattern=ja, Pattern=weer
+	Constrained: Pattern=zijn
+Turn ID=28| A | A : yes
+	Free: 
+	Constrained: 
+Turn ID=29| A | A : dit zijn die met de bol rechts en de twee twee kegel aan de bovenkant die er ander uitzien
+	Free: Pattern=twee, Pattern=de, Pattern=aan de, Pattern=met, Pattern=die, Pattern=en, Pattern=dit zijn
+	Constrained: Pattern=de, Pattern=zijn
+Turn ID=30| A | A : yes oké dat zijn vijf
+	Free: Pattern=dat zijn, Pattern=oké
+	Constrained: Pattern=zijn
+Turn ID=31| A | A : ja oké
+	Free: Pattern=oké, Pattern=ja
+	Constrained: 
+Turn ID=32| A | A : de bol aan de rechterkant
+	Free: Pattern=aan de, Pattern=de
+	Constrained: Pattern=de
+Turn ID=33| A | A : en dan die twee kegel er erbovenop
+	Free: Pattern=die, Pattern=en, Pattern=dan, Pattern=twee
+	Constrained: 
+Turn ID=34| A | A : die er ander uitzien
+	Free: Pattern=die
+	Constrained: 
+Turn ID=35| A | A : yes
+	Free: 
+	Constrained: 

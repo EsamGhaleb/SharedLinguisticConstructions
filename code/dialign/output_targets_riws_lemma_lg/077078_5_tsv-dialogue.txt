@@ -1,0 +1,231 @@
+B|0| B: deze _vinden_ _ik_ heel erg vaag 
+B|1| B: _je hebben_ _dat_ bak _en dan_ _aan_ al _twee_ _de zijkant _hebben_ _die_ _een_ soort_ _van_ uitlaat 
+B|2| B: _en_ _er_ _komen_ _aan de_ voorkant _een soort_ _van_ driehoek _uit_ _wat_ kunnen _lijken_ _op een_ boek 
+B|3| B: _en_ _uit_ _dat_ boek _komen_ weer _een staaf_ _naar_ boven 
+B|4| B: _op het_ beker _zelf_ _liggen_ _een_ _balk_ 
+B|5| B: _een_ klein _een_ klein _balk_ 
+A|6| A: _ja_ 
+B|7| B: _oké_ zullen _ik_ _het_ nog _een_ keert doen _en_ _kijken_ of _je_ ? _oké_ 
+B|8| B: _er_ _komen_ _aan_ al _twee_ _de zijkant_ _maar_ _de_ _een_ kunnen _je_ heel slecht zien _komen_ _een soort_ _van_ _twee_ uitlat _uit_ 
+A|9| A: beetje beetje driehoekig cilindervormp 
+B|10| B: [ja] 
+A|11| A: [ja] 
+B|12| B: _en_ _er_ zitten _een_ boek _aan de_ voorkant of _een_ driehoek _aan de_ voorkant 
+B|13| B: _en_ _uit_ _dat_ driehoek _komen_ _een_ heel klein _staaf_ _naar_ boven 
+B|14| B: _en_ _op_ _de_ bovenkant _liggen_ _een_ klein _balk_ _en _die_ liggen_ voor jou zo denken _ik_ 
+A|15| A: _yes_ 
+A|16| A: [ja] [die liggen] gelijk in [de] richting [van] [het] [staaf] [van] [de] neus _zeggen_ [maar] 
+B|17| B: [ja] 
+A|18| A: [ja] 
+A|19| A: nummer acht 
+A|20| A: _even_ [kijken] dit _zijn die een_ _ik vinden_ _hem_ [zelf] [een] beetje [op [een] soort] gezicht _met een_ hanenkamme [lijken] 
+A|21| A: [je hebben] _zeggen_ [maar] [aan de] [twee] [aan [de] zijkant hebben] [je] dus [wat] _jij_ _zeggen dat er [een_ soort] [twee] uitlaten _zijn_ 
+B|22| B: [ja] 
+A|23| A: [en dan] zo'n driehoekig neusje ervoor waar [een staaf] [uit] [komen] [en dan] _dat balk_ recht [op het] hoofd 
+B|24| B: moeten [hem] [even] zoeken 
+B|25| B: [jij] [vinden] [dat] [een] _hanenkam_ 
+B|26| B: [ja] [ja] 
+B|27| B: letter E 
+B|28| B: deze [vinden] [ik] raar hij [hebben] [twee] [van] [die] _uitlaatjes_ 
+B|29| B: hij [hebben] [dat balk] _op zijn_ [op] [de] bovenkant 
+B|30| B: [en] [ik] [zeggen dat er een] boek [op] zat [met [een] staaf] [dat] eruit [komen] 
+B|31| B: [jij] [vinden] [het] [op] iets ander [lijken] [maar] [dat] kunnen [ik] me [even] niet 
+A|32| A: [ja] 
+A|33| A: [ja] [een soort] hoofd [met een] hanenkamme 
+B|34| B: [ja] _hanenkam_ 
+A|35| A: [ik] [hebben] [hem] [vinden] nummer één 
+A|36| A: dit [zijn] _wat ik_ dus [op] [dat] hoofd [met] hanenkamme [vinden] [lijken] [je [hebben] die] [twee] [uitlaatjes] [aan [de] zijkant] [en dan] [dat balk] recht [op zijn] hoofd 
+B|37| B: [ja] 
+B|38| B: letter E 
+B|39| B: [dat] [zijn die een] [die] [jij] [op een] _hanenkam_ _plaatsvinden lijken_ 
+A|40| A: [oké] [met] [het] neus [met] [het] [staaf] erop 
+B|41| B: [ja] 
+A|42| A: [ja] 
+A|43| A: nummer zestien 
+A|44| A: _wat ik_ dus [op het] hoofd [plaatsvinden lijken] _met de hanenkam_ 
+B|45| B: [ja] 
+A|46| A: armp [naar] voren waar [het] stok [uit] opsteken [en die] dinge [aan [de] zijkant] 
+B|47| B: [yes] 
+B|48| B: letter O wacht [met de hanenkam] 
+B|49| B: [een] boek [wat ik] [wat ik] [wat [ik] vinden] [dat] [het] [een] boek [zijn] als [een] 
+A|50| A: [ja] 
+A|51| A: [dat balk] 
+A|52| A: nee nee [dat balk] [wat] [op zijn] hoofd [liggen] 
+B|53| B: [ja] [ja] [ja] [en] hij [hebben] [twee] [van] [die] uitlat 
+A|54| A: [ja] [die] 
+B|55| B: [oké] 
+B|56| B: letter O 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : deze vinden ik heel erg vaag
+	Free: Pattern=ik, Pattern=vinden
+	Constrained: 
+Turn ID=1| B | B : je hebben dat bak en dan aan al twee de zijkant hebben die een soort van uitlaat
+	Free: Pattern=dat, Pattern=twee, Pattern=aan, Pattern=je hebben, Pattern=die een, Pattern=een soort, Pattern=van, Pattern=hebben die, Pattern=en dan, Pattern=de zijkant hebben
+	Constrained: Pattern=de, Pattern=een, Pattern=hebben, Pattern=die, Pattern=de zijkant, Pattern=en, Pattern=je
+Turn ID=2| B | B : en er komen aan de voorkant een soort van driehoek uit wat kunnen lijken op een boek
+	Free: Pattern=lijken, Pattern=komen, Pattern=een soort, Pattern=op een, Pattern=uit, Pattern=aan de, Pattern=wat, Pattern=er, Pattern=van, Pattern=en
+	Constrained: Pattern=aan, Pattern=een, Pattern=de, Pattern=op
+Turn ID=3| B | B : en uit dat boek komen weer een staaf naar boven
+	Free: Pattern=dat, Pattern=uit, Pattern=komen, Pattern=naar, Pattern=en, Pattern=een staaf
+	Constrained: Pattern=een, Pattern=staaf
+Turn ID=4| B | B : op het beker zelf liggen een balk
+	Free: Pattern=een, Pattern=zelf, Pattern=balk, Pattern=liggen, Pattern=op het
+	Constrained: Pattern=het, Pattern=op
+Turn ID=5| B | B : een klein een klein balk
+	Free: Pattern=een, Pattern=balk
+	Constrained: 
+Turn ID=6| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=7| B | B : oké zullen ik het nog een keert doen en kijken of je ? oké
+	Free: Pattern=kijken, Pattern=een, Pattern=het, Pattern=oké, Pattern=ik, Pattern=en, Pattern=je
+	Constrained: 
+Turn ID=8| B | B : er komen aan al twee de zijkant maar de een kunnen je heel slecht zien komen een soort van twee uitlat uit
+	Free: Pattern=twee, Pattern=uit, Pattern=komen, Pattern=een, Pattern=de zijkant, Pattern=er, Pattern=een soort, Pattern=van, Pattern=maar, Pattern=je, Pattern=de, Pattern=aan
+	Constrained: Pattern=een, Pattern=de
+Turn ID=9| A | A : beetje beetje driehoekig cilindervormp
+	Free: 
+	Constrained: 
+Turn ID=10| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=11| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=12| B | B : en er zitten een boek aan de voorkant of een driehoek aan de voorkant
+	Free: Pattern=aan de, Pattern=er, Pattern=en, Pattern=een
+	Constrained: Pattern=aan, Pattern=de
+Turn ID=13| B | B : en uit dat driehoek komen een heel klein staaf naar boven
+	Free: Pattern=dat, Pattern=staaf, Pattern=uit, Pattern=komen, Pattern=een, Pattern=en, Pattern=naar
+	Constrained: 
+Turn ID=14| B | B : en op de bovenkant liggen een klein balk en die liggen voor jou zo denken ik
+	Free: Pattern=en die, Pattern=de, Pattern=op, Pattern=een, Pattern=balk, Pattern=ik, Pattern=en, Pattern=liggen, Pattern=die liggen
+	Constrained: Pattern=en, Pattern=liggen, Pattern=die
+Turn ID=15| A | A : yes
+	Free: Pattern=yes
+	Constrained: 
+Turn ID=16| A | A : ja die liggen gelijk in de richting van het staaf van de neus zeggen maar
+	Free: Pattern=staaf, Pattern=het, Pattern=zeggen, Pattern=van, Pattern=maar, Pattern=die liggen, Pattern=de, Pattern=ja
+	Constrained: Pattern=liggen, Pattern=die
+Turn ID=17| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=18| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=19| A | A : nummer acht
+	Free: 
+	Constrained: 
+Turn ID=20| A | A : even kijken dit zijn die een ik vinden hem zelf een beetje op een soort gezicht met een hanenkamme lijken
+	Free: Pattern=ik vinden, Pattern=even, Pattern=lijken, Pattern=kijken, Pattern=een, Pattern=zelf, Pattern=zijn die een, Pattern=met een, Pattern=een soort, Pattern=op een, Pattern=hem
+	Constrained: Pattern=vinden, Pattern=op, Pattern=een, Pattern=met, Pattern=die, Pattern=die een, Pattern=ik, Pattern=zijn
+Turn ID=21| A | A : je hebben zeggen maar aan de twee aan de zijkant hebben je dus wat jij zeggen dat er een soort twee uitlaten zijn
+	Free: Pattern=twee, Pattern=de zijkant hebben, Pattern=aan de, Pattern=je hebben, Pattern=zeggen, Pattern=wat, Pattern=een soort, Pattern=je, Pattern=zijn, Pattern=maar, Pattern=jij, Pattern=zeggen dat er een
+	Constrained: Pattern=dat, Pattern=een, Pattern=hebben, Pattern=zeggen, Pattern=de zijkant, Pattern=er, Pattern=je, Pattern=de, Pattern=aan
+Turn ID=22| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=23| A | A : en dan zo'n driehoekig neusje ervoor waar een staaf uit komen en dan dat balk recht op het hoofd
+	Free: Pattern=en dan, Pattern=uit, Pattern=komen, Pattern=op het, Pattern=een staaf, Pattern=dat balk
+	Constrained: Pattern=dat, Pattern=staaf, Pattern=op, Pattern=een, Pattern=het, Pattern=balk, Pattern=en
+Turn ID=24| B | B : moeten hem even zoeken
+	Free: Pattern=hem, Pattern=even
+	Constrained: 
+Turn ID=25| B | B : jij vinden dat een hanenkam
+	Free: Pattern=dat, Pattern=vinden, Pattern=een, Pattern=hanenkam, Pattern=jij
+	Constrained: 
+Turn ID=26| B | B : ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=27| B | B : letter E
+	Free: 
+	Constrained: 
+Turn ID=28| B | B : deze vinden ik raar hij hebben twee van die uitlaatjes
+	Free: Pattern=twee, Pattern=vinden, Pattern=uitlaatjes, Pattern=hebben, Pattern=die, Pattern=ik, Pattern=van
+	Constrained: 
+Turn ID=29| B | B : hij hebben dat balk op zijn op de bovenkant
+	Free: Pattern=de, Pattern=op, Pattern=hebben, Pattern=dat balk, Pattern=op zijn
+	Constrained: Pattern=dat, Pattern=op, Pattern=balk, Pattern=zijn
+Turn ID=30| B | B : en ik zeggen dat er een boek op zat met een staaf dat eruit komen
+	Free: Pattern=dat, Pattern=op, Pattern=komen, Pattern=met een, Pattern=ik, Pattern=zeggen dat er een, Pattern=en, Pattern=een staaf
+	Constrained: Pattern=dat, Pattern=staaf, Pattern=een, Pattern=zeggen, Pattern=met, Pattern=er
+Turn ID=31| B | B : jij vinden het op iets ander lijken maar dat kunnen ik me even niet
+	Free: Pattern=dat, Pattern=vinden, Pattern=lijken, Pattern=het, Pattern=ik, Pattern=maar, Pattern=jij, Pattern=op, Pattern=even
+	Constrained: 
+Turn ID=32| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=33| A | A : ja een soort hoofd met een hanenkamme
+	Free: Pattern=met een, Pattern=een soort, Pattern=ja
+	Constrained: Pattern=met, Pattern=een
+Turn ID=34| B | B : ja hanenkam
+	Free: Pattern=ja, Pattern=hanenkam
+	Constrained: 
+Turn ID=35| A | A : ik hebben hem vinden nummer één
+	Free: Pattern=hebben, Pattern=hem, Pattern=ik, Pattern=vinden
+	Constrained: 
+Turn ID=36| A | A : dit zijn wat ik dus op dat hoofd met hanenkamme vinden lijken je hebben die twee uitlaatjes aan de zijkant en dan dat balk recht op zijn hoofd
+	Free: Pattern=dat, Pattern=twee, Pattern=vinden, Pattern=en dan, Pattern=lijken, Pattern=je hebben, Pattern=uitlaatjes, Pattern=met, Pattern=de zijkant, Pattern=zijn, Pattern=hebben die, Pattern=op, Pattern=aan de, Pattern=dat balk, Pattern=wat ik, Pattern=op zijn
+	Constrained: Pattern=dat, Pattern=op, Pattern=hebben, Pattern=balk, Pattern=die, Pattern=wat, Pattern=ik, Pattern=en, Pattern=zijn, Pattern=je, Pattern=de, Pattern=aan
+Turn ID=37| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=38| B | B : letter E
+	Free: 
+	Constrained: 
+Turn ID=39| B | B : dat zijn die een die jij op een hanenkam plaatsvinden lijken
+	Free: Pattern=dat, Pattern=zijn die een, Pattern=die, Pattern=hanenkam, Pattern=plaatsvinden lijken, Pattern=op een, Pattern=jij
+	Constrained: Pattern=op, Pattern=lijken, Pattern=een, Pattern=die, Pattern=die een, Pattern=zijn
+Turn ID=40| A | A : oké met het neus met het staaf erop
+	Free: Pattern=het, Pattern=oké, Pattern=met, Pattern=staaf
+	Constrained: 
+Turn ID=41| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=42| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=43| A | A : nummer zestien
+	Free: 
+	Constrained: 
+Turn ID=44| A | A : wat ik dus op het hoofd plaatsvinden lijken met de hanenkam
+	Free: Pattern=met de hanenkam, Pattern=wat ik, Pattern=plaatsvinden lijken, Pattern=op het
+	Constrained: Pattern=de, Pattern=op, Pattern=lijken, Pattern=het, Pattern=met, Pattern=wat, Pattern=ik, Pattern=hanenkam
+Turn ID=45| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=46| A | A : armp naar voren waar het stok uit opsteken en die dinge aan de zijkant
+	Free: Pattern=en die, Pattern=het, Pattern=de zijkant, Pattern=naar, Pattern=uit, Pattern=aan de
+	Constrained: Pattern=aan, Pattern=de, Pattern=die, Pattern=en
+Turn ID=47| B | B : yes
+	Free: Pattern=yes
+	Constrained: 
+Turn ID=48| B | B : letter O wacht met de hanenkam
+	Free: Pattern=met de hanenkam
+	Constrained: Pattern=met, Pattern=hanenkam, Pattern=de
+Turn ID=49| B | B : een boek wat ik wat ik wat ik vinden dat het een boek zijn als een
+	Free: Pattern=dat, Pattern=ik vinden, Pattern=een, Pattern=het, Pattern=wat ik, Pattern=zijn
+	Constrained: Pattern=wat, Pattern=ik, Pattern=vinden
+Turn ID=50| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=51| A | A : dat balk
+	Free: Pattern=dat balk
+	Constrained: Pattern=dat, Pattern=balk
+Turn ID=52| A | A : nee nee dat balk wat op zijn hoofd liggen
+	Free: Pattern=dat balk, Pattern=op zijn, Pattern=wat, Pattern=liggen
+	Constrained: Pattern=dat, Pattern=op, Pattern=balk, Pattern=zijn
+Turn ID=53| B | B : ja ja ja en hij hebben twee van die uitlat
+	Free: Pattern=twee, Pattern=ja, Pattern=hebben, Pattern=die, Pattern=van, Pattern=en
+	Constrained: 
+Turn ID=54| A | A : ja die
+	Free: Pattern=ja, Pattern=die
+	Constrained: 
+Turn ID=55| B | B : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=56| B | B : letter O
+	Free: 
+	Constrained: 

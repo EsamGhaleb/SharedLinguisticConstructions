@@ -1,0 +1,119 @@
+B|0| B: _ja en_ _aan de_ voorkant _een_ vierkant staaf 
+B|1| B: D 
+A|2| A: tiklen 
+A|3| A: [ja] _dit zijn_ veel zo'n soort [ja] net korfbal achtig iets soort _met_ [en] dan _zijn_ eigenlijk [een] stok omhoog dan zitten er eigenlijk _dat_ ovaal ding tegenaan [en] dan komen er 
+A|4| A: buitenkant twee er uit [en] _met_ [een] bal er _bovenop_ of [een] rond 
+A|5| A: [ja] 
+A|6| A: [ja] 
+A|7| A: [ja] 
+B|8| B: oké [dit zijn] diegene [met] _die_ staaf _aan de_ voorkant weer [met] [dat] bollet [bovenop] 
+B|9| B: we hebben hem al hebben 
+B|10| B: [met] [ja] [met] _die_ dinget _aan de zijkant_ 
+A|11| A: [zijn] helemaal draaien 
+A|12| A: [ja] 
+A|13| A: [ja en] dan nog [aan] [die] [zijkant] [ja] 
+A|14| A: [dat] [zijn] dan nummertje vijftien 
+B|15| B: [ja] [met] _de_ vierkant statief 
+B|16| B: _de_ [een] pullup _ik_ _ik_ zien het wel als [een] [een] basketbal laten maar _zeggen_ 
+B|17| B: weten je wel [dat] je [dat] _bolle_ als _de_ basketbal in het theekop doen 
+B|18| B: basketbal 
+B|19| B: L 
+A|20| A: [ja] [dat] [dit zijn] nog steeds [die] wat [ik] [zeggen] [een] korfbal [met] [een] [bolle] er [bovenop] waar [aan de zijkant] waar 
+A|21| A: [ja en] [die] balk naar beneden [ja] 
+B|22| B: [de] basketbal 
+B|23| B: [ja] [ja] 
+A|24| A: [ja] 
+A|25| A: [dat] [zijn] dan nummertje zes 
+A|26| A: [ja] [dit zijn] [die] korfbal dus eigenlijk [die] waar [die] bal [bovenop] liggen [ja] 
+B|27| B: [de] basketbal 
+A|28| A: [ja] [dat] [zijn] dan nummertje drie 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : ja en aan de voorkant een vierkant staaf
+	Free: Pattern=aan de, Pattern=ja en, Pattern=een
+	Constrained: Pattern=en, Pattern=ja, Pattern=aan, Pattern=de
+Turn ID=1| B | B : D
+	Free: 
+	Constrained: 
+Turn ID=2| A | A : tiklen
+	Free: 
+	Constrained: 
+Turn ID=3| A | A : ja dit zijn veel zo'n soort ja net korfbal achtig iets soort met en dan zijn eigenlijk een stok omhoog dan zitten er eigenlijk dat ovaal ding tegenaan en dan komen er
+	Free: Pattern=dat, Pattern=ja, Pattern=een, Pattern=met, Pattern=en, Pattern=zijn, Pattern=dit zijn
+	Constrained: Pattern=zijn
+Turn ID=4| A | A : buitenkant twee er uit en met een bal er bovenop of een rond
+	Free: Pattern=een, Pattern=en, Pattern=bovenop, Pattern=met
+	Constrained: 
+Turn ID=5| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=6| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=7| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=8| B | B : oké dit zijn diegene met die staaf aan de voorkant weer met dat bollet bovenop
+	Free: Pattern=aan de, Pattern=met, Pattern=die, Pattern=dit zijn, Pattern=dat, Pattern=bovenop
+	Constrained: Pattern=zijn, Pattern=aan, Pattern=de
+Turn ID=9| B | B : we hebben hem al hebben
+	Free: 
+	Constrained: 
+Turn ID=10| B | B : met ja met die dinget aan de zijkant
+	Free: Pattern=aan de zijkant, Pattern=ja, Pattern=die, Pattern=met
+	Constrained: Pattern=aan, Pattern=zijkant, Pattern=de, Pattern=aan de
+Turn ID=11| A | A : zijn helemaal draaien
+	Free: Pattern=zijn
+	Constrained: 
+Turn ID=12| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=13| A | A : ja en dan nog aan die zijkant ja
+	Free: Pattern=ja en, Pattern=aan, Pattern=ja, Pattern=die, Pattern=zijkant
+	Constrained: Pattern=en, Pattern=ja
+Turn ID=14| A | A : dat zijn dan nummertje vijftien
+	Free: Pattern=dat, Pattern=zijn
+	Constrained: 
+Turn ID=15| B | B : ja met de vierkant statief
+	Free: Pattern=ja, Pattern=de, Pattern=met
+	Constrained: 
+Turn ID=16| B | B : de een pullup ik ik zien het wel als een een basketbal laten maar zeggen
+	Free: Pattern=een, Pattern=de, Pattern=ik, Pattern=zeggen
+	Constrained: 
+Turn ID=17| B | B : weten je wel dat je dat bolle als de basketbal in het theekop doen
+	Free: Pattern=dat, Pattern=de, Pattern=bolle
+	Constrained: 
+Turn ID=18| B | B : basketbal
+	Free: 
+	Constrained: 
+Turn ID=19| B | B : L
+	Free: 
+	Constrained: 
+Turn ID=20| A | A : ja dat dit zijn nog steeds die wat ik zeggen een korfbal met een bolle er bovenop waar aan de zijkant waar
+	Free: Pattern=ja, Pattern=zeggen, Pattern=die, Pattern=ik, Pattern=dit zijn, Pattern=dat, Pattern=bovenop, Pattern=een, Pattern=aan de zijkant, Pattern=bolle, Pattern=met
+	Constrained: Pattern=aan de, Pattern=zijkant, Pattern=zijn, Pattern=de, Pattern=aan
+Turn ID=21| A | A : ja en die balk naar beneden ja
+	Free: Pattern=ja en, Pattern=ja, Pattern=die
+	Constrained: Pattern=en, Pattern=ja
+Turn ID=22| B | B : de basketbal
+	Free: Pattern=de
+	Constrained: 
+Turn ID=23| B | B : ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=24| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=25| A | A : dat zijn dan nummertje zes
+	Free: Pattern=dat, Pattern=zijn
+	Constrained: 
+Turn ID=26| A | A : ja dit zijn die korfbal dus eigenlijk die waar die bal bovenop liggen ja
+	Free: Pattern=dit zijn, Pattern=bovenop, Pattern=ja, Pattern=die
+	Constrained: Pattern=zijn
+Turn ID=27| B | B : de basketbal
+	Free: Pattern=de
+	Constrained: 
+Turn ID=28| A | A : ja dat zijn dan nummertje drie
+	Free: Pattern=dat, Pattern=ja, Pattern=zijn
+	Constrained: 

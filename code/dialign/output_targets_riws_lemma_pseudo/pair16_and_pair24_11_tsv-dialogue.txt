@@ -1,0 +1,167 @@
+B|0| B: _en_ _dit zijn_ _ja_ _zitten_ _weer_ _vier_ _ding_ _aan_ , _dat_ _zijn_ best _wel_ vaak waaronder _een_ ei 
+B|1| B: _aan de voorkant_ 
+B|2| B: _en_ _een_ penseel _of_ iets wat _zitten_ _erin_ 
+B|3| B: _en_ _nog een_ staafje _zitten_ _erin_ 
+B|4| B: _en_ _aan de_ linkerkant _zitten_ _nog een_ staafje 
+B|5| B: dus _aan de_ buitenkant hebben je _een_ ei _en_ _een_ staaf 
+B|6| B: oké 
+A|7| A: ah 
+A|8| A: [een] eineus 
+A|9| A: geen verticaal lat 
+A|10| A: [ja] 
+A|11| A: [ja] [een] soort vulpen 
+A|12| A: ah [ja] ik denken [een] omgekeerd stropdas 
+A|13| A: zoiets 
+A|14| A: [ja] [dat] zien ik [erin] 
+A|15| A: [ja] dan weten ik _het_ [wel] [ja] 
+A|16| A: dan gaan ik voor negen 
+B|17| B: [dat] _zijn_ F 
+A|18| A: okee 
+A|19| A: nou [dit] gaan [weer] over _het_ _kop_ _met het_ eineus 
+A|20| A: [aan _de voorkant] zitten_ [een] la [aan de] bovenkant 
+A|21| A: omgekeerd stropdas 
+A|22| A: [en] daar links [nog een] driehoekig uitsteeksel 
+B|23| B: bak [met] [aan de voorkant] [een] ei 
+B|24| B: [en] [een] penceel _die_ [erin] liggen 
+B|25| B: niet te verwarren [met het] ander [kop] waar ook [een] ei op [de voorkant zitten] , _met de_ zuignap 
+B|26| B: [dat] _zijn_ hem niet 
+B|27| B: maar [de] ander 
+A|28| A: [of] [een] driehoekje 
+A|29| A: ah [die] [met de] omgekeerd stropdas 
+A|30| A: nummer [vier] 
+B|31| B: J 
+B|32| B: bak [met] penceel [en] [nog een] stok [erin] [en] [een] ei [aan de] rechterkant 
+B|33| B: G 
+A|34| A: [dit zijn] [het] eivormig neusje 
+A|35| A: twee [ding] bovenop 
+A|36| A: paal [en] omgekeerd stropdas 
+A|37| A: [en] [ja] 
+A|38| A: [ja] 
+A|39| A: nummer elf 
+A|40| A: eivormig neus omgekeerd stropdas 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : en dit zijn ja zitten weer vier ding aan , dat zijn best wel vaak waaronder een ei
+	Free: Pattern=dat, Pattern=ding, Pattern=zitten, Pattern=en, Pattern=zijn, Pattern=weer, Pattern=vier, Pattern=dit zijn, Pattern=aan, Pattern=ja, Pattern=een, Pattern=wel
+	Constrained: Pattern=dit, Pattern=zijn
+Turn ID=1| B | B : aan de voorkant
+	Free: Pattern=aan de voorkant
+	Constrained: Pattern=aan, Pattern=de, Pattern=aan de
+Turn ID=2| B | B : en een penseel of iets wat zitten erin
+	Free: Pattern=of, Pattern=een, Pattern=zitten, Pattern=en, Pattern=erin
+	Constrained: 
+Turn ID=3| B | B : en nog een staafje zitten erin
+	Free: Pattern=nog een, Pattern=erin, Pattern=en, Pattern=zitten
+	Constrained: Pattern=een
+Turn ID=4| B | B : en aan de linkerkant zitten nog een staafje
+	Free: Pattern=aan de, Pattern=nog een, Pattern=en, Pattern=zitten
+	Constrained: Pattern=de, Pattern=een, Pattern=aan
+Turn ID=5| B | B : dus aan de buitenkant hebben je een ei en een staaf
+	Free: Pattern=aan de, Pattern=en, Pattern=een
+	Constrained: Pattern=de, Pattern=aan
+Turn ID=6| B | B : oké
+	Free: 
+	Constrained: 
+Turn ID=7| A | A : ah
+	Free: 
+	Constrained: 
+Turn ID=8| A | A : een eineus
+	Free: Pattern=een
+	Constrained: 
+Turn ID=9| A | A : geen verticaal lat
+	Free: 
+	Constrained: 
+Turn ID=10| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=11| A | A : ja een soort vulpen
+	Free: Pattern=ja, Pattern=een
+	Constrained: 
+Turn ID=12| A | A : ah ja ik denken een omgekeerd stropdas
+	Free: Pattern=ja, Pattern=een
+	Constrained: 
+Turn ID=13| A | A : zoiets
+	Free: 
+	Constrained: 
+Turn ID=14| A | A : ja dat zien ik erin
+	Free: Pattern=erin, Pattern=dat, Pattern=ja
+	Constrained: 
+Turn ID=15| A | A : ja dan weten ik het wel ja
+	Free: Pattern=het, Pattern=ja, Pattern=wel
+	Constrained: 
+Turn ID=16| A | A : dan gaan ik voor negen
+	Free: 
+	Constrained: 
+Turn ID=17| B | B : dat zijn F
+	Free: Pattern=dat, Pattern=zijn
+	Constrained: 
+Turn ID=18| A | A : okee
+	Free: 
+	Constrained: 
+Turn ID=19| A | A : nou dit gaan weer over het kop met het eineus
+	Free: Pattern=het, Pattern=met het, Pattern=weer, Pattern=kop, Pattern=dit
+	Constrained: Pattern=het, Pattern=met
+Turn ID=20| A | A : aan de voorkant zitten een la aan de bovenkant
+	Free: Pattern=aan de voorkant, Pattern=de voorkant zitten, Pattern=aan de, Pattern=een
+	Constrained: Pattern=aan, Pattern=de, Pattern=zitten, Pattern=aan de
+Turn ID=21| A | A : omgekeerd stropdas
+	Free: 
+	Constrained: 
+Turn ID=22| A | A : en daar links nog een driehoekig uitsteeksel
+	Free: Pattern=nog een, Pattern=en
+	Constrained: Pattern=een
+Turn ID=23| B | B : bak met aan de voorkant een ei
+	Free: Pattern=aan de voorkant, Pattern=met, Pattern=een
+	Constrained: Pattern=aan, Pattern=de, Pattern=aan de
+Turn ID=24| B | B : en een penceel die erin liggen
+	Free: Pattern=erin, Pattern=en, Pattern=die, Pattern=een
+	Constrained: 
+Turn ID=25| B | B : niet te verwarren met het ander kop waar ook een ei op de voorkant zitten , met de zuignap
+	Free: Pattern=met de, Pattern=kop, Pattern=met het, Pattern=een, Pattern=de voorkant zitten
+	Constrained: Pattern=de, Pattern=met, Pattern=zitten, Pattern=het
+Turn ID=26| B | B : dat zijn hem niet
+	Free: Pattern=dat, Pattern=zijn
+	Constrained: 
+Turn ID=27| B | B : maar de ander
+	Free: Pattern=de
+	Constrained: 
+Turn ID=28| A | A : of een driehoekje
+	Free: Pattern=een, Pattern=of
+	Constrained: 
+Turn ID=29| A | A : ah die met de omgekeerd stropdas
+	Free: Pattern=met de, Pattern=die
+	Constrained: Pattern=met, Pattern=de
+Turn ID=30| A | A : nummer vier
+	Free: Pattern=vier
+	Constrained: 
+Turn ID=31| B | B : J
+	Free: 
+	Constrained: 
+Turn ID=32| B | B : bak met penceel en nog een stok erin en een ei aan de rechterkant
+	Free: Pattern=nog een, Pattern=aan de, Pattern=een, Pattern=met, Pattern=en, Pattern=erin
+	Constrained: Pattern=de, Pattern=een, Pattern=aan
+Turn ID=33| B | B : G
+	Free: 
+	Constrained: 
+Turn ID=34| A | A : dit zijn het eivormig neusje
+	Free: Pattern=dit zijn, Pattern=het
+	Constrained: Pattern=dit, Pattern=zijn
+Turn ID=35| A | A : twee ding bovenop
+	Free: Pattern=ding
+	Constrained: 
+Turn ID=36| A | A : paal en omgekeerd stropdas
+	Free: Pattern=en
+	Constrained: 
+Turn ID=37| A | A : en ja
+	Free: Pattern=en, Pattern=ja
+	Constrained: 
+Turn ID=38| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=39| A | A : nummer elf
+	Free: 
+	Constrained: 
+Turn ID=40| A | A : eivormig neus omgekeerd stropdas
+	Free: 
+	Constrained: 

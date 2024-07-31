@@ -1,0 +1,119 @@
+B|0| B: _oké_ _dit zijn_ _met die wokkel_ aan _de_ onderkant 
+B|1| B: snapen je 
+A|2| A: [die] torderen 
+B|3| B: _ja_ [die] _ja precies_ 
+A|4| A: [ja precies] 
+A|5| A: _dat zijn_ vier 
+A|6| A: [die wokkel] 
+B|7| B: [die] gaan snel 
+A|8| A: [ja] [dit zijn] weer [met] _dat_ torderen ding 
+B|9| B: [ja] A 
+A|10| A: [ja] 
+B|11| B: _dit zijn die_ _met die wokkel_ 
+A|12| A: [met die wokkel] 
+A|13| A: [oké] _dat zijn_ tien 
+B|14| B: lijken _een_ beetje op _een_ cocktail als ik er _zo_ lang naar kijken 
+A|15| A: [ja] _of een trofee_ _of_ [zo] _of_ iets 
+B|16| B: [of een trofee] [een] beetje zo'n zo'n drankjeachtig [ja] zo'n [ja] zo'n beker lijken _het_ op [ja] 
+A|17| A: [ja] [ja] [ja] 
+A|18| A: [ja] 
+A|19| A: [ja] zoiets 
+A|20| A: [ja] [dit zijn die] [trofee] [met] [het] torderen 
+B|21| B: [ja] 
+B|22| B: [dat zijn] [dat zijn] L 
+B|23| B: _de trofee_ _de_ _de_ _de_ _de_ beker _de_ [wokkel] 
+A|24| A: [de trofee] 
+A|25| A: vier 
+A|26| A: [ja] [dit zijn die] [trofee] [met die wokkel] 
+B|27| B: [ja] 
+B|28| B: [dat zijn] F 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : oké dit zijn met die wokkel aan de onderkant
+	Free: Pattern=met die wokkel, Pattern=dit zijn, Pattern=oké, Pattern=de
+	Constrained: Pattern=die wokkel, Pattern=die, Pattern=met, Pattern=wokkel
+Turn ID=1| B | B : snapen je
+	Free: 
+	Constrained: 
+Turn ID=2| A | A : die torderen
+	Free: Pattern=die
+	Constrained: 
+Turn ID=3| B | B : ja die ja precies
+	Free: Pattern=ja precies, Pattern=die, Pattern=ja
+	Constrained: Pattern=ja
+Turn ID=4| A | A : ja precies
+	Free: Pattern=ja precies
+	Constrained: Pattern=ja
+Turn ID=5| A | A : dat zijn vier
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat
+Turn ID=6| A | A : die wokkel
+	Free: Pattern=die wokkel
+	Constrained: Pattern=wokkel, Pattern=die
+Turn ID=7| B | B : die gaan snel
+	Free: Pattern=die
+	Constrained: 
+Turn ID=8| A | A : ja dit zijn weer met dat torderen ding
+	Free: Pattern=dit zijn, Pattern=met, Pattern=dat, Pattern=ja
+	Constrained: 
+Turn ID=9| B | B : ja A
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=10| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=11| B | B : dit zijn die met die wokkel
+	Free: Pattern=dit zijn die, Pattern=met die wokkel
+	Constrained: Pattern=die wokkel, Pattern=wokkel, Pattern=met, Pattern=die, Pattern=dit zijn
+Turn ID=12| A | A : met die wokkel
+	Free: Pattern=met die wokkel
+	Constrained: Pattern=die wokkel, Pattern=met, Pattern=wokkel, Pattern=die
+Turn ID=13| A | A : oké dat zijn tien
+	Free: Pattern=dat zijn, Pattern=oké
+	Constrained: Pattern=dat
+Turn ID=14| B | B : lijken een beetje op een cocktail als ik er zo lang naar kijken
+	Free: Pattern=zo, Pattern=een
+	Constrained: 
+Turn ID=15| A | A : ja of een trofee of zo of iets
+	Free: Pattern=of een trofee, Pattern=zo, Pattern=of, Pattern=ja
+	Constrained: Pattern=of, Pattern=trofee, Pattern=een
+Turn ID=16| B | B : of een trofee een beetje zo'n zo'n drankjeachtig ja zo'n ja zo'n beker lijken het op ja
+	Free: Pattern=of een trofee, Pattern=het, Pattern=ja, Pattern=een
+	Constrained: Pattern=of, Pattern=trofee, Pattern=een
+Turn ID=17| A | A : ja ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=18| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=19| A | A : ja zoiets
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=20| A | A : ja dit zijn die trofee met het torderen
+	Free: Pattern=dit zijn die, Pattern=ja, Pattern=het, Pattern=met, Pattern=trofee
+	Constrained: Pattern=dit zijn, Pattern=die
+Turn ID=21| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=22| B | B : dat zijn dat zijn L
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat
+Turn ID=23| B | B : de trofee de de de de beker de wokkel
+	Free: Pattern=de trofee, Pattern=wokkel, Pattern=de
+	Constrained: Pattern=trofee, Pattern=de
+Turn ID=24| A | A : de trofee
+	Free: Pattern=de trofee
+	Constrained: Pattern=trofee, Pattern=de
+Turn ID=25| A | A : vier
+	Free: 
+	Constrained: 
+Turn ID=26| A | A : ja dit zijn die trofee met die wokkel
+	Free: Pattern=dit zijn die, Pattern=met die wokkel, Pattern=trofee, Pattern=ja
+	Constrained: Pattern=die wokkel, Pattern=wokkel, Pattern=met, Pattern=die, Pattern=dit zijn
+Turn ID=27| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=28| B | B : dat zijn F
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat

@@ -1,0 +1,171 @@
+A|0| A: oeh deze _zijn_ wel deze vinden _ik_ best wel raar _het_ _zijn_ _een soort van_ _ja_ _een soort van_ _Pinokkio _met_ een_ raar hoed _met _een_ soort van_ 
+A|1| A: vierkant hoed _met de met_ iets _erdoorheen_ 
+B|2| B: [ja] [ik] noemen [het] altijd Pinokkio's [met] _hand_ 
+A|3| A: [ja] die ander [ja] _Pinokkio met de_ [hand] _en _een_ soort van_ ding eronder nog _een soort van_ klein lijf wat eraan _zitten_ 
+B|4| B: [ja] 
+B|5| B: [ja] 
+B|6| B: _hij_ lijken _hij_ kijken ook naar rechts 
+A|7| A: [ja] 
+B|8| B: [en] _hij_ hebben zeggen maar [een] [een] staaf als neus [en] inderdaad er [zitten] [een soort van] pijl _door_ [zijn] _hanenkam_ 
+A|9| A: [ja] 
+A|10| A: [ja] die 
+A|11| A: [ja] die 
+B|12| B: [ja] 
+A|13| A: [ja] 
+B|14| B: dan hebben we [het] over M 
+B|15| B: M driepoot 
+B|16| B: _dit zijn_ [Pinokkio met] [het] _dinge door_ [zijn] _hanenkam_ [met de] pijl _door_ [zijn] _hanenkam_ 
+B|17| B: [met] [zijn] [hand] _zo_ omhoog ook _zo'n_ 
+A|18| A: [ja] [en] die [en] _dat_ ding aan [de] onderkant 
+B|19| B: [ja] precies 
+A|20| A: _dat_ [zijn] Numero negen 
+A|21| A: [dit zijn] die heel gek 
+A|22| A: [hij] vallen [een] beetje weg trouwens in [het] scherm zien [ik] 
+A|23| A: [met] die [met] die [met] _dat_ uitstulping aan [de] onderkant [en] _dat_ armp aan [de] rechterkant 
+A|24| A: [en] [met] [zo'n] half vierkantje op [zijn] hoofd wat [zo] doorboren [zijn] 
+B|25| B: _pinokkio [met_ de [met] een] [een soort van] pijl _door_ [zijn] 
+A|26| A: _dat_ 
+A|27| A: [Pinokkio met] eigenlijk [pinokkio _met] arm_ 
+B|28| B: [met arm] 
+B|29| B: [ja] 
+A|30| A: [en] _dat_ ding beneden 
+B|31| B: [en een] pijltje _door_ [zijn] _hanenkam_ 
+A|32| A: [ja] [ja] [ja] [ja] 
+B|33| B: dan gaan [het] om H 
+B|34| B: [dit zijn] [Pinokkio met] [het] _dinge door de hanenkam_ 
+A|35| A: [Pinokkio met] [dinge door de hanenkam] _dat_ [zijn] Numero elf 
+A|36| A: [de] _Pinokkio met de hanenkam_ 
+B|37| B: [met] [het] pijlt [erdoorheen] 
+A|38| A: [ja] 
+B|39| B: dan worden [dat] nummer D 
+B|40| B: [dit] gaan om [Pinokkio met de hanenkam] [en] [de] pijl [erdoorheen] 
+A|41| A: [dat] [zijn] Numero veertien 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : oeh deze zijn wel deze vinden ik best wel raar het zijn een soort van ja een soort van Pinokkio met een raar hoed met een soort van
+	Free: Pattern=ja, Pattern=Pinokkio met, Pattern=het, Pattern=een soort van, Pattern=met een, Pattern=ik, Pattern=zijn
+	Constrained: Pattern=met, Pattern=een
+Turn ID=1| A | A : vierkant hoed met de met iets erdoorheen
+	Free: Pattern=met de met, Pattern=erdoorheen
+	Constrained: Pattern=met de, Pattern=de, Pattern=met
+Turn ID=2| B | B : ja ik noemen het altijd Pinokkio's met hand
+	Free: Pattern=ja, Pattern=het, Pattern=met, Pattern=hand, Pattern=ik
+	Constrained: 
+Turn ID=3| A | A : ja die ander ja Pinokkio met de hand en een soort van ding eronder nog een soort van klein lijf wat eraan zitten
+	Free: Pattern=ja, Pattern=Pinokkio met de, Pattern=een soort van, Pattern=zitten, Pattern=hand, Pattern=en een
+	Constrained: Pattern=met, Pattern=en, Pattern=de, Pattern=met de, Pattern=Pinokkio met, Pattern=een
+Turn ID=4| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=5| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=6| B | B : hij lijken hij kijken ook naar rechts
+	Free: Pattern=hij
+	Constrained: 
+Turn ID=7| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=8| B | B : en hij hebben zeggen maar een een staaf als neus en inderdaad er zitten een soort van pijl door zijn hanenkam
+	Free: Pattern=door, Pattern=een, Pattern=hij, Pattern=een soort van, Pattern=zitten, Pattern=zijn, Pattern=en, Pattern=hanenkam
+	Constrained: Pattern=een
+Turn ID=9| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=10| A | A : ja die
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=11| A | A : ja die
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=12| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=13| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=14| B | B : dan hebben we het over M
+	Free: Pattern=het
+	Constrained: 
+Turn ID=15| B | B : M driepoot
+	Free: 
+	Constrained: 
+Turn ID=16| B | B : dit zijn Pinokkio met het dinge door zijn hanenkam met de pijl door zijn hanenkam
+	Free: Pattern=met de, Pattern=door, Pattern=Pinokkio met, Pattern=het, Pattern=dinge door, Pattern=hanenkam, Pattern=zijn, Pattern=dit zijn
+	Constrained: Pattern=de, Pattern=door, Pattern=dit, Pattern=met, Pattern=zijn
+Turn ID=17| B | B : met zijn hand zo omhoog ook zo'n
+	Free: Pattern=zo'n, Pattern=zo, Pattern=met, Pattern=hand, Pattern=zijn
+	Constrained: 
+Turn ID=18| A | A : ja en die en dat ding aan de onderkant
+	Free: Pattern=dat, Pattern=de, Pattern=ja, Pattern=en
+	Constrained: 
+Turn ID=19| B | B : ja precies
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=20| A | A : dat zijn Numero negen
+	Free: Pattern=dat, Pattern=zijn
+	Constrained: 
+Turn ID=21| A | A : dit zijn die heel gek
+	Free: Pattern=dit zijn
+	Constrained: Pattern=zijn, Pattern=dit
+Turn ID=22| A | A : hij vallen een beetje weg trouwens in het scherm zien ik
+	Free: Pattern=het, Pattern=ik, Pattern=hij, Pattern=een
+	Constrained: 
+Turn ID=23| A | A : met die met die met dat uitstulping aan de onderkant en dat armp aan de rechterkant
+	Free: Pattern=dat, Pattern=de, Pattern=met, Pattern=en
+	Constrained: 
+Turn ID=24| A | A : en met zo'n half vierkantje op zijn hoofd wat zo doorboren zijn
+	Free: Pattern=zo'n, Pattern=zo, Pattern=met, Pattern=en, Pattern=zijn
+	Constrained: 
+Turn ID=25| B | B : pinokkio met de met een een soort van pijl door zijn
+	Free: Pattern=door, Pattern=een soort van, Pattern=met een, Pattern=zijn, Pattern=pinokkio met, Pattern=met de met
+	Constrained: Pattern=een, Pattern=de, Pattern=met, Pattern=met de
+Turn ID=26| A | A : dat
+	Free: Pattern=dat
+	Constrained: 
+Turn ID=27| A | A : Pinokkio met eigenlijk pinokkio met arm
+	Free: Pattern=met arm, Pattern=Pinokkio met, Pattern=pinokkio met
+	Constrained: Pattern=met
+Turn ID=28| B | B : met arm
+	Free: Pattern=met arm
+	Constrained: Pattern=met
+Turn ID=29| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=30| A | A : en dat ding beneden
+	Free: Pattern=dat, Pattern=en
+	Constrained: 
+Turn ID=31| B | B : en een pijltje door zijn hanenkam
+	Free: Pattern=en een, Pattern=zijn, Pattern=hanenkam, Pattern=door
+	Constrained: Pattern=en, Pattern=een
+Turn ID=32| A | A : ja ja ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=33| B | B : dan gaan het om H
+	Free: Pattern=het
+	Constrained: 
+Turn ID=34| B | B : dit zijn Pinokkio met het dinge door de hanenkam
+	Free: Pattern=dinge door de hanenkam, Pattern=Pinokkio met, Pattern=dit zijn, Pattern=het
+	Constrained: Pattern=de, Pattern=door, Pattern=dinge door, Pattern=dit, Pattern=met, Pattern=hanenkam, Pattern=zijn
+Turn ID=35| A | A : Pinokkio met dinge door de hanenkam dat zijn Numero elf
+	Free: Pattern=dinge door de hanenkam, Pattern=Pinokkio met, Pattern=dat, Pattern=zijn
+	Constrained: Pattern=de, Pattern=door, Pattern=dinge door, Pattern=met, Pattern=hanenkam
+Turn ID=36| A | A : de Pinokkio met de hanenkam
+	Free: Pattern=Pinokkio met de hanenkam, Pattern=de
+	Constrained: Pattern=Pinokkio met de, Pattern=Pinokkio met, Pattern=met, Pattern=hanenkam, Pattern=de, Pattern=met de
+Turn ID=37| B | B : met het pijlt erdoorheen
+	Free: Pattern=het, Pattern=met, Pattern=erdoorheen
+	Constrained: 
+Turn ID=38| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=39| B | B : dan worden dat nummer D
+	Free: Pattern=dat
+	Constrained: 
+Turn ID=40| B | B : dit gaan om Pinokkio met de hanenkam en de pijl erdoorheen
+	Free: Pattern=de, Pattern=erdoorheen, Pattern=dit, Pattern=en, Pattern=Pinokkio met de hanenkam
+	Constrained: Pattern=Pinokkio met de, Pattern=Pinokkio met, Pattern=met, Pattern=hanenkam, Pattern=de, Pattern=met de
+Turn ID=41| A | A : dat zijn Numero veertien
+	Free: Pattern=dat, Pattern=zijn
+	Constrained: 

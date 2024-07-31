@@ -1,0 +1,207 @@
+B|0| B: _ik hebben_ _een_ mokvormig basisding _met _een soort_ van_ _ja_ hij _lijken_ _driehoekig_ te _zijn_ 
+B|1| B: _ik_ weten niet helemaal precies hoe _de_ vorm heten _maar_ _dan_ _zijn_ al hoek afronden _er_ _zijn_ _een rechthoekig balk bovenop_ 
+B|2| B: _dan_ _hebben_ _die_ _een_ klein _cilinder_ _en_ _een soort_ gleuf _lijken_ _het_ wel _waar_ _de_ _cilinder_ _dan_ recht _op_ staat 
+B|3| B: dus in principe _bovenop_ _een_ _balk_ 
+B|4| B: hij _lijken_ enigszins schuin te staan 
+A|5| A: [ja] 
+A|6| A: _boven op het_ kop _liggen_ zeggen [maar] zo'n lang [balk] 
+B|7| B: [boven op het] kap 
+B|8| B: [ja] precies 
+A|9| A: [ja] 
+B|10| B: _dan_ _hebben_ _je_ iets wat enigszins _op een_ _driehoek_ _lijken_ _met_ _dan_ _de_ bovenste punt eraf 
+B|11| B: _en aan de rechterkant_ zitten _dan_ _een_ cilindervormig ding _en_ gleufje 
+A|12| A: [ja] 
+A|13| A: [ja] 
+A|14| A: [en] [lijken] [de] linkerkant [een soort van] [op een] limonadekan zeggen [maar] als [je] _daar_ zo'n tap [van] openzet _dat_ [dan] limonade eruit komen 
+B|15| B: [ja] 
+A|16| A: _daar_ doen [het] _mij_ [aan] denken 
+B|17| B: [ja] 
+A|18| A: [ja] 
+A|19| A: oké [dan] denken [ik] _dat_ [het] _nummer_ acht [zijn] 
+A|20| A: _ik hebben de_ mok [met] [de] [rechthoekig balk] erbovenop 
+A|21| A: [aan de] linkerkant _dat_ [soort van] Limonadeding 
+A|22| A: [en aan de rechterkant] [een] _uitstekend driehoek_ _waar een_ 
+B|23| B: [het] 
+B|24| B: [ja] [waar een] cilinderdinge [op] staat 
+A|25| A: [ja] [die] 
+B|26| B: [ja] _dat zijn_ bij [mij] E 
+B|27| B: [ik hebben de] basisvorm [met] daarbovenop [een] [balk] 
+B|28| B: [en] [dan] [de] [daar] [aan de rechterkant] [die] gleuf weer _met een_ _cilinder_ klein _cilindertje_ daarbovenop [en aan de rechterkant] [dat] [ja] wat jij [dat] limonadedinge 
+A|29| A: [ja] 
+A|30| A: Limonadeding toch 
+A|31| A: [ja] [ja] 
+A|32| A: [dat zijn] _nummer_ één hier 
+A|33| A: dit _zijn de_ kop [met] [dat] limonadetuitje [aan de] linkerkant 
+A|34| A: [en] [er] _liggen_ [een rechthoekig balk bovenop] 
+A|35| A: rechts [een] _uitstekend driehoek_ [met een soort] [cilindertje] erop 
+B|36| B: [uitstekend driehoek] 
+A|37| A: nou [je] vinden hem makkelijk als [je] [die] horizontaal [balk] erboven opzoeken 
+B|38| B: even zien 
+A|39| A: want [dat zijn] [er] [maar] één 
+B|40| B: ah [ja] [dat zijn] bij [mij] [nummer] E 
+A|41| A: [ja] 
+B|42| B: [ik hebben] degeen [met een] _balk bovenop liggen_ 
+B|43| B: [het] [zijn de] enig [en] [dan] [aan de] [een] kant [dat] cilindervorm [met een] gleufje [en] [dan] 
+A|44| A: [ja] 
+B|45| B: yes 
+A|46| A: [nummer] zestien 
+A|47| A: dit [zijn] [die] mok [waar] [die] [rechthoekig [balk bovenop] liggen] 
+A|48| A: [aan de] linkerkant [dat] [soort van] limonadetuitje 
+A|49| A: [aan de rechterkant] [het] [driehoekig] uitsteeksel [met] jou [cilinder] erop 
+B|50| B: [ja] [zijn] O 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : ik hebben een mokvormig basisding met een soort van ja hij lijken driehoekig te zijn
+	Free: Pattern=ik hebben, Pattern=ja, Pattern=lijken, Pattern=een, Pattern=een soort van, Pattern=met een soort, Pattern=driehoekig, Pattern=zijn
+	Constrained: Pattern=een, Pattern=hebben, Pattern=met, Pattern=met een, Pattern=van, Pattern=soort van, Pattern=ik, Pattern=een soort
+Turn ID=1| B | B : ik weten niet helemaal precies hoe de vorm heten maar dan zijn al hoek afronden er zijn een rechthoekig balk bovenop
+	Free: Pattern=de, Pattern=dan, Pattern=er, Pattern=ik, Pattern=een rechthoekig balk bovenop, Pattern=zijn, Pattern=maar
+	Constrained: Pattern=bovenop, Pattern=een, Pattern=balk, Pattern=rechthoekig balk bovenop, Pattern=rechthoekig balk
+Turn ID=2| B | B : dan hebben die een klein cilinder en een soort gleuf lijken het wel waar de cilinder dan recht op staat
+	Free: Pattern=de, Pattern=waar, Pattern=op, Pattern=een, Pattern=het, Pattern=hebben, Pattern=die, Pattern=een soort, Pattern=lijken, Pattern=dan, Pattern=cilinder, Pattern=en
+	Constrained: Pattern=een
+Turn ID=3| B | B : dus in principe bovenop een balk
+	Free: Pattern=bovenop, Pattern=balk, Pattern=een
+	Constrained: 
+Turn ID=4| B | B : hij lijken enigszins schuin te staan
+	Free: Pattern=lijken
+	Constrained: 
+Turn ID=5| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=6| A | A : boven op het kop liggen zeggen maar zo'n lang balk
+	Free: Pattern=boven op het, Pattern=liggen, Pattern=maar, Pattern=balk
+	Constrained: Pattern=het, Pattern=op
+Turn ID=7| B | B : boven op het kap
+	Free: Pattern=boven op het
+	Constrained: Pattern=het, Pattern=op
+Turn ID=8| B | B : ja precies
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=9| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=10| B | B : dan hebben je iets wat enigszins op een driehoek lijken met dan de bovenste punt eraf
+	Free: Pattern=driehoek, Pattern=de, Pattern=hebben, Pattern=met, Pattern=je, Pattern=op een, Pattern=lijken, Pattern=dan
+	Constrained: Pattern=op, Pattern=een
+Turn ID=11| B | B : en aan de rechterkant zitten dan een cilindervormig ding en gleufje
+	Free: Pattern=en aan de rechterkant, Pattern=dan, Pattern=en, Pattern=een
+	Constrained: Pattern=aan de, Pattern=aan de rechterkant, Pattern=en, Pattern=de, Pattern=aan
+Turn ID=12| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=13| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=14| A | A : en lijken de linkerkant een soort van op een limonadekan zeggen maar als je daar zo'n tap van openzet dat dan limonade eruit komen
+	Free: Pattern=dat, Pattern=de, Pattern=een soort van, Pattern=maar, Pattern=op een, Pattern=lijken, Pattern=dan, Pattern=van, Pattern=en, Pattern=daar, Pattern=je
+	Constrained: Pattern=op, Pattern=een, Pattern=een soort, Pattern=van, Pattern=soort van
+Turn ID=15| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=16| A | A : daar doen het mij aan denken
+	Free: Pattern=mij, Pattern=aan, Pattern=daar, Pattern=het
+	Constrained: 
+Turn ID=17| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=18| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=19| A | A : oké dan denken ik dat het nummer acht zijn
+	Free: Pattern=dat, Pattern=nummer, Pattern=dan, Pattern=het, Pattern=ik, Pattern=zijn
+	Constrained: 
+Turn ID=20| A | A : ik hebben de mok met de rechthoekig balk erbovenop
+	Free: Pattern=ik hebben de, Pattern=rechthoekig balk, Pattern=met, Pattern=de
+	Constrained: Pattern=ik hebben, Pattern=de, Pattern=hebben, Pattern=balk, Pattern=ik
+Turn ID=21| A | A : aan de linkerkant dat soort van Limonadeding
+	Free: Pattern=aan de, Pattern=soort van, Pattern=dat
+	Constrained: Pattern=van, Pattern=aan, Pattern=de
+Turn ID=22| A | A : en aan de rechterkant een uitstekend driehoek waar een
+	Free: Pattern=en aan de rechterkant, Pattern=uitstekend driehoek, Pattern=waar een, Pattern=een
+	Constrained: Pattern=driehoek, Pattern=waar, Pattern=aan de, Pattern=een, Pattern=aan de rechterkant, Pattern=en, Pattern=de, Pattern=aan
+Turn ID=23| B | B : het
+	Free: Pattern=het
+	Constrained: 
+Turn ID=24| B | B : ja waar een cilinderdinge op staat
+	Free: Pattern=waar een, Pattern=op, Pattern=ja
+	Constrained: Pattern=waar, Pattern=een
+Turn ID=25| A | A : ja die
+	Free: Pattern=die, Pattern=ja
+	Constrained: 
+Turn ID=26| B | B : ja dat zijn bij mij E
+	Free: Pattern=dat zijn, Pattern=mij, Pattern=ja
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=27| B | B : ik hebben de basisvorm met daarbovenop een balk
+	Free: Pattern=ik hebben de, Pattern=met, Pattern=balk, Pattern=een
+	Constrained: Pattern=de, Pattern=ik hebben, Pattern=ik, Pattern=hebben
+Turn ID=28| B | B : en dan de daar aan de rechterkant die gleuf weer met een cilinder klein cilindertje daarbovenop en aan de rechterkant dat ja wat jij dat limonadedinge
+	Free: Pattern=dat, Pattern=cilindertje, Pattern=dan, Pattern=en aan de rechterkant, Pattern=met een, Pattern=daar, Pattern=de, Pattern=ja, Pattern=aan de rechterkant, Pattern=die, Pattern=cilinder, Pattern=en
+	Constrained: Pattern=aan de, Pattern=een, Pattern=met, Pattern=aan de rechterkant, Pattern=en, Pattern=de, Pattern=aan
+Turn ID=29| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=30| A | A : Limonadeding toch
+	Free: 
+	Constrained: 
+Turn ID=31| A | A : ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=32| A | A : dat zijn nummer één hier
+	Free: Pattern=dat zijn, Pattern=nummer
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=33| A | A : dit zijn de kop met dat limonadetuitje aan de linkerkant
+	Free: Pattern=zijn de, Pattern=aan de, Pattern=dat, Pattern=met
+	Constrained: Pattern=aan, Pattern=zijn, Pattern=de
+Turn ID=34| A | A : en er liggen een rechthoekig balk bovenop
+	Free: Pattern=een rechthoekig balk bovenop, Pattern=liggen, Pattern=er, Pattern=en
+	Constrained: Pattern=bovenop, Pattern=een, Pattern=balk, Pattern=rechthoekig balk bovenop, Pattern=rechthoekig balk
+Turn ID=35| A | A : rechts een uitstekend driehoek met een soort cilindertje erop
+	Free: Pattern=met een soort, Pattern=uitstekend driehoek, Pattern=cilindertje, Pattern=een
+	Constrained: Pattern=driehoek, Pattern=een, Pattern=met, Pattern=met een, Pattern=een soort
+Turn ID=36| B | B : uitstekend driehoek
+	Free: Pattern=uitstekend driehoek
+	Constrained: Pattern=driehoek
+Turn ID=37| A | A : nou je vinden hem makkelijk als je die horizontaal balk erboven opzoeken
+	Free: Pattern=die, Pattern=je, Pattern=balk
+	Constrained: 
+Turn ID=38| B | B : even zien
+	Free: 
+	Constrained: 
+Turn ID=39| A | A : want dat zijn er maar één
+	Free: Pattern=dat zijn, Pattern=er, Pattern=maar
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=40| B | B : ah ja dat zijn bij mij nummer E
+	Free: Pattern=dat zijn, Pattern=mij, Pattern=ja, Pattern=nummer
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=41| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=42| B | B : ik hebben degeen met een balk bovenop liggen
+	Free: Pattern=balk bovenop liggen, Pattern=met een, Pattern=ik hebben
+	Constrained: Pattern=bovenop, Pattern=een, Pattern=hebben, Pattern=balk, Pattern=met, Pattern=ik, Pattern=liggen
+Turn ID=43| B | B : het zijn de enig en dan aan de een kant dat cilindervorm met een gleufje en dan
+	Free: Pattern=dat, Pattern=aan de, Pattern=dan, Pattern=een, Pattern=het, Pattern=met een, Pattern=en, Pattern=zijn de
+	Constrained: Pattern=een, Pattern=met, Pattern=zijn, Pattern=de, Pattern=aan
+Turn ID=44| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=45| B | B : yes
+	Free: 
+	Constrained: 
+Turn ID=46| A | A : nummer zestien
+	Free: Pattern=nummer
+	Constrained: 
+Turn ID=47| A | A : dit zijn die mok waar die rechthoekig balk bovenop liggen
+	Free: Pattern=waar, Pattern=die, Pattern=balk bovenop liggen, Pattern=rechthoekig balk bovenop, Pattern=zijn
+	Constrained: Pattern=rechthoekig balk, Pattern=liggen, Pattern=balk, Pattern=bovenop
+Turn ID=48| A | A : aan de linkerkant dat soort van limonadetuitje
+	Free: Pattern=aan de, Pattern=soort van, Pattern=dat
+	Constrained: Pattern=van, Pattern=aan, Pattern=de
+Turn ID=49| A | A : aan de rechterkant het driehoekig uitsteeksel met jou cilinder erop
+	Free: Pattern=het, Pattern=met, Pattern=aan de rechterkant, Pattern=driehoekig, Pattern=cilinder
+	Constrained: Pattern=aan, Pattern=de, Pattern=aan de
+Turn ID=50| B | B : ja zijn O
+	Free: Pattern=zijn, Pattern=ja
+	Constrained: 

@@ -1,0 +1,111 @@
+B|0| B: ok jij moeten hem dus raden 
+B|1| B: _ja_ er zitten _een_ _soort van_ _het zijn_ _een_ _soort van_ kop _en_ daar zitten _een_ lepeltje in _en_ _een_ steel _eraan_ _en_ _aan de_ bovenkant zitten _een_ 
+B|2| B: half rond _aan de onderkant_ _zijn_ hij _wat_ spitser _ik_ vinden _het_ _een beetje_ _een_ koffiekopje 
+B|3| B: _ja_ _aan de_ linkerkant zitten _een_ steel 
+B|4| B: _ja_ 
+B|5| B: nee _ja_ er _zijn_ zeggen maar één _soort van_ lepeltje _denken ik_ _en_ er _zijn_ _een_ half rond _aan de_ achterkant 
+A|6| A: oké 
+A|7| A: oké [en] dan daaronder zo'n [een beetje] ovaal staand ding 
+A|8| A: oké dan weten [ik] [denken ik] welk [het zijn] 
+A|9| A: dan [zijn] [het] nummer dertien 
+B|10| B: _ja_ 
+B|11| B: ok _dat zijn_ O 
+A|12| A: oké _dit zijn dat_ theeko [wat] je omschrijven 
+A|13| A: weten je wel ? _met dat_ lepel erin [en] zo'n [ja] waar je [het] [aan] vasthouden [en] zo'n [soort van] deksel 
+A|14| A: [ja] [wat] [eraan] vastzitten 
+A|15| A: [ja] _die_ 
+B|16| B: [ja] [dit zijn dat] kop _met de_ lepeltje [die] er in hangen half rond _aan de_ achterkant 
+A|17| A: ah 
+A|18| A: [dat zijn] nummer acht 
+B|19| B: [ja] [dat zijn] C 
+B|20| B: [ja] [dit zijn] [met dat] kop [met dat] half rond _aan de_ achterkant 
+B|21| B: [dat zijn] C 
+A|22| A: [dat [zijn] dat] theekopje [met dat] deksel [aan de] zijkant 
+A|23| A: [en] zo'n platform [aan de onderkant] 
+A|24| A: ah oké [dat zijn] nummer vijftien 
+A|25| A: [dit zijn dat] theekopje [met] [die] [met de] deksel [en] zo'n onderdinge 
+A|26| A: dan [zijn] we klaar 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : ok jij moeten hem dus raden
+	Free: 
+	Constrained: 
+Turn ID=1| B | B : ja er zitten een soort van het zijn een soort van kop en daar zitten een lepeltje in en een steel eraan en aan de bovenkant zitten een
+	Free: Pattern=ja, Pattern=aan de, Pattern=een, Pattern=eraan, Pattern=het zijn, Pattern=en, Pattern=soort van
+	Constrained: Pattern=aan, Pattern=zijn, Pattern=het
+Turn ID=2| B | B : half rond aan de onderkant zijn hij wat spitser ik vinden het een beetje een koffiekopje
+	Free: Pattern=een, Pattern=het, Pattern=aan de onderkant, Pattern=wat, Pattern=ik, Pattern=zijn, Pattern=een beetje
+	Constrained: Pattern=aan, Pattern=een, Pattern=aan de
+Turn ID=3| B | B : ja aan de linkerkant zitten een steel
+	Free: Pattern=aan de, Pattern=ja, Pattern=een
+	Constrained: Pattern=aan
+Turn ID=4| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=5| B | B : nee ja er zijn zeggen maar één soort van lepeltje denken ik en er zijn een half rond aan de achterkant
+	Free: Pattern=ja, Pattern=aan de, Pattern=en, Pattern=een, Pattern=denken ik, Pattern=soort van, Pattern=zijn
+	Constrained: Pattern=ik, Pattern=aan
+Turn ID=6| A | A : oké
+	Free: 
+	Constrained: 
+Turn ID=7| A | A : oké en dan daaronder zo'n een beetje ovaal staand ding
+	Free: Pattern=een beetje, Pattern=en
+	Constrained: Pattern=een
+Turn ID=8| A | A : oké dan weten ik denken ik welk het zijn
+	Free: Pattern=het zijn, Pattern=denken ik, Pattern=ik
+	Constrained: Pattern=zijn, Pattern=het, Pattern=ik
+Turn ID=9| A | A : dan zijn het nummer dertien
+	Free: Pattern=zijn, Pattern=het
+	Constrained: 
+Turn ID=10| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=11| B | B : ok dat zijn O
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn
+Turn ID=12| A | A : oké dit zijn dat theeko wat je omschrijven
+	Free: Pattern=dit zijn dat, Pattern=wat
+	Constrained: Pattern=zijn dat, Pattern=dit zijn, Pattern=zijn
+Turn ID=13| A | A : weten je wel ? met dat lepel erin en zo'n ja waar je het aan vasthouden en zo'n soort van deksel
+	Free: Pattern=het, Pattern=met dat, Pattern=en, Pattern=soort van, Pattern=aan, Pattern=ja
+	Constrained: Pattern=met
+Turn ID=14| A | A : ja wat eraan vastzitten
+	Free: Pattern=wat, Pattern=ja, Pattern=eraan
+	Constrained: 
+Turn ID=15| A | A : ja die
+	Free: Pattern=die, Pattern=ja
+	Constrained: 
+Turn ID=16| B | B : ja dit zijn dat kop met de lepeltje die er in hangen half rond aan de achterkant
+	Free: Pattern=aan de, Pattern=die, Pattern=dit zijn dat, Pattern=met de, Pattern=ja
+	Constrained: Pattern=aan, Pattern=met, Pattern=zijn, Pattern=dit zijn, Pattern=zijn dat
+Turn ID=17| A | A : ah
+	Free: 
+	Constrained: 
+Turn ID=18| A | A : dat zijn nummer acht
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn
+Turn ID=19| B | B : ja dat zijn C
+	Free: Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=zijn
+Turn ID=20| B | B : ja dit zijn met dat kop met dat half rond aan de achterkant
+	Free: Pattern=aan de, Pattern=dit zijn, Pattern=met dat, Pattern=ja
+	Constrained: Pattern=aan, Pattern=zijn, Pattern=met
+Turn ID=21| B | B : dat zijn C
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn
+Turn ID=22| A | A : dat zijn dat theekopje met dat deksel aan de zijkant
+	Free: Pattern=aan de, Pattern=zijn dat, Pattern=dat zijn, Pattern=met dat
+	Constrained: Pattern=aan, Pattern=zijn, Pattern=met
+Turn ID=23| A | A : en zo'n platform aan de onderkant
+	Free: Pattern=aan de onderkant, Pattern=en
+	Constrained: Pattern=aan, Pattern=aan de
+Turn ID=24| A | A : ah oké dat zijn nummer vijftien
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn
+Turn ID=25| A | A : dit zijn dat theekopje met die met de deksel en zo'n onderdinge
+	Free: Pattern=met de, Pattern=met, Pattern=die, Pattern=en, Pattern=dit zijn dat
+	Constrained: Pattern=dit zijn, Pattern=zijn dat, Pattern=zijn, Pattern=met
+Turn ID=26| A | A : dan zijn we klaar
+	Free: Pattern=zijn
+	Constrained: 

@@ -1,0 +1,179 @@
+A|0| A: _oké_ _ik_ _hebben_ nu _die_ _een_ _met_ _die_ _driehoek bovenop_ 
+A|1| A: _en_ _die_ _driehoek_ _hebben _een_ beetje_ raar kleur _vinden ik_ _maar_ 
+B|2| B: lijken [een beetje] op [een] hoed [vinden ik] 
+A|3| A: _ja_ misschien wel denken [ik] 
+B|4| B: _of_ _niet_ 
+A|5| A: _ja_ [ik] denken _het_ wel 
+A|6| A: _en dan_ zitten link _nog _een_ soort_ van raar wervelwolk [of] zo 
+B|7| B: [ja] 
+A|8| A: _dat zijn_ [een beetje] [een] raar figuur 
+A|9| A: _en dan_ zitten _linksonder nog _een_ soort_ van _schijf_ _en rechts_ zitten één [ja] 
+A|10| A: [ja] ook [een] raar figuur 
+A|11| A: [ik] kunnen _het_ [niet] zo goed 
+B|12| B: [met] vier hoek [maar] [dan] geen vierkant 
+A|13| A: [ja] 
+B|14| B: [oké] 
+B|15| B: [dat zijn] bij mij J 
+B|16| B: _deze [hebben_ [een] soort] [driehoek] aan de bovenkant 
+B|17| B: [en] [het] vierhoekding wat [niet] vierkant [zijn] [of] geen kubus [zijn] aan [beetje] voorkant [rechts] 
+B|18| B: [en dan] _links_ [die] [ja] _wolk_ [of] zoiets [of] hoe noemen je [het] 
+A|19| A: [ja] [dat] zo uitlopen ding 
+B|20| B: [ja] 
+B|21| B: [en dan] aan [linksonder nog een] [schijf] 
+A|22| A: [ja] 
+A|23| A: [ja] [dat zijn] nummer zes 
+A|24| A: [deze hebben] [die] _driehoek bovenop_ [en] [dat] [soort] van [wolk] wervelwindje link 
+A|25| A: [en] [die] raar uitstekend vorm [rechts] [en dan] weer [dat] rond link onderaan 
+B|26| B: [ja] 
+A|27| A: [met] [een] hap eruit zeggen [maar] 
+B|28| B: [ja] 
+B|29| B: [dat zijn] bij mij E 
+B|30| B: [deze] [zijn] [met] de [driehoek] aan de bovenkant [en] de [schijf] aan de onderkant [en rechts] [het] vierhoek [en] _links_ de 
+A|31| A: [wolk] dinge 
+B|32| B: [ja] 
+A|33| A: [ja] 
+A|34| A: [dat zijn] nummer tien 
+A|35| A: [oké] 
+A|36| A: [ik] [hebben] nu [die] [een] [met] [die] _driehoek bovenop_ [en] [dat] [soort] van [wolk] [links] 
+B|37| B: [ja] 
+B|38| B: waar staan [die] 
+B|39| B: [ja] 
+B|40| B: [dat zijn] bij mij G 
+B|41| B: dit [zijn] [met] [dat] [wolk] aan de linkerkant [en] [een] [driehoek bovenop] 
+A|42| A: [ja] 
+A|43| A: [dat zijn] nummer tien 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : oké ik hebben nu die een met die driehoek bovenop
+	Free: Pattern=een, Pattern=driehoek bovenop, Pattern=hebben, Pattern=met, Pattern=die, Pattern=oké, Pattern=ik
+	Constrained: Pattern=driehoek
+Turn ID=1| A | A : en die driehoek hebben een beetje raar kleur vinden ik maar
+	Free: Pattern=driehoek, Pattern=hebben een, Pattern=vinden ik, Pattern=die, Pattern=en, Pattern=maar, Pattern=een beetje
+	Constrained: Pattern=hebben, Pattern=ik, Pattern=een, Pattern=beetje
+Turn ID=2| B | B : lijken een beetje op een hoed vinden ik
+	Free: Pattern=vinden ik, Pattern=een beetje, Pattern=een
+	Constrained: Pattern=ik, Pattern=een, Pattern=beetje
+Turn ID=3| A | A : ja misschien wel denken ik
+	Free: Pattern=ik, Pattern=ja
+	Constrained: 
+Turn ID=4| B | B : of niet
+	Free: Pattern=niet, Pattern=of
+	Constrained: 
+Turn ID=5| A | A : ja ik denken het wel
+	Free: Pattern=ik, Pattern=het, Pattern=ja
+	Constrained: 
+Turn ID=6| A | A : en dan zitten link nog een soort van raar wervelwolk of zo
+	Free: Pattern=een soort, Pattern=en dan, Pattern=nog een, Pattern=of
+	Constrained: Pattern=en, Pattern=soort, Pattern=dan, Pattern=een
+Turn ID=7| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=8| A | A : dat zijn een beetje een raar figuur
+	Free: Pattern=dat zijn, Pattern=een beetje, Pattern=een
+	Constrained: Pattern=dat, Pattern=een, Pattern=beetje, Pattern=zijn
+Turn ID=9| A | A : en dan zitten linksonder nog een soort van schijf en rechts zitten één ja
+	Free: Pattern=en rechts, Pattern=ja, Pattern=en dan, Pattern=schijf, Pattern=linksonder nog een, Pattern=een soort
+	Constrained: Pattern=soort, Pattern=nog een, Pattern=rechts, Pattern=dan, Pattern=een, Pattern=en
+Turn ID=10| A | A : ja ook een raar figuur
+	Free: Pattern=een, Pattern=ja
+	Constrained: 
+Turn ID=11| A | A : ik kunnen het niet zo goed
+	Free: Pattern=niet, Pattern=ik, Pattern=het
+	Constrained: 
+Turn ID=12| B | B : met vier hoek maar dan geen vierkant
+	Free: Pattern=dan, Pattern=maar, Pattern=met
+	Constrained: 
+Turn ID=13| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=14| B | B : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=15| B | B : dat zijn bij mij J
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=16| B | B : deze hebben een soort driehoek aan de bovenkant
+	Free: Pattern=deze hebben, Pattern=een soort, Pattern=hebben een, Pattern=driehoek
+	Constrained: Pattern=soort, Pattern=hebben, Pattern=een, Pattern=deze
+Turn ID=17| B | B : en het vierhoekding wat niet vierkant zijn of geen kubus zijn aan beetje voorkant rechts
+	Free: Pattern=of, Pattern=rechts, Pattern=het, Pattern=en, Pattern=zijn, Pattern=niet, Pattern=beetje
+	Constrained: 
+Turn ID=18| B | B : en dan links die ja wolk of zoiets of hoe noemen je het
+	Free: Pattern=ja, Pattern=en dan, Pattern=links, Pattern=het, Pattern=die, Pattern=wolk, Pattern=of
+	Constrained: Pattern=en, Pattern=dan
+Turn ID=19| A | A : ja dat zo uitlopen ding
+	Free: Pattern=dat, Pattern=ja
+	Constrained: 
+Turn ID=20| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=21| B | B : en dan aan linksonder nog een schijf
+	Free: Pattern=linksonder nog een, Pattern=en dan, Pattern=schijf
+	Constrained: Pattern=nog een, Pattern=en, Pattern=dan, Pattern=een
+Turn ID=22| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=23| A | A : ja dat zijn nummer zes
+	Free: Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=24| A | A : deze hebben die driehoek bovenop en dat soort van wolk wervelwindje link
+	Free: Pattern=dat, Pattern=wolk, Pattern=soort, Pattern=driehoek bovenop, Pattern=deze hebben, Pattern=die, Pattern=en
+	Constrained: Pattern=hebben, Pattern=deze, Pattern=driehoek
+Turn ID=25| A | A : en die raar uitstekend vorm rechts en dan weer dat rond link onderaan
+	Free: Pattern=dat, Pattern=rechts, Pattern=en dan, Pattern=die, Pattern=en
+	Constrained: Pattern=en, Pattern=dan
+Turn ID=26| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=27| A | A : met een hap eruit zeggen maar
+	Free: Pattern=een, Pattern=maar, Pattern=met
+	Constrained: 
+Turn ID=28| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=29| B | B : dat zijn bij mij E
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=30| B | B : deze zijn met de driehoek aan de bovenkant en de schijf aan de onderkant en rechts het vierhoek en links de
+	Free: Pattern=links, Pattern=het, Pattern=schijf, Pattern=met, Pattern=en, Pattern=zijn, Pattern=deze, Pattern=en rechts, Pattern=driehoek
+	Constrained: Pattern=en, Pattern=rechts
+Turn ID=31| A | A : wolk dinge
+	Free: Pattern=wolk
+	Constrained: 
+Turn ID=32| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=33| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=34| A | A : dat zijn nummer tien
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=35| A | A : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=36| A | A : ik hebben nu die een met die driehoek bovenop en dat soort van wolk links
+	Free: Pattern=dat, Pattern=wolk, Pattern=soort, Pattern=een, Pattern=links, Pattern=driehoek bovenop, Pattern=hebben, Pattern=met, Pattern=die, Pattern=ik, Pattern=en
+	Constrained: Pattern=driehoek
+Turn ID=37| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=38| B | B : waar staan die
+	Free: Pattern=die
+	Constrained: 
+Turn ID=39| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=40| B | B : dat zijn bij mij G
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=41| B | B : dit zijn met dat wolk aan de linkerkant en een driehoek bovenop
+	Free: Pattern=dat, Pattern=wolk, Pattern=een, Pattern=driehoek bovenop, Pattern=met, Pattern=en, Pattern=zijn
+	Constrained: Pattern=driehoek
+Turn ID=42| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=43| A | A : dat zijn nummer tien
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn

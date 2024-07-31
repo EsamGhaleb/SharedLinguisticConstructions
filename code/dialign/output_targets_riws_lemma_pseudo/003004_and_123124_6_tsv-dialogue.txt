@@ -1,0 +1,91 @@
+A|0| A: oké _ja_ _ik_ hebben _het_ als _met_ die drie woord hebben _ik het_ eigenlijk beschrijven als _een_ _neus_ neuspiercing je zien gewoon _een_ _bol_ erop _en_ 
+A|1| A: _een_ vierkant staaf gaan erdoorheen _met_ op _het_ einde aan die staaf _zitten_ _een_ cirkel _en_ _dan_ hebben die nog zo'n _pluk_ _pluk_ haar of zo _ja_ 
+B|2| B: nou vertel 
+B|3| B: [ja] alsof er [een] bloeme doorheen [zitten] 
+B|4| B: [ja] 
+B|5| B: [dan] weten [ik het] [dan] _zijn_ [het] F 
+A|6| A: oké 
+A|7| A: [ja] even kijken [ja] vijf 
+B|8| B: dit _zijn_ [het] piercingpoppe 
+B|9| B: [met] _de_ [bol] [neus] [en] daardoorheen [een] 
+B|10| B: [ja] 
+A|11| A: neuspiercing 
+B|12| B: [neus] [met] piercing _dat zijn_ A 
+A|13| A: neuspiercing [dat zijn] vijf 
+B|14| B: dit [zijn] _de_ _de_ [neus] [met] piercing 
+B|15| B: [en] [het] [pluk] bovenop 
+A|16| A: [de] neuspiercing 
+B|17| B: [neus] [met] piercing H 
+A|18| A: nee 
+A|19| A: [de] neuspiercing 
+A|20| A: ah [ja] vijftien 
+B|21| B: dit [zijn] [het] piercingpoppe 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : oké ja ik hebben het als met die drie woord hebben ik het eigenlijk beschrijven als een neus neuspiercing je zien gewoon een bol erop en
+	Free: Pattern=ja, Pattern=bol, Pattern=een, Pattern=neus, Pattern=met, Pattern=ik, Pattern=en, Pattern=het, Pattern=ik het
+	Constrained: Pattern=ik, Pattern=het
+Turn ID=1| A | A : een vierkant staaf gaan erdoorheen met op het einde aan die staaf zitten een cirkel en dan hebben die nog zo'n pluk pluk haar of zo ja
+	Free: Pattern=ja, Pattern=dan, Pattern=een, Pattern=het, Pattern=met, Pattern=zitten, Pattern=pluk, Pattern=en
+	Constrained: 
+Turn ID=2| B | B : nou vertel
+	Free: 
+	Constrained: 
+Turn ID=3| B | B : ja alsof er een bloeme doorheen zitten
+	Free: Pattern=een, Pattern=ja, Pattern=zitten
+	Constrained: 
+Turn ID=4| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=5| B | B : dan weten ik het dan zijn het F
+	Free: Pattern=ik het, Pattern=dan, Pattern=het, Pattern=zijn
+	Constrained: Pattern=ik, Pattern=het
+Turn ID=6| A | A : oké
+	Free: 
+	Constrained: 
+Turn ID=7| A | A : ja even kijken ja vijf
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=8| B | B : dit zijn het piercingpoppe
+	Free: Pattern=het, Pattern=zijn
+	Constrained: 
+Turn ID=9| B | B : met de bol neus en daardoorheen een
+	Free: Pattern=de, Pattern=bol, Pattern=een, Pattern=neus, Pattern=met, Pattern=en
+	Constrained: 
+Turn ID=10| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=11| A | A : neuspiercing
+	Free: 
+	Constrained: 
+Turn ID=12| B | B : neus met piercing dat zijn A
+	Free: Pattern=dat zijn, Pattern=met, Pattern=neus
+	Constrained: Pattern=zijn
+Turn ID=13| A | A : neuspiercing dat zijn vijf
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn
+Turn ID=14| B | B : dit zijn de de neus met piercing
+	Free: Pattern=met, Pattern=neus, Pattern=zijn, Pattern=de
+	Constrained: 
+Turn ID=15| B | B : en het pluk bovenop
+	Free: Pattern=en, Pattern=pluk, Pattern=het
+	Constrained: 
+Turn ID=16| A | A : de neuspiercing
+	Free: Pattern=de
+	Constrained: 
+Turn ID=17| B | B : neus met piercing H
+	Free: Pattern=met, Pattern=neus
+	Constrained: 
+Turn ID=18| A | A : nee
+	Free: 
+	Constrained: 
+Turn ID=19| A | A : de neuspiercing
+	Free: Pattern=de
+	Constrained: 
+Turn ID=20| A | A : ah ja vijftien
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=21| B | B : dit zijn het piercingpoppe
+	Free: Pattern=het, Pattern=zijn
+	Constrained: 

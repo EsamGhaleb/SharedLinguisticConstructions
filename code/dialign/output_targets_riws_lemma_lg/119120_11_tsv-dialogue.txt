@@ -1,0 +1,251 @@
+B|0| B: one _ja_ dit _zijn_ deze _hebben_ _een_ zo'n rond voorkant zo'n rond _neus_ net als _met die_ _met dat_ ijstheestokje 
+A|1| A: [hebben] [die] _een nee_ laten maar 
+A|2| A: wachten _even_ [hebben] [die] [een] _driehoek_ _naar_ rechts 
+A|3| A: _naar links_ bedoelen ik 
+B|4| B: [naar links] [een nee] 
+B|5| B: [nee] hij [hebben] echt zo'n echt precies zo'n zelfde _neus_ als [die] _met dat_ _ijstheestaafje_ 
+A|6| A: _oké_ 
+A|7| A: [ja] 
+B|8| B: _dus_ echt zo'n ronde 
+B|9| B: zelfde kant op 
+A|10| A: [ja] _en dan_ _en dan twee_ _ding bovenop_ 
+B|11| B: [ja] [twee] van [die] gek [ding bovenop] _en één_ [ding] [naar] [ja] 
+A|12| A: link 
+B|13| B: [ja] [links] [ja] 
+A|14| A: [met] [en] [dat] [zijn] [een] _driehoek_ 
+B|15| B: [driehoek] [ja] [ja] [ja] 
+A|16| A: _oké_ 
+B|17| B: [oké] [ja] 
+A|18| A: _bij mij zijn dat_ veertien welk _bij_ jou 
+B|19| B: [bij mij zijn dat] _P_ 
+A|20| A: [P] 
+B|21| B: [P] [ja] 
+A|22| A: [P] veertien 
+A|23| A: degeen [die] wij _zo_ raar vinden [met] het [ijstheestaafje] maar _dan_ _zonder_ het [ijstheestaafje] 
+A|24| A: _dus alleen_ [met dat] bolle 
+B|25| B: [die] 
+B|26| B: [alleen] _de_ _neus_ [ja] 
+A|27| A: [en] [met _dat] _driehoek_ _aan de_ zijkant_ 
+B|28| B: [driehoek aan de] 
+B|29| B: [ja] 
+B|30| B: N 
+A|31| A: _drie_ 
+B|32| B: N [drie] 
+A|33| A: [ja] 
+B|34| B: [ja] [die] waar waarvan [alleen] [die] _neus_ [en dan] [dat _driehoek] uit_ [zijn] _oor_ [en dan twee] _staaf_ [bovenop] 
+B|35| B: _G_ [bij mij] 
+A|36| A: [neus] [driehoek uit] het [oor] wat 
+B|37| B: [driehoek] _driehoekig_ [zo] [aan de zijkant] [en] [die] bol [neus] 
+A|38| A: je bedoelen [met] [één] recht [staaf] [en één] raar uitkomst 
+B|39| B: [ja] 
+B|40| B: [ja] 
+B|41| B: [die] [ja] 
+A|42| A: [oké] 
+A|43| A: _negen_ welk [zijn] het [bij] jou 
+B|44| B: _G_ 
+A|45| A: [G] _negen_ 
+A|46| A: ijstheestampertje maar [dan] _zonder_ het ijstheestampertje 
+B|47| B: [ja] 
+B|48| B: _dus met_ [de] [driehoek] [ja] [G] 
+A|49| A: [driehoek [aan de] zijkant] 
+A|50| A: _dertien_ 
+B|51| B: [G] [dertien] 
+B|52| B: dit [zijn] [de] _ijstheestamper zonder ijstheestamper_ [dus alleen] [de] [neus] 
+A|53| A: [nee] [dat] [zijn] 
+B|54| B: _O_ 
+A|55| A: [O] vijf 
+A|56| A: [ijstheestamper zonder ijstheestamper] 
+B|57| B: [ja] 
+A|58| A: [dus [met] die] [driehoekig] [ding] [aan de zijkant] 
+B|59| B: [even] 
+A|60| A: _negen_ 
+B|61| B: J [negen] 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : one ja dit zijn deze hebben een zo'n rond voorkant zo'n rond neus net als met die met dat ijstheestokje
+	Free: Pattern=met die, Pattern=ja, Pattern=een, Pattern=hebben, Pattern=zijn, Pattern=neus, Pattern=met dat
+	Constrained: Pattern=die, Pattern=met, Pattern=dat
+Turn ID=1| A | A : hebben die een nee laten maar
+	Free: Pattern=een nee, Pattern=die, Pattern=hebben
+	Constrained: Pattern=nee, Pattern=een
+Turn ID=2| A | A : wachten even hebben die een driehoek naar rechts
+	Free: Pattern=driehoek, Pattern=even, Pattern=een, Pattern=hebben, Pattern=die, Pattern=naar
+	Constrained: 
+Turn ID=3| A | A : naar links bedoelen ik
+	Free: Pattern=naar links
+	Constrained: Pattern=naar, Pattern=links
+Turn ID=4| B | B : naar links een nee
+	Free: Pattern=naar links, Pattern=een nee
+	Constrained: Pattern=nee, Pattern=naar, Pattern=links, Pattern=een
+Turn ID=5| B | B : nee hij hebben echt zo'n echt precies zo'n zelfde neus als die met dat ijstheestaafje
+	Free: Pattern=nee, Pattern=hebben, Pattern=ijstheestaafje, Pattern=die, Pattern=neus, Pattern=met dat
+	Constrained: Pattern=met, Pattern=dat
+Turn ID=6| A | A : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=7| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=8| B | B : dus echt zo'n ronde
+	Free: Pattern=dus
+	Constrained: 
+Turn ID=9| B | B : zelfde kant op
+	Free: 
+	Constrained: 
+Turn ID=10| A | A : ja en dan en dan twee ding bovenop
+	Free: Pattern=en dan twee, Pattern=en dan, Pattern=ding bovenop, Pattern=ja
+	Constrained: Pattern=bovenop, Pattern=twee, Pattern=en dan, Pattern=dan, Pattern=ding, Pattern=en
+Turn ID=11| B | B : ja twee van die gek ding bovenop en één ding naar ja
+	Free: Pattern=en één, Pattern=twee, Pattern=ja, Pattern=ding, Pattern=ding bovenop, Pattern=die, Pattern=naar
+	Constrained: Pattern=één, Pattern=bovenop, Pattern=en, Pattern=ding
+Turn ID=12| A | A : link
+	Free: 
+	Constrained: 
+Turn ID=13| B | B : ja links ja
+	Free: Pattern=ja, Pattern=links
+	Constrained: 
+Turn ID=14| A | A : met en dat zijn een driehoek
+	Free: Pattern=driehoek, Pattern=dat, Pattern=een, Pattern=met, Pattern=en, Pattern=zijn
+	Constrained: 
+Turn ID=15| B | B : driehoek ja ja ja
+	Free: Pattern=driehoek, Pattern=ja
+	Constrained: 
+Turn ID=16| A | A : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=17| B | B : oké ja
+	Free: Pattern=oké, Pattern=ja
+	Constrained: 
+Turn ID=18| A | A : bij mij zijn dat veertien welk bij jou
+	Free: Pattern=bij mij zijn dat, Pattern=bij
+	Constrained: Pattern=bij, Pattern=dat, Pattern=bij mij, Pattern=zijn
+Turn ID=19| B | B : bij mij zijn dat P
+	Free: Pattern=bij mij zijn dat, Pattern=P
+	Constrained: Pattern=bij, Pattern=dat, Pattern=bij mij, Pattern=zijn
+Turn ID=20| A | A : P
+	Free: Pattern=P
+	Constrained: 
+Turn ID=21| B | B : P ja
+	Free: Pattern=ja, Pattern=P
+	Constrained: 
+Turn ID=22| A | A : P veertien
+	Free: Pattern=P
+	Constrained: 
+Turn ID=23| A | A : degeen die wij zo raar vinden met het ijstheestaafje maar dan zonder het ijstheestaafje
+	Free: Pattern=zonder, Pattern=dan, Pattern=met, Pattern=die, Pattern=zo, Pattern=ijstheestaafje
+	Constrained: 
+Turn ID=24| A | A : dus alleen met dat bolle
+	Free: Pattern=dus alleen, Pattern=met dat
+	Constrained: Pattern=met, Pattern=dus, Pattern=alleen, Pattern=dat
+Turn ID=25| B | B : die
+	Free: Pattern=die
+	Constrained: 
+Turn ID=26| B | B : alleen de neus ja
+	Free: Pattern=de, Pattern=neus, Pattern=ja, Pattern=alleen
+	Constrained: 
+Turn ID=27| A | A : en met dat driehoek aan de zijkant
+	Free: Pattern=dat driehoek, Pattern=aan de zijkant, Pattern=driehoek aan de, Pattern=met dat, Pattern=en
+	Constrained: Pattern=dat, Pattern=de, Pattern=met, Pattern=driehoek
+Turn ID=28| B | B : driehoek aan de
+	Free: Pattern=driehoek aan de
+	Constrained: Pattern=de, Pattern=driehoek
+Turn ID=29| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=30| B | B : N
+	Free: 
+	Constrained: 
+Turn ID=31| A | A : drie
+	Free: Pattern=drie
+	Constrained: 
+Turn ID=32| B | B : N drie
+	Free: Pattern=drie
+	Constrained: 
+Turn ID=33| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=34| B | B : ja die waar waarvan alleen die neus en dan dat driehoek uit zijn oor en dan twee staaf bovenop
+	Free: Pattern=bovenop, Pattern=alleen, Pattern=dat driehoek, Pattern=driehoek uit, Pattern=neus, Pattern=die, Pattern=en dan twee, Pattern=zijn, Pattern=oor, Pattern=ja, Pattern=staaf, Pattern=en dan
+	Constrained: Pattern=driehoek, Pattern=dat, Pattern=twee, Pattern=en dan, Pattern=dan, Pattern=en
+Turn ID=35| B | B : G bij mij
+	Free: Pattern=bij mij, Pattern=G
+	Constrained: Pattern=bij
+Turn ID=36| A | A : neus driehoek uit het oor wat
+	Free: Pattern=driehoek uit, Pattern=oor, Pattern=neus
+	Constrained: Pattern=driehoek
+Turn ID=37| B | B : driehoek driehoekig zo aan de zijkant en die bol neus
+	Free: Pattern=driehoek, Pattern=aan de zijkant, Pattern=zo, Pattern=neus, Pattern=die, Pattern=driehoekig, Pattern=en
+	Constrained: Pattern=de
+Turn ID=38| A | A : je bedoelen met één recht staaf en één raar uitkomst
+	Free: Pattern=en één, Pattern=één, Pattern=met, Pattern=staaf
+	Constrained: Pattern=één, Pattern=en
+Turn ID=39| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=40| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=41| B | B : die ja
+	Free: Pattern=die, Pattern=ja
+	Constrained: 
+Turn ID=42| A | A : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=43| A | A : negen welk zijn het bij jou
+	Free: Pattern=zijn, Pattern=negen, Pattern=bij
+	Constrained: 
+Turn ID=44| B | B : G
+	Free: Pattern=G
+	Constrained: 
+Turn ID=45| A | A : G negen
+	Free: Pattern=negen, Pattern=G
+	Constrained: 
+Turn ID=46| A | A : ijstheestampertje maar dan zonder het ijstheestampertje
+	Free: Pattern=dan, Pattern=zonder
+	Constrained: 
+Turn ID=47| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=48| B | B : dus met de driehoek ja G
+	Free: Pattern=driehoek, Pattern=dus met, Pattern=G, Pattern=de, Pattern=ja
+	Constrained: Pattern=met, Pattern=dus
+Turn ID=49| A | A : driehoek aan de zijkant
+	Free: Pattern=aan de zijkant, Pattern=driehoek aan de
+	Constrained: Pattern=de, Pattern=driehoek
+Turn ID=50| A | A : dertien
+	Free: Pattern=dertien
+	Constrained: 
+Turn ID=51| B | B : G dertien
+	Free: Pattern=dertien, Pattern=G
+	Constrained: 
+Turn ID=52| B | B : dit zijn de ijstheestamper zonder ijstheestamper dus alleen de neus
+	Free: Pattern=de, Pattern=neus, Pattern=ijstheestamper zonder ijstheestamper, Pattern=zijn, Pattern=dus alleen
+	Constrained: Pattern=zonder, Pattern=dus, Pattern=alleen
+Turn ID=53| A | A : nee dat zijn
+	Free: Pattern=nee, Pattern=zijn, Pattern=dat
+	Constrained: 
+Turn ID=54| B | B : O
+	Free: Pattern=O
+	Constrained: 
+Turn ID=55| A | A : O vijf
+	Free: Pattern=O
+	Constrained: 
+Turn ID=56| A | A : ijstheestamper zonder ijstheestamper
+	Free: Pattern=ijstheestamper zonder ijstheestamper
+	Constrained: Pattern=zonder
+Turn ID=57| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=58| A | A : dus met die driehoekig ding aan de zijkant
+	Free: Pattern=met die, Pattern=dus met, Pattern=ding, Pattern=aan de zijkant, Pattern=driehoekig
+	Constrained: Pattern=dus, Pattern=de, Pattern=met, Pattern=die
+Turn ID=59| B | B : even
+	Free: Pattern=even
+	Constrained: 
+Turn ID=60| A | A : negen
+	Free: Pattern=negen
+	Constrained: 
+Turn ID=61| B | B : J negen
+	Free: Pattern=negen
+	Constrained: 

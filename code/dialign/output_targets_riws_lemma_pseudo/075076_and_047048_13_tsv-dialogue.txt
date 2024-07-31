@@ -1,0 +1,119 @@
+B|0| B: ah deze _hebben_ _ik_ kop _met_ schotel noemen 
+B|1| B: want _het_ zo'n _ja_ _een_ schotel onder _het_ kop eigenlijk 
+B|2| B: _ja_ 
+B|3| B: _die_ 
+B|4| B: _vierkant_ 
+B|5| B: _ja_ 
+B|6| B: _ja_ _ja_ _ja_ 
+A|7| A: [ja] 
+A|8| A: bij mij _zijn_ [het] nummer vijf 
+A|9| A: [ik] [hebben] weer _dat_ ding wat op één op [een] [vierkant] staan _met die_ twee soort van spiraal _aan beide kant_ 
+B|10| B: _dat zijn_ natuurlijk ook zullen we gewoon zo aanwijzen misschien 
+B|11| B: [ja] [met] [een] schotel 
+B|12| B: [ja] oké 
+B|13| B: J 
+A|14| A: [ja] 
+A|15| A: [dat zijn] bij mij nummer elf 
+B|16| B: dit [zijn] _die een_ [met die] vier [vierkant] [aan beide kant] 
+B|17| B: en schotel 
+A|18| A: [ik] [hebben] [die] op [dat] [vierkant] [met die] twee spiraal 
+A|19| A: [aan] de [beide] zijkant 
+B|20| B: [ja] 
+B|21| B: P 
+A|22| A: [ja] nummer negen 
+B|23| B: [het] kop [met die] [vierkant] 
+B|24| B: [ja] 
+A|25| A: [ik] [hebben] [die een] op [dat] plateau [met die] twee staafjes [met die] spiraalt [aan] de zijkant 
+B|26| B: [ja] 
+B|27| B: [ja] 
+B|28| B: L 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : ah deze hebben ik kop met schotel noemen
+	Free: Pattern=hebben, Pattern=ik, Pattern=met
+	Constrained: 
+Turn ID=1| B | B : want het zo'n ja een schotel onder het kop eigenlijk
+	Free: Pattern=ja, Pattern=het, Pattern=een
+	Constrained: 
+Turn ID=2| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=3| B | B : die
+	Free: Pattern=die
+	Constrained: 
+Turn ID=4| B | B : vierkant
+	Free: Pattern=vierkant
+	Constrained: 
+Turn ID=5| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=6| B | B : ja ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=7| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=8| A | A : bij mij zijn het nummer vijf
+	Free: Pattern=zijn, Pattern=het
+	Constrained: 
+Turn ID=9| A | A : ik hebben weer dat ding wat op één op een vierkant staan met die twee soort van spiraal aan beide kant
+	Free: Pattern=aan beide kant, Pattern=een, Pattern=hebben, Pattern=ik, Pattern=vierkant, Pattern=dat, Pattern=met die
+	Constrained: Pattern=aan, Pattern=met, Pattern=die, Pattern=beide
+Turn ID=10| B | B : dat zijn natuurlijk ook zullen we gewoon zo aanwijzen misschien
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=11| B | B : ja met een schotel
+	Free: Pattern=ja, Pattern=een, Pattern=met
+	Constrained: 
+Turn ID=12| B | B : ja oké
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=13| B | B : J
+	Free: 
+	Constrained: 
+Turn ID=14| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=15| A | A : dat zijn bij mij nummer elf
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=16| B | B : dit zijn die een met die vier vierkant aan beide kant
+	Free: Pattern=met die, Pattern=aan beide kant, Pattern=die een, Pattern=zijn, Pattern=vierkant
+	Constrained: Pattern=aan, Pattern=een, Pattern=met, Pattern=die, Pattern=beide
+Turn ID=17| B | B : en schotel
+	Free: 
+	Constrained: 
+Turn ID=18| A | A : ik hebben die op dat vierkant met die twee spiraal
+	Free: Pattern=hebben, Pattern=die, Pattern=ik, Pattern=vierkant, Pattern=dat, Pattern=met die
+	Constrained: Pattern=die, Pattern=met
+Turn ID=19| A | A : aan de beide zijkant
+	Free: Pattern=aan, Pattern=beide
+	Constrained: 
+Turn ID=20| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=21| B | B : P
+	Free: 
+	Constrained: 
+Turn ID=22| A | A : ja nummer negen
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=23| B | B : het kop met die vierkant
+	Free: Pattern=met die, Pattern=vierkant, Pattern=het
+	Constrained: Pattern=die, Pattern=met
+Turn ID=24| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=25| A | A : ik hebben die een op dat plateau met die twee staafjes met die spiraalt aan de zijkant
+	Free: Pattern=aan, Pattern=hebben, Pattern=die een, Pattern=ik, Pattern=dat, Pattern=met die
+	Constrained: Pattern=die, Pattern=een, Pattern=met
+Turn ID=26| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=27| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=28| B | B : L
+	Free: 
+	Constrained: 

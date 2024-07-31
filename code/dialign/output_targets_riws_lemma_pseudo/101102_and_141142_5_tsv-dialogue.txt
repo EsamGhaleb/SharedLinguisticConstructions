@@ -1,0 +1,131 @@
+A|0| A: _en de_ _zitten_ _er_ _aan de_ bovenkant _ook_ _nog een_ rechthoekig _balk_ 
+A|1| A: _ja_ 
+A|2| A: oké 
+A|3| A: dat _zijn_ nummer acht 
+B|4| B: nou [ja] _dit zijn_ [een] [een] kop [er] liggen [een] _een balk_ op 
+B|5| B: [en] [er] [zitten] twee lampenkapvormig _uitsteeksel_ [aan] 
+B|6| B: [nog] [nog een] driehoekig tobleronereep _die_ zich [er] _die_ [er] [ook] _uit_ steekt [en] _daar_ [zitten] [nog een] minicilinder op 
+B|7| B: maar hij [zijn] het veel herkenbaar [aan de] [aan de] [balk] erop 
+B|8| B: [ja] [ja] [ja] [ja] 
+B|9| B: N 
+A|10| A: [dit zijn] dat plaat _met_ [aan de] linkerkant zo'n [uitsteeksel] dat [een] beetje [een] soort hellinkje [zijn] 
+A|11| A: [en] [aan de] bovenkant [die] _balk erbovenop_ 
+A|12| A: [en] [aan de] ander kant steken [daar] [nog] één [ja] [een] soort dinge [uit] 
+A|13| A: [ja] 
+B|14| B: [die] [ja] 
+B|15| B: [ja] E 
+A|16| A: [ja] nummer één 
+B|17| B: het [zijn] weer [de] [een] [met] het blok op op het ding 
+B|18| B: [de] twee lampenkapp [en de] cilinder op [de] toblerone 
+A|19| A: [dit _zijn] die_ [die] lastig te omschrijven [zijn] [met] [een] hellinkje [aan de] rechterkant 
+A|20| A: [en] [een balk] [aan de] bovenkant 
+B|21| B: [ja] 
+B|22| B: [zijn] E 
+A|23| A: [ja] zestien 
+B|24| B: mooi 
+B|25| B: het [zijn die] [een] weer [met] het blok op [de] het blok erop [en de] lampenkapp [aan de] zijkant 
+B|26| B: [met] balkje erop 
+B|27| B: [ja] 
+A|28| A: [dit [zijn] die] lastig te omschrijven [zijn] [met] hellinkje [en de] Xboxbalk bovenaan 
+B|29| B: [ja] 
+B|30| B: [balk erbovenop] 
+B|31| B: [zijn] O 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : en de zitten er aan de bovenkant ook nog een rechthoekig balk
+	Free: Pattern=nog een, Pattern=en de, Pattern=balk, Pattern=zitten, Pattern=er, Pattern=aan de, Pattern=ook
+	Constrained: Pattern=nog, Pattern=een, Pattern=en, Pattern=de, Pattern=aan
+Turn ID=1| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=2| A | A : oké
+	Free: 
+	Constrained: 
+Turn ID=3| A | A : dat zijn nummer acht
+	Free: Pattern=zijn
+	Constrained: 
+Turn ID=4| B | B : nou ja dit zijn een een kop er liggen een een balk op
+	Free: Pattern=ja, Pattern=een, Pattern=er, Pattern=dit zijn, Pattern=een balk
+	Constrained: Pattern=zijn, Pattern=een, Pattern=balk
+Turn ID=5| B | B : en er zitten twee lampenkapvormig uitsteeksel aan
+	Free: Pattern=aan, Pattern=uitsteeksel, Pattern=zitten, Pattern=er, Pattern=en
+	Constrained: 
+Turn ID=6| B | B : nog nog een driehoekig tobleronereep die zich er die er ook uit steekt en daar zitten nog een minicilinder op
+	Free: Pattern=nog, Pattern=nog een, Pattern=er, Pattern=en, Pattern=daar, Pattern=uit, Pattern=ook, Pattern=die, Pattern=zitten
+	Constrained: Pattern=nog, Pattern=een
+Turn ID=7| B | B : maar hij zijn het veel herkenbaar aan de aan de balk erop
+	Free: Pattern=aan de, Pattern=zijn, Pattern=balk
+	Constrained: Pattern=de, Pattern=aan
+Turn ID=8| B | B : ja ja ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=9| B | B : N
+	Free: 
+	Constrained: 
+Turn ID=10| A | A : dit zijn dat plaat met aan de linkerkant zo'n uitsteeksel dat een beetje een soort hellinkje zijn
+	Free: Pattern=aan de, Pattern=uitsteeksel, Pattern=een, Pattern=met, Pattern=zijn, Pattern=dit zijn
+	Constrained: Pattern=zijn, Pattern=de, Pattern=aan
+Turn ID=11| A | A : en aan de bovenkant die balk erbovenop
+	Free: Pattern=aan de, Pattern=balk erbovenop, Pattern=die, Pattern=en
+	Constrained: Pattern=de, Pattern=aan, Pattern=balk
+Turn ID=12| A | A : en aan de ander kant steken daar nog één ja een soort dinge uit
+	Free: Pattern=nog, Pattern=ja, Pattern=een, Pattern=en, Pattern=daar, Pattern=uit, Pattern=aan de
+	Constrained: Pattern=de, Pattern=aan
+Turn ID=13| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=14| B | B : die ja
+	Free: Pattern=die, Pattern=ja
+	Constrained: 
+Turn ID=15| B | B : ja E
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=16| A | A : ja nummer één
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=17| B | B : het zijn weer de een met het blok op op het ding
+	Free: Pattern=zijn, Pattern=de, Pattern=met, Pattern=een
+	Constrained: 
+Turn ID=18| B | B : de twee lampenkapp en de cilinder op de toblerone
+	Free: Pattern=en de, Pattern=de
+	Constrained: Pattern=en, Pattern=de
+Turn ID=19| A | A : dit zijn die die lastig te omschrijven zijn met een hellinkje aan de rechterkant
+	Free: Pattern=aan de, Pattern=een, Pattern=zijn die, Pattern=met, Pattern=die, Pattern=zijn, Pattern=dit zijn
+	Constrained: Pattern=zijn, Pattern=die, Pattern=de, Pattern=aan
+Turn ID=20| A | A : en een balk aan de bovenkant
+	Free: Pattern=aan de, Pattern=een balk, Pattern=en
+	Constrained: Pattern=de, Pattern=aan, Pattern=een, Pattern=balk
+Turn ID=21| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=22| B | B : zijn E
+	Free: Pattern=zijn
+	Constrained: 
+Turn ID=23| A | A : ja zestien
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=24| B | B : mooi
+	Free: 
+	Constrained: 
+Turn ID=25| B | B : het zijn die een weer met het blok op de het blok erop en de lampenkapp aan de zijkant
+	Free: Pattern=de, Pattern=aan de, Pattern=een, Pattern=en de, Pattern=zijn die, Pattern=met
+	Constrained: Pattern=die, Pattern=en, Pattern=zijn, Pattern=de, Pattern=aan
+Turn ID=26| B | B : met balkje erop
+	Free: Pattern=met
+	Constrained: 
+Turn ID=27| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=28| A | A : dit zijn die lastig te omschrijven zijn met hellinkje en de Xboxbalk bovenaan
+	Free: Pattern=en de, Pattern=zijn die, Pattern=met, Pattern=zijn, Pattern=dit zijn
+	Constrained: Pattern=zijn, Pattern=die, Pattern=en, Pattern=de
+Turn ID=29| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=30| B | B : balk erbovenop
+	Free: Pattern=balk erbovenop
+	Constrained: Pattern=balk
+Turn ID=31| B | B : zijn O
+	Free: Pattern=zijn
+	Constrained: 

@@ -1,0 +1,163 @@
+B|0| B: oké deze _ja_ deze vinden _ik_ ook best wel lastig 
+B|1| B: _dat zijn_ _je_ hebben weer _dat_ kop _zeggen_ maar _dan_ hebben _die_ _zo'n_ soort rond _neus_ daarop 
+B|2| B: _en dan_ hebben _die_ twee van _die_ staaf erin 
+B|3| B: één _zo'n_ soort rechthoekig lineaalt 
+B|4| B: _ja_ volgens mij wel 
+B|5| B: één _zo'n_ lineaal _en_ één _zo'n_ soort puntig kristaldinge 
+A|6| A: ei [neus] o [dat zijn] gewoon [die] indiaan zonder piercing 
+B|7| B: _ja_ 
+A|8| A: ok 
+B|9| B: _ja_ _ja_ 
+B|10| B: _zo'n_ tui 
+A|11| A: jajaja 
+A|12| A: [dan] weten [ik] het al 
+A|13| A: [ja] 
+A|14| A: jaja _met dat met_ [zo'n] uitsteeksel _bij_ [zijn] oor [en dan] nog jaja ok ok [ja] veertien 
+A|15| A: ok [die] indiaan zonder neuspiercing 
+A|16| A: [ja] jaja 
+B|17| B: [ja] 
+B|18| B: _en dat_ ander dinge 
+B|19| B: [ja] 
+B|20| B: [dat zijn] [bij] mij N 
+A|21| A: hij [ik] zien hem 
+A|22| A: [ja] 
+A|23| A: o negen negen [je] sorry 
+A|24| A: [ik] [zeggen] 
+B|25| B: oké nu hebben [ik] [dat] kop [met dat met] [die] lineaal [en] [die] penseel erin 
+B|26| B: _en dat_ bolle erop [zeggen] maar 
+B|27| B: _dus_ [met] [die] twee staafjes erin 
+A|28| A: ok 
+A|29| A: indiaan zonder piercing 
+A|30| A: [met] vulpen of zo [en dat] ding 
+A|31| A: [dat] moeten jij doen o 
+A|32| A: ok vulpen indiaan vijf 
+B|33| B: [ja] 
+B|34| B: [ja] [bij] mij ook 
+B|35| B: [dat zijn] G 
+B|36| B: nu hebben [ik] [dat] kop [met] [die] lineaal [en dat] penseel erin 
+A|37| A: [dus] moeten [ik] doen duwen 
+A|38| A: indiaan zonder piercing 
+B|39| B: [ja] [dat zijn] J 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : oké deze ja deze vinden ik ook best wel lastig
+	Free: Pattern=ja, Pattern=ik
+	Constrained: 
+Turn ID=1| B | B : dat zijn je hebben weer dat kop zeggen maar dan hebben die zo'n soort rond neus daarop
+	Free: Pattern=zo'n, Pattern=dan, Pattern=zeggen, Pattern=neus, Pattern=die, Pattern=je, Pattern=dat, Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=2| B | B : en dan hebben die twee van die staaf erin
+	Free: Pattern=en dan, Pattern=die
+	Constrained: Pattern=en, Pattern=dan
+Turn ID=3| B | B : één zo'n soort rechthoekig lineaalt
+	Free: Pattern=zo'n
+	Constrained: 
+Turn ID=4| B | B : ja volgens mij wel
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=5| B | B : één zo'n lineaal en één zo'n soort puntig kristaldinge
+	Free: Pattern=en, Pattern=zo'n
+	Constrained: 
+Turn ID=6| A | A : ei neus o dat zijn gewoon die indiaan zonder piercing
+	Free: Pattern=dat zijn, Pattern=die, Pattern=neus
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=7| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=8| A | A : ok
+	Free: 
+	Constrained: 
+Turn ID=9| B | B : ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=10| B | B : zo'n tui
+	Free: Pattern=zo'n
+	Constrained: 
+Turn ID=11| A | A : jajaja
+	Free: 
+	Constrained: 
+Turn ID=12| A | A : dan weten ik het al
+	Free: Pattern=ik, Pattern=dan
+	Constrained: 
+Turn ID=13| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=14| A | A : jaja met dat met zo'n uitsteeksel bij zijn oor en dan nog jaja ok ok ja veertien
+	Free: Pattern=zo'n, Pattern=ja, Pattern=en dan, Pattern=met dat met, Pattern=bij, Pattern=zijn
+	Constrained: Pattern=dan, Pattern=dat, Pattern=met, Pattern=en
+Turn ID=15| A | A : ok die indiaan zonder neuspiercing
+	Free: Pattern=die
+	Constrained: 
+Turn ID=16| A | A : ja jaja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=17| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=18| B | B : en dat ander dinge
+	Free: Pattern=en dat
+	Constrained: Pattern=en, Pattern=dat
+Turn ID=19| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=20| B | B : dat zijn bij mij N
+	Free: Pattern=dat zijn, Pattern=bij
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=21| A | A : hij ik zien hem
+	Free: Pattern=ik
+	Constrained: 
+Turn ID=22| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=23| A | A : o negen negen je sorry
+	Free: Pattern=je
+	Constrained: 
+Turn ID=24| A | A : ik zeggen
+	Free: Pattern=zeggen, Pattern=ik
+	Constrained: 
+Turn ID=25| B | B : oké nu hebben ik dat kop met dat met die lineaal en die penseel erin
+	Free: Pattern=dat, Pattern=met dat met, Pattern=die, Pattern=ik, Pattern=en
+	Constrained: Pattern=dat, Pattern=met
+Turn ID=26| B | B : en dat bolle erop zeggen maar
+	Free: Pattern=en dat, Pattern=zeggen
+	Constrained: Pattern=en, Pattern=dat
+Turn ID=27| B | B : dus met die twee staafjes erin
+	Free: Pattern=die, Pattern=dus, Pattern=met
+	Constrained: 
+Turn ID=28| A | A : ok
+	Free: 
+	Constrained: 
+Turn ID=29| A | A : indiaan zonder piercing
+	Free: 
+	Constrained: 
+Turn ID=30| A | A : met vulpen of zo en dat ding
+	Free: Pattern=en dat, Pattern=met
+	Constrained: Pattern=en, Pattern=dat
+Turn ID=31| A | A : dat moeten jij doen o
+	Free: Pattern=dat
+	Constrained: 
+Turn ID=32| A | A : ok vulpen indiaan vijf
+	Free: 
+	Constrained: 
+Turn ID=33| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=34| B | B : ja bij mij ook
+	Free: Pattern=ja, Pattern=bij
+	Constrained: 
+Turn ID=35| B | B : dat zijn G
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=36| B | B : nu hebben ik dat kop met die lineaal en dat penseel erin
+	Free: Pattern=dat, Pattern=met, Pattern=die, Pattern=ik, Pattern=en dat
+	Constrained: Pattern=en, Pattern=dat
+Turn ID=37| A | A : dus moeten ik doen duwen
+	Free: Pattern=ik, Pattern=dus
+	Constrained: 
+Turn ID=38| A | A : indiaan zonder piercing
+	Free: 
+	Constrained: 
+Turn ID=39| B | B : ja dat zijn J
+	Free: Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=dat, Pattern=zijn

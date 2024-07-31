@@ -1,0 +1,131 @@
+A|0| A: ik _hebben_ aan de bovenkant net als jij _een_ pyramide die aan de bovenkant _zijn_ afsnijden 
+A|1| A: _en_ aan de rechterkant _twee_ dezelfde blok 
+A|2| A: _ja en_ soort neus aan de linkerkant 
+A|3| A: zestien 
+A|4| A: ik _hebben_ die _een_ met die met die neus 
+A|5| A: met de pyramide aan met de bovenkant afgeschaafd 
+A|6| A: _en_ _twee_ gelijkwaardig _ding_ aan de rechterkant 
+B|7| B: [ja] 
+B|8| B: [ja] 
+B|9| B: [en] rechts dan [twee] recht staf 
+B|10| B: [ja] [ja] 
+B|11| B: dat [zijn] J 
+A|12| A: [ja] 
+A|13| A: tien 
+A|14| A: ik _hebben_ de half pyramide _bovenop_ [en] de twin towers aan de rechterkant 
+A|15| A: met de met de neus zegmaar 
+A|16| A: yes dertien 
+B|17| B: deze [hebben] [twee] staaf rechts 
+B|18| B: [en] [ja] klein poo link 
+B|19| B: [ja] 
+B|20| B: [hebben] hij [twee] staaf rechts 
+B|21| B: [bovenop] 
+B|22| B: [ja en] [een] poo linksonder [ja] [ja] 
+B|23| B: dat [zijn] M 
+B|24| B: deze [hebben] [twee] staaf rechts [en] [een] afgestompt driehoek [bovenop] 
+B|25| B: [ja] [een] [een] poo 
+B|26| B: [en] daarboven nog [een] [ding] 
+B|27| B: [ja] 
+B|28| B: [ja] [twee] staaf rechts 
+B|29| B: D 
+B|30| B: deze [hebben] [twee] staaf rechts [en] [een] afgestompt driehoek [bovenop] 
+B|31| B: klein poo link 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : ik hebben aan de bovenkant net als jij een pyramide die aan de bovenkant zijn afsnijden
+	Free: Pattern=hebben, Pattern=een, Pattern=zijn
+	Constrained: 
+Turn ID=1| A | A : en aan de rechterkant twee dezelfde blok
+	Free: Pattern=twee, Pattern=en
+	Constrained: 
+Turn ID=2| A | A : ja en soort neus aan de linkerkant
+	Free: Pattern=ja en
+	Constrained: Pattern=ja, Pattern=en
+Turn ID=3| A | A : zestien
+	Free: 
+	Constrained: 
+Turn ID=4| A | A : ik hebben die een met die met die neus
+	Free: Pattern=hebben, Pattern=een
+	Constrained: 
+Turn ID=5| A | A : met de pyramide aan met de bovenkant afgeschaafd
+	Free: 
+	Constrained: 
+Turn ID=6| A | A : en twee gelijkwaardig ding aan de rechterkant
+	Free: Pattern=twee, Pattern=ding, Pattern=en
+	Constrained: 
+Turn ID=7| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=8| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=9| B | B : en rechts dan twee recht staf
+	Free: Pattern=twee, Pattern=en
+	Constrained: 
+Turn ID=10| B | B : ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=11| B | B : dat zijn J
+	Free: Pattern=zijn
+	Constrained: 
+Turn ID=12| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=13| A | A : tien
+	Free: 
+	Constrained: 
+Turn ID=14| A | A : ik hebben de half pyramide bovenop en de twin towers aan de rechterkant
+	Free: Pattern=hebben, Pattern=bovenop, Pattern=en
+	Constrained: 
+Turn ID=15| A | A : met de met de neus zegmaar
+	Free: 
+	Constrained: 
+Turn ID=16| A | A : yes dertien
+	Free: 
+	Constrained: 
+Turn ID=17| B | B : deze hebben twee staaf rechts
+	Free: Pattern=twee, Pattern=hebben
+	Constrained: 
+Turn ID=18| B | B : en ja klein poo link
+	Free: Pattern=ja, Pattern=en
+	Constrained: 
+Turn ID=19| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=20| B | B : hebben hij twee staaf rechts
+	Free: Pattern=twee, Pattern=hebben
+	Constrained: 
+Turn ID=21| B | B : bovenop
+	Free: Pattern=bovenop
+	Constrained: 
+Turn ID=22| B | B : ja en een poo linksonder ja ja
+	Free: Pattern=ja en, Pattern=een, Pattern=ja
+	Constrained: Pattern=ja, Pattern=en
+Turn ID=23| B | B : dat zijn M
+	Free: Pattern=zijn
+	Constrained: 
+Turn ID=24| B | B : deze hebben twee staaf rechts en een afgestompt driehoek bovenop
+	Free: Pattern=bovenop, Pattern=twee, Pattern=een, Pattern=hebben, Pattern=en
+	Constrained: 
+Turn ID=25| B | B : ja een een poo
+	Free: Pattern=een, Pattern=ja
+	Constrained: 
+Turn ID=26| B | B : en daarboven nog een ding
+	Free: Pattern=ding, Pattern=een, Pattern=en
+	Constrained: 
+Turn ID=27| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=28| B | B : ja twee staaf rechts
+	Free: Pattern=twee, Pattern=ja
+	Constrained: 
+Turn ID=29| B | B : D
+	Free: 
+	Constrained: 
+Turn ID=30| B | B : deze hebben twee staaf rechts en een afgestompt driehoek bovenop
+	Free: Pattern=bovenop, Pattern=twee, Pattern=een, Pattern=hebben, Pattern=en
+	Constrained: 
+Turn ID=31| B | B : klein poo link
+	Free: 
+	Constrained: 

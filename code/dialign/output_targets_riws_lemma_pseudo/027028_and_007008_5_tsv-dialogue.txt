@@ -1,0 +1,179 @@
+A|0| A: _wat_ zitten daarbovenop 
+A|1| A: _een balk_ _ja_ 
+B|2| B: deze vinden _ik_ het het kut 
+B|3| B: _even kijken_ 
+B|4| B: _er_ liggen zeggen _maar_ [een balk] op 
+B|5| B: [een] langwerpig [balk] 
+B|6| B: bovenop 
+B|7| B: _en_ 
+A|8| A: [even] 
+B|9| B: [ja] [ja] omdraaien zeggen _maar_ op _zijn_ op _de_ _kop_ 
+A|10| A: [even kijken] horen 
+B|11| B: [ja] 
+B|12| B: _ja ik_ weten _niet_ [wat] het 
+A|13| A: [een] rad als [een] 
+B|14| B: [ja] _dat_ lijken [een] beetje op [een] schepje 
+A|15| A: zitten [er] twee pun boven 
+B|16| B: [ja] 
+A|17| A: dus [dat] [zijn] [dat] [zijn] helemaal recht [een] recht [balk] 
+A|18| A: [en] steken _die balk_ uit 
+A|19| A: [even kijken] 
+A|20| A: [ja] inderdaad [dat] [zijn] [een] _kop en_ [een] klein [balk] [een] boek 
+A|21| A: [ja ik] zien _hem_ 
+A|22| A: achten 
+A|23| A: dit [zijn] _die_ klein boekentas 
+A|24| A: dus [niet] _die_ groot met _die_ handvat [maar] _die_ klein 
+B|25| B: [ja] 
+B|26| B: E 
+A|27| A: klein boekentas _waar staan_ je ? [de] groot zien [ik] wel 
+A|28| A: [ja] 
+A|29| A: één 
+B|30| B: weer [die balk] [en] dan [die] [die] scoop hoe heten [dat] [die] [die] beker op [de] [kop en] [die] schep 
+A|31| A: klein boekentas 
+B|32| B: [ja] [die] 
+B|33| B: [waar staan] [die] 
+B|34| B: [ja] nou vinden [ik] [hem] heel makkelijk 
+B|35| B: ah hier 
+B|36| B: E 
+B|37| B: weer [die] beker op [de] [kop en] [die] [die] schep erbij 
+A|38| A: [ja] 
+A|39| A: zestien 
+B|40| B: [ja] 
+B|41| B: O 
+A|42| A: [de] klein rugtas 
+A|43| A: pijnlijk been 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : wat zitten daarbovenop
+	Free: Pattern=wat
+	Constrained: 
+Turn ID=1| A | A : een balk ja
+	Free: Pattern=een balk, Pattern=ja
+	Constrained: Pattern=balk, Pattern=een
+Turn ID=2| B | B : deze vinden ik het het kut
+	Free: Pattern=ik
+	Constrained: 
+Turn ID=3| B | B : even kijken
+	Free: Pattern=even kijken
+	Constrained: Pattern=even
+Turn ID=4| B | B : er liggen zeggen maar een balk op
+	Free: Pattern=een balk, Pattern=er, Pattern=maar
+	Constrained: Pattern=balk, Pattern=een
+Turn ID=5| B | B : een langwerpig balk
+	Free: Pattern=balk, Pattern=een
+	Constrained: 
+Turn ID=6| B | B : bovenop
+	Free: 
+	Constrained: 
+Turn ID=7| B | B : en
+	Free: Pattern=en
+	Constrained: 
+Turn ID=8| A | A : even
+	Free: Pattern=even
+	Constrained: 
+Turn ID=9| B | B : ja ja omdraaien zeggen maar op zijn op de kop
+	Free: Pattern=kop, Pattern=de, Pattern=ja, Pattern=zijn, Pattern=maar
+	Constrained: 
+Turn ID=10| A | A : even kijken horen
+	Free: Pattern=even kijken
+	Constrained: Pattern=even
+Turn ID=11| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=12| B | B : ja ik weten niet wat het
+	Free: Pattern=ja ik, Pattern=niet, Pattern=wat
+	Constrained: Pattern=ja, Pattern=ik
+Turn ID=13| A | A : een rad als een
+	Free: Pattern=een
+	Constrained: 
+Turn ID=14| B | B : ja dat lijken een beetje op een schepje
+	Free: Pattern=dat, Pattern=ja, Pattern=een
+	Constrained: 
+Turn ID=15| A | A : zitten er twee pun boven
+	Free: Pattern=er
+	Constrained: 
+Turn ID=16| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=17| A | A : dus dat zijn dat zijn helemaal recht een recht balk
+	Free: Pattern=dat, Pattern=balk, Pattern=zijn, Pattern=een
+	Constrained: 
+Turn ID=18| A | A : en steken die balk uit
+	Free: Pattern=die balk, Pattern=en
+	Constrained: Pattern=balk, Pattern=die
+Turn ID=19| A | A : even kijken
+	Free: Pattern=even kijken
+	Constrained: Pattern=even
+Turn ID=20| A | A : ja inderdaad dat zijn een kop en een klein balk een boek
+	Free: Pattern=dat, Pattern=ja, Pattern=een, Pattern=zijn, Pattern=kop en, Pattern=balk
+	Constrained: Pattern=en, Pattern=kop
+Turn ID=21| A | A : ja ik zien hem
+	Free: Pattern=ja ik, Pattern=hem
+	Constrained: Pattern=ja, Pattern=ik
+Turn ID=22| A | A : achten
+	Free: 
+	Constrained: 
+Turn ID=23| A | A : dit zijn die klein boekentas
+	Free: Pattern=zijn, Pattern=die
+	Constrained: 
+Turn ID=24| A | A : dus niet die groot met die handvat maar die klein
+	Free: Pattern=niet, Pattern=die, Pattern=maar
+	Constrained: 
+Turn ID=25| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=26| B | B : E
+	Free: 
+	Constrained: 
+Turn ID=27| A | A : klein boekentas waar staan je ? de groot zien ik wel
+	Free: Pattern=waar staan, Pattern=de, Pattern=ik
+	Constrained: 
+Turn ID=28| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=29| A | A : één
+	Free: 
+	Constrained: 
+Turn ID=30| B | B : weer die balk en dan die die scoop hoe heten dat die die beker op de kop en die schep
+	Free: Pattern=dat, Pattern=die balk, Pattern=de, Pattern=kop en, Pattern=die, Pattern=en
+	Constrained: Pattern=en, Pattern=balk, Pattern=kop, Pattern=die
+Turn ID=31| A | A : klein boekentas
+	Free: 
+	Constrained: 
+Turn ID=32| B | B : ja die
+	Free: Pattern=die, Pattern=ja
+	Constrained: 
+Turn ID=33| B | B : waar staan die
+	Free: Pattern=waar staan, Pattern=die
+	Constrained: 
+Turn ID=34| B | B : ja nou vinden ik hem heel makkelijk
+	Free: Pattern=hem, Pattern=ja, Pattern=ik
+	Constrained: 
+Turn ID=35| B | B : ah hier
+	Free: 
+	Constrained: 
+Turn ID=36| B | B : E
+	Free: 
+	Constrained: 
+Turn ID=37| B | B : weer die beker op de kop en die die schep erbij
+	Free: Pattern=kop en, Pattern=die, Pattern=de
+	Constrained: Pattern=en, Pattern=kop
+Turn ID=38| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=39| A | A : zestien
+	Free: 
+	Constrained: 
+Turn ID=40| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=41| B | B : O
+	Free: 
+	Constrained: 
+Turn ID=42| A | A : de klein rugtas
+	Free: Pattern=de
+	Constrained: 
+Turn ID=43| A | A : pijnlijk been
+	Free: 
+	Constrained: 

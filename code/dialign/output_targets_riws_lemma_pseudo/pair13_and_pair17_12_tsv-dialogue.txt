@@ -1,0 +1,131 @@
+B|0| B: bijzetting _ja_ 
+B|1| B: _ja_ 
+B|2| B: k 
+B|3| B: _deze_ hebben _dat_ bijzettafel _soort_ _van_ _en_ _die_ uitsteeksel _met die_ _dat_ ding _wat_ omhoog gaan 
+B|4| B: _ja_ 
+B|5| B: _even kijken_ _waar_ _die_ blijven _zijn_ _ja_ g 
+B|6| B: _deze_ hebben _het_ bijzettafelt eraan _en dan_ _aan de_ ander kant _dat_ ding _wat_ eruit _komen_ 
+A|7| A: [even kijken] [deze] [dat] [zijn] een normaal beker laten maar zeggen [met] [aan de] rechterzijde een [soort] cirkel 
+A|8| A: [en] [aan de] linkerzijde iets [wat] op een kaneelstaaf lijken [wat] zeggen maar er doorheen lopen 
+A|9| A: [en dan] in [dat] kaneelstaaf aflaten maar zeggen zitten een [soort] groot [ja] een [soort] naaldachtig iets 
+A|10| A: hoe zullen ik [dat] omschrijven 
+A|11| A: [soort] spijker 
+A|12| A: [ja] [ja] precies alsof er zeggen maar in een [soort] muurtje laten maar zeggen [wat] water [komen] [en] [dat] je zeggen maar door [die] twee buisjes [dan] in een beker zullen kunnen lopen 
+A|13| A: [ja] een [soort] cirkelachtig plateaut inderdaad 
+A|14| A: [ja] 
+B|15| B: l 
+A|16| A: [ja] [waar] [zijn] [die] ook alweer 
+B|17| B: [deze] hebben _het_ bijzettafelt 
+A|18| A: [zijn] ik [het] nou kwijt 
+A|19| A: [ja] dus een [soort] [dat] naaldje [en] [met] [het] cirkel daar rechts [van] 
+A|20| A: toch 
+A|21| A: of laten maar zeggen 
+A|22| A: [ja] naaldje [zijn] links [en dan] [dat] cirkeltje plateauachtig [zijn] rechts 
+A|23| A: [ja] [dat] [zijn] nummer zestien 
+A|24| A: dit [zijn] weer zeggen maar [met die] kaneelstaaf [aan de] linkerzijde 
+A|25| A: [met] een cirkel [aan de] rechterzijde [en] iets [wat] 
+A|26| A: [ja] [dat] water [wat] uit [de] muur [komen] 
+A|27| A: [ja] 
+A|28| A: negen nummer negen 
+A|29| A: water uit [de] muur [met] een kaneelstaaf [en] een cirkel rechts [van] [het] beker 
+A|30| A: [ja] 
+A|31| A: nummer veertien 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : bijzetting ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=1| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=2| B | B : k
+	Free: 
+	Constrained: 
+Turn ID=3| B | B : deze hebben dat bijzettafel soort van en die uitsteeksel met die dat ding wat omhoog gaan
+	Free: Pattern=soort, Pattern=die, Pattern=wat, Pattern=deze, Pattern=dat, Pattern=met die, Pattern=van, Pattern=en
+	Constrained: Pattern=met, Pattern=die
+Turn ID=4| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=5| B | B : even kijken waar die blijven zijn ja g
+	Free: Pattern=ja, Pattern=waar, Pattern=die, Pattern=even kijken, Pattern=zijn
+	Constrained: 
+Turn ID=6| B | B : deze hebben het bijzettafelt eraan en dan aan de ander kant dat ding wat eruit komen
+	Free: Pattern=dat, Pattern=en dan, Pattern=aan de, Pattern=komen, Pattern=het, Pattern=wat, Pattern=deze
+	Constrained: Pattern=de, Pattern=en, Pattern=dan
+Turn ID=7| A | A : even kijken deze dat zijn een normaal beker laten maar zeggen met aan de rechterzijde een soort cirkel
+	Free: Pattern=dat, Pattern=soort, Pattern=aan de, Pattern=met, Pattern=even kijken, Pattern=zijn, Pattern=deze
+	Constrained: Pattern=de
+Turn ID=8| A | A : en aan de linkerzijde iets wat op een kaneelstaaf lijken wat zeggen maar er doorheen lopen
+	Free: Pattern=aan de, Pattern=en, Pattern=wat
+	Constrained: Pattern=de
+Turn ID=9| A | A : en dan in dat kaneelstaaf aflaten maar zeggen zitten een soort groot ja een soort naaldachtig iets
+	Free: Pattern=en dan, Pattern=soort, Pattern=dat, Pattern=ja
+	Constrained: Pattern=en, Pattern=dan
+Turn ID=10| A | A : hoe zullen ik dat omschrijven
+	Free: Pattern=dat
+	Constrained: 
+Turn ID=11| A | A : soort spijker
+	Free: Pattern=soort
+	Constrained: 
+Turn ID=12| A | A : ja ja precies alsof er zeggen maar in een soort muurtje laten maar zeggen wat water komen en dat je zeggen maar door die twee buisjes dan in een beker zullen kunnen lopen
+	Free: Pattern=dat, Pattern=soort, Pattern=ja, Pattern=dan, Pattern=komen, Pattern=die, Pattern=wat, Pattern=en
+	Constrained: 
+Turn ID=13| A | A : ja een soort cirkelachtig plateaut inderdaad
+	Free: Pattern=soort, Pattern=ja
+	Constrained: 
+Turn ID=14| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=15| B | B : l
+	Free: 
+	Constrained: 
+Turn ID=16| A | A : ja waar zijn die ook alweer
+	Free: Pattern=zijn, Pattern=ja, Pattern=waar, Pattern=die
+	Constrained: 
+Turn ID=17| B | B : deze hebben het bijzettafelt
+	Free: Pattern=het, Pattern=deze
+	Constrained: 
+Turn ID=18| A | A : zijn ik het nou kwijt
+	Free: Pattern=zijn, Pattern=het
+	Constrained: 
+Turn ID=19| A | A : ja dus een soort dat naaldje en met het cirkel daar rechts van
+	Free: Pattern=dat, Pattern=soort, Pattern=ja, Pattern=het, Pattern=met, Pattern=van, Pattern=en
+	Constrained: 
+Turn ID=20| A | A : toch
+	Free: 
+	Constrained: 
+Turn ID=21| A | A : of laten maar zeggen
+	Free: 
+	Constrained: 
+Turn ID=22| A | A : ja naaldje zijn links en dan dat cirkeltje plateauachtig zijn rechts
+	Free: Pattern=en dan, Pattern=dat, Pattern=zijn, Pattern=ja
+	Constrained: Pattern=en, Pattern=dan
+Turn ID=23| A | A : ja dat zijn nummer zestien
+	Free: Pattern=dat, Pattern=zijn, Pattern=ja
+	Constrained: 
+Turn ID=24| A | A : dit zijn weer zeggen maar met die kaneelstaaf aan de linkerzijde
+	Free: Pattern=met die, Pattern=aan de, Pattern=zijn
+	Constrained: Pattern=met, Pattern=de, Pattern=die
+Turn ID=25| A | A : met een cirkel aan de rechterzijde en iets wat
+	Free: Pattern=aan de, Pattern=met, Pattern=en, Pattern=wat
+	Constrained: Pattern=de
+Turn ID=26| A | A : ja dat water wat uit de muur komen
+	Free: Pattern=dat, Pattern=komen, Pattern=wat, Pattern=de, Pattern=ja
+	Constrained: 
+Turn ID=27| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=28| A | A : negen nummer negen
+	Free: 
+	Constrained: 
+Turn ID=29| A | A : water uit de muur met een kaneelstaaf en een cirkel rechts van het beker
+	Free: Pattern=de, Pattern=het, Pattern=met, Pattern=van, Pattern=en
+	Constrained: 
+Turn ID=30| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=31| A | A : nummer veertien
+	Free: 
+	Constrained: 

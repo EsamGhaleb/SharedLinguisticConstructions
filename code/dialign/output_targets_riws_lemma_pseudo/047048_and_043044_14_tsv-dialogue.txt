@@ -1,0 +1,115 @@
+A|0| A: _dit zijn_ _die_ een _met_ van _die_ twee handvat een beetje uit zo'n fiets 
+A|1| A: _met_ een fietsmand 
+A|2| A: _en dan_ zo'n balk erachter 
+A|3| A: dus _het_ _zijn_ gewoon _dat_ kop _met_ twee van _die_ _ding aan de_ zijkant er zitten een bal op 
+A|4| A: er liggen een bal op 
+A|5| A: _en dan_ een balk 
+B|6| B: _dat zijn_ hem oké D 
+B|7| B: _ik_ moeten nu drukken 
+B|8| B: _ja_ oké 
+A|9| A: _en_ twee van _die_ 
+A|10| A: [ja] precies 
+A|11| A: _en_ een balk _die_ er zo zullen [ik] maar zeggen tegenaan 
+A|12| A: [dat zijn] vijftien 
+B|13| B: oké [dit zijn] bolle bovenop [en] rechthoekig [ding aan de] voorkant 
+B|14| B: rechthoekig staaf 
+B|15| B: [en dan] [aan de] beide kant [de] armpjes 
+B|16| B: [ja] 
+A|17| A: [dat zijn] [dat] fietsmand weer _met die_ bal erop [en] _die_ twee 
+A|18| A: even kijken waar staan 
+A|19| A: [dat zijn] zes 
+B|20| B: [ja] L 
+A|21| A: [dat] fietsmand weer 
+A|22| A: [ja] 
+A|23| A: nummer drie 
+B|24| B: oké 
+B|25| B: [dit zijn] [de] [het] ei bovenop [met die] armp rechts links [en] [aan de] voorkant [die] paal 
+B|26| B: [ja] J 
+B|27| B: [dit zijn] [de] [met] [de] armp ei bovenop [en] [de] paal vooraan 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : dit zijn die een met van die twee handvat een beetje uit zo'n fiets
+	Free: Pattern=dit zijn, Pattern=die, Pattern=met
+	Constrained: Pattern=zijn
+Turn ID=1| A | A : met een fietsmand
+	Free: Pattern=met
+	Constrained: 
+Turn ID=2| A | A : en dan zo'n balk erachter
+	Free: Pattern=en dan
+	Constrained: Pattern=en
+Turn ID=3| A | A : dus het zijn gewoon dat kop met twee van die ding aan de zijkant er zitten een bal op
+	Free: Pattern=dat, Pattern=ding aan de, Pattern=het, Pattern=met, Pattern=die, Pattern=zijn
+	Constrained: Pattern=aan de, Pattern=de
+Turn ID=4| A | A : er liggen een bal op
+	Free: 
+	Constrained: 
+Turn ID=5| A | A : en dan een balk
+	Free: Pattern=en dan
+	Constrained: Pattern=en
+Turn ID=6| B | B : dat zijn hem oké D
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=7| B | B : ik moeten nu drukken
+	Free: Pattern=ik
+	Constrained: 
+Turn ID=8| B | B : ja oké
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=9| A | A : en twee van die
+	Free: Pattern=die, Pattern=en
+	Constrained: 
+Turn ID=10| A | A : ja precies
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=11| A | A : en een balk die er zo zullen ik maar zeggen tegenaan
+	Free: Pattern=die, Pattern=ik, Pattern=en
+	Constrained: 
+Turn ID=12| A | A : dat zijn vijftien
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=13| B | B : oké dit zijn bolle bovenop en rechthoekig ding aan de voorkant
+	Free: Pattern=ding aan de, Pattern=dit zijn, Pattern=en
+	Constrained: Pattern=aan de, Pattern=de, Pattern=zijn
+Turn ID=14| B | B : rechthoekig staaf
+	Free: 
+	Constrained: 
+Turn ID=15| B | B : en dan aan de beide kant de armpjes
+	Free: Pattern=aan de, Pattern=en dan, Pattern=de
+	Constrained: Pattern=de, Pattern=en
+Turn ID=16| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=17| A | A : dat zijn dat fietsmand weer met die bal erop en die twee
+	Free: Pattern=die, Pattern=en, Pattern=dat, Pattern=dat zijn, Pattern=met die
+	Constrained: Pattern=dat, Pattern=die, Pattern=met, Pattern=zijn
+Turn ID=18| A | A : even kijken waar staan
+	Free: 
+	Constrained: 
+Turn ID=19| A | A : dat zijn zes
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=20| B | B : ja L
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=21| A | A : dat fietsmand weer
+	Free: Pattern=dat
+	Constrained: 
+Turn ID=22| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=23| A | A : nummer drie
+	Free: 
+	Constrained: 
+Turn ID=24| B | B : oké
+	Free: 
+	Constrained: 
+Turn ID=25| B | B : dit zijn de het ei bovenop met die armp rechts links en aan de voorkant die paal
+	Free: Pattern=met die, Pattern=de, Pattern=aan de, Pattern=het, Pattern=die, Pattern=en, Pattern=dit zijn
+	Constrained: Pattern=de, Pattern=die, Pattern=met, Pattern=zijn
+Turn ID=26| B | B : ja J
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=27| B | B : dit zijn de met de armp ei bovenop en de paal vooraan
+	Free: Pattern=dit zijn, Pattern=de, Pattern=met, Pattern=en
+	Constrained: Pattern=zijn

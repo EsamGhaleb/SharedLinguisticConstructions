@@ -1,0 +1,107 @@
+A|0| A: _ja_ _en_ er _staan_ _zo'n soort_ _bakje_ op of zo 
+A|1| A: _ja_ 
+A|2| A: zestien 
+B|3| B: _nou_ dit _zijn_ dan weer _gewoon [zo'n_ soort] emmercupding [en] _het_ lijken alsof daarvoor _een_ schap _zijn_ ophangen waar _de_ _poo_ _nog_ onder [staan] [en] daarop _staan een_ _bak_ 
+A|4| A: volgens mij hebben jij die omschrijven ik ik hebben [het] omschrijven als [de] _ja dat_ [bak] [staan] _erop_ zeggen maar je hebben toch [zo'n] gek 
+A|5| A: houten plankhouder zeggen maar _met_ _aan de_ zijkant twee van die [poo] 
+A|6| A: _ja_ ik ik noemen _dat_ altijd [de] plankhouder of zo 
+A|7| A: jij moeten hem doen _ja_ 
+B|8| B: [met] _een_ _een_ [bakje] [erop] 
+B|9| B: _dat zijn_ P 
+A|10| A: [bak] bovenop die plank die erdoorheen gaan [en] 
+A|11| A: _ja_ _ja_ _ja_ _ja_ _ja_ hoe doen _ja_ [bakje] of plankhouder of zo noemen we die [gewoon] voortaan _ja_ 
+A|12| A: _ja_ prima plankhouder veertien 
+B|13| B: dit _zijn_ [het] emmer [met] [het] schap ervoor 
+A|14| A: [de] boekenplank of bakjeshouderplank of weten je [nog] welk ik bedoelen 
+A|15| A: _ja_ _ja_ _ja_ _ja_ 
+A|16| A: [het] [zijn] [gewoon zo'n] recht hoek zeggen maar [met] twee [poo] inderdaad [en] daarbovenop [staan een] [soort] [bakje] 
+A|17| A: _ja_ 
+B|18| B: [ja _dat] zijn_ N 
+A|19| A: [ja] 
+A|20| A: [dat zijn] tien 
+B|21| B: dit [zijn] [het] schap 
+B|22| B: [aan de] voorkant [een] schap [met] [een] [bakje] [erop] 
+A|23| A: [de] of [nou] [de] bakjeshouderplank 
+B|24| B: [het] schap 
+B|25| B: [dat zijn] D 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : ja en er staan zo'n soort bakje op of zo
+	Free: Pattern=ja, Pattern=staan, Pattern=bakje, Pattern=en, Pattern=zo'n soort
+	Constrained: Pattern=soort, Pattern=zo'n
+Turn ID=1| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=2| A | A : zestien
+	Free: 
+	Constrained: 
+Turn ID=3| B | B : nou dit zijn dan weer gewoon zo'n soort emmercupding en het lijken alsof daarvoor een schap zijn ophangen waar de poo nog onder staan en daarop staan een bak
+	Free: Pattern=gewoon zo'n, Pattern=nog, Pattern=nou, Pattern=staan een, Pattern=en, Pattern=de, Pattern=poo, Pattern=een, Pattern=staan, Pattern=bak, Pattern=het, Pattern=zo'n soort, Pattern=zijn
+	Constrained: Pattern=soort, Pattern=zo'n, Pattern=gewoon, Pattern=een, Pattern=staan
+Turn ID=4| A | A : volgens mij hebben jij die omschrijven ik ik hebben het omschrijven als de ja dat bak staan erop zeggen maar je hebben toch zo'n gek
+	Free: Pattern=zo'n, Pattern=de, Pattern=erop, Pattern=staan, Pattern=ja dat, Pattern=bak, Pattern=het
+	Constrained: Pattern=ja, Pattern=dat
+Turn ID=5| A | A : houten plankhouder zeggen maar met aan de zijkant twee van die poo
+	Free: Pattern=aan de, Pattern=met, Pattern=poo
+	Constrained: Pattern=de
+Turn ID=6| A | A : ja ik ik noemen dat altijd de plankhouder of zo
+	Free: Pattern=ja, Pattern=dat, Pattern=de
+	Constrained: 
+Turn ID=7| A | A : jij moeten hem doen ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=8| B | B : met een een bakje erop
+	Free: Pattern=erop, Pattern=een, Pattern=bakje, Pattern=met
+	Constrained: 
+Turn ID=9| B | B : dat zijn P
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=10| A | A : bak bovenop die plank die erdoorheen gaan en
+	Free: Pattern=en, Pattern=bak
+	Constrained: 
+Turn ID=11| A | A : ja ja ja ja ja hoe doen ja bakje of plankhouder of zo noemen we die gewoon voortaan ja
+	Free: Pattern=ja, Pattern=gewoon, Pattern=bakje
+	Constrained: 
+Turn ID=12| A | A : ja prima plankhouder veertien
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=13| B | B : dit zijn het emmer met het schap ervoor
+	Free: Pattern=zijn, Pattern=het, Pattern=met
+	Constrained: 
+Turn ID=14| A | A : de boekenplank of bakjeshouderplank of weten je nog welk ik bedoelen
+	Free: Pattern=nog, Pattern=de
+	Constrained: 
+Turn ID=15| A | A : ja ja ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=16| A | A : het zijn gewoon zo'n recht hoek zeggen maar met twee poo inderdaad en daarbovenop staan een soort bakje
+	Free: Pattern=gewoon zo'n, Pattern=soort, Pattern=poo, Pattern=staan een, Pattern=bakje, Pattern=het, Pattern=met, Pattern=en, Pattern=zijn
+	Constrained: Pattern=staan, Pattern=zo'n, Pattern=een, Pattern=gewoon
+Turn ID=17| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=18| B | B : ja dat zijn N
+	Free: Pattern=ja dat, Pattern=dat zijn
+	Constrained: Pattern=ja, Pattern=dat, Pattern=zijn
+Turn ID=19| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=20| A | A : dat zijn tien
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=21| B | B : dit zijn het schap
+	Free: Pattern=zijn, Pattern=het
+	Constrained: 
+Turn ID=22| B | B : aan de voorkant een schap met een bakje erop
+	Free: Pattern=erop, Pattern=aan de, Pattern=een, Pattern=bakje, Pattern=met
+	Constrained: Pattern=de
+Turn ID=23| A | A : de of nou de bakjeshouderplank
+	Free: Pattern=de, Pattern=nou
+	Constrained: 
+Turn ID=24| B | B : het schap
+	Free: Pattern=het
+	Constrained: 
+Turn ID=25| B | B : dat zijn D
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn

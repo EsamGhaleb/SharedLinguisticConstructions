@@ -1,0 +1,139 @@
+B|0| B: _en_ zitten er link nog _twee_ dinget 
+B|1| B: _oké_ _dan_ _zijn_ het E 
+A|2| A: dit [zijn] _een soort_ _van_ _ja_ ik hij _hebben een soort_ _van_ kegelvormig neus [en] _een_ kegelvormig haart 
+A|3| A: _en dan_ [twee] armp 
+A|4| A: dus _twee kegel_ _één_ als neus [en] _één_ als haar 
+A|5| A: armpje _ja_ _een soort_ _van_ Minecraftarmpje _ja_ 
+A|6| A: _ja_ _ja_ _ja_ 
+A|7| A: _ja_ _die_ 
+A|8| A: [oké] 
+B|9| B: deze [hebben een soort] [ja] 
+B|10| B: [kegel] erop [die] er ook voor zitten [en dan] rechts [die] blok weer [die] steeds [een] klein blok [en dan] [een] groot blok [en dan] nog groot blok 
+B|11| B: [en] links aan _de_ zijkant nog 
+B|12| B: _dat zijn_ ongeveer dezelfde [kegel] 
+B|13| B: volgens mij [zijn] het [één] [van] _de_ [één] [die] we [hebben] 
+B|14| B: [ja] rechts in elkaar gestapeld blok 
+B|15| B: [en] links boven _dat_ kegelding zitten nog [een] klein _raar_ fru 
+B|16| B: [ja] _dat zijn_ bij mij J 
+A|17| A: [die] 
+A|18| A: [die] Minecraft 
+A|19| A: [dat zijn] numero elf 
+B|20| B: deze [hebben] weer [die] [twee kegel] _en die_ blok [die] 
+B|21| B: [ja] 
+B|22| B: B 
+A|23| A: dit [zijn] [die] Pinokkio _met_ [dat] [raar] [dat] [dat] [dat] [raar] autistisch hand [en die] [en die] [en die] 
+A|24| A: [en] [dat] Mindcrafthand 
+A|25| A: [ja] [ja] 
+B|26| B: deze [zijn] weer [met] [die] [twee] ding [die] zo _gaan_ 
+B|27| B: [en die] 
+B|28| B: [ja] 
+A|29| A: ik [gaan] hem even opzoeken 
+A|30| A: op [een] geven moment ah [ja] ik [hebben] hem vinden 
+A|31| A: dit [zijn] numero negen 
+A|32| A: [de] [de] Mindcraftarmpje [en] [dat] [raar] armp 
+A|33| A: [dat zijn] nummer vier 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : en zitten er link nog twee dinget
+	Free: Pattern=en, Pattern=twee
+	Constrained: 
+Turn ID=1| B | B : oké dan zijn het E
+	Free: Pattern=dan, Pattern=oké, Pattern=zijn
+	Constrained: 
+Turn ID=2| A | A : dit zijn een soort van ja ik hij hebben een soort van kegelvormig neus en een kegelvormig haart
+	Free: Pattern=ja, Pattern=een, Pattern=zijn, Pattern=hebben een soort, Pattern=een soort, Pattern=van, Pattern=en
+	Constrained: Pattern=een soort, Pattern=hebben, Pattern=een
+Turn ID=3| A | A : en dan twee armp
+	Free: Pattern=en dan, Pattern=twee
+	Constrained: Pattern=en, Pattern=dan
+Turn ID=4| A | A : dus twee kegel één als neus en één als haar
+	Free: Pattern=twee kegel, Pattern=en, Pattern=één
+	Constrained: Pattern=kegel, Pattern=twee
+Turn ID=5| A | A : armpje ja een soort van Minecraftarmpje ja
+	Free: Pattern=een soort, Pattern=ja, Pattern=van
+	Constrained: Pattern=een
+Turn ID=6| A | A : ja ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=7| A | A : ja die
+	Free: Pattern=die, Pattern=ja
+	Constrained: 
+Turn ID=8| A | A : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=9| B | B : deze hebben een soort ja
+	Free: Pattern=hebben een soort, Pattern=ja
+	Constrained: Pattern=een soort, Pattern=hebben, Pattern=een
+Turn ID=10| B | B : kegel erop die er ook voor zitten en dan rechts die blok weer die steeds een klein blok en dan een groot blok en dan nog groot blok
+	Free: Pattern=en dan, Pattern=die, Pattern=kegel, Pattern=een
+	Constrained: Pattern=en, Pattern=dan
+Turn ID=11| B | B : en links aan de zijkant nog
+	Free: Pattern=en, Pattern=de
+	Constrained: 
+Turn ID=12| B | B : dat zijn ongeveer dezelfde kegel
+	Free: Pattern=dat zijn, Pattern=kegel
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=13| B | B : volgens mij zijn het één van de één die we hebben
+	Free: Pattern=de, Pattern=hebben, Pattern=die, Pattern=van, Pattern=zijn, Pattern=één
+	Constrained: 
+Turn ID=14| B | B : ja rechts in elkaar gestapeld blok
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=15| B | B : en links boven dat kegelding zitten nog een klein raar fru
+	Free: Pattern=en, Pattern=dat, Pattern=raar, Pattern=een
+	Constrained: 
+Turn ID=16| B | B : ja dat zijn bij mij J
+	Free: Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=17| A | A : die
+	Free: Pattern=die
+	Constrained: 
+Turn ID=18| A | A : die Minecraft
+	Free: Pattern=die
+	Constrained: 
+Turn ID=19| A | A : dat zijn numero elf
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=20| B | B : deze hebben weer die twee kegel en die blok die
+	Free: Pattern=en die, Pattern=twee kegel, Pattern=die, Pattern=hebben
+	Constrained: Pattern=die, Pattern=en, Pattern=kegel, Pattern=twee
+Turn ID=21| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=22| B | B : B
+	Free: 
+	Constrained: 
+Turn ID=23| A | A : dit zijn die Pinokkio met dat raar dat dat dat raar autistisch hand en die en die en die
+	Free: Pattern=en die, Pattern=dat, Pattern=met, Pattern=die, Pattern=zijn, Pattern=raar
+	Constrained: Pattern=die, Pattern=en
+Turn ID=24| A | A : en dat Mindcrafthand
+	Free: Pattern=en, Pattern=dat
+	Constrained: 
+Turn ID=25| A | A : ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=26| B | B : deze zijn weer met die twee ding die zo gaan
+	Free: Pattern=twee, Pattern=met, Pattern=die, Pattern=zijn, Pattern=gaan
+	Constrained: 
+Turn ID=27| B | B : en die
+	Free: Pattern=en die
+	Constrained: Pattern=die, Pattern=en
+Turn ID=28| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=29| A | A : ik gaan hem even opzoeken
+	Free: Pattern=gaan
+	Constrained: 
+Turn ID=30| A | A : op een geven moment ah ja ik hebben hem vinden
+	Free: Pattern=ja, Pattern=hebben, Pattern=een
+	Constrained: 
+Turn ID=31| A | A : dit zijn numero negen
+	Free: Pattern=zijn
+	Constrained: 
+Turn ID=32| A | A : de de Mindcraftarmpje en dat raar armp
+	Free: Pattern=en, Pattern=dat, Pattern=raar, Pattern=de
+	Constrained: 
+Turn ID=33| A | A : dat zijn nummer vier
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn

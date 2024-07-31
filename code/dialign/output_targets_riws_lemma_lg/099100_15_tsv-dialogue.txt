@@ -1,0 +1,91 @@
+B|0| B: _ja ik_ zien het _een_ beetje als _een_ soort van ballerina het _hebben_ zeggen maar het _zijn_ _een_ pot _met_ _een_ _vierkant_ plaat om zich heen 
+A|1| A: [ja] 
+A|2| A: [ik] [hebben] _dat_ ook precies _zo'n_ tutu 
+B|3| B: [ja] [zo'n] tutuu 
+A|4| A: [ja ik] weten welk je bedoelen 
+B|5| B: [ja] 
+B|6| B: _oké_ 
+A|7| A: [oké] 
+A|8| A: _dat zijn_ dan nummer zes 
+A|9| A: _dit zijn_ die [een] [met] die [vierkant] tutu 
+B|10| B: [ja] 
+B|11| B: [dat zijn] C 
+B|12| B: [dit zijn] weer [dat] poppe [met] het tutuu 
+A|13| A: ah [ja] [dat zijn] nummer dertien 
+A|14| A: [dit zijn] [met] die tutu 
+B|15| B: [oké] 
+B|16| B: [dat zijn] J 
+B|17| B: [dit zijn] weer [met] het tutuu 
+A|18| A: [dat zijn] nummer negen 
+A|19| A: [dit zijn] [met] die tutu 
+B|20| B: [ja] 
+B|21| B: [dat zijn] N 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : ja ik zien het een beetje als een soort van ballerina het hebben zeggen maar het zijn een pot met een vierkant plaat om zich heen
+	Free: Pattern=een, Pattern=hebben, Pattern=met, Pattern=ja ik, Pattern=zijn, Pattern=vierkant
+	Constrained: Pattern=ja, Pattern=ik
+Turn ID=1| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=2| A | A : ik hebben dat ook precies zo'n tutu
+	Free: Pattern=dat, Pattern=zo'n, Pattern=ik, Pattern=hebben
+	Constrained: 
+Turn ID=3| B | B : ja zo'n tutuu
+	Free: Pattern=ja, Pattern=zo'n
+	Constrained: 
+Turn ID=4| A | A : ja ik weten welk je bedoelen
+	Free: Pattern=ja ik
+	Constrained: Pattern=ja, Pattern=ik
+Turn ID=5| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=6| B | B : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=7| A | A : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=8| A | A : dat zijn dan nummer zes
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=9| A | A : dit zijn die een met die vierkant tutu
+	Free: Pattern=dit zijn, Pattern=een, Pattern=vierkant, Pattern=met
+	Constrained: Pattern=zijn
+Turn ID=10| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=11| B | B : dat zijn C
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=12| B | B : dit zijn weer dat poppe met het tutuu
+	Free: Pattern=dit zijn, Pattern=dat, Pattern=met
+	Constrained: Pattern=zijn
+Turn ID=13| A | A : ah ja dat zijn nummer dertien
+	Free: Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=14| A | A : dit zijn met die tutu
+	Free: Pattern=dit zijn, Pattern=met
+	Constrained: Pattern=zijn
+Turn ID=15| B | B : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=16| B | B : dat zijn J
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=17| B | B : dit zijn weer met het tutuu
+	Free: Pattern=dit zijn, Pattern=met
+	Constrained: Pattern=zijn
+Turn ID=18| A | A : dat zijn nummer negen
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=19| A | A : dit zijn met die tutu
+	Free: Pattern=dit zijn, Pattern=met
+	Constrained: Pattern=zijn
+Turn ID=20| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=21| B | B : dat zijn N
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn

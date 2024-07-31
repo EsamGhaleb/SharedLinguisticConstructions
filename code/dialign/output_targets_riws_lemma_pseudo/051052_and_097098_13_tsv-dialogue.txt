@@ -1,0 +1,123 @@
+B|0| B: ik _hebben_ in principe _een_ mokvormig paasding _met een_ cirkel daartegenaan ploppen waar _dan_ _een_ soort _tui_ _aan_ zitten _aan beide kant_ zitten 
+A|1| A: _die_ _en_ hij _staan_ _op_ zo'n vierkant _vlak_ 
+A|2| A: _en_ hij [hebben] [een] rond [met een] [tui] 
+B|3| B: van [die] ruitvormig dinget _het_ 
+A|4| A: [dan] _zijn_ _dat_ nummer vijf 
+B|5| B: yes 
+B|6| B: _ja_ 
+A|7| A: [die] diamant _drie_ diaman [aan] _de_ _en dan_ _op_ [het] vierkant [met] [het] rond 
+B|8| B: _ja_ 
+B|9| B: zeggen maar ruitvormig dinget toch [op] [een] plateau _ja_ _dat zijn_ bij J bij mij 
+A|10| A: [ja] 
+A|11| A: [dat zijn] nummer elf 
+B|12| B: ik [hebben] [de] basisvorm [met een] plat cirkel 
+B|13| B: [en] [aan] weerszijde [die] [drie] klein ruit [en dan] [staan] [het] [op] [een] soort plateau of [ja] [een] [een] bodempje 
+B|14| B: er zitten in principe [de] enig waarbij er [aan] weerszijde van [de] basisvorm [drie] klein ruit zitten 
+B|15| B: [en dan] vooraan zitten [een] plat cirkel 
+B|16| B: yes 
+A|17| A: [de] [drie] diaman [aan beide kant] [op] [het] vierkant 
+B|18| B: [ja] 
+B|19| B: [en dan] [een] [vlak] cirkel toch ? [ja] [dat zijn] hetzelfde 
+B|20| B: P 
+A|21| A: [op] [op] [het] bord [en] [de] Ronje 
+A|22| A: [dat zijn] nummer negen 
+B|23| B: ik [hebben] degeen [met] [de] plat cirkel voor 
+B|24| B: [en dan] [de] ruitvormig uitsteekselt [aan] weerszijde 
+A|25| A: [de] diaman 
+A|26| A: [drie] link [drie] rechts [op] [het] plaat 
+B|27| B: ah 
+B|28| B: [en dan] [een] plat cirkel voor 
+B|29| B: yes L 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : ik hebben in principe een mokvormig paasding met een cirkel daartegenaan ploppen waar dan een soort tui aan zitten aan beide kant zitten
+	Free: Pattern=aan, Pattern=aan beide kant, Pattern=dan, Pattern=een, Pattern=hebben, Pattern=met een, Pattern=tui
+	Constrained: Pattern=aan, Pattern=een, Pattern=met
+Turn ID=1| A | A : die en hij staan op zo'n vierkant vlak
+	Free: Pattern=op, Pattern=staan, Pattern=die, Pattern=vlak, Pattern=en
+	Constrained: 
+Turn ID=2| A | A : en hij hebben een rond met een tui
+	Free: Pattern=een, Pattern=hebben, Pattern=en, Pattern=met een, Pattern=tui
+	Constrained: Pattern=met, Pattern=een
+Turn ID=3| B | B : van die ruitvormig dinget het
+	Free: Pattern=het, Pattern=die
+	Constrained: 
+Turn ID=4| A | A : dan zijn dat nummer vijf
+	Free: Pattern=dat, Pattern=dan, Pattern=zijn
+	Constrained: 
+Turn ID=5| B | B : yes
+	Free: 
+	Constrained: 
+Turn ID=6| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=7| A | A : die diamant drie diaman aan de en dan op het vierkant met het rond
+	Free: Pattern=en dan, Pattern=op, Pattern=met, Pattern=die, Pattern=de, Pattern=aan, Pattern=het, Pattern=drie
+	Constrained: Pattern=en, Pattern=dan
+Turn ID=8| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=9| B | B : zeggen maar ruitvormig dinget toch op een plateau ja dat zijn bij J bij mij
+	Free: Pattern=dat zijn, Pattern=ja, Pattern=op, Pattern=een
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=10| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=11| A | A : dat zijn nummer elf
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=12| B | B : ik hebben de basisvorm met een plat cirkel
+	Free: Pattern=met een, Pattern=hebben, Pattern=de
+	Constrained: Pattern=met, Pattern=een
+Turn ID=13| B | B : en aan weerszijde die drie klein ruit en dan staan het op een soort plateau of ja een een bodempje
+	Free: Pattern=en dan, Pattern=op, Pattern=die, Pattern=en, Pattern=aan, Pattern=ja, Pattern=een, Pattern=staan, Pattern=het, Pattern=drie
+	Constrained: Pattern=en, Pattern=dan
+Turn ID=14| B | B : er zitten in principe de enig waarbij er aan weerszijde van de basisvorm drie klein ruit zitten
+	Free: Pattern=drie, Pattern=de, Pattern=aan
+	Constrained: 
+Turn ID=15| B | B : en dan vooraan zitten een plat cirkel
+	Free: Pattern=en dan, Pattern=een
+	Constrained: Pattern=en, Pattern=dan
+Turn ID=16| B | B : yes
+	Free: 
+	Constrained: 
+Turn ID=17| A | A : de drie diaman aan beide kant op het vierkant
+	Free: Pattern=de, Pattern=aan beide kant, Pattern=op, Pattern=het, Pattern=drie
+	Constrained: Pattern=aan
+Turn ID=18| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=19| B | B : en dan een vlak cirkel toch ? ja dat zijn hetzelfde
+	Free: Pattern=dat zijn, Pattern=ja, Pattern=en dan, Pattern=een, Pattern=vlak
+	Constrained: Pattern=en, Pattern=dat, Pattern=dan, Pattern=zijn
+Turn ID=20| B | B : P
+	Free: 
+	Constrained: 
+Turn ID=21| A | A : op op het bord en de Ronje
+	Free: Pattern=en, Pattern=de, Pattern=het, Pattern=op
+	Constrained: 
+Turn ID=22| A | A : dat zijn nummer negen
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=23| B | B : ik hebben degeen met de plat cirkel voor
+	Free: Pattern=hebben, Pattern=de, Pattern=met
+	Constrained: 
+Turn ID=24| B | B : en dan de ruitvormig uitsteekselt aan weerszijde
+	Free: Pattern=en dan, Pattern=de, Pattern=aan
+	Constrained: Pattern=en, Pattern=dan
+Turn ID=25| A | A : de diaman
+	Free: Pattern=de
+	Constrained: 
+Turn ID=26| A | A : drie link drie rechts op het plaat
+	Free: Pattern=drie, Pattern=het, Pattern=op
+	Constrained: 
+Turn ID=27| B | B : ah
+	Free: 
+	Constrained: 
+Turn ID=28| B | B : en dan een plat cirkel voor
+	Free: Pattern=en dan, Pattern=een
+	Constrained: Pattern=en, Pattern=dan
+Turn ID=29| B | B : yes L
+	Free: 
+	Constrained: 

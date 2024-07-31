@@ -1,0 +1,107 @@
+B|0| B: _ja_ _ja_ _ja_ 
+B|1| B: _en dan_ hebben _die_ 
+B|2| B: _ja_ _en een_ fliebel _aan de_ achterkant 
+B|3| B: yes 
+B|4| B: J 
+B|5| B: _dit zijn _met_ de_ driehoekpunt _bovenop_ _het_ kop _met die_ heel groot neus 
+B|6| B: _met_ _het_ rond wiele link onderin 
+B|7| B: puntmuts 
+B|8| B: _de_ puntmuts 
+A|9| A: ok deze [zijn [met] die] piramide op [zijn] hoofd maar wel [met de] scherp punt [en] allemaal van [die] random blok [en een] soort 
+A|10| A: potloodpunt [aan de] linkerkant zonder [de] rest van [het] potlood [ja] 
+A|11| A: ok 
+B|12| B: [ja] E 
+A|13| A: [ja] 
+A|14| A: [met] echt [met die] spits niet [die] afgevlakte 
+A|15| A: [en dan] allemaal random ding er [ja] 
+A|16| A: [ja] precies dat [zijn] nummer zes bij mij 
+B|17| B: _dit zijn_ [de] puntmuts 
+B|18| B: [ja] [met de] groot neus 
+A|19| A: [dit zijn] [die] [met die] scherp driehoek [bovenop] [en] [die] dat potloodpun [aan de] zijkant 
+B|20| B: [ja] G 
+B|21| B: [de] puntmuts 
+B|22| B: [met de] groot neus 
+A|23| A: [ja] dat [zijn] nummer tien 
+A|24| A: [dit zijn [met] die] scherp driehoek [bovenop] [met de] potloodpunt 
+A|25| A: [ja] dat [zijn] nummer tien 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : ja ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=1| B | B : en dan hebben die
+	Free: Pattern=en dan, Pattern=die
+	Constrained: Pattern=en
+Turn ID=2| B | B : ja en een fliebel aan de achterkant
+	Free: Pattern=en een, Pattern=aan de, Pattern=ja
+	Constrained: Pattern=de, Pattern=en
+Turn ID=3| B | B : yes
+	Free: 
+	Constrained: 
+Turn ID=4| B | B : J
+	Free: 
+	Constrained: 
+Turn ID=5| B | B : dit zijn met de driehoekpunt bovenop het kop met die heel groot neus
+	Free: Pattern=met de, Pattern=dit zijn met, Pattern=het, Pattern=met die, Pattern=bovenop
+	Constrained: Pattern=de, Pattern=met, Pattern=zijn, Pattern=dit zijn, Pattern=zijn met, Pattern=die
+Turn ID=6| B | B : met het rond wiele link onderin
+	Free: Pattern=met, Pattern=het
+	Constrained: 
+Turn ID=7| B | B : puntmuts
+	Free: 
+	Constrained: 
+Turn ID=8| B | B : de puntmuts
+	Free: Pattern=de
+	Constrained: 
+Turn ID=9| A | A : ok deze zijn met die piramide op zijn hoofd maar wel met de scherp punt en allemaal van die random blok en een soort
+	Free: Pattern=met die, Pattern=met de, Pattern=en, Pattern=zijn met, Pattern=die, Pattern=en een, Pattern=zijn
+	Constrained: Pattern=de, Pattern=met, Pattern=die, Pattern=en, Pattern=zijn
+Turn ID=10| A | A : potloodpunt aan de linkerkant zonder de rest van het potlood ja
+	Free: Pattern=aan de, Pattern=de, Pattern=ja, Pattern=het
+	Constrained: Pattern=de
+Turn ID=11| A | A : ok
+	Free: 
+	Constrained: 
+Turn ID=12| B | B : ja E
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=13| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=14| A | A : met echt met die spits niet die afgevlakte
+	Free: Pattern=met die, Pattern=die, Pattern=met
+	Constrained: Pattern=die, Pattern=met
+Turn ID=15| A | A : en dan allemaal random ding er ja
+	Free: Pattern=en dan, Pattern=ja
+	Constrained: Pattern=en
+Turn ID=16| A | A : ja precies dat zijn nummer zes bij mij
+	Free: Pattern=ja, Pattern=zijn
+	Constrained: 
+Turn ID=17| B | B : dit zijn de puntmuts
+	Free: Pattern=dit zijn, Pattern=de
+	Constrained: Pattern=zijn
+Turn ID=18| B | B : ja met de groot neus
+	Free: Pattern=met de, Pattern=ja
+	Constrained: Pattern=de, Pattern=met
+Turn ID=19| A | A : dit zijn die met die scherp driehoek bovenop en die dat potloodpun aan de zijkant
+	Free: Pattern=aan de, Pattern=die, Pattern=en, Pattern=dit zijn, Pattern=met die, Pattern=bovenop
+	Constrained: Pattern=de, Pattern=die, Pattern=met, Pattern=zijn
+Turn ID=20| B | B : ja G
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=21| B | B : de puntmuts
+	Free: Pattern=de
+	Constrained: 
+Turn ID=22| B | B : met de groot neus
+	Free: Pattern=met de
+	Constrained: Pattern=de, Pattern=met
+Turn ID=23| A | A : ja dat zijn nummer tien
+	Free: Pattern=ja, Pattern=zijn
+	Constrained: 
+Turn ID=24| A | A : dit zijn met die scherp driehoek bovenop met de potloodpunt
+	Free: Pattern=dit zijn met, Pattern=met de, Pattern=met die, Pattern=bovenop
+	Constrained: Pattern=de, Pattern=met, Pattern=zijn, Pattern=dit zijn, Pattern=zijn met, Pattern=die
+Turn ID=25| A | A : ja dat zijn nummer tien
+	Free: Pattern=ja, Pattern=zijn
+	Constrained: 

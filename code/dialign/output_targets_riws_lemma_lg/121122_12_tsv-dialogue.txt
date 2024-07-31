@@ -1,0 +1,91 @@
+A|0| A: _dit zijn_ diegene die _hebben_ _dat zijn_ gewoon _dat_ dan _hebben_ die aan de een zijkant komen een soort niervormig uitstulpsel uit en de ander kant _hebben_ die een soort van plateau waarop _ik_ een plant _zullen_ zetten 
+A|1| A: maar en dan _bij_ _dat_ uitstulpsel komen een soort aliending naartoe 
+B|2| B: _ja_ 
+B|3| B: _ja_ 
+B|4| B: _dat zijn bij_ mij L 
+B|5| B: mooi omschrijving 
+A|6| A: wel 
+B|7| B: [dit zijn] _waar_ jij je plan op [zullen] voortzetten _met_ 
+A|8| A: [ja] 
+A|9| A: mijn _cactus_ 
+A|10| A: [dat zijn bij] deze [waar] staan die 
+B|11| B: je [cactus] 
+A|12| A: nummer zeven 
+A|13| A: mijn _plantenbak_ 
+A|14| A: die 
+B|15| B: C 
+B|16| B: [ik] [hebben] jou [plantenbak] 
+A|17| A: [ja] [dat zijn] nummer één 
+A|18| A: die [met] [dat] plantenplateau 
+B|19| B: [zijn] A 
+B|20| B: [bij] mij [dat] [plantenbak] 
+A|21| A: nummer dertien 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : dit zijn diegene die hebben dat zijn gewoon dat dan hebben die aan de een zijkant komen een soort niervormig uitstulpsel uit en de ander kant hebben die een soort van plateau waarop ik een plant zullen zetten
+	Free: Pattern=zullen, Pattern=hebben, Pattern=ik, Pattern=dit zijn, Pattern=dat, Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=1| A | A : maar en dan bij dat uitstulpsel komen een soort aliending naartoe
+	Free: Pattern=bij, Pattern=dat
+	Constrained: 
+Turn ID=2| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=3| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=4| B | B : dat zijn bij mij L
+	Free: Pattern=dat zijn bij
+	Constrained: Pattern=bij, Pattern=dat, Pattern=zijn, Pattern=dat zijn
+Turn ID=5| B | B : mooi omschrijving
+	Free: 
+	Constrained: 
+Turn ID=6| A | A : wel
+	Free: 
+	Constrained: 
+Turn ID=7| B | B : dit zijn waar jij je plan op zullen voortzetten met
+	Free: Pattern=dit zijn, Pattern=waar, Pattern=zullen, Pattern=met
+	Constrained: Pattern=zijn
+Turn ID=8| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=9| A | A : mijn cactus
+	Free: Pattern=cactus
+	Constrained: 
+Turn ID=10| A | A : dat zijn bij deze waar staan die
+	Free: Pattern=dat zijn bij, Pattern=waar
+	Constrained: Pattern=bij, Pattern=dat, Pattern=zijn, Pattern=dat zijn
+Turn ID=11| B | B : je cactus
+	Free: Pattern=cactus
+	Constrained: 
+Turn ID=12| A | A : nummer zeven
+	Free: 
+	Constrained: 
+Turn ID=13| A | A : mijn plantenbak
+	Free: Pattern=plantenbak
+	Constrained: 
+Turn ID=14| A | A : die
+	Free: 
+	Constrained: 
+Turn ID=15| B | B : C
+	Free: 
+	Constrained: 
+Turn ID=16| B | B : ik hebben jou plantenbak
+	Free: Pattern=plantenbak, Pattern=ik, Pattern=hebben
+	Constrained: 
+Turn ID=17| A | A : ja dat zijn nummer één
+	Free: Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=18| A | A : die met dat plantenplateau
+	Free: Pattern=dat, Pattern=met
+	Constrained: 
+Turn ID=19| B | B : zijn A
+	Free: Pattern=zijn
+	Constrained: 
+Turn ID=20| B | B : bij mij dat plantenbak
+	Free: Pattern=plantenbak, Pattern=bij, Pattern=dat
+	Constrained: 
+Turn ID=21| A | A : nummer dertien
+	Free: 
+	Constrained: 

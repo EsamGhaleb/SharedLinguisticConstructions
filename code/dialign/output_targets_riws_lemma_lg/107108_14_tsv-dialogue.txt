@@ -1,0 +1,143 @@
+A|0| A: _ok_ 
+A|1| A: _okan ja_ deze _doen_ me _niet_ per se _aan_ iets _denken_ _of_ _zo_ dus _ik_ _gaan_ hem gewoon omschrijven _die_ hebben _aan de_ voorkant _een_ 
+A|2| A: best _wel_ lang rechthoekig balk _en_ _aan de_ twee _zijkant_ _een_ soort rond uitsteek _aan_ allebei te kant _en_ op _de_ bovenkant _een_ rond 
+B|3| B: _o_ [ja] volgens _ja ik_ [denken] [wel] _dat ik_ weten tenminste _mij_ [doen] _het_ beetje [denken] [aan] _Bolpuntcom man_ [ik] weten [niet] [of] _je het_ _dan_ 
+A|4| A: [Bolpuntcom man] [ja ik] snapen [wel] wat [je] bedoelen 
+B|5| B: _ja ok_ _dan_ _zijn het_ [denken] _ik wel_ _dezelfde_ [ja] _dan_ _dat_ _zijn_ _bij mij_ in ieder geval D 
+A|6| A: _okan ja_ 
+A|7| A: _ok bij mij_ zeven 
+B|8| B: _o_ _dan_ moeten [ik] eerst nog drukken 
+B|9| B: _o_ _dit zijn_ _o_ _dit zijn_ weer _dezelfde_ beetje _dat_ bolpuntcom [man] waar _het_ [mij] [aan] [doen] [denken] _met _die_ armpjes zo_ [aan de] [zijkant] _en dat_ blok 
+A|10| A: [o] 
+B|11| B: _er_ voor 
+A|12| A: [en dat] bolle op [zijn] hoofd toch ? [ja _ok] bij mij_ [zijn] [dat] vijftien 
+B|13| B: [ja] [ja] 
+B|14| B: [ok bij mij] K 
+A|15| A: [ok] 
+A|16| A: [dit zijn] wat zeggen [je] hier ook alweer hier over ? [Bolpuntcom man] 
+B|17| B: [o] [die] [okan ja] [dat] [zijn] [bij mij] L 
+A|18| A: [ja] _even_ om zeker te [zijn] [dat [ik] wel] [de] goed hebben [die] _een_ [met die] pilaar hier [zo] [en] [dan] [het] hoofd [en] [die armpjes zo] [ja] [bij mij] oklen [ja] [bij mij] [zijn] [dat] twee 
+B|19| B: [ja] [ja] [die] [ja] 
+B|20| B: [ok] 
+B|21| B: [o] wachten [gaan] [ik] weer [even] 
+A|22| A: [ja] maken ook eigenlijk [niet] uit [gaan] [er] om [dat] ze op [dezelfde] plek staan maken [niet] uit hoe [je het] uitleggen 
+B|23| B: [ja] [dat] [zijn] waar 
+B|24| B: _dit zijn het [Bolpuntcom_ man] [met] [een] blok voor 
+A|25| A: [ja] [zijn] zes 
+B|26| B: [ok bij mij] M 
+A|27| A: [ja] 
+A|28| A: [dit zijn het Bolpuntcom] 
+B|29| B: [even] kijken waar [die] [zijn] [o] daar J 
+A|30| A: [ja] vijftien [bij mij] 
+B|31| B: [o] 
+B|32| B: [het] bolpuntcom poppe 
+A|33| A: [ja] [even] zoeken [zijn] drie [bij mij] 
+B|34| B: [ok bij mij] A 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : ok
+	Free: Pattern=ok
+	Constrained: 
+Turn ID=1| A | A : okan ja deze doen me niet per se aan iets denken of zo dus ik gaan hem gewoon omschrijven die hebben aan de voorkant een
+	Free: Pattern=of, Pattern=aan, Pattern=niet, Pattern=een, Pattern=zo, Pattern=die, Pattern=ik, Pattern=gaan, Pattern=denken, Pattern=doen, Pattern=aan de, Pattern=okan ja
+	Constrained: Pattern=aan, Pattern=de, Pattern=ja
+Turn ID=2| A | A : best wel lang rechthoekig balk en aan de twee zijkant een soort rond uitsteek aan allebei te kant en op de bovenkant een rond
+	Free: Pattern=aan de, Pattern=zijkant, Pattern=en, Pattern=de, Pattern=aan, Pattern=een, Pattern=wel
+	Constrained: Pattern=aan, Pattern=de
+Turn ID=3| B | B : o ja volgens ja ik denken wel dat ik weten tenminste mij doen het beetje denken aan Bolpuntcom man ik weten niet of je het dan
+	Free: Pattern=dat ik, Pattern=of, Pattern=Bolpuntcom man, Pattern=je het, Pattern=wel, Pattern=het, Pattern=ja ik, Pattern=o, Pattern=denken, Pattern=doen, Pattern=aan, Pattern=ja, Pattern=niet, Pattern=dan, Pattern=mij, Pattern=ik
+	Constrained: Pattern=dat, Pattern=ja, Pattern=het, Pattern=ik, Pattern=je, Pattern=man
+Turn ID=4| A | A : Bolpuntcom man ja ik snapen wel wat je bedoelen
+	Free: Pattern=ja ik, Pattern=Bolpuntcom man, Pattern=wel, Pattern=je
+	Constrained: Pattern=man, Pattern=ik, Pattern=ja
+Turn ID=5| B | B : ja ok dan zijn het denken ik wel dezelfde ja dan dat zijn bij mij in ieder geval D
+	Free: Pattern=dat, Pattern=zijn het, Pattern=ik wel, Pattern=ja, Pattern=dan, Pattern=ja ok, Pattern=zijn, Pattern=bij mij, Pattern=denken, Pattern=dezelfde
+	Constrained: Pattern=ja, Pattern=wel, Pattern=het, Pattern=ok, Pattern=zijn, Pattern=mij, Pattern=ik
+Turn ID=6| A | A : okan ja
+	Free: Pattern=okan ja
+	Constrained: Pattern=ja
+Turn ID=7| A | A : ok bij mij zeven
+	Free: Pattern=ok bij mij
+	Constrained: Pattern=bij mij, Pattern=ok, Pattern=mij
+Turn ID=8| B | B : o dan moeten ik eerst nog drukken
+	Free: Pattern=o, Pattern=ik, Pattern=dan
+	Constrained: 
+Turn ID=9| B | B : o dit zijn o dit zijn weer dezelfde beetje dat bolpuntcom man waar het mij aan doen denken met die armpjes zo aan de zijkant en dat blok
+	Free: Pattern=aan, Pattern=aan de, Pattern=het, Pattern=zijkant, Pattern=mij, Pattern=en dat, Pattern=dat, Pattern=met die, Pattern=denken, Pattern=doen, Pattern=dezelfde, Pattern=die armpjes zo, Pattern=dit zijn, Pattern=man, Pattern=o
+	Constrained: Pattern=dat, Pattern=zo, Pattern=met, Pattern=die, Pattern=en, Pattern=zijn, Pattern=de, Pattern=aan
+Turn ID=10| A | A : o
+	Free: Pattern=o
+	Constrained: 
+Turn ID=11| B | B : er voor
+	Free: Pattern=er
+	Constrained: 
+Turn ID=12| A | A : en dat bolle op zijn hoofd toch ? ja ok bij mij zijn dat vijftien
+	Free: Pattern=dat, Pattern=ja ok, Pattern=ok bij mij, Pattern=zijn, Pattern=en dat
+	Constrained: Pattern=dat, Pattern=ja, Pattern=ok, Pattern=mij, Pattern=en, Pattern=bij mij
+Turn ID=13| B | B : ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=14| B | B : ok bij mij K
+	Free: Pattern=ok bij mij
+	Constrained: Pattern=bij mij, Pattern=ok, Pattern=mij
+Turn ID=15| A | A : ok
+	Free: Pattern=ok
+	Constrained: 
+Turn ID=16| A | A : dit zijn wat zeggen je hier ook alweer hier over ? Bolpuntcom man
+	Free: Pattern=Bolpuntcom man, Pattern=dit zijn, Pattern=je
+	Constrained: Pattern=zijn, Pattern=man
+Turn ID=17| B | B : o die okan ja dat zijn bij mij L
+	Free: Pattern=dat, Pattern=okan ja, Pattern=die, Pattern=zijn, Pattern=bij mij, Pattern=o
+	Constrained: Pattern=ja, Pattern=mij
+Turn ID=18| A | A : ja even om zeker te zijn dat ik wel de goed hebben die een met die pilaar hier zo en dan het hoofd en die armpjes zo ja bij mij oklen ja bij mij zijn dat twee
+	Free: Pattern=ik wel, Pattern=die armpjes zo, Pattern=even, Pattern=dan, Pattern=een, Pattern=het, Pattern=zo, Pattern=die, Pattern=en, Pattern=zijn, Pattern=bij mij, Pattern=met die, Pattern=dat ik, Pattern=dat, Pattern=de, Pattern=ja
+	Constrained: Pattern=dat, Pattern=wel, Pattern=zo, Pattern=met, Pattern=die, Pattern=mij, Pattern=ik
+Turn ID=19| B | B : ja ja die ja
+	Free: Pattern=die, Pattern=ja
+	Constrained: 
+Turn ID=20| B | B : ok
+	Free: Pattern=ok
+	Constrained: 
+Turn ID=21| B | B : o wachten gaan ik weer even
+	Free: Pattern=even, Pattern=gaan, Pattern=o, Pattern=ik
+	Constrained: 
+Turn ID=22| A | A : ja maken ook eigenlijk niet uit gaan er om dat ze op dezelfde plek staan maken niet uit hoe je het uitleggen
+	Free: Pattern=dat, Pattern=dezelfde, Pattern=ja, Pattern=niet, Pattern=je het, Pattern=er, Pattern=gaan
+	Constrained: Pattern=je, Pattern=het
+Turn ID=23| B | B : ja dat zijn waar
+	Free: Pattern=zijn, Pattern=ja, Pattern=dat
+	Constrained: 
+Turn ID=24| B | B : dit zijn het Bolpuntcom man met een blok voor
+	Free: Pattern=dit zijn het Bolpuntcom, Pattern=Bolpuntcom man, Pattern=met, Pattern=een
+	Constrained: Pattern=zijn het, Pattern=het, Pattern=zijn, Pattern=dit zijn, Pattern=man
+Turn ID=25| A | A : ja zijn zes
+	Free: Pattern=zijn, Pattern=ja
+	Constrained: 
+Turn ID=26| B | B : ok bij mij M
+	Free: Pattern=ok bij mij
+	Constrained: Pattern=bij mij, Pattern=ok, Pattern=mij
+Turn ID=27| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=28| A | A : dit zijn het Bolpuntcom
+	Free: Pattern=dit zijn het Bolpuntcom
+	Constrained: Pattern=het, Pattern=dit zijn, Pattern=zijn het, Pattern=zijn
+Turn ID=29| B | B : even kijken waar die zijn o daar J
+	Free: Pattern=even, Pattern=zijn, Pattern=die, Pattern=o
+	Constrained: 
+Turn ID=30| A | A : ja vijftien bij mij
+	Free: Pattern=bij mij, Pattern=ja
+	Constrained: Pattern=mij
+Turn ID=31| B | B : o
+	Free: Pattern=o
+	Constrained: 
+Turn ID=32| B | B : het bolpuntcom poppe
+	Free: Pattern=het
+	Constrained: 
+Turn ID=33| A | A : ja even zoeken zijn drie bij mij
+	Free: Pattern=bij mij, Pattern=even, Pattern=zijn, Pattern=ja
+	Constrained: Pattern=mij
+Turn ID=34| B | B : ok bij mij A
+	Free: Pattern=ok bij mij
+	Constrained: Pattern=bij mij, Pattern=ok, Pattern=mij

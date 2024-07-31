@@ -1,0 +1,167 @@
+B|0| B: _zijn_ _het_ _een soort_ van _zijn_ _aan de_ zijkant 
+B|1| B: _een_ isteken 
+B|2| B: of _dat_ niet 
+B|3| B: _en die_ staan _bovenop_ of waar 
+B|4| B: twee daarvan 
+B|5| B: oké wachten dan 
+B|6| B: _ja_ 
+B|7| B: _en aan de_ zijkant dezelfde 
+B|8| B: ongeveer 
+B|9| B: _ja_ inderdaad _ja_ oké _ik_ _dat zijn_ E bij mij 
+A|10| A: dit [zijn] net diegene [die] [ik] beschrijven _met die_ bowlingkegel op [zijn] kop 
+A|11| A: [en] zo'n ander bowlingkegel naar _de linkerkant_ 
+A|12| A: [en aan de] achterkant zitten [een soort] worm 
+A|13| A: [en aan de] rechterkant zitten [een soort] wolkenkrabber 
+B|14| B: _weer_ _die een met_ _dat_ langwerpig ding _aan de bovenkant_ [en] hetzelfde _aan de linkerkant_ 
+B|15| B: [en] één keer [die] legoblok 
+B|16| B: oké 
+B|17| B: _ja_ precies _ja_ _ja_ 
+A|18| A: [ja] 
+A|19| A: [ja] 
+A|20| A: [dat zijn] nummer elf 
+B|21| B: _ja met die_ regenpijp 
+B|22| B: [ja] [dat zijn] [de] J bij mij 
+B|23| B: zo mooi 
+A|24| A: dit [zijn] [die een] raar [weer] [met die] kegel [aan de bovenkant] kegel [aan de linkerkant] [dat] blokjesding [aan de] rechterkant [en die] pijp [aan de] achterkant 
+A|25| A: kegel [bovenop] 
+A|26| A: [ja met die] vier 
+B|27| B: oké _het_ [zijn] [weer] [die] één keer [die] legoblok [aan de] zijkant [en] dan [dat] langwerpig dingetje hier [en] hetzelfde [aan de] _en de_ regenpijp 
+B|28| B: yes 
+A|29| A: [ja] 
+A|30| A: [dat zijn] nummer negen 
+B|31| B: [ja] 
+B|32| B: [dat zijn] B bij mij [die] regenpijp ook 
+B|33| B: [die] [zijn] echt goed 
+A|34| A: dit [zijn] [die een [met] die] raar kegel [en] [het] pijpje [en de] blok 
+B|35| B: awesome 
+B|36| B: [weer] [dat] [een] legoblok [aan de] zijkant [en] dan [dat] steeksel of [dat] flieber [en] [dat] flieber [en de] regenpijp 
+B|37| B: [dat zijn] hem 
+B|38| B: [ja] [dat] doen [dat zijn] wel [een] goed 
+A|39| A: [ja] 
+A|40| A: [zijn] nummer vier 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : zijn het een soort van zijn aan de zijkant
+	Free: Pattern=een soort, Pattern=aan de, Pattern=het, Pattern=zijn
+	Constrained: Pattern=de, Pattern=een
+Turn ID=1| B | B : een isteken
+	Free: Pattern=een
+	Constrained: 
+Turn ID=2| B | B : of dat niet
+	Free: Pattern=dat
+	Constrained: 
+Turn ID=3| B | B : en die staan bovenop of waar
+	Free: Pattern=en die, Pattern=bovenop
+	Constrained: Pattern=die, Pattern=en
+Turn ID=4| B | B : twee daarvan
+	Free: 
+	Constrained: 
+Turn ID=5| B | B : oké wachten dan
+	Free: 
+	Constrained: 
+Turn ID=6| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=7| B | B : en aan de zijkant dezelfde
+	Free: Pattern=en aan de
+	Constrained: Pattern=aan de, Pattern=de, Pattern=en
+Turn ID=8| B | B : ongeveer
+	Free: 
+	Constrained: 
+Turn ID=9| B | B : ja inderdaad ja oké ik dat zijn E bij mij
+	Free: Pattern=dat zijn, Pattern=ja, Pattern=ik
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=10| A | A : dit zijn net diegene die ik beschrijven met die bowlingkegel op zijn kop
+	Free: Pattern=met die, Pattern=die, Pattern=zijn, Pattern=ik
+	Constrained: Pattern=die
+Turn ID=11| A | A : en zo'n ander bowlingkegel naar de linkerkant
+	Free: Pattern=de linkerkant, Pattern=en
+	Constrained: Pattern=de
+Turn ID=12| A | A : en aan de achterkant zitten een soort worm
+	Free: Pattern=en aan de, Pattern=een soort
+	Constrained: Pattern=een, Pattern=de, Pattern=en, Pattern=aan de
+Turn ID=13| A | A : en aan de rechterkant zitten een soort wolkenkrabber
+	Free: Pattern=en aan de, Pattern=een soort
+	Constrained: Pattern=een, Pattern=de, Pattern=en, Pattern=aan de
+Turn ID=14| B | B : weer die een met dat langwerpig ding aan de bovenkant en hetzelfde aan de linkerkant
+	Free: Pattern=dat, Pattern=die een met, Pattern=weer, Pattern=aan de linkerkant, Pattern=aan de bovenkant, Pattern=en
+	Constrained: Pattern=de, Pattern=aan de, Pattern=een, Pattern=de linkerkant, Pattern=die, Pattern=die een
+Turn ID=15| B | B : en één keer die legoblok
+	Free: Pattern=die, Pattern=en
+	Constrained: 
+Turn ID=16| B | B : oké
+	Free: 
+	Constrained: 
+Turn ID=17| B | B : ja precies ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=18| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=19| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=20| A | A : dat zijn nummer elf
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=21| B | B : ja met die regenpijp
+	Free: Pattern=ja met die
+	Constrained: Pattern=met die, Pattern=ja, Pattern=die
+Turn ID=22| B | B : ja dat zijn de J bij mij
+	Free: Pattern=dat zijn, Pattern=ja, Pattern=de
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=23| B | B : zo mooi
+	Free: 
+	Constrained: 
+Turn ID=24| A | A : dit zijn die een raar weer met die kegel aan de bovenkant kegel aan de linkerkant dat blokjesding aan de rechterkant en die pijp aan de achterkant
+	Free: Pattern=en die, Pattern=aan de, Pattern=die een, Pattern=aan de bovenkant, Pattern=zijn, Pattern=weer, Pattern=aan de linkerkant, Pattern=dat, Pattern=met die
+	Constrained: Pattern=de, Pattern=aan de, Pattern=een, Pattern=de linkerkant, Pattern=die, Pattern=en
+Turn ID=25| A | A : kegel bovenop
+	Free: Pattern=bovenop
+	Constrained: 
+Turn ID=26| A | A : ja met die vier
+	Free: Pattern=ja met die
+	Constrained: Pattern=met die, Pattern=ja, Pattern=die
+Turn ID=27| B | B : oké het zijn weer die één keer die legoblok aan de zijkant en dan dat langwerpig dingetje hier en hetzelfde aan de en de regenpijp
+	Free: Pattern=dat, Pattern=aan de, Pattern=en de, Pattern=het, Pattern=die, Pattern=en, Pattern=zijn, Pattern=weer
+	Constrained: Pattern=de, Pattern=en
+Turn ID=28| B | B : yes
+	Free: 
+	Constrained: 
+Turn ID=29| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=30| A | A : dat zijn nummer negen
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=31| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=32| B | B : dat zijn B bij mij die regenpijp ook
+	Free: Pattern=dat zijn, Pattern=die
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=33| B | B : die zijn echt goed
+	Free: Pattern=die, Pattern=zijn
+	Constrained: 
+Turn ID=34| A | A : dit zijn die een met die raar kegel en het pijpje en de blok
+	Free: Pattern=met die, Pattern=die een met, Pattern=en de, Pattern=het, Pattern=en, Pattern=zijn
+	Constrained: Pattern=de, Pattern=een, Pattern=die, Pattern=die een, Pattern=en
+Turn ID=35| B | B : awesome
+	Free: 
+	Constrained: 
+Turn ID=36| B | B : weer dat een legoblok aan de zijkant en dan dat steeksel of dat flieber en dat flieber en de regenpijp
+	Free: Pattern=dat, Pattern=aan de, Pattern=een, Pattern=en de, Pattern=en, Pattern=weer
+	Constrained: Pattern=de, Pattern=en
+Turn ID=37| B | B : dat zijn hem
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=38| B | B : ja dat doen dat zijn wel een goed
+	Free: Pattern=dat zijn, Pattern=dat, Pattern=ja, Pattern=een
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=39| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=40| A | A : zijn nummer vier
+	Free: Pattern=zijn
+	Constrained: 

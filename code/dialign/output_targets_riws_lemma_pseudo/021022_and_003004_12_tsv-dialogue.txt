@@ -1,0 +1,115 @@
+B|0| B: rond plaat _waar_ je _in_ principe _een_ taart _op_ _zullen_ kunnen zetten 
+B|1| B: _ja_ 
+B|2| B: _ja_ 
+B|3| B: _ja ja_ 
+B|4| B: L 
+A|5| A: [ja] _dit zijn_ eigenlijk poeh _zijn_ ook [een] er komen [een] staaf [in] het midden er uit en _aan_ er prikken er eigenlijk [een] heel groot spijker [in] 
+A|6| A: en [ja] 
+A|7| A: zo'n plateau er langs [ja ja] 
+A|8| A: [ja] even kijken 
+A|9| A: o [ja] _met_ _met_ 
+A|10| A: _met die_ piramide 
+A|11| A: er [op] [ja] dat _zijn_ dan nummertje zes 
+B|12| B: [dit zijn] [die] lastig [die] we net _hebben_ [met die] rond Taarthouder _aan de_ voorkant 
+B|13| B: _de_ Taarthouder oké 
+B|14| B: _de_ Taarthouder 
+B|15| B: C 
+A|16| A: [ja] [dit zijn] weer [die] raar [met die] plateau [aan de] zijkant en wat iets uitsteken wat door [een] heel groot spijker worden doorboren [zullen] maar zeggen 
+B|17| B: [dit zijn] [de] Taarthouder 
+A|18| A: [ja] 
+A|19| A: even kijken [waar] 
+A|20| A: even zoeken even zoeken 
+A|21| A: even kijken 
+A|22| A: o [die] [ja] ah ik [hebben] hem vinden [ja [ja] [ja] ja] [met die] o daar [zijn] hij [ja ja] dat worden dan nummer één 
+B|23| B: [ja] 
+B|24| B: A 
+A|25| A: [ja] [dit zijn] [met die] omgedraaide Eiffeltoren en [met die] plateau [aan de] zijkant 
+B|26| B: [de] Taarthouder 
+A|27| A: [ja] dat [zijn] dan nummertje dertien 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : rond plaat waar je in principe een taart op zullen kunnen zetten
+	Free: Pattern=zullen, Pattern=waar, Pattern=op, Pattern=een, Pattern=in
+	Constrained: 
+Turn ID=1| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=2| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=3| B | B : ja ja
+	Free: Pattern=ja ja
+	Constrained: Pattern=ja
+Turn ID=4| B | B : L
+	Free: 
+	Constrained: 
+Turn ID=5| A | A : ja dit zijn eigenlijk poeh zijn ook een er komen een staaf in het midden er uit en aan er prikken er eigenlijk een heel groot spijker in
+	Free: Pattern=een, Pattern=in, Pattern=zijn, Pattern=dit zijn, Pattern=aan, Pattern=ja
+	Constrained: Pattern=zijn
+Turn ID=6| A | A : en ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=7| A | A : zo'n plateau er langs ja ja
+	Free: Pattern=ja ja
+	Constrained: Pattern=ja
+Turn ID=8| A | A : ja even kijken
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=9| A | A : o ja met met
+	Free: Pattern=ja, Pattern=met
+	Constrained: 
+Turn ID=10| A | A : met die piramide
+	Free: Pattern=met die
+	Constrained: Pattern=die, Pattern=met
+Turn ID=11| A | A : er op ja dat zijn dan nummertje zes
+	Free: Pattern=zijn, Pattern=ja, Pattern=op
+	Constrained: 
+Turn ID=12| B | B : dit zijn die lastig die we net hebben met die rond Taarthouder aan de voorkant
+	Free: Pattern=met die, Pattern=aan de, Pattern=hebben, Pattern=die, Pattern=dit zijn
+	Constrained: Pattern=met, Pattern=die, Pattern=zijn, Pattern=de, Pattern=aan
+Turn ID=13| B | B : de Taarthouder oké
+	Free: Pattern=de
+	Constrained: 
+Turn ID=14| B | B : de Taarthouder
+	Free: Pattern=de
+	Constrained: 
+Turn ID=15| B | B : C
+	Free: 
+	Constrained: 
+Turn ID=16| A | A : ja dit zijn weer die raar met die plateau aan de zijkant en wat iets uitsteken wat door een heel groot spijker worden doorboren zullen maar zeggen
+	Free: Pattern=met die, Pattern=zullen, Pattern=ja, Pattern=aan de, Pattern=een, Pattern=die, Pattern=dit zijn
+	Constrained: Pattern=met, Pattern=die, Pattern=zijn, Pattern=de, Pattern=aan
+Turn ID=17| B | B : dit zijn de Taarthouder
+	Free: Pattern=dit zijn, Pattern=de
+	Constrained: Pattern=zijn
+Turn ID=18| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=19| A | A : even kijken waar
+	Free: Pattern=waar
+	Constrained: 
+Turn ID=20| A | A : even zoeken even zoeken
+	Free: 
+	Constrained: 
+Turn ID=21| A | A : even kijken
+	Free: 
+	Constrained: 
+Turn ID=22| A | A : o die ja ah ik hebben hem vinden ja ja ja ja met die o daar zijn hij ja ja dat worden dan nummer één
+	Free: Pattern=met die, Pattern=hebben, Pattern=die, Pattern=zijn, Pattern=ja, Pattern=ja ja
+	Constrained: Pattern=die, Pattern=ja, Pattern=met
+Turn ID=23| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=24| B | B : A
+	Free: 
+	Constrained: 
+Turn ID=25| A | A : ja dit zijn met die omgedraaide Eiffeltoren en met die plateau aan de zijkant
+	Free: Pattern=aan de, Pattern=dit zijn, Pattern=met die, Pattern=ja
+	Constrained: Pattern=met, Pattern=die, Pattern=zijn, Pattern=de, Pattern=aan
+Turn ID=26| B | B : de Taarthouder
+	Free: Pattern=de
+	Constrained: 
+Turn ID=27| A | A : ja dat zijn dan nummertje dertien
+	Free: Pattern=zijn, Pattern=ja
+	Constrained: 

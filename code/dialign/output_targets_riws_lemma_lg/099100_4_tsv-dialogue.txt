@@ -1,0 +1,103 @@
+A|0| A: _ja_ hierin _zijn_ eigenlijk _een_ _isteken_ verwerken 
+A|1| A: dus weten je wel ? _één_ plus _ja_ _die_ _en dan_ 
+B|2| B: aan de zijkant 
+B|3| B: [en dan] _met_ _zo'n hoed_ 
+A|4| A: _ja_ [zo'n hoed] [en dan] 
+B|5| B: plat 
+A|6| A: _ja_ 
+B|7| B: [en] nog [één] been 
+A|8| A: _ja_ _die_ 
+B|9| B: [ja] 
+B|10| B: [dan] [zijn] _het_ [zijn] _dat_ [een] I of [een] L 
+B|11| B: [een] I 
+B|12| B: [dan] [zijn] _het_ [een] I 
+B|13| B: _dit zijn_ [die] [een] _met dat istek_ 
+A|14| A: ah _oké_ _dat zijn_ nummer twee 
+A|15| A: _dit zijn met dat istek_ 
+B|16| B: even kijken 
+B|17| B: [ja] [dat zijn] N 
+B|18| B: [dit zijn met dat istek] 
+A|19| A: [zijn] nummer negen 
+A|20| A: [dit zijn _met] het isteken_ 
+B|21| B: [oké] 
+B|22| B: [dat zijn] F 
+B|23| B: [dit zijn] weer [met het isteken] 
+A|24| A: [dat zijn] nummer zes 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : ja hierin zijn eigenlijk een isteken verwerken
+	Free: Pattern=ja, Pattern=isteken, Pattern=zijn, Pattern=een
+	Constrained: 
+Turn ID=1| A | A : dus weten je wel ? één plus ja die en dan
+	Free: Pattern=en dan, Pattern=ja, Pattern=één, Pattern=die
+	Constrained: Pattern=dan, Pattern=en
+Turn ID=2| B | B : aan de zijkant
+	Free: 
+	Constrained: 
+Turn ID=3| B | B : en dan met zo'n hoed
+	Free: Pattern=en dan, Pattern=zo'n hoed, Pattern=met
+	Constrained: Pattern=dan, Pattern=en
+Turn ID=4| A | A : ja zo'n hoed en dan
+	Free: Pattern=en dan, Pattern=zo'n hoed, Pattern=ja
+	Constrained: Pattern=dan, Pattern=en
+Turn ID=5| B | B : plat
+	Free: 
+	Constrained: 
+Turn ID=6| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=7| B | B : en nog één been
+	Free: Pattern=één, Pattern=en
+	Constrained: 
+Turn ID=8| A | A : ja die
+	Free: Pattern=ja, Pattern=die
+	Constrained: 
+Turn ID=9| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=10| B | B : dan zijn het zijn dat een I of een L
+	Free: Pattern=dat, Pattern=dan, Pattern=een, Pattern=het, Pattern=zijn
+	Constrained: 
+Turn ID=11| B | B : een I
+	Free: Pattern=een
+	Constrained: 
+Turn ID=12| B | B : dan zijn het een I
+	Free: Pattern=het, Pattern=dan, Pattern=zijn, Pattern=een
+	Constrained: 
+Turn ID=13| B | B : dit zijn die een met dat istek
+	Free: Pattern=met dat istek, Pattern=dit zijn, Pattern=die, Pattern=een
+	Constrained: Pattern=dat, Pattern=zijn, Pattern=met
+Turn ID=14| A | A : ah oké dat zijn nummer twee
+	Free: Pattern=dat zijn, Pattern=oké
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=15| A | A : dit zijn met dat istek
+	Free: Pattern=dit zijn met dat istek
+	Constrained: Pattern=dat, Pattern=met dat istek, Pattern=dit zijn met, Pattern=met, Pattern=zijn, Pattern=dit zijn
+Turn ID=16| B | B : even kijken
+	Free: 
+	Constrained: 
+Turn ID=17| B | B : ja dat zijn N
+	Free: Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=18| B | B : dit zijn met dat istek
+	Free: Pattern=dit zijn met dat istek
+	Constrained: Pattern=dat, Pattern=met dat istek, Pattern=dit zijn met, Pattern=met, Pattern=zijn, Pattern=dit zijn
+Turn ID=19| A | A : zijn nummer negen
+	Free: Pattern=zijn
+	Constrained: 
+Turn ID=20| A | A : dit zijn met het isteken
+	Free: Pattern=dit zijn met, Pattern=met het isteken
+	Constrained: Pattern=het, Pattern=met, Pattern=isteken, Pattern=zijn, Pattern=dit zijn
+Turn ID=21| B | B : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=22| B | B : dat zijn F
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=23| B | B : dit zijn weer met het isteken
+	Free: Pattern=met het isteken, Pattern=dit zijn
+	Constrained: Pattern=isteken, Pattern=zijn, Pattern=met, Pattern=het
+Turn ID=24| A | A : dat zijn nummer zes
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn

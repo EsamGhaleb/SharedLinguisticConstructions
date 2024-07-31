@@ -1,0 +1,95 @@
+A|0| A: _ja_ _ik_ _vinden_ _dit_ _een_ beetje _op_ _een_ _hond lijken_ _of zo_ _die_ opspringen 
+A|1| A: dus zo'n ruit bovenop _twee_ zo'n rui heel erg naast elkaar met _twee_ _van_ _die_ ding aan _de_ zijkant _ik_ denken _dat_ 
+B|2| B: _en_ [twee] _blok_ 
+A|3| A: _ja_ _van_ _die_ [blok] 
+B|4| B: _en_ onderaan hebben [die] _nog_ [een] soort [van] _poo_ [of zo] 
+A|5| A: _ja_ zo'n [poo] staart [en] _dan_ voor [nog] [twee] zo'n ding 
+B|6| B: [ja] [dan] _weten_ [ik] _het_ 
+B|7| B: [ja] 
+B|8| B: [dan] _zijn_ _het_ M 
+B|9| B: [dit] [vinden] jij [op] [die] [hond lijken] 
+A|10| A: [ja] [ja] [ik] [weten] hem 
+A|11| A: _nummer_ negen 
+A|12| A: [dit] [zijn] _dat_ [hond] 
+A|13| A: [het] opspringen [hond] 
+B|14| B: even kijken waar [die] staan [ja] [nummer] [of] H 
+B|15| B: [dat] [zijn] _het hond_ 
+A|16| A: [ja] 
+A|17| A: [nummer] elf 
+A|18| A: [het hond] 
+B|19| B: even kijken 
+B|20| B: [ja] D 
+B|21| B: [de] [hond] 
+A|22| A: [nummer] veertien 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : ja ik vinden dit een beetje op een hond lijken of zo die opspringen
+	Free: Pattern=of zo, Pattern=hond lijken, Pattern=op, Pattern=een, Pattern=dit, Pattern=die, Pattern=ik, Pattern=vinden, Pattern=ja
+	Constrained: Pattern=of, Pattern=hond
+Turn ID=1| A | A : dus zo'n ruit bovenop twee zo'n rui heel erg naast elkaar met twee van die ding aan de zijkant ik denken dat
+	Free: Pattern=dat, Pattern=twee, Pattern=de, Pattern=die, Pattern=ik, Pattern=van
+	Constrained: 
+Turn ID=2| B | B : en twee blok
+	Free: Pattern=en, Pattern=twee, Pattern=blok
+	Constrained: 
+Turn ID=3| A | A : ja van die blok
+	Free: Pattern=ja, Pattern=van, Pattern=blok, Pattern=die
+	Constrained: 
+Turn ID=4| B | B : en onderaan hebben die nog een soort van poo of zo
+	Free: Pattern=nog, Pattern=of zo, Pattern=poo, Pattern=een, Pattern=die, Pattern=van, Pattern=en
+	Constrained: Pattern=of
+Turn ID=5| A | A : ja zo'n poo staart en dan voor nog twee zo'n ding
+	Free: Pattern=nog, Pattern=twee, Pattern=dan, Pattern=en, Pattern=poo, Pattern=ja
+	Constrained: 
+Turn ID=6| B | B : ja dan weten ik het
+	Free: Pattern=ja, Pattern=dan, Pattern=weten, Pattern=het, Pattern=ik
+	Constrained: 
+Turn ID=7| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=8| B | B : dan zijn het M
+	Free: Pattern=dan, Pattern=zijn, Pattern=het
+	Constrained: 
+Turn ID=9| B | B : dit vinden jij op die hond lijken
+	Free: Pattern=vinden, Pattern=hond lijken, Pattern=op, Pattern=dit, Pattern=die
+	Constrained: Pattern=hond
+Turn ID=10| A | A : ja ja ik weten hem
+	Free: Pattern=ik, Pattern=ja, Pattern=weten
+	Constrained: 
+Turn ID=11| A | A : nummer negen
+	Free: Pattern=nummer
+	Constrained: 
+Turn ID=12| A | A : dit zijn dat hond
+	Free: Pattern=hond, Pattern=dit, Pattern=zijn, Pattern=dat
+	Constrained: 
+Turn ID=13| A | A : het opspringen hond
+	Free: Pattern=hond, Pattern=het
+	Constrained: 
+Turn ID=14| B | B : even kijken waar die staan ja nummer of H
+	Free: Pattern=of, Pattern=nummer, Pattern=ja, Pattern=die
+	Constrained: 
+Turn ID=15| B | B : dat zijn het hond
+	Free: Pattern=het hond, Pattern=zijn, Pattern=dat
+	Constrained: Pattern=hond, Pattern=het
+Turn ID=16| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=17| A | A : nummer elf
+	Free: Pattern=nummer
+	Constrained: 
+Turn ID=18| A | A : het hond
+	Free: Pattern=het hond
+	Constrained: Pattern=hond, Pattern=het
+Turn ID=19| B | B : even kijken
+	Free: 
+	Constrained: 
+Turn ID=20| B | B : ja D
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=21| B | B : de hond
+	Free: Pattern=hond, Pattern=de
+	Constrained: 
+Turn ID=22| A | A : nummer veertien
+	Free: Pattern=nummer
+	Constrained: 

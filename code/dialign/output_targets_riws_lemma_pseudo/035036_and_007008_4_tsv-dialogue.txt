@@ -1,0 +1,79 @@
+A|0| A: oké deze _zijn_ volgens mij _de_ enig _die_ _aan de_ rechterkant twee rechthoekig staaf hebben 
+A|1| A: _ja_ 
+A|2| A: _en_ _een_ soort hoedje _ja_ 
+B|3| B: [en] zeggen maar één [zijn] [een] isteken [aan de] zijkant 
+B|4| B: [ja] 
+B|5| B: I 
+A|6| A: [en] dan [aan de] linkerkant zo'n gek uitsteekselt 
+A|7| A: oké _dat_ [zijn] twee 
+A|8| A: dit [zijn] _die met_ _die_ twee rechthoe [aan de] rechterkant 
+A|9| A: [en] _dat_ hoed [een] soort van 
+B|10| B: het [zijn] weer [die met] [dat] isteken [aan de] zijkant 
+B|11| B: [ja] 
+B|12| B: M 
+A|13| A: [dat] [zijn] negen 
+A|14| A: dit [zijn] [die met] [de] twee rechthoe [aan de] rechterkant 
+A|15| A: [dat] [zijn] zes 
+B|16| B: [die met] [dat] isteken 
+B|17| B: F 
+B|18| B: [de] istek 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : oké deze zijn volgens mij de enig die aan de rechterkant twee rechthoekig staaf hebben
+	Free: Pattern=aan de, Pattern=zijn, Pattern=die, Pattern=de
+	Constrained: Pattern=de
+Turn ID=1| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=2| A | A : en een soort hoedje ja
+	Free: Pattern=een, Pattern=ja, Pattern=en
+	Constrained: 
+Turn ID=3| B | B : en zeggen maar één zijn een isteken aan de zijkant
+	Free: Pattern=aan de, Pattern=een, Pattern=zijn, Pattern=en
+	Constrained: Pattern=de
+Turn ID=4| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=5| B | B : I
+	Free: 
+	Constrained: 
+Turn ID=6| A | A : en dan aan de linkerkant zo'n gek uitsteekselt
+	Free: Pattern=aan de, Pattern=en
+	Constrained: Pattern=de
+Turn ID=7| A | A : oké dat zijn twee
+	Free: Pattern=zijn, Pattern=dat
+	Constrained: 
+Turn ID=8| A | A : dit zijn die met die twee rechthoe aan de rechterkant
+	Free: Pattern=die met, Pattern=aan de, Pattern=zijn, Pattern=die
+	Constrained: Pattern=die, Pattern=de
+Turn ID=9| A | A : en dat hoed een soort van
+	Free: Pattern=een, Pattern=en, Pattern=dat
+	Constrained: 
+Turn ID=10| B | B : het zijn weer die met dat isteken aan de zijkant
+	Free: Pattern=die met, Pattern=aan de, Pattern=zijn, Pattern=dat
+	Constrained: Pattern=die, Pattern=de
+Turn ID=11| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=12| B | B : M
+	Free: 
+	Constrained: 
+Turn ID=13| A | A : dat zijn negen
+	Free: Pattern=zijn, Pattern=dat
+	Constrained: 
+Turn ID=14| A | A : dit zijn die met de twee rechthoe aan de rechterkant
+	Free: Pattern=die met, Pattern=aan de, Pattern=zijn, Pattern=de
+	Constrained: Pattern=die, Pattern=de
+Turn ID=15| A | A : dat zijn zes
+	Free: Pattern=zijn, Pattern=dat
+	Constrained: 
+Turn ID=16| B | B : die met dat isteken
+	Free: Pattern=die met, Pattern=dat
+	Constrained: Pattern=die
+Turn ID=17| B | B : F
+	Free: 
+	Constrained: 
+Turn ID=18| B | B : de istek
+	Free: Pattern=de
+	Constrained: 

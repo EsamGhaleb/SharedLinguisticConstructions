@@ -1,0 +1,107 @@
+B|0| B: deze _hebben_ eigenlijk ook _zo'n_ soort neus _één_ staaf steken _er_ boven uit _en één_ 
+B|1| B: diamant _met_ dan nog _een_ soort vorm _er_ _aan_ _zeggen maar_ net zoals _met_ _die_ neuspiercing _zo'n_ bol _aan de zijkant_ 
+B|2| B: _ja_ _en_ iets _dat_ _aan de zijkant_ dan nog _er_ uit steken _ja_ 
+A|3| A: driehoekig [ja] 
+A|4| A: _dat zijn_ _bij_ mij nummer veertien 
+B|5| B: _ik_ zitten hem _even_ te zoeken hoor 
+B|6| B: [ja] _die_ twee _ding_ bovenop _hebben_ _en_ nog _één_ _aan de zijkant_ [dat zijn] dan N 
+A|7| A: [ik] [hebben] [er] nu [één] [met] [zo'n] bolle ervoor 
+A|8| A: [en] [even] kijken jij noemen het het bowlingpin of zo daar [aan de zijkant] [en één] erboven [en] [zo'n] driehoekig [ding] naar buiten 
+B|9| B: [ja] dit [zijn] weer niet _die_ neus [met] [de] neuspiercing _maar_ _die_ neus waarbij _die_ soort ruit [met] nog _een_ dinge [er] [aan] [en] 
+B|10| B: [ja] [dat] balkje [en] nog [één] [aan de zijkant] 
+A|11| A: ah [ja] 
+A|12| A: [ja] 
+A|13| A: [dat zijn] _bij_ mij nummer negen 
+B|14| B: [ja] 
+B|15| B: [ja] [dat zijn] dan G 
+B|16| B: dit [zijn] _die_ ander niet _die_ neuspiercing _maar_ _die_ ander [met] _die_ neus [en] dan _die_ kegel [en] _die_ [ding] [er] nog [bij] 
+B|17| B: [ja] 
+B|18| B: kegel [ja] [ja] 
+B|19| B: [dat zijn] dan J 
+A|20| A: [ik] [hebben] [die] [een] [met] [dat] bollet [zeggen maar] [aan de] voorkant [en] bowlingpin [zeggen maar] [en] [dat] driehoekje [aan de zijkant] of hij staan [bij] mij ongeveer in het midden 
+A|21| A: [ja] 
+A|22| A: nummer vijf [zijn] [dat] [bij] mij 
+A|23| A: kijken [ik] [hebben] nu [die] [een] [met] [dat] bolle ervoor 
+A|24| A: [en] [dat] [die] bowling staafje [zeggen maar] 
+A|25| A: [en één] ervoor [en] [dat] driehoekig [ding] [aan de zijkant] 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : deze hebben eigenlijk ook zo'n soort neus één staaf steken er boven uit en één
+	Free: Pattern=en één, Pattern=zo'n, Pattern=hebben, Pattern=er, Pattern=één
+	Constrained: Pattern=en, Pattern=één
+Turn ID=1| B | B : diamant met dan nog een soort vorm er aan zeggen maar net zoals met die neuspiercing zo'n bol aan de zijkant
+	Free: Pattern=zo'n, Pattern=aan, Pattern=zeggen maar, Pattern=met, Pattern=die, Pattern=er, Pattern=een, Pattern=aan de zijkant
+	Constrained: Pattern=aan, Pattern=de, Pattern=aan de, Pattern=maar
+Turn ID=2| B | B : ja en iets dat aan de zijkant dan nog er uit steken ja
+	Free: Pattern=dat, Pattern=ja, Pattern=aan de zijkant, Pattern=er, Pattern=en
+	Constrained: Pattern=aan, Pattern=de, Pattern=aan de
+Turn ID=3| A | A : driehoekig ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=4| A | A : dat zijn bij mij nummer veertien
+	Free: Pattern=dat zijn, Pattern=bij
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=5| B | B : ik zitten hem even te zoeken hoor
+	Free: Pattern=ik, Pattern=even
+	Constrained: 
+Turn ID=6| B | B : ja die twee ding bovenop hebben en nog één aan de zijkant dat zijn dan N
+	Free: Pattern=dat zijn, Pattern=ja, Pattern=ding, Pattern=aan de zijkant, Pattern=hebben, Pattern=die, Pattern=en, Pattern=één
+	Constrained: Pattern=dat, Pattern=aan de, Pattern=zijn, Pattern=de, Pattern=aan
+Turn ID=7| A | A : ik hebben er nu één met zo'n bolle ervoor
+	Free: Pattern=zo'n, Pattern=hebben, Pattern=met, Pattern=er, Pattern=ik, Pattern=één
+	Constrained: 
+Turn ID=8| A | A : en even kijken jij noemen het het bowlingpin of zo daar aan de zijkant en één erboven en zo'n driehoekig ding naar buiten
+	Free: Pattern=en één, Pattern=zo'n, Pattern=even, Pattern=ding, Pattern=aan de zijkant, Pattern=en
+	Constrained: Pattern=aan de, Pattern=en, Pattern=één, Pattern=de, Pattern=aan
+Turn ID=9| B | B : ja dit zijn weer niet die neus met de neuspiercing maar die neus waarbij die soort ruit met nog een dinge er aan en
+	Free: Pattern=een, Pattern=met, Pattern=die, Pattern=er, Pattern=en, Pattern=de, Pattern=aan, Pattern=ja, Pattern=zijn, Pattern=maar
+	Constrained: 
+Turn ID=10| B | B : ja dat balkje en nog één aan de zijkant
+	Free: Pattern=dat, Pattern=ja, Pattern=aan de zijkant, Pattern=en, Pattern=één
+	Constrained: Pattern=aan, Pattern=de, Pattern=aan de
+Turn ID=11| A | A : ah ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=12| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=13| A | A : dat zijn bij mij nummer negen
+	Free: Pattern=dat zijn, Pattern=bij
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=14| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=15| B | B : ja dat zijn dan G
+	Free: Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=16| B | B : dit zijn die ander niet die neuspiercing maar die ander met die neus en dan die kegel en die ding er nog bij
+	Free: Pattern=ding, Pattern=met, Pattern=die, Pattern=en, Pattern=bij, Pattern=er, Pattern=zijn, Pattern=maar
+	Constrained: 
+Turn ID=17| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=18| B | B : kegel ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=19| B | B : dat zijn dan J
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=20| A | A : ik hebben die een met dat bollet zeggen maar aan de voorkant en bowlingpin zeggen maar en dat driehoekje aan de zijkant of hij staan bij mij ongeveer in het midden
+	Free: Pattern=dat, Pattern=aan de, Pattern=zeggen maar, Pattern=hebben, Pattern=met, Pattern=die, Pattern=bij, Pattern=ik, Pattern=en, Pattern=een, Pattern=aan de zijkant
+	Constrained: Pattern=aan, Pattern=de, Pattern=aan de, Pattern=maar
+Turn ID=21| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=22| A | A : nummer vijf zijn dat bij mij
+	Free: Pattern=dat, Pattern=zijn, Pattern=bij
+	Constrained: 
+Turn ID=23| A | A : kijken ik hebben nu die een met dat bolle ervoor
+	Free: Pattern=dat, Pattern=een, Pattern=hebben, Pattern=met, Pattern=die, Pattern=ik
+	Constrained: 
+Turn ID=24| A | A : en dat die bowling staafje zeggen maar
+	Free: Pattern=zeggen maar, Pattern=en, Pattern=dat, Pattern=die
+	Constrained: Pattern=maar
+Turn ID=25| A | A : en één ervoor en dat driehoekig ding aan de zijkant
+	Free: Pattern=en één, Pattern=dat, Pattern=ding, Pattern=aan de zijkant, Pattern=en
+	Constrained: Pattern=aan de, Pattern=en, Pattern=één, Pattern=de, Pattern=aan

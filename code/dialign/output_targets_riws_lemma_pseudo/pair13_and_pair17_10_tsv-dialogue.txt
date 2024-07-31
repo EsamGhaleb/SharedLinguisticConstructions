@@ -1,0 +1,135 @@
+B|0| B: _ja_ 
+B|1| B: _ja_ 
+B|2| B: b 
+B|3| B: deze _hebben_ _die_ _die_ stok door _die_ emmer heen 
+B|4| B: _aan de_ _een_ kant _zijn_ hij _wat_ kort _en_ hij _hebben_ _een_ bobbel _aan_ _het_ eind _en_ dan _aan de_ ander kant _zijn_ hij iets lang 
+B|5| B: achterop _zijn_ _een_ schuin _vierkant_ 
+B|6| B: _met_ _daar_ _ook_ _een soort_ van ding _eraan_ 
+B|7| B: zo of hij liggen achter _de_ emmer _soort_ van _een_ baseballbat 
+B|8| B: maar dan niet _echt_ 
+B|9| B: achter _de_ emmer _zijn_ _een_ 
+B|10| B: _ja_ 
+B|11| B: _ja_ 
+B|12| B: _ja_ _die_ staaf _lijken_ _een beetje_ op _een_ baseballbat 
+A|13| A: even kijken dit beker [lijken] [het] alsof [het] twee stomp [hebben] [aan de] alsof [het] twee armp [hebben] 
+A|14| A: dus zowel rechts als links [hebben] [het] [een] uitsteeksel [met] [een soort] [ja] stompje doen [het] me [echt] [aan] denken 
+A|15| A: [aan de] bovenkant [hebben] [het] [een soort] [vierkant] [wat] [eraan] vastzitten 
+A|16| A: [aan de] linkerzijde 
+A|17| A: [en] vanuit [daar] lopen [het] [ook] nog [een beetje] naar beneden 
+A|18| A: [met] zo'n bolling inderdaad [ja] 
+B|19| B: [ja] 
+B|20| B: where did it go ? l 
+B|21| B: deze [hebben] [de] baseballbat 
+B|22| B: [ja] I 
+B|23| B: De baseballbat 
+A|24| A: [ja] 
+A|25| A: [ja] dat [zijn] nummer vier 
+A|26| A: dat [zijn] weer [die] stomp 
+A|27| A: [met] [het] dinge linksachter 
+A|28| A: [ja] waar zitten [die] 
+A|29| A: nummer veertien 
+A|30| A: [de] stomp [aan] beide zij 
+A|31| A: waar [zijn] [die] 
+A|32| A: [ja] nummer zestien 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=1| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=2| B | B : b
+	Free: 
+	Constrained: 
+Turn ID=3| B | B : deze hebben die die stok door die emmer heen
+	Free: Pattern=die, Pattern=hebben
+	Constrained: 
+Turn ID=4| B | B : aan de een kant zijn hij wat kort en hij hebben een bobbel aan het eind en dan aan de ander kant zijn hij iets lang
+	Free: Pattern=aan, Pattern=aan de, Pattern=een, Pattern=het, Pattern=hebben, Pattern=wat, Pattern=en, Pattern=zijn
+	Constrained: Pattern=de, Pattern=aan
+Turn ID=5| B | B : achterop zijn een schuin vierkant
+	Free: Pattern=een, Pattern=zijn, Pattern=vierkant
+	Constrained: 
+Turn ID=6| B | B : met daar ook een soort van ding eraan
+	Free: Pattern=ook, Pattern=eraan, Pattern=met, Pattern=een soort, Pattern=daar
+	Constrained: Pattern=een, Pattern=soort
+Turn ID=7| B | B : zo of hij liggen achter de emmer soort van een baseballbat
+	Free: Pattern=een, Pattern=soort, Pattern=de
+	Constrained: 
+Turn ID=8| B | B : maar dan niet echt
+	Free: Pattern=echt
+	Constrained: 
+Turn ID=9| B | B : achter de emmer zijn een
+	Free: Pattern=een, Pattern=zijn, Pattern=de
+	Constrained: 
+Turn ID=10| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=11| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=12| B | B : ja die staaf lijken een beetje op een baseballbat
+	Free: Pattern=ja, Pattern=lijken, Pattern=een, Pattern=die, Pattern=een beetje
+	Constrained: Pattern=een
+Turn ID=13| A | A : even kijken dit beker lijken het alsof het twee stomp hebben aan de alsof het twee armp hebben
+	Free: Pattern=aan de, Pattern=hebben, Pattern=het, Pattern=lijken
+	Constrained: Pattern=de, Pattern=aan
+Turn ID=14| A | A : dus zowel rechts als links hebben het een uitsteeksel met een soort ja stompje doen het me echt aan denken
+	Free: Pattern=een, Pattern=het, Pattern=hebben, Pattern=met, Pattern=echt, Pattern=een soort, Pattern=aan, Pattern=ja
+	Constrained: Pattern=een, Pattern=soort
+Turn ID=15| A | A : aan de bovenkant hebben het een soort vierkant wat eraan vastzitten
+	Free: Pattern=aan de, Pattern=eraan, Pattern=het, Pattern=hebben, Pattern=wat, Pattern=een soort, Pattern=vierkant
+	Constrained: Pattern=een, Pattern=soort, Pattern=de, Pattern=aan
+Turn ID=16| A | A : aan de linkerzijde
+	Free: Pattern=aan de
+	Constrained: Pattern=de, Pattern=aan
+Turn ID=17| A | A : en vanuit daar lopen het ook nog een beetje naar beneden
+	Free: Pattern=ook, Pattern=het, Pattern=en, Pattern=daar, Pattern=een beetje
+	Constrained: Pattern=een
+Turn ID=18| A | A : met zo'n bolling inderdaad ja
+	Free: Pattern=met, Pattern=ja
+	Constrained: 
+Turn ID=19| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=20| B | B : where did it go ? l
+	Free: 
+	Constrained: 
+Turn ID=21| B | B : deze hebben de baseballbat
+	Free: Pattern=de, Pattern=hebben
+	Constrained: 
+Turn ID=22| B | B : ja I
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=23| B | B : De baseballbat
+	Free: 
+	Constrained: 
+Turn ID=24| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=25| A | A : ja dat zijn nummer vier
+	Free: Pattern=ja, Pattern=zijn
+	Constrained: 
+Turn ID=26| A | A : dat zijn weer die stomp
+	Free: Pattern=zijn, Pattern=die
+	Constrained: 
+Turn ID=27| A | A : met het dinge linksachter
+	Free: Pattern=met, Pattern=het
+	Constrained: 
+Turn ID=28| A | A : ja waar zitten die
+	Free: Pattern=ja, Pattern=die
+	Constrained: 
+Turn ID=29| A | A : nummer veertien
+	Free: 
+	Constrained: 
+Turn ID=30| A | A : de stomp aan beide zij
+	Free: Pattern=de, Pattern=aan
+	Constrained: 
+Turn ID=31| A | A : waar zijn die
+	Free: Pattern=zijn, Pattern=die
+	Constrained: 
+Turn ID=32| A | A : ja nummer zestien
+	Free: Pattern=ja
+	Constrained: 

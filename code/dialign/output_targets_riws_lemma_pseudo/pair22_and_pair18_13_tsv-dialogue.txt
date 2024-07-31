@@ -1,0 +1,123 @@
+B|0| B: aan de _het_ linkerkant _en_ de rechterkant zitten drie soort van bollet niet helemaal bollet maar _precies_ hetzelfde _ja_ 
+A|1| A: [ja] 
+A|2| A: oké _ik_ denken dat _ik_ hem al weten 
+A|3| A: [het] 
+A|4| A: [ja] 
+A|5| A: _ja ja ja_ 
+A|6| A: dat zijn elf 
+B|7| B: aan beide 
+B|8| B: [ja ja] 
+B|9| B: J 
+A|10| A: [ja] dit zijn _die_ zegmaar weer _die_ op _zo'n plaat_ 
+A|11| A: of zegmaar [ja] _zo'n plaat_ 
+A|12| A: dienblad 
+A|13| A: [ja] [precies] _met die_ hendel [en] 
+B|14| B: [ik] hebben de [met die] twee [die] twee gelijkwaardig soort van bollet aan de aan de beide kant 
+B|15| B: [en] [zo'n plaat] eronder 
+B|16| B: [ja ja] drie van [die] bollet aan de beide zijkant 
+B|17| B: [die] drie bollet aan de zijkant 
+B|18| B: [plaat] eronder 
+B|19| B: [ja ja ja] e 
+A|20| A: [ja] dat zijn [ja] gewoon [die] dat dat dienbladen [ja] 
+A|21| A: [ja] [precies] vier [ja] 
+B|22| B: J 
+B|23| B: [ik] hebben [die] drie bollet aan de linker [en] de zijkant rechterkant 
+A|24| A: [ja] dit zijn weer dat gene [met] [het] dienblad 
+B|25| B: [ja] 
+B|26| B: f 
+A|27| A: [ja] 
+A|28| A: [ja] [precies] dat [met die] hendel dat zijn dertien 
+A|29| A: dit zijn weer dienblad 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : aan de het linkerkant en de rechterkant zitten drie soort van bollet niet helemaal bollet maar precies hetzelfde ja
+	Free: Pattern=ja, Pattern=precies, Pattern=het, Pattern=en
+	Constrained: 
+Turn ID=1| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=2| A | A : oké ik denken dat ik hem al weten
+	Free: Pattern=ik
+	Constrained: 
+Turn ID=3| A | A : het
+	Free: Pattern=het
+	Constrained: 
+Turn ID=4| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=5| A | A : ja ja ja
+	Free: Pattern=ja ja ja
+	Constrained: Pattern=ja ja, Pattern=ja
+Turn ID=6| A | A : dat zijn elf
+	Free: 
+	Constrained: 
+Turn ID=7| B | B : aan beide
+	Free: 
+	Constrained: 
+Turn ID=8| B | B : ja ja
+	Free: Pattern=ja ja
+	Constrained: Pattern=ja
+Turn ID=9| B | B : J
+	Free: 
+	Constrained: 
+Turn ID=10| A | A : ja dit zijn die zegmaar weer die op zo'n plaat
+	Free: Pattern=zo'n plaat, Pattern=ja, Pattern=die
+	Constrained: Pattern=plaat
+Turn ID=11| A | A : of zegmaar ja zo'n plaat
+	Free: Pattern=zo'n plaat, Pattern=ja
+	Constrained: Pattern=plaat
+Turn ID=12| A | A : dienblad
+	Free: 
+	Constrained: 
+Turn ID=13| A | A : ja precies met die hendel en
+	Free: Pattern=met die, Pattern=ja, Pattern=precies, Pattern=en
+	Constrained: Pattern=die, Pattern=met
+Turn ID=14| B | B : ik hebben de met die twee die twee gelijkwaardig soort van bollet aan de aan de beide kant
+	Free: Pattern=met die, Pattern=ik, Pattern=die
+	Constrained: Pattern=die, Pattern=met
+Turn ID=15| B | B : en zo'n plaat eronder
+	Free: Pattern=zo'n plaat, Pattern=en
+	Constrained: Pattern=plaat
+Turn ID=16| B | B : ja ja drie van die bollet aan de beide zijkant
+	Free: Pattern=ja ja, Pattern=die
+	Constrained: Pattern=ja
+Turn ID=17| B | B : die drie bollet aan de zijkant
+	Free: Pattern=die
+	Constrained: 
+Turn ID=18| B | B : plaat eronder
+	Free: Pattern=plaat
+	Constrained: 
+Turn ID=19| B | B : ja ja ja e
+	Free: Pattern=ja ja ja
+	Constrained: Pattern=ja ja, Pattern=ja
+Turn ID=20| A | A : ja dat zijn ja gewoon die dat dat dienbladen ja
+	Free: Pattern=ja, Pattern=die
+	Constrained: 
+Turn ID=21| A | A : ja precies vier ja
+	Free: Pattern=ja, Pattern=precies
+	Constrained: 
+Turn ID=22| B | B : J
+	Free: 
+	Constrained: 
+Turn ID=23| B | B : ik hebben die drie bollet aan de linker en de zijkant rechterkant
+	Free: Pattern=ik, Pattern=en, Pattern=die
+	Constrained: 
+Turn ID=24| A | A : ja dit zijn weer dat gene met het dienblad
+	Free: Pattern=ja, Pattern=het, Pattern=met
+	Constrained: 
+Turn ID=25| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=26| B | B : f
+	Free: 
+	Constrained: 
+Turn ID=27| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=28| A | A : ja precies dat met die hendel dat zijn dertien
+	Free: Pattern=met die, Pattern=ja, Pattern=precies
+	Constrained: Pattern=die, Pattern=met
+Turn ID=29| A | A : dit zijn weer dienblad
+	Free: 
+	Constrained: 

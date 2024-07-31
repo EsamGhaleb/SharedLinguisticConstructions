@@ -1,0 +1,187 @@
+A|0| A: _ik zien_ hem _niet_ nog _niet_ 
+A|1| A: _er_ _op_ 
+A|2| A: o _ja_ misschien weten _ik_ _en_ _dan_ _hebben_ _hij_ _zeggen maar zo_ _een_ _ding_ _en_ daar _zitten_ weer _zoiets_ _op_ 
+A|3| A: _en_ _dan_ _aan de_ zijkant _een_ soort van vleugelt _of_ _zo_ 
+A|4| A: _of_ oor 
+A|5| A: o _ja_ _ik_ _gaan_ _er_ _gewoon_ vanuit _in_ _mijn_ imagination _dat_ _hij_ _aan de_ ander kant _ook_ _wat_ _hebben_ 
+A|6| A: _ja_ _ik_ denken _het_ _ook_ bij mij _zijn_ _dat_ achten 
+A|7| A: ok 
+B|8| B: [ik] noemen _dit_ [het] [de] onderwijzer [de] leraar _met_ stok 
+B|9| B: [het] lijken [op] [een] uil [dat] [zeggen maar zo] staan _met_ [een] stok omhoog 
+B|10| B: [hij] [hebben] [op] [het] [op] [zijn] hoofd [zeggen maar] [hebben] _die_ [een] [ja] [ook] iets [zitten] 
+B|11| B: [een] vierkant _of een_ rechthoek goed [zeggen] [zijn] arm lijken [op] [een] mislukken triangelvormig [een] kegelvormig hand 
+B|12| B: [en] [hij] [hebben] [een] dun stok [in] [zijn] [aan de] rechterkant 
+B|13| B: [er] steken niks _uit_ _uit_ [het] figuur 
+B|14| B: dus [het] [zijn] [een] heel klein stok [wat] rechtop staan [zeggen maar] 
+B|15| B: [ja] 
+B|16| B: heel goed 
+B|17| B: [ik] willen net [zeggen] anders [zijn] ze ons [aan] [het] pranken 
+B|18| B: [ik zien] [het] [niet] als _neus_ [ik] inzien ver [ik zien] [het] [niet] alsof [hij] iets [hebben] 
+B|19| B: [ja] 
+B|20| B: [zoiets] [ja] [wat] [een] _beetje_ [een] [een] [een] kegelvormig [ding] [hebben] [en] [hij] staan [dan] [zeggen maar zo] voor [mijn] gevoel _met_ [een] stok 
+B|21| B: omhoog verticaal omhoog 
+B|22| B: waar [het] stok [op] even kijken 
+B|23| B: [ja] [hij] [hebben] [in] ieder geval iets [op] [zijn] hoofd [zitten] _en dat_ [zijn] [zeggen maar] [gewoon] [een] blok [een] lang [een] langwerpig 
+B|24| B: [ja] 
+A|25| A: _dit zijn_ [dat] gezicht [beetje] niets [zeggen] gezicht 
+A|26| A: [met] [die] oor [ja] [en dat] dinge 
+A|27| A: o 
+A|28| A: waarvan [ik] ervan uitging [dat] [hij] [aan de] ander kant [ook] [een] oor [hebben] [of een] vleugel 
+A|29| A: ok bij mij één 
+A|30| A: [ja] 
+A|31| A: [ja] [en] [die] [ding] [uit] [zijn] [neus] 
+A|32| A: [ja] bij mij [zijn] [dat] één 
+B|33| B: [ja] 
+B|34| B: [dan] worden [het] E 
+A|35| A: _dit zijn_ [dat] gezicht [met] [die] twee oor 
+A|36| A: [die] eigenlijk geen twee oor [hebben] 
+A|37| A: [ja] bij mij vier 
+B|38| B: [dit zijn] [het] uil 
+A|39| A: o 
+A|40| A: [ja] 
+A|41| A: [ja] zestien bij mij 
+B|42| B: [dat] [zijn] nummer E 
+A|43| A: [dit zijn] [de] man [met] [de] twee oor 
+B|44| B: [dit] [gaan] om [het] uil 
+B|45| B: [ja] [dat] [gaan] om O 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : ik zien hem niet nog niet
+	Free: Pattern=ik zien, Pattern=niet
+	Constrained: Pattern=ik
+Turn ID=1| A | A : er op
+	Free: Pattern=er, Pattern=op
+	Constrained: 
+Turn ID=2| A | A : o ja misschien weten ik en dan hebben hij zeggen maar zo een ding en daar zitten weer zoiets op
+	Free: Pattern=zeggen maar zo, Pattern=zoiets, Pattern=ja, Pattern=op, Pattern=dan, Pattern=ding, Pattern=een, Pattern=hebben, Pattern=hij, Pattern=zitten, Pattern=ik, Pattern=en
+	Constrained: Pattern=zeggen, Pattern=zeggen maar, Pattern=zo
+Turn ID=3| A | A : en dan aan de zijkant een soort van vleugelt of zo
+	Free: Pattern=of, Pattern=aan de, Pattern=dan, Pattern=een, Pattern=zo, Pattern=en
+	Constrained: Pattern=de, Pattern=aan
+Turn ID=4| A | A : of oor
+	Free: Pattern=of
+	Constrained: 
+Turn ID=5| A | A : o ja ik gaan er gewoon vanuit in mijn imagination dat hij aan de ander kant ook wat hebben
+	Free: Pattern=dat, Pattern=ja, Pattern=gewoon, Pattern=hebben, Pattern=hij, Pattern=in, Pattern=mijn, Pattern=ik, Pattern=gaan, Pattern=aan de, Pattern=ook, Pattern=wat, Pattern=er
+	Constrained: Pattern=de, Pattern=aan
+Turn ID=6| A | A : ja ik denken het ook bij mij zijn dat achten
+	Free: Pattern=dat, Pattern=ja, Pattern=ook, Pattern=het, Pattern=ik, Pattern=zijn
+	Constrained: 
+Turn ID=7| A | A : ok
+	Free: 
+	Constrained: 
+Turn ID=8| B | B : ik noemen dit het de onderwijzer de leraar met stok
+	Free: Pattern=de, Pattern=het, Pattern=dit, Pattern=met, Pattern=ik
+	Constrained: 
+Turn ID=9| B | B : het lijken op een uil dat zeggen maar zo staan met een stok omhoog
+	Free: Pattern=op, Pattern=een, Pattern=het, Pattern=met, Pattern=dat, Pattern=zeggen maar zo
+	Constrained: Pattern=zeggen, Pattern=zeggen maar, Pattern=zo
+Turn ID=10| B | B : hij hebben op het op zijn hoofd zeggen maar hebben die een ja ook iets zitten
+	Free: Pattern=ja, Pattern=een, Pattern=zeggen maar, Pattern=het, Pattern=hebben, Pattern=hij, Pattern=zijn, Pattern=op, Pattern=ook, Pattern=die, Pattern=zitten
+	Constrained: Pattern=zeggen
+Turn ID=11| B | B : een vierkant of een rechthoek goed zeggen zijn arm lijken op een mislukken triangelvormig een kegelvormig hand
+	Free: Pattern=op, Pattern=een, Pattern=zeggen, Pattern=of een, Pattern=zijn
+	Constrained: Pattern=of, Pattern=een
+Turn ID=12| B | B : en hij hebben een dun stok in zijn aan de rechterkant
+	Free: Pattern=aan de, Pattern=een, Pattern=hebben, Pattern=hij, Pattern=in, Pattern=en, Pattern=zijn
+	Constrained: Pattern=de, Pattern=aan
+Turn ID=13| B | B : er steken niks uit uit het figuur
+	Free: Pattern=er, Pattern=uit, Pattern=het
+	Constrained: 
+Turn ID=14| B | B : dus het zijn een heel klein stok wat rechtop staan zeggen maar
+	Free: Pattern=een, Pattern=zeggen maar, Pattern=het, Pattern=wat, Pattern=zijn
+	Constrained: Pattern=zeggen
+Turn ID=15| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=16| B | B : heel goed
+	Free: 
+	Constrained: 
+Turn ID=17| B | B : ik willen net zeggen anders zijn ze ons aan het pranken
+	Free: Pattern=aan, Pattern=het, Pattern=zeggen, Pattern=ik, Pattern=zijn
+	Constrained: 
+Turn ID=18| B | B : ik zien het niet als neus ik inzien ver ik zien het niet alsof hij iets hebben
+	Free: Pattern=niet, Pattern=hebben, Pattern=hij, Pattern=neus, Pattern=ik, Pattern=het, Pattern=ik zien
+	Constrained: Pattern=ik
+Turn ID=19| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=20| B | B : zoiets ja wat een beetje een een een kegelvormig ding hebben en hij staan dan zeggen maar zo voor mijn gevoel met een stok
+	Free: Pattern=zeggen maar zo, Pattern=zoiets, Pattern=ja, Pattern=ding, Pattern=een, Pattern=hebben, Pattern=hij, Pattern=met, Pattern=mijn, Pattern=wat, Pattern=en, Pattern=beetje, Pattern=dan
+	Constrained: Pattern=zeggen, Pattern=zeggen maar, Pattern=zo
+Turn ID=21| B | B : omhoog verticaal omhoog
+	Free: 
+	Constrained: 
+Turn ID=22| B | B : waar het stok op even kijken
+	Free: Pattern=het, Pattern=op
+	Constrained: 
+Turn ID=23| B | B : ja hij hebben in ieder geval iets op zijn hoofd zitten en dat zijn zeggen maar gewoon een blok een lang een langwerpig
+	Free: Pattern=ja, Pattern=op, Pattern=een, Pattern=hebben, Pattern=hij, Pattern=in, Pattern=zitten, Pattern=zijn, Pattern=en dat, Pattern=zeggen maar, Pattern=gewoon
+	Constrained: Pattern=zeggen, Pattern=en, Pattern=dat
+Turn ID=24| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=25| A | A : dit zijn dat gezicht beetje niets zeggen gezicht
+	Free: Pattern=dit zijn, Pattern=zeggen, Pattern=dat, Pattern=beetje
+	Constrained: Pattern=dit, Pattern=zijn
+Turn ID=26| A | A : met die oor ja en dat dinge
+	Free: Pattern=en dat, Pattern=ja, Pattern=die, Pattern=met
+	Constrained: Pattern=en, Pattern=dat
+Turn ID=27| A | A : o
+	Free: 
+	Constrained: 
+Turn ID=28| A | A : waarvan ik ervan uitging dat hij aan de ander kant ook een oor hebben of een vleugel
+	Free: Pattern=dat, Pattern=een, Pattern=hebben, Pattern=hij, Pattern=of een, Pattern=ik, Pattern=aan de, Pattern=ook
+	Constrained: Pattern=of, Pattern=een, Pattern=de, Pattern=aan
+Turn ID=29| A | A : ok bij mij één
+	Free: 
+	Constrained: 
+Turn ID=30| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=31| A | A : ja en die ding uit zijn neus
+	Free: Pattern=ja, Pattern=uit, Pattern=ding, Pattern=neus, Pattern=die, Pattern=en, Pattern=zijn
+	Constrained: 
+Turn ID=32| A | A : ja bij mij zijn dat één
+	Free: Pattern=dat, Pattern=zijn, Pattern=ja
+	Constrained: 
+Turn ID=33| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=34| B | B : dan worden het E
+	Free: Pattern=dan, Pattern=het
+	Constrained: 
+Turn ID=35| A | A : dit zijn dat gezicht met die twee oor
+	Free: Pattern=dit zijn, Pattern=dat, Pattern=die, Pattern=met
+	Constrained: Pattern=dit, Pattern=zijn
+Turn ID=36| A | A : die eigenlijk geen twee oor hebben
+	Free: Pattern=hebben, Pattern=die
+	Constrained: 
+Turn ID=37| A | A : ja bij mij vier
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=38| B | B : dit zijn het uil
+	Free: Pattern=dit zijn, Pattern=het
+	Constrained: Pattern=dit, Pattern=zijn
+Turn ID=39| A | A : o
+	Free: 
+	Constrained: 
+Turn ID=40| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=41| A | A : ja zestien bij mij
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=42| B | B : dat zijn nummer E
+	Free: Pattern=dat, Pattern=zijn
+	Constrained: 
+Turn ID=43| A | A : dit zijn de man met de twee oor
+	Free: Pattern=dit zijn, Pattern=de, Pattern=met
+	Constrained: Pattern=dit, Pattern=zijn
+Turn ID=44| B | B : dit gaan om het uil
+	Free: Pattern=gaan, Pattern=dit, Pattern=het
+	Constrained: 
+Turn ID=45| B | B : ja dat gaan om O
+	Free: Pattern=gaan, Pattern=dat, Pattern=ja
+	Constrained: 

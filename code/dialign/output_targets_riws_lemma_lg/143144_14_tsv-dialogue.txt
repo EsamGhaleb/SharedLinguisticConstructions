@@ -1,0 +1,195 @@
+A|0| A: deze _ik_ vinden _hem_ zelf _een_ beetje lijken op _een_ op _een_ waterpomp 
+A|1| A: _ik noemen_ _hem_ zelf _de_ waterleiding want _er_ _gaan_ zo'n leidinkje _in_ _en_ _die_ komen _dan_ _aan de ander kant_ lijken _die_ _er_ ook _weer uit_ te aankomen 
+A|2| A: _en_ _er_ staan zo'n blok voor 
+B|3| B: [ik noemen] het [de] olifantenslurf _met_ arm 
+A|4| A: _ja_ 
+B|5| B: zitten [een] rond bolletje erop 
+A|6| A: _ja_ 
+B|7| B: [ja] [en] twee armp of twee stijfjes inderdaad [die] zo zitten [en] [dan] 
+A|8| A: [ja] [ja] [ja] [ja] 
+A|9| A: [ja] 
+B|10| B: [ja] 
+A|11| A: [ja] [die] 
+B|12| B: [dan] _zijn_ het geel 
+A|13| A: _moeten_ je wel eerst _zeggen_ welk nummer 
+B|14| B: D _zijn_ het 
+B|15| B: excuus d nu _dit_ 
+B|16| B: [ik] denken _dat_ [ik] [hem] [moeten] indrukken sorry 
+B|17| B: nou _zijn_ ze allemaal [weer] veranderen _dit_ worden leuk 
+A|18| A: [ja] 
+B|19| B: we hebben het hier over [zeggen] maar jou loodgieter jouw 
+B|20| B: waterboiler [zeggen] maar dus _dat_ [er] iets [in] [gaan] [en] [aan de ander kant] [er] [weer uit] [en] [een] soort van tap [aan de] onderkant [ik noemen] het [de] olifant _met_ [de] slurf [en] gek armp [er] zitten [een] bolle erbovenop 
+A|21| A: [ja] 
+A|22| A: [ja] 
+A|23| A: [ja] 
+A|24| A: [ik] weten welk je bedoelen 
+B|25| B: [ja] 
+A|26| A: [met] [met] zo'n raar [met] zo'n _met dat_ blok ervoor 
+B|27| B: [ja] helemaal [ja] 
+A|28| A: [ja] 
+A|29| A: [dat] [zijn] Numero vijftien 
+A|30| A: [dit] _dit zijn_ [zijn] [met] [die] waterleiding _mijn_ pomp 
+B|31| B: [ja] 
+B|32| B: [mijn] olifant toch ? [met dat] rond erbovenop 
+A|33| A: [ja] 
+B|34| B: [dan] [gaan] het om L 
+B|35| B: [dit zijn] [de] boiler [zeggen] maar [met] [de] pijp [en] [de] tap 
+A|36| A: [ja] [ik] [gaan] [hem] even opzoeken 
+B|37| B: [ik noemen] het [de] olifant 
+A|38| A: [dat] [zijn] Numero zes 
+A|39| A: [ja] mij [mijn] waterding 
+A|40| A: [mijn] waterleiding 
+B|41| B: [ja] [dat] worden [dan] J 
+A|42| A: pomp 
+B|43| B: [dit] [gaan] om [de] waterpijp [met] [de] slurf 
+B|44| B: [en] het gek bolle Erboven 
+A|45| A: je bedoelen [ja] [ja] [de] waterleiding [ja] 
+B|46| B: [de] waterboiler [zeggen] maar [ja] 
+A|47| A: Numero drie 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : deze ik vinden hem zelf een beetje lijken op een op een waterpomp
+	Free: Pattern=een, Pattern=ik, Pattern=hem
+	Constrained: 
+Turn ID=1| A | A : ik noemen hem zelf de waterleiding want er gaan zo'n leidinkje in en die komen dan aan de ander kant lijken die er ook weer uit te aankomen
+	Free: Pattern=de, Pattern=dan, Pattern=die, Pattern=er, Pattern=en, Pattern=gaan, Pattern=hem, Pattern=weer uit, Pattern=aan de ander kant, Pattern=ik noemen, Pattern=in
+	Constrained: Pattern=weer, Pattern=de, Pattern=aan de, Pattern=ik
+Turn ID=2| A | A : en er staan zo'n blok voor
+	Free: Pattern=er, Pattern=en
+	Constrained: 
+Turn ID=3| B | B : ik noemen het de olifantenslurf met arm
+	Free: Pattern=ik noemen, Pattern=de, Pattern=met
+	Constrained: Pattern=ik
+Turn ID=4| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=5| B | B : zitten een rond bolletje erop
+	Free: Pattern=een
+	Constrained: 
+Turn ID=6| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=7| B | B : ja en twee armp of twee stijfjes inderdaad die zo zitten en dan
+	Free: Pattern=en, Pattern=dan, Pattern=die, Pattern=ja
+	Constrained: 
+Turn ID=8| A | A : ja ja ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=9| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=10| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=11| A | A : ja die
+	Free: Pattern=die, Pattern=ja
+	Constrained: 
+Turn ID=12| B | B : dan zijn het geel
+	Free: Pattern=dan, Pattern=zijn
+	Constrained: 
+Turn ID=13| A | A : moeten je wel eerst zeggen welk nummer
+	Free: Pattern=moeten, Pattern=zeggen
+	Constrained: 
+Turn ID=14| B | B : D zijn het
+	Free: Pattern=zijn
+	Constrained: 
+Turn ID=15| B | B : excuus d nu dit
+	Free: Pattern=dit
+	Constrained: 
+Turn ID=16| B | B : ik denken dat ik hem moeten indrukken sorry
+	Free: Pattern=dat, Pattern=moeten, Pattern=ik, Pattern=hem
+	Constrained: 
+Turn ID=17| B | B : nou zijn ze allemaal weer veranderen dit worden leuk
+	Free: Pattern=zijn, Pattern=dit, Pattern=weer
+	Constrained: 
+Turn ID=18| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=19| B | B : we hebben het hier over zeggen maar jou loodgieter jouw
+	Free: Pattern=zeggen
+	Constrained: 
+Turn ID=20| B | B : waterboiler zeggen maar dus dat er iets in gaan en aan de ander kant er weer uit en een soort van tap aan de onderkant ik noemen het de olifant met de slurf en gek armp er zitten een bolle erbovenop
+	Free: Pattern=dat, Pattern=de, Pattern=aan de, Pattern=zeggen, Pattern=met, Pattern=er, Pattern=en, Pattern=gaan, Pattern=een, Pattern=weer uit, Pattern=aan de ander kant, Pattern=ik noemen, Pattern=in
+	Constrained: Pattern=weer, Pattern=de, Pattern=aan de, Pattern=ik
+Turn ID=21| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=22| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=23| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=24| A | A : ik weten welk je bedoelen
+	Free: Pattern=ik
+	Constrained: 
+Turn ID=25| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=26| A | A : met met zo'n raar met zo'n met dat blok ervoor
+	Free: Pattern=met dat, Pattern=met
+	Constrained: Pattern=dat, Pattern=met
+Turn ID=27| B | B : ja helemaal ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=28| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=29| A | A : dat zijn Numero vijftien
+	Free: Pattern=dat, Pattern=zijn
+	Constrained: 
+Turn ID=30| A | A : dit dit zijn zijn met die waterleiding mijn pomp
+	Free: Pattern=dit, Pattern=met, Pattern=die, Pattern=mijn, Pattern=zijn, Pattern=dit zijn
+	Constrained: Pattern=zijn, Pattern=dit
+Turn ID=31| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=32| B | B : mijn olifant toch ? met dat rond erbovenop
+	Free: Pattern=met dat, Pattern=mijn
+	Constrained: Pattern=dat, Pattern=met
+Turn ID=33| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=34| B | B : dan gaan het om L
+	Free: Pattern=gaan, Pattern=dan
+	Constrained: 
+Turn ID=35| B | B : dit zijn de boiler zeggen maar met de pijp en de tap
+	Free: Pattern=de, Pattern=zeggen, Pattern=met, Pattern=en, Pattern=dit zijn
+	Constrained: Pattern=zijn, Pattern=dit
+Turn ID=36| A | A : ja ik gaan hem even opzoeken
+	Free: Pattern=gaan, Pattern=ik, Pattern=hem, Pattern=ja
+	Constrained: 
+Turn ID=37| B | B : ik noemen het de olifant
+	Free: Pattern=ik noemen, Pattern=de
+	Constrained: Pattern=ik
+Turn ID=38| A | A : dat zijn Numero zes
+	Free: Pattern=dat, Pattern=zijn
+	Constrained: 
+Turn ID=39| A | A : ja mij mijn waterding
+	Free: Pattern=mijn, Pattern=ja
+	Constrained: 
+Turn ID=40| A | A : mijn waterleiding
+	Free: Pattern=mijn
+	Constrained: 
+Turn ID=41| B | B : ja dat worden dan J
+	Free: Pattern=dat, Pattern=dan, Pattern=ja
+	Constrained: 
+Turn ID=42| A | A : pomp
+	Free: 
+	Constrained: 
+Turn ID=43| B | B : dit gaan om de waterpijp met de slurf
+	Free: Pattern=gaan, Pattern=dit, Pattern=de, Pattern=met
+	Constrained: 
+Turn ID=44| B | B : en het gek bolle Erboven
+	Free: Pattern=en
+	Constrained: 
+Turn ID=45| A | A : je bedoelen ja ja de waterleiding ja
+	Free: Pattern=de, Pattern=ja
+	Constrained: 
+Turn ID=46| B | B : de waterboiler zeggen maar ja
+	Free: Pattern=de, Pattern=ja, Pattern=zeggen
+	Constrained: 
+Turn ID=47| A | A : Numero drie
+	Free: 
+	Constrained: 

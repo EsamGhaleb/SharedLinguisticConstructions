@@ -1,0 +1,159 @@
+A|0| A: _okee_ _er _zitten_ een_ bal _bovenop_ op _het kop_ 
+A|1| A: _en er_ staan _een_ vierkant staaf naast _een_ beetje _naar_ _de_ rechterkant 
+A|2| A: _ja_ 
+A|3| A: _en er_ steken _nog_ _twee_ klein cilindertjes doorheen 
+A|4| A: _ja_ 
+A|5| A: _de_ bal _bovenop_ _ja_ 
+A|6| A: _ja_ 
+B|7| B: [ja] 
+B|8| B: soort houten lat 
+B|9| B: _zijn die_ verticaal 
+B|10| B: [okee] [ja] 
+B|11| B: [ja] 
+B|12| B: [okee] dan denken ik _dat_ ik hem ook wel weten 
+B|13| B: ik gaan voor g 
+A|14| A: [ja] 
+A|15| A: [ja] 
+A|16| A: [ja] 
+A|17| A: yes 
+A|18| A: [ja] _dat zijn_ nummer zeven 
+B|19| B: ah bij bij _dit_ [kop] lijken [het] alsof [er] [een] ei bovenin liggen 
+B|20| B: [en [er] zitten] aan [de] voorkant [zitten _een] _een_ een_ lat 
+B|21| B: verticaal 
+B|22| B: [en] je hebben _nog een_ uitsteeksel aan [de] linkerkant 
+B|23| B: _die_ krom lopen 
+B|24| B: [en] aan [de] achterkant hebben je ook _nog een_ uitsteeksel 
+B|25| B: [ja] 
+A|26| A: kijken [dit] [zijn die] _met_ [de] bal erbovenop [en] [nog [een] een] staaf rechtsvoor [en] [nog] _twee_ dinget erdoorheen 
+A|27| A: yes achten 
+A|28| A: _met_ [de] bal daar _bovenop_ [en] [de] staaf rechtsvoor 
+A|29| A: yes _dat zijn_ tien 
+B|30| B: je hebben [ja] [ja] toch ? [ja] 
+B|31| B: [het] gaan echt om [het] zoeken inderdaad [ja] [ja] 
+B|32| B: [ja] 
+B|33| B: uitsteeksel aan [de] zijkant 
+B|34| B: [dat zijn] c voor mij 
+B|35| B: hier liggen [het] eit bovenin [het kop] 
+B|36| B: [met] [een] verticaal lat aan [de] voorkant [en] [twee] uitsteeksel [naar] beide kant 
+B|37| B: [dat zijn] d 
+B|38| B: ei [bovenop] [met] [een] lat verticaal aan [de] voorkant 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : okee er zitten een bal bovenop op het kop
+	Free: Pattern=bovenop, Pattern=okee, Pattern=het kop, Pattern=er zitten, Pattern=zitten een
+	Constrained: Pattern=een, Pattern=het, Pattern=er, Pattern=kop
+Turn ID=1| A | A : en er staan een vierkant staaf naast een beetje naar de rechterkant
+	Free: Pattern=en er, Pattern=de, Pattern=naar, Pattern=een
+	Constrained: Pattern=er, Pattern=en
+Turn ID=2| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=3| A | A : en er steken nog twee klein cilindertjes doorheen
+	Free: Pattern=en er, Pattern=twee, Pattern=nog
+	Constrained: Pattern=er, Pattern=en
+Turn ID=4| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=5| A | A : de bal bovenop ja
+	Free: Pattern=bovenop, Pattern=de, Pattern=ja
+	Constrained: 
+Turn ID=6| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=7| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=8| B | B : soort houten lat
+	Free: 
+	Constrained: 
+Turn ID=9| B | B : zijn die verticaal
+	Free: Pattern=zijn die
+	Constrained: Pattern=die
+Turn ID=10| B | B : okee ja
+	Free: Pattern=ja, Pattern=okee
+	Constrained: 
+Turn ID=11| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=12| B | B : okee dan denken ik dat ik hem ook wel weten
+	Free: Pattern=dat, Pattern=okee
+	Constrained: 
+Turn ID=13| B | B : ik gaan voor g
+	Free: 
+	Constrained: 
+Turn ID=14| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=15| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=16| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=17| A | A : yes
+	Free: 
+	Constrained: 
+Turn ID=18| A | A : ja dat zijn nummer zeven
+	Free: Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=dat
+Turn ID=19| B | B : ah bij bij dit kop lijken het alsof er een ei bovenin liggen
+	Free: Pattern=een, Pattern=het, Pattern=er, Pattern=kop, Pattern=dit
+	Constrained: 
+Turn ID=20| B | B : en er zitten aan de voorkant zitten een een een lat
+	Free: Pattern=de, Pattern=en er, Pattern=een een, Pattern=er zitten, Pattern=zitten een
+	Constrained: Pattern=er, Pattern=en, Pattern=een
+Turn ID=21| B | B : verticaal
+	Free: 
+	Constrained: 
+Turn ID=22| B | B : en je hebben nog een uitsteeksel aan de linkerkant
+	Free: Pattern=nog een, Pattern=en, Pattern=de
+	Constrained: Pattern=nog, Pattern=een
+Turn ID=23| B | B : die krom lopen
+	Free: Pattern=die
+	Constrained: 
+Turn ID=24| B | B : en aan de achterkant hebben je ook nog een uitsteeksel
+	Free: Pattern=nog een, Pattern=en, Pattern=de
+	Constrained: Pattern=nog, Pattern=een
+Turn ID=25| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=26| A | A : kijken dit zijn die met de bal erbovenop en nog een een staaf rechtsvoor en nog twee dinget erdoorheen
+	Free: Pattern=nog, Pattern=de, Pattern=zijn die, Pattern=dit, Pattern=en, Pattern=twee, Pattern=nog een, Pattern=een een, Pattern=met
+	Constrained: Pattern=die, Pattern=nog, Pattern=een
+Turn ID=27| A | A : yes achten
+	Free: 
+	Constrained: 
+Turn ID=28| A | A : met de bal daar bovenop en de staaf rechtsvoor
+	Free: Pattern=en, Pattern=bovenop, Pattern=de, Pattern=met
+	Constrained: 
+Turn ID=29| A | A : yes dat zijn tien
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat
+Turn ID=30| B | B : je hebben ja ja toch ? ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=31| B | B : het gaan echt om het zoeken inderdaad ja ja
+	Free: Pattern=het, Pattern=ja
+	Constrained: 
+Turn ID=32| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=33| B | B : uitsteeksel aan de zijkant
+	Free: Pattern=de
+	Constrained: 
+Turn ID=34| B | B : dat zijn c voor mij
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat
+Turn ID=35| B | B : hier liggen het eit bovenin het kop
+	Free: Pattern=het kop, Pattern=het
+	Constrained: Pattern=het, Pattern=kop
+Turn ID=36| B | B : met een verticaal lat aan de voorkant en twee uitsteeksel naar beide kant
+	Free: Pattern=twee, Pattern=de, Pattern=een, Pattern=met, Pattern=en, Pattern=naar
+	Constrained: 
+Turn ID=37| B | B : dat zijn d
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat
+Turn ID=38| B | B : ei bovenop met een lat verticaal aan de voorkant
+	Free: Pattern=bovenop, Pattern=de, Pattern=met, Pattern=een
+	Constrained: 

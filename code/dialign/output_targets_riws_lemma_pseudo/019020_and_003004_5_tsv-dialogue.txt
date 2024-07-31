@@ -1,0 +1,131 @@
+B|0| B: ik vinden _dit_ best wel _op_ _een_ mens lijken 
+B|1| B: _een_ _kop en_ dan _twee_ _ja_ afkappinkje _aan de zijkant_ naar buiten _die_ als oor kunnen dienen _een_ _staafje_ rechtsvoor 
+B|2| B: _met een_ dubbel onderop _en_ _een_ _ja_ vierkant langwerpig dinge _bovenop_ 
+B|3| B: kijken maar naar _dat_ vierkant langwerpig dinge _bovenop_ 
+B|4| B: _ja_ 
+B|5| B: _ja_ 
+B|6| B: _ja_ 
+B|7| B: _die_ _ja_ 
+A|8| A: [ja] 
+A|9| A: [ja] 
+A|10| A: jaja 
+A|11| A: [ja] 
+A|12| A: [ja] soort zo'n ding zijn wat [aan de zijkant] van _een raket_ zitten 
+A|13| A: zo'n soort [ja] ok [dat] zijn nummer achten bij mij 
+B|14| B: [een raket] 
+B|15| B: [ja] [ja] [ja] [ja] [ja] _met dat_ vierkant dinge _bovenop_ 
+B|16| B: [ja] 
+B|17| B: [een] hanenkam 
+B|18| B: hanenkam vinden ik [een] goed 
+B|19| B: E 
+B|20| B: hanenkam 
+B|21| B: oeh oeh 
+B|22| B: _met_ [de] _met_ [de] neus _en_ [de] oor 
+B|23| B: [ja] E 
+A|24| A: [ja] [dit] zijn [met] [die] balk [bovenop] [en] [die] [twee] omgekeerd beker [aan de zijkant] 
+A|25| A: [en] zo'n v' [met een] soort klein buisje er [bovenop] 
+B|26| B: [de] hanenkam 
+A|27| A: even zoeken [ja] [en] [die] driehoek [aan] [met dat] [staafje] er [op] [aan de] voorkant [ja] [dat] zijn nummer één 
+B|28| B: [ja] 
+A|29| A: [dit] zijn [met] [die] balk [bovenop] [en] [die] [twee] omgekeerd beker [aan de zijkant] 
+A|30| A: [ja] zestien 
+A|31| A: [dit] zijn [met] [die] [twee] omgekeerd [kop en] [die] balk [bovenop] 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : ik vinden dit best wel op een mens lijken
+	Free: Pattern=een, Pattern=dit, Pattern=op
+	Constrained: 
+Turn ID=1| B | B : een kop en dan twee ja afkappinkje aan de zijkant naar buiten die als oor kunnen dienen een staafje rechtsvoor
+	Free: Pattern=twee, Pattern=ja, Pattern=staafje, Pattern=kop en, Pattern=die, Pattern=een, Pattern=aan de zijkant
+	Constrained: Pattern=aan, Pattern=de, Pattern=en, Pattern=aan de
+Turn ID=2| B | B : met een dubbel onderop en een ja vierkant langwerpig dinge bovenop
+	Free: Pattern=bovenop, Pattern=ja, Pattern=een, Pattern=met een, Pattern=en
+	Constrained: Pattern=een, Pattern=met
+Turn ID=3| B | B : kijken maar naar dat vierkant langwerpig dinge bovenop
+	Free: Pattern=bovenop, Pattern=dat
+	Constrained: 
+Turn ID=4| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=5| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=6| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=7| B | B : die ja
+	Free: Pattern=ja, Pattern=die
+	Constrained: 
+Turn ID=8| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=9| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=10| A | A : jaja
+	Free: 
+	Constrained: 
+Turn ID=11| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=12| A | A : ja soort zo'n ding zijn wat aan de zijkant van een raket zitten
+	Free: Pattern=aan de zijkant, Pattern=een raket, Pattern=ja
+	Constrained: Pattern=aan, Pattern=een, Pattern=de, Pattern=aan de
+Turn ID=13| A | A : zo'n soort ja ok dat zijn nummer achten bij mij
+	Free: Pattern=dat, Pattern=ja
+	Constrained: 
+Turn ID=14| B | B : een raket
+	Free: Pattern=een raket
+	Constrained: Pattern=een
+Turn ID=15| B | B : ja ja ja ja ja met dat vierkant dinge bovenop
+	Free: Pattern=met dat, Pattern=bovenop, Pattern=ja
+	Constrained: Pattern=dat, Pattern=met
+Turn ID=16| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=17| B | B : een hanenkam
+	Free: Pattern=een
+	Constrained: 
+Turn ID=18| B | B : hanenkam vinden ik een goed
+	Free: Pattern=een
+	Constrained: 
+Turn ID=19| B | B : E
+	Free: 
+	Constrained: 
+Turn ID=20| B | B : hanenkam
+	Free: 
+	Constrained: 
+Turn ID=21| B | B : oeh oeh
+	Free: 
+	Constrained: 
+Turn ID=22| B | B : met de met de neus en de oor
+	Free: Pattern=en, Pattern=de, Pattern=met
+	Constrained: 
+Turn ID=23| B | B : ja E
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=24| A | A : ja dit zijn met die balk bovenop en die twee omgekeerd beker aan de zijkant
+	Free: Pattern=bovenop, Pattern=twee, Pattern=ja, Pattern=aan de zijkant, Pattern=dit, Pattern=met, Pattern=die, Pattern=en
+	Constrained: Pattern=aan, Pattern=de, Pattern=aan de
+Turn ID=25| A | A : en zo'n v' met een soort klein buisje er bovenop
+	Free: Pattern=met een, Pattern=en, Pattern=bovenop
+	Constrained: Pattern=een, Pattern=met
+Turn ID=26| B | B : de hanenkam
+	Free: Pattern=de
+	Constrained: 
+Turn ID=27| A | A : even zoeken ja en die driehoek aan met dat staafje er op aan de voorkant ja dat zijn nummer één
+	Free: Pattern=dat, Pattern=staafje, Pattern=met dat, Pattern=die, Pattern=en, Pattern=aan, Pattern=ja, Pattern=op, Pattern=aan de
+	Constrained: Pattern=dat, Pattern=aan, Pattern=de, Pattern=met
+Turn ID=28| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=29| A | A : dit zijn met die balk bovenop en die twee omgekeerd beker aan de zijkant
+	Free: Pattern=bovenop, Pattern=twee, Pattern=aan de zijkant, Pattern=dit, Pattern=met, Pattern=die, Pattern=en
+	Constrained: Pattern=aan, Pattern=de, Pattern=aan de
+Turn ID=30| A | A : ja zestien
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=31| A | A : dit zijn met die twee omgekeerd kop en die balk bovenop
+	Free: Pattern=bovenop, Pattern=twee, Pattern=dit, Pattern=kop en, Pattern=met, Pattern=die
+	Constrained: Pattern=en

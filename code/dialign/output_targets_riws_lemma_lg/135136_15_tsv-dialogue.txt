@@ -1,0 +1,87 @@
+B|0| B: _ja_ 
+B|1| B: er _zitten_ _een_ soort _plaat_ _niet onderaan maar iets_ hoog 
+B|2| B: weten je _dan_ welk _ik_ bedoelen ? _met_ _twee_ uitsteekseltjes _boven_ 
+A|3| A: want _die_ _hebben_ _die twee_ [twee] uitsteeksel [boven] [ja] 
+B|4| B: [ja] 
+A|5| A: [ja] 
+A|6| A: _dat zijn_ nummer zes 
+A|7| A: _deze hebben_ ook [een] _plaat maar_ wat _veel naar het midden_ 
+A|8| A: _en dan_ _die twee dinget_ bovenop 
+B|9| B: _dat zijn bij mij_ C 
+B|10| B: [deze hebben] _weer_ [dat] [plaat] [en dan] _iets_ [veel] richting [het midden] 
+B|11| B: _met_ [die twee dinget] Erboven 
+A|12| A: [ja] wachten [ik] zoeken [die] [ja] [ja] [ja] [ja] precies 
+A|13| A: [dat zijn bij mij] dertien 
+A|14| A: dit [zijn] [weer] [die] [een] [met] de plank [niet onderaan maar iets] omhoog [en] [die twee] dinge aan de bovenkant 
+B|15| B: [dat zijn bij mij] J 
+B|16| B: [met] [dat] [plaat maar] [dan] [een] stuk [veel naar het midden] 
+A|17| A: [ja] [dat zijn] nummer negen 
+B|18| B: [een] 
+A|19| A: [die] [met] de [plaat] [die] [iets] in [het midden] [zitten] 
+B|20| B: N 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=1| B | B : er zitten een soort plaat niet onderaan maar iets hoog
+	Free: Pattern=niet onderaan maar iets, Pattern=plaat, Pattern=een, Pattern=zitten
+	Constrained: Pattern=iets
+Turn ID=2| B | B : weten je dan welk ik bedoelen ? met twee uitsteekseltjes boven
+	Free: Pattern=twee, Pattern=met, Pattern=ik, Pattern=boven, Pattern=dan
+	Constrained: 
+Turn ID=3| A | A : want die hebben die twee twee uitsteeksel boven ja
+	Free: Pattern=twee, Pattern=ja, Pattern=boven, Pattern=die twee, Pattern=hebben, Pattern=die
+	Constrained: Pattern=die, Pattern=twee
+Turn ID=4| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=5| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=6| A | A : dat zijn nummer zes
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=7| A | A : deze hebben ook een plaat maar wat veel naar het midden
+	Free: Pattern=veel naar het midden, Pattern=plaat maar, Pattern=deze hebben, Pattern=een
+	Constrained: Pattern=het midden, Pattern=hebben, Pattern=plaat, Pattern=veel
+Turn ID=8| A | A : en dan die twee dinget bovenop
+	Free: Pattern=die twee dinget, Pattern=en dan
+	Constrained: Pattern=twee, Pattern=dan, Pattern=die twee, Pattern=die, Pattern=en
+Turn ID=9| B | B : dat zijn bij mij C
+	Free: Pattern=dat zijn bij mij
+	Constrained: Pattern=dat, Pattern=zijn, Pattern=dat zijn
+Turn ID=10| B | B : deze hebben weer dat plaat en dan iets veel richting het midden
+	Free: Pattern=dat, Pattern=het midden, Pattern=iets, Pattern=en dan, Pattern=veel, Pattern=deze hebben, Pattern=weer, Pattern=plaat
+	Constrained: Pattern=en, Pattern=dan, Pattern=hebben
+Turn ID=11| B | B : met die twee dinget Erboven
+	Free: Pattern=die twee dinget, Pattern=met
+	Constrained: Pattern=die, Pattern=twee, Pattern=die twee
+Turn ID=12| A | A : ja wachten ik zoeken die ja ja ja ja precies
+	Free: Pattern=die, Pattern=ik, Pattern=ja
+	Constrained: 
+Turn ID=13| A | A : dat zijn bij mij dertien
+	Free: Pattern=dat zijn bij mij
+	Constrained: Pattern=dat, Pattern=zijn, Pattern=dat zijn
+Turn ID=14| A | A : dit zijn weer die een met de plank niet onderaan maar iets omhoog en die twee dinge aan de bovenkant
+	Free: Pattern=een, Pattern=die twee, Pattern=niet onderaan maar iets, Pattern=met, Pattern=die, Pattern=en, Pattern=zijn, Pattern=weer
+	Constrained: Pattern=twee, Pattern=iets, Pattern=die
+Turn ID=15| B | B : dat zijn bij mij J
+	Free: Pattern=dat zijn bij mij
+	Constrained: Pattern=dat, Pattern=zijn, Pattern=dat zijn
+Turn ID=16| B | B : met dat plaat maar dan een stuk veel naar het midden
+	Free: Pattern=dat, Pattern=dan, Pattern=een, Pattern=veel naar het midden, Pattern=plaat maar, Pattern=met
+	Constrained: Pattern=het midden, Pattern=plaat, Pattern=veel
+Turn ID=17| A | A : ja dat zijn nummer negen
+	Free: Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=18| B | B : een
+	Free: Pattern=een
+	Constrained: 
+Turn ID=19| A | A : die met de plaat die iets in het midden zitten
+	Free: Pattern=het midden, Pattern=iets, Pattern=met, Pattern=plaat, Pattern=die, Pattern=zitten
+	Constrained: 
+Turn ID=20| B | B : N
+	Free: 
+	Constrained: 

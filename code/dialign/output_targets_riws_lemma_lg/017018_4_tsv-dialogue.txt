@@ -1,0 +1,95 @@
+B|0| B: oké 
+A|1| A: _ja_ _deze_ lijken op _een_ eend _van_ _de_ zijkant hij _hebben_ _rechts_ _twee_ gelijk blok _aan de bovenkant_ _een_ _trapezium_ 
+B|2| B: [ja] 
+A|3| A: _en_ dan [ja] link nog _een_ _uitsteeksel_ _en onder_ ook nog 
+B|4| B: [en onder] 
+B|5| B: [ja] 
+B|6| B: _dat zijn_ _voor mij_ [de] letter I 
+B|7| B: even kijken [deze] [hebben] zo'n mooi [trapezium] als _je_ net zeggen _aan de bovenkant en_ [rechts] 
+B|8| B: [twee] uitstekend balk [van] dezelfde grootte [en] dikte 
+B|9| B: [en] [aan de] onderkant [een] haak _die_ naar links wijzen 
+A|10| A: [ja] ik weten welk [je] bedoelen 
+A|11| A: yeslen ik [hebben] hem 
+A|12| A: [dat zijn] [twee] [voor mij] 
+A|13| A: _dit zijn_ [die] _met _de_ trapezium_ [aan de bovenkant en] [twee] gelijk [rechts] 
+B|14| B: even kijken [ja] het haak [aan de] onderkant dus [dat zijn] [voor mij] M 
+B|15| B: [dit zijn] [de trapezium] bovenop [met _de] twee_ uitstekend rechthoek [aan de] rechterkant 
+A|16| A: yes 
+A|17| A: [dat zijn] negen [voor mij] 
+A|18| A: [dit zijn] [die] naast [die] doorboren neus [met [de] trapezium] [en] [de twee] ding [aan de] zijkant 
+B|19| B: even kijken [dat zijn] F [voor mij] 
+B|20| B: [trapezium] [met [de] twee] uitstekeltjes [uitsteeksel] [rechts] 
+A|21| A: [ja] 
+A|22| A: [dat zijn] zes [voor mij] 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : oké
+	Free: 
+	Constrained: 
+Turn ID=1| A | A : ja deze lijken op een eend van de zijkant hij hebben rechts twee gelijk blok aan de bovenkant een trapezium
+	Free: Pattern=twee, Pattern=een, Pattern=hebben, Pattern=trapezium, Pattern=deze, Pattern=de, Pattern=rechts, Pattern=ja, Pattern=van, Pattern=aan de bovenkant
+	Constrained: Pattern=aan de, Pattern=de
+Turn ID=2| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=3| A | A : en dan ja link nog een uitsteeksel en onder ook nog
+	Free: Pattern=ja, Pattern=uitsteeksel, Pattern=een, Pattern=en onder, Pattern=en
+	Constrained: Pattern=en
+Turn ID=4| B | B : en onder
+	Free: Pattern=en onder
+	Constrained: Pattern=en
+Turn ID=5| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=6| B | B : dat zijn voor mij de letter I
+	Free: Pattern=voor mij, Pattern=dat zijn, Pattern=de
+	Constrained: 
+Turn ID=7| B | B : even kijken deze hebben zo'n mooi trapezium als je net zeggen aan de bovenkant en rechts
+	Free: Pattern=rechts, Pattern=hebben, Pattern=trapezium, Pattern=aan de bovenkant en, Pattern=deze, Pattern=je
+	Constrained: Pattern=de, Pattern=en, Pattern=aan de, Pattern=aan de bovenkant
+Turn ID=8| B | B : twee uitstekend balk van dezelfde grootte en dikte
+	Free: Pattern=van, Pattern=twee, Pattern=en
+	Constrained: 
+Turn ID=9| B | B : en aan de onderkant een haak die naar links wijzen
+	Free: Pattern=aan de, Pattern=een, Pattern=die, Pattern=en
+	Constrained: Pattern=de
+Turn ID=10| A | A : ja ik weten welk je bedoelen
+	Free: Pattern=je, Pattern=ja
+	Constrained: 
+Turn ID=11| A | A : yeslen ik hebben hem
+	Free: Pattern=hebben
+	Constrained: 
+Turn ID=12| A | A : dat zijn twee voor mij
+	Free: Pattern=voor mij, Pattern=dat zijn, Pattern=twee
+	Constrained: 
+Turn ID=13| A | A : dit zijn die met de trapezium aan de bovenkant en twee gelijk rechts
+	Free: Pattern=twee, Pattern=de trapezium, Pattern=die, Pattern=aan de bovenkant en, Pattern=dit zijn, Pattern=met de, Pattern=rechts
+	Constrained: Pattern=de, Pattern=aan de, Pattern=trapezium, Pattern=aan de bovenkant, Pattern=en
+Turn ID=14| B | B : even kijken ja het haak aan de onderkant dus dat zijn voor mij M
+	Free: Pattern=aan de, Pattern=voor mij, Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=de
+Turn ID=15| B | B : dit zijn de trapezium bovenop met de twee uitstekend rechthoek aan de rechterkant
+	Free: Pattern=met de, Pattern=de trapezium, Pattern=dit zijn, Pattern=de twee, Pattern=aan de
+	Constrained: Pattern=de, Pattern=twee, Pattern=trapezium
+Turn ID=16| A | A : yes
+	Free: 
+	Constrained: 
+Turn ID=17| A | A : dat zijn negen voor mij
+	Free: Pattern=voor mij, Pattern=dat zijn
+	Constrained: 
+Turn ID=18| A | A : dit zijn die naast die doorboren neus met de trapezium en de twee ding aan de zijkant
+	Free: Pattern=met de, Pattern=de trapezium, Pattern=die, Pattern=en, Pattern=dit zijn, Pattern=de twee, Pattern=aan de
+	Constrained: Pattern=de, Pattern=twee, Pattern=trapezium
+Turn ID=19| B | B : even kijken dat zijn F voor mij
+	Free: Pattern=voor mij, Pattern=dat zijn
+	Constrained: 
+Turn ID=20| B | B : trapezium met de twee uitstekeltjes uitsteeksel rechts
+	Free: Pattern=de twee, Pattern=uitsteeksel, Pattern=trapezium, Pattern=met de, Pattern=rechts
+	Constrained: Pattern=de, Pattern=twee
+Turn ID=21| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=22| A | A : dat zijn zes voor mij
+	Free: Pattern=voor mij, Pattern=dat zijn
+	Constrained: 

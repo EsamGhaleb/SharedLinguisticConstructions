@@ -1,0 +1,131 @@
+A|0| A: dan _hebben_ _ik_ _ik_ vinden deze zelf _een soort_ _vogel_ lijken 
+A|1| A: hij _hebben_ _een soort_ _bovenop_ _hebben_ _die_ _een soort_ kuif 
+A|2| A: _en_ dan _twee_ dezelfde _balk_ naar _rechts_ _en_ dan _een soort_ armp naar links _en_ dan nog _een_ staart eronder 
+B|3| B: _ja_ 
+B|4| B: wachten 
+B|5| B: dus je [hebben] [twee] [balk] aan de rechterkant 
+A|6| A: [ja] [twee] 
+B|7| B: [en] aan de linkerkant [een soort] pinne [en] [een soort] voe 
+A|8| A: [ja] 
+B|9| B: [en] [bovenop] zo'n [ja] _zijn_ niet echt [een] punt [een] punt met [een] plat dak 
+A|10| A: [ja] 
+A|11| A: [ja] veel [een soort] trapezefiguur 
+B|12| B: [ja] 
+B|13| B: [ja] 
+B|14| B: I 
+B|15| B: _ik hebben dat_ wat jij net _dat vogel_ noemen met zeggen maar [twee] van [die] flap [rechts] 
+B|16| B: _dat_ kuifje poo [en] [een] 
+A|17| A: _dat zijn bij mij_ nummer [twee] 
+B|18| B: [ja] 
+A|19| A: [ik hebben [dat] vogel] weer 
+B|20| B: oké 
+B|21| B: [dat zijn] M 
+B|22| B: _ik hebben het vogel_ 
+A|23| A: [die] [zijn] 
+B|24| B: met [die] [twee] [balk] aan de rechterkant 
+A|25| A: nummer negen 
+A|26| A: [ja] 
+A|27| A: [ik hebben het vogel] 
+B|28| B: [het vogel] 
+B|29| B: [dat zijn bij mij] F 
+B|30| B: [ik hebben het vogel] 
+A|31| A: nummer zes 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : dan hebben ik ik vinden deze zelf een soort vogel lijken
+	Free: Pattern=een soort, Pattern=hebben, Pattern=ik, Pattern=vogel
+	Constrained: Pattern=een
+Turn ID=1| A | A : hij hebben een soort bovenop hebben die een soort kuif
+	Free: Pattern=een soort, Pattern=die, Pattern=hebben, Pattern=bovenop
+	Constrained: Pattern=een
+Turn ID=2| A | A : en dan twee dezelfde balk naar rechts en dan een soort armp naar links en dan nog een staart eronder
+	Free: Pattern=twee, Pattern=rechts, Pattern=een, Pattern=balk, Pattern=een soort, Pattern=en
+	Constrained: Pattern=een
+Turn ID=3| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=4| B | B : wachten
+	Free: 
+	Constrained: 
+Turn ID=5| B | B : dus je hebben twee balk aan de rechterkant
+	Free: Pattern=twee, Pattern=hebben, Pattern=balk
+	Constrained: 
+Turn ID=6| A | A : ja twee
+	Free: Pattern=twee, Pattern=ja
+	Constrained: 
+Turn ID=7| B | B : en aan de linkerkant een soort pinne en een soort voe
+	Free: Pattern=een soort, Pattern=en
+	Constrained: Pattern=een
+Turn ID=8| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=9| B | B : en bovenop zo'n ja zijn niet echt een punt een punt met een plat dak
+	Free: Pattern=bovenop, Pattern=ja, Pattern=een, Pattern=en, Pattern=zijn
+	Constrained: 
+Turn ID=10| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=11| A | A : ja veel een soort trapezefiguur
+	Free: Pattern=een soort, Pattern=ja
+	Constrained: Pattern=een
+Turn ID=12| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=13| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=14| B | B : I
+	Free: 
+	Constrained: 
+Turn ID=15| B | B : ik hebben dat wat jij net dat vogel noemen met zeggen maar twee van die flap rechts
+	Free: Pattern=twee, Pattern=rechts, Pattern=dat vogel, Pattern=ik hebben dat, Pattern=die
+	Constrained: Pattern=dat, Pattern=vogel, Pattern=ik, Pattern=hebben
+Turn ID=16| B | B : dat kuifje poo en een
+	Free: Pattern=en, Pattern=een, Pattern=dat
+	Constrained: 
+Turn ID=17| A | A : dat zijn bij mij nummer twee
+	Free: Pattern=dat zijn bij mij, Pattern=twee
+	Constrained: Pattern=dat, Pattern=zijn, Pattern=dat zijn
+Turn ID=18| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=19| A | A : ik hebben dat vogel weer
+	Free: Pattern=ik hebben dat, Pattern=dat vogel
+	Constrained: Pattern=dat, Pattern=vogel, Pattern=ik, Pattern=hebben
+Turn ID=20| B | B : oké
+	Free: 
+	Constrained: 
+Turn ID=21| B | B : dat zijn M
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=22| B | B : ik hebben het vogel
+	Free: Pattern=ik hebben het vogel
+	Constrained: Pattern=vogel, Pattern=het vogel, Pattern=ik, Pattern=hebben
+Turn ID=23| A | A : die zijn
+	Free: Pattern=zijn, Pattern=die
+	Constrained: 
+Turn ID=24| B | B : met die twee balk aan de rechterkant
+	Free: Pattern=die, Pattern=twee, Pattern=balk
+	Constrained: 
+Turn ID=25| A | A : nummer negen
+	Free: 
+	Constrained: 
+Turn ID=26| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=27| A | A : ik hebben het vogel
+	Free: Pattern=ik hebben het vogel
+	Constrained: Pattern=vogel, Pattern=het vogel, Pattern=ik, Pattern=hebben
+Turn ID=28| B | B : het vogel
+	Free: Pattern=het vogel
+	Constrained: Pattern=vogel
+Turn ID=29| B | B : dat zijn bij mij F
+	Free: Pattern=dat zijn bij mij
+	Constrained: Pattern=dat, Pattern=zijn, Pattern=dat zijn
+Turn ID=30| B | B : ik hebben het vogel
+	Free: Pattern=ik hebben het vogel
+	Constrained: Pattern=vogel, Pattern=het vogel, Pattern=ik, Pattern=hebben
+Turn ID=31| A | A : nummer zes
+	Free: 
+	Constrained: 

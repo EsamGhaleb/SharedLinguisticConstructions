@@ -1,0 +1,115 @@
+B|0| B: _oké_ 
+B|1| B: _ja_ _ik_ weten welk _ja_ _ik_ weten welk je bedoelen 
+B|2| B: _dat zijn_ bij mij _zijn_ _dat_ F 
+B|3| B: _ik_ noemen hem ook _de_ heel tijd _de_ inboorling 
+B|4| B: _oké_ dus F 
+B|5| B: _ja_ precies 
+A|6| A: _ik hebben_ er één en _die_ lijken een beetje alsof _die_ een neuspiercing _hebben_ 
+A|7| A: en het [zijn] een soort 
+A|8| A: [ja] en het [zijn] een basketbal standaard zeggen maar 
+A|9| A: zo'n soort korfbalstandaard 
+A|10| A: [oké] 
+B|11| B: [oké] [ik hebben] weer [die] inboorling 
+B|12| B: dus _de_ kannibaal met _de_ ding door [zijn] neus 
+A|13| A: [ja] _dat zijn nummer_ vijf 
+B|14| B: [oké] kannibaal yes [dat zijn nummer] A of [dat zijn] a bij mij 
+B|15| B: [ja] 
+B|16| B: [oké] weer _de_ inboorling 
+B|17| B: _de_ kannibaal 
+B|18| B: met _de_ piercing 
+A|19| A: dit [zijn] [de] neuspiercing 
+A|20| A: [zijn nummer] vijf 
+B|21| B: inboorling 
+B|22| B: [de] H [zijn] [dat] bij mij 
+B|23| B: nice 
+A|24| A: [de] neuspiercing 
+B|25| B: [de] inboorling weer 
+B|26| B: [de] kannibaal 
+A|27| A: [dat zijn] vijftien 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=1| B | B : ja ik weten welk ja ik weten welk je bedoelen
+	Free: Pattern=ik, Pattern=ja
+	Constrained: 
+Turn ID=2| B | B : dat zijn bij mij zijn dat F
+	Free: Pattern=dat zijn, Pattern=zijn, Pattern=dat
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=3| B | B : ik noemen hem ook de heel tijd de inboorling
+	Free: Pattern=ik, Pattern=de
+	Constrained: 
+Turn ID=4| B | B : oké dus F
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=5| B | B : ja precies
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=6| A | A : ik hebben er één en die lijken een beetje alsof die een neuspiercing hebben
+	Free: Pattern=ik hebben, Pattern=die, Pattern=hebben
+	Constrained: Pattern=ik, Pattern=hebben
+Turn ID=7| A | A : en het zijn een soort
+	Free: Pattern=zijn
+	Constrained: 
+Turn ID=8| A | A : ja en het zijn een basketbal standaard zeggen maar
+	Free: Pattern=zijn, Pattern=ja
+	Constrained: 
+Turn ID=9| A | A : zo'n soort korfbalstandaard
+	Free: 
+	Constrained: 
+Turn ID=10| A | A : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=11| B | B : oké ik hebben weer die inboorling
+	Free: Pattern=ik hebben, Pattern=oké, Pattern=die
+	Constrained: Pattern=ik, Pattern=hebben
+Turn ID=12| B | B : dus de kannibaal met de ding door zijn neus
+	Free: Pattern=zijn, Pattern=de
+	Constrained: 
+Turn ID=13| A | A : ja dat zijn nummer vijf
+	Free: Pattern=dat zijn nummer, Pattern=ja
+	Constrained: Pattern=zijn nummer, Pattern=dat, Pattern=zijn, Pattern=dat zijn
+Turn ID=14| B | B : oké kannibaal yes dat zijn nummer A of dat zijn a bij mij
+	Free: Pattern=dat zijn nummer, Pattern=dat zijn, Pattern=oké
+	Constrained: Pattern=zijn nummer, Pattern=dat, Pattern=zijn, Pattern=dat zijn
+Turn ID=15| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=16| B | B : oké weer de inboorling
+	Free: Pattern=oké, Pattern=de
+	Constrained: 
+Turn ID=17| B | B : de kannibaal
+	Free: Pattern=de
+	Constrained: 
+Turn ID=18| B | B : met de piercing
+	Free: Pattern=de
+	Constrained: 
+Turn ID=19| A | A : dit zijn de neuspiercing
+	Free: Pattern=zijn, Pattern=de
+	Constrained: 
+Turn ID=20| A | A : zijn nummer vijf
+	Free: Pattern=zijn nummer
+	Constrained: Pattern=zijn
+Turn ID=21| B | B : inboorling
+	Free: 
+	Constrained: 
+Turn ID=22| B | B : de H zijn dat bij mij
+	Free: Pattern=zijn, Pattern=dat, Pattern=de
+	Constrained: 
+Turn ID=23| B | B : nice
+	Free: 
+	Constrained: 
+Turn ID=24| A | A : de neuspiercing
+	Free: Pattern=de
+	Constrained: 
+Turn ID=25| B | B : de inboorling weer
+	Free: Pattern=de
+	Constrained: 
+Turn ID=26| B | B : de kannibaal
+	Free: Pattern=de
+	Constrained: 
+Turn ID=27| A | A : dat zijn vijftien
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn, Pattern=dat

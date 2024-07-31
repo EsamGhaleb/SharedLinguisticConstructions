@@ -1,0 +1,147 @@
+B|0| B: _oké_ deze _ja_ deze vinden _ik_ _ook_ best wel lastig 
+B|1| B: _dat zijn_ je _hebben_ weer _dat_ kop zeggen maar _dan hebben die zo'n_ soort rond neus daarop 
+B|2| B: _en dan hebben die_ _twee_ van _die_ _staaf erin_ 
+A|3| A: [ja] 
+B|4| B: één _zo'n_ soort rechthoekig _lineaal_ 
+A|5| A: [dat zijn] [ook] de enig _met_ _twee staaf erin_ _volgens mij_ 
+B|6| B: [ja] [volgens mij] wel 
+A|7| A: [ja] 
+B|8| B: één _zo'n_ _lineaal en_ één _zo'n_ soort puntig kristaldinge 
+A|9| A: juist _ja ja_ 
+B|10| B: [ja] 
+A|11| A: [en [dan hebben die] zo'n] [zo'n] [zo'n] afvoerbak naar de zijkant toe [en] [zo'n] 
+B|12| B: [ja ja] 
+A|13| A: [ja] [oké] 
+B|14| B: [zo'n] tui 
+A|15| A: [dat zijn] voor [mij] nummer veertien 
+A|16| A: [zijn] degeen _met_ [twee] spatelt de [lineaal en] de _penseel_ 
+B|17| B: [ja] 
+B|18| B: [en] [dat] ander dinge 
+A|19| A: [ja] 
+B|20| B: [ja] 
+B|21| B: [dat zijn] _bij mij_ N 
+B|22| B: [oké] nu [hebben] _ik_ [dat] kop [met] [dat] [met] [die] [lineaal en] [die] _penseel erin_ 
+B|23| B: [en] [dat] bolle erop zeggen maar 
+B|24| B: dus [met] [die] [twee staaf erin] 
+A|25| A: [ja] daar [zijn] [die] 
+A|26| A: nummer negen 
+A|27| A: [ik] [hebben] degeen [met] de [lineaal en] de [penseel erin] 
+B|28| B: [ja] 
+A|29| A: staan [bij mij] in het midden 
+B|30| B: [ja] [bij mij] [ook] 
+B|31| B: [dat zijn] G 
+B|32| B: nu [hebben] [ik] [dat] kop [met] [die] [lineaal en] [dat] [penseel erin] 
+A|33| A: [ja] nummer vijf 
+A|34| A: [ik] [hebben] de [penseel] [en] [lineaal] 
+B|35| B: [ja] [dat zijn] J 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : oké deze ja deze vinden ik ook best wel lastig
+	Free: Pattern=oké, Pattern=ik, Pattern=ja, Pattern=ook
+	Constrained: 
+Turn ID=1| B | B : dat zijn je hebben weer dat kop zeggen maar dan hebben die zo'n soort rond neus daarop
+	Free: Pattern=dan hebben die zo'n, Pattern=dat zijn, Pattern=hebben, Pattern=dat
+	Constrained: Pattern=dat, Pattern=zo'n, Pattern=hebben, Pattern=die, Pattern=zijn
+Turn ID=2| B | B : en dan hebben die twee van die staaf erin
+	Free: Pattern=en dan hebben die, Pattern=staaf erin, Pattern=die, Pattern=twee
+	Constrained: Pattern=die, Pattern=en, Pattern=hebben
+Turn ID=3| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=4| B | B : één zo'n soort rechthoekig lineaal
+	Free: Pattern=zo'n, Pattern=lineaal
+	Constrained: 
+Turn ID=5| A | A : dat zijn ook de enig met twee staaf erin volgens mij
+	Free: Pattern=dat zijn, Pattern=ook, Pattern=met, Pattern=volgens mij, Pattern=twee staaf erin
+	Constrained: Pattern=dat, Pattern=twee, Pattern=mij, Pattern=zijn, Pattern=staaf erin
+Turn ID=6| B | B : ja volgens mij wel
+	Free: Pattern=volgens mij, Pattern=ja
+	Constrained: Pattern=mij
+Turn ID=7| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=8| B | B : één zo'n lineaal en één zo'n soort puntig kristaldinge
+	Free: Pattern=lineaal en, Pattern=zo'n
+	Constrained: Pattern=en, Pattern=lineaal
+Turn ID=9| A | A : juist ja ja
+	Free: Pattern=ja ja
+	Constrained: Pattern=ja
+Turn ID=10| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=11| A | A : en dan hebben die zo'n zo'n zo'n afvoerbak naar de zijkant toe en zo'n
+	Free: Pattern=dan hebben die zo'n, Pattern=en dan hebben die, Pattern=zo'n, Pattern=en
+	Constrained: Pattern=die, Pattern=zo'n, Pattern=en, Pattern=hebben
+Turn ID=12| B | B : ja ja
+	Free: Pattern=ja ja
+	Constrained: Pattern=ja
+Turn ID=13| A | A : ja oké
+	Free: Pattern=oké, Pattern=ja
+	Constrained: 
+Turn ID=14| B | B : zo'n tui
+	Free: Pattern=zo'n
+	Constrained: 
+Turn ID=15| A | A : dat zijn voor mij nummer veertien
+	Free: Pattern=dat zijn, Pattern=mij
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=16| A | A : zijn degeen met twee spatelt de lineaal en de penseel
+	Free: Pattern=penseel, Pattern=twee, Pattern=met, Pattern=lineaal en, Pattern=zijn
+	Constrained: Pattern=en, Pattern=lineaal
+Turn ID=17| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=18| B | B : en dat ander dinge
+	Free: Pattern=en, Pattern=dat
+	Constrained: 
+Turn ID=19| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=20| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=21| B | B : dat zijn bij mij N
+	Free: Pattern=bij mij, Pattern=dat zijn
+	Constrained: Pattern=mij, Pattern=zijn, Pattern=dat
+Turn ID=22| B | B : oké nu hebben ik dat kop met dat met die lineaal en die penseel erin
+	Free: Pattern=penseel erin, Pattern=dat, Pattern=hebben, Pattern=met, Pattern=oké, Pattern=ik, Pattern=lineaal en, Pattern=die
+	Constrained: Pattern=en, Pattern=penseel, Pattern=lineaal
+Turn ID=23| B | B : en dat bolle erop zeggen maar
+	Free: Pattern=en, Pattern=dat
+	Constrained: 
+Turn ID=24| B | B : dus met die twee staaf erin
+	Free: Pattern=twee staaf erin, Pattern=die, Pattern=met
+	Constrained: Pattern=staaf erin, Pattern=twee
+Turn ID=25| A | A : ja daar zijn die
+	Free: Pattern=die, Pattern=ja, Pattern=zijn
+	Constrained: 
+Turn ID=26| A | A : nummer negen
+	Free: 
+	Constrained: 
+Turn ID=27| A | A : ik hebben degeen met de lineaal en de penseel erin
+	Free: Pattern=penseel erin, Pattern=hebben, Pattern=met, Pattern=lineaal en, Pattern=ik
+	Constrained: Pattern=en, Pattern=penseel, Pattern=lineaal
+Turn ID=28| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=29| A | A : staan bij mij in het midden
+	Free: Pattern=bij mij
+	Constrained: Pattern=mij
+Turn ID=30| B | B : ja bij mij ook
+	Free: Pattern=bij mij, Pattern=ja, Pattern=ook
+	Constrained: Pattern=mij
+Turn ID=31| B | B : dat zijn G
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=32| B | B : nu hebben ik dat kop met die lineaal en dat penseel erin
+	Free: Pattern=penseel erin, Pattern=dat, Pattern=hebben, Pattern=met, Pattern=ik, Pattern=lineaal en, Pattern=die
+	Constrained: Pattern=en, Pattern=penseel, Pattern=lineaal
+Turn ID=33| A | A : ja nummer vijf
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=34| A | A : ik hebben de penseel en lineaal
+	Free: Pattern=penseel, Pattern=hebben, Pattern=lineaal, Pattern=ik, Pattern=en
+	Constrained: 
+Turn ID=35| B | B : ja dat zijn J
+	Free: Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=zijn, Pattern=dat

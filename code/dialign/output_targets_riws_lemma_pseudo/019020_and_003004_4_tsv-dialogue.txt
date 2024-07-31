@@ -1,0 +1,147 @@
+B|0| B: _ja_ 
+B|1| B: _ja_ 
+B|2| B: _ja_ 
+B|3| B: _ja_ 
+B|4| B: _ja_ _die_ iets spitser toekent alleen geen _punt_ _hebben_ 
+B|5| B: _ja_ 
+B|6| B: I 
+A|7| A: [ja] _ik vinden_ deze op _een_ vogel lijken 
+A|8| A: _het_ zijn _met die_ [hebben] zo'n snavel _met twee van die_ rechthoe [die] _aan de rechterkant_ er uit komen _en_ zo'n 
+A|9| A: driehoek _met de_ plat bovenkant er _bovenop_ _en_ dan zo'n dinge naar achteren _met_ zo'n staart eronder [die] ook naar achter wijzen 
+A|10| A: [ja] maar dan zonder [ja] _je_ [hebben] er één _met_ zo'n heel scherp piramide 
+A|11| A: _en_ _dat_ zijn hem niet _het_ zijn _met_ _het_ begin _van_ _de_ piramide maar _de_ [punt] zijn er zeggen maar afsnijden 
+A|12| A: toch ? [ja] _dat_ lijken echt net 
+A|13| A: [ja] _dat_ zijn zeggen maar zijn snavel _en_ dan [hebben] hij zo'n vleugel naar achter _en_ _van die_ staartvear naar achter 
+A|14| A: [die] boog naar achter dus _dat_ zijn echt _een_ superduidelijk vogel 
+A|15| A: ok 
+B|16| B: [met de] deurklink [en] [met twee van die] dinget [die] eruit steken [aan de rechterkant] [met] [dat] spits toelopen [punt] [bovenop] 
+B|17| B: [dat] geen [punt] [hebben] 
+B|18| B: [een] soort omgekeerd badkuip 
+B|19| B: beetje weten [je] [met die] 
+B|20| B: [ja] rechthoeken [ik vinden] [het] wel rechthoek 
+B|21| B: oké 
+B|22| B: zullen we [die] [de] deurklink noemen 
+B|23| B: oké top 
+B|24| B: [ja] 
+A|25| A: [ja] 
+A|26| A: even kijken waar staan hij [dat] zijn nummer [twee] bij mij 
+A|27| A: [ja] 
+B|28| B: [de] deurklink 
+B|29| B: [ja] 
+A|30| A: [ja] dit zijn [die] vogel [met] zijn [twee] ding [en] zijn vleugel naar achter 
+A|31| A: [ja] 
+B|32| B: [de] deurklink 
+A|33| A: [dat] zijn nummer negen 
+A|34| A: dit zijn [die] vogel 
+A|35| A: [ja] [dat] zijn nummer zes 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=1| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=2| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=3| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=4| B | B : ja die iets spitser toekent alleen geen punt hebben
+	Free: Pattern=die, Pattern=ja, Pattern=hebben, Pattern=punt
+	Constrained: 
+Turn ID=5| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=6| B | B : I
+	Free: 
+	Constrained: 
+Turn ID=7| A | A : ja ik vinden deze op een vogel lijken
+	Free: Pattern=ik vinden, Pattern=ja, Pattern=een
+	Constrained: 
+Turn ID=8| A | A : het zijn met die hebben zo'n snavel met twee van die rechthoe die aan de rechterkant er uit komen en zo'n
+	Free: Pattern=met die, Pattern=het, Pattern=hebben, Pattern=en, Pattern=met twee van die, Pattern=aan de rechterkant, Pattern=die
+	Constrained: Pattern=twee, Pattern=de, Pattern=met, Pattern=die, Pattern=van, Pattern=van die
+Turn ID=9| A | A : driehoek met de plat bovenkant er bovenop en dan zo'n dinge naar achteren met zo'n staart eronder die ook naar achter wijzen
+	Free: Pattern=bovenop, Pattern=met de, Pattern=met, Pattern=die, Pattern=en
+	Constrained: Pattern=met, Pattern=de
+Turn ID=10| A | A : ja maar dan zonder ja je hebben er één met zo'n heel scherp piramide
+	Free: Pattern=je, Pattern=ja, Pattern=hebben, Pattern=met
+	Constrained: 
+Turn ID=11| A | A : en dat zijn hem niet het zijn met het begin van de piramide maar de punt zijn er zeggen maar afsnijden
+	Free: Pattern=dat, Pattern=punt, Pattern=de, Pattern=het, Pattern=met, Pattern=van, Pattern=en
+	Constrained: 
+Turn ID=12| A | A : toch ? ja dat lijken echt net
+	Free: Pattern=dat, Pattern=ja
+	Constrained: 
+Turn ID=13| A | A : ja dat zijn zeggen maar zijn snavel en dan hebben hij zo'n vleugel naar achter en van die staartvear naar achter
+	Free: Pattern=dat, Pattern=ja, Pattern=hebben, Pattern=van die, Pattern=en
+	Constrained: Pattern=die, Pattern=van
+Turn ID=14| A | A : die boog naar achter dus dat zijn echt een superduidelijk vogel
+	Free: Pattern=dat, Pattern=die, Pattern=een
+	Constrained: 
+Turn ID=15| A | A : ok
+	Free: 
+	Constrained: 
+Turn ID=16| B | B : met de deurklink en met twee van die dinget die eruit steken aan de rechterkant met dat spits toelopen punt bovenop
+	Free: Pattern=punt, Pattern=met de, Pattern=met, Pattern=en, Pattern=met twee van die, Pattern=dat, Pattern=bovenop, Pattern=aan de rechterkant, Pattern=die
+	Constrained: Pattern=twee, Pattern=de, Pattern=met, Pattern=die, Pattern=van, Pattern=van die
+Turn ID=17| B | B : dat geen punt hebben
+	Free: Pattern=dat, Pattern=hebben, Pattern=punt
+	Constrained: 
+Turn ID=18| B | B : een soort omgekeerd badkuip
+	Free: Pattern=een
+	Constrained: 
+Turn ID=19| B | B : beetje weten je met die
+	Free: Pattern=met die, Pattern=je
+	Constrained: Pattern=die, Pattern=met
+Turn ID=20| B | B : ja rechthoeken ik vinden het wel rechthoek
+	Free: Pattern=ik vinden, Pattern=ja, Pattern=het
+	Constrained: 
+Turn ID=21| B | B : oké
+	Free: 
+	Constrained: 
+Turn ID=22| B | B : zullen we die de deurklink noemen
+	Free: Pattern=die, Pattern=de
+	Constrained: 
+Turn ID=23| B | B : oké top
+	Free: 
+	Constrained: 
+Turn ID=24| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=25| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=26| A | A : even kijken waar staan hij dat zijn nummer twee bij mij
+	Free: Pattern=dat, Pattern=twee
+	Constrained: 
+Turn ID=27| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=28| B | B : de deurklink
+	Free: Pattern=de
+	Constrained: 
+Turn ID=29| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=30| A | A : ja dit zijn die vogel met zijn twee ding en zijn vleugel naar achter
+	Free: Pattern=twee, Pattern=ja, Pattern=met, Pattern=die, Pattern=en
+	Constrained: 
+Turn ID=31| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=32| B | B : de deurklink
+	Free: Pattern=de
+	Constrained: 
+Turn ID=33| A | A : dat zijn nummer negen
+	Free: Pattern=dat
+	Constrained: 
+Turn ID=34| A | A : dit zijn die vogel
+	Free: Pattern=die
+	Constrained: 
+Turn ID=35| A | A : ja dat zijn nummer zes
+	Free: Pattern=dat, Pattern=ja
+	Constrained: 

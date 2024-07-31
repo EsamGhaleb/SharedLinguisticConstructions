@@ -1,0 +1,91 @@
+B|0| B: je kunnen _het_ een beetje beschrijven als _twee_ oog _die_ _die_ _aan de_ linkerkant hebben als _verrekijker_ _en_ een vierkant erop plakken 
+B|1| B: _aan de_ voorkant 
+B|2| B: _ja_ 
+A|3| A: [en] Antenne of zoiets [ja] 
+A|4| A: ok [ja] [ja] nummertje [twee] _zijn_ [het] dan 
+A|5| A: [ja] _dit zijn_ dan eigenlijk zo'n blok _met_ zo'n antennetje _bovenop_ zo zo'n paddenstoel [en] dan eigenlijk _met_ [die] [twee] uitsteek ding [ja] 
+A|6| A: [ja] [die] zo'n bril of achtig gebeuren _zijn_ [verrekijker] [ja] 
+A|7| A: [ja] [die] plaat nog erbij [ja] [ja] [ja] 
+B|8| B: [met] [het] vierkant voorop 
+B|9| B: [ja] 
+B|10| B: G 
+B|11| B: [dit zijn] _de_ [verrekijker] [met] vierkant voorop [en] [het] plubbel [bovenop] 
+A|12| A: ok 
+A|13| A: [aan de] zijkant [en] dan [met] [die] blok [die] er uit gaan [die] [twee] ok dat [zijn] dan nummertje negen 
+B|14| B: D 
+A|15| A: [ja] dat [zijn] [die] [met] [die] paddenstoel [en] [met] [de] kaas plak [aan de] zijkant [en] [met] [die] uitgekuubte kubus [ja] 
+B|16| B: [dit zijn] [de] [verrekijker] [met] [het] vierkan voorop plakken 
+A|17| A: [ja] 
+A|18| A: [ja] dat [zijn] dan nummer één 
+B|19| B: [met] [het] vierkan 
+B|20| B: waar staan [die] 
+A|21| A: [ja] [dit zijn] [die] paddenstoel [bovenop] [en] dat kaasplak [aan de] zijkant [en] [die] uitgeklapte kubus [ja] 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : je kunnen het een beetje beschrijven als twee oog die die aan de linkerkant hebben als verrekijker en een vierkant erop plakken
+	Free: Pattern=twee, Pattern=aan de, Pattern=het, Pattern=die, Pattern=verrekijker, Pattern=en
+	Constrained: Pattern=de
+Turn ID=1| B | B : aan de voorkant
+	Free: Pattern=aan de
+	Constrained: Pattern=de
+Turn ID=2| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=3| A | A : en Antenne of zoiets ja
+	Free: Pattern=ja, Pattern=en
+	Constrained: 
+Turn ID=4| A | A : ok ja ja nummertje twee zijn het dan
+	Free: Pattern=twee, Pattern=het, Pattern=ja, Pattern=zijn
+	Constrained: 
+Turn ID=5| A | A : ja dit zijn dan eigenlijk zo'n blok met zo'n antennetje bovenop zo zo'n paddenstoel en dan eigenlijk met die twee uitsteek ding ja
+	Free: Pattern=bovenop, Pattern=twee, Pattern=ja, Pattern=met, Pattern=die, Pattern=en, Pattern=dit zijn
+	Constrained: Pattern=zijn
+Turn ID=6| A | A : ja die zo'n bril of achtig gebeuren zijn verrekijker ja
+	Free: Pattern=ja, Pattern=verrekijker, Pattern=die, Pattern=zijn
+	Constrained: 
+Turn ID=7| A | A : ja die plaat nog erbij ja ja ja
+	Free: Pattern=ja, Pattern=die
+	Constrained: 
+Turn ID=8| B | B : met het vierkant voorop
+	Free: Pattern=het, Pattern=met
+	Constrained: 
+Turn ID=9| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=10| B | B : G
+	Free: 
+	Constrained: 
+Turn ID=11| B | B : dit zijn de verrekijker met vierkant voorop en het plubbel bovenop
+	Free: Pattern=bovenop, Pattern=de, Pattern=het, Pattern=met, Pattern=dit zijn, Pattern=verrekijker, Pattern=en
+	Constrained: Pattern=zijn
+Turn ID=12| A | A : ok
+	Free: 
+	Constrained: 
+Turn ID=13| A | A : aan de zijkant en dan met die blok die er uit gaan die twee ok dat zijn dan nummertje negen
+	Free: Pattern=twee, Pattern=aan de, Pattern=met, Pattern=die, Pattern=en, Pattern=zijn
+	Constrained: Pattern=de
+Turn ID=14| B | B : D
+	Free: 
+	Constrained: 
+Turn ID=15| A | A : ja dat zijn die met die paddenstoel en met de kaas plak aan de zijkant en met die uitgekuubte kubus ja
+	Free: Pattern=aan de, Pattern=met, Pattern=die, Pattern=en, Pattern=zijn, Pattern=de, Pattern=ja
+	Constrained: Pattern=de
+Turn ID=16| B | B : dit zijn de verrekijker met het vierkan voorop plakken
+	Free: Pattern=de, Pattern=het, Pattern=met, Pattern=verrekijker, Pattern=dit zijn
+	Constrained: Pattern=zijn
+Turn ID=17| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=18| A | A : ja dat zijn dan nummer één
+	Free: Pattern=ja, Pattern=zijn
+	Constrained: 
+Turn ID=19| B | B : met het vierkan
+	Free: Pattern=het, Pattern=met
+	Constrained: 
+Turn ID=20| B | B : waar staan die
+	Free: Pattern=die
+	Constrained: 
+Turn ID=21| A | A : ja dit zijn die paddenstoel bovenop en dat kaasplak aan de zijkant en die uitgeklapte kubus ja
+	Free: Pattern=bovenop, Pattern=ja, Pattern=aan de, Pattern=die, Pattern=en, Pattern=dit zijn
+	Constrained: Pattern=de, Pattern=zijn

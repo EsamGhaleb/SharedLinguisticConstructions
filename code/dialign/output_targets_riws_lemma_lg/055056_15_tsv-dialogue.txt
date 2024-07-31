@@ -1,0 +1,171 @@
+B|0| B: _oké_ _het_ _volgen_ plaat lijken _een_ heel klein _beetje_ 
+B|1| B: op _een een_ soort stekker _met_ allemaal dinget eraan vast 
+B|2| B: er zitten _een_ vierkantje omheen 
+B|3| B: _aan de_ _ja_ jij lijken _het_ als _een_ koffiebeker _dan_ zitten er _aan de_ onderkant van _het_ bekert zitten _een een_ _vierkant eromheen_ 
+B|4| B: _en_ daar staan _die_ eigenlijk _in_ _een_ gat 
+B|5| B: dus je zien _de_ onderkant van _het_ beker onder _dat_ onder _die_ plaat vandaan komen 
+A|6| A: [oké] 
+A|7| A: [en] [dan] hebben [die] [aan de] linkerkant [een een] staaf [die] links gaan [en] iets omhoog 
+B|8| B: _ja_ [een] Lvorm 
+A|9| A: twee stickert recht omhoog 
+B|10| B: _ja_ 
+B|11| B: _en nog_ één 
+A|12| A: [en nog] [een] ronde [beetje] [aan de] voorkant 
+B|13| B: yes 
+A|14| A: [oké] 
+A|15| A: _dat zijn_ nummer zes 
+A|16| A: [dan] hebben we [de] koffiekop _met de_ dun stekkerdinge _aan de bovenkant_ 
+A|17| A: [met] laag rond [de] middel [de] [het] [vierkant eromheen] 
+B|18| B: _ja_ 
+B|19| B: ik weten hem 
+A|20| A: [oké] 
+B|21| B: [dat zijn] letter C 
+B|22| B: dit [zijn] [het] stopcontact [met de] klein punt [aan de bovenkant] 
+B|23| B: er zitten ver [een] 
+A|24| A: [en] [de] _vierkant rok_ 
+B|25| B: _ja_ 
+B|26| B: [vierkant rok] inderdaad 
+A|27| A: [dat zijn] nummer dertien 
+A|28| A: [volgen] [zijn] [de] stekkert [aan de bovenkant] 
+A|29| A: [vierkant rok] [in] [het] midden 
+B|30| B: _ja_ 
+A|31| A: [en nog] twee uitsteeksel 
+B|32| B: [en] [die] ding 
+B|33| B: _ja_ [dat zijn] letter J 
+B|34| B: [een] stekker [met] [die] klein uitsteekselt [en] [een] [vierkant] vlak waar [die] [in] staat 
+A|35| A: [ja] nummer negen [zijn] [dat] 
+A|36| A: negen 
+A|37| A: [de] stekkert [aan de bovenkant] 
+A|38| A: [vierkant rok] om [het] midden 
+B|39| B: [ja] [ja] 
+B|40| B: duidelijk 
+B|41| B: letter N 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : oké het volgen plaat lijken een heel klein beetje
+	Free: Pattern=volgen, Pattern=beetje, Pattern=een, Pattern=het, Pattern=oké
+	Constrained: 
+Turn ID=1| B | B : op een een soort stekker met allemaal dinget eraan vast
+	Free: Pattern=een een, Pattern=met
+	Constrained: Pattern=een
+Turn ID=2| B | B : er zitten een vierkantje omheen
+	Free: Pattern=een
+	Constrained: 
+Turn ID=3| B | B : aan de ja jij lijken het als een koffiebeker dan zitten er aan de onderkant van het bekert zitten een een vierkant eromheen
+	Free: Pattern=ja, Pattern=aan de, Pattern=dan, Pattern=een, Pattern=het, Pattern=een een, Pattern=vierkant eromheen
+	Constrained: Pattern=vierkant, Pattern=de, Pattern=een
+Turn ID=4| B | B : en daar staan die eigenlijk in een gat
+	Free: Pattern=en, Pattern=in, Pattern=die, Pattern=een
+	Constrained: 
+Turn ID=5| B | B : dus je zien de onderkant van het beker onder dat onder die plaat vandaan komen
+	Free: Pattern=dat, Pattern=het, Pattern=de, Pattern=die
+	Constrained: 
+Turn ID=6| A | A : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=7| A | A : en dan hebben die aan de linkerkant een een staaf die links gaan en iets omhoog
+	Free: Pattern=aan de, Pattern=dan, Pattern=een een, Pattern=die, Pattern=en
+	Constrained: Pattern=de, Pattern=een
+Turn ID=8| B | B : ja een Lvorm
+	Free: Pattern=ja, Pattern=een
+	Constrained: 
+Turn ID=9| A | A : twee stickert recht omhoog
+	Free: 
+	Constrained: 
+Turn ID=10| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=11| B | B : en nog één
+	Free: Pattern=en nog
+	Constrained: Pattern=en
+Turn ID=12| A | A : en nog een ronde beetje aan de voorkant
+	Free: Pattern=en nog, Pattern=aan de, Pattern=beetje, Pattern=een
+	Constrained: Pattern=en, Pattern=de
+Turn ID=13| B | B : yes
+	Free: 
+	Constrained: 
+Turn ID=14| A | A : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=15| A | A : dat zijn nummer zes
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=16| A | A : dan hebben we de koffiekop met de dun stekkerdinge aan de bovenkant
+	Free: Pattern=aan de bovenkant, Pattern=met de, Pattern=dan, Pattern=de
+	Constrained: Pattern=de, Pattern=met, Pattern=aan de
+Turn ID=17| A | A : met laag rond de middel de het vierkant eromheen
+	Free: Pattern=vierkant eromheen, Pattern=met, Pattern=het, Pattern=de
+	Constrained: Pattern=vierkant
+Turn ID=18| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=19| B | B : ik weten hem
+	Free: 
+	Constrained: 
+Turn ID=20| A | A : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=21| B | B : dat zijn letter C
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=22| B | B : dit zijn het stopcontact met de klein punt aan de bovenkant
+	Free: Pattern=aan de bovenkant, Pattern=met de, Pattern=zijn, Pattern=het
+	Constrained: Pattern=de, Pattern=met, Pattern=aan de
+Turn ID=23| B | B : er zitten ver een
+	Free: Pattern=een
+	Constrained: 
+Turn ID=24| A | A : en de vierkant rok
+	Free: Pattern=vierkant rok, Pattern=en, Pattern=de
+	Constrained: Pattern=vierkant
+Turn ID=25| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=26| B | B : vierkant rok inderdaad
+	Free: Pattern=vierkant rok
+	Constrained: Pattern=vierkant
+Turn ID=27| A | A : dat zijn nummer dertien
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=28| A | A : volgen zijn de stekkert aan de bovenkant
+	Free: Pattern=aan de bovenkant, Pattern=zijn, Pattern=volgen, Pattern=de
+	Constrained: Pattern=aan de, Pattern=de
+Turn ID=29| A | A : vierkant rok in het midden
+	Free: Pattern=vierkant rok, Pattern=in, Pattern=het
+	Constrained: Pattern=vierkant
+Turn ID=30| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=31| A | A : en nog twee uitsteeksel
+	Free: Pattern=en nog
+	Constrained: Pattern=en
+Turn ID=32| B | B : en die ding
+	Free: Pattern=en, Pattern=die
+	Constrained: 
+Turn ID=33| B | B : ja dat zijn letter J
+	Free: Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=34| B | B : een stekker met die klein uitsteekselt en een vierkant vlak waar die in staat
+	Free: Pattern=een, Pattern=in, Pattern=met, Pattern=die, Pattern=en, Pattern=vierkant
+	Constrained: 
+Turn ID=35| A | A : ja nummer negen zijn dat
+	Free: Pattern=dat, Pattern=zijn, Pattern=ja
+	Constrained: 
+Turn ID=36| A | A : negen
+	Free: 
+	Constrained: 
+Turn ID=37| A | A : de stekkert aan de bovenkant
+	Free: Pattern=aan de bovenkant, Pattern=de
+	Constrained: Pattern=aan de, Pattern=de
+Turn ID=38| A | A : vierkant rok om het midden
+	Free: Pattern=vierkant rok, Pattern=het
+	Constrained: Pattern=vierkant
+Turn ID=39| B | B : ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=40| B | B : duidelijk
+	Free: 
+	Constrained: 
+Turn ID=41| B | B : letter N
+	Free: 
+	Constrained: 

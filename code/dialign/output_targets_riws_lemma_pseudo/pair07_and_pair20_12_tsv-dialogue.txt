@@ -1,0 +1,95 @@
+A|0| A: _deze hebben_ aan _de_ rechterkant een plat ronde schijf _en_ aan _de_ linkerkant _hebben_ je een uitsteeksel _met_ daar bovenop nog zo'n heel langwerpig zo'n toeterding 
+A|1| A: _ja_ 
+A|2| A: _en_ aan _de_ rechterkant zo'n ronde schijf toch 
+A|3| A: _ja_ vijfteen 
+B|4| B: [ja] 
+B|5| B: spijker 
+B|6| B: [ja] okee 
+B|7| B: [ja] _dat_ _zijn_ d 
+A|8| A: _dit zijn de_ _met_ aan _de_ rechterkant die Ronde schijf _en_ aan _de_ linkerkant uitsteeksel _met_ daarbovenop die langwerpig 
+B|9| B: [dit zijn] diegene [met] _dat_ gehoekte handvat [en] [de] spijker schoorsteen in _dat_ handvat 
+B|10| B: yes yes 
+A|11| A: [ja] 
+A|12| A: twee 
+B|13| B: yes _dat_ [zijn] p 
+A|14| A: [dit zijn] die [met] die die rond schijf aan [de] rechterkant [en] [dat] [en] [dat] uitstekend tuu zo linksboven 
+A|15| A: [ja] horizontaal 
+B|16| B: [deze hebben] [dat] handvat [met] [de] inkeping [en] [de] schoorsteen 
+B|17| B: [en] het het cirkelplateau 
+A|18| A: [ja] 
+A|19| A: [de] Ronde schijf aan [de] [ja] 
+A|20| A: drie 
+B|21| B: [dat] [zijn] p 
+B|22| B: [dit zijn de] ingekeept handvat [de] schoorsteen [en] het plateau 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : deze hebben aan de rechterkant een plat ronde schijf en aan de linkerkant hebben je een uitsteeksel met daar bovenop nog zo'n heel langwerpig zo'n toeterding
+	Free: Pattern=de, Pattern=hebben, Pattern=deze hebben, Pattern=met, Pattern=en
+	Constrained: Pattern=hebben
+Turn ID=1| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=2| A | A : en aan de rechterkant zo'n ronde schijf toch
+	Free: Pattern=en, Pattern=de
+	Constrained: 
+Turn ID=3| A | A : ja vijfteen
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=4| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=5| B | B : spijker
+	Free: 
+	Constrained: 
+Turn ID=6| B | B : ja okee
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=7| B | B : ja dat zijn d
+	Free: Pattern=ja, Pattern=dat, Pattern=zijn
+	Constrained: 
+Turn ID=8| A | A : dit zijn de met aan de rechterkant die Ronde schijf en aan de linkerkant uitsteeksel met daarbovenop die langwerpig
+	Free: Pattern=dit zijn de, Pattern=en, Pattern=met, Pattern=de
+	Constrained: Pattern=dit zijn, Pattern=de, Pattern=zijn
+Turn ID=9| B | B : dit zijn diegene met dat gehoekte handvat en de spijker schoorsteen in dat handvat
+	Free: Pattern=dat, Pattern=de, Pattern=met, Pattern=en, Pattern=dit zijn
+	Constrained: Pattern=zijn
+Turn ID=10| B | B : yes yes
+	Free: 
+	Constrained: 
+Turn ID=11| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=12| A | A : twee
+	Free: 
+	Constrained: 
+Turn ID=13| B | B : yes dat zijn p
+	Free: Pattern=dat, Pattern=zijn
+	Constrained: 
+Turn ID=14| A | A : dit zijn die met die die rond schijf aan de rechterkant en dat en dat uitstekend tuu zo linksboven
+	Free: Pattern=dat, Pattern=de, Pattern=met, Pattern=en, Pattern=dit zijn
+	Constrained: Pattern=zijn
+Turn ID=15| A | A : ja horizontaal
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=16| B | B : deze hebben dat handvat met de inkeping en de schoorsteen
+	Free: Pattern=dat, Pattern=de, Pattern=deze hebben, Pattern=met, Pattern=en
+	Constrained: Pattern=hebben
+Turn ID=17| B | B : en het het cirkelplateau
+	Free: Pattern=en
+	Constrained: 
+Turn ID=18| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=19| A | A : de Ronde schijf aan de ja
+	Free: Pattern=ja, Pattern=de
+	Constrained: 
+Turn ID=20| A | A : drie
+	Free: 
+	Constrained: 
+Turn ID=21| B | B : dat zijn p
+	Free: Pattern=dat, Pattern=zijn
+	Constrained: 
+Turn ID=22| B | B : dit zijn de ingekeept handvat de schoorsteen en het plateau
+	Free: Pattern=dit zijn de, Pattern=en, Pattern=de
+	Constrained: Pattern=dit zijn, Pattern=de, Pattern=zijn

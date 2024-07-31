@@ -1,0 +1,139 @@
+A|0| A: oké deze _hebben_ _een_ _soort van_ twee armp _als_ _een_ _soort_ _vliegtuigvleugel_ 
+A|1| A: en nog _een_ ding _aan de_ achterkant 
+A|2| A: en _ja ik hebben_ _die_ _dat_ ding _een beetje_ _een_ rugzak _noemen_ 
+B|3| B: _ja ja_ 
+B|4| B: [ja ik hebben] echt geen idee wat [ik] daaraan moeten one's koppelen echt geen idee [ik hebben] zoiets [van] _het_ lijken [een beetje] op [een] _wattenstaafje_ denken [ik] zo _maar_ goed _in_ ieder geval 
+A|5| A: nee 
+A|6| A: [ja] [wattenstaafje] _zijn_ nog _ik [ja_ ik] zien er [een beetje] _vliegtuigvleugel_ [in] [maar] dan dan [hebben] _jij_ hem _wel_ geloven [ik] toch ? welk _het zijn_ 
+B|7| B: [ja ik] [dat] [dat] denken [ik] [wel] _dat zijn_ K 
+A|8| A: nee dan [zijn] [het] net anders 
+A|9| A: welk [zijn] [het] 
+B|10| B: [het zijn] poeh [de] parasol volgens mij 
+B|11| B: wat [ik] [noemen] [wattenstaafje] 
+B|12| B: _met_ [die] [soort van] arm _met_ [die] bollet [aan de] buitenkant 
+A|13| A: wachten _even_ 
+A|14| A: [ja] 
+A|15| A: [ja ja] precies [die] [ik] [de] vliegtuig vleugel [hebben] [noemen] 
+B|16| B: [vliegtuigvleugel] [dat] bedoelen [ik ja] 
+A|17| A: yes 
+A|18| A: [dat zijn] negen 
+A|19| A: _dit zijn de vliegtuigvleugel_ 
+B|20| B: [ja] 
+A|21| A: [met] [het] rugzak 
+B|22| B: [ja [ja] ja] F 
+B|23| B: [dit zijn de vliegtuigvleugel] zeggen [jij] [als] [het] goed [zijn] [met] [die] tas op [de] rug 
+A|24| A: [ja] 
+A|25| A: [ja] precies [dat zijn] drie 
+A|26| A: [dit zijn de vliegtuigvleugel] en [het] rugzak 
+B|27| B: [ja] [even] zoeken 
+B|28| B: [ja] L 
+B|29| B: [dit zijn de] vliegtuigarmen 
+B|30| B: weten niet veel wat _je_ zeggen tasje op [de] rug 
+A|31| A: [ja] 
+A|32| A: [even] kijken waar [je] [zijn] 
+A|33| A: [ja] [dat zijn] vijf 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : oké deze hebben een soort van twee armp als een soort vliegtuigvleugel
+	Free: Pattern=soort, Pattern=een, Pattern=hebben, Pattern=als, Pattern=soort van, Pattern=vliegtuigvleugel
+	Constrained: Pattern=van, Pattern=soort
+Turn ID=1| A | A : en nog een ding aan de achterkant
+	Free: Pattern=aan de, Pattern=een
+	Constrained: Pattern=de
+Turn ID=2| A | A : en ja ik hebben die dat ding een beetje een rugzak noemen
+	Free: Pattern=dat, Pattern=een, Pattern=ja ik hebben, Pattern=die, Pattern=een beetje, Pattern=noemen
+	Constrained: Pattern=ik hebben, Pattern=ja, Pattern=een, Pattern=hebben, Pattern=ja ik, Pattern=ik
+Turn ID=3| B | B : ja ja
+	Free: Pattern=ja ja
+	Constrained: Pattern=ja
+Turn ID=4| B | B : ja ik hebben echt geen idee wat ik daaraan moeten one's koppelen echt geen idee ik hebben zoiets van het lijken een beetje op een wattenstaafje denken ik zo maar goed in ieder geval
+	Free: Pattern=ik hebben, Pattern=een, Pattern=het, Pattern=ja ik hebben, Pattern=in, Pattern=ik, Pattern=van, Pattern=maar, Pattern=een beetje, Pattern=wattenstaafje
+	Constrained: Pattern=ik hebben, Pattern=ja, Pattern=een, Pattern=hebben, Pattern=ja ik, Pattern=ik
+Turn ID=5| A | A : nee
+	Free: 
+	Constrained: 
+Turn ID=6| A | A : ja wattenstaafje zijn nog ik ja ik zien er een beetje vliegtuigvleugel in maar dan dan hebben jij hem wel geloven ik toch ? welk het zijn
+	Free: Pattern=ja, Pattern=wel, Pattern=hebben, Pattern=in, Pattern=het zijn, Pattern=ja ik, Pattern=een beetje, Pattern=ik ja, Pattern=ik, Pattern=zijn, Pattern=maar, Pattern=wattenstaafje, Pattern=jij, Pattern=vliegtuigvleugel
+	Constrained: Pattern=ja, Pattern=een, Pattern=het, Pattern=ik, Pattern=zijn
+Turn ID=7| B | B : ja ik dat dat denken ik wel dat zijn K
+	Free: Pattern=wel, Pattern=ja ik, Pattern=ik, Pattern=dat, Pattern=dat zijn
+	Constrained: Pattern=zijn, Pattern=ik, Pattern=ja, Pattern=dat
+Turn ID=8| A | A : nee dan zijn het net anders
+	Free: Pattern=zijn, Pattern=het
+	Constrained: 
+Turn ID=9| A | A : welk zijn het
+	Free: Pattern=zijn, Pattern=het
+	Constrained: 
+Turn ID=10| B | B : het zijn poeh de parasol volgens mij
+	Free: Pattern=het zijn, Pattern=de
+	Constrained: Pattern=zijn, Pattern=het
+Turn ID=11| B | B : wat ik noemen wattenstaafje
+	Free: Pattern=wattenstaafje, Pattern=ik, Pattern=noemen
+	Constrained: 
+Turn ID=12| B | B : met die soort van arm met die bollet aan de buitenkant
+	Free: Pattern=soort van, Pattern=aan de, Pattern=die, Pattern=met
+	Constrained: Pattern=de, Pattern=van, Pattern=soort
+Turn ID=13| A | A : wachten even
+	Free: Pattern=even
+	Constrained: 
+Turn ID=14| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=15| A | A : ja ja precies die ik de vliegtuig vleugel hebben noemen
+	Free: Pattern=hebben, Pattern=die, Pattern=ik, Pattern=noemen, Pattern=de, Pattern=ja ja
+	Constrained: Pattern=ja
+Turn ID=16| B | B : vliegtuigvleugel dat bedoelen ik ja
+	Free: Pattern=ik ja, Pattern=vliegtuigvleugel, Pattern=dat
+	Constrained: Pattern=ik, Pattern=ja
+Turn ID=17| A | A : yes
+	Free: 
+	Constrained: 
+Turn ID=18| A | A : dat zijn negen
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=19| A | A : dit zijn de vliegtuigvleugel
+	Free: Pattern=dit zijn de vliegtuigvleugel
+	Constrained: Pattern=de, Pattern=zijn, Pattern=vliegtuigvleugel, Pattern=dit zijn de
+Turn ID=20| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=21| A | A : met het rugzak
+	Free: Pattern=met, Pattern=het
+	Constrained: 
+Turn ID=22| B | B : ja ja ja F
+	Free: Pattern=ja ja
+	Constrained: Pattern=ja
+Turn ID=23| B | B : dit zijn de vliegtuigvleugel zeggen jij als het goed zijn met die tas op de rug
+	Free: Pattern=de, Pattern=het, Pattern=als, Pattern=die, Pattern=zijn, Pattern=jij, Pattern=dit zijn de vliegtuigvleugel, Pattern=met
+	Constrained: Pattern=de, Pattern=zijn, Pattern=vliegtuigvleugel, Pattern=dit zijn de
+Turn ID=24| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=25| A | A : ja precies dat zijn drie
+	Free: Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=26| A | A : dit zijn de vliegtuigvleugel en het rugzak
+	Free: Pattern=dit zijn de vliegtuigvleugel, Pattern=het
+	Constrained: Pattern=de, Pattern=zijn, Pattern=vliegtuigvleugel, Pattern=dit zijn de
+Turn ID=27| B | B : ja even zoeken
+	Free: Pattern=ja, Pattern=even
+	Constrained: 
+Turn ID=28| B | B : ja L
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=29| B | B : dit zijn de vliegtuigarmen
+	Free: Pattern=dit zijn de
+	Constrained: Pattern=zijn, Pattern=de
+Turn ID=30| B | B : weten niet veel wat je zeggen tasje op de rug
+	Free: Pattern=de, Pattern=je
+	Constrained: 
+Turn ID=31| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=32| A | A : even kijken waar je zijn
+	Free: Pattern=zijn, Pattern=je, Pattern=even
+	Constrained: 
+Turn ID=33| A | A : ja dat zijn vijf
+	Free: Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=zijn, Pattern=dat

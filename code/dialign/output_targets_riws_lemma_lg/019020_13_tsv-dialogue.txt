@@ -1,0 +1,91 @@
+B|0| B: ok _dit zijn_ dus wel _dat_ beker _met die_ oor 
+B|1| B: _en_ het _zijn met_ _een_ _vlak_ onderaan alsof hij _op_ _een_ tafel _staan_ _en_ _met_ _zo'n_ _rond_ _voor_ ze _aan de_ voorkant 
+A|2| A: _ja_ 
+A|3| A: _ja_ 
+A|4| A: _en die twee_ macaroni dinge [op] [de] achtergrond oken _ja dat zijn_ nummer vijf bij _mij_ 
+B|5| B: [ja] 
+A|6| A: [ja] [dit zijn] [die] kop [die] [op] [dat] plateau [staan] [met die] [aan] beide kant _drie_ van [die] 
+A|7| A: _bollet_ of diamant [die] _er_ zeggen maar uitkomen [en] [zo'n] [vlak] [voor] _en die_ macaroniding [op] [de] achtergrond [ja] 
+B|8| B: [en] [de] voorkant [zo'n] ding 
+B|9| B: [ja dat zijn] [voor] [mij] J 
+B|10| B: _dit zijn met_ het tafel [er] onder [en die twee] spriet ding [met die] [drie] [bollet] 
+A|11| A: [en] [dat] [rond] [er] voorop [en die] 
+B|12| B: [en] [de] [twee] macaroni's 
+A|13| A: [ja dat zijn] nummer elf 
+A|14| A: [dit zijn] [die] [op] [dat] plateau [staan] _met die twee_ sliert [die] [er] uitkomen [en] [dat] [rond] [er] voorop [en] macaroni 
+B|15| B: [en] Macaroni 
+B|16| B: ok [dat zijn] [voor] [mij] P 
+B|17| B: _dit zijn [met_ die twee] macaronie [op] _een_ tafel [en die twee] oor 
+A|18| A: [ja] 
+A|19| A: [dat zijn] nummer negen 
+A|20| A: [dit zijn met] [dat] plateau [met die twee] friemeltjes [aan de] zijkant [en] macaroni [op] [de] achtergrond [en] [een] [rond] plaat voorop 
+B|21| B: [ja dat zijn] L 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : ok dit zijn dus wel dat beker met die oor
+	Free: Pattern=dit zijn, Pattern=met die, Pattern=dat
+	Constrained: Pattern=die, Pattern=met
+Turn ID=1| B | B : en het zijn met een vlak onderaan alsof hij op een tafel staan en met zo'n rond voor ze aan de voorkant
+	Free: Pattern=zo'n, Pattern=voor, Pattern=met, Pattern=zijn met, Pattern=vlak, Pattern=en, Pattern=rond, Pattern=op, Pattern=aan de, Pattern=een, Pattern=staan
+	Constrained: Pattern=aan, Pattern=met, Pattern=de
+Turn ID=2| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=3| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=4| A | A : en die twee macaroni dinge op de achtergrond oken ja dat zijn nummer vijf bij mij
+	Free: Pattern=de, Pattern=op, Pattern=ja dat zijn, Pattern=en die twee, Pattern=mij
+	Constrained: Pattern=en die, Pattern=twee, Pattern=ja, Pattern=die, Pattern=en, Pattern=dat, Pattern=dat zijn
+Turn ID=5| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=6| A | A : ja dit zijn die kop die op dat plateau staan met die aan beide kant drie van die
+	Free: Pattern=op, Pattern=staan, Pattern=drie, Pattern=die, Pattern=dit zijn, Pattern=dat, Pattern=met die, Pattern=aan, Pattern=ja
+	Constrained: Pattern=die, Pattern=met
+Turn ID=7| A | A : bollet of diamant die er zeggen maar uitkomen en zo'n vlak voor en die macaroniding op de achtergrond ja
+	Free: Pattern=en die, Pattern=op, Pattern=voor, Pattern=die, Pattern=er, Pattern=vlak, Pattern=en, Pattern=zo'n, Pattern=bollet, Pattern=de, Pattern=ja
+	Constrained: Pattern=die, Pattern=en
+Turn ID=8| B | B : en de voorkant zo'n ding
+	Free: Pattern=zo'n, Pattern=en, Pattern=de
+	Constrained: 
+Turn ID=9| B | B : ja dat zijn voor mij J
+	Free: Pattern=ja dat zijn, Pattern=voor, Pattern=mij
+	Constrained: Pattern=dat zijn, Pattern=dat, Pattern=ja
+Turn ID=10| B | B : dit zijn met het tafel er onder en die twee spriet ding met die drie bollet
+	Free: Pattern=met die, Pattern=bollet, Pattern=dit zijn met, Pattern=er, Pattern=drie, Pattern=en die twee
+	Constrained: Pattern=en die, Pattern=twee, Pattern=met, Pattern=en, Pattern=dit zijn, Pattern=zijn met, Pattern=die
+Turn ID=11| A | A : en dat rond er voorop en die
+	Free: Pattern=en die, Pattern=dat, Pattern=er, Pattern=en, Pattern=rond
+	Constrained: Pattern=die, Pattern=en
+Turn ID=12| B | B : en de twee macaroni's
+	Free: Pattern=twee, Pattern=en, Pattern=de
+	Constrained: 
+Turn ID=13| A | A : ja dat zijn nummer elf
+	Free: Pattern=ja dat zijn
+	Constrained: Pattern=dat zijn, Pattern=dat, Pattern=ja
+Turn ID=14| A | A : dit zijn die op dat plateau staan met die twee sliert die er uitkomen en dat rond er voorop en macaroni
+	Free: Pattern=dat, Pattern=op, Pattern=met die twee, Pattern=staan, Pattern=die, Pattern=er, Pattern=en, Pattern=rond, Pattern=dit zijn
+	Constrained: Pattern=met, Pattern=die, Pattern=met die, Pattern=twee
+Turn ID=15| B | B : en Macaroni
+	Free: Pattern=en
+	Constrained: 
+Turn ID=16| B | B : ok dat zijn voor mij P
+	Free: Pattern=dat zijn, Pattern=voor, Pattern=mij
+	Constrained: Pattern=dat
+Turn ID=17| B | B : dit zijn met die twee macaronie op een tafel en die twee oor
+	Free: Pattern=op, Pattern=met die twee, Pattern=en die twee, Pattern=een, Pattern=dit zijn met
+	Constrained: Pattern=en die, Pattern=met die, Pattern=twee, Pattern=met, Pattern=en, Pattern=dit zijn, Pattern=zijn met, Pattern=die
+Turn ID=18| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=19| A | A : dat zijn nummer negen
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat
+Turn ID=20| A | A : dit zijn met dat plateau met die twee friemeltjes aan de zijkant en macaroni op de achtergrond en een rond plaat voorop
+	Free: Pattern=dat, Pattern=de, Pattern=met die twee, Pattern=en, Pattern=rond, Pattern=op, Pattern=aan de, Pattern=een, Pattern=dit zijn met
+	Constrained: Pattern=met die, Pattern=twee, Pattern=met, Pattern=dit zijn, Pattern=de, Pattern=aan, Pattern=zijn met, Pattern=die
+Turn ID=21| B | B : ja dat zijn L
+	Free: Pattern=ja dat zijn
+	Constrained: Pattern=dat zijn, Pattern=dat, Pattern=ja

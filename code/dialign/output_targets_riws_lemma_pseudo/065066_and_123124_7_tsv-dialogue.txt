@@ -1,0 +1,91 @@
+A|0| A: _ja_ _met_ _zo'n_ _ja_ _met_ _poo_ 
+A|1| A: _ja_ 
+A|2| A: zestien 
+B|3| B: nou dit zijn dan _weer_ gewoon [zo'n] soort emmercupding en _het_ lijken alsof daarvoor een schap zijn ophangen waar de [poo] nog onder staan en daarop staan een bak 
+A|4| A: deze hebben _dat_ tafel [weer] 
+A|5| A: die _met_ die poot eronder 
+A|6| A: _ja_ 
+B|7| B: [met] een een bakje erop 
+B|8| B: [dat] zijn P 
+A|9| A: _ja_ 
+A|10| A: veertien 
+B|11| B: dit zijn _het_ emmer [met] _het_ schap ervoor 
+A|12| A: [het] tafel [weer] 
+A|13| A: [met] die [poo] 
+A|14| A: alweer 
+A|15| A: tien 
+B|16| B: [ja] [dat] zijn N 
+A|17| A: [het] tafel [weer] 
+B|18| B: dit zijn [het] schap 
+B|19| B: aan de voorkant een schap [met] een bakje erop 
+B|20| B: [het] schap 
+B|21| B: [dat] zijn D 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : ja met zo'n ja met poo
+	Free: Pattern=met, Pattern=poo, Pattern=ja, Pattern=zo'n
+	Constrained: 
+Turn ID=1| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=2| A | A : zestien
+	Free: 
+	Constrained: 
+Turn ID=3| B | B : nou dit zijn dan weer gewoon zo'n soort emmercupding en het lijken alsof daarvoor een schap zijn ophangen waar de poo nog onder staan en daarop staan een bak
+	Free: Pattern=poo, Pattern=weer, Pattern=zo'n, Pattern=het
+	Constrained: 
+Turn ID=4| A | A : deze hebben dat tafel weer
+	Free: Pattern=dat, Pattern=weer
+	Constrained: 
+Turn ID=5| A | A : die met die poot eronder
+	Free: Pattern=met
+	Constrained: 
+Turn ID=6| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=7| B | B : met een een bakje erop
+	Free: Pattern=met
+	Constrained: 
+Turn ID=8| B | B : dat zijn P
+	Free: Pattern=dat
+	Constrained: 
+Turn ID=9| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=10| A | A : veertien
+	Free: 
+	Constrained: 
+Turn ID=11| B | B : dit zijn het emmer met het schap ervoor
+	Free: Pattern=met, Pattern=het
+	Constrained: 
+Turn ID=12| A | A : het tafel weer
+	Free: Pattern=weer, Pattern=het
+	Constrained: 
+Turn ID=13| A | A : met die poo
+	Free: Pattern=met, Pattern=poo
+	Constrained: 
+Turn ID=14| A | A : alweer
+	Free: 
+	Constrained: 
+Turn ID=15| A | A : tien
+	Free: 
+	Constrained: 
+Turn ID=16| B | B : ja dat zijn N
+	Free: Pattern=dat, Pattern=ja
+	Constrained: 
+Turn ID=17| A | A : het tafel weer
+	Free: Pattern=weer, Pattern=het
+	Constrained: 
+Turn ID=18| B | B : dit zijn het schap
+	Free: Pattern=het
+	Constrained: 
+Turn ID=19| B | B : aan de voorkant een schap met een bakje erop
+	Free: Pattern=met
+	Constrained: 
+Turn ID=20| B | B : het schap
+	Free: Pattern=het
+	Constrained: 
+Turn ID=21| B | B : dat zijn D
+	Free: Pattern=dat
+	Constrained: 

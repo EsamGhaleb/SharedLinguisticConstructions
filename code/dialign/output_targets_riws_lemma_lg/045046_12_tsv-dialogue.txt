@@ -1,0 +1,103 @@
+A|0| A: _ja_ _dit zijn_ _er_ één _die_ _aan de_ linkerkant _komen_ _er_ _een soort van_ 
+A|1| A: _ja_ armp _uit_ _het_ _zijn_ _een_ beetje _een_ vreemd vorm _en_ daar worden _dan_ _weer_ _een soort van spijker_ _komen_ daar _weer_ _uit_ 
+B|2| B: [en] zo'n _bijzettafel _aan de_ rechterkant_ 
+A|3| A: [en] _er_ _zijn_ _een_ [bijzettafel] erbij inderdaad 
+B|4| B: L 
+B|5| B: [dit zijn] [weer] _dat bijzettafel_ _met_ [een soort van _spijker] in_ zo'n steken _in_ zo'n uitstekend _ding_ 
+A|6| A: [de] [bijzettafel] _die_ erdoorheen zitten of 
+B|7| B: nee lijken _dat_ _rond_ _rond tafel_ zeggen maar 
+A|8| A: _ja_ wachten 
+A|9| A: [de] [rond tafel] 
+B|10| B: [en] [dan] _hebben_ je zo'n _ander_ _ding_ [er] link [uit] steken _met_ zo'n [spijker] erin 
+A|11| A: _ja_ _ja_ _ja_ _ja_ ik zien hem _ja_ [dat] [zijn] zeven 
+A|12| A: [dit zijn] diegene _die_ [een soort van] [uit] _ja_ 
+A|13| A: [ding] [aan de] linkerkant [hebben] [en] daar worden [dan] [weer] gaan [dan] [weer] [een] [spijker in] [en] [dat bijzettafel] [dan] [aan de] [aan de rechterkant] 
+B|14| B: [ja] 
+B|15| B: C 
+B|16| B: [dit zijn] [die] _met de spijker_ links _en het_ bij [rond] [bijzettafel] rechts 
+A|17| A: [ja] 
+A|18| A: één 
+A|19| A: [dit zijn] degeen [met de] arm [met de spijker] [en het] [bijzettafel aan de] [ander] kant 
+B|20| B: [ja] 
+B|21| B: A 
+B|22| B: [de] [de spijker] [die] links [uit] [komen] [en] [dan] [het] [rond] klein [bijzettafel] 
+A|23| A: [ja] 
+A|24| A: dertien 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : ja dit zijn er één die aan de linkerkant komen er een soort van
+	Free: Pattern=ja, Pattern=aan de, Pattern=komen, Pattern=een soort van, Pattern=die, Pattern=er, Pattern=dit zijn
+	Constrained: Pattern=een, Pattern=de, Pattern=zijn
+Turn ID=1| A | A : ja armp uit het zijn een beetje een vreemd vorm en daar worden dan weer een soort van spijker komen daar weer uit
+	Free: Pattern=ja, Pattern=uit, Pattern=dan, Pattern=een, Pattern=het, Pattern=en, Pattern=zijn, Pattern=weer, Pattern=komen, Pattern=een soort van spijker
+	Constrained: Pattern=een, Pattern=een soort van, Pattern=spijker
+Turn ID=2| B | B : en zo'n bijzettafel aan de rechterkant
+	Free: Pattern=bijzettafel aan de, Pattern=aan de rechterkant, Pattern=en
+	Constrained: Pattern=de, Pattern=bijzettafel, Pattern=aan de
+Turn ID=3| A | A : en er zijn een bijzettafel erbij inderdaad
+	Free: Pattern=een, Pattern=bijzettafel, Pattern=er, Pattern=en, Pattern=zijn
+	Constrained: 
+Turn ID=4| B | B : L
+	Free: 
+	Constrained: 
+Turn ID=5| B | B : dit zijn weer dat bijzettafel met een soort van spijker in zo'n steken in zo'n uitstekend ding
+	Free: Pattern=spijker in, Pattern=dat bijzettafel, Pattern=in, Pattern=met, Pattern=weer, Pattern=dit zijn, Pattern=een soort van spijker, Pattern=ding
+	Constrained: Pattern=dat, Pattern=een, Pattern=bijzettafel, Pattern=zijn, Pattern=spijker, Pattern=in, Pattern=een soort van
+Turn ID=6| A | A : de bijzettafel die erdoorheen zitten of
+	Free: Pattern=die, Pattern=de, Pattern=bijzettafel
+	Constrained: 
+Turn ID=7| B | B : nee lijken dat rond rond tafel zeggen maar
+	Free: Pattern=rond tafel, Pattern=dat, Pattern=rond
+	Constrained: Pattern=rond
+Turn ID=8| A | A : ja wachten
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=9| A | A : de rond tafel
+	Free: Pattern=rond tafel, Pattern=de
+	Constrained: Pattern=rond
+Turn ID=10| B | B : en dan hebben je zo'n ander ding er link uit steken met zo'n spijker erin
+	Free: Pattern=uit, Pattern=dan, Pattern=ding, Pattern=hebben, Pattern=met, Pattern=er, Pattern=ander, Pattern=en, Pattern=spijker
+	Constrained: 
+Turn ID=11| A | A : ja ja ja ja ik zien hem ja dat zijn zeven
+	Free: Pattern=ja, Pattern=dat, Pattern=zijn
+	Constrained: 
+Turn ID=12| A | A : dit zijn diegene die een soort van uit ja
+	Free: Pattern=ja, Pattern=uit, Pattern=een soort van, Pattern=die, Pattern=dit zijn
+	Constrained: Pattern=een, Pattern=zijn
+Turn ID=13| A | A : ding aan de linkerkant hebben en daar worden dan weer gaan dan weer een spijker in en dat bijzettafel dan aan de aan de rechterkant
+	Free: Pattern=spijker in, Pattern=dat bijzettafel, Pattern=aan de, Pattern=dan, Pattern=ding, Pattern=een, Pattern=hebben, Pattern=aan de rechterkant, Pattern=en, Pattern=weer
+	Constrained: Pattern=dat, Pattern=de, Pattern=aan de, Pattern=in, Pattern=bijzettafel, Pattern=spijker
+Turn ID=14| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=15| B | B : C
+	Free: 
+	Constrained: 
+Turn ID=16| B | B : dit zijn die met de spijker links en het bij rond bijzettafel rechts
+	Free: Pattern=en het, Pattern=met de spijker, Pattern=bijzettafel, Pattern=die, Pattern=rond, Pattern=dit zijn
+	Constrained: Pattern=de spijker, Pattern=het, Pattern=met, Pattern=en, Pattern=zijn, Pattern=spijker, Pattern=de, Pattern=met de
+Turn ID=17| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=18| A | A : één
+	Free: 
+	Constrained: 
+Turn ID=19| A | A : dit zijn degeen met de arm met de spijker en het bijzettafel aan de ander kant
+	Free: Pattern=met de, Pattern=en het, Pattern=bijzettafel aan de, Pattern=met de spijker, Pattern=ander, Pattern=dit zijn
+	Constrained: Pattern=de spijker, Pattern=aan de, Pattern=het, Pattern=en, Pattern=zijn, Pattern=spijker, Pattern=de, Pattern=met de, Pattern=bijzettafel, Pattern=met
+Turn ID=20| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=21| B | B : A
+	Free: 
+	Constrained: 
+Turn ID=22| B | B : de de spijker die links uit komen en dan het rond klein bijzettafel
+	Free: Pattern=de spijker, Pattern=de, Pattern=uit, Pattern=dan, Pattern=komen, Pattern=het, Pattern=bijzettafel, Pattern=die, Pattern=en, Pattern=rond
+	Constrained: Pattern=de, Pattern=spijker
+Turn ID=23| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=24| A | A : dertien
+	Free: 
+	Constrained: 

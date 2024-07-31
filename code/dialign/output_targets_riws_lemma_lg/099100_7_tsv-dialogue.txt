@@ -1,0 +1,111 @@
+B|0| B: deze lijken _eigenlijk_ _een_ soort _bank_ _wat_ eraan zitten 
+B|1| B: of _een_ soort duikplank 
+B|2| B: want _het_ _zijn_ _een_ _een_ vlak iets _met_ twee _van_ _die_ poo eraan 
+A|3| A: ah 
+A|4| A: _ja_ 
+B|5| B: en daarbovenop zitten nog _een_ soort springplankachtig iets 
+A|6| A: _ja_ dus echt gewoon zo'n rechthoek tafelachtig _maar_ _dan_ helemaal aan [het] bovenste [van] [het] mokje _dan_ [wat] jij toen _zeggen_ 
+B|7| B: [ja] 
+B|8| B: [ja] 
+B|9| B: [ja] kloppen 
+A|10| A: oké _dan zijn het_ nummer zestien 
+A|11| A: _dat _zijn_ die_ [een] _met dat_ tafel [eigenlijk] helemaal bovenaan weten je wel ? zo'n rechthoek helemaal bovenaan _dat_ kop 
+A|12| A: hebben we ook al [een] keer hebben 
+B|13| B: [ja] [met] [die] _dat bank_ [zeggen] [maar] [met dat] 
+A|14| A: _ja [dat_ bank] 
+B|15| B: [dan zijn het] P 
+B|16| B: _dit [zijn_ die] weer _met dat bank_ 
+A|17| A: [ja] even kijken 
+A|18| A: _dat zijn_ nummer veertien 
+A|19| A: _dit zijn met dat bank_ tafel 
+B|20| B: [ja] 
+B|21| B: [dat zijn] N 
+B|22| B: [dit zijn met dat bank] 
+A|23| A: oké 
+A|24| A: even kijken ah nummer tien 
+A|25| A: [dit zijn met dat bank] 
+B|26| B: [ja [dat] zijn] D 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : deze lijken eigenlijk een soort bank wat eraan zitten
+	Free: Pattern=bank, Pattern=wat, Pattern=eigenlijk, Pattern=een
+	Constrained: 
+Turn ID=1| B | B : of een soort duikplank
+	Free: Pattern=een
+	Constrained: 
+Turn ID=2| B | B : want het zijn een een vlak iets met twee van die poo eraan
+	Free: Pattern=een, Pattern=het, Pattern=met, Pattern=die, Pattern=van, Pattern=zijn
+	Constrained: 
+Turn ID=3| A | A : ah
+	Free: 
+	Constrained: 
+Turn ID=4| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=5| B | B : en daarbovenop zitten nog een soort springplankachtig iets
+	Free: Pattern=een
+	Constrained: 
+Turn ID=6| A | A : ja dus echt gewoon zo'n rechthoek tafelachtig maar dan helemaal aan het bovenste van het mokje dan wat jij toen zeggen
+	Free: Pattern=ja, Pattern=dan, Pattern=het, Pattern=zeggen, Pattern=wat, Pattern=van, Pattern=maar
+	Constrained: 
+Turn ID=7| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=8| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=9| B | B : ja kloppen
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=10| A | A : oké dan zijn het nummer zestien
+	Free: Pattern=dan zijn het
+	Constrained: Pattern=het, Pattern=zijn, Pattern=dan
+Turn ID=11| A | A : dat zijn die een met dat tafel eigenlijk helemaal bovenaan weten je wel ? zo'n rechthoek helemaal bovenaan dat kop
+	Free: Pattern=een, Pattern=zijn die, Pattern=eigenlijk, Pattern=met dat, Pattern=dat, Pattern=dat zijn
+	Constrained: Pattern=die, Pattern=met, Pattern=zijn, Pattern=dat
+Turn ID=12| A | A : hebben we ook al een keer hebben
+	Free: Pattern=een
+	Constrained: 
+Turn ID=13| B | B : ja met die dat bank zeggen maar met dat
+	Free: Pattern=ja, Pattern=dat bank, Pattern=zeggen, Pattern=met dat, Pattern=met, Pattern=die, Pattern=maar
+	Constrained: Pattern=met, Pattern=bank, Pattern=dat
+Turn ID=14| A | A : ja dat bank
+	Free: Pattern=ja dat, Pattern=dat bank
+	Constrained: Pattern=bank, Pattern=dat, Pattern=ja
+Turn ID=15| B | B : dan zijn het P
+	Free: Pattern=dan zijn het
+	Constrained: Pattern=het, Pattern=zijn, Pattern=dan
+Turn ID=16| B | B : dit zijn die weer met dat bank
+	Free: Pattern=met dat bank, Pattern=zijn die, Pattern=dit zijn
+	Constrained: Pattern=dat, Pattern=met dat, Pattern=met, Pattern=die, Pattern=zijn, Pattern=bank, Pattern=dat bank
+Turn ID=17| A | A : ja even kijken
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=18| A | A : dat zijn nummer veertien
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=19| A | A : dit zijn met dat bank tafel
+	Free: Pattern=dit zijn met dat bank
+	Constrained: Pattern=dat, Pattern=met dat, Pattern=met, Pattern=dit zijn, Pattern=bank, Pattern=dat bank, Pattern=met dat bank, Pattern=zijn
+Turn ID=20| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=21| B | B : dat zijn N
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=22| B | B : dit zijn met dat bank
+	Free: Pattern=dit zijn met dat bank
+	Constrained: Pattern=dat, Pattern=met dat, Pattern=met, Pattern=dit zijn, Pattern=bank, Pattern=dat bank, Pattern=met dat bank, Pattern=zijn
+Turn ID=23| A | A : oké
+	Free: 
+	Constrained: 
+Turn ID=24| A | A : even kijken ah nummer tien
+	Free: 
+	Constrained: 
+Turn ID=25| A | A : dit zijn met dat bank
+	Free: Pattern=dit zijn met dat bank
+	Constrained: Pattern=dat, Pattern=met dat, Pattern=met, Pattern=dit zijn, Pattern=bank, Pattern=dat bank, Pattern=met dat bank, Pattern=zijn
+Turn ID=26| B | B : ja dat zijn D
+	Free: Pattern=ja dat, Pattern=dat zijn
+	Constrained: Pattern=zijn, Pattern=dat, Pattern=ja

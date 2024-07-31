@@ -1,0 +1,147 @@
+A|0| A: _de_ adapter _weer_ 
+A|1| A: _de_ ouderwets adapter _die_ _ik_ net omschreef 
+A|2| A: oké _dat_ _zijn_ _dan_ negen 
+B|3| B: deze hebben _één_ hebben een vierkant _plaat zeggen maar_ aan [de] voorkant 
+B|4| B: _en_ een op [zijn] hoofd lijken _het_ een schroef 
+B|5| B: _twee_ Empire State Buildings 
+B|6| B: _ja_ 
+B|7| B: _ja_ [dat] _ook_ 
+A|8| A: [het] [zijn] net alsof er [twee] wolkenkrabber in [het] kop [zijn] geboord 
+A|9| A: [en] _met zo'n_ Antenne daarboven _en dan_ _zo'n_ [plaat zeggen maar] 
+B|10| B: _even kijken_ een vierkant 
+B|11| B: [die] [en dan] _zitten_ hierboven [zo'n] ding [en] aan [de] zijkant _ook_ 
+B|12| B: _ja_ 
+B|13| B: F 
+A|14| A: [ja] 
+A|15| A: [ja] [en] [die] antennetje of wat [het] [ook] [zijn] omhoog 
+A|16| A: negen 
+B|17| B: _dit zijn_ [die] _met die_ [met zo'n] vierkant [plaat] 
+B|18| B: _boven_ [weer] een schroef [en dan] [die] [die] [die] uitpuilen blokkending 
+A|19| A: [dit zijn] [de] [de] [twee] wolkenkrabber [die] erin [zitten] 
+B|20| B: [ja] 
+B|21| B: [ja] 
+B|22| B: [ja] [ik] zien [het] [ja] 
+B|23| B: D 
+A|24| A: [ja] 
+A|25| A: [even kijken] waar [die] [zijn] blijven 
+A|26| A: [met die] antenne [boven] [zijn] [het] 
+A|27| A: [ja] 
+A|28| A: [één] 
+B|29| B: [die] [met die] vierkant [plaat] [en] [weer] [die] [die] blok [zeggen maar] als oog 
+B|30| B: [ja] 
+B|31| B: [ja] 
+B|32| B: B 
+A|33| A: niet hetzelfde 
+A|34| A: [de] [twee] wolkenkrabber [die] erin [zijn] geboord 
+A|35| A: [ja] 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : de adapter weer
+	Free: Pattern=weer, Pattern=de
+	Constrained: 
+Turn ID=1| A | A : de ouderwets adapter die ik net omschreef
+	Free: Pattern=die, Pattern=ik, Pattern=de
+	Constrained: 
+Turn ID=2| A | A : oké dat zijn dan negen
+	Free: Pattern=dat, Pattern=dan, Pattern=zijn
+	Constrained: 
+Turn ID=3| B | B : deze hebben één hebben een vierkant plaat zeggen maar aan de voorkant
+	Free: Pattern=plaat zeggen maar, Pattern=de, Pattern=één
+	Constrained: Pattern=zeggen maar, Pattern=plaat
+Turn ID=4| B | B : en een op zijn hoofd lijken het een schroef
+	Free: Pattern=en, Pattern=zijn, Pattern=het
+	Constrained: 
+Turn ID=5| B | B : twee Empire State Buildings
+	Free: Pattern=twee
+	Constrained: 
+Turn ID=6| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=7| B | B : ja dat ook
+	Free: Pattern=dat, Pattern=ook, Pattern=ja
+	Constrained: 
+Turn ID=8| A | A : het zijn net alsof er twee wolkenkrabber in het kop zijn geboord
+	Free: Pattern=twee, Pattern=zijn, Pattern=het
+	Constrained: 
+Turn ID=9| A | A : en met zo'n Antenne daarboven en dan zo'n plaat zeggen maar
+	Free: Pattern=zo'n, Pattern=en dan, Pattern=en, Pattern=plaat zeggen maar, Pattern=met zo'n
+	Constrained: Pattern=zo'n, Pattern=dan, Pattern=zeggen maar, Pattern=en, Pattern=plaat
+Turn ID=10| B | B : even kijken een vierkant
+	Free: Pattern=even kijken
+	Constrained: 
+Turn ID=11| B | B : die en dan zitten hierboven zo'n ding en aan de zijkant ook
+	Free: Pattern=zo'n, Pattern=de, Pattern=en dan, Pattern=ook, Pattern=en, Pattern=die, Pattern=zitten
+	Constrained: Pattern=en, Pattern=dan
+Turn ID=12| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=13| B | B : F
+	Free: 
+	Constrained: 
+Turn ID=14| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=15| A | A : ja en die antennetje of wat het ook zijn omhoog
+	Free: Pattern=ja, Pattern=ook, Pattern=het, Pattern=die, Pattern=en, Pattern=zijn
+	Constrained: 
+Turn ID=16| A | A : negen
+	Free: 
+	Constrained: 
+Turn ID=17| B | B : dit zijn die met die met zo'n vierkant plaat
+	Free: Pattern=met die, Pattern=die, Pattern=dit zijn, Pattern=met zo'n, Pattern=plaat
+	Constrained: Pattern=die, Pattern=zijn, Pattern=zo'n
+Turn ID=18| B | B : boven weer een schroef en dan die die die uitpuilen blokkending
+	Free: Pattern=en dan, Pattern=weer, Pattern=boven, Pattern=die
+	Constrained: Pattern=en, Pattern=dan
+Turn ID=19| A | A : dit zijn de de twee wolkenkrabber die erin zitten
+	Free: Pattern=twee, Pattern=de, Pattern=dit zijn, Pattern=die, Pattern=zitten
+	Constrained: Pattern=zijn
+Turn ID=20| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=21| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=22| B | B : ja ik zien het ja
+	Free: Pattern=het, Pattern=ik, Pattern=ja
+	Constrained: 
+Turn ID=23| B | B : D
+	Free: 
+	Constrained: 
+Turn ID=24| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=25| A | A : even kijken waar die zijn blijven
+	Free: Pattern=even kijken, Pattern=die, Pattern=zijn
+	Constrained: 
+Turn ID=26| A | A : met die antenne boven zijn het
+	Free: Pattern=met die, Pattern=boven, Pattern=zijn, Pattern=het
+	Constrained: Pattern=die
+Turn ID=27| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=28| A | A : één
+	Free: Pattern=één
+	Constrained: 
+Turn ID=29| B | B : die met die vierkant plaat en weer die die blok zeggen maar als oog
+	Free: Pattern=met die, Pattern=zeggen maar, Pattern=die, Pattern=en, Pattern=weer, Pattern=plaat
+	Constrained: Pattern=die
+Turn ID=30| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=31| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=32| B | B : B
+	Free: 
+	Constrained: 
+Turn ID=33| A | A : niet hetzelfde
+	Free: 
+	Constrained: 
+Turn ID=34| A | A : de twee wolkenkrabber die erin zijn geboord
+	Free: Pattern=die, Pattern=twee, Pattern=zijn, Pattern=de
+	Constrained: 
+Turn ID=35| A | A : ja
+	Free: Pattern=ja
+	Constrained: 

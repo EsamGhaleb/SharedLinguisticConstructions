@@ -1,0 +1,143 @@
+A|0| A: _oké_ deze hebben _een_ _een_ zeggen maar _een_ soort van _piramide_ aan _de_ bovenkant staan 
+A|1| A: aan _de_ rechterkant _ja_ steken _een_ best wel _groot_ hoekig voorwerp uit 
+A|2| A: aan _de_ linkerkant _ja_ steken ook _iets_ uit _wat_ zeggen maar _groot_ worden naarmate _het_ ver weg _zijn_ van _het_ ding 
+B|3| B: [ja] 
+A|4| A: _en_ aan _de_ linkerkant onder zitten ook _een_ soort van cirkelt eronder 
+B|5| B: [ja] 
+B|6| B: ik zien hem [het] [zijn] J 
+A|7| A: _oké_ 
+B|8| B: nee 
+B|9| B: _dit zijn weer de_ [een] _met de piramide_ _met_ [het] kop _met _de piramide_ erop_ 
+B|10| B: [en] dan _dat_ [een] verrekijkerachtig uitsteeksel uitsteekseltje _link_ 
+B|11| B: [en] nog [een] _groot blok_ ervoor 
+A|12| A: [ja] 
+B|13| B: of [iets] [wat] ervoor door moeten gaan 
+A|14| A: [ja] precies [dat] [zijn] zes voor mij 
+B|15| B: [oké] 
+A|16| A: [oké] deze hebben [de piramide] aan [de] bovenkant 
+A|17| A: rechts hebben _die_ [dat] [groot blok] [en] [link] inderdaad hoe noemen je [dat] ? [dat] kijken 
+B|18| B: [ja] 
+B|19| B: _ja dat_ _verrekijker_ 
+A|20| A: [een] [verrekijker] [dat] [zijn] [het] 
+B|21| B: [zijn] E 
+A|22| A: yes 
+B|23| B: [het] [zijn] dus [die] [een] _met de_ cilinder _en de_ [verrekijker] 
+A|24| A: even kijken waar staan [die] 
+A|25| A: [ja] [met de piramide] zeggen maar 
+B|26| B: [ja] [piramide] [ja] 
+A|27| A: [ja] [oké] tien 
+A|28| A: [oké] [dit zijn weer [de] piramide erop] 
+B|29| B: [piramide] 
+A|30| A: [en de] uitkijk [verrekijker] 
+B|31| B: [ja] G 
+A|32| A: yes 
+B|33| B: [het] [zijn] [de] [de piramide] [en de] [en de] [verrekijker] 
+A|34| A: [ja dat] [zijn] tien 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : oké deze hebben een een zeggen maar een soort van piramide aan de bovenkant staan
+	Free: Pattern=oké, Pattern=piramide, Pattern=een, Pattern=de
+	Constrained: 
+Turn ID=1| A | A : aan de rechterkant ja steken een best wel groot hoekig voorwerp uit
+	Free: Pattern=groot, Pattern=ja, Pattern=een, Pattern=de
+	Constrained: 
+Turn ID=2| A | A : aan de linkerkant ja steken ook iets uit wat zeggen maar groot worden naarmate het ver weg zijn van het ding
+	Free: Pattern=het, Pattern=groot, Pattern=wat, Pattern=zijn, Pattern=de, Pattern=iets, Pattern=ja
+	Constrained: 
+Turn ID=3| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=4| A | A : en aan de linkerkant onder zitten ook een soort van cirkelt eronder
+	Free: Pattern=een, Pattern=de, Pattern=en
+	Constrained: 
+Turn ID=5| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=6| B | B : ik zien hem het zijn J
+	Free: Pattern=zijn, Pattern=het
+	Constrained: 
+Turn ID=7| A | A : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=8| B | B : nee
+	Free: 
+	Constrained: 
+Turn ID=9| B | B : dit zijn weer de een met de piramide met het kop met de piramide erop
+	Free: Pattern=een, Pattern=het, Pattern=dit zijn weer de, Pattern=met, Pattern=de piramide erop, Pattern=met de piramide
+	Constrained: Pattern=de piramide, Pattern=piramide, Pattern=met, Pattern=zijn, Pattern=de, Pattern=met de
+Turn ID=10| B | B : en dan dat een verrekijkerachtig uitsteeksel uitsteekseltje link
+	Free: Pattern=dat, Pattern=een, Pattern=en, Pattern=link
+	Constrained: 
+Turn ID=11| B | B : en nog een groot blok ervoor
+	Free: Pattern=groot blok, Pattern=een, Pattern=en
+	Constrained: Pattern=groot
+Turn ID=12| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=13| B | B : of iets wat ervoor door moeten gaan
+	Free: Pattern=wat, Pattern=iets
+	Constrained: 
+Turn ID=14| A | A : ja precies dat zijn zes voor mij
+	Free: Pattern=dat, Pattern=zijn, Pattern=ja
+	Constrained: 
+Turn ID=15| B | B : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=16| A | A : oké deze hebben de piramide aan de bovenkant
+	Free: Pattern=de piramide, Pattern=oké, Pattern=de
+	Constrained: Pattern=piramide, Pattern=de
+Turn ID=17| A | A : rechts hebben die dat groot blok en link inderdaad hoe noemen je dat ? dat kijken
+	Free: Pattern=groot blok, Pattern=dat, Pattern=die, Pattern=link, Pattern=en
+	Constrained: Pattern=groot
+Turn ID=18| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=19| B | B : ja dat verrekijker
+	Free: Pattern=ja dat, Pattern=verrekijker
+	Constrained: Pattern=dat, Pattern=ja
+Turn ID=20| A | A : een verrekijker dat zijn het
+	Free: Pattern=dat, Pattern=een, Pattern=het, Pattern=verrekijker, Pattern=zijn
+	Constrained: 
+Turn ID=21| B | B : zijn E
+	Free: Pattern=zijn
+	Constrained: 
+Turn ID=22| A | A : yes
+	Free: 
+	Constrained: 
+Turn ID=23| B | B : het zijn dus die een met de cilinder en de verrekijker
+	Free: Pattern=met de, Pattern=een, Pattern=en de, Pattern=het, Pattern=die, Pattern=verrekijker, Pattern=zijn
+	Constrained: Pattern=de, Pattern=met, Pattern=en
+Turn ID=24| A | A : even kijken waar staan die
+	Free: Pattern=die
+	Constrained: 
+Turn ID=25| A | A : ja met de piramide zeggen maar
+	Free: Pattern=met de piramide, Pattern=ja
+	Constrained: Pattern=de piramide, Pattern=piramide, Pattern=met, Pattern=de, Pattern=met de
+Turn ID=26| B | B : ja piramide ja
+	Free: Pattern=ja, Pattern=piramide
+	Constrained: 
+Turn ID=27| A | A : ja oké tien
+	Free: Pattern=oké, Pattern=ja
+	Constrained: 
+Turn ID=28| A | A : oké dit zijn weer de piramide erop
+	Free: Pattern=dit zijn weer de, Pattern=de piramide erop, Pattern=oké
+	Constrained: Pattern=piramide, Pattern=de, Pattern=zijn, Pattern=de piramide
+Turn ID=29| B | B : piramide
+	Free: Pattern=piramide
+	Constrained: 
+Turn ID=30| A | A : en de uitkijk verrekijker
+	Free: Pattern=en de, Pattern=verrekijker
+	Constrained: Pattern=de, Pattern=en
+Turn ID=31| B | B : ja G
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=32| A | A : yes
+	Free: 
+	Constrained: 
+Turn ID=33| B | B : het zijn de de piramide en de en de verrekijker
+	Free: Pattern=de piramide, Pattern=de, Pattern=en de, Pattern=het, Pattern=verrekijker, Pattern=zijn
+	Constrained: Pattern=piramide, Pattern=de, Pattern=en
+Turn ID=34| A | A : ja dat zijn tien
+	Free: Pattern=ja dat, Pattern=zijn
+	Constrained: Pattern=dat, Pattern=ja

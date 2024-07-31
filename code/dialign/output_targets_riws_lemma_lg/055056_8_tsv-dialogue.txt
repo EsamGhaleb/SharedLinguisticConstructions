@@ -1,0 +1,303 @@
+A|0| A: _ik hebben_ voor jou _een_ _koffiebeker_ _met_ _een_ 
+A|1| A: _uitsteeksel _aan_ de_ onderkant _en_ _twee aan de_ zijkant 
+A|2| A: _en _aan_ de_ bovenkant _aan de_ rand _steken_ _een vierkant_ _biscuit_ zullen _ik_ maar _noemen_ 
+A|3| A: _met twee_ blok _die_ daarin wat groot worden _steken_ _aan_ beide kant van _het biscuit_ uit 
+A|4| A: _en_ _één_ van _even_ _de_ voorkantuitsteeksel _zijn_ ook _een_ beetje cilinderachtig _en _aan_ de_ 
+A|5| A: rechts zijkant _zijn een_ staaf _die_ _een_ haaks bocht _lijken_ te _hebben_ 
+A|6| A: _of_ _in_ ieder geval _een_ getrapte bocht 
+B|7| B: wachten [ik hebben] [even] [een] ander [in] mijn hoofd 
+A|8| A: _net_ _als_ _de_ 
+A|9| A: _zien_ _jij_ [een] koffiebekren _met_ 
+B|10| B: _ja_ [ik] [zien] genoeg [koffiebeker] 
+A|11| A: zestien _stuk_ 
+A|12| A: _met_ _het biscuit_ _staan_ zeggen maar rechtop schuin [ja] _als een_ ruitvorm 
+B|13| B: [staan] [die] daaraan vast [of] [staan] [die] 
+A|14| A: op [een] beetje op _de_ bovenste rand 
+B|15| B: [ja] 
+A|16| A: iets _aan de_ achterkant 
+B|17| B: [ja] 
+B|18| B: [en aan] _dat_ [biscuit] _zitten_ [een] [stuk] vast 
+A|19| A: _zitten twee uitsteeksel_ 
+B|20| B: [twee] 
+A|21| A: oké 
+A|22| A: [even] kijken waar je 
+B|23| B: [aan] [het biscuit] [zitten twee uitsteeksel] 
+A|24| A: [ja] 
+B|25| B: [het] [zijn [een] vierkant] biscui 
+A|26| A: [ja] _en die_ [staan] rechtop 
+A|27| A: _als een_ soort ruitvorm 
+B|28| B: [ja] 
+A|29| A: op _de_ rand 
+B|30| B: [ja] 
+B|31| B: inderdaad 
+A|32| A: [ja] ? mee 
+B|33| B: [als een] ruit [ja] 
+A|34| A: oké 
+B|35| B: _en dan_ [zitten] er [zitten] er inderdaad _drie [uitsteeksel_ aan] [het] kop 
+A|36| A: _één aan de_ onderkant 
+B|37| B: [en] 
+B|38| B: [ja] 
+B|39| B: [één aan de] 
+A|40| A: [en] _twee aan de_ zijkant 
+B|41| B: [twee aan de] rechterkant 
+A|42| A: [ja] 
+B|43| B: [ja] 
+B|44| B: _dat zijn_ letter M 
+B|45| B: dit [zijn] [het] _koffiekopje met_ enorm veel [uitsteeksel] [en] er [staan] [een] ruitvormig [uitsteeksel] bovenop [met [twee] uitsteeksel] daaraan vast 
+B|46| B: [die] [het] waarvan [het] [lijken] _dat_ [die] door _dat_ ruitvormig ding heen gaan 
+A|47| A: [ik] _noemen_ [die] _net het biscuit_ 
+B|48| B: [ja] [die] [noemen] [jij] [net het biscuit] 
+A|49| A: oké [met] onderin [dat] [en] [twee aan de] zijkant [en dan] boven [dat] gedoe 
+B|50| B: [ja] 
+B|51| B: [ja] 
+B|52| B: _dat zijn_ hem 
+A|53| A: [dat zijn] nummer negen 
+A|54| A: [koffiekopje met] [een] rechtopstaand [biscuit] bovenaan [in] ruitvorm [met] 
+A|55| A: [de] _robotarom_ [die] _eruit_ komen 
+B|56| B: nee nee [ja] [ja] 
+B|57| B: [dat zijn] hem 
+B|58| B: letter H 
+B|59| B: dit [zijn] [dat] kop [met] [die] one ruitvormig koek erin 
+B|60| B: [met] [de] [twee] [robotarom] [eruit] [steken] 
+A|61| A: [ja] hebbes 
+B|62| B: [ja] 
+A|63| A: [en] nog [drie uitsteeksel] 
+B|64| B: [en] [drie] ander [uitsteeksel] 
+A|65| A: [ja] 
+A|66| A: [dat zijn] nummer elf 
+A|67| A: [biscuit] [met] robotarmp [eruit] 
+B|68| B: [ja] [ja] 
+A|69| A: [en] nog [drie uitsteeksel] 
+B|70| B: letter D 
+B|71| B: [ja] [dat] [koffiekopje met] [dat] ruiten koekje [met] [die] [robotarom] erdoorheen 
+B|72| B: [en die] [drie uitsteeksel] 
+A|73| A: hebbes 
+A|74| A: nummer veertien 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : ik hebben voor jou een koffiebeker met een
+	Free: Pattern=ik hebben, Pattern=koffiebeker, Pattern=met, Pattern=een
+	Constrained: Pattern=hebben, Pattern=ik
+Turn ID=1| A | A : uitsteeksel aan de onderkant en twee aan de zijkant
+	Free: Pattern=twee aan de, Pattern=uitsteeksel aan, Pattern=aan de, Pattern=en
+	Constrained: Pattern=twee, Pattern=aan de, Pattern=uitsteeksel, Pattern=de, Pattern=aan
+Turn ID=2| A | A : en aan de bovenkant aan de rand steken een vierkant biscuit zullen ik maar noemen
+	Free: Pattern=biscuit, Pattern=aan de, Pattern=ik, Pattern=noemen, Pattern=een vierkant, Pattern=steken, Pattern=en aan
+	Constrained: Pattern=aan, Pattern=een, Pattern=de, Pattern=en
+Turn ID=3| A | A : met twee blok die daarin wat groot worden steken aan beide kant van het biscuit uit
+	Free: Pattern=aan, Pattern=het biscuit, Pattern=met twee, Pattern=die, Pattern=steken
+	Constrained: Pattern=het, Pattern=met, Pattern=twee, Pattern=biscuit
+Turn ID=4| A | A : en één van even de voorkantuitsteeksel zijn ook een beetje cilinderachtig en aan de
+	Free: Pattern=de, Pattern=een, Pattern=en, Pattern=zijn, Pattern=één, Pattern=en aan, Pattern=aan de, Pattern=even
+	Constrained: Pattern=aan, Pattern=en, Pattern=de
+Turn ID=5| A | A : rechts zijkant zijn een staaf die een haaks bocht lijken te hebben
+	Free: Pattern=een, Pattern=hebben, Pattern=die, Pattern=lijken, Pattern=zijn een
+	Constrained: Pattern=zijn, Pattern=een
+Turn ID=6| A | A : of in ieder geval een getrapte bocht
+	Free: Pattern=in, Pattern=een, Pattern=of
+	Constrained: 
+Turn ID=7| B | B : wachten ik hebben even een ander in mijn hoofd
+	Free: Pattern=ik hebben, Pattern=even, Pattern=in, Pattern=een
+	Constrained: Pattern=hebben, Pattern=ik
+Turn ID=8| A | A : net als de
+	Free: Pattern=als, Pattern=de, Pattern=net
+	Constrained: 
+Turn ID=9| A | A : zien jij een koffiebekren met
+	Free: Pattern=jij, Pattern=met, Pattern=zien, Pattern=een
+	Constrained: 
+Turn ID=10| B | B : ja ik zien genoeg koffiebeker
+	Free: Pattern=ja, Pattern=koffiebeker, Pattern=ik, Pattern=zien
+	Constrained: 
+Turn ID=11| A | A : zestien stuk
+	Free: Pattern=stuk
+	Constrained: 
+Turn ID=12| A | A : met het biscuit staan zeggen maar rechtop schuin ja als een ruitvorm
+	Free: Pattern=ja, Pattern=het biscuit, Pattern=staan, Pattern=als een, Pattern=met
+	Constrained: Pattern=het, Pattern=biscuit, Pattern=als, Pattern=een
+Turn ID=13| B | B : staan die daaraan vast of staan die
+	Free: Pattern=die, Pattern=staan, Pattern=of
+	Constrained: 
+Turn ID=14| A | A : op een beetje op de bovenste rand
+	Free: Pattern=een, Pattern=de
+	Constrained: 
+Turn ID=15| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=16| A | A : iets aan de achterkant
+	Free: Pattern=aan de
+	Constrained: Pattern=aan, Pattern=de
+Turn ID=17| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=18| B | B : en aan dat biscuit zitten een stuk vast
+	Free: Pattern=dat, Pattern=biscuit, Pattern=een, Pattern=stuk, Pattern=zitten, Pattern=en aan
+	Constrained: Pattern=aan, Pattern=en
+Turn ID=19| A | A : zitten twee uitsteeksel
+	Free: Pattern=zitten twee uitsteeksel
+	Constrained: Pattern=twee uitsteeksel, Pattern=zitten, Pattern=twee, Pattern=uitsteeksel
+Turn ID=20| B | B : twee
+	Free: Pattern=twee
+	Constrained: 
+Turn ID=21| A | A : oké
+	Free: 
+	Constrained: 
+Turn ID=22| A | A : even kijken waar je
+	Free: Pattern=even
+	Constrained: 
+Turn ID=23| B | B : aan het biscuit zitten twee uitsteeksel
+	Free: Pattern=zitten twee uitsteeksel, Pattern=het biscuit, Pattern=aan
+	Constrained: Pattern=biscuit, Pattern=twee, Pattern=uitsteeksel, Pattern=het, Pattern=zitten, Pattern=twee uitsteeksel
+Turn ID=24| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=25| B | B : het zijn een vierkant biscui
+	Free: Pattern=een vierkant, Pattern=zijn een, Pattern=het
+	Constrained: Pattern=zijn, Pattern=een
+Turn ID=26| A | A : ja en die staan rechtop
+	Free: Pattern=en die, Pattern=ja, Pattern=staan
+	Constrained: Pattern=die, Pattern=en
+Turn ID=27| A | A : als een soort ruitvorm
+	Free: Pattern=als een
+	Constrained: Pattern=als, Pattern=een
+Turn ID=28| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=29| A | A : op de rand
+	Free: Pattern=de
+	Constrained: 
+Turn ID=30| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=31| B | B : inderdaad
+	Free: 
+	Constrained: 
+Turn ID=32| A | A : ja ? mee
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=33| B | B : als een ruit ja
+	Free: Pattern=als een, Pattern=ja
+	Constrained: Pattern=als, Pattern=een
+Turn ID=34| A | A : oké
+	Free: 
+	Constrained: 
+Turn ID=35| B | B : en dan zitten er zitten er inderdaad drie uitsteeksel aan het kop
+	Free: Pattern=en dan, Pattern=het, Pattern=uitsteeksel aan, Pattern=zitten, Pattern=drie uitsteeksel
+	Constrained: Pattern=aan, Pattern=drie, Pattern=en, Pattern=uitsteeksel
+Turn ID=36| A | A : één aan de onderkant
+	Free: Pattern=één aan de
+	Constrained: Pattern=aan de, Pattern=aan, Pattern=de, Pattern=één
+Turn ID=37| B | B : en
+	Free: Pattern=en
+	Constrained: 
+Turn ID=38| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=39| B | B : één aan de
+	Free: Pattern=één aan de
+	Constrained: Pattern=aan de, Pattern=aan, Pattern=de, Pattern=één
+Turn ID=40| A | A : en twee aan de zijkant
+	Free: Pattern=twee aan de, Pattern=en
+	Constrained: Pattern=aan de, Pattern=aan, Pattern=twee, Pattern=de
+Turn ID=41| B | B : twee aan de rechterkant
+	Free: Pattern=twee aan de
+	Constrained: Pattern=aan de, Pattern=aan, Pattern=twee, Pattern=de
+Turn ID=42| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=43| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=44| B | B : dat zijn letter M
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=45| B | B : dit zijn het koffiekopje met enorm veel uitsteeksel en er staan een ruitvormig uitsteeksel bovenop met twee uitsteeksel daaraan vast
+	Free: Pattern=uitsteeksel, Pattern=het, Pattern=met twee, Pattern=zijn, Pattern=twee uitsteeksel, Pattern=een, Pattern=staan, Pattern=koffiekopje met, Pattern=en
+	Constrained: Pattern=met, Pattern=twee, Pattern=uitsteeksel
+Turn ID=46| B | B : die het waarvan het lijken dat die door dat ruitvormig ding heen gaan
+	Free: Pattern=het, Pattern=die, Pattern=lijken, Pattern=dat
+	Constrained: 
+Turn ID=47| A | A : ik noemen die net het biscuit
+	Free: Pattern=net het biscuit, Pattern=ik, Pattern=die, Pattern=noemen
+	Constrained: Pattern=het biscuit, Pattern=het, Pattern=biscuit, Pattern=net
+Turn ID=48| B | B : ja die noemen jij net het biscuit
+	Free: Pattern=ja, Pattern=die, Pattern=jij, Pattern=noemen, Pattern=net het biscuit
+	Constrained: Pattern=het biscuit, Pattern=het, Pattern=biscuit, Pattern=net
+Turn ID=49| A | A : oké met onderin dat en twee aan de zijkant en dan boven dat gedoe
+	Free: Pattern=dat, Pattern=en dan, Pattern=twee aan de, Pattern=met, Pattern=en
+	Constrained: Pattern=twee, Pattern=aan de, Pattern=en, Pattern=de, Pattern=aan
+Turn ID=50| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=51| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=52| B | B : dat zijn hem
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=53| A | A : dat zijn nummer negen
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=54| A | A : koffiekopje met een rechtopstaand biscuit bovenaan in ruitvorm met
+	Free: Pattern=biscuit, Pattern=een, Pattern=in, Pattern=met, Pattern=koffiekopje met
+	Constrained: Pattern=met
+Turn ID=55| A | A : de robotarom die eruit komen
+	Free: Pattern=robotarom, Pattern=die, Pattern=eruit, Pattern=de
+	Constrained: 
+Turn ID=56| B | B : nee nee ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=57| B | B : dat zijn hem
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=58| B | B : letter H
+	Free: 
+	Constrained: 
+Turn ID=59| B | B : dit zijn dat kop met die one ruitvormig koek erin
+	Free: Pattern=zijn, Pattern=met, Pattern=die, Pattern=dat
+	Constrained: 
+Turn ID=60| B | B : met de twee robotarom eruit steken
+	Free: Pattern=twee, Pattern=de, Pattern=eruit, Pattern=robotarom, Pattern=met, Pattern=steken
+	Constrained: 
+Turn ID=61| A | A : ja hebbes
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=62| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=63| A | A : en nog drie uitsteeksel
+	Free: Pattern=drie uitsteeksel, Pattern=en
+	Constrained: Pattern=uitsteeksel, Pattern=drie
+Turn ID=64| B | B : en drie ander uitsteeksel
+	Free: Pattern=uitsteeksel, Pattern=drie, Pattern=en
+	Constrained: 
+Turn ID=65| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=66| A | A : dat zijn nummer elf
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=67| A | A : biscuit met robotarmp eruit
+	Free: Pattern=met, Pattern=eruit, Pattern=biscuit
+	Constrained: 
+Turn ID=68| B | B : ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=69| A | A : en nog drie uitsteeksel
+	Free: Pattern=drie uitsteeksel, Pattern=en
+	Constrained: Pattern=uitsteeksel, Pattern=drie
+Turn ID=70| B | B : letter D
+	Free: 
+	Constrained: 
+Turn ID=71| B | B : ja dat koffiekopje met dat ruiten koekje met die robotarom erdoorheen
+	Free: Pattern=dat, Pattern=ja, Pattern=robotarom, Pattern=met, Pattern=die, Pattern=koffiekopje met
+	Constrained: Pattern=met
+Turn ID=72| B | B : en die drie uitsteeksel
+	Free: Pattern=drie uitsteeksel, Pattern=en die
+	Constrained: Pattern=die, Pattern=uitsteeksel, Pattern=drie, Pattern=en
+Turn ID=73| A | A : hebbes
+	Free: 
+	Constrained: 
+Turn ID=74| A | A : nummer veertien
+	Free: 
+	Constrained: 

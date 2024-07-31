@@ -1,0 +1,139 @@
+B|0| B: _oké_ _ik hebben_ _één_ _met_ _een_ _rond voorop_ 
+B|1| B: _en dan_ _twee_ dinge _die_ Erboven _uitsteken en één_ _die_ er links uit opsteken 
+A|2| A: even kijken [rond voorop] 
+B|3| B: dus _een beetje_ zoals _die_ neuspiercing _die_ je net _hebben_ alleen _dan_ zonder _de_ piercing zelf zonder _die_ 
+A|4| A: _ja_ [twee] _ding_ [die] boven [uitsteken en één] link of wat 
+B|5| B: [ja] 
+A|6| A: [en dan] [één] wat [uitsteken] _zijn_ 
+B|7| B: [één] [die] rechtop eruit opsteken [en één] [die] iets schuin naar links _met_ _een_ apart vorm laten maar zeggen _een soort_ ruit 
+A|8| A: [ja] [oké] [ja] [ik] noemen het als [een soort] [ik hebben] hem beschrijven als [een] _indiaan_ volgens mij zo'n indianentooi [een beetje] 
+B|9| B: [ja] 
+B|10| B: [ja] 
+A|11| A: [ja] 
+B|12| B: [ja] 
+A|13| A: veertien 
+A|14| A: [ik] _dit_ noemen [ik] _de indiaan_ jij [hebben] het volgens mij ook als theekopje _met die_ gek _ja _met_ dat_ staafj [de] [die] vierkant 
+B|15| B: [ja] [ja] [ja [met] die] [rond] [ding] [voorop] 
+A|16| A: [ja] [rond] _neus voorop_ vierkant staaf bovenop [en] daarnaast _dat_ gek teken 
+B|17| B: [ja] 
+B|18| B: [ja] 
+B|19| B: N 
+B|20| B: [de indiaan] 
+B|21| B: _met de_ _met de neus_ 
+A|22| A: [de indiaan] 
+A|23| A: [ja] 
+A|24| A: _dat_ _zijn_ negen 
+A|25| A: [de] hoe [de indiaan] 
+B|26| B: oeh [ja _met] de neus voorop_ 
+A|27| A: [met de neus voorop] [ja] 
+B|28| B: G 
+B|29| B: [dit] [zijn] [de indiaan] 
+A|30| A: [de indiaan] [die] [hebben] we 
+B|31| B: [met dat] [rond voorop] 
+A|32| A: [dat] [zijn] vijf 
+A|33| A: [de indiaan] 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : oké ik hebben één met een rond voorop
+	Free: Pattern=ik hebben, Pattern=een, Pattern=rond voorop, Pattern=met, Pattern=oké, Pattern=één
+	Constrained: Pattern=voorop, Pattern=hebben, Pattern=rond, Pattern=ik
+Turn ID=1| B | B : en dan twee dinge die Erboven uitsteken en één die er links uit opsteken
+	Free: Pattern=uitsteken en één, Pattern=en dan, Pattern=twee, Pattern=die
+	Constrained: Pattern=en één, Pattern=dan, Pattern=uitsteken, Pattern=en, Pattern=één
+Turn ID=2| A | A : even kijken rond voorop
+	Free: Pattern=rond voorop
+	Constrained: Pattern=voorop, Pattern=rond
+Turn ID=3| B | B : dus een beetje zoals die neuspiercing die je net hebben alleen dan zonder de piercing zelf zonder die
+	Free: Pattern=de, Pattern=dan, Pattern=hebben, Pattern=die, Pattern=een beetje
+	Constrained: Pattern=een
+Turn ID=4| A | A : ja twee ding die boven uitsteken en één link of wat
+	Free: Pattern=twee, Pattern=ja, Pattern=ding, Pattern=die, Pattern=uitsteken en één
+	Constrained: Pattern=en één, Pattern=en, Pattern=uitsteken, Pattern=één
+Turn ID=5| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=6| A | A : en dan één wat uitsteken zijn
+	Free: Pattern=en dan, Pattern=zijn, Pattern=uitsteken, Pattern=één
+	Constrained: Pattern=dan, Pattern=en
+Turn ID=7| B | B : één die rechtop eruit opsteken en één die iets schuin naar links met een apart vorm laten maar zeggen een soort ruit
+	Free: Pattern=en één, Pattern=een, Pattern=met, Pattern=die, Pattern=een soort, Pattern=één
+	Constrained: Pattern=een, Pattern=en, Pattern=één
+Turn ID=8| A | A : ja oké ja ik noemen het als een soort ik hebben hem beschrijven als een indiaan volgens mij zo'n indianentooi een beetje
+	Free: Pattern=ik hebben, Pattern=ja, Pattern=een, Pattern=een beetje, Pattern=oké, Pattern=indiaan, Pattern=ik, Pattern=een soort
+	Constrained: Pattern=een, Pattern=ik, Pattern=hebben
+Turn ID=9| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=10| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=11| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=12| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=13| A | A : veertien
+	Free: 
+	Constrained: 
+Turn ID=14| A | A : ik dit noemen ik de indiaan jij hebben het volgens mij ook als theekopje met die gek ja met dat staafj de die vierkant
+	Free: Pattern=met die, Pattern=de, Pattern=ja met, Pattern=dit, Pattern=met dat, Pattern=die, Pattern=ik, Pattern=hebben, Pattern=de indiaan
+	Constrained: Pattern=dat, Pattern=met, Pattern=die, Pattern=indiaan, Pattern=de, Pattern=ja
+Turn ID=15| B | B : ja ja ja met die rond ding voorop
+	Free: Pattern=met die, Pattern=ding, Pattern=ja met, Pattern=rond, Pattern=voorop, Pattern=ja
+	Constrained: Pattern=ja, Pattern=die, Pattern=met
+Turn ID=16| A | A : ja rond neus voorop vierkant staaf bovenop en daarnaast dat gek teken
+	Free: Pattern=dat, Pattern=ja, Pattern=neus voorop, Pattern=en, Pattern=rond
+	Constrained: Pattern=voorop
+Turn ID=17| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=18| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=19| B | B : N
+	Free: 
+	Constrained: 
+Turn ID=20| B | B : de indiaan
+	Free: Pattern=de indiaan
+	Constrained: Pattern=de, Pattern=indiaan
+Turn ID=21| B | B : met de met de neus
+	Free: Pattern=met de neus, Pattern=met de
+	Constrained: Pattern=met, Pattern=met de, Pattern=de
+Turn ID=22| A | A : de indiaan
+	Free: Pattern=de indiaan
+	Constrained: Pattern=de, Pattern=indiaan
+Turn ID=23| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=24| A | A : dat zijn negen
+	Free: Pattern=dat, Pattern=zijn
+	Constrained: 
+Turn ID=25| A | A : de hoe de indiaan
+	Free: Pattern=de indiaan, Pattern=de
+	Constrained: Pattern=de, Pattern=indiaan
+Turn ID=26| B | B : oeh ja met de neus voorop
+	Free: Pattern=met de neus voorop, Pattern=ja met
+	Constrained: Pattern=met de neus, Pattern=met, Pattern=neus voorop, Pattern=de, Pattern=met de, Pattern=voorop, Pattern=ja
+Turn ID=27| A | A : met de neus voorop ja
+	Free: Pattern=met de neus voorop, Pattern=ja
+	Constrained: Pattern=met de neus, Pattern=met, Pattern=neus voorop, Pattern=de, Pattern=met de, Pattern=voorop
+Turn ID=28| B | B : G
+	Free: 
+	Constrained: 
+Turn ID=29| B | B : dit zijn de indiaan
+	Free: Pattern=de indiaan, Pattern=zijn, Pattern=dit
+	Constrained: Pattern=de, Pattern=indiaan
+Turn ID=30| A | A : de indiaan die hebben we
+	Free: Pattern=de indiaan, Pattern=hebben, Pattern=die
+	Constrained: Pattern=de, Pattern=indiaan
+Turn ID=31| B | B : met dat rond voorop
+	Free: Pattern=rond voorop, Pattern=met dat
+	Constrained: Pattern=dat, Pattern=voorop, Pattern=rond, Pattern=met
+Turn ID=32| A | A : dat zijn vijf
+	Free: Pattern=dat, Pattern=zijn
+	Constrained: 
+Turn ID=33| A | A : de indiaan
+	Free: Pattern=de indiaan
+	Constrained: Pattern=de, Pattern=indiaan

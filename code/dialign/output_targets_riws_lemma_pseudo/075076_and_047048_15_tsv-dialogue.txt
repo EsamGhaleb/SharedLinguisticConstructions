@@ -1,0 +1,135 @@
+B|0| B: _oké_ deze _hebben_ _een_ _een_ schijf door _het_ midden _van_ _het_ kop 
+B|1| B: _even kijken_ _dat_ _zijn_ er twee 
+B|2| B: hij _hebben_ _een_ _de_ onderste _de_ onderste 
+B|3| B: _ja_ 
+B|4| B: _ja_ _een beetje_ schuin cilinder 
+B|5| B: twee punt erboven 
+B|6| B: _ja_ 
+B|7| B: _oké_ 
+A|8| A: [even kijken] 
+A|9| A: ik denken [dat] aan [de] bovenkant of aan [de] onderkant 
+A|10| A: zo'n soort [van] L 
+A|11| A: _ja oké_ dan weten ik welk je bedoelen ik denken [dat] [het] nummer zes [zijn] 
+A|12| A: ik [hebben] _die een met_ [dat] vierkant laten maar zeggen [een beetje] aan [de] onderkant _erdoorheen_ 
+A|13| A: _en_ dan _die_ L aan [de] linkerkant 
+A|14| A: [ja] 
+A|15| A: [ja] [zijn] bij mij nummer dertien 
+B|16| B: [ja oké] [ja] 
+B|17| B: [ja] C 
+B|18| B: dit [zijn] [die een met] [die] raar cilinderneus [met] [een] vlak door [het] kop 
+B|19| B: [met] twee punt bovenaan 
+B|20| B: [ja] 
+B|21| B: slurf [oké] 
+A|22| A: ik [hebben] [die een _met] de_ L aan [de] linkerkant 
+A|23| A: _en_ [dat] vierkant _erdoorheen_ 
+B|24| B: [ja] 
+B|25| B: [ja] J 
+A|26| A: searching sound 
+A|27| A: nummer negen 
+B|28| B: [met de] slurf 
+B|29| B: [en] [het] vlak [erdoorheen] 
+A|30| A: ik [hebben] degeen [met de] [de] L aan [de] linkerkant 
+B|31| B: [ja] 
+B|32| B: [dat] [zijn] N 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : oké deze hebben een een schijf door het midden van het kop
+	Free: Pattern=een, Pattern=het, Pattern=hebben, Pattern=oké, Pattern=van
+	Constrained: 
+Turn ID=1| B | B : even kijken dat zijn er twee
+	Free: Pattern=even kijken, Pattern=dat, Pattern=zijn
+	Constrained: 
+Turn ID=2| B | B : hij hebben een de onderste de onderste
+	Free: Pattern=een, Pattern=hebben, Pattern=de
+	Constrained: 
+Turn ID=3| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=4| B | B : ja een beetje schuin cilinder
+	Free: Pattern=een beetje, Pattern=ja
+	Constrained: Pattern=een
+Turn ID=5| B | B : twee punt erboven
+	Free: 
+	Constrained: 
+Turn ID=6| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=7| B | B : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=8| A | A : even kijken
+	Free: Pattern=even kijken
+	Constrained: 
+Turn ID=9| A | A : ik denken dat aan de bovenkant of aan de onderkant
+	Free: Pattern=dat, Pattern=de
+	Constrained: 
+Turn ID=10| A | A : zo'n soort van L
+	Free: Pattern=van
+	Constrained: 
+Turn ID=11| A | A : ja oké dan weten ik welk je bedoelen ik denken dat het nummer zes zijn
+	Free: Pattern=ja oké, Pattern=dat, Pattern=zijn, Pattern=het
+	Constrained: Pattern=oké, Pattern=ja
+Turn ID=12| A | A : ik hebben die een met dat vierkant laten maar zeggen een beetje aan de onderkant erdoorheen
+	Free: Pattern=dat, Pattern=een beetje, Pattern=de, Pattern=die een met, Pattern=erdoorheen, Pattern=hebben
+	Constrained: Pattern=een, Pattern=met, Pattern=die
+Turn ID=13| A | A : en dan die L aan de linkerkant
+	Free: Pattern=en, Pattern=de, Pattern=die
+	Constrained: 
+Turn ID=14| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=15| A | A : ja zijn bij mij nummer dertien
+	Free: Pattern=zijn, Pattern=ja
+	Constrained: 
+Turn ID=16| B | B : ja oké ja
+	Free: Pattern=ja oké, Pattern=ja
+	Constrained: Pattern=oké, Pattern=ja
+Turn ID=17| B | B : ja C
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=18| B | B : dit zijn die een met die raar cilinderneus met een vlak door het kop
+	Free: Pattern=die een met, Pattern=een, Pattern=het, Pattern=met, Pattern=die, Pattern=zijn
+	Constrained: Pattern=een, Pattern=met, Pattern=die
+Turn ID=19| B | B : met twee punt bovenaan
+	Free: Pattern=met
+	Constrained: 
+Turn ID=20| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=21| B | B : slurf oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=22| A | A : ik hebben die een met de L aan de linkerkant
+	Free: Pattern=die een met, Pattern=met de, Pattern=hebben, Pattern=de
+	Constrained: Pattern=een, Pattern=de, Pattern=met, Pattern=die
+Turn ID=23| A | A : en dat vierkant erdoorheen
+	Free: Pattern=en, Pattern=dat, Pattern=erdoorheen
+	Constrained: 
+Turn ID=24| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=25| B | B : ja J
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=26| A | A : searching sound
+	Free: 
+	Constrained: 
+Turn ID=27| A | A : nummer negen
+	Free: 
+	Constrained: 
+Turn ID=28| B | B : met de slurf
+	Free: Pattern=met de
+	Constrained: Pattern=met, Pattern=de
+Turn ID=29| B | B : en het vlak erdoorheen
+	Free: Pattern=en, Pattern=het, Pattern=erdoorheen
+	Constrained: 
+Turn ID=30| A | A : ik hebben degeen met de de L aan de linkerkant
+	Free: Pattern=met de, Pattern=hebben, Pattern=de
+	Constrained: Pattern=met, Pattern=de
+Turn ID=31| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=32| B | B : dat zijn N
+	Free: Pattern=dat, Pattern=zijn
+	Constrained: 

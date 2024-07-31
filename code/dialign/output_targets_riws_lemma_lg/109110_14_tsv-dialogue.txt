@@ -1,0 +1,127 @@
+A|0| A: _nou_ mogen ik _weer_ iets uitleggen toch 
+B|1| B: yes 
+A|2| A: _ok_ _nou_ bij mij _het_ _zijn_ _het_ _zijn_ _de_ enig _met de_ recht paal naar boven _een vierkant_ 
+A|3| A: _en_ _er_ zitten _twee_ poot _aan_ _die_ lijk op _arm_ zullen je kunnen _zeggen_ _en_ op _de_ mok zitten nog _een_ bolletje lijken op _een_ hoofd 
+B|4| B: _ja en_ [zijn] [een] beetje zo'n 
+A|5| A: [ja] _echt_ alsof hij hij doen _echt_ breed [ja] 
+B|6| B: [nou] [het] _hebben_ [een] _eihoofd_ [en] [twee] klein armpjes [echt] heel dun armpjes 
+A|7| A: [ja] precies 
+A|8| A: [ja] _maar het_ [zijn] _niet_ _niet die met het_ platform 
+A|9| A: _ja ja_ dat [eihoofd] _inderdaad_ _nee_ jij _zeggen_ je snaplen sowieso welk ik bedoelen 
+B|10| B: [ja] Jajaja [nee] [niet die met het] platvorm [nee] [ok] D 
+A|11| A: [ja] 
+B|12| B: _o_ [ja] 
+B|13| B: _o_ [zijn] verplaatsen 
+B|14| B: even kijken _o_ _dit_ [zijn] [zeggen] [maar het] [het] dik man [met] [een vierkant] staaf [er] [aan] _dus_ [met] [zijn] [arm] [een] beetje pinguïn achtig 
+A|15| A: [o] [die] [een] [ja] dat [zijn] [die] [hebben] _we_ al [hebben] hè ? toch 
+B|16| B: [ja ja] [we] nu komen ze [weer] allemaal opnieuw 
+A|17| A: [ja] 
+A|18| A: [ok] [ok] [ok] [dus] [nee] dat weten ik al [ja] [ok] vijftien 
+A|19| A: [die] [een] [die] breed of [ja] weten je wel [die] _zo_ doen 
+A|20| A: [ja] 
+B|21| B: [inderdaad] [o] [zo] jajajaja [inderdaad] [met _de] balk ja_ 
+A|22| A: [ja en] [die] van [de balk ja] [het] [zijn] ook puar fantasie 
+B|23| B: L 
+B|24| B: dan macho man [met] [een] [met] [een] pilaar blok 
+A|25| A: [die] 
+A|26| A: jajaja [ja ja] [o] zes 
+A|27| A: [ja] [die] [dit] _die kerel_ weten je wel [ja] _die kerel_ 
+B|28| B: [die kerel] J 
+B|29| B: macho 
+A|30| A: [ok] drie 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : nou mogen ik weer iets uitleggen toch
+	Free: Pattern=weer, Pattern=nou
+	Constrained: 
+Turn ID=1| B | B : yes
+	Free: 
+	Constrained: 
+Turn ID=2| A | A : ok nou bij mij het zijn het zijn de enig met de recht paal naar boven een vierkant
+	Free: Pattern=nou, Pattern=het, Pattern=ok, Pattern=zijn, Pattern=een vierkant, Pattern=de, Pattern=met de
+	Constrained: Pattern=een, Pattern=met, Pattern=de
+Turn ID=3| A | A : en er zitten twee poot aan die lijk op arm zullen je kunnen zeggen en op de mok zitten nog een bolletje lijken op een hoofd
+	Free: Pattern=twee, Pattern=een, Pattern=zeggen, Pattern=die, Pattern=er, Pattern=de, Pattern=aan, Pattern=arm, Pattern=en
+	Constrained: 
+Turn ID=4| B | B : ja en zijn een beetje zo'n
+	Free: Pattern=ja en, Pattern=een, Pattern=zijn
+	Constrained: Pattern=en, Pattern=ja
+Turn ID=5| A | A : ja echt alsof hij hij doen echt breed ja
+	Free: Pattern=echt, Pattern=ja
+	Constrained: 
+Turn ID=6| B | B : nou het hebben een eihoofd en twee klein armpjes echt heel dun armpjes
+	Free: Pattern=een, Pattern=het, Pattern=hebben, Pattern=echt, Pattern=en, Pattern=twee, Pattern=nou, Pattern=eihoofd
+	Constrained: 
+Turn ID=7| A | A : ja precies
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=8| A | A : ja maar het zijn niet niet die met het platform
+	Free: Pattern=ja, Pattern=niet, Pattern=maar het, Pattern=niet die met het, Pattern=zijn
+	Constrained: Pattern=met, Pattern=niet, Pattern=die, Pattern=het
+Turn ID=9| A | A : ja ja dat eihoofd inderdaad nee jij zeggen je snaplen sowieso welk ik bedoelen
+	Free: Pattern=eihoofd, Pattern=ja ja, Pattern=nee, Pattern=zeggen, Pattern=inderdaad
+	Constrained: Pattern=ja
+Turn ID=10| B | B : ja Jajaja nee niet die met het platvorm nee ok D
+	Free: Pattern=niet die met het, Pattern=nee, Pattern=ja, Pattern=ok
+	Constrained: Pattern=met, Pattern=niet, Pattern=die, Pattern=het
+Turn ID=11| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=12| B | B : o ja
+	Free: Pattern=o, Pattern=ja
+	Constrained: 
+Turn ID=13| B | B : o zijn verplaatsen
+	Free: Pattern=o, Pattern=zijn
+	Constrained: 
+Turn ID=14| B | B : even kijken o dit zijn zeggen maar het het dik man met een vierkant staaf er aan dus met zijn arm een beetje pinguïn achtig
+	Free: Pattern=een, Pattern=het, Pattern=er, Pattern=arm, Pattern=zijn, Pattern=o, Pattern=een vierkant, Pattern=aan, Pattern=dus, Pattern=zeggen, Pattern=dit, Pattern=maar het, Pattern=met
+	Constrained: Pattern=een, Pattern=het
+Turn ID=15| A | A : o die een ja dat zijn die hebben we al hebben hè ? toch
+	Free: Pattern=ja, Pattern=een, Pattern=hebben, Pattern=zijn, Pattern=o, Pattern=we, Pattern=die
+	Constrained: 
+Turn ID=16| B | B : ja ja we nu komen ze weer allemaal opnieuw
+	Free: Pattern=ja ja, Pattern=we, Pattern=weer
+	Constrained: Pattern=ja
+Turn ID=17| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=18| A | A : ok ok ok dus nee dat weten ik al ja ok vijftien
+	Free: Pattern=nee, Pattern=ja, Pattern=ok, Pattern=dus
+	Constrained: 
+Turn ID=19| A | A : die een die breed of ja weten je wel die zo doen
+	Free: Pattern=een, Pattern=die, Pattern=ja, Pattern=zo
+	Constrained: 
+Turn ID=20| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=21| B | B : inderdaad o zo jajajaja inderdaad met de balk ja
+	Free: Pattern=met de, Pattern=inderdaad, Pattern=o, Pattern=zo, Pattern=de balk ja
+	Constrained: Pattern=met, Pattern=ja, Pattern=de
+Turn ID=22| A | A : ja en die van de balk ja het zijn ook puar fantasie
+	Free: Pattern=het, Pattern=de balk ja, Pattern=die, Pattern=zijn, Pattern=ja en
+	Constrained: Pattern=en, Pattern=ja, Pattern=de
+Turn ID=23| B | B : L
+	Free: 
+	Constrained: 
+Turn ID=24| B | B : dan macho man met een met een pilaar blok
+	Free: Pattern=een, Pattern=met
+	Constrained: 
+Turn ID=25| A | A : die
+	Free: Pattern=die
+	Constrained: 
+Turn ID=26| A | A : jajaja ja ja o zes
+	Free: Pattern=ja ja, Pattern=o
+	Constrained: Pattern=ja
+Turn ID=27| A | A : ja die dit die kerel weten je wel ja die kerel
+	Free: Pattern=die kerel, Pattern=dit, Pattern=die, Pattern=ja
+	Constrained: Pattern=die
+Turn ID=28| B | B : die kerel J
+	Free: Pattern=die kerel
+	Constrained: Pattern=die
+Turn ID=29| B | B : macho
+	Free: 
+	Constrained: 
+Turn ID=30| A | A : ok drie
+	Free: Pattern=ok
+	Constrained: 

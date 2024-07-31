@@ -1,0 +1,223 @@
+B|0| B: nu _hebben_ _ik_ toch _het_ vierkant 
+A|1| A: _ja_ 
+B|2| B: ze _zeggen_ _dat_ _ik het_ _niet_ zullen _hebben_ 
+B|3| B: _oké_ dus _ik_ _moeten_ _het_ beschrijven toch 
+A|4| A: _ja_ 
+B|5| B: [ja] 
+B|6| B: _ik_ vinden _die_ _dat_ _die een_ beetje _op een_ vogelhuis lijken _die_ _hebben_ _zo'n_ steel aan de linkerkant _en_ _zo'n_ 
+B|7| B: rond plaat linksachter 
+A|8| A: _even kijken_ hoor 
+A|9| A: [hebben] [die] _er_ _iets_ _bovenop zitten_ 
+B|10| B: [ja] rechts [bovenop zitten] _ook_ _nog_ _zo'n_ uitgerekt _soort van_ ovaal dinge 
+A|11| A: _even kijken_ hoor 
+A|12| A: [oké] 
+A|13| A: _dit zijn_ echt moeilijk [nog] best wel 
+A|14| A: [oké] 
+B|15| B: _het_ _steunen_ _ook_ _op_ [iets] _dat_ 
+A|16| A: [op een] [op] gewoon _een een_ plat [iets] of _zijn_ [het] [een] kromme _waar_ _die op_ [steunen] 
+B|17| B: [het] [zijn] [iets] ronds 
+B|18| B: ronds _en_ Langwerpigs 
+B|19| B: daar [steunen] [het] [op] 
+A|20| A: [hebben] [die een] [soort van] _deksel_ 
+A|21| A: [zeggen] maar [dat] [dat] _er_ [een] [soort van] rondje _achter_ [zitten] 
+B|22| B: [ja] [er] [zitten] [een een] cirkel [achter] 
+A|23| A: [ja] 
+A|24| A: eigenlijk bestaan [die] uit één twee drie vier _vijf_ deel ongeveer 
+B|25| B: [ja] [vijf] inderdaad 
+A|26| A: [oké] 
+A|27| A: [ja] nee _dan_ weten [ik] wachten _dan_ [moeten] [ik het] [zeggen] 
+A|28| A: [oké] _dat zijn_ dertien 
+A|29| A: wat denken jij [dat] _dit_ [ook] _weer_ [zijn] 
+A|30| A: _dit _zijn_ met_ [die] basis [en] _met een_ [soort van] dekseltje 
+A|31| A: [en] [ook] _met_ [zo'n] _met_ [zo'n] staaf _waar_ vogel [op] _kunnen_ [zitten] 
+A|32| A: [en] _met een_ [ja] [ja] [ik] weten eigenlijk [niet] _zo_ goed 
+B|33| B: [ja] [die een] [die [een] _een] pannet_ zullen _kunnen zijn met_ [dan] [iets] [met] [met] [met een] _buttplug_ [die] eruit steken 
+A|34| A: [ja] 
+A|35| A: [ja] [ja] 
+B|36| B: dus dus O 
+B|37| B: [dit zijn] alweer [die op] [het] steelpannetje lijken [met] [zo] de rond [deksel] erachter 
+B|38| B: [met] de de _buttplug_ erbovenop 
+A|39| A: _even_ zoeken zoeken 
+A|40| A: [ja] 
+A|41| A: _dat zijn_ acht 
+A|42| A: [dit _zijn] weer_ [die] wat [een pannet] [kunnen zijn met] [die] [deksel] 
+A|43| A: [en] [die] [buttplug] 
+B|44| B: [even kijken] 
+B|45| B: _ja dat zijn_ [die] 
+B|46| B: [dat zijn] C 
+B|47| B: [het] [zijn weer] [het] [pannet] [met] [deksel] [en] de minibuttplug erop 
+A|48| A: [ja dat zijn] zeven 
+A|49| A: [dit [zijn] weer] [dat] [deksel] 
+A|50| A: [dat] [pannet] 
+B|51| B: [waar] [zijn] [die] 
+B|52| B: C 
+A|53| A: nou overleven 
+B|54| B: [oké] 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : nu hebben ik toch het vierkant
+	Free: Pattern=hebben, Pattern=ik, Pattern=het
+	Constrained: 
+Turn ID=1| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=2| B | B : ze zeggen dat ik het niet zullen hebben
+	Free: Pattern=dat, Pattern=niet, Pattern=ik het, Pattern=hebben, Pattern=zeggen
+	Constrained: Pattern=ik, Pattern=het
+Turn ID=3| B | B : oké dus ik moeten het beschrijven toch
+	Free: Pattern=moeten, Pattern=oké, Pattern=ik, Pattern=het
+	Constrained: 
+Turn ID=4| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=5| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=6| B | B : ik vinden die dat die een beetje op een vogelhuis lijken die hebben zo'n steel aan de linkerkant en zo'n
+	Free: Pattern=dat, Pattern=zo'n, Pattern=hebben, Pattern=die, Pattern=die een, Pattern=ik, Pattern=en, Pattern=op een
+	Constrained: Pattern=die, Pattern=een, Pattern=op
+Turn ID=7| B | B : rond plaat linksachter
+	Free: 
+	Constrained: 
+Turn ID=8| A | A : even kijken hoor
+	Free: Pattern=even kijken
+	Constrained: Pattern=even
+Turn ID=9| A | A : hebben die er iets bovenop zitten
+	Free: Pattern=bovenop zitten, Pattern=iets, Pattern=hebben, Pattern=die, Pattern=er
+	Constrained: Pattern=zitten
+Turn ID=10| B | B : ja rechts bovenop zitten ook nog zo'n uitgerekt soort van ovaal dinge
+	Free: Pattern=bovenop zitten, Pattern=nog, Pattern=zo'n, Pattern=ja, Pattern=ook, Pattern=soort van
+	Constrained: Pattern=zitten
+Turn ID=11| A | A : even kijken hoor
+	Free: Pattern=even kijken
+	Constrained: Pattern=even
+Turn ID=12| A | A : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=13| A | A : dit zijn echt moeilijk nog best wel
+	Free: Pattern=dit zijn, Pattern=nog
+	Constrained: Pattern=dit, Pattern=zijn
+Turn ID=14| A | A : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=15| B | B : het steunen ook op iets dat
+	Free: Pattern=dat, Pattern=iets, Pattern=steunen, Pattern=het, Pattern=op, Pattern=ook
+	Constrained: 
+Turn ID=16| A | A : op een op gewoon een een plat iets of zijn het een kromme waar die op steunen
+	Free: Pattern=iets, Pattern=op, Pattern=een, Pattern=het, Pattern=een een, Pattern=die op, Pattern=zijn, Pattern=op een, Pattern=waar, Pattern=steunen
+	Constrained: Pattern=die, Pattern=een, Pattern=op
+Turn ID=17| B | B : het zijn iets ronds
+	Free: Pattern=iets, Pattern=zijn, Pattern=het
+	Constrained: 
+Turn ID=18| B | B : ronds en Langwerpigs
+	Free: Pattern=en
+	Constrained: 
+Turn ID=19| B | B : daar steunen het op
+	Free: Pattern=steunen, Pattern=op, Pattern=het
+	Constrained: 
+Turn ID=20| A | A : hebben die een soort van deksel
+	Free: Pattern=soort van, Pattern=die een, Pattern=deksel, Pattern=hebben
+	Constrained: Pattern=die, Pattern=een
+Turn ID=21| A | A : zeggen maar dat dat er een soort van rondje achter zitten
+	Free: Pattern=dat, Pattern=een, Pattern=achter, Pattern=zeggen, Pattern=zitten, Pattern=er, Pattern=soort van
+	Constrained: 
+Turn ID=22| B | B : ja er zitten een een cirkel achter
+	Free: Pattern=ja, Pattern=achter, Pattern=een een, Pattern=zitten, Pattern=er
+	Constrained: Pattern=een
+Turn ID=23| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=24| A | A : eigenlijk bestaan die uit één twee drie vier vijf deel ongeveer
+	Free: Pattern=die, Pattern=vijf
+	Constrained: 
+Turn ID=25| B | B : ja vijf inderdaad
+	Free: Pattern=ja, Pattern=vijf
+	Constrained: 
+Turn ID=26| A | A : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=27| A | A : ja nee dan weten ik wachten dan moeten ik het zeggen
+	Free: Pattern=ja, Pattern=dan, Pattern=zeggen, Pattern=ik, Pattern=moeten, Pattern=ik het
+	Constrained: Pattern=ik, Pattern=het
+Turn ID=28| A | A : oké dat zijn dertien
+	Free: Pattern=dat zijn, Pattern=oké
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=29| A | A : wat denken jij dat dit ook weer zijn
+	Free: Pattern=dat, Pattern=ook, Pattern=dit, Pattern=zijn, Pattern=weer
+	Constrained: 
+Turn ID=30| A | A : dit zijn met die basis en met een soort van dekseltje
+	Free: Pattern=met een, Pattern=en, Pattern=soort van, Pattern=dit zijn, Pattern=zijn met, Pattern=die
+	Constrained: Pattern=dit, Pattern=een, Pattern=zijn, Pattern=met
+Turn ID=31| A | A : en ook met zo'n met zo'n staaf waar vogel op kunnen zitten
+	Free: Pattern=waar, Pattern=met, Pattern=zitten, Pattern=en, Pattern=zo'n, Pattern=kunnen, Pattern=op, Pattern=ook
+	Constrained: 
+Turn ID=32| A | A : en met een ja ja ik weten eigenlijk niet zo goed
+	Free: Pattern=ja, Pattern=niet, Pattern=zo, Pattern=met een, Pattern=ik, Pattern=en
+	Constrained: Pattern=een, Pattern=met
+Turn ID=33| B | B : ja die een die een een pannet zullen kunnen zijn met dan iets met met met een buttplug die eruit steken
+	Free: Pattern=kunnen zijn met, Pattern=dan, Pattern=buttplug, Pattern=die, Pattern=die een, Pattern=met een, Pattern=een pannet, Pattern=iets, Pattern=ja, Pattern=een een, Pattern=met
+	Constrained: Pattern=pannet, Pattern=kunnen, Pattern=een, Pattern=met, Pattern=zijn, Pattern=zijn met, Pattern=die
+Turn ID=34| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=35| A | A : ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=36| B | B : dus dus O
+	Free: 
+	Constrained: 
+Turn ID=37| B | B : dit zijn alweer die op het steelpannetje lijken met zo de rond deksel erachter
+	Free: Pattern=deksel, Pattern=het, Pattern=zo, Pattern=met, Pattern=die op, Pattern=dit zijn
+	Constrained: Pattern=dit, Pattern=die, Pattern=zijn, Pattern=op
+Turn ID=38| B | B : met de de buttplug erbovenop
+	Free: Pattern=buttplug, Pattern=met
+	Constrained: 
+Turn ID=39| A | A : even zoeken zoeken
+	Free: Pattern=even
+	Constrained: 
+Turn ID=40| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=41| A | A : dat zijn acht
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=42| A | A : dit zijn weer die wat een pannet kunnen zijn met die deksel
+	Free: Pattern=kunnen zijn met, Pattern=deksel, Pattern=die, Pattern=zijn weer, Pattern=dit zijn, Pattern=een pannet
+	Constrained: Pattern=pannet, Pattern=kunnen, Pattern=een, Pattern=dit, Pattern=met, Pattern=zijn met, Pattern=zijn, Pattern=weer
+Turn ID=43| A | A : en die buttplug
+	Free: Pattern=en, Pattern=buttplug, Pattern=die
+	Constrained: 
+Turn ID=44| B | B : even kijken
+	Free: Pattern=even kijken
+	Constrained: Pattern=even
+Turn ID=45| B | B : ja dat zijn die
+	Free: Pattern=ja dat zijn, Pattern=die
+	Constrained: Pattern=dat zijn, Pattern=dat, Pattern=ja, Pattern=zijn
+Turn ID=46| B | B : dat zijn C
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=47| B | B : het zijn weer het pannet met deksel en de minibuttplug erop
+	Free: Pattern=pannet, Pattern=deksel, Pattern=het, Pattern=met, Pattern=en, Pattern=zijn weer
+	Constrained: Pattern=zijn, Pattern=weer
+Turn ID=48| A | A : ja dat zijn zeven
+	Free: Pattern=ja dat zijn
+	Constrained: Pattern=dat zijn, Pattern=dat, Pattern=ja, Pattern=zijn
+Turn ID=49| A | A : dit zijn weer dat deksel
+	Free: Pattern=zijn weer, Pattern=dit zijn, Pattern=deksel, Pattern=dat
+	Constrained: Pattern=dit, Pattern=zijn, Pattern=weer
+Turn ID=50| A | A : dat pannet
+	Free: Pattern=dat, Pattern=pannet
+	Constrained: 
+Turn ID=51| B | B : waar zijn die
+	Free: Pattern=waar, Pattern=die, Pattern=zijn
+	Constrained: 
+Turn ID=52| B | B : C
+	Free: 
+	Constrained: 
+Turn ID=53| A | A : nou overleven
+	Free: 
+	Constrained: 
+Turn ID=54| B | B : oké
+	Free: Pattern=oké
+	Constrained: 

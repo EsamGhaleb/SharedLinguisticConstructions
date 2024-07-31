@@ -1,0 +1,95 @@
+A|0| A: alsof je kennen je _die bankschroef_ waar waar je als als kind daar doen ik altijd mee spelen waar je hem ieder keer zo 
+A|1| A: moeten je hem ieder keer zo aandraaien _dat_ _zitten aan de linkerkant met een_ plat _rond plateau_ _aan de_ rechterkant 
+B|2| B: [zitten aan de linkerkant met _een] [rond_ plateau] 
+A|3| A: _ja_ vag kunnen ik het niet maken 
+A|4| A: er [zitten] [een] [aan de linkerkant] [zitten] er [een] pin 
+A|5| A: er [zitten] [een] [een] [een] nietgeometrisch vorm [met een] pin 
+A|6| A: en [aan de] ander kant [zitten] [een rond] plateautje 
+B|7| B: [ja] [ja] L 
+B|8| B: deze _zijn die_ [met] [dat] [rond plateau] [met] [die bankschroef] 
+A|9| A: [ja] even kijken waar _die zijn_ 
+A|10| A: [ja] zeven 
+A|11| A: _zijn die bankschroef_ weer 
+B|12| B: C 
+B|13| B: [die zijn] [met] [dat] [plateau] [die] [dat] bank schroefding 
+A|14| A: [die bankschroef] 
+B|15| B: [ja] 
+A|16| A: één 
+A|17| A: [de] [bankschroef] 
+B|18| B: A 
+B|19| B: dit [zijn die bankschroef] 
+A|20| A: [ja] 
+B|21| B: [met] [dat] dienblaad [aan de] zijkant 
+A|22| A: [dat] [zijn] dertien 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : alsof je kennen je die bankschroef waar waar je als als kind daar doen ik altijd mee spelen waar je hem ieder keer zo
+	Free: Pattern=die bankschroef
+	Constrained: Pattern=bankschroef, Pattern=die
+Turn ID=1| A | A : moeten je hem ieder keer zo aandraaien dat zitten aan de linkerkant met een plat rond plateau aan de rechterkant
+	Free: Pattern=zitten aan de linkerkant met een, Pattern=aan de, Pattern=rond plateau, Pattern=dat
+	Constrained: Pattern=de, Pattern=aan de, Pattern=een, Pattern=plateau, Pattern=met, Pattern=zitten, Pattern=met een, Pattern=aan de linkerkant
+Turn ID=2| B | B : zitten aan de linkerkant met een rond plateau
+	Free: Pattern=zitten aan de linkerkant met een, Pattern=rond plateau, Pattern=een rond
+	Constrained: Pattern=de, Pattern=aan de, Pattern=een, Pattern=plateau, Pattern=met, Pattern=zitten, Pattern=met een, Pattern=aan de linkerkant
+Turn ID=3| A | A : ja vag kunnen ik het niet maken
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=4| A | A : er zitten een aan de linkerkant zitten er een pin
+	Free: Pattern=aan de linkerkant, Pattern=zitten, Pattern=een
+	Constrained: Pattern=aan de, Pattern=de
+Turn ID=5| A | A : er zitten een een een nietgeometrisch vorm met een pin
+	Free: Pattern=met een, Pattern=zitten, Pattern=een
+	Constrained: Pattern=een, Pattern=met
+Turn ID=6| A | A : en aan de ander kant zitten een rond plateautje
+	Free: Pattern=aan de, Pattern=een rond, Pattern=zitten
+	Constrained: Pattern=een, Pattern=de
+Turn ID=7| B | B : ja ja L
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=8| B | B : deze zijn die met dat rond plateau met die bankschroef
+	Free: Pattern=dat, Pattern=die bankschroef, Pattern=zijn die, Pattern=met, Pattern=rond plateau
+	Constrained: Pattern=plateau, Pattern=zijn, Pattern=bankschroef, Pattern=die
+Turn ID=9| A | A : ja even kijken waar die zijn
+	Free: Pattern=die zijn, Pattern=ja
+	Constrained: Pattern=zijn, Pattern=die
+Turn ID=10| A | A : ja zeven
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=11| A | A : zijn die bankschroef weer
+	Free: Pattern=zijn die bankschroef
+	Constrained: Pattern=die bankschroef, Pattern=zijn die, Pattern=zijn, Pattern=bankschroef, Pattern=die
+Turn ID=12| B | B : C
+	Free: 
+	Constrained: 
+Turn ID=13| B | B : die zijn met dat plateau die dat bank schroefding
+	Free: Pattern=dat, Pattern=plateau, Pattern=met, Pattern=die, Pattern=die zijn
+	Constrained: Pattern=zijn, Pattern=die
+Turn ID=14| A | A : die bankschroef
+	Free: Pattern=die bankschroef
+	Constrained: Pattern=bankschroef, Pattern=die
+Turn ID=15| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=16| A | A : één
+	Free: 
+	Constrained: 
+Turn ID=17| A | A : de bankschroef
+	Free: Pattern=bankschroef, Pattern=de
+	Constrained: 
+Turn ID=18| B | B : A
+	Free: 
+	Constrained: 
+Turn ID=19| B | B : dit zijn die bankschroef
+	Free: Pattern=zijn die bankschroef
+	Constrained: Pattern=die bankschroef, Pattern=zijn die, Pattern=zijn, Pattern=bankschroef, Pattern=die
+Turn ID=20| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=21| B | B : met dat dienblaad aan de zijkant
+	Free: Pattern=aan de, Pattern=met, Pattern=dat
+	Constrained: Pattern=de
+Turn ID=22| A | A : dat zijn dertien
+	Free: Pattern=dat, Pattern=zijn
+	Constrained: 

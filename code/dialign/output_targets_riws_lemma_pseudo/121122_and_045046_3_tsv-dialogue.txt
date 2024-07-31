@@ -1,0 +1,91 @@
+B|0| B: ah ik vinden het _een_ cocktailglas 
+B|1| B: weten je welk ik bedoelen 
+B|2| B: kunnen ook 
+B|3| B: _ja_ 
+A|4| A: de trofee 
+A|5| A: [ja] [ja] hij _staan_ op zo'n driehoekje en dan zo'n DNAspiraal naar boven 
+A|6| A: oké dat zijn nummer vier 
+B|7| B: A 
+A|8| A: _die_ [een] met dat driehoekig voe en _die_ dNAspiraal 
+A|9| A: oké 
+A|10| A: [ja] 
+A|11| A: de 
+A|12| A: dat zijn nummer acht 
+B|13| B: het wijnglas 
+A|14| A: _die_ met dat dNA en dat voe dat driehoekig voe 
+B|15| B: waar [staan] [die] 
+B|16| B: [ja] L 
+A|17| A: [ja] dat zijn nummer vier 
+A|18| A: [die] met dat dNAdingetje 
+A|19| A: en dit blok 
+B|20| B: het wijnglas 
+B|21| B: [ja] F 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : ah ik vinden het een cocktailglas
+	Free: Pattern=een
+	Constrained: 
+Turn ID=1| B | B : weten je welk ik bedoelen
+	Free: 
+	Constrained: 
+Turn ID=2| B | B : kunnen ook
+	Free: 
+	Constrained: 
+Turn ID=3| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=4| A | A : de trofee
+	Free: 
+	Constrained: 
+Turn ID=5| A | A : ja ja hij staan op zo'n driehoekje en dan zo'n DNAspiraal naar boven
+	Free: Pattern=staan, Pattern=ja
+	Constrained: 
+Turn ID=6| A | A : oké dat zijn nummer vier
+	Free: 
+	Constrained: 
+Turn ID=7| B | B : A
+	Free: 
+	Constrained: 
+Turn ID=8| A | A : die een met dat driehoekig voe en die dNAspiraal
+	Free: Pattern=die, Pattern=een
+	Constrained: 
+Turn ID=9| A | A : oké
+	Free: 
+	Constrained: 
+Turn ID=10| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=11| A | A : de
+	Free: 
+	Constrained: 
+Turn ID=12| A | A : dat zijn nummer acht
+	Free: 
+	Constrained: 
+Turn ID=13| B | B : het wijnglas
+	Free: 
+	Constrained: 
+Turn ID=14| A | A : die met dat dNA en dat voe dat driehoekig voe
+	Free: Pattern=die
+	Constrained: 
+Turn ID=15| B | B : waar staan die
+	Free: Pattern=die, Pattern=staan
+	Constrained: 
+Turn ID=16| B | B : ja L
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=17| A | A : ja dat zijn nummer vier
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=18| A | A : die met dat dNAdingetje
+	Free: Pattern=die
+	Constrained: 
+Turn ID=19| A | A : en dit blok
+	Free: 
+	Constrained: 
+Turn ID=20| B | B : het wijnglas
+	Free: 
+	Constrained: 
+Turn ID=21| B | B : ja F
+	Free: Pattern=ja
+	Constrained: 

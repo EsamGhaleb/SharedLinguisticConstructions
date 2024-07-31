@@ -1,0 +1,207 @@
+A|0| A: oké dus _dat_ bakkie _en_ _dan_ _bovenop_ zitten _zeggen_ maar _twee_ _vierkant_ vlak naast elkaar 
+A|1| A: _en_ daaruit steken _dan_ weer _die _die_ die_ kubusblok _zeggen_ maar alsof _het_ opgestapelen taartdos _zijn_ 
+A|2| A: _dat_ zitten _zeggen_ maar vrij klein _boven _op_ het_ komme 
+A|3| A: aan _de_ achterkant 
+A|4| A: aan _de_ voorkant steken een ietwat rond staafje _uit_ of zeshoekig 
+A|5| A: _en_ _dan hebben_ je nog aan _de_ onderkant _en_ aan _de_ zijkant _zeggen_ maar weer een soort _vierkant_ staafje wat _zo_ krom lopen 
+A|6| A: oké dus er _zijn_ _twee_ _vierkant_ staaf één aan _de_ onderkant _die_ lopen _zeggen_ maar _zo_ naar voor 
+A|7| A: _en_ één aan _de_ zijkant _die_ lopen opzij 
+A|8| A: er zitten _dan_ nog een heel klein zeshoekig staafje recht daarvoor wat naar voren uitsteken 
+A|9| A: _en_ _bovenop_ zitten _twee_ klein _vierkant_ _die_ zitten er _zeggen_ maar _zo_ in steken als een soort kaart 
+A|10| A: _en_ _dan_ _uit_ _die_ _twee_ _vierkant_ steken _dan_ nog weer van _die_ klein opgestapelen doos 
+A|11| A: _ja_ 
+A|12| A: _ja_ 
+A|13| A: _ja_ _dat_ zullen ook _goed_ _ja_ 
+A|14| A: klinken logisch 
+B|15| B: [ja] [ja] _met_ [twee] [ja] [ja] [ja] 
+B|16| B: [dat] [zijn] M bij mij 
+B|17| B: [en] bij jou 
+B|18| B: ik moeten [het] [zeggen] 
+B|19| B: drie M 
+B|20| B: _dit zijn_ _met die_ ruit [bovenop] [en] [die] _waar_ [die die] doorbooren ruit door [vierkant] 
+B|21| B: [ja] 
+B|22| B: I 
+A|23| A: [ja] 
+A|24| A: [ja] 
+A|25| A: nummer negen 
+B|26| B: sorry wachten even ruit [en] 
+B|27| B: [ja] [ja] [die die] gek _met die_ armp [zo] 
+B|28| B: wachten nee [dan hebben] ik even niet [de] [goed] armpjes [uit] [de] ruit 
+B|29| B: [die] [ja] [ja] H 
+B|30| B: bij jou 
+B|31| B: H zes 
+A|32| A: _dit zijn die_ raar [waar] bovenin zo'n boek [uit] steken wat [dan] van beide kant [die] kubus ingestoken krijgen 
+A|33| A: nog een handva vooraan [en] [twee] rechthoekig hand aan [de] onderaan [en] aan [de] zijkant 
+B|34| B: [dit zijn die] _met die_ ruit [op het] hoofd _met_ waardoor [en] [die] 
+B|35| B: [ja] [ja] precies 
+B|36| B: F 
+A|37| A: [en] nog [die] een aan [de] zijkant 
+A|38| A: [ja] 
+A|39| A: nummer elf 
+B|40| B: [ja] 
+B|41| B: D 
+B|42| B: d achten 
+B|43| B: [dit zijn die] _met die_ ruit [boven op] [zijn] hoofd [waar] [dat] ding doorheen gaan 
+B|44| B: _met die_ 
+B|45| B: [ja] 
+B|46| B: G 
+A|47| A: [dit zijn die] een [met] [dat] boek [bovenop] wat [dan] gespiest worden [met die] doos [en] [dan] [die] raar hendel aan [de] onderkant 
+A|48| A: aan [de] zijkant 
+A|49| A: yes 
+A|50| A: nummer veertien 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : oké dus dat bakkie en dan bovenop zitten zeggen maar twee vierkant vlak naast elkaar
+	Free: Pattern=twee, Pattern=dan, Pattern=zeggen, Pattern=en, Pattern=vierkant, Pattern=dat, Pattern=bovenop
+	Constrained: 
+Turn ID=1| A | A : en daaruit steken dan weer die die die kubusblok zeggen maar alsof het opgestapelen taartdos zijn
+	Free: Pattern=dan, Pattern=het, Pattern=zeggen, Pattern=die die, Pattern=en, Pattern=zijn
+	Constrained: Pattern=die
+Turn ID=2| A | A : dat zitten zeggen maar vrij klein boven op het komme
+	Free: Pattern=boven op, Pattern=op het, Pattern=dat, Pattern=zeggen
+	Constrained: Pattern=het
+Turn ID=3| A | A : aan de achterkant
+	Free: Pattern=de
+	Constrained: 
+Turn ID=4| A | A : aan de voorkant steken een ietwat rond staafje uit of zeshoekig
+	Free: Pattern=uit, Pattern=de
+	Constrained: 
+Turn ID=5| A | A : en dan hebben je nog aan de onderkant en aan de zijkant zeggen maar weer een soort vierkant staafje wat zo krom lopen
+	Free: Pattern=de, Pattern=en, Pattern=vierkant, Pattern=dan hebben, Pattern=zeggen, Pattern=zo
+	Constrained: Pattern=dan
+Turn ID=6| A | A : oké dus er zijn twee vierkant staaf één aan de onderkant die lopen zeggen maar zo naar voor
+	Free: Pattern=twee, Pattern=de, Pattern=die, Pattern=zijn, Pattern=vierkant, Pattern=zeggen, Pattern=zo
+	Constrained: 
+Turn ID=7| A | A : en één aan de zijkant die lopen opzij
+	Free: Pattern=en, Pattern=de, Pattern=die
+	Constrained: 
+Turn ID=8| A | A : er zitten dan nog een heel klein zeshoekig staafje recht daarvoor wat naar voren uitsteken
+	Free: Pattern=dan
+	Constrained: 
+Turn ID=9| A | A : en bovenop zitten twee klein vierkant die zitten er zeggen maar zo in steken als een soort kaart
+	Free: Pattern=bovenop, Pattern=twee, Pattern=die, Pattern=en, Pattern=vierkant, Pattern=zeggen, Pattern=zo
+	Constrained: 
+Turn ID=10| A | A : en dan uit die twee vierkant steken dan nog weer van die klein opgestapelen doos
+	Free: Pattern=twee, Pattern=uit, Pattern=dan, Pattern=die, Pattern=en, Pattern=vierkant
+	Constrained: 
+Turn ID=11| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=12| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=13| A | A : ja dat zullen ook goed ja
+	Free: Pattern=dat, Pattern=ja, Pattern=goed
+	Constrained: 
+Turn ID=14| A | A : klinken logisch
+	Free: 
+	Constrained: 
+Turn ID=15| B | B : ja ja met twee ja ja ja
+	Free: Pattern=twee, Pattern=ja, Pattern=met
+	Constrained: 
+Turn ID=16| B | B : dat zijn M bij mij
+	Free: Pattern=dat, Pattern=zijn
+	Constrained: 
+Turn ID=17| B | B : en bij jou
+	Free: Pattern=en
+	Constrained: 
+Turn ID=18| B | B : ik moeten het zeggen
+	Free: Pattern=zeggen, Pattern=het
+	Constrained: 
+Turn ID=19| B | B : drie M
+	Free: 
+	Constrained: 
+Turn ID=20| B | B : dit zijn met die ruit bovenop en die waar die die doorbooren ruit door vierkant
+	Free: Pattern=waar, Pattern=die, Pattern=die die, Pattern=en, Pattern=vierkant, Pattern=dit zijn, Pattern=met die, Pattern=bovenop
+	Constrained: Pattern=zijn, Pattern=met, Pattern=die
+Turn ID=21| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=22| B | B : I
+	Free: 
+	Constrained: 
+Turn ID=23| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=24| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=25| A | A : nummer negen
+	Free: 
+	Constrained: 
+Turn ID=26| B | B : sorry wachten even ruit en
+	Free: Pattern=en
+	Constrained: 
+Turn ID=27| B | B : ja ja die die gek met die armp zo
+	Free: Pattern=die die, Pattern=met die, Pattern=ja, Pattern=zo
+	Constrained: Pattern=met, Pattern=die
+Turn ID=28| B | B : wachten nee dan hebben ik even niet de goed armpjes uit de ruit
+	Free: Pattern=dan hebben, Pattern=uit, Pattern=de, Pattern=goed
+	Constrained: Pattern=dan
+Turn ID=29| B | B : die ja ja H
+	Free: Pattern=ja, Pattern=die
+	Constrained: 
+Turn ID=30| B | B : bij jou
+	Free: 
+	Constrained: 
+Turn ID=31| B | B : H zes
+	Free: 
+	Constrained: 
+Turn ID=32| A | A : dit zijn die raar waar bovenin zo'n boek uit steken wat dan van beide kant die kubus ingestoken krijgen
+	Free: Pattern=dit zijn die, Pattern=waar, Pattern=uit, Pattern=dan, Pattern=die
+	Constrained: Pattern=dit zijn, Pattern=zijn, Pattern=die
+Turn ID=33| A | A : nog een handva vooraan en twee rechthoekig hand aan de onderaan en aan de zijkant
+	Free: Pattern=en, Pattern=twee, Pattern=de
+	Constrained: 
+Turn ID=34| B | B : dit zijn die met die ruit op het hoofd met waardoor en die
+	Free: Pattern=met die, Pattern=dit zijn die, Pattern=met, Pattern=die, Pattern=en, Pattern=op het
+	Constrained: Pattern=het, Pattern=met, Pattern=die, Pattern=zijn, Pattern=dit zijn
+Turn ID=35| B | B : ja ja precies
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=36| B | B : F
+	Free: 
+	Constrained: 
+Turn ID=37| A | A : en nog die een aan de zijkant
+	Free: Pattern=en, Pattern=de, Pattern=die
+	Constrained: 
+Turn ID=38| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=39| A | A : nummer elf
+	Free: 
+	Constrained: 
+Turn ID=40| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=41| B | B : D
+	Free: 
+	Constrained: 
+Turn ID=42| B | B : d achten
+	Free: 
+	Constrained: 
+Turn ID=43| B | B : dit zijn die met die ruit boven op zijn hoofd waar dat ding doorheen gaan
+	Free: Pattern=boven op, Pattern=dit zijn die, Pattern=waar, Pattern=zijn, Pattern=dat, Pattern=met die
+	Constrained: Pattern=dit zijn, Pattern=zijn, Pattern=met, Pattern=die
+Turn ID=44| B | B : met die
+	Free: Pattern=met die
+	Constrained: Pattern=met, Pattern=die
+Turn ID=45| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=46| B | B : G
+	Free: 
+	Constrained: 
+Turn ID=47| A | A : dit zijn die een met dat boek bovenop wat dan gespiest worden met die doos en dan die raar hendel aan de onderkant
+	Free: Pattern=dit zijn die, Pattern=de, Pattern=dan, Pattern=met, Pattern=die, Pattern=en, Pattern=dat, Pattern=met die, Pattern=bovenop
+	Constrained: Pattern=dit zijn, Pattern=zijn, Pattern=met, Pattern=die
+Turn ID=48| A | A : aan de zijkant
+	Free: Pattern=de
+	Constrained: 
+Turn ID=49| A | A : yes
+	Free: 
+	Constrained: 
+Turn ID=50| A | A : nummer veertien
+	Free: 
+	Constrained: 

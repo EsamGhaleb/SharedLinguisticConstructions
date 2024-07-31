@@ -1,0 +1,167 @@
+A|0| A: _oké_ _deze_ _hebben_ allemaal _ja_ raar _uitsteeksel_ 
+A|1| A: _met_ _een_ beetje _een_ ovaal _uitsteeksel_ zoals jij zeggen _van die_ mok _dus_ _de_ bovenaan _de_ mok 
+B|2| B: [ja] 
+A|3| A: _en_ _een_ ovaal _uitsteeksel_ linksvoor 
+A|4| A: _en dan hebben _die_ _een_ soort_ _van_ blok _die_ _dan_ steeds groot worden _aan de rechterkant_ _en_ _een soort_ _van_ _slurf_ linksachter 
+A|5| A: hij _hebben_ in totaal _vier uitsteeksel_ 
+B|6| B: [hebben die] twee [van die] balk [aan de rechterkant] 
+A|7| A: nee 
+A|8| A: nee 
+B|9| B: _even kijken_ hoor 
+B|10| B: [vier] 
+B|11| B: twee [en dan hebben die] er één [hebben die] er links zitten [en] één omhoog 
+A|12| A: [ja] 
+B|13| B: uit [en dan] [aan] [die] kant [een soort] [ja] legoblokjesopstapeling 
+A|14| A: [ja] [ja] 
+B|15| B: [en dan] nog [een] [slurf] [aan] [die] kant 
+A|16| A: [ja] [die] 
+B|17| B: [oké] 
+B|18| B: [dan] _zijn_ het E 
+B|19| B: [deze] _zijn_ weer [die] [met] [vier _uitsteeksel] dus_ [die] [hebben] één zo'n dinge 
+A|20| A: ah 
+B|21| B: zo'n [soort] legodinge [aan de] zijkant 
+B|22| B: [een] klein _slurf en_ nog [een] 
+A|23| A: [oké] [ja] ik weten welk je bedoelen maar ik moeten hem _even zoeken_ 
+B|24| B: [even zoeken] 
+A|25| A: ah [ja] 
+A|26| A: [oké] 
+A|27| A: _dat zijn_ nummer elf 
+A|28| A: _dat zijn_ _met die vier uitsteeksel_ _dat_ [slurf en] _die legoblok_ 
+B|29| B: [ja] 
+B|30| B: [dat zijn] J 
+B|31| B: _dit zijn_ [die een] [met die vier uitsteeksel] _met die legoblok_ 
+A|32| A: [ja] [even kijken] waar [die] staan 
+A|33| A: ah [dat zijn] nummer negen 
+A|34| A: [dit zijn] [met] al [die] [uitsteeksel dus] [met die legoblok] [en] [die] [slurf] 
+B|35| B: [ja] 
+B|36| B: [even zoeken] 
+B|37| B: [ja] [dat zijn] B 
+B|38| B: [dit zijn] weer [met die vier] uitsteekselt 
+A|39| A: [even kijken] waar [die] staan 
+A|40| A: ah nummer [vier] 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : oké deze hebben allemaal ja raar uitsteeksel
+	Free: Pattern=ja, Pattern=uitsteeksel, Pattern=hebben, Pattern=oké, Pattern=deze
+	Constrained: 
+Turn ID=1| A | A : met een beetje een ovaal uitsteeksel zoals jij zeggen van die mok dus de bovenaan de mok
+	Free: Pattern=uitsteeksel, Pattern=een, Pattern=met, Pattern=van die, Pattern=de, Pattern=dus
+	Constrained: Pattern=van, Pattern=die
+Turn ID=2| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=3| A | A : en een ovaal uitsteeksel linksvoor
+	Free: Pattern=uitsteeksel, Pattern=en, Pattern=een
+	Constrained: 
+Turn ID=4| A | A : en dan hebben die een soort van blok die dan steeds groot worden aan de rechterkant en een soort van slurf linksachter
+	Free: Pattern=dan, Pattern=slurf, Pattern=en dan hebben die, Pattern=die een, Pattern=een soort, Pattern=aan de rechterkant, Pattern=die, Pattern=van, Pattern=en
+	Constrained: Pattern=soort, Pattern=en dan, Pattern=aan de, Pattern=dan, Pattern=een, Pattern=hebben, Pattern=die, Pattern=en, Pattern=hebben die, Pattern=de, Pattern=aan
+Turn ID=5| A | A : hij hebben in totaal vier uitsteeksel
+	Free: Pattern=vier uitsteeksel, Pattern=hebben
+	Constrained: Pattern=uitsteeksel, Pattern=vier
+Turn ID=6| B | B : hebben die twee van die balk aan de rechterkant
+	Free: Pattern=aan de rechterkant, Pattern=van die, Pattern=hebben die
+	Constrained: Pattern=aan de, Pattern=hebben, Pattern=die, Pattern=van, Pattern=de, Pattern=aan
+Turn ID=7| A | A : nee
+	Free: 
+	Constrained: 
+Turn ID=8| A | A : nee
+	Free: 
+	Constrained: 
+Turn ID=9| B | B : even kijken hoor
+	Free: Pattern=even kijken
+	Constrained: 
+Turn ID=10| B | B : vier
+	Free: Pattern=vier
+	Constrained: 
+Turn ID=11| B | B : twee en dan hebben die er één hebben die er links zitten en één omhoog
+	Free: Pattern=en dan hebben die, Pattern=hebben die, Pattern=en
+	Constrained: Pattern=en dan, Pattern=dan, Pattern=hebben, Pattern=die, Pattern=en, Pattern=hebben die
+Turn ID=12| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=13| B | B : uit en dan aan die kant een soort ja legoblokjesopstapeling
+	Free: Pattern=en dan, Pattern=die, Pattern=een soort, Pattern=aan, Pattern=ja
+	Constrained: Pattern=en, Pattern=dan, Pattern=soort, Pattern=een
+Turn ID=14| A | A : ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=15| B | B : en dan nog een slurf aan die kant
+	Free: Pattern=aan, Pattern=en dan, Pattern=slurf, Pattern=een, Pattern=die
+	Constrained: Pattern=en, Pattern=dan
+Turn ID=16| A | A : ja die
+	Free: Pattern=ja, Pattern=die
+	Constrained: 
+Turn ID=17| B | B : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=18| B | B : dan zijn het E
+	Free: Pattern=zijn, Pattern=dan
+	Constrained: 
+Turn ID=19| B | B : deze zijn weer die met vier uitsteeksel dus die hebben één zo'n dinge
+	Free: Pattern=uitsteeksel dus, Pattern=hebben, Pattern=met, Pattern=die, Pattern=vier uitsteeksel, Pattern=zijn, Pattern=deze
+	Constrained: Pattern=uitsteeksel, Pattern=vier, Pattern=dus
+Turn ID=20| A | A : ah
+	Free: 
+	Constrained: 
+Turn ID=21| B | B : zo'n soort legodinge aan de zijkant
+	Free: Pattern=aan de, Pattern=soort
+	Constrained: Pattern=de, Pattern=aan
+Turn ID=22| B | B : een klein slurf en nog een
+	Free: Pattern=slurf en, Pattern=een
+	Constrained: Pattern=en, Pattern=slurf
+Turn ID=23| A | A : oké ja ik weten welk je bedoelen maar ik moeten hem even zoeken
+	Free: Pattern=even zoeken, Pattern=ja, Pattern=oké
+	Constrained: 
+Turn ID=24| B | B : even zoeken
+	Free: Pattern=even zoeken
+	Constrained: 
+Turn ID=25| A | A : ah ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=26| A | A : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=27| A | A : dat zijn nummer elf
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=28| A | A : dat zijn met die vier uitsteeksel dat slurf en die legoblok
+	Free: Pattern=die legoblok, Pattern=met die vier uitsteeksel, Pattern=slurf en, Pattern=dat, Pattern=dat zijn
+	Constrained: Pattern=met die vier, Pattern=dat, Pattern=uitsteeksel, Pattern=slurf, Pattern=met, Pattern=die, Pattern=vier uitsteeksel, Pattern=en, Pattern=zijn, Pattern=vier
+Turn ID=29| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=30| B | B : dat zijn J
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=31| B | B : dit zijn die een met die vier uitsteeksel met die legoblok
+	Free: Pattern=met die vier uitsteeksel, Pattern=met die legoblok, Pattern=die een, Pattern=dit zijn
+	Constrained: Pattern=met die vier, Pattern=uitsteeksel, Pattern=een, Pattern=met, Pattern=die, Pattern=die legoblok, Pattern=vier uitsteeksel, Pattern=zijn, Pattern=vier
+Turn ID=32| A | A : ja even kijken waar die staan
+	Free: Pattern=even kijken, Pattern=ja, Pattern=die
+	Constrained: 
+Turn ID=33| A | A : ah dat zijn nummer negen
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=34| A | A : dit zijn met al die uitsteeksel dus met die legoblok en die slurf
+	Free: Pattern=slurf, Pattern=uitsteeksel dus, Pattern=met, Pattern=die, Pattern=met die legoblok, Pattern=en, Pattern=dit zijn
+	Constrained: Pattern=dus, Pattern=uitsteeksel, Pattern=met, Pattern=die, Pattern=die legoblok, Pattern=zijn
+Turn ID=35| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=36| B | B : even zoeken
+	Free: Pattern=even zoeken
+	Constrained: 
+Turn ID=37| B | B : ja dat zijn B
+	Free: Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=38| B | B : dit zijn weer met die vier uitsteekselt
+	Free: Pattern=met die vier, Pattern=dit zijn
+	Constrained: Pattern=zijn, Pattern=met, Pattern=die, Pattern=vier
+Turn ID=39| A | A : even kijken waar die staan
+	Free: Pattern=even kijken, Pattern=die
+	Constrained: 
+Turn ID=40| A | A : ah nummer vier
+	Free: Pattern=vier
+	Constrained: 

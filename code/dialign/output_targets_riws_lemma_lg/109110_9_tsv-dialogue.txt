@@ -1,0 +1,175 @@
+B|0| B: _ok_ 
+A|1| A: _we_ mogen praten nou toch 
+B|2| B: _ja_ 
+A|3| A: [ok] 
+B|4| B: _ik_ zullen deze omschrijven als _een_ soort beker _met een_ _wafel_ _er in_ 
+A|5| A: [wafel] 
+B|6| B: _ja_ soort _schijf_ _die_ _die_ zegmaar _in_ zitten 
+A|7| A: _o_ 
+A|8| A: _zo'n_ [schijf] 
+A|9| A: [die] _ijsthee_ 
+B|10| B: ah _ja_ _met een_ soort _ja_ 
+A|11| A: aight denken wel 
+A|12| A: [met een] ding [er in] _en_ _zo'n lepel_ _zo'n_ lepelachtig bovenkant [er in] [ja] 
+B|13| B: _ja ja_ [met] [zo'n _lepel] er_ bovenin [en] nog [er] onder [een] soort iets [ja] _een beetje_ plat [ja] 
+A|14| A: [ja] [ik] denken 
+A|15| A: [zo'n] 
+A|16| A: [ja] a [ja] _kijken_ [ok] 
+A|17| A: [ja] [ik] weten wat _het_ zijn 
+B|18| B: [ok] 
+A|19| A: [ok] nou _dan moeten_ [ik] _op_ [die] geel _knop drukken_ 
+B|20| B: nee [dan moeten] _je_ dus eerst _zeggen_ welk welk _nummer_ erbij staan 
+A|21| A: _o_ [ja] [nummer] dertien 
+B|22| B: [en] [dan] kunnen _je_ [op] _de_ [knop drukken] 
+A|23| A: [dan] [de] geel [knop] 
+A|24| A: _o_ dit zijn dat ijstheegla wat [ik] [de] vorig _keer_ _hebben_ [zeggen] weten [je] wel _met die_ [lepel [er] in] 
+B|25| B: [met] [het] citroen [er in] [lepel] O 
+A|26| A: jaja [ja ja] 
+B|27| B: [o] [ok] nu krijgen [we] ze nog [een] [keer] opnieuw _ik hebben_ [ijsthee] 
+A|28| A: [ja] [ijsthee] [ja] [ok] _even kijken_ acht 
+B|29| B: dus [met die] [ja] 
+A|30| A: [ja] 
+A|31| A: [ijsthee] 
+B|32| B: [ja] 
+A|33| A: glas 
+B|34| B: _even kijken ja_ C 
+B|35| B: [ijsthee] 
+A|36| A: [ok] [even kijken ja] zeven 
+A|37| A: [ijsthee] 
+B|38| B: C 
+A|39| A: [o] klaar [o] eindelijk [ik hebben] [een beetje] last van 
+B|40| B: yes [o] mijn been 
+B|41| B: _hallo_ 
+A|42| A: [hallo] 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : ok
+	Free: Pattern=ok
+	Constrained: 
+Turn ID=1| A | A : we mogen praten nou toch
+	Free: Pattern=we
+	Constrained: 
+Turn ID=2| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=3| A | A : ok
+	Free: Pattern=ok
+	Constrained: 
+Turn ID=4| B | B : ik zullen deze omschrijven als een soort beker met een wafel er in
+	Free: Pattern=een, Pattern=wafel, Pattern=er in, Pattern=met een, Pattern=ik
+	Constrained: Pattern=er, Pattern=in, Pattern=met, Pattern=een
+Turn ID=5| A | A : wafel
+	Free: Pattern=wafel
+	Constrained: 
+Turn ID=6| B | B : ja soort schijf die die zegmaar in zitten
+	Free: Pattern=schijf, Pattern=ja, Pattern=in, Pattern=die
+	Constrained: 
+Turn ID=7| A | A : o
+	Free: Pattern=o
+	Constrained: 
+Turn ID=8| A | A : zo'n schijf
+	Free: Pattern=schijf, Pattern=zo'n
+	Constrained: 
+Turn ID=9| A | A : die ijsthee
+	Free: Pattern=ijsthee, Pattern=die
+	Constrained: 
+Turn ID=10| B | B : ah ja met een soort ja
+	Free: Pattern=met een, Pattern=ja
+	Constrained: Pattern=met, Pattern=een
+Turn ID=11| A | A : aight denken wel
+	Free: 
+	Constrained: 
+Turn ID=12| A | A : met een ding er in en zo'n lepel zo'n lepelachtig bovenkant er in ja
+	Free: Pattern=ja, Pattern=er in, Pattern=met een, Pattern=en, Pattern=zo'n lepel, Pattern=zo'n
+	Constrained: Pattern=lepel, Pattern=zo'n, Pattern=een, Pattern=in, Pattern=met, Pattern=er
+Turn ID=13| B | B : ja ja met zo'n lepel er bovenin en nog er onder een soort iets ja een beetje plat ja
+	Free: Pattern=zo'n lepel, Pattern=een, Pattern=met, Pattern=er, Pattern=lepel er, Pattern=en, Pattern=een beetje, Pattern=ja, Pattern=ja ja
+	Constrained: Pattern=lepel, Pattern=zo'n, Pattern=ja, Pattern=een, Pattern=er
+Turn ID=14| A | A : ja ik denken
+	Free: Pattern=ja, Pattern=ik
+	Constrained: 
+Turn ID=15| A | A : zo'n
+	Free: Pattern=zo'n
+	Constrained: 
+Turn ID=16| A | A : ja a ja kijken ok
+	Free: Pattern=ja, Pattern=ok, Pattern=kijken
+	Constrained: 
+Turn ID=17| A | A : ja ik weten wat het zijn
+	Free: Pattern=ja, Pattern=het, Pattern=ik
+	Constrained: 
+Turn ID=18| B | B : ok
+	Free: Pattern=ok
+	Constrained: 
+Turn ID=19| A | A : ok nou dan moeten ik op die geel knop drukken
+	Free: Pattern=ok, Pattern=die, Pattern=ik, Pattern=knop drukken, Pattern=op, Pattern=dan moeten
+	Constrained: Pattern=knop, Pattern=dan
+Turn ID=20| B | B : nee dan moeten je dus eerst zeggen welk welk nummer erbij staan
+	Free: Pattern=dan moeten, Pattern=je, Pattern=nummer, Pattern=zeggen
+	Constrained: Pattern=dan
+Turn ID=21| A | A : o ja nummer dertien
+	Free: Pattern=ja, Pattern=o, Pattern=nummer
+	Constrained: 
+Turn ID=22| B | B : en dan kunnen je op de knop drukken
+	Free: Pattern=de, Pattern=op, Pattern=dan, Pattern=en, Pattern=knop drukken, Pattern=je
+	Constrained: Pattern=knop
+Turn ID=23| A | A : dan de geel knop
+	Free: Pattern=knop, Pattern=dan, Pattern=de
+	Constrained: 
+Turn ID=24| A | A : o dit zijn dat ijstheegla wat ik de vorig keer hebben zeggen weten je wel met die lepel er in
+	Free: Pattern=met die, Pattern=de, Pattern=hebben, Pattern=er in, Pattern=je, Pattern=o, Pattern=keer, Pattern=zeggen, Pattern=lepel er, Pattern=ik
+	Constrained: Pattern=lepel, Pattern=in, Pattern=met, Pattern=die, Pattern=er
+Turn ID=25| B | B : met het citroen er in lepel O
+	Free: Pattern=er in, Pattern=lepel, Pattern=het, Pattern=met
+	Constrained: Pattern=er, Pattern=in
+Turn ID=26| A | A : jaja ja ja
+	Free: Pattern=ja ja
+	Constrained: Pattern=ja
+Turn ID=27| B | B : o ok nu krijgen we ze nog een keer opnieuw ik hebben ijsthee
+	Free: Pattern=ik hebben, Pattern=een, Pattern=ok, Pattern=keer, Pattern=ijsthee, Pattern=we, Pattern=o
+	Constrained: Pattern=hebben, Pattern=ik
+Turn ID=28| A | A : ja ijsthee ja ok even kijken acht
+	Free: Pattern=even kijken, Pattern=ijsthee, Pattern=ja, Pattern=ok
+	Constrained: Pattern=kijken
+Turn ID=29| B | B : dus met die ja
+	Free: Pattern=met die, Pattern=ja
+	Constrained: Pattern=met, Pattern=die
+Turn ID=30| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=31| A | A : ijsthee
+	Free: Pattern=ijsthee
+	Constrained: 
+Turn ID=32| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=33| A | A : glas
+	Free: 
+	Constrained: 
+Turn ID=34| B | B : even kijken ja C
+	Free: Pattern=even kijken ja
+	Constrained: Pattern=even kijken, Pattern=ja, Pattern=kijken
+Turn ID=35| B | B : ijsthee
+	Free: Pattern=ijsthee
+	Constrained: 
+Turn ID=36| A | A : ok even kijken ja zeven
+	Free: Pattern=even kijken ja, Pattern=ok
+	Constrained: Pattern=even kijken, Pattern=ja, Pattern=kijken
+Turn ID=37| A | A : ijsthee
+	Free: Pattern=ijsthee
+	Constrained: 
+Turn ID=38| B | B : C
+	Free: 
+	Constrained: 
+Turn ID=39| A | A : o klaar o eindelijk ik hebben een beetje last van
+	Free: Pattern=ik hebben, Pattern=een beetje, Pattern=o
+	Constrained: Pattern=hebben, Pattern=ik, Pattern=een
+Turn ID=40| B | B : yes o mijn been
+	Free: Pattern=o
+	Constrained: 
+Turn ID=41| B | B : hallo
+	Free: Pattern=hallo
+	Constrained: 
+Turn ID=42| A | A : hallo
+	Free: Pattern=hallo
+	Constrained: 

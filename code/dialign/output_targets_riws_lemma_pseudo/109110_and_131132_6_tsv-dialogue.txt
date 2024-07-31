@@ -1,0 +1,139 @@
+A|0| A: inhaal 
+A|1| A: ok nou _ja_ alles _zijn_ een mok _maar_ er _zitten_ ook een bol op _en_ er _zitten_ door _die_ bol _zitten_ iets wat op een spijker lijken 
+A|2| A: er er boven _het_ lijken 
+A|3| A: _ja dat_ denken _ik_ ook daar denken _ik_ ook _aan_ _ja_ _het_ lijken of iemand een _neuspiercing_ _en_ _zo'n_ staart er achterop 
+A|4| A: _ja dat zijn_ nou _dan_ _zijn_ we al snel er uit 
+B|5| B: oké nu [zijn] [het] andersom 
+B|6| B: [ja] 
+B|7| B: [ja] 
+B|8| B: [ja] [ja] 
+B|9| B: [en] [dan] [zitten] [aan] [het] eind [zo'n] rond zeggen [maar] [zo'n] schotel 
+B|10| B: oké [dat zijn] voor _mij_ F 
+A|11| A: taak _één_ 
+A|12| A: o we _hebben_ wel mooi naam bedenken 
+A|13| A: vijf 
+B|14| B: oké nu [hebben] [ik] _die met_ [dat] [ja] soort van neusje [aan] de zijkant waar [dat] staafje doorheen [zitten] _met_ [zo'n] schild 
+B|15| B: [en] [dan] [hebben] [die] [één] [zo'n] roerstaafje erin 
+B|16| B: dus [dat zijn] [dat] [ja] 
+B|17| B: [ja] [die] 
+B|18| B: _met_ [dat] [die] staaf erdoorheen 
+B|19| B: [en] [dan] [zo'n] [ja] 
+B|20| B: ho 
+A|21| A: [ja] 
+A|22| A: _even_ nadenken [het] beginnen allemaal 
+A|23| A: nou [zijn] [die met] [met] piercing 
+B|24| B: [ja] 
+B|25| B: [met] [één] [zo'n] [ja dat zijn] A 
+A|26| A: [ja] vijf 
+B|27| B: oké nu [hebben] [ik] [met] [die] [neuspiercing] 
+A|28| A: piercing indiaan 
+A|29| A: onderin _bij mij_ in ieder geval in [het] midden 
+B|30| B: [ja] 
+B|31| B: [even] kijken [dat zijn] [bij mij] H 
+A|32| A: o [ik] zien hem al vijftien 
+B|33| B: nu [hebben] [ik] [met] [die] [neuspiercing] 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : inhaal
+	Free: 
+	Constrained: 
+Turn ID=1| A | A : ok nou ja alles zijn een mok maar er zitten ook een bol op en er zitten door die bol zitten iets wat op een spijker lijken
+	Free: Pattern=ja, Pattern=en, Pattern=die, Pattern=zitten, Pattern=zijn, Pattern=maar
+	Constrained: 
+Turn ID=2| A | A : er er boven het lijken
+	Free: Pattern=het
+	Constrained: 
+Turn ID=3| A | A : ja dat denken ik ook daar denken ik ook aan ja het lijken of iemand een neuspiercing en zo'n staart er achterop
+	Free: Pattern=zo'n, Pattern=het, Pattern=ik, Pattern=en, Pattern=neuspiercing, Pattern=ja dat, Pattern=aan, Pattern=ja
+	Constrained: Pattern=dat, Pattern=ja
+Turn ID=4| A | A : ja dat zijn nou dan zijn we al snel er uit
+	Free: Pattern=ja dat zijn, Pattern=dan, Pattern=zijn
+	Constrained: Pattern=ja, Pattern=zijn, Pattern=ja dat, Pattern=dat, Pattern=dat zijn
+Turn ID=5| B | B : oké nu zijn het andersom
+	Free: Pattern=zijn, Pattern=het
+	Constrained: 
+Turn ID=6| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=7| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=8| B | B : ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=9| B | B : en dan zitten aan het eind zo'n rond zeggen maar zo'n schotel
+	Free: Pattern=zo'n, Pattern=aan, Pattern=dan, Pattern=het, Pattern=zitten, Pattern=en, Pattern=maar
+	Constrained: 
+Turn ID=10| B | B : oké dat zijn voor mij F
+	Free: Pattern=dat zijn, Pattern=mij
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=11| A | A : taak één
+	Free: Pattern=één
+	Constrained: 
+Turn ID=12| A | A : o we hebben wel mooi naam bedenken
+	Free: Pattern=hebben
+	Constrained: 
+Turn ID=13| A | A : vijf
+	Free: 
+	Constrained: 
+Turn ID=14| B | B : oké nu hebben ik die met dat ja soort van neusje aan de zijkant waar dat staafje doorheen zitten met zo'n schild
+	Free: Pattern=dat, Pattern=zo'n, Pattern=hebben, Pattern=die met, Pattern=met, Pattern=zitten, Pattern=ik, Pattern=aan, Pattern=ja
+	Constrained: Pattern=die, Pattern=met
+Turn ID=15| B | B : en dan hebben die één zo'n roerstaafje erin
+	Free: Pattern=zo'n, Pattern=dan, Pattern=hebben, Pattern=die, Pattern=en, Pattern=één
+	Constrained: 
+Turn ID=16| B | B : dus dat zijn dat ja
+	Free: Pattern=dat zijn, Pattern=dat, Pattern=ja
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=17| B | B : ja die
+	Free: Pattern=ja, Pattern=die
+	Constrained: 
+Turn ID=18| B | B : met dat die staaf erdoorheen
+	Free: Pattern=dat, Pattern=die, Pattern=met
+	Constrained: 
+Turn ID=19| B | B : en dan zo'n ja
+	Free: Pattern=dan, Pattern=ja, Pattern=zo'n, Pattern=en
+	Constrained: 
+Turn ID=20| B | B : ho
+	Free: 
+	Constrained: 
+Turn ID=21| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=22| A | A : even nadenken het beginnen allemaal
+	Free: Pattern=het, Pattern=even
+	Constrained: 
+Turn ID=23| A | A : nou zijn die met met piercing
+	Free: Pattern=die met, Pattern=zijn, Pattern=met
+	Constrained: Pattern=die, Pattern=met
+Turn ID=24| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=25| B | B : met één zo'n ja dat zijn A
+	Free: Pattern=ja dat zijn, Pattern=één, Pattern=zo'n, Pattern=met
+	Constrained: Pattern=ja, Pattern=zijn, Pattern=ja dat, Pattern=dat, Pattern=dat zijn
+Turn ID=26| A | A : ja vijf
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=27| B | B : oké nu hebben ik met die neuspiercing
+	Free: Pattern=hebben, Pattern=met, Pattern=die, Pattern=ik, Pattern=neuspiercing
+	Constrained: 
+Turn ID=28| A | A : piercing indiaan
+	Free: 
+	Constrained: 
+Turn ID=29| A | A : onderin bij mij in ieder geval in het midden
+	Free: Pattern=bij mij, Pattern=het
+	Constrained: Pattern=mij
+Turn ID=30| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=31| B | B : even kijken dat zijn bij mij H
+	Free: Pattern=bij mij, Pattern=dat zijn, Pattern=even
+	Constrained: Pattern=dat, Pattern=zijn, Pattern=mij
+Turn ID=32| A | A : o ik zien hem al vijftien
+	Free: Pattern=ik
+	Constrained: 
+Turn ID=33| B | B : nu hebben ik met die neuspiercing
+	Free: Pattern=hebben, Pattern=met, Pattern=die, Pattern=ik, Pattern=neuspiercing
+	Constrained: 

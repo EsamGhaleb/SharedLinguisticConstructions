@@ -1,0 +1,99 @@
+B|0| B: deze hebben _twee van die_ kasteelt _aan de_ linkerkant erin _en een_ _vierkant_ _aan de_ voorkant 
+B|1| B: _en_ nog _een_ soort _van_ _paddenstoel aan de bovenkant_ 
+A|2| A: _ja _ja _ja_ ja_ ja_ 
+A|3| A: [twee] _zijn_ _dat_ 
+B|4| B: oké 
+B|5| B: wachten even even kijken 
+B|6| B: [twee] ding [ja] _die_ _paddenstoel_ [ja ja ja] 
+B|7| B: oké _die_ torent _aan de zijkant_ 
+B|8| B: oké _dat zijn_ G 
+B|9| B: oké _dit zijn_ diegene _met_ _die twee_ torent _aan de zijkant _en_ die_ _paddenstoel_ _erop_ 
+A|10| A: [dit zijn] [met] zo'n [vierkant] er zeggen maar er voor op geplakt [en] dan weer [twee van die] kubus [die] groot worden [en] zo'n [paddenstoel aan de bovenkant] eruit 
+B|11| B: oké 
+B|12| B: [ja] 
+B|13| B: [ja] [met] nog _één_ ding ervoor toch 
+B|14| B: [ja] oké [ja] _dat zijn_ D 
+A|15| A: negen [zijn] [dat] 
+B|16| B: _ik_ hebben diegene [met] [die] [paddenstoel] _en die twee_ torent erin [en] _één_ plat ding [aan de] voorkant 
+A|17| A: [dit zijn] [met] [dat] [vierkant] [erop] plakken 
+A|18| A: [en] [twee] groot wordende [de] kubus [aan de zijkant [en] een] [paddenstoel] eruit 
+B|19| B: [ja] even zoeken 
+B|20| B: [ja] _dat zijn_ B 
+A|21| A: [ja] [ik] zien hem 
+A|22| A: [dat zijn] [één] 
+A|23| A: [dit zijn] [met] [dat] [vierkant] vlak [erop] plakken [en die twee] kubus [die] er steeds groot worden 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : deze hebben twee van die kasteelt aan de linkerkant erin en een vierkant aan de voorkant
+	Free: Pattern=twee van die, Pattern=en een, Pattern=aan de, Pattern=vierkant
+	Constrained: Pattern=twee, Pattern=de, Pattern=een, Pattern=die, Pattern=van, Pattern=en
+Turn ID=1| B | B : en nog een soort van paddenstoel aan de bovenkant
+	Free: Pattern=paddenstoel aan de bovenkant, Pattern=en, Pattern=een, Pattern=van
+	Constrained: Pattern=de, Pattern=paddenstoel, Pattern=aan de
+Turn ID=2| A | A : ja ja ja ja ja
+	Free: Pattern=ja ja ja
+	Constrained: Pattern=ja
+Turn ID=3| A | A : twee zijn dat
+	Free: Pattern=twee, Pattern=zijn, Pattern=dat
+	Constrained: 
+Turn ID=4| B | B : oké
+	Free: 
+	Constrained: 
+Turn ID=5| B | B : wachten even even kijken
+	Free: 
+	Constrained: 
+Turn ID=6| B | B : twee ding ja die paddenstoel ja ja ja
+	Free: Pattern=twee, Pattern=ja, Pattern=paddenstoel, Pattern=die, Pattern=ja ja ja
+	Constrained: Pattern=ja
+Turn ID=7| B | B : oké die torent aan de zijkant
+	Free: Pattern=aan de zijkant, Pattern=die
+	Constrained: Pattern=aan de, Pattern=de
+Turn ID=8| B | B : oké dat zijn G
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=9| B | B : oké dit zijn diegene met die twee torent aan de zijkant en die paddenstoel erop
+	Free: Pattern=en die, Pattern=erop, Pattern=aan de zijkant en, Pattern=paddenstoel, Pattern=die twee, Pattern=met, Pattern=dit zijn
+	Constrained: Pattern=twee, Pattern=de, Pattern=aan de, Pattern=aan de zijkant, Pattern=die, Pattern=en, Pattern=zijn
+Turn ID=10| A | A : dit zijn met zo'n vierkant er zeggen maar er voor op geplakt en dan weer twee van die kubus die groot worden en zo'n paddenstoel aan de bovenkant eruit
+	Free: Pattern=twee van die, Pattern=met, Pattern=die, Pattern=paddenstoel aan de bovenkant, Pattern=en, Pattern=vierkant, Pattern=dit zijn
+	Constrained: Pattern=twee, Pattern=de, Pattern=aan de, Pattern=paddenstoel, Pattern=die, Pattern=van, Pattern=zijn
+Turn ID=11| B | B : oké
+	Free: 
+	Constrained: 
+Turn ID=12| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=13| B | B : ja met nog één ding ervoor toch
+	Free: Pattern=ja, Pattern=met, Pattern=één
+	Constrained: 
+Turn ID=14| B | B : ja oké ja dat zijn D
+	Free: Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=15| A | A : negen zijn dat
+	Free: Pattern=zijn, Pattern=dat
+	Constrained: 
+Turn ID=16| B | B : ik hebben diegene met die paddenstoel en die twee torent erin en één plat ding aan de voorkant
+	Free: Pattern=aan de, Pattern=paddenstoel, Pattern=en die twee, Pattern=met, Pattern=die, Pattern=ik, Pattern=en, Pattern=één
+	Constrained: Pattern=en die, Pattern=twee, Pattern=de, Pattern=die twee, Pattern=die, Pattern=en
+Turn ID=17| A | A : dit zijn met dat vierkant erop plakken
+	Free: Pattern=dat, Pattern=erop, Pattern=met, Pattern=vierkant, Pattern=dit zijn
+	Constrained: Pattern=zijn
+Turn ID=18| A | A : en twee groot wordende de kubus aan de zijkant en een paddenstoel eruit
+	Free: Pattern=twee, Pattern=de, Pattern=aan de zijkant en, Pattern=paddenstoel, Pattern=en, Pattern=en een
+	Constrained: Pattern=de, Pattern=aan de, Pattern=en, Pattern=een, Pattern=aan de zijkant
+Turn ID=19| B | B : ja even zoeken
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=20| B | B : ja dat zijn B
+	Free: Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=21| A | A : ja ik zien hem
+	Free: Pattern=ja, Pattern=ik
+	Constrained: 
+Turn ID=22| A | A : dat zijn één
+	Free: Pattern=dat zijn, Pattern=één
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=23| A | A : dit zijn met dat vierkant vlak erop plakken en die twee kubus die er steeds groot worden
+	Free: Pattern=dat, Pattern=erop, Pattern=en die twee, Pattern=met, Pattern=die, Pattern=vierkant, Pattern=dit zijn
+	Constrained: Pattern=en die, Pattern=twee, Pattern=die twee, Pattern=die, Pattern=en, Pattern=zijn

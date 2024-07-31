@@ -1,0 +1,91 @@
+B|0| B: _oké_ het kop zitten in _een_ _soort_ van blauw vlak 
+A|1| A: _ja_ zo'n zo'n [soort] _tutu_ en dan _hebben die_ zo'n omgedraaide L _als_ linkerkant 
+B|2| B: [ja] 
+A|3| A: [oké] _dat zijn_ bij mij nummer zes 
+B|4| B: kloppen [hebben] _ik_ ook 
+A|5| A: _die een met_ _dat_ vierkant op ongeveer buikhoogte 
+B|6| B: [als] [een] [soort] van ballerina 
+A|7| A: [ja] [ja] _tutu_ noemen [ik] hem _met die_ L 
+B|8| B: C 
+B|9| B: [ik] [hebben [die] een [met] _die] tutu_ 
+A|10| A: [ja] 
+A|11| A: en _dat zijn_ dertien 
+A|12| A: [die] [met die] [die tutu] en _dat_ _dat_ L'etje 
+B|13| B: [ja] 
+B|14| B: J 
+B|15| B: [ik] [hebben] de ballerina 
+B|16| B: de [tutu] 
+A|17| A: [ja] _dat zijn_ nummer negen 
+A|18| A: [die] [met die] [met] _dat_ rok 
+B|19| B: [ja] de [tutu] 
+A|20| A: [ja] 
+B|21| B: [dat zijn] N 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : oké het kop zitten in een soort van blauw vlak
+	Free: Pattern=een, Pattern=soort, Pattern=oké
+	Constrained: 
+Turn ID=1| A | A : ja zo'n zo'n soort tutu en dan hebben die zo'n omgedraaide L als linkerkant
+	Free: Pattern=soort, Pattern=ja, Pattern=tutu, Pattern=als, Pattern=hebben die
+	Constrained: Pattern=die, Pattern=hebben
+Turn ID=2| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=3| A | A : oké dat zijn bij mij nummer zes
+	Free: Pattern=dat zijn, Pattern=oké
+	Constrained: Pattern=dat
+Turn ID=4| B | B : kloppen hebben ik ook
+	Free: Pattern=ik, Pattern=hebben
+	Constrained: 
+Turn ID=5| A | A : die een met dat vierkant op ongeveer buikhoogte
+	Free: Pattern=die een met, Pattern=dat
+	Constrained: Pattern=een, Pattern=met, Pattern=die
+Turn ID=6| B | B : als een soort van ballerina
+	Free: Pattern=een, Pattern=als, Pattern=soort
+	Constrained: 
+Turn ID=7| A | A : ja ja tutu noemen ik hem met die L
+	Free: Pattern=met die, Pattern=ja, Pattern=ik, Pattern=tutu
+	Constrained: Pattern=met, Pattern=die
+Turn ID=8| B | B : C
+	Free: 
+	Constrained: 
+Turn ID=9| B | B : ik hebben die een met die tutu
+	Free: Pattern=met die, Pattern=die een met, Pattern=die tutu, Pattern=ik, Pattern=hebben die
+	Constrained: Pattern=tutu, Pattern=een, Pattern=hebben, Pattern=met, Pattern=die
+Turn ID=10| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=11| A | A : en dat zijn dertien
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat
+Turn ID=12| A | A : die met die die tutu en dat dat L'etje
+	Free: Pattern=met die, Pattern=die tutu, Pattern=dat, Pattern=die
+	Constrained: Pattern=met, Pattern=die, Pattern=tutu
+Turn ID=13| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=14| B | B : J
+	Free: 
+	Constrained: 
+Turn ID=15| B | B : ik hebben de ballerina
+	Free: Pattern=ik, Pattern=hebben
+	Constrained: 
+Turn ID=16| B | B : de tutu
+	Free: Pattern=tutu
+	Constrained: 
+Turn ID=17| A | A : ja dat zijn nummer negen
+	Free: Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=dat
+Turn ID=18| A | A : die met die met dat rok
+	Free: Pattern=met die, Pattern=dat, Pattern=met, Pattern=die
+	Constrained: Pattern=met, Pattern=die
+Turn ID=19| B | B : ja de tutu
+	Free: Pattern=ja, Pattern=tutu
+	Constrained: 
+Turn ID=20| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=21| B | B : dat zijn N
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat

@@ -1,0 +1,71 @@
+B|0| B: ja _deze hebben_ een plaat _die_ op _de_ grond zitten 
+A|1| A: ik weten al welk _dat zijn_ 
+B|2| B: ja 
+A|3| A: _dat zijn_ vijf 
+A|4| A: [deze hebben] het _plank_ aan [de] onderkant 
+A|5| A: en [die] dinge aan [de] 
+B|6| B: [dat zijn] J 
+B|7| B: _die met_ [dat] _plank onderaan_ 
+A|8| A: en [die] 
+B|9| B: ja 
+A|10| A: _dat zijn bij mij_ elf 
+A|11| A: [die met] [die] [plank] aan [de] onderkant 
+B|12| B: [dat zijn bij mij] P 
+B|13| B: [die met] [dat] _plank onderaan_ 
+A|14| A: [die met] het [plank onderaan] [dat zijn] negen 
+A|15| A: [die met] [die] [plank] aan [de] onderkant 
+B|16| B: L 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : ja deze hebben een plaat die op de grond zitten
+	Free: Pattern=deze hebben, Pattern=die, Pattern=de
+	Constrained: 
+Turn ID=1| A | A : ik weten al welk dat zijn
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat
+Turn ID=2| B | B : ja
+	Free: 
+	Constrained: 
+Turn ID=3| A | A : dat zijn vijf
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat
+Turn ID=4| A | A : deze hebben het plank aan de onderkant
+	Free: Pattern=deze hebben, Pattern=plank, Pattern=de
+	Constrained: 
+Turn ID=5| A | A : en die dinge aan de
+	Free: Pattern=die, Pattern=de
+	Constrained: 
+Turn ID=6| B | B : dat zijn J
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat
+Turn ID=7| B | B : die met dat plank onderaan
+	Free: Pattern=plank onderaan, Pattern=die met, Pattern=dat
+	Constrained: Pattern=plank, Pattern=die
+Turn ID=8| A | A : en die
+	Free: Pattern=die
+	Constrained: 
+Turn ID=9| B | B : ja
+	Free: 
+	Constrained: 
+Turn ID=10| A | A : dat zijn bij mij elf
+	Free: Pattern=dat zijn bij mij
+	Constrained: Pattern=dat, Pattern=dat zijn
+Turn ID=11| A | A : die met die plank aan de onderkant
+	Free: Pattern=die met, Pattern=plank, Pattern=die, Pattern=de
+	Constrained: Pattern=die
+Turn ID=12| B | B : dat zijn bij mij P
+	Free: Pattern=dat zijn bij mij
+	Constrained: Pattern=dat, Pattern=dat zijn
+Turn ID=13| B | B : die met dat plank onderaan
+	Free: Pattern=plank onderaan, Pattern=die met, Pattern=dat
+	Constrained: Pattern=plank, Pattern=die
+Turn ID=14| A | A : die met het plank onderaan dat zijn negen
+	Free: Pattern=dat zijn, Pattern=plank onderaan, Pattern=die met
+	Constrained: Pattern=dat, Pattern=plank, Pattern=die
+Turn ID=15| A | A : die met die plank aan de onderkant
+	Free: Pattern=die met, Pattern=plank, Pattern=die, Pattern=de
+	Constrained: Pattern=die
+Turn ID=16| B | B : L
+	Free: 
+	Constrained: 

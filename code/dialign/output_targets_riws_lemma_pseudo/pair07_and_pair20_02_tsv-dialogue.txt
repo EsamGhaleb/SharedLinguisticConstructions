@@ -1,0 +1,71 @@
+A|0| A: hier zitten _bovenop_ een driehoek zo'n soort _ja_ driehoekig _kegel_ _en_ aan _de_ linkerkant nog een klein uitsteekselt 
+A|1| A: _en_ _dan_ linksonder rond 
+A|2| A: _ja_ zes 
+B|3| B: [ja] 
+B|4| B: [ja] [en] _zijn_ die hol 
+B|5| B: okee [dan] _zijn_ het 
+B|6| B: [ja] [dan] _zijn_ het h 
+A|7| A: _dit zijn de_ driehoek erbovenop 
+B|8| B: deze hebben [de] hol [kegel] [bovenop] 
+A|9| A: [ja] zeven 
+B|10| B: [ja] dat [zijn] m 
+A|11| A: _dit zijn de_ vierkant of driehoekkegel [bovenop] 
+A|12| A: [ja] 
+A|13| A: elf 
+B|14| B: deze hebben [de] hol [kegel] 
+B|15| B: [ja] dat [zijn] o 
+B|16| B: [dit zijn de] hol [kegel] 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : hier zitten bovenop een driehoek zo'n soort ja driehoekig kegel en aan de linkerkant nog een klein uitsteekselt
+	Free: Pattern=kegel, Pattern=bovenop, Pattern=en, Pattern=de, Pattern=ja
+	Constrained: 
+Turn ID=1| A | A : en dan linksonder rond
+	Free: Pattern=en, Pattern=dan
+	Constrained: 
+Turn ID=2| A | A : ja zes
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=3| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=4| B | B : ja en zijn die hol
+	Free: Pattern=en, Pattern=zijn, Pattern=ja
+	Constrained: 
+Turn ID=5| B | B : okee dan zijn het
+	Free: Pattern=dan, Pattern=zijn
+	Constrained: 
+Turn ID=6| B | B : ja dan zijn het h
+	Free: Pattern=dan, Pattern=zijn, Pattern=ja
+	Constrained: 
+Turn ID=7| A | A : dit zijn de driehoek erbovenop
+	Free: Pattern=dit zijn de
+	Constrained: Pattern=zijn, Pattern=de
+Turn ID=8| B | B : deze hebben de hol kegel bovenop
+	Free: Pattern=bovenop, Pattern=kegel, Pattern=de
+	Constrained: 
+Turn ID=9| A | A : ja zeven
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=10| B | B : ja dat zijn m
+	Free: Pattern=zijn, Pattern=ja
+	Constrained: 
+Turn ID=11| A | A : dit zijn de vierkant of driehoekkegel bovenop
+	Free: Pattern=dit zijn de, Pattern=bovenop
+	Constrained: Pattern=zijn, Pattern=de
+Turn ID=12| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=13| A | A : elf
+	Free: 
+	Constrained: 
+Turn ID=14| B | B : deze hebben de hol kegel
+	Free: Pattern=kegel, Pattern=de
+	Constrained: 
+Turn ID=15| B | B : ja dat zijn o
+	Free: Pattern=zijn, Pattern=ja
+	Constrained: 
+Turn ID=16| B | B : dit zijn de hol kegel
+	Free: Pattern=dit zijn de, Pattern=kegel
+	Constrained: Pattern=zijn, Pattern=de

@@ -1,0 +1,107 @@
+A|0| A: _oké _dit zijn_ de propeller_ 
+B|1| B: _een_ [propeller] _ja_ 
+B|2| B: _ja_ _nog_ even nogmaals _dus_ 
+A|3| A: [ja] [dus] hij hebben zeggen maar _één_ soort van propellerding naar _boven één_ naar _de_ linkerkant _en_ [een] soort van verrekijkerding naar _de_ rechterkant 
+B|4| B: _ja dat zijn_ E 
+A|5| A: yes 
+B|6| B: [oké dit zijn] weer die [propeller] [dus] [één] [boven één] link [en] die _verrekijker_ rechts 
+A|7| A: yes 
+A|8| A: [ja dat zijn] elf 
+A|9| A: _dit zijn de propeller_ 
+B|10| B: [de propeller] 
+B|11| B: even [de propeller] who [ja] 
+A|12| A: [ja] [en] _de verrekijker_ zeggen maar 
+B|13| B: [ja dat zijn] J 
+B|14| B: [dit zijn de propeller] _met de verrekijker_ rechts 
+A|15| A: yes [dat zijn] negen 
+A|16| A: [dit zijn de propeller] 
+A|17| A: [met de verrekijker] 
+B|18| B: [ja] [met de] rug nee nee [de propeller] [zijn] [met de verrekijker] 
+A|19| A: [ja] [dus] zeggen maar van dan [één] ding [boven één] ding aan [de] zijkant [en] [nog] [een] verrekijkerding 
+B|20| B: [ja] [ja] [ja] 
+B|21| B: [dat [zijn] de] B 
+B|22| B: [dit zijn de propeller] 
+A|23| A: [ja] 
+A|24| A: [dat zijn] vier 
+B|25| B: [met de verrekijker] 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : oké dit zijn de propeller
+	Free: Pattern=dit zijn de propeller, Pattern=oké dit zijn
+	Constrained: Pattern=de, Pattern=de propeller, Pattern=propeller, Pattern=zijn, Pattern=zijn de
+Turn ID=1| B | B : een propeller ja
+	Free: Pattern=propeller, Pattern=ja, Pattern=een
+	Constrained: 
+Turn ID=2| B | B : ja nog even nogmaals dus
+	Free: Pattern=ja, Pattern=nog, Pattern=dus
+	Constrained: 
+Turn ID=3| A | A : ja dus hij hebben zeggen maar één soort van propellerding naar boven één naar de linkerkant en een soort van verrekijkerding naar de rechterkant
+	Free: Pattern=een, Pattern=en, Pattern=boven één, Pattern=één, Pattern=de, Pattern=dus, Pattern=ja
+	Constrained: Pattern=één
+Turn ID=4| B | B : ja dat zijn E
+	Free: Pattern=ja dat zijn
+	Constrained: Pattern=dat zijn, Pattern=zijn, Pattern=ja
+Turn ID=5| A | A : yes
+	Free: 
+	Constrained: 
+Turn ID=6| B | B : oké dit zijn weer die propeller dus één boven één link en die verrekijker rechts
+	Free: Pattern=dus, Pattern=oké dit zijn, Pattern=propeller, Pattern=boven één, Pattern=één, Pattern=verrekijker, Pattern=en
+	Constrained: Pattern=één, Pattern=zijn
+Turn ID=7| A | A : yes
+	Free: 
+	Constrained: 
+Turn ID=8| A | A : ja dat zijn elf
+	Free: Pattern=ja dat zijn
+	Constrained: Pattern=dat zijn, Pattern=zijn, Pattern=ja
+Turn ID=9| A | A : dit zijn de propeller
+	Free: Pattern=dit zijn de propeller
+	Constrained: Pattern=de, Pattern=de propeller, Pattern=propeller, Pattern=zijn, Pattern=zijn de
+Turn ID=10| B | B : de propeller
+	Free: Pattern=de propeller
+	Constrained: Pattern=de, Pattern=propeller
+Turn ID=11| B | B : even de propeller who ja
+	Free: Pattern=de propeller, Pattern=ja
+	Constrained: Pattern=de, Pattern=propeller
+Turn ID=12| A | A : ja en de verrekijker zeggen maar
+	Free: Pattern=de verrekijker, Pattern=ja, Pattern=en
+	Constrained: Pattern=de, Pattern=verrekijker
+Turn ID=13| B | B : ja dat zijn J
+	Free: Pattern=ja dat zijn
+	Constrained: Pattern=dat zijn, Pattern=zijn, Pattern=ja
+Turn ID=14| B | B : dit zijn de propeller met de verrekijker rechts
+	Free: Pattern=dit zijn de propeller, Pattern=met de verrekijker
+	Constrained: Pattern=de propeller, Pattern=verrekijker, Pattern=zijn, Pattern=zijn de, Pattern=de, Pattern=met de, Pattern=propeller, Pattern=de verrekijker
+Turn ID=15| A | A : yes dat zijn negen
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn
+Turn ID=16| A | A : dit zijn de propeller
+	Free: Pattern=dit zijn de propeller
+	Constrained: Pattern=de, Pattern=de propeller, Pattern=propeller, Pattern=zijn, Pattern=zijn de
+Turn ID=17| A | A : met de verrekijker
+	Free: Pattern=met de verrekijker
+	Constrained: Pattern=met de, Pattern=de verrekijker, Pattern=de, Pattern=verrekijker
+Turn ID=18| B | B : ja met de rug nee nee de propeller zijn met de verrekijker
+	Free: Pattern=met de verrekijker, Pattern=de propeller, Pattern=zijn, Pattern=met de, Pattern=ja
+	Constrained: Pattern=verrekijker, Pattern=de, Pattern=met de, Pattern=propeller, Pattern=de verrekijker
+Turn ID=19| A | A : ja dus zeggen maar van dan één ding boven één ding aan de zijkant en nog een verrekijkerding
+	Free: Pattern=nog, Pattern=een, Pattern=en, Pattern=boven één, Pattern=één, Pattern=de, Pattern=dus, Pattern=ja
+	Constrained: Pattern=één
+Turn ID=20| B | B : ja ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=21| B | B : dat zijn de B
+	Free: Pattern=dat zijn, Pattern=zijn de
+	Constrained: Pattern=zijn, Pattern=de
+Turn ID=22| B | B : dit zijn de propeller
+	Free: Pattern=dit zijn de propeller
+	Constrained: Pattern=de, Pattern=de propeller, Pattern=propeller, Pattern=zijn, Pattern=zijn de
+Turn ID=23| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=24| A | A : dat zijn vier
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn
+Turn ID=25| B | B : met de verrekijker
+	Free: Pattern=met de verrekijker
+	Constrained: Pattern=met de, Pattern=de verrekijker, Pattern=de, Pattern=verrekijker

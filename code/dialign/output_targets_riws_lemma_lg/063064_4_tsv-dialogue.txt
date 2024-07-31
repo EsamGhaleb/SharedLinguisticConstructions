@@ -1,0 +1,83 @@
+A|0| A: _aan de_ rechterkant hebben _het_ _twee_ balk die eruit opsteken maar als je je hoofd kantellen naar links vinden ik _dat_ _het_ een _varken_ _zijn_ _en_ dan zien je hem waarschijnlijk meteen maar 
+B|1| B: _ja_ 
+B|2| B: _ja_ 
+A|3| A: [ja] 
+B|4| B: met [aan de] linkerkant ook nog [twee] uitsteekselt _en aan de_ bovenkant zo'n 
+A|5| A: [ja] [ja] [ja] 
+A|6| A: [en aan de] [ja] 
+B|7| B: [ja] [dat] [zijn] I 
+B|8| B: _dit zijn_ [de] hoe noemen jij [het] ? [varken] 
+A|9| A: [ja] 
+A|10| A: dan [zijn] [dat] [twee] 
+A|11| A: [dit zijn] [dat] [dat] [varken] 
+B|12| B: [ja] [dat] [zijn] N 
+B|13| B: [dit zijn] weer _het varken_ 
+A|14| A: waar staan die 
+A|15| A: negen 
+A|16| A: [dit zijn] [het varken] 
+B|17| B: [dat] [zijn] F 
+B|18| B: [dit zijn] weer [het varken] 
+A|19| A: zes 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : aan de rechterkant hebben het twee balk die eruit opsteken maar als je je hoofd kantellen naar links vinden ik dat het een varken zijn en dan zien je hem waarschijnlijk meteen maar
+	Free: Pattern=dat, Pattern=twee, Pattern=aan de, Pattern=het, Pattern=en, Pattern=zijn, Pattern=varken
+	Constrained: Pattern=de
+Turn ID=1| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=2| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=3| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=4| B | B : met aan de linkerkant ook nog twee uitsteekselt en aan de bovenkant zo'n
+	Free: Pattern=en aan de, Pattern=aan de, Pattern=twee
+	Constrained: Pattern=aan de, Pattern=en, Pattern=de
+Turn ID=5| A | A : ja ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=6| A | A : en aan de ja
+	Free: Pattern=en aan de, Pattern=ja
+	Constrained: Pattern=aan de, Pattern=en, Pattern=de
+Turn ID=7| B | B : ja dat zijn I
+	Free: Pattern=dat, Pattern=zijn, Pattern=ja
+	Constrained: 
+Turn ID=8| B | B : dit zijn de hoe noemen jij het ? varken
+	Free: Pattern=dit zijn, Pattern=varken, Pattern=de, Pattern=het
+	Constrained: Pattern=zijn
+Turn ID=9| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=10| A | A : dan zijn dat twee
+	Free: Pattern=dat, Pattern=twee, Pattern=zijn
+	Constrained: 
+Turn ID=11| A | A : dit zijn dat dat varken
+	Free: Pattern=dit zijn, Pattern=dat, Pattern=varken
+	Constrained: Pattern=zijn
+Turn ID=12| B | B : ja dat zijn N
+	Free: Pattern=dat, Pattern=zijn, Pattern=ja
+	Constrained: 
+Turn ID=13| B | B : dit zijn weer het varken
+	Free: Pattern=dit zijn, Pattern=het varken
+	Constrained: Pattern=varken, Pattern=zijn, Pattern=het
+Turn ID=14| A | A : waar staan die
+	Free: 
+	Constrained: 
+Turn ID=15| A | A : negen
+	Free: 
+	Constrained: 
+Turn ID=16| A | A : dit zijn het varken
+	Free: Pattern=dit zijn, Pattern=het varken
+	Constrained: Pattern=varken, Pattern=zijn, Pattern=het
+Turn ID=17| B | B : dat zijn F
+	Free: Pattern=dat, Pattern=zijn
+	Constrained: 
+Turn ID=18| B | B : dit zijn weer het varken
+	Free: Pattern=dit zijn, Pattern=het varken
+	Constrained: Pattern=varken, Pattern=zijn, Pattern=het
+Turn ID=19| A | A : zes
+	Free: 
+	Constrained: 

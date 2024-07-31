@@ -1,0 +1,135 @@
+A|0| A: _het_ lijken net alsof _er_ iets van _een_ _een_ heel groot 
+A|1| A: _ja het zijn_ niet echt _een_ punaise _maar_ echt _zo'n_ _een_ _een_ _naald_ of iets of _zo_ of _een_ splinter erin komen 
+B|2| B: [zo'n] soort _Eiffeltoren op_ [zijn] _kop_ 
+A|3| A: of _een_ _naald_ of _zo dat_ lopen _zo_ 
+A|4| A: _ja_ precies of _een_ [Eiffeltoren op] _de_ [kop] _dat_ _die_ erin gaan _zeggen maar_ echt _ja_ 
+B|5| B: [ja] 
+B|6| B: oké _dat zijn_ L 
+B|7| B: [ja] _dit zijn_ [ja] _weer_ [het] [kop] _met_ [dat] [een] plat _plaat_ _en_ [die] omgekeerde [Eiffeltoren] 
+A|8| A: [ja] waar _zijn die_ ook alweer eens ? waar staan je ook alweer eens 
+A|9| A: even kijken [zijn] [dat] [met] [die] [een] [plaat] _zo_ schuin [en] dan twee [Eiffeltoren] erin [en] boven nog [zo'n] [een] beetje [zo'n] paddenstoel of [zijn] [dat] [die] ander 
+A|10| A: [met] [die] [Eiffeltoren] erin boven _één_ [zo'n] ding [en] dan dezelfde ernaast 
+B|11| B: [ja het zijn] [zeggen maar] [één] [zo _dat] zijn_ eigenlijk [die] [naald] [zeggen maar] [die] [er] 
+A|12| A: [die] [zijn] [het] [dat zijn] [dat] noemen je [Eiffeltoren] [ja] kloppen ik weten [het] [weer] 
+B|13| B: [ja] 
+B|14| B: [ja] 
+A|15| A: _in die_ groot blok [ja] 
+B|16| B: [ja] [ja] 
+A|17| A: zeven 
+A|18| A: [dit _zijn] die_ [ja] _naald _in_ de arm_ lijken [het] wel [een] beetje of [die] nee geen piramide wat [zeggen] je ook [weer] eens ? [Eiffeltoren] [zeggen] je volgens mij _in die_ _in de arm_ 
+B|19| B: [ja] [ja] 
+B|20| B: [ja] [ja] [ja] 
+B|21| B: [ja] 
+B|22| B: C 
+B|23| B: [dat [zijn] die] [naald [in] die] [arm] 
+A|24| A: [ja] 
+A|25| A: [ja] 
+A|26| A: [één] 
+A|27| A: [dit zijn] _de_ [Eiffeltoren] _in de arm_ 
+B|28| B: A 
+B|29| B: _de naald_ 
+B|30| B: [in de arm] 
+A|31| A: [de [naald] [in] de arm] [ja] 
+A|32| A: dertien 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : het lijken net alsof er iets van een een heel groot
+	Free: Pattern=een, Pattern=er, Pattern=het
+	Constrained: 
+Turn ID=1| A | A : ja het zijn niet echt een punaise maar echt zo'n een een naald of iets of zo of een splinter erin komen
+	Free: Pattern=naald, Pattern=zo'n, Pattern=zo, Pattern=maar, Pattern=een, Pattern=ja het zijn
+	Constrained: Pattern=zijn, Pattern=ja, Pattern=het
+Turn ID=2| B | B : zo'n soort Eiffeltoren op zijn kop
+	Free: Pattern=Eiffeltoren op, Pattern=kop, Pattern=zijn, Pattern=zo'n
+	Constrained: Pattern=Eiffeltoren
+Turn ID=3| A | A : of een naald of zo dat lopen zo
+	Free: Pattern=zo dat, Pattern=naald, Pattern=een, Pattern=zo
+	Constrained: Pattern=zo, Pattern=dat
+Turn ID=4| A | A : ja precies of een Eiffeltoren op de kop dat die erin gaan zeggen maar echt ja
+	Free: Pattern=dat, Pattern=een, Pattern=zeggen maar, Pattern=kop, Pattern=die, Pattern=Eiffeltoren op, Pattern=de, Pattern=ja
+	Constrained: Pattern=zeggen, Pattern=Eiffeltoren, Pattern=maar
+Turn ID=5| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=6| B | B : oké dat zijn L
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=7| B | B : ja dit zijn ja weer het kop met dat een plat plaat en die omgekeerde Eiffeltoren
+	Free: Pattern=dat, Pattern=ja, Pattern=een, Pattern=het, Pattern=kop, Pattern=met, Pattern=die, Pattern=en, Pattern=weer, Pattern=plaat, Pattern=Eiffeltoren, Pattern=dit zijn
+	Constrained: Pattern=zijn
+Turn ID=8| A | A : ja waar zijn die ook alweer eens ? waar staan je ook alweer eens
+	Free: Pattern=zijn die, Pattern=ja
+	Constrained: Pattern=zijn, Pattern=die
+Turn ID=9| A | A : even kijken zijn dat met die een plaat zo schuin en dan twee Eiffeltoren erin en boven nog zo'n een beetje zo'n paddenstoel of zijn dat die ander
+	Free: Pattern=dat, Pattern=zo'n, Pattern=een, Pattern=zo, Pattern=met, Pattern=die, Pattern=en, Pattern=zijn, Pattern=Eiffeltoren, Pattern=plaat
+	Constrained: 
+Turn ID=10| A | A : met die Eiffeltoren erin boven één zo'n ding en dan dezelfde ernaast
+	Free: Pattern=zo'n, Pattern=met, Pattern=die, Pattern=en, Pattern=één, Pattern=Eiffeltoren
+	Constrained: 
+Turn ID=11| B | B : ja het zijn zeggen maar één zo dat zijn eigenlijk die naald zeggen maar die er
+	Free: Pattern=zo dat, Pattern=ja het zijn, Pattern=zeggen maar, Pattern=die, Pattern=er, Pattern=één, Pattern=dat zijn, Pattern=naald
+	Constrained: Pattern=dat, Pattern=ja, Pattern=het, Pattern=zeggen, Pattern=zo, Pattern=zijn, Pattern=maar
+Turn ID=12| A | A : die zijn het dat zijn dat noemen je Eiffeltoren ja kloppen ik weten het weer
+	Free: Pattern=ja, Pattern=het, Pattern=die, Pattern=zijn, Pattern=weer, Pattern=Eiffeltoren, Pattern=dat, Pattern=dat zijn
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=13| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=14| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=15| A | A : in die groot blok ja
+	Free: Pattern=in die, Pattern=ja
+	Constrained: Pattern=die
+Turn ID=16| B | B : ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=17| A | A : zeven
+	Free: 
+	Constrained: 
+Turn ID=18| A | A : dit zijn die ja naald in de arm lijken het wel een beetje of die nee geen piramide wat zeggen je ook weer eens ? Eiffeltoren zeggen je volgens mij in die in de arm
+	Free: Pattern=ja, Pattern=in de arm, Pattern=een, Pattern=zeggen, Pattern=die, Pattern=weer, Pattern=naald in, Pattern=het, Pattern=in die, Pattern=zijn die, Pattern=Eiffeltoren, Pattern=dit zijn
+	Constrained: Pattern=naald, Pattern=de, Pattern=die, Pattern=arm, Pattern=zijn
+Turn ID=19| B | B : ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=20| B | B : ja ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=21| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=22| B | B : C
+	Free: 
+	Constrained: 
+Turn ID=23| B | B : dat zijn die naald in die arm
+	Free: Pattern=dat zijn, Pattern=arm, Pattern=naald in, Pattern=in die, Pattern=zijn die
+	Constrained: Pattern=dat, Pattern=zijn, Pattern=die, Pattern=naald
+Turn ID=24| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=25| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=26| A | A : één
+	Free: Pattern=één
+	Constrained: 
+Turn ID=27| A | A : dit zijn de Eiffeltoren in de arm
+	Free: Pattern=in de arm, Pattern=dit zijn, Pattern=Eiffeltoren, Pattern=de
+	Constrained: Pattern=de, Pattern=zijn, Pattern=arm
+Turn ID=28| B | B : A
+	Free: 
+	Constrained: 
+Turn ID=29| B | B : de naald
+	Free: Pattern=de naald
+	Constrained: Pattern=naald, Pattern=de
+Turn ID=30| B | B : in de arm
+	Free: Pattern=in de arm
+	Constrained: Pattern=de, Pattern=arm
+Turn ID=31| A | A : de naald in de arm ja
+	Free: Pattern=in de arm, Pattern=de naald, Pattern=naald in, Pattern=ja
+	Constrained: Pattern=de, Pattern=arm, Pattern=naald
+Turn ID=32| A | A : dertien
+	Free: 
+	Constrained: 

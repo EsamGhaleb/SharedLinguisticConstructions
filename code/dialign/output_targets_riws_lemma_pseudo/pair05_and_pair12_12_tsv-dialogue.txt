@@ -1,0 +1,107 @@
+B|0| B: wat 
+B|1| B: _een_ hondenkoek _met een_ trompet 
+B|2| B: _ja_ _dat_ _zijn_ b 
+B|3| B: _deze hebben_ voor jou _dat_ hondenkoek _met_ die antenne eraan 
+B|4| B: trompet 
+B|5| B: _ik_ vinden het _veel_ _een_ schoorsteen 
+B|6| B: trompet _kunnen_ _ook_ 
+B|7| B: d 
+A|8| A: [deze hebben] [ook] [een] dienblad dienblad eigenlijk in de hand zullen _je_ [kunnen] zeggen [een] cirkelvormig dienblad 
+A|9| A: _en_ daarnaast [een] uitstulping [met een] uitwaaien 
+A|10| A: zullen zullen _je_ [dat] zo [kunnen] zeggen 
+A|11| A: [ik] zien _daar_ [veel] zo [een] uitlopenen alsof er water uitkomen 
+A|12| A: [ja] okee misschien [zijn] [dat] [een] nagel 
+B|13| B: trompet [en] hondenbrok 
+A|14| A: [ja] 
+A|15| A: zeven 
+B|16| B: schoorsteen 
+B|17| B: [ik] [kunnen] hem niet vinden 
+B|18| B: [ja] [ik] weten welk [je] bedoelen maar 
+B|19| B: [daar] 
+B|20| B: I 
+A|21| A: [deze] spuugt water [hebben] [een] dienblad vast 
+B|22| B: Hondenbrok [en] trompet 
+A|23| A: twaalf 
+A|24| A: waterspuger [met] dienblad 
+A|25| A: [een] 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : wat
+	Free: 
+	Constrained: 
+Turn ID=1| B | B : een hondenkoek met een trompet
+	Free: Pattern=met een, Pattern=een
+	Constrained: Pattern=met, Pattern=een
+Turn ID=2| B | B : ja dat zijn b
+	Free: Pattern=ja, Pattern=dat, Pattern=zijn
+	Constrained: 
+Turn ID=3| B | B : deze hebben voor jou dat hondenkoek met die antenne eraan
+	Free: Pattern=deze hebben, Pattern=met, Pattern=dat
+	Constrained: Pattern=hebben, Pattern=deze
+Turn ID=4| B | B : trompet
+	Free: 
+	Constrained: 
+Turn ID=5| B | B : ik vinden het veel een schoorsteen
+	Free: Pattern=een, Pattern=ik, Pattern=veel
+	Constrained: 
+Turn ID=6| B | B : trompet kunnen ook
+	Free: Pattern=kunnen, Pattern=ook
+	Constrained: 
+Turn ID=7| B | B : d
+	Free: 
+	Constrained: 
+Turn ID=8| A | A : deze hebben ook een dienblad dienblad eigenlijk in de hand zullen je kunnen zeggen een cirkelvormig dienblad
+	Free: Pattern=kunnen, Pattern=ook, Pattern=een, Pattern=deze hebben, Pattern=je
+	Constrained: Pattern=hebben, Pattern=deze
+Turn ID=9| A | A : en daarnaast een uitstulping met een uitwaaien
+	Free: Pattern=met een, Pattern=een, Pattern=en
+	Constrained: Pattern=met, Pattern=een
+Turn ID=10| A | A : zullen zullen je dat zo kunnen zeggen
+	Free: Pattern=je, Pattern=dat, Pattern=kunnen
+	Constrained: 
+Turn ID=11| A | A : ik zien daar veel zo een uitlopenen alsof er water uitkomen
+	Free: Pattern=een, Pattern=ik, Pattern=daar, Pattern=veel
+	Constrained: 
+Turn ID=12| A | A : ja okee misschien zijn dat een nagel
+	Free: Pattern=ja, Pattern=een, Pattern=dat, Pattern=zijn
+	Constrained: 
+Turn ID=13| B | B : trompet en hondenbrok
+	Free: Pattern=en
+	Constrained: 
+Turn ID=14| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=15| A | A : zeven
+	Free: 
+	Constrained: 
+Turn ID=16| B | B : schoorsteen
+	Free: 
+	Constrained: 
+Turn ID=17| B | B : ik kunnen hem niet vinden
+	Free: Pattern=ik, Pattern=kunnen
+	Constrained: 
+Turn ID=18| B | B : ja ik weten welk je bedoelen maar
+	Free: Pattern=ja, Pattern=ik, Pattern=je
+	Constrained: 
+Turn ID=19| B | B : daar
+	Free: Pattern=daar
+	Constrained: 
+Turn ID=20| B | B : I
+	Free: 
+	Constrained: 
+Turn ID=21| A | A : deze spuugt water hebben een dienblad vast
+	Free: Pattern=hebben, Pattern=een, Pattern=deze
+	Constrained: 
+Turn ID=22| B | B : Hondenbrok en trompet
+	Free: Pattern=en
+	Constrained: 
+Turn ID=23| A | A : twaalf
+	Free: 
+	Constrained: 
+Turn ID=24| A | A : waterspuger met dienblad
+	Free: Pattern=met
+	Constrained: 
+Turn ID=25| A | A : een
+	Free: Pattern=een
+	Constrained: 

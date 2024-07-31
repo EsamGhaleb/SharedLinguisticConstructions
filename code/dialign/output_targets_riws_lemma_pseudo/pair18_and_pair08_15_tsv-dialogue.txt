@@ -1,0 +1,131 @@
+A|0| A: yes 
+A|1| A: _ja_ ik weten _het_ 
+A|2| A: _een_ 
+B|3| B: deze _hebben_ [een] vierkant plateau iets onder [het] midden 
+B|4| B: denken _dat_ _dat_ al redelijk duidelijk _zijn_ 
+B|5| B: [ja] 
+B|6| B: [ja] 
+B|7| B: [ja] 
+B|8| B: [ja] kloppen 
+B|9| B: [ja] 
+A|10| A: ik [hebben] soort [ja] plaat die door [het] [het] oppervlak heen gaan 
+A|11| A: aan de bovenkant die _twee_ twin towers waar je [het] net over [hebben] 
+A|12| A: die kleint 
+A|13| A: [ja] 
+A|14| A: vier 
+A|15| A: ik [hebben] de twin towers met [dat] plaat _er_ recht doorheen 
+A|16| A: soort 
+A|17| A: nee [dat] [ja] die [ja] [een] soort glijbaan [zijn] [het] 
+A|18| A: [ja] _twee_ 
+B|19| B: schoorsteen [ja] 
+B|20| B: [ja] 
+B|21| B: [ja] 
+B|22| B: [dat] [zijn] M 
+A|23| A: de twin towers met [een] glijbaan 
+B|24| B: deze [hebben] zo'n vierkant rondom iets onder [het] midden zeggen maar 
+B|25| B: [ja] 
+B|26| B: vierkant 
+B|27| B: [ja] [dat] [zijn] C 
+B|28| B: deze [hebben] [het] vierkant iets onder [het] midden 
+B|29| B: en [twee] schoorsteen [er] bovenop 
+B|30| B: [ja] 
+B|31| B: [ja] 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : yes
+	Free: 
+	Constrained: 
+Turn ID=1| A | A : ja ik weten het
+	Free: Pattern=ja, Pattern=het
+	Constrained: 
+Turn ID=2| A | A : een
+	Free: Pattern=een
+	Constrained: 
+Turn ID=3| B | B : deze hebben een vierkant plateau iets onder het midden
+	Free: Pattern=hebben, Pattern=een, Pattern=het
+	Constrained: 
+Turn ID=4| B | B : denken dat dat al redelijk duidelijk zijn
+	Free: Pattern=zijn, Pattern=dat
+	Constrained: 
+Turn ID=5| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=6| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=7| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=8| B | B : ja kloppen
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=9| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=10| A | A : ik hebben soort ja plaat die door het het oppervlak heen gaan
+	Free: Pattern=hebben, Pattern=ja, Pattern=het
+	Constrained: 
+Turn ID=11| A | A : aan de bovenkant die twee twin towers waar je het net over hebben
+	Free: Pattern=twee, Pattern=hebben, Pattern=het
+	Constrained: 
+Turn ID=12| A | A : die kleint
+	Free: 
+	Constrained: 
+Turn ID=13| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=14| A | A : vier
+	Free: 
+	Constrained: 
+Turn ID=15| A | A : ik hebben de twin towers met dat plaat er recht doorheen
+	Free: Pattern=hebben, Pattern=er, Pattern=dat
+	Constrained: 
+Turn ID=16| A | A : soort
+	Free: 
+	Constrained: 
+Turn ID=17| A | A : nee dat ja die ja een soort glijbaan zijn het
+	Free: Pattern=dat, Pattern=ja, Pattern=een, Pattern=het, Pattern=zijn
+	Constrained: 
+Turn ID=18| A | A : ja twee
+	Free: Pattern=twee, Pattern=ja
+	Constrained: 
+Turn ID=19| B | B : schoorsteen ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=20| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=21| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=22| B | B : dat zijn M
+	Free: Pattern=zijn, Pattern=dat
+	Constrained: 
+Turn ID=23| A | A : de twin towers met een glijbaan
+	Free: Pattern=een
+	Constrained: 
+Turn ID=24| B | B : deze hebben zo'n vierkant rondom iets onder het midden zeggen maar
+	Free: Pattern=hebben, Pattern=het
+	Constrained: 
+Turn ID=25| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=26| B | B : vierkant
+	Free: 
+	Constrained: 
+Turn ID=27| B | B : ja dat zijn C
+	Free: Pattern=zijn, Pattern=ja, Pattern=dat
+	Constrained: 
+Turn ID=28| B | B : deze hebben het vierkant iets onder het midden
+	Free: Pattern=hebben, Pattern=het
+	Constrained: 
+Turn ID=29| B | B : en twee schoorsteen er bovenop
+	Free: Pattern=twee, Pattern=er
+	Constrained: 
+Turn ID=30| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=31| B | B : ja
+	Free: Pattern=ja
+	Constrained: 

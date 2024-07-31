@@ -1,0 +1,115 @@
+A|0| A: _ja_ 
+A|1| A: _en_ nog _een staafje_ aan de 
+A|2| A: _ja_ 
+A|3| A: zestien 
+B|4| B: hier staan bovenop _twee_ figuur 
+B|5| B: links bovenop _soort van_ [een] kegel [en] rechts daarvan _zijn_ [een] [een] _vierkant_ of [een] rechthoekig _staaf_ 
+B|6| B: rechtsvoor _het_ kop zitten _een soort van_ ovaal bol ding 
+B|7| B: [en] links daarvan [een] driehoeksstaaf 
+B|8| B: [ja] 
+B|9| B: [ja] 
+A|10| A: met [twee] één zo'n [twee] dinget uit de bovenkant één [zijn] de rechter [zijn] [vierkant] [en] de ander [zijn] met [een soort van] sierlijk lepeltje [en] met de neus 
+A|11| A: [ja] 
+B|12| B: [ja] _dat_ [zijn] bij mij m m [ja] m 
+A|13| A: [ja] 
+A|14| A: _en een_ neus 
+A|15| A: [ja] 
+A|16| A: twaalf 
+B|17| B: deze hebben bovenop [een] kegelvorm [en [een] staafje] [en] rechtsvoor [een] 
+B|18| B: [ja] 
+B|19| B: [ja] 
+B|20| B: [ja] _dat_ [zijn] j 
+A|21| A: boven it Bovenin inzitten [twee] [staaf] [een] gewoon [en] de ander zo'n sierlijk 
+A|22| A: met die neus voorop 
+B|23| B: dit [zijn] rechtsvoor [een] bal [en een] kegel [en een] rechthoekig [staaf] bovenop 
+A|24| A: [ja] 
+A|25| A: [een] 
+B|26| B: [ja] _dat_ [zijn] e 
+A|27| A: die neus met [dat] sierlijk lepeltje [en] [het] normaal lepeltje 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=1| A | A : en nog een staafje aan de
+	Free: Pattern=een staafje, Pattern=en
+	Constrained: Pattern=een
+Turn ID=2| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=3| A | A : zestien
+	Free: 
+	Constrained: 
+Turn ID=4| B | B : hier staan bovenop twee figuur
+	Free: Pattern=twee
+	Constrained: 
+Turn ID=5| B | B : links bovenop soort van een kegel en rechts daarvan zijn een een vierkant of een rechthoekig staaf
+	Free: Pattern=staaf, Pattern=een, Pattern=en, Pattern=vierkant, Pattern=soort van, Pattern=zijn
+	Constrained: 
+Turn ID=6| B | B : rechtsvoor het kop zitten een soort van ovaal bol ding
+	Free: Pattern=een soort van, Pattern=het
+	Constrained: Pattern=soort van, Pattern=een
+Turn ID=7| B | B : en links daarvan een driehoeksstaaf
+	Free: Pattern=een, Pattern=en
+	Constrained: 
+Turn ID=8| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=9| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=10| A | A : met twee één zo'n twee dinget uit de bovenkant één zijn de rechter zijn vierkant en de ander zijn met een soort van sierlijk lepeltje en met de neus
+	Free: Pattern=twee, Pattern=een soort van, Pattern=en, Pattern=zijn, Pattern=vierkant
+	Constrained: Pattern=soort van, Pattern=een
+Turn ID=11| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=12| B | B : ja dat zijn bij mij m m ja m
+	Free: Pattern=ja, Pattern=dat, Pattern=zijn
+	Constrained: 
+Turn ID=13| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=14| A | A : en een neus
+	Free: Pattern=en een
+	Constrained: Pattern=een, Pattern=en
+Turn ID=15| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=16| A | A : twaalf
+	Free: 
+	Constrained: 
+Turn ID=17| B | B : deze hebben bovenop een kegelvorm en een staafje en rechtsvoor een
+	Free: Pattern=en een, Pattern=een staafje, Pattern=een, Pattern=en
+	Constrained: Pattern=een, Pattern=en
+Turn ID=18| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=19| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=20| B | B : ja dat zijn j
+	Free: Pattern=ja, Pattern=dat, Pattern=zijn
+	Constrained: 
+Turn ID=21| A | A : boven it Bovenin inzitten twee staaf een gewoon en de ander zo'n sierlijk
+	Free: Pattern=een, Pattern=en, Pattern=staaf, Pattern=twee
+	Constrained: 
+Turn ID=22| A | A : met die neus voorop
+	Free: 
+	Constrained: 
+Turn ID=23| B | B : dit zijn rechtsvoor een bal en een kegel en een rechthoekig staaf bovenop
+	Free: Pattern=en een, Pattern=een, Pattern=staaf, Pattern=zijn
+	Constrained: Pattern=een, Pattern=en
+Turn ID=24| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=25| A | A : een
+	Free: Pattern=een
+	Constrained: 
+Turn ID=26| B | B : ja dat zijn e
+	Free: Pattern=ja, Pattern=dat, Pattern=zijn
+	Constrained: 
+Turn ID=27| A | A : die neus met dat sierlijk lepeltje en het normaal lepeltje
+	Free: Pattern=dat, Pattern=en, Pattern=het
+	Constrained: 

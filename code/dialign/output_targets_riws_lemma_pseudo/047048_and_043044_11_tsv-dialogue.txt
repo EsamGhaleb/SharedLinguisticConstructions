@@ -1,0 +1,131 @@
+A|0| A: _oké_ _zitten_ daar nog twee ander dinge _aan_ 
+A|1| A: nog één _zo'n_ dinge erachter _en_ één _die_ zo 
+A|2| A: _oké_ 
+A|3| A: _dat zijn_ nummer veertien 
+B|4| B: [oké] hij hebben _een_ _neus_ 
+B|5| B: _een_ rond 
+B|6| B: [en] dan [dat zijn] het [en] dan [zo'n] vierkan _aan de_ bovenkant 
+B|7| B: _aan de_ linkerkant [zitten] dan [zo'n] 
+B|8| B: _ja_ _de_ vulpen _ja_ _ja_ _ja_ [dat zijn] hem 
+B|9| B: nee 
+A|10| A: _die_ _met_ [dat] ei op [zijn] _voorkant_ waar _jij zeggen_ van [een] lepeltje _erin_ [zitten] 
+A|11| A: _met_ [een] 
+A|12| A: [ja] precies 
+B|13| B: [ja] [die] [ja] 
+B|14| B: [ja] [dat zijn] D 
+A|15| A: [ja] 
+A|16| A: _met_ [dat] lepel _erin_ [en] zo [ja] 
+A|17| A: [dat zijn] negen 
+A|18| A: _dit zijn_ [dat] kop _met_ [dat] lepel _erin_ _met_ [dat] neusding _aan de voorkant_ 
+A|19| A: _met_ [die] driehoek zo [aan de] zijkant 
+A|20| A: [de] Driehoekbak 
+A|21| A: [ja] precies zonder zuignap [ja] 
+B|22| B: [dit zijn] [de] _neus_ [aan de voorkant] [met] bovenop [de] balpen of zoiets wat [jij zeggen] [ja] 
+A|23| A: [ja] [met] [dat] lepeltje _erin_ 
+A|24| A: [dat zijn] nummer vijf 
+A|25| A: [dat] kop [met] lepeltje [en] [die] [neus] 
+A|26| A: [ja] precies 
+B|27| B: erdoorheen steken toch 
+B|28| B: [ja] [ja] [ja] ik zien hem al 
+B|29| B: [ja] [ja] [ja] G 
+B|30| B: [dit zijn] [de] [neus] [met] [de] vulpen [erin] 
+B|31| B: [ja] [dat zijn] J 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : oké zitten daar nog twee ander dinge aan
+	Free: Pattern=oké, Pattern=aan, Pattern=zitten
+	Constrained: 
+Turn ID=1| A | A : nog één zo'n dinge erachter en één die zo
+	Free: Pattern=en, Pattern=die, Pattern=zo'n
+	Constrained: 
+Turn ID=2| A | A : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=3| A | A : dat zijn nummer veertien
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=4| B | B : oké hij hebben een neus
+	Free: Pattern=neus, Pattern=oké, Pattern=een
+	Constrained: 
+Turn ID=5| B | B : een rond
+	Free: Pattern=een
+	Constrained: 
+Turn ID=6| B | B : en dan dat zijn het en dan zo'n vierkan aan de bovenkant
+	Free: Pattern=aan de, Pattern=dat zijn, Pattern=en, Pattern=zo'n
+	Constrained: Pattern=dat, Pattern=zijn, Pattern=aan, Pattern=de
+Turn ID=7| B | B : aan de linkerkant zitten dan zo'n
+	Free: Pattern=aan de, Pattern=zo'n, Pattern=zitten
+	Constrained: Pattern=aan, Pattern=de
+Turn ID=8| B | B : ja de vulpen ja ja ja dat zijn hem
+	Free: Pattern=dat zijn, Pattern=ja, Pattern=de
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=9| B | B : nee
+	Free: 
+	Constrained: 
+Turn ID=10| A | A : die met dat ei op zijn voorkant waar jij zeggen van een lepeltje erin zitten
+	Free: Pattern=dat, Pattern=jij zeggen, Pattern=voorkant, Pattern=een, Pattern=met, Pattern=erin, Pattern=zijn, Pattern=die, Pattern=zitten
+	Constrained: 
+Turn ID=11| A | A : met een
+	Free: Pattern=een, Pattern=met
+	Constrained: 
+Turn ID=12| A | A : ja precies
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=13| B | B : ja die ja
+	Free: Pattern=ja, Pattern=die
+	Constrained: 
+Turn ID=14| B | B : ja dat zijn D
+	Free: Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=15| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=16| A | A : met dat lepel erin en zo ja
+	Free: Pattern=dat, Pattern=ja, Pattern=met, Pattern=en, Pattern=erin
+	Constrained: 
+Turn ID=17| A | A : dat zijn negen
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=18| A | A : dit zijn dat kop met dat lepel erin met dat neusding aan de voorkant
+	Free: Pattern=dat, Pattern=met, Pattern=erin, Pattern=aan de voorkant, Pattern=dit zijn
+	Constrained: Pattern=aan de, Pattern=voorkant, Pattern=zijn, Pattern=de, Pattern=aan
+Turn ID=19| A | A : met die driehoek zo aan de zijkant
+	Free: Pattern=aan de, Pattern=die, Pattern=met
+	Constrained: Pattern=aan, Pattern=de
+Turn ID=20| A | A : de Driehoekbak
+	Free: Pattern=de
+	Constrained: 
+Turn ID=21| A | A : ja precies zonder zuignap ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=22| B | B : dit zijn de neus aan de voorkant met bovenop de balpen of zoiets wat jij zeggen ja
+	Free: Pattern=jij zeggen, Pattern=neus, Pattern=met, Pattern=aan de voorkant, Pattern=dit zijn, Pattern=de, Pattern=ja
+	Constrained: Pattern=aan de, Pattern=voorkant, Pattern=zijn, Pattern=de, Pattern=aan
+Turn ID=23| A | A : ja met dat lepeltje erin
+	Free: Pattern=dat, Pattern=ja, Pattern=erin, Pattern=met
+	Constrained: 
+Turn ID=24| A | A : dat zijn nummer vijf
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=25| A | A : dat kop met lepeltje en die neus
+	Free: Pattern=dat, Pattern=neus, Pattern=met, Pattern=die, Pattern=en
+	Constrained: 
+Turn ID=26| A | A : ja precies
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=27| B | B : erdoorheen steken toch
+	Free: 
+	Constrained: 
+Turn ID=28| B | B : ja ja ja ik zien hem al
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=29| B | B : ja ja ja G
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=30| B | B : dit zijn de neus met de vulpen erin
+	Free: Pattern=de, Pattern=neus, Pattern=met, Pattern=erin, Pattern=dit zijn
+	Constrained: Pattern=zijn
+Turn ID=31| B | B : ja dat zijn J
+	Free: Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=dat, Pattern=zijn

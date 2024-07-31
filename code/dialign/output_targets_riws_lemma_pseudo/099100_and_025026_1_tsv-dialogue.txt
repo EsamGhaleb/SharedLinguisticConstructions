@@ -1,0 +1,83 @@
+B|0| B: ok _dit_ _hebben_ _een_ _vierkant_ vlak _aan de_ voorkant _en_ er zitten _een_ soort van spijker achtig dinge op 
+B|1| B: _en_ _aan de_ linkerkant zitten _twee_ van die _ja_ blok die steeds klein worden 
+A|2| A: oké wachten even hoor 
+A|3| A: je moeten hem _zo_ links draaien 
+A|4| A: dus hij [hebben] inderdaad [twee] poo maar _en dan_ zo'n [vierkant] _ding_ _aan de zijkant_ 
+A|5| A: ah [ja] oké 
+A|6| A: _dan_ _zijn_ het [twee] 
+B|7| B: [ja] _dat_ [zijn] G 
+B|8| B: ok [ja] _dit zijn_ ook weer met _een_ soort van spijker [aan de] bovenkant niet dezelfde [en dan] met die [vierkant] die steeds klein worden [en] _een_ [vierkant] vlak ervoor 
+A|9| A: [dit zijn] [dat] [een] hond maar [dan] kantelen 
+B|10| B: [twee] van die vierkanut [aan de zijkant] die klein worden 
+B|11| B: [ja] [dat] [zijn] D 
+A|12| A: ah [ja] 
+A|13| A: even kijken 
+A|14| A: Ah nummer negen 
+B|15| B: [ja] [dit zijn] met die spijker [en] [dat] [vierkant] vlak voor [en] die [twee] [ding] die [zo] klein worden 
+A|16| A: [dit zijn] [dat] kantelen hond 
+B|17| B: [ja] [dat] [zijn] B 
+A|18| A: [zijn] nummer één 
+A|19| A: [dit zijn] [dat] kantelen rond 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : ok dit hebben een vierkant vlak aan de voorkant en er zitten een soort van spijker achtig dinge op
+	Free: Pattern=aan de, Pattern=een, Pattern=hebben, Pattern=dit, Pattern=en, Pattern=vierkant
+	Constrained: 
+Turn ID=1| B | B : en aan de linkerkant zitten twee van die ja blok die steeds klein worden
+	Free: Pattern=aan de, Pattern=ja, Pattern=en, Pattern=twee
+	Constrained: 
+Turn ID=2| A | A : oké wachten even hoor
+	Free: 
+	Constrained: 
+Turn ID=3| A | A : je moeten hem zo links draaien
+	Free: Pattern=zo
+	Constrained: 
+Turn ID=4| A | A : dus hij hebben inderdaad twee poo maar en dan zo'n vierkant ding aan de zijkant
+	Free: Pattern=twee, Pattern=en dan, Pattern=ding, Pattern=aan de zijkant, Pattern=hebben, Pattern=vierkant
+	Constrained: Pattern=en, Pattern=aan de, Pattern=dan
+Turn ID=5| A | A : ah ja oké
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=6| A | A : dan zijn het twee
+	Free: Pattern=dan, Pattern=zijn, Pattern=twee
+	Constrained: 
+Turn ID=7| B | B : ja dat zijn G
+	Free: Pattern=dat, Pattern=ja, Pattern=zijn
+	Constrained: 
+Turn ID=8| B | B : ok ja dit zijn ook weer met een soort van spijker aan de bovenkant niet dezelfde en dan met die vierkant die steeds klein worden en een vierkant vlak ervoor
+	Free: Pattern=ja, Pattern=en dan, Pattern=aan de, Pattern=een, Pattern=en, Pattern=vierkant, Pattern=dit zijn
+	Constrained: Pattern=dit, Pattern=dan, Pattern=zijn, Pattern=en
+Turn ID=9| A | A : dit zijn dat een hond maar dan kantelen
+	Free: Pattern=dit zijn, Pattern=een, Pattern=dat, Pattern=dan
+	Constrained: Pattern=dit, Pattern=zijn
+Turn ID=10| B | B : twee van die vierkanut aan de zijkant die klein worden
+	Free: Pattern=aan de zijkant, Pattern=twee
+	Constrained: Pattern=aan de
+Turn ID=11| B | B : ja dat zijn D
+	Free: Pattern=dat, Pattern=ja, Pattern=zijn
+	Constrained: 
+Turn ID=12| A | A : ah ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=13| A | A : even kijken
+	Free: 
+	Constrained: 
+Turn ID=14| A | A : Ah nummer negen
+	Free: 
+	Constrained: 
+Turn ID=15| B | B : ja dit zijn met die spijker en dat vierkant vlak voor en die twee ding die zo klein worden
+	Free: Pattern=dat, Pattern=twee, Pattern=ja, Pattern=ding, Pattern=zo, Pattern=en, Pattern=vierkant, Pattern=dit zijn
+	Constrained: Pattern=dit, Pattern=zijn
+Turn ID=16| A | A : dit zijn dat kantelen hond
+	Free: Pattern=dit zijn, Pattern=dat
+	Constrained: Pattern=dit, Pattern=zijn
+Turn ID=17| B | B : ja dat zijn B
+	Free: Pattern=dat, Pattern=ja, Pattern=zijn
+	Constrained: 
+Turn ID=18| A | A : zijn nummer één
+	Free: Pattern=zijn
+	Constrained: 
+Turn ID=19| A | A : dit zijn dat kantelen rond
+	Free: Pattern=dit zijn, Pattern=dat
+	Constrained: Pattern=dit, Pattern=zijn

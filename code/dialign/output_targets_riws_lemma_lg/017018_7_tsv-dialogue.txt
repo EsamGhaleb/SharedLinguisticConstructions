@@ -1,0 +1,75 @@
+B|0| B: deze hebben een een soort van 
+B|1| B: _ja_ plaat er weer doorheen lopen _met_ tafelpo eraan daar vergelijk ik _het_ een beetje mee 
+A|2| A: _ja waar_ _dat_ _bak_ _ook_ _op_ staat 
+B|3| B: [ja waar] [ook] een [bak] [op] staan [ja] 
+A|4| A: [ja] 
+A|5| A: _dat zijn_ zestien _voor mij_ 
+A|6| A: _dit zijn_ degeen _met het_ [ja] _met het_ _tafel_ eromheen [met] _dat_ [bak] 
+B|7| B: [ja] 
+B|8| B: [dat zijn] [voor mij] _de_ letter P 
+B|9| B: [dit zijn] _de_ _met de_ plaat erdoor doorheen _met de_ tafelpoot _en_ _het bak erop_ 
+A|10| A: [ja] [dat zijn] veertien [voor mij] 
+A|11| A: [dit zijn] _die_ [met _de] tafel_ _met het bak erop_ 
+B|12| B: [dat zijn] [voor mij] N 
+B|13| B: [dit zijn] weer [de tafel] [die] [het] doorboort [met het bak erop] 
+A|14| A: moeten hem even zoeken [ja] [dat zijn] tien [voor mij] 
+B|15| B: oké 
+A|16| A: [dit zijn] [die] [met [de] tafel] eromheen [en] [dat] [bak erop] 
+B|17| B: d 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : deze hebben een een soort van
+	Free: 
+	Constrained: 
+Turn ID=1| B | B : ja plaat er weer doorheen lopen met tafelpo eraan daar vergelijk ik het een beetje mee
+	Free: Pattern=ja, Pattern=met, Pattern=het
+	Constrained: 
+Turn ID=2| A | A : ja waar dat bak ook op staat
+	Free: Pattern=dat, Pattern=ja waar, Pattern=bak, Pattern=op, Pattern=ook
+	Constrained: Pattern=ja
+Turn ID=3| B | B : ja waar ook een bak op staan ja
+	Free: Pattern=ja waar, Pattern=ja, Pattern=bak, Pattern=op, Pattern=ook
+	Constrained: Pattern=ja
+Turn ID=4| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=5| A | A : dat zijn zestien voor mij
+	Free: Pattern=dat zijn, Pattern=voor mij
+	Constrained: Pattern=dat
+Turn ID=6| A | A : dit zijn degeen met het ja met het tafel eromheen met dat bak
+	Free: Pattern=dat, Pattern=ja, Pattern=bak, Pattern=met, Pattern=tafel, Pattern=met het, Pattern=dit zijn
+	Constrained: Pattern=met, Pattern=het
+Turn ID=7| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=8| B | B : dat zijn voor mij de letter P
+	Free: Pattern=dat zijn, Pattern=voor mij, Pattern=de
+	Constrained: Pattern=dat
+Turn ID=9| B | B : dit zijn de met de plaat erdoor doorheen met de tafelpoot en het bak erop
+	Free: Pattern=en, Pattern=het bak erop, Pattern=dit zijn, Pattern=de, Pattern=met de
+	Constrained: Pattern=met, Pattern=de, Pattern=bak erop, Pattern=bak, Pattern=het
+Turn ID=10| A | A : ja dat zijn veertien voor mij
+	Free: Pattern=dat zijn, Pattern=voor mij, Pattern=ja
+	Constrained: Pattern=dat
+Turn ID=11| A | A : dit zijn die met de tafel met het bak erop
+	Free: Pattern=met het bak erop, Pattern=met de, Pattern=de tafel, Pattern=die, Pattern=dit zijn
+	Constrained: Pattern=met, Pattern=tafel, Pattern=met het, Pattern=het bak erop, Pattern=de, Pattern=bak erop, Pattern=bak, Pattern=het
+Turn ID=12| B | B : dat zijn voor mij N
+	Free: Pattern=dat zijn, Pattern=voor mij
+	Constrained: Pattern=dat
+Turn ID=13| B | B : dit zijn weer de tafel die het doorboort met het bak erop
+	Free: Pattern=met het bak erop, Pattern=het, Pattern=de tafel, Pattern=die, Pattern=dit zijn
+	Constrained: Pattern=met, Pattern=tafel, Pattern=met het, Pattern=het bak erop, Pattern=de, Pattern=bak erop, Pattern=bak, Pattern=het
+Turn ID=14| A | A : moeten hem even zoeken ja dat zijn tien voor mij
+	Free: Pattern=dat zijn, Pattern=voor mij, Pattern=ja
+	Constrained: Pattern=dat
+Turn ID=15| B | B : oké
+	Free: 
+	Constrained: 
+Turn ID=16| A | A : dit zijn die met de tafel eromheen en dat bak erop
+	Free: Pattern=dat, Pattern=de tafel, Pattern=die, Pattern=en, Pattern=dit zijn, Pattern=bak erop, Pattern=met de
+	Constrained: Pattern=tafel, Pattern=bak, Pattern=met, Pattern=de
+Turn ID=17| B | B : d
+	Free: 
+	Constrained: 

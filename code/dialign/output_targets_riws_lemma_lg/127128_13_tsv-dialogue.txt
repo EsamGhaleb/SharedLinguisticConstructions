@@ -1,0 +1,95 @@
+B|0| B: ik _noemen_ deze _Pippi Langkous_ er zitten een ding doorheen _met_ van _die_ klein blok 
+B|1| B: staan op een platform 
+B|2| B: hebben een plat muntstuk aan de voorkant 
+A|3| A: _ja_ 
+B|4| B: _met_ een klein dinge eraan 
+B|5| B: en er zitten nog een klein dinge aan de achterkant 
+A|6| A: _ja_ _zijn_ nummer vijf 
+A|7| A: _dit zijn_ [die] jij [Pippi Langkous] [noemen] 
+A|8| A: [met] [die] zes rui 
+B|9| B: [ja] 
+B|10| B: hebben ik vinden 
+B|11| B: [ja] dat [zijn] bij mij J 
+B|12| B: [dit zijn] [Pippi Langkous] 
+A|13| A: [ja] [zijn] nummer elf 
+A|14| A: [Pippi Langkous] 
+B|15| B: [ja] 
+B|16| B: dat [zijn] bij mij P 
+A|17| A: [ja] 
+B|18| B: [Pippi Langkous] 
+A|19| A: [ja] nummer negen 
+A|20| A: [Pippi Langkous] 
+B|21| B: [Pippi Langkous] [ja] 
+B|22| B: dat [zijn] bij mij L 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : ik noemen deze Pippi Langkous er zitten een ding doorheen met van die klein blok
+	Free: Pattern=Pippi Langkous, Pattern=noemen, Pattern=die, Pattern=met
+	Constrained: 
+Turn ID=1| B | B : staan op een platform
+	Free: 
+	Constrained: 
+Turn ID=2| B | B : hebben een plat muntstuk aan de voorkant
+	Free: 
+	Constrained: 
+Turn ID=3| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=4| B | B : met een klein dinge eraan
+	Free: Pattern=met
+	Constrained: 
+Turn ID=5| B | B : en er zitten nog een klein dinge aan de achterkant
+	Free: 
+	Constrained: 
+Turn ID=6| A | A : ja zijn nummer vijf
+	Free: Pattern=ja, Pattern=zijn
+	Constrained: 
+Turn ID=7| A | A : dit zijn die jij Pippi Langkous noemen
+	Free: Pattern=dit zijn, Pattern=Pippi Langkous, Pattern=noemen, Pattern=die
+	Constrained: Pattern=zijn
+Turn ID=8| A | A : met die zes rui
+	Free: Pattern=die, Pattern=met
+	Constrained: 
+Turn ID=9| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=10| B | B : hebben ik vinden
+	Free: 
+	Constrained: 
+Turn ID=11| B | B : ja dat zijn bij mij J
+	Free: Pattern=ja, Pattern=zijn
+	Constrained: 
+Turn ID=12| B | B : dit zijn Pippi Langkous
+	Free: Pattern=dit zijn, Pattern=Pippi Langkous
+	Constrained: Pattern=zijn
+Turn ID=13| A | A : ja zijn nummer elf
+	Free: Pattern=ja, Pattern=zijn
+	Constrained: 
+Turn ID=14| A | A : Pippi Langkous
+	Free: Pattern=Pippi Langkous
+	Constrained: 
+Turn ID=15| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=16| B | B : dat zijn bij mij P
+	Free: Pattern=zijn
+	Constrained: 
+Turn ID=17| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=18| B | B : Pippi Langkous
+	Free: Pattern=Pippi Langkous
+	Constrained: 
+Turn ID=19| A | A : ja nummer negen
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=20| A | A : Pippi Langkous
+	Free: Pattern=Pippi Langkous
+	Constrained: 
+Turn ID=21| B | B : Pippi Langkous ja
+	Free: Pattern=Pippi Langkous, Pattern=ja
+	Constrained: 
+Turn ID=22| B | B : dat zijn bij mij L
+	Free: Pattern=zijn
+	Constrained: 

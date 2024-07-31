@@ -1,0 +1,191 @@
+B|0| B: _het_ _ja_ _het_ doen _mij_ _een_ _ja_ _ja_ _het_ doen _mij_ denken aan _een_ soort _olifan_ _maar_ _dan weten ik_ natuurlijk _niet_ of _het_ jou daaraan doen denken 
+A|1| A: omdat _twee_ 
+B|2| B: nee _hij_ _hebben_ uit _ja_ echt zo'n _slurf_ aan _de_ voorkant 
+A|3| A: [ja] 
+B|4| B: _en_ _dan_ lijken _het_ net alsof _die_ _zo_ _zeggen _maar_ een_ _armp_ op houden 
+B|5| B: _en_ _dan_ _bovenop_ _staan_ nog _twee heel klein cilindertjes_ 
+A|6| A: [bovenop] [twee heel klein cilindertjes] 
+B|7| B: naast elkaar 
+A|8| A: [ja] [en] _zijn_ _zitten_ _er_ _ook_ [een] _vierkant ding_ onder beetje _nou_ [niet] helemaal onder [maar een] beetje 
+B|9| B: [ja] [er] [zitten] [een] soort [vierkant ding] 
+B|10| B: [ja] 
+A|11| A: [ja] _erdoorheen_ [ja] oké [dan weten ik] welk [het] _zijn_ 
+A|12| A: [het] _zijn_ zes 
+A|13| A: _even_ kijken _dit zijn die_ _olifant met_ [die] [slurf] [zo] [en] _rechts_ [hebben] [die] _dat_ 
+A|14| A: [ja] [die] tetrisblok [zeggen maar] 
+B|15| B: zo'n _armp_ [zo] zullen je [het] [zo] kunnen _zien_ 
+A|16| A: [en] [twee] 
+A|17| A: [ja] precies 
+A|18| A: [en] [twee] spriet 
+B|19| B: [en] 
+B|20| B: [ja] _ja dat_ [zijn] C 
+A|21| A: [en] [hij] [staan] helemaal _boven_ 
+B|22| B: [dit zijn die] [met] aan _de_ voorkant [een] [slurf] 
+B|23| B: [boven] op [het] hoofd [twee] [ja] [cilindertjes] of rechthoek 
+A|24| A: [ja] 
+A|25| A: dertien 
+B|26| B: [en] [het] _armp_ 
+A|27| A: _de olifant_ 
+B|28| B: [de olifant] [even] [zeggen maar] _met de arm_ [zo] 
+A|29| A: [ja] [met de arm] _de olifant [met_ de arm] 
+B|30| B: J 
+B|31| B: [dit zijn] [de olifant met] [het] _armp_ [zo] 
+A|32| A: [ja] 
+A|33| A: [even] kijken 
+B|34| B: [en] [het] [vierkant] plateau [erdoorheen] 
+A|35| A: waar [zijn die] 
+A|36| A: huh ? [ik] [zien] hem [niet] veel 
+B|37| B: _bij mij_ [staan] [die] [heel] erg [rechts] 
+A|38| A: [ja] 
+A|39| A: [ja dat] kloppen 
+A|40| A: negen 
+B|41| B: [nou] toevallig 
+A|42| A: _olifan met_ [armp] 
+B|43| B: [olifan met] [een] [armp] 
+A|44| A: [zitten] [bij mij] midden [boven] 
+B|45| B: [ja] [bij mij] [ook] [ja] 
+B|46| B: [dat] [zijn] N 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : het ja het doen mij een ja ja het doen mij denken aan een soort olifan maar dan weten ik natuurlijk niet of het jou daaraan doen denken
+	Free: Pattern=dan weten ik, Pattern=ja, Pattern=niet, Pattern=een, Pattern=mij, Pattern=maar, Pattern=het, Pattern=olifan
+	Constrained: Pattern=dan, Pattern=ik
+Turn ID=1| A | A : omdat twee
+	Free: Pattern=twee
+	Constrained: 
+Turn ID=2| B | B : nee hij hebben uit ja echt zo'n slurf aan de voorkant
+	Free: Pattern=slurf, Pattern=hebben, Pattern=hij, Pattern=de, Pattern=ja
+	Constrained: 
+Turn ID=3| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=4| B | B : en dan lijken het net alsof die zo zeggen maar een armp op houden
+	Free: Pattern=maar een, Pattern=dan, Pattern=het, Pattern=zo, Pattern=die, Pattern=en, Pattern=zeggen maar, Pattern=armp
+	Constrained: Pattern=maar, Pattern=een
+Turn ID=5| B | B : en dan bovenop staan nog twee heel klein cilindertjes
+	Free: Pattern=bovenop, Pattern=dan, Pattern=staan, Pattern=twee heel klein cilindertjes, Pattern=en
+	Constrained: Pattern=twee, Pattern=heel, Pattern=cilindertjes
+Turn ID=6| A | A : bovenop twee heel klein cilindertjes
+	Free: Pattern=twee heel klein cilindertjes, Pattern=bovenop
+	Constrained: Pattern=twee, Pattern=heel, Pattern=cilindertjes
+Turn ID=7| B | B : naast elkaar
+	Free: 
+	Constrained: 
+Turn ID=8| A | A : ja en zijn zitten er ook een vierkant ding onder beetje nou niet helemaal onder maar een beetje
+	Free: Pattern=maar een, Pattern=nou, Pattern=ja, Pattern=ook, Pattern=niet, Pattern=een, Pattern=vierkant ding, Pattern=zitten, Pattern=er, Pattern=en, Pattern=zijn
+	Constrained: Pattern=maar, Pattern=een, Pattern=vierkant
+Turn ID=9| B | B : ja er zitten een soort vierkant ding
+	Free: Pattern=ja, Pattern=een, Pattern=vierkant ding, Pattern=zitten, Pattern=er
+	Constrained: Pattern=vierkant
+Turn ID=10| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=11| A | A : ja erdoorheen ja oké dan weten ik welk het zijn
+	Free: Pattern=dan weten ik, Pattern=ja, Pattern=het, Pattern=erdoorheen, Pattern=zijn
+	Constrained: Pattern=dan, Pattern=ik
+Turn ID=12| A | A : het zijn zes
+	Free: Pattern=zijn, Pattern=het
+	Constrained: 
+Turn ID=13| A | A : even kijken dit zijn die olifant met die slurf zo en rechts hebben die dat
+	Free: Pattern=dat, Pattern=dit zijn die, Pattern=rechts, Pattern=even, Pattern=slurf, Pattern=hebben, Pattern=zo, Pattern=die, Pattern=en, Pattern=olifant met
+	Constrained: Pattern=zijn die, Pattern=met, Pattern=die, Pattern=zijn, Pattern=dit zijn
+Turn ID=14| A | A : ja die tetrisblok zeggen maar
+	Free: Pattern=zeggen maar, Pattern=die, Pattern=ja
+	Constrained: Pattern=maar
+Turn ID=15| B | B : zo'n armp zo zullen je het zo kunnen zien
+	Free: Pattern=zo, Pattern=zien, Pattern=armp, Pattern=het
+	Constrained: 
+Turn ID=16| A | A : en twee
+	Free: Pattern=en, Pattern=twee
+	Constrained: 
+Turn ID=17| A | A : ja precies
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=18| A | A : en twee spriet
+	Free: Pattern=en, Pattern=twee
+	Constrained: 
+Turn ID=19| B | B : en
+	Free: Pattern=en
+	Constrained: 
+Turn ID=20| B | B : ja ja dat zijn C
+	Free: Pattern=ja dat, Pattern=zijn, Pattern=ja
+	Constrained: Pattern=dat, Pattern=ja
+Turn ID=21| A | A : en hij staan helemaal boven
+	Free: Pattern=boven, Pattern=en, Pattern=hij, Pattern=staan
+	Constrained: 
+Turn ID=22| B | B : dit zijn die met aan de voorkant een slurf
+	Free: Pattern=dit zijn die, Pattern=de, Pattern=slurf, Pattern=een, Pattern=met
+	Constrained: Pattern=zijn die, Pattern=dit zijn, Pattern=zijn, Pattern=die
+Turn ID=23| B | B : boven op het hoofd twee ja cilindertjes of rechthoek
+	Free: Pattern=twee, Pattern=ja, Pattern=boven, Pattern=het, Pattern=cilindertjes
+	Constrained: 
+Turn ID=24| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=25| A | A : dertien
+	Free: 
+	Constrained: 
+Turn ID=26| B | B : en het armp
+	Free: Pattern=en, Pattern=armp, Pattern=het
+	Constrained: 
+Turn ID=27| A | A : de olifant
+	Free: Pattern=de olifant
+	Constrained: Pattern=de
+Turn ID=28| B | B : de olifant even zeggen maar met de arm zo
+	Free: Pattern=even, Pattern=zeggen maar, Pattern=met de arm, Pattern=zo, Pattern=de olifant
+	Constrained: Pattern=de, Pattern=maar, Pattern=met
+Turn ID=29| A | A : ja met de arm de olifant met de arm
+	Free: Pattern=de olifant met, Pattern=met de arm, Pattern=ja
+	Constrained: Pattern=de, Pattern=met, Pattern=olifant met, Pattern=de olifant
+Turn ID=30| B | B : J
+	Free: 
+	Constrained: 
+Turn ID=31| B | B : dit zijn de olifant met het armp zo
+	Free: Pattern=armp, Pattern=het, Pattern=zo, Pattern=de olifant met, Pattern=dit zijn
+	Constrained: Pattern=de, Pattern=met, Pattern=de olifant, Pattern=zijn, Pattern=olifant met
+Turn ID=32| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=33| A | A : even kijken
+	Free: Pattern=even
+	Constrained: 
+Turn ID=34| B | B : en het vierkant plateau erdoorheen
+	Free: Pattern=en, Pattern=erdoorheen, Pattern=vierkant, Pattern=het
+	Constrained: 
+Turn ID=35| A | A : waar zijn die
+	Free: Pattern=zijn die
+	Constrained: Pattern=zijn, Pattern=die
+Turn ID=36| A | A : huh ? ik zien hem niet veel
+	Free: Pattern=niet, Pattern=ik, Pattern=zien
+	Constrained: 
+Turn ID=37| B | B : bij mij staan die heel erg rechts
+	Free: Pattern=heel, Pattern=rechts, Pattern=staan, Pattern=die, Pattern=bij mij
+	Constrained: Pattern=mij
+Turn ID=38| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=39| A | A : ja dat kloppen
+	Free: Pattern=ja dat
+	Constrained: Pattern=dat, Pattern=ja
+Turn ID=40| A | A : negen
+	Free: 
+	Constrained: 
+Turn ID=41| B | B : nou toevallig
+	Free: Pattern=nou
+	Constrained: 
+Turn ID=42| A | A : olifan met armp
+	Free: Pattern=olifan met, Pattern=armp
+	Constrained: Pattern=olifan, Pattern=met
+Turn ID=43| B | B : olifan met een armp
+	Free: Pattern=olifan met, Pattern=een, Pattern=armp
+	Constrained: Pattern=olifan, Pattern=met
+Turn ID=44| A | A : zitten bij mij midden boven
+	Free: Pattern=bij mij, Pattern=boven, Pattern=zitten
+	Constrained: Pattern=mij
+Turn ID=45| B | B : ja bij mij ook ja
+	Free: Pattern=bij mij, Pattern=ja, Pattern=ook
+	Constrained: Pattern=mij
+Turn ID=46| B | B : dat zijn N
+	Free: Pattern=dat, Pattern=zijn
+	Constrained: 

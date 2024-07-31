@@ -1,0 +1,103 @@
+A|0| A: deze hebben een best wel hoog _driehoek_ op _de bovenkant_ van _het kop_ _en_ een heel klein 
+A|1| A: _die_ ook een beetje rond _zijn_ _aan de linkerkant_ 
+A|2| A: _en_ een soort _wiel_ onder _de_ _kop_ 
+A|3| A: _en_ dan zitten er nog een een vag vorm ervoor zeggen maar 
+A|4| A: _die_ _ja_ een vliegerachtig iets 
+B|5| B: [ja] _dat_ [zijn] J 
+B|6| B: _dit zijn_ [het kop] _met_ [het] [driehoek] [aan [de] bovenkant] [en] 
+B|7| B: zo'n oplopen kubus [aan de linkerkant] [en] [het] _wiel aan de_ Linkeronderkant 
+B|8| B: _en _de_ vlieger_ [aan de] rechterkant 
+A|9| A: [de vlieger] [ja] 
+A|10| A: zes 
+A|11| A: _dit zijn met_ _die_ [vlieger] _erop_ 
+A|12| A: _en de driehoek_ Erboven [en] 
+B|13| B: _dat_ [zijn] E 
+B|14| B: [dit zijn] [die] [met] [de] [met] [de driehoek] [erop] 
+B|15| B: [de] [het] groot worden kubus [aan de linkerkant] [wiel] [en [de] vlieger] 
+A|16| A: [ja] [ja] 
+A|17| A: tien 
+A|18| A: [dit zijn] [de vlieger] 
+A|19| A: [met] [dat] [wiel aan de] onderkant 
+B|20| B: [ja] [dat] [zijn] G 
+B|21| B: [dit zijn met] [de vlieger] 
+B|22| B: [en de driehoek] erbovenop 
+B|23| B: [ja] 
+A|24| A: tien 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : deze hebben een best wel hoog driehoek op de bovenkant van het kop en een heel klein
+	Free: Pattern=de bovenkant, Pattern=het kop, Pattern=driehoek, Pattern=en
+	Constrained: Pattern=het, Pattern=de, Pattern=kop
+Turn ID=1| A | A : die ook een beetje rond zijn aan de linkerkant
+	Free: Pattern=aan de linkerkant, Pattern=zijn, Pattern=die
+	Constrained: Pattern=aan de, Pattern=de
+Turn ID=2| A | A : en een soort wiel onder de kop
+	Free: Pattern=wiel, Pattern=de, Pattern=kop, Pattern=en
+	Constrained: 
+Turn ID=3| A | A : en dan zitten er nog een een vag vorm ervoor zeggen maar
+	Free: Pattern=en
+	Constrained: 
+Turn ID=4| A | A : die ja een vliegerachtig iets
+	Free: Pattern=die, Pattern=ja
+	Constrained: 
+Turn ID=5| B | B : ja dat zijn J
+	Free: Pattern=zijn, Pattern=dat, Pattern=ja
+	Constrained: 
+Turn ID=6| B | B : dit zijn het kop met het driehoek aan de bovenkant en
+	Free: Pattern=driehoek, Pattern=aan de, Pattern=het, Pattern=met, Pattern=en, Pattern=dit zijn, Pattern=de bovenkant, Pattern=het kop
+	Constrained: Pattern=de, Pattern=zijn, Pattern=het, Pattern=kop
+Turn ID=7| B | B : zo'n oplopen kubus aan de linkerkant en het wiel aan de Linkeronderkant
+	Free: Pattern=wiel aan de, Pattern=aan de linkerkant, Pattern=het, Pattern=en
+	Constrained: Pattern=wiel, Pattern=de, Pattern=aan de
+Turn ID=8| B | B : en de vlieger aan de rechterkant
+	Free: Pattern=en de, Pattern=de vlieger, Pattern=aan de
+	Constrained: Pattern=vlieger, Pattern=de, Pattern=en
+Turn ID=9| A | A : de vlieger ja
+	Free: Pattern=de vlieger, Pattern=ja
+	Constrained: Pattern=vlieger, Pattern=de
+Turn ID=10| A | A : zes
+	Free: 
+	Constrained: 
+Turn ID=11| A | A : dit zijn met die vlieger erop
+	Free: Pattern=dit zijn met, Pattern=vlieger, Pattern=die, Pattern=erop
+	Constrained: Pattern=dit zijn, Pattern=zijn, Pattern=met
+Turn ID=12| A | A : en de driehoek Erboven en
+	Free: Pattern=en de driehoek, Pattern=en
+	Constrained: Pattern=driehoek, Pattern=de, Pattern=en de, Pattern=de driehoek, Pattern=en
+Turn ID=13| B | B : dat zijn E
+	Free: Pattern=zijn, Pattern=dat
+	Constrained: 
+Turn ID=14| B | B : dit zijn die met de met de driehoek erop
+	Free: Pattern=de, Pattern=erop, Pattern=de driehoek, Pattern=met, Pattern=die, Pattern=dit zijn
+	Constrained: Pattern=zijn, Pattern=driehoek, Pattern=de
+Turn ID=15| B | B : de het groot worden kubus aan de linkerkant wiel en de vlieger
+	Free: Pattern=de, Pattern=de vlieger, Pattern=en de, Pattern=het, Pattern=wiel, Pattern=aan de linkerkant
+	Constrained: Pattern=de, Pattern=en, Pattern=vlieger, Pattern=aan de
+Turn ID=16| A | A : ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=17| A | A : tien
+	Free: 
+	Constrained: 
+Turn ID=18| A | A : dit zijn de vlieger
+	Free: Pattern=dit zijn, Pattern=de vlieger
+	Constrained: Pattern=vlieger, Pattern=zijn, Pattern=de
+Turn ID=19| A | A : met dat wiel aan de onderkant
+	Free: Pattern=wiel aan de, Pattern=met, Pattern=dat
+	Constrained: Pattern=aan de, Pattern=wiel, Pattern=de
+Turn ID=20| B | B : ja dat zijn G
+	Free: Pattern=zijn, Pattern=dat, Pattern=ja
+	Constrained: 
+Turn ID=21| B | B : dit zijn met de vlieger
+	Free: Pattern=dit zijn met, Pattern=de vlieger
+	Constrained: Pattern=de, Pattern=vlieger, Pattern=met, Pattern=zijn, Pattern=dit zijn
+Turn ID=22| B | B : en de driehoek erbovenop
+	Free: Pattern=en de driehoek
+	Constrained: Pattern=driehoek, Pattern=de, Pattern=en de, Pattern=de driehoek, Pattern=en
+Turn ID=23| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=24| A | A : tien
+	Free: 
+	Constrained: 

@@ -1,0 +1,111 @@
+B|0| B: _ja_ I 
+A|1| A: even kijken nou _de_ kopvorm _en _aan de_ rechterkant_ _hebben_ je _twee_ [ja] rechthoekje 
+A|2| A: beetje _een_ ISteken wat erin steken _zijn_ 
+A|3| A: _en aan de_ linksonder _hebben hij_ _een_ nou [ja] licht licht [ja] uitsteeksel bee _een_ [ja] staart 
+A|4| A: _en_ daar daarboven net _boven_ zeggen maar _dat_ staart zitten _een_ [ja] streep 
+A|5| A: [ja] 
+A|6| A: [ja] _hij_ _zijn_ [ja] _het_ _zijn_ _een_ beetje zo'n driehoeksvorm inderdaad 
+A|7| A: [ja] staan _een_ 
+A|8| A: [ja] [ja] zo zullen ik _het_ noemen 
+B|9| B: deze [hebben] _die_ [twee] rechthoekjes [boven] elkaar [aan de rechterkant] van [de] emmer 
+B|10| B: _bovenop_ [hebben] [het] op [zijn] kop [de] omgedraaide trechter of heten [dat] [een] trapezoid 
+B|11| B: [en aan de] [aan de] linkerkant [hebben hij] soort van 
+B|12| B: [ja] 
+B|13| B: [ja] 
+B|14| B: [ja] c 
+B|15| B: _dit zijn die_ [een] _met_ _die_ _twee blok_ nee [twee] rechthoekjes [aan de rechterkant] _bovenop_ elkaar 
+B|16| B: [en] _die_ omgedraaide trechter _bovenop_ 
+A|17| A: [ja] [ja] [en] dan [aan de] linkeronderkant [een] klein vormp [en] daarboven ook [een] 
+A|18| A: [ja] [dat] [zijn] [twee] 
+B|19| B: o 
+A|20| A: [dit zijn die] [met] [de] _twee blok aan de rechterkant_ [met] [aan de] linksonder [het] [ja] klein uiteinde 
+A|21| A: daarbovenop [een] beetje [de] [die] vulkaanvorm 
+B|22| B: [dit zijn die] [een] [met] op [zijn] kop trechter _bovenop_ [en] [twee blok aan de rechterkant] 
+A|23| A: [ja] ik zien hem 
+A|24| A: zestien 
+A|25| A: [dit zijn die] [met] [de] [twee] balk [aan de rechterkant] zijkant [en] [de] vulkaanvorm [bovenop] 
+A|26| A: [twee] 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : ja I
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=1| A | A : even kijken nou de kopvorm en aan de rechterkant hebben je twee ja rechthoekje
+	Free: Pattern=twee, Pattern=hebben, Pattern=aan de rechterkant, Pattern=en aan de, Pattern=de, Pattern=ja
+	Constrained: Pattern=de, Pattern=en, Pattern=aan de
+Turn ID=2| A | A : beetje een ISteken wat erin steken zijn
+	Free: Pattern=zijn, Pattern=een
+	Constrained: 
+Turn ID=3| A | A : en aan de linksonder hebben hij een nou ja licht licht ja uitsteeksel bee een ja staart
+	Free: Pattern=en aan de, Pattern=hebben hij, Pattern=ja, Pattern=een
+	Constrained: Pattern=de, Pattern=aan de, Pattern=hebben, Pattern=hij, Pattern=en
+Turn ID=4| A | A : en daar daarboven net boven zeggen maar dat staart zitten een ja streep
+	Free: Pattern=dat, Pattern=ja, Pattern=boven, Pattern=een, Pattern=en
+	Constrained: 
+Turn ID=5| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=6| A | A : ja hij zijn ja het zijn een beetje zo'n driehoeksvorm inderdaad
+	Free: Pattern=ja, Pattern=een, Pattern=het, Pattern=hij, Pattern=zijn
+	Constrained: 
+Turn ID=7| A | A : ja staan een
+	Free: Pattern=ja, Pattern=een
+	Constrained: 
+Turn ID=8| A | A : ja ja zo zullen ik het noemen
+	Free: Pattern=ja, Pattern=het
+	Constrained: 
+Turn ID=9| B | B : deze hebben die twee rechthoekjes boven elkaar aan de rechterkant van de emmer
+	Free: Pattern=twee, Pattern=de, Pattern=boven, Pattern=hebben, Pattern=aan de rechterkant, Pattern=die
+	Constrained: Pattern=aan de, Pattern=de
+Turn ID=10| B | B : bovenop hebben het op zijn kop de omgedraaide trechter of heten dat een trapezoid
+	Free: Pattern=de, Pattern=een, Pattern=het, Pattern=hebben, Pattern=zijn, Pattern=dat, Pattern=bovenop
+	Constrained: 
+Turn ID=11| B | B : en aan de aan de linkerkant hebben hij soort van
+	Free: Pattern=en aan de, Pattern=aan de, Pattern=hebben hij
+	Constrained: Pattern=de, Pattern=aan de, Pattern=hebben, Pattern=hij, Pattern=en
+Turn ID=12| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=13| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=14| B | B : ja c
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=15| B | B : dit zijn die een met die twee blok nee twee rechthoekjes aan de rechterkant bovenop elkaar
+	Free: Pattern=bovenop, Pattern=dit zijn die, Pattern=twee, Pattern=een, Pattern=met, Pattern=twee blok, Pattern=aan de rechterkant, Pattern=die
+	Constrained: Pattern=twee, Pattern=de, Pattern=aan de, Pattern=die, Pattern=zijn
+Turn ID=16| B | B : en die omgedraaide trechter bovenop
+	Free: Pattern=die, Pattern=en, Pattern=bovenop
+	Constrained: 
+Turn ID=17| A | A : ja ja en dan aan de linkeronderkant een klein vormp en daarboven ook een
+	Free: Pattern=aan de, Pattern=ja, Pattern=en, Pattern=een
+	Constrained: Pattern=de
+Turn ID=18| A | A : ja dat zijn twee
+	Free: Pattern=zijn, Pattern=ja, Pattern=twee, Pattern=dat
+	Constrained: 
+Turn ID=19| B | B : o
+	Free: 
+	Constrained: 
+Turn ID=20| A | A : dit zijn die met de twee blok aan de rechterkant met aan de linksonder het ja klein uiteinde
+	Free: Pattern=dit zijn die, Pattern=aan de, Pattern=het, Pattern=met, Pattern=de, Pattern=twee blok aan de rechterkant, Pattern=ja
+	Constrained: Pattern=twee, Pattern=de, Pattern=aan de, Pattern=twee blok, Pattern=zijn, Pattern=aan de rechterkant, Pattern=die
+Turn ID=21| A | A : daarbovenop een beetje de die vulkaanvorm
+	Free: Pattern=die, Pattern=de, Pattern=een
+	Constrained: 
+Turn ID=22| B | B : dit zijn die een met op zijn kop trechter bovenop en twee blok aan de rechterkant
+	Free: Pattern=bovenop, Pattern=dit zijn die, Pattern=twee blok aan de rechterkant, Pattern=een, Pattern=met, Pattern=en, Pattern=zijn
+	Constrained: Pattern=twee, Pattern=de, Pattern=aan de, Pattern=twee blok, Pattern=zijn, Pattern=aan de rechterkant, Pattern=die
+Turn ID=23| A | A : ja ik zien hem
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=24| A | A : zestien
+	Free: 
+	Constrained: 
+Turn ID=25| A | A : dit zijn die met de twee balk aan de rechterkant zijkant en de vulkaanvorm bovenop
+	Free: Pattern=bovenop, Pattern=dit zijn die, Pattern=twee, Pattern=de, Pattern=met, Pattern=aan de rechterkant, Pattern=en
+	Constrained: Pattern=zijn, Pattern=die, Pattern=de, Pattern=aan de
+Turn ID=26| A | A : twee
+	Free: Pattern=twee
+	Constrained: 

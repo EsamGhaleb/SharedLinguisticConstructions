@@ -1,0 +1,107 @@
+B|0| B: oké deze _hebben_ ook zo'n _lepel_ _twee lepelt_ _hebben_ _die_ _en dan_ zo'n _bolle_ op zo'n _een_ beetje zo'n _neus_ zeggen maar 
+A|1| A: [twee lepelt] 
+A|2| A: ik ik zitten _de_ [lepelt] te zoeken 
+B|3| B: zeggen maar _die_ _een_ _die_ zo'n piercing door _zijn_ _neus_ _hebben_ maar _dan_ zonder piercing 
+A|4| A: _ja_ [en] 
+A|5| A: _ja_ [en dan] hij [hebben] [een] driehoekig oor oor 
+B|6| B: zo'n soort 
+B|7| B: [ja] [ja] [ja] [ja] 
+A|8| A: [ja] 
+A|9| A: [dan] [zijn] _het_ veertien 
+A|10| A: hij [hebben] [een] _rond neusje_ 
+A|11| A: [en] [twee] verschillend oort [en] één armp 
+B|12| B: [ja] N 
+B|13| B: deze [zijn] _die_ _met_ _dat_ [rond neusje] _met _die twee_ lepelt_ _en het_ klein pinne aan [de] 
+A|14| A: [en het] 
+A|15| A: [ja] 
+B|16| B: [ja] 
+A|17| A: negen 
+A|18| A: [het] [met] [het] _rond neus en die twee lepelt_ weer _en dat_ kort armp 
+B|19| B: G 
+B|20| B: dit [zijn] [die] [met] [dat] [rond neus en die twee lepelt] [en dat] klein stuk 
+A|21| A: [ja] 
+A|22| A: vijf 
+A|23| A: [met die twee] [lepel] [en dat] [bolle] weer [met die] [neus] 
+A|24| A: [en dat] raar armp 
+B|25| B: [ja] J 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : oké deze hebben ook zo'n lepel twee lepelt hebben die en dan zo'n bolle op zo'n een beetje zo'n neus zeggen maar
+	Free: Pattern=lepel, Pattern=en dan, Pattern=een, Pattern=hebben, Pattern=neus, Pattern=bolle, Pattern=die, Pattern=twee lepelt
+	Constrained: Pattern=dan, Pattern=en, Pattern=twee, Pattern=lepelt
+Turn ID=1| A | A : twee lepelt
+	Free: Pattern=twee lepelt
+	Constrained: Pattern=twee, Pattern=lepelt
+Turn ID=2| A | A : ik ik zitten de lepelt te zoeken
+	Free: Pattern=de, Pattern=lepelt
+	Constrained: 
+Turn ID=3| B | B : zeggen maar die een die zo'n piercing door zijn neus hebben maar dan zonder piercing
+	Free: Pattern=dan, Pattern=een, Pattern=hebben, Pattern=neus, Pattern=die, Pattern=zijn
+	Constrained: 
+Turn ID=4| A | A : ja en
+	Free: Pattern=ja, Pattern=en
+	Constrained: 
+Turn ID=5| A | A : ja en dan hij hebben een driehoekig oor oor
+	Free: Pattern=en dan, Pattern=ja, Pattern=hebben, Pattern=een
+	Constrained: Pattern=dan, Pattern=en
+Turn ID=6| B | B : zo'n soort
+	Free: 
+	Constrained: 
+Turn ID=7| B | B : ja ja ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=8| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=9| A | A : dan zijn het veertien
+	Free: Pattern=dan, Pattern=zijn, Pattern=het
+	Constrained: 
+Turn ID=10| A | A : hij hebben een rond neusje
+	Free: Pattern=rond neusje, Pattern=hebben, Pattern=een
+	Constrained: 
+Turn ID=11| A | A : en twee verschillend oort en één armp
+	Free: Pattern=en, Pattern=twee
+	Constrained: 
+Turn ID=12| B | B : ja N
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=13| B | B : deze zijn die met dat rond neusje met die twee lepelt en het klein pinne aan de
+	Free: Pattern=dat, Pattern=de, Pattern=en het, Pattern=met die twee, Pattern=met, Pattern=die, Pattern=die twee lepelt, Pattern=zijn, Pattern=rond neusje
+	Constrained: Pattern=met die, Pattern=twee, Pattern=het, Pattern=met, Pattern=die, Pattern=en, Pattern=lepelt, Pattern=twee lepelt
+Turn ID=14| A | A : en het
+	Free: Pattern=en het
+	Constrained: Pattern=en, Pattern=het
+Turn ID=15| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=16| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=17| A | A : negen
+	Free: 
+	Constrained: 
+Turn ID=18| A | A : het met het rond neus en die twee lepelt weer en dat kort armp
+	Free: Pattern=rond neus en die twee lepelt, Pattern=en dat, Pattern=het, Pattern=met
+	Constrained: Pattern=dat, Pattern=twee, Pattern=neus, Pattern=die, Pattern=die twee lepelt, Pattern=en, Pattern=lepelt, Pattern=twee lepelt
+Turn ID=19| B | B : G
+	Free: 
+	Constrained: 
+Turn ID=20| B | B : dit zijn die met dat rond neus en die twee lepelt en dat klein stuk
+	Free: Pattern=dat, Pattern=rond neus en die twee lepelt, Pattern=met, Pattern=die, Pattern=zijn, Pattern=en dat
+	Constrained: Pattern=dat, Pattern=twee, Pattern=neus, Pattern=die, Pattern=die twee lepelt, Pattern=en, Pattern=lepelt, Pattern=twee lepelt
+Turn ID=21| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=22| A | A : vijf
+	Free: 
+	Constrained: 
+Turn ID=23| A | A : met die twee lepel en dat bolle weer met die neus
+	Free: Pattern=met die, Pattern=lepel, Pattern=met die twee, Pattern=neus, Pattern=bolle, Pattern=en dat
+	Constrained: Pattern=twee, Pattern=met, Pattern=die, Pattern=en, Pattern=dat, Pattern=met die
+Turn ID=24| A | A : en dat raar armp
+	Free: Pattern=en dat
+	Constrained: Pattern=en, Pattern=dat
+Turn ID=25| B | B : ja J
+	Free: Pattern=ja
+	Constrained: 

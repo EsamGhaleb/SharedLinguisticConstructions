@@ -1,0 +1,159 @@
+A|0| A: _dit zijn_ ook _een_ onderzeeër alleen _die_ _hebben_ _twee_ van _die_ vierkant staafjes _aan de_ achterkant _en_ _een_ dakje 
+A|1| A: _en_ _aan de_ voorkant zitten ook _een_ slurf 
+A|2| A: _ik vinden het_ ook echt net _een_ boo 
+A|3| A: nee 
+A|4| A: _hij hebben_ _hij hebben_ _een_ _een_ _een_ armpje zo 
+A|5| A: _of_ zo eigenlijk 
+A|6| A: _en_ _dan_ _twee_ vierkanut _aan de_ vierkant blok _aan de_ achterkant _en_ iets _aan de_ onderkant 
+A|7| A: _het_ lijken 
+A|8| A: _ja_ 
+A|9| A: _ja_ 
+B|10| B: [ja] [een] soort 
+B|11| B: [en] [die] zien er plat uit 
+B|12| B: [en] [hij hebben] [aan de] rechterkant staan [twee] 
+B|13| B: oké _ja ja_ [ik vinden het] [een] soort kip maar 
+B|14| B: [dan] [zijn] [het] [zijn] [het] I 
+A|15| A: [ja] [die] [ja ja] [die] ander onderzeeër 
+A|16| A: gaan [ik] hem even [ja] 
+A|17| A: [ja] [twee] 
+A|18| A: _zijn de_ onderzeeër _met_ [het] raar [het] mislukken driehoekje 
+A|19| A: [ja] [die] _dat_ bak [hebben] 
+A|20| A: [ja] [aan de] rechts 
+A|21| A: [ja] 
+A|22| A: [ja] 
+B|23| B: _dit zijn de_ kip 
+B|24| B: [met] [aan de] rechterkant [die] [twee] [of] [dat] [dat] isteken 
+B|25| B: [de] kip 
+B|26| B: [dat] [zijn] M 
+B|27| B: [ja] 
+A|28| A: [ja] [met] [dat] mislukken driehoekje 
+A|29| A: [ja] 
+A|30| A: negen 
+A|31| A: [dit zijn de] mislukken driehoek onderzeeër 
+A|32| A: [ja] 
+A|33| A: [ja] [die] mislukken driehoek 
+A|34| A: [ja] 
+A|35| A: zes 
+B|36| B: [dit zijn de] kip 
+B|37| B: [de] kip [dat] [zijn] F 
+B|38| B: kip 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : dit zijn ook een onderzeeër alleen die hebben twee van die vierkant staafjes aan de achterkant en een dakje
+	Free: Pattern=twee, Pattern=aan de, Pattern=een, Pattern=hebben, Pattern=die, Pattern=en, Pattern=dit zijn
+	Constrained: Pattern=zijn, Pattern=de
+Turn ID=1| A | A : en aan de voorkant zitten ook een slurf
+	Free: Pattern=aan de, Pattern=en, Pattern=een
+	Constrained: Pattern=de
+Turn ID=2| A | A : ik vinden het ook echt net een boo
+	Free: Pattern=ik vinden het, Pattern=een
+	Constrained: Pattern=het, Pattern=ik
+Turn ID=3| A | A : nee
+	Free: 
+	Constrained: 
+Turn ID=4| A | A : hij hebben hij hebben een een een armpje zo
+	Free: Pattern=hij hebben, Pattern=een
+	Constrained: Pattern=hebben
+Turn ID=5| A | A : of zo eigenlijk
+	Free: Pattern=of
+	Constrained: 
+Turn ID=6| A | A : en dan twee vierkanut aan de vierkant blok aan de achterkant en iets aan de onderkant
+	Free: Pattern=aan de, Pattern=en, Pattern=twee, Pattern=dan
+	Constrained: Pattern=de
+Turn ID=7| A | A : het lijken
+	Free: Pattern=het
+	Constrained: 
+Turn ID=8| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=9| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=10| B | B : ja een soort
+	Free: Pattern=ja, Pattern=een
+	Constrained: 
+Turn ID=11| B | B : en die zien er plat uit
+	Free: Pattern=en, Pattern=die
+	Constrained: 
+Turn ID=12| B | B : en hij hebben aan de rechterkant staan twee
+	Free: Pattern=hij hebben, Pattern=aan de, Pattern=en, Pattern=twee
+	Constrained: Pattern=de, Pattern=hebben
+Turn ID=13| B | B : oké ja ja ik vinden het een soort kip maar
+	Free: Pattern=ik vinden het, Pattern=ja ja, Pattern=een
+	Constrained: Pattern=het, Pattern=ja, Pattern=ik
+Turn ID=14| B | B : dan zijn het zijn het I
+	Free: Pattern=zijn, Pattern=het, Pattern=dan
+	Constrained: 
+Turn ID=15| A | A : ja die ja ja die ander onderzeeër
+	Free: Pattern=ja ja, Pattern=die, Pattern=ja
+	Constrained: Pattern=ja
+Turn ID=16| A | A : gaan ik hem even ja
+	Free: Pattern=ja, Pattern=ik
+	Constrained: 
+Turn ID=17| A | A : ja twee
+	Free: Pattern=twee, Pattern=ja
+	Constrained: 
+Turn ID=18| A | A : zijn de onderzeeër met het raar het mislukken driehoekje
+	Free: Pattern=zijn de, Pattern=het, Pattern=met
+	Constrained: Pattern=zijn, Pattern=de
+Turn ID=19| A | A : ja die dat bak hebben
+	Free: Pattern=dat, Pattern=die, Pattern=ja, Pattern=hebben
+	Constrained: 
+Turn ID=20| A | A : ja aan de rechts
+	Free: Pattern=aan de, Pattern=ja
+	Constrained: Pattern=de
+Turn ID=21| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=22| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=23| B | B : dit zijn de kip
+	Free: Pattern=dit zijn de
+	Constrained: Pattern=zijn de, Pattern=dit zijn, Pattern=zijn, Pattern=de
+Turn ID=24| B | B : met aan de rechterkant die twee of dat dat isteken
+	Free: Pattern=dat, Pattern=of, Pattern=twee, Pattern=aan de, Pattern=met, Pattern=die
+	Constrained: Pattern=de
+Turn ID=25| B | B : de kip
+	Free: Pattern=de
+	Constrained: 
+Turn ID=26| B | B : dat zijn M
+	Free: Pattern=dat, Pattern=zijn
+	Constrained: 
+Turn ID=27| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=28| A | A : ja met dat mislukken driehoekje
+	Free: Pattern=dat, Pattern=ja, Pattern=met
+	Constrained: 
+Turn ID=29| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=30| A | A : negen
+	Free: 
+	Constrained: 
+Turn ID=31| A | A : dit zijn de mislukken driehoek onderzeeër
+	Free: Pattern=dit zijn de
+	Constrained: Pattern=zijn de, Pattern=dit zijn, Pattern=zijn, Pattern=de
+Turn ID=32| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=33| A | A : ja die mislukken driehoek
+	Free: Pattern=die, Pattern=ja
+	Constrained: 
+Turn ID=34| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=35| A | A : zes
+	Free: 
+	Constrained: 
+Turn ID=36| B | B : dit zijn de kip
+	Free: Pattern=dit zijn de
+	Constrained: Pattern=zijn de, Pattern=dit zijn, Pattern=zijn, Pattern=de
+Turn ID=37| B | B : de kip dat zijn F
+	Free: Pattern=dat, Pattern=zijn, Pattern=de
+	Constrained: 
+Turn ID=38| B | B : kip
+	Free: 
+	Constrained: 

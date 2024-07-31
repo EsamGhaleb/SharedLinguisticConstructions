@@ -1,0 +1,119 @@
+B|0| B: _ja_ _ja_ die _ja_ die eigenlijk _het_ hoog _zijn_ _van_ bijna _van_ al 
+B|1| B: _ja_ okee 
+B|2| B: n 
+B|3| B: _ja_ 
+B|4| B: _ik hebben_ _dat_ heel langwerpig pijl _weer_ die Linksbovenin 
+B|5| B: die eigenlijk _het_ hoog _zijn_ _van_ alles 
+A|6| A: nou deze [hebben] een soort [van] plateau aan [dat] kop vast als [het] [zijn] 
+A|7| A: en aan de [dat] [zijn] aan de rechterkant 
+A|8| A: en aan de linkerkant [hebben] hij ook een gek uitsteeksel met nog een gek uitsteeksel daar bovenop 
+A|9| A: [ja] precies 
+A|10| A: [ja] 
+A|11| A: oké [ja] [dat] [zijn] even zoeken vijfteen 
+B|12| B: [ja] p 
+B|13| B: die _ik hebben_ die die die pijl die heel hoog zitten Linksbovenin 
+A|14| A: oké [ja] dit [zijn] [weer] met zo'n tafel er naast 
+A|15| A: [ja] precies 
+B|16| B: [ja] I 
+A|17| A: nu [hebben] [ik] niks ook niets 
+A|18| A: sure [ja] oké [ja] nee duidelijk 
+A|19| A: nee [ja] nee tuurlijk [dat] [zijn] zeggen maar 
+A|20| A: maar [zijn] [ik] nu dan of 
+A|21| A: want [ik hebben] geen _ding_ aangekruist 
+A|22| A: dit [zijn] [weer] de tafel sure 
+A|23| A: dit [zijn] [het] tafel 
+A|24| A: oké [ja] even zoeken acht 
+B|25| B: [dat] [dat] [dat] wijsding [dat] linksbof helemaal hoog uitsteken 
+B|26| B: [ja] [het] hoog [ding] [ja] 
+A|27| A: [ja] dit [zijn] [weer] met [dat] tafel 
+A|28| A: oké dertien 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : ja ja die ja die eigenlijk het hoog zijn van bijna van al
+	Free: Pattern=zijn, Pattern=ja, Pattern=van, Pattern=het
+	Constrained: 
+Turn ID=1| B | B : ja okee
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=2| B | B : n
+	Free: 
+	Constrained: 
+Turn ID=3| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=4| B | B : ik hebben dat heel langwerpig pijl weer die Linksbovenin
+	Free: Pattern=ik hebben, Pattern=weer, Pattern=dat
+	Constrained: Pattern=hebben, Pattern=ik
+Turn ID=5| B | B : die eigenlijk het hoog zijn van alles
+	Free: Pattern=zijn, Pattern=van, Pattern=het
+	Constrained: 
+Turn ID=6| A | A : nou deze hebben een soort van plateau aan dat kop vast als het zijn
+	Free: Pattern=dat, Pattern=het, Pattern=hebben, Pattern=van, Pattern=zijn
+	Constrained: 
+Turn ID=7| A | A : en aan de dat zijn aan de rechterkant
+	Free: Pattern=dat, Pattern=zijn
+	Constrained: 
+Turn ID=8| A | A : en aan de linkerkant hebben hij ook een gek uitsteeksel met nog een gek uitsteeksel daar bovenop
+	Free: Pattern=hebben
+	Constrained: 
+Turn ID=9| A | A : ja precies
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=10| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=11| A | A : oké ja dat zijn even zoeken vijfteen
+	Free: Pattern=dat, Pattern=zijn, Pattern=ja
+	Constrained: 
+Turn ID=12| B | B : ja p
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=13| B | B : die ik hebben die die die pijl die heel hoog zitten Linksbovenin
+	Free: Pattern=ik hebben
+	Constrained: Pattern=hebben, Pattern=ik
+Turn ID=14| A | A : oké ja dit zijn weer met zo'n tafel er naast
+	Free: Pattern=weer, Pattern=zijn, Pattern=ja
+	Constrained: 
+Turn ID=15| A | A : ja precies
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=16| B | B : ja I
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=17| A | A : nu hebben ik niks ook niets
+	Free: Pattern=hebben, Pattern=ik
+	Constrained: 
+Turn ID=18| A | A : sure ja oké ja nee duidelijk
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=19| A | A : nee ja nee tuurlijk dat zijn zeggen maar
+	Free: Pattern=dat, Pattern=zijn, Pattern=ja
+	Constrained: 
+Turn ID=20| A | A : maar zijn ik nu dan of
+	Free: Pattern=zijn, Pattern=ik
+	Constrained: 
+Turn ID=21| A | A : want ik hebben geen ding aangekruist
+	Free: Pattern=ik hebben, Pattern=ding
+	Constrained: Pattern=hebben, Pattern=ik
+Turn ID=22| A | A : dit zijn weer de tafel sure
+	Free: Pattern=weer, Pattern=zijn
+	Constrained: 
+Turn ID=23| A | A : dit zijn het tafel
+	Free: Pattern=zijn, Pattern=het
+	Constrained: 
+Turn ID=24| A | A : oké ja even zoeken acht
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=25| B | B : dat dat dat wijsding dat linksbof helemaal hoog uitsteken
+	Free: Pattern=dat
+	Constrained: 
+Turn ID=26| B | B : ja het hoog ding ja
+	Free: Pattern=ding, Pattern=ja, Pattern=het
+	Constrained: 
+Turn ID=27| A | A : ja dit zijn weer met dat tafel
+	Free: Pattern=weer, Pattern=dat, Pattern=zijn, Pattern=ja
+	Constrained: 
+Turn ID=28| A | A : oké dertien
+	Free: 
+	Constrained: 

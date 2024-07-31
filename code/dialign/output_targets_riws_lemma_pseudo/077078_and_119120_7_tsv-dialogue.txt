@@ -1,0 +1,99 @@
+B|0| B: _dit_ noemen ik tafel 
+B|1| B: _met_ blok 
+B|2| B: oké 
+B|3| B: O 
+A|4| A: _ja_ 
+A|5| A: nummer _zestien_ 
+B|6| B: tafelt tafel _waar_ _zijn_ tafel 
+B|7| B: P _veertien_ 
+A|8| A: [dit] [zijn] die _een_ [met] dat kampvuurbank [waar] dan dat cakevormp op staat 
+B|9| B: tafel 
+B|10| B: P 
+B|11| B: [ja] 
+A|12| A: yes 
+A|13| A: nummer [veertien] 
+B|14| B: oké N 
+B|15| B: N achten 
+A|16| A: [dit] [zijn] die _een_ [met] het kampvuurtafel [met] de cakevorm 
+B|17| B: [een] nieuw scherm 
+B|18| B: tafel 
+B|19| B: I 
+A|20| A: yes _kijken_ [zijn] moeilijk nummer tien 
+B|21| B: [kijken] D 
+B|22| B: dus d [zestien] 
+A|23| A: even [kijken] [dit] [zijn] [met] dat picknickbank [met] de cakevorm erop 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : dit noemen ik tafel
+	Free: Pattern=dit
+	Constrained: 
+Turn ID=1| B | B : met blok
+	Free: Pattern=met
+	Constrained: 
+Turn ID=2| B | B : oké
+	Free: 
+	Constrained: 
+Turn ID=3| B | B : O
+	Free: 
+	Constrained: 
+Turn ID=4| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=5| A | A : nummer zestien
+	Free: Pattern=zestien
+	Constrained: 
+Turn ID=6| B | B : tafelt tafel waar zijn tafel
+	Free: Pattern=waar, Pattern=zijn
+	Constrained: 
+Turn ID=7| B | B : P veertien
+	Free: Pattern=veertien
+	Constrained: 
+Turn ID=8| A | A : dit zijn die een met dat kampvuurbank waar dan dat cakevormp op staat
+	Free: Pattern=waar, Pattern=een, Pattern=dit, Pattern=met, Pattern=zijn
+	Constrained: 
+Turn ID=9| B | B : tafel
+	Free: 
+	Constrained: 
+Turn ID=10| B | B : P
+	Free: 
+	Constrained: 
+Turn ID=11| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=12| A | A : yes
+	Free: 
+	Constrained: 
+Turn ID=13| A | A : nummer veertien
+	Free: Pattern=veertien
+	Constrained: 
+Turn ID=14| B | B : oké N
+	Free: 
+	Constrained: 
+Turn ID=15| B | B : N achten
+	Free: 
+	Constrained: 
+Turn ID=16| A | A : dit zijn die een met het kampvuurtafel met de cakevorm
+	Free: Pattern=met, Pattern=een, Pattern=dit, Pattern=zijn
+	Constrained: 
+Turn ID=17| B | B : een nieuw scherm
+	Free: Pattern=een
+	Constrained: 
+Turn ID=18| B | B : tafel
+	Free: 
+	Constrained: 
+Turn ID=19| B | B : I
+	Free: 
+	Constrained: 
+Turn ID=20| A | A : yes kijken zijn moeilijk nummer tien
+	Free: Pattern=kijken, Pattern=zijn
+	Constrained: 
+Turn ID=21| B | B : kijken D
+	Free: Pattern=kijken
+	Constrained: 
+Turn ID=22| B | B : dus d zestien
+	Free: Pattern=zestien
+	Constrained: 
+Turn ID=23| A | A : even kijken dit zijn met dat picknickbank met de cakevorm erop
+	Free: Pattern=kijken, Pattern=met, Pattern=dit, Pattern=zijn
+	Constrained: 

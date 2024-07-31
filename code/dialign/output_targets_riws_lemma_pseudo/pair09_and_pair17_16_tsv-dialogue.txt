@@ -1,0 +1,135 @@
+B|0| B: _en dan daarachter_ _een_ _soort van_ _een_ slurf 
+B|1| B: _ja_ 
+B|2| B: g 
+A|3| A: okeeen _deze hebben_ zo'n pixeliseren neus lijken het wel 
+A|4| A: vierkant 
+A|5| A: wat [een] beetje uitsteken 
+A|6| A: [en] het steken uit _aan de rechterkant_ 
+A|7| A: [en dan] daarboven zitten _de_ [een] druppel , [soort van] 
+A|8| A: [ja] [soort van] druppelachtig iets 
+A|9| A: [en] _die_ _hebben_ [dan] ook als linkerarm ook [een] druppel 
+A|10| A: [en dan daarachter] we kunnen zeggen dat hij [een] staart _hebben_ 
+A|11| A: _okee_ 
+B|12| B: [deze hebben] _twee_ handvaet één bovenop één [aan de] linkerkant 
+B|13| B: [en] [aan de rechterkant] [die] vierhoek [die] steeds _klein_ worden 
+A|14| A: [daarachter] [die] [een] beetje uitsteken 
+A|15| A: [ja] zo'n pixeliseren neus op [die] 
+A|16| A: _okee_ dat _zijn_ nummer [twee] 
+B|17| B: [ja] 
+B|18| B: n 
+A|19| A: _deze hebben een_ kegel hier [en] [een] kegel [aan] [deze] kant 
+B|20| B: [deze hebben een] handvat bovenop [een] handvat _links en_ [aan de rechterkant] [die] blok [die] steeds _klein_ worden 
+A|21| A: [aan] [deze] kant [hebben] hij [een] dik vierkant pixeliseren neus 
+B|22| B: handvat bovenop [een] handvat link 
+A|23| A: [en dan] [hebben] hij [daarachter] nog zo'n [klein] krom staart zullen we maar zeggen 
+B|24| B: [en] [aan de rechterkant] [de] blok [die] 
+B|25| B: [okee] theekop [ja] [zijn] goed 
+A|26| A: [ja] ik zien hem 
+A|27| A: dat [zijn] nummer dertien 
+B|28| B: h 
+B|29| B: _dit zijn_ [de] theekop 
+A|30| A: [dit zijn] [die] [een] met [de] kegel hierboven [en] [een] kegel [links en] [een] dik neus 
+A|31| A: [ja] 
+A|32| A: nummer zestien 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : en dan daarachter een soort van een slurf
+	Free: Pattern=en dan daarachter, Pattern=soort van, Pattern=een
+	Constrained: Pattern=en dan, Pattern=en, Pattern=dan, Pattern=daarachter
+Turn ID=1| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=2| B | B : g
+	Free: 
+	Constrained: 
+Turn ID=3| A | A : okeeen deze hebben zo'n pixeliseren neus lijken het wel
+	Free: Pattern=deze hebben
+	Constrained: Pattern=deze, Pattern=hebben
+Turn ID=4| A | A : vierkant
+	Free: 
+	Constrained: 
+Turn ID=5| A | A : wat een beetje uitsteken
+	Free: Pattern=een
+	Constrained: 
+Turn ID=6| A | A : en het steken uit aan de rechterkant
+	Free: Pattern=aan de rechterkant, Pattern=en
+	Constrained: Pattern=aan, Pattern=de, Pattern=aan de
+Turn ID=7| A | A : en dan daarboven zitten de een druppel , soort van
+	Free: Pattern=soort van, Pattern=en dan, Pattern=de, Pattern=een
+	Constrained: Pattern=dan, Pattern=en
+Turn ID=8| A | A : ja soort van druppelachtig iets
+	Free: Pattern=soort van, Pattern=ja
+	Constrained: 
+Turn ID=9| A | A : en die hebben dan ook als linkerarm ook een druppel
+	Free: Pattern=dan, Pattern=een, Pattern=hebben, Pattern=die, Pattern=en
+	Constrained: 
+Turn ID=10| A | A : en dan daarachter we kunnen zeggen dat hij een staart hebben
+	Free: Pattern=en dan daarachter, Pattern=een, Pattern=hebben
+	Constrained: Pattern=en dan, Pattern=en, Pattern=dan, Pattern=daarachter
+Turn ID=11| A | A : okee
+	Free: Pattern=okee
+	Constrained: 
+Turn ID=12| B | B : deze hebben twee handvaet één bovenop één aan de linkerkant
+	Free: Pattern=deze hebben, Pattern=aan de, Pattern=twee
+	Constrained: Pattern=de, Pattern=deze, Pattern=aan, Pattern=hebben
+Turn ID=13| B | B : en aan de rechterkant die vierhoek die steeds klein worden
+	Free: Pattern=aan de rechterkant, Pattern=die, Pattern=klein, Pattern=en
+	Constrained: Pattern=aan, Pattern=de, Pattern=aan de
+Turn ID=14| A | A : daarachter die een beetje uitsteken
+	Free: Pattern=die, Pattern=daarachter, Pattern=een
+	Constrained: 
+Turn ID=15| A | A : ja zo'n pixeliseren neus op die
+	Free: Pattern=die, Pattern=ja
+	Constrained: 
+Turn ID=16| A | A : okee dat zijn nummer twee
+	Free: Pattern=okee, Pattern=twee, Pattern=zijn
+	Constrained: 
+Turn ID=17| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=18| B | B : n
+	Free: 
+	Constrained: 
+Turn ID=19| A | A : deze hebben een kegel hier en een kegel aan deze kant
+	Free: Pattern=aan, Pattern=deze hebben een, Pattern=een, Pattern=en, Pattern=deze
+	Constrained: Pattern=deze hebben, Pattern=een, Pattern=deze, Pattern=hebben
+Turn ID=20| B | B : deze hebben een handvat bovenop een handvat links en aan de rechterkant die blok die steeds klein worden
+	Free: Pattern=deze hebben een, Pattern=een, Pattern=klein, Pattern=links en, Pattern=aan de rechterkant, Pattern=die
+	Constrained: Pattern=aan de, Pattern=een, Pattern=hebben, Pattern=deze hebben, Pattern=en, Pattern=deze, Pattern=de, Pattern=aan
+Turn ID=21| A | A : aan deze kant hebben hij een dik vierkant pixeliseren neus
+	Free: Pattern=deze, Pattern=een, Pattern=aan, Pattern=hebben
+	Constrained: 
+Turn ID=22| B | B : handvat bovenop een handvat link
+	Free: Pattern=een
+	Constrained: 
+Turn ID=23| A | A : en dan hebben hij daarachter nog zo'n klein krom staart zullen we maar zeggen
+	Free: Pattern=en dan, Pattern=daarachter, Pattern=klein, Pattern=hebben
+	Constrained: Pattern=dan, Pattern=en
+Turn ID=24| B | B : en aan de rechterkant de blok die
+	Free: Pattern=aan de rechterkant, Pattern=die, Pattern=de, Pattern=en
+	Constrained: Pattern=aan, Pattern=de, Pattern=aan de
+Turn ID=25| B | B : okee theekop ja zijn goed
+	Free: Pattern=ja, Pattern=okee, Pattern=zijn
+	Constrained: 
+Turn ID=26| A | A : ja ik zien hem
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=27| A | A : dat zijn nummer dertien
+	Free: Pattern=zijn
+	Constrained: 
+Turn ID=28| B | B : h
+	Free: 
+	Constrained: 
+Turn ID=29| B | B : dit zijn de theekop
+	Free: Pattern=dit zijn, Pattern=de
+	Constrained: Pattern=zijn
+Turn ID=30| A | A : dit zijn die een met de kegel hierboven en een kegel links en een dik neus
+	Free: Pattern=de, Pattern=een, Pattern=die, Pattern=en, Pattern=links en, Pattern=dit zijn
+	Constrained: Pattern=zijn, Pattern=en
+Turn ID=31| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=32| A | A : nummer zestien
+	Free: 
+	Constrained: 

@@ -1,0 +1,131 @@
+B|0| B: ah _ja_ _ik_ weten welk je bedoelen 
+B|1| B: M 
+A|2| A: oké deze _vinden ik_ heel vaag hij hebben _een_ ruit bovenop _en aan_ beide kant _van_ _die_ ruit _steken_ _er_ iets _uit_ 
+A|3| A: [ja] _en_ hij hebben nog drie _ding_ ver één _beetje_ _onder en_ _twee_ rechts 
+A|4| A: [ja] nog zo ongeveer 
+B|5| B: [ik] [vinden] dit _een beetje_ [een] kraan _met_ [een] wasbak 
+B|6| B: [er] zitten [een] soort [van] afvoer [onder [en] _aan] de zijkant_ het _zijn_ [twee] dezelfde [ding] [er] zitten [een] soort [van] potlood [die] [er] vooruit [uit] [steken] 
+B|7| B: [ja] 
+B|8| B: [ja] _dat_ [vinden ik] wasbak _met_ [een] kraan [ja] 
+B|9| B: H 
+A|10| A: [ja] 
+A|11| A: wachten nog één keer 
+A|12| A: [dat] [zijn] toch [een] ander [die] [ik] hebben denken 
+A|13| A: [een beetje] zo zo'n ruit 
+A|14| A: [en] dan bovenop 
+A|15| A: [ja] [ja] [ja] [en] dan nog drie [ding] 
+A|16| A: [dat] [zijn] nummer negen 
+B|17| B: [ja] dit [zijn] _weer die_ waar [ik] _zeggen_ [een] wasbak _met_ [een] kraan 
+B|18| B: _met_ [een] potlood _aan de_ voorkant 
+B|19| B: [ja] 
+A|20| A: hebben [ik] ook 
+A|21| A: nou nu hebben [ik] [weer die] ruit erbovenop [met] [twee] [ding] [aan de zijkant] 
+A|22| A: [en] dan drie armp 
+A|23| A: been 
+B|24| B: [ja] D 
+B|25| B: [ik] moeten hem even zoeken 
+B|26| B: [ja] [de] [de] soort [van] wasbak [met] het vierkant [dat] eruit [steken] [aan de] bovenkant 
+A|27| A: [ja] [die] ruit [ja] 
+A|28| A: [ja] nummer elf [ik] willen [zeggen] 
+A|29| A: [ik] hebben [die] [met] [die] ruit erbovenop [met] [die] [twee] blok ernaast 
+A|30| A: dinge eraan 
+A|31| A: nummer veertien 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : ah ja ik weten welk je bedoelen
+	Free: Pattern=ik, Pattern=ja
+	Constrained: 
+Turn ID=1| B | B : M
+	Free: 
+	Constrained: 
+Turn ID=2| A | A : oké deze vinden ik heel vaag hij hebben een ruit bovenop en aan beide kant van die ruit steken er iets uit
+	Free: Pattern=uit, Pattern=die, Pattern=er, Pattern=van, Pattern=een, Pattern=vinden ik, Pattern=steken, Pattern=en aan
+	Constrained: Pattern=en, Pattern=ik, Pattern=vinden
+Turn ID=3| A | A : ja en hij hebben nog drie ding ver één beetje onder en twee rechts
+	Free: Pattern=onder en, Pattern=twee, Pattern=ja, Pattern=beetje, Pattern=ding, Pattern=en
+	Constrained: Pattern=en
+Turn ID=4| A | A : ja nog zo ongeveer
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=5| B | B : ik vinden dit een beetje een kraan met een wasbak
+	Free: Pattern=vinden, Pattern=een, Pattern=met, Pattern=ik, Pattern=een beetje
+	Constrained: Pattern=beetje, Pattern=een
+Turn ID=6| B | B : er zitten een soort van afvoer onder en aan de zijkant het zijn twee dezelfde ding er zitten een soort van potlood die er vooruit uit steken
+	Free: Pattern=onder en, Pattern=twee, Pattern=uit, Pattern=ding, Pattern=die, Pattern=er, Pattern=van, Pattern=zijn, Pattern=een, Pattern=aan de zijkant, Pattern=steken, Pattern=en aan
+	Constrained: Pattern=de, Pattern=en, Pattern=aan de
+Turn ID=7| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=8| B | B : ja dat vinden ik wasbak met een kraan ja
+	Free: Pattern=dat, Pattern=ja, Pattern=met, Pattern=een, Pattern=vinden ik
+	Constrained: Pattern=ik, Pattern=vinden
+Turn ID=9| B | B : H
+	Free: 
+	Constrained: 
+Turn ID=10| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=11| A | A : wachten nog één keer
+	Free: 
+	Constrained: 
+Turn ID=12| A | A : dat zijn toch een ander die ik hebben denken
+	Free: Pattern=dat, Pattern=een, Pattern=die, Pattern=ik, Pattern=zijn
+	Constrained: 
+Turn ID=13| A | A : een beetje zo zo'n ruit
+	Free: Pattern=een beetje
+	Constrained: Pattern=beetje, Pattern=een
+Turn ID=14| A | A : en dan bovenop
+	Free: Pattern=en
+	Constrained: 
+Turn ID=15| A | A : ja ja ja en dan nog drie ding
+	Free: Pattern=en, Pattern=ja, Pattern=ding
+	Constrained: 
+Turn ID=16| A | A : dat zijn nummer negen
+	Free: Pattern=dat, Pattern=zijn
+	Constrained: 
+Turn ID=17| B | B : ja dit zijn weer die waar ik zeggen een wasbak met een kraan
+	Free: Pattern=ja, Pattern=een, Pattern=met, Pattern=ik, Pattern=zijn, Pattern=zeggen, Pattern=weer die
+	Constrained: Pattern=die
+Turn ID=18| B | B : met een potlood aan de voorkant
+	Free: Pattern=aan de, Pattern=met, Pattern=een
+	Constrained: Pattern=de
+Turn ID=19| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=20| A | A : hebben ik ook
+	Free: Pattern=ik
+	Constrained: 
+Turn ID=21| A | A : nou nu hebben ik weer die ruit erbovenop met twee ding aan de zijkant
+	Free: Pattern=twee, Pattern=ding, Pattern=aan de zijkant, Pattern=weer die, Pattern=met, Pattern=ik
+	Constrained: Pattern=de, Pattern=die, Pattern=aan de
+Turn ID=22| A | A : en dan drie armp
+	Free: Pattern=en
+	Constrained: 
+Turn ID=23| A | A : been
+	Free: 
+	Constrained: 
+Turn ID=24| B | B : ja D
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=25| B | B : ik moeten hem even zoeken
+	Free: Pattern=ik
+	Constrained: 
+Turn ID=26| B | B : ja de de soort van wasbak met het vierkant dat eruit steken aan de bovenkant
+	Free: Pattern=dat, Pattern=aan de, Pattern=met, Pattern=van, Pattern=steken, Pattern=de, Pattern=ja
+	Constrained: Pattern=de
+Turn ID=27| A | A : ja die ruit ja
+	Free: Pattern=die, Pattern=ja
+	Constrained: 
+Turn ID=28| A | A : ja nummer elf ik willen zeggen
+	Free: Pattern=ik, Pattern=zeggen, Pattern=ja
+	Constrained: 
+Turn ID=29| A | A : ik hebben die met die ruit erbovenop met die twee blok ernaast
+	Free: Pattern=twee, Pattern=ik, Pattern=die, Pattern=met
+	Constrained: 
+Turn ID=30| A | A : dinge eraan
+	Free: 
+	Constrained: 
+Turn ID=31| A | A : nummer veertien
+	Free: 
+	Constrained: 

@@ -1,0 +1,175 @@
+A|0| A: _ja_ 
+A|1| A: _ik hebben hem_ 
+A|2| A: _en_ dan 
+A|3| A: _ja_ 
+A|4| A: negen 
+B|5| B: dit _zijn_ het theekopje [ik] noemen het maar _een_ theeko _die_ het weinig uitsteeksel [hebben] 
+B|6| B: hij [hebben] eigenlijk geen geen staven eruit 
+B|7| B: _bovenop_ _zitten_ _een soort van_ rechthoek 
+B|8| B: vrij _klein_ 
+B|9| B: [en] _link_ _zitten_ _een soort van_ [ja] kapachtig vorm 
+B|10| B: _ja ik_ zien het niet _heel_ goed 
+B|11| B: [ja] _een soort van_ driehoeksstaaf _met_ _een_ stok erin 
+B|12| B: het _zijn_ _de_ _klein_ zeggen maar 
+B|13| B: [ja] [ja] erbovenop [ja] 
+A|14| A: bovenin komen er [een] vierkant uit 
+A|15| A: [en] dan [zitten] er [link] nog [een] [ja] rondjeachtig [en] rechts [zitten] ook [een] [klein] figuur 
+A|16| A: [die] [zijn] [een] beetje donker 
+A|17| A: Bovenin [zijn] [een] zegmaar [een soort van] 
+A|18| A: [ja] balkje wat erop liggen 
+A|19| A: [ja] 
+A|20| A: [ja] 
+B|21| B: [ja] 
+B|22| B: _ja ik hebben hem_ denken [ik] _dat_ [zijn] I 
+A|23| A: [ja] [en] dan [zitten] nog 
+A|24| A: [zitten] nog [een] half dinge 
+A|25| A: [ja] 
+A|26| A: drie 
+B|27| B: dit [zijn] weer _de_ [klein] _met_ zonder uitstulping [en] _de_ _de_ _de_ rechthoek _bovenop_ 
+A|28| A: [bovenop] liggen [een] [dat] vierkant dinge , [en] aan [de] zijkant [zitten] dan zo'n half dinge eraan links 
+A|29| A: [ja] [link] 
+A|30| A: [en] rechts [zitten] nog [een] [heel] dun dinge [met] nog iets eronder 
+B|31| B: [ja] erbovenop toch ? [ja] 
+B|32| B: [dat] [zijn] m 
+A|33| A: [ja] 
+A|34| A: [ja] 
+A|35| A: [ja] 
+B|36| B: [de] [klein] weer [met] [een] rechthoek [bovenop] 
+A|37| A: [ja ik hebben hem] 
+A|38| A: [en] [die] [dat] ander dinge aan [de] 
+A|39| A: [ja] 
+A|40| A: achten 
+B|41| B: [ja] [dat] [zijn] d 
+A|42| A: [dat] vierkant wat er boven uit komen [met] [dat] attachment dinge [en] [dat] ander 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=1| A | A : ik hebben hem
+	Free: Pattern=ik hebben hem
+	Constrained: Pattern=hebben, Pattern=ik
+Turn ID=2| A | A : en dan
+	Free: Pattern=en
+	Constrained: 
+Turn ID=3| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=4| A | A : negen
+	Free: 
+	Constrained: 
+Turn ID=5| B | B : dit zijn het theekopje ik noemen het maar een theeko die het weinig uitsteeksel hebben
+	Free: Pattern=een, Pattern=hebben, Pattern=die, Pattern=ik, Pattern=zijn
+	Constrained: 
+Turn ID=6| B | B : hij hebben eigenlijk geen geen staven eruit
+	Free: Pattern=hebben
+	Constrained: 
+Turn ID=7| B | B : bovenop zitten een soort van rechthoek
+	Free: Pattern=een soort van, Pattern=bovenop, Pattern=zitten
+	Constrained: Pattern=een
+Turn ID=8| B | B : vrij klein
+	Free: Pattern=klein
+	Constrained: 
+Turn ID=9| B | B : en link zitten een soort van ja kapachtig vorm
+	Free: Pattern=ja, Pattern=een soort van, Pattern=zitten, Pattern=link, Pattern=en
+	Constrained: Pattern=een
+Turn ID=10| B | B : ja ik zien het niet heel goed
+	Free: Pattern=ja ik, Pattern=heel
+	Constrained: Pattern=ja, Pattern=ik
+Turn ID=11| B | B : ja een soort van driehoeksstaaf met een stok erin
+	Free: Pattern=een soort van, Pattern=ja, Pattern=met, Pattern=een
+	Constrained: Pattern=een
+Turn ID=12| B | B : het zijn de klein zeggen maar
+	Free: Pattern=zijn, Pattern=de, Pattern=klein
+	Constrained: 
+Turn ID=13| B | B : ja ja erbovenop ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=14| A | A : bovenin komen er een vierkant uit
+	Free: Pattern=een
+	Constrained: 
+Turn ID=15| A | A : en dan zitten er link nog een ja rondjeachtig en rechts zitten ook een klein figuur
+	Free: Pattern=ja, Pattern=een, Pattern=zitten, Pattern=link, Pattern=klein, Pattern=en
+	Constrained: 
+Turn ID=16| A | A : die zijn een beetje donker
+	Free: Pattern=zijn, Pattern=die, Pattern=een
+	Constrained: 
+Turn ID=17| A | A : Bovenin zijn een zegmaar een soort van
+	Free: Pattern=een soort van, Pattern=zijn, Pattern=een
+	Constrained: Pattern=een
+Turn ID=18| A | A : ja balkje wat erop liggen
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=19| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=20| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=21| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=22| B | B : ja ik hebben hem denken ik dat zijn I
+	Free: Pattern=ja ik hebben hem, Pattern=dat, Pattern=zijn, Pattern=ik
+	Constrained: Pattern=hebben, Pattern=ja ik, Pattern=ik, Pattern=ja, Pattern=ik hebben hem
+Turn ID=23| A | A : ja en dan zitten nog
+	Free: Pattern=en, Pattern=ja, Pattern=zitten
+	Constrained: 
+Turn ID=24| A | A : zitten nog een half dinge
+	Free: Pattern=zitten, Pattern=een
+	Constrained: 
+Turn ID=25| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=26| A | A : drie
+	Free: 
+	Constrained: 
+Turn ID=27| B | B : dit zijn weer de klein met zonder uitstulping en de de de rechthoek bovenop
+	Free: Pattern=bovenop, Pattern=de, Pattern=met, Pattern=klein, Pattern=en, Pattern=zijn
+	Constrained: 
+Turn ID=28| A | A : bovenop liggen een dat vierkant dinge , en aan de zijkant zitten dan zo'n half dinge eraan links
+	Free: Pattern=de, Pattern=een, Pattern=zitten, Pattern=en, Pattern=dat, Pattern=bovenop
+	Constrained: 
+Turn ID=29| A | A : ja link
+	Free: Pattern=ja, Pattern=link
+	Constrained: 
+Turn ID=30| A | A : en rechts zitten nog een heel dun dinge met nog iets eronder
+	Free: Pattern=heel, Pattern=een, Pattern=met, Pattern=zitten, Pattern=en
+	Constrained: 
+Turn ID=31| B | B : ja erbovenop toch ? ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=32| B | B : dat zijn m
+	Free: Pattern=dat, Pattern=zijn
+	Constrained: 
+Turn ID=33| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=34| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=35| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=36| B | B : de klein weer met een rechthoek bovenop
+	Free: Pattern=bovenop, Pattern=de, Pattern=een, Pattern=met, Pattern=klein
+	Constrained: 
+Turn ID=37| A | A : ja ik hebben hem
+	Free: Pattern=ja ik hebben hem
+	Constrained: Pattern=hebben, Pattern=ja ik, Pattern=ik, Pattern=ja, Pattern=ik hebben hem
+Turn ID=38| A | A : en die dat ander dinge aan de
+	Free: Pattern=en, Pattern=dat, Pattern=die, Pattern=de
+	Constrained: 
+Turn ID=39| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=40| A | A : achten
+	Free: 
+	Constrained: 
+Turn ID=41| B | B : ja dat zijn d
+	Free: Pattern=dat, Pattern=zijn, Pattern=ja
+	Constrained: 
+Turn ID=42| A | A : dat vierkant wat er boven uit komen met dat attachment dinge en dat ander
+	Free: Pattern=en, Pattern=dat, Pattern=met
+	Constrained: 

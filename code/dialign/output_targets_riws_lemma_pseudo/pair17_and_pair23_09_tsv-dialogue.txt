@@ -1,0 +1,139 @@
+B|0| B: oké ik _hebben_ het rood vierkant 
+B|1| B: even kijken ik _zien_ _een_ _cirkel_ _een_ _half cirkel_ _die_ verbergen _zijn_ _achter_ soort van koffiekopje 
+B|2| B: _en_ het voelen alsof _de_ lepel rechts zitten 
+A|3| A: ovaal verhoging 
+B|4| B: _ja_ aan _de_ linkerkant 
+B|5| B: beetje balk 
+A|6| A: [en] je [zien] zo'n [half cirkel] [achter] _achter de_ emmer 
+A|7| A: okee 
+A|8| A: drie 
+A|9| A: deze [zijn] [die] _met_ [die] [half cirkel] _achter de_ emmer 
+A|10| A: [en] _links_ ervan [zijn] [een] cilinder [die] eruit komen 
+B|11| B: _ja_ redelijk blokkerig staaf 
+B|12| B: _ja_ 
+B|13| B: _ja_ staan op [een] heel klein verhogink 
+B|14| B: _ja_ 
+B|15| B: H 
+A|16| A: [ja] 
+A|17| A: negen 
+B|18| B: het cirkeltje zitten verstoppen [achter de] kop 
+B|19| B: rechts zitten [een] lepeltje 
+B|20| B: [links] [een] balkje 
+B|21| B: [met] [een] soort verhoginkje eronder 
+A|22| A: deze [hebben] [die] dat ovaal onderop [de] emmer 
+A|23| A: [en] [die] [half cirkel] [achter de] emmer 
+A|24| A: [ja] 
+A|25| A: zes 
+A|26| A: deze [zijn] [met] [die] [half _cirkel] erachter_ 
+B|27| B: [ja] 
+B|28| B: ik [hebben] hem 
+B|29| B: K 
+B|30| B: [cirkel erachter] 
+B|31| B: aan [de] linkerkant [een] heel recht staaf , recht rechtsboven [een] lepeltje erin 
+B|32| B: [ja] 
+B|33| B: P 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : oké ik hebben het rood vierkant
+	Free: Pattern=hebben
+	Constrained: 
+Turn ID=1| B | B : even kijken ik zien een cirkel een half cirkel die verbergen zijn achter soort van koffiekopje
+	Free: Pattern=cirkel, Pattern=een, Pattern=achter, Pattern=zijn, Pattern=half cirkel, Pattern=die, Pattern=zien
+	Constrained: Pattern=cirkel
+Turn ID=2| B | B : en het voelen alsof de lepel rechts zitten
+	Free: Pattern=en, Pattern=de
+	Constrained: 
+Turn ID=3| A | A : ovaal verhoging
+	Free: 
+	Constrained: 
+Turn ID=4| B | B : ja aan de linkerkant
+	Free: Pattern=ja, Pattern=de
+	Constrained: 
+Turn ID=5| B | B : beetje balk
+	Free: 
+	Constrained: 
+Turn ID=6| A | A : en je zien zo'n half cirkel achter achter de emmer
+	Free: Pattern=achter de, Pattern=achter, Pattern=zien, Pattern=en, Pattern=half cirkel
+	Constrained: Pattern=cirkel, Pattern=de, Pattern=achter
+Turn ID=7| A | A : okee
+	Free: 
+	Constrained: 
+Turn ID=8| A | A : drie
+	Free: 
+	Constrained: 
+Turn ID=9| A | A : deze zijn die met die half cirkel achter de emmer
+	Free: Pattern=achter de, Pattern=met, Pattern=die, Pattern=zijn, Pattern=half cirkel
+	Constrained: Pattern=cirkel, Pattern=de, Pattern=achter
+Turn ID=10| A | A : en links ervan zijn een cilinder die eruit komen
+	Free: Pattern=een, Pattern=links, Pattern=die, Pattern=en, Pattern=zijn
+	Constrained: 
+Turn ID=11| B | B : ja redelijk blokkerig staaf
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=12| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=13| B | B : ja staan op een heel klein verhogink
+	Free: Pattern=een, Pattern=ja
+	Constrained: 
+Turn ID=14| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=15| B | B : H
+	Free: 
+	Constrained: 
+Turn ID=16| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=17| A | A : negen
+	Free: 
+	Constrained: 
+Turn ID=18| B | B : het cirkeltje zitten verstoppen achter de kop
+	Free: Pattern=achter de
+	Constrained: Pattern=de, Pattern=achter
+Turn ID=19| B | B : rechts zitten een lepeltje
+	Free: Pattern=een
+	Constrained: 
+Turn ID=20| B | B : links een balkje
+	Free: Pattern=een, Pattern=links
+	Constrained: 
+Turn ID=21| B | B : met een soort verhoginkje eronder
+	Free: Pattern=met, Pattern=een
+	Constrained: 
+Turn ID=22| A | A : deze hebben die dat ovaal onderop de emmer
+	Free: Pattern=die, Pattern=de, Pattern=hebben
+	Constrained: 
+Turn ID=23| A | A : en die half cirkel achter de emmer
+	Free: Pattern=half cirkel, Pattern=achter de, Pattern=die, Pattern=en
+	Constrained: Pattern=cirkel, Pattern=de, Pattern=achter
+Turn ID=24| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=25| A | A : zes
+	Free: 
+	Constrained: 
+Turn ID=26| A | A : deze zijn met die half cirkel erachter
+	Free: Pattern=met, Pattern=die, Pattern=zijn, Pattern=half cirkel, Pattern=cirkel erachter
+	Constrained: Pattern=cirkel
+Turn ID=27| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=28| B | B : ik hebben hem
+	Free: Pattern=hebben
+	Constrained: 
+Turn ID=29| B | B : K
+	Free: 
+	Constrained: 
+Turn ID=30| B | B : cirkel erachter
+	Free: Pattern=cirkel erachter
+	Constrained: Pattern=cirkel
+Turn ID=31| B | B : aan de linkerkant een heel recht staaf , recht rechtsboven een lepeltje erin
+	Free: Pattern=een, Pattern=de
+	Constrained: 
+Turn ID=32| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=33| B | B : P
+	Free: 
+	Constrained: 

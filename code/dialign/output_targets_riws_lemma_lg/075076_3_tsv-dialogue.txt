@@ -1,0 +1,83 @@
+B|0| B: _ik hebben_ _het wijnglas_ 
+A|1| A: [het wijnglas] 
+B|2| B: [het] staan op zo'n soort van standaard _met een_ gedraaide 
+A|3| A: [met een] driehoek onderaan 
+B|4| B: _ja_ 
+A|5| A: [ja] bij mij _zijn_ _dat_ nummer vier 
+A|6| A: [ik hebben] weer _dat_ [wijnglas] wat je daarstraks zeggen 
+B|7| B: [ja] 
+B|8| B: waarom zien [ik] hem nou gewoon niet ? daar [zijn] _die_ 
+B|9| B: [dat] [zijn] A 
+B|10| B: [ik hebben] [het wijnglas] 
+A|11| A: nummer tien [zijn] [dat] bij mij 
+A|12| A: [ik hebben] [die] wijnbeker 
+B|13| B: oké 
+B|14| B: [dat] [zijn] L 
+B|15| B: [ik hebben] [het wijnglas] 
+A|16| A: nummer vier 
+A|17| A: [ja] 
+A|18| A: sorry [ik hebben] de [het wijnglas] 
+B|19| B: [dat] [zijn] F 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : ik hebben het wijnglas
+	Free: Pattern=het wijnglas, Pattern=ik hebben
+	Constrained: Pattern=ik, Pattern=het, Pattern=wijnglas
+Turn ID=1| A | A : het wijnglas
+	Free: Pattern=het wijnglas
+	Constrained: Pattern=het, Pattern=wijnglas
+Turn ID=2| B | B : het staan op zo'n soort van standaard met een gedraaide
+	Free: Pattern=met een, Pattern=het
+	Constrained: 
+Turn ID=3| A | A : met een driehoek onderaan
+	Free: Pattern=met een
+	Constrained: 
+Turn ID=4| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=5| A | A : ja bij mij zijn dat nummer vier
+	Free: Pattern=ja, Pattern=dat, Pattern=zijn
+	Constrained: 
+Turn ID=6| A | A : ik hebben weer dat wijnglas wat je daarstraks zeggen
+	Free: Pattern=ik hebben, Pattern=dat, Pattern=wijnglas
+	Constrained: Pattern=ik
+Turn ID=7| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=8| B | B : waarom zien ik hem nou gewoon niet ? daar zijn die
+	Free: Pattern=ik, Pattern=zijn, Pattern=die
+	Constrained: 
+Turn ID=9| B | B : dat zijn A
+	Free: Pattern=dat, Pattern=zijn
+	Constrained: 
+Turn ID=10| B | B : ik hebben het wijnglas
+	Free: Pattern=het wijnglas, Pattern=ik hebben
+	Constrained: Pattern=ik, Pattern=het, Pattern=wijnglas
+Turn ID=11| A | A : nummer tien zijn dat bij mij
+	Free: Pattern=dat, Pattern=zijn
+	Constrained: 
+Turn ID=12| A | A : ik hebben die wijnbeker
+	Free: Pattern=ik hebben, Pattern=die
+	Constrained: Pattern=ik
+Turn ID=13| B | B : oké
+	Free: 
+	Constrained: 
+Turn ID=14| B | B : dat zijn L
+	Free: Pattern=dat, Pattern=zijn
+	Constrained: 
+Turn ID=15| B | B : ik hebben het wijnglas
+	Free: Pattern=het wijnglas, Pattern=ik hebben
+	Constrained: Pattern=ik, Pattern=het, Pattern=wijnglas
+Turn ID=16| A | A : nummer vier
+	Free: 
+	Constrained: 
+Turn ID=17| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=18| A | A : sorry ik hebben de het wijnglas
+	Free: Pattern=het wijnglas, Pattern=ik hebben
+	Constrained: Pattern=ik, Pattern=het, Pattern=wijnglas
+Turn ID=19| B | B : dat zijn F
+	Free: Pattern=dat, Pattern=zijn
+	Constrained: 

@@ -1,0 +1,95 @@
+B|0| B: oké deze _zijn_ _weer_ _dat die_ basisvorm 
+B|1| B: dan _aan de zijkant_ op al _twee_ _de_ plek _dat_ vierkant _dat_ steeds klein vierkantje worden waar we _het_ over _hebben_ _en een_ groot vierkant _blok_ 
+A|2| A: _ja_ 
+B|3| B: _een_ _soort_ van plaat _aan de_ voorkant 
+A|4| A: _ja_ 
+B|5| B: _met_ nog _een_ _soort_ antenne achterin 
+A|6| A: [een] _ja_ [soort] _spion_ [hebben] ik ervan maken 
+B|7| B: [ja] 
+A|8| A: [dat die] [aan] [het] bellen [zijn] _dat zijn_ bij mij nummer [twee] 
+A|9| A: _dit zijn_ eigenlijk _die spion_ [weer] dus [met] [die] [twee] traps toelopen 
+A|10| A: [blok] tentakel omhoog [en een] vlak [aan de zijkant] 
+B|11| B: [dat zijn] G 
+B|12| B: [dit zijn] [die spion] wat jij zeggen [met] [dat] [met] [dat] groot vierkant [blok] voor 
+A|13| A: Blok [ja] 
+A|14| A: [dat zijn] nummer negen 
+A|15| A: [dit zijn] [de] [spion] 
+B|16| B: [ja] 
+B|17| B: [dit zijn] D 
+B|18| B: [dit zijn] [die spion] 
+A|19| A: [de] [spion] [die] staan [ja] nummer één 
+A|20| A: [dit zijn] [de] [spion] 
+B|21| B: even kijken waar [zijn] [die] 
+B|22| B: [ja] [dat zijn] B 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : oké deze zijn weer dat die basisvorm
+	Free: Pattern=dat die, Pattern=weer, Pattern=zijn
+	Constrained: Pattern=die, Pattern=dat
+Turn ID=1| B | B : dan aan de zijkant op al twee de plek dat vierkant dat steeds klein vierkantje worden waar we het over hebben en een groot vierkant blok
+	Free: Pattern=dat, Pattern=twee, Pattern=de, Pattern=aan de zijkant, Pattern=het, Pattern=hebben, Pattern=blok, Pattern=en een
+	Constrained: Pattern=aan, Pattern=een, Pattern=de, Pattern=aan de
+Turn ID=2| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=3| B | B : een soort van plaat aan de voorkant
+	Free: Pattern=aan de, Pattern=soort, Pattern=een
+	Constrained: Pattern=aan, Pattern=de
+Turn ID=4| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=5| B | B : met nog een soort antenne achterin
+	Free: Pattern=soort, Pattern=een, Pattern=met
+	Constrained: 
+Turn ID=6| A | A : een ja soort spion hebben ik ervan maken
+	Free: Pattern=soort, Pattern=ja, Pattern=een, Pattern=hebben, Pattern=spion
+	Constrained: 
+Turn ID=7| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=8| A | A : dat die aan het bellen zijn dat zijn bij mij nummer twee
+	Free: Pattern=dat zijn, Pattern=twee, Pattern=aan, Pattern=het, Pattern=dat die, Pattern=zijn
+	Constrained: Pattern=zijn, Pattern=die, Pattern=dat
+Turn ID=9| A | A : dit zijn eigenlijk die spion weer dus met die twee traps toelopen
+	Free: Pattern=twee, Pattern=met, Pattern=die, Pattern=die spion, Pattern=weer, Pattern=dit zijn
+	Constrained: Pattern=zijn, Pattern=spion, Pattern=die
+Turn ID=10| A | A : blok tentakel omhoog en een vlak aan de zijkant
+	Free: Pattern=aan de zijkant, Pattern=en een, Pattern=blok
+	Constrained: Pattern=aan, Pattern=een, Pattern=de, Pattern=aan de
+Turn ID=11| B | B : dat zijn G
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=12| B | B : dit zijn die spion wat jij zeggen met dat met dat groot vierkant blok voor
+	Free: Pattern=dat, Pattern=met, Pattern=die spion, Pattern=blok, Pattern=dit zijn
+	Constrained: Pattern=zijn, Pattern=spion, Pattern=die
+Turn ID=13| A | A : Blok ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=14| A | A : dat zijn nummer negen
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=15| A | A : dit zijn de spion
+	Free: Pattern=dit zijn, Pattern=spion, Pattern=de
+	Constrained: Pattern=zijn
+Turn ID=16| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=17| B | B : dit zijn D
+	Free: Pattern=dit zijn
+	Constrained: Pattern=zijn
+Turn ID=18| B | B : dit zijn die spion
+	Free: Pattern=die spion, Pattern=dit zijn
+	Constrained: Pattern=zijn, Pattern=spion, Pattern=die
+Turn ID=19| A | A : de spion die staan ja nummer één
+	Free: Pattern=ja, Pattern=spion, Pattern=de, Pattern=die
+	Constrained: 
+Turn ID=20| A | A : dit zijn de spion
+	Free: Pattern=dit zijn, Pattern=spion, Pattern=de
+	Constrained: Pattern=zijn
+Turn ID=21| B | B : even kijken waar zijn die
+	Free: Pattern=zijn, Pattern=die
+	Constrained: 
+Turn ID=22| B | B : ja dat zijn B
+	Free: Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=zijn, Pattern=dat

@@ -1,0 +1,131 @@
+A|0| A: _ja_ 
+A|1| A: _oké_ 
+A|2| A: _ja_ _ik_ weten welk _het_ zijn _dat_ zijn zestien 
+B|3| B: [oké] bij mij [ik] _vinden_ _hem_ een beetje op een machinegeweer zeggen _maar_ 
+B|4| B: je moeten een AK47 in je hoofd nemen en dan [ja] je je zien echt zo'n handvat en een 
+B|5| B: en een magazijn _maar_ misschien _hebben_ [ik] te veel Battlefield spelen [dat] kunnen ook 
+B|6| B: [oké] 
+B|7| B: [ja] zeggen _maar_ al al voorwerp zitten _aan de_ bovenste kant van [het] heel dinge 
+B|8| B: en helemaal bovenaan linksbof in _de_ hoek van [dat] dinget zien je heel klein _zo_ omhooggaan 
+B|9| B: _ja maar_ dan in dan zien je _maar_ twee poet 
+B|10| B: [ja] 
+B|11| B: [ja] 
+A|12| A: [oké] dit zijn [de] diep wasbakding _met_ [dat] vierkan [zo] [aan de] voorkant 
+B|13| B: P 
+A|14| A: even zoeken 
+A|15| A: zijn _die_ er 
+A|16| A: waar zijn _die_ 
+A|17| A: diep door [de] tafel heen 
+A|18| A: [ja] _ik hebben_ [hem] [vinden] 
+A|19| A: [dat] zijn veertien 
+A|20| A: dit zijn [de] diep sink of _die_ [dat] _met_ [het] geweer 
+B|21| B: [ik hebben] [die] weer [met] [die] [met] [die] AK 
+A|22| A: [ja maar] waar staan [die] 
+A|23| A: tien 
+B|24| B: [ja] 
+B|25| B: N 
+A|26| A: dit zijn [die] diep gootsteen 
+A|27| A: of [de] of [het] geweer 
+B|28| B: [die] AK 
+B|29| B: [de] AK47 
+B|30| B: [ja] 
+B|31| B: D 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=1| A | A : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=2| A | A : ja ik weten welk het zijn dat zijn zestien
+	Free: Pattern=dat, Pattern=het, Pattern=ik, Pattern=ja
+	Constrained: 
+Turn ID=3| B | B : oké bij mij ik vinden hem een beetje op een machinegeweer zeggen maar
+	Free: Pattern=vinden, Pattern=oké, Pattern=ik, Pattern=maar, Pattern=hem
+	Constrained: 
+Turn ID=4| B | B : je moeten een AK47 in je hoofd nemen en dan ja je je zien echt zo'n handvat en een
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=5| B | B : en een magazijn maar misschien hebben ik te veel Battlefield spelen dat kunnen ook
+	Free: Pattern=dat, Pattern=hebben, Pattern=ik, Pattern=maar
+	Constrained: 
+Turn ID=6| B | B : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=7| B | B : ja zeggen maar al al voorwerp zitten aan de bovenste kant van het heel dinge
+	Free: Pattern=aan de, Pattern=het, Pattern=ja, Pattern=maar
+	Constrained: Pattern=de
+Turn ID=8| B | B : en helemaal bovenaan linksbof in de hoek van dat dinget zien je heel klein zo omhooggaan
+	Free: Pattern=dat, Pattern=de, Pattern=zo
+	Constrained: 
+Turn ID=9| B | B : ja maar dan in dan zien je maar twee poet
+	Free: Pattern=ja maar, Pattern=maar
+	Constrained: Pattern=ja, Pattern=maar
+Turn ID=10| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=11| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=12| A | A : oké dit zijn de diep wasbakding met dat vierkan zo aan de voorkant
+	Free: Pattern=dat, Pattern=de, Pattern=aan de, Pattern=zo, Pattern=met, Pattern=oké
+	Constrained: Pattern=de
+Turn ID=13| B | B : P
+	Free: 
+	Constrained: 
+Turn ID=14| A | A : even zoeken
+	Free: 
+	Constrained: 
+Turn ID=15| A | A : zijn die er
+	Free: Pattern=die
+	Constrained: 
+Turn ID=16| A | A : waar zijn die
+	Free: Pattern=die
+	Constrained: 
+Turn ID=17| A | A : diep door de tafel heen
+	Free: Pattern=de
+	Constrained: 
+Turn ID=18| A | A : ja ik hebben hem vinden
+	Free: Pattern=ik hebben, Pattern=vinden, Pattern=ja, Pattern=hem
+	Constrained: Pattern=hebben, Pattern=ik
+Turn ID=19| A | A : dat zijn veertien
+	Free: Pattern=dat
+	Constrained: 
+Turn ID=20| A | A : dit zijn de diep sink of die dat met het geweer
+	Free: Pattern=dat, Pattern=de, Pattern=het, Pattern=met, Pattern=die
+	Constrained: 
+Turn ID=21| B | B : ik hebben die weer met die met die AK
+	Free: Pattern=ik hebben, Pattern=die, Pattern=met
+	Constrained: Pattern=hebben, Pattern=ik
+Turn ID=22| A | A : ja maar waar staan die
+	Free: Pattern=ja maar, Pattern=die
+	Constrained: Pattern=ja, Pattern=maar
+Turn ID=23| A | A : tien
+	Free: 
+	Constrained: 
+Turn ID=24| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=25| B | B : N
+	Free: 
+	Constrained: 
+Turn ID=26| A | A : dit zijn die diep gootsteen
+	Free: Pattern=die
+	Constrained: 
+Turn ID=27| A | A : of de of het geweer
+	Free: Pattern=de, Pattern=het
+	Constrained: 
+Turn ID=28| B | B : die AK
+	Free: Pattern=die
+	Constrained: 
+Turn ID=29| B | B : de AK47
+	Free: Pattern=de
+	Constrained: 
+Turn ID=30| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=31| B | B : D
+	Free: 
+	Constrained: 

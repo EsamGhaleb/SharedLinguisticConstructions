@@ -1,0 +1,115 @@
+A|0| A: _ja_ 
+A|1| A: tetrisblokje 
+A|2| A: _ja_ _ja_ _ook_ _ja_ _in_ zo'n 
+A|3| A: _ja_ 
+B|4| B: alright _deze_ _die_ _zijn_ _een_ beetje _deze hebben_ best wel veel verschillend object 
+A|5| A: _ja_ _ik_ [hebben] hem _dat zijn_ nummer _twee_ 
+B|6| B: je uitzien misschien _op_ je scherm [ook] wel [dat] er _een_ kop kop koffiekopje _zijn die_ _op_ _een_ soort _van_ onderzetter staan 
+B|7| B: bij _deze_ lijken _het_ alsof _die_ door _de_ onderzetter heen [zijn] zakken 
+B|8| B: _en_ nou [ja] je [hebben] _aan de_ _aan de linkerkant_ zeggen maar _een_ soort _van_ haak 
+B|9| B: _bovenop_ lijken _het_ soort _van_ _twee klein_ schoorsteen of hoe je _het_ [ook] willen noemen _en_ echt _een_ beetje _een_ slurfneus 
+B|10| B: [ik] denken toch _een_ beetje [in] gezicht dus 
+B|11| B: [ja] 
+A|12| A: _deze hebben een_ vierkant halverwege zitten met [een] buis [die] erop uit komen [en] nog [een] kapstok [aan de linkerkant] [en] [twee] [van] [die] dinge erop [twee] rond staaf 
+A|13| A: [ja] yes nummer zeven 
+A|14| A: dit [zijn die] met [het] vierkant halverwege _waar_ [die] cilinder [op] uitkomen [en] _waar_ [die] jashaak hangen 
+B|15| B: [ja] 
+B|16| B: [ja] 
+B|17| B: [dat zijn] g 
+B|18| B: [deze] [zijn] door [het] onderzettertje heen zakken [hebben een] slurfneus [en] [een] haak [aan de linkerkant] 
+A|19| A: [ja] [dat zijn] elf 
+A|20| A: dit [zijn] met [die] vierkant halverwege [en] [die] [twee klein] dinge [bovenop] [en] [die] cilinder [die] erop uitkomen met [die] jassenhaak 
+B|21| B: [ja] 
+B|22| B: [ja] nou moeten [ik] [ook] zoeken [waar] [zijn die] door [het] door [het] plateau heen [zijn] 
+B|23| B: [ja] precies 
+B|24| B: p 
+B|25| B: [deze hebben een] slurfneus [zijn] door [zijn] onderzetter heen zakken 
+B|26| B: [en] hij [hebben een] haak 
+B|27| B: [dat zijn] l 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=1| A | A : tetrisblokje
+	Free: 
+	Constrained: 
+Turn ID=2| A | A : ja ja ook ja in zo'n
+	Free: Pattern=ook, Pattern=ja, Pattern=in
+	Constrained: 
+Turn ID=3| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=4| B | B : alright deze die zijn een beetje deze hebben best wel veel verschillend object
+	Free: Pattern=een, Pattern=deze hebben, Pattern=die, Pattern=zijn, Pattern=deze
+	Constrained: Pattern=deze, Pattern=hebben
+Turn ID=5| A | A : ja ik hebben hem dat zijn nummer twee
+	Free: Pattern=dat zijn, Pattern=twee, Pattern=ja, Pattern=hebben, Pattern=ik
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=6| B | B : je uitzien misschien op je scherm ook wel dat er een kop kop koffiekopje zijn die op een soort van onderzetter staan
+	Free: Pattern=dat, Pattern=een, Pattern=zijn die, Pattern=van, Pattern=op, Pattern=ook
+	Constrained: Pattern=zijn, Pattern=die
+Turn ID=7| B | B : bij deze lijken het alsof die door de onderzetter heen zijn zakken
+	Free: Pattern=de, Pattern=het, Pattern=die, Pattern=zijn, Pattern=deze
+	Constrained: 
+Turn ID=8| B | B : en nou ja je hebben aan de aan de linkerkant zeggen maar een soort van haak
+	Free: Pattern=ja, Pattern=aan de, Pattern=een, Pattern=hebben, Pattern=aan de linkerkant, Pattern=van, Pattern=en
+	Constrained: Pattern=aan de, Pattern=de
+Turn ID=9| B | B : bovenop lijken het soort van twee klein schoorsteen of hoe je het ook willen noemen en echt een beetje een slurfneus
+	Free: Pattern=bovenop, Pattern=ook, Pattern=een, Pattern=het, Pattern=twee klein, Pattern=van, Pattern=en
+	Constrained: Pattern=twee
+Turn ID=10| B | B : ik denken toch een beetje in gezicht dus
+	Free: Pattern=ik, Pattern=in, Pattern=een
+	Constrained: 
+Turn ID=11| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=12| A | A : deze hebben een vierkant halverwege zitten met een buis die erop uit komen en nog een kapstok aan de linkerkant en twee van die dinge erop twee rond staaf
+	Free: Pattern=twee, Pattern=deze hebben een, Pattern=een, Pattern=die, Pattern=aan de linkerkant, Pattern=van, Pattern=en
+	Constrained: Pattern=hebben een, Pattern=de, Pattern=aan de, Pattern=een, Pattern=hebben, Pattern=deze hebben, Pattern=deze
+Turn ID=13| A | A : ja yes nummer zeven
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=14| A | A : dit zijn die met het vierkant halverwege waar die cilinder op uitkomen en waar die jashaak hangen
+	Free: Pattern=waar, Pattern=op, Pattern=die, Pattern=en, Pattern=het, Pattern=zijn die
+	Constrained: Pattern=zijn, Pattern=die
+Turn ID=15| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=16| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=17| B | B : dat zijn g
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=18| B | B : deze zijn door het onderzettertje heen zakken hebben een slurfneus en een haak aan de linkerkant
+	Free: Pattern=hebben een, Pattern=een, Pattern=het, Pattern=en, Pattern=zijn, Pattern=deze, Pattern=aan de linkerkant
+	Constrained: Pattern=de, Pattern=aan de, Pattern=hebben, Pattern=een
+Turn ID=19| A | A : ja dat zijn elf
+	Free: Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=20| A | A : dit zijn met die vierkant halverwege en die twee klein dinge bovenop en die cilinder die erop uitkomen met die jassenhaak
+	Free: Pattern=bovenop, Pattern=die, Pattern=en, Pattern=zijn, Pattern=twee klein
+	Constrained: Pattern=twee
+Turn ID=21| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=22| B | B : ja nou moeten ik ook zoeken waar zijn die door het door het plateau heen zijn
+	Free: Pattern=ja, Pattern=waar, Pattern=ook, Pattern=ik, Pattern=zijn, Pattern=het, Pattern=zijn die
+	Constrained: Pattern=zijn, Pattern=die
+Turn ID=23| B | B : ja precies
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=24| B | B : p
+	Free: 
+	Constrained: 
+Turn ID=25| B | B : deze hebben een slurfneus zijn door zijn onderzetter heen zakken
+	Free: Pattern=deze hebben een, Pattern=zijn
+	Constrained: Pattern=hebben een, Pattern=een, Pattern=hebben, Pattern=deze hebben, Pattern=deze
+Turn ID=26| B | B : en hij hebben een haak
+	Free: Pattern=hebben een, Pattern=en
+	Constrained: Pattern=hebben, Pattern=een
+Turn ID=27| B | B : dat zijn l
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn, Pattern=dat

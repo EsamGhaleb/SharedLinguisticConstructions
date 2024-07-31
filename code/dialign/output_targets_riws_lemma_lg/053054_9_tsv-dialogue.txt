@@ -1,0 +1,223 @@
+B|0| B: one's het plaat _hebben_ _een_ rond _schijf aan de achterkant_ 
+B|1| B: _en_ _een soort_ stuk _van_ _een_ kegel bovenkant _uitsteken_ 
+B|2| B: _en aan de_ linkerkant _een soort_ _zeshoek_ 
+A|3| A: _oké_ 
+A|4| A: [en _aan de] onderkant_ [hebben] _die_ nog [een soort] [van] ding 
+B|5| B: _ja_ 
+B|6| B: _ja_ 
+A|7| A: [een] 
+A|8| A: [ja] 
+B|9| B: [ja] 
+B|10| B: _dat_ 
+A|11| A: _oké_ 
+A|12| A: _oké_ 
+A|13| A: [ja] ik denken [dat] ik hem [hebben] 
+A|14| A: _die_ cirkel _die_ _zien_ _je_ zeggen maar _half_ _zo [aan de_ achterkant] plakken 
+B|15| B: [ja] kloppen 
+A|16| A: [ja] 
+A|17| A: _oké_ 
+A|18| A: _oké_ 
+A|19| A: deze [hebben] we ook net al [hebben] _die_ [hebben] zeggen maar [dat] ding _zo_ eronderaan _en dat_ pluimpje rechtsboven _uitsteken en_ _die_ 
+A|20| A: [schijf aan de achterkant] _links_ tegenaan plakken [en] _die_ [zeshoek] link [uitsteken] 
+B|21| B: [ja] 
+B|22| B: [een] [schijf] [die] [je] [zo] [half] [zien] [en _dat] dinge_ [zo [aan de] onderkant] 
+A|23| A: [ja] 
+B|24| B: [die] bedoelen [je] 
+B|25| B: [ja] 
+B|26| B: [oké] _dat zijn_ O 
+B|27| B: _dit _zijn_ die_ _met_ [een] uitsteeksel [aan de] bovenkant [en] [een] [schijf] [die] [je] [half] [zien] [aan de achterkant] 
+A|28| A: [ja] 
+B|29| B: [en] dan [links] [een soort] [zeshoek] [die] [uitsteken _en] onderaan_ weer [dat] [ja] halfron 
+A|30| A: ding [zo] 
+B|31| B: [ja] 
+A|32| A: doen me _een beetje_ denken [aan] [een] _keukenmachine_ of [zo] 
+B|33| B: [ja] daar lijken het wel [een beetje] op inderdaad 
+A|34| A: [ja] ? [oké] 
+A|35| A: [dit zijn] zeggen maar _die keukenmachine_ 
+B|36| B: [ja] 
+A|37| A: [met] rechts [dat] pluimp [en] [links] [aan de] zijkant steken [die] [zeshoek] uit [en] 
+A|38| A: link [aan de achterkant] [zijn die] [schijf] tegenaan plakken [en onderaan] zitten [dat] ding zeggen maar 
+B|39| B: [ja] 
+B|40| B: [ja] 
+B|41| B: _dat zijn_ bij mij C 
+B|42| B: [dit [zijn] [die] keukenmachine] 
+A|43| A: even zoeken 
+A|44| A: [ja] 
+A|45| A: [met] [dat dinge] [onderaan] 
+B|46| B: [ja] 
+A|47| A: [ja] 
+A|48| A: [dat zijn] nummer zeven 
+A|49| A: [dit zijn] zeggen maar [die keukenmachine] 
+B|50| B: [ja] 
+A|51| A: [met] [dat] ding daaronder [en] [die] [schijf aan de achterkant] plakken 
+B|52| B: [ja] 
+B|53| B: [dat zijn] bij mij C 
+B|54| B: hallo 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : one's het plaat hebben een rond schijf aan de achterkant
+	Free: Pattern=schijf aan de achterkant, Pattern=een, Pattern=hebben
+	Constrained: Pattern=aan de achterkant, Pattern=aan de, Pattern=aan, Pattern=schijf
+Turn ID=1| B | B : en een soort stuk van een kegel bovenkant uitsteken
+	Free: Pattern=een, Pattern=uitsteken, Pattern=een soort, Pattern=van, Pattern=en
+	Constrained: Pattern=een
+Turn ID=2| B | B : en aan de linkerkant een soort zeshoek
+	Free: Pattern=en aan de, Pattern=een soort, Pattern=zeshoek
+	Constrained: Pattern=aan, Pattern=een, Pattern=en, Pattern=aan de
+Turn ID=3| A | A : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=4| A | A : en aan de onderkant hebben die nog een soort van ding
+	Free: Pattern=hebben, Pattern=aan de onderkant, Pattern=die, Pattern=een soort, Pattern=van, Pattern=en aan de
+	Constrained: Pattern=aan, Pattern=een, Pattern=en, Pattern=aan de
+Turn ID=5| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=6| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=7| A | A : een
+	Free: Pattern=een
+	Constrained: 
+Turn ID=8| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=9| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=10| B | B : dat
+	Free: Pattern=dat
+	Constrained: 
+Turn ID=11| A | A : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=12| A | A : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=13| A | A : ja ik denken dat ik hem hebben
+	Free: Pattern=dat, Pattern=ja, Pattern=hebben
+	Constrained: 
+Turn ID=14| A | A : die cirkel die zien je zeggen maar half zo aan de achterkant plakken
+	Free: Pattern=zo aan de, Pattern=aan de achterkant, Pattern=je, Pattern=half, Pattern=die, Pattern=zien
+	Constrained: Pattern=aan, Pattern=zo, Pattern=aan de
+Turn ID=15| B | B : ja kloppen
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=16| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=17| A | A : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=18| A | A : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=19| A | A : deze hebben we ook net al hebben die hebben zeggen maar dat ding zo eronderaan en dat pluimpje rechtsboven uitsteken en die
+	Free: Pattern=dat, Pattern=hebben, Pattern=uitsteken en, Pattern=zo, Pattern=die, Pattern=en dat
+	Constrained: Pattern=dat, Pattern=uitsteken, Pattern=en
+Turn ID=20| A | A : schijf aan de achterkant links tegenaan plakken en die zeshoek link uitsteken
+	Free: Pattern=links, Pattern=uitsteken, Pattern=zeshoek, Pattern=die, Pattern=en, Pattern=schijf aan de achterkant
+	Constrained: Pattern=aan de achterkant, Pattern=aan de, Pattern=aan, Pattern=schijf
+Turn ID=21| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=22| B | B : een schijf die je zo half zien en dat dinge zo aan de onderkant
+	Free: Pattern=zo aan de, Pattern=een, Pattern=schijf, Pattern=aan de onderkant, Pattern=zo, Pattern=je, Pattern=half, Pattern=en dat, Pattern=die, Pattern=dat dinge, Pattern=zien
+	Constrained: Pattern=dat, Pattern=aan, Pattern=aan de, Pattern=zo, Pattern=en
+Turn ID=23| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=24| B | B : die bedoelen je
+	Free: Pattern=je, Pattern=die
+	Constrained: 
+Turn ID=25| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=26| B | B : oké dat zijn O
+	Free: Pattern=dat zijn, Pattern=oké
+	Constrained: Pattern=dat
+Turn ID=27| B | B : dit zijn die met een uitsteeksel aan de bovenkant en een schijf die je half zien aan de achterkant
+	Free: Pattern=aan de achterkant, Pattern=aan de, Pattern=een, Pattern=zijn die, Pattern=schijf, Pattern=met, Pattern=en, Pattern=je, Pattern=half, Pattern=dit zijn, Pattern=die, Pattern=zien
+	Constrained: Pattern=aan, Pattern=die, Pattern=aan de
+Turn ID=28| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=29| B | B : en dan links een soort zeshoek die uitsteken en onderaan weer dat ja halfron
+	Free: Pattern=dat, Pattern=links, Pattern=die, Pattern=een soort, Pattern=en, Pattern=ja, Pattern=en onderaan, Pattern=uitsteken en, Pattern=zeshoek
+	Constrained: Pattern=een, Pattern=en, Pattern=onderaan, Pattern=uitsteken
+Turn ID=30| A | A : ding zo
+	Free: Pattern=zo
+	Constrained: 
+Turn ID=31| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=32| A | A : doen me een beetje denken aan een keukenmachine of zo
+	Free: Pattern=aan, Pattern=keukenmachine, Pattern=een, Pattern=zo, Pattern=een beetje
+	Constrained: Pattern=een
+Turn ID=33| B | B : ja daar lijken het wel een beetje op inderdaad
+	Free: Pattern=een beetje, Pattern=ja
+	Constrained: Pattern=een
+Turn ID=34| A | A : ja ? oké
+	Free: Pattern=oké, Pattern=ja
+	Constrained: 
+Turn ID=35| A | A : dit zijn zeggen maar die keukenmachine
+	Free: Pattern=die keukenmachine, Pattern=dit zijn
+	Constrained: Pattern=die, Pattern=keukenmachine
+Turn ID=36| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=37| A | A : met rechts dat pluimp en links aan de zijkant steken die zeshoek uit en
+	Free: Pattern=dat, Pattern=aan de, Pattern=links, Pattern=zeshoek, Pattern=met, Pattern=die, Pattern=en
+	Constrained: Pattern=aan
+Turn ID=38| A | A : link aan de achterkant zijn die schijf tegenaan plakken en onderaan zitten dat ding zeggen maar
+	Free: Pattern=en onderaan, Pattern=zijn die, Pattern=schijf, Pattern=dat, Pattern=aan de achterkant
+	Constrained: Pattern=onderaan, Pattern=aan, Pattern=aan de, Pattern=die, Pattern=en
+Turn ID=39| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=40| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=41| B | B : dat zijn bij mij C
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat
+Turn ID=42| B | B : dit zijn die keukenmachine
+	Free: Pattern=die keukenmachine, Pattern=zijn die, Pattern=dit zijn
+	Constrained: Pattern=die, Pattern=keukenmachine
+Turn ID=43| A | A : even zoeken
+	Free: 
+	Constrained: 
+Turn ID=44| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=45| A | A : met dat dinge onderaan
+	Free: Pattern=dat dinge, Pattern=onderaan, Pattern=met
+	Constrained: Pattern=dat
+Turn ID=46| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=47| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=48| A | A : dat zijn nummer zeven
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat
+Turn ID=49| A | A : dit zijn zeggen maar die keukenmachine
+	Free: Pattern=die keukenmachine, Pattern=dit zijn
+	Constrained: Pattern=die, Pattern=keukenmachine
+Turn ID=50| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=51| A | A : met dat ding daaronder en die schijf aan de achterkant plakken
+	Free: Pattern=dat, Pattern=met, Pattern=die, Pattern=en, Pattern=schijf aan de achterkant
+	Constrained: Pattern=aan de achterkant, Pattern=aan de, Pattern=aan, Pattern=schijf
+Turn ID=52| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=53| B | B : dat zijn bij mij C
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat
+Turn ID=54| B | B : hallo
+	Free: 
+	Constrained: 

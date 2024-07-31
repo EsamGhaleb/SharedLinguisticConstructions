@@ -1,0 +1,111 @@
+A|0| A: _het_ lijken net of _dat_ _die_ _een_ _hoed_ op hebben zeggen maar _zo'n_ vierkant _zo'n_ _feesthoed_ 
+B|1| B: _ja_ _en_ er zitten [zo'n] _ja_ soort isteken _aan de een kant_ zeker 
+A|2| A: [ja] [aan de een kant] hebben je [zo'n] heel groot _blok_ [aan de] ander [kant] hebben je [een] heel klein klein driehoek nog erachter [en] onder lijken wel [een] wiele of _zo_ of wat _het_ ook precies _zijn_ 
+B|3| B: [ja] 
+B|4| B: dan [zijn] [dat] wachten 
+B|5| B: [dat] [zijn] J 
+B|6| B: _dit zijn_ [dat] infeestmutsjen _met die_ [blok] [en] [zo] 
+A|7| A: waar [zijn] [die] ? [ja] wat ik wat zeggen ik ook weer eens ? _papieren_ feestmutsje of [zo] nee kloppen [ja] 
+B|8| B: [ja] [ja] 
+B|9| B: [ja] 
+A|10| A: [ja] zes 
+A|11| A: [dit zijn] [met die] papier _hoed_ 
+B|12| B: _papieren hoed_ 
+A|13| A: [en] [die] groot of _het_ [zijn] geen afgebrokkelde vierkant neus 
+B|14| B: [ja] 
+B|15| B: [ja] 
+B|16| B: E 
+B|17| B: _dit zijn _het_ papieren hoed_ 
+A|18| A: [papieren hoed] [ja] 
+A|19| A: tien 
+A|20| A: [dit zijn het] [het] _feesthoed_ [het papieren hoed] zeggen maar 
+B|21| B: [feesthoed] [ja] 
+B|22| B: ah 
+B|23| B: G 
+B|24| B: [de] [feesthoed] 
+A|25| A: [ja] 
+A|26| A: tien 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : het lijken net of dat die een hoed op hebben zeggen maar zo'n vierkant zo'n feesthoed
+	Free: Pattern=dat, Pattern=zo'n, Pattern=hoed, Pattern=een, Pattern=het, Pattern=die, Pattern=feesthoed
+	Constrained: 
+Turn ID=1| B | B : ja en er zitten zo'n ja soort isteken aan de een kant zeker
+	Free: Pattern=aan de een kant, Pattern=en, Pattern=zo'n, Pattern=ja
+	Constrained: Pattern=kant, Pattern=een, Pattern=de, Pattern=aan de
+Turn ID=2| A | A : ja aan de een kant hebben je zo'n heel groot blok aan de ander kant hebben je een heel klein klein driehoek nog erachter en onder lijken wel een wiele of zo of wat het ook precies zijn
+	Free: Pattern=kant, Pattern=zo'n, Pattern=ja, Pattern=aan de, Pattern=een, Pattern=het, Pattern=zo, Pattern=en, Pattern=blok, Pattern=zijn, Pattern=aan de een kant
+	Constrained: Pattern=kant, Pattern=een, Pattern=de, Pattern=aan de
+Turn ID=3| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=4| B | B : dan zijn dat wachten
+	Free: Pattern=zijn, Pattern=dat
+	Constrained: 
+Turn ID=5| B | B : dat zijn J
+	Free: Pattern=zijn, Pattern=dat
+	Constrained: 
+Turn ID=6| B | B : dit zijn dat infeestmutsjen met die blok en zo
+	Free: Pattern=zo, Pattern=en, Pattern=blok, Pattern=dit zijn, Pattern=dat, Pattern=met die
+	Constrained: Pattern=die, Pattern=zijn
+Turn ID=7| A | A : waar zijn die ? ja wat ik wat zeggen ik ook weer eens ? papieren feestmutsje of zo nee kloppen ja
+	Free: Pattern=ja, Pattern=zo, Pattern=papieren, Pattern=die, Pattern=zijn
+	Constrained: 
+Turn ID=8| B | B : ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=9| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=10| A | A : ja zes
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=11| A | A : dit zijn met die papier hoed
+	Free: Pattern=dit zijn, Pattern=met die, Pattern=hoed
+	Constrained: Pattern=die, Pattern=zijn
+Turn ID=12| B | B : papieren hoed
+	Free: Pattern=papieren hoed
+	Constrained: Pattern=papieren, Pattern=hoed
+Turn ID=13| A | A : en die groot of het zijn geen afgebrokkelde vierkant neus
+	Free: Pattern=en, Pattern=het, Pattern=die, Pattern=zijn
+	Constrained: 
+Turn ID=14| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=15| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=16| B | B : E
+	Free: 
+	Constrained: 
+Turn ID=17| B | B : dit zijn het papieren hoed
+	Free: Pattern=dit zijn het, Pattern=het papieren hoed
+	Constrained: Pattern=hoed, Pattern=het, Pattern=papieren, Pattern=papieren hoed, Pattern=zijn, Pattern=dit zijn
+Turn ID=18| A | A : papieren hoed ja
+	Free: Pattern=papieren hoed, Pattern=ja
+	Constrained: Pattern=papieren, Pattern=hoed
+Turn ID=19| A | A : tien
+	Free: 
+	Constrained: 
+Turn ID=20| A | A : dit zijn het het feesthoed het papieren hoed zeggen maar
+	Free: Pattern=dit zijn het, Pattern=het papieren hoed, Pattern=feesthoed, Pattern=het
+	Constrained: Pattern=hoed, Pattern=het, Pattern=papieren, Pattern=papieren hoed, Pattern=zijn, Pattern=dit zijn
+Turn ID=21| B | B : feesthoed ja
+	Free: Pattern=feesthoed, Pattern=ja
+	Constrained: 
+Turn ID=22| B | B : ah
+	Free: 
+	Constrained: 
+Turn ID=23| B | B : G
+	Free: 
+	Constrained: 
+Turn ID=24| B | B : de feesthoed
+	Free: Pattern=feesthoed, Pattern=de
+	Constrained: 
+Turn ID=25| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=26| A | A : tien
+	Free: 
+	Constrained: 

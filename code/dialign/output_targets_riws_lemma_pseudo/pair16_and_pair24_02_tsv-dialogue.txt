@@ -1,0 +1,151 @@
+B|0| B: _ja_ _ja_ _ja_ 
+B|1| B: _zijn_ _een soort_ vogel als _je_ _hem_ op _zijn_ zij kijken 
+B|2| B: _ja_ 
+B|3| B: _en dat zijn_ _een_ G 
+A|4| A: ah 
+A|5| A: okee nou nu komen we bij _de_ tipitent 
+A|6| A: zitten [een] driehoekje bovenop [en _dat zijn] de_ tipitent 
+A|7| A: [en] dan hebben [je] linksonder [een] [een] rond 
+A|8| A: [en] link hebben [je] één [ja] [een soort] _van_ oog 
+A|9| A: [dat] eruit komen 
+A|10| A: het beginnen heel smal 
+A|11| A: [ja] [zijn] precies 
+A|12| A: [en] die worden dan steeds bred 
+A|13| A: eindigen wel in cilindervorm dan 
+A|14| A: [en] dan beetje rechtsvoor uitstekend [een] beetje [een] [een] gek blok [dat] ik niet echt kunnen plaatsen het [ja] het 
+A|15| A: [ja] 
+A|16| A: okee 
+B|17| B: [dat zijn de] vogel op [zijn] kant 
+B|18| B: of met [een] feesthoed op 
+A|19| A: wat het nou [zijn] 
+A|20| A: [ja] nou dan gaan ik voor nummer [een] 
+B|21| B: [ja] 
+B|22| B: [dat zijn] M 
+A|23| A: dit [zijn de] tipitent bovenop 
+A|24| A: [dat] raar figuur rechtsvoor waarvan we niet weten wat het [zijn] 
+A|25| A: linksonder [een] rond [en] link verrekijkerachtig ding 
+B|26| B: vogel op [zijn] zij 
+B|27| B: met [een] feesthoed op [van] [de] bovenkant [van] [de] voorkant gewoon _zien_ 
+A|28| A: [ja] ik [zien] [hem] al 
+A|29| A: nummer twee 
+B|30| B: G 
+B|31| B: vogel met [een] feesthoed op 
+A|32| A: tipitent 
+A|33| A: link verrekijker 
+A|34| A: [dat] raar blok 
+A|35| A: vooraan 
+A|36| A: nummer dertien 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : ja ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=1| B | B : zijn een soort vogel als je hem op zijn zij kijken
+	Free: Pattern=een soort, Pattern=hem, Pattern=je, Pattern=zijn
+	Constrained: Pattern=een
+Turn ID=2| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=3| B | B : en dat zijn een G
+	Free: Pattern=en dat zijn, Pattern=een
+	Constrained: Pattern=dat zijn, Pattern=dat, Pattern=zijn, Pattern=en
+Turn ID=4| A | A : ah
+	Free: 
+	Constrained: 
+Turn ID=5| A | A : okee nou nu komen we bij de tipitent
+	Free: Pattern=de
+	Constrained: 
+Turn ID=6| A | A : zitten een driehoekje bovenop en dat zijn de tipitent
+	Free: Pattern=dat zijn de, Pattern=en dat zijn, Pattern=een
+	Constrained: Pattern=de, Pattern=en, Pattern=zijn, Pattern=zijn de, Pattern=dat, Pattern=dat zijn
+Turn ID=7| A | A : en dan hebben je linksonder een een rond
+	Free: Pattern=je, Pattern=een, Pattern=en
+	Constrained: 
+Turn ID=8| A | A : en link hebben je één ja een soort van oog
+	Free: Pattern=ja, Pattern=een soort, Pattern=je, Pattern=van, Pattern=en
+	Constrained: Pattern=een
+Turn ID=9| A | A : dat eruit komen
+	Free: Pattern=dat
+	Constrained: 
+Turn ID=10| A | A : het beginnen heel smal
+	Free: 
+	Constrained: 
+Turn ID=11| A | A : ja zijn precies
+	Free: Pattern=zijn, Pattern=ja
+	Constrained: 
+Turn ID=12| A | A : en die worden dan steeds bred
+	Free: Pattern=en
+	Constrained: 
+Turn ID=13| A | A : eindigen wel in cilindervorm dan
+	Free: 
+	Constrained: 
+Turn ID=14| A | A : en dan beetje rechtsvoor uitstekend een beetje een een gek blok dat ik niet echt kunnen plaatsen het ja het
+	Free: Pattern=dat, Pattern=een, Pattern=ja, Pattern=en
+	Constrained: 
+Turn ID=15| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=16| A | A : okee
+	Free: 
+	Constrained: 
+Turn ID=17| B | B : dat zijn de vogel op zijn kant
+	Free: Pattern=dat zijn de, Pattern=zijn
+	Constrained: Pattern=de, Pattern=zijn, Pattern=zijn de, Pattern=dat, Pattern=dat zijn
+Turn ID=18| B | B : of met een feesthoed op
+	Free: Pattern=een
+	Constrained: 
+Turn ID=19| A | A : wat het nou zijn
+	Free: Pattern=zijn
+	Constrained: 
+Turn ID=20| A | A : ja nou dan gaan ik voor nummer een
+	Free: Pattern=een, Pattern=ja
+	Constrained: 
+Turn ID=21| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=22| B | B : dat zijn M
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=23| A | A : dit zijn de tipitent bovenop
+	Free: Pattern=zijn de
+	Constrained: Pattern=de, Pattern=zijn
+Turn ID=24| A | A : dat raar figuur rechtsvoor waarvan we niet weten wat het zijn
+	Free: Pattern=dat, Pattern=zijn
+	Constrained: 
+Turn ID=25| A | A : linksonder een rond en link verrekijkerachtig ding
+	Free: Pattern=een, Pattern=en
+	Constrained: 
+Turn ID=26| B | B : vogel op zijn zij
+	Free: Pattern=zijn
+	Constrained: 
+Turn ID=27| B | B : met een feesthoed op van de bovenkant van de voorkant gewoon zien
+	Free: Pattern=zien, Pattern=van, Pattern=de, Pattern=een
+	Constrained: 
+Turn ID=28| A | A : ja ik zien hem al
+	Free: Pattern=hem, Pattern=zien, Pattern=ja
+	Constrained: 
+Turn ID=29| A | A : nummer twee
+	Free: 
+	Constrained: 
+Turn ID=30| B | B : G
+	Free: 
+	Constrained: 
+Turn ID=31| B | B : vogel met een feesthoed op
+	Free: Pattern=een
+	Constrained: 
+Turn ID=32| A | A : tipitent
+	Free: 
+	Constrained: 
+Turn ID=33| A | A : link verrekijker
+	Free: 
+	Constrained: 
+Turn ID=34| A | A : dat raar blok
+	Free: Pattern=dat
+	Constrained: 
+Turn ID=35| A | A : vooraan
+	Free: 
+	Constrained: 
+Turn ID=36| A | A : nummer dertien
+	Free: 
+	Constrained: 

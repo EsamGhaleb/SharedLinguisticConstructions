@@ -1,0 +1,227 @@
+A|0| A: _deze_ _hebben_ zo'n _groot_ kegel _bovenop_ 
+A|1| A: _en nog_ zo'n _groot_ kegel _beetje_ _Linksvoor_ 
+A|2| A: scheef _Linksvoor_ 
+A|3| A: _en_ _dan_ _ook_ _nog_ rechtsvoor scheef _een beetje_ zo'n zo'n vierkant wat zo zo'n blok wat zo afloopt 
+A|4| A: _ja_ 
+A|5| A: _en_ _dan_ twee _groot_ kegel één _bovenop en_ één link 
+A|6| A: _ja_ zo'n 
+A|7| A: zo'n buis _ja_ _die_ zo krom _gaan_ 
+A|8| A: _ja_ 
+B|9| B: [ja] 
+B|10| B: [een beetje] als legoblokjes 
+B|11| B: [ja] 
+B|12| B: [ja] 
+B|13| B: [dan] denken _ik_ _dat_ _ik_ hem wel weten [ja] 
+B|14| B: _ik_ [gaan] voor I 
+A|15| A: [ja] 
+A|16| A: [ja] 
+A|17| A: [ja] 
+A|18| A: _en_ [dan] _ook_ _nog_ één zo'n _groot_ _aan de_ bovenkant 
+A|19| A: [ja] 
+A|20| A: _en_ [dan] linksachter _zitten_ zo'n krom cilinder 
+A|21| A: [ja] _dat zijn_ [een] 
+B|22| B: [ja] 
+B|23| B: hee [hebben] wij [deze] niet al doen ? [zitten] _ik_ te denken 
+B|24| B: misschien moeten we [nog] [een] keer 
+B|25| B: [ja] moeten we of allebei apart uitleggen 
+B|26| B: bij _dit_ kop [zitten] er [aan de] rechterkant [een] soort van legoblokjes oor 
+B|27| B: waarbij [die] [ook] [groot] worden 
+B|28| B: je [hebben] [Linksvoor] [hebben] je [een] soort zeppelinneus waar je het toen [ook] over [hebben] 
+B|29| B: Bovenin [zitten] [ook] [een] zeppelinlepel 
+B|30| B: [en] je [hebben] [nog] _een ander_ uitsteeksel 
+B|31| B: weten je [dan] welk _ik_ bedoelen 
+B|32| B: [ja] 
+B|33| B: [ja] 
+B|34| B: gek uitsteeksel 
+B|35| B: [ja] 
+A|36| A: [deze] _zijn_ met [die] [groot] kegel _bovenop en_ [ook] [die] dezelfde [groot] kegel [die] daar linksvoor uitsteken 
+A|37| A: [en] [dan] rechts zo'n zo'n rechthoek [die] steeds aflooppen 
+A|38| A: [ja] [die] krom buis 
+A|39| A: [ja] [en] [dan] kegel [Linksvoor] 
+A|40| A: _dat zijn_ [een] 
+A|41| A: [een] 
+B|42| B: [ja] 
+B|43| B: [ja] 
+B|44| B: nou [dat zijn] voor mij b 
+B|45| B: denken weer [aan] zeppelinvormen 
+B|46| B: zeppelinneus zeppelinlepel 
+B|47| B: [aan de] rechterkant legoblok 
+B|48| B: [en nog] _een ander_ uitsteeksel 
+A|49| A: achten 
+A|50| A: [ja] [ik] sorry 
+A|51| A: [dit] [zijn] met [die] [groot] kegel [aan de] bovenkant [en] [een ander] [groot] kegel linksvoor [en] [dan] zo'n aflopen rechthoek rechts 
+A|52| A: [ja] vier 
+B|53| B: [ja] 
+B|54| B: [dat zijn] g 
+B|55| B: zeppelinvorm vooraan [en] [bovenop en] legoblok [aan de] rechterkant 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : deze hebben zo'n groot kegel bovenop
+	Free: Pattern=hebben, Pattern=bovenop, Pattern=groot, Pattern=deze
+	Constrained: 
+Turn ID=1| A | A : en nog zo'n groot kegel beetje Linksvoor
+	Free: Pattern=en nog, Pattern=groot, Pattern=beetje, Pattern=Linksvoor
+	Constrained: Pattern=nog, Pattern=en
+Turn ID=2| A | A : scheef Linksvoor
+	Free: Pattern=Linksvoor
+	Constrained: 
+Turn ID=3| A | A : en dan ook nog rechtsvoor scheef een beetje zo'n zo'n vierkant wat zo zo'n blok wat zo afloopt
+	Free: Pattern=nog, Pattern=ook, Pattern=dan, Pattern=en, Pattern=een beetje
+	Constrained: Pattern=beetje, Pattern=een
+Turn ID=4| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=5| A | A : en dan twee groot kegel één bovenop en één link
+	Free: Pattern=bovenop en, Pattern=en, Pattern=dan, Pattern=groot
+	Constrained: Pattern=en, Pattern=bovenop
+Turn ID=6| A | A : ja zo'n
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=7| A | A : zo'n buis ja die zo krom gaan
+	Free: Pattern=gaan, Pattern=ja, Pattern=die
+	Constrained: 
+Turn ID=8| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=9| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=10| B | B : een beetje als legoblokjes
+	Free: Pattern=een beetje
+	Constrained: Pattern=beetje, Pattern=een
+Turn ID=11| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=12| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=13| B | B : dan denken ik dat ik hem wel weten ja
+	Free: Pattern=ja, Pattern=dat, Pattern=dan, Pattern=ik
+	Constrained: 
+Turn ID=14| B | B : ik gaan voor I
+	Free: Pattern=gaan, Pattern=ik
+	Constrained: 
+Turn ID=15| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=16| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=17| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=18| A | A : en dan ook nog één zo'n groot aan de bovenkant
+	Free: Pattern=nog, Pattern=dan, Pattern=groot, Pattern=en, Pattern=aan de, Pattern=ook
+	Constrained: Pattern=aan
+Turn ID=19| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=20| A | A : en dan linksachter zitten zo'n krom cilinder
+	Free: Pattern=en, Pattern=dan, Pattern=zitten
+	Constrained: 
+Turn ID=21| A | A : ja dat zijn een
+	Free: Pattern=dat zijn, Pattern=ja, Pattern=een
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=22| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=23| B | B : hee hebben wij deze niet al doen ? zitten ik te denken
+	Free: Pattern=hebben, Pattern=deze, Pattern=ik, Pattern=zitten
+	Constrained: 
+Turn ID=24| B | B : misschien moeten we nog een keer
+	Free: Pattern=nog, Pattern=een
+	Constrained: 
+Turn ID=25| B | B : ja moeten we of allebei apart uitleggen
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=26| B | B : bij dit kop zitten er aan de rechterkant een soort van legoblokjes oor
+	Free: Pattern=aan de, Pattern=dit, Pattern=een, Pattern=zitten
+	Constrained: Pattern=aan
+Turn ID=27| B | B : waarbij die ook groot worden
+	Free: Pattern=groot, Pattern=ook, Pattern=die
+	Constrained: 
+Turn ID=28| B | B : je hebben Linksvoor hebben je een soort zeppelinneus waar je het toen ook over hebben
+	Free: Pattern=hebben, Pattern=ook, Pattern=een, Pattern=Linksvoor
+	Constrained: 
+Turn ID=29| B | B : Bovenin zitten ook een zeppelinlepel
+	Free: Pattern=ook, Pattern=een, Pattern=zitten
+	Constrained: 
+Turn ID=30| B | B : en je hebben nog een ander uitsteeksel
+	Free: Pattern=een ander, Pattern=nog, Pattern=en, Pattern=hebben
+	Constrained: Pattern=een
+Turn ID=31| B | B : weten je dan welk ik bedoelen
+	Free: Pattern=dan, Pattern=ik
+	Constrained: 
+Turn ID=32| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=33| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=34| B | B : gek uitsteeksel
+	Free: 
+	Constrained: 
+Turn ID=35| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=36| A | A : deze zijn met die groot kegel bovenop en ook die dezelfde groot kegel die daar linksvoor uitsteken
+	Free: Pattern=ook, Pattern=bovenop en, Pattern=groot, Pattern=die, Pattern=zijn, Pattern=deze
+	Constrained: Pattern=en, Pattern=bovenop
+Turn ID=37| A | A : en dan rechts zo'n zo'n rechthoek die steeds aflooppen
+	Free: Pattern=en, Pattern=dan, Pattern=die
+	Constrained: 
+Turn ID=38| A | A : ja die krom buis
+	Free: Pattern=ja, Pattern=die
+	Constrained: 
+Turn ID=39| A | A : ja en dan kegel Linksvoor
+	Free: Pattern=en, Pattern=ja, Pattern=dan, Pattern=Linksvoor
+	Constrained: 
+Turn ID=40| A | A : dat zijn een
+	Free: Pattern=dat zijn, Pattern=een
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=41| A | A : een
+	Free: Pattern=een
+	Constrained: 
+Turn ID=42| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=43| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=44| B | B : nou dat zijn voor mij b
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=45| B | B : denken weer aan zeppelinvormen
+	Free: Pattern=aan
+	Constrained: 
+Turn ID=46| B | B : zeppelinneus zeppelinlepel
+	Free: 
+	Constrained: 
+Turn ID=47| B | B : aan de rechterkant legoblok
+	Free: Pattern=aan de
+	Constrained: Pattern=aan
+Turn ID=48| B | B : en nog een ander uitsteeksel
+	Free: Pattern=en nog, Pattern=een ander
+	Constrained: Pattern=nog, Pattern=en, Pattern=een
+Turn ID=49| A | A : achten
+	Free: 
+	Constrained: 
+Turn ID=50| A | A : ja ik sorry
+	Free: Pattern=ja, Pattern=ik
+	Constrained: 
+Turn ID=51| A | A : dit zijn met die groot kegel aan de bovenkant en een ander groot kegel linksvoor en dan zo'n aflopen rechthoek rechts
+	Free: Pattern=een ander, Pattern=aan de, Pattern=dan, Pattern=groot, Pattern=dit, Pattern=die, Pattern=en, Pattern=zijn
+	Constrained: Pattern=aan, Pattern=een
+Turn ID=52| A | A : ja vier
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=53| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=54| B | B : dat zijn g
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=55| B | B : zeppelinvorm vooraan en bovenop en legoblok aan de rechterkant
+	Free: Pattern=aan de, Pattern=bovenop en, Pattern=en
+	Constrained: Pattern=en, Pattern=bovenop, Pattern=aan

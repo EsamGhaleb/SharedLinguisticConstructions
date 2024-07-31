@@ -1,0 +1,155 @@
+A|0| A: _ja_ deze vinden _ik_ _een_ beetje raar 
+A|1| A: je hebben twee zo'n _soort_ _ja_ _armp_ _met_ zo'n twee rond erop _aan de_ zijkant 
+A|2| A: plat rond 
+A|3| A: _en_ _dan_ hebben je daarachter _nog_ zo'n vierkan _met_ _een_ _ook_ weer _een_ balk eraan 
+A|4| A: _en_ één _armp_ _zijn_ _kort_ _zeggen maar_ _dan_ die ander 
+A|5| A: _en_ _het_ _zijn_ _een soort_ _ja_ _even_ kijken _ja_ gewoon weer die basis die je overal hebben _en_ _dan_ 
+B|6| B: wachten 
+B|7| B: _er_ _zitten_ links [een] [kort] [armp] [en] rechts iets _lang_ 
+A|8| A: _ja_ 
+B|9| B: [ja] [dan] weten [ik] [het] 
+A|10| A: [en] [dan] _dat vierkantje_ daarbovenop 
+B|11| B: [dan] [zijn] [het] 
+B|12| B: [ja] 
+B|13| B: K 
+A|14| A: die plaat 
+B|15| B: K _zijn dat_ bij mij 
+B|16| B: hoe noemen jij [dat] [ook] alweer 
+B|17| B: _er_ _zitten_ iets _doorheen_ [zeggen maar] [aan de] linkerkant [een] klein stuk rechts iets groot 
+B|18| B: [aan de] [aan de] achterkant _zitten_ [nog] [een soort] van [vierkantje] 
+A|19| A: [ja] 
+A|20| A: nummer negen 
+A|21| A: _dit [zijn_ _dat] ding_ _met_ _met_ die twee uitsteeksel [aan de] zijkant waarvan één [lang] [zijn] [en] [de] ander _wat_ [kort] 
+A|22| A: _met dat vierkantje_ [nog] zo erachter 
+A|23| A: _met_ die twee rond zo [aan] [het] uiteinde 
+A|24| A: dus eerst [een] balk [en] [dan] zo'n [soort] rond erop [soort] deurknop [en] [dan] daarachter _dat vierkantje_ 
+B|25| B: [ik] [zijn] hem [even] kwijt 
+B|26| B: bij [het] _waar_ hij _er_ [zeggen maar] _doorheen zitten_ _door_ [het] 
+A|27| A: [ja] [ja] [waar] die [doorheen zitten] [ja] 
+B|28| B: [ja] [dan] [zijn] [het] F 
+B|29| B: [dit zijn] [met _dat vierkantje] achter_ [en] link [dat] stuk [wat] erdoorheen opsteken [en] rechts iets ver [dat] erdoorheen steken 
+A|30| A: [ja] 
+A|31| A: nummer drie 
+A|32| A: [dit zijn] die [ja] _dat ding_ [dat] [door] _dat ding_ heen gaan [met] die twee rond [aan de] zijkant _en [dat vierkantje_ achter] 
+A|33| A: die balk die [er] zo [doorheen] gaan 
+B|34| B: [ja] L 
+B|35| B: [dat ding] [wat] erdoorheen [zitten] [aan de] linkerkant [een] klein stuk rechts iets groot [en dat vierkantje] [aan de] achterkant 
+A|36| A: [ja] 
+A|37| A: nummer vijf 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : ja deze vinden ik een beetje raar
+	Free: Pattern=ik, Pattern=ja, Pattern=een
+	Constrained: 
+Turn ID=1| A | A : je hebben twee zo'n soort ja armp met zo'n twee rond erop aan de zijkant
+	Free: Pattern=soort, Pattern=ja, Pattern=aan de, Pattern=armp, Pattern=met
+	Constrained: Pattern=de, Pattern=aan
+Turn ID=2| A | A : plat rond
+	Free: 
+	Constrained: 
+Turn ID=3| A | A : en dan hebben je daarachter nog zo'n vierkan met een ook weer een balk eraan
+	Free: Pattern=nog, Pattern=ook, Pattern=dan, Pattern=een, Pattern=met, Pattern=en
+	Constrained: 
+Turn ID=4| A | A : en één armp zijn kort zeggen maar dan die ander
+	Free: Pattern=dan, Pattern=kort, Pattern=en, Pattern=zijn, Pattern=zeggen maar, Pattern=armp
+	Constrained: 
+Turn ID=5| A | A : en het zijn een soort ja even kijken ja gewoon weer die basis die je overal hebben en dan
+	Free: Pattern=ja, Pattern=even, Pattern=dan, Pattern=het, Pattern=een soort, Pattern=en, Pattern=zijn
+	Constrained: Pattern=soort, Pattern=een
+Turn ID=6| B | B : wachten
+	Free: 
+	Constrained: 
+Turn ID=7| B | B : er zitten links een kort armp en rechts iets lang
+	Free: Pattern=een, Pattern=armp, Pattern=zitten, Pattern=lang, Pattern=en, Pattern=kort, Pattern=er
+	Constrained: 
+Turn ID=8| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=9| B | B : ja dan weten ik het
+	Free: Pattern=ik, Pattern=dan, Pattern=ja, Pattern=het
+	Constrained: 
+Turn ID=10| A | A : en dan dat vierkantje daarbovenop
+	Free: Pattern=dat vierkantje, Pattern=en, Pattern=dan
+	Constrained: Pattern=vierkantje, Pattern=dat
+Turn ID=11| B | B : dan zijn het
+	Free: Pattern=dan, Pattern=zijn, Pattern=het
+	Constrained: 
+Turn ID=12| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=13| B | B : K
+	Free: 
+	Constrained: 
+Turn ID=14| A | A : die plaat
+	Free: 
+	Constrained: 
+Turn ID=15| B | B : K zijn dat bij mij
+	Free: Pattern=zijn dat
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=16| B | B : hoe noemen jij dat ook alweer
+	Free: Pattern=ook, Pattern=dat
+	Constrained: 
+Turn ID=17| B | B : er zitten iets doorheen zeggen maar aan de linkerkant een klein stuk rechts iets groot
+	Free: Pattern=doorheen, Pattern=aan de, Pattern=een, Pattern=zeggen maar, Pattern=zitten, Pattern=er
+	Constrained: Pattern=de, Pattern=aan
+Turn ID=18| B | B : aan de aan de achterkant zitten nog een soort van vierkantje
+	Free: Pattern=nog, Pattern=aan de, Pattern=vierkantje, Pattern=zitten, Pattern=een soort
+	Constrained: Pattern=soort, Pattern=de, Pattern=aan, Pattern=een
+Turn ID=19| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=20| A | A : nummer negen
+	Free: 
+	Constrained: 
+Turn ID=21| A | A : dit zijn dat ding met met die twee uitsteeksel aan de zijkant waarvan één lang zijn en de ander wat kort
+	Free: Pattern=de, Pattern=aan de, Pattern=dat ding, Pattern=met, Pattern=lang, Pattern=en, Pattern=zijn, Pattern=wat, Pattern=kort, Pattern=dit zijn, Pattern=zijn dat
+	Constrained: Pattern=aan, Pattern=dat, Pattern=de, Pattern=zijn
+Turn ID=22| A | A : met dat vierkantje nog zo erachter
+	Free: Pattern=met dat vierkantje, Pattern=nog
+	Constrained: Pattern=dat vierkantje, Pattern=vierkantje, Pattern=dat, Pattern=met
+Turn ID=23| A | A : met die twee rond zo aan het uiteinde
+	Free: Pattern=aan, Pattern=het, Pattern=met
+	Constrained: 
+Turn ID=24| A | A : dus eerst een balk en dan zo'n soort rond erop soort deurknop en dan daarachter dat vierkantje
+	Free: Pattern=soort, Pattern=dan, Pattern=een, Pattern=dat vierkantje, Pattern=en
+	Constrained: Pattern=vierkantje, Pattern=dat
+Turn ID=25| B | B : ik zijn hem even kwijt
+	Free: Pattern=even, Pattern=ik, Pattern=zijn
+	Constrained: 
+Turn ID=26| B | B : bij het waar hij er zeggen maar doorheen zitten door het
+	Free: Pattern=waar, Pattern=door, Pattern=doorheen zitten, Pattern=zeggen maar, Pattern=het, Pattern=er
+	Constrained: Pattern=doorheen, Pattern=zitten
+Turn ID=27| A | A : ja ja waar die doorheen zitten ja
+	Free: Pattern=doorheen zitten, Pattern=waar, Pattern=ja
+	Constrained: Pattern=doorheen, Pattern=zitten
+Turn ID=28| B | B : ja dan zijn het F
+	Free: Pattern=dan, Pattern=zijn, Pattern=ja, Pattern=het
+	Constrained: 
+Turn ID=29| B | B : dit zijn met dat vierkantje achter en link dat stuk wat erdoorheen opsteken en rechts iets ver dat erdoorheen steken
+	Free: Pattern=dat, Pattern=dat vierkantje achter, Pattern=met dat vierkantje, Pattern=wat, Pattern=en, Pattern=dit zijn
+	Constrained: Pattern=dat, Pattern=dat vierkantje, Pattern=zijn, Pattern=vierkantje, Pattern=met
+Turn ID=30| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=31| A | A : nummer drie
+	Free: 
+	Constrained: 
+Turn ID=32| A | A : dit zijn die ja dat ding dat door dat ding heen gaan met die twee rond aan de zijkant en dat vierkantje achter
+	Free: Pattern=aan de, Pattern=door, Pattern=dat ding, Pattern=met, Pattern=dit zijn, Pattern=dat, Pattern=en dat vierkantje, Pattern=ja, Pattern=dat vierkantje achter
+	Constrained: Pattern=dat, Pattern=vierkantje, Pattern=dat vierkantje, Pattern=en, Pattern=zijn, Pattern=de, Pattern=aan
+Turn ID=33| A | A : die balk die er zo doorheen gaan
+	Free: Pattern=doorheen, Pattern=er
+	Constrained: 
+Turn ID=34| B | B : ja L
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=35| B | B : dat ding wat erdoorheen zitten aan de linkerkant een klein stuk rechts iets groot en dat vierkantje aan de achterkant
+	Free: Pattern=en dat vierkantje, Pattern=aan de, Pattern=een, Pattern=dat ding, Pattern=zitten, Pattern=wat
+	Constrained: Pattern=dat, Pattern=vierkantje, Pattern=dat vierkantje, Pattern=en, Pattern=de, Pattern=aan
+Turn ID=36| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=37| A | A : nummer vijf
+	Free: 
+	Constrained: 

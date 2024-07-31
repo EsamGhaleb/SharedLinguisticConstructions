@@ -1,0 +1,163 @@
+A|0| A: _ik_ _hebben_ _aan de bovenkant_ _hebben_ _ik_ _een_ _een_ _groot_ uitsteeksel _die_ _aan de bovenkant_ _steeds_ breder _worden_ _en_ rond _zijn_ _aan de bovenkant_ _net_ _als_ daarnet 
+A|1| A: dan _hebben_ _ik_ _aan de_ linkerkant één _groot_ _en _een_ klein_ uitsteeksel 
+A|2| A: _en_ _aan de_ rechterkant _een_ soort uitsteeksel _dat_ _steeds groot_ vierkanten _hebben_ 
+A|3| A: _dat_ rond _worden_ 
+A|4| A: _en_ _aan de_ linkerkant zitten _er_ _ook_ één 
+A|5| A: vier 
+B|6| B: _ja_ 
+B|7| B: _ja_ [ik] 
+B|8| B: dezelfde ovaal 
+B|9| B: _ja_ 
+B|10| B: vierkant 
+B|11| B: _ja_ 
+B|12| B: _ja_ 
+B|13| B: [die] kennen [ik] [dat] [zijn] [de] L 
+B|14| B: _ja_ duidelijk 
+A|15| A: [ik] _hebben_ [dat] _een_ met [dat] _steeds_ _worden_ _steeds_ breder _worden_ ding _aan de_ rechterkant 
+A|16| A: het rond ding _aan de bovenkant en_ _zo'n_ zelfde rond ding _aan de_ linkerkant 
+A|17| A: _ja en_ [die] _hebben_ je _aan de_ zijkant _ook_ [ja] 
+A|18| A: twaalf 
+B|19| B: deze [hebben] [net] [zo'n] ovaal dinge [als] [de] vorig _bovenop_ [en] [ook] linksonder [een] beetje 
+B|20| B: [en een] vierkant rechts [die] [steeds groot] [worden] 
+B|21| B: [en] nog [een klein] [ja] haak linksachter 
+B|22| B: [ja] 
+B|23| B: [ja] 
+B|24| B: [ja] [ja] 
+B|25| B: [ja] 
+A|26| A: [ik] [hebben] [dat] [steeds] breder [worden] ding _aan de_ rechterkant 
+A|27| A: dan [dat] gek rond ding [bovenop] 
+A|28| A: [dat] gek rond ding _aan de_ linkerkant 
+A|29| A: [en] _aan de_ [ja] 
+A|30| A: tien 
+B|31| B: [bovenop] 
+B|32| B: [ja [en] een] kubus rechts 
+B|33| B: K 
+B|34| B: deze [hebben] [een] ovaal [er] [bovenop] [en een] ovaal links [en een] kubus rechts [die] [steeds groot] [worden] 
+B|35| B: [en] nog [een] haak 
+B|36| B: [ja] [ja] 
+B|37| B: [ja] kubus rechts , [groot] 
+B|38| B: L 
+B|39| B: deze [hebben] ovaal [aan de bovenkant en] links , [en] rechts [een] kubus [die] [steeds groot] 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : ik hebben aan de bovenkant hebben ik een een groot uitsteeksel die aan de bovenkant steeds breder worden en rond zijn aan de bovenkant net als daarnet
+	Free: Pattern=net, Pattern=worden, Pattern=een, Pattern=als, Pattern=die, Pattern=ik, Pattern=zijn, Pattern=hebben, Pattern=groot, Pattern=steeds, Pattern=aan de bovenkant, Pattern=en
+	Constrained: Pattern=aan de, Pattern=de
+Turn ID=1| A | A : dan hebben ik aan de linkerkant één groot en een klein uitsteeksel
+	Free: Pattern=aan de, Pattern=ik, Pattern=en een, Pattern=een klein, Pattern=groot, Pattern=hebben
+	Constrained: Pattern=en, Pattern=de, Pattern=een
+Turn ID=2| A | A : en aan de rechterkant een soort uitsteeksel dat steeds groot vierkanten hebben
+	Free: Pattern=dat, Pattern=aan de, Pattern=een, Pattern=hebben, Pattern=steeds groot, Pattern=en
+	Constrained: Pattern=groot, Pattern=de, Pattern=steeds
+Turn ID=3| A | A : dat rond worden
+	Free: Pattern=dat, Pattern=worden
+	Constrained: 
+Turn ID=4| A | A : en aan de linkerkant zitten er ook één
+	Free: Pattern=aan de, Pattern=ook, Pattern=en, Pattern=er
+	Constrained: Pattern=de
+Turn ID=5| A | A : vier
+	Free: 
+	Constrained: 
+Turn ID=6| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=7| B | B : ja ik
+	Free: Pattern=ja, Pattern=ik
+	Constrained: 
+Turn ID=8| B | B : dezelfde ovaal
+	Free: 
+	Constrained: 
+Turn ID=9| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=10| B | B : vierkant
+	Free: 
+	Constrained: 
+Turn ID=11| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=12| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=13| B | B : die kennen ik dat zijn de L
+	Free: Pattern=dat, Pattern=de, Pattern=die, Pattern=ik, Pattern=zijn
+	Constrained: 
+Turn ID=14| B | B : ja duidelijk
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=15| A | A : ik hebben dat een met dat steeds worden steeds breder worden ding aan de rechterkant
+	Free: Pattern=dat, Pattern=een, Pattern=ik, Pattern=aan de, Pattern=worden, Pattern=steeds, Pattern=hebben
+	Constrained: Pattern=de
+Turn ID=16| A | A : het rond ding aan de bovenkant en zo'n zelfde rond ding aan de linkerkant
+	Free: Pattern=aan de bovenkant en, Pattern=aan de, Pattern=zo'n
+	Constrained: Pattern=de, Pattern=en, Pattern=aan de, Pattern=aan de bovenkant
+Turn ID=17| A | A : ja en die hebben je aan de zijkant ook ja
+	Free: Pattern=ja, Pattern=hebben, Pattern=die, Pattern=ja en, Pattern=aan de, Pattern=ook
+	Constrained: Pattern=ja, Pattern=en, Pattern=de
+Turn ID=18| A | A : twaalf
+	Free: 
+	Constrained: 
+Turn ID=19| B | B : deze hebben net zo'n ovaal dinge als de vorig bovenop en ook linksonder een beetje
+	Free: Pattern=bovenop, Pattern=de, Pattern=ook, Pattern=een, Pattern=hebben, Pattern=als, Pattern=en, Pattern=net, Pattern=zo'n
+	Constrained: 
+Turn ID=20| B | B : en een vierkant rechts die steeds groot worden
+	Free: Pattern=en een, Pattern=steeds groot, Pattern=die, Pattern=worden
+	Constrained: Pattern=groot, Pattern=en, Pattern=steeds, Pattern=een
+Turn ID=21| B | B : en nog een klein ja haak linksachter
+	Free: Pattern=een klein, Pattern=ja, Pattern=en
+	Constrained: Pattern=een
+Turn ID=22| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=23| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=24| B | B : ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=25| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=26| A | A : ik hebben dat steeds breder worden ding aan de rechterkant
+	Free: Pattern=dat, Pattern=ik, Pattern=aan de, Pattern=worden, Pattern=steeds, Pattern=hebben
+	Constrained: Pattern=de
+Turn ID=27| A | A : dan dat gek rond ding bovenop
+	Free: Pattern=dat, Pattern=bovenop
+	Constrained: 
+Turn ID=28| A | A : dat gek rond ding aan de linkerkant
+	Free: Pattern=aan de, Pattern=dat
+	Constrained: Pattern=de
+Turn ID=29| A | A : en aan de ja
+	Free: Pattern=aan de, Pattern=ja, Pattern=en
+	Constrained: Pattern=de
+Turn ID=30| A | A : tien
+	Free: 
+	Constrained: 
+Turn ID=31| B | B : bovenop
+	Free: Pattern=bovenop
+	Constrained: 
+Turn ID=32| B | B : ja en een kubus rechts
+	Free: Pattern=ja en, Pattern=en een
+	Constrained: Pattern=ja, Pattern=en, Pattern=een
+Turn ID=33| B | B : K
+	Free: 
+	Constrained: 
+Turn ID=34| B | B : deze hebben een ovaal er bovenop en een ovaal links en een kubus rechts die steeds groot worden
+	Free: Pattern=bovenop, Pattern=worden, Pattern=een, Pattern=hebben, Pattern=er, Pattern=en een, Pattern=steeds groot, Pattern=die
+	Constrained: Pattern=groot, Pattern=en, Pattern=steeds, Pattern=een
+Turn ID=35| B | B : en nog een haak
+	Free: Pattern=en, Pattern=een
+	Constrained: 
+Turn ID=36| B | B : ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=37| B | B : ja kubus rechts , groot
+	Free: Pattern=ja, Pattern=groot
+	Constrained: 
+Turn ID=38| B | B : L
+	Free: 
+	Constrained: 
+Turn ID=39| B | B : deze hebben ovaal aan de bovenkant en links , en rechts een kubus die steeds groot
+	Free: Pattern=een, Pattern=hebben, Pattern=en, Pattern=aan de bovenkant en, Pattern=steeds groot, Pattern=die
+	Constrained: Pattern=de, Pattern=aan de, Pattern=groot, Pattern=steeds, Pattern=aan de bovenkant, Pattern=en

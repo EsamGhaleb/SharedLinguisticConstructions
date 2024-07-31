@@ -1,0 +1,123 @@
+A|0| A: _oké_ _ik_ vinden _deze_ _ja_ _het_ _hebben_ _het_ _zijn_ _een_ soort van _isteken aan de rechterkant_ 
+B|1| B: [een] [isteken aan de rechterkant] 
+A|2| A: van _zijn_ gelijk [aan] 
+B|3| B: dat _lijken_ heel erg _op_ _de kip_ 
+A|4| A: _ja_ 
+B|5| B: _maar_ 
+A|6| A: even kijken 
+A|7| A: _met_ [een] soort van _ja_ [een] trapezium laten [maar] zeggen bovenop 
+A|8| A: [een] soort van vierkant waarvan [de] onderkant 
+B|9| B: shoot _dan_ [hebben] we net [de] verkeerd doen _denken ik_ 
+A|10| A: [dan] [denken ik] ook 
+B|11| B: want dat [zijn] wat [ik] _de kip_ noemen 
+A|12| A: _ja_ _nee_ _die_ vinden [ik] daar inderdaad ook [op] [lijken] [maar] [ik] neeen [ik] 
+B|13| B: nou [dan] [zijn] [het] nu [ja] [dan] [hebben] [die] [ja] links [een] staart en links nog [een] recht dinget 
+A|14| A: even kijken 
+A|15| A: [ja] [ja] [ja] kloppen 
+B|16| B: [ja] [oké] [nee] dat [zijn] I [dan] [deze] keer 
+A|17| A: [oké] 
+B|18| B: nou [hebben] [ik] wel _de kip_ [met] [het] [isteken aan de rechterkant] 
+A|19| A: [ja] 
+A|20| A: [zijn] bij mij nummer twee trouwens 
+A|21| A: _ik hebben de kip_ 
+B|22| B: dat [zijn] M 
+B|23| B: [ik hebben de kip] 
+A|24| A: [ja] 
+A|25| A: nummer negen 
+A|26| A: [ik hebben de kip] weer 
+B|27| B: [ja] dat [zijn] F 
+B|28| B: [ik hebben de kip] 
+A|29| A: nummer zes 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : oké ik vinden deze ja het hebben het zijn een soort van isteken aan de rechterkant
+	Free: Pattern=ja, Pattern=een, Pattern=het, Pattern=hebben, Pattern=oké, Pattern=ik, Pattern=zijn, Pattern=deze, Pattern=isteken aan de rechterkant
+	Constrained: Pattern=aan, Pattern=de
+Turn ID=1| B | B : een isteken aan de rechterkant
+	Free: Pattern=isteken aan de rechterkant, Pattern=een
+	Constrained: Pattern=aan, Pattern=de
+Turn ID=2| A | A : van zijn gelijk aan
+	Free: Pattern=zijn, Pattern=aan
+	Constrained: 
+Turn ID=3| B | B : dat lijken heel erg op de kip
+	Free: Pattern=de kip, Pattern=lijken, Pattern=op
+	Constrained: Pattern=de
+Turn ID=4| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=5| B | B : maar
+	Free: Pattern=maar
+	Constrained: 
+Turn ID=6| A | A : even kijken
+	Free: 
+	Constrained: 
+Turn ID=7| A | A : met een soort van ja een trapezium laten maar zeggen bovenop
+	Free: Pattern=maar, Pattern=ja, Pattern=een, Pattern=met
+	Constrained: 
+Turn ID=8| A | A : een soort van vierkant waarvan de onderkant
+	Free: Pattern=de, Pattern=een
+	Constrained: 
+Turn ID=9| B | B : shoot dan hebben we net de verkeerd doen denken ik
+	Free: Pattern=denken ik, Pattern=dan, Pattern=de, Pattern=hebben
+	Constrained: Pattern=ik
+Turn ID=10| A | A : dan denken ik ook
+	Free: Pattern=denken ik, Pattern=dan
+	Constrained: Pattern=ik
+Turn ID=11| B | B : want dat zijn wat ik de kip noemen
+	Free: Pattern=de kip, Pattern=zijn, Pattern=ik
+	Constrained: Pattern=de
+Turn ID=12| A | A : ja nee die vinden ik daar inderdaad ook op lijken maar ik neeen ik
+	Free: Pattern=ja, Pattern=op, Pattern=lijken, Pattern=nee, Pattern=die, Pattern=ik, Pattern=maar
+	Constrained: 
+Turn ID=13| B | B : nou dan zijn het nu ja dan hebben die ja links een staart en links nog een recht dinget
+	Free: Pattern=ja, Pattern=dan, Pattern=een, Pattern=het, Pattern=hebben, Pattern=die, Pattern=zijn
+	Constrained: 
+Turn ID=14| A | A : even kijken
+	Free: 
+	Constrained: 
+Turn ID=15| A | A : ja ja ja kloppen
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=16| B | B : ja oké nee dat zijn I dan deze keer
+	Free: Pattern=ja, Pattern=dan, Pattern=nee, Pattern=oké, Pattern=zijn, Pattern=deze
+	Constrained: 
+Turn ID=17| A | A : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=18| B | B : nou hebben ik wel de kip met het isteken aan de rechterkant
+	Free: Pattern=de kip, Pattern=het, Pattern=hebben, Pattern=met, Pattern=ik, Pattern=isteken aan de rechterkant
+	Constrained: Pattern=aan, Pattern=de
+Turn ID=19| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=20| A | A : zijn bij mij nummer twee trouwens
+	Free: Pattern=zijn
+	Constrained: 
+Turn ID=21| A | A : ik hebben de kip
+	Free: Pattern=ik hebben de kip
+	Constrained: Pattern=de kip, Pattern=de, Pattern=ik, Pattern=hebben
+Turn ID=22| B | B : dat zijn M
+	Free: Pattern=zijn
+	Constrained: 
+Turn ID=23| B | B : ik hebben de kip
+	Free: Pattern=ik hebben de kip
+	Constrained: Pattern=de kip, Pattern=de, Pattern=ik, Pattern=hebben
+Turn ID=24| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=25| A | A : nummer negen
+	Free: 
+	Constrained: 
+Turn ID=26| A | A : ik hebben de kip weer
+	Free: Pattern=ik hebben de kip
+	Constrained: Pattern=de kip, Pattern=de, Pattern=ik, Pattern=hebben
+Turn ID=27| B | B : ja dat zijn F
+	Free: Pattern=zijn, Pattern=ja
+	Constrained: 
+Turn ID=28| B | B : ik hebben de kip
+	Free: Pattern=ik hebben de kip
+	Constrained: Pattern=de kip, Pattern=de, Pattern=ik, Pattern=hebben
+Turn ID=29| A | A : nummer zes
+	Free: 
+	Constrained: 

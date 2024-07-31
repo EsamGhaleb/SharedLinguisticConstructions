@@ -1,0 +1,135 @@
+B|0| B: ik _hebben_ _er_ nou degeen _die_ _ook_ _weer_ _met een_ _plank_ _zijn_ doorsneden alleen _dan_ _boven_ het midden 
+B|1| B: _met_ _twee_ van _die_ flubbelt _aan de_ _plank_ _ook_ _nog_ 
+B|2| B: _ja_ 
+A|3| A: [ja] 
+A|4| A: zo'n ok [ja] 
+A|5| A: ok dat [zijn] [dan] nummertje zestien 
+A|6| A: [ja] _dit zijn_ [dan] [ook] wat we over [hebben] helemaal hoog bovenin lijken [dan] net dat zo'n plateau om [er] omheen zitten [met een] klein _bak_ [er] _bovenop_ 
+A|7| A: lopen af [ja] en [dan] [hebben] je [aan de] zijkant [hebben] je [dan] [nog] 
+A|8| A: _poo_ [ja] 
+B|9| B: [ja] 
+B|10| B: [ja] 
+B|11| B: [met] [de] _poot_ [de] _plank_ [ja] 
+B|12| B: P 
+B|13| B: [dit zijn] [met] het [bak] [bovenop] _die plank die_ erdoorheen gaan 
+B|14| B: [met] _die_ flubbelt [aan de] _plank_ 
+B|15| B: [ja] plankhouder [zijn] goed plankhouder 
+A|16| A: [ja] 
+A|17| A: zo'n zo'n [ja] ok dat [zijn] [dan] nummertje veertien 
+B|18| B: [met] _die_ [met] _die_ [met] _poo aan de_ 
+B|19| B: [ja] 
+B|20| B: [ja] 
+B|21| B: N 
+A|22| A: [ja] [dit zijn] [die] [die] beetje hoog [boven] omringen worden _door_ zo'n plateau [met een] [bak] [er] _op_ en [aan de] zijkant eigenlijk zo'n [twee] [poot] en [dan] [aan] achterkant [hebben] je [nog] zo'n lus 
+A|23| A: [ja] Slurf 
+B|24| B: [dit zijn] [de] _plank_ [met] het schaaltje [boven] [op] [de] _plank_ 
+B|25| B: [die] [door] het kop heen gaan 
+A|26| A: _ja ja_ 
+A|27| A: ah 
+A|28| A: [ja] dat [zijn] [dan] nummertje tien 
+B|29| B: [ja ja] 
+B|30| B: D 
+A|31| A: [ja] [dit zijn] [weer] [die plank die] [er] eigenlijk bovenom om [er] omheen zitten [met een] blok [er] of [een] bakje [er] [bovenop] en [op] [twee] [poo aan de] zijkant 
+A|32| A: [ja] en [aan de] achterkant [ja ja] 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : ik hebben er nou degeen die ook weer met een plank zijn doorsneden alleen dan boven het midden
+	Free: Pattern=hebben, Pattern=die, Pattern=met een, Pattern=er, Pattern=zijn, Pattern=weer, Pattern=plank, Pattern=ook, Pattern=boven, Pattern=dan
+	Constrained: Pattern=met, Pattern=een
+Turn ID=1| B | B : met twee van die flubbelt aan de plank ook nog
+	Free: Pattern=nog, Pattern=twee, Pattern=met, Pattern=die, Pattern=plank, Pattern=aan de, Pattern=ook
+	Constrained: Pattern=aan, Pattern=de
+Turn ID=2| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=3| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=4| A | A : zo'n ok ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=5| A | A : ok dat zijn dan nummertje zestien
+	Free: Pattern=dan, Pattern=zijn
+	Constrained: 
+Turn ID=6| A | A : ja dit zijn dan ook wat we over hebben helemaal hoog bovenin lijken dan net dat zo'n plateau om er omheen zitten met een klein bak er bovenop
+	Free: Pattern=bovenop, Pattern=ja, Pattern=ook, Pattern=dan, Pattern=bak, Pattern=hebben, Pattern=met een, Pattern=er, Pattern=dit zijn
+	Constrained: Pattern=zijn, Pattern=met, Pattern=een
+Turn ID=7| A | A : lopen af ja en dan hebben je aan de zijkant hebben je dan nog
+	Free: Pattern=nog, Pattern=ja, Pattern=aan de, Pattern=dan, Pattern=hebben
+	Constrained: Pattern=aan, Pattern=de
+Turn ID=8| A | A : poo ja
+	Free: Pattern=poo, Pattern=ja
+	Constrained: 
+Turn ID=9| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=10| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=11| B | B : met de poot de plank ja
+	Free: Pattern=plank, Pattern=poot, Pattern=met, Pattern=de, Pattern=ja
+	Constrained: 
+Turn ID=12| B | B : P
+	Free: 
+	Constrained: 
+Turn ID=13| B | B : dit zijn met het bak bovenop die plank die erdoorheen gaan
+	Free: Pattern=bovenop, Pattern=bak, Pattern=met, Pattern=die plank die, Pattern=dit zijn
+	Constrained: Pattern=zijn, Pattern=plank, Pattern=die
+Turn ID=14| B | B : met die flubbelt aan de plank
+	Free: Pattern=aan de, Pattern=plank, Pattern=met, Pattern=die
+	Constrained: Pattern=aan, Pattern=de
+Turn ID=15| B | B : ja plankhouder zijn goed plankhouder
+	Free: Pattern=zijn, Pattern=ja
+	Constrained: 
+Turn ID=16| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=17| A | A : zo'n zo'n ja ok dat zijn dan nummertje veertien
+	Free: Pattern=dan, Pattern=zijn, Pattern=ja
+	Constrained: 
+Turn ID=18| B | B : met die met die met poo aan de
+	Free: Pattern=poo aan de, Pattern=met, Pattern=die
+	Constrained: Pattern=aan de, Pattern=poo, Pattern=aan, Pattern=de
+Turn ID=19| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=20| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=21| B | B : N
+	Free: 
+	Constrained: 
+Turn ID=22| A | A : ja dit zijn die die beetje hoog boven omringen worden door zo'n plateau met een bak er op en aan de zijkant eigenlijk zo'n twee poot en dan aan achterkant hebben je nog zo'n lus
+	Free: Pattern=nog, Pattern=twee, Pattern=bak, Pattern=hebben, Pattern=die, Pattern=met een, Pattern=er, Pattern=dit zijn, Pattern=aan, Pattern=ja, Pattern=op, Pattern=aan de, Pattern=poot, Pattern=door, Pattern=boven, Pattern=dan
+	Constrained: Pattern=een, Pattern=met, Pattern=zijn, Pattern=de, Pattern=aan
+Turn ID=23| A | A : ja Slurf
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=24| B | B : dit zijn de plank met het schaaltje boven op de plank
+	Free: Pattern=de, Pattern=boven, Pattern=met, Pattern=dit zijn, Pattern=plank, Pattern=op
+	Constrained: Pattern=zijn
+Turn ID=25| B | B : die door het kop heen gaan
+	Free: Pattern=door, Pattern=die
+	Constrained: 
+Turn ID=26| A | A : ja ja
+	Free: Pattern=ja ja
+	Constrained: Pattern=ja
+Turn ID=27| A | A : ah
+	Free: 
+	Constrained: 
+Turn ID=28| A | A : ja dat zijn dan nummertje tien
+	Free: Pattern=dan, Pattern=zijn, Pattern=ja
+	Constrained: 
+Turn ID=29| B | B : ja ja
+	Free: Pattern=ja ja
+	Constrained: Pattern=ja
+Turn ID=30| B | B : D
+	Free: 
+	Constrained: 
+Turn ID=31| A | A : ja dit zijn weer die plank die er eigenlijk bovenom om er omheen zitten met een blok er of een bakje er bovenop en op twee poo aan de zijkant
+	Free: Pattern=bovenop, Pattern=twee, Pattern=ja, Pattern=poo aan de, Pattern=op, Pattern=een, Pattern=met een, Pattern=er, Pattern=die plank die, Pattern=weer, Pattern=dit zijn
+	Constrained: Pattern=een, Pattern=met, Pattern=die, Pattern=zijn, Pattern=de, Pattern=aan, Pattern=poo, Pattern=plank, Pattern=aan de
+Turn ID=32| A | A : ja en aan de achterkant ja ja
+	Free: Pattern=ja ja, Pattern=aan de, Pattern=ja
+	Constrained: Pattern=aan, Pattern=de, Pattern=ja

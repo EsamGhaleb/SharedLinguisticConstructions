@@ -1,0 +1,147 @@
+B|0| B: _deze hebben_ drie uitsteeksel _en _aan de_ voorkant_ _een_ _bol_ 
+B|1| B: _de_ _links_ _zijn_ _een_ _driehoek en_ _de_ bovenste _een_ vierkant _en_ _de_ ander _een beetje een_ gek _vorm_ 
+A|2| A: _ja_ 
+A|3| A: _ja_ ook [een beetje een] soort van langgerekte ruit _met een_ tuu eronder of _zo_ 
+B|4| B: [ja] 
+A|5| A: [ja] 
+B|6| B: _die_ [ja] 
+A|7| A: oké _dat zijn_ nummer veertien 
+A|8| A: [deze hebben] [die] _bol [aan de_ voorkant] [en] dan [die] _rechthoek bovenop_ 
+A|9| A: _met_ _nog_ [die] raar [vorm] daar [links] van [en _aan de] linkerkant_ steken _dat driehoek_ uit _dat_ langwerpig [driehoek] zeggen maar 
+B|10| B: [ja] 
+B|11| B: [dat zijn] bij mij N 
+B|12| B: [deze hebben] drie uitsteeksel 
+B|13| B: [en] [een] bolle [aan de voorkant] [een] vierkantje [bovenop] [en] [links] _driehoek en_ het ruitje [met een] bobbel eraan 
+A|14| A: [ja] 
+A|15| A: [dat zijn] nummer negen 
+A|16| A: ik [hebben] nu [die] [een] [met] [die] _bol [aan de_ voorkant] [en] dan [links] [dat] _uitstekend_ langwerpig driehoekding [en] dan [dat] driehoektuu 
+B|17| B: [ja] 
+A|18| A: [en] dan weer [die] _plat rechthoek_ 
+B|19| B: [ja] 
+B|20| B: [dat zijn] bij mij G 
+B|21| B: _dit zijn_ _met [dat_ _driehoek] aan de linkerkant_ [en] [nog] twee ding [bovenop] [en] [de] [bol aan de] rechterkant 
+B|22| B: er zitten [een] [plat [rechthoek] bovenop] [en] het ruitje [met] iets eraan [aan de] bovenkant 
+A|23| A: even zoeken hoor 
+A|24| A: bedoelen je weer [met] [die] uitdijen kubus [aan de] ruit 
+B|25| B: nee 
+B|26| B: [aan de linkerkant] [zijn] [een] _uitstekend driehoek_ 
+B|27| B: [die] [zo] [ja] 
+B|28| B: [en aan de] rechterkant [een] [bol] 
+A|29| A: [ja] [ja] [met] [die] gewoon [dat] [dat] [uitstekend] klein [driehoek en] dan [dat] pluimp [en] [die] [plat rechthoek] zeggen maar 
+B|30| B: [ja] 
+A|31| A: [ja] 
+A|32| A: nummer vijf 
+A|33| A: [dit zijn] [die] [een] [met dat] [uitstekend [driehoek] aan de linkerkant] [bovenop] [dat] pluimp [en] [die] [rechthoek] [en] dan [die] [bol] ervoor 
+B|34| B: [ja] 
+B|35| B: [dat zijn] bij mij J 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : deze hebben drie uitsteeksel en aan de voorkant een bol
+	Free: Pattern=bol, Pattern=een, Pattern=deze hebben, Pattern=aan de voorkant, Pattern=en aan de
+	Constrained: Pattern=de, Pattern=en, Pattern=aan de, Pattern=hebben
+Turn ID=1| B | B : de links zijn een driehoek en de bovenste een vierkant en de ander een beetje een gek vorm
+	Free: Pattern=vorm, Pattern=de, Pattern=links, Pattern=een beetje een, Pattern=en, Pattern=zijn, Pattern=een, Pattern=driehoek en
+	Constrained: Pattern=en, Pattern=een, Pattern=driehoek
+Turn ID=2| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=3| A | A : ja ook een beetje een soort van langgerekte ruit met een tuu eronder of zo
+	Free: Pattern=een beetje een, Pattern=met een, Pattern=ja, Pattern=zo
+	Constrained: Pattern=een, Pattern=met
+Turn ID=4| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=5| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=6| B | B : die ja
+	Free: Pattern=ja, Pattern=die
+	Constrained: 
+Turn ID=7| A | A : oké dat zijn nummer veertien
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=8| A | A : deze hebben die bol aan de voorkant en dan die rechthoek bovenop
+	Free: Pattern=deze hebben, Pattern=die, Pattern=bol aan de, Pattern=en, Pattern=aan de voorkant, Pattern=rechthoek bovenop
+	Constrained: Pattern=bovenop, Pattern=rechthoek, Pattern=de, Pattern=hebben, Pattern=bol, Pattern=aan de
+Turn ID=9| A | A : met nog die raar vorm daar links van en aan de linkerkant steken dat driehoek uit dat langwerpig driehoek zeggen maar
+	Free: Pattern=dat, Pattern=nog, Pattern=dat driehoek, Pattern=links, Pattern=met, Pattern=die, Pattern=en aan de, Pattern=aan de linkerkant, Pattern=vorm, Pattern=driehoek
+	Constrained: Pattern=driehoek, Pattern=dat, Pattern=de, Pattern=aan de, Pattern=en
+Turn ID=10| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=11| B | B : dat zijn bij mij N
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=12| B | B : deze hebben drie uitsteeksel
+	Free: Pattern=deze hebben
+	Constrained: Pattern=hebben
+Turn ID=13| B | B : en een bolle aan de voorkant een vierkantje bovenop en links driehoek en het ruitje met een bobbel eraan
+	Free: Pattern=bovenop, Pattern=links, Pattern=met een, Pattern=en, Pattern=aan de voorkant, Pattern=een, Pattern=driehoek en
+	Constrained: Pattern=driehoek, Pattern=de, Pattern=aan de, Pattern=een, Pattern=met, Pattern=en
+Turn ID=14| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=15| A | A : dat zijn nummer negen
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=16| A | A : ik hebben nu die een met die bol aan de voorkant en dan links dat uitstekend langwerpig driehoekding en dan dat driehoektuu
+	Free: Pattern=dat, Pattern=links, Pattern=hebben, Pattern=met, Pattern=die, Pattern=bol aan de, Pattern=en, Pattern=aan de voorkant, Pattern=een, Pattern=uitstekend
+	Constrained: Pattern=bol, Pattern=de, Pattern=aan de
+Turn ID=17| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=18| A | A : en dan weer die plat rechthoek
+	Free: Pattern=plat rechthoek, Pattern=die, Pattern=en
+	Constrained: Pattern=rechthoek
+Turn ID=19| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=20| B | B : dat zijn bij mij G
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=21| B | B : dit zijn met dat driehoek aan de linkerkant en nog twee ding bovenop en de bol aan de rechterkant
+	Free: Pattern=bovenop, Pattern=nog, Pattern=de, Pattern=dat driehoek, Pattern=met dat, Pattern=bol aan de, Pattern=driehoek aan de linkerkant, Pattern=en, Pattern=dit zijn
+	Constrained: Pattern=driehoek, Pattern=dat, Pattern=de, Pattern=met, Pattern=zijn, Pattern=aan de linkerkant, Pattern=bol, Pattern=aan de
+Turn ID=22| B | B : er zitten een plat rechthoek bovenop en het ruitje met iets eraan aan de bovenkant
+	Free: Pattern=aan de, Pattern=een, Pattern=plat rechthoek, Pattern=met, Pattern=en, Pattern=rechthoek bovenop
+	Constrained: Pattern=rechthoek, Pattern=de, Pattern=bovenop
+Turn ID=23| A | A : even zoeken hoor
+	Free: 
+	Constrained: 
+Turn ID=24| A | A : bedoelen je weer met die uitdijen kubus aan de ruit
+	Free: Pattern=aan de, Pattern=die, Pattern=met
+	Constrained: Pattern=de
+Turn ID=25| B | B : nee
+	Free: 
+	Constrained: 
+Turn ID=26| B | B : aan de linkerkant zijn een uitstekend driehoek
+	Free: Pattern=aan de linkerkant, Pattern=uitstekend driehoek, Pattern=een, Pattern=zijn
+	Constrained: Pattern=de, Pattern=uitstekend, Pattern=driehoek, Pattern=aan de
+Turn ID=27| B | B : die zo ja
+	Free: Pattern=ja, Pattern=die, Pattern=zo
+	Constrained: 
+Turn ID=28| B | B : en aan de rechterkant een bol
+	Free: Pattern=en aan de, Pattern=bol, Pattern=een
+	Constrained: Pattern=aan de, Pattern=de, Pattern=en
+Turn ID=29| A | A : ja ja met die gewoon dat dat uitstekend klein driehoek en dan dat pluimp en die plat rechthoek zeggen maar
+	Free: Pattern=dat, Pattern=ja, Pattern=plat rechthoek, Pattern=met, Pattern=die, Pattern=en, Pattern=uitstekend, Pattern=driehoek en
+	Constrained: Pattern=rechthoek, Pattern=en, Pattern=driehoek
+Turn ID=30| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=31| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=32| A | A : nummer vijf
+	Free: 
+	Constrained: 
+Turn ID=33| A | A : dit zijn die een met dat uitstekend driehoek aan de linkerkant bovenop dat pluimp en die rechthoek en dan die bol ervoor
+	Free: Pattern=rechthoek, Pattern=bol, Pattern=met dat, Pattern=die, Pattern=driehoek aan de linkerkant, Pattern=en, Pattern=dit zijn, Pattern=dat, Pattern=bovenop, Pattern=een, Pattern=uitstekend driehoek
+	Constrained: Pattern=driehoek, Pattern=dat, Pattern=de, Pattern=aan de, Pattern=uitstekend, Pattern=met, Pattern=zijn, Pattern=aan de linkerkant
+Turn ID=34| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=35| B | B : dat zijn bij mij J
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn

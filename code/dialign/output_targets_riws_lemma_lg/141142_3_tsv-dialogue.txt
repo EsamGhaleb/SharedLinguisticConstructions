@@ -1,0 +1,139 @@
+A|0| A: _ja_ oké 
+B|1| B: nou [ja] het _zijn_ _een_ beetje _een een_ vorm _van_ _een_ glaas _en dan_ _zitten_ _er_ _twee blok_ op 
+B|2| B: _en_ _een soort van_ Lvormig uitsteeksel 
+A|3| A: _twee blok erop_ 
+B|4| B: _een een_ glas _met_ _een_ voe 
+B|5| B: _met twee blok erop_ 
+A|6| A: [ja] ik zien [er] één [met twee blok erop] hebben zeggen maar _de onderkant_ [een soort van] draai erin [zitten] 
+B|7| B: [ja] 
+A|8| A: [ja] oké 
+A|9| A: [en dan] inderdaad [een een] _driehoek_ _die_ [er] onderin [zitten] 
+B|10| B: [ja] 
+A|11| A: oké _dat zijn_ vier voor mij [dan] 
+B|12| B: [ja] 
+A|13| A: deze hebben [een] gedraaide _onderkant_ [en] _de_ _driehoek_ eronder 
+B|14| B: [ja] [dat zijn] A 
+A|15| A: [ja] 
+A|16| A: [en] _die_ [twee blok] 
+B|17| B: [ja] 
+B|18| B: het _zijn weer die_ [een] in [de] vorm [van] het glas 
+B|19| B: _met _de_ blok erop_ 
+B|20| B: [de] driehoekig standaard 
+A|21| A: [ja] [en] [de] [en] [de] gedraaide 
+B|22| B: _draaien_ [ja] 
+A|23| A: [ja] [draaien] ding oké [dat zijn] tien 
+A|24| A: [dat] kloppen 
+A|25| A: oké dit [zijn weer] _de draaien onderkant_ [met de] _driehoek_ eronder 
+B|26| B: [ja] 
+B|27| B: L 
+B|28| B: het glaas _met de draaien onderkant_ 
+B|29| B: [en] het [driehoek] aan [de onderkant] 
+A|30| A: yes 
+A|31| A: oké [dat zijn] vier 
+A|32| A: deze dit [zijn weer die] [met de draaien onderkant] [en] [de] [en] [de blok erop] 
+B|33| B: [draaien onderkant] F 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : ja oké
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=1| B | B : nou ja het zijn een beetje een een vorm van een glaas en dan zitten er twee blok op
+	Free: Pattern=ja, Pattern=en dan, Pattern=een, Pattern=een een, Pattern=zitten, Pattern=twee blok, Pattern=er, Pattern=van, Pattern=zijn
+	Constrained: Pattern=en, Pattern=een, Pattern=dan
+Turn ID=2| B | B : en een soort van Lvormig uitsteeksel
+	Free: Pattern=een soort van, Pattern=en
+	Constrained: Pattern=van, Pattern=een
+Turn ID=3| A | A : twee blok erop
+	Free: Pattern=twee blok erop
+	Constrained: Pattern=twee blok
+Turn ID=4| B | B : een een glas met een voe
+	Free: Pattern=een een, Pattern=een, Pattern=met
+	Constrained: Pattern=een
+Turn ID=5| B | B : met twee blok erop
+	Free: Pattern=met twee blok erop
+	Constrained: Pattern=met, Pattern=twee blok, Pattern=twee blok erop
+Turn ID=6| A | A : ja ik zien er één met twee blok erop hebben zeggen maar de onderkant een soort van draai erin zitten
+	Free: Pattern=met twee blok erop, Pattern=ja, Pattern=een soort van, Pattern=er, Pattern=zitten, Pattern=de onderkant
+	Constrained: Pattern=de, Pattern=een, Pattern=twee blok erop, Pattern=met, Pattern=twee blok, Pattern=onderkant, Pattern=van
+Turn ID=7| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=8| A | A : ja oké
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=9| A | A : en dan inderdaad een een driehoek die er onderin zitten
+	Free: Pattern=driehoek, Pattern=en dan, Pattern=een een, Pattern=er, Pattern=die, Pattern=zitten
+	Constrained: Pattern=en, Pattern=een, Pattern=dan
+Turn ID=10| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=11| A | A : oké dat zijn vier voor mij dan
+	Free: Pattern=dat zijn, Pattern=dan
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=12| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=13| A | A : deze hebben een gedraaide onderkant en de driehoek eronder
+	Free: Pattern=driehoek, Pattern=de, Pattern=een, Pattern=onderkant, Pattern=en
+	Constrained: 
+Turn ID=14| B | B : ja dat zijn A
+	Free: Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=15| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=16| A | A : en die twee blok
+	Free: Pattern=twee blok, Pattern=en, Pattern=die
+	Constrained: 
+Turn ID=17| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=18| B | B : het zijn weer die een in de vorm van het glas
+	Free: Pattern=zijn weer die, Pattern=de, Pattern=van, Pattern=een
+	Constrained: Pattern=zijn weer, Pattern=zijn, Pattern=die
+Turn ID=19| B | B : met de blok erop
+	Free: Pattern=de blok erop, Pattern=met de
+	Constrained: Pattern=met, Pattern=de
+Turn ID=20| B | B : de driehoekig standaard
+	Free: Pattern=de
+	Constrained: 
+Turn ID=21| A | A : ja en de en de gedraaide
+	Free: Pattern=de, Pattern=en, Pattern=ja
+	Constrained: 
+Turn ID=22| B | B : draaien ja
+	Free: Pattern=ja, Pattern=draaien
+	Constrained: 
+Turn ID=23| A | A : ja draaien ding oké dat zijn tien
+	Free: Pattern=dat zijn, Pattern=ja, Pattern=draaien
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=24| A | A : dat kloppen
+	Free: Pattern=dat
+	Constrained: 
+Turn ID=25| A | A : oké dit zijn weer de draaien onderkant met de driehoek eronder
+	Free: Pattern=de draaien onderkant, Pattern=zijn weer, Pattern=met de, Pattern=driehoek
+	Constrained: Pattern=de, Pattern=draaien, Pattern=met, Pattern=onderkant, Pattern=zijn, Pattern=draaien onderkant
+Turn ID=26| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=27| B | B : L
+	Free: 
+	Constrained: 
+Turn ID=28| B | B : het glaas met de draaien onderkant
+	Free: Pattern=met de draaien onderkant
+	Constrained: Pattern=draaien, Pattern=met, Pattern=onderkant, Pattern=de draaien onderkant, Pattern=draaien onderkant, Pattern=de, Pattern=met de
+Turn ID=29| B | B : en het driehoek aan de onderkant
+	Free: Pattern=de onderkant, Pattern=en, Pattern=driehoek
+	Constrained: Pattern=de, Pattern=onderkant
+Turn ID=30| A | A : yes
+	Free: 
+	Constrained: 
+Turn ID=31| A | A : oké dat zijn vier
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=32| A | A : deze dit zijn weer die met de draaien onderkant en de en de blok erop
+	Free: Pattern=zijn weer die, Pattern=de blok erop, Pattern=en, Pattern=de, Pattern=met de draaien onderkant
+	Constrained: Pattern=draaien, Pattern=met, Pattern=die, Pattern=onderkant, Pattern=de draaien onderkant, Pattern=zijn, Pattern=de, Pattern=met de, Pattern=draaien onderkant, Pattern=zijn weer
+Turn ID=33| B | B : draaien onderkant F
+	Free: Pattern=draaien onderkant
+	Constrained: Pattern=onderkant, Pattern=draaien

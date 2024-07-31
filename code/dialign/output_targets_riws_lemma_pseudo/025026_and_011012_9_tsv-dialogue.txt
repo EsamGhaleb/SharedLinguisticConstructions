@@ -1,0 +1,171 @@
+B|0| B: oké 
+A|1| A: _ja_ 
+B|2| B: [ja] 
+B|3| B: [ja] _ik_ _hebben_ dus _een_ rood vierkant 
+B|4| B: het _zijn_ het plaat _zeggen maar_ _dat_ [ja] het lijken eigenlijk _een_ soort van op _een_ beker _en_ _dan_ steken _er_ _een_ 
+B|5| B: pollepel soort van uit _zeggen maar_ 
+B|6| B: _en_ _dan_ _hebben_ je _aan de linkerkant_ ook _zo'n_ staaf uitsteken _en_ ook _nog_ _een_ rond _er_ _aan de achterkant_ 
+A|7| A: ok _zitten_ [er] iets [aan de] zijkant 
+B|8| B: erbij [zitten] 
+A|9| A: [en] [er] [zitten] [er] [zijn] [maar] één uitsteeksel _zeggen maar _aan de_ bovenkant_ 
+B|10| B: [ja] 
+A|11| A: ok 
+B|12| B: [en] _dan_ [aan de] rechterkant inderdaad _zo'n_ _een_ ding wat uitsteken 
+B|13| B: [ja] _een_ soort van 
+B|14| B: [ja] 
+A|15| A: ok [dan] gaan [ik] voor dertien 
+A|16| A: deze [hebben] _weer_ [de] cirkel [aan de achterkant] [hebben] _weer zo'n_ lepeltje 
+A|17| A: [en] [aan de] zijkant [nog] één [ja] niet echt [een] armpje want hij gaan niet zo [maar] _rechts_ 
+B|18| B: [ja] 
+B|19| B: [en] [dan] daaronder ook [nog] [een] soort van 
+B|20| B: [ja] 
+B|21| B: oké _dat zijn_ bij mij [zijn] _dat_ O 
+A|22| A: [dat zijn] acht 
+B|23| B: nou [hebben] je [weer] _die_ [een] _met_ [zeggen maar] [weer] _die_ [aan de] rechterkant [weer zo'n] pollepel [zeggen maar] _die_ uitsteken 
+B|24| B: [aan de bovenkant] 
+B|25| B: [en] [dan] 
+B|26| B: [een] bolle erachter 
+B|27| B: je [hebben] [zo'n] _met_ [zo'n] _half_ rond erachter [zeggen maar] [en] [dan] 
+B|28| B: [ja] 
+B|29| B: [ja] 
+A|30| A: dit [zijn] [met] [de] cirkel [aan de achterkant] lepeltje _Bovenin_ [een] uitsteeksel [aan de linkerkant] 
+A|31| A: [ja] [dat zijn] zeven 
+A|32| A: [ja] dit [zijn] [met] [die] cirkel [aan de achterkant] [die] [half] cirkel [met] lepeltje erin [en] staafje [aan de] zijkant 
+A|33| A: [ja] 
+B|34| B: nee 
+B|35| B: [ja] [en] [die] 
+B|36| B: [ja] 
+B|37| B: [dat zijn] bij mij C 
+B|38| B: [dan] [hebben] we [weer] [die] [een] [met] [dat] [met] [dat] rond [zeggen maar [aan de] achterkant] [en] [dan] 
+B|39| B: [rechts] [Bovenin] [die] pollepel [zeggen maar] [weer] [die] uitsteken [en] 
+B|40| B: [ja] 
+B|41| B: oké 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : oké
+	Free: 
+	Constrained: 
+Turn ID=1| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=2| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=3| B | B : ja ik hebben dus een rood vierkant
+	Free: Pattern=ik, Pattern=hebben, Pattern=ja, Pattern=een
+	Constrained: 
+Turn ID=4| B | B : het zijn het plaat zeggen maar dat ja het lijken eigenlijk een soort van op een beker en dan steken er een
+	Free: Pattern=dat, Pattern=ja, Pattern=dan, Pattern=een, Pattern=zeggen maar, Pattern=er, Pattern=en, Pattern=zijn
+	Constrained: Pattern=maar
+Turn ID=5| B | B : pollepel soort van uit zeggen maar
+	Free: Pattern=zeggen maar
+	Constrained: Pattern=maar
+Turn ID=6| B | B : en dan hebben je aan de linkerkant ook zo'n staaf uitsteken en ook nog een rond er aan de achterkant
+	Free: Pattern=aan de achterkant, Pattern=nog, Pattern=zo'n, Pattern=dan, Pattern=een, Pattern=hebben, Pattern=er, Pattern=en, Pattern=aan de linkerkant
+	Constrained: Pattern=de, Pattern=aan de
+Turn ID=7| A | A : ok zitten er iets aan de zijkant
+	Free: Pattern=aan de, Pattern=er, Pattern=zitten
+	Constrained: Pattern=de
+Turn ID=8| B | B : erbij zitten
+	Free: Pattern=zitten
+	Constrained: 
+Turn ID=9| A | A : en er zitten er zijn maar één uitsteeksel zeggen maar aan de bovenkant
+	Free: Pattern=zeggen maar aan de, Pattern=zitten, Pattern=er, Pattern=aan de bovenkant, Pattern=en, Pattern=zijn, Pattern=maar
+	Constrained: Pattern=de, Pattern=zeggen maar, Pattern=aan de, Pattern=maar
+Turn ID=10| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=11| A | A : ok
+	Free: 
+	Constrained: 
+Turn ID=12| B | B : en dan aan de rechterkant inderdaad zo'n een ding wat uitsteken
+	Free: Pattern=zo'n, Pattern=aan de, Pattern=dan, Pattern=een, Pattern=en
+	Constrained: Pattern=de
+Turn ID=13| B | B : ja een soort van
+	Free: Pattern=ja, Pattern=een
+	Constrained: 
+Turn ID=14| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=15| A | A : ok dan gaan ik voor dertien
+	Free: Pattern=dan, Pattern=ik
+	Constrained: 
+Turn ID=16| A | A : deze hebben weer de cirkel aan de achterkant hebben weer zo'n lepeltje
+	Free: Pattern=aan de achterkant, Pattern=de, Pattern=weer zo'n, Pattern=hebben, Pattern=weer
+	Constrained: Pattern=weer, Pattern=de, Pattern=zo'n, Pattern=aan de
+Turn ID=17| A | A : en aan de zijkant nog één ja niet echt een armpje want hij gaan niet zo maar rechts
+	Free: Pattern=nog, Pattern=aan de, Pattern=een, Pattern=en, Pattern=maar, Pattern=rechts, Pattern=ja
+	Constrained: Pattern=de
+Turn ID=18| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=19| B | B : en dan daaronder ook nog een soort van
+	Free: Pattern=en, Pattern=dan, Pattern=nog, Pattern=een
+	Constrained: 
+Turn ID=20| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=21| B | B : oké dat zijn bij mij zijn dat O
+	Free: Pattern=dat zijn, Pattern=dat, Pattern=zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=22| A | A : dat zijn acht
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=23| B | B : nou hebben je weer die een met zeggen maar weer die aan de rechterkant weer zo'n pollepel zeggen maar die uitsteken
+	Free: Pattern=aan de, Pattern=een, Pattern=hebben, Pattern=met, Pattern=die, Pattern=weer, Pattern=weer zo'n, Pattern=zeggen maar
+	Constrained: Pattern=zo'n, Pattern=weer, Pattern=de, Pattern=maar
+Turn ID=24| B | B : aan de bovenkant
+	Free: Pattern=aan de bovenkant
+	Constrained: Pattern=aan de, Pattern=de
+Turn ID=25| B | B : en dan
+	Free: Pattern=en, Pattern=dan
+	Constrained: 
+Turn ID=26| B | B : een bolle erachter
+	Free: Pattern=een
+	Constrained: 
+Turn ID=27| B | B : je hebben zo'n met zo'n half rond erachter zeggen maar en dan
+	Free: Pattern=zo'n, Pattern=dan, Pattern=zeggen maar, Pattern=hebben, Pattern=met, Pattern=en, Pattern=half
+	Constrained: Pattern=maar
+Turn ID=28| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=29| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=30| A | A : dit zijn met de cirkel aan de achterkant lepeltje Bovenin een uitsteeksel aan de linkerkant
+	Free: Pattern=aan de achterkant, Pattern=de, Pattern=een, Pattern=met, Pattern=Bovenin, Pattern=zijn, Pattern=aan de linkerkant
+	Constrained: Pattern=de, Pattern=aan de
+Turn ID=31| A | A : ja dat zijn zeven
+	Free: Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=32| A | A : ja dit zijn met die cirkel aan de achterkant die half cirkel met lepeltje erin en staafje aan de zijkant
+	Free: Pattern=aan de achterkant, Pattern=ja, Pattern=aan de, Pattern=met, Pattern=die, Pattern=en, Pattern=zijn, Pattern=half
+	Constrained: Pattern=aan de, Pattern=de
+Turn ID=33| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=34| B | B : nee
+	Free: 
+	Constrained: 
+Turn ID=35| B | B : ja en die
+	Free: Pattern=en, Pattern=die, Pattern=ja
+	Constrained: 
+Turn ID=36| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=37| B | B : dat zijn bij mij C
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=38| B | B : dan hebben we weer die een met dat met dat rond zeggen maar aan de achterkant en dan
+	Free: Pattern=dan, Pattern=een, Pattern=hebben, Pattern=die, Pattern=en, Pattern=weer, Pattern=dat, Pattern=aan de achterkant, Pattern=zeggen maar aan de, Pattern=met
+	Constrained: Pattern=de, Pattern=zeggen maar, Pattern=aan de, Pattern=maar
+Turn ID=39| B | B : rechts Bovenin die pollepel zeggen maar weer die uitsteken en
+	Free: Pattern=rechts, Pattern=zeggen maar, Pattern=die, Pattern=Bovenin, Pattern=en, Pattern=weer
+	Constrained: Pattern=maar
+Turn ID=40| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=41| B | B : oké
+	Free: 
+	Constrained: 

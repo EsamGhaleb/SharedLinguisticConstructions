@@ -1,0 +1,95 @@
+B|0| B: deze _hebben_ _een_ _een_ spijker op _de_ kop 
+B|1| B: _en een_ vierkant plaat _aan de_ voorkant 
+B|2| B: _en_ _twee_ _blok_ _aan de zijkant_ _die_ steeds groot worden 
+B|3| B: _ja_ 
+A|4| A: [ja] 
+A|5| A: [ja] 
+A|6| A: [een] [ja] soort spion [hebben] ik ervan maken 
+A|7| A: _dat_ [die] [aan] _het_ bellen _zijn_ _dat zijn_ bij _mij_ nummer [twee] 
+B|8| B: oké 
+B|9| B: [ja] [dat zijn] voor [mij] G 
+B|10| B: even kijken deze [hebben] [dat] anetenne _aan de_ bovenkant _en_ [het] vierkant _vlak aan de_ voorkant _en_ _de_ groot worden _blok_ _aan de_ linkerkant 
+A|11| A: _dit zijn_ eigenlijk [die] spion weer dus _met_ [die] [twee] trap toelopen 
+A|12| A: [blok] tentakel omhoog [en een] [vlak [aan de] zijkant] 
+A|13| A: Blok [ja] 
+A|14| A: [dat zijn] nummer negen 
+B|15| B: [ja] 
+B|16| B: [dat zijn] d voor [mij] 
+A|17| A: _dit zijn_ [de] spion 
+B|18| B: [dit zijn] [met] [de] Antenne [het] vierkant plaa [en] [de] [twee] wat groot groot worden vierkant 
+A|19| A: [de] spion [die] staan [ja] nummer één 
+B|20| B: [ja] 
+B|21| B: G 
+A|22| A: [dit zijn] [de] spion 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : deze hebben een een spijker op de kop
+	Free: Pattern=een, Pattern=hebben, Pattern=de
+	Constrained: 
+Turn ID=1| B | B : en een vierkant plaat aan de voorkant
+	Free: Pattern=en een, Pattern=aan de
+	Constrained: Pattern=een, Pattern=aan, Pattern=de, Pattern=en
+Turn ID=2| B | B : en twee blok aan de zijkant die steeds groot worden
+	Free: Pattern=twee, Pattern=aan de zijkant, Pattern=die, Pattern=en, Pattern=blok
+	Constrained: Pattern=aan, Pattern=de, Pattern=aan de
+Turn ID=3| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=4| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=5| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=6| A | A : een ja soort spion hebben ik ervan maken
+	Free: Pattern=een, Pattern=ja, Pattern=hebben
+	Constrained: 
+Turn ID=7| A | A : dat die aan het bellen zijn dat zijn bij mij nummer twee
+	Free: Pattern=twee, Pattern=aan, Pattern=het, Pattern=die, Pattern=mij, Pattern=zijn, Pattern=dat, Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=8| B | B : oké
+	Free: 
+	Constrained: 
+Turn ID=9| B | B : ja dat zijn voor mij G
+	Free: Pattern=dat zijn, Pattern=ja, Pattern=mij
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=10| B | B : even kijken deze hebben dat anetenne aan de bovenkant en het vierkant vlak aan de voorkant en de groot worden blok aan de linkerkant
+	Free: Pattern=dat, Pattern=de, Pattern=aan de, Pattern=het, Pattern=hebben, Pattern=vlak aan de, Pattern=en, Pattern=blok
+	Constrained: Pattern=aan de, Pattern=aan, Pattern=de
+Turn ID=11| A | A : dit zijn eigenlijk die spion weer dus met die twee trap toelopen
+	Free: Pattern=dit zijn, Pattern=twee, Pattern=met, Pattern=die
+	Constrained: Pattern=zijn
+Turn ID=12| A | A : blok tentakel omhoog en een vlak aan de zijkant
+	Free: Pattern=aan de zijkant, Pattern=vlak aan de, Pattern=en een, Pattern=blok
+	Constrained: Pattern=aan de, Pattern=een, Pattern=en, Pattern=de, Pattern=aan
+Turn ID=13| A | A : Blok ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=14| A | A : dat zijn nummer negen
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=15| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=16| B | B : dat zijn d voor mij
+	Free: Pattern=dat zijn, Pattern=mij
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=17| A | A : dit zijn de spion
+	Free: Pattern=dit zijn, Pattern=de
+	Constrained: Pattern=zijn
+Turn ID=18| B | B : dit zijn met de Antenne het vierkant plaa en de twee wat groot groot worden vierkant
+	Free: Pattern=twee, Pattern=de, Pattern=het, Pattern=met, Pattern=en, Pattern=dit zijn
+	Constrained: Pattern=zijn
+Turn ID=19| A | A : de spion die staan ja nummer één
+	Free: Pattern=ja, Pattern=die, Pattern=de
+	Constrained: 
+Turn ID=20| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=21| B | B : G
+	Free: 
+	Constrained: 
+Turn ID=22| A | A : dit zijn de spion
+	Free: Pattern=dit zijn, Pattern=de
+	Constrained: Pattern=zijn

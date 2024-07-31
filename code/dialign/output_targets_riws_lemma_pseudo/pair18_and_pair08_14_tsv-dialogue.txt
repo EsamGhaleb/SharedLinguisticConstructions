@@ -1,0 +1,119 @@
+A|0| A: _ik_ _hebben_ links _aan _de_ bovenkant_ _een_ bol erop zitten 
+A|1| A: _en_ _aan de_ rechterkant voorkomen _een_ klein staafje uit _aan de_ linkerkant _een_ lang _die_ naar je toe buigen 
+A|2| A: _ja_ 
+A|3| A: vijf 
+B|4| B: oké 
+B|5| B: [ja] 
+B|6| B: denken _dat_ [ik] hem weten , [hebben] hij [aan de] voorkant ook [een] _staaf_ 
+B|7| B: [ja] 
+B|8| B: [ja] precies 
+B|9| B: [ja] 
+B|10| B: [en] [een] balle erbovenop 
+B|11| B: [ja] oké dan zijn het O 
+A|12| A: [ik] [hebben] _die_ bol _bovenop_ [en] _die_ [staaf] _die_ naar je toe wijzen 
+A|13| A: [aan de] linkerkant 
+A|14| A: [ja] 
+A|15| A: zestien 
+B|16| B: deze [hebben] [een] balle op [de bovenkant] 
+B|17| B: [en] [een] recht [staaf] [aan de] voorkant 
+B|18| B: [ja] [ja] 
+A|19| A: [ik] [hebben] [de] bol _bovenop_ [en] [dat] ding waar naar je toe wijzen 
+A|20| A: [ja] 
+A|21| A: drie 
+B|22| B: ah [ja] korfbal 
+B|23| B: [ja] [ja] [dat] zijn L 
+B|24| B: dit zijn [die] korfbal 
+B|25| B: bal [bovenop] [staaf] 
+B|26| B: [ja] 
+B|27| B: G 
+B|28| B: dit zijn [de] korfbal 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : ik hebben links aan de bovenkant een bol erop zitten
+	Free: Pattern=aan de, Pattern=de bovenkant, Pattern=een, Pattern=hebben, Pattern=ik
+	Constrained: Pattern=de
+Turn ID=1| A | A : en aan de rechterkant voorkomen een klein staafje uit aan de linkerkant een lang die naar je toe buigen
+	Free: Pattern=aan de, Pattern=een, Pattern=en, Pattern=die
+	Constrained: Pattern=de
+Turn ID=2| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=3| A | A : vijf
+	Free: 
+	Constrained: 
+Turn ID=4| B | B : oké
+	Free: 
+	Constrained: 
+Turn ID=5| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=6| B | B : denken dat ik hem weten , hebben hij aan de voorkant ook een staaf
+	Free: Pattern=dat, Pattern=staaf, Pattern=aan de, Pattern=een, Pattern=hebben, Pattern=ik
+	Constrained: Pattern=de
+Turn ID=7| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=8| B | B : ja precies
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=9| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=10| B | B : en een balle erbovenop
+	Free: Pattern=een, Pattern=en
+	Constrained: 
+Turn ID=11| B | B : ja oké dan zijn het O
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=12| A | A : ik hebben die bol bovenop en die staaf die naar je toe wijzen
+	Free: Pattern=bovenop, Pattern=staaf, Pattern=hebben, Pattern=die, Pattern=ik, Pattern=en
+	Constrained: 
+Turn ID=13| A | A : aan de linkerkant
+	Free: Pattern=aan de
+	Constrained: Pattern=de
+Turn ID=14| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=15| A | A : zestien
+	Free: 
+	Constrained: 
+Turn ID=16| B | B : deze hebben een balle op de bovenkant
+	Free: Pattern=de bovenkant, Pattern=een, Pattern=hebben
+	Constrained: Pattern=de
+Turn ID=17| B | B : en een recht staaf aan de voorkant
+	Free: Pattern=aan de, Pattern=staaf, Pattern=een, Pattern=en
+	Constrained: Pattern=de
+Turn ID=18| B | B : ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=19| A | A : ik hebben de bol bovenop en dat ding waar naar je toe wijzen
+	Free: Pattern=de, Pattern=hebben, Pattern=ik, Pattern=en, Pattern=dat, Pattern=bovenop
+	Constrained: 
+Turn ID=20| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=21| A | A : drie
+	Free: 
+	Constrained: 
+Turn ID=22| B | B : ah ja korfbal
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=23| B | B : ja ja dat zijn L
+	Free: Pattern=ja, Pattern=dat
+	Constrained: 
+Turn ID=24| B | B : dit zijn die korfbal
+	Free: Pattern=die
+	Constrained: 
+Turn ID=25| B | B : bal bovenop staaf
+	Free: Pattern=staaf, Pattern=bovenop
+	Constrained: 
+Turn ID=26| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=27| B | B : G
+	Free: 
+	Constrained: 
+Turn ID=28| B | B : dit zijn de korfbal
+	Free: Pattern=de
+	Constrained: 

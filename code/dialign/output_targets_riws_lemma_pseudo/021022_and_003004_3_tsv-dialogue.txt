@@ -1,0 +1,127 @@
+B|0| B: _ik_ _vinden_ het een theekopje _op_ een statief _en_ _dat_ _hebben_ _dan_ een driehoekig voetstuk 
+B|1| B: _en dan_ een draaien stang _die_ het theekopje omhooghouden 
+B|2| B: _ja_ twee 
+B|3| B: _ja_ 
+A|4| A: net 
+A|5| A: blok [op] [en dan] [en] nog iets _aan de_ zijkant [ja] 
+A|6| A: [ja] ok _nee_ [dat] zijn [dan] nummertje _vier_ 
+A|7| A: [ja] dit zijn eigenlijk [die] mok [die] eigenlijk omhoog gaan of zoiets wat je zeggen 
+A|8| A: [die] kampioen mok achtig weer [ja] [ja] [ja] 
+B|9| B: [ja] 
+B|10| B: met het statief 
+B|11| B: [ja] 
+B|12| B: A 
+B|13| B: het statief 
+B|14| B: het theekopje [op] het statief 
+B|15| B: met [die] [vier] 
+B|16| B: [nee] [nee] met [de] driehoek [aan de] onderkant 
+B|17| B: [ja] 
+A|18| A: [ja] nou [dan] [hebben] [ik] [die] al [vinden] [dat] zijn [dan] nummertje tien 
+B|19| B: [ja] 
+B|20| B: driehoekstatief 
+B|21| B: [ja] 
+B|22| B: L 
+A|23| A: dit zijn [die] trofee 
+B|24| B: het driehoekstatief 
+B|25| B: [ja] 
+B|26| B: [ja] F 
+A|27| A: o [ja] 
+A|28| A: nummer [vier] 
+A|29| A: nou [ja] dit zijn [de] trofee 
+A|30| A: [ja] 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : ik vinden het een theekopje op een statief en dat hebben dan een driehoekig voetstuk
+	Free: Pattern=dat, Pattern=vinden, Pattern=op, Pattern=dan, Pattern=hebben, Pattern=ik, Pattern=en
+	Constrained: 
+Turn ID=1| B | B : en dan een draaien stang die het theekopje omhooghouden
+	Free: Pattern=en dan, Pattern=die
+	Constrained: Pattern=dan, Pattern=en
+Turn ID=2| B | B : ja twee
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=3| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=4| A | A : net
+	Free: 
+	Constrained: 
+Turn ID=5| A | A : blok op en dan en nog iets aan de zijkant ja
+	Free: Pattern=ja, Pattern=en dan, Pattern=en, Pattern=op, Pattern=aan de
+	Constrained: Pattern=dan, Pattern=en, Pattern=de
+Turn ID=6| A | A : ja ok nee dat zijn dan nummertje vier
+	Free: Pattern=dat, Pattern=ja, Pattern=dan, Pattern=nee, Pattern=vier
+	Constrained: 
+Turn ID=7| A | A : ja dit zijn eigenlijk die mok die eigenlijk omhoog gaan of zoiets wat je zeggen
+	Free: Pattern=ja, Pattern=die
+	Constrained: 
+Turn ID=8| A | A : die kampioen mok achtig weer ja ja ja
+	Free: Pattern=ja, Pattern=die
+	Constrained: 
+Turn ID=9| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=10| B | B : met het statief
+	Free: 
+	Constrained: 
+Turn ID=11| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=12| B | B : A
+	Free: 
+	Constrained: 
+Turn ID=13| B | B : het statief
+	Free: 
+	Constrained: 
+Turn ID=14| B | B : het theekopje op het statief
+	Free: Pattern=op
+	Constrained: 
+Turn ID=15| B | B : met die vier
+	Free: Pattern=vier, Pattern=die
+	Constrained: 
+Turn ID=16| B | B : nee nee met de driehoek aan de onderkant
+	Free: Pattern=aan de, Pattern=nee, Pattern=de
+	Constrained: Pattern=de
+Turn ID=17| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=18| A | A : ja nou dan hebben ik die al vinden dat zijn dan nummertje tien
+	Free: Pattern=dat, Pattern=dan, Pattern=hebben, Pattern=die, Pattern=ik, Pattern=vinden, Pattern=ja
+	Constrained: 
+Turn ID=19| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=20| B | B : driehoekstatief
+	Free: 
+	Constrained: 
+Turn ID=21| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=22| B | B : L
+	Free: 
+	Constrained: 
+Turn ID=23| A | A : dit zijn die trofee
+	Free: Pattern=die
+	Constrained: 
+Turn ID=24| B | B : het driehoekstatief
+	Free: 
+	Constrained: 
+Turn ID=25| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=26| B | B : ja F
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=27| A | A : o ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=28| A | A : nummer vier
+	Free: Pattern=vier
+	Constrained: 
+Turn ID=29| A | A : nou ja dit zijn de trofee
+	Free: Pattern=ja, Pattern=de
+	Constrained: 
+Turn ID=30| A | A : ja
+	Free: Pattern=ja
+	Constrained: 

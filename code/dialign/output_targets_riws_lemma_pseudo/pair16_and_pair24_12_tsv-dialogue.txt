@@ -1,0 +1,171 @@
+B|0| B: _ja_ 
+B|1| B: _een beetje_ rond plank of niet _dan_ 
+B|2| B: _dat_ _zijn_ L 
+A|3| A: okeeen [een] _een kop_ 
+A|4| A: lijken wel alsof die [een] hand _uitsteken_ voor [een] dienblad 
+A|5| A: dienblad zitten er ook _op_ 
+A|6| A: [ja] _en_ [dan] nog _aan de linkerkant een_ _ander_ uitsteeksel 
+A|7| A: [dat] [een beetje] [ja] [ja] 
+B|8| B: worden hier goed _in_ 
+B|9| B: [een kop] _met_ [aan de linkerkant een] balk _waar_ _een spijker_ [uitsteken] 
+A|10| A: even zien 
+A|11| A: ah zo [ja] 
+A|12| A: zullen kunnen 
+A|13| A: [ja] _en_ er zitten [een spijker] [in] gemept 
+B|14| B: [op] _zijn_ timmeren 
+B|15| B: [en] [een] rond plateaut 
+A|16| A: _zeggen_ maar 
+A|17| A: dus [dat] 
+B|18| B: [aan de] [ander] kant 
+A|19| A: [ja] 
+A|20| A: [spijker] 
+A|21| A: [ja] 
+A|22| A: [ja] 
+A|23| A: nummer dertien 
+B|24| B: H 
+A|25| A: dit [zijn] die [een] _aan de rechterkant_ [met] _het_ dienblad 
+A|26| A: [aan de linkerkant] [dat] [een] raar uitsteeksel vangrailding [met] [de] [spijker] erdoorheen 
+B|27| B: [kop] [met] [aan de linkerkant een] staaf [met] [een spijker] of jij noemen [het] net iets [ander] 
+B|28| B: _ik_ weten niet veel wat je [zeggen] 
+B|29| B: [ja] 
+B|30| B: [en] [aan de rechterkant] [een] rond plateaut 
+B|31| B: A 
+A|32| A: ah [ik] zien hem al 
+A|33| A: [ja] 
+A|34| A: numero drie 
+B|35| B: [met] 
+B|36| B: [ik] hebben net [de] verkeerd kiezen 
+B|37| B: links [de] _link_ namelijk [de] pilaar [met] [een spijker] eruit , rechts [een] rond plateaut 
+A|38| A: deze [zijn] [met] [het] dienblad 
+A|39| A: [en] [de] [spijker] door [de] vangrail 
+A|40| A: [link] 
+A|41| A: [waar] [zijn] die nou ? ah nummer vier 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=1| B | B : een beetje rond plank of niet dan
+	Free: Pattern=een beetje, Pattern=dan
+	Constrained: Pattern=een
+Turn ID=2| B | B : dat zijn L
+	Free: Pattern=dat, Pattern=zijn
+	Constrained: 
+Turn ID=3| A | A : okeeen een een kop
+	Free: Pattern=een kop, Pattern=een
+	Constrained: Pattern=kop, Pattern=een
+Turn ID=4| A | A : lijken wel alsof die een hand uitsteken voor een dienblad
+	Free: Pattern=een, Pattern=uitsteken
+	Constrained: 
+Turn ID=5| A | A : dienblad zitten er ook op
+	Free: Pattern=op
+	Constrained: 
+Turn ID=6| A | A : ja en dan nog aan de linkerkant een ander uitsteeksel
+	Free: Pattern=ja, Pattern=dan, Pattern=aan de linkerkant een, Pattern=ander, Pattern=en
+	Constrained: Pattern=de, Pattern=aan de, Pattern=een, Pattern=aan de linkerkant
+Turn ID=7| A | A : dat een beetje ja ja
+	Free: Pattern=een beetje, Pattern=dat, Pattern=ja
+	Constrained: Pattern=een
+Turn ID=8| B | B : worden hier goed in
+	Free: Pattern=in
+	Constrained: 
+Turn ID=9| B | B : een kop met aan de linkerkant een balk waar een spijker uitsteken
+	Free: Pattern=waar, Pattern=uitsteken, Pattern=een spijker, Pattern=een kop, Pattern=aan de linkerkant een, Pattern=met
+	Constrained: Pattern=de, Pattern=aan de, Pattern=een, Pattern=kop, Pattern=spijker, Pattern=aan de linkerkant
+Turn ID=10| A | A : even zien
+	Free: 
+	Constrained: 
+Turn ID=11| A | A : ah zo ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=12| A | A : zullen kunnen
+	Free: 
+	Constrained: 
+Turn ID=13| A | A : ja en er zitten een spijker in gemept
+	Free: Pattern=een spijker, Pattern=en, Pattern=ja, Pattern=in
+	Constrained: Pattern=spijker, Pattern=een
+Turn ID=14| B | B : op zijn timmeren
+	Free: Pattern=op, Pattern=zijn
+	Constrained: 
+Turn ID=15| B | B : en een rond plateaut
+	Free: Pattern=en, Pattern=een
+	Constrained: 
+Turn ID=16| A | A : zeggen maar
+	Free: Pattern=zeggen
+	Constrained: 
+Turn ID=17| A | A : dus dat
+	Free: Pattern=dat
+	Constrained: 
+Turn ID=18| B | B : aan de ander kant
+	Free: Pattern=aan de, Pattern=ander
+	Constrained: Pattern=de
+Turn ID=19| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=20| A | A : spijker
+	Free: Pattern=spijker
+	Constrained: 
+Turn ID=21| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=22| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=23| A | A : nummer dertien
+	Free: 
+	Constrained: 
+Turn ID=24| B | B : H
+	Free: 
+	Constrained: 
+Turn ID=25| A | A : dit zijn die een aan de rechterkant met het dienblad
+	Free: Pattern=een, Pattern=het, Pattern=met, Pattern=aan de rechterkant, Pattern=zijn
+	Constrained: Pattern=aan de, Pattern=de
+Turn ID=26| A | A : aan de linkerkant dat een raar uitsteeksel vangrailding met de spijker erdoorheen
+	Free: Pattern=dat, Pattern=de, Pattern=een, Pattern=met, Pattern=spijker, Pattern=aan de linkerkant
+	Constrained: Pattern=aan de, Pattern=de
+Turn ID=27| B | B : kop met aan de linkerkant een staaf met een spijker of jij noemen het net iets ander
+	Free: Pattern=het, Pattern=kop, Pattern=een spijker, Pattern=ander, Pattern=aan de linkerkant een, Pattern=met
+	Constrained: Pattern=de, Pattern=aan de, Pattern=een, Pattern=spijker, Pattern=aan de linkerkant
+Turn ID=28| B | B : ik weten niet veel wat je zeggen
+	Free: Pattern=ik, Pattern=zeggen
+	Constrained: 
+Turn ID=29| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=30| B | B : en aan de rechterkant een rond plateaut
+	Free: Pattern=aan de rechterkant, Pattern=en, Pattern=een
+	Constrained: Pattern=aan de, Pattern=de
+Turn ID=31| B | B : A
+	Free: 
+	Constrained: 
+Turn ID=32| A | A : ah ik zien hem al
+	Free: Pattern=ik
+	Constrained: 
+Turn ID=33| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=34| A | A : numero drie
+	Free: 
+	Constrained: 
+Turn ID=35| B | B : met
+	Free: Pattern=met
+	Constrained: 
+Turn ID=36| B | B : ik hebben net de verkeerd kiezen
+	Free: Pattern=ik, Pattern=de
+	Constrained: 
+Turn ID=37| B | B : links de link namelijk de pilaar met een spijker eruit , rechts een rond plateaut
+	Free: Pattern=de, Pattern=een, Pattern=een spijker, Pattern=met, Pattern=link
+	Constrained: Pattern=spijker, Pattern=een
+Turn ID=38| A | A : deze zijn met het dienblad
+	Free: Pattern=zijn, Pattern=met, Pattern=het
+	Constrained: 
+Turn ID=39| A | A : en de spijker door de vangrail
+	Free: Pattern=en, Pattern=de, Pattern=spijker
+	Constrained: 
+Turn ID=40| A | A : link
+	Free: Pattern=link
+	Constrained: 
+Turn ID=41| A | A : waar zijn die nou ? ah nummer vier
+	Free: Pattern=zijn, Pattern=waar
+	Constrained: 

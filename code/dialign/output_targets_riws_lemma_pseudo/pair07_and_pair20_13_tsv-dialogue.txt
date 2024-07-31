@@ -1,0 +1,79 @@
+A|0| A: _ja_ vijf 
+B|1| B: ah waarom krijgen ik al moeilijk okee deze _dit_ kop staan op een op iets op één op een plat plateauachtig idee _er_ zitten een oor _aan_ alleen _die_ _zijn_ een een kwart draaien [ja] een kwart draaien _en_ _zijn_ los van het kop 
+B|2| B: _en_ _er_ zitten een rij _aan_ ruit _die_ _er_ achterlangs gaan _doorheen_ gaan 
+B|3| B: [ja] precies 
+B|4| B: _en_ een een soort draaien appel _aan de voorkant_ 
+B|5| B: [ja] _met_ een _klein_ steel eraan 
+B|6| B: okee 
+A|7| A: _dit zijn_ [die] [met] _dat_ rond schijf [aan de voorkant] [en] [die] [met] [die] [aan] [er] [doorheen] drie [klein] driehoek 
+A|8| A: [ja] _kraal_ 
+A|9| A: [ja] zeven 
+B|10| B: ik zullen hem zelf omschijven als een wcrolhouder maar 
+B|11| B: [ja] [dat] [zijn] l 
+A|12| A: _dit zijn de_ kralenketting 
+A|13| A: achten 
+B|14| B: deze hebben [de] [kraal] 
+A|15| A: _dit zijn de_ kralenketting 
+B|16| B: [dat] [zijn] l 
+B|17| B: [dit zijn de] [kraal] 
+B|18| B: [dat] [zijn] e 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : ja vijf
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=1| B | B : ah waarom krijgen ik al moeilijk okee deze dit kop staan op een op iets op één op een plat plateauachtig idee er zitten een oor aan alleen die zijn een een kwart draaien ja een kwart draaien en zijn los van het kop
+	Free: Pattern=dit, Pattern=die, Pattern=er, Pattern=en, Pattern=zijn, Pattern=aan, Pattern=ja
+	Constrained: 
+Turn ID=2| B | B : en er zitten een rij aan ruit die er achterlangs gaan doorheen gaan
+	Free: Pattern=die, Pattern=er, Pattern=en, Pattern=aan, Pattern=doorheen
+	Constrained: 
+Turn ID=3| B | B : ja precies
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=4| B | B : en een een soort draaien appel aan de voorkant
+	Free: Pattern=aan de voorkant, Pattern=en
+	Constrained: Pattern=aan, Pattern=de
+Turn ID=5| B | B : ja met een klein steel eraan
+	Free: Pattern=ja, Pattern=klein, Pattern=met
+	Constrained: 
+Turn ID=6| B | B : okee
+	Free: 
+	Constrained: 
+Turn ID=7| A | A : dit zijn die met dat rond schijf aan de voorkant en die met die aan er doorheen drie klein driehoek
+	Free: Pattern=dat, Pattern=met, Pattern=die, Pattern=er, Pattern=klein, Pattern=en, Pattern=aan de voorkant, Pattern=dit zijn, Pattern=aan, Pattern=doorheen
+	Constrained: Pattern=de, Pattern=zijn, Pattern=dit, Pattern=aan
+Turn ID=8| A | A : ja kraal
+	Free: Pattern=ja, Pattern=kraal
+	Constrained: 
+Turn ID=9| A | A : ja zeven
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=10| B | B : ik zullen hem zelf omschijven als een wcrolhouder maar
+	Free: 
+	Constrained: 
+Turn ID=11| B | B : ja dat zijn l
+	Free: Pattern=ja, Pattern=dat, Pattern=zijn
+	Constrained: 
+Turn ID=12| A | A : dit zijn de kralenketting
+	Free: Pattern=dit zijn de
+	Constrained: Pattern=dit zijn, Pattern=dit, Pattern=de, Pattern=zijn
+Turn ID=13| A | A : achten
+	Free: 
+	Constrained: 
+Turn ID=14| B | B : deze hebben de kraal
+	Free: Pattern=kraal, Pattern=de
+	Constrained: 
+Turn ID=15| A | A : dit zijn de kralenketting
+	Free: Pattern=dit zijn de
+	Constrained: Pattern=dit zijn, Pattern=dit, Pattern=de, Pattern=zijn
+Turn ID=16| B | B : dat zijn l
+	Free: Pattern=dat, Pattern=zijn
+	Constrained: 
+Turn ID=17| B | B : dit zijn de kraal
+	Free: Pattern=dit zijn de, Pattern=kraal
+	Constrained: Pattern=dit zijn, Pattern=dit, Pattern=de, Pattern=zijn
+Turn ID=18| B | B : dat zijn e
+	Free: Pattern=dat, Pattern=zijn
+	Constrained: 

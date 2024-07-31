@@ -1,0 +1,159 @@
+A|0| A: _ja_ 
+A|1| A: _dat zijn_ nummer zestien 
+A|2| A: hier _hebben_ _je_ weer _de_ hoofdvorm _met_ _een plateau_ _een beetje_ _boven het midden_ _van_ _de_ hoofdvorm _met twee poo_ eronder _en_ _een_ yoghurtbakje erop 
+B|3| B: [het] lijken [een beetje] alsof _er_ iets _boven het midden een plateau_ doorheen [zijn] maar dan [een] tafel [met twee poo] 
+B|4| B: alleen aan [de] rechterkant [zijn] _die_ [poo] dan 
+B|5| B: [en] aan [de] linkerkant [boven] _nog een_ _klein_ soort [van] antennetje 
+B|6| B: [en] aan [de] rechterkant [een] soort [van] _op_ [het] tafel maar ook tegen [het] beker aan _nog_ iets [een] [een] blok 
+B|7| B: [ja] [met] _die_ houder volgens mij wat [je] bedoelen 
+B|8| B: [ja] 
+B|9| B: [ja] 
+B|10| B: [ja] 
+B|11| B: [ja] 
+A|12| A: [ja] nummer dertien 
+A|13| A: deze hoofdvorm _hebben_ bovenaan [boven het midden een plateau] in zich [en] [een] yoghurtbak [er] [op] [en] [je] zien linksachter [nog een] heel [klein] uitsteekselt 
+B|14| B: [ja] 
+B|15| B: [ja] 
+B|16| B: [ja] [dat zijn] c 
+A|17| A: [ja] 
+A|18| A: even zoeken hoor 
+A|19| A: _ik_ kunnen _hem_ niet _vinden_ 
+A|20| A: [ja] 
+A|21| A: _ja ja_ nummer drie 
+B|22| B: [ja] [de] houder 
+B|23| B: tafel [met twee poo] 
+B|24| B: [en] [ja] 
+B|25| B: [ja] 
+A|26| A: deze hoofdvorm _hebben_ bovenin [een plateau] [die] [er] omheen dus zitten 
+A|27| A: [en] [op] [dat] [plateau] staan [een] yoghurtbak [met twee] tafelpoot 
+B|28| B: [ja] 
+B|29| B: [ja] [dat zijn] f 
+B|30| B: [met] [het] houder [met twee] loshangen [poo] 
+B|31| B: zo'n [plateau] door [het midden] 
+B|32| B: [ja] 
+B|33| B: [ja] 
+B|34| B: [ja] 
+B|35| B: wachten waar [zijn] hij 
+B|36| B: [ja ja] 
+B|37| B: [ik] [hebben] [hem] [vinden] 
+B|38| B: m 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=1| A | A : dat zijn nummer zestien
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=2| A | A : hier hebben je weer de hoofdvorm met een plateau een beetje boven het midden van de hoofdvorm met twee poo eronder en een yoghurtbakje erop
+	Free: Pattern=de, Pattern=boven het midden, Pattern=met, Pattern=een, Pattern=een plateau, Pattern=hebben, Pattern=met twee poo, Pattern=van, Pattern=en, Pattern=een beetje, Pattern=je
+	Constrained: Pattern=het midden, Pattern=poo, Pattern=boven, Pattern=een, Pattern=het, Pattern=plateau, Pattern=met twee, Pattern=met
+Turn ID=3| B | B : het lijken een beetje alsof er iets boven het midden een plateau doorheen zijn maar dan een tafel met twee poo
+	Free: Pattern=boven het midden een plateau, Pattern=een, Pattern=het, Pattern=met twee poo, Pattern=er, Pattern=zijn, Pattern=een beetje
+	Constrained: Pattern=het midden, Pattern=poo, Pattern=boven, Pattern=het, Pattern=plateau, Pattern=met, Pattern=een, Pattern=een plateau, Pattern=met twee, Pattern=boven het midden
+Turn ID=4| B | B : alleen aan de rechterkant zijn die poo dan
+	Free: Pattern=zijn, Pattern=die, Pattern=de, Pattern=poo
+	Constrained: 
+Turn ID=5| B | B : en aan de linkerkant boven nog een klein soort van antennetje
+	Free: Pattern=nog een, Pattern=de, Pattern=boven, Pattern=klein, Pattern=van, Pattern=en
+	Constrained: Pattern=een, Pattern=nog
+Turn ID=6| B | B : en aan de rechterkant een soort van op het tafel maar ook tegen het beker aan nog iets een een blok
+	Free: Pattern=nog, Pattern=de, Pattern=op, Pattern=een, Pattern=het, Pattern=van, Pattern=en
+	Constrained: 
+Turn ID=7| B | B : ja met die houder volgens mij wat je bedoelen
+	Free: Pattern=je, Pattern=die, Pattern=ja, Pattern=met
+	Constrained: 
+Turn ID=8| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=9| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=10| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=11| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=12| A | A : ja nummer dertien
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=13| A | A : deze hoofdvorm hebben bovenaan boven het midden een plateau in zich en een yoghurtbak er op en je zien linksachter nog een heel klein uitsteekselt
+	Free: Pattern=nog een, Pattern=op, Pattern=boven het midden een plateau, Pattern=een, Pattern=hebben, Pattern=er, Pattern=klein, Pattern=en, Pattern=je
+	Constrained: Pattern=het midden, Pattern=nog, Pattern=boven, Pattern=het, Pattern=plateau, Pattern=boven het midden, Pattern=een, Pattern=een plateau
+Turn ID=14| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=15| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=16| B | B : ja dat zijn c
+	Free: Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=17| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=18| A | A : even zoeken hoor
+	Free: 
+	Constrained: 
+Turn ID=19| A | A : ik kunnen hem niet vinden
+	Free: Pattern=ik, Pattern=hem, Pattern=vinden
+	Constrained: 
+Turn ID=20| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=21| A | A : ja ja nummer drie
+	Free: Pattern=ja ja
+	Constrained: Pattern=ja
+Turn ID=22| B | B : ja de houder
+	Free: Pattern=de, Pattern=ja
+	Constrained: 
+Turn ID=23| B | B : tafel met twee poo
+	Free: Pattern=met twee poo
+	Constrained: Pattern=met, Pattern=poo, Pattern=met twee
+Turn ID=24| B | B : en ja
+	Free: Pattern=en, Pattern=ja
+	Constrained: 
+Turn ID=25| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=26| A | A : deze hoofdvorm hebben bovenin een plateau die er omheen dus zitten
+	Free: Pattern=een plateau, Pattern=die, Pattern=hebben, Pattern=er
+	Constrained: Pattern=plateau, Pattern=een
+Turn ID=27| A | A : en op dat plateau staan een yoghurtbak met twee tafelpoot
+	Free: Pattern=dat, Pattern=op, Pattern=een, Pattern=plateau, Pattern=met twee, Pattern=en
+	Constrained: Pattern=met
+Turn ID=28| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=29| B | B : ja dat zijn f
+	Free: Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=30| B | B : met het houder met twee loshangen poo
+	Free: Pattern=met twee, Pattern=het, Pattern=poo, Pattern=met
+	Constrained: Pattern=met
+Turn ID=31| B | B : zo'n plateau door het midden
+	Free: Pattern=het midden, Pattern=plateau
+	Constrained: Pattern=het
+Turn ID=32| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=33| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=34| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=35| B | B : wachten waar zijn hij
+	Free: Pattern=zijn
+	Constrained: 
+Turn ID=36| B | B : ja ja
+	Free: Pattern=ja ja
+	Constrained: Pattern=ja
+Turn ID=37| B | B : ik hebben hem vinden
+	Free: Pattern=ik, Pattern=hem, Pattern=hebben, Pattern=vinden
+	Constrained: 
+Turn ID=38| B | B : m
+	Free: 
+	Constrained: 

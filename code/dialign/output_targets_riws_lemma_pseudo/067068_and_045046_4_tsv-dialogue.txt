@@ -1,0 +1,119 @@
+B|0| B: oké wachten _het_ haak zitten aan de onderkant 
+B|1| B: kloppen _dat_ 
+B|2| B: _ja_ 
+B|3| B: _en dan twee_ blok _rechts en_ _een soort_ van hoedje 
+B|4| B: I 
+A|5| A: [dan] hebben ik ik vinden deze zelf [een soort] vogel lijken 
+A|6| A: hij hebben [een soort] _bovenop_ hebben _die_ [een soort] kuif 
+A|7| A: [en dan twee] dezelfde balk naar [rechts [en] dan] [een soort] armpje naar _links_ [en dan] nog [een] staart eronder 
+A|8| A: [ja] [twee] 
+A|9| A: [ja] 
+A|10| A: [ja] 
+A|11| A: [ja] veel [een soort] trapezefiguur 
+B|12| B: dit _zijn_ _weer_ _dat_ ding met [een soort] van hoedje aan [bovenop] [en dan twee] blok [rechts] 
+B|13| B: [en] zo'n [ja] buis ding link 
+B|14| B: onderaan 
+B|15| B: rechterkant [en] [twee] ding [links] 
+B|16| B: M 
+A|17| A: [dat] [zijn] bij mij nummer [twee] 
+A|18| A: ik hebben [dat] vogel [weer] 
+B|19| B: dit [zijn] [weer] met [die] [twee] blok aan de rechterkant diezelfde grootte [en dan] zo'n hoedje [bovenop] 
+B|20| B: [en] [twee] dinget link 
+B|21| B: [ja] 
+B|22| B: F 
+B|23| B: dit [zijn] [weer] [die] met [dat] [soort] van hoedje [en] [die] [twee] blok [rechts en] [twee] dinget link 
+A|24| A: [die] [zijn] 
+A|25| A: nummer negen 
+A|26| A: [ja] 
+A|27| A: ik hebben [het] vogel 
+A|28| A: nummer zes 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : oké wachten het haak zitten aan de onderkant
+	Free: Pattern=het
+	Constrained: 
+Turn ID=1| B | B : kloppen dat
+	Free: Pattern=dat
+	Constrained: 
+Turn ID=2| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=3| B | B : en dan twee blok rechts en een soort van hoedje
+	Free: Pattern=en dan twee, Pattern=een soort, Pattern=rechts en
+	Constrained: Pattern=soort, Pattern=twee, Pattern=rechts, Pattern=en dan, Pattern=dan, Pattern=een, Pattern=en
+Turn ID=4| B | B : I
+	Free: 
+	Constrained: 
+Turn ID=5| A | A : dan hebben ik ik vinden deze zelf een soort vogel lijken
+	Free: Pattern=een soort, Pattern=dan
+	Constrained: Pattern=soort, Pattern=een
+Turn ID=6| A | A : hij hebben een soort bovenop hebben die een soort kuif
+	Free: Pattern=een soort, Pattern=bovenop, Pattern=die
+	Constrained: Pattern=soort, Pattern=een
+Turn ID=7| A | A : en dan twee dezelfde balk naar rechts en dan een soort armpje naar links en dan nog een staart eronder
+	Free: Pattern=rechts en, Pattern=en dan, Pattern=een, Pattern=links, Pattern=een soort, Pattern=en dan twee
+	Constrained: Pattern=soort, Pattern=twee, Pattern=rechts, Pattern=en dan, Pattern=dan, Pattern=een, Pattern=en
+Turn ID=8| A | A : ja twee
+	Free: Pattern=ja, Pattern=twee
+	Constrained: 
+Turn ID=9| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=10| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=11| A | A : ja veel een soort trapezefiguur
+	Free: Pattern=een soort, Pattern=ja
+	Constrained: Pattern=soort, Pattern=een
+Turn ID=12| B | B : dit zijn weer dat ding met een soort van hoedje aan bovenop en dan twee blok rechts
+	Free: Pattern=rechts, Pattern=een soort, Pattern=en dan twee, Pattern=zijn, Pattern=weer, Pattern=dat, Pattern=bovenop
+	Constrained: Pattern=soort, Pattern=twee, Pattern=en dan, Pattern=dan, Pattern=een, Pattern=en
+Turn ID=13| B | B : en zo'n ja buis ding link
+	Free: Pattern=ja, Pattern=en
+	Constrained: 
+Turn ID=14| B | B : onderaan
+	Free: 
+	Constrained: 
+Turn ID=15| B | B : rechterkant en twee ding links
+	Free: Pattern=en, Pattern=links, Pattern=twee
+	Constrained: 
+Turn ID=16| B | B : M
+	Free: 
+	Constrained: 
+Turn ID=17| A | A : dat zijn bij mij nummer twee
+	Free: Pattern=dat, Pattern=zijn, Pattern=twee
+	Constrained: 
+Turn ID=18| A | A : ik hebben dat vogel weer
+	Free: Pattern=dat, Pattern=weer
+	Constrained: 
+Turn ID=19| B | B : dit zijn weer met die twee blok aan de rechterkant diezelfde grootte en dan zo'n hoedje bovenop
+	Free: Pattern=bovenop, Pattern=twee, Pattern=en dan, Pattern=die, Pattern=zijn, Pattern=weer
+	Constrained: Pattern=dan, Pattern=en
+Turn ID=20| B | B : en twee dinget link
+	Free: Pattern=en, Pattern=twee
+	Constrained: 
+Turn ID=21| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=22| B | B : F
+	Free: 
+	Constrained: 
+Turn ID=23| B | B : dit zijn weer die met dat soort van hoedje en die twee blok rechts en twee dinget link
+	Free: Pattern=soort, Pattern=twee, Pattern=die, Pattern=en, Pattern=zijn, Pattern=weer, Pattern=dat, Pattern=rechts en
+	Constrained: Pattern=en, Pattern=rechts
+Turn ID=24| A | A : die zijn
+	Free: Pattern=zijn, Pattern=die
+	Constrained: 
+Turn ID=25| A | A : nummer negen
+	Free: 
+	Constrained: 
+Turn ID=26| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=27| A | A : ik hebben het vogel
+	Free: Pattern=het
+	Constrained: 
+Turn ID=28| A | A : nummer zes
+	Free: 
+	Constrained: 

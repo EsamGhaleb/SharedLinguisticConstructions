@@ -1,0 +1,119 @@
+A|0| A: _oké_ deze _zijn een_ beetje lastig uit te aanleggen aan _de_ rechterkant _zijn een_ soort van _een_ soort van _het_ lijken _een_ beetje op _een_ dienblad _een_ plat cirkel laat maar zeggen 
+A|1| A: _die_ aan _de_ rechterkant uitsteken 
+A|2| A: _en_ aan _de_ linkerkant steken _er_ ook iets uit _met_ daar _een_ soort van piek bovenop 
+A|3| A: _ja_ 
+B|4| B: [ja] 
+B|5| B: welk cijfer _hebben die_ _bij_ jou 
+B|6| B: [zijn] [het] hoog cijfer 
+B|7| B: negen 
+B|8| B: [oké] nee 
+B|9| B: [er] [zijn een] spijker in in [het] handvat ongeveer 
+B|10| B: [ja] 
+B|11| B: [oké] _bij mij_ [zijn] _dat_ L 
+A|12| A: [ja] [dat] [zijn] nummer zeven [bij mij] 
+B|13| B: dit [zijn] [het] kop [met] [de] bijzet tafel 
+B|14| B: [en] _met die_ spijker in [het] 
+B|15| B: [ja] [ja] 
+A|16| A: ik [hebben] diegene [met] [dat] plateaut weer aan [de] rechterkant [en] dan [dat] uitsteeksel [met die] piek erop 
+B|17| B: ah [ja] C 
+A|18| A: [ja] nummer één 
+A|19| A: [ja] wel 
+B|20| B: _die met_ [de] spijker 
+B|21| B: [en] [het] bijzettafelt 
+A|22| A: ik [hebben [die] met] [dat] plateaut aan [de] rechterkant 
+A|23| A: [en] [dat] uitsteeksel [met die] piek aan [de] linkerkant 
+B|24| B: [ja] 
+B|25| B: A 
+A|26| A: [dat] [zijn] [bij mij] nummer ik [zijn] hem even kwijt hoor 
+A|27| A: nummer dertien 
+B|28| B: [met] [de] spijker [en] [het] bijzettafelt 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : oké deze zijn een beetje lastig uit te aanleggen aan de rechterkant zijn een soort van een soort van het lijken een beetje op een dienblad een plat cirkel laat maar zeggen
+	Free: Pattern=de, Pattern=zijn een, Pattern=een, Pattern=het, Pattern=oké
+	Constrained: Pattern=zijn, Pattern=een
+Turn ID=1| A | A : die aan de rechterkant uitsteken
+	Free: Pattern=de, Pattern=die
+	Constrained: 
+Turn ID=2| A | A : en aan de linkerkant steken er ook iets uit met daar een soort van piek bovenop
+	Free: Pattern=de, Pattern=een, Pattern=met, Pattern=er, Pattern=en
+	Constrained: 
+Turn ID=3| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=4| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=5| B | B : welk cijfer hebben die bij jou
+	Free: Pattern=hebben die, Pattern=bij
+	Constrained: Pattern=hebben, Pattern=die
+Turn ID=6| B | B : zijn het hoog cijfer
+	Free: Pattern=zijn, Pattern=het
+	Constrained: 
+Turn ID=7| B | B : negen
+	Free: 
+	Constrained: 
+Turn ID=8| B | B : oké nee
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=9| B | B : er zijn een spijker in in het handvat ongeveer
+	Free: Pattern=zijn een, Pattern=het, Pattern=er
+	Constrained: Pattern=zijn, Pattern=een
+Turn ID=10| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=11| B | B : oké bij mij zijn dat L
+	Free: Pattern=bij mij, Pattern=dat, Pattern=oké, Pattern=zijn
+	Constrained: Pattern=bij
+Turn ID=12| A | A : ja dat zijn nummer zeven bij mij
+	Free: Pattern=bij mij, Pattern=dat, Pattern=zijn, Pattern=ja
+	Constrained: Pattern=bij
+Turn ID=13| B | B : dit zijn het kop met de bijzet tafel
+	Free: Pattern=zijn, Pattern=de, Pattern=het, Pattern=met
+	Constrained: 
+Turn ID=14| B | B : en met die spijker in het
+	Free: Pattern=met die, Pattern=en, Pattern=het
+	Constrained: Pattern=die, Pattern=met
+Turn ID=15| B | B : ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=16| A | A : ik hebben diegene met dat plateaut weer aan de rechterkant en dan dat uitsteeksel met die piek erop
+	Free: Pattern=de, Pattern=hebben, Pattern=met, Pattern=en, Pattern=dat, Pattern=met die
+	Constrained: Pattern=die, Pattern=met
+Turn ID=17| B | B : ah ja C
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=18| A | A : ja nummer één
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=19| A | A : ja wel
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=20| B | B : die met de spijker
+	Free: Pattern=die met, Pattern=de
+	Constrained: Pattern=die, Pattern=met
+Turn ID=21| B | B : en het bijzettafelt
+	Free: Pattern=en, Pattern=het
+	Constrained: 
+Turn ID=22| A | A : ik hebben die met dat plateaut aan de rechterkant
+	Free: Pattern=die met, Pattern=hebben die, Pattern=dat, Pattern=de
+	Constrained: Pattern=hebben, Pattern=die, Pattern=met
+Turn ID=23| A | A : en dat uitsteeksel met die piek aan de linkerkant
+	Free: Pattern=met die, Pattern=en, Pattern=dat, Pattern=de
+	Constrained: Pattern=die, Pattern=met
+Turn ID=24| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=25| B | B : A
+	Free: 
+	Constrained: 
+Turn ID=26| A | A : dat zijn bij mij nummer ik zijn hem even kwijt hoor
+	Free: Pattern=bij mij, Pattern=dat, Pattern=zijn
+	Constrained: Pattern=bij
+Turn ID=27| A | A : nummer dertien
+	Free: 
+	Constrained: 
+Turn ID=28| B | B : met de spijker en het bijzettafelt
+	Free: Pattern=en, Pattern=de, Pattern=het, Pattern=met
+	Constrained: 

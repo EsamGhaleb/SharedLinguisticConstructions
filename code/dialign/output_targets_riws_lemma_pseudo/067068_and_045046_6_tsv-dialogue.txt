@@ -1,0 +1,131 @@
+B|0| B: _oké_ 
+B|1| B: dus _weer_ _met_ _die_ _schijf_ erachter _en_ dat ding erdoorheen 
+B|2| B: _ja_ 
+B|3| B: _oké_ 
+B|4| B: G 
+A|5| A: [oké] nu hebben ik er één ik hebben één hebben _een_ soort _een_ bolle 
+A|6| A: aan _de_ zijkant aan _de_ rechterkant [en] er zitten _een_ staaf doorheen 
+A|7| A: [en] aan het eind van _de_ staaf zitten er nog _een_ plat ballet 
+A|8| A: plat [schijf] veel 
+A|9| A: [ja] [ja] hebben [die] ook 
+B|10| B: dit _zijn_ _de neus_ _met de_ piercing 
+A|11| A: [ja] 
+A|12| A: [ja] 
+A|13| A: [ja] soort gootsteenontstopper 
+A|14| A: [ja] 
+A|15| A: [zijn] nummer vijf 
+B|16| B: [oké] 
+B|17| B: A 
+B|18| B: [de] piercing 
+B|19| B: _neus_ _met de_ piercing 
+A|20| A: nou nu hebben we [weer] [die] gootsteenontstopper 
+A|21| A: [met de] door [de neus] heen 
+A|22| A: [en] dinget bovenop 
+A|23| A: [ja] 
+B|24| B: H 
+A|25| A: nummer vijf 
+B|26| B: [een] [neus] [met de] piercing 
+A|27| A: ik hebben [die] gootsteenontstopper 
+A|28| A: door [de neus] 
+A|29| A: [ja] 
+A|30| A: [ja] 
+A|31| A: nummer vijftien 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=1| B | B : dus weer met die schijf erachter en dat ding erdoorheen
+	Free: Pattern=schijf, Pattern=met, Pattern=die, Pattern=en, Pattern=weer
+	Constrained: 
+Turn ID=2| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=3| B | B : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=4| B | B : G
+	Free: 
+	Constrained: 
+Turn ID=5| A | A : oké nu hebben ik er één ik hebben één hebben een soort een bolle
+	Free: Pattern=een, Pattern=oké
+	Constrained: 
+Turn ID=6| A | A : aan de zijkant aan de rechterkant en er zitten een staaf doorheen
+	Free: Pattern=een, Pattern=en, Pattern=de
+	Constrained: 
+Turn ID=7| A | A : en aan het eind van de staaf zitten er nog een plat ballet
+	Free: Pattern=een, Pattern=en, Pattern=de
+	Constrained: 
+Turn ID=8| A | A : plat schijf veel
+	Free: Pattern=schijf
+	Constrained: 
+Turn ID=9| A | A : ja ja hebben die ook
+	Free: Pattern=ja, Pattern=die
+	Constrained: 
+Turn ID=10| B | B : dit zijn de neus met de piercing
+	Free: Pattern=de neus, Pattern=met de, Pattern=zijn
+	Constrained: Pattern=met, Pattern=neus, Pattern=de
+Turn ID=11| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=12| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=13| A | A : ja soort gootsteenontstopper
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=14| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=15| A | A : zijn nummer vijf
+	Free: Pattern=zijn
+	Constrained: 
+Turn ID=16| B | B : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=17| B | B : A
+	Free: 
+	Constrained: 
+Turn ID=18| B | B : de piercing
+	Free: Pattern=de
+	Constrained: 
+Turn ID=19| B | B : neus met de piercing
+	Free: Pattern=met de, Pattern=neus
+	Constrained: Pattern=met, Pattern=de
+Turn ID=20| A | A : nou nu hebben we weer die gootsteenontstopper
+	Free: Pattern=weer, Pattern=die
+	Constrained: 
+Turn ID=21| A | A : met de door de neus heen
+	Free: Pattern=de neus, Pattern=met de
+	Constrained: Pattern=met, Pattern=neus, Pattern=de
+Turn ID=22| A | A : en dinget bovenop
+	Free: Pattern=en
+	Constrained: 
+Turn ID=23| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=24| B | B : H
+	Free: 
+	Constrained: 
+Turn ID=25| A | A : nummer vijf
+	Free: 
+	Constrained: 
+Turn ID=26| B | B : een neus met de piercing
+	Free: Pattern=met de, Pattern=een, Pattern=neus
+	Constrained: Pattern=met, Pattern=de
+Turn ID=27| A | A : ik hebben die gootsteenontstopper
+	Free: Pattern=die
+	Constrained: 
+Turn ID=28| A | A : door de neus
+	Free: Pattern=de neus
+	Constrained: Pattern=neus, Pattern=de
+Turn ID=29| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=30| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=31| A | A : nummer vijftien
+	Free: 
+	Constrained: 

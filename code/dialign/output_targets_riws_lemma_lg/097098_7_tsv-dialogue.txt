@@ -1,0 +1,127 @@
+B|0| B: _ik hebben_ _in_ principe _de_ _de mok_ _maar_ dan lijken _het_ alsof _er_ _een_ plank _aan vast_ bevestigen _zijn_ 
+B|1| B: _waar twee_ rechthoekig uitsteeksel _onder_ alsof _dat_ _de_ voet _van de_ plank _zijn_ waarbij _er_ _een_ soortement trapeziumachtig iets _bak erop_ 
+B|2| B: lijken te liggen _en_ _aan de_ achterkant _van de mok_ _zijn_ _er_ _een soort_ omhoog uitstekend geval 
+A|3| A: _ja_ 
+A|4| A: _dat zijn_ hier _nummer_ zestien 
+A|5| A: [ik hebben] _zeggen maar_ [de] koffiemok [waar] [een] plateau [aan] vastzitten bovenin _met_ [twee] poot [aan de] onderkant _en een_ [bak erop] 
+A|6| A: [en] _Linksboven_ opsteken _nog_ zo'n [soort] antennetje uit 
+B|7| B: [ja] [dat zijn] bij mij P 
+A|8| A: oké 
+B|9| B: [ik hebben] [de] basisvorm [met] daarbij _een soort_ plank 
+B|10| B: schuin daaronder [twee] balk [en] dan _nog _een_ soort_ [bak erop] 
+B|11| B: [en een] uitsteeksel [Linksboven] 
+A|12| A: [ja] 
+A|13| A: [dat zijn] _nummer_ veertien hier 
+A|14| A: dit [zijn] [de mok] [waar] [een] vierkant plateau bovenin [aan] vastzit [met] [twee] poot [een] [bak erop] [en] _Linksboven een_ klein antenne 
+B|15| B: even zien _er_ zitten bovenop [een] als _in_ _van_ _van_ 
+A|16| A: [ja] [in] [het] bovenste deel _zeggen maar_ je [hebben] [nog een] klein stuk [van de] rand [van de mok] over 
+B|17| B: [ja] 
+A|18| A: daar hangen _zeggen maar_ zo'n vierkant plateau [aan vast] [waar twee] poot onderuit steken 
+A|19| A: _en op_ [dat] plateu staan [een soort] [van] bakje 
+B|20| B: [ja] ah [ja] [en] dan links zitten _er_ [een soort] uitstekend 
+A|21| A: [ja] die 
+B|22| B: [ja] [dat zijn] bij mij N 
+A|23| A: [ja] 
+B|24| B: [ik hebben] degeen [met] [een] balk voor [de] basisvorm [met] daarop [een soort] [bak] [Linksboven een] uitsteeksel [en op] [de] [zeggen maar] [het] balk 
+B|25| B: _wat_ voor [zijn] aanstaan _er_ _onder_ [twee] 
+A|26| A: [ja] 
+A|27| A: _nummer_ tien 
+A|28| A: dit [zijn] [de] beker [met] [dat] plateau [wat] [er] [aan de] bovenkant [aan] hangen [met] [twee] poo naar [onder] [en een] [bak erop] 
+B|29| B: [ja] 
+B|30| B: yes [nummer] of letter D 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : ik hebben in principe de de mok maar dan lijken het alsof er een plank aan vast bevestigen zijn
+	Free: Pattern=ik hebben, Pattern=de, Pattern=aan vast, Pattern=een, Pattern=het, Pattern=in, Pattern=er, Pattern=de mok, Pattern=zijn, Pattern=maar
+	Constrained: Pattern=aan, Pattern=de, Pattern=hebben
+Turn ID=1| B | B : waar twee rechthoekig uitsteeksel onder alsof dat de voet van de plank zijn waarbij er een soortement trapeziumachtig iets bak erop
+	Free: Pattern=dat, Pattern=een, Pattern=onder, Pattern=er, Pattern=zijn, Pattern=de, Pattern=bak erop, Pattern=van de, Pattern=waar twee
+	Constrained: Pattern=twee, Pattern=de, Pattern=waar, Pattern=bak, Pattern=van
+Turn ID=2| B | B : lijken te liggen en aan de achterkant van de mok zijn er een soort omhoog uitstekend geval
+	Free: Pattern=van de mok, Pattern=aan de, Pattern=er, Pattern=een soort, Pattern=en, Pattern=zijn
+	Constrained: Pattern=soort, Pattern=van de, Pattern=een, Pattern=van, Pattern=de mok, Pattern=de, Pattern=aan
+Turn ID=3| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=4| A | A : dat zijn hier nummer zestien
+	Free: Pattern=dat zijn, Pattern=nummer
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=5| A | A : ik hebben zeggen maar de koffiemok waar een plateau aan vastzitten bovenin met twee poot aan de onderkant en een bak erop
+	Free: Pattern=ik hebben, Pattern=twee, Pattern=waar, Pattern=aan de, Pattern=een, Pattern=zeggen maar, Pattern=met, Pattern=en een, Pattern=de, Pattern=bak erop, Pattern=aan
+	Constrained: Pattern=een, Pattern=bak, Pattern=hebben, Pattern=en, Pattern=maar, Pattern=de, Pattern=aan
+Turn ID=6| A | A : en Linksboven opsteken nog zo'n soort antennetje uit
+	Free: Pattern=soort, Pattern=Linksboven, Pattern=nog, Pattern=en
+	Constrained: 
+Turn ID=7| B | B : ja dat zijn bij mij P
+	Free: Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=8| A | A : oké
+	Free: 
+	Constrained: 
+Turn ID=9| B | B : ik hebben de basisvorm met daarbij een soort plank
+	Free: Pattern=ik hebben, Pattern=een soort, Pattern=de, Pattern=met
+	Constrained: Pattern=soort, Pattern=hebben, Pattern=een
+Turn ID=10| B | B : schuin daaronder twee balk en dan nog een soort bak erop
+	Free: Pattern=bak erop, Pattern=een soort, Pattern=en, Pattern=twee, Pattern=nog een
+	Constrained: Pattern=nog, Pattern=bak, Pattern=een, Pattern=soort
+Turn ID=11| B | B : en een uitsteeksel Linksboven
+	Free: Pattern=en een, Pattern=Linksboven
+	Constrained: Pattern=en, Pattern=een
+Turn ID=12| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=13| A | A : dat zijn nummer veertien hier
+	Free: Pattern=dat zijn, Pattern=nummer
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=14| A | A : dit zijn de mok waar een vierkant plateau bovenin aan vastzit met twee poot een bak erop en Linksboven een klein antenne
+	Free: Pattern=twee, Pattern=waar, Pattern=een, Pattern=Linksboven een, Pattern=met, Pattern=en, Pattern=zijn, Pattern=de mok, Pattern=bak erop, Pattern=aan
+	Constrained: Pattern=Linksboven, Pattern=bak, Pattern=een, Pattern=de
+Turn ID=15| B | B : even zien er zitten bovenop een als in van van
+	Free: Pattern=in, Pattern=er, Pattern=van, Pattern=een
+	Constrained: 
+Turn ID=16| A | A : ja in het bovenste deel zeggen maar je hebben nog een klein stuk van de rand van de mok over
+	Free: Pattern=van de mok, Pattern=nog een, Pattern=ja, Pattern=van de, Pattern=zeggen maar, Pattern=het, Pattern=hebben, Pattern=in
+	Constrained: Pattern=nog, Pattern=de, Pattern=van de, Pattern=een, Pattern=van, Pattern=maar, Pattern=de mok
+Turn ID=17| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=18| A | A : daar hangen zeggen maar zo'n vierkant plateau aan vast waar twee poot onderuit steken
+	Free: Pattern=zeggen maar, Pattern=waar twee, Pattern=aan vast
+	Constrained: Pattern=twee, Pattern=aan, Pattern=waar, Pattern=maar
+Turn ID=19| A | A : en op dat plateu staan een soort van bakje
+	Free: Pattern=een soort, Pattern=en op, Pattern=dat, Pattern=van
+	Constrained: Pattern=soort, Pattern=en, Pattern=een
+Turn ID=20| B | B : ja ah ja en dan links zitten er een soort uitstekend
+	Free: Pattern=een soort, Pattern=ja, Pattern=er, Pattern=en
+	Constrained: Pattern=soort, Pattern=een
+Turn ID=21| A | A : ja die
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=22| B | B : ja dat zijn bij mij N
+	Free: Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=23| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=24| B | B : ik hebben degeen met een balk voor de basisvorm met daarop een soort bak Linksboven een uitsteeksel en op de zeggen maar het balk
+	Free: Pattern=ik hebben, Pattern=de, Pattern=een, Pattern=zeggen maar, Pattern=met, Pattern=een soort, Pattern=en op, Pattern=Linksboven een, Pattern=bak, Pattern=het
+	Constrained: Pattern=soort, Pattern=een, Pattern=hebben, Pattern=en, Pattern=maar, Pattern=Linksboven
+Turn ID=25| B | B : wat voor zijn aanstaan er onder twee
+	Free: Pattern=twee, Pattern=onder, Pattern=zijn, Pattern=wat, Pattern=er
+	Constrained: 
+Turn ID=26| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=27| A | A : nummer tien
+	Free: Pattern=nummer
+	Constrained: 
+Turn ID=28| A | A : dit zijn de beker met dat plateau wat er aan de bovenkant aan hangen met twee poo naar onder en een bak erop
+	Free: Pattern=dat, Pattern=twee, Pattern=aan de, Pattern=onder, Pattern=met, Pattern=de, Pattern=bak erop, Pattern=aan, Pattern=wat, Pattern=er, Pattern=en een, Pattern=zijn
+	Constrained: Pattern=een, Pattern=bak, Pattern=en, Pattern=de, Pattern=aan
+Turn ID=29| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=30| B | B : yes nummer of letter D
+	Free: Pattern=nummer
+	Constrained: 

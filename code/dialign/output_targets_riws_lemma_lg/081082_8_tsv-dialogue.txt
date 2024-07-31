@@ -1,0 +1,135 @@
+A|0| A: _deze_ staat _op_ _een_ _voet_ eigenlijk 
+A|1| A: _en_ hij _hebben_ _een_ _twee_ _van_ _die_ driehoekjes bovenop 
+B|2| B: _ja_ 
+B|3| B: _ja_ _met_ [die] _met_ [die] 
+A|4| A: _en_ _aan_ [die] _twee_ driehoek _zitten nog twee_ ding naar _de zijkant_ 
+A|5| A: zien je _dat_ 
+B|6| B: nee 
+A|7| A: _en_ hij staat _niet_ per se _op_ _een_ _voetstuk_ maar echt _een_ soort _een_ soort echt _een_ _voet_ _een_ menselijk _voet_ zeggen maar [met] _een_ enkel _en_ _dan_ _een_ _voet_ 
+B|8| B: _het_ _zijn_ [niet] [dat] [voetstuk] nee 
+B|9| B: _oké_ 
+A|10| A: _en_ hij _hebben_ bovenop _aan de achterkant_ 
+B|11| B: [met] [die] _ruit_ [aan de achterkant] 
+A|12| A: _twee_ _van_ [die] ruiten [ja] 
+B|13| B: _het_ lijken [een] beetje _op de_ staart [van] [een] vliegtuig [ja] 
+B|14| B: _oké_ 
+A|15| A: [ja] _en_ _dan_ [aan] [die] _twee_ [ruit] _zitten nog twee_ ding naar _de zijkant_ 
+B|16| B: [ja] [zitten nog twee] kubus [aan [de] zijkant] 
+A|17| A: [oké] 
+B|18| B: [oké] _dat zijn_ bij mij _zijn_ [dat] M 
+B|19| B: [dan] [hebben] we [deze] dit _zijn_ weer [met] [die] [die] [op] [dat] [voet] _staan_ 
+B|20| B: [en] _met het_ [de] [ruit] [aan de achterkant] wat [een] beetje _op de_ achtervleugel [van] [een] vliegtuig lijken 
+A|21| A: waar [staan] [die] ? waar [staan] [die] 
+A|22| A: [ja] 
+A|23| A: [dat zijn] nummer negen 
+A|24| A: [met] [dat] _voe en_ [die] _vliegtuigvleugel_ [op [de] achterkant] 
+B|25| B: _ja dat zijn_ H 
+B|26| B: dit [zijn] [die] [met] [die] vliegtuigachtervleugel [op] _het voe_ 
+A|27| A: [dat zijn] nummer elf 
+A|28| A: [de] [een] [met _het] voe en de vliegtuigvleugel_ 
+B|29| B: [het voe en de vliegtuigvleugel] 
+B|30| B: _ja dat zijn_ D 
+B|31| B: [de] vliegtuigachtervleugel [op] [het] [voetstuk] of [op] [het voe] 
+A|32| A: [ja dat zijn] veertien 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : deze staat op een voet eigenlijk
+	Free: Pattern=voet, Pattern=deze, Pattern=een, Pattern=op
+	Constrained: 
+Turn ID=1| A | A : en hij hebben een twee van die driehoekjes bovenop
+	Free: Pattern=twee, Pattern=een, Pattern=hebben, Pattern=die, Pattern=van, Pattern=en
+	Constrained: 
+Turn ID=2| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=3| B | B : ja met die met die
+	Free: Pattern=die, Pattern=met, Pattern=ja
+	Constrained: 
+Turn ID=4| A | A : en aan die twee driehoek zitten nog twee ding naar de zijkant
+	Free: Pattern=twee, Pattern=aan, Pattern=die, Pattern=de zijkant, Pattern=en, Pattern=zitten nog twee
+	Constrained: Pattern=twee, Pattern=de
+Turn ID=5| A | A : zien je dat
+	Free: Pattern=dat
+	Constrained: 
+Turn ID=6| B | B : nee
+	Free: 
+	Constrained: 
+Turn ID=7| A | A : en hij staat niet per se op een voetstuk maar echt een soort een soort echt een voet een menselijk voet zeggen maar met een enkel en dan een voet
+	Free: Pattern=op, Pattern=voet, Pattern=een, Pattern=voetstuk, Pattern=met, Pattern=en, Pattern=niet, Pattern=dan
+	Constrained: 
+Turn ID=8| B | B : het zijn niet dat voetstuk nee
+	Free: Pattern=dat, Pattern=niet, Pattern=het, Pattern=voetstuk, Pattern=zijn
+	Constrained: 
+Turn ID=9| B | B : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=10| A | A : en hij hebben bovenop aan de achterkant
+	Free: Pattern=aan de achterkant, Pattern=hebben, Pattern=en
+	Constrained: Pattern=aan, Pattern=de, Pattern=de achterkant, Pattern=aan de
+Turn ID=11| B | B : met die ruit aan de achterkant
+	Free: Pattern=aan de achterkant, Pattern=die, Pattern=met, Pattern=ruit
+	Constrained: Pattern=aan, Pattern=de, Pattern=de achterkant, Pattern=aan de
+Turn ID=12| A | A : twee van die ruiten ja
+	Free: Pattern=die, Pattern=twee, Pattern=van, Pattern=ja
+	Constrained: 
+Turn ID=13| B | B : het lijken een beetje op de staart van een vliegtuig ja
+	Free: Pattern=ja, Pattern=een, Pattern=het, Pattern=van, Pattern=op de
+	Constrained: Pattern=de, Pattern=op
+Turn ID=14| B | B : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=15| A | A : ja en dan aan die twee ruit zitten nog twee ding naar de zijkant
+	Free: Pattern=ruit, Pattern=twee, Pattern=dan, Pattern=die, Pattern=de zijkant, Pattern=en, Pattern=zitten nog twee, Pattern=aan, Pattern=ja
+	Constrained: Pattern=twee, Pattern=de
+Turn ID=16| B | B : ja zitten nog twee kubus aan de zijkant
+	Free: Pattern=zitten nog twee, Pattern=de zijkant, Pattern=aan de, Pattern=ja
+	Constrained: Pattern=twee, Pattern=aan, Pattern=de
+Turn ID=17| A | A : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=18| B | B : oké dat zijn bij mij zijn dat M
+	Free: Pattern=dat zijn, Pattern=dat, Pattern=oké, Pattern=zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=19| B | B : dan hebben we deze dit zijn weer met die die op dat voet staan
+	Free: Pattern=dat, Pattern=op, Pattern=dan, Pattern=voet, Pattern=staan, Pattern=hebben, Pattern=met, Pattern=die, Pattern=zijn, Pattern=deze
+	Constrained: 
+Turn ID=20| B | B : en met het de ruit aan de achterkant wat een beetje op de achtervleugel van een vliegtuig lijken
+	Free: Pattern=aan de achterkant, Pattern=ruit, Pattern=de, Pattern=een, Pattern=met het, Pattern=op de, Pattern=van, Pattern=en
+	Constrained: Pattern=het, Pattern=met, Pattern=de achterkant, Pattern=de, Pattern=aan, Pattern=op, Pattern=aan de
+Turn ID=21| A | A : waar staan die ? waar staan die
+	Free: Pattern=die, Pattern=staan
+	Constrained: 
+Turn ID=22| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=23| A | A : dat zijn nummer negen
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=24| A | A : met dat voe en die vliegtuigvleugel op de achterkant
+	Free: Pattern=dat, Pattern=voe en, Pattern=met, Pattern=die, Pattern=op de, Pattern=de achterkant, Pattern=vliegtuigvleugel
+	Constrained: Pattern=de, Pattern=en, Pattern=op
+Turn ID=25| B | B : ja dat zijn H
+	Free: Pattern=ja dat zijn
+	Constrained: Pattern=dat zijn, Pattern=dat, Pattern=zijn, Pattern=ja
+Turn ID=26| B | B : dit zijn die met die vliegtuigachtervleugel op het voe
+	Free: Pattern=het voe, Pattern=op, Pattern=met, Pattern=die, Pattern=zijn
+	Constrained: Pattern=het
+Turn ID=27| A | A : dat zijn nummer elf
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=28| A | A : de een met het voe en de vliegtuigvleugel
+	Free: Pattern=het voe en de vliegtuigvleugel, Pattern=met het, Pattern=de, Pattern=een
+	Constrained: Pattern=voe en, Pattern=het voe, Pattern=de, Pattern=het, Pattern=met, Pattern=en, Pattern=vliegtuigvleugel
+Turn ID=29| B | B : het voe en de vliegtuigvleugel
+	Free: Pattern=het voe en de vliegtuigvleugel
+	Constrained: Pattern=voe en, Pattern=het voe, Pattern=de, Pattern=het, Pattern=en, Pattern=vliegtuigvleugel
+Turn ID=30| B | B : ja dat zijn D
+	Free: Pattern=ja dat zijn
+	Constrained: Pattern=dat zijn, Pattern=dat, Pattern=zijn, Pattern=ja
+Turn ID=31| B | B : de vliegtuigachtervleugel op het voetstuk of op het voe
+	Free: Pattern=het voe, Pattern=de, Pattern=op, Pattern=het, Pattern=voetstuk
+	Constrained: Pattern=het
+Turn ID=32| A | A : ja dat zijn veertien
+	Free: Pattern=ja dat zijn
+	Constrained: Pattern=dat zijn, Pattern=dat, Pattern=zijn, Pattern=ja

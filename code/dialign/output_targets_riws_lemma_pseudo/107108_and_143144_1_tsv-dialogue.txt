@@ -1,0 +1,103 @@
+A|0| A: o _ja_ _ja ik_ vinden _het_ vooral _een_ _robot_ maar 
+A|1| A: _op_ zich verrenkijk _ja_ bij mij _zijn_ _dat_ _twee_ 
+A|2| A: ok 
+A|3| A: _dit_ _zijn_ _de_ man met _de_ verrekijker of _de robot_ 
+A|4| A: _ja_ dertien 
+B|5| B: [ik] noemen [dit] [de robot] hij hebben [twee] oog die zo naar voren kijken hij hebben [een] heel groot vierkant aan [de] rechterkant 
+B|6| B: [ja ik] noemen [het] oog 
+B|7| B: fantasie 
+B|8| B: hij hebben [een] heel groot vierkant aan [de] rechterkant van [zijn] gezicht zitten en hij hebben [een] antenne [op] [zijn] hoofd 
+B|9| B: je moeten hem denken [ik] even zoeken want hij [zijn] best wel expliciet [ja] 
+B|10| B: inderdaad en [een] heel groot vierkant aan [de] rechterkant 
+A|11| A: o [ja] _dat zijn_ negen bij mij 
+B|12| B: [ja] 
+B|13| B: [ik] zitten hem even te zoeken [ja] 
+B|14| B: [dat] gaan om G 
+A|15| A: [dit] [zijn] [de robot] verrekijker 
+A|16| A: zeven 
+B|17| B: mijn [robot] 
+B|18| B: [ja] dan gaan [het] om d 
+A|19| A: [ja] [zijn] één bij mij 
+A|20| A: [dit] [zijn] [de robot] verrekijker 
+A|21| A: [ja] negen [ja] 
+B|22| B: [ik] [zijn] 
+B|23| B: [de robot] 
+B|24| B: [dat zijn] B 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : o ja ja ik vinden het vooral een robot maar
+	Free: Pattern=ja, Pattern=een, Pattern=het, Pattern=ja ik, Pattern=robot
+	Constrained: Pattern=ja, Pattern=ik
+Turn ID=1| A | A : op zich verrenkijk ja bij mij zijn dat twee
+	Free: Pattern=dat, Pattern=twee, Pattern=ja, Pattern=op, Pattern=zijn
+	Constrained: 
+Turn ID=2| A | A : ok
+	Free: 
+	Constrained: 
+Turn ID=3| A | A : dit zijn de man met de verrekijker of de robot
+	Free: Pattern=de robot, Pattern=zijn, Pattern=de, Pattern=dit
+	Constrained: Pattern=robot, Pattern=de
+Turn ID=4| A | A : ja dertien
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=5| B | B : ik noemen dit de robot hij hebben twee oog die zo naar voren kijken hij hebben een heel groot vierkant aan de rechterkant
+	Free: Pattern=twee, Pattern=de, Pattern=een, Pattern=dit, Pattern=ik, Pattern=de robot
+	Constrained: Pattern=robot, Pattern=de
+Turn ID=6| B | B : ja ik noemen het oog
+	Free: Pattern=ja ik, Pattern=het
+	Constrained: Pattern=ja, Pattern=ik
+Turn ID=7| B | B : fantasie
+	Free: 
+	Constrained: 
+Turn ID=8| B | B : hij hebben een heel groot vierkant aan de rechterkant van zijn gezicht zitten en hij hebben een antenne op zijn hoofd
+	Free: Pattern=een, Pattern=zijn, Pattern=de, Pattern=op
+	Constrained: 
+Turn ID=9| B | B : je moeten hem denken ik even zoeken want hij zijn best wel expliciet ja
+	Free: Pattern=ja, Pattern=ik, Pattern=zijn
+	Constrained: 
+Turn ID=10| B | B : inderdaad en een heel groot vierkant aan de rechterkant
+	Free: Pattern=een, Pattern=de
+	Constrained: 
+Turn ID=11| A | A : o ja dat zijn negen bij mij
+	Free: Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=12| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=13| B | B : ik zitten hem even te zoeken ja
+	Free: Pattern=ja, Pattern=ik
+	Constrained: 
+Turn ID=14| B | B : dat gaan om G
+	Free: Pattern=dat
+	Constrained: 
+Turn ID=15| A | A : dit zijn de robot verrekijker
+	Free: Pattern=de robot, Pattern=zijn, Pattern=dit
+	Constrained: Pattern=robot, Pattern=de
+Turn ID=16| A | A : zeven
+	Free: 
+	Constrained: 
+Turn ID=17| B | B : mijn robot
+	Free: Pattern=robot
+	Constrained: 
+Turn ID=18| B | B : ja dan gaan het om d
+	Free: Pattern=ja, Pattern=het
+	Constrained: 
+Turn ID=19| A | A : ja zijn één bij mij
+	Free: Pattern=ja, Pattern=zijn
+	Constrained: 
+Turn ID=20| A | A : dit zijn de robot verrekijker
+	Free: Pattern=de robot, Pattern=zijn, Pattern=dit
+	Constrained: Pattern=robot, Pattern=de
+Turn ID=21| A | A : ja negen ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=22| B | B : ik zijn
+	Free: Pattern=ik, Pattern=zijn
+	Constrained: 
+Turn ID=23| B | B : de robot
+	Free: Pattern=de robot
+	Constrained: Pattern=robot, Pattern=de
+Turn ID=24| B | B : dat zijn B
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn, Pattern=dat

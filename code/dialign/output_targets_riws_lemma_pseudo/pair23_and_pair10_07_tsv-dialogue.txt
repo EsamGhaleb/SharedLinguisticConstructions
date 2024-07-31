@@ -1,0 +1,103 @@
+A|0| A: _ja_ 
+A|1| A: _en_ nog _een heel klein_ dinge aan _de_ linkerkant 
+A|2| A: _ja_ 
+A|3| A: zeven 
+B|4| B: deze _hebben_ _een soort _van_ het_ _lijken_ _op _een_ soort van_ _tafel_ wat erin _zitten_ er _zitten_ waarschijnlijk [een] vierkant in _het kop_ [en] _die_ _hebben_ twee poo 
+B|5| B: links [een heel klein] uitstulpsel _ik_ vinden _het_ _op een tafel_ _lijken_ 
+B|6| B: [en] er _staan _een_ soort van_ kommetje _op_ of zoiets _met_ _een beetje_ fantasie 
+B|7| B: [ja] 
+B|8| B: [ja] 
+B|9| B: [ja] toch 
+A|10| A: Bovenin [van [het] kop] [zitten] [een soort van] plateautje [en] daarop [staan een] één [ja] [lijken] [een beetje] [op een tafel] [die] plateau [en] daarop [staan een] [klein] figuur 
+A|11| A: [ja] 
+B|12| B: _ja ja_ dat zijn c 
+A|13| A: even kijken 
+A|14| A: omgekeerd 
+A|15| A: [ja ja] [ik] [hebben] hem zestien 
+B|16| B: [de] [tafel] _met_ [een] bakje erop 
+A|17| A: [een tafel] bovenin [met] zo'n [op] [de] [kop] piramide 
+B|18| B: [ja] dat zijn e 
+B|19| B: [de] [tafel] [met] [het] [het] komme erop 
+A|20| A: [ja] 
+A|21| A: elf 
+B|22| B: [tafel] [en] [het] bak [tafel] [en] [het] bak waar zijn je waar zijn je 
+B|23| B: _daar_ dat zijn I 
+A|24| A: [tafel] bovenaan [en] [daar] [staan] één [op] [de] [kop] [een] piramide [op] 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=1| A | A : en nog een heel klein dinge aan de linkerkant
+	Free: Pattern=een heel klein, Pattern=de, Pattern=en
+	Constrained: Pattern=een, Pattern=klein
+Turn ID=2| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=3| A | A : zeven
+	Free: 
+	Constrained: 
+Turn ID=4| B | B : deze hebben een soort van het lijken op een soort van tafel wat erin zitten er zitten waarschijnlijk een vierkant in het kop en die hebben twee poo
+	Free: Pattern=lijken, Pattern=het kop, Pattern=een, Pattern=hebben, Pattern=een soort van, Pattern=van het, Pattern=en, Pattern=op een, Pattern=tafel, Pattern=die, Pattern=zitten
+	Constrained: Pattern=een, Pattern=het, Pattern=kop, Pattern=op
+Turn ID=5| B | B : links een heel klein uitstulpsel ik vinden het op een tafel lijken
+	Free: Pattern=lijken, Pattern=het, Pattern=ik, Pattern=op een tafel, Pattern=een heel klein
+	Constrained: Pattern=een tafel, Pattern=op, Pattern=een, Pattern=tafel, Pattern=klein, Pattern=op een
+Turn ID=6| B | B : en er staan een soort van kommetje op of zoiets met een beetje fantasie
+	Free: Pattern=op, Pattern=staan een, Pattern=een soort van, Pattern=met, Pattern=en, Pattern=een beetje
+	Constrained: Pattern=een, Pattern=staan
+Turn ID=7| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=8| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=9| B | B : ja toch
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=10| A | A : Bovenin van het kop zitten een soort van plateautje en daarop staan een één ja lijken een beetje op een tafel die plateau en daarop staan een klein figuur
+	Free: Pattern=ja, Pattern=lijken, Pattern=een soort van, Pattern=van het, Pattern=klein, Pattern=en, Pattern=een beetje, Pattern=op een tafel, Pattern=het kop, Pattern=staan een, Pattern=die, Pattern=zitten
+	Constrained: Pattern=een tafel, Pattern=op, Pattern=het, Pattern=kop, Pattern=tafel, Pattern=op een, Pattern=een, Pattern=staan
+Turn ID=11| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=12| B | B : ja ja dat zijn c
+	Free: Pattern=ja ja
+	Constrained: Pattern=ja
+Turn ID=13| A | A : even kijken
+	Free: 
+	Constrained: 
+Turn ID=14| A | A : omgekeerd
+	Free: 
+	Constrained: 
+Turn ID=15| A | A : ja ja ik hebben hem zestien
+	Free: Pattern=ja ja, Pattern=ik, Pattern=hebben
+	Constrained: Pattern=ja
+Turn ID=16| B | B : de tafel met een bakje erop
+	Free: Pattern=een, Pattern=tafel, Pattern=met, Pattern=de
+	Constrained: 
+Turn ID=17| A | A : een tafel bovenin met zo'n op de kop piramide
+	Free: Pattern=een tafel, Pattern=de, Pattern=op, Pattern=kop, Pattern=met
+	Constrained: Pattern=een, Pattern=tafel
+Turn ID=18| B | B : ja dat zijn e
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=19| B | B : de tafel met het het komme erop
+	Free: Pattern=tafel, Pattern=het, Pattern=met, Pattern=de
+	Constrained: 
+Turn ID=20| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=21| A | A : elf
+	Free: 
+	Constrained: 
+Turn ID=22| B | B : tafel en het bak tafel en het bak waar zijn je waar zijn je
+	Free: Pattern=tafel, Pattern=het, Pattern=en
+	Constrained: 
+Turn ID=23| B | B : daar dat zijn I
+	Free: Pattern=daar
+	Constrained: 
+Turn ID=24| A | A : tafel bovenaan en daar staan één op de kop een piramide op
+	Free: Pattern=de, Pattern=op, Pattern=kop, Pattern=tafel, Pattern=en, Pattern=daar, Pattern=een, Pattern=staan
+	Constrained: 

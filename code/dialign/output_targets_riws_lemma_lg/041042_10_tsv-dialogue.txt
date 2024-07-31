@@ -1,0 +1,91 @@
+A|0| A: hierin zien _ik_ _zelf_ een _gieter_ 
+A|1| A: dus _dat_ komme en aan beide kant uitsteeksel met twee balle erop en aan _de_ een kant _hebben_ je eigenlijk nog een hendel 
+B|2| B: _ja_ 
+A|3| A: en daarbij _ook_ [ja] nog een een vlak een plateau 
+B|4| B: [ja] [ik] [hebben] hem [zelf] [ook] [gieter] noemen 
+A|5| A: oké 
+B|6| B: _dat zijn_ toevallig 
+A|7| A: [ja] 
+B|8| B: _dat zijn_ K 
+B|9| B: _dit zijn_ _die_ [gieter] 
+A|10| A: [ja] 
+A|11| A: [dat zijn] bij mij negen 
+A|12| A: [dit zijn] weer _de gieter_ 
+B|13| B: [dit zijn] F 
+B|14| B: _dit zijn de gieter_ 
+A|15| A: [de gieter] [die] staan [ja] 
+A|16| A: [dat zijn] nummer drie 
+A|17| A: [dit zijn de gieter] 
+B|18| B: [dat zijn] L 
+B|19| B: [dit zijn de gieter] 
+A|20| A: [de gieter] [ja] 
+A|21| A: [dat zijn] nummer vijf 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : hierin zien ik zelf een gieter
+	Free: Pattern=ik, Pattern=gieter, Pattern=zelf
+	Constrained: 
+Turn ID=1| A | A : dus dat komme en aan beide kant uitsteeksel met twee balle erop en aan de een kant hebben je eigenlijk nog een hendel
+	Free: Pattern=dat, Pattern=de, Pattern=hebben
+	Constrained: 
+Turn ID=2| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=3| A | A : en daarbij ook ja nog een een vlak een plateau
+	Free: Pattern=ook, Pattern=ja
+	Constrained: 
+Turn ID=4| B | B : ja ik hebben hem zelf ook gieter noemen
+	Free: Pattern=ja, Pattern=ook, Pattern=gieter, Pattern=hebben, Pattern=zelf, Pattern=ik
+	Constrained: 
+Turn ID=5| A | A : oké
+	Free: 
+	Constrained: 
+Turn ID=6| B | B : dat zijn toevallig
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat
+Turn ID=7| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=8| B | B : dat zijn K
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat
+Turn ID=9| B | B : dit zijn die gieter
+	Free: Pattern=dit zijn, Pattern=gieter, Pattern=die
+	Constrained: 
+Turn ID=10| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=11| A | A : dat zijn bij mij negen
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat
+Turn ID=12| A | A : dit zijn weer de gieter
+	Free: Pattern=de gieter, Pattern=dit zijn
+	Constrained: Pattern=gieter, Pattern=de
+Turn ID=13| B | B : dit zijn F
+	Free: Pattern=dit zijn
+	Constrained: 
+Turn ID=14| B | B : dit zijn de gieter
+	Free: Pattern=dit zijn de gieter
+	Constrained: Pattern=dit zijn, Pattern=gieter, Pattern=de, Pattern=de gieter
+Turn ID=15| A | A : de gieter die staan ja
+	Free: Pattern=de gieter, Pattern=die, Pattern=ja
+	Constrained: Pattern=gieter, Pattern=de
+Turn ID=16| A | A : dat zijn nummer drie
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat
+Turn ID=17| A | A : dit zijn de gieter
+	Free: Pattern=dit zijn de gieter
+	Constrained: Pattern=dit zijn, Pattern=gieter, Pattern=de, Pattern=de gieter
+Turn ID=18| B | B : dat zijn L
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat
+Turn ID=19| B | B : dit zijn de gieter
+	Free: Pattern=dit zijn de gieter
+	Constrained: Pattern=dit zijn, Pattern=gieter, Pattern=de, Pattern=de gieter
+Turn ID=20| A | A : de gieter ja
+	Free: Pattern=de gieter, Pattern=ja
+	Constrained: Pattern=gieter, Pattern=de
+Turn ID=21| A | A : dat zijn nummer vijf
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat

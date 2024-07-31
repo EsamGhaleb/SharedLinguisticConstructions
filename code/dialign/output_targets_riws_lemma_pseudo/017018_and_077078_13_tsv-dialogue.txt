@@ -1,0 +1,75 @@
+B|0| B: _oké_ 
+B|1| B: _dit zijn_ een bakje _en_ hij staan op een vierkant _en_ hij hebben twee van _die Pippi_ Langkousstaartjes 
+B|2| B: _ja_ 
+A|3| A: beetje als [Pippi] Langkousvlechtjes 
+A|4| A: [ja] 
+A|5| A: [oké] dat [zijn] vijf voor mij 
+B|6| B: jij moeten het zeggen 
+B|7| B: [ja] 
+B|8| B: letter J 
+A|9| A: [dit zijn] degeen met [die Pippi] Langkousvlechtjes [en] dat groot cirkel wel 
+B|10| B: _Pippi Langkous_ 
+A|11| A: check dat [zijn] elf 
+B|12| B: letter P 
+A|13| A: [dit zijn] [die] met de [Pippi] Langkousvlechtjes 
+A|14| A: [ja] dat [zijn] negen voor mij 
+B|15| B: _Pippi Langkous_ 
+A|16| A: [Pippi Langkous] 
+B|17| B: letter L 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=1| B | B : dit zijn een bakje en hij staan op een vierkant en hij hebben twee van die Pippi Langkousstaartjes
+	Free: Pattern=die Pippi, Pattern=dit zijn, Pattern=en
+	Constrained: Pattern=zijn, Pattern=Pippi, Pattern=die
+Turn ID=2| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=3| A | A : beetje als Pippi Langkousvlechtjes
+	Free: Pattern=Pippi
+	Constrained: 
+Turn ID=4| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=5| A | A : oké dat zijn vijf voor mij
+	Free: Pattern=zijn, Pattern=oké
+	Constrained: 
+Turn ID=6| B | B : jij moeten het zeggen
+	Free: 
+	Constrained: 
+Turn ID=7| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=8| B | B : letter J
+	Free: 
+	Constrained: 
+Turn ID=9| A | A : dit zijn degeen met die Pippi Langkousvlechtjes en dat groot cirkel wel
+	Free: Pattern=die Pippi, Pattern=dit zijn, Pattern=en
+	Constrained: Pattern=zijn, Pattern=Pippi, Pattern=die
+Turn ID=10| B | B : Pippi Langkous
+	Free: Pattern=Pippi Langkous
+	Constrained: Pattern=Pippi
+Turn ID=11| A | A : check dat zijn elf
+	Free: Pattern=zijn
+	Constrained: 
+Turn ID=12| B | B : letter P
+	Free: 
+	Constrained: 
+Turn ID=13| A | A : dit zijn die met de Pippi Langkousvlechtjes
+	Free: Pattern=dit zijn, Pattern=Pippi, Pattern=die
+	Constrained: Pattern=zijn
+Turn ID=14| A | A : ja dat zijn negen voor mij
+	Free: Pattern=zijn, Pattern=ja
+	Constrained: 
+Turn ID=15| B | B : Pippi Langkous
+	Free: Pattern=Pippi Langkous
+	Constrained: Pattern=Pippi
+Turn ID=16| A | A : Pippi Langkous
+	Free: Pattern=Pippi Langkous
+	Constrained: Pattern=Pippi
+Turn ID=17| B | B : letter L
+	Free: 
+	Constrained: 

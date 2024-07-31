@@ -1,0 +1,151 @@
+A|0| A: _ja_ 
+A|1| A: gewoon _een_ raket _het _zijn_ een_ spaceshuttle 
+A|2| A: _ja ja_ _en_ daarachter _zitten_ precies dezelfde vorm _die_ _je_ niet echt _zien als_ _aan de ander kant_ toch 
+A|3| A: nou 
+A|4| A: _ja_ liggen staafje jajaja ok achten 
+B|5| B: _deze_ [zijn] ook wel 
+B|6| B: [ja] 
+B|7| B: [het zijn] zeggen maar [ja] er staan er [zitten] eigenlijk [een] balk bovenop 
+B|8| B: [een] balk 
+B|9| B: [en] dan 
+B|10| B: [aan de] [een] [kant] [ja] [een] soort uitsteeksel _dat_ [zijn een] soort [ja] ook [een] half cilinder denken ik [en] [aan de ander kant] [ja] ik zullen [het] [ja] ik _hebben_ [het] omschrijven [als] [een] 
+B|11| B: [ja] zo'n rad van [een] watermolen zeggen maar 
+B|12| B: daar doen [het] me [een] beetje [aan] denken maar 
+B|13| B: of [het] kunnen ook [een] armpje [zijn] 
+B|14| B: _dat_ iemand net [een] tas vasthouden 
+B|15| B: nee [het zijn] _één_ recht balk 
+B|16| B: [ja] 
+B|17| B: [ja] beetje [ja] 
+B|18| B: [ja] [je] kunnen ook inderdaad [zien] net zoals _dat_ [ander] [zijn] dit ook wel eigenlijk zo [je] kunnen [het] ook [zien als] [een] tas daar net [een] boek bovenuit steken 
+B|19| B: [ja [ja] ja] 
+A|20| A: [deze] [hebben] _die_ spaceshuttle [dat] liggen blok erop zegmaar [en] _die_ gek vormp 
+A|21| A: [en] [dat] 
+A|22| A: [ja] 
+B|23| B: [ja] 
+B|24| B: E 
+A|25| A: [ja] 
+A|26| A: [één] 
+B|27| B: [ja] dit [zijn] [dat] [die] klein boekentas 
+A|28| A: [de] spaceshuttle 
+B|29| B: klein boekentas 
+B|30| B: E 
+A|31| A: zestien 
+A|32| A: [de] spaceshuttle 
+B|33| B: dit [zijn] [de] klein boekentas 
+B|34| B: [de] klein rugtas 
+B|35| B: [ja] 
+B|36| B: O 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=1| A | A : gewoon een raket het zijn een spaceshuttle
+	Free: Pattern=zijn een, Pattern=het zijn, Pattern=een
+	Constrained: Pattern=zijn, Pattern=een, Pattern=het
+Turn ID=2| A | A : ja ja en daarachter zitten precies dezelfde vorm die je niet echt zien als aan de ander kant toch
+	Free: Pattern=ja ja, Pattern=aan de ander kant, Pattern=zien als, Pattern=en, Pattern=je, Pattern=die, Pattern=zitten
+	Constrained: Pattern=kant, Pattern=aan de, Pattern=als, Pattern=zien, Pattern=ander, Pattern=de, Pattern=aan, Pattern=ja
+Turn ID=3| A | A : nou
+	Free: 
+	Constrained: 
+Turn ID=4| A | A : ja liggen staafje jajaja ok achten
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=5| B | B : deze zijn ook wel
+	Free: Pattern=zijn, Pattern=deze
+	Constrained: 
+Turn ID=6| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=7| B | B : het zijn zeggen maar ja er staan er zitten eigenlijk een balk bovenop
+	Free: Pattern=het zijn, Pattern=ja, Pattern=een, Pattern=zitten
+	Constrained: Pattern=zijn, Pattern=het
+Turn ID=8| B | B : een balk
+	Free: Pattern=een
+	Constrained: 
+Turn ID=9| B | B : en dan
+	Free: Pattern=en
+	Constrained: 
+Turn ID=10| B | B : aan de een kant ja een soort uitsteeksel dat zijn een soort ja ook een half cilinder denken ik en aan de ander kant ja ik zullen het ja ik hebben het omschrijven als een
+	Free: Pattern=ja, Pattern=aan de, Pattern=zijn een, Pattern=het, Pattern=hebben, Pattern=als, Pattern=en, Pattern=dat, Pattern=kant, Pattern=een, Pattern=aan de ander kant
+	Constrained: Pattern=kant, Pattern=aan de, Pattern=een, Pattern=ander, Pattern=zijn, Pattern=de, Pattern=aan
+Turn ID=11| B | B : ja zo'n rad van een watermolen zeggen maar
+	Free: Pattern=ja, Pattern=een
+	Constrained: 
+Turn ID=12| B | B : daar doen het me een beetje aan denken maar
+	Free: Pattern=aan, Pattern=een, Pattern=het
+	Constrained: 
+Turn ID=13| B | B : of het kunnen ook een armpje zijn
+	Free: Pattern=zijn, Pattern=een, Pattern=het
+	Constrained: 
+Turn ID=14| B | B : dat iemand net een tas vasthouden
+	Free: Pattern=een, Pattern=dat
+	Constrained: 
+Turn ID=15| B | B : nee het zijn één recht balk
+	Free: Pattern=het zijn, Pattern=één
+	Constrained: Pattern=zijn, Pattern=het
+Turn ID=16| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=17| B | B : ja beetje ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=18| B | B : ja je kunnen ook inderdaad zien net zoals dat ander zijn dit ook wel eigenlijk zo je kunnen het ook zien als een tas daar net een boek bovenuit steken
+	Free: Pattern=dat, Pattern=ja, Pattern=een, Pattern=zien, Pattern=ander, Pattern=zijn, Pattern=je, Pattern=zien als, Pattern=het
+	Constrained: Pattern=zien, Pattern=als
+Turn ID=19| B | B : ja ja ja
+	Free: Pattern=ja ja
+	Constrained: Pattern=ja
+Turn ID=20| A | A : deze hebben die spaceshuttle dat liggen blok erop zegmaar en die gek vormp
+	Free: Pattern=dat, Pattern=hebben, Pattern=die, Pattern=en, Pattern=deze
+	Constrained: 
+Turn ID=21| A | A : en dat
+	Free: Pattern=dat, Pattern=en
+	Constrained: 
+Turn ID=22| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=23| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=24| B | B : E
+	Free: 
+	Constrained: 
+Turn ID=25| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=26| A | A : één
+	Free: Pattern=één
+	Constrained: 
+Turn ID=27| B | B : ja dit zijn dat die klein boekentas
+	Free: Pattern=zijn, Pattern=die, Pattern=ja, Pattern=dat
+	Constrained: 
+Turn ID=28| A | A : de spaceshuttle
+	Free: Pattern=de
+	Constrained: 
+Turn ID=29| B | B : klein boekentas
+	Free: 
+	Constrained: 
+Turn ID=30| B | B : E
+	Free: 
+	Constrained: 
+Turn ID=31| A | A : zestien
+	Free: 
+	Constrained: 
+Turn ID=32| A | A : de spaceshuttle
+	Free: Pattern=de
+	Constrained: 
+Turn ID=33| B | B : dit zijn de klein boekentas
+	Free: Pattern=zijn, Pattern=de
+	Constrained: 
+Turn ID=34| B | B : de klein rugtas
+	Free: Pattern=de
+	Constrained: 
+Turn ID=35| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=36| B | B : O
+	Free: 
+	Constrained: 

@@ -1,0 +1,163 @@
+B|0| B: _oké_ _nu_ _hebben ik_ hem 
+B|1| B: _het_ _zijn_ _een_ soort _van_ _ja_ ook _dat_ komme _en_ _ik_ _ik_ zien _het_ zeggen maar veel als _een_ slurf 
+B|2| B: _en_ dan _een_ _vierkant_ eromheen 
+B|3| B: dus _het_ _zijn_ _een_ komme 
+B|4| B: _en_ daar zitten dan _een_ soort _van_ slurf _aan_ _en_ daar zitten dan zo'n _vierkant_ zitten dan helemaal eromheen 
+B|5| B: _ja_ 
+B|6| B: _ja_ 
+A|7| A: [ja] 
+A|8| A: [ja] 
+A|9| A: [ja] 
+A|10| A: [ja] 
+A|11| A: [ja] 
+A|12| A: _die_ [hebben ik] 
+A|13| A: [ja] 
+A|14| A: [en] nog één _aan de zijkant_ 
+A|15| A: [een] stuk _met_ _met_ [een] 
+A|16| A: [ja] [ja] precies [ja] [ja] 
+A|17| A: [oké] [ja] _dat zijn_ zes 
+A|18| A: [ik] [hebben] [nu] één _met_ [dat] [vierkant] plateau weer door [het] kop heen 
+A|19| A: [en] _twee_ 
+A|20| A: [ja] [ja] 
+B|21| B: [ja] 
+B|22| B: [dat zijn] C 
+A|23| A: [ja] 
+A|24| A: [ja] 
+A|25| A: _even_ kijken waar _die_ [zijn] [ja] [zijn] dertien 
+B|26| B: dit [zijn] [die] [die] slurf [die] zeggen maar [de] grond Doorboort 
+B|27| B: [met] [die] [twee] pun bovenop [aan de zijkant] [een] armpje 
+B|28| B: [even] [ja] 
+B|29| B: [dat zijn] J 
+A|30| A: [oké] [ik] [hebben] [dat] plateau [dat] [vierkant] plateau wat weer door [dat] kop heen steken 
+A|31| A: [met] [twee] [van] [die] 
+A|32| A: [ja] 
+B|33| B: dit [zijn] [met] [die] slurf [die] [de] grond Doorboort 
+B|34| B: [dat zijn] N 
+A|35| A: [ja] 
+A|36| A: [oké] nee 
+A|37| A: [ja] [oké] [dat zijn] nummer negen 
+A|38| A: [ik] [hebben] [het] gevoel [dat] [ik] [de] heel tijd nummer negen [hebben] 
+A|39| A: [ik] [hebben] [die] [met] [dat] [vierkant] plateau door [het] kop heen 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : oké nu hebben ik hem
+	Free: Pattern=hebben ik, Pattern=nu, Pattern=oké
+	Constrained: Pattern=hebben, Pattern=ik
+Turn ID=1| B | B : het zijn een soort van ja ook dat komme en ik ik zien het zeggen maar veel als een slurf
+	Free: Pattern=dat, Pattern=ja, Pattern=een, Pattern=het, Pattern=ik, Pattern=zijn, Pattern=van, Pattern=en
+	Constrained: 
+Turn ID=2| B | B : en dan een vierkant eromheen
+	Free: Pattern=en, Pattern=vierkant, Pattern=een
+	Constrained: 
+Turn ID=3| B | B : dus het zijn een komme
+	Free: Pattern=zijn, Pattern=het, Pattern=een
+	Constrained: 
+Turn ID=4| B | B : en daar zitten dan een soort van slurf aan en daar zitten dan zo'n vierkant zitten dan helemaal eromheen
+	Free: Pattern=aan, Pattern=een, Pattern=vierkant, Pattern=van, Pattern=en
+	Constrained: 
+Turn ID=5| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=6| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=7| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=8| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=9| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=10| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=11| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=12| A | A : die hebben ik
+	Free: Pattern=hebben ik, Pattern=die
+	Constrained: Pattern=hebben, Pattern=ik
+Turn ID=13| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=14| A | A : en nog één aan de zijkant
+	Free: Pattern=aan de zijkant, Pattern=en
+	Constrained: Pattern=de, Pattern=aan
+Turn ID=15| A | A : een stuk met met een
+	Free: Pattern=met, Pattern=een
+	Constrained: 
+Turn ID=16| A | A : ja ja precies ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=17| A | A : oké ja dat zijn zes
+	Free: Pattern=dat zijn, Pattern=oké, Pattern=ja
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=18| A | A : ik hebben nu één met dat vierkant plateau weer door het kop heen
+	Free: Pattern=dat, Pattern=nu, Pattern=het, Pattern=hebben, Pattern=met, Pattern=ik, Pattern=vierkant
+	Constrained: 
+Turn ID=19| A | A : en twee
+	Free: Pattern=en, Pattern=twee
+	Constrained: 
+Turn ID=20| A | A : ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=21| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=22| B | B : dat zijn C
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=23| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=24| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=25| A | A : even kijken waar die zijn ja zijn dertien
+	Free: Pattern=zijn, Pattern=die, Pattern=ja, Pattern=even
+	Constrained: 
+Turn ID=26| B | B : dit zijn die die slurf die zeggen maar de grond Doorboort
+	Free: Pattern=zijn, Pattern=die, Pattern=de
+	Constrained: 
+Turn ID=27| B | B : met die twee pun bovenop aan de zijkant een armpje
+	Free: Pattern=twee, Pattern=met, Pattern=die, Pattern=een, Pattern=aan de zijkant
+	Constrained: Pattern=de, Pattern=aan
+Turn ID=28| B | B : even ja
+	Free: Pattern=ja, Pattern=even
+	Constrained: 
+Turn ID=29| B | B : dat zijn J
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=30| A | A : oké ik hebben dat plateau dat vierkant plateau wat weer door dat kop heen steken
+	Free: Pattern=dat, Pattern=hebben, Pattern=oké, Pattern=ik, Pattern=vierkant
+	Constrained: 
+Turn ID=31| A | A : met twee van die
+	Free: Pattern=die, Pattern=twee, Pattern=van, Pattern=met
+	Constrained: 
+Turn ID=32| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=33| B | B : dit zijn met die slurf die de grond Doorboort
+	Free: Pattern=zijn, Pattern=die, Pattern=de, Pattern=met
+	Constrained: 
+Turn ID=34| B | B : dat zijn N
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=35| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=36| A | A : oké nee
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=37| A | A : ja oké dat zijn nummer negen
+	Free: Pattern=dat zijn, Pattern=oké, Pattern=ja
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=38| A | A : ik hebben het gevoel dat ik de heel tijd nummer negen hebben
+	Free: Pattern=dat, Pattern=de, Pattern=het, Pattern=hebben, Pattern=ik
+	Constrained: 
+Turn ID=39| A | A : ik hebben die met dat vierkant plateau door het kop heen
+	Free: Pattern=dat, Pattern=het, Pattern=hebben, Pattern=met, Pattern=die, Pattern=ik, Pattern=vierkant
+	Constrained: 

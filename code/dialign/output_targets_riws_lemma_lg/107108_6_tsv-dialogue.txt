@@ -1,0 +1,139 @@
+A|0| A: okan _ja_ deze doen _mij_ _een_ beetje _denken_ aan iemand _met_ _een_ _neuspiercing_ dus _je_ hebben zeggen maar aan _de_ voorkant hebben hij zo'n cirkel en _daar_ zitten _een_ soort balk doorheen 
+B|1| B: _o_ 
+B|2| B: _ik_ [denken] _dat_ _ik_ weten welk [je] bedoelen _dat_ _zijn_ _bij mij_ F 
+A|3| A: _ok bij mij_ één 
+B|4| B: _dan moeten ik_ op [de] geel drukken 
+A|5| A: _ja_ 
+B|6| B: _dit zijn de_ [een] [met] _de neuspiercing_ 
+A|7| A: [o] _ja_ [bij mij] [zijn] [dat] vijf 
+B|8| B: [ok bij mij] D 
+A|9| A: [o] [ik] [moeten] klikken toch 
+B|10| B: [o] of [o] 
+A|11| A: jij hebben het vierkant toch 
+B|12| B: [ja] 
+A|13| A: [dan moeten ik] klikken 
+B|14| B: oepsie [o] wat dom 
+A|15| A: _maken niet uit_ 
+A|16| A: [dit zijn] _die_ [neuspiercing] 
+B|17| B: _even_ kijken [o] [daar] A 
+B|18| B: [ik] weten [niet] welk [ok] [ja] 
+A|19| A: [ja] vier 
+A|20| A: [ja] 
+A|21| A: [ja] sorry 
+B|22| B: [maken niet uit] 
+B|23| B: [o] _dit zijn de neuspiercing_ 
+A|24| A: [o] [even] zoeken _waar_ hij [zijn] [ja] [zijn] vijf [bij mij] 
+B|25| B: [ok] 
+A|26| A: [dit zijn de neuspiercing] 
+B|27| B: [even] kijken [waar] [die] [o] [daar] H 
+A|28| A: [bij mij] zes [o] 
+B|29| B: [ja] [je] drukken automatisch 
+A|30| A: [ja] 
+B|31| B: [dit zijn de neuspiercing] 
+A|32| A: [ja] [zijn] vijftien [bij mij] 
+B|33| B: [ok bij mij] I 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : okan ja deze doen mij een beetje denken aan iemand met een neuspiercing dus je hebben zeggen maar aan de voorkant hebben hij zo'n cirkel en daar zitten een soort balk doorheen
+	Free: Pattern=denken, Pattern=een, Pattern=met, Pattern=mij, Pattern=neuspiercing, Pattern=de, Pattern=ja, Pattern=daar, Pattern=je
+	Constrained: 
+Turn ID=1| B | B : o
+	Free: Pattern=o
+	Constrained: 
+Turn ID=2| B | B : ik denken dat ik weten welk je bedoelen dat zijn bij mij F
+	Free: Pattern=dat, Pattern=denken, Pattern=ik, Pattern=zijn, Pattern=bij mij, Pattern=je
+	Constrained: Pattern=mij
+Turn ID=3| A | A : ok bij mij één
+	Free: Pattern=ok bij mij
+	Constrained: Pattern=bij mij, Pattern=mij, Pattern=ok
+Turn ID=4| B | B : dan moeten ik op de geel drukken
+	Free: Pattern=dan moeten ik, Pattern=de
+	Constrained: Pattern=moeten, Pattern=ik
+Turn ID=5| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=6| B | B : dit zijn de een met de neuspiercing
+	Free: Pattern=dit zijn de, Pattern=de neuspiercing, Pattern=een, Pattern=met
+	Constrained: Pattern=dit zijn, Pattern=neuspiercing, Pattern=de, Pattern=zijn
+Turn ID=7| A | A : o ja bij mij zijn dat vijf
+	Free: Pattern=dat, Pattern=ja, Pattern=zijn, Pattern=bij mij, Pattern=o
+	Constrained: Pattern=mij
+Turn ID=8| B | B : ok bij mij D
+	Free: Pattern=ok bij mij
+	Constrained: Pattern=bij mij, Pattern=mij, Pattern=ok
+Turn ID=9| A | A : o ik moeten klikken toch
+	Free: Pattern=o, Pattern=moeten, Pattern=ik
+	Constrained: 
+Turn ID=10| B | B : o of o
+	Free: Pattern=o
+	Constrained: 
+Turn ID=11| A | A : jij hebben het vierkant toch
+	Free: 
+	Constrained: 
+Turn ID=12| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=13| A | A : dan moeten ik klikken
+	Free: Pattern=dan moeten ik
+	Constrained: Pattern=moeten, Pattern=ik
+Turn ID=14| B | B : oepsie o wat dom
+	Free: Pattern=o
+	Constrained: 
+Turn ID=15| A | A : maken niet uit
+	Free: Pattern=maken niet uit
+	Constrained: Pattern=niet
+Turn ID=16| A | A : dit zijn die neuspiercing
+	Free: Pattern=dit zijn, Pattern=die, Pattern=neuspiercing
+	Constrained: Pattern=zijn
+Turn ID=17| B | B : even kijken o daar A
+	Free: Pattern=daar, Pattern=o, Pattern=even
+	Constrained: 
+Turn ID=18| B | B : ik weten niet welk ok ja
+	Free: Pattern=ja, Pattern=ok, Pattern=niet, Pattern=ik
+	Constrained: 
+Turn ID=19| A | A : ja vier
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=20| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=21| A | A : ja sorry
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=22| B | B : maken niet uit
+	Free: Pattern=maken niet uit
+	Constrained: Pattern=niet
+Turn ID=23| B | B : o dit zijn de neuspiercing
+	Free: Pattern=dit zijn de neuspiercing, Pattern=o
+	Constrained: Pattern=de, Pattern=neuspiercing, Pattern=dit zijn, Pattern=de neuspiercing, Pattern=zijn, Pattern=dit zijn de
+Turn ID=24| A | A : o even zoeken waar hij zijn ja zijn vijf bij mij
+	Free: Pattern=ja, Pattern=waar, Pattern=even, Pattern=zijn, Pattern=bij mij, Pattern=o
+	Constrained: Pattern=mij
+Turn ID=25| B | B : ok
+	Free: Pattern=ok
+	Constrained: 
+Turn ID=26| A | A : dit zijn de neuspiercing
+	Free: Pattern=dit zijn de neuspiercing
+	Constrained: Pattern=de, Pattern=neuspiercing, Pattern=dit zijn, Pattern=de neuspiercing, Pattern=zijn, Pattern=dit zijn de
+Turn ID=27| B | B : even kijken waar die o daar H
+	Free: Pattern=waar, Pattern=even, Pattern=die, Pattern=daar, Pattern=o
+	Constrained: 
+Turn ID=28| A | A : bij mij zes o
+	Free: Pattern=bij mij, Pattern=o
+	Constrained: Pattern=mij
+Turn ID=29| B | B : ja je drukken automatisch
+	Free: Pattern=ja, Pattern=je
+	Constrained: 
+Turn ID=30| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=31| B | B : dit zijn de neuspiercing
+	Free: Pattern=dit zijn de neuspiercing
+	Constrained: Pattern=de, Pattern=neuspiercing, Pattern=dit zijn, Pattern=de neuspiercing, Pattern=zijn, Pattern=dit zijn de
+Turn ID=32| A | A : ja zijn vijftien bij mij
+	Free: Pattern=bij mij, Pattern=ja, Pattern=zijn
+	Constrained: Pattern=mij
+Turn ID=33| B | B : ok bij mij I
+	Free: Pattern=ok bij mij
+	Constrained: Pattern=bij mij, Pattern=mij, Pattern=ok

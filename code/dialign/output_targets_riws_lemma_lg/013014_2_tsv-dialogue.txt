@@ -1,0 +1,199 @@
+A|0| A: _kop_ 
+A|1| A: _en_ _er zitten een driehoek op_ 
+A|2| A: _die_ _zijn_ helemaal af 
+B|3| B: [er zitten een driehoek op] 
+A|4| A: _ja_ 
+B|5| B: [en] [zijn] _dat_ [een] 
+A|6| A: klein _piramide_ 
+B|7| B: [een] [piramide] 
+A|8| A: _ja_ [een] klein 
+B|9| B: [ja] 
+B|10| B: oké volgens mij [zijn] _dat_ _er _maar_ één_ 
+A|11| A: [ja] precies _dus_ 
+B|12| B: [ja] 
+B|13| B: _dat zijn_ J 
+A|14| A: [ja] 
+B|15| B: oké dit [zijn] _het_ [kop] _waar de_ [piramide] [op] _de_ bovenkant staan [dus] _daar zijn er _maar_ één van_ 
+A|16| A: [ja] 
+A|17| A: [dat zijn] zes 
+A|18| A: mijn _hebben_ [een] [zitten een driehoek op] mijn 
+A|19| A: [er zitten een driehoek op] 
+A|20| A: [daar zijn er maar] _ook_ [maar één van] 
+B|21| B: [ja] 
+B|22| B: _met_ [een] soort [van] kegel [ook] _aan de_ linkerkant [die] heel puntig afloopt 
+A|23| A: [ja] precies 
+B|24| B: oké [dat zijn] E 
+A|25| A: precies 
+B|26| B: [er zitten een driehoek op] 
+B|27| B: _en hij_ [zijn] nog heel 
+A|28| A: [ja] 
+B|29| B: [dus] [er] [zijn er [maar] één van] 
+A|30| A: [met] [de] raar vorm [aan de] voorkant [die] _ik_ niet kunnen uitleggen 
+B|31| B: [ja] 
+A|32| A: [dat zijn] tien 
+A|33| A: [en hij] [zitten] helemaal nee sorry [het] [zijn] [die] [een] [met] _de driehoek_ erop 
+B|34| B: _ja en_ al _rotzooi eronder_ omheen 
+A|35| A: [ja] [rotzooi eronder] 
+B|36| B: [ja] 
+B|37| B: [ik] [ik] [hebben] hem [ook] zelf echt voor mezelf als kutzooi [ik] [hebben] alles [één] woord geven zodat [ik] in [die] in [die] machine [ook] gewoon in [die] MRI [ook] gewoon gelijk wat [hebben] 
+A|38| A: [ja] 
+A|39| A: [ja] [ja] 
+B|40| B: [dat] [die] gewoon 
+B|41| B: [dat zijn] G 
+B|42| B: [ja] 
+B|43| B: _waar de driehoek op staat_ 
+A|44| A: [waar de driehoek op staat] 
+A|45| A: [ja] [die] 
+A|46| A: [ja en] [de] rond [rotzooi eronder] 
+B|47| B: [ja] 
+A|48| A: tien 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : kop
+	Free: Pattern=kop
+	Constrained: 
+Turn ID=1| A | A : en er zitten een driehoek op
+	Free: Pattern=er zitten een driehoek op, Pattern=en
+	Constrained: Pattern=op, Pattern=een, Pattern=zitten, Pattern=er, Pattern=zitten een driehoek op
+Turn ID=2| A | A : die zijn helemaal af
+	Free: Pattern=zijn, Pattern=die
+	Constrained: 
+Turn ID=3| B | B : er zitten een driehoek op
+	Free: Pattern=er zitten een driehoek op
+	Constrained: Pattern=op, Pattern=een, Pattern=zitten, Pattern=er, Pattern=zitten een driehoek op
+Turn ID=4| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=5| B | B : en zijn dat een
+	Free: Pattern=zijn, Pattern=en, Pattern=een, Pattern=dat
+	Constrained: 
+Turn ID=6| A | A : klein piramide
+	Free: Pattern=piramide
+	Constrained: 
+Turn ID=7| B | B : een piramide
+	Free: Pattern=piramide, Pattern=een
+	Constrained: 
+Turn ID=8| A | A : ja een klein
+	Free: Pattern=ja, Pattern=een
+	Constrained: 
+Turn ID=9| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=10| B | B : oké volgens mij zijn dat er maar één
+	Free: Pattern=er maar, Pattern=maar één, Pattern=zijn, Pattern=dat
+	Constrained: Pattern=één, Pattern=er
+Turn ID=11| A | A : ja precies dus
+	Free: Pattern=ja, Pattern=dus
+	Constrained: 
+Turn ID=12| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=13| B | B : dat zijn J
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=14| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=15| B | B : oké dit zijn het kop waar de piramide op de bovenkant staan dus daar zijn er maar één van
+	Free: Pattern=het, Pattern=daar zijn er maar, Pattern=zijn, Pattern=maar één van, Pattern=de, Pattern=dus, Pattern=piramide, Pattern=op, Pattern=kop, Pattern=waar de
+	Constrained: Pattern=er maar, Pattern=zijn er maar, Pattern=de, Pattern=er, Pattern=van, Pattern=zijn, Pattern=één, Pattern=maar één
+Turn ID=16| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=17| A | A : dat zijn zes
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=18| A | A : mijn hebben een zitten een driehoek op mijn
+	Free: Pattern=zitten een driehoek op, Pattern=een, Pattern=hebben
+	Constrained: Pattern=een, Pattern=zitten, Pattern=op
+Turn ID=19| A | A : er zitten een driehoek op
+	Free: Pattern=er zitten een driehoek op
+	Constrained: Pattern=op, Pattern=een, Pattern=zitten, Pattern=er, Pattern=zitten een driehoek op
+Turn ID=20| A | A : daar zijn er maar ook maar één van
+	Free: Pattern=daar zijn er maar, Pattern=maar één van, Pattern=ook
+	Constrained: Pattern=er maar, Pattern=zijn er maar, Pattern=er, Pattern=van, Pattern=zijn, Pattern=één, Pattern=maar één
+Turn ID=21| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=22| B | B : met een soort van kegel ook aan de linkerkant die heel puntig afloopt
+	Free: Pattern=een, Pattern=met, Pattern=die, Pattern=van, Pattern=aan de, Pattern=ook
+	Constrained: Pattern=de
+Turn ID=23| A | A : ja precies
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=24| B | B : oké dat zijn E
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=25| A | A : precies
+	Free: 
+	Constrained: 
+Turn ID=26| B | B : er zitten een driehoek op
+	Free: Pattern=er zitten een driehoek op
+	Constrained: Pattern=op, Pattern=een, Pattern=zitten, Pattern=er, Pattern=zitten een driehoek op
+Turn ID=27| B | B : en hij zijn nog heel
+	Free: Pattern=en hij, Pattern=zijn
+	Constrained: Pattern=en
+Turn ID=28| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=29| B | B : dus er zijn er maar één van
+	Free: Pattern=maar één van, Pattern=zijn er maar, Pattern=dus, Pattern=er
+	Constrained: Pattern=er maar, Pattern=er, Pattern=van, Pattern=zijn, Pattern=één, Pattern=maar één
+Turn ID=30| A | A : met de raar vorm aan de voorkant die ik niet kunnen uitleggen
+	Free: Pattern=de, Pattern=aan de, Pattern=met, Pattern=die, Pattern=ik
+	Constrained: Pattern=de
+Turn ID=31| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=32| A | A : dat zijn tien
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=33| A | A : en hij zitten helemaal nee sorry het zijn die een met de driehoek erop
+	Free: Pattern=een, Pattern=met, Pattern=en hij, Pattern=zijn, Pattern=het, Pattern=de driehoek, Pattern=die, Pattern=zitten
+	Constrained: Pattern=en, Pattern=de
+Turn ID=34| B | B : ja en al rotzooi eronder omheen
+	Free: Pattern=ja en, Pattern=rotzooi eronder
+	Constrained: Pattern=ja, Pattern=en
+Turn ID=35| A | A : ja rotzooi eronder
+	Free: Pattern=rotzooi eronder, Pattern=ja
+	Constrained: 
+Turn ID=36| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=37| B | B : ik ik hebben hem ook zelf echt voor mezelf als kutzooi ik hebben alles één woord geven zodat ik in die in die machine ook gewoon in die MRI ook gewoon gelijk wat hebben
+	Free: Pattern=ook, Pattern=hebben, Pattern=die, Pattern=ik, Pattern=één
+	Constrained: 
+Turn ID=38| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=39| A | A : ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=40| B | B : dat die gewoon
+	Free: Pattern=die, Pattern=dat
+	Constrained: 
+Turn ID=41| B | B : dat zijn G
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=42| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=43| B | B : waar de driehoek op staat
+	Free: Pattern=waar de driehoek op staat
+	Constrained: Pattern=de, Pattern=de driehoek, Pattern=waar de, Pattern=op
+Turn ID=44| A | A : waar de driehoek op staat
+	Free: Pattern=waar de driehoek op staat
+	Constrained: Pattern=de, Pattern=de driehoek, Pattern=waar de, Pattern=op
+Turn ID=45| A | A : ja die
+	Free: Pattern=ja, Pattern=die
+	Constrained: 
+Turn ID=46| A | A : ja en de rond rotzooi eronder
+	Free: Pattern=ja en, Pattern=rotzooi eronder, Pattern=de
+	Constrained: Pattern=ja, Pattern=en
+Turn ID=47| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=48| A | A : tien
+	Free: 
+	Constrained: 

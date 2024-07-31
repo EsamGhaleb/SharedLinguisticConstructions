@@ -1,0 +1,139 @@
+A|0| A: _dit zijn die_ _ik_ net _zeggen_ _met_ _die_ raar _vulkaan op_ _zijn_ _hoofd_ 
+B|1| B: [die] _ja_ 
+A|2| A: [ja] _met_ dat ding en dan [die] twee _aan de_ zijkant 
+B|3| B: [ja] 
+B|4| B: J 
+B|5| B: wachten 
+A|6| A: en [die] staan best wel dicht bij _het_ midden _maar_ veel naar links 
+B|7| B: [ik] _hebben_ we _hebben_ [de] verkeerd _doen_ denken [ik] 
+A|8| A: wat [hebben] _je_ [doen] 
+B|9| B: [ik] denken jij [hebben] _met een_ driehoek [op] [het] [hoofd] [maar] jij [zeggen] [die] [met] [vulkaan op] [het] [hoofd] 
+A|10| A: shit [ja] 
+B|11| B: of niet 
+B|12| B: _met een_ isteken [aan de] rechterkant 
+A|13| A: [ja] 
+B|14| B: [ja] [ik] [hebben] [het] verkeerd ah _oké_ 
+A|15| A: [oké] 
+B|16| B: _dit zijn die een met_ isteken [aan] rechterkant 
+A|17| A: [met] [die] [die een] beetje [op] [een] eend lijken van Flappy Bird [maar] dan [met een] uitlaat 
+B|18| B: [ja] 
+A|19| A: [ja] 
+B|20| B: nu [je] [het] [zeggen] 
+A|21| A: [oké] dat [zijn] twee 
+A|22| A: [dit zijn die een met] dat _istek_ [aan de] zijkant 
+B|23| B: ah M 
+B|24| B: [het] isteken 
+A|25| A: even zoeken 
+A|26| A: [ja] [met] [die] dat half driehoekding [op] [zijn] [hoofd] 
+B|27| B: [ja] trapeziumen 
+A|28| A: dat [zijn] nummer negen 
+A|29| A: [met] dat _istek_ weer 
+B|30| B: [istek] 
+B|31| B: F 
+B|32| B: [het] isteken 
+A|33| A: nummer zes 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : dit zijn die ik net zeggen met die raar vulkaan op zijn hoofd
+	Free: Pattern=dit zijn die, Pattern=met, Pattern=die, Pattern=ik, Pattern=zijn, Pattern=hoofd, Pattern=zeggen, Pattern=vulkaan op
+	Constrained: Pattern=die, Pattern=zijn, Pattern=op
+Turn ID=1| B | B : die ja
+	Free: Pattern=ja, Pattern=die
+	Constrained: 
+Turn ID=2| A | A : ja met dat ding en dan die twee aan de zijkant
+	Free: Pattern=aan de, Pattern=ja, Pattern=die, Pattern=met
+	Constrained: Pattern=aan, Pattern=de
+Turn ID=3| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=4| B | B : J
+	Free: 
+	Constrained: 
+Turn ID=5| B | B : wachten
+	Free: 
+	Constrained: 
+Turn ID=6| A | A : en die staan best wel dicht bij het midden maar veel naar links
+	Free: Pattern=het, Pattern=die, Pattern=maar
+	Constrained: 
+Turn ID=7| B | B : ik hebben we hebben de verkeerd doen denken ik
+	Free: Pattern=ik, Pattern=doen, Pattern=hebben, Pattern=de
+	Constrained: 
+Turn ID=8| A | A : wat hebben je doen
+	Free: Pattern=doen, Pattern=hebben, Pattern=je
+	Constrained: 
+Turn ID=9| B | B : ik denken jij hebben met een driehoek op het hoofd maar jij zeggen die met vulkaan op het hoofd
+	Free: Pattern=op, Pattern=het, Pattern=hebben, Pattern=met, Pattern=die, Pattern=met een, Pattern=ik, Pattern=maar, Pattern=hoofd, Pattern=zeggen, Pattern=vulkaan op
+	Constrained: Pattern=met, Pattern=een, Pattern=op
+Turn ID=10| A | A : shit ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=11| B | B : of niet
+	Free: 
+	Constrained: 
+Turn ID=12| B | B : met een isteken aan de rechterkant
+	Free: Pattern=aan de, Pattern=met een
+	Constrained: Pattern=aan, Pattern=de, Pattern=met, Pattern=een
+Turn ID=13| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=14| B | B : ja ik hebben het verkeerd ah oké
+	Free: Pattern=ja, Pattern=het, Pattern=hebben, Pattern=oké, Pattern=ik
+	Constrained: 
+Turn ID=15| A | A : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=16| B | B : dit zijn die een met isteken aan rechterkant
+	Free: Pattern=dit zijn die een met, Pattern=aan
+	Constrained: Pattern=dit zijn die, Pattern=een, Pattern=met, Pattern=die, Pattern=die een, Pattern=zijn
+Turn ID=17| A | A : met die die een beetje op een eend lijken van Flappy Bird maar dan met een uitlaat
+	Free: Pattern=op, Pattern=een, Pattern=met, Pattern=die, Pattern=die een, Pattern=met een, Pattern=maar
+	Constrained: Pattern=die, Pattern=met, Pattern=een
+Turn ID=18| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=19| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=20| B | B : nu je het zeggen
+	Free: Pattern=zeggen, Pattern=het, Pattern=je
+	Constrained: 
+Turn ID=21| A | A : oké dat zijn twee
+	Free: Pattern=oké, Pattern=zijn
+	Constrained: 
+Turn ID=22| A | A : dit zijn die een met dat istek aan de zijkant
+	Free: Pattern=dit zijn die een met, Pattern=aan de, Pattern=istek
+	Constrained: Pattern=dit zijn die, Pattern=een, Pattern=met, Pattern=die, Pattern=die een, Pattern=zijn, Pattern=de, Pattern=aan
+Turn ID=23| B | B : ah M
+	Free: 
+	Constrained: 
+Turn ID=24| B | B : het isteken
+	Free: Pattern=het
+	Constrained: 
+Turn ID=25| A | A : even zoeken
+	Free: 
+	Constrained: 
+Turn ID=26| A | A : ja met die dat half driehoekding op zijn hoofd
+	Free: Pattern=ja, Pattern=op, Pattern=met, Pattern=die, Pattern=zijn, Pattern=hoofd
+	Constrained: 
+Turn ID=27| B | B : ja trapeziumen
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=28| A | A : dat zijn nummer negen
+	Free: Pattern=zijn
+	Constrained: 
+Turn ID=29| A | A : met dat istek weer
+	Free: Pattern=istek, Pattern=met
+	Constrained: 
+Turn ID=30| B | B : istek
+	Free: Pattern=istek
+	Constrained: 
+Turn ID=31| B | B : F
+	Free: 
+	Constrained: 
+Turn ID=32| B | B : het isteken
+	Free: Pattern=het
+	Constrained: 
+Turn ID=33| A | A : nummer zes
+	Free: 
+	Constrained: 

@@ -1,0 +1,95 @@
+B|0| B: deze hebben een soort van _twee_ uitlaat _vierkant_ uitlat _aan de linkerkant_ 
+B|1| B: _dan_ voorop een soort _vierkant_ 
+B|2| B: _en_ bovenop een stok _met_ daarop een rond 
+A|3| A: okee _ja_ dat zijn tien 
+B|4| B: [ja] n 
+B|5| B: deze hebben soort van _twee_ uitlaat _aan de linkerkant_ _met_ blok _die_ steeds klein worden 
+B|6| B: _en_ voorop een _vierkant_ 
+B|7| B: [ja] c 
+A|8| A: even kijken dit zijn [de] kopvorm _met de_ spijker er bovenin inslaan 
+A|9| A: het [vierkant] [aan de] voorkant [en] [de] [twee] blokkentorens link 
+B|10| B: deze hebben _die_ [twee] uitlaat [met de] blok _aan de linkerkant_ [en] voorop een [vierkant] 
+A|11| A: [ja] 
+A|12| A: [vierkant] [aan de] voorkant 
+A|13| A: dat zijn vijf 
+B|14| B: l 
+A|15| A: even kijken [die] [met de] spijker Erbovenin [en] [de] [twee] blokkentorens [aan de linkerkant] 
+A|16| A: [ja] 
+A|17| A: [aan de] 
+A|18| A: [en] [dan] het vierkan ervoor 
+A|19| A: dat zijn [twee] 
+A|20| A: dit zijn [die] [met de] spijker Erbovenin [en] [de] [twee] blokkentorens 
+A|21| A: link 
+A|22| A: yes 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : deze hebben een soort van twee uitlaat vierkant uitlat aan de linkerkant
+	Free: Pattern=aan de linkerkant, Pattern=vierkant, Pattern=twee
+	Constrained: Pattern=aan de, Pattern=de
+Turn ID=1| B | B : dan voorop een soort vierkant
+	Free: Pattern=dan, Pattern=vierkant
+	Constrained: 
+Turn ID=2| B | B : en bovenop een stok met daarop een rond
+	Free: Pattern=en, Pattern=met
+	Constrained: 
+Turn ID=3| A | A : okee ja dat zijn tien
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=4| B | B : ja n
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=5| B | B : deze hebben soort van twee uitlaat aan de linkerkant met blok die steeds klein worden
+	Free: Pattern=aan de linkerkant, Pattern=die, Pattern=twee, Pattern=met
+	Constrained: Pattern=aan de, Pattern=de
+Turn ID=6| B | B : en voorop een vierkant
+	Free: Pattern=vierkant, Pattern=en
+	Constrained: 
+Turn ID=7| B | B : ja c
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=8| A | A : even kijken dit zijn de kopvorm met de spijker er bovenin inslaan
+	Free: Pattern=met de, Pattern=de
+	Constrained: Pattern=de, Pattern=met
+Turn ID=9| A | A : het vierkant aan de voorkant en de twee blokkentorens link
+	Free: Pattern=twee, Pattern=de, Pattern=aan de, Pattern=en, Pattern=vierkant
+	Constrained: Pattern=de
+Turn ID=10| B | B : deze hebben die twee uitlaat met de blok aan de linkerkant en voorop een vierkant
+	Free: Pattern=twee, Pattern=met de, Pattern=die, Pattern=en, Pattern=vierkant, Pattern=aan de linkerkant
+	Constrained: Pattern=de, Pattern=met, Pattern=aan de
+Turn ID=11| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=12| A | A : vierkant aan de voorkant
+	Free: Pattern=aan de, Pattern=vierkant
+	Constrained: Pattern=de
+Turn ID=13| A | A : dat zijn vijf
+	Free: 
+	Constrained: 
+Turn ID=14| B | B : l
+	Free: 
+	Constrained: 
+Turn ID=15| A | A : even kijken die met de spijker Erbovenin en de twee blokkentorens aan de linkerkant
+	Free: Pattern=twee, Pattern=die, Pattern=en, Pattern=aan de linkerkant, Pattern=de, Pattern=met de
+	Constrained: Pattern=de, Pattern=met, Pattern=aan de
+Turn ID=16| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=17| A | A : aan de
+	Free: Pattern=aan de
+	Constrained: Pattern=de
+Turn ID=18| A | A : en dan het vierkan ervoor
+	Free: Pattern=dan, Pattern=en
+	Constrained: 
+Turn ID=19| A | A : dat zijn twee
+	Free: Pattern=twee
+	Constrained: 
+Turn ID=20| A | A : dit zijn die met de spijker Erbovenin en de twee blokkentorens
+	Free: Pattern=twee, Pattern=die, Pattern=en, Pattern=de, Pattern=met de
+	Constrained: Pattern=de, Pattern=met
+Turn ID=21| A | A : link
+	Free: 
+	Constrained: 
+Turn ID=22| A | A : yes
+	Free: 
+	Constrained: 

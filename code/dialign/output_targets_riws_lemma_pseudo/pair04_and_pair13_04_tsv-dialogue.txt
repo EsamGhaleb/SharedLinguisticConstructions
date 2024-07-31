@@ -1,0 +1,147 @@
+A|0| A: nou we hebben weer _de_ hoofdvorm _die_ hebben _een_ _soort van_ _ja_ wat jij noemen _een_ yoghurtbakje _op_ _zijn_ kop _op_ _zijn_ hoofd 
+A|1| A: _op_ _de_ bovenkant 
+A|2| A: _en aan de rechterkant_ hebben _je_ _twee_ uitstekend staaf 
+A|3| A: plat staaf 
+A|4| A: _en aan de_ voorkant hebben _je_ _ja_ _een_ _soort van_ neusje 
+A|5| A: _ook_ _een_ _een_ staafje _die_ uitsteekken _en_ linksonder hebben _je_ nog klein bak _die_ _op_ _zijn_ kop liggen 
+B|6| B: ah [ja] 
+B|7| B: wachten [die] post it 
+B|8| B: [zijn] _het_ [soort van] zullen [je] _het_ [ook] kunnen omschrijven als dat er [een] tipitent [op] staat 
+B|9| B: half tipitent [en] _dan_ 
+B|10| B: zonder top 
+B|11| B: [ja] [en aan de rechterkant] [twee] ding 
+A|12| A: [ook] [een] yoghurtbakje maar [dan] klein 
+B|13| B: [ja] lijken [een] beetje [op] [een] stopcontact 
+A|14| A: [ja] 
+A|15| A: nummer veertien 
+B|16| B: zullen kunnen 
+B|17| B: zo'n stekker 
+B|18| B: okee 
+B|19| B: [ja] 
+B|20| B: [ja] okee 
+B|21| B: [dan] [zijn] _het_ c 
+A|22| A: _dit zijn_ [de] hoofdvorm _met_ [twee] uitsteeksel [aan de rechterkant] 
+A|23| A: allebei [twee] vierkant staafjes _met_ [een] yoghurtbeker [op] [de] hoofdvorm [en] linksonder [een] klein yoghurtbeker [op] [zijn] kop 
+A|24| A: [ja] 
+A|25| A: [ja] nummer vijfteen 
+B|26| B: [dit zijn] _het_ stopcontactding [met] [de] half tipitent of [de] vulkaan 
+A|27| A: [dit zijn] [de] hoofdvorm [met] [het] yoghurtbak erop [op] [zijn] kop linksvoor hebben [je] [ook] [een] yoghurtbakje [en] hij hebben [twee] uitsteeksel [aan de rechterkant] 
+B|28| B: [ja] 
+B|29| B: [ja] 
+B|30| B: dat [zijn] e 
+A|31| A: [ja] nummer achten 
+B|32| B: [ja] [de] half tipitent [met] [de] [twee] post its 
+B|33| B: [ja] 
+B|34| B: dat [zijn] d 
+B|35| B: [de] half tipitent [met] [de] post its 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : nou we hebben weer de hoofdvorm die hebben een soort van ja wat jij noemen een yoghurtbakje op zijn kop op zijn hoofd
+	Free: Pattern=op, Pattern=een, Pattern=die, Pattern=de, Pattern=ja, Pattern=soort van, Pattern=zijn
+	Constrained: 
+Turn ID=1| A | A : op de bovenkant
+	Free: Pattern=de, Pattern=op
+	Constrained: 
+Turn ID=2| A | A : en aan de rechterkant hebben je twee uitstekend staaf
+	Free: Pattern=en aan de rechterkant, Pattern=twee, Pattern=je
+	Constrained: Pattern=en aan de, Pattern=de, Pattern=en, Pattern=aan de rechterkant
+Turn ID=3| A | A : plat staaf
+	Free: 
+	Constrained: 
+Turn ID=4| A | A : en aan de voorkant hebben je ja een soort van neusje
+	Free: Pattern=ja, Pattern=een, Pattern=soort van, Pattern=je, Pattern=en aan de
+	Constrained: Pattern=de, Pattern=en
+Turn ID=5| A | A : ook een een staafje die uitsteekken en linksonder hebben je nog klein bak die op zijn kop liggen
+	Free: Pattern=een, Pattern=die, Pattern=en, Pattern=zijn, Pattern=je, Pattern=op, Pattern=ook
+	Constrained: 
+Turn ID=6| B | B : ah ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=7| B | B : wachten die post it
+	Free: Pattern=die
+	Constrained: 
+Turn ID=8| B | B : zijn het soort van zullen je het ook kunnen omschrijven als dat er een tipitent op staat
+	Free: Pattern=een, Pattern=het, Pattern=je, Pattern=op, Pattern=ook, Pattern=soort van, Pattern=zijn
+	Constrained: 
+Turn ID=9| B | B : half tipitent en dan
+	Free: Pattern=dan, Pattern=en
+	Constrained: 
+Turn ID=10| B | B : zonder top
+	Free: 
+	Constrained: 
+Turn ID=11| B | B : ja en aan de rechterkant twee ding
+	Free: Pattern=en aan de rechterkant, Pattern=twee, Pattern=ja
+	Constrained: Pattern=en aan de, Pattern=de, Pattern=en, Pattern=aan de rechterkant
+Turn ID=12| A | A : ook een yoghurtbakje maar dan klein
+	Free: Pattern=dan, Pattern=ook, Pattern=een
+	Constrained: 
+Turn ID=13| B | B : ja lijken een beetje op een stopcontact
+	Free: Pattern=ja, Pattern=een, Pattern=op
+	Constrained: 
+Turn ID=14| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=15| A | A : nummer veertien
+	Free: 
+	Constrained: 
+Turn ID=16| B | B : zullen kunnen
+	Free: 
+	Constrained: 
+Turn ID=17| B | B : zo'n stekker
+	Free: 
+	Constrained: 
+Turn ID=18| B | B : okee
+	Free: 
+	Constrained: 
+Turn ID=19| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=20| B | B : ja okee
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=21| B | B : dan zijn het c
+	Free: Pattern=dan, Pattern=zijn, Pattern=het
+	Constrained: 
+Turn ID=22| A | A : dit zijn de hoofdvorm met twee uitsteeksel aan de rechterkant
+	Free: Pattern=twee, Pattern=de, Pattern=met, Pattern=aan de rechterkant, Pattern=dit zijn
+	Constrained: Pattern=de, Pattern=zijn
+Turn ID=23| A | A : allebei twee vierkant staafjes met een yoghurtbeker op de hoofdvorm en linksonder een klein yoghurtbeker op zijn kop
+	Free: Pattern=twee, Pattern=de, Pattern=op, Pattern=een, Pattern=met, Pattern=en, Pattern=zijn
+	Constrained: 
+Turn ID=24| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=25| A | A : ja nummer vijfteen
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=26| B | B : dit zijn het stopcontactding met de half tipitent of de vulkaan
+	Free: Pattern=dit zijn, Pattern=de, Pattern=met, Pattern=het
+	Constrained: Pattern=zijn
+Turn ID=27| A | A : dit zijn de hoofdvorm met het yoghurtbak erop op zijn kop linksvoor hebben je ook een yoghurtbakje en hij hebben twee uitsteeksel aan de rechterkant
+	Free: Pattern=twee, Pattern=de, Pattern=een, Pattern=het, Pattern=met, Pattern=aan de rechterkant, Pattern=en, Pattern=zijn, Pattern=je, Pattern=dit zijn, Pattern=op, Pattern=ook
+	Constrained: Pattern=de, Pattern=zijn
+Turn ID=28| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=29| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=30| B | B : dat zijn e
+	Free: Pattern=zijn
+	Constrained: 
+Turn ID=31| A | A : ja nummer achten
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=32| B | B : ja de half tipitent met de twee post its
+	Free: Pattern=de, Pattern=twee, Pattern=met, Pattern=ja
+	Constrained: 
+Turn ID=33| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=34| B | B : dat zijn d
+	Free: Pattern=zijn
+	Constrained: 
+Turn ID=35| B | B : de half tipitent met de post its
+	Free: Pattern=de, Pattern=met
+	Constrained: 

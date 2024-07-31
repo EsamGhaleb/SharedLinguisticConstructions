@@ -1,0 +1,135 @@
+B|0| B: _dit_ _kop_ _hebben_ vier uitsteeksel als eerst rechts _weer zo'n ei_ _op_ _het kop_ 
+B|1| B: _dan opsteken er een_ _rechthoekig_ plank _uit_ _en een_ _ja_ 
+A|2| A: _kegel_ bowlingding 
+B|3| B: _ja_ zo kunnen je _het_ noemen _ja_ _en_ _het_ lijken _een_ soort driehoekig dinge naar _de linkerkant_ 
+A|4| A: [ja] 
+A|5| A: _ja _ja_ ja_ 
+A|6| A: [ja] oké 
+A|7| A: bij mij _zijn_ _dat_ veertien 
+A|8| A: deze [hebben] [weer zo'n _ei] aan de voorkant_ van [het kop] 
+A|9| A: [en] [dan opsteken er een] gewoon [een] normaal _rechthoekig _balk_ uit_ 
+A|10| A: [en] [weer] _die_ kegelvorm [op] _zijn_ [kop] 
+A|11| A: [en] [dan] links _nog een_ klein driehoekachtig _balk_ 
+B|12| B: [ja] [dat] [zijn] N 
+B|13| B: _dit zijn_ [die] _met_ [het] [ei] erop [aan de] rechterkant [een] [balk] steken [uit] [en] _die kegel_ 
+A|14| A: _ja _ja_ ja_ 
+B|15| B: [en] _aan de linkerkant_ steken [nog een] [balk uit] 
+A|16| A: negen 
+A|17| A: [dit zijn] [dat] _ei aan de voorkant_ [weer] [en] [dan] [een] normaal [balk] Erboven [en een] [kegel] 
+A|18| A: [en] [dan] [nog een] driehoek driehoekbalk [aan de linkerkant] 
+B|19| B: [ja] [dat] [zijn] G 
+B|20| B: [dit zijn] even kijken _een ei aan de voorkant_ 
+B|21| B: [en] één [rechthoekig _balk] eruit_ [en] één [kegel] _eruit_ 
+B|22| B: [en] [aan de linkerkant] [nog een] [balk] 
+A|23| A: vijf 
+A|24| A: [dit zijn] [met] [een ei] voorop [en] [dan] [zo'n] normaal [balk eruit] [die kegel] [en] [dan] [een] [nog een] driehoek [aan de linkerkant] 
+A|25| A: driehoekbalk 
+B|26| B: wat ? kunnen je [het] [nog een] keer zeggen 
+A|27| A: [een ei aan de voorkant] 
+B|28| B: [ja ja] 
+A|29| A: [en] [dan] [een] normaal [rechthoekig balk] erbovenuit 
+B|30| B: [en] [die kegel] 
+A|31| A: [en] [dan] [een] omgekeerde [kegel] [en] [dan] [nog een] driehoekbalk [aan de linkerkant] 
+B|32| B: [ja ja] [dat] [zijn] J 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : dit kop hebben vier uitsteeksel als eerst rechts weer zo'n ei op het kop
+	Free: Pattern=op, Pattern=het kop, Pattern=hebben, Pattern=weer zo'n ei, Pattern=kop, Pattern=dit
+	Constrained: Pattern=ei, Pattern=zo'n, Pattern=het, Pattern=kop, Pattern=weer
+Turn ID=1| B | B : dan opsteken er een rechthoekig plank uit en een ja
+	Free: Pattern=uit, Pattern=dan opsteken er een, Pattern=en een, Pattern=rechthoekig, Pattern=ja
+	Constrained: Pattern=dan, Pattern=een, Pattern=en
+Turn ID=2| A | A : kegel bowlingding
+	Free: Pattern=kegel
+	Constrained: 
+Turn ID=3| B | B : ja zo kunnen je het noemen ja en het lijken een soort driehoekig dinge naar de linkerkant
+	Free: Pattern=ja, Pattern=een, Pattern=de linkerkant, Pattern=het, Pattern=en
+	Constrained: 
+Turn ID=4| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=5| A | A : ja ja ja
+	Free: Pattern=ja ja
+	Constrained: Pattern=ja
+Turn ID=6| A | A : ja oké
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=7| A | A : bij mij zijn dat veertien
+	Free: Pattern=dat, Pattern=zijn
+	Constrained: 
+Turn ID=8| A | A : deze hebben weer zo'n ei aan de voorkant van het kop
+	Free: Pattern=ei aan de voorkant, Pattern=weer zo'n ei, Pattern=het kop, Pattern=hebben
+	Constrained: Pattern=ei, Pattern=zo'n, Pattern=aan de, Pattern=het, Pattern=kop, Pattern=weer
+Turn ID=9| A | A : en dan opsteken er een gewoon een normaal rechthoekig balk uit
+	Free: Pattern=een, Pattern=balk uit, Pattern=dan opsteken er een, Pattern=en, Pattern=rechthoekig balk
+	Constrained: Pattern=rechthoekig, Pattern=uit, Pattern=dan, Pattern=een, Pattern=balk
+Turn ID=10| A | A : en weer die kegelvorm op zijn kop
+	Free: Pattern=op, Pattern=kop, Pattern=die, Pattern=en, Pattern=zijn, Pattern=weer
+	Constrained: 
+Turn ID=11| A | A : en dan links nog een klein driehoekachtig balk
+	Free: Pattern=nog een, Pattern=dan, Pattern=balk, Pattern=en
+	Constrained: Pattern=een
+Turn ID=12| B | B : ja dat zijn N
+	Free: Pattern=dat, Pattern=ja, Pattern=zijn
+	Constrained: 
+Turn ID=13| B | B : dit zijn die met het ei erop aan de rechterkant een balk steken uit en die kegel
+	Free: Pattern=ei, Pattern=een, Pattern=die kegel, Pattern=het, Pattern=balk, Pattern=met, Pattern=die, Pattern=en, Pattern=dit zijn, Pattern=uit, Pattern=aan de
+	Constrained: Pattern=dit, Pattern=zijn, Pattern=die, Pattern=kegel
+Turn ID=14| A | A : ja ja ja
+	Free: Pattern=ja ja
+	Constrained: Pattern=ja
+Turn ID=15| B | B : en aan de linkerkant steken nog een balk uit
+	Free: Pattern=aan de linkerkant, Pattern=nog een, Pattern=balk uit, Pattern=en
+	Constrained: Pattern=een, Pattern=de linkerkant, Pattern=balk, Pattern=uit, Pattern=aan de
+Turn ID=16| A | A : negen
+	Free: 
+	Constrained: 
+Turn ID=17| A | A : dit zijn dat ei aan de voorkant weer en dan een normaal balk Erboven en een kegel
+	Free: Pattern=kegel, Pattern=dat, Pattern=ei aan de voorkant, Pattern=dan, Pattern=een, Pattern=balk, Pattern=en, Pattern=en een, Pattern=weer, Pattern=dit zijn
+	Constrained: Pattern=ei, Pattern=aan de, Pattern=een, Pattern=dit, Pattern=en, Pattern=zijn
+Turn ID=18| A | A : en dan nog een driehoek driehoekbalk aan de linkerkant
+	Free: Pattern=aan de linkerkant, Pattern=nog een, Pattern=dan, Pattern=en
+	Constrained: Pattern=aan de, Pattern=een, Pattern=de linkerkant
+Turn ID=19| B | B : ja dat zijn G
+	Free: Pattern=dat, Pattern=ja, Pattern=zijn
+	Constrained: 
+Turn ID=20| B | B : dit zijn even kijken een ei aan de voorkant
+	Free: Pattern=een ei aan de voorkant, Pattern=dit zijn
+	Constrained: Pattern=ei, Pattern=ei aan de voorkant, Pattern=aan de, Pattern=een, Pattern=zijn, Pattern=dit, Pattern=een ei
+Turn ID=21| B | B : en één rechthoekig balk eruit en één kegel eruit
+	Free: Pattern=kegel, Pattern=balk eruit, Pattern=eruit, Pattern=en, Pattern=rechthoekig balk
+	Constrained: Pattern=eruit, Pattern=rechthoekig, Pattern=balk
+Turn ID=22| B | B : en aan de linkerkant nog een balk
+	Free: Pattern=aan de linkerkant, Pattern=nog een, Pattern=balk, Pattern=en
+	Constrained: Pattern=aan de, Pattern=een, Pattern=de linkerkant
+Turn ID=23| A | A : vijf
+	Free: 
+	Constrained: 
+Turn ID=24| A | A : dit zijn met een ei voorop en dan zo'n normaal balk eruit die kegel en dan een nog een driehoek aan de linkerkant
+	Free: Pattern=balk eruit, Pattern=dan, Pattern=een, Pattern=die kegel, Pattern=een ei, Pattern=met, Pattern=en, Pattern=dit zijn, Pattern=aan de linkerkant, Pattern=zo'n, Pattern=nog een
+	Constrained: Pattern=kegel, Pattern=ei, Pattern=aan de, Pattern=een, Pattern=de linkerkant, Pattern=eruit, Pattern=dit, Pattern=balk, Pattern=die, Pattern=zijn
+Turn ID=25| A | A : driehoekbalk
+	Free: 
+	Constrained: 
+Turn ID=26| B | B : wat ? kunnen je het nog een keer zeggen
+	Free: Pattern=nog een, Pattern=het
+	Constrained: Pattern=een
+Turn ID=27| A | A : een ei aan de voorkant
+	Free: Pattern=een ei aan de voorkant
+	Constrained: Pattern=ei, Pattern=ei aan de voorkant, Pattern=aan de, Pattern=een, Pattern=een ei
+Turn ID=28| B | B : ja ja
+	Free: Pattern=ja ja
+	Constrained: Pattern=ja
+Turn ID=29| A | A : en dan een normaal rechthoekig balk erbovenuit
+	Free: Pattern=rechthoekig balk, Pattern=een, Pattern=dan, Pattern=en
+	Constrained: Pattern=rechthoekig, Pattern=balk
+Turn ID=30| B | B : en die kegel
+	Free: Pattern=die kegel, Pattern=en
+	Constrained: Pattern=die, Pattern=kegel
+Turn ID=31| A | A : en dan een omgekeerde kegel en dan nog een driehoekbalk aan de linkerkant
+	Free: Pattern=kegel, Pattern=nog een, Pattern=dan, Pattern=een, Pattern=en, Pattern=aan de linkerkant
+	Constrained: Pattern=aan de, Pattern=een, Pattern=de linkerkant
+Turn ID=32| B | B : ja ja dat zijn J
+	Free: Pattern=ja ja, Pattern=dat, Pattern=zijn
+	Constrained: Pattern=ja

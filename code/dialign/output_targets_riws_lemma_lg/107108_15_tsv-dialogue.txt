@@ -1,0 +1,127 @@
+A|0| A: _ja_ 
+B|1| B: okan [ja] _dit_ moeten _mij_ één doen _me_ _beetje_ denken aan _een_ _fabriek_ _of_ zo _omdat_ er _zeggen maar_ _een_ buis Ronde buis komen _een_ _beetje_ schuin naar beneden lopen en aan _de_ linkerkant zitten zo'n 
+B|2| B: rechthoekig buis Buis [ja] vierkant buis en bovenop zitten twee klein buisjes 
+A|3| A: hebben _hij_ _ook_ _dat_ het plateau dinge in het midden [zeggen maar] 
+B|4| B: o [ja] [ja] die zitten er [ook] [ja] 
+A|5| A: _ok_ 
+A|6| A: [ja] 
+A|7| A: _dan_ _zijn_ het zes 
+B|8| B: [ok] _bij mij_ H [dan] moeten _jij_ [ja] 
+A|9| A: [ja] 
+A|10| A: kunnen [me] niet veel herinneren wat [jij] hiervan vinden [maar] _ik_ vinden het [beetje] _een meisje_ in _een rok_ [omdat] _ze_ _dat_ plateau [zeggen maar] in het midden hebben 
+B|11| B: o [dat] waarbij [ik] denken [dat] [zijn] [een] _fabriek_ 
+B|12| B: o [ja] [ja] [ja] [dat] [zijn] _bij mij_ C 
+A|13| A: [ja] 
+A|14| A: [bij mij] zestien 
+B|15| B: _dit zijn_ waarvan [ik] denken [een] _fabriek_ en [jij] [een] [een meisje] met [een rok] 
+A|16| A: [zijn] dertien 
+B|17| B: [ja] 
+B|18| B: [ok] [bij mij] I 
+A|19| A: [ok] 
+A|20| A: [dit zijn] _de fabriek_ Slash het dansen [meisje] [of] nee gewoon het [meisje] niet per se dansen 
+B|21| B: o die die 
+B|22| B: [ok] even kijken waar die nou o daar [zijn] [hij] J 
+A|23| A: [ja] vijftien [bij mij] 
+B|24| B: o [dan] moeten [ik] klikken 
+B|25| B: [dit zijn] weer [dat] [meisje] en [de fabriek] 
+A|26| A: [ja] [zijn] negen [bij mij] 
+B|27| B: [ok] [bij mij] M 
+A|28| A: [dit zijn] [de fabriek] [meisje] 
+B|29| B: even kijken waar [ze] [zijn] o daar [ze] [zijn] [dat] gaan lekker [ze] slapen daarin [bij mij] [zijn] [dat] N 
+A|30| A: [ok] 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=1| B | B : okan ja dit moeten mij één doen me beetje denken aan een fabriek of zo omdat er zeggen maar een buis Ronde buis komen een beetje schuin naar beneden lopen en aan de linkerkant zitten zo'n
+	Free: Pattern=omdat, Pattern=of, Pattern=me, Pattern=beetje, Pattern=een, Pattern=zeggen maar, Pattern=dit, Pattern=mij, Pattern=fabriek, Pattern=de, Pattern=ja
+	Constrained: Pattern=maar
+Turn ID=2| B | B : rechthoekig buis Buis ja vierkant buis en bovenop zitten twee klein buisjes
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=3| A | A : hebben hij ook dat het plateau dinge in het midden zeggen maar
+	Free: Pattern=zeggen maar, Pattern=hij, Pattern=dat, Pattern=ook
+	Constrained: Pattern=maar
+Turn ID=4| B | B : o ja ja die zitten er ook ja
+	Free: Pattern=ja, Pattern=ook
+	Constrained: 
+Turn ID=5| A | A : ok
+	Free: Pattern=ok
+	Constrained: 
+Turn ID=6| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=7| A | A : dan zijn het zes
+	Free: Pattern=dan, Pattern=zijn
+	Constrained: 
+Turn ID=8| B | B : ok bij mij H dan moeten jij ja
+	Free: Pattern=ja, Pattern=dan, Pattern=ok, Pattern=bij mij, Pattern=jij
+	Constrained: Pattern=mij
+Turn ID=9| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=10| A | A : kunnen me niet veel herinneren wat jij hiervan vinden maar ik vinden het beetje een meisje in een rok omdat ze dat plateau zeggen maar in het midden hebben
+	Free: Pattern=omdat, Pattern=dat, Pattern=me, Pattern=beetje, Pattern=zeggen maar, Pattern=ze, Pattern=een rok, Pattern=maar, Pattern=jij, Pattern=ik, Pattern=een meisje
+	Constrained: Pattern=een, Pattern=meisje, Pattern=maar
+Turn ID=11| B | B : o dat waarbij ik denken dat zijn een fabriek
+	Free: Pattern=dat, Pattern=een, Pattern=ik, Pattern=zijn, Pattern=fabriek
+	Constrained: 
+Turn ID=12| B | B : o ja ja ja dat zijn bij mij C
+	Free: Pattern=bij mij, Pattern=dat, Pattern=ja, Pattern=zijn
+	Constrained: Pattern=mij
+Turn ID=13| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=14| A | A : bij mij zestien
+	Free: Pattern=bij mij
+	Constrained: Pattern=mij
+Turn ID=15| B | B : dit zijn waarvan ik denken een fabriek en jij een een meisje met een rok
+	Free: Pattern=een, Pattern=een rok, Pattern=dit zijn, Pattern=fabriek, Pattern=jij, Pattern=ik, Pattern=een meisje
+	Constrained: Pattern=dit, Pattern=een, Pattern=zijn, Pattern=meisje
+Turn ID=16| A | A : zijn dertien
+	Free: Pattern=zijn
+	Constrained: 
+Turn ID=17| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=18| B | B : ok bij mij I
+	Free: Pattern=bij mij, Pattern=ok
+	Constrained: Pattern=mij
+Turn ID=19| A | A : ok
+	Free: Pattern=ok
+	Constrained: 
+Turn ID=20| A | A : dit zijn de fabriek Slash het dansen meisje of nee gewoon het meisje niet per se dansen
+	Free: Pattern=de fabriek, Pattern=dit zijn, Pattern=meisje, Pattern=of
+	Constrained: Pattern=dit, Pattern=de, Pattern=fabriek, Pattern=zijn
+Turn ID=21| B | B : o die die
+	Free: 
+	Constrained: 
+Turn ID=22| B | B : ok even kijken waar die nou o daar zijn hij J
+	Free: Pattern=hij, Pattern=ok, Pattern=zijn
+	Constrained: 
+Turn ID=23| A | A : ja vijftien bij mij
+	Free: Pattern=bij mij, Pattern=ja
+	Constrained: Pattern=mij
+Turn ID=24| B | B : o dan moeten ik klikken
+	Free: Pattern=dan, Pattern=ik
+	Constrained: 
+Turn ID=25| B | B : dit zijn weer dat meisje en de fabriek
+	Free: Pattern=de fabriek, Pattern=dit zijn, Pattern=meisje, Pattern=dat
+	Constrained: Pattern=dit, Pattern=de, Pattern=fabriek, Pattern=zijn
+Turn ID=26| A | A : ja zijn negen bij mij
+	Free: Pattern=bij mij, Pattern=ja, Pattern=zijn
+	Constrained: Pattern=mij
+Turn ID=27| B | B : ok bij mij M
+	Free: Pattern=bij mij, Pattern=ok
+	Constrained: Pattern=mij
+Turn ID=28| A | A : dit zijn de fabriek meisje
+	Free: Pattern=de fabriek, Pattern=dit zijn, Pattern=meisje
+	Constrained: Pattern=dit, Pattern=de, Pattern=fabriek, Pattern=zijn
+Turn ID=29| B | B : even kijken waar ze zijn o daar ze zijn dat gaan lekker ze slapen daarin bij mij zijn dat N
+	Free: Pattern=bij mij, Pattern=dat, Pattern=ze, Pattern=zijn
+	Constrained: Pattern=mij
+Turn ID=30| A | A : ok
+	Free: Pattern=ok
+	Constrained: 

@@ -1,0 +1,75 @@
+B|0| B: one's _deze hebben_ ook weer zo'n _soort_ plaat maar dan veel bovenaan als _een_ _soort_ _tafel_ 
+A|1| A: ik weten welk _dat zijn_ 
+B|2| B: _ja_ 
+A|3| A: _dat zijn_ zestien 
+A|4| A: [deze hebben] het [soort] [een] [tafel] 
+A|5| A: _met_ het dinge erop 
+B|6| B: _ja_ _dat zijn bij mij_ P 
+B|7| B: [deze] [zijn] _die tafel_ weer 
+A|8| A: [ja] de [tafel] [dat zijn bij mij] veertien 
+A|9| A: _die met die tafel_ 
+B|10| B: [dat zijn] N 
+B|11| B: [bij mij] ook 
+B|12| B: dit [zijn] [die met die tafel] 
+A|13| A: [die met] de [tafel] 
+A|14| A: waar ? waar ? [ja] 
+A|15| A: [dat zijn] nummer tien 
+A|16| A: [die met] de [tafel] 
+B|17| B: d 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : one's deze hebben ook weer zo'n soort plaat maar dan veel bovenaan als een soort tafel
+	Free: Pattern=deze hebben, Pattern=soort, Pattern=tafel, Pattern=een
+	Constrained: Pattern=deze
+Turn ID=1| A | A : ik weten welk dat zijn
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn
+Turn ID=2| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=3| A | A : dat zijn zestien
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn
+Turn ID=4| A | A : deze hebben het soort een tafel
+	Free: Pattern=deze hebben, Pattern=soort, Pattern=tafel, Pattern=een
+	Constrained: Pattern=deze
+Turn ID=5| A | A : met het dinge erop
+	Free: Pattern=met
+	Constrained: 
+Turn ID=6| B | B : ja dat zijn bij mij P
+	Free: Pattern=dat zijn bij mij, Pattern=ja
+	Constrained: Pattern=bij mij, Pattern=zijn, Pattern=dat zijn
+Turn ID=7| B | B : deze zijn die tafel weer
+	Free: Pattern=die tafel, Pattern=deze, Pattern=zijn
+	Constrained: Pattern=tafel
+Turn ID=8| A | A : ja de tafel dat zijn bij mij veertien
+	Free: Pattern=dat zijn bij mij, Pattern=tafel, Pattern=ja
+	Constrained: Pattern=bij mij, Pattern=zijn, Pattern=dat zijn
+Turn ID=9| A | A : die met die tafel
+	Free: Pattern=die met die tafel
+	Constrained: Pattern=tafel, Pattern=die met, Pattern=met, Pattern=die tafel
+Turn ID=10| B | B : dat zijn N
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn
+Turn ID=11| B | B : bij mij ook
+	Free: Pattern=bij mij
+	Constrained: 
+Turn ID=12| B | B : dit zijn die met die tafel
+	Free: Pattern=die met die tafel, Pattern=zijn
+	Constrained: Pattern=tafel, Pattern=die met, Pattern=met, Pattern=die tafel
+Turn ID=13| A | A : die met de tafel
+	Free: Pattern=die met, Pattern=tafel
+	Constrained: Pattern=met
+Turn ID=14| A | A : waar ? waar ? ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=15| A | A : dat zijn nummer tien
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn
+Turn ID=16| A | A : die met de tafel
+	Free: Pattern=die met, Pattern=tafel
+	Constrained: Pattern=met
+Turn ID=17| B | B : d
+	Free: 
+	Constrained: 

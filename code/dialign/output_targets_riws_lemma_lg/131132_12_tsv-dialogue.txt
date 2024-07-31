@@ -1,0 +1,143 @@
+A|0| A: deze _ik_ _ik_ beschrijfen hem als _zeggen maar_ _zijn_ _een_ _dakraam_ _die_ _die_ licht weergeven 
+A|1| A: op op _het_ blok _zeggen maar_ 
+B|2| B: _ja_ _dat zijn_ bij mij L 
+B|3| B: _met_ zo aan _de_ zijkant nog zo'n soort _dienblad_ 
+A|4| A: [ja] _hebben_ _een_ leuk [ja] 
+B|5| B: [ja] 
+B|6| B: [ja] 
+B|7| B: _oké_ _dat zijn_ L 
+A|8| A: [ja] 
+B|9| B: _oké_ dit [zijn] [die] _met_ _dat_ oberdienblaad _en_ _dat_ _dakraam met_ _dat_ schijnsel 
+A|10| A: [ja] 
+A|11| A: [dat zijn] 
+B|12| B: [ik] vinden [het] [een] beetje zo'n Pacmandingetje wat daaronder zitten [maar] 
+A|13| A: Pacman 
+B|14| B: [ja] omdat [die] omdat [die] zo driekwart rond [zijn] [zeggen maar] [dat] [die] zo 
+A|15| A: leuk 
+B|16| B: [maar] 
+A|17| A: juist [ja] 
+A|18| A: [dat zijn] [het] [dakraam met] [het] [dienblad] 
+B|19| B: [ja] [die] 
+A|20| A: [dat zijn] [de] Pacman [oké] 
+A|21| A: [zijn] nummer zeven 
+A|22| A: [zijn] [het] [dakraam] [en] _en het_ [dienblad] 
+B|23| B: [ja] 
+B|24| B: [en het] [die] 
+B|25| B: zonder te praten lukken [het] 
+A|26| A: [ja] 
+B|27| B: [dat zijn] bij mij C 
+B|28| B: nu [hebben] [ik] [die] [met] [dat] [dienblad] [en] [dat] [dakraam] 
+A|29| A: nummer één 
+A|30| A: [oké] 
+A|31| A: [ik] [hebben] [het] [dienblad] 
+B|32| B: [ja] [die] [dat zijn] A 
+B|33| B: nu [hebben] [ik] [die] [met] [dat] [dienblad] [en] [dat] [dakraam] 
+A|34| A: [ja] nummer dertien 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : deze ik ik beschrijfen hem als zeggen maar zijn een dakraam die die licht weergeven
+	Free: Pattern=dakraam, Pattern=een, Pattern=zeggen maar, Pattern=die, Pattern=ik, Pattern=zijn
+	Constrained: Pattern=maar
+Turn ID=1| A | A : op op het blok zeggen maar
+	Free: Pattern=zeggen maar, Pattern=het
+	Constrained: Pattern=maar
+Turn ID=2| B | B : ja dat zijn bij mij L
+	Free: Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=3| B | B : met zo aan de zijkant nog zo'n soort dienblad
+	Free: Pattern=de, Pattern=dienblad, Pattern=met
+	Constrained: 
+Turn ID=4| A | A : ja hebben een leuk ja
+	Free: Pattern=hebben, Pattern=een, Pattern=ja
+	Constrained: 
+Turn ID=5| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=6| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=7| B | B : oké dat zijn L
+	Free: Pattern=dat zijn, Pattern=oké
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=8| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=9| B | B : oké dit zijn die met dat oberdienblaad en dat dakraam met dat schijnsel
+	Free: Pattern=dat, Pattern=dakraam met, Pattern=met, Pattern=die, Pattern=oké, Pattern=en, Pattern=zijn
+	Constrained: Pattern=dakraam, Pattern=met
+Turn ID=10| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=11| A | A : dat zijn
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=12| B | B : ik vinden het een beetje zo'n Pacmandingetje wat daaronder zitten maar
+	Free: Pattern=een, Pattern=ik, Pattern=het, Pattern=maar
+	Constrained: 
+Turn ID=13| A | A : Pacman
+	Free: 
+	Constrained: 
+Turn ID=14| B | B : ja omdat die omdat die zo driekwart rond zijn zeggen maar dat die zo
+	Free: Pattern=dat, Pattern=ja, Pattern=zeggen maar, Pattern=die, Pattern=zijn
+	Constrained: Pattern=maar
+Turn ID=15| A | A : leuk
+	Free: 
+	Constrained: 
+Turn ID=16| B | B : maar
+	Free: Pattern=maar
+	Constrained: 
+Turn ID=17| A | A : juist ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=18| A | A : dat zijn het dakraam met het dienblad
+	Free: Pattern=dat zijn, Pattern=dakraam met, Pattern=het, Pattern=dienblad
+	Constrained: Pattern=zijn, Pattern=dat, Pattern=dakraam, Pattern=met
+Turn ID=19| B | B : ja die
+	Free: Pattern=ja, Pattern=die
+	Constrained: 
+Turn ID=20| A | A : dat zijn de Pacman oké
+	Free: Pattern=dat zijn, Pattern=oké, Pattern=de
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=21| A | A : zijn nummer zeven
+	Free: Pattern=zijn
+	Constrained: 
+Turn ID=22| A | A : zijn het dakraam en en het dienblad
+	Free: Pattern=dakraam, Pattern=en het, Pattern=het, Pattern=dienblad, Pattern=en, Pattern=zijn
+	Constrained: Pattern=en, Pattern=het
+Turn ID=23| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=24| B | B : en het die
+	Free: Pattern=en het, Pattern=die
+	Constrained: Pattern=en, Pattern=het
+Turn ID=25| B | B : zonder te praten lukken het
+	Free: Pattern=het
+	Constrained: 
+Turn ID=26| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=27| B | B : dat zijn bij mij C
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=28| B | B : nu hebben ik die met dat dienblad en dat dakraam
+	Free: Pattern=dat, Pattern=dakraam, Pattern=hebben, Pattern=met, Pattern=die, Pattern=dienblad, Pattern=ik, Pattern=en
+	Constrained: 
+Turn ID=29| A | A : nummer één
+	Free: 
+	Constrained: 
+Turn ID=30| A | A : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=31| A | A : ik hebben het dienblad
+	Free: Pattern=hebben, Pattern=ik, Pattern=het, Pattern=dienblad
+	Constrained: 
+Turn ID=32| B | B : ja die dat zijn A
+	Free: Pattern=dat zijn, Pattern=ja, Pattern=die
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=33| B | B : nu hebben ik die met dat dienblad en dat dakraam
+	Free: Pattern=dat, Pattern=dakraam, Pattern=hebben, Pattern=met, Pattern=die, Pattern=dienblad, Pattern=ik, Pattern=en
+	Constrained: 
+Turn ID=34| A | A : ja nummer dertien
+	Free: Pattern=ja
+	Constrained: 

@@ -1,0 +1,119 @@
+A|0| A: _ja_ deze _kop_ 
+A|1| A: soort _van_ _dienblad_ wat eruit opsteken _aan de rechterkant_ _en dan_ een beetje onder _het_ midden 
+A|2| A: _en dan_ links een soort _ja_ _raar_ vormp _en_ daar steken een soort _spijker_ uit _zeggen_ _maar_ 
+B|3| B: _ja ja_ 
+B|4| B: _dat zijn_ bij mij _nummer_ L 
+B|5| B: dit _zijn_ die _met_ _dat_ [dienblad] [van] jou 
+B|6| B: _dat_ die [aan de rechterkant] [van] [het] [kop] [en dan] die _met_ die [spijker] in die arm 
+B|7| B: die zo _met_ _dat_ [raar] vorm [van] die arm 
+A|8| A: [spijker] 
+B|9| B: [ja] vooral _dat_ [dienblad] rechts _zijn_ kenmerken 
+A|10| A: [ja [ja] [ja] [ja] ja] nee _ik_ _ik_ [zijn] [ja ja] 
+A|11| A: [dat zijn] [nummer] zeven 
+A|12| A: [dat] [kop] [met] [het] [dienblad] 
+A|13| A: [en] [het] stuk iets [met] een [spijker] erin 
+B|14| B: [ja] 
+B|15| B: [dat zijn] C 
+B|16| B: dit [zijn] [dat] ding [met] [dat] [dienblad] [aan de rechterkant] 
+B|17| B: [met] die [spijker] in [zijn] arm 
+B|18| B: zullen [ik] [maar] [zeggen] 
+A|19| A: [ja] 
+A|20| A: [dat zijn] [nummer] één 
+A|21| A: [het] beker [met] [het] [dienblad] [en] _de spijker_ 
+B|22| B: [ja] 
+B|23| B: A 
+B|24| B: _dienblad met [de_ spijker] in [de] arm 
+A|25| A: [dienblad met de] 
+B|26| B: [de] [dat] armp waar [dan] die [spijker] zo in zitten 
+A|27| A: [ja] 
+A|28| A: [nummer] dertien 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : ja deze kop
+	Free: Pattern=ja, Pattern=kop
+	Constrained: 
+Turn ID=1| A | A : soort van dienblad wat eruit opsteken aan de rechterkant en dan een beetje onder het midden
+	Free: Pattern=en dan, Pattern=het, Pattern=aan de rechterkant, Pattern=dienblad, Pattern=van
+	Constrained: Pattern=dan, Pattern=de, Pattern=en
+Turn ID=2| A | A : en dan links een soort ja raar vormp en daar steken een soort spijker uit zeggen maar
+	Free: Pattern=ja, Pattern=en dan, Pattern=zeggen, Pattern=en, Pattern=maar, Pattern=spijker, Pattern=raar
+	Constrained: Pattern=en, Pattern=dan
+Turn ID=3| B | B : ja ja
+	Free: Pattern=ja ja
+	Constrained: Pattern=ja
+Turn ID=4| B | B : dat zijn bij mij nummer L
+	Free: Pattern=dat zijn, Pattern=nummer
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=5| B | B : dit zijn die met dat dienblad van jou
+	Free: Pattern=dat, Pattern=met, Pattern=dienblad, Pattern=van, Pattern=zijn
+	Constrained: 
+Turn ID=6| B | B : dat die aan de rechterkant van het kop en dan die met die spijker in die arm
+	Free: Pattern=dat, Pattern=en dan, Pattern=het, Pattern=kop, Pattern=met, Pattern=aan de rechterkant, Pattern=van, Pattern=spijker
+	Constrained: Pattern=dan, Pattern=de, Pattern=en
+Turn ID=7| B | B : die zo met dat raar vorm van die arm
+	Free: Pattern=dat, Pattern=raar, Pattern=van, Pattern=met
+	Constrained: 
+Turn ID=8| A | A : spijker
+	Free: Pattern=spijker
+	Constrained: 
+Turn ID=9| B | B : ja vooral dat dienblad rechts zijn kenmerken
+	Free: Pattern=dat, Pattern=ja, Pattern=zijn, Pattern=dienblad
+	Constrained: 
+Turn ID=10| A | A : ja ja ja ja ja nee ik ik zijn ja ja
+	Free: Pattern=ja ja, Pattern=ik, Pattern=zijn
+	Constrained: Pattern=ja
+Turn ID=11| A | A : dat zijn nummer zeven
+	Free: Pattern=dat zijn, Pattern=nummer
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=12| A | A : dat kop met het dienblad
+	Free: Pattern=dat, Pattern=het, Pattern=kop, Pattern=met, Pattern=dienblad
+	Constrained: 
+Turn ID=13| A | A : en het stuk iets met een spijker erin
+	Free: Pattern=en, Pattern=het, Pattern=spijker, Pattern=met
+	Constrained: 
+Turn ID=14| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=15| B | B : dat zijn C
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=16| B | B : dit zijn dat ding met dat dienblad aan de rechterkant
+	Free: Pattern=dat, Pattern=met, Pattern=aan de rechterkant, Pattern=dienblad, Pattern=zijn
+	Constrained: Pattern=de
+Turn ID=17| B | B : met die spijker in zijn arm
+	Free: Pattern=zijn, Pattern=spijker, Pattern=met
+	Constrained: 
+Turn ID=18| B | B : zullen ik maar zeggen
+	Free: Pattern=ik, Pattern=zeggen, Pattern=maar
+	Constrained: 
+Turn ID=19| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=20| A | A : dat zijn nummer één
+	Free: Pattern=dat zijn, Pattern=nummer
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=21| A | A : het beker met het dienblad en de spijker
+	Free: Pattern=de spijker, Pattern=het, Pattern=met, Pattern=dienblad, Pattern=en
+	Constrained: Pattern=de, Pattern=spijker
+Turn ID=22| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=23| B | B : A
+	Free: 
+	Constrained: 
+Turn ID=24| B | B : dienblad met de spijker in de arm
+	Free: Pattern=dienblad met de, Pattern=de spijker, Pattern=de
+	Constrained: Pattern=dienblad, Pattern=de, Pattern=met, Pattern=spijker
+Turn ID=25| A | A : dienblad met de
+	Free: Pattern=dienblad met de
+	Constrained: Pattern=de, Pattern=dienblad, Pattern=met
+Turn ID=26| B | B : de dat armp waar dan die spijker zo in zitten
+	Free: Pattern=dat, Pattern=de, Pattern=dan, Pattern=spijker
+	Constrained: 
+Turn ID=27| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=28| A | A : nummer dertien
+	Free: Pattern=nummer
+	Constrained: 

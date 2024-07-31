@@ -1,0 +1,103 @@
+B|0| B: _dit zijn_ _staan_ _op_ een _draaien_ pilaar _die_ _zijn zo_ _ik weten_ niet , _draaien_ 
+A|1| A: [ik weten] hem al _dat zijn_ _de_ enig _denken ik_ [die] _er_ [zijn zo] _ja_ 
+A|2| A: twaalf 
+B|3| B: _en_ drie vierkant erbovenuit steken 
+B|4| B: [ja] [dat zijn] [er] maar één [denken ik] 
+A|5| A: deze [zijn] _met_ [die] draaiing _waar_ [die] [op] [staan] 
+A|6| A: [ja] 
+A|7| A: [en] _dan_ hebben _je_ [dat] driehoekje _waar_ [dat] _dan_ weer [op] staat 
+B|8| B: drie ding aan [de] bovenkant zeggen [je] 
+B|9| B: [met] een knikje 
+B|10| B: [ja] [ja] [ja] 
+B|11| B: oké 
+B|12| B: H [dan] 
+B|13| B: [ik] inzien nou pas [dat] het een _driehoek_ [zijn] [ja] 
+A|14| A: [draaien] poot [met] [die] driehoekje eronder 
+A|15| A: vijf 
+A|16| A: [dit zijn] [met] [de] draaiing [en] _waar_ [die] [op] staat [en] [dat] driehoekje _waar_ [die] [dan] weer [op] staat 
+A|17| A: [draaien] poot [met] [driehoek] dus [die] stoon steun [dat zijn] nummer zeven 
+A|18| A: [met] [de] gedraaide [en] [dan] daaronder [dat] [driehoek] 
+B|19| B: bak [met] [draaien] pilaar , daar [staan] [op] , [met] een [driehoek] onderop 
+B|20| B: [waar] [zijn] hij 
+B|21| B: [ja] M 
+B|22| B: [draaien] paal leunlen hij [op] , [op] een [driehoek] onderop 
+B|23| B: [draaien] pilaar 
+B|24| B: A 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : dit zijn staan op een draaien pilaar die zijn zo ik weten niet , draaien
+	Free: Pattern=op, Pattern=draaien, Pattern=staan, Pattern=die, Pattern=ik weten, Pattern=zijn zo, Pattern=dit zijn
+	Constrained: Pattern=ik, Pattern=zijn
+Turn ID=1| A | A : ik weten hem al dat zijn de enig denken ik die er zijn zo ja
+	Free: Pattern=dat zijn, Pattern=denken ik, Pattern=die, Pattern=ik weten, Pattern=er, Pattern=zijn zo, Pattern=de, Pattern=ja
+	Constrained: Pattern=dat, Pattern=zijn, Pattern=ik
+Turn ID=2| A | A : twaalf
+	Free: 
+	Constrained: 
+Turn ID=3| B | B : en drie vierkant erbovenuit steken
+	Free: Pattern=en
+	Constrained: 
+Turn ID=4| B | B : ja dat zijn er maar één denken ik
+	Free: Pattern=dat zijn, Pattern=denken ik, Pattern=ja, Pattern=er
+	Constrained: Pattern=ik, Pattern=dat, Pattern=zijn
+Turn ID=5| A | A : deze zijn met die draaiing waar die op staan
+	Free: Pattern=waar, Pattern=op, Pattern=staan, Pattern=met, Pattern=die, Pattern=zijn
+	Constrained: 
+Turn ID=6| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=7| A | A : en dan hebben je dat driehoekje waar dat dan weer op staat
+	Free: Pattern=dat, Pattern=waar, Pattern=op, Pattern=dan, Pattern=en, Pattern=je
+	Constrained: 
+Turn ID=8| B | B : drie ding aan de bovenkant zeggen je
+	Free: Pattern=je, Pattern=de
+	Constrained: 
+Turn ID=9| B | B : met een knikje
+	Free: Pattern=met
+	Constrained: 
+Turn ID=10| B | B : ja ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=11| B | B : oké
+	Free: 
+	Constrained: 
+Turn ID=12| B | B : H dan
+	Free: Pattern=dan
+	Constrained: 
+Turn ID=13| B | B : ik inzien nou pas dat het een driehoek zijn ja
+	Free: Pattern=driehoek, Pattern=dat, Pattern=ja, Pattern=ik, Pattern=zijn
+	Constrained: 
+Turn ID=14| A | A : draaien poot met die driehoekje eronder
+	Free: Pattern=draaien, Pattern=die, Pattern=met
+	Constrained: 
+Turn ID=15| A | A : vijf
+	Free: 
+	Constrained: 
+Turn ID=16| A | A : dit zijn met de draaiing en waar die op staat en dat driehoekje waar die dan weer op staat
+	Free: Pattern=dat, Pattern=de, Pattern=waar, Pattern=op, Pattern=dan, Pattern=met, Pattern=die, Pattern=en, Pattern=dit zijn
+	Constrained: Pattern=zijn
+Turn ID=17| A | A : draaien poot met driehoek dus die stoon steun dat zijn nummer zeven
+	Free: Pattern=driehoek, Pattern=dat zijn, Pattern=draaien, Pattern=met, Pattern=die
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=18| A | A : met de gedraaide en dan daaronder dat driehoek
+	Free: Pattern=driehoek, Pattern=dat, Pattern=de, Pattern=dan, Pattern=met, Pattern=en
+	Constrained: 
+Turn ID=19| B | B : bak met draaien pilaar , daar staan op , met een driehoek onderop
+	Free: Pattern=driehoek, Pattern=op, Pattern=draaien, Pattern=staan, Pattern=met
+	Constrained: 
+Turn ID=20| B | B : waar zijn hij
+	Free: Pattern=zijn, Pattern=waar
+	Constrained: 
+Turn ID=21| B | B : ja M
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=22| B | B : draaien paal leunlen hij op , op een driehoek onderop
+	Free: Pattern=draaien, Pattern=driehoek, Pattern=op
+	Constrained: 
+Turn ID=23| B | B : draaien pilaar
+	Free: Pattern=draaien
+	Constrained: 
+Turn ID=24| B | B : A
+	Free: 
+	Constrained: 

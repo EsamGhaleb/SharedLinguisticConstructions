@@ -1,0 +1,127 @@
+A|0| A: even kijken ik _hebben een_ groot _driehoek_ erbovenop staan 
+A|1| A: _en_ aan linkerkant _een_ uitsteeksel _dat_ steeds breder worden 
+A|2| A: _linksonder_ _een_ blauw rond 
+A|3| A: _en_ rechts ook _een_ uitsteeksel wat 
+A|4| A: _ja_ zoiets 
+A|5| A: _de_ steeds bred worden 
+A|6| A: _ja_ 
+A|7| A: _een_ 
+A|8| A: ik _hebben_ die _een_ met die _driehoek bovenop_ 
+A|9| A: _en_ die _kogel_ aan _de_ linkerkant 
+B|10| B: [ja] 
+B|11| B: misvormde kubus 
+B|12| B: [ja] [bovenop] [een] [driehoek] 
+B|13| B: [ja] 
+B|14| B: [ja] [dat] zijn I 
+A|15| A: [ja] 
+A|16| A: zeven 
+A|17| A: ik _hebben_ die pyramide _bovenop en_ _de_ _kogel_ 
+A|18| A: _en_ _de_ _kogel links_ 
+B|19| B: deze [hebben een] [driehoek bovenop] 
+B|20| B: [en] [ja] klein cirkel [linksonder] 
+B|21| B: ding , spijker , [kogel] [ja] 
+B|22| B: [ja] [kogel] [ja] 
+A|23| A: [ja] _de_ [kogel] 
+A|24| A: vijfteen 
+B|25| B: [en] [een] [kogel links] 
+B|26| B: J 
+B|27| B: deze [hebben] zo'n scherp [driehoek [bovenop] en] [een] [kogel links] 
+B|28| B: [kogel] 
+B|29| B: A 
+B|30| B: deze [hebben] [de] scherp [driehoek [bovenop] en] [een] [kogel links] 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : even kijken ik hebben een groot driehoek erbovenop staan
+	Free: Pattern=hebben een, Pattern=driehoek
+	Constrained: Pattern=hebben, Pattern=een
+Turn ID=1| A | A : en aan linkerkant een uitsteeksel dat steeds breder worden
+	Free: Pattern=dat, Pattern=een, Pattern=en
+	Constrained: 
+Turn ID=2| A | A : linksonder een blauw rond
+	Free: Pattern=een, Pattern=linksonder
+	Constrained: 
+Turn ID=3| A | A : en rechts ook een uitsteeksel wat
+	Free: Pattern=een, Pattern=en
+	Constrained: 
+Turn ID=4| A | A : ja zoiets
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=5| A | A : de steeds bred worden
+	Free: Pattern=de
+	Constrained: 
+Turn ID=6| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=7| A | A : een
+	Free: Pattern=een
+	Constrained: 
+Turn ID=8| A | A : ik hebben die een met die driehoek bovenop
+	Free: Pattern=driehoek bovenop, Pattern=hebben, Pattern=een
+	Constrained: Pattern=driehoek, Pattern=bovenop
+Turn ID=9| A | A : en die kogel aan de linkerkant
+	Free: Pattern=kogel, Pattern=de, Pattern=en
+	Constrained: 
+Turn ID=10| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=11| B | B : misvormde kubus
+	Free: 
+	Constrained: 
+Turn ID=12| B | B : ja bovenop een driehoek
+	Free: Pattern=een, Pattern=ja, Pattern=driehoek, Pattern=bovenop
+	Constrained: 
+Turn ID=13| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=14| B | B : ja dat zijn I
+	Free: Pattern=dat, Pattern=ja
+	Constrained: 
+Turn ID=15| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=16| A | A : zeven
+	Free: 
+	Constrained: 
+Turn ID=17| A | A : ik hebben die pyramide bovenop en de kogel
+	Free: Pattern=bovenop en, Pattern=kogel, Pattern=hebben, Pattern=de
+	Constrained: Pattern=bovenop, Pattern=en
+Turn ID=18| A | A : en de kogel links
+	Free: Pattern=kogel links, Pattern=de, Pattern=en
+	Constrained: Pattern=kogel
+Turn ID=19| B | B : deze hebben een driehoek bovenop
+	Free: Pattern=hebben een, Pattern=driehoek bovenop
+	Constrained: Pattern=hebben, Pattern=een, Pattern=driehoek, Pattern=bovenop
+Turn ID=20| B | B : en ja klein cirkel linksonder
+	Free: Pattern=ja, Pattern=en, Pattern=linksonder
+	Constrained: 
+Turn ID=21| B | B : ding , spijker , kogel ja
+	Free: Pattern=kogel, Pattern=ja
+	Constrained: 
+Turn ID=22| B | B : ja kogel ja
+	Free: Pattern=kogel, Pattern=ja
+	Constrained: 
+Turn ID=23| A | A : ja de kogel
+	Free: Pattern=kogel, Pattern=ja, Pattern=de
+	Constrained: 
+Turn ID=24| A | A : vijfteen
+	Free: 
+	Constrained: 
+Turn ID=25| B | B : en een kogel links
+	Free: Pattern=kogel links, Pattern=een, Pattern=en
+	Constrained: Pattern=kogel
+Turn ID=26| B | B : J
+	Free: 
+	Constrained: 
+Turn ID=27| B | B : deze hebben zo'n scherp driehoek bovenop en een kogel links
+	Free: Pattern=een, Pattern=hebben, Pattern=kogel links, Pattern=driehoek bovenop, Pattern=bovenop en
+	Constrained: Pattern=bovenop, Pattern=en, Pattern=driehoek, Pattern=kogel
+Turn ID=28| B | B : kogel
+	Free: Pattern=kogel
+	Constrained: 
+Turn ID=29| B | B : A
+	Free: 
+	Constrained: 
+Turn ID=30| B | B : deze hebben de scherp driehoek bovenop en een kogel links
+	Free: Pattern=de, Pattern=een, Pattern=hebben, Pattern=kogel links, Pattern=driehoek bovenop, Pattern=bovenop en
+	Constrained: Pattern=bovenop, Pattern=en, Pattern=driehoek, Pattern=kogel

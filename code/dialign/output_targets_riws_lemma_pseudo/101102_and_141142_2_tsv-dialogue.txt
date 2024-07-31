@@ -1,0 +1,115 @@
+A|0| A: _dit zijn_ vinden _ik_ _het_ veel ingewikkeld plaa om te omschrijven maar _ik_ _gaan_ mijn best doen 
+A|1| A: boven op _het kop_ staan _een_ _een_ soort _piramide met_ _een_ spits punt 
+A|2| A: _en dan_ aan _de_ linkerkant _zijn_ _een_ uitsteeksel _een_ beetje in _de_ vorm van _een_ soort oordopje _met_ _een_ vast 
+A|3| A: _oké_ 
+B|4| B: _ja_ 
+B|5| B: _ja_ 
+B|6| B: [ik] zien hem [het] [zijn] J 
+A|7| A: [ja] 
+A|8| A: nummer zes 
+B|9| B: nee 
+B|10| B: [dit zijn] weer [de] [een] [met] [de] [piramide met] [het kop] [met] [de] [piramide] erop 
+B|11| B: [en dan] dat [een] verrekijkerachtig uitsteekselt uitsteekseltje link 
+B|12| B: [en] nog [een] groot blok ervoor 
+B|13| B: of iets wat ervoor door moeten [gaan] 
+B|14| B: [oké] 
+A|15| A: [dit _zijn] de_ tovenaar 
+A|16| A: [met] [zijn] gek neus 
+B|17| B: [ja] 
+B|18| B: [ja] dat verrekijker 
+B|19| B: [zijn] E 
+A|20| A: tien 
+B|21| B: [het] [zijn] dus die [een] [met] [de] cilinder [en] [de] verrekijker 
+B|22| B: [ja] [piramide] [ja] 
+A|23| A: [dit _zijn] de_ tovenaar 
+A|24| A: tien 
+B|25| B: [piramide] 
+B|26| B: [ja] G 
+B|27| B: [het] [zijn de] [de] [piramide] [en] [de] [en] [de] verrekijker 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : dit zijn vinden ik het veel ingewikkeld plaa om te omschrijven maar ik gaan mijn best doen
+	Free: Pattern=dit zijn, Pattern=gaan, Pattern=het, Pattern=ik
+	Constrained: Pattern=zijn
+Turn ID=1| A | A : boven op het kop staan een een soort piramide met een spits punt
+	Free: Pattern=piramide met, Pattern=het kop, Pattern=een
+	Constrained: Pattern=piramide, Pattern=het, Pattern=met
+Turn ID=2| A | A : en dan aan de linkerkant zijn een uitsteeksel een beetje in de vorm van een soort oordopje met een vast
+	Free: Pattern=de, Pattern=en dan, Pattern=een, Pattern=met, Pattern=zijn
+	Constrained: Pattern=en
+Turn ID=3| A | A : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=4| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=5| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=6| B | B : ik zien hem het zijn J
+	Free: Pattern=zijn, Pattern=het, Pattern=ik
+	Constrained: 
+Turn ID=7| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=8| A | A : nummer zes
+	Free: 
+	Constrained: 
+Turn ID=9| B | B : nee
+	Free: 
+	Constrained: 
+Turn ID=10| B | B : dit zijn weer de een met de piramide met het kop met de piramide erop
+	Free: Pattern=de, Pattern=piramide, Pattern=het kop, Pattern=een, Pattern=met, Pattern=piramide met, Pattern=dit zijn
+	Constrained: Pattern=piramide, Pattern=zijn, Pattern=met, Pattern=het
+Turn ID=11| B | B : en dan dat een verrekijkerachtig uitsteekselt uitsteekseltje link
+	Free: Pattern=en dan, Pattern=een
+	Constrained: Pattern=en
+Turn ID=12| B | B : en nog een groot blok ervoor
+	Free: Pattern=en, Pattern=een
+	Constrained: 
+Turn ID=13| B | B : of iets wat ervoor door moeten gaan
+	Free: Pattern=gaan
+	Constrained: 
+Turn ID=14| B | B : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=15| A | A : dit zijn de tovenaar
+	Free: Pattern=zijn de, Pattern=dit zijn
+	Constrained: Pattern=zijn, Pattern=de
+Turn ID=16| A | A : met zijn gek neus
+	Free: Pattern=zijn, Pattern=met
+	Constrained: 
+Turn ID=17| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=18| B | B : ja dat verrekijker
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=19| B | B : zijn E
+	Free: Pattern=zijn
+	Constrained: 
+Turn ID=20| A | A : tien
+	Free: 
+	Constrained: 
+Turn ID=21| B | B : het zijn dus die een met de cilinder en de verrekijker
+	Free: Pattern=de, Pattern=een, Pattern=het, Pattern=met, Pattern=en, Pattern=zijn
+	Constrained: 
+Turn ID=22| B | B : ja piramide ja
+	Free: Pattern=ja, Pattern=piramide
+	Constrained: 
+Turn ID=23| A | A : dit zijn de tovenaar
+	Free: Pattern=zijn de, Pattern=dit zijn
+	Constrained: Pattern=zijn, Pattern=de
+Turn ID=24| A | A : tien
+	Free: 
+	Constrained: 
+Turn ID=25| B | B : piramide
+	Free: Pattern=piramide
+	Constrained: 
+Turn ID=26| B | B : ja G
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=27| B | B : het zijn de de piramide en de en de verrekijker
+	Free: Pattern=de, Pattern=piramide, Pattern=het, Pattern=en, Pattern=zijn de
+	Constrained: Pattern=zijn, Pattern=de

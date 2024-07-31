@@ -1,0 +1,139 @@
+A|0| A: rood 
+A|1| A: _ja_ 
+A|2| A: _en dan_ met _een driehoek_ onderaan 
+A|3| A: _oké_ 
+A|4| A: _oké_ welk _zijn_ _die_ 
+A|5| A: C vier 
+B|6| B: [oké] 
+B|7| B: deze dit ding staan zeggen maar veel op [een driehoek] 
+B|8| B: [en dan] [zijn] _het_ dat ding waarop [die] staan [zijn] [een] beetje _draaien_ 
+B|9| B: zeggen maar aan _de_ onderkant hebben je als basis zo'n [driehoek] 
+B|10| B: [ja] 
+B|11| B: boven blok 
+B|12| B: [ja] 
+A|13| A: [draaien] 
+A|14| A: met [het] [draaien] [draaien] been voet 
+A|15| A: [de] spiraal [ja] 
+A|16| A: achten 
+B|17| B: [ja] klopt dat denken ik ook al [ja] 
+B|18| B: A 
+A|19| A: [ja] 
+A|20| A: K tien 
+B|21| B: [het] [zijn] weer [die] beker zeggen maar [die] op zo'n [driehoek] staan 
+A|22| A: [draaien] voet 
+A|23| A: twee 
+A|24| A: yes 
+B|25| B: [ja] jij moeten drukken 
+A|26| A: [ja] 
+A|27| A: E vier 
+B|28| B: [ja] 
+B|29| B: L 
+A|30| A: Spiraalvoet 
+A|31| A: twee 
+B|32| B: weer [die] trofee op [de] [driehoek] 
+B|33| B: F 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : rood
+	Free: 
+	Constrained: 
+Turn ID=1| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=2| A | A : en dan met een driehoek onderaan
+	Free: Pattern=en dan, Pattern=een driehoek
+	Constrained: Pattern=een, Pattern=driehoek
+Turn ID=3| A | A : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=4| A | A : oké welk zijn die
+	Free: Pattern=oké, Pattern=die, Pattern=zijn
+	Constrained: 
+Turn ID=5| A | A : C vier
+	Free: 
+	Constrained: 
+Turn ID=6| B | B : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=7| B | B : deze dit ding staan zeggen maar veel op een driehoek
+	Free: Pattern=een driehoek
+	Constrained: Pattern=een, Pattern=driehoek
+Turn ID=8| B | B : en dan zijn het dat ding waarop die staan zijn een beetje draaien
+	Free: Pattern=en dan, Pattern=draaien, Pattern=een, Pattern=het, Pattern=die, Pattern=zijn
+	Constrained: 
+Turn ID=9| B | B : zeggen maar aan de onderkant hebben je als basis zo'n driehoek
+	Free: Pattern=de, Pattern=driehoek
+	Constrained: 
+Turn ID=10| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=11| B | B : boven blok
+	Free: 
+	Constrained: 
+Turn ID=12| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=13| A | A : draaien
+	Free: Pattern=draaien
+	Constrained: 
+Turn ID=14| A | A : met het draaien draaien been voet
+	Free: Pattern=draaien, Pattern=het
+	Constrained: 
+Turn ID=15| A | A : de spiraal ja
+	Free: Pattern=ja, Pattern=de
+	Constrained: 
+Turn ID=16| A | A : achten
+	Free: 
+	Constrained: 
+Turn ID=17| B | B : ja klopt dat denken ik ook al ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=18| B | B : A
+	Free: 
+	Constrained: 
+Turn ID=19| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=20| A | A : K tien
+	Free: 
+	Constrained: 
+Turn ID=21| B | B : het zijn weer die beker zeggen maar die op zo'n driehoek staan
+	Free: Pattern=het, Pattern=die, Pattern=zijn, Pattern=driehoek
+	Constrained: 
+Turn ID=22| A | A : draaien voet
+	Free: Pattern=draaien
+	Constrained: 
+Turn ID=23| A | A : twee
+	Free: 
+	Constrained: 
+Turn ID=24| A | A : yes
+	Free: 
+	Constrained: 
+Turn ID=25| B | B : ja jij moeten drukken
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=26| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=27| A | A : E vier
+	Free: 
+	Constrained: 
+Turn ID=28| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=29| B | B : L
+	Free: 
+	Constrained: 
+Turn ID=30| A | A : Spiraalvoet
+	Free: 
+	Constrained: 
+Turn ID=31| A | A : twee
+	Free: 
+	Constrained: 
+Turn ID=32| B | B : weer die trofee op de driehoek
+	Free: Pattern=de, Pattern=die, Pattern=driehoek
+	Constrained: 
+Turn ID=33| B | B : F
+	Free: 
+	Constrained: 

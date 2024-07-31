@@ -1,0 +1,67 @@
+B|0| B: one _ja_ deze hij hebben aan het _zijn_ ook weer zo'n zo'n kop natuurlijk aan _de_ voorkant een rond _en_ aan beide kant drie van _die_ kraal 
+A|1| A: beetje als _Pippi Langkousvlechtjes_ 
+B|2| B: _ja_ _ja_ precies _ja_ 
+A|3| A: [ja] 
+A|4| A: oké _dat zijn_ vijf _voor mij_ 
+A|5| A: _dit zijn_ degeen _met die _Pippi_ Langkousvlechtjes_ [en] _dat_ groot cirkel wel 
+B|6| B: yes [dat zijn] [voor mij] nummer J of letter J 
+B|7| B: [dit zijn] wederom _die [met_ die _Pippi] Langkous_ vlechtjes 
+A|8| A: check [dat zijn] elf 
+A|9| A: [dit zijn] [die met] _de Pippi Langkousvlechtjes_ 
+B|10| B: [ja] 
+B|11| B: [dat zijn] P [voor mij] 
+B|12| B: [dit zijn] weer [de Pippi Langkousvlechtjes] 
+A|13| A: [ja] [dat zijn] negen [voor mij] 
+A|14| A: [Pippi Langkous] 
+B|15| B: L 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : one ja deze hij hebben aan het zijn ook weer zo'n zo'n kop natuurlijk aan de voorkant een rond en aan beide kant drie van die kraal
+	Free: Pattern=die, Pattern=en, Pattern=zijn, Pattern=de, Pattern=ja
+	Constrained: 
+Turn ID=1| A | A : beetje als Pippi Langkousvlechtjes
+	Free: Pattern=Pippi Langkousvlechtjes
+	Constrained: 
+Turn ID=2| B | B : ja ja precies ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=3| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=4| A | A : oké dat zijn vijf voor mij
+	Free: Pattern=dat zijn, Pattern=voor mij
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=5| A | A : dit zijn degeen met die Pippi Langkousvlechtjes en dat groot cirkel wel
+	Free: Pattern=dat, Pattern=met die Pippi, Pattern=dit zijn, Pattern=en, Pattern=Pippi Langkousvlechtjes
+	Constrained: Pattern=zijn, Pattern=die
+Turn ID=6| B | B : yes dat zijn voor mij nummer J of letter J
+	Free: Pattern=dat zijn, Pattern=voor mij
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=7| B | B : dit zijn wederom die met die Pippi Langkous vlechtjes
+	Free: Pattern=met die Pippi, Pattern=die met, Pattern=Pippi Langkous, Pattern=dit zijn
+	Constrained: Pattern=zijn, Pattern=die
+Turn ID=8| A | A : check dat zijn elf
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=9| A | A : dit zijn die met de Pippi Langkousvlechtjes
+	Free: Pattern=de Pippi Langkousvlechtjes, Pattern=die met, Pattern=dit zijn
+	Constrained: Pattern=de, Pattern=zijn, Pattern=die, Pattern=Pippi Langkousvlechtjes
+Turn ID=10| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=11| B | B : dat zijn P voor mij
+	Free: Pattern=dat zijn, Pattern=voor mij
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=12| B | B : dit zijn weer de Pippi Langkousvlechtjes
+	Free: Pattern=de Pippi Langkousvlechtjes, Pattern=dit zijn
+	Constrained: Pattern=de, Pattern=zijn, Pattern=Pippi Langkousvlechtjes
+Turn ID=13| A | A : ja dat zijn negen voor mij
+	Free: Pattern=dat zijn, Pattern=voor mij, Pattern=ja
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=14| A | A : Pippi Langkous
+	Free: Pattern=Pippi Langkous
+	Constrained: 
+Turn ID=15| B | B : L
+	Free: 
+	Constrained: 

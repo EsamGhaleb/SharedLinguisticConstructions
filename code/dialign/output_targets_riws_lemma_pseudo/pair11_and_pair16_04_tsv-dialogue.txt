@@ -1,0 +1,159 @@
+A|0| A: _deze_ _hebben_ namelijk _soort_ van nee _die_ _hebben_ gewoon _twee_ balk _aan _de_ rechterkant twee_ gelijksoortig balk 
+A|1| A: _hij_ _hebben_ _een soort_ staar _aan de linkerkant_ _onderaan_ 
+A|2| A: _ja_ _en_ _een_ hoed op _de bovenkant_ 
+B|3| B: [ja] 
+B|4| B: [ja] _ik denken_ _dat_ _ik_ wel _weten welk je bedoelen_ 
+B|5| B: [ja] [ja] 
+B|6| B: _ik_ gaan voor p 
+A|7| A: _en_ _onderaan_ _een_ staart _zijn_ [dat] _die_ 
+A|8| A: _dat zijn_ vijfteen 
+A|9| A: [ja] dit _zijn_ _veel_ _zijn_ _veel_ _de_ space shuttle _die_ [ik denken] 
+A|10| A: _twee_ _rechts_ balk dezelfde _aan _de_ rechterkant_ 
+A|11| A: zo'n staart _en_ ook weer zo'n [ja] bakje of wat _zijn_ _het_ _aan de bovenkant_ omgekeerd 
+A|12| A: _twee_ 
+A|13| A: vooral _de_ _twee_ identiek streepjes _naar_ _rechts_ 
+A|14| A: [ja] [dat] hoed [ja] hoedje 
+A|15| A: [dat] [bedoelen] [ik] 
+B|16| B: nou [deze] [die] zoals jij hem omschrijven [hebben] [hij] bovenop [hebben] [hij] [een soort] driehoekje [die] afkapten [zijn] 
+A|17| A: [ja] nummer drie 
+B|18| B: [aan de] zijkant [rechts] [twee] la 
+B|19| B: [en] [aan de] ander kant [een] [een] haak [naar] links toe [en] _weten_ [ik] [veel] [twee] armp [een] armpje 
+B|20| B: _ik weten_ [het] niet 
+B|21| B: [ja] 
+A|22| A: [twee] balk dezelfde [aan _de] rechterkant_ _met_ weer [dat] hoedje staar 
+A|23| A: [ja] 
+B|24| B: [ja] 
+B|25| B: [ja] 
+B|26| B: gaan [ik] voor g 
+A|27| A: waar [zijn] [die] 
+A|28| A: [ik [weten] welk je bedoelen] 
+A|29| A: [ja] 
+A|30| A: twaalf 
+B|31| B: dan [de] driehoek [die] afkapten [zijn] [aan de bovenkant] 
+B|32| B: [aan de] zijkant [twee] la 
+B|33| B: [en] haakvormig uitstekel [onderaan] 
+B|34| B: [ja] 
+B|35| B: [dat zijn] e 
+B|36| B: afgekapte pyramide 
+B|37| B: [met] la [aan de] [aan de] [de rechterkant twee] 
+B|38| B: haakvormig dinge [aan de linkerkant] 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : deze hebben namelijk soort van nee die hebben gewoon twee balk aan de rechterkant twee gelijksoortig balk
+	Free: Pattern=soort, Pattern=twee, Pattern=aan de, Pattern=hebben, Pattern=die, Pattern=deze, Pattern=de rechterkant twee
+	Constrained: Pattern=twee, Pattern=de rechterkant, Pattern=de
+Turn ID=1| A | A : hij hebben een soort staar aan de linkerkant onderaan
+	Free: Pattern=onderaan, Pattern=hebben, Pattern=hij, Pattern=een soort, Pattern=aan de linkerkant
+	Constrained: Pattern=de, Pattern=soort, Pattern=aan de, Pattern=een
+Turn ID=2| A | A : ja en een hoed op de bovenkant
+	Free: Pattern=de bovenkant, Pattern=en, Pattern=ja, Pattern=een
+	Constrained: Pattern=de
+Turn ID=3| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=4| B | B : ja ik denken dat ik wel weten welk je bedoelen
+	Free: Pattern=dat, Pattern=ja, Pattern=ik denken, Pattern=weten welk je bedoelen, Pattern=ik
+	Constrained: Pattern=bedoelen, Pattern=weten, Pattern=ik
+Turn ID=5| B | B : ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=6| B | B : ik gaan voor p
+	Free: Pattern=ik
+	Constrained: 
+Turn ID=7| A | A : en onderaan een staart zijn dat die
+	Free: Pattern=een, Pattern=die, Pattern=en, Pattern=zijn, Pattern=dat, Pattern=onderaan
+	Constrained: 
+Turn ID=8| A | A : dat zijn vijfteen
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=9| A | A : ja dit zijn veel zijn veel de space shuttle die ik denken
+	Free: Pattern=veel, Pattern=die, Pattern=ik denken, Pattern=zijn, Pattern=de, Pattern=ja
+	Constrained: Pattern=ik
+Turn ID=10| A | A : twee rechts balk dezelfde aan de rechterkant
+	Free: Pattern=de rechterkant, Pattern=aan de, Pattern=twee, Pattern=rechts
+	Constrained: Pattern=de
+Turn ID=11| A | A : zo'n staart en ook weer zo'n ja bakje of wat zijn het aan de bovenkant omgekeerd
+	Free: Pattern=ja, Pattern=het, Pattern=zijn, Pattern=aan de bovenkant, Pattern=en
+	Constrained: Pattern=de bovenkant, Pattern=aan de, Pattern=de
+Turn ID=12| A | A : twee
+	Free: Pattern=twee
+	Constrained: 
+Turn ID=13| A | A : vooral de twee identiek streepjes naar rechts
+	Free: Pattern=de, Pattern=twee, Pattern=naar, Pattern=rechts
+	Constrained: 
+Turn ID=14| A | A : ja dat hoed ja hoedje
+	Free: Pattern=ja, Pattern=dat
+	Constrained: 
+Turn ID=15| A | A : dat bedoelen ik
+	Free: Pattern=ik, Pattern=bedoelen, Pattern=dat
+	Constrained: 
+Turn ID=16| B | B : nou deze die zoals jij hem omschrijven hebben hij bovenop hebben hij een soort driehoekje die afkapten zijn
+	Free: Pattern=hebben, Pattern=hij, Pattern=die, Pattern=een soort, Pattern=zijn, Pattern=deze
+	Constrained: Pattern=een, Pattern=soort
+Turn ID=17| A | A : ja nummer drie
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=18| B | B : aan de zijkant rechts twee la
+	Free: Pattern=aan de, Pattern=twee, Pattern=rechts
+	Constrained: Pattern=de
+Turn ID=19| B | B : en aan de ander kant een een haak naar links toe en weten ik veel twee armp een armpje
+	Free: Pattern=twee, Pattern=aan de, Pattern=veel, Pattern=een, Pattern=weten, Pattern=ik, Pattern=en, Pattern=naar
+	Constrained: Pattern=de
+Turn ID=20| B | B : ik weten het niet
+	Free: Pattern=ik weten, Pattern=het
+	Constrained: Pattern=ik, Pattern=weten
+Turn ID=21| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=22| A | A : twee balk dezelfde aan de rechterkant met weer dat hoedje staar
+	Free: Pattern=dat, Pattern=twee, Pattern=de rechterkant, Pattern=aan de, Pattern=met
+	Constrained: Pattern=de
+Turn ID=23| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=24| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=25| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=26| B | B : gaan ik voor g
+	Free: Pattern=ik
+	Constrained: 
+Turn ID=27| A | A : waar zijn die
+	Free: Pattern=die, Pattern=zijn
+	Constrained: 
+Turn ID=28| A | A : ik weten welk je bedoelen
+	Free: Pattern=weten welk je bedoelen, Pattern=ik weten
+	Constrained: Pattern=bedoelen, Pattern=weten, Pattern=ik
+Turn ID=29| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=30| A | A : twaalf
+	Free: 
+	Constrained: 
+Turn ID=31| B | B : dan de driehoek die afkapten zijn aan de bovenkant
+	Free: Pattern=aan de bovenkant, Pattern=die, Pattern=de, Pattern=zijn
+	Constrained: Pattern=de bovenkant, Pattern=aan de, Pattern=de
+Turn ID=32| B | B : aan de zijkant twee la
+	Free: Pattern=aan de, Pattern=twee
+	Constrained: Pattern=de
+Turn ID=33| B | B : en haakvormig uitstekel onderaan
+	Free: Pattern=en, Pattern=onderaan
+	Constrained: 
+Turn ID=34| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=35| B | B : dat zijn e
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=36| B | B : afgekapte pyramide
+	Free: 
+	Constrained: 
+Turn ID=37| B | B : met la aan de aan de de rechterkant twee
+	Free: Pattern=de rechterkant twee, Pattern=aan de, Pattern=met
+	Constrained: Pattern=twee, Pattern=de rechterkant, Pattern=de
+Turn ID=38| B | B : haakvormig dinge aan de linkerkant
+	Free: Pattern=aan de linkerkant
+	Constrained: Pattern=aan de, Pattern=de

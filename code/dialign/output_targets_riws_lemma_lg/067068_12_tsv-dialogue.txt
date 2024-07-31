@@ -1,0 +1,119 @@
+A|0| A: nu _hebben_ _ik_ _ja_ nee zo'n 
+A|1| A: hij _hebben_ links _hebben_ hij een _de_ enig _die_ nog over _zijn_ volgens mij _hebben die_ een _soort_ staaf en daaraan vast zitten een heel dun dinge 
+A|2| A: waardoor _die_ best wel breed worden _op_ zich _ja_ een _soort_ 
+B|3| B: _soort pion_ 
+B|4| B: [op] [de] kop 
+A|5| A: _ja_ een [soort pion] _ja_ 
+B|6| B: [ja] 
+A|7| A: en dan rechts _hebben die_ nog een [soort] _dienblad_ vast 
+B|8| B: [ja] 
+B|9| B: L 
+B|10| B: _dit zijn_ [de] figuur waar we net mee eindigen _met_ [die] raar [pion] [die] [op] dat buisje steunen 
+B|11| B: weten je welk [ik] bedoelen 
+A|12| A: [ja] [ja] [ja] _ik hebben_ hem 
+A|13| A: nummer zeven 
+B|14| B: oké 
+A|15| A: [dit zijn] _die pion_ 
+A|16| A: [die] uitsteken aan een [soort] _arm_ 
+B|17| B: [ja] 
+A|18| A: en rechts nog een _dienblad_ 
+B|19| B: C 
+B|20| B: _ik hebben die met_ [die pion] [die] [op] [die] uitstekend [arm] staan _met_ dat [dienblad] 
+A|21| A: [ja] 
+A|22| A: één 
+B|23| B: [ja] 
+A|24| A: [ik hebben die met] [de] [pion] en _het dienblad_ 
+B|25| B: dat [zijn] A 
+B|26| B: [ik hebben die met] [die] raar [op] [de] kop staan kegel [op] [die] [arm] 
+B|27| B: [met] [het dienblad] 
+A|28| A: nummer dertien 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : nu hebben ik ja nee zo'n
+	Free: Pattern=ja, Pattern=ik, Pattern=hebben
+	Constrained: 
+Turn ID=1| A | A : hij hebben links hebben hij een de enig die nog over zijn volgens mij hebben die een soort staaf en daaraan vast zitten een heel dun dinge
+	Free: Pattern=soort, Pattern=de, Pattern=hebben, Pattern=die, Pattern=zijn, Pattern=hebben die
+	Constrained: Pattern=die, Pattern=hebben
+Turn ID=2| A | A : waardoor die best wel breed worden op zich ja een soort
+	Free: Pattern=ja, Pattern=die, Pattern=op, Pattern=soort
+	Constrained: 
+Turn ID=3| B | B : soort pion
+	Free: Pattern=soort pion
+	Constrained: Pattern=pion, Pattern=soort
+Turn ID=4| B | B : op de kop
+	Free: Pattern=de, Pattern=op
+	Constrained: 
+Turn ID=5| A | A : ja een soort pion ja
+	Free: Pattern=soort pion, Pattern=ja
+	Constrained: Pattern=pion, Pattern=soort
+Turn ID=6| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=7| A | A : en dan rechts hebben die nog een soort dienblad vast
+	Free: Pattern=hebben die, Pattern=soort, Pattern=dienblad
+	Constrained: Pattern=die, Pattern=hebben
+Turn ID=8| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=9| B | B : L
+	Free: 
+	Constrained: 
+Turn ID=10| B | B : dit zijn de figuur waar we net mee eindigen met die raar pion die op dat buisje steunen
+	Free: Pattern=de, Pattern=op, Pattern=met, Pattern=die, Pattern=dit zijn, Pattern=pion
+	Constrained: Pattern=zijn
+Turn ID=11| B | B : weten je welk ik bedoelen
+	Free: Pattern=ik
+	Constrained: 
+Turn ID=12| A | A : ja ja ja ik hebben hem
+	Free: Pattern=ik hebben, Pattern=ja
+	Constrained: Pattern=ik, Pattern=hebben
+Turn ID=13| A | A : nummer zeven
+	Free: 
+	Constrained: 
+Turn ID=14| B | B : oké
+	Free: 
+	Constrained: 
+Turn ID=15| A | A : dit zijn die pion
+	Free: Pattern=dit zijn, Pattern=die pion
+	Constrained: Pattern=die, Pattern=pion, Pattern=zijn
+Turn ID=16| A | A : die uitsteken aan een soort arm
+	Free: Pattern=die, Pattern=arm, Pattern=soort
+	Constrained: 
+Turn ID=17| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=18| A | A : en rechts nog een dienblad
+	Free: Pattern=dienblad
+	Constrained: 
+Turn ID=19| B | B : C
+	Free: 
+	Constrained: 
+Turn ID=20| B | B : ik hebben die met die pion die op die uitstekend arm staan met dat dienblad
+	Free: Pattern=die pion, Pattern=op, Pattern=met, Pattern=die, Pattern=arm, Pattern=ik hebben die met, Pattern=dienblad
+	Constrained: Pattern=ik hebben, Pattern=hebben, Pattern=met, Pattern=die, Pattern=ik, Pattern=hebben die, Pattern=pion
+Turn ID=21| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=22| A | A : één
+	Free: 
+	Constrained: 
+Turn ID=23| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=24| A | A : ik hebben die met de pion en het dienblad
+	Free: Pattern=ik hebben die met, Pattern=het dienblad, Pattern=de, Pattern=pion
+	Constrained: Pattern=ik hebben, Pattern=hebben, Pattern=met, Pattern=die, Pattern=dienblad, Pattern=ik, Pattern=hebben die
+Turn ID=25| B | B : dat zijn A
+	Free: Pattern=zijn
+	Constrained: 
+Turn ID=26| B | B : ik hebben die met die raar op de kop staan kegel op die arm
+	Free: Pattern=de, Pattern=op, Pattern=die, Pattern=ik hebben die met, Pattern=arm
+	Constrained: Pattern=ik hebben, Pattern=hebben, Pattern=met, Pattern=die, Pattern=ik, Pattern=hebben die
+Turn ID=27| B | B : met het dienblad
+	Free: Pattern=het dienblad, Pattern=met
+	Constrained: Pattern=dienblad
+Turn ID=28| A | A : nummer dertien
+	Free: 
+	Constrained: 

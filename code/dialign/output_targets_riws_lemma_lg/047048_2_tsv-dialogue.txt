@@ -1,0 +1,123 @@
+A|0| A: nu _zijn_ _het_ _wel_ _die een met_ _die_ _ja_ _dat_ infeestmutsjen _op_ 
+B|1| B: [ja] 
+B|2| B: _de_ driehoek _en_ 
+A|3| A: [ja] 
+A|4| A: [ja] 
+B|5| B: _oké_ J 
+B|6| B: ah _dit zijn_ [met] _de_ driehoek [op] [zijn] hoofd 
+A|7| A: [met] _die_ [met] _die_ _wielet_ _eronder_ 
+B|8| B: _en_ 
+B|9| B: [wielet] onder 
+B|10| B: ik weten niet of [dat] [een] wiele [zijn] 
+A|11| A: [met] [dat] ronde 
+B|12| B: [ja] er [zijn] één _rond_ dinge [eronder] _en_ [een] 
+A|13| A: [ja] precies 
+B|14| B: hebben ik [een] _raar_ best [wel] groot _ding aan de_ rechterkant 
+A|15| A: [ja] precies [en] zo'n klein hendel [aan de] 
+B|16| B: [ja] 
+A|17| A: [ja] [oké] 
+A|18| A: [dat] [zijn] zes 
+A|19| A: [dit zijn] _die_ [met] _die_ _feestmuts_ [op] [en] _die_ [raar] [ding aan de] voorkant 
+A|20| A: [met] [dat] [rond] [aan de] onderkant 
+B|21| B: [ja] [de] [feestmuts] 
+A|22| A: [ja] 
+B|23| B: [oké] E 
+B|24| B: [die een met] _het feesthoed_ 
+A|25| A: even kijken [ja] [dat] [zijn] nummer tien 
+A|26| A: [het feesthoed] 
+B|27| B: [oké] G 
+B|28| B: [het feesthoed] 
+A|29| A: nummer tien 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : nu zijn het wel die een met die ja dat infeestmutsjen op
+	Free: Pattern=dat, Pattern=op, Pattern=wel, Pattern=het, Pattern=die, Pattern=zijn, Pattern=die een met, Pattern=ja
+	Constrained: Pattern=een, Pattern=die, Pattern=met
+Turn ID=1| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=2| B | B : de driehoek en
+	Free: Pattern=en, Pattern=de
+	Constrained: 
+Turn ID=3| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=4| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=5| B | B : oké J
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=6| B | B : ah dit zijn met de driehoek op zijn hoofd
+	Free: Pattern=de, Pattern=op, Pattern=met, Pattern=zijn, Pattern=dit zijn
+	Constrained: Pattern=zijn
+Turn ID=7| A | A : met die met die wielet eronder
+	Free: Pattern=wielet, Pattern=eronder, Pattern=die, Pattern=met
+	Constrained: 
+Turn ID=8| B | B : en
+	Free: Pattern=en
+	Constrained: 
+Turn ID=9| B | B : wielet onder
+	Free: Pattern=wielet
+	Constrained: 
+Turn ID=10| B | B : ik weten niet of dat een wiele zijn
+	Free: Pattern=een, Pattern=dat, Pattern=zijn
+	Constrained: 
+Turn ID=11| A | A : met dat ronde
+	Free: Pattern=dat, Pattern=met
+	Constrained: 
+Turn ID=12| B | B : ja er zijn één rond dinge eronder en een
+	Free: Pattern=ja, Pattern=een, Pattern=rond, Pattern=zijn, Pattern=en, Pattern=eronder
+	Constrained: 
+Turn ID=13| A | A : ja precies
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=14| B | B : hebben ik een raar best wel groot ding aan de rechterkant
+	Free: Pattern=ding aan de, Pattern=raar, Pattern=een, Pattern=wel
+	Constrained: Pattern=aan de, Pattern=de
+Turn ID=15| A | A : ja precies en zo'n klein hendel aan de
+	Free: Pattern=aan de, Pattern=ja, Pattern=en
+	Constrained: Pattern=de
+Turn ID=16| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=17| A | A : ja oké
+	Free: Pattern=ja, Pattern=oké
+	Constrained: 
+Turn ID=18| A | A : dat zijn zes
+	Free: Pattern=dat, Pattern=zijn
+	Constrained: 
+Turn ID=19| A | A : dit zijn die met die feestmuts op en die raar ding aan de voorkant
+	Free: Pattern=ding aan de, Pattern=met, Pattern=die, Pattern=en, Pattern=dit zijn, Pattern=raar, Pattern=op, Pattern=feestmuts
+	Constrained: Pattern=aan de, Pattern=de, Pattern=zijn
+Turn ID=20| A | A : met dat rond aan de onderkant
+	Free: Pattern=aan de, Pattern=rond, Pattern=dat, Pattern=met
+	Constrained: Pattern=de
+Turn ID=21| B | B : ja de feestmuts
+	Free: Pattern=feestmuts, Pattern=ja, Pattern=de
+	Constrained: 
+Turn ID=22| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=23| B | B : oké E
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=24| B | B : die een met het feesthoed
+	Free: Pattern=die een met, Pattern=het feesthoed
+	Constrained: Pattern=een, Pattern=met, Pattern=die, Pattern=het
+Turn ID=25| A | A : even kijken ja dat zijn nummer tien
+	Free: Pattern=ja, Pattern=dat, Pattern=zijn
+	Constrained: 
+Turn ID=26| A | A : het feesthoed
+	Free: Pattern=het feesthoed
+	Constrained: Pattern=het
+Turn ID=27| B | B : oké G
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=28| B | B : het feesthoed
+	Free: Pattern=het feesthoed
+	Constrained: Pattern=het
+Turn ID=29| A | A : nummer tien
+	Free: 
+	Constrained: 

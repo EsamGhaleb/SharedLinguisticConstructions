@@ -1,0 +1,91 @@
+A|0| A: ok deze _hebben_ 
+A|1| A: twee staf aan _de_ zijkant _waar_ een bolle op zitten en aan _de_ achterkant zitten een schuin vierkan wat een beetje verstopken zitten 
+A|2| A: en _daar_ komen ook een _ja_ iets uit 
+A|3| A: _ja_ 
+B|4| B: _die_ [ja] 
+B|5| B: [ja] _dat_ zijn K 
+A|6| A: [ja] negen 
+B|7| B: [ja] hier zijn _het_ eigenlijk _weer die_ rugtas niet _die_ _dat_ klein rugtas maar _die_ groot _met die_ uitsteeksel 
+B|8| B: [ja] [ja] 
+A|9| A: deze _hebben_ [weer die] spijker aan _de_ zijkant dus twee en dan [dat] schermpje erachter 
+B|10| B: groot rugtas [dat] zijn F 
+A|11| A: o _nee_ 
+A|12| A: [ja] 
+A|13| A: drie 
+B|14| B: [de] groot rugtas 
+A|15| A: [die] [met die] twee spijker aan [de] zijkant en [het] schermpje er achter en [dat] gleufje dinge 
+A|16| A: vijf 
+B|17| B: [de] groot tas 
+B|18| B: [nee] ik [hebben] alleen [de] klein zien 
+B|19| B: [waar] ? ah [daar] 
+B|20| B: L 
+B|21| B: dit zijn [de] groot boekentas 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : ok deze hebben
+	Free: Pattern=hebben
+	Constrained: 
+Turn ID=1| A | A : twee staf aan de zijkant waar een bolle op zitten en aan de achterkant zitten een schuin vierkan wat een beetje verstopken zitten
+	Free: Pattern=waar, Pattern=de
+	Constrained: 
+Turn ID=2| A | A : en daar komen ook een ja iets uit
+	Free: Pattern=daar, Pattern=ja
+	Constrained: 
+Turn ID=3| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=4| B | B : die ja
+	Free: Pattern=ja, Pattern=die
+	Constrained: 
+Turn ID=5| B | B : ja dat zijn K
+	Free: Pattern=dat, Pattern=ja
+	Constrained: 
+Turn ID=6| A | A : ja negen
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=7| B | B : ja hier zijn het eigenlijk weer die rugtas niet die dat klein rugtas maar die groot met die uitsteeksel
+	Free: Pattern=ja, Pattern=het, Pattern=weer die, Pattern=die, Pattern=dat, Pattern=met die
+	Constrained: Pattern=die
+Turn ID=8| B | B : ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=9| A | A : deze hebben weer die spijker aan de zijkant dus twee en dan dat schermpje erachter
+	Free: Pattern=weer die, Pattern=hebben, Pattern=dat, Pattern=de
+	Constrained: Pattern=die
+Turn ID=10| B | B : groot rugtas dat zijn F
+	Free: Pattern=dat
+	Constrained: 
+Turn ID=11| A | A : o nee
+	Free: Pattern=nee
+	Constrained: 
+Turn ID=12| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=13| A | A : drie
+	Free: 
+	Constrained: 
+Turn ID=14| B | B : de groot rugtas
+	Free: Pattern=de
+	Constrained: 
+Turn ID=15| A | A : die met die twee spijker aan de zijkant en het schermpje er achter en dat gleufje dinge
+	Free: Pattern=de, Pattern=het, Pattern=die, Pattern=dat, Pattern=met die
+	Constrained: Pattern=die
+Turn ID=16| A | A : vijf
+	Free: 
+	Constrained: 
+Turn ID=17| B | B : de groot tas
+	Free: Pattern=de
+	Constrained: 
+Turn ID=18| B | B : nee ik hebben alleen de klein zien
+	Free: Pattern=hebben, Pattern=de, Pattern=nee
+	Constrained: 
+Turn ID=19| B | B : waar ? ah daar
+	Free: Pattern=waar, Pattern=daar
+	Constrained: 
+Turn ID=20| B | B : L
+	Free: 
+	Constrained: 
+Turn ID=21| B | B : dit zijn de groot boekentas
+	Free: Pattern=de
+	Constrained: 

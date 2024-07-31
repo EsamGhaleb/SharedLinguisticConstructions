@@ -1,0 +1,99 @@
+B|0| B: _ja_ _deze hebben_ _een_ plaat _die_ _op de_ grond _zitten_ 
+B|1| B: _ja_ 
+A|2| A: [ja] 
+A|3| A: _dat_ zeggen maar [die] drie soort van ruit zeggen maar aan elkaar plakken 
+A|4| A: [ja] 
+A|5| A: oké _dat zijn_ nummer vijf _bij mij_ 
+B|6| B: [dat zijn] J 
+A|7| A: dit [zijn] [die] [een] _met_ [die] twee identiek vormp aan [de] zijkant zeggen maar 
+A|8| A: _met_ [een] groot 
+A|9| A: blauw rechthoek of vierkant eronder en daar links dan nog weer zo'n boog uit en [op de] voorkant [zitten] ook [een] cirkel plakken _met_ ook [een] boog eruit 
+A|10| A: [ja] 
+A|11| A: drie aan beide kant [ja] 
+B|12| B: [die] _met dat_ plank onderaan 
+B|13| B: [ja] 
+B|14| B: [dat zijn] [bij mij] P 
+A|15| A: [ja] 
+A|16| A: [dat zijn] nummer elf 
+B|17| B: [die] _met dat_ plank onderaan 
+A|18| A: [deze hebben] [die] drie dinget link en [die] drie dinget rechts en [die] plken schijf aan [de] voorkant [met dat] tuu en links [dat] 
+A|19| A: tuu en aan [de] onderkant [dat] vierkant 
+B|20| B: L 
+A|21| A: oké 
+A|22| A: [dat zijn] nummer negen 
+A|23| A: dit [zijn] [met] [die] zes dinget drie link en drie rechts 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : ja deze hebben een plaat die op de grond zitten
+	Free: Pattern=ja, Pattern=een, Pattern=deze hebben, Pattern=op de, Pattern=die, Pattern=zitten
+	Constrained: Pattern=de
+Turn ID=1| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=2| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=3| A | A : dat zeggen maar die drie soort van ruit zeggen maar aan elkaar plakken
+	Free: Pattern=dat, Pattern=die
+	Constrained: 
+Turn ID=4| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=5| A | A : oké dat zijn nummer vijf bij mij
+	Free: Pattern=bij mij, Pattern=dat zijn
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=6| B | B : dat zijn J
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=7| A | A : dit zijn die een met die twee identiek vormp aan de zijkant zeggen maar
+	Free: Pattern=de, Pattern=een, Pattern=met, Pattern=die, Pattern=zijn
+	Constrained: 
+Turn ID=8| A | A : met een groot
+	Free: Pattern=een, Pattern=met
+	Constrained: 
+Turn ID=9| A | A : blauw rechthoek of vierkant eronder en daar links dan nog weer zo'n boog uit en op de voorkant zitten ook een cirkel plakken met ook een boog eruit
+	Free: Pattern=op de, Pattern=een, Pattern=met, Pattern=zitten
+	Constrained: Pattern=de
+Turn ID=10| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=11| A | A : drie aan beide kant ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=12| B | B : die met dat plank onderaan
+	Free: Pattern=met dat, Pattern=die
+	Constrained: Pattern=dat, Pattern=met
+Turn ID=13| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=14| B | B : dat zijn bij mij P
+	Free: Pattern=bij mij, Pattern=dat zijn
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=15| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=16| A | A : dat zijn nummer elf
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=17| B | B : die met dat plank onderaan
+	Free: Pattern=met dat, Pattern=die
+	Constrained: Pattern=dat, Pattern=met
+Turn ID=18| A | A : deze hebben die drie dinget link en die drie dinget rechts en die plken schijf aan de voorkant met dat tuu en links dat
+	Free: Pattern=dat, Pattern=de, Pattern=deze hebben, Pattern=met dat, Pattern=die
+	Constrained: Pattern=dat, Pattern=met
+Turn ID=19| A | A : tuu en aan de onderkant dat vierkant
+	Free: Pattern=de, Pattern=dat
+	Constrained: 
+Turn ID=20| B | B : L
+	Free: 
+	Constrained: 
+Turn ID=21| A | A : oké
+	Free: 
+	Constrained: 
+Turn ID=22| A | A : dat zijn nummer negen
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=23| A | A : dit zijn met die zes dinget drie link en drie rechts
+	Free: Pattern=zijn, Pattern=die, Pattern=met
+	Constrained: 

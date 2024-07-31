@@ -1,0 +1,103 @@
+B|0| B: hier _zitten_ ook _zo'n_ plaat door het _kop_ 
+B|1| B: _en_ tenminste volgens _mij_ _zijn_ het _een_ plaat _en_ _er_ _zitten_ _twee van die_ poo _aan_ _en een_ _ja_ _nog_ iets staan erop 
+A|2| A: [ja] 
+A|3| A: _poot_ [aan] 
+A|4| A: [ja] [ja] [ja] 
+A|5| A: [ja] [ja] [ja] 
+B|6| B: _en _een_ soort_ staart of zo 
+A|7| A: zestien [zijn] _dat_ _bij_ [mij] 
+A|8| A: one's _dit zijn_ [een] [kop] _met_ 
+A|9| A: _met_ [een soort] [van] [een] tafel _erdoorheen_ geschoven _met_ [die] [twee] uit uitstekend ding [aan] _dat_ plateau zeggen maar 
+A|10| A: [en] dan [zitten] [er] [nog] [een soort] [van] _kuip_ bovenop [en een] _slange_ achter 
+B|11| B: [ja] [dat] [zijn] P 
+B|12| B: [bij] deze [zitten] [die] plaat [erdoorheen] [met] _van die_ poo _aan de_ onderkant [en] het [kuip] erop 
+B|13| B: [en] het [slange] _aan de_ achterkant _eruit_ 
+A|14| A: [ja] [ja] 
+A|15| A: veertien 
+A|16| A: _dit zijn_ [met] [die] plank _aan de bovenkant_ [erdoorheen] smeten zeggen maar [met] [twee van die] 
+A|17| A: _poot_ [eruit] [en] dan weer [zo'n] [ja] waarschijnlijk hebben je hem al 
+B|18| B: dinget 
+B|19| B: [ja] [dat] [zijn] N 
+B|20| B: [dit zijn] waar [die] plaat [er] [aan de bovenkant] doorheen [zitten] [en] [die] [poot] [en] [dat] cupje 
+A|21| A: tien 
+A|22| A: [dit zijn] [met] [die] [met] [die] plank [aan de bovenkant] [erdoorheen] spiesen [met] [zo'n] 
+A|23| A: oplopen kubusiets [en] [twee] [poot] 
+B|24| B: [ja] [dat] [zijn] D 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : hier zitten ook zo'n plaat door het kop
+	Free: Pattern=kop, Pattern=zo'n, Pattern=zitten
+	Constrained: 
+Turn ID=1| B | B : en tenminste volgens mij zijn het een plaat en er zitten twee van die poo aan en een ja nog iets staan erop
+	Free: Pattern=twee van die, Pattern=nog, Pattern=een, Pattern=zitten, Pattern=er, Pattern=mij, Pattern=en, Pattern=aan, Pattern=ja, Pattern=en een, Pattern=zijn
+	Constrained: Pattern=twee, Pattern=een, Pattern=die, Pattern=van, Pattern=van die, Pattern=en
+Turn ID=2| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=3| A | A : poot aan
+	Free: Pattern=aan, Pattern=poot
+	Constrained: 
+Turn ID=4| A | A : ja ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=5| A | A : ja ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=6| B | B : en een soort staart of zo
+	Free: Pattern=en een, Pattern=een soort
+	Constrained: Pattern=en, Pattern=een
+Turn ID=7| A | A : zestien zijn dat bij mij
+	Free: Pattern=mij, Pattern=dat, Pattern=zijn, Pattern=bij
+	Constrained: 
+Turn ID=8| A | A : one's dit zijn een kop met
+	Free: Pattern=dit zijn, Pattern=kop, Pattern=met, Pattern=een
+	Constrained: Pattern=zijn
+Turn ID=9| A | A : met een soort van een tafel erdoorheen geschoven met die twee uit uitstekend ding aan dat plateau zeggen maar
+	Free: Pattern=dat, Pattern=twee, Pattern=aan, Pattern=een, Pattern=erdoorheen, Pattern=met, Pattern=die, Pattern=een soort, Pattern=van
+	Constrained: Pattern=een
+Turn ID=10| A | A : en dan zitten er nog een soort van kuip bovenop en een slange achter
+	Free: Pattern=slange, Pattern=nog, Pattern=kuip, Pattern=zitten, Pattern=er, Pattern=een soort, Pattern=en een, Pattern=van, Pattern=en
+	Constrained: Pattern=en, Pattern=een
+Turn ID=11| B | B : ja dat zijn P
+	Free: Pattern=dat, Pattern=zijn, Pattern=ja
+	Constrained: 
+Turn ID=12| B | B : bij deze zitten die plaat erdoorheen met van die poo aan de onderkant en het kuip erop
+	Free: Pattern=kuip, Pattern=aan de, Pattern=erdoorheen, Pattern=met, Pattern=bij, Pattern=die, Pattern=zitten, Pattern=van die, Pattern=en
+	Constrained: Pattern=die, Pattern=van, Pattern=aan
+Turn ID=13| B | B : en het slange aan de achterkant eruit
+	Free: Pattern=aan de, Pattern=en, Pattern=eruit, Pattern=slange
+	Constrained: Pattern=aan
+Turn ID=14| A | A : ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=15| A | A : veertien
+	Free: 
+	Constrained: 
+Turn ID=16| A | A : dit zijn met die plank aan de bovenkant erdoorheen smeten zeggen maar met twee van die
+	Free: Pattern=twee van die, Pattern=erdoorheen, Pattern=met, Pattern=die, Pattern=aan de bovenkant, Pattern=dit zijn
+	Constrained: Pattern=twee, Pattern=aan, Pattern=aan de, Pattern=die, Pattern=zijn, Pattern=van, Pattern=van die
+Turn ID=17| A | A : poot eruit en dan weer zo'n ja waarschijnlijk hebben je hem al
+	Free: Pattern=zo'n, Pattern=ja, Pattern=poot, Pattern=eruit, Pattern=en
+	Constrained: 
+Turn ID=18| B | B : dinget
+	Free: 
+	Constrained: 
+Turn ID=19| B | B : ja dat zijn N
+	Free: Pattern=dat, Pattern=zijn, Pattern=ja
+	Constrained: 
+Turn ID=20| B | B : dit zijn waar die plaat er aan de bovenkant doorheen zitten en die poot en dat cupje
+	Free: Pattern=dat, Pattern=poot, Pattern=er, Pattern=dit zijn, Pattern=die, Pattern=zitten, Pattern=aan de bovenkant, Pattern=en
+	Constrained: Pattern=aan, Pattern=zijn, Pattern=aan de
+Turn ID=21| A | A : tien
+	Free: 
+	Constrained: 
+Turn ID=22| A | A : dit zijn met die met die plank aan de bovenkant erdoorheen spiesen met zo'n
+	Free: Pattern=zo'n, Pattern=erdoorheen, Pattern=met, Pattern=die, Pattern=aan de bovenkant, Pattern=dit zijn
+	Constrained: Pattern=aan, Pattern=zijn, Pattern=aan de
+Turn ID=23| A | A : oplopen kubusiets en twee poot
+	Free: Pattern=en, Pattern=twee, Pattern=poot
+	Constrained: 
+Turn ID=24| B | B : ja dat zijn D
+	Free: Pattern=dat, Pattern=zijn, Pattern=ja
+	Constrained: 

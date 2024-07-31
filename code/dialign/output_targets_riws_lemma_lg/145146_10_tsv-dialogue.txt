@@ -1,0 +1,119 @@
+A|0| A: _oké ik hebben_ deze omschrijven als een soort zonnepaneel of _gaspedaal_ _die_ achter _dat_ kop zitten 
+A|1| A: en 
+B|2| B: _ja oké_ 
+A|3| A: en [ja] ver zitten er zo'n heel lang staaf eigenlijk achter _het_ komme 
+B|4| B: [ja] 
+B|5| B: [ja] 
+B|6| B: [oké ik] weten welk je bedoelen 
+B|7| B: _dat zijn_ K 
+B|8| B: [oké] 
+B|9| B: [oké _ik hebben] weer het gaspedaal_ 
+A|10| A: [ja oké] 
+B|11| B: weten je dan welk [ik] bedoelen 
+A|12| A: met _die_ lang stuk 
+B|13| B: [ja] 
+A|14| A: [dat zijn] negen 
+A|15| A: [ik hebben weer het gaspedaal] 
+B|16| B: [ja] wachten [ik] _zoeken_ hem _even_ [ja] _daar_ [zijn] [die] 
+B|17| B: [dat zijn] F 
+B|18| B: ze [zijn] [weer] veranderen 
+B|19| B: [oké ik hebben] [het gaspedaal] 
+A|20| A: [oké] [even] [zoeken] hoor [daar] [ja] [ja] 
+A|21| A: [dat zijn] nummer drie 
+A|22| A: [oké ik hebben] [die] [het gaspedaal] 
+B|23| B: [oké] 
+B|24| B: [ja] 
+B|25| B: [dat zijn] L 
+B|26| B: [oké ik hebben] [het gaspedaal] 
+A|27| A: [ja] 
+A|28| A: [ja] [dat zijn] nummer vijf 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : oké ik hebben deze omschrijven als een soort zonnepaneel of gaspedaal die achter dat kop zitten
+	Free: Pattern=oké ik hebben, Pattern=dat, Pattern=die, Pattern=gaspedaal
+	Constrained: Pattern=oké ik, Pattern=oké, Pattern=ik
+Turn ID=1| A | A : en
+	Free: 
+	Constrained: 
+Turn ID=2| B | B : ja oké
+	Free: Pattern=ja oké
+	Constrained: Pattern=ja, Pattern=oké
+Turn ID=3| A | A : en ja ver zitten er zo'n heel lang staaf eigenlijk achter het komme
+	Free: Pattern=ja, Pattern=het
+	Constrained: 
+Turn ID=4| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=5| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=6| B | B : oké ik weten welk je bedoelen
+	Free: Pattern=oké ik
+	Constrained: Pattern=ik, Pattern=oké
+Turn ID=7| B | B : dat zijn K
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=8| B | B : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=9| B | B : oké ik hebben weer het gaspedaal
+	Free: Pattern=ik hebben weer het gaspedaal, Pattern=oké ik hebben
+	Constrained: Pattern=oké ik, Pattern=het, Pattern=gaspedaal, Pattern=het gaspedaal, Pattern=oké, Pattern=ik, Pattern=weer
+Turn ID=10| A | A : ja oké
+	Free: Pattern=ja oké
+	Constrained: Pattern=ja, Pattern=oké
+Turn ID=11| B | B : weten je dan welk ik bedoelen
+	Free: Pattern=ik
+	Constrained: 
+Turn ID=12| A | A : met die lang stuk
+	Free: Pattern=die
+	Constrained: 
+Turn ID=13| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=14| A | A : dat zijn negen
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=15| A | A : ik hebben weer het gaspedaal
+	Free: Pattern=ik hebben weer het gaspedaal
+	Constrained: Pattern=het, Pattern=gaspedaal, Pattern=het gaspedaal, Pattern=ik, Pattern=weer
+Turn ID=16| B | B : ja wachten ik zoeken hem even ja daar zijn die
+	Free: Pattern=zoeken, Pattern=ja, Pattern=even, Pattern=die, Pattern=ik, Pattern=zijn, Pattern=daar
+	Constrained: 
+Turn ID=17| B | B : dat zijn F
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=18| B | B : ze zijn weer veranderen
+	Free: Pattern=zijn, Pattern=weer
+	Constrained: 
+Turn ID=19| B | B : oké ik hebben het gaspedaal
+	Free: Pattern=oké ik hebben, Pattern=het gaspedaal
+	Constrained: Pattern=oké ik, Pattern=het, Pattern=gaspedaal, Pattern=oké, Pattern=ik
+Turn ID=20| A | A : oké even zoeken hoor daar ja ja
+	Free: Pattern=zoeken, Pattern=ja, Pattern=even, Pattern=oké, Pattern=daar
+	Constrained: 
+Turn ID=21| A | A : dat zijn nummer drie
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=22| A | A : oké ik hebben die het gaspedaal
+	Free: Pattern=oké ik hebben, Pattern=het gaspedaal, Pattern=die
+	Constrained: Pattern=oké ik, Pattern=het, Pattern=gaspedaal, Pattern=oké, Pattern=ik
+Turn ID=23| B | B : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=24| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=25| B | B : dat zijn L
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=26| B | B : oké ik hebben het gaspedaal
+	Free: Pattern=oké ik hebben, Pattern=het gaspedaal
+	Constrained: Pattern=oké ik, Pattern=het, Pattern=gaspedaal, Pattern=oké, Pattern=ik
+Turn ID=27| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=28| A | A : ja dat zijn nummer vijf
+	Free: Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=dat, Pattern=zijn

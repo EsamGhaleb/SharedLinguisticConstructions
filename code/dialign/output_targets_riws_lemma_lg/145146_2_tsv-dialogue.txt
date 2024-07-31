@@ -1,0 +1,127 @@
+A|0| A: deze _hebben_ _een_ _driehoek op zijn hoofd_ 
+B|1| B: _ja_ 
+B|2| B: _oké_ 
+B|3| B: en _zo'n_ gek ding _aan_ _de_ voorkant 
+A|4| A: [ja] [zo'n] 
+B|5| B: en [een] bolle eronder 
+A|6| A: [ja] 
+A|7| A: [aan] _zijn_ voet of _zo_ 
+B|8| B: _ja oké_ 
+A|9| A: [ja] 
+B|10| B: dan [zijn] het J 
+B|11| B: dit [zijn] weer _die_ _met_ _die_ [driehoek op zijn hoofd] 
+A|12| A: [ja] 
+B|13| B: en _dat_ toef hier [zo] en _dat_ bolle [aan] _de_ onderkant 
+A|14| A: [ja] 
+A|15| A: _dat zijn_ zes 
+A|16| A: _ik hebben_ diegene [met] [de] [driehoek op zijn hoofd] 
+B|17| B: [ja] en [met] het bolle [aan] [de] onderkant 
+A|18| A: [ja] [ja] 
+B|19| B: _oké dat zijn_ E 
+B|20| B: _oké ik hebben_ _die_ [met] het [driehoek op zijn hoofd] 
+A|21| A: [ja] 
+A|22| A: [ja oké] 
+B|23| B: en [een] bolle [aan] [de] onderkant 
+A|24| A: [ja] 
+A|25| A: [zijn] nummer tien 
+A|26| A: [oké ik hebben] degeen [met] [de] [driehoek op zijn hoofd] [die] zitten bij mij links bovenin 
+B|27| B: [ik hebben] [de] driehoekhoofd 
+A|28| A: [ja] 
+A|29| A: [ja] 
+A|30| A: [oké dat zijn] nummer tien 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : deze hebben een driehoek op zijn hoofd
+	Free: Pattern=driehoek op zijn hoofd, Pattern=een, Pattern=hebben
+	Constrained: Pattern=zijn
+Turn ID=1| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=2| B | B : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=3| B | B : en zo'n gek ding aan de voorkant
+	Free: Pattern=zo'n, Pattern=de, Pattern=aan
+	Constrained: 
+Turn ID=4| A | A : ja zo'n
+	Free: Pattern=ja, Pattern=zo'n
+	Constrained: 
+Turn ID=5| B | B : en een bolle eronder
+	Free: Pattern=een
+	Constrained: 
+Turn ID=6| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=7| A | A : aan zijn voet of zo
+	Free: Pattern=zo, Pattern=zijn, Pattern=aan
+	Constrained: 
+Turn ID=8| B | B : ja oké
+	Free: Pattern=ja oké
+	Constrained: Pattern=ja, Pattern=oké
+Turn ID=9| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=10| B | B : dan zijn het J
+	Free: Pattern=zijn
+	Constrained: 
+Turn ID=11| B | B : dit zijn weer die met die driehoek op zijn hoofd
+	Free: Pattern=driehoek op zijn hoofd, Pattern=die, Pattern=zijn, Pattern=met
+	Constrained: Pattern=zijn
+Turn ID=12| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=13| B | B : en dat toef hier zo en dat bolle aan de onderkant
+	Free: Pattern=zo, Pattern=de, Pattern=dat, Pattern=aan
+	Constrained: 
+Turn ID=14| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=15| A | A : dat zijn zes
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=16| A | A : ik hebben diegene met de driehoek op zijn hoofd
+	Free: Pattern=driehoek op zijn hoofd, Pattern=ik hebben, Pattern=de, Pattern=met
+	Constrained: Pattern=zijn, Pattern=hebben
+Turn ID=17| B | B : ja en met het bolle aan de onderkant
+	Free: Pattern=ja, Pattern=de, Pattern=met, Pattern=aan
+	Constrained: 
+Turn ID=18| A | A : ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=19| B | B : oké dat zijn E
+	Free: Pattern=oké dat zijn
+	Constrained: Pattern=dat zijn, Pattern=oké, Pattern=dat, Pattern=zijn
+Turn ID=20| B | B : oké ik hebben die met het driehoek op zijn hoofd
+	Free: Pattern=driehoek op zijn hoofd, Pattern=oké ik hebben, Pattern=die, Pattern=met
+	Constrained: Pattern=zijn, Pattern=oké, Pattern=ik hebben, Pattern=hebben
+Turn ID=21| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=22| A | A : ja oké
+	Free: Pattern=ja oké
+	Constrained: Pattern=ja, Pattern=oké
+Turn ID=23| B | B : en een bolle aan de onderkant
+	Free: Pattern=de, Pattern=een, Pattern=aan
+	Constrained: 
+Turn ID=24| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=25| A | A : zijn nummer tien
+	Free: Pattern=zijn
+	Constrained: 
+Turn ID=26| A | A : oké ik hebben degeen met de driehoek op zijn hoofd die zitten bij mij links bovenin
+	Free: Pattern=de, Pattern=met, Pattern=die, Pattern=driehoek op zijn hoofd, Pattern=oké ik hebben
+	Constrained: Pattern=zijn, Pattern=oké, Pattern=ik hebben, Pattern=hebben
+Turn ID=27| B | B : ik hebben de driehoekhoofd
+	Free: Pattern=ik hebben, Pattern=de
+	Constrained: Pattern=hebben
+Turn ID=28| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=29| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=30| A | A : oké dat zijn nummer tien
+	Free: Pattern=oké dat zijn
+	Constrained: Pattern=dat zijn, Pattern=oké, Pattern=dat, Pattern=zijn

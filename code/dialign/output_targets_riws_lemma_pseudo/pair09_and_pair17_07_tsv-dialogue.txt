@@ -1,0 +1,155 @@
+B|0| B: hier _hebben_ _je_ _soort van_ _een_ _ja_ _tafel_ rechthoek vierkant ding dwars onder _de_ emmer 
+B|1| B: het _lijken_ _een_ beetje alsof er tafelpot _aan_ _zitten_ 
+B|2| B: _en_ daarop staan _een_ _soort van_ Trechterachtig hoekig trechterachtig dinget 
+B|3| B: _en_ daarachter komen _een_ tui _uit_ _uit_ _de_ emmer 
+B|4| B: even kijken _ja_ _je_ _hebben_ _je_ emmer 
+B|5| B: _en_ daar _zitten_ _een_ _soort_ vierkant doorheen 
+B|6| B: _en_ daar komen twee poo _uit_ 
+B|7| B: _of_ twee 
+B|8| B: _ja_ _uit_ het vierkant 
+B|9| B: _dat_ door _de_ emmer heen is _de_ _dat zijn_ ongeveer _op_ drievirie hoogte gaan er _een_ _soort van_ _een_ vierkant door _de_ emmer heen 
+A|10| A: [lijken] net [of] die [aan] [een] [tafel] [zitten] 
+A|11| A: _met_ [een] 
+A|12| A: _ja dat zijn_ nummer tien 
+B|13| B: [ja] 
+B|14| B: f 
+A|15| A: _deze hebben_ [dat] [tafel] die zo heel doorgezakt [en] dan _met _de_ tafel_ erbij [en] zo'n [ja] [een] één kom waar [je] kunnen [uit] eten bijvoorbeeld _met_ zo'n klein dinge eraan 
+A|16| A: [ja] heel klein 
+B|17| B: [deze hebben] het [tafel] wat door [de] emmer heen _zijn met de_ twee poo 
+B|18| B: [en] 
+B|19| B: drievirie hoogte gaan hij dwars door [de] emmer heen 
+B|20| B: [ja] 
+A|21| A: ah [ja] 
+A|22| A: [ja] [en] [dat] [dat] klein 
+A|23| A: [dat zijn] nummer [een] 
+B|24| B: [ja dat zijn] 
+B|25| B: where did it Go 
+B|26| B: [ja] h 
+B|27| B: [de tafel] 
+A|28| A: dit [zijn] die [een] die heel erg doorgezakt [zijn met [de] tafel] [en] [een] [een] komme 
+A|29| A: [lijken] [op] [een] chinees [tafel] eigenlijk 
+A|30| A: [of] Japans 
+A|31| A: [dat zijn] nummer 
+A|32| A: [met de] 
+A|33| A: [ja dat zijn] nummer drie 
+B|34| B: d 
+A|35| A: dit [zijn met] die doorgezakken [zijn] [en] [soort van] [aan] [een] [tafel] [zitten] 
+A|36| A: [met] komme 
+A|37| A: [en] [een] staart achter 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : hier hebben je soort van een ja tafel rechthoek vierkant ding dwars onder de emmer
+	Free: Pattern=een, Pattern=hebben, Pattern=tafel, Pattern=soort van, Pattern=je, Pattern=de, Pattern=ja
+	Constrained: Pattern=soort
+Turn ID=1| B | B : het lijken een beetje alsof er tafelpot aan zitten
+	Free: Pattern=aan, Pattern=lijken, Pattern=zitten, Pattern=een
+	Constrained: 
+Turn ID=2| B | B : en daarop staan een soort van Trechterachtig hoekig trechterachtig dinget
+	Free: Pattern=soort van, Pattern=en, Pattern=een
+	Constrained: Pattern=soort
+Turn ID=3| B | B : en daarachter komen een tui uit uit de emmer
+	Free: Pattern=en, Pattern=de, Pattern=uit, Pattern=een
+	Constrained: 
+Turn ID=4| B | B : even kijken ja je hebben je emmer
+	Free: Pattern=ja, Pattern=je, Pattern=hebben
+	Constrained: 
+Turn ID=5| B | B : en daar zitten een soort vierkant doorheen
+	Free: Pattern=en, Pattern=soort, Pattern=zitten, Pattern=een
+	Constrained: 
+Turn ID=6| B | B : en daar komen twee poo uit
+	Free: Pattern=en, Pattern=uit
+	Constrained: 
+Turn ID=7| B | B : of twee
+	Free: Pattern=of
+	Constrained: 
+Turn ID=8| B | B : ja uit het vierkant
+	Free: Pattern=uit, Pattern=ja
+	Constrained: 
+Turn ID=9| B | B : dat door de emmer heen is de dat zijn ongeveer op drievirie hoogte gaan er een soort van een vierkant door de emmer heen
+	Free: Pattern=de, Pattern=op, Pattern=een, Pattern=soort van, Pattern=dat, Pattern=dat zijn
+	Constrained: Pattern=soort, Pattern=dat, Pattern=zijn
+Turn ID=10| A | A : lijken net of die aan een tafel zitten
+	Free: Pattern=of, Pattern=aan, Pattern=lijken, Pattern=een, Pattern=tafel, Pattern=zitten
+	Constrained: 
+Turn ID=11| A | A : met een
+	Free: Pattern=met, Pattern=een
+	Constrained: 
+Turn ID=12| A | A : ja dat zijn nummer tien
+	Free: Pattern=ja dat zijn
+	Constrained: Pattern=dat zijn, Pattern=dat, Pattern=zijn, Pattern=ja
+Turn ID=13| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=14| B | B : f
+	Free: 
+	Constrained: 
+Turn ID=15| A | A : deze hebben dat tafel die zo heel doorgezakt en dan met de tafel erbij en zo'n ja een één kom waar je kunnen uit eten bijvoorbeeld met zo'n klein dinge eraan
+	Free: Pattern=dat, Pattern=uit, Pattern=een, Pattern=de tafel, Pattern=deze hebben, Pattern=met, Pattern=tafel, Pattern=en, Pattern=je, Pattern=met de, Pattern=ja
+	Constrained: Pattern=de, Pattern=tafel, Pattern=hebben, Pattern=met
+Turn ID=16| A | A : ja heel klein
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=17| B | B : deze hebben het tafel wat door de emmer heen zijn met de twee poo
+	Free: Pattern=zijn met de, Pattern=deze hebben, Pattern=de, Pattern=tafel
+	Constrained: Pattern=hebben, Pattern=met, Pattern=zijn met, Pattern=zijn, Pattern=de, Pattern=met de
+Turn ID=18| B | B : en
+	Free: Pattern=en
+	Constrained: 
+Turn ID=19| B | B : drievirie hoogte gaan hij dwars door de emmer heen
+	Free: Pattern=de
+	Constrained: 
+Turn ID=20| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=21| A | A : ah ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=22| A | A : ja en dat dat klein
+	Free: Pattern=en, Pattern=dat, Pattern=ja
+	Constrained: 
+Turn ID=23| A | A : dat zijn nummer een
+	Free: Pattern=dat zijn, Pattern=een
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=24| B | B : ja dat zijn
+	Free: Pattern=ja dat zijn
+	Constrained: Pattern=dat zijn, Pattern=dat, Pattern=zijn, Pattern=ja
+Turn ID=25| B | B : where did it Go
+	Free: 
+	Constrained: 
+Turn ID=26| B | B : ja h
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=27| B | B : de tafel
+	Free: Pattern=de tafel
+	Constrained: Pattern=de, Pattern=tafel
+Turn ID=28| A | A : dit zijn die een die heel erg doorgezakt zijn met de tafel en een een komme
+	Free: Pattern=een, Pattern=de tafel, Pattern=zijn met de, Pattern=en, Pattern=zijn
+	Constrained: Pattern=met, Pattern=zijn, Pattern=de, Pattern=met de, Pattern=zijn met, Pattern=tafel
+Turn ID=29| A | A : lijken op een chinees tafel eigenlijk
+	Free: Pattern=tafel, Pattern=lijken, Pattern=op, Pattern=een
+	Constrained: 
+Turn ID=30| A | A : of Japans
+	Free: Pattern=of
+	Constrained: 
+Turn ID=31| A | A : dat zijn nummer
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=32| A | A : met de
+	Free: Pattern=met de
+	Constrained: Pattern=de, Pattern=met
+Turn ID=33| A | A : ja dat zijn nummer drie
+	Free: Pattern=ja dat zijn
+	Constrained: Pattern=dat zijn, Pattern=dat, Pattern=zijn, Pattern=ja
+Turn ID=34| B | B : d
+	Free: 
+	Constrained: 
+Turn ID=35| A | A : dit zijn met die doorgezakken zijn en soort van aan een tafel zitten
+	Free: Pattern=aan, Pattern=een, Pattern=en, Pattern=zijn met, Pattern=tafel, Pattern=zitten, Pattern=soort van, Pattern=zijn
+	Constrained: Pattern=soort, Pattern=zijn, Pattern=met
+Turn ID=36| A | A : met komme
+	Free: Pattern=met
+	Constrained: 
+Turn ID=37| A | A : en een staart achter
+	Free: Pattern=en, Pattern=een
+	Constrained: 

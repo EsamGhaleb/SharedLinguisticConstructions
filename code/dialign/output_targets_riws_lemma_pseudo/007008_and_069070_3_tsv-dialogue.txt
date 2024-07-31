@@ -1,0 +1,115 @@
+B|0| B: _oké_ deze staat op _een_ driehoek _met_ _een_ draaien ding naar _dat_ mokje toe _zeggen maar_ 
+B|1| B: _en_ aan _de_ bovenkant zitten er twee vierkant uit _en_ aan _de_ linkerkant iets Scheefs 
+A|2| A: alright 
+A|3| A: jij 
+A|4| A: _ja _ja_ _ja_ _ja_ _ja_ _ja_ ja_ 
+A|5| A: [zeggen maar] [de] enig _die_ echt nog zo lang _zijn_ 
+A|6| A: [oké] _en dan_ boven zoiets _en dan_ zo'n vierkan 
+A|7| A: [oké] 
+A|8| A: _dan_ _hebben_ _ik_ nummer vier 
+B|9| B: [ja ja] 
+B|10| B: [ja] 
+B|11| B: [ja] 
+B|12| B: [oké] 
+B|13| B: _dat zijn_ A 
+A|14| A: dit [zijn] _die_ dit kunnen eigenlijk [een] trofee [zijn] trouwens 
+A|15| A: weten je [met] [met] [met] [dat] driehoekplatformen [zeggen maar] _en dan_ 
+A|16| A: [dat zijn] eigenlijk wel jij moeten drukken 
+B|17| B: [oké] [ik] [hebben] diegene [die] op [een] driehoek staan [met] draaien ding 
+B|18| B: [ja] 
+B|19| B: [ja] [dat zijn] L 
+B|20| B: [ik] [hebben] diegene [met] [de] driehoek [en dan] draaien [en] daarop staan [die] mok 
+A|21| A: [ja] 
+A|22| A: tien 
+B|23| B: [ja] [dat zijn] F 
+A|24| A: [die] [die] trofee 
+A|25| A: [met] [dat] driehoekplatform 
+A|26| A: vier 
+A|27| A: [de] trofee [met] [dat] driehoekplatform 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : oké deze staat op een driehoek met een draaien ding naar dat mokje toe zeggen maar
+	Free: Pattern=dat, Pattern=een, Pattern=zeggen maar, Pattern=met, Pattern=oké
+	Constrained: 
+Turn ID=1| B | B : en aan de bovenkant zitten er twee vierkant uit en aan de linkerkant iets Scheefs
+	Free: Pattern=en, Pattern=de
+	Constrained: 
+Turn ID=2| A | A : alright
+	Free: 
+	Constrained: 
+Turn ID=3| A | A : jij
+	Free: 
+	Constrained: 
+Turn ID=4| A | A : ja ja ja ja ja ja ja
+	Free: Pattern=ja ja
+	Constrained: Pattern=ja
+Turn ID=5| A | A : zeggen maar de enig die echt nog zo lang zijn
+	Free: Pattern=zeggen maar, Pattern=de, Pattern=die, Pattern=zijn
+	Constrained: 
+Turn ID=6| A | A : oké en dan boven zoiets en dan zo'n vierkan
+	Free: Pattern=en dan, Pattern=oké
+	Constrained: Pattern=dan, Pattern=en
+Turn ID=7| A | A : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=8| A | A : dan hebben ik nummer vier
+	Free: Pattern=hebben, Pattern=dan, Pattern=ik
+	Constrained: 
+Turn ID=9| B | B : ja ja
+	Free: Pattern=ja ja
+	Constrained: Pattern=ja
+Turn ID=10| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=11| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=12| B | B : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=13| B | B : dat zijn A
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=14| A | A : dit zijn die dit kunnen eigenlijk een trofee zijn trouwens
+	Free: Pattern=een, Pattern=die, Pattern=zijn
+	Constrained: 
+Turn ID=15| A | A : weten je met met met dat driehoekplatformen zeggen maar en dan
+	Free: Pattern=en dan, Pattern=zeggen maar, Pattern=dat, Pattern=met
+	Constrained: Pattern=dan, Pattern=en
+Turn ID=16| A | A : dat zijn eigenlijk wel jij moeten drukken
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=17| B | B : oké ik hebben diegene die op een driehoek staan met draaien ding
+	Free: Pattern=een, Pattern=hebben, Pattern=met, Pattern=die, Pattern=oké, Pattern=ik
+	Constrained: 
+Turn ID=18| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=19| B | B : ja dat zijn L
+	Free: Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=20| B | B : ik hebben diegene met de driehoek en dan draaien en daarop staan die mok
+	Free: Pattern=de, Pattern=en dan, Pattern=hebben, Pattern=met, Pattern=die, Pattern=ik, Pattern=en
+	Constrained: Pattern=dan, Pattern=en
+Turn ID=21| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=22| A | A : tien
+	Free: 
+	Constrained: 
+Turn ID=23| B | B : ja dat zijn F
+	Free: Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=24| A | A : die die trofee
+	Free: Pattern=die
+	Constrained: 
+Turn ID=25| A | A : met dat driehoekplatform
+	Free: Pattern=dat, Pattern=met
+	Constrained: 
+Turn ID=26| A | A : vier
+	Free: 
+	Constrained: 
+Turn ID=27| A | A : de trofee met dat driehoekplatform
+	Free: Pattern=dat, Pattern=met, Pattern=de
+	Constrained: 

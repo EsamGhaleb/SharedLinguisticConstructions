@@ -1,0 +1,111 @@
+B|0| B: ah _ja_ _ik_ weten welk _je_ bedoelen 
+B|1| B: M 
+A|2| A: [ik] hebben _dat_ kop waarop [je] _twee_ _vierkant_ hebben bovenop maar _die_ _zijn_ _die_ _zijn_ draaien 
+A|3| A: dus _het zijn_ geen plat _vierkant_ maar ze staan rechtop 
+A|4| A: dus op _het_ kop bovenin zo _twee_ _vierkant_ 
+A|5| A: _en_ daar komen nog wat dinget _uit_ 
+A|6| A: _en_ hij hebben ook _een_ neusje _en_ zo'n _soort_ sik 
+A|7| A: [ja] hij hebben hier iets _uit_ _en_ dan hier zo'n zo'n zo'n sik 
+A|8| A: sik _die_ zo naar voren gaan 
+A|9| A: [ja] _aan de_ onderkant 
+A|10| A: onderkant _van_ _het_ kop 
+B|11| B: [ik] vinden dit [een] beetje [een] kraan _met_ [een] wasbak 
+B|12| B: er zitten [een] [soort] [van] afvoer onder [en] [aan de] zijkant [het zijn] [twee] dezelfde ding er zitten [een] [soort] [van] potlood [die] er vooruit [uit] steken 
+B|13| B: [ja] 
+A|14| A: [ja] [met] _dat_ sik oké _dat_ [zijn] nummer negen 
+A|15| A: [die] [met] _dat_ sik 
+B|16| B: _ja dat_ vinden [ik] wasbak [met] [een] kraan [ja] 
+B|17| B: H 
+A|18| A: [ja dat] [zijn] nummer elf 
+B|19| B: [ja] dit [zijn] weer [die] waar [ik] zeggen [een] wasbak [met] [een] kraan 
+B|20| B: [met] [een] potlood [aan de] voorkant 
+B|21| B: [ja] 
+A|22| A: [die] [met] [dat] sik 
+B|23| B: [ja] D 
+B|24| B: [ik] moeten hem even zoeken 
+A|25| A: [ja dat] [zijn] nummer veertien 
+B|26| B: [ja] [de] [de] [soort] [van] wasbak [met] [het] [vierkant] [dat] eruit steken [aan de] bovenkant 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : ah ja ik weten welk je bedoelen
+	Free: Pattern=je, Pattern=ik, Pattern=ja
+	Constrained: 
+Turn ID=1| B | B : M
+	Free: 
+	Constrained: 
+Turn ID=2| A | A : ik hebben dat kop waarop je twee vierkant hebben bovenop maar die zijn die zijn draaien
+	Free: Pattern=dat, Pattern=twee, Pattern=die, Pattern=ik, Pattern=zijn, Pattern=vierkant, Pattern=je
+	Constrained: 
+Turn ID=3| A | A : dus het zijn geen plat vierkant maar ze staan rechtop
+	Free: Pattern=het zijn, Pattern=vierkant
+	Constrained: Pattern=zijn, Pattern=het
+Turn ID=4| A | A : dus op het kop bovenin zo twee vierkant
+	Free: Pattern=twee, Pattern=vierkant, Pattern=het
+	Constrained: 
+Turn ID=5| A | A : en daar komen nog wat dinget uit
+	Free: Pattern=en, Pattern=uit
+	Constrained: 
+Turn ID=6| A | A : en hij hebben ook een neusje en zo'n soort sik
+	Free: Pattern=en, Pattern=soort, Pattern=een
+	Constrained: 
+Turn ID=7| A | A : ja hij hebben hier iets uit en dan hier zo'n zo'n zo'n sik
+	Free: Pattern=en, Pattern=uit, Pattern=ja
+	Constrained: 
+Turn ID=8| A | A : sik die zo naar voren gaan
+	Free: Pattern=die
+	Constrained: 
+Turn ID=9| A | A : ja aan de onderkant
+	Free: Pattern=aan de, Pattern=ja
+	Constrained: Pattern=de
+Turn ID=10| A | A : onderkant van het kop
+	Free: Pattern=van, Pattern=het
+	Constrained: 
+Turn ID=11| B | B : ik vinden dit een beetje een kraan met een wasbak
+	Free: Pattern=ik, Pattern=een, Pattern=met
+	Constrained: 
+Turn ID=12| B | B : er zitten een soort van afvoer onder en aan de zijkant het zijn twee dezelfde ding er zitten een soort van potlood die er vooruit uit steken
+	Free: Pattern=soort, Pattern=twee, Pattern=een, Pattern=uit, Pattern=aan de, Pattern=het zijn, Pattern=die, Pattern=van, Pattern=en
+	Constrained: Pattern=zijn, Pattern=de, Pattern=het
+Turn ID=13| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=14| A | A : ja met dat sik oké dat zijn nummer negen
+	Free: Pattern=dat, Pattern=zijn, Pattern=ja, Pattern=met
+	Constrained: 
+Turn ID=15| A | A : die met dat sik
+	Free: Pattern=dat, Pattern=die, Pattern=met
+	Constrained: 
+Turn ID=16| B | B : ja dat vinden ik wasbak met een kraan ja
+	Free: Pattern=ja, Pattern=een, Pattern=met, Pattern=ik, Pattern=ja dat
+	Constrained: Pattern=dat, Pattern=ja
+Turn ID=17| B | B : H
+	Free: 
+	Constrained: 
+Turn ID=18| A | A : ja dat zijn nummer elf
+	Free: Pattern=ja dat, Pattern=zijn
+	Constrained: Pattern=dat, Pattern=ja
+Turn ID=19| B | B : ja dit zijn weer die waar ik zeggen een wasbak met een kraan
+	Free: Pattern=ja, Pattern=een, Pattern=met, Pattern=die, Pattern=ik, Pattern=zijn
+	Constrained: 
+Turn ID=20| B | B : met een potlood aan de voorkant
+	Free: Pattern=aan de, Pattern=een, Pattern=met
+	Constrained: Pattern=de
+Turn ID=21| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=22| A | A : die met dat sik
+	Free: Pattern=dat, Pattern=die, Pattern=met
+	Constrained: 
+Turn ID=23| B | B : ja D
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=24| B | B : ik moeten hem even zoeken
+	Free: Pattern=ik
+	Constrained: 
+Turn ID=25| A | A : ja dat zijn nummer veertien
+	Free: Pattern=ja dat, Pattern=zijn
+	Constrained: Pattern=dat, Pattern=ja
+Turn ID=26| B | B : ja de de soort van wasbak met het vierkant dat eruit steken aan de bovenkant
+	Free: Pattern=dat, Pattern=soort, Pattern=aan de, Pattern=het, Pattern=met, Pattern=van, Pattern=vierkant, Pattern=de, Pattern=ja
+	Constrained: Pattern=de

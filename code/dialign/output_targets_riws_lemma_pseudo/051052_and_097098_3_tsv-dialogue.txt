@@ -1,0 +1,107 @@
+B|0| B: yes 
+B|1| B: _ik_ hebben _een_ _het_ enig object _met_ _een_ draai erin _en een_ voe _en_ _het_ voetje _zijn_ of driehoekig 
+A|2| A: [met] _die_ driehoek 
+B|3| B: in principe hebben [die] _een_ 
+B|4| B: _ja_ 
+A|5| A: _en dan_ drie dinget 
+A|6| A: twee vierkant [en een] 
+A|7| A: oké _dat zijn_ _nummer_ vier 
+A|8| A: dit [zijn] jou wijnglas [die] [met] [die] driehoek [en] _dat_ [en] [die] twee vierkant [en] 
+B|9| B: _ja_ 
+B|10| B: [dat zijn] bij mij [nummer] A 
+A|11| A: waar _staan_ [die] 
+A|12| A: we we [zijn] er zo snel weer _ah_ [ja] daar 
+A|13| A: [nummer] tien 
+B|14| B: _ik_ hebben degeen [met] de draai erin [die] op [een] driehoekig voe [staan] 
+A|15| A: [ja] [ik] moeten zeggen 
+A|16| A: [het] wijnglas 
+B|17| B: [ah] 
+B|18| B: [ja] [dat zijn] L 
+A|19| A: [ja] vier 
+B|20| B: [ik] hebben degeen [met] [een] draai erin 
+B|21| B: [met] [een] balkje 
+B|22| B: dus de de [met] [een] draaivoet [en dan] [een] vierkan boven vierkantje in [het] midden [en dan] [een] soort van trapezium 
+A|23| A: [het] wijnglas 
+B|24| B: [ja] 
+B|25| B: F 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : yes
+	Free: 
+	Constrained: 
+Turn ID=1| B | B : ik hebben een het enig object met een draai erin en een voe en het voetje zijn of driehoekig
+	Free: Pattern=een, Pattern=het, Pattern=met, Pattern=ik, Pattern=en, Pattern=en een, Pattern=zijn
+	Constrained: Pattern=en, Pattern=een
+Turn ID=2| A | A : met die driehoek
+	Free: Pattern=die, Pattern=met
+	Constrained: 
+Turn ID=3| B | B : in principe hebben die een
+	Free: Pattern=die, Pattern=een
+	Constrained: 
+Turn ID=4| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=5| A | A : en dan drie dinget
+	Free: Pattern=en dan
+	Constrained: Pattern=en
+Turn ID=6| A | A : twee vierkant en een
+	Free: Pattern=en een
+	Constrained: Pattern=en, Pattern=een
+Turn ID=7| A | A : oké dat zijn nummer vier
+	Free: Pattern=dat zijn, Pattern=nummer
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=8| A | A : dit zijn jou wijnglas die met die driehoek en dat en die twee vierkant en
+	Free: Pattern=dat, Pattern=met, Pattern=die, Pattern=en, Pattern=zijn
+	Constrained: 
+Turn ID=9| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=10| B | B : dat zijn bij mij nummer A
+	Free: Pattern=dat zijn, Pattern=nummer
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=11| A | A : waar staan die
+	Free: Pattern=staan, Pattern=die
+	Constrained: 
+Turn ID=12| A | A : we we zijn er zo snel weer ah ja daar
+	Free: Pattern=ja, Pattern=zijn, Pattern=ah
+	Constrained: 
+Turn ID=13| A | A : nummer tien
+	Free: Pattern=nummer
+	Constrained: 
+Turn ID=14| B | B : ik hebben degeen met de draai erin die op een driehoekig voe staan
+	Free: Pattern=met, Pattern=die, Pattern=ik, Pattern=een, Pattern=staan
+	Constrained: 
+Turn ID=15| A | A : ja ik moeten zeggen
+	Free: Pattern=ja, Pattern=ik
+	Constrained: 
+Turn ID=16| A | A : het wijnglas
+	Free: Pattern=het
+	Constrained: 
+Turn ID=17| B | B : ah
+	Free: Pattern=ah
+	Constrained: 
+Turn ID=18| B | B : ja dat zijn L
+	Free: Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=19| A | A : ja vier
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=20| B | B : ik hebben degeen met een draai erin
+	Free: Pattern=ik, Pattern=met, Pattern=een
+	Constrained: 
+Turn ID=21| B | B : met een balkje
+	Free: Pattern=met, Pattern=een
+	Constrained: 
+Turn ID=22| B | B : dus de de met een draaivoet en dan een vierkan boven vierkantje in het midden en dan een soort van trapezium
+	Free: Pattern=en dan, Pattern=het, Pattern=met, Pattern=een
+	Constrained: Pattern=en
+Turn ID=23| A | A : het wijnglas
+	Free: Pattern=het
+	Constrained: 
+Turn ID=24| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=25| B | B : F
+	Free: 
+	Constrained: 

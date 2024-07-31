@@ -1,0 +1,135 @@
+A|0| A: oké _ik hebben_ er één _ik hebben het_ _het_ _zijn_ _een_ _een_ _het_ cupje _en_ 
+A|1| A: _het_ _hebben_ _een soort_ _van_ bolle eraan _aan de rechterkant_ _met een_ staafje erdoorheen 
+A|2| A: _en_ _een soort_ _van_ _ja_ zuignap zullen _ik_ _het_ willen omschrijven 
+A|3| A: _zeggen maar_ zo'n _soort_ zeepbakje die in _de_ douche hangen 
+A|4| A: _en_ 
+A|5| A: één zo'n stok erbovenop 
+B|6| B: [en] zitten [het] schotelt echt onder [het] 
+A|7| A: _ja_ 
+B|8| B: [aan] [het] voorkant 
+B|9| B: [ja] 
+B|10| B: [ja] 
+B|11| B: [ja] precies _dat zijn_ bij mij _nummer_ F denken [ik] 
+B|12| B: moeten je op [de] geel drukken [ja] toch ? 
+A|13| A: [ja] [ja] _en dan_ [dat] dinge _aan de_ 
+A|14| A: [dat zijn] [nummer] vijf 
+B|15| B: [ik hebben het] eivormig deel voor 
+B|16| B: twee [zeggen maar] [dat] eivormig deel lijken [het] balkje te doorsplitsen [en] [aan] [het] eind [van] [het] balk zitten [dan] [een] plat cirkel 
+B|17| B: [en dan] steken daarboven nog [een] klein frommel uit 
+B|18| B: yes 
+A|19| A: zuignap 
+B|20| B: [ja] [dat zijn] [dan] denken [ik] [de] A 
+B|21| B: [ja] 
+A|22| A: [ja] vijf 
+B|23| B: [ik hebben] degeen [met een] plat cirkel [aan de rechterkant] 
+B|24| B: volgen door [een] klein cilinder 
+B|25| B: [een] rond vorm 
+B|26| B: weer [een] klein of klein balk [en dan] [aan de] linkerkant [dat] uitstekend lepeltjeidee 
+A|27| A: [het] zuignap 
+B|28| B: ah [ja] 
+B|29| B: bij mij [zijn] [dat] [nummer] H 
+A|30| A: [ja] [nummer] vijftien 
+B|31| B: [ik hebben] degeen [met [een] soort] ei voor 
+B|32| B: [dan] waar twee balk uit komen rechts [een] plat cirkel als afsluiter [en] links [dat] 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : oké ik hebben er één ik hebben het het zijn een een het cupje en
+	Free: Pattern=ik hebben, Pattern=een, Pattern=ik hebben het, Pattern=het, Pattern=en, Pattern=zijn
+	Constrained: Pattern=het, Pattern=ik hebben, Pattern=ik, Pattern=hebben
+Turn ID=1| A | A : het hebben een soort van bolle eraan aan de rechterkant met een staafje erdoorheen
+	Free: Pattern=het, Pattern=hebben, Pattern=aan de rechterkant, Pattern=met een, Pattern=een soort, Pattern=van
+	Constrained: Pattern=soort, Pattern=aan de, Pattern=een, Pattern=de, Pattern=aan
+Turn ID=2| A | A : en een soort van ja zuignap zullen ik het willen omschrijven
+	Free: Pattern=ja, Pattern=het, Pattern=ik, Pattern=een soort, Pattern=van, Pattern=en
+	Constrained: Pattern=soort, Pattern=een
+Turn ID=3| A | A : zeggen maar zo'n soort zeepbakje die in de douche hangen
+	Free: Pattern=zeggen maar, Pattern=de, Pattern=soort
+	Constrained: 
+Turn ID=4| A | A : en
+	Free: Pattern=en
+	Constrained: 
+Turn ID=5| A | A : één zo'n stok erbovenop
+	Free: 
+	Constrained: 
+Turn ID=6| B | B : en zitten het schotelt echt onder het
+	Free: Pattern=en, Pattern=het
+	Constrained: 
+Turn ID=7| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=8| B | B : aan het voorkant
+	Free: Pattern=aan, Pattern=het
+	Constrained: 
+Turn ID=9| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=10| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=11| B | B : ja precies dat zijn bij mij nummer F denken ik
+	Free: Pattern=dat zijn, Pattern=ja, Pattern=ik, Pattern=nummer
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=12| B | B : moeten je op de geel drukken ja toch ?
+	Free: Pattern=de, Pattern=ja
+	Constrained: 
+Turn ID=13| A | A : ja ja en dan dat dinge aan de
+	Free: Pattern=aan de, Pattern=en dan, Pattern=dat, Pattern=ja
+	Constrained: Pattern=dan, Pattern=en, Pattern=de, Pattern=aan
+Turn ID=14| A | A : dat zijn nummer vijf
+	Free: Pattern=dat zijn, Pattern=nummer
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=15| B | B : ik hebben het eivormig deel voor
+	Free: Pattern=ik hebben het
+	Constrained: Pattern=het, Pattern=ik hebben, Pattern=ik, Pattern=hebben
+Turn ID=16| B | B : twee zeggen maar dat eivormig deel lijken het balkje te doorsplitsen en aan het eind van het balk zitten dan een plat cirkel
+	Free: Pattern=dat, Pattern=aan, Pattern=dan, Pattern=een, Pattern=zeggen maar, Pattern=het, Pattern=van, Pattern=en
+	Constrained: 
+Turn ID=17| B | B : en dan steken daarboven nog een klein frommel uit
+	Free: Pattern=en dan, Pattern=een
+	Constrained: Pattern=dan, Pattern=en
+Turn ID=18| B | B : yes
+	Free: 
+	Constrained: 
+Turn ID=19| A | A : zuignap
+	Free: 
+	Constrained: 
+Turn ID=20| B | B : ja dat zijn dan denken ik de A
+	Free: Pattern=dat zijn, Pattern=dan, Pattern=ik, Pattern=de, Pattern=ja
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=21| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=22| A | A : ja vijf
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=23| B | B : ik hebben degeen met een plat cirkel aan de rechterkant
+	Free: Pattern=aan de rechterkant, Pattern=ik hebben, Pattern=met een
+	Constrained: Pattern=aan de, Pattern=een, Pattern=hebben, Pattern=ik, Pattern=de, Pattern=aan
+Turn ID=24| B | B : volgen door een klein cilinder
+	Free: Pattern=een
+	Constrained: 
+Turn ID=25| B | B : een rond vorm
+	Free: Pattern=een
+	Constrained: 
+Turn ID=26| B | B : weer een klein of klein balk en dan aan de linkerkant dat uitstekend lepeltjeidee
+	Free: Pattern=aan de, Pattern=en dan, Pattern=dat, Pattern=een
+	Constrained: Pattern=dan, Pattern=en, Pattern=de, Pattern=aan
+Turn ID=27| A | A : het zuignap
+	Free: Pattern=het
+	Constrained: 
+Turn ID=28| B | B : ah ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=29| B | B : bij mij zijn dat nummer H
+	Free: Pattern=dat, Pattern=zijn, Pattern=nummer
+	Constrained: 
+Turn ID=30| A | A : ja nummer vijftien
+	Free: Pattern=ja, Pattern=nummer
+	Constrained: 
+Turn ID=31| B | B : ik hebben degeen met een soort ei voor
+	Free: Pattern=ik hebben, Pattern=een soort, Pattern=met een
+	Constrained: Pattern=hebben, Pattern=ik, Pattern=soort, Pattern=een
+Turn ID=32| B | B : dan waar twee balk uit komen rechts een plat cirkel als afsluiter en links dat
+	Free: Pattern=dat, Pattern=dan, Pattern=en, Pattern=een
+	Constrained: 

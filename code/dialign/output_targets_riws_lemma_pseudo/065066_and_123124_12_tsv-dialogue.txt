@@ -1,0 +1,131 @@
+A|0| A: alsof je kennen je _die_ bankschroeven waar waar je als als kind daar doen ik altijd mee spelen waar je hem ieder keer _zo_ 
+A|1| A: moeten je hem ieder keer _zo_ aandraaien _dat_ zitten _aan de linkerkant_ _met_ _een_ plat _rond_ plateau _aan de rechterkant_ 
+A|2| A: _ja_ vag kunnen ik _het_ niet maken 
+A|3| A: _er_ zitten één _aan de linkerkant_ zitten _er_ _een_ pin 
+A|4| A: _er_ zitten _een_ _een_ _een_ nietgeometrisch vorm _met_ _een_ pin 
+A|5| A: _en aan de_ ander kant zitten _een rond plateaut_ 
+B|6| B: [ja] 
+B|7| B: [ja] [een] soort cilindertje 
+B|8| B: [ja] yes [ja] 
+B|9| B: zo'n naar binnen of naar binnen gevouwen 
+B|10| B: dan _zijn_ [het] 
+B|11| B: [ja] 
+B|12| B: L 
+A|13| A: [ja] even kijken waar _die_ [zijn] 
+A|14| A: [ja] zeven 
+B|15| B: dit _zijn die_ [met] [aan de linkerkant] [dat] soort omgevouwen [met] [de] Eiffeltoren [er] [zo] omgekeerd in zetten 
+B|16| B: [en [aan de] rechterkant] [een] soort van plateautje 
+B|17| B: [een rond plateaut] 
+B|18| B: [en [aan de] linkerkant] [een] soort van Cvorm omgevouwen 
+B|19| B: [ja] 
+B|20| B: [ja] 
+A|21| A: [zijn die] bankschroef weer 
+B|22| B: [ja] [ja] [met] [het] omgevouwen stuk 
+B|23| B: _dat zijn_ C 
+A|24| A: [die] bankschroef 
+A|25| A: één 
+A|26| A: [de] bankschroef 
+B|27| B: dit [zijn] [de] Eiffeltoren 
+A|28| A: [ja] 
+A|29| A: [dat zijn] dertien 
+B|30| B: [dat zijn] A 
+B|31| B: dit [zijn] Eiffeltoren in [de] omgevouwen C 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : alsof je kennen je die bankschroeven waar waar je als als kind daar doen ik altijd mee spelen waar je hem ieder keer zo
+	Free: Pattern=die, Pattern=zo
+	Constrained: 
+Turn ID=1| A | A : moeten je hem ieder keer zo aandraaien dat zitten aan de linkerkant met een plat rond plateau aan de rechterkant
+	Free: Pattern=dat, Pattern=een, Pattern=zo, Pattern=met, Pattern=aan de rechterkant, Pattern=rond, Pattern=aan de linkerkant
+	Constrained: Pattern=de
+Turn ID=2| A | A : ja vag kunnen ik het niet maken
+	Free: Pattern=ja, Pattern=het
+	Constrained: 
+Turn ID=3| A | A : er zitten één aan de linkerkant zitten er een pin
+	Free: Pattern=aan de linkerkant, Pattern=er, Pattern=een
+	Constrained: Pattern=de
+Turn ID=4| A | A : er zitten een een een nietgeometrisch vorm met een pin
+	Free: Pattern=met, Pattern=er, Pattern=een
+	Constrained: 
+Turn ID=5| A | A : en aan de ander kant zitten een rond plateaut
+	Free: Pattern=en aan de, Pattern=een rond plateaut
+	Constrained: Pattern=een, Pattern=de, Pattern=rond
+Turn ID=6| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=7| B | B : ja een soort cilindertje
+	Free: Pattern=een, Pattern=ja
+	Constrained: 
+Turn ID=8| B | B : ja yes ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=9| B | B : zo'n naar binnen of naar binnen gevouwen
+	Free: 
+	Constrained: 
+Turn ID=10| B | B : dan zijn het
+	Free: Pattern=zijn, Pattern=het
+	Constrained: 
+Turn ID=11| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=12| B | B : L
+	Free: 
+	Constrained: 
+Turn ID=13| A | A : ja even kijken waar die zijn
+	Free: Pattern=zijn, Pattern=die, Pattern=ja
+	Constrained: 
+Turn ID=14| A | A : ja zeven
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=15| B | B : dit zijn die met aan de linkerkant dat soort omgevouwen met de Eiffeltoren er zo omgekeerd in zetten
+	Free: Pattern=dat, Pattern=de, Pattern=zijn die, Pattern=zo, Pattern=met, Pattern=er, Pattern=aan de linkerkant
+	Constrained: Pattern=de, Pattern=zijn, Pattern=die
+Turn ID=16| B | B : en aan de rechterkant een soort van plateautje
+	Free: Pattern=aan de rechterkant, Pattern=en aan de, Pattern=een
+	Constrained: Pattern=de
+Turn ID=17| B | B : een rond plateaut
+	Free: Pattern=een rond plateaut
+	Constrained: Pattern=rond, Pattern=een
+Turn ID=18| B | B : en aan de linkerkant een soort van Cvorm omgevouwen
+	Free: Pattern=en aan de, Pattern=aan de linkerkant, Pattern=een
+	Constrained: Pattern=de
+Turn ID=19| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=20| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=21| A | A : zijn die bankschroef weer
+	Free: Pattern=zijn die
+	Constrained: Pattern=zijn, Pattern=die
+Turn ID=22| B | B : ja ja met het omgevouwen stuk
+	Free: Pattern=met, Pattern=ja, Pattern=het
+	Constrained: 
+Turn ID=23| B | B : dat zijn C
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=24| A | A : die bankschroef
+	Free: Pattern=die
+	Constrained: 
+Turn ID=25| A | A : één
+	Free: 
+	Constrained: 
+Turn ID=26| A | A : de bankschroef
+	Free: Pattern=de
+	Constrained: 
+Turn ID=27| B | B : dit zijn de Eiffeltoren
+	Free: Pattern=zijn, Pattern=de
+	Constrained: 
+Turn ID=28| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=29| A | A : dat zijn dertien
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=30| B | B : dat zijn A
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=31| B | B : dit zijn Eiffeltoren in de omgevouwen C
+	Free: Pattern=zijn, Pattern=de
+	Constrained: 

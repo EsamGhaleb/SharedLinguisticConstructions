@@ -1,0 +1,127 @@
+A|0| A: _ja_ ik weten _het_ 
+A|1| A: twaalf 
+A|2| A: ik _hebben een_ bol _rechtsvoor_ 
+A|3| A: _en_ _dat_ gek vormp zeggen maar één staaf _aan de_ bovenkant _en een_ gek vormp _aan_ linksbof 
+A|4| A: _een_ soort dobber 
+B|5| B: deze [hebben] ook vier dinget [aan de] [de] emmer , [aan de] beker 
+B|6| B: beetje [rechtsvoor] zijn [het] [een] bal 
+B|7| B: _bovenop_ [hebben] hij er twee 
+B|8| B: beetje in [het] midden zijn [het] [een] staafje 
+B|9| B: [ja] 
+B|10| B: [ja] [ja] [ja] 
+A|11| A: [bovenop] 
+A|12| A: [ja] 
+A|13| A: _dat_ vooraan met links naar _link_ wijst _die_ dobber 
+A|14| A: negen 
+A|15| A: ik [hebben] _die_ dobber _die_ linksboven wijzen 
+A|16| A: onder ander [een] bol [aan de] rechterkant 
+A|17| A: [ja] twaalf 
+B|18| B: [een] bal 
+B|19| B: [ja] 
+B|20| B: [dat] zijn C 
+A|21| A: ik [hebben] [de] dobber 
+B|22| B: deze [hebben een] balle [rechtsvoor] [en een] gootje [link] 
+B|23| B: nog iets [link] daarvan 
+B|24| B: [ja] 
+B|25| B: [en een] bal 
+B|26| B: [ja] 
+B|27| B: [dat] zijn H 
+B|28| B: deze [hebben] we net ook , [die] liniaal [die] er boven uit komen , rechts [een] bal , gootje [link] 
+B|29| B: [ja] 
+B|30| B: [ja] G 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : ja ik weten het
+	Free: Pattern=ja, Pattern=het
+	Constrained: 
+Turn ID=1| A | A : twaalf
+	Free: 
+	Constrained: 
+Turn ID=2| A | A : ik hebben een bol rechtsvoor
+	Free: Pattern=hebben een, Pattern=rechtsvoor
+	Constrained: Pattern=hebben, Pattern=een
+Turn ID=3| A | A : en dat gek vormp zeggen maar één staaf aan de bovenkant en een gek vormp aan linksbof
+	Free: Pattern=dat, Pattern=aan, Pattern=aan de, Pattern=en, Pattern=en een
+	Constrained: Pattern=aan, Pattern=en, Pattern=de, Pattern=een
+Turn ID=4| A | A : een soort dobber
+	Free: Pattern=een
+	Constrained: 
+Turn ID=5| B | B : deze hebben ook vier dinget aan de de emmer , aan de beker
+	Free: Pattern=aan de, Pattern=de, Pattern=hebben
+	Constrained: Pattern=aan, Pattern=de
+Turn ID=6| B | B : beetje rechtsvoor zijn het een bal
+	Free: Pattern=rechtsvoor, Pattern=een, Pattern=het
+	Constrained: 
+Turn ID=7| B | B : bovenop hebben hij er twee
+	Free: Pattern=bovenop, Pattern=hebben
+	Constrained: 
+Turn ID=8| B | B : beetje in het midden zijn het een staafje
+	Free: Pattern=een, Pattern=het
+	Constrained: 
+Turn ID=9| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=10| B | B : ja ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=11| A | A : bovenop
+	Free: Pattern=bovenop
+	Constrained: 
+Turn ID=12| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=13| A | A : dat vooraan met links naar link wijst die dobber
+	Free: Pattern=link, Pattern=dat, Pattern=die
+	Constrained: 
+Turn ID=14| A | A : negen
+	Free: 
+	Constrained: 
+Turn ID=15| A | A : ik hebben die dobber die linksboven wijzen
+	Free: Pattern=die, Pattern=hebben
+	Constrained: 
+Turn ID=16| A | A : onder ander een bol aan de rechterkant
+	Free: Pattern=aan de, Pattern=een
+	Constrained: Pattern=aan, Pattern=de
+Turn ID=17| A | A : ja twaalf
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=18| B | B : een bal
+	Free: Pattern=een
+	Constrained: 
+Turn ID=19| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=20| B | B : dat zijn C
+	Free: Pattern=dat
+	Constrained: 
+Turn ID=21| A | A : ik hebben de dobber
+	Free: Pattern=de, Pattern=hebben
+	Constrained: 
+Turn ID=22| B | B : deze hebben een balle rechtsvoor en een gootje link
+	Free: Pattern=hebben een, Pattern=en een, Pattern=link, Pattern=rechtsvoor
+	Constrained: Pattern=en, Pattern=hebben, Pattern=een
+Turn ID=23| B | B : nog iets link daarvan
+	Free: Pattern=link
+	Constrained: 
+Turn ID=24| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=25| B | B : en een bal
+	Free: Pattern=en een
+	Constrained: Pattern=en, Pattern=een
+Turn ID=26| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=27| B | B : dat zijn H
+	Free: Pattern=dat
+	Constrained: 
+Turn ID=28| B | B : deze hebben we net ook , die liniaal die er boven uit komen , rechts een bal , gootje link
+	Free: Pattern=link, Pattern=die, Pattern=hebben, Pattern=een
+	Constrained: 
+Turn ID=29| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=30| B | B : ja G
+	Free: Pattern=ja
+	Constrained: 

@@ -1,0 +1,155 @@
+B|0| B: _deze _hebben_ een_ soort _van_ _plateau_ _in_ _het midden_ of er doorheen maar niet _ja_ _en_ _dan_ _in_ _het midden_ _en_ _dan_ _twee_ _klein_ staafjes _bovenop_ 
+B|1| B: iets veel aan _de_ rechterkant 
+B|2| B: _ook_ iets veel aan _de_ rechterkant _een_ slurf _die_ naar _het_ _plateau_ gaan 
+B|3| B: _en_ aan _de_ linkerkant zo'n zo'n armpje wat zo gaan 
+A|4| A: [ja] [twee] _okee_ [dan] weten _ik_ [het] 
+A|5| A: _dat zijn_ nummer zeven 
+A|6| A: hier [hebben] [de] hoofdvorm [twee] [van] [die] [klein] uitsteeksel [bovenop] 
+A|7| A: hij [hebben een] [plateau] waar [die] [in] vastzit beetje onder [het midden] 
+A|8| A: _okee_ 
+A|9| A: [ja] 
+A|10| A: nummer achten 
+A|11| A: [deze hebben] [deze] hoofdvorm [hebben] [twee] [van] [die] uitsteeksel bovenaan [hebben een] vierkant [plateau] om zich [en] [een] Schuine Buis lopen voor [de] hoofdvorm uit 
+A|12| A: [ja] link [hebben] hij [ook] nog één _met_ [een] hoekje erin 
+B|13| B: [en] [twee] balk [bovenop] zitten [een] antenne 
+B|14| B: [ja] 
+B|15| B: [ja] 
+B|16| B: [dan] [zijn] [het] f 
+A|17| A: [ja] 
+A|18| A: [ja] nummer tien 
+B|19| B: dit [zijn] [het] [plateau] door [het midden] 
+B|20| B: [twee] antenne [bovenop] 
+B|21| B: [het] armpje aan [de] linkerkant [en] [de] slurf aan [de] rechterkant [die] eruit steken [en] op [de] [plateau] terechtkomen 
+B|22| B: [ja] [die] [een] 
+B|23| B: gewoon [het] houdertje zullen [ik] maar zeggen 
+B|24| B: [een] tafel [met] [twee] poo 
+B|25| B: soort [van] 
+B|26| B: antennedinget 
+B|27| B: [ja] 
+B|28| B: [ja] 
+B|29| B: [ja] 
+A|30| A: [deze] hoofdvorm [hebben] [die] [zijn] ingebouwd [in] _dat_ [in] [een] vierkant [plateau] [hebben] [twee] uitsteekselt [bovenop] 
+B|31| B: [okee] 
+B|32| B: [ja] [dat zijn] k 
+A|33| A: [en] link [hebben] hij nog één [ja] één 
+B|34| B: even kijken [het] [plateau] door [het midden] 
+B|35| B: [twee] antenne [bovenop] rechts [een] slurf [en] links [een] tetrisvormpje 
+B|36| B: [ja] 
+B|37| B: [ja] k 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : deze hebben een soort van plateau in het midden of er doorheen maar niet ja en dan in het midden en dan twee klein staafjes bovenop
+	Free: Pattern=bovenop, Pattern=het midden, Pattern=ja, Pattern=dan, Pattern=in, Pattern=klein, Pattern=twee, Pattern=hebben een, Pattern=plateau, Pattern=deze hebben, Pattern=van, Pattern=en
+	Constrained: Pattern=een, Pattern=deze, Pattern=het, Pattern=hebben
+Turn ID=1| B | B : iets veel aan de rechterkant
+	Free: Pattern=de
+	Constrained: 
+Turn ID=2| B | B : ook iets veel aan de rechterkant een slurf die naar het plateau gaan
+	Free: Pattern=de, Pattern=ook, Pattern=een, Pattern=het, Pattern=plateau, Pattern=die
+	Constrained: 
+Turn ID=3| B | B : en aan de linkerkant zo'n zo'n armpje wat zo gaan
+	Free: Pattern=de, Pattern=en
+	Constrained: 
+Turn ID=4| A | A : ja twee okee dan weten ik het
+	Free: Pattern=twee, Pattern=dan, Pattern=het, Pattern=ik, Pattern=okee, Pattern=ja
+	Constrained: 
+Turn ID=5| A | A : dat zijn nummer zeven
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=6| A | A : hier hebben de hoofdvorm twee van die klein uitsteeksel bovenop
+	Free: Pattern=bovenop, Pattern=twee, Pattern=de, Pattern=hebben, Pattern=die, Pattern=klein, Pattern=van
+	Constrained: 
+Turn ID=7| A | A : hij hebben een plateau waar die in vastzit beetje onder het midden
+	Free: Pattern=het midden, Pattern=hebben een, Pattern=plateau, Pattern=in, Pattern=die
+	Constrained: Pattern=hebben, Pattern=het, Pattern=een
+Turn ID=8| A | A : okee
+	Free: Pattern=okee
+	Constrained: 
+Turn ID=9| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=10| A | A : nummer achten
+	Free: 
+	Constrained: 
+Turn ID=11| A | A : deze hebben deze hoofdvorm hebben twee van die uitsteeksel bovenaan hebben een vierkant plateau om zich en een Schuine Buis lopen voor de hoofdvorm uit
+	Free: Pattern=de, Pattern=een, Pattern=hebben, Pattern=die, Pattern=deze, Pattern=twee, Pattern=hebben een, Pattern=plateau, Pattern=deze hebben, Pattern=van, Pattern=en
+	Constrained: Pattern=hebben, Pattern=deze, Pattern=een
+Turn ID=12| A | A : ja link hebben hij ook nog één met een hoekje erin
+	Free: Pattern=ja, Pattern=ook, Pattern=een, Pattern=hebben, Pattern=met
+	Constrained: 
+Turn ID=13| B | B : en twee balk bovenop zitten een antenne
+	Free: Pattern=bovenop, Pattern=twee, Pattern=en, Pattern=een
+	Constrained: 
+Turn ID=14| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=15| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=16| B | B : dan zijn het f
+	Free: Pattern=dan, Pattern=zijn, Pattern=het
+	Constrained: 
+Turn ID=17| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=18| A | A : ja nummer tien
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=19| B | B : dit zijn het plateau door het midden
+	Free: Pattern=het midden, Pattern=zijn, Pattern=plateau, Pattern=het
+	Constrained: Pattern=het
+Turn ID=20| B | B : twee antenne bovenop
+	Free: Pattern=bovenop, Pattern=twee
+	Constrained: 
+Turn ID=21| B | B : het armpje aan de linkerkant en de slurf aan de rechterkant die eruit steken en op de plateau terechtkomen
+	Free: Pattern=de, Pattern=het, Pattern=plateau, Pattern=die, Pattern=en
+	Constrained: 
+Turn ID=22| B | B : ja die een
+	Free: Pattern=die, Pattern=ja, Pattern=een
+	Constrained: 
+Turn ID=23| B | B : gewoon het houdertje zullen ik maar zeggen
+	Free: Pattern=ik, Pattern=het
+	Constrained: 
+Turn ID=24| B | B : een tafel met twee poo
+	Free: Pattern=twee, Pattern=met, Pattern=een
+	Constrained: 
+Turn ID=25| B | B : soort van
+	Free: Pattern=van
+	Constrained: 
+Turn ID=26| B | B : antennedinget
+	Free: 
+	Constrained: 
+Turn ID=27| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=28| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=29| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=30| A | A : deze hoofdvorm hebben die zijn ingebouwd in dat in een vierkant plateau hebben twee uitsteekselt bovenop
+	Free: Pattern=twee, Pattern=een, Pattern=hebben, Pattern=plateau, Pattern=in, Pattern=die, Pattern=zijn, Pattern=deze, Pattern=dat, Pattern=bovenop
+	Constrained: 
+Turn ID=31| B | B : okee
+	Free: Pattern=okee
+	Constrained: 
+Turn ID=32| B | B : ja dat zijn k
+	Free: Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=33| A | A : en link hebben hij nog één ja één
+	Free: Pattern=hebben, Pattern=ja, Pattern=en
+	Constrained: 
+Turn ID=34| B | B : even kijken het plateau door het midden
+	Free: Pattern=het midden, Pattern=plateau, Pattern=het
+	Constrained: Pattern=het
+Turn ID=35| B | B : twee antenne bovenop rechts een slurf en links een tetrisvormpje
+	Free: Pattern=bovenop, Pattern=twee, Pattern=en, Pattern=een
+	Constrained: 
+Turn ID=36| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=37| B | B : ja k
+	Free: Pattern=ja
+	Constrained: 

@@ -1,0 +1,171 @@
+A|0| A: _oké_ hij _hebben_ _twee_ van _die_ deegrol hand handvat eraan _zitten_ _één_ doorgaan naar links _en_ _de_ ander gaan _recht omhoog_ 
+B|1| B: [recht omhoog] 
+A|2| A: _dus_ _één_ deegrolhandvat [recht omhoog] 
+A|3| A: _één_ doorgaan naar links 
+A|4| A: _en_ rechts _zitten_ _er_ een soort van _steeds_ klein wordend vierkant richting _het_ midden 
+B|5| B: [steeds] _ja_ _ja_ _ja_ _ja_ _ja_ 
+B|6| B: [dus] ze [er] [zitten] zeggen maar waar _zijn_ [die] 
+A|7| A: _en_ ook nog een raar _ding_ naar linksachter 
+B|8| B: _ja_ _ik_ [zitten] _zijn_ _hem_ even aan [het] zoeken 
+B|9| B: _ja_ _ik_ [hebben] _hem_ 
+A|10| A: [ja] 
+B|11| B: [ja] [ja] [ja] dat _zijn_ bij mij _E_ [ja] _E_ 
+A|12| A: _dan_ [zijn] [het] _elf E_ 
+B|13| B: [elf E] 
+A|14| A: _dan_ gaan we [die] vanaf nu deegrol noemen 
+B|15| B: _deegroller_ ? [oké] [ja] 
+A|16| A: deegrol 
+B|17| B: [oké] deze dit [zijn] _deegroller_ 
+A|18| A: [oké] 
+B|19| B: _F_ bij mij 
+A|20| A: moeten [ik] [hem] eerst vinden 
+A|21| A: [F] 
+A|22| A: [F] [elf] 
+A|23| A: deegrol 
+B|24| B: even kijken 
+B|25| B: [ja] J [en] bij jou 
+A|26| A: _drie_ 
+B|27| B: J [drie] 
+B|28| B: dit [zijn] [de] _deegroller_ 
+A|29| A: [ja] 
+B|30| B: _H_ 
+A|31| A: negen [H] negen 
+A|32| A: mijn deegrol 
+B|33| B: [ja] even kijken 
+A|34| A: _twee_ 
+B|35| B: B [twee] 
+B|36| B: deze dit [zijn] [die] met [de] verrekijker maar [dan] met [één] [ding] [de] _deegroller_ 
+B|37| B: [ja] 
+B|38| B: [E] 
+A|39| A: [dus] [deegroller] 
+B|40| B: [deegroller] 
+A|41| A: [E] vier 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : oké hij hebben twee van die deegrol hand handvat eraan zitten één doorgaan naar links en de ander gaan recht omhoog
+	Free: Pattern=recht omhoog, Pattern=twee, Pattern=de, Pattern=hebben, Pattern=oké, Pattern=en, Pattern=één, Pattern=die, Pattern=zitten
+	Constrained: 
+Turn ID=1| B | B : recht omhoog
+	Free: Pattern=recht omhoog
+	Constrained: 
+Turn ID=2| A | A : dus één deegrolhandvat recht omhoog
+	Free: Pattern=recht omhoog, Pattern=één, Pattern=dus
+	Constrained: 
+Turn ID=3| A | A : één doorgaan naar links
+	Free: Pattern=één
+	Constrained: 
+Turn ID=4| A | A : en rechts zitten er een soort van steeds klein wordend vierkant richting het midden
+	Free: Pattern=het, Pattern=steeds, Pattern=zitten, Pattern=er, Pattern=en
+	Constrained: 
+Turn ID=5| B | B : steeds ja ja ja ja ja
+	Free: Pattern=steeds, Pattern=ja
+	Constrained: 
+Turn ID=6| B | B : dus ze er zitten zeggen maar waar zijn die
+	Free: Pattern=dus, Pattern=er, Pattern=zijn, Pattern=die, Pattern=zitten
+	Constrained: 
+Turn ID=7| A | A : en ook nog een raar ding naar linksachter
+	Free: Pattern=ding, Pattern=en
+	Constrained: 
+Turn ID=8| B | B : ja ik zitten zijn hem even aan het zoeken
+	Free: Pattern=ja, Pattern=het, Pattern=zitten, Pattern=ik, Pattern=zijn, Pattern=hem
+	Constrained: 
+Turn ID=9| B | B : ja ik hebben hem
+	Free: Pattern=ja, Pattern=hebben, Pattern=ik, Pattern=hem
+	Constrained: 
+Turn ID=10| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=11| B | B : ja ja ja dat zijn bij mij E ja E
+	Free: Pattern=zijn, Pattern=ja, Pattern=E
+	Constrained: 
+Turn ID=12| A | A : dan zijn het elf E
+	Free: Pattern=elf E, Pattern=dan, Pattern=zijn, Pattern=het
+	Constrained: Pattern=elf, Pattern=E
+Turn ID=13| B | B : elf E
+	Free: Pattern=elf E
+	Constrained: Pattern=elf, Pattern=E
+Turn ID=14| A | A : dan gaan we die vanaf nu deegrol noemen
+	Free: Pattern=dan, Pattern=die
+	Constrained: 
+Turn ID=15| B | B : deegroller ? oké ja
+	Free: Pattern=oké, Pattern=deegroller, Pattern=ja
+	Constrained: 
+Turn ID=16| A | A : deegrol
+	Free: 
+	Constrained: 
+Turn ID=17| B | B : oké deze dit zijn deegroller
+	Free: Pattern=oké, Pattern=zijn, Pattern=deegroller
+	Constrained: 
+Turn ID=18| A | A : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=19| B | B : F bij mij
+	Free: Pattern=F
+	Constrained: 
+Turn ID=20| A | A : moeten ik hem eerst vinden
+	Free: Pattern=ik, Pattern=hem
+	Constrained: 
+Turn ID=21| A | A : F
+	Free: Pattern=F
+	Constrained: 
+Turn ID=22| A | A : F elf
+	Free: Pattern=elf, Pattern=F
+	Constrained: 
+Turn ID=23| A | A : deegrol
+	Free: 
+	Constrained: 
+Turn ID=24| B | B : even kijken
+	Free: 
+	Constrained: 
+Turn ID=25| B | B : ja J en bij jou
+	Free: Pattern=en, Pattern=ja
+	Constrained: 
+Turn ID=26| A | A : drie
+	Free: Pattern=drie
+	Constrained: 
+Turn ID=27| B | B : J drie
+	Free: Pattern=drie
+	Constrained: 
+Turn ID=28| B | B : dit zijn de deegroller
+	Free: Pattern=zijn, Pattern=de, Pattern=deegroller
+	Constrained: 
+Turn ID=29| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=30| B | B : H
+	Free: Pattern=H
+	Constrained: 
+Turn ID=31| A | A : negen H negen
+	Free: Pattern=H
+	Constrained: 
+Turn ID=32| A | A : mijn deegrol
+	Free: 
+	Constrained: 
+Turn ID=33| B | B : ja even kijken
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=34| A | A : twee
+	Free: Pattern=twee
+	Constrained: 
+Turn ID=35| B | B : B twee
+	Free: Pattern=twee
+	Constrained: 
+Turn ID=36| B | B : deze dit zijn die met de verrekijker maar dan met één ding de deegroller
+	Free: Pattern=deegroller, Pattern=de, Pattern=dan, Pattern=ding, Pattern=die, Pattern=zijn, Pattern=één
+	Constrained: 
+Turn ID=37| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=38| B | B : E
+	Free: Pattern=E
+	Constrained: 
+Turn ID=39| A | A : dus deegroller
+	Free: Pattern=deegroller, Pattern=dus
+	Constrained: 
+Turn ID=40| B | B : deegroller
+	Free: Pattern=deegroller
+	Constrained: 
+Turn ID=41| A | A : E vier
+	Free: Pattern=E
+	Constrained: 

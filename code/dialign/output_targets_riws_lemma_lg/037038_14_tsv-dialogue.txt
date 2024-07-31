@@ -1,0 +1,127 @@
+A|0| A: oké _het_ _zijn_ één _ja een_ dinge wat _dan_ _ik_ _hebben_ hier _de_ in gedachte _een_ _poppe_ _op_ één been _een beetje_ _zeggen maar_ 
+A|1| A: _en die_ _hebben_ zo'n _armpjes_ _hebben_ houden _die_ _zo_ 
+A|2| A: _en dan_ _hebben_ hij echt _een_ rond _hoofd_ wel 
+B|3| B: [die] _een beetje achterop_ _zitten_ [zeggen maar] 
+A|4| A: _ja_ _het_ [zitten] [een beetje achterop] _en dan_ daarvoor ook nog zo'n _ja_ zo'n _balk_ 
+B|5| B: [ja een] paal _waar die_ aan vastzit 
+A|6| A: [ja] 
+B|7| B: [ja] 
+B|8| B: [dan] [zijn] [het] D 
+B|9| B: deze [hebben] we al [hebben] 
+B|10| B: _met _die_ balk_ _vooraan_ [en dan] daarachter [een] soort van lichaam _met die_ arm _zo en_ boven _op het_ [hoofd] 
+A|11| A: [ja] 
+A|12| A: nummer vijftien 
+A|13| A: _dit zijn_ _dat_ _poppe met_ één zo'n [balk] voor [die] twee armp [zo _en] dat_ rond [hoofd] 
+B|14| B: [ja] 
+B|15| B: L 
+B|16| B: [dit zijn] [het] _poppe met _die_ balk_ [en die] [armpjes] aan allebei [de] kant [en dat] [hoofd] bovenop 
+A|17| A: even kijken [waar die] [zijn] 
+B|18| B: weten je welk [ik] bedoelen 
+A|19| A: [met die] 
+B|20| B: [die] [een beetje] bol lijken [beetje] dikkig 
+A|21| A: [met die] [ik] komen echt niet [op het] woord [die balk] ook nog [vooraan] 
+B|22| B: [ja] 
+A|23| A: [ja] oké nummer zes 
+A|24| A: [dit zijn] [dat] [poppe met die] twee armp [zo [en] die] 
+B|25| B: [die] paal voorop 
+A|26| A: [ja] 
+B|27| B: J 
+B|28| B: [het] [poppe met [die] balk] [vooraan] [en die] [armpjes] 
+A|29| A: even kijken [waar die] [zijn] 
+A|30| A: [ja] nummer drie 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : oké het zijn één ja een dinge wat dan ik hebben hier de in gedachte een poppe op één been een beetje zeggen maar
+	Free: Pattern=de, Pattern=op, Pattern=dan, Pattern=een, Pattern=zeggen maar, Pattern=het, Pattern=hebben, Pattern=poppe, Pattern=ja een, Pattern=ik, Pattern=zijn, Pattern=een beetje
+	Constrained: Pattern=beetje, Pattern=ja, Pattern=een
+Turn ID=1| A | A : en die hebben zo'n armpjes hebben houden die zo
+	Free: Pattern=en die, Pattern=armpjes, Pattern=hebben, Pattern=zo, Pattern=die
+	Constrained: Pattern=die
+Turn ID=2| A | A : en dan hebben hij echt een rond hoofd wel
+	Free: Pattern=en dan, Pattern=hoofd, Pattern=hebben, Pattern=een
+	Constrained: Pattern=dan
+Turn ID=3| B | B : die een beetje achterop zitten zeggen maar
+	Free: Pattern=een beetje achterop, Pattern=zeggen maar, Pattern=zitten, Pattern=die
+	Constrained: Pattern=een beetje, Pattern=een, Pattern=beetje
+Turn ID=4| A | A : ja het zitten een beetje achterop en dan daarvoor ook nog zo'n ja zo'n balk
+	Free: Pattern=ja, Pattern=en dan, Pattern=een beetje achterop, Pattern=het, Pattern=balk, Pattern=zitten
+	Constrained: Pattern=een beetje, Pattern=dan, Pattern=een, Pattern=beetje
+Turn ID=5| B | B : ja een paal waar die aan vastzit
+	Free: Pattern=ja een, Pattern=waar die
+	Constrained: Pattern=ja, Pattern=een, Pattern=die
+Turn ID=6| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=7| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=8| B | B : dan zijn het D
+	Free: Pattern=dan, Pattern=zijn, Pattern=het
+	Constrained: 
+Turn ID=9| B | B : deze hebben we al hebben
+	Free: Pattern=hebben
+	Constrained: 
+Turn ID=10| B | B : met die balk vooraan en dan daarachter een soort van lichaam met die arm zo en boven op het hoofd
+	Free: Pattern=met die, Pattern=die balk, Pattern=zo en, Pattern=en dan, Pattern=een, Pattern=vooraan, Pattern=hoofd, Pattern=op het
+	Constrained: Pattern=op, Pattern=dan, Pattern=het, Pattern=zo, Pattern=balk, Pattern=die
+Turn ID=11| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=12| A | A : nummer vijftien
+	Free: 
+	Constrained: 
+Turn ID=13| A | A : dit zijn dat poppe met één zo'n balk voor die twee armp zo en dat rond hoofd
+	Free: Pattern=dat, Pattern=zo en, Pattern=poppe met, Pattern=balk, Pattern=die, Pattern=hoofd, Pattern=dit zijn, Pattern=en dat
+	Constrained: Pattern=poppe, Pattern=dat, Pattern=zijn, Pattern=zo
+Turn ID=14| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=15| B | B : L
+	Free: 
+	Constrained: 
+Turn ID=16| B | B : dit zijn het poppe met die balk en die armpjes aan allebei de kant en dat hoofd bovenop
+	Free: Pattern=en die, Pattern=die balk, Pattern=de, Pattern=armpjes, Pattern=het, Pattern=poppe met die, Pattern=hoofd, Pattern=dit zijn, Pattern=en dat
+	Constrained: Pattern=poppe met, Pattern=die, Pattern=zijn, Pattern=dat, Pattern=met die, Pattern=balk, Pattern=poppe
+Turn ID=17| A | A : even kijken waar die zijn
+	Free: Pattern=waar die, Pattern=zijn
+	Constrained: Pattern=die
+Turn ID=18| B | B : weten je welk ik bedoelen
+	Free: Pattern=ik
+	Constrained: 
+Turn ID=19| A | A : met die
+	Free: Pattern=met die
+	Constrained: Pattern=die
+Turn ID=20| B | B : die een beetje bol lijken beetje dikkig
+	Free: Pattern=een beetje, Pattern=beetje, Pattern=die
+	Constrained: Pattern=beetje, Pattern=een
+Turn ID=21| A | A : met die ik komen echt niet op het woord die balk ook nog vooraan
+	Free: Pattern=met die, Pattern=die balk, Pattern=op het, Pattern=vooraan, Pattern=ik
+	Constrained: Pattern=balk, Pattern=die, Pattern=het, Pattern=op
+Turn ID=22| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=23| A | A : ja oké nummer zes
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=24| A | A : dit zijn dat poppe met die twee armp zo en die
+	Free: Pattern=en die, Pattern=dat, Pattern=zo en, Pattern=poppe met die, Pattern=dit zijn
+	Constrained: Pattern=met die, Pattern=poppe, Pattern=die, Pattern=zijn, Pattern=zo, Pattern=poppe met
+Turn ID=25| B | B : die paal voorop
+	Free: Pattern=die
+	Constrained: 
+Turn ID=26| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=27| B | B : J
+	Free: 
+	Constrained: 
+Turn ID=28| B | B : het poppe met die balk vooraan en die armpjes
+	Free: Pattern=en die, Pattern=die balk, Pattern=armpjes, Pattern=het, Pattern=poppe met die, Pattern=vooraan
+	Constrained: Pattern=met die, Pattern=poppe met, Pattern=die, Pattern=balk, Pattern=poppe
+Turn ID=29| A | A : even kijken waar die zijn
+	Free: Pattern=waar die, Pattern=zijn
+	Constrained: Pattern=die
+Turn ID=30| A | A : ja nummer drie
+	Free: Pattern=ja
+	Constrained: 

@@ -1,0 +1,87 @@
+B|0| B: _ja_ deze hebben _eigenlijk_ _bovenop_ liggen er _een soort_ _een_ _een_ _een_ staaf of _een_ blok liggen er echt _bovenop_ liggen 
+B|1| B: _en_ _aan de_ zijkant steken _een_ beetje _een_ _één_ _één_ _ja_ rond vormig ding uit worden steeds groot 
+B|2| B: volgens mij zitten _die_ _ook_ nog _aan de_ ander kant maar _dat_ vallen net ergens achter _en_ dan hebben je _een soort_ veegje _met_ _een_ _met_ _een_ buisje er in _die_ rechtop staan 
+A|3| A: [ja] 
+A|4| A: [ja] [en] zo'n [aan de] linkerkant lijken [een soort] van lampenkap achtig _erop_ 
+A|5| A: _ja dat zijn_ acht 
+A|6| A: vinden ik [ook] al _zo_ niks zeggen 
+B|7| B: [ja] 
+B|8| B: [en] bij [dat] _met_ [dat] buisje of [zo] _met_ [dat] _met_ [dat] dinge waar het op staan [ja dat zijn] dan E 
+A|9| A: _dit zijn_ [die] [eigenlijk] [die] nikszeggen [met] _die balk_ [bovenop] [en] [die] lampenkap 
+B|10| B: [ja] [dit zijn] diegene [die] [dat] balkje [bovenop] hebben maar [die] dan liggen [en] _weer_ [dat] dinge [aan de] zijkant [dat] rond [zijn] [en] groot worden 
+B|11| B: [en] dan nog [dat] balkje [dat] ergens op staat [en] [aan de] ander kant [ook] zoiets 
+A|12| A: [en] [die] lampenkap 
+A|13| A: [dat zijn] [één] 
+B|14| B: [ja] 
+B|15| B: [ja dat zijn] dan E 
+A|16| A: [dit zijn] [weer] [die] saai [met] _die balk_ [en] [die] lampenkap 
+B|17| B: [ja] [dit zijn] diegene waarbij [die balk] plat [erop] liggen [die] cirkel [aan de] zijkant [die] steeds groot worden [die] [aan] beide kant zitten [en] dan [dat] buis nog [dat] er [aan] vast zitten 
+A|18| A: [dat zijn] zestien 
+B|19| B: [ja] 
+A|20| A: [dit zijn] [die] saai [met] [die balk] [en] [die] [die] lampenkap 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : ja deze hebben eigenlijk bovenop liggen er een soort een een een staaf of een blok liggen er echt bovenop liggen
+	Free: Pattern=bovenop, Pattern=ja, Pattern=een, Pattern=eigenlijk, Pattern=een soort
+	Constrained: Pattern=een
+Turn ID=1| B | B : en aan de zijkant steken een beetje een één één ja rond vormig ding uit worden steeds groot
+	Free: Pattern=ja, Pattern=aan de, Pattern=een, Pattern=en, Pattern=één
+	Constrained: Pattern=aan
+Turn ID=2| B | B : volgens mij zitten die ook nog aan de ander kant maar dat vallen net ergens achter en dan hebben je een soort veegje met een met een buisje er in die rechtop staan
+	Free: Pattern=dat, Pattern=een, Pattern=met, Pattern=die, Pattern=een soort, Pattern=en, Pattern=aan de, Pattern=ook
+	Constrained: Pattern=een, Pattern=aan
+Turn ID=3| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=4| A | A : ja en zo'n aan de linkerkant lijken een soort van lampenkap achtig erop
+	Free: Pattern=ja, Pattern=erop, Pattern=aan de, Pattern=een soort, Pattern=en
+	Constrained: Pattern=een, Pattern=aan
+Turn ID=5| A | A : ja dat zijn acht
+	Free: Pattern=ja dat zijn
+	Constrained: Pattern=dat zijn, Pattern=dat, Pattern=zijn, Pattern=ja
+Turn ID=6| A | A : vinden ik ook al zo niks zeggen
+	Free: Pattern=zo, Pattern=ook
+	Constrained: 
+Turn ID=7| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=8| B | B : en bij dat met dat buisje of zo met dat met dat dinge waar het op staan ja dat zijn dan E
+	Free: Pattern=dat, Pattern=ja dat zijn, Pattern=zo, Pattern=met, Pattern=en
+	Constrained: Pattern=dat zijn, Pattern=dat, Pattern=zijn, Pattern=ja
+Turn ID=9| A | A : dit zijn die eigenlijk die nikszeggen met die balk bovenop en die lampenkap
+	Free: Pattern=bovenop, Pattern=die balk, Pattern=eigenlijk, Pattern=met, Pattern=die, Pattern=en, Pattern=dit zijn
+	Constrained: Pattern=zijn, Pattern=die
+Turn ID=10| B | B : ja dit zijn diegene die dat balkje bovenop hebben maar die dan liggen en weer dat dinge aan de zijkant dat rond zijn en groot worden
+	Free: Pattern=ja, Pattern=aan de, Pattern=die, Pattern=en, Pattern=zijn, Pattern=weer, Pattern=dit zijn, Pattern=dat, Pattern=bovenop
+	Constrained: Pattern=zijn, Pattern=aan
+Turn ID=11| B | B : en dan nog dat balkje dat ergens op staat en aan de ander kant ook zoiets
+	Free: Pattern=aan de, Pattern=en, Pattern=dat, Pattern=ook
+	Constrained: Pattern=aan
+Turn ID=12| A | A : en die lampenkap
+	Free: Pattern=en, Pattern=die
+	Constrained: 
+Turn ID=13| A | A : dat zijn één
+	Free: Pattern=dat zijn, Pattern=één
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=14| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=15| B | B : ja dat zijn dan E
+	Free: Pattern=ja dat zijn
+	Constrained: Pattern=dat zijn, Pattern=dat, Pattern=zijn, Pattern=ja
+Turn ID=16| A | A : dit zijn weer die saai met die balk en die lampenkap
+	Free: Pattern=die balk, Pattern=met, Pattern=die, Pattern=en, Pattern=weer, Pattern=dit zijn
+	Constrained: Pattern=zijn, Pattern=die
+Turn ID=17| B | B : ja dit zijn diegene waarbij die balk plat erop liggen die cirkel aan de zijkant die steeds groot worden die aan beide kant zitten en dan dat buis nog dat er aan vast zitten
+	Free: Pattern=dat, Pattern=die balk, Pattern=erop, Pattern=aan de, Pattern=die, Pattern=en, Pattern=dit zijn, Pattern=aan, Pattern=ja
+	Constrained: Pattern=aan, Pattern=zijn, Pattern=die
+Turn ID=18| A | A : dat zijn zestien
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=19| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=20| A | A : dit zijn die saai met die balk en die die lampenkap
+	Free: Pattern=die balk, Pattern=met, Pattern=die, Pattern=en, Pattern=dit zijn
+	Constrained: Pattern=zijn, Pattern=die

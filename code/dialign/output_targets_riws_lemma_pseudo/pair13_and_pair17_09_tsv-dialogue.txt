@@ -1,0 +1,143 @@
+B|0| B: _okee_ _ja_ mijne _staan_ _op een soort_ _een_ ovaal verhoging 
+B|1| B: komen _één_ zeshoekig pijp uit 
+B|2| B: _soort_ _van_ _een handvat_ _erin_ _en aan de_ achterkant _zijn_ _een_ rond _achter_ _de_ _mok_ 
+B|3| B: _soort_ _van_ 
+B|4| B: _ja_ 
+B|5| B: _ja_ 
+A|6| A: [ja] er zitten [een soort] lepeltje in [een] [mok] _cirkel_ [achter] links [een handvat] _en een_ dinge onder 
+A|7| A: [okee] 
+A|8| A: [en] dan mogen _ik_ drukken 
+A|9| A: [ja] _ik_ _hebben_ nummer 
+A|10| A: nummer twee 
+A|11| A: [en] dan drukken 
+A|12| A: gewoon enter drukken of 
+A|13| A: nee gewoon [één] [van] _die_ knop drukken 
+A|14| A: ah [okee] 
+B|15| B: [ik] _zeggen_ wel [ja] 
+B|16| B: [ja] 
+B|17| B: o 
+B|18| B: _deze_ staat _op een_ ovaal verhoging [hebben] _aan de_ linkerkant [een] zeshoekachtig staaf eruit hangen 
+B|19| B: [en een] half [cirkel] _erachter_ [ja] 
+B|20| B: [ja] b 
+B|21| B: _deze hebben_ _de_ [cirkel] half [cirkel] _erachter_ [en] _hij_ _staan_ _op_ [die] ovaal verhoging 
+A|22| A: [deze hebben] [een] roerstaafje [erin] zitten 
+A|23| A: of laten maar [zeggen] [een soort] lepeltje 
+A|24| A: [en] het beker [staan] zelf ook [op een soort] [ja] Rechthoekachtig vormp [hebben] [hij] dus [de] onderzijde [zijn] niet helemaal zo cirkelvormig zoals bij [de] ander beker maar dan [staan] [hij] [op een soort] rechthoekje 
+A|25| A: [aan de] linkerzijde [hebben] het [een] armpje [en] daarachter lijken [een soort] cirkeltje vastgeplakt 
+B|26| B: h 
+A|27| A: [ja] dat [zijn] nummer veertien 
+A|28| A: met [de] afwijken onderzijde met [een] lepeltje [erin] 
+A|29| A: [een soort] cirkeltje wat [erachter] [zijn] plakken [en aan de] linkerzijde nog [een] staafje 
+A|30| A: nummer zeven 
+A|31| A: afwijken onderkant [van] het beker 
+A|32| A: lepel [erin] 
+A|33| A: [cirkel] [achter] 
+A|34| A: [en] het 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : okee ja mijne staan op een soort een ovaal verhoging
+	Free: Pattern=op een soort, Pattern=okee, Pattern=ja, Pattern=een, Pattern=staan
+	Constrained: Pattern=soort, Pattern=op, Pattern=een, Pattern=een soort, Pattern=op een
+Turn ID=1| B | B : komen één zeshoekig pijp uit
+	Free: Pattern=één
+	Constrained: 
+Turn ID=2| B | B : soort van een handvat erin en aan de achterkant zijn een rond achter de mok
+	Free: Pattern=soort, Pattern=de, Pattern=een, Pattern=achter, Pattern=mok, Pattern=erin, Pattern=zijn, Pattern=en aan de, Pattern=van, Pattern=een handvat
+	Constrained: Pattern=een, Pattern=de, Pattern=en, Pattern=aan de
+Turn ID=3| B | B : soort van
+	Free: Pattern=soort, Pattern=van
+	Constrained: 
+Turn ID=4| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=5| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=6| A | A : ja er zitten een soort lepeltje in een mok cirkel achter links een handvat en een dinge onder
+	Free: Pattern=cirkel, Pattern=ja, Pattern=een, Pattern=achter, Pattern=een handvat, Pattern=en een, Pattern=mok, Pattern=een soort
+	Constrained: Pattern=een, Pattern=en, Pattern=soort
+Turn ID=7| A | A : okee
+	Free: Pattern=okee
+	Constrained: 
+Turn ID=8| A | A : en dan mogen ik drukken
+	Free: Pattern=en, Pattern=ik
+	Constrained: 
+Turn ID=9| A | A : ja ik hebben nummer
+	Free: Pattern=hebben, Pattern=ja, Pattern=ik
+	Constrained: 
+Turn ID=10| A | A : nummer twee
+	Free: 
+	Constrained: 
+Turn ID=11| A | A : en dan drukken
+	Free: Pattern=en
+	Constrained: 
+Turn ID=12| A | A : gewoon enter drukken of
+	Free: 
+	Constrained: 
+Turn ID=13| A | A : nee gewoon één van die knop drukken
+	Free: Pattern=één, Pattern=van, Pattern=die
+	Constrained: 
+Turn ID=14| A | A : ah okee
+	Free: Pattern=okee
+	Constrained: 
+Turn ID=15| B | B : ik zeggen wel ja
+	Free: Pattern=ja, Pattern=zeggen, Pattern=ik
+	Constrained: 
+Turn ID=16| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=17| B | B : o
+	Free: 
+	Constrained: 
+Turn ID=18| B | B : deze staat op een ovaal verhoging hebben aan de linkerkant een zeshoekachtig staaf eruit hangen
+	Free: Pattern=aan de, Pattern=een, Pattern=hebben, Pattern=deze, Pattern=op een
+	Constrained: Pattern=een, Pattern=op, Pattern=de
+Turn ID=19| B | B : en een half cirkel erachter ja
+	Free: Pattern=en een, Pattern=ja, Pattern=erachter, Pattern=cirkel
+	Constrained: Pattern=een, Pattern=en
+Turn ID=20| B | B : ja b
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=21| B | B : deze hebben de cirkel half cirkel erachter en hij staan op die ovaal verhoging
+	Free: Pattern=cirkel, Pattern=erachter, Pattern=de, Pattern=op, Pattern=staan, Pattern=die, Pattern=en, Pattern=deze hebben, Pattern=hij
+	Constrained: Pattern=hebben, Pattern=deze
+Turn ID=22| A | A : deze hebben een roerstaafje erin zitten
+	Free: Pattern=deze hebben, Pattern=een, Pattern=erin
+	Constrained: Pattern=hebben, Pattern=deze
+Turn ID=23| A | A : of laten maar zeggen een soort lepeltje
+	Free: Pattern=een soort, Pattern=zeggen
+	Constrained: Pattern=een, Pattern=soort
+Turn ID=24| A | A : en het beker staan zelf ook op een soort ja Rechthoekachtig vormp hebben hij dus de onderzijde zijn niet helemaal zo cirkelvormig zoals bij de ander beker maar dan staan hij op een soort rechthoekje
+	Free: Pattern=staan, Pattern=hebben, Pattern=hij, Pattern=op een soort, Pattern=en, Pattern=zijn, Pattern=de, Pattern=ja
+	Constrained: Pattern=soort, Pattern=op, Pattern=een, Pattern=een soort, Pattern=op een
+Turn ID=25| A | A : aan de linkerzijde hebben het een armpje en daarachter lijken een soort cirkeltje vastgeplakt
+	Free: Pattern=aan de, Pattern=een, Pattern=hebben, Pattern=een soort, Pattern=en
+	Constrained: Pattern=een, Pattern=soort, Pattern=de
+Turn ID=26| B | B : h
+	Free: 
+	Constrained: 
+Turn ID=27| A | A : ja dat zijn nummer veertien
+	Free: Pattern=ja, Pattern=zijn
+	Constrained: 
+Turn ID=28| A | A : met de afwijken onderzijde met een lepeltje erin
+	Free: Pattern=een, Pattern=erin, Pattern=de
+	Constrained: 
+Turn ID=29| A | A : een soort cirkeltje wat erachter zijn plakken en aan de linkerzijde nog een staafje
+	Free: Pattern=erachter, Pattern=een, Pattern=een soort, Pattern=zijn, Pattern=en aan de
+	Constrained: Pattern=soort, Pattern=de, Pattern=aan de, Pattern=een, Pattern=en
+Turn ID=30| A | A : nummer zeven
+	Free: 
+	Constrained: 
+Turn ID=31| A | A : afwijken onderkant van het beker
+	Free: Pattern=van
+	Constrained: 
+Turn ID=32| A | A : lepel erin
+	Free: Pattern=erin
+	Constrained: 
+Turn ID=33| A | A : cirkel achter
+	Free: Pattern=achter, Pattern=cirkel
+	Constrained: 
+Turn ID=34| A | A : en het
+	Free: Pattern=en
+	Constrained: 

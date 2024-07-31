@@ -1,0 +1,127 @@
+B|0| B: _oké_ 
+B|1| B: _ja_ 
+B|2| B: _en_ onder 
+B|3| B: _ja_ 
+B|4| B: _dat zijn_ voor _mij_ _de_ letter I 
+A|5| A: _dit_ vinden ik _een_ Angry Bird lijken 
+A|6| A: _die_ _een_ soort beetje [ja] hanenkamden 
+A|7| A: [en] dan _aan de_ zijkant _twee_ _een_ soort bekje vormen _het_ _twee_ _balk_ _die_ _een_ bek vormen 
+A|8| A: [en] dan _naar_ achteren toe eigenlijk _een_ _een_ staafje 
+A|9| A: _die_ _een_ vleugel zullen kunnen voorstellen [en] dan onderaan nog _een_ staart 
+A|10| A: hij _hebben_ _twee_ _balk_ 
+A|11| A: [ja] inderdaad 
+A|12| A: [oké] 
+A|13| A: [ja] 
+A|14| A: [ja] 
+B|15| B: even kijken deze [hebben] zo'n mooi trapezium als je net zeggen [aan de] bovenkant [en] rechts 
+B|16| B: [twee] uitstekend [balk] van dezelfde grootte [en] dikte 
+B|17| B: [en] [aan de] onderkant [een] haakje [die] [naar] link wijzen 
+B|18| B: even kijken [ja] [het] haak [aan de] onderkant dus _dat zijn_ voor _mij_ M 
+A|19| A: Angy Bird 
+A|20| A: [ja] 
+A|21| A: [ja] 
+A|22| A: [dat zijn] nummer [twee] bij [mij] 
+A|23| A: _dit zijn de_ Angry Bird 
+B|24| B: [dit zijn de] trapezium bovenop met [de] [twee] uitstekend rechthoekje [aan de] rechterkant 
+B|25| B: even kijken [dat zijn] F voor [mij] 
+A|26| A: [oké] 
+A|27| A: [dat zijn] nummer negen 
+A|28| A: [dit zijn de] Angry Bird 
+B|29| B: trapezium met [de] [twee] uitstekelt uitsteeksel rechts 
+A|30| A: [ja] [dat zijn] nummer zes 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=1| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=2| B | B : en onder
+	Free: Pattern=en
+	Constrained: 
+Turn ID=3| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=4| B | B : dat zijn voor mij de letter I
+	Free: Pattern=dat zijn, Pattern=mij, Pattern=de
+	Constrained: 
+Turn ID=5| A | A : dit vinden ik een Angry Bird lijken
+	Free: Pattern=dit, Pattern=een
+	Constrained: 
+Turn ID=6| A | A : die een soort beetje ja hanenkamden
+	Free: Pattern=ja, Pattern=die, Pattern=een
+	Constrained: 
+Turn ID=7| A | A : en dan aan de zijkant twee een soort bekje vormen het twee balk die een bek vormen
+	Free: Pattern=twee, Pattern=aan de, Pattern=een, Pattern=het, Pattern=balk, Pattern=die, Pattern=en
+	Constrained: Pattern=de
+Turn ID=8| A | A : en dan naar achteren toe eigenlijk een een staafje
+	Free: Pattern=een, Pattern=naar, Pattern=en
+	Constrained: 
+Turn ID=9| A | A : die een vleugel zullen kunnen voorstellen en dan onderaan nog een staart
+	Free: Pattern=die, Pattern=een, Pattern=en
+	Constrained: 
+Turn ID=10| A | A : hij hebben twee balk
+	Free: Pattern=twee, Pattern=hebben, Pattern=balk
+	Constrained: 
+Turn ID=11| A | A : ja inderdaad
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=12| A | A : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=13| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=14| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=15| B | B : even kijken deze hebben zo'n mooi trapezium als je net zeggen aan de bovenkant en rechts
+	Free: Pattern=aan de, Pattern=hebben, Pattern=en
+	Constrained: Pattern=de
+Turn ID=16| B | B : twee uitstekend balk van dezelfde grootte en dikte
+	Free: Pattern=twee, Pattern=en, Pattern=balk
+	Constrained: 
+Turn ID=17| B | B : en aan de onderkant een haakje die naar link wijzen
+	Free: Pattern=aan de, Pattern=een, Pattern=die, Pattern=en, Pattern=naar
+	Constrained: Pattern=de
+Turn ID=18| B | B : even kijken ja het haak aan de onderkant dus dat zijn voor mij M
+	Free: Pattern=dat zijn, Pattern=ja, Pattern=aan de, Pattern=het, Pattern=mij
+	Constrained: Pattern=de
+Turn ID=19| A | A : Angy Bird
+	Free: 
+	Constrained: 
+Turn ID=20| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=21| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=22| A | A : dat zijn nummer twee bij mij
+	Free: Pattern=dat zijn, Pattern=twee, Pattern=mij
+	Constrained: 
+Turn ID=23| A | A : dit zijn de Angry Bird
+	Free: Pattern=dit zijn de
+	Constrained: Pattern=dit, Pattern=de
+Turn ID=24| B | B : dit zijn de trapezium bovenop met de twee uitstekend rechthoekje aan de rechterkant
+	Free: Pattern=dit zijn de, Pattern=aan de, Pattern=twee, Pattern=de
+	Constrained: Pattern=dit, Pattern=de
+Turn ID=25| B | B : even kijken dat zijn F voor mij
+	Free: Pattern=dat zijn, Pattern=mij
+	Constrained: 
+Turn ID=26| A | A : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=27| A | A : dat zijn nummer negen
+	Free: Pattern=dat zijn
+	Constrained: 
+Turn ID=28| A | A : dit zijn de Angry Bird
+	Free: Pattern=dit zijn de
+	Constrained: Pattern=dit, Pattern=de
+Turn ID=29| B | B : trapezium met de twee uitstekelt uitsteeksel rechts
+	Free: Pattern=twee, Pattern=de
+	Constrained: 
+Turn ID=30| A | A : ja dat zijn nummer zes
+	Free: Pattern=dat zijn, Pattern=ja
+	Constrained: 

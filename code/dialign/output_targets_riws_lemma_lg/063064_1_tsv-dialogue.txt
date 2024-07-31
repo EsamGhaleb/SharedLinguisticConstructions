@@ -1,0 +1,79 @@
+B|0| B: hier zitten _een_ _vierkant_ plaat tegen het kop _aan_ drukken 
+B|1| B: _en_ _er_ steken _twee van die kubus die groot worden_ _aan de_ linkerkant uit _en_ _aan de bovenkant_ zitten ook nog _een_ plaat _met_ _een_ cirkel _erop_ 
+A|2| A: _ja_ _ja_ _ja_ _ja_ _ja_ 
+A|3| A: [twee] _zijn_ _dat_ 
+A|4| A: dit _zijn_ [met] _zo'n_ [vierkant] [er] zeggen maar [er] voor _op plakken en_ dan _weer_ [twee van die kubus die groot worden] [en] _zo'n_ paddenstoel [aan de bovenkant] _eruit_ 
+B|5| B: [ja] _dat zijn_ G 
+B|6| B: deze hebben [die] [vierkant] plaat [er] zo [op plakken en] [de] [groot worden] _kubus aan de_ linkerkant 
+B|7| B: [en] [aan de bovenkant] 
+A|8| A: negen [zijn] [dat] 
+A|9| A: dit [zijn] [met] _dat vierkant_ [erop] [plakken] 
+A|10| A: _en twee_ [groot] wordende [de] [kubus aan de] zijkant [en] [een] paddenstoel _eruit_ 
+B|11| B: [ja] _dat zijn_ D 
+B|12| B: bij deze zitten [weer] [dat vierkant] ertegenaan [plakken] 
+B|13| B: [en [twee] van die [kubus] aan de] [groot worden] [kubus aan de] linkerkant 
+B|14| B: [en] nog [zo'n] kegel [eruit] steken 
+A|15| A: [ja] ik zien hem 
+A|16| A: [dat zijn] één 
+A|17| A: dit [zijn] [met] [dat vierkant] vlak [erop] [plakken en] [die] [twee] [kubus die] [er] steeds [groot worden] 
+B|18| B: [dat zijn] B 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : hier zitten een vierkant plaat tegen het kop aan drukken
+	Free: Pattern=vierkant, Pattern=aan, Pattern=een
+	Constrained: 
+Turn ID=1| B | B : en er steken twee van die kubus die groot worden aan de linkerkant uit en aan de bovenkant zitten ook nog een plaat met een cirkel erop
+	Free: Pattern=erop, Pattern=aan de, Pattern=een, Pattern=met, Pattern=er, Pattern=twee van die kubus die groot worden, Pattern=aan de bovenkant, Pattern=en
+	Constrained: Pattern=twee, Pattern=aan de, Pattern=groot, Pattern=die, Pattern=kubus die, Pattern=groot worden, Pattern=twee van die kubus, Pattern=de, Pattern=aan
+Turn ID=2| A | A : ja ja ja ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=3| A | A : twee zijn dat
+	Free: Pattern=zijn, Pattern=dat, Pattern=twee
+	Constrained: 
+Turn ID=4| A | A : dit zijn met zo'n vierkant er zeggen maar er voor op plakken en dan weer twee van die kubus die groot worden en zo'n paddenstoel aan de bovenkant eruit
+	Free: Pattern=zo'n, Pattern=eruit, Pattern=op plakken en, Pattern=met, Pattern=er, Pattern=zijn, Pattern=aan de bovenkant, Pattern=en, Pattern=vierkant, Pattern=weer, Pattern=twee van die kubus die groot worden
+	Constrained: Pattern=twee, Pattern=aan de, Pattern=groot, Pattern=plakken en, Pattern=die, Pattern=groot worden, Pattern=twee van die kubus, Pattern=plakken, Pattern=de, Pattern=aan, Pattern=en, Pattern=kubus die
+Turn ID=5| B | B : ja dat zijn G
+	Free: Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=6| B | B : deze hebben die vierkant plaat er zo op plakken en de groot worden kubus aan de linkerkant
+	Free: Pattern=de, Pattern=op plakken en, Pattern=die, Pattern=er, Pattern=groot worden, Pattern=vierkant, Pattern=kubus aan de
+	Constrained: Pattern=aan de, Pattern=groot, Pattern=plakken en, Pattern=en, Pattern=plakken, Pattern=de, Pattern=aan
+Turn ID=7| B | B : en aan de bovenkant
+	Free: Pattern=aan de bovenkant, Pattern=en
+	Constrained: Pattern=aan, Pattern=de, Pattern=aan de
+Turn ID=8| A | A : negen zijn dat
+	Free: Pattern=zijn, Pattern=dat
+	Constrained: 
+Turn ID=9| A | A : dit zijn met dat vierkant erop plakken
+	Free: Pattern=erop, Pattern=dat vierkant, Pattern=met, Pattern=zijn, Pattern=plakken
+	Constrained: Pattern=vierkant, Pattern=dat
+Turn ID=10| A | A : en twee groot wordende de kubus aan de zijkant en een paddenstoel eruit
+	Free: Pattern=de, Pattern=een, Pattern=en, Pattern=groot, Pattern=eruit, Pattern=kubus aan de, Pattern=en twee
+	Constrained: Pattern=twee, Pattern=aan de, Pattern=en, Pattern=de, Pattern=aan
+Turn ID=11| B | B : ja dat zijn D
+	Free: Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=12| B | B : bij deze zitten weer dat vierkant ertegenaan plakken
+	Free: Pattern=dat vierkant, Pattern=weer, Pattern=plakken
+	Constrained: Pattern=vierkant, Pattern=dat
+Turn ID=13| B | B : en twee van die kubus aan de groot worden kubus aan de linkerkant
+	Free: Pattern=twee van die kubus, Pattern=kubus aan de, Pattern=groot worden, Pattern=en twee
+	Constrained: Pattern=twee, Pattern=aan de, Pattern=groot, Pattern=die, Pattern=en, Pattern=de, Pattern=aan
+Turn ID=14| B | B : en nog zo'n kegel eruit steken
+	Free: Pattern=en, Pattern=eruit, Pattern=zo'n
+	Constrained: 
+Turn ID=15| A | A : ja ik zien hem
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=16| A | A : dat zijn één
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=17| A | A : dit zijn met dat vierkant vlak erop plakken en die twee kubus die er steeds groot worden
+	Free: Pattern=twee, Pattern=erop, Pattern=dat vierkant, Pattern=die, Pattern=er, Pattern=kubus die, Pattern=groot worden, Pattern=zijn, Pattern=plakken en, Pattern=met
+	Constrained: Pattern=dat, Pattern=groot, Pattern=die, Pattern=en, Pattern=vierkant, Pattern=plakken
+Turn ID=18| B | B : dat zijn B
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn, Pattern=dat

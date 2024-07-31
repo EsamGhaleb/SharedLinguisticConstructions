@@ -1,0 +1,135 @@
+B|0| B: _oké_ oeh deze _zijn_ deze _zijn_ echt moeilijk _er_ zitten _zeggen maar_ op boven op het basisvormpje zitten _een_ _een_ balk 
+A|1| A: _ja_ [zijn] die compact [zeggen maar] ? opsteken [er] niet veel _uit_ 
+B|2| B: _nee_ [er] steken eigenlijk niks [uit] 
+A|3| A: [nee] [oké] _ja_ dan weten dan weten _ik_ 
+B|4| B: _en_ [er] zitten _een soort_ van schuifflapding aan _de_ zijkant 
+A|5| A: _ja_ 
+A|6| A: _ik_ _ik_ zien _dat_ als [een soort] _opveg_ 
+B|7| B: [ja] [opveg] 
+A|8| A: [ja] 
+A|9| A: [ja] [en] [en] zo'n schuin 
+B|10| B: [ja] 
+A|11| A: zo'n ding naar beneden [ja] [oké] _ja ja_ 
+B|12| B: [oké] 
+A|13| A: _ik_ weten al 
+A|14| A: acht 
+A|15| A: _ik hebben_ _dat_ opveger 
+A|16| A: of die _stofzuiger_ achtig 
+B|17| B: [ja ja] 
+B|18| B: [oké] _dat zijn_ E 
+B|19| B: _ik hebben de veger_ _de stofzuiger_ 
+A|20| A: [ja] 
+A|21| A: [ja] 
+A|22| A: [dat zijn] één 
+A|23| A: _ik hebben de stofzuiger_ 
+B|24| B: [oké] 
+B|25| B: daar 
+B|26| B: [dat zijn] E 
+B|27| B: [ik hebben de stofzuiger] 
+A|28| A: [ja] 
+A|29| A: [ik hebben] hem zestien 
+A|30| A: [ik hebben de veger] 
+B|31| B: [ja] 
+B|32| B: [oké] [dat zijn] O 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : oké oeh deze zijn deze zijn echt moeilijk er zitten zeggen maar op boven op het basisvormpje zitten een een balk
+	Free: Pattern=een, Pattern=zeggen maar, Pattern=oké, Pattern=er, Pattern=zijn
+	Constrained: 
+Turn ID=1| A | A : ja zijn die compact zeggen maar ? opsteken er niet veel uit
+	Free: Pattern=ja, Pattern=uit, Pattern=zeggen maar, Pattern=er, Pattern=zijn
+	Constrained: 
+Turn ID=2| B | B : nee er steken eigenlijk niks uit
+	Free: Pattern=er, Pattern=uit, Pattern=nee
+	Constrained: 
+Turn ID=3| A | A : nee oké ja dan weten dan weten ik
+	Free: Pattern=ja, Pattern=ik, Pattern=oké, Pattern=nee
+	Constrained: 
+Turn ID=4| B | B : en er zitten een soort van schuifflapding aan de zijkant
+	Free: Pattern=een soort, Pattern=er, Pattern=en, Pattern=de
+	Constrained: Pattern=een
+Turn ID=5| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=6| A | A : ik ik zien dat als een soort opveg
+	Free: Pattern=een soort, Pattern=dat, Pattern=ik, Pattern=opveg
+	Constrained: Pattern=een
+Turn ID=7| B | B : ja opveg
+	Free: Pattern=ja, Pattern=opveg
+	Constrained: 
+Turn ID=8| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=9| A | A : ja en en zo'n schuin
+	Free: Pattern=ja, Pattern=en
+	Constrained: 
+Turn ID=10| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=11| A | A : zo'n ding naar beneden ja oké ja ja
+	Free: Pattern=ja ja, Pattern=ja, Pattern=oké
+	Constrained: Pattern=ja
+Turn ID=12| B | B : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=13| A | A : ik weten al
+	Free: Pattern=ik
+	Constrained: 
+Turn ID=14| A | A : acht
+	Free: 
+	Constrained: 
+Turn ID=15| A | A : ik hebben dat opveger
+	Free: Pattern=ik hebben, Pattern=dat
+	Constrained: Pattern=ik
+Turn ID=16| A | A : of die stofzuiger achtig
+	Free: Pattern=stofzuiger
+	Constrained: 
+Turn ID=17| B | B : ja ja
+	Free: Pattern=ja ja
+	Constrained: Pattern=ja
+Turn ID=18| B | B : oké dat zijn E
+	Free: Pattern=dat zijn, Pattern=oké
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=19| B | B : ik hebben de veger de stofzuiger
+	Free: Pattern=ik hebben de veger, Pattern=de stofzuiger
+	Constrained: Pattern=stofzuiger, Pattern=de, Pattern=ik hebben, Pattern=ik
+Turn ID=20| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=21| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=22| A | A : dat zijn één
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=23| A | A : ik hebben de stofzuiger
+	Free: Pattern=ik hebben de stofzuiger
+	Constrained: Pattern=ik hebben, Pattern=stofzuiger, Pattern=de, Pattern=de stofzuiger, Pattern=ik
+Turn ID=24| B | B : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=25| B | B : daar
+	Free: 
+	Constrained: 
+Turn ID=26| B | B : dat zijn E
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=27| B | B : ik hebben de stofzuiger
+	Free: Pattern=ik hebben de stofzuiger
+	Constrained: Pattern=ik hebben, Pattern=stofzuiger, Pattern=de, Pattern=de stofzuiger, Pattern=ik
+Turn ID=28| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=29| A | A : ik hebben hem zestien
+	Free: Pattern=ik hebben
+	Constrained: Pattern=ik
+Turn ID=30| A | A : ik hebben de veger
+	Free: Pattern=ik hebben de veger
+	Constrained: Pattern=de, Pattern=ik hebben, Pattern=ik
+Turn ID=31| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=32| B | B : oké dat zijn O
+	Free: Pattern=dat zijn, Pattern=oké
+	Constrained: Pattern=dat, Pattern=zijn

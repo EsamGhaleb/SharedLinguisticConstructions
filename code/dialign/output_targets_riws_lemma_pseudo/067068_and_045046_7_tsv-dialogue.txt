@@ -1,0 +1,95 @@
+B|0| B: dit vinden _ik_ een soort van tafel _die_ erdoorheen _zijn_ steken 
+B|1| B: _ding_ _en_ _er_ zitten een bak bovenop 
+B|2| B: _ja_ 
+A|3| A: [ja] [ja] [ja] [ja] [ja] 
+A|4| A: [ja] dat moeten wel nummer zestien [zijn] 
+B|5| B: _met_ een bak erop P 
+A|6| A: [ik] hebben [die] weer [met] dat veld [er] dwars doorheen bijna helemaal bovenin 
+A|7| A: twee [ding] eronder twee [ding] erboven 
+A|8| A: [ja] [ja] 
+B|9| B: dit [zijn] de tafel [die] erdoorheen steken de groot tafel [met] een bak erbovenop 
+B|10| B: oké 
+B|11| B: N 
+A|12| A: [ja] dat [zijn] veertien 
+B|13| B: dit [zijn] de groot tafel [met] een bakje erop 
+A|14| A: [ik] hebben [die] hoog horizontaal 
+A|15| A: [met] twee dinget eronder [en] twee dinget erboven 
+B|16| B: [ja] 
+B|17| B: D 
+A|18| A: we [zijn] nu op twee drie 
+A|19| A: als [ik] het goed hebben bijhouden 
+A|20| A: vierkant door het figuur [ja] [ja] [ja] nou 
+A|21| A: [ja] nummer tien 
+A|22| A: [ik] hebben [die] hoog horizontaal twee eronder twee erboven 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : dit vinden ik een soort van tafel die erdoorheen zijn steken
+	Free: Pattern=die, Pattern=ik, Pattern=zijn
+	Constrained: 
+Turn ID=1| B | B : ding en er zitten een bak bovenop
+	Free: Pattern=ding, Pattern=er, Pattern=en
+	Constrained: 
+Turn ID=2| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=3| A | A : ja ja ja ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=4| A | A : ja dat moeten wel nummer zestien zijn
+	Free: Pattern=ja, Pattern=zijn
+	Constrained: 
+Turn ID=5| B | B : met een bak erop P
+	Free: Pattern=met
+	Constrained: 
+Turn ID=6| A | A : ik hebben die weer met dat veld er dwars doorheen bijna helemaal bovenin
+	Free: Pattern=die, Pattern=met, Pattern=er, Pattern=ik
+	Constrained: 
+Turn ID=7| A | A : twee ding eronder twee ding erboven
+	Free: Pattern=ding
+	Constrained: 
+Turn ID=8| A | A : ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=9| B | B : dit zijn de tafel die erdoorheen steken de groot tafel met een bak erbovenop
+	Free: Pattern=die, Pattern=met, Pattern=zijn
+	Constrained: 
+Turn ID=10| B | B : oké
+	Free: 
+	Constrained: 
+Turn ID=11| B | B : N
+	Free: 
+	Constrained: 
+Turn ID=12| A | A : ja dat zijn veertien
+	Free: Pattern=ja, Pattern=zijn
+	Constrained: 
+Turn ID=13| B | B : dit zijn de groot tafel met een bakje erop
+	Free: Pattern=met, Pattern=zijn
+	Constrained: 
+Turn ID=14| A | A : ik hebben die hoog horizontaal
+	Free: Pattern=die, Pattern=ik
+	Constrained: 
+Turn ID=15| A | A : met twee dinget eronder en twee dinget erboven
+	Free: Pattern=met, Pattern=en
+	Constrained: 
+Turn ID=16| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=17| B | B : D
+	Free: 
+	Constrained: 
+Turn ID=18| A | A : we zijn nu op twee drie
+	Free: Pattern=zijn
+	Constrained: 
+Turn ID=19| A | A : als ik het goed hebben bijhouden
+	Free: Pattern=ik
+	Constrained: 
+Turn ID=20| A | A : vierkant door het figuur ja ja ja nou
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=21| A | A : ja nummer tien
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=22| A | A : ik hebben die hoog horizontaal twee eronder twee erboven
+	Free: Pattern=die, Pattern=ik
+	Constrained: 

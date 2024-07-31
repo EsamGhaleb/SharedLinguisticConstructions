@@ -1,0 +1,111 @@
+A|0| A: _ja_ weten ik 
+A|1| A: achten 
+B|2| B: deze _hebben_ _een_ vierkant plateau _aan de_ onderkant 
+B|3| B: [ja] 
+B|4| B: [ja] _van die_ antenne _aan de zijkant_ [ja] 
+B|5| B: [ja] 
+A|6| A: ik [hebben] [die] [een] _met_ [aan] allebei [de] kant [die] drie rond slash rui 
+A|7| A: allebei [de] kant [de] drie [van die] klein bollet ruit het _zijn_ maar net hoe je het zien 
+A|8| A: drie [van die] bollet [aan de zijkant] 
+A|9| A: [ja] 
+A|10| A: vijf 
+A|11| A: ik [hebben] [die] [een] _met die_ drie bollet [aan de zijkant] 
+A|12| A: _met die_ plaat _eronder_ 
+A|13| A: _met_ zeggen maar allebei [aan] allebei [de] kant [die] drie bollet 
+A|14| A: [ja] zes 
+B|15| B: [ja] 
+B|16| B: dat [zijn] [ja] [een] cirkel [aan de] voorkant 
+B|17| B: [ja] E 
+A|18| A: ik [hebben] [die] drie bollet [aan] allebei [de] kant 
+B|19| B: dit [zijn] [de] enig [met die] plateau [aan de] onderkant 
+B|20| B: [ja] 
+B|21| B: onderop 
+B|22| B: [ja] [ja] 
+B|23| B: dat [zijn] P 
+B|24| B: dit [zijn] [die] vierkant [eronder] plateau 
+B|25| B: [ja] 
+B|26| B: O 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : ja weten ik
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=1| A | A : achten
+	Free: 
+	Constrained: 
+Turn ID=2| B | B : deze hebben een vierkant plateau aan de onderkant
+	Free: Pattern=aan de, Pattern=hebben, Pattern=een
+	Constrained: Pattern=de, Pattern=aan
+Turn ID=3| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=4| B | B : ja van die antenne aan de zijkant ja
+	Free: Pattern=aan de zijkant, Pattern=van die, Pattern=ja
+	Constrained: Pattern=aan, Pattern=de, Pattern=die, Pattern=aan de
+Turn ID=5| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=6| A | A : ik hebben die een met aan allebei de kant die drie rond slash rui
+	Free: Pattern=een, Pattern=hebben, Pattern=met, Pattern=die, Pattern=de, Pattern=aan
+	Constrained: 
+Turn ID=7| A | A : allebei de kant de drie van die klein bollet ruit het zijn maar net hoe je het zien
+	Free: Pattern=van die, Pattern=zijn, Pattern=de
+	Constrained: Pattern=die
+Turn ID=8| A | A : drie van die bollet aan de zijkant
+	Free: Pattern=aan de zijkant, Pattern=van die
+	Constrained: Pattern=aan, Pattern=de, Pattern=die, Pattern=aan de
+Turn ID=9| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=10| A | A : vijf
+	Free: 
+	Constrained: 
+Turn ID=11| A | A : ik hebben die een met die drie bollet aan de zijkant
+	Free: Pattern=met die, Pattern=hebben, Pattern=die, Pattern=een, Pattern=aan de zijkant
+	Constrained: Pattern=aan de, Pattern=met, Pattern=die, Pattern=de, Pattern=aan
+Turn ID=12| A | A : met die plaat eronder
+	Free: Pattern=met die, Pattern=eronder
+	Constrained: Pattern=die, Pattern=met
+Turn ID=13| A | A : met zeggen maar allebei aan allebei de kant die drie bollet
+	Free: Pattern=die, Pattern=de, Pattern=aan, Pattern=met
+	Constrained: 
+Turn ID=14| A | A : ja zes
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=15| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=16| B | B : dat zijn ja een cirkel aan de voorkant
+	Free: Pattern=aan de, Pattern=een, Pattern=zijn, Pattern=ja
+	Constrained: Pattern=de, Pattern=aan
+Turn ID=17| B | B : ja E
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=18| A | A : ik hebben die drie bollet aan allebei de kant
+	Free: Pattern=hebben, Pattern=die, Pattern=de, Pattern=aan
+	Constrained: 
+Turn ID=19| B | B : dit zijn de enig met die plateau aan de onderkant
+	Free: Pattern=aan de, Pattern=met die, Pattern=zijn, Pattern=de
+	Constrained: Pattern=die, Pattern=de, Pattern=aan, Pattern=met
+Turn ID=20| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=21| B | B : onderop
+	Free: 
+	Constrained: 
+Turn ID=22| B | B : ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=23| B | B : dat zijn P
+	Free: Pattern=zijn
+	Constrained: 
+Turn ID=24| B | B : dit zijn die vierkant eronder plateau
+	Free: Pattern=eronder, Pattern=zijn, Pattern=die
+	Constrained: 
+Turn ID=25| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=26| B | B : O
+	Free: 
+	Constrained: 

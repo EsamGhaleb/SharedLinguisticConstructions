@@ -1,0 +1,139 @@
+B|0| B: _een_ rood 
+A|1| A: _oké_ 
+B|2| B: [oké] _ik_ _hebben_ _er_ _één_ _die_ _hebben_ _een_ soort van _een_ soort van snijvlak _door hem heen_ 
+A|3| A: [door hem heen] 
+B|4| B: _ja_ 
+A|5| A: [ja] _dat zijn_ [er] maar [één] 
+B|6| B: [ja] 
+A|7| A: _dat zijn_ nummer zes 
+B|8| B: [oké] 
+A|9| A: deze [hebben] _weer_ beetje _dat_ _dat_ plateau zo [er] _dwars doorheen_ in [ja] net iets onder _het_ midden _en_ [een] soor _glijbaan_ 
+B|10| B: [ja] 
+B|11| B: [ja] [glijbaan] 
+A|12| A: [hebben] we ding echt hetzelfde benoemen 
+B|13| B: [ja] precies supergoed 
+A|14| A: _dat_ vinden [ik] echt mooi 
+B|15| B: [oké] [dat zijn] C bij mij 
+A|16| A: cool 
+B|17| B: [het] _zijn weer_ _die_ gesneden worden [door] zo'n vierkant 
+A|18| A: [ja] _met_ [het] [glijbaan] 
+B|19| B: [met] [een] [glijbaan] 
+A|20| A: nummer dertien 
+A|21| A: deze [zijn weer] [dat] vierkan [die] [hem] zo _dwars_ _doorsnijden_ [met] [het] [glijbaan] 
+B|22| B: [ja] [dwars doorheen] 
+B|23| B: yes [dat zijn] J bij mij 
+A|24| A: [ja] 
+B|25| B: [weer] [die] [met] [dat] vierkantje [dat] [hem] [doorsnijden] 
+A|26| A: [ja] 
+B|27| B: [die] _erdoorheen_ gaan 
+A|28| A: [ja] _en_ [het] [glijbaan] nummer negen 
+B|29| B: [en] de [glijbaan] 
+B|30| B: yes 
+B|31| B: [oké] 
+A|32| A: deze [zijn] [met] [het] [glijbaan] [en] [het] plateau [erdoorheen] 
+B|33| B: [ja] N bij mij 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : een rood
+	Free: Pattern=een
+	Constrained: 
+Turn ID=1| A | A : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=2| B | B : oké ik hebben er één die hebben een soort van een soort van snijvlak door hem heen
+	Free: Pattern=een, Pattern=hebben, Pattern=die, Pattern=oké, Pattern=er, Pattern=ik, Pattern=één, Pattern=door hem heen
+	Constrained: Pattern=door, Pattern=hem
+Turn ID=3| A | A : door hem heen
+	Free: Pattern=door hem heen
+	Constrained: Pattern=door, Pattern=hem
+Turn ID=4| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=5| A | A : ja dat zijn er maar één
+	Free: Pattern=dat zijn, Pattern=er, Pattern=ja, Pattern=één
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=6| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=7| A | A : dat zijn nummer zes
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=8| B | B : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=9| A | A : deze hebben weer beetje dat dat plateau zo er dwars doorheen in ja net iets onder het midden en een soor glijbaan
+	Free: Pattern=dat, Pattern=dwars doorheen, Pattern=ja, Pattern=een, Pattern=het, Pattern=hebben, Pattern=en, Pattern=weer, Pattern=glijbaan, Pattern=er
+	Constrained: Pattern=dwars
+Turn ID=10| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=11| B | B : ja glijbaan
+	Free: Pattern=glijbaan, Pattern=ja
+	Constrained: 
+Turn ID=12| A | A : hebben we ding echt hetzelfde benoemen
+	Free: Pattern=hebben
+	Constrained: 
+Turn ID=13| B | B : ja precies supergoed
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=14| A | A : dat vinden ik echt mooi
+	Free: Pattern=dat, Pattern=ik
+	Constrained: 
+Turn ID=15| B | B : oké dat zijn C bij mij
+	Free: Pattern=dat zijn, Pattern=oké
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=16| A | A : cool
+	Free: 
+	Constrained: 
+Turn ID=17| B | B : het zijn weer die gesneden worden door zo'n vierkant
+	Free: Pattern=zijn weer, Pattern=door, Pattern=die, Pattern=het
+	Constrained: Pattern=zijn, Pattern=weer
+Turn ID=18| A | A : ja met het glijbaan
+	Free: Pattern=glijbaan, Pattern=ja, Pattern=met, Pattern=het
+	Constrained: 
+Turn ID=19| B | B : met een glijbaan
+	Free: Pattern=glijbaan, Pattern=met, Pattern=een
+	Constrained: 
+Turn ID=20| A | A : nummer dertien
+	Free: 
+	Constrained: 
+Turn ID=21| A | A : deze zijn weer dat vierkan die hem zo dwars doorsnijden met het glijbaan
+	Free: Pattern=dat, Pattern=met, Pattern=die, Pattern=dwars, Pattern=glijbaan, Pattern=hem, Pattern=zijn weer, Pattern=doorsnijden, Pattern=het
+	Constrained: Pattern=zijn, Pattern=weer
+Turn ID=22| B | B : ja dwars doorheen
+	Free: Pattern=dwars doorheen, Pattern=ja
+	Constrained: Pattern=dwars
+Turn ID=23| B | B : yes dat zijn J bij mij
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=24| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=25| B | B : weer die met dat vierkantje dat hem doorsnijden
+	Free: Pattern=dat, Pattern=doorsnijden, Pattern=met, Pattern=die, Pattern=weer, Pattern=hem
+	Constrained: 
+Turn ID=26| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=27| B | B : die erdoorheen gaan
+	Free: Pattern=die, Pattern=erdoorheen
+	Constrained: 
+Turn ID=28| A | A : ja en het glijbaan nummer negen
+	Free: Pattern=en, Pattern=glijbaan, Pattern=ja, Pattern=het
+	Constrained: 
+Turn ID=29| B | B : en de glijbaan
+	Free: Pattern=en, Pattern=glijbaan
+	Constrained: 
+Turn ID=30| B | B : yes
+	Free: 
+	Constrained: 
+Turn ID=31| B | B : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=32| A | A : deze zijn met het glijbaan en het plateau erdoorheen
+	Free: Pattern=het, Pattern=erdoorheen, Pattern=met, Pattern=glijbaan, Pattern=en, Pattern=zijn
+	Constrained: 
+Turn ID=33| B | B : ja N bij mij
+	Free: Pattern=ja
+	Constrained: 

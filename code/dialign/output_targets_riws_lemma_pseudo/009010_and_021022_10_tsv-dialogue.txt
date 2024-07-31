@@ -1,0 +1,123 @@
+B|0| B: _ja_ _en_ bovenop _zo'n_ kegel _die_ zeggen maar waarvan _de_ kop er af _zijn_ snijden _zo'n_ plat _dat_ ding wat zo omhoog lopen _met_ _een_ plat bovenkant 
+B|1| B: o _en_ _dan_ _die_ staaf _die_ er echt zo doorheen zitten 
+B|2| B: _ja_ ok _dan_ _zijn_ het K 
+A|3| A: deze vinden _ik_ [een] beetje _lijken_ op [een] Superman 
+A|4| A: omdat [die] [zo'n] dakje _hebben_ [dan] linksbof 
+A|5| A: [en] _hij_ _hebben_ _een soort_ _van_ [ja] peper [en] zoutvaat _aan de zijkant_ 
+A|6| A: [ja] jij [met] _je_ eit 
+A|7| A: [ja] 
+A|8| A: [ja] 
+A|9| A: twee eit 
+A|10| A: [ja] 
+B|11| B: [ja] hier [hebben] [je] _weer_ [die] [soort] cilinder of zo [die] er doorheen gaan [en] [dan] _dat_ [soort] plateautje [met] _dat_ ding _dat_ er achter hangen 
+B|12| B: [ja] Hangsel _dat_ het net [lijken] of [hij] omhoog [en] omlaag kunnen of zo 
+B|13| B: [ja] [ja] [ik] _zijn_ hem _even_ [aan] het _zoeken_ [ja] [ja] dus [die] _met die_ _met die_ cilinder waar [dan] ook [van] [die] bollet [aan de zijkant] zitten [ja] [ja] _dat zijn_ [dan] F 
+A|14| A: [ja] 
+A|15| A: [dat zijn] negen 
+A|16| A: _dit zijn_ [die] Superman [met die] zout [en] pepervaat [die] jij ei vinden 
+B|17| B: [ja] zelfde plek 
+B|18| B: [ja] hier [hebben] [je] _weer_ [die] cilinder [die] er doorheen gaan [met] [dat] pateau [dat] [lijken] alsof het omlaag [en] omhoog kunnen 
+B|19| B: [ja] [ja] 
+A|20| A: [even] [zoeken] 
+A|21| A: [ja] 
+A|22| A: [dat zijn] drie 
+B|23| B: [ja] 
+B|24| B: [dat zijn] [dan] L 
+A|25| A: _dit zijn_ [weer] [dat] zout [en] peperstelsel [die] paaseit 
+B|26| B: [ja] [dit zijn] diegene [met die] cilinder doorheen [met] [dat] plateau [en] [met] [dat] aanhangsel waardoor het [lijken] alsof [je] hem naar beneden kunnen trekken of zo 
+B|27| B: [ja] [die] cilinder [die] [dan] [die] er doorheen gaan [en] [aan] beide kant zitten nog [een soort] top of bolle of zo er bovenop 
+B|28| B: [ja] 
+A|29| A: [even] [zoeken] [dat zijn] vijf 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : ja en bovenop zo'n kegel die zeggen maar waarvan de kop er af zijn snijden zo'n plat dat ding wat zo omhoog lopen met een plat bovenkant
+	Free: Pattern=dat, Pattern=zo'n, Pattern=een, Pattern=met, Pattern=die, Pattern=en, Pattern=zijn, Pattern=de, Pattern=ja
+	Constrained: 
+Turn ID=1| B | B : o en dan die staaf die er echt zo doorheen zitten
+	Free: Pattern=en, Pattern=dan, Pattern=die
+	Constrained: 
+Turn ID=2| B | B : ja ok dan zijn het K
+	Free: Pattern=ja, Pattern=dan, Pattern=zijn
+	Constrained: 
+Turn ID=3| A | A : deze vinden ik een beetje lijken op een Superman
+	Free: Pattern=een, Pattern=ik, Pattern=lijken
+	Constrained: 
+Turn ID=4| A | A : omdat die zo'n dakje hebben dan linksbof
+	Free: Pattern=hebben, Pattern=dan, Pattern=die, Pattern=zo'n
+	Constrained: 
+Turn ID=5| A | A : en hij hebben een soort van ja peper en zoutvaat aan de zijkant
+	Free: Pattern=ja, Pattern=aan de zijkant, Pattern=hebben, Pattern=hij, Pattern=een soort, Pattern=van, Pattern=en
+	Constrained: Pattern=aan, Pattern=een, Pattern=de, Pattern=soort
+Turn ID=6| A | A : ja jij met je eit
+	Free: Pattern=ja, Pattern=je, Pattern=met
+	Constrained: 
+Turn ID=7| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=8| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=9| A | A : twee eit
+	Free: 
+	Constrained: 
+Turn ID=10| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=11| B | B : ja hier hebben je weer die soort cilinder of zo die er doorheen gaan en dan dat soort plateautje met dat ding dat er achter hangen
+	Free: Pattern=dat, Pattern=soort, Pattern=ja, Pattern=dan, Pattern=hebben, Pattern=met, Pattern=die, Pattern=en, Pattern=weer, Pattern=je
+	Constrained: 
+Turn ID=12| B | B : ja Hangsel dat het net lijken of hij omhoog en omlaag kunnen of zo
+	Free: Pattern=dat, Pattern=ja, Pattern=lijken, Pattern=hij, Pattern=en
+	Constrained: 
+Turn ID=13| B | B : ja ja ik zijn hem even aan het zoeken ja ja dus die met die met die cilinder waar dan ook van die bollet aan de zijkant zitten ja ja dat zijn dan F
+	Free: Pattern=zoeken, Pattern=even, Pattern=dan, Pattern=aan de zijkant, Pattern=die, Pattern=ik, Pattern=van, Pattern=zijn, Pattern=dat zijn, Pattern=met die, Pattern=aan, Pattern=ja
+	Constrained: Pattern=dat, Pattern=met, Pattern=die, Pattern=zijn, Pattern=de, Pattern=aan
+Turn ID=14| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=15| A | A : dat zijn negen
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=16| A | A : dit zijn die Superman met die zout en pepervaat die jij ei vinden
+	Free: Pattern=dit zijn, Pattern=met die, Pattern=en, Pattern=die
+	Constrained: Pattern=zijn, Pattern=die, Pattern=met
+Turn ID=17| B | B : ja zelfde plek
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=18| B | B : ja hier hebben je weer die cilinder die er doorheen gaan met dat pateau dat lijken alsof het omlaag en omhoog kunnen
+	Free: Pattern=dat, Pattern=ja, Pattern=lijken, Pattern=hebben, Pattern=met, Pattern=die, Pattern=en, Pattern=weer, Pattern=je
+	Constrained: 
+Turn ID=19| B | B : ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=20| A | A : even zoeken
+	Free: Pattern=even, Pattern=zoeken
+	Constrained: 
+Turn ID=21| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=22| A | A : dat zijn drie
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=23| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=24| B | B : dat zijn dan L
+	Free: Pattern=dat zijn, Pattern=dan
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=25| A | A : dit zijn weer dat zout en peperstelsel die paaseit
+	Free: Pattern=dat, Pattern=die, Pattern=en, Pattern=weer, Pattern=dit zijn
+	Constrained: Pattern=zijn
+Turn ID=26| B | B : ja dit zijn diegene met die cilinder doorheen met dat plateau en met dat aanhangsel waardoor het lijken alsof je hem naar beneden kunnen trekken of zo
+	Free: Pattern=ja, Pattern=lijken, Pattern=met, Pattern=en, Pattern=je, Pattern=dit zijn, Pattern=dat, Pattern=met die
+	Constrained: Pattern=zijn, Pattern=die, Pattern=met
+Turn ID=27| B | B : ja die cilinder die dan die er doorheen gaan en aan beide kant zitten nog een soort top of bolle of zo er bovenop
+	Free: Pattern=dan, Pattern=die, Pattern=een soort, Pattern=en, Pattern=aan, Pattern=ja
+	Constrained: Pattern=een, Pattern=soort
+Turn ID=28| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=29| A | A : even zoeken dat zijn vijf
+	Free: Pattern=dat zijn, Pattern=even, Pattern=zoeken
+	Constrained: Pattern=dat, Pattern=zijn

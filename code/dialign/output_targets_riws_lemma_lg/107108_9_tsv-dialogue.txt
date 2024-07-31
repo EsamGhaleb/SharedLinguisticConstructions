@@ -1,0 +1,143 @@
+B|0| B: _ok_ _dit zijn_ zeggen maar dat 
+B|1| B: _ja_ blauw _dinge_ met _ja_ _mij_ _doen_ _het_ _een beetje denken aan_ _pinoccio_ zeggen maar _zo'n_ neus recht naar voren _en_ één _zo'n_ pluimp zeggen maar _op_ _het_ hoofd 
+A|2| A: hebben hij [aan] _de_ achterkant ook [zo'n] [zo'n] cirkel 
+B|3| B: _ja _ja_ ja_ 
+A|4| A: _okan ja_ _dan_ _zijn het_ dertien 
+B|5| B: [okan _ja] bij mij_ [zijn het] G _ik_ weten niet _of_ _ik_ dat nog _moeten_ zeggen maar [ja] 
+A|6| A: [ok] _nu_ [moeten] [ik] [op] geel klikken toch 
+B|7| B: [ja] volgens _mij_ wel [ja] 
+A|8| A: duidelijk 
+B|9| B: [ja] 
+A|10| A: [ja] deze [doen] me [een beetje denken aan] [een] [aan] [een] [een] cocktailglas [of] zo omdat je hebben gewoon 
+A|11| A: [ja] [beetje] _die_ glasvorm [en] _dan_ hebben je [een] schijf [aan] _de_ achterkant _die_ _citroen_ soort _citroen en_ _dan_ [een] [dinge] er ook in 
+B|12| B: _o_ [die] _o_ [die] _mij_ [dan] [doen] [denken aan] _die pinoccio_ [een beetje] 
+A|13| A: [ja ja] [die pinoccio] [ja] precies 
+B|14| B: [ja [ja] ja] dat [zijn] _bij mij_ O 
+A|15| A: [bij mij] vier 
+B|16| B: [ok] 
+B|17| B: nee 
+B|18| B: _dit zijn_ [bij] jou lijken [het] [een beetje] [op] [een] _cocktail_ met [citroen en] [bij mij] [zijn het] [beetje] [pinoccio] 
+A|19| A: [o] 
+A|20| A: [pinoccio] 
+B|21| B: [ja] 
+A|22| A: [ja] [zijn] acht 
+B|23| B: [ok] [bij mij] N 
+A|24| A: [ok] 
+A|25| A: [dit zijn] [pinoccio] [cocktail] 
+B|26| B: [o] [die] C 
+A|27| A: [ja] [zijn] veertien [bij mij] 
+B|28| B: [dit zijn] [de] [cocktail] [en] [pinoccio] 
+A|29| A: [zijn] zeven [bij mij] 
+B|30| B: [ok] [bij mij] N 
+A|31| A: [dit zijn] [pinoccio] [cocktail] 
+B|32| B: even kijken waar [die] [zijn] [o] hier C 
+A|33| A: [ja bij mij] zeven 
+B|34| B: [o] bedanken voor [de] deelname [nu] komen [het] volgen keer 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : ok dit zijn zeggen maar dat
+	Free: Pattern=dit zijn, Pattern=ok
+	Constrained: Pattern=zijn
+Turn ID=1| B | B : ja blauw dinge met ja mij doen het een beetje denken aan pinoccio zeggen maar zo'n neus recht naar voren en één zo'n pluimp zeggen maar op het hoofd
+	Free: Pattern=een beetje denken aan, Pattern=ja, Pattern=op, Pattern=het, Pattern=dinge, Pattern=pinoccio, Pattern=mij, Pattern=en, Pattern=doen, Pattern=zo'n
+	Constrained: Pattern=aan, Pattern=beetje, Pattern=een, Pattern=een beetje, Pattern=denken aan
+Turn ID=2| A | A : hebben hij aan de achterkant ook zo'n zo'n cirkel
+	Free: Pattern=de, Pattern=zo'n, Pattern=aan
+	Constrained: 
+Turn ID=3| B | B : ja ja ja
+	Free: Pattern=ja ja
+	Constrained: Pattern=ja
+Turn ID=4| A | A : okan ja dan zijn het dertien
+	Free: Pattern=okan ja, Pattern=zijn het, Pattern=dan
+	Constrained: Pattern=zijn, Pattern=het, Pattern=ja
+Turn ID=5| B | B : okan ja bij mij zijn het G ik weten niet of ik dat nog moeten zeggen maar ja
+	Free: Pattern=ja, Pattern=okan ja, Pattern=ja bij mij, Pattern=moeten, Pattern=ik, Pattern=zijn het, Pattern=of
+	Constrained: Pattern=ja, Pattern=het, Pattern=bij, Pattern=mij, Pattern=zijn, Pattern=bij mij
+Turn ID=6| A | A : ok nu moeten ik op geel klikken toch
+	Free: Pattern=op, Pattern=nu, Pattern=moeten, Pattern=ok, Pattern=ik
+	Constrained: 
+Turn ID=7| B | B : ja volgens mij wel ja
+	Free: Pattern=ja, Pattern=mij
+	Constrained: 
+Turn ID=8| A | A : duidelijk
+	Free: 
+	Constrained: 
+Turn ID=9| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=10| A | A : ja deze doen me een beetje denken aan een aan een een cocktailglas of zo omdat je hebben gewoon
+	Free: Pattern=een beetje denken aan, Pattern=of, Pattern=doen, Pattern=een, Pattern=aan, Pattern=ja
+	Constrained: Pattern=aan, Pattern=beetje, Pattern=een, Pattern=een beetje, Pattern=denken aan
+Turn ID=11| A | A : ja beetje die glasvorm en dan hebben je een schijf aan de achterkant die citroen soort citroen en dan een dinge er ook in
+	Free: Pattern=een, Pattern=citroen en, Pattern=citroen, Pattern=en, Pattern=de, Pattern=aan, Pattern=ja, Pattern=beetje, Pattern=dan, Pattern=die, Pattern=dinge
+	Constrained: Pattern=en, Pattern=citroen
+Turn ID=12| B | B : o die o die mij dan doen denken aan die pinoccio een beetje
+	Free: Pattern=doen, Pattern=dan, Pattern=mij, Pattern=een beetje, Pattern=o, Pattern=denken aan, Pattern=die pinoccio, Pattern=die
+	Constrained: Pattern=aan, Pattern=beetje, Pattern=een, Pattern=die, Pattern=pinoccio
+Turn ID=13| A | A : ja ja die pinoccio ja precies
+	Free: Pattern=ja ja, Pattern=die pinoccio, Pattern=ja
+	Constrained: Pattern=die, Pattern=ja, Pattern=pinoccio
+Turn ID=14| B | B : ja ja ja dat zijn bij mij O
+	Free: Pattern=bij mij, Pattern=ja ja, Pattern=zijn
+	Constrained: Pattern=ja, Pattern=bij, Pattern=mij
+Turn ID=15| A | A : bij mij vier
+	Free: Pattern=bij mij
+	Constrained: Pattern=bij, Pattern=mij
+Turn ID=16| B | B : ok
+	Free: Pattern=ok
+	Constrained: 
+Turn ID=17| B | B : nee
+	Free: 
+	Constrained: 
+Turn ID=18| B | B : dit zijn bij jou lijken het een beetje op een cocktail met citroen en bij mij zijn het beetje pinoccio
+	Free: Pattern=zijn het, Pattern=cocktail, Pattern=op, Pattern=beetje, Pattern=een, Pattern=dit zijn, Pattern=het, Pattern=citroen en, Pattern=bij, Pattern=pinoccio, Pattern=bij mij, Pattern=een beetje
+	Constrained: Pattern=beetje, Pattern=een, Pattern=het, Pattern=mij, Pattern=en, Pattern=zijn, Pattern=bij, Pattern=citroen
+Turn ID=19| A | A : o
+	Free: Pattern=o
+	Constrained: 
+Turn ID=20| A | A : pinoccio
+	Free: Pattern=pinoccio
+	Constrained: 
+Turn ID=21| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=22| A | A : ja zijn acht
+	Free: Pattern=zijn, Pattern=ja
+	Constrained: 
+Turn ID=23| B | B : ok bij mij N
+	Free: Pattern=bij mij, Pattern=ok
+	Constrained: Pattern=bij, Pattern=mij
+Turn ID=24| A | A : ok
+	Free: Pattern=ok
+	Constrained: 
+Turn ID=25| A | A : dit zijn pinoccio cocktail
+	Free: Pattern=dit zijn, Pattern=cocktail, Pattern=pinoccio
+	Constrained: Pattern=zijn
+Turn ID=26| B | B : o die C
+	Free: Pattern=die, Pattern=o
+	Constrained: 
+Turn ID=27| A | A : ja zijn veertien bij mij
+	Free: Pattern=bij mij, Pattern=zijn, Pattern=ja
+	Constrained: Pattern=bij, Pattern=mij
+Turn ID=28| B | B : dit zijn de cocktail en pinoccio
+	Free: Pattern=cocktail, Pattern=de, Pattern=pinoccio, Pattern=en, Pattern=dit zijn
+	Constrained: Pattern=zijn
+Turn ID=29| A | A : zijn zeven bij mij
+	Free: Pattern=bij mij, Pattern=zijn
+	Constrained: Pattern=bij, Pattern=mij
+Turn ID=30| B | B : ok bij mij N
+	Free: Pattern=bij mij, Pattern=ok
+	Constrained: Pattern=bij, Pattern=mij
+Turn ID=31| A | A : dit zijn pinoccio cocktail
+	Free: Pattern=dit zijn, Pattern=cocktail, Pattern=pinoccio
+	Constrained: Pattern=zijn
+Turn ID=32| B | B : even kijken waar die zijn o hier C
+	Free: Pattern=zijn, Pattern=die, Pattern=o
+	Constrained: 
+Turn ID=33| A | A : ja bij mij zeven
+	Free: Pattern=ja bij mij
+	Constrained: Pattern=bij mij, Pattern=ja, Pattern=bij, Pattern=mij
+Turn ID=34| B | B : o bedanken voor de deelname nu komen het volgen keer
+	Free: Pattern=het, Pattern=de, Pattern=nu, Pattern=o
+	Constrained: 

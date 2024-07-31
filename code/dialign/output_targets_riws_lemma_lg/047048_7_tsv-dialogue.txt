@@ -1,0 +1,107 @@
+B|0| B: ah deze _zijn_ de laat _met_ _een_ plat vlak _erdoorheen_ 
+B|1| B: en _die_ zitten veel _aan_ de bovenkant _het_ plat vlak 
+A|2| A: _ja_ 
+A|3| A: iets [met] _met die_ tafelpo eraan 
+B|4| B: [ja] tafelpoot [ja] 
+A|5| A: _dat_ bijzettafel 
+A|6| A: _dat zijn_ zestien 
+A|7| A: dit [zijn] _dat_ kop _met het_ _tafel_ [erdoorheen] 
+A|8| A: _met die_ _poot_ eraan 
+B|9| B: [met het] [met] de [poot] oké 
+A|10| A: [ja] 
+B|11| B: P 
+B|12| B: [dat _zijn] die een met_ de [tafel] 
+A|13| A: _met die_ [poot] er echt [aan] 
+B|14| B: [ja] 
+A|15| A: [ja] 
+A|16| A: [dat zijn] veertien 
+A|17| A: dit [zijn die een _met] die_ bijzettafel er recht doorheen _met die_ [poot] eraan 
+B|18| B: [ja] 
+B|19| B: N 
+B|20| B: de [tafel] 
+B|21| B: _met die twee poot_ om de [tafel] 
+A|22| A: [ja] [dat zijn] tien 
+A|23| A: [die] bijzettafel [die] er helemaal doorheen gaan [met die twee poot] eraan 
+B|24| B: oké 
+B|25| B: d 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : ah deze zijn de laat met een plat vlak erdoorheen
+	Free: Pattern=erdoorheen, Pattern=met, Pattern=een, Pattern=zijn
+	Constrained: 
+Turn ID=1| B | B : en die zitten veel aan de bovenkant het plat vlak
+	Free: Pattern=aan, Pattern=die, Pattern=het
+	Constrained: 
+Turn ID=2| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=3| A | A : iets met met die tafelpo eraan
+	Free: Pattern=met die, Pattern=met
+	Constrained: Pattern=die, Pattern=met
+Turn ID=4| B | B : ja tafelpoot ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=5| A | A : dat bijzettafel
+	Free: Pattern=dat
+	Constrained: 
+Turn ID=6| A | A : dat zijn zestien
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=7| A | A : dit zijn dat kop met het tafel erdoorheen
+	Free: Pattern=dat, Pattern=erdoorheen, Pattern=tafel, Pattern=met het, Pattern=zijn
+	Constrained: Pattern=het, Pattern=met
+Turn ID=8| A | A : met die poot eraan
+	Free: Pattern=met die, Pattern=poot
+	Constrained: Pattern=die, Pattern=met
+Turn ID=9| B | B : met het met de poot oké
+	Free: Pattern=met het, Pattern=poot, Pattern=met
+	Constrained: Pattern=het, Pattern=met
+Turn ID=10| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=11| B | B : P
+	Free: 
+	Constrained: 
+Turn ID=12| B | B : dat zijn die een met de tafel
+	Free: Pattern=zijn die een met, Pattern=dat zijn, Pattern=tafel
+	Constrained: Pattern=dat, Pattern=een, Pattern=met, Pattern=die, Pattern=zijn
+Turn ID=13| A | A : met die poot er echt aan
+	Free: Pattern=met die, Pattern=aan, Pattern=poot
+	Constrained: Pattern=die, Pattern=met
+Turn ID=14| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=15| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=16| A | A : dat zijn veertien
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=17| A | A : dit zijn die een met die bijzettafel er recht doorheen met die poot eraan
+	Free: Pattern=zijn die een met, Pattern=met die, Pattern=poot
+	Constrained: Pattern=een, Pattern=zijn, Pattern=die, Pattern=met
+Turn ID=18| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=19| B | B : N
+	Free: 
+	Constrained: 
+Turn ID=20| B | B : de tafel
+	Free: Pattern=tafel
+	Constrained: 
+Turn ID=21| B | B : met die twee poot om de tafel
+	Free: Pattern=met die twee poot, Pattern=tafel
+	Constrained: Pattern=poot, Pattern=met, Pattern=die, Pattern=met die
+Turn ID=22| A | A : ja dat zijn tien
+	Free: Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=23| A | A : die bijzettafel die er helemaal doorheen gaan met die twee poot eraan
+	Free: Pattern=met die twee poot, Pattern=die
+	Constrained: Pattern=poot, Pattern=met, Pattern=die, Pattern=met die
+Turn ID=24| B | B : oké
+	Free: 
+	Constrained: 
+Turn ID=25| B | B : d
+	Free: 
+	Constrained: 

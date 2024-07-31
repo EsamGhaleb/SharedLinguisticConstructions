@@ -1,0 +1,135 @@
+A|0| A: _ja ik_ _hebben_ geen idee hoe _ik_ deze moeten omschrijven qua woord _maar_ je _hebben aan de rechterkant_ _twee_ van _die_ vierkant blok zitten _aan de_ linkerkant zitten _een_ 
+A|1| A: op dezelfde hoogte van _die twee_ vierkant blok zitten _een soort_ hendel 
+A|2| A: daaronder daar zitten _een soort_ uitlaatpijp _en_ bovenop zitten nog _een_ gek _ja_ 
+A|3| A: _ja_ _en_ daarna weer _plat_ _ja_ precies 
+B|4| B: [ja] [een soort] 
+B|5| B: [en] [die] zien er [plat] uit 
+B|6| B: [en] hij [hebben aan de rechterkant] _staan_ [twee] 
+B|7| B: oké _ja [ja_ ik] vinden het [een soort] kip [maar] 
+B|8| B: dan _zijn_ het _zijn_ het I 
+A|9| A: [ja [ja] [ja] ja] 
+A|10| A: [ja] 
+A|11| A: _met_ _die twee_ vierkant blok [aan de rechterkant] 
+A|12| A: _of_ 
+A|13| A: [ja ja] rechthoek [ja [ja] ja] 
+A|14| A: [ja] deurklink prima 
+A|15| A: _dat zijn_ [twee] 
+B|16| B: dit _zijn de_ kip 
+B|17| B: [met] [aan de rechterkant] [die twee] [of] [dat] [dat] isteken 
+A|18| A: [de] deurhendel volgens mij 
+B|19| B: [de] kip 
+B|20| B: [dat zijn] M 
+B|21| B: [ja] 
+A|22| A: [de] deurklink 
+A|23| A: [dat zijn] waar [staan] [die] 
+A|24| A: ah daar 
+A|25| A: [dat zijn] negen 
+B|26| B: dit _zijn de_ kip 
+A|27| A: [de] deurklink 
+B|28| B: [de] kip [dat zijn] F 
+A|29| A: deurklink waar [zijn de] deurklink verstoppen 
+A|30| A: daar 
+A|31| A: zes 
+B|32| B: kip 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : ja ik hebben geen idee hoe ik deze moeten omschrijven qua woord maar je hebben aan de rechterkant twee van die vierkant blok zitten aan de linkerkant zitten een
+	Free: Pattern=twee, Pattern=aan de, Pattern=een, Pattern=hebben, Pattern=hebben aan de rechterkant, Pattern=die, Pattern=ja ik, Pattern=ik, Pattern=maar
+	Constrained: Pattern=aan de, Pattern=hebben, Pattern=aan de rechterkant, Pattern=ik, Pattern=de, Pattern=ja
+Turn ID=1| A | A : op dezelfde hoogte van die twee vierkant blok zitten een soort hendel
+	Free: Pattern=een soort, Pattern=die twee
+	Constrained: Pattern=die, Pattern=een, Pattern=twee
+Turn ID=2| A | A : daaronder daar zitten een soort uitlaatpijp en bovenop zitten nog een gek ja
+	Free: Pattern=een soort, Pattern=en, Pattern=een, Pattern=ja
+	Constrained: Pattern=een
+Turn ID=3| A | A : ja en daarna weer plat ja precies
+	Free: Pattern=en, Pattern=plat, Pattern=ja
+	Constrained: 
+Turn ID=4| B | B : ja een soort
+	Free: Pattern=een soort, Pattern=ja
+	Constrained: Pattern=een
+Turn ID=5| B | B : en die zien er plat uit
+	Free: Pattern=en, Pattern=die, Pattern=plat
+	Constrained: 
+Turn ID=6| B | B : en hij hebben aan de rechterkant staan twee
+	Free: Pattern=hebben aan de rechterkant, Pattern=en, Pattern=twee, Pattern=staan
+	Constrained: Pattern=de, Pattern=aan de rechterkant, Pattern=hebben, Pattern=aan de
+Turn ID=7| B | B : oké ja ja ik vinden het een soort kip maar
+	Free: Pattern=ja ja, Pattern=ja ik, Pattern=een soort, Pattern=maar
+	Constrained: Pattern=een, Pattern=ik, Pattern=ja
+Turn ID=8| B | B : dan zijn het zijn het I
+	Free: Pattern=zijn
+	Constrained: 
+Turn ID=9| A | A : ja ja ja ja
+	Free: Pattern=ja ja
+	Constrained: Pattern=ja
+Turn ID=10| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=11| A | A : met die twee vierkant blok aan de rechterkant
+	Free: Pattern=aan de rechterkant, Pattern=die twee, Pattern=met
+	Constrained: Pattern=twee, Pattern=de, Pattern=die, Pattern=aan de
+Turn ID=12| A | A : of
+	Free: Pattern=of
+	Constrained: 
+Turn ID=13| A | A : ja ja rechthoek ja ja ja
+	Free: Pattern=ja ja
+	Constrained: Pattern=ja
+Turn ID=14| A | A : ja deurklink prima
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=15| A | A : dat zijn twee
+	Free: Pattern=dat zijn, Pattern=twee
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=16| B | B : dit zijn de kip
+	Free: Pattern=zijn de
+	Constrained: Pattern=zijn, Pattern=de
+Turn ID=17| B | B : met aan de rechterkant die twee of dat dat isteken
+	Free: Pattern=dat, Pattern=of, Pattern=die twee, Pattern=met, Pattern=aan de rechterkant
+	Constrained: Pattern=twee, Pattern=de, Pattern=die, Pattern=aan de
+Turn ID=18| A | A : de deurhendel volgens mij
+	Free: Pattern=de
+	Constrained: 
+Turn ID=19| B | B : de kip
+	Free: Pattern=de
+	Constrained: 
+Turn ID=20| B | B : dat zijn M
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=21| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=22| A | A : de deurklink
+	Free: Pattern=de
+	Constrained: 
+Turn ID=23| A | A : dat zijn waar staan die
+	Free: Pattern=dat zijn, Pattern=die, Pattern=staan
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=24| A | A : ah daar
+	Free: 
+	Constrained: 
+Turn ID=25| A | A : dat zijn negen
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=26| B | B : dit zijn de kip
+	Free: Pattern=zijn de
+	Constrained: Pattern=zijn, Pattern=de
+Turn ID=27| A | A : de deurklink
+	Free: Pattern=de
+	Constrained: 
+Turn ID=28| B | B : de kip dat zijn F
+	Free: Pattern=dat zijn, Pattern=de
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=29| A | A : deurklink waar zijn de deurklink verstoppen
+	Free: Pattern=zijn de
+	Constrained: Pattern=zijn, Pattern=de
+Turn ID=30| A | A : daar
+	Free: 
+	Constrained: 
+Turn ID=31| A | A : zes
+	Free: 
+	Constrained: 
+Turn ID=32| B | B : kip
+	Free: 
+	Constrained: 

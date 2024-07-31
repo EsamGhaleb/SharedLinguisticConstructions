@@ -1,0 +1,135 @@
+A|0| A: _deze hebben_ _deze_ mok _hebben_ _rechts en_ onder _hebben_ _hij_ _een soort_ van 90 graad uitsteeksel 
+A|1| A: _die_ _zo_ krom lopen 
+A|2| A: _en_ bovenop _hebben_ _hij_ _een_ _een_ ruit _met_ _twee_ uitsteeksel _aan de_ zijkant 
+B|3| B: het lijken wel [een] zeef 
+B|4| B: [een] voetstuk [en] 
+B|5| B: _ja_ ik zien hem al dat zijn i bij mij 
+A|6| A: [ja] drie 
+A|7| A: _ja een_ ruit bovenop achter [en] _de_ _twee_ verrekijker _aan de_ zijkant 
+A|8| A: piratenverrekijker 
+A|9| A: piratenverrekijker 
+A|10| A: vijf 
+B|11| B: [deze] [deze] vinden ik moeilijk [deze hebben] [twee] arm [rechts] 
+B|12| B: één kromme [en] één recht 
+B|13| B: [en] [een] vierkan [met] [een] stok erdoorheen op zijn hoofd 
+B|14| B: beetje [aan de] linkerkant 
+B|15| B: sorry [een] plat vierkan [met] [een] 
+B|16| B: [ja [een] soort] mutsje [met] [een] 
+B|17| B: [ja] 
+B|18| B: [ja] [met] zo'n stok erdoorheen zeggen maar [ja] 
+B|19| B: [en] [hij] staan op iets 
+B|20| B: [ja] 
+A|21| A: [een] rui bovenop [en] piratenverrekijker links links [en] [rechts] 
+A|22| A: negen 
+B|23| B: [ja] 
+B|24| B: [ja] 
+B|25| B: dat zijn j 
+B|26| B: dit zijn [die] [met] het knot 
+B|27| B: [en] [twee] arm [rechts en] [een] kromme voet [zo] 
+B|28| B: [ja] 
+B|29| B: o 
+B|30| B: dit zijn [die] [met] het knot 
+B|31| B: [en] [twee] arm [rechts en] op [de] voet 
+B|32| B: [de] kromme voet 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : deze hebben deze mok hebben rechts en onder hebben hij een soort van 90 graad uitsteeksel
+	Free: Pattern=rechts en, Pattern=hebben, Pattern=een soort, Pattern=deze, Pattern=deze hebben, Pattern=hij
+	Constrained: Pattern=rechts, Pattern=een, Pattern=hebben, Pattern=en, Pattern=deze
+Turn ID=1| A | A : die zo krom lopen
+	Free: Pattern=die, Pattern=zo
+	Constrained: 
+Turn ID=2| A | A : en bovenop hebben hij een een ruit met twee uitsteeksel aan de zijkant
+	Free: Pattern=twee, Pattern=aan de, Pattern=een, Pattern=hebben, Pattern=hij, Pattern=met, Pattern=en
+	Constrained: Pattern=de
+Turn ID=3| B | B : het lijken wel een zeef
+	Free: Pattern=een
+	Constrained: 
+Turn ID=4| B | B : een voetstuk en
+	Free: Pattern=en, Pattern=een
+	Constrained: 
+Turn ID=5| B | B : ja ik zien hem al dat zijn i bij mij
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=6| A | A : ja drie
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=7| A | A : ja een ruit bovenop achter en de twee verrekijker aan de zijkant
+	Free: Pattern=twee, Pattern=de, Pattern=aan de, Pattern=ja een, Pattern=en
+	Constrained: Pattern=de, Pattern=ja, Pattern=een
+Turn ID=8| A | A : piratenverrekijker
+	Free: 
+	Constrained: 
+Turn ID=9| A | A : piratenverrekijker
+	Free: 
+	Constrained: 
+Turn ID=10| A | A : vijf
+	Free: 
+	Constrained: 
+Turn ID=11| B | B : deze deze vinden ik moeilijk deze hebben twee arm rechts
+	Free: Pattern=deze hebben, Pattern=twee, Pattern=deze, Pattern=rechts
+	Constrained: Pattern=hebben, Pattern=deze
+Turn ID=12| B | B : één kromme en één recht
+	Free: Pattern=en
+	Constrained: 
+Turn ID=13| B | B : en een vierkan met een stok erdoorheen op zijn hoofd
+	Free: Pattern=met, Pattern=en, Pattern=een
+	Constrained: 
+Turn ID=14| B | B : beetje aan de linkerkant
+	Free: Pattern=aan de
+	Constrained: Pattern=de
+Turn ID=15| B | B : sorry een plat vierkan met een
+	Free: Pattern=met, Pattern=een
+	Constrained: 
+Turn ID=16| B | B : ja een soort mutsje met een
+	Free: Pattern=ja een, Pattern=een soort, Pattern=met, Pattern=een
+	Constrained: Pattern=ja, Pattern=een
+Turn ID=17| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=18| B | B : ja met zo'n stok erdoorheen zeggen maar ja
+	Free: Pattern=met, Pattern=ja
+	Constrained: 
+Turn ID=19| B | B : en hij staan op iets
+	Free: Pattern=hij, Pattern=en
+	Constrained: 
+Turn ID=20| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=21| A | A : een rui bovenop en piratenverrekijker links links en rechts
+	Free: Pattern=rechts, Pattern=en, Pattern=een
+	Constrained: 
+Turn ID=22| A | A : negen
+	Free: 
+	Constrained: 
+Turn ID=23| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=24| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=25| B | B : dat zijn j
+	Free: 
+	Constrained: 
+Turn ID=26| B | B : dit zijn die met het knot
+	Free: Pattern=die, Pattern=met
+	Constrained: 
+Turn ID=27| B | B : en twee arm rechts en een kromme voet zo
+	Free: Pattern=rechts en, Pattern=twee, Pattern=een, Pattern=zo, Pattern=en
+	Constrained: Pattern=rechts, Pattern=en
+Turn ID=28| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=29| B | B : o
+	Free: 
+	Constrained: 
+Turn ID=30| B | B : dit zijn die met het knot
+	Free: Pattern=die, Pattern=met
+	Constrained: 
+Turn ID=31| B | B : en twee arm rechts en op de voet
+	Free: Pattern=rechts en, Pattern=de, Pattern=twee, Pattern=en
+	Constrained: Pattern=rechts, Pattern=en
+Turn ID=32| B | B : de kromme voet
+	Free: Pattern=de
+	Constrained: 

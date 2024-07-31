@@ -1,0 +1,139 @@
+B|0| B: die van mij _soort_ van _een_ vierkant midden door _de_ emmer 
+B|1| B: _en_ daarboven _zijn_ _soort_ van klein pijpje 
+B|2| B: _en_ helemaal _bovenop_ _zijn_ _twee_ stok die daaruit _komen_ 
+A|3| A: _ja_ 
+A|4| A: _dat zijn_ nummer elf 
+B|5| B: _en hij_ roken _een_ pijpje 
+B|6| B: [ja] l 
+B|7| B: deze _ja dat zijn_ die _een_ die _het_ pijpje roken _en_ waar [dat] vierkant er door die emmer _heen_ [zijn] _halverwege_ 
+B|8| B: _en_ _twee staaf_ bovenaan uitkomen 
+B|9| B: [ja] 
+B|10| B: [ja] 
+B|11| B: n 
+B|12| B: deze _hebben_ [dat] vierkant [dat] er dwars doormidd gaan _en_ _een_ pijpje _aan de_ linkerkant 
+B|13| B: _twee staaf_ _bovenop_ 
+B|14| B: b 
+A|15| A: dit [zijn] zitten ook [een] plateau in [het] beker 
+A|16| A: met [twee staaf] wat uit [het] beker [komen] 
+A|17| A: met [een] [soort] [aan de] linkerzijde [een] armpje 
+A|18| A: [en] recht voor [komen] ook [een] [soort] staafje naar voren 
+A|19| A: [twee] balk [bovenop] 
+A|20| A: één [aan de] linkerzijde [en hij] zitten [een] [soort] in [een] [soort] houdertje zitten [hij] 
+A|21| A: [ja dat zijn] nummer negen 
+A|22| A: dit [zijn] [een] houder langs [het] beker [heen] 
+A|23| A: met [de] [twee staaf] uit [het] beker 
+A|24| A: met [een] armpje links [en] met [een] [soort] slurfje rechts boven wat eruit [komen] 
+A|25| A: dus [hij] zitten zeggen maar in [het] houder [dat] beker 
+A|26| A: nee dit [hebben] niet [twee] poo 
+A|27| A: dus [het] [hebben] zeggen maar uit [het] beker steken [twee] [soort] rechthoekjes uit 
+A|28| A: [ja] antennedinget 
+A|29| A: [en] dan [hebben] [het] zegn maar [een] [soort] slurfje rechtsboven [en] [het] [hebben] [een] [soort] tetris vorm links boven [en] [het] zitten ook in [een] houder 
+A|30| A: [halverwege] [het] beker dus 
+A|31| A: [ja] nummer veertien 
+A|32| A: beker zitten in [het] houder met [de] [twee] blok uit [het] beker 
+A|33| A: slurf [aan de] rechterzijde [ja] tetrisdingetje link 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : die van mij soort van een vierkant midden door de emmer
+	Free: Pattern=soort, Pattern=de, Pattern=een
+	Constrained: 
+Turn ID=1| B | B : en daarboven zijn soort van klein pijpje
+	Free: Pattern=en, Pattern=soort, Pattern=zijn
+	Constrained: 
+Turn ID=2| B | B : en helemaal bovenop zijn twee stok die daaruit komen
+	Free: Pattern=bovenop, Pattern=twee, Pattern=komen, Pattern=en, Pattern=zijn
+	Constrained: 
+Turn ID=3| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=4| A | A : dat zijn nummer elf
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=5| B | B : en hij roken een pijpje
+	Free: Pattern=en hij, Pattern=een
+	Constrained: Pattern=en, Pattern=hij
+Turn ID=6| B | B : ja l
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=7| B | B : deze ja dat zijn die een die het pijpje roken en waar dat vierkant er door die emmer heen zijn halverwege
+	Free: Pattern=dat, Pattern=het, Pattern=heen, Pattern=en, Pattern=zijn, Pattern=halverwege, Pattern=ja dat zijn, Pattern=een
+	Constrained: Pattern=dat zijn, Pattern=dat, Pattern=zijn, Pattern=ja
+Turn ID=8| B | B : en twee staaf bovenaan uitkomen
+	Free: Pattern=twee staaf, Pattern=en
+	Constrained: Pattern=twee
+Turn ID=9| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=10| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=11| B | B : n
+	Free: 
+	Constrained: 
+Turn ID=12| B | B : deze hebben dat vierkant dat er dwars doormidd gaan en een pijpje aan de linkerkant
+	Free: Pattern=dat, Pattern=aan de, Pattern=een, Pattern=hebben, Pattern=en
+	Constrained: Pattern=de
+Turn ID=13| B | B : twee staaf bovenop
+	Free: Pattern=twee staaf, Pattern=bovenop
+	Constrained: Pattern=twee
+Turn ID=14| B | B : b
+	Free: 
+	Constrained: 
+Turn ID=15| A | A : dit zijn zitten ook een plateau in het beker
+	Free: Pattern=zijn, Pattern=het, Pattern=een
+	Constrained: 
+Turn ID=16| A | A : met twee staaf wat uit het beker komen
+	Free: Pattern=twee staaf, Pattern=het, Pattern=komen
+	Constrained: Pattern=twee
+Turn ID=17| A | A : met een soort aan de linkerzijde een armpje
+	Free: Pattern=aan de, Pattern=soort, Pattern=een
+	Constrained: Pattern=de
+Turn ID=18| A | A : en recht voor komen ook een soort staafje naar voren
+	Free: Pattern=en, Pattern=soort, Pattern=een, Pattern=komen
+	Constrained: 
+Turn ID=19| A | A : twee balk bovenop
+	Free: Pattern=bovenop, Pattern=twee
+	Constrained: 
+Turn ID=20| A | A : één aan de linkerzijde en hij zitten een soort in een soort houdertje zitten hij
+	Free: Pattern=soort, Pattern=aan de, Pattern=een, Pattern=hij, Pattern=en hij
+	Constrained: Pattern=en, Pattern=hij, Pattern=de
+Turn ID=21| A | A : ja dat zijn nummer negen
+	Free: Pattern=ja dat zijn
+	Constrained: Pattern=dat zijn, Pattern=dat, Pattern=zijn, Pattern=ja
+Turn ID=22| A | A : dit zijn een houder langs het beker heen
+	Free: Pattern=heen, Pattern=zijn, Pattern=het, Pattern=een
+	Constrained: 
+Turn ID=23| A | A : met de twee staaf uit het beker
+	Free: Pattern=twee staaf, Pattern=de, Pattern=het
+	Constrained: Pattern=twee
+Turn ID=24| A | A : met een armpje links en met een soort slurfje rechts boven wat eruit komen
+	Free: Pattern=en, Pattern=soort, Pattern=een, Pattern=komen
+	Constrained: 
+Turn ID=25| A | A : dus hij zitten zeggen maar in het houder dat beker
+	Free: Pattern=dat, Pattern=hij, Pattern=het
+	Constrained: 
+Turn ID=26| A | A : nee dit hebben niet twee poo
+	Free: Pattern=twee, Pattern=hebben
+	Constrained: 
+Turn ID=27| A | A : dus het hebben zeggen maar uit het beker steken twee soort rechthoekjes uit
+	Free: Pattern=soort, Pattern=twee, Pattern=het, Pattern=hebben
+	Constrained: 
+Turn ID=28| A | A : ja antennedinget
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=29| A | A : en dan hebben het zegn maar een soort slurfje rechtsboven en het hebben een soort tetris vorm links boven en het zitten ook in een houder
+	Free: Pattern=soort, Pattern=een, Pattern=het, Pattern=hebben, Pattern=en
+	Constrained: 
+Turn ID=30| A | A : halverwege het beker dus
+	Free: Pattern=het, Pattern=halverwege
+	Constrained: 
+Turn ID=31| A | A : ja nummer veertien
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=32| A | A : beker zitten in het houder met de twee blok uit het beker
+	Free: Pattern=twee, Pattern=de, Pattern=het
+	Constrained: 
+Turn ID=33| A | A : slurf aan de rechterzijde ja tetrisdingetje link
+	Free: Pattern=aan de, Pattern=ja
+	Constrained: Pattern=de

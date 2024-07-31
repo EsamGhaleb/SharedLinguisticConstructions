@@ -1,0 +1,143 @@
+A|0| A: ok _ja_ deze _hebben_ _aan de bovenkant_ eigenlijk twee heel smal _vierkant_ _en_ _aan_ door _die vierkant_ heen zitten eigenlijk _weer_ _een_ 
+A|1| A: staafje _die_ eigenlijk _een_ beetje bestaan _uit_ _vierkant_ _en_ _aan de onderkant hebben_ hij eigenlijk _zo'n_ klein _ja_ 
+A|2| A: balkje _die_ wel echt _een_ beetje krom lopen _en_ hij _hebben_ één armpje _en_ _aan de_ voorkant zitten _ook_ nog iets 
+A|3| A: _ja_ 
+B|4| B: [ja] 
+B|5| B: [aan de onderkant hebben] _je_ [ook] [zo'n] 
+B|6| B: [ja] 
+B|7| B: oké dan _zijn_ _het_ bij _mij_ dan M 
+A|8| A: _zijn dat_ _met die_ twee _vierkant_ 
+A|9| A: _of_ _zijn dat_ _weer_ _een_ ander 
+A|10| A: ok willen [je] [het] nog heel even snel omschrijven 
+A|11| A: [ja] ok 
+A|12| A: _dat zijn_ negen 
+B|13| B: [ja] ik [hebben] nu [die] [een] _weer met_ [ja] [een] soort _van_ [dat zijn] [die] [een] [met] hoe noemen [je] [dat] 
+B|14| B: [ja] [een] _vierkant zeggen maar_ [aan de bovenkant] [of] [ja] [een] soort _van_ ruit 
+B|15| B: [en] daaruit steken dan _ook weer_ _van die vierkant die_ telkens groot worden 
+B|16| B: [ja] 
+B|17| B: _ja die_ inderdaad 
+A|18| A: [ja] dit [zijn] degeen [met] [dat] [aan de onderkant] [ja] [zo'n] ding [en] [aan de bovenkant] [van die vierkant die] draaien [zijn] [en] [ook [weer] _met] die_ uitloop 
+A|19| A: niet [die] draaien schroef [het] [zijn] gewoon zo 
+A|20| A: [en] [aan de bovenkant] [hebben] hij draaiden [vierkant zeggen maar] [die] twee naast elkaar zitten 
+A|21| A: [of] smal 
+A|22| A: [ja] [ja die] [ja] 
+A|23| A: [ja] 
+A|24| A: [ja] [dat zijn] negen 
+B|25| B: [die] [een] [met] [ook weer] [die vierkant die] telkens groot worden [die] [uit] [zo'n] [uit] [een] ruit komen [zeggen maar] 
+B|26| B: oké [dat zijn] bij _mij_ [zijn dat] H 
+A|27| A: [zijn] dit _nou_ [het] dier draaien ? [ja] volgens [mij] wel _met [die_ vierkant] [en] [ja] 
+A|28| A: [ja] [dat zijn] veertien 
+B|29| B: [nou] [hebben] we [weer] [die] [een] [met die] ruit [zeggen maar] [aan de bovenkant] [met die] [de] [vierkant die] steeds groot worden inderdaad [en] dan eronder [en] 
+B|30| B: [aan] zijkant 
+B|31| B: [ja] 
+B|32| B: [ja] 
+B|33| B: [dat zijn] bij [mij] D 
+B|34| B: dan [hebben] we [weer] [die] [een] [met] [met die] ruit [zeggen maar] waar dan [die] drie [of] [die] kubus [uit] komen [die] steeds groot worden 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : ok ja deze hebben aan de bovenkant eigenlijk twee heel smal vierkant en aan door die vierkant heen zitten eigenlijk weer een
+	Free: Pattern=die vierkant, Pattern=een, Pattern=hebben, Pattern=aan, Pattern=ja, Pattern=aan de bovenkant, Pattern=en, Pattern=vierkant, Pattern=weer
+	Constrained: Pattern=aan de, Pattern=die, Pattern=vierkant, Pattern=de, Pattern=aan
+Turn ID=1| A | A : staafje die eigenlijk een beetje bestaan uit vierkant en aan de onderkant hebben hij eigenlijk zo'n klein ja
+	Free: Pattern=zo'n, Pattern=ja, Pattern=uit, Pattern=een, Pattern=die, Pattern=vierkant, Pattern=en, Pattern=aan de onderkant hebben
+	Constrained: Pattern=aan de, Pattern=hebben, Pattern=aan de onderkant, Pattern=de, Pattern=aan
+Turn ID=2| A | A : balkje die wel echt een beetje krom lopen en hij hebben één armpje en aan de voorkant zitten ook nog iets
+	Free: Pattern=een, Pattern=hebben, Pattern=die, Pattern=en, Pattern=aan de, Pattern=ook
+	Constrained: Pattern=de, Pattern=aan
+Turn ID=3| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=4| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=5| B | B : aan de onderkant hebben je ook zo'n
+	Free: Pattern=aan de onderkant hebben, Pattern=je, Pattern=ook, Pattern=zo'n
+	Constrained: Pattern=aan de, Pattern=hebben, Pattern=aan de onderkant, Pattern=de, Pattern=aan
+Turn ID=6| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=7| B | B : oké dan zijn het bij mij dan M
+	Free: Pattern=het, Pattern=mij, Pattern=zijn
+	Constrained: 
+Turn ID=8| A | A : zijn dat met die twee vierkant
+	Free: Pattern=zijn dat, Pattern=met die, Pattern=vierkant
+	Constrained: Pattern=zijn, Pattern=met, Pattern=dat, Pattern=die
+Turn ID=9| A | A : of zijn dat weer een ander
+	Free: Pattern=zijn dat, Pattern=of, Pattern=een, Pattern=weer
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=10| A | A : ok willen je het nog heel even snel omschrijven
+	Free: Pattern=het, Pattern=je
+	Constrained: 
+Turn ID=11| A | A : ja ok
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=12| A | A : dat zijn negen
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=13| B | B : ja ik hebben nu die een weer met ja een soort van dat zijn die een met hoe noemen je dat
+	Free: Pattern=ja, Pattern=een, Pattern=hebben, Pattern=weer met, Pattern=met, Pattern=die, Pattern=van, Pattern=je, Pattern=dat, Pattern=dat zijn
+	Constrained: Pattern=zijn, Pattern=met, Pattern=dat, Pattern=weer
+Turn ID=14| B | B : ja een vierkant zeggen maar aan de bovenkant of ja een soort van ruit
+	Free: Pattern=of, Pattern=ja, Pattern=een, Pattern=vierkant zeggen maar, Pattern=van, Pattern=aan de bovenkant
+	Constrained: Pattern=aan de, Pattern=zeggen maar, Pattern=vierkant, Pattern=de, Pattern=aan
+Turn ID=15| B | B : en daaruit steken dan ook weer van die vierkant die telkens groot worden
+	Free: Pattern=van die vierkant die, Pattern=ook weer, Pattern=en
+	Constrained: Pattern=die vierkant, Pattern=ook, Pattern=vierkant die, Pattern=die vierkant die, Pattern=die, Pattern=van, Pattern=vierkant, Pattern=weer
+Turn ID=16| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=17| B | B : ja die inderdaad
+	Free: Pattern=ja die
+	Constrained: Pattern=ja, Pattern=die
+Turn ID=18| A | A : ja dit zijn degeen met dat aan de onderkant ja zo'n ding en aan de bovenkant van die vierkant die draaien zijn en ook weer met die uitloop
+	Free: Pattern=zo'n, Pattern=ja, Pattern=van die vierkant die, Pattern=met, Pattern=zijn, Pattern=dat, Pattern=met die, Pattern=ook weer, Pattern=weer met, Pattern=aan de onderkant, Pattern=aan de bovenkant, Pattern=en
+	Constrained: Pattern=die vierkant, Pattern=vierkant die, Pattern=die vierkant die, Pattern=met, Pattern=die, Pattern=van, Pattern=de, Pattern=aan, Pattern=aan de, Pattern=ook, Pattern=vierkant, Pattern=weer
+Turn ID=19| A | A : niet die draaien schroef het zijn gewoon zo
+	Free: Pattern=het, Pattern=zijn, Pattern=die
+	Constrained: 
+Turn ID=20| A | A : en aan de bovenkant hebben hij draaiden vierkant zeggen maar die twee naast elkaar zitten
+	Free: Pattern=hebben, Pattern=die, Pattern=vierkant zeggen maar, Pattern=aan de bovenkant, Pattern=en
+	Constrained: Pattern=aan de, Pattern=zeggen maar, Pattern=vierkant, Pattern=de, Pattern=aan
+Turn ID=21| A | A : of smal
+	Free: Pattern=of
+	Constrained: 
+Turn ID=22| A | A : ja ja die ja
+	Free: Pattern=ja die, Pattern=ja
+	Constrained: Pattern=ja, Pattern=die
+Turn ID=23| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=24| A | A : ja dat zijn negen
+	Free: Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=25| B | B : die een met ook weer die vierkant die telkens groot worden die uit zo'n uit een ruit komen zeggen maar
+	Free: Pattern=zo'n, Pattern=uit, Pattern=een, Pattern=zeggen maar, Pattern=ook weer, Pattern=die vierkant die, Pattern=met, Pattern=die
+	Constrained: Pattern=die vierkant, Pattern=ook, Pattern=vierkant die, Pattern=die, Pattern=vierkant, Pattern=weer
+Turn ID=26| B | B : oké dat zijn bij mij zijn dat H
+	Free: Pattern=zijn dat, Pattern=dat zijn, Pattern=mij
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=27| A | A : zijn dit nou het dier draaien ? ja volgens mij wel met die vierkant en ja
+	Free: Pattern=met die, Pattern=die vierkant, Pattern=nou, Pattern=ja, Pattern=het, Pattern=mij, Pattern=en, Pattern=zijn
+	Constrained: Pattern=vierkant, Pattern=met, Pattern=die
+Turn ID=28| A | A : ja dat zijn veertien
+	Free: Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=29| B | B : nou hebben we weer die een met die ruit zeggen maar aan de bovenkant met die de vierkant die steeds groot worden inderdaad en dan eronder en
+	Free: Pattern=met die, Pattern=nou, Pattern=de, Pattern=een, Pattern=zeggen maar, Pattern=vierkant die, Pattern=hebben, Pattern=die, Pattern=weer, Pattern=aan de bovenkant, Pattern=en
+	Constrained: Pattern=aan de, Pattern=met, Pattern=die, Pattern=vierkant, Pattern=de, Pattern=aan
+Turn ID=30| B | B : aan zijkant
+	Free: Pattern=aan
+	Constrained: 
+Turn ID=31| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=32| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=33| B | B : dat zijn bij mij D
+	Free: Pattern=dat zijn, Pattern=mij
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=34| B | B : dan hebben we weer die een met met die ruit zeggen maar waar dan die drie of die kubus uit komen die steeds groot worden
+	Free: Pattern=met die, Pattern=of, Pattern=uit, Pattern=een, Pattern=zeggen maar, Pattern=hebben, Pattern=met, Pattern=die, Pattern=weer
+	Constrained: Pattern=met, Pattern=die

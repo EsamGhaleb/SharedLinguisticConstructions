@@ -1,0 +1,279 @@
+B|0| B: _oké_ 
+A|1| A: ah 
+B|2| B: _ik_ hebben _het_ vierkantje 
+A|3| A: cool 
+B|4| B: dus _dan moeten ik_ hem _aan_ jou omschrijven denken _ik_ 
+A|5| A: _ja_ 
+A|6| A: _ja_ 
+B|7| B: [ja] _het zijn_ gewoon dat emmer _zeggen maar_ 
+A|8| A: [ja] 
+B|9| B: _met_ [ja] _zo'n_ soort roerstaafje _erin_ _die_ _een_ beetje zo ovaal _zijn_ 
+A|10| A: [ja] 
+B|11| B: _en_ _aan de_ onderkant komen er _zo'n_ [ja] hoe noemen je dat _zo'n_ afronden staaf _zeggen maar_ uit 
+B|12| B: dus _hij staan_ _zeggen maar_ _op een_ soort _poo_ 
+A|13| A: _hij staan op een_ [poo] 
+B|14| B: _en dan_ zitten er _zo'n_ stok soort van in als [een] kop 
+A|15| A: [ja] 
+B|16| B: _en_ er komen _één_ _zo'n_ buis uit _aan de linkerkant_ 
+A|17| A: [aan de linkerkant] 
+B|18| B: [ja] 
+A|19| A: [en] _hij staan op een_ [ja] [ja] [ja] 
+B|20| B: [en] [aan de] zijkant zitten _zo'n_ _rond schijf_ tegenaan 
+A|21| A: alleen [een] [rond schijf] niet _zo'n uitsteeksel_ [zeggen maar] 
+B|22| B: dus je hebben [aan de linkerkant] [zo'n uitsteeksel] van _het_ beker 
+A|23| A: bummer 
+B|24| B: [hij staan op een] soort [poo] 
+A|25| A: ah _ja en_ [een] _rond schijf aan de achterkant_ inderdaad 
+B|26| B: [ja] 
+B|27| B: [ja] 
+A|28| A: [ja] [oké] 
+A|29| A: [dan moeten ik] [op] [de] knop drukken nummer dertien 
+B|30| B: [dan moeten] jij 
+A|31| A: [en dan] [op] [de] geel knop 
+A|32| A: [het zijn] degeen [die] [die] _die [staan op_ een] [op een] balk 
+A|33| A: _met één_ spatel _erin en_ [een] _Pinokkioneus_ 
+B|34| B: [ja] 
+B|35| B: [ja] dat [zijn] _bij mij_ O 
+B|36| B: [oké] 
+B|37| B: [ja] hoe hebben we deze [het zijn] weer verplaatsen 
+A|38| A: [ja] 
+B|39| B: [het zijn] [die] [met één] [zo'n] roerstaafje [erin en] [die staan op] [zo'n] soort van ovaal pilaar 
+A|40| A: [ja] 
+B|41| B: [en] [die] hebben zo [aan de] zijkant [zo'n] [rond schijf aan de achterkant] [zeggen maar] 
+A|42| A: [ja] [rond schijf] [en] [een] _Pinokkioneus_ 
+B|43| B: [en dan] [zo'n] pinokkioding [ja] 
+A|44| A: [ja] [oké] 
+B|45| B: [ja] 
+A|46| A: nummer acht 
+A|47| A: [de] [de] Pinokkio 
+A|48| A: [met één] lepel [en] [een] [schijf aan de achterkant] 
+B|49| B: [ja] 
+B|50| B: [ja] dat [zijn] _bij mij_ C 
+B|51| B: [ja] _dit zijn_ [met] [die] [Pinokkioneus] 
+A|52| A: [ja] 
+A|53| A: _even_ zoeken 
+A|54| A: daar 
+A|55| A: [met] [de] [met] [de] [rond schijf aan de achterkant] 
+B|56| B: [ja [en] dan] dat [één] [zo'n] roerstaafje 
+A|57| A: [ja] 
+A|58| A: [dit zijn] nummer zeven 
+A|59| A: [de] Pinokkio neus 
+A|60| A: [met] [de] [rond schijf] 
+B|61| B: [even] kijken waar [die] [zijn] 
+A|62| A: [op] [de achterkant] 
+A|63| A: [staan] _rechtsboven_ [bij mij] 
+B|64| B: [ja] 
+A|65| A: [maar] [die staan] draaien [met] _de picknicktafel_ 
+B|66| B: [ja] [bij mij] [staan] [de picknicktafel] helemaal [rechtsboven] [maar] C dat [zijn] [die] waar we [het] nu over hebben 
+A|67| A: [oké] super 
+B|68| B: [ik] hebben [een] beetje honger 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=1| A | A : ah
+	Free: 
+	Constrained: 
+Turn ID=2| B | B : ik hebben het vierkantje
+	Free: Pattern=het, Pattern=ik
+	Constrained: 
+Turn ID=3| A | A : cool
+	Free: 
+	Constrained: 
+Turn ID=4| B | B : dus dan moeten ik hem aan jou omschrijven denken ik
+	Free: Pattern=dan moeten ik, Pattern=aan, Pattern=ik
+	Constrained: Pattern=dan moeten, Pattern=ik
+Turn ID=5| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=6| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=7| B | B : ja het zijn gewoon dat emmer zeggen maar
+	Free: Pattern=zeggen maar, Pattern=het zijn, Pattern=ja
+	Constrained: Pattern=het, Pattern=maar, Pattern=zijn
+Turn ID=8| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=9| B | B : met ja zo'n soort roerstaafje erin die een beetje zo ovaal zijn
+	Free: Pattern=zo'n, Pattern=ja, Pattern=een, Pattern=met, Pattern=die, Pattern=erin, Pattern=zijn
+	Constrained: 
+Turn ID=10| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=11| B | B : en aan de onderkant komen er zo'n ja hoe noemen je dat zo'n afronden staaf zeggen maar uit
+	Free: Pattern=zo'n, Pattern=ja, Pattern=aan de, Pattern=zeggen maar, Pattern=en
+	Constrained: Pattern=aan, Pattern=de, Pattern=maar
+Turn ID=12| B | B : dus hij staan zeggen maar op een soort poo
+	Free: Pattern=op een, Pattern=zeggen maar, Pattern=hij staan, Pattern=poo
+	Constrained: Pattern=op, Pattern=staan, Pattern=een, Pattern=maar
+Turn ID=13| A | A : hij staan op een poo
+	Free: Pattern=hij staan op een, Pattern=poo
+	Constrained: Pattern=op, Pattern=hij staan, Pattern=staan op een, Pattern=op een, Pattern=een, Pattern=staan
+Turn ID=14| B | B : en dan zitten er zo'n stok soort van in als een kop
+	Free: Pattern=en dan, Pattern=zo'n, Pattern=een
+	Constrained: Pattern=en
+Turn ID=15| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=16| B | B : en er komen één zo'n buis uit aan de linkerkant
+	Free: Pattern=aan de linkerkant, Pattern=en, Pattern=zo'n, Pattern=één
+	Constrained: Pattern=aan, Pattern=de, Pattern=aan de
+Turn ID=17| A | A : aan de linkerkant
+	Free: Pattern=aan de linkerkant
+	Constrained: Pattern=aan, Pattern=de, Pattern=aan de
+Turn ID=18| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=19| A | A : en hij staan op een ja ja ja
+	Free: Pattern=hij staan op een, Pattern=en, Pattern=ja
+	Constrained: Pattern=op, Pattern=hij staan, Pattern=staan op een, Pattern=op een, Pattern=een, Pattern=staan
+Turn ID=20| B | B : en aan de zijkant zitten zo'n rond schijf tegenaan
+	Free: Pattern=rond schijf, Pattern=aan de, Pattern=en, Pattern=zo'n
+	Constrained: Pattern=aan, Pattern=de
+Turn ID=21| A | A : alleen een rond schijf niet zo'n uitsteeksel zeggen maar
+	Free: Pattern=zeggen maar, Pattern=rond schijf, Pattern=zo'n uitsteeksel, Pattern=een
+	Constrained: Pattern=zo'n, Pattern=maar
+Turn ID=22| B | B : dus je hebben aan de linkerkant zo'n uitsteeksel van het beker
+	Free: Pattern=aan de linkerkant, Pattern=zo'n uitsteeksel, Pattern=het
+	Constrained: Pattern=aan, Pattern=de, Pattern=zo'n, Pattern=aan de
+Turn ID=23| A | A : bummer
+	Free: 
+	Constrained: 
+Turn ID=24| B | B : hij staan op een soort poo
+	Free: Pattern=hij staan op een, Pattern=poo
+	Constrained: Pattern=op, Pattern=hij staan, Pattern=staan op een, Pattern=op een, Pattern=een, Pattern=staan
+Turn ID=25| A | A : ah ja en een rond schijf aan de achterkant inderdaad
+	Free: Pattern=rond schijf aan de achterkant, Pattern=ja en, Pattern=een
+	Constrained: Pattern=aan de, Pattern=en, Pattern=rond schijf, Pattern=schijf aan de achterkant, Pattern=de achterkant, Pattern=de, Pattern=aan, Pattern=ja
+Turn ID=26| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=27| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=28| A | A : ja oké
+	Free: Pattern=ja, Pattern=oké
+	Constrained: 
+Turn ID=29| A | A : dan moeten ik op de knop drukken nummer dertien
+	Free: Pattern=dan moeten ik, Pattern=op, Pattern=de
+	Constrained: Pattern=dan moeten, Pattern=ik
+Turn ID=30| B | B : dan moeten jij
+	Free: Pattern=dan moeten
+	Constrained: 
+Turn ID=31| A | A : en dan op de geel knop
+	Free: Pattern=en dan, Pattern=op, Pattern=de
+	Constrained: Pattern=en
+Turn ID=32| A | A : het zijn degeen die die die staan op een op een balk
+	Free: Pattern=staan op een, Pattern=die staan op, Pattern=op een, Pattern=het zijn, Pattern=die
+	Constrained: Pattern=op, Pattern=het, Pattern=die, Pattern=zijn, Pattern=op een, Pattern=die staan, Pattern=een, Pattern=staan
+Turn ID=33| A | A : met één spatel erin en een Pinokkioneus
+	Free: Pattern=met één, Pattern=erin en, Pattern=Pinokkioneus, Pattern=een
+	Constrained: Pattern=met, Pattern=en, Pattern=erin, Pattern=één
+Turn ID=34| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=35| B | B : ja dat zijn bij mij O
+	Free: Pattern=bij mij, Pattern=ja, Pattern=zijn
+	Constrained: 
+Turn ID=36| B | B : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=37| B | B : ja hoe hebben we deze het zijn weer verplaatsen
+	Free: Pattern=het zijn, Pattern=ja
+	Constrained: Pattern=het, Pattern=zijn
+Turn ID=38| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=39| B | B : het zijn die met één zo'n roerstaafje erin en die staan op zo'n soort van ovaal pilaar
+	Free: Pattern=zo'n, Pattern=die staan op, Pattern=erin en, Pattern=met één, Pattern=het zijn, Pattern=die
+	Constrained: Pattern=op, Pattern=staan, Pattern=het, Pattern=met, Pattern=die, Pattern=en, Pattern=erin, Pattern=zijn, Pattern=één, Pattern=die staan
+Turn ID=40| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=41| B | B : en die hebben zo aan de zijkant zo'n rond schijf aan de achterkant zeggen maar
+	Free: Pattern=zo'n, Pattern=aan de, Pattern=zeggen maar, Pattern=die, Pattern=en, Pattern=rond schijf aan de achterkant
+	Constrained: Pattern=aan de, Pattern=rond schijf, Pattern=maar, Pattern=schijf aan de achterkant, Pattern=de achterkant, Pattern=de, Pattern=aan
+Turn ID=42| A | A : ja rond schijf en een Pinokkioneus
+	Free: Pattern=ja, Pattern=een, Pattern=Pinokkioneus, Pattern=en, Pattern=rond schijf
+	Constrained: 
+Turn ID=43| B | B : en dan zo'n pinokkioding ja
+	Free: Pattern=en dan, Pattern=zo'n, Pattern=ja
+	Constrained: Pattern=en
+Turn ID=44| A | A : ja oké
+	Free: Pattern=ja, Pattern=oké
+	Constrained: 
+Turn ID=45| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=46| A | A : nummer acht
+	Free: 
+	Constrained: 
+Turn ID=47| A | A : de de Pinokkio
+	Free: Pattern=de
+	Constrained: 
+Turn ID=48| A | A : met één lepel en een schijf aan de achterkant
+	Free: Pattern=schijf aan de achterkant, Pattern=met één, Pattern=en, Pattern=een
+	Constrained: Pattern=aan de, Pattern=met, Pattern=één, Pattern=de achterkant, Pattern=de, Pattern=aan
+Turn ID=49| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=50| B | B : ja dat zijn bij mij C
+	Free: Pattern=bij mij, Pattern=ja, Pattern=zijn
+	Constrained: 
+Turn ID=51| B | B : ja dit zijn met die Pinokkioneus
+	Free: Pattern=ja, Pattern=met, Pattern=die, Pattern=Pinokkioneus, Pattern=dit zijn
+	Constrained: Pattern=zijn
+Turn ID=52| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=53| A | A : even zoeken
+	Free: Pattern=even
+	Constrained: 
+Turn ID=54| A | A : daar
+	Free: 
+	Constrained: 
+Turn ID=55| A | A : met de met de rond schijf aan de achterkant
+	Free: Pattern=rond schijf aan de achterkant, Pattern=met, Pattern=de
+	Constrained: Pattern=aan de, Pattern=rond schijf, Pattern=schijf aan de achterkant, Pattern=de achterkant, Pattern=de, Pattern=aan
+Turn ID=56| B | B : ja en dan dat één zo'n roerstaafje
+	Free: Pattern=ja en, Pattern=en dan, Pattern=zo'n, Pattern=één
+	Constrained: Pattern=en, Pattern=ja
+Turn ID=57| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=58| A | A : dit zijn nummer zeven
+	Free: Pattern=dit zijn
+	Constrained: Pattern=zijn
+Turn ID=59| A | A : de Pinokkio neus
+	Free: Pattern=de
+	Constrained: 
+Turn ID=60| A | A : met de rond schijf
+	Free: Pattern=rond schijf, Pattern=met, Pattern=de
+	Constrained: 
+Turn ID=61| B | B : even kijken waar die zijn
+	Free: Pattern=die, Pattern=even, Pattern=zijn
+	Constrained: 
+Turn ID=62| A | A : op de achterkant
+	Free: Pattern=de achterkant, Pattern=op
+	Constrained: Pattern=de
+Turn ID=63| A | A : staan rechtsboven bij mij
+	Free: Pattern=bij mij, Pattern=rechtsboven, Pattern=staan
+	Constrained: 
+Turn ID=64| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=65| A | A : maar die staan draaien met de picknicktafel
+	Free: Pattern=de picknicktafel, Pattern=die staan, Pattern=met, Pattern=maar
+	Constrained: Pattern=die, Pattern=de, Pattern=staan
+Turn ID=66| B | B : ja bij mij staan de picknicktafel helemaal rechtsboven maar C dat zijn die waar we het nu over hebben
+	Free: Pattern=ja, Pattern=rechtsboven, Pattern=staan, Pattern=die, Pattern=bij mij, Pattern=de picknicktafel, Pattern=het, Pattern=zijn, Pattern=maar
+	Constrained: Pattern=de
+Turn ID=67| A | A : oké super
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=68| B | B : ik hebben een beetje honger
+	Free: Pattern=een, Pattern=ik
+	Constrained: 

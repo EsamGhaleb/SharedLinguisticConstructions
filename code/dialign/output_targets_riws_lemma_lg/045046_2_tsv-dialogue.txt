@@ -1,0 +1,167 @@
+A|0| A: _dit zijn_ ook volgens mij _één_ _die_ _ik_ in ieder geval het _één_ hebben _dat zijn_ _een_ kop _en_ daar _komen_ er _dan_ _een_ _driehoek_ bovenuit _met de punt_ naar boven 
+A|1| A: _en_ er zitten nog _een blok_ voor _een blok_ onder _een _blok_ aan de_ zijkant 
+B|2| B: _ja_ [ik] weten _welk_ _je_ _bedoelen_ 
+B|3| B: J 
+B|4| B: [dat zijn] echt [een] heel vag 
+B|5| B: _soort_ van _soort_ van [driehoek] bovenop 
+B|6| B: [en] [een blok] [dat] _aan de voorkant_ eruit steken [en] [een] 
+A|7| A: [zijn] [dat] 
+A|8| A: [ja] [zijn] [dat] _met _die_ punt_ 
+B|9| B: [ja] 
+A|10| A: [ja] 
+A|11| A: [dat zijn] one's zes 
+A|12| A: _dit zijn_ degeen _met de_ _vierkant met de punt omhoog_ _en dan_ _die_ [blok] nog voor [en] achter ook nog wat _ding_ beneden 
+B|13| B: even opnieuw zoeken 
+A|14| A: snapen [je] [welk] [ik] [bedoelen] 
+B|15| B: [vierkant met de punt omhoog] 
+A|16| A: [ja] 
+A|17| A: [de] [driehoek] 
+A|18| A: _of_ [de] Driekhoek [bedoelen] [ik] zo [ja] 
+B|19| B: [met die] [ding] [die] [ding] eruit steken [en dan] 
+A|20| A: [ja] 
+A|21| A: [de] [driehoek] [met de punt omhoog] daar _komen_ boven het koppie _uit_ [dan] hebben [je] nog _een soort_ _raar blok aan de voorkant_ [je] hebben nog 
+B|22| B: [die] 
+A|23| A: [ja] 
+B|24| B: [ja] oké [met] [een soort] van piramide bovenop 
+B|25| B: E 
+B|26| B: [dit zijn] weer [met] [met die] [dat] _driehoek die_ eruit steken [die punt] 
+A|27| A: [ja] 
+B|28| B: [en] [één] [of] ander [raar blok aan de voorkant] [en] 
+A|29| A: [ja] 
+B|30| B: [ja] 
+A|31| A: [dat zijn] tien 
+A|32| A: [dit zijn] degeen [met] [punt] [de] [driehoek die] 
+B|33| B: [ja] [met die] [raar blok] 
+A|34| A: [ja] 
+B|35| B: G 
+B|36| B: [de] [de punt] [die] eruit opsteken [met] zo'n [raar blok] [dat] [aan de voorkant] [uit] [komen] 
+A|37| A: [ja] [ja] [ja] [ja] 
+B|38| B: [en] [de] twee ander dinget 
+A|39| A: [ja] 
+A|40| A: [dit zijn] tien 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : dit zijn ook volgens mij één die ik in ieder geval het één hebben dat zijn een kop en daar komen er dan een driehoek bovenuit met de punt naar boven
+	Free: Pattern=driehoek, Pattern=dat zijn, Pattern=dan, Pattern=komen, Pattern=een, Pattern=die, Pattern=ik, Pattern=en, Pattern=één, Pattern=dit zijn, Pattern=met de punt
+	Constrained: Pattern=dat, Pattern=punt, Pattern=met, Pattern=zijn, Pattern=de punt, Pattern=de, Pattern=met de
+Turn ID=1| A | A : en er zitten nog een blok voor een blok onder een blok aan de zijkant
+	Free: Pattern=blok aan de, Pattern=een blok, Pattern=en
+	Constrained: Pattern=blok, Pattern=de, Pattern=een
+Turn ID=2| B | B : ja ik weten welk je bedoelen
+	Free: Pattern=ja, Pattern=bedoelen, Pattern=welk, Pattern=ik, Pattern=je
+	Constrained: 
+Turn ID=3| B | B : J
+	Free: 
+	Constrained: 
+Turn ID=4| B | B : dat zijn echt een heel vag
+	Free: Pattern=dat zijn, Pattern=een
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=5| B | B : soort van soort van driehoek bovenop
+	Free: Pattern=driehoek, Pattern=soort
+	Constrained: 
+Turn ID=6| B | B : en een blok dat aan de voorkant eruit steken en een
+	Free: Pattern=dat, Pattern=een, Pattern=en, Pattern=aan de voorkant, Pattern=een blok
+	Constrained: Pattern=een, Pattern=de, Pattern=blok
+Turn ID=7| A | A : zijn dat
+	Free: Pattern=zijn, Pattern=dat
+	Constrained: 
+Turn ID=8| A | A : ja zijn dat met die punt
+	Free: Pattern=ja, Pattern=die punt, Pattern=zijn, Pattern=dat, Pattern=met die
+	Constrained: Pattern=die, Pattern=met, Pattern=punt
+Turn ID=9| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=10| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=11| A | A : dat zijn one's zes
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=12| A | A : dit zijn degeen met de vierkant met de punt omhoog en dan die blok nog voor en achter ook nog wat ding beneden
+	Free: Pattern=met de, Pattern=en dan, Pattern=ding, Pattern=die, Pattern=vierkant met de punt omhoog, Pattern=en, Pattern=blok, Pattern=dit zijn
+	Constrained: Pattern=punt, Pattern=dan, Pattern=met de punt omhoog, Pattern=met, Pattern=en, Pattern=zijn, Pattern=de punt, Pattern=met de punt, Pattern=de, Pattern=met de
+Turn ID=13| B | B : even opnieuw zoeken
+	Free: 
+	Constrained: 
+Turn ID=14| A | A : snapen je welk ik bedoelen
+	Free: Pattern=bedoelen, Pattern=welk, Pattern=je, Pattern=ik
+	Constrained: 
+Turn ID=15| B | B : vierkant met de punt omhoog
+	Free: Pattern=vierkant met de punt omhoog
+	Constrained: Pattern=punt, Pattern=met de punt omhoog, Pattern=met, Pattern=de punt, Pattern=met de punt, Pattern=de, Pattern=met de
+Turn ID=16| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=17| A | A : de driehoek
+	Free: Pattern=driehoek, Pattern=de
+	Constrained: 
+Turn ID=18| A | A : of de Driekhoek bedoelen ik zo ja
+	Free: Pattern=of, Pattern=bedoelen, Pattern=ik, Pattern=de, Pattern=ja
+	Constrained: 
+Turn ID=19| B | B : met die ding die ding eruit steken en dan
+	Free: Pattern=en dan, Pattern=met die, Pattern=ding, Pattern=die
+	Constrained: Pattern=dan, Pattern=en, Pattern=die, Pattern=met
+Turn ID=20| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=21| A | A : de driehoek met de punt omhoog daar komen boven het koppie uit dan hebben je nog een soort raar blok aan de voorkant je hebben nog
+	Free: Pattern=driehoek, Pattern=de, Pattern=uit, Pattern=komen, Pattern=met de punt omhoog, Pattern=een soort, Pattern=je, Pattern=raar blok aan de voorkant, Pattern=dan
+	Constrained: Pattern=punt, Pattern=soort, Pattern=een, Pattern=met, Pattern=raar blok, Pattern=blok, Pattern=aan de voorkant, Pattern=de punt, Pattern=met de punt, Pattern=blok aan de, Pattern=de, Pattern=met de
+Turn ID=22| B | B : die
+	Free: Pattern=die
+	Constrained: 
+Turn ID=23| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=24| B | B : ja oké met een soort van piramide bovenop
+	Free: Pattern=een soort, Pattern=ja, Pattern=met
+	Constrained: Pattern=soort, Pattern=een
+Turn ID=25| B | B : E
+	Free: 
+	Constrained: 
+Turn ID=26| B | B : dit zijn weer met met die dat driehoek die eruit steken die punt
+	Free: Pattern=met, Pattern=driehoek die, Pattern=die punt, Pattern=dit zijn, Pattern=dat, Pattern=met die
+	Constrained: Pattern=driehoek, Pattern=punt, Pattern=met, Pattern=die, Pattern=zijn
+Turn ID=27| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=28| B | B : en één of ander raar blok aan de voorkant en
+	Free: Pattern=raar blok aan de voorkant, Pattern=één, Pattern=en, Pattern=of
+	Constrained: Pattern=de, Pattern=raar blok, Pattern=blok, Pattern=aan de voorkant, Pattern=blok aan de
+Turn ID=29| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=30| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=31| A | A : dat zijn tien
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=32| A | A : dit zijn degeen met punt de driehoek die
+	Free: Pattern=punt, Pattern=de, Pattern=met, Pattern=driehoek die, Pattern=dit zijn
+	Constrained: Pattern=driehoek, Pattern=zijn, Pattern=die
+Turn ID=33| B | B : ja met die raar blok
+	Free: Pattern=met die, Pattern=raar blok, Pattern=ja
+	Constrained: Pattern=blok, Pattern=die, Pattern=met
+Turn ID=34| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=35| B | B : G
+	Free: 
+	Constrained: 
+Turn ID=36| B | B : de de punt die eruit opsteken met zo'n raar blok dat aan de voorkant uit komen
+	Free: Pattern=dat, Pattern=de, Pattern=uit, Pattern=komen, Pattern=met, Pattern=die, Pattern=raar blok, Pattern=aan de voorkant, Pattern=de punt
+	Constrained: Pattern=de, Pattern=blok, Pattern=punt
+Turn ID=37| A | A : ja ja ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=38| B | B : en de twee ander dinget
+	Free: Pattern=de, Pattern=en
+	Constrained: 
+Turn ID=39| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=40| A | A : dit zijn tien
+	Free: Pattern=dit zijn
+	Constrained: Pattern=zijn

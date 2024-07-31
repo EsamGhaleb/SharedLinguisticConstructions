@@ -1,0 +1,183 @@
+A|0| A: _ja_ 
+A|1| A: oké _ik_ vinden _dit_ _een_ _soort_ hamer 
+A|2| A: want _het_ hebben zo'n _er_ _lopen_ zo'n balk helemaal erdoorheen 
+A|3| A: alleen de hamer liggen zeggen maar _met_ de kant waarmee je slaan _een beetje_ omhoog _en_ _er_ zitten _dan_ nog _een_ gek _ding_ achter waarvan _ik_ geen idee hebben 
+A|4| A: onder 
+A|5| A: _nee_ niet onder 
+A|6| A: even kijken welk jij bedoelen 
+A|7| A: _nee_ 
+A|8| A: _nee_ 
+A|9| A: _nee_ _er_ zitten best _wel een_ langwerpig buis _lijken het_ _doorheen_ _hij zijn_ rechts iets lang _dan_ links 
+A|10| A: _en_ _dan_ zitten _er_ linksachter zitten _er_ nog _een_ _soort_ plaa achter _en_ _dan_ _lijken het_ _wel_ alsof _het een_ _een_ kaart _zijn_ of zo van 
+A|11| A: _ja_ precies 
+A|12| A: _ja_ 
+B|13| B: [ja] 
+B|14| B: [ik] noemen [het een] schans 
+B|15| B: kloppen _dat_ 
+B|16| B: ok 
+B|17| B: [en] _dat_ [ding] _dat_ [lopen] door [lijken het] 
+B|18| B: [ja] 
+B|19| B: [nee] [ja] [hij zijn] [wel [een] beetje] scheef 
+B|20| B: kloppen 
+B|21| B: ok _dan zijn het_ K 
+A|22| A: _die_ [dat] vlak onderop 
+A|23| A: _die_ hamer 
+A|24| A: [ja] [dan zijn het] negen 
+A|25| A: _dit zijn die_ hamer 
+A|26| A: de hamer _met_ de [ja] _die_ 
+A|27| A: [ja] precies 
+B|28| B: [dit zijn] weer [met] [die] [soort] spijker door [het] heel kop heen [met] [die] schans 
+A|29| A: je bedoelen de hamer 
+A|30| A: _ja dat zijn_ de Hamer inderdaad 
+A|31| A: dus drie 
+B|32| B: [ja dat zijn] voor mij F 
+A|33| A: [ja] 
+A|34| A: [ik] twijfelen even 
+A|35| A: de Hamer 
+A|36| A: [met] [het] de de hoe heten [het] 
+A|37| A: [ja] 
+A|38| A: [ja] 
+A|39| A: waar staan [die] bij jou 
+A|40| A: [ja] 
+A|41| A: vijf 
+B|42| B: [dit zijn die] spijker [die] door [het] heel kop heen gaan [en] [met] [die] schans 
+B|43| B: [ja dat zijn] voor mij L 
+B|44| B: [dit zijn] [met] [die] spijker [er] [doorheen] [en] [die] schans 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=1| A | A : oké ik vinden dit een soort hamer
+	Free: Pattern=ik, Pattern=soort, Pattern=dit, Pattern=een
+	Constrained: 
+Turn ID=2| A | A : want het hebben zo'n er lopen zo'n balk helemaal erdoorheen
+	Free: Pattern=lopen, Pattern=het, Pattern=er
+	Constrained: 
+Turn ID=3| A | A : alleen de hamer liggen zeggen maar met de kant waarmee je slaan een beetje omhoog en er zitten dan nog een gek ding achter waarvan ik geen idee hebben
+	Free: Pattern=dan, Pattern=ding, Pattern=een, Pattern=met, Pattern=er, Pattern=ik, Pattern=en, Pattern=een beetje
+	Constrained: Pattern=een
+Turn ID=4| A | A : onder
+	Free: 
+	Constrained: 
+Turn ID=5| A | A : nee niet onder
+	Free: Pattern=nee
+	Constrained: 
+Turn ID=6| A | A : even kijken welk jij bedoelen
+	Free: 
+	Constrained: 
+Turn ID=7| A | A : nee
+	Free: Pattern=nee
+	Constrained: 
+Turn ID=8| A | A : nee
+	Free: Pattern=nee
+	Constrained: 
+Turn ID=9| A | A : nee er zitten best wel een langwerpig buis lijken het doorheen hij zijn rechts iets lang dan links
+	Free: Pattern=lijken het, Pattern=doorheen, Pattern=hij zijn, Pattern=dan, Pattern=nee, Pattern=wel een, Pattern=er
+	Constrained: Pattern=wel, Pattern=het, Pattern=zijn, Pattern=een
+Turn ID=10| A | A : en dan zitten er linksachter zitten er nog een soort plaa achter en dan lijken het wel alsof het een een kaart zijn of zo van
+	Free: Pattern=het een, Pattern=lijken het, Pattern=soort, Pattern=dan, Pattern=er, Pattern=en, Pattern=zijn, Pattern=een, Pattern=wel
+	Constrained: Pattern=het, Pattern=een
+Turn ID=11| A | A : ja precies
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=12| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=13| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=14| B | B : ik noemen het een schans
+	Free: Pattern=het een, Pattern=ik
+	Constrained: Pattern=het, Pattern=een
+Turn ID=15| B | B : kloppen dat
+	Free: Pattern=dat
+	Constrained: 
+Turn ID=16| B | B : ok
+	Free: 
+	Constrained: 
+Turn ID=17| B | B : en dat ding dat lopen door lijken het
+	Free: Pattern=dat, Pattern=ding, Pattern=en, Pattern=lopen, Pattern=lijken het
+	Constrained: Pattern=het
+Turn ID=18| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=19| B | B : nee ja hij zijn wel een beetje scheef
+	Free: Pattern=ja, Pattern=hij zijn, Pattern=nee, Pattern=wel een, Pattern=een beetje
+	Constrained: Pattern=wel, Pattern=zijn, Pattern=een
+Turn ID=20| B | B : kloppen
+	Free: 
+	Constrained: 
+Turn ID=21| B | B : ok dan zijn het K
+	Free: Pattern=dan zijn het
+	Constrained: Pattern=dan, Pattern=het, Pattern=zijn
+Turn ID=22| A | A : die dat vlak onderop
+	Free: Pattern=die, Pattern=dat
+	Constrained: 
+Turn ID=23| A | A : die hamer
+	Free: Pattern=die
+	Constrained: 
+Turn ID=24| A | A : ja dan zijn het negen
+	Free: Pattern=dan zijn het, Pattern=ja
+	Constrained: Pattern=dan, Pattern=het, Pattern=zijn
+Turn ID=25| A | A : dit zijn die hamer
+	Free: Pattern=dit zijn die
+	Constrained: Pattern=dit zijn, Pattern=dit, Pattern=zijn, Pattern=die
+Turn ID=26| A | A : de hamer met de ja die
+	Free: Pattern=die, Pattern=ja, Pattern=met
+	Constrained: 
+Turn ID=27| A | A : ja precies
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=28| B | B : dit zijn weer met die soort spijker door het heel kop heen met die schans
+	Free: Pattern=soort, Pattern=het, Pattern=met, Pattern=die, Pattern=dit zijn
+	Constrained: Pattern=zijn, Pattern=dit
+Turn ID=29| A | A : je bedoelen de hamer
+	Free: 
+	Constrained: 
+Turn ID=30| A | A : ja dat zijn de Hamer inderdaad
+	Free: Pattern=ja dat zijn
+	Constrained: Pattern=ja, Pattern=zijn, Pattern=dat
+Turn ID=31| A | A : dus drie
+	Free: 
+	Constrained: 
+Turn ID=32| B | B : ja dat zijn voor mij F
+	Free: Pattern=ja dat zijn
+	Constrained: Pattern=ja, Pattern=zijn, Pattern=dat
+Turn ID=33| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=34| A | A : ik twijfelen even
+	Free: Pattern=ik
+	Constrained: 
+Turn ID=35| A | A : de Hamer
+	Free: 
+	Constrained: 
+Turn ID=36| A | A : met het de de hoe heten het
+	Free: Pattern=het, Pattern=met
+	Constrained: 
+Turn ID=37| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=38| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=39| A | A : waar staan die bij jou
+	Free: Pattern=die
+	Constrained: 
+Turn ID=40| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=41| A | A : vijf
+	Free: 
+	Constrained: 
+Turn ID=42| B | B : dit zijn die spijker die door het heel kop heen gaan en met die schans
+	Free: Pattern=dit zijn die, Pattern=het, Pattern=met, Pattern=die, Pattern=en
+	Constrained: Pattern=dit zijn, Pattern=dit, Pattern=zijn, Pattern=die
+Turn ID=43| B | B : ja dat zijn voor mij L
+	Free: Pattern=ja dat zijn
+	Constrained: Pattern=ja, Pattern=zijn, Pattern=dat
+Turn ID=44| B | B : dit zijn met die spijker er doorheen en die schans
+	Free: Pattern=doorheen, Pattern=met, Pattern=die, Pattern=er, Pattern=en, Pattern=dit zijn
+	Constrained: Pattern=zijn, Pattern=dit

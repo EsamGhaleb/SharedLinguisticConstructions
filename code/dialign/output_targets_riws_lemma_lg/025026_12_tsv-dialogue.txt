@@ -1,0 +1,79 @@
+A|0| A: _ok_ deze hebben _een_ _soort_ _dienblad_ tenminste daar moeten ik het heel erg aan denken _en_ aan de ander kant _van_ het glas zitten 
+A|1| A: _ja_ best wel nog _een_ breed uitsteeksel _en_ daar bovenop zitten weer iets wat uitlopen 
+B|2| B: [ja] [soort] [van] _spijker_ of _zo_ _maar_ dan 
+A|3| A: [ja] 
+B|4| B: [ok] _dat zijn_ L 
+B|5| B: [ja] _dit zijn_ zo'n [soort] [van] kop _met_ [een] [dienblad] [en] links [en] _met_ zo'n _spijker_ 
+A|6| A: [dat zijn] zeven 
+A|7| A: [dit zijn] weer [met] het [dienblad] 
+A|8| A: _met die spijker_ [zo] naar achter zeggen [maar] 
+B|9| B: [ja] even kijken waar hij staan 
+B|10| B: [dat zijn] C 
+B|11| B: [ja] [dit zijn] [met] [dat] [dienblad] [en] [die spijker] 
+A|12| A: [ja] [dat zijn] één 
+A|13| A: o [dit zijn] het [dienblad] 
+B|14| B: [ja] [met die spijker] 
+A|15| A: [ja] 
+B|16| B: [ok] [dat zijn] A 
+B|17| B: [ja] [dit zijn] [met] [dat] [dienblad] [en] [die] schroef [spijker] 
+A|18| A: [ja] [dat zijn] dertien 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : ok deze hebben een soort dienblad tenminste daar moeten ik het heel erg aan denken en aan de ander kant van het glas zitten
+	Free: Pattern=soort, Pattern=een, Pattern=ok, Pattern=dienblad, Pattern=van, Pattern=en
+	Constrained: 
+Turn ID=1| A | A : ja best wel nog een breed uitsteeksel en daar bovenop zitten weer iets wat uitlopen
+	Free: Pattern=een, Pattern=ja, Pattern=en
+	Constrained: 
+Turn ID=2| B | B : ja soort van spijker of zo maar dan
+	Free: Pattern=soort, Pattern=ja, Pattern=zo, Pattern=van, Pattern=maar, Pattern=spijker
+	Constrained: 
+Turn ID=3| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=4| B | B : ok dat zijn L
+	Free: Pattern=dat zijn, Pattern=ok
+	Constrained: Pattern=dat
+Turn ID=5| B | B : ja dit zijn zo'n soort van kop met een dienblad en links en met zo'n spijker
+	Free: Pattern=soort, Pattern=ja, Pattern=een, Pattern=met, Pattern=dienblad, Pattern=dit zijn, Pattern=spijker, Pattern=van, Pattern=en
+	Constrained: 
+Turn ID=6| A | A : dat zijn zeven
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat
+Turn ID=7| A | A : dit zijn weer met het dienblad
+	Free: Pattern=dit zijn, Pattern=met, Pattern=dienblad
+	Constrained: 
+Turn ID=8| A | A : met die spijker zo naar achter zeggen maar
+	Free: Pattern=met die spijker, Pattern=zo, Pattern=maar
+	Constrained: Pattern=die spijker, Pattern=met, Pattern=die, Pattern=spijker
+Turn ID=9| B | B : ja even kijken waar hij staan
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=10| B | B : dat zijn C
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat
+Turn ID=11| B | B : ja dit zijn met dat dienblad en die spijker
+	Free: Pattern=dat, Pattern=ja, Pattern=die spijker, Pattern=met, Pattern=dienblad, Pattern=en, Pattern=dit zijn
+	Constrained: Pattern=die, Pattern=spijker
+Turn ID=12| A | A : ja dat zijn één
+	Free: Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=dat
+Turn ID=13| A | A : o dit zijn het dienblad
+	Free: Pattern=dit zijn, Pattern=dienblad
+	Constrained: 
+Turn ID=14| B | B : ja met die spijker
+	Free: Pattern=met die spijker, Pattern=ja
+	Constrained: Pattern=die spijker, Pattern=met, Pattern=die, Pattern=spijker
+Turn ID=15| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=16| B | B : ok dat zijn A
+	Free: Pattern=dat zijn, Pattern=ok
+	Constrained: Pattern=dat
+Turn ID=17| B | B : ja dit zijn met dat dienblad en die schroef spijker
+	Free: Pattern=dat, Pattern=ja, Pattern=met, Pattern=die, Pattern=dienblad, Pattern=en, Pattern=dit zijn, Pattern=spijker
+	Constrained: 
+Turn ID=18| A | A : ja dat zijn dertien
+	Free: Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=dat

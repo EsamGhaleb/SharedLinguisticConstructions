@@ -1,0 +1,79 @@
+A|0| A: oké nou dit _zijn_ zegmaar zo'n weer zo'n kop lijken of er net zegmaar _iets_ van een lepel erin zitten 
+B|1| B: _ja_ ik weten hem 
+B|2| B: I 
+A|3| A: en er zitten zo'n ei _met_ zo'n soort van paal erdoorheen 
+A|4| A: zegmaar zo'n _met_ aan _de_ rechterkant _met_ zo'n schijf 
+B|5| B: ik hebben _die_ _dat_ hand [met] [iets] ontstopper in [zijn] hand 
+A|6| A: [ja] 
+A|7| A: [dat] [zijn] [met] [dat] lepel erboven [ja] 
+A|8| A: [ja] tien 
+A|9| A: oké 
+B|10| B: wat [zijn] _het_ ook alweer ah okee l 
+B|11| B: ik hebben _die_ ontstopper in [de] hand 
+A|12| A: [ja] dit [zijn] weer zo'n weer zo'n ei [met] zo'n paal er doorheen en zo'n lepel 
+A|13| A: boven 
+B|14| B: [ja] b 
+A|15| A: oké duidelijk negen 
+B|16| B: [de] ontstopper [met] [de] hand 
+A|17| A: en dit [zijn] degeen [met] [het] ei [met] [die] paal er doorheen 
+A|18| A: oké [ja] [dat] [zijn] vijfteen 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : oké nou dit zijn zegmaar zo'n weer zo'n kop lijken of er net zegmaar iets van een lepel erin zitten
+	Free: Pattern=iets, Pattern=zijn
+	Constrained: 
+Turn ID=1| B | B : ja ik weten hem
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=2| B | B : I
+	Free: 
+	Constrained: 
+Turn ID=3| A | A : en er zitten zo'n ei met zo'n soort van paal erdoorheen
+	Free: Pattern=met
+	Constrained: 
+Turn ID=4| A | A : zegmaar zo'n met aan de rechterkant met zo'n schijf
+	Free: Pattern=de, Pattern=met
+	Constrained: 
+Turn ID=5| B | B : ik hebben die dat hand met iets ontstopper in zijn hand
+	Free: Pattern=dat, Pattern=iets, Pattern=met, Pattern=die, Pattern=zijn
+	Constrained: 
+Turn ID=6| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=7| A | A : dat zijn met dat lepel erboven ja
+	Free: Pattern=met, Pattern=ja, Pattern=dat, Pattern=zijn
+	Constrained: 
+Turn ID=8| A | A : ja tien
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=9| A | A : oké
+	Free: 
+	Constrained: 
+Turn ID=10| B | B : wat zijn het ook alweer ah okee l
+	Free: Pattern=het, Pattern=zijn
+	Constrained: 
+Turn ID=11| B | B : ik hebben die ontstopper in de hand
+	Free: Pattern=de, Pattern=die
+	Constrained: 
+Turn ID=12| A | A : ja dit zijn weer zo'n weer zo'n ei met zo'n paal er doorheen en zo'n lepel
+	Free: Pattern=met, Pattern=ja, Pattern=zijn
+	Constrained: 
+Turn ID=13| A | A : boven
+	Free: 
+	Constrained: 
+Turn ID=14| B | B : ja b
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=15| A | A : oké duidelijk negen
+	Free: 
+	Constrained: 
+Turn ID=16| B | B : de ontstopper met de hand
+	Free: Pattern=de, Pattern=met
+	Constrained: 
+Turn ID=17| A | A : en dit zijn degeen met het ei met die paal er doorheen
+	Free: Pattern=met, Pattern=het, Pattern=zijn, Pattern=die
+	Constrained: 
+Turn ID=18| A | A : oké ja dat zijn vijfteen
+	Free: Pattern=ja, Pattern=dat, Pattern=zijn
+	Constrained: 

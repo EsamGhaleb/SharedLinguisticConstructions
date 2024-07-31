@@ -1,0 +1,123 @@
+B|0| B: _ja en dan_ 
+B|1| B: _ja en_ _twee_ bollet _op_ _de_ 
+B|2| B: oké _ja_ 
+B|3| B: K 
+A|4| A: [ja] _dit zijn_ ook eigenlijk zo'n ovaal ding waar _aan de_ zijkant [twee] ronde [ja] _staaf_ achtig gebeuren er uit komen 
+A|5| A: _en dan aan de_ achterkant hebben je nog _een_ vierkant blok wat er tegenaan zitten 
+A|6| A: even kijken 
+A|7| A: [ja] als in [ja] je hebben eigenlijk zo'n kegel zeggen _maar_ [en dan] hebben je _aan_ _iets_ erboven hebben je zo'n soort vierkant gebeuren [en dan] lopen er nog _iets_ achterlang 
+A|8| A: _staaf_ er dwars doorheen _gaan_ [ja] _die_ [ja] 
+A|9| A: [ja] [ja en dan] dat plateautje hebben [dan] nog _een_ hangsel er achter [ja] 
+A|10| A: ah ok [ja] _dit zijn_ [dan] numero negen 
+B|11| B: [dit zijn] _met die_ [staaf] [die] door het mokje heen [gaan] [maar] [aan de] linkerkant [iets] weinig [dan aan de] rechterkant 
+A|12| A: [ja] _dit zijn weer die_ [die] koker zeggen [maar] waar er waar er waar zo'n buisje helemaal doorheen doorgaan [en] [aan de] achterkant hebben je [dan] eigenlijk zo'n inklapbaar klep zeggen [maar] 
+A|13| A: [ja] 
+A|14| A: [ja] 
+A|15| A: [ja] [ja] [ja] [ja] 
+B|16| B: [ja] 
+B|17| B: [ja] 
+B|18| B: F 
+B|19| B: [dit zijn weer] _met die_ [staaf] erdoorheen [en dan aan de] linkerkant [een] klein stuk [dan aan de] rechterkant 
+A|20| A: verschuiven 
+A|21| A: [ja] [ja] ik hebben hem vinden 
+A|22| A: dat [zijn] [dan] nummertje drie 
+B|23| B: link [iets] weinig [en] rechts [iets] veel 
+B|24| B: L 
+A|25| A: [ja] [dit zijn] [die] [die] cilinder [die] eigenlijk onderin doorgaan [met die] bobbelt er [op] [en] [die] inklapbaar klep of wat wel lijken 
+B|26| B: [dit zijn weer die] [staaf] [die] link [iets] weinig erdoorheen opsteken [en] rechts [iets] veel 
+A|27| A: [ja] [ja] 
+A|28| A: [ja] ik zitten hem even te zoeken zeggen [maar] zeggen [maar] [met die] [met die] [die] klep zeggen [maar] bovenop hè ? [ja] [ja] 
+A|29| A: o daar staan hij nummer vijf 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : ja en dan
+	Free: Pattern=ja en dan
+	Constrained: Pattern=ja, Pattern=en dan, Pattern=dan, Pattern=en, Pattern=ja en
+Turn ID=1| B | B : ja en twee bollet op de
+	Free: Pattern=ja en, Pattern=de, Pattern=twee, Pattern=op
+	Constrained: Pattern=ja, Pattern=en
+Turn ID=2| B | B : oké ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=3| B | B : K
+	Free: 
+	Constrained: 
+Turn ID=4| A | A : ja dit zijn ook eigenlijk zo'n ovaal ding waar aan de zijkant twee ronde ja staaf achtig gebeuren er uit komen
+	Free: Pattern=twee, Pattern=ja, Pattern=staaf, Pattern=aan de, Pattern=dit zijn
+	Constrained: Pattern=de, Pattern=aan, Pattern=zijn
+Turn ID=5| A | A : en dan aan de achterkant hebben je nog een vierkant blok wat er tegenaan zitten
+	Free: Pattern=en dan aan de, Pattern=een
+	Constrained: Pattern=en dan, Pattern=aan de, Pattern=dan, Pattern=en, Pattern=dan aan de, Pattern=de, Pattern=aan
+Turn ID=6| A | A : even kijken
+	Free: 
+	Constrained: 
+Turn ID=7| A | A : ja als in ja je hebben eigenlijk zo'n kegel zeggen maar en dan hebben je aan iets erboven hebben je zo'n soort vierkant gebeuren en dan lopen er nog iets achterlang
+	Free: Pattern=en dan, Pattern=maar, Pattern=aan, Pattern=iets, Pattern=ja
+	Constrained: Pattern=dan, Pattern=en
+Turn ID=8| A | A : staaf er dwars doorheen gaan ja die ja
+	Free: Pattern=die, Pattern=gaan, Pattern=ja, Pattern=staaf
+	Constrained: 
+Turn ID=9| A | A : ja ja en dan dat plateautje hebben dan nog een hangsel er achter ja
+	Free: Pattern=ja en dan, Pattern=dan, Pattern=een, Pattern=ja
+	Constrained: Pattern=ja, Pattern=en dan, Pattern=dan, Pattern=en, Pattern=ja en
+Turn ID=10| A | A : ah ok ja dit zijn dan numero negen
+	Free: Pattern=dit zijn, Pattern=dan, Pattern=ja
+	Constrained: Pattern=zijn
+Turn ID=11| B | B : dit zijn met die staaf die door het mokje heen gaan maar aan de linkerkant iets weinig dan aan de rechterkant
+	Free: Pattern=met die, Pattern=iets, Pattern=staaf, Pattern=aan de, Pattern=die, Pattern=gaan, Pattern=maar, Pattern=dit zijn, Pattern=dan aan de
+	Constrained: Pattern=aan de, Pattern=dan, Pattern=die, Pattern=zijn, Pattern=de, Pattern=aan
+Turn ID=12| A | A : ja dit zijn weer die die koker zeggen maar waar er waar er waar zo'n buisje helemaal doorheen doorgaan en aan de achterkant hebben je dan eigenlijk zo'n inklapbaar klep zeggen maar
+	Free: Pattern=dit zijn weer die, Pattern=ja, Pattern=aan de, Pattern=dan, Pattern=die, Pattern=en, Pattern=maar
+	Constrained: Pattern=die, Pattern=zijn, Pattern=dit zijn, Pattern=dit zijn weer, Pattern=de, Pattern=aan
+Turn ID=13| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=14| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=15| A | A : ja ja ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=16| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=17| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=18| B | B : F
+	Free: 
+	Constrained: 
+Turn ID=19| B | B : dit zijn weer met die staaf erdoorheen en dan aan de linkerkant een klein stuk dan aan de rechterkant
+	Free: Pattern=met die, Pattern=staaf, Pattern=een, Pattern=en dan aan de, Pattern=dan aan de, Pattern=dit zijn weer
+	Constrained: Pattern=en dan, Pattern=aan de, Pattern=dan, Pattern=die, Pattern=en, Pattern=zijn, Pattern=de, Pattern=aan, Pattern=dit zijn, Pattern=dan aan de
+Turn ID=20| A | A : verschuiven
+	Free: 
+	Constrained: 
+Turn ID=21| A | A : ja ja ik hebben hem vinden
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=22| A | A : dat zijn dan nummertje drie
+	Free: Pattern=dan, Pattern=zijn
+	Constrained: 
+Turn ID=23| B | B : link iets weinig en rechts iets veel
+	Free: Pattern=iets, Pattern=en
+	Constrained: 
+Turn ID=24| B | B : L
+	Free: 
+	Constrained: 
+Turn ID=25| A | A : ja dit zijn die die cilinder die eigenlijk onderin doorgaan met die bobbelt er op en die inklapbaar klep of wat wel lijken
+	Free: Pattern=met die, Pattern=ja, Pattern=op, Pattern=die, Pattern=en, Pattern=dit zijn
+	Constrained: Pattern=die, Pattern=zijn
+Turn ID=26| B | B : dit zijn weer die staaf die link iets weinig erdoorheen opsteken en rechts iets veel
+	Free: Pattern=dit zijn weer die, Pattern=iets, Pattern=staaf, Pattern=die, Pattern=en
+	Constrained: Pattern=dit zijn weer, Pattern=zijn, Pattern=die, Pattern=dit zijn
+Turn ID=27| A | A : ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=28| A | A : ja ik zitten hem even te zoeken zeggen maar zeggen maar met die met die die klep zeggen maar bovenop hè ? ja ja
+	Free: Pattern=met die, Pattern=die, Pattern=ja, Pattern=maar
+	Constrained: Pattern=die
+Turn ID=29| A | A : o daar staan hij nummer vijf
+	Free: 
+	Constrained: 

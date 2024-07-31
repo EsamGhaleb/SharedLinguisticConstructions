@@ -1,0 +1,143 @@
+B|0| B: _even_ kijken _dit zijn_ _ja_ deze vinden _ik_ echt heel vaag _ik weten_ echt niet _wat_ voor een omschrijving _ik_ er aan kunnen aangeven _maar_ rechts zeggen _maar_ _zijn_ een beetje echt zo'n 
+B|1| B: ovaal rond en _dan_ Erboven _zijn_ een vierkan en daarnaast naast _dat_ vierkantje link zitten een soort van 
+B|2| B: bowlingpion vinden _ik_ het alleen _dan op de kop_ en links _zijn_ iets van een driehoek _wat_ ook nog uitsteken 
+A|3| A: [ik] gaan [even] zoeken hoor 
+B|4| B: _ja_ 
+B|5| B: hier komen [ik] echt heel _ja_ hier hier _dit_ doen me nergens echt aan denken _maar_ 
+A|6| A: [ik] [ik] snapen wel [wat] je bedoelen _met die_ [ja] [ik weten] [dat] bowlingding herken [ik] wel [maar] [dan op de kop] inderdaad 
+B|7| B: [ja] _ok_ [ja] 
+B|8| B: _ja zijn_ het [dan] denken [ik] [die] 
+A|9| A: [ja] [ja] _bij mij_ _zijn dat_ [de] veertien 
+B|10| B: _ok_ [bij mij] P 
+A|11| A: [ok] 
+B|12| B: okan top 
+A|13| A: [dit zijn] [die] _met die_ omgekeerde _bowling_ pin 
+B|14| B: _o_ [die] waar staan hij _o_ daar _dat zijn_ N [bij mij] 
+A|15| A: [bij mij] drie 
+B|16| B: [ok] 
+B|17| B: [dit zijn] [ja] [die] een [met] [dat] [met die] [bowling] pilaar [op] het hoofd 
+A|18| A: [dat zijn] negen [bij mij] 
+B|19| B: [ok] [bij mij] G 
+A|20| A: [ok] 
+B|21| B: nee 
+A|22| A: [o] sorry [dit zijn] [die] omgekeerde [bowling] pion 
+B|23| B: maken niet uit 
+B|24| B: [o] [die] [even] kijken waar hij staan [o] hier G 
+B|25| B: [even] kijken 
+A|26| A: [ja] dertien [bij mij] 
+B|27| B: [ok] 
+B|28| B: [o] [dit [zijn] dat] een [met] _de bowling_ ding [op] het hoofd 
+A|29| A: [ja zijn] vijf [bij mij] 
+B|30| B: [ok] [bij mij] O 
+A|31| A: [dit zijn] [de bowling] pion 
+B|32| B: [o] daar J 
+A|33| A: [ja] negen [bij mij] [o] 
+B|34| B: [ja] 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : even kijken dit zijn ja deze vinden ik echt heel vaag ik weten echt niet wat voor een omschrijving ik er aan kunnen aangeven maar rechts zeggen maar zijn een beetje echt zo'n
+	Free: Pattern=ja, Pattern=even, Pattern=ik weten, Pattern=wat, Pattern=ik, Pattern=dit zijn, Pattern=zijn, Pattern=maar
+	Constrained: Pattern=dit, Pattern=zijn, Pattern=ik
+Turn ID=1| B | B : ovaal rond en dan Erboven zijn een vierkan en daarnaast naast dat vierkantje link zitten een soort van
+	Free: Pattern=dan, Pattern=zijn, Pattern=dat
+	Constrained: 
+Turn ID=2| B | B : bowlingpion vinden ik het alleen dan op de kop en links zijn iets van een driehoek wat ook nog uitsteken
+	Free: Pattern=dan op de kop, Pattern=zijn, Pattern=ik, Pattern=wat
+	Constrained: Pattern=dan, Pattern=de, Pattern=op
+Turn ID=3| A | A : ik gaan even zoeken hoor
+	Free: Pattern=even, Pattern=ik
+	Constrained: 
+Turn ID=4| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=5| B | B : hier komen ik echt heel ja hier hier dit doen me nergens echt aan denken maar
+	Free: Pattern=dit, Pattern=maar, Pattern=ja, Pattern=ik
+	Constrained: 
+Turn ID=6| A | A : ik ik snapen wel wat je bedoelen met die ja ik weten dat bowlingding herken ik wel maar dan op de kop inderdaad
+	Free: Pattern=ja, Pattern=dan op de kop, Pattern=ik weten, Pattern=wat, Pattern=ik, Pattern=maar, Pattern=dat, Pattern=met die
+	Constrained: Pattern=de, Pattern=op, Pattern=dan, Pattern=met, Pattern=die, Pattern=ik
+Turn ID=7| B | B : ja ok ja
+	Free: Pattern=ok, Pattern=ja
+	Constrained: 
+Turn ID=8| B | B : ja zijn het dan denken ik die
+	Free: Pattern=ja zijn, Pattern=dan, Pattern=ik, Pattern=die
+	Constrained: Pattern=ja, Pattern=zijn
+Turn ID=9| A | A : ja ja bij mij zijn dat de veertien
+	Free: Pattern=bij mij, Pattern=zijn dat, Pattern=ja, Pattern=de
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=10| B | B : ok bij mij P
+	Free: Pattern=bij mij, Pattern=ok
+	Constrained: 
+Turn ID=11| A | A : ok
+	Free: Pattern=ok
+	Constrained: 
+Turn ID=12| B | B : okan top
+	Free: 
+	Constrained: 
+Turn ID=13| A | A : dit zijn die met die omgekeerde bowling pin
+	Free: Pattern=dit zijn, Pattern=met die, Pattern=bowling, Pattern=die
+	Constrained: Pattern=dit, Pattern=zijn, Pattern=met, Pattern=die
+Turn ID=14| B | B : o die waar staan hij o daar dat zijn N bij mij
+	Free: Pattern=bij mij, Pattern=dat zijn, Pattern=o, Pattern=die
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=15| A | A : bij mij drie
+	Free: Pattern=bij mij
+	Constrained: 
+Turn ID=16| B | B : ok
+	Free: Pattern=ok
+	Constrained: 
+Turn ID=17| B | B : dit zijn ja die een met dat met die bowling pilaar op het hoofd
+	Free: Pattern=ja, Pattern=op, Pattern=bowling, Pattern=met, Pattern=die, Pattern=dit zijn, Pattern=dat, Pattern=met die
+	Constrained: Pattern=dit, Pattern=zijn, Pattern=met, Pattern=die
+Turn ID=18| A | A : dat zijn negen bij mij
+	Free: Pattern=bij mij, Pattern=dat zijn
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=19| B | B : ok bij mij G
+	Free: Pattern=bij mij, Pattern=ok
+	Constrained: 
+Turn ID=20| A | A : ok
+	Free: Pattern=ok
+	Constrained: 
+Turn ID=21| B | B : nee
+	Free: 
+	Constrained: 
+Turn ID=22| A | A : o sorry dit zijn die omgekeerde bowling pion
+	Free: Pattern=dit zijn, Pattern=o, Pattern=bowling, Pattern=die
+	Constrained: Pattern=dit, Pattern=zijn
+Turn ID=23| B | B : maken niet uit
+	Free: 
+	Constrained: 
+Turn ID=24| B | B : o die even kijken waar hij staan o hier G
+	Free: Pattern=o, Pattern=even, Pattern=die
+	Constrained: 
+Turn ID=25| B | B : even kijken
+	Free: Pattern=even
+	Constrained: 
+Turn ID=26| A | A : ja dertien bij mij
+	Free: Pattern=bij mij, Pattern=ja
+	Constrained: 
+Turn ID=27| B | B : ok
+	Free: Pattern=ok
+	Constrained: 
+Turn ID=28| B | B : o dit zijn dat een met de bowling ding op het hoofd
+	Free: Pattern=op, Pattern=met, Pattern=de bowling, Pattern=dit zijn, Pattern=zijn dat, Pattern=o
+	Constrained: Pattern=dat, Pattern=de, Pattern=dit, Pattern=bowling, Pattern=zijn
+Turn ID=29| A | A : ja zijn vijf bij mij
+	Free: Pattern=bij mij, Pattern=ja zijn
+	Constrained: Pattern=ja, Pattern=zijn
+Turn ID=30| B | B : ok bij mij O
+	Free: Pattern=bij mij, Pattern=ok
+	Constrained: 
+Turn ID=31| A | A : dit zijn de bowling pion
+	Free: Pattern=dit zijn, Pattern=de bowling
+	Constrained: Pattern=dit, Pattern=bowling, Pattern=zijn, Pattern=de
+Turn ID=32| B | B : o daar J
+	Free: Pattern=o
+	Constrained: 
+Turn ID=33| A | A : ja negen bij mij o
+	Free: Pattern=bij mij, Pattern=o, Pattern=ja
+	Constrained: 
+Turn ID=34| B | B : ja
+	Free: Pattern=ja
+	Constrained: 

@@ -1,0 +1,155 @@
+A|0| A: oké _ja_ 
+A|1| A: _en_ _zitten_ _er_ _een_ _een_ pilaar _bovenop_ 
+A|2| A: oké 
+A|3| A: _ja_ 
+A|4| A: _ja_ _en _een_ soort_ van _ja_ volgens mij _hebben_ _ik_ hem 
+A|5| A: dertien _zijn_ _dat_ 
+B|6| B: [ja] deze [zijn] [een] beetje compact 
+B|7| B: _aan de_ bovenkant [hebben] hij [een] gewoon rechthoekig staaf _horizontaal_ 
+B|8| B: [en] links [ja] [een] figuur die [ik] bee [ja] [zijn] [een] beetje rond maar 
+B|9| B: geen bal [en] rechts [zitten] ook iets maar _dat zijn_ ook [een soort] goo 
+B|10| B: [ja] 
+B|11| B: rechtop 
+B|12| B: [ja] 
+A|13| A: [de] bak met met [de] balk [horizontaal] _er_ _bovenop_ [en] [de] twee omgedraai kop [aan de] zijkant 
+A|14| A: _en [een_ soort] van zoiets 
+A|15| A: [aan de] voorkant 
+A|16| A: jij noemen het volgens mij net [de] armp 
+A|17| A: van [een] 
+A|18| A: [ja] 
+A|19| A: [ja] 
+A|20| A: [ja] 
+B|21| B: stok 
+B|22| B: [en een] staaf [bovenop] [horizontaal] 
+B|23| B: [ja] 
+B|24| B: _dat zijn_ G 
+A|25| A: [ja] 
+A|26| A: [dat zijn] nummer negen 
+A|27| A: [zijn] [dat] 
+B|28| B: dit [zijn] weer [een] beetje die compact , [dat] [er] rechts [een] goo [zijn] , [en] links zo'n uh , [ja] , rond iets achtig , [bovenop] [een] [horizontaal] staaf 
+A|29| A: [de] bak met [de] twee armp [en] met [de] pilaar [bovenop] 
+B|30| B: [ja] 
+B|31| B: staaf [bovenop] 
+B|32| B: [ja] 
+B|33| B: E 
+A|34| A: [ja] negen 
+B|35| B: dit [zijn] die compact staaf , [horizontaal] [bovenop] , goot rechts waar [een] pijpje [bovenop] staan 
+A|36| A: met [de] armpjes 
+B|37| B: [ja] M 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : oké ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=1| A | A : en zitten er een een pilaar bovenop
+	Free: Pattern=bovenop, Pattern=een, Pattern=zitten, Pattern=er, Pattern=en
+	Constrained: 
+Turn ID=2| A | A : oké
+	Free: 
+	Constrained: 
+Turn ID=3| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=4| A | A : ja en een soort van ja volgens mij hebben ik hem
+	Free: Pattern=ja, Pattern=hebben, Pattern=en een, Pattern=ik, Pattern=een soort
+	Constrained: Pattern=en, Pattern=een
+Turn ID=5| A | A : dertien zijn dat
+	Free: Pattern=zijn, Pattern=dat
+	Constrained: 
+Turn ID=6| B | B : ja deze zijn een beetje compact
+	Free: Pattern=ja, Pattern=zijn, Pattern=een
+	Constrained: 
+Turn ID=7| B | B : aan de bovenkant hebben hij een gewoon rechthoekig staaf horizontaal
+	Free: Pattern=aan de, Pattern=horizontaal, Pattern=hebben, Pattern=een
+	Constrained: Pattern=de
+Turn ID=8| B | B : en links ja een figuur die ik bee ja zijn een beetje rond maar
+	Free: Pattern=ja, Pattern=een, Pattern=ik, Pattern=en, Pattern=zijn
+	Constrained: 
+Turn ID=9| B | B : geen bal en rechts zitten ook iets maar dat zijn ook een soort goo
+	Free: Pattern=dat zijn, Pattern=een soort, Pattern=en, Pattern=zitten
+	Constrained: Pattern=zijn, Pattern=een, Pattern=dat
+Turn ID=10| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=11| B | B : rechtop
+	Free: 
+	Constrained: 
+Turn ID=12| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=13| A | A : de bak met met de balk horizontaal er bovenop en de twee omgedraai kop aan de zijkant
+	Free: Pattern=bovenop, Pattern=de, Pattern=aan de, Pattern=er, Pattern=en, Pattern=horizontaal
+	Constrained: Pattern=de
+Turn ID=14| A | A : en een soort van zoiets
+	Free: Pattern=een soort, Pattern=en een
+	Constrained: Pattern=en, Pattern=een
+Turn ID=15| A | A : aan de voorkant
+	Free: Pattern=aan de
+	Constrained: Pattern=de
+Turn ID=16| A | A : jij noemen het volgens mij net de armp
+	Free: Pattern=de
+	Constrained: 
+Turn ID=17| A | A : van een
+	Free: Pattern=een
+	Constrained: 
+Turn ID=18| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=19| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=20| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=21| B | B : stok
+	Free: 
+	Constrained: 
+Turn ID=22| B | B : en een staaf bovenop horizontaal
+	Free: Pattern=en een, Pattern=horizontaal, Pattern=bovenop
+	Constrained: Pattern=en, Pattern=een
+Turn ID=23| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=24| B | B : dat zijn G
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=25| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=26| A | A : dat zijn nummer negen
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=27| A | A : zijn dat
+	Free: Pattern=zijn, Pattern=dat
+	Constrained: 
+Turn ID=28| B | B : dit zijn weer een beetje die compact , dat er rechts een goo zijn , en links zo'n uh , ja , rond iets achtig , bovenop een horizontaal staaf
+	Free: Pattern=ja, Pattern=een, Pattern=er, Pattern=en, Pattern=zijn, Pattern=horizontaal, Pattern=dat, Pattern=bovenop
+	Constrained: 
+Turn ID=29| A | A : de bak met de twee armp en met de pilaar bovenop
+	Free: Pattern=en, Pattern=bovenop, Pattern=de
+	Constrained: 
+Turn ID=30| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=31| B | B : staaf bovenop
+	Free: Pattern=bovenop
+	Constrained: 
+Turn ID=32| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=33| B | B : E
+	Free: 
+	Constrained: 
+Turn ID=34| A | A : ja negen
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=35| B | B : dit zijn die compact staaf , horizontaal bovenop , goot rechts waar een pijpje bovenop staan
+	Free: Pattern=horizontaal, Pattern=bovenop, Pattern=zijn, Pattern=een
+	Constrained: 
+Turn ID=36| A | A : met de armpjes
+	Free: Pattern=de
+	Constrained: 
+Turn ID=37| B | B : ja M
+	Free: Pattern=ja
+	Constrained: 

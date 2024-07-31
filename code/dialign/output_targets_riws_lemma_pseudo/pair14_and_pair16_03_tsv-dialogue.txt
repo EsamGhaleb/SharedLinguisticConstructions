@@ -1,0 +1,139 @@
+A|0| A: _ja_ 
+A|1| A: _ja_ 
+A|2| A: _ah_ _ja_ 
+A|3| A: _het_ _staan_ _zeggen maar_ _op een_ standaard _die op_ zo'n driehoekje _staan_ 
+A|4| A: _ja_ dan _zijn_ _het_ zeven 
+B|5| B: [ah] 
+B|6| B: nou [ja] van al ander kop [zeggen maar] _er_ [zijn] _er_ niet zo veel _die staan [op_ een] soort van plateautje 
+B|7| B: _en_ _deze_ _die staan [op_ een] soort van driehoekplateau _met_ [een] twist omhoog 
+B|8| B: [een] soort wokkel inderdaad 
+B|9| B: [een] _blok_ [ja] [een] _blok_ 
+B|10| B: _zitten_ _er_ _rechts_ één _en_ _er_ _zitten_ _er_ één in denken ik 
+B|11| B: _en_ nog [een] ander uitsteeksel 
+B|12| B: ik denken _dat_ je hem wel weten 
+A|13| A: [deze] _dat zijn_ _die op_ [dat] standaard [zeggen maar] [dat] beeld [die staan op] [die] _driehoek_ [met] [die] stang eraan daar [staan] hij [op] 
+A|14| A: [en] dan [zitten] [rechts] [zitten] [dat] [dat] [blok] wat [er] [zeggen maar] bijna af vallen 
+A|15| A: [en] dan binnen 
+A|16| A: [ja] 
+B|17| B: [ja] 
+B|18| B: [een] wokkel omhoog [ja] 
+B|19| B: ik [ja] ik gaan voor d 
+A|20| A: [maar] _die op_ [dat] standaard [staan] 
+A|21| A: [ja] _dat zijn_ drie 
+A|22| A: _dit zijn_ weer geen [die] [een] _die op_ _het_ standaard [staan] waarbij [dat] [blok] [er] bijna af vallen 
+B|23| B: nou [dit zijn] diegene [die [op] een] twisterpoo [staan] 
+B|24| B: [een] driehoekig 
+B|25| B: [ja] 
+A|26| A: [ja] veertien 
+A|27| A: [dit zijn] [die] [een] [op] [dat] standaard waar [dat] [blok] bijna af vallen 
+B|28| B: yes 
+B|29| B: [dat zijn] o 
+B|30| B: [het] [zijn] grappig hoe [dit] werken vinden ik wel 
+B|31| B: twisterkop [met] [driehoek] beneden 
+B|32| B: [ja] 
+B|33| B: [dat zijn] k 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=1| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=2| A | A : ah ja
+	Free: Pattern=ah, Pattern=ja
+	Constrained: 
+Turn ID=3| A | A : het staan zeggen maar op een standaard die op zo'n driehoekje staan
+	Free: Pattern=staan, Pattern=zeggen maar, Pattern=het, Pattern=die op, Pattern=op een
+	Constrained: Pattern=een, Pattern=die, Pattern=op, Pattern=maar
+Turn ID=4| A | A : ja dan zijn het zeven
+	Free: Pattern=het, Pattern=zijn, Pattern=ja
+	Constrained: 
+Turn ID=5| B | B : ah
+	Free: Pattern=ah
+	Constrained: 
+Turn ID=6| B | B : nou ja van al ander kop zeggen maar er zijn er niet zo veel die staan op een soort van plateautje
+	Free: Pattern=ja, Pattern=zeggen maar, Pattern=er, Pattern=die staan op, Pattern=zijn, Pattern=op een
+	Constrained: Pattern=op, Pattern=die, Pattern=maar, Pattern=een, Pattern=staan
+Turn ID=7| B | B : en deze die staan op een soort van driehoekplateau met een twist omhoog
+	Free: Pattern=een, Pattern=met, Pattern=die staan op, Pattern=en, Pattern=deze, Pattern=op een
+	Constrained: Pattern=een, Pattern=die, Pattern=staan, Pattern=op
+Turn ID=8| B | B : een soort wokkel inderdaad
+	Free: Pattern=een
+	Constrained: 
+Turn ID=9| B | B : een blok ja een blok
+	Free: Pattern=een, Pattern=ja, Pattern=blok
+	Constrained: 
+Turn ID=10| B | B : zitten er rechts één en er zitten er één in denken ik
+	Free: Pattern=er, Pattern=en, Pattern=rechts, Pattern=zitten
+	Constrained: 
+Turn ID=11| B | B : en nog een ander uitsteeksel
+	Free: Pattern=een, Pattern=en
+	Constrained: 
+Turn ID=12| B | B : ik denken dat je hem wel weten
+	Free: Pattern=dat
+	Constrained: 
+Turn ID=13| A | A : deze dat zijn die op dat standaard zeggen maar dat beeld die staan op die driehoek met die stang eraan daar staan hij op
+	Free: Pattern=driehoek, Pattern=op, Pattern=staan, Pattern=zeggen maar, Pattern=met, Pattern=die, Pattern=deze, Pattern=dat, Pattern=dat zijn, Pattern=die op, Pattern=die staan op
+	Constrained: Pattern=dat, Pattern=op, Pattern=staan, Pattern=die, Pattern=zijn, Pattern=maar
+Turn ID=14| A | A : en dan zitten rechts zitten dat dat blok wat er zeggen maar bijna af vallen
+	Free: Pattern=dat, Pattern=rechts, Pattern=zeggen maar, Pattern=zitten, Pattern=er, Pattern=en, Pattern=blok
+	Constrained: Pattern=maar
+Turn ID=15| A | A : en dan binnen
+	Free: Pattern=en
+	Constrained: 
+Turn ID=16| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=17| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=18| B | B : een wokkel omhoog ja
+	Free: Pattern=een, Pattern=ja
+	Constrained: 
+Turn ID=19| B | B : ik ja ik gaan voor d
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=20| A | A : maar die op dat standaard staan
+	Free: Pattern=die op, Pattern=staan, Pattern=dat, Pattern=maar
+	Constrained: Pattern=die, Pattern=op
+Turn ID=21| A | A : ja dat zijn drie
+	Free: Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=22| A | A : dit zijn weer geen die een die op het standaard staan waarbij dat blok er bijna af vallen
+	Free: Pattern=dat, Pattern=het, Pattern=die, Pattern=er, Pattern=die op, Pattern=blok, Pattern=dit zijn, Pattern=een, Pattern=staan
+	Constrained: Pattern=die, Pattern=zijn, Pattern=op, Pattern=dit
+Turn ID=23| B | B : nou dit zijn diegene die op een twisterpoo staan
+	Free: Pattern=die op, Pattern=dit zijn, Pattern=op een, Pattern=staan
+	Constrained: Pattern=op, Pattern=een, Pattern=dit, Pattern=die, Pattern=zijn
+Turn ID=24| B | B : een driehoekig
+	Free: Pattern=een
+	Constrained: 
+Turn ID=25| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=26| A | A : ja veertien
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=27| A | A : dit zijn die een op dat standaard waar dat blok bijna af vallen
+	Free: Pattern=dat, Pattern=op, Pattern=een, Pattern=die, Pattern=blok, Pattern=dit zijn
+	Constrained: Pattern=zijn, Pattern=dit
+Turn ID=28| B | B : yes
+	Free: 
+	Constrained: 
+Turn ID=29| B | B : dat zijn o
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=30| B | B : het zijn grappig hoe dit werken vinden ik wel
+	Free: Pattern=het, Pattern=zijn, Pattern=dit
+	Constrained: 
+Turn ID=31| B | B : twisterkop met driehoek beneden
+	Free: Pattern=driehoek, Pattern=met
+	Constrained: 
+Turn ID=32| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=33| B | B : dat zijn k
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn

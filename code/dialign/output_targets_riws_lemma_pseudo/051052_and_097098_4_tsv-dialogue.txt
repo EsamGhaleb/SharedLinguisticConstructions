@@ -1,0 +1,95 @@
+B|0| B: lijken op _een_ isgelijkteken 
+B|1| B: _ja_ _dan_ _zijn_ _het_ bij mij _nummer_ I 
+A|2| A: deze _hebben_ [een] zeggen maar driehoekje _die_ niet helemaal [zijn] afgemaakt _aan de_ bovenkant dus dus _een soort_ van vierhoek _met_ schuine 
+A|3| A: wand _en_ één _en dan_ _hebben_ _die_ twee balk _aan de rechterkant_ 
+A|4| A: _aan de_ linkerkant [een] dinge in [het] midden _en dan_ linksonder ook [een] [ja] dinge maar _die_ twee balk _aan de rechterkant_ _die_ [zijn] wel duidelijk 
+A|5| A: [ja] _en dan_ links 
+A|6| A: [ja] _en dan_ _dat_ klein ronde voerbakje of zo _aan de_ _dat zijn_ [nummer] twee 
+B|7| B: ik [hebben] degeen _met het_ isgelijkteken [aan de rechterkant] [dan] [een soort] hendel 
+B|8| B: _yes_ 
+A|9| A: [de] kopje [met het] nietafgemaakt driehoekje [de] deurklink _en_ [de] twee staaf [aan de rechterkant] 
+B|10| B: ah [ja] 
+B|11| B: even zien 
+B|12| B: [dat zijn] bij mij M 
+A|13| A: _yes en_ [het] nietafgemaakt driehoekje 
+A|14| A: [nummer] negen 
+B|15| B: ik [hebben] degeen [met het] isgelijkteken [en dan] [de] hendel 
+B|16| B: [ja] 
+A|17| A: [ja] [de] deurklink nietafgemaakken driehoekje [en] [de] twee balk 
+B|18| B: [yes en] [die] staan bij mij bij [nummer] F 
+A|19| A: [ja] 
+A|20| A: [nummer] zes 
+B|21| B: [yes] ik [hebben] [het] isgelijkteken 
+B|22| B: [yes] 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : lijken op een isgelijkteken
+	Free: Pattern=een
+	Constrained: 
+Turn ID=1| B | B : ja dan zijn het bij mij nummer I
+	Free: Pattern=nummer, Pattern=ja, Pattern=dan, Pattern=het, Pattern=zijn
+	Constrained: 
+Turn ID=2| A | A : deze hebben een zeggen maar driehoekje die niet helemaal zijn afgemaakt aan de bovenkant dus dus een soort van vierhoek met schuine
+	Free: Pattern=aan de, Pattern=een, Pattern=hebben, Pattern=met, Pattern=die, Pattern=een soort, Pattern=zijn
+	Constrained: Pattern=de, Pattern=een
+Turn ID=3| A | A : wand en één en dan hebben die twee balk aan de rechterkant
+	Free: Pattern=en dan, Pattern=hebben, Pattern=en, Pattern=aan de rechterkant, Pattern=die
+	Constrained: Pattern=dan, Pattern=de, Pattern=en, Pattern=aan de
+Turn ID=4| A | A : aan de linkerkant een dinge in het midden en dan linksonder ook een ja dinge maar die twee balk aan de rechterkant die zijn wel duidelijk
+	Free: Pattern=ja, Pattern=en dan, Pattern=aan de, Pattern=een, Pattern=het, Pattern=zijn, Pattern=aan de rechterkant, Pattern=die
+	Constrained: Pattern=dan, Pattern=de, Pattern=en, Pattern=aan de
+Turn ID=5| A | A : ja en dan links
+	Free: Pattern=en dan, Pattern=ja
+	Constrained: Pattern=dan, Pattern=en
+Turn ID=6| A | A : ja en dan dat klein ronde voerbakje of zo aan de dat zijn nummer twee
+	Free: Pattern=nummer, Pattern=ja, Pattern=en dan, Pattern=aan de, Pattern=dat, Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=de, Pattern=dan, Pattern=en, Pattern=zijn
+Turn ID=7| B | B : ik hebben degeen met het isgelijkteken aan de rechterkant dan een soort hendel
+	Free: Pattern=dan, Pattern=hebben, Pattern=aan de rechterkant, Pattern=een soort, Pattern=met het
+	Constrained: Pattern=de, Pattern=aan de, Pattern=een, Pattern=het, Pattern=met
+Turn ID=8| B | B : yes
+	Free: Pattern=yes
+	Constrained: 
+Turn ID=9| A | A : de kopje met het nietafgemaakt driehoekje de deurklink en de twee staaf aan de rechterkant
+	Free: Pattern=aan de rechterkant, Pattern=met het, Pattern=en, Pattern=de
+	Constrained: Pattern=de, Pattern=met, Pattern=het, Pattern=aan de
+Turn ID=10| B | B : ah ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=11| B | B : even zien
+	Free: 
+	Constrained: 
+Turn ID=12| B | B : dat zijn bij mij M
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=13| A | A : yes en het nietafgemaakt driehoekje
+	Free: Pattern=yes en, Pattern=het
+	Constrained: Pattern=en, Pattern=yes
+Turn ID=14| A | A : nummer negen
+	Free: Pattern=nummer
+	Constrained: 
+Turn ID=15| B | B : ik hebben degeen met het isgelijkteken en dan de hendel
+	Free: Pattern=met het, Pattern=en dan, Pattern=de, Pattern=hebben
+	Constrained: Pattern=dan, Pattern=en, Pattern=het, Pattern=met
+Turn ID=16| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=17| A | A : ja de deurklink nietafgemaakken driehoekje en de twee balk
+	Free: Pattern=ja, Pattern=en, Pattern=de
+	Constrained: 
+Turn ID=18| B | B : yes en die staan bij mij bij nummer F
+	Free: Pattern=yes en, Pattern=nummer, Pattern=die
+	Constrained: Pattern=en, Pattern=yes
+Turn ID=19| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=20| A | A : nummer zes
+	Free: Pattern=nummer
+	Constrained: 
+Turn ID=21| B | B : yes ik hebben het isgelijkteken
+	Free: Pattern=het, Pattern=yes, Pattern=hebben
+	Constrained: 
+Turn ID=22| B | B : yes
+	Free: Pattern=yes
+	Constrained: 

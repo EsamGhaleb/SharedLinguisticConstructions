@@ -1,0 +1,71 @@
+A|0| A: oké _deze hebben een soort_ punt _bovenop_ 
+A|1| A: _en_ _dan_ _een_ _een soort_ _vierkant_ _aan de_ rechterkant _dat_ zo steeds bred _worden_ 
+B|2| B: _ja dat zijn bij mij_ J 
+B|3| B: [deze hebben een soort] puntig ding erbovenop 
+B|4| B: _met_ [dan] _dat vierkant_ wat iets dikk of [dat] blok [dat] iets dik _worden aan de_ onderkant 
+A|5| A: [ja dat zijn bij mij] zes 
+A|6| A: [deze hebben] _die_ punt _bovenop_ 
+A|7| A: _en _dat_ vierkant dat_ steeds bred [worden aan de] rechterkant 
+B|8| B: ik [zijn] hem [aan] het zoeken 
+B|9| B: [ja] 
+B|10| B: [dat zijn bij mij] E 
+B|11| B: [ja] [die] weer _met_ het _met_ [de] driehoek _bovenop en_ [de] [dat vierkant dat] dik [worden] 
+A|12| A: [ja dat zijn bij mij] tien 
+A|13| A: _die met_ [die] punt _bovenop en [dat_ vierkant] [aan de] zijkant [dat] steeds bred [worden] 
+B|14| B: G 
+B|15| B: [die met] [de] driehoek [bovenop en dat] blok wat groot [worden] 
+A|16| A: [ja dat zijn] nummer tien 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : oké deze hebben een soort punt bovenop
+	Free: Pattern=deze hebben een soort, Pattern=bovenop
+	Constrained: Pattern=een soort, Pattern=deze hebben, Pattern=een
+Turn ID=1| A | A : en dan een een soort vierkant aan de rechterkant dat zo steeds bred worden
+	Free: Pattern=dat, Pattern=dan, Pattern=een, Pattern=een soort, Pattern=en, Pattern=vierkant, Pattern=aan de, Pattern=worden
+	Constrained: Pattern=een, Pattern=de, Pattern=aan
+Turn ID=2| B | B : ja dat zijn bij mij J
+	Free: Pattern=ja dat zijn bij mij
+	Constrained: Pattern=dat, Pattern=ja, Pattern=ja dat zijn, Pattern=dat zijn bij mij, Pattern=zijn
+Turn ID=3| B | B : deze hebben een soort puntig ding erbovenop
+	Free: Pattern=deze hebben een soort
+	Constrained: Pattern=een soort, Pattern=deze hebben, Pattern=een
+Turn ID=4| B | B : met dan dat vierkant wat iets dikk of dat blok dat iets dik worden aan de onderkant
+	Free: Pattern=dat, Pattern=worden aan de, Pattern=dan, Pattern=dat vierkant, Pattern=met
+	Constrained: Pattern=dat, Pattern=vierkant, Pattern=de, Pattern=aan, Pattern=aan de, Pattern=worden
+Turn ID=5| A | A : ja dat zijn bij mij zes
+	Free: Pattern=ja dat zijn bij mij
+	Constrained: Pattern=dat, Pattern=ja, Pattern=ja dat zijn, Pattern=dat zijn bij mij, Pattern=zijn
+Turn ID=6| A | A : deze hebben die punt bovenop
+	Free: Pattern=deze hebben, Pattern=bovenop, Pattern=die
+	Constrained: 
+Turn ID=7| A | A : en dat vierkant dat steeds bred worden aan de rechterkant
+	Free: Pattern=worden aan de, Pattern=dat vierkant dat, Pattern=en dat
+	Constrained: Pattern=dat, Pattern=dat vierkant, Pattern=en, Pattern=vierkant, Pattern=de, Pattern=aan, Pattern=aan de, Pattern=worden
+Turn ID=8| B | B : ik zijn hem aan het zoeken
+	Free: Pattern=zijn, Pattern=aan
+	Constrained: 
+Turn ID=9| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=10| B | B : dat zijn bij mij E
+	Free: Pattern=dat zijn bij mij
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=11| B | B : ja die weer met het met de driehoek bovenop en de dat vierkant dat dik worden
+	Free: Pattern=worden, Pattern=bovenop en, Pattern=dat vierkant dat, Pattern=met, Pattern=die, Pattern=de, Pattern=ja
+	Constrained: Pattern=dat vierkant, Pattern=en, Pattern=vierkant, Pattern=dat, Pattern=bovenop
+Turn ID=12| A | A : ja dat zijn bij mij tien
+	Free: Pattern=ja dat zijn bij mij
+	Constrained: Pattern=dat, Pattern=ja, Pattern=ja dat zijn, Pattern=dat zijn bij mij, Pattern=zijn
+Turn ID=13| A | A : die met die punt bovenop en dat vierkant aan de zijkant dat steeds bred worden
+	Free: Pattern=dat, Pattern=dat vierkant, Pattern=die met, Pattern=die, Pattern=bovenop en dat, Pattern=aan de, Pattern=worden
+	Constrained: Pattern=bovenop en, Pattern=met, Pattern=die, Pattern=en, Pattern=vierkant, Pattern=en dat, Pattern=dat, Pattern=bovenop, Pattern=de, Pattern=aan
+Turn ID=14| B | B : G
+	Free: 
+	Constrained: 
+Turn ID=15| B | B : die met de driehoek bovenop en dat blok wat groot worden
+	Free: Pattern=bovenop en dat, Pattern=die met, Pattern=worden, Pattern=de
+	Constrained: Pattern=bovenop en, Pattern=met, Pattern=die, Pattern=en, Pattern=en dat, Pattern=dat, Pattern=bovenop
+Turn ID=16| A | A : ja dat zijn nummer tien
+	Free: Pattern=ja dat zijn
+	Constrained: Pattern=zijn, Pattern=dat, Pattern=ja

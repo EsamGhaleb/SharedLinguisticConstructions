@@ -1,0 +1,103 @@
+A|0| A: ok 
+B|1| B: ik _hebben_ nou _dat_ plaat met _ja_ _zeggen maar_ _kop_ _dat_ _eigenlijk_ ook _op_ _een_ tafel _staan_ _en_ waarbij dan _die_ van _die_ ribbelt _aan allebei_ _de_ 
+A|2| A: ok [en] zitten [die] spiraol [eigenlijk] [een] beetje _aan de zijkant_ ? of echt _aan de_ bovenkant 
+B|3| B: _ja_ met _drie_ met _drie_ _drie_ dinget _zeggen maar_ 
+B|4| B: _drie_ diamant _zeggen maar_ _op_ elkaar [een] soort van 
+A|5| A: [en] _zijn_ [dat] [zeggen maar] [drie] of [ja] ok _dat zijn_ vijf 
+B|6| B: [ja] [een] rond ervoor [ja] 
+A|7| A: deze [hebben] vierkant _aan de_ onderkant [zeggen maar] [dat] hij echt het [kop] [staan] er [op] _ja dat zijn_ er [eigenlijk] nog [maar] één _aan de zijkant_ zitten [ja] [aan allebei] [die] 
+A|8| A: [ja] 
+B|9| B: oké 
+B|10| B: [ja] [en] zo'n plateau [ja dat zijn] bij mij J 
+A|11| A: ok [zijn] elf 
+A|12| A: [hebben] het vierkant _aan de_ onderkant [en] daar [staan] het [kop] [op] 
+B|13| B: dan _hebben we_ ik [hebben] nou weer [die] [een] met [die] [ja] met [die] [drie] uisteekselt [zeggen maar] [aan allebei] [de] kant 
+B|14| B: [ja] 
+B|15| B: [ja] 
+A|16| A: [zijn] negen 
+A|17| A: [ja] [hebben we] hetzelfde [kop] wat [op] het vierkant vlak [staan] 
+B|18| B: [ja] 
+B|19| B: [en] 
+B|20| B: [ja] 
+B|21| B: [dat zijn] bij mij P 
+B|22| B: met [die] [drie] diamantjes [zeggen maar] [aan de zijkant] [die] uitsteken met [dat] rond [aan de] voorkant [op] [dat] plateaut 
+B|23| B: [ja] 
+B|24| B: [dat zijn] bij mij L 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : ok
+	Free: 
+	Constrained: 
+Turn ID=1| B | B : ik hebben nou dat plaat met ja zeggen maar kop dat eigenlijk ook op een tafel staan en waarbij dan die van die ribbelt aan allebei de
+	Free: Pattern=aan allebei, Pattern=dat, Pattern=op, Pattern=zeggen maar, Pattern=hebben, Pattern=die, Pattern=en, Pattern=de, Pattern=ja, Pattern=een, Pattern=staan, Pattern=kop, Pattern=eigenlijk
+	Constrained: Pattern=maar
+Turn ID=2| A | A : ok en zitten die spiraol eigenlijk een beetje aan de zijkant ? of echt aan de bovenkant
+	Free: Pattern=aan de, Pattern=eigenlijk, Pattern=die, Pattern=en, Pattern=een, Pattern=aan de zijkant
+	Constrained: Pattern=de, Pattern=aan de
+Turn ID=3| B | B : ja met drie met drie drie dinget zeggen maar
+	Free: Pattern=zeggen maar, Pattern=drie, Pattern=ja
+	Constrained: Pattern=maar
+Turn ID=4| B | B : drie diamant zeggen maar op elkaar een soort van
+	Free: Pattern=zeggen maar, Pattern=drie, Pattern=op, Pattern=een
+	Constrained: Pattern=maar
+Turn ID=5| A | A : en zijn dat zeggen maar drie of ja ok dat zijn vijf
+	Free: Pattern=ja, Pattern=zeggen maar, Pattern=drie, Pattern=en, Pattern=zijn, Pattern=dat, Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn, Pattern=maar
+Turn ID=6| B | B : ja een rond ervoor ja
+	Free: Pattern=ja, Pattern=een
+	Constrained: 
+Turn ID=7| A | A : deze hebben vierkant aan de onderkant zeggen maar dat hij echt het kop staan er op ja dat zijn er eigenlijk nog maar één aan de zijkant zitten ja aan allebei die
+	Free: Pattern=aan allebei, Pattern=dat, Pattern=ja, Pattern=zeggen maar, Pattern=hebben, Pattern=die, Pattern=maar, Pattern=op, Pattern=aan de, Pattern=ja dat zijn, Pattern=aan de zijkant, Pattern=staan, Pattern=kop, Pattern=eigenlijk
+	Constrained: Pattern=aan de, Pattern=dat, Pattern=dat zijn, Pattern=de, Pattern=ja, Pattern=zijn, Pattern=maar
+Turn ID=8| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=9| B | B : oké
+	Free: 
+	Constrained: 
+Turn ID=10| B | B : ja en zo'n plateau ja dat zijn bij mij J
+	Free: Pattern=ja dat zijn, Pattern=en, Pattern=ja
+	Constrained: Pattern=dat zijn, Pattern=dat, Pattern=zijn, Pattern=ja
+Turn ID=11| A | A : ok zijn elf
+	Free: Pattern=zijn
+	Constrained: 
+Turn ID=12| A | A : hebben het vierkant aan de onderkant en daar staan het kop op
+	Free: Pattern=staan, Pattern=hebben, Pattern=kop, Pattern=en, Pattern=op, Pattern=aan de
+	Constrained: Pattern=de
+Turn ID=13| B | B : dan hebben we ik hebben nou weer die een met die ja met die drie uisteekselt zeggen maar aan allebei de kant
+	Free: Pattern=aan allebei, Pattern=een, Pattern=zeggen maar, Pattern=drie, Pattern=hebben, Pattern=die, Pattern=hebben we, Pattern=de, Pattern=ja
+	Constrained: Pattern=hebben, Pattern=maar
+Turn ID=14| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=15| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=16| A | A : zijn negen
+	Free: Pattern=zijn
+	Constrained: 
+Turn ID=17| A | A : ja hebben we hetzelfde kop wat op het vierkant vlak staan
+	Free: Pattern=ja, Pattern=op, Pattern=staan, Pattern=kop, Pattern=hebben we
+	Constrained: Pattern=hebben
+Turn ID=18| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=19| B | B : en
+	Free: Pattern=en
+	Constrained: 
+Turn ID=20| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=21| B | B : dat zijn bij mij P
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=22| B | B : met die drie diamantjes zeggen maar aan de zijkant die uitsteken met dat rond aan de voorkant op dat plateaut
+	Free: Pattern=dat, Pattern=aan de zijkant, Pattern=zeggen maar, Pattern=drie, Pattern=die, Pattern=op, Pattern=aan de
+	Constrained: Pattern=de, Pattern=aan de, Pattern=maar
+Turn ID=23| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=24| B | B : dat zijn bij mij L
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn

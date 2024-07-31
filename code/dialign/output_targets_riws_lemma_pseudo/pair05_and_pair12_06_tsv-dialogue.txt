@@ -1,0 +1,115 @@
+B|0| B: okee 
+B|1| B: wat 
+B|2| B: _ja_ 
+B|3| B: maar _zijn_ _dat_ _de_ _staaf_ _met een_ rond _eraan_ 
+B|4| B: okee _dat zijn_ k 
+A|5| A: het lijken op één als je er [een] gezicht bij voorstellen hebben hij [een] soort [staaf] door [zijn] neus zullen ik zeggen 
+A|6| A: [met een] cirkel [eraan] 
+A|7| A: en [een] soort pluimpje op het hoofd 
+A|8| A: aan [de] achterkant 
+B|9| B: dit [zijn] [de] piercing neusvorm 
+B|10| B: _ja_ 
+B|11| B: f 
+B|12| B: [de] piercingneus 
+A|13| A: [ja] 
+A|14| A: [ja] [dat zijn] vijf 
+B|15| B: m 
+B|16| B: piercing 
+A|17| A: deze hebben [een] [een] [staaf] door [zijn] neus 
+A|18| A: en door [zijn] aardappelneus 
+A|19| A: en [een] [een] veer op [zijn] hoofd 
+A|20| A: ik kunnen hem niet vinden 
+A|21| A: [ja] 
+A|22| A: [een] parasolle 
+A|23| A: [ja] die [eraan] hangen 
+A|24| A: vier 
+A|25| A: [staaf] door [de] neus 
+A|26| A: [ja] ik zoeken hem 
+A|27| A: [ja] vier 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : okee
+	Free: 
+	Constrained: 
+Turn ID=1| B | B : wat
+	Free: 
+	Constrained: 
+Turn ID=2| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=3| B | B : maar zijn dat de staaf met een rond eraan
+	Free: Pattern=dat, Pattern=de, Pattern=staaf, Pattern=eraan, Pattern=met een, Pattern=zijn
+	Constrained: Pattern=een
+Turn ID=4| B | B : okee dat zijn k
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=5| A | A : het lijken op één als je er een gezicht bij voorstellen hebben hij een soort staaf door zijn neus zullen ik zeggen
+	Free: Pattern=staaf, Pattern=een, Pattern=zijn
+	Constrained: 
+Turn ID=6| A | A : met een cirkel eraan
+	Free: Pattern=met een, Pattern=eraan
+	Constrained: Pattern=een
+Turn ID=7| A | A : en een soort pluimpje op het hoofd
+	Free: Pattern=een
+	Constrained: 
+Turn ID=8| A | A : aan de achterkant
+	Free: Pattern=de
+	Constrained: 
+Turn ID=9| B | B : dit zijn de piercing neusvorm
+	Free: Pattern=de, Pattern=zijn
+	Constrained: 
+Turn ID=10| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=11| B | B : f
+	Free: 
+	Constrained: 
+Turn ID=12| B | B : de piercingneus
+	Free: Pattern=de
+	Constrained: 
+Turn ID=13| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=14| A | A : ja dat zijn vijf
+	Free: Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=15| B | B : m
+	Free: 
+	Constrained: 
+Turn ID=16| B | B : piercing
+	Free: 
+	Constrained: 
+Turn ID=17| A | A : deze hebben een een staaf door zijn neus
+	Free: Pattern=staaf, Pattern=een, Pattern=zijn
+	Constrained: 
+Turn ID=18| A | A : en door zijn aardappelneus
+	Free: Pattern=zijn
+	Constrained: 
+Turn ID=19| A | A : en een een veer op zijn hoofd
+	Free: Pattern=een, Pattern=zijn
+	Constrained: 
+Turn ID=20| A | A : ik kunnen hem niet vinden
+	Free: 
+	Constrained: 
+Turn ID=21| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=22| A | A : een parasolle
+	Free: Pattern=een
+	Constrained: 
+Turn ID=23| A | A : ja die eraan hangen
+	Free: Pattern=eraan, Pattern=ja
+	Constrained: 
+Turn ID=24| A | A : vier
+	Free: 
+	Constrained: 
+Turn ID=25| A | A : staaf door de neus
+	Free: Pattern=staaf, Pattern=de
+	Constrained: 
+Turn ID=26| A | A : ja ik zoeken hem
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=27| A | A : ja vier
+	Free: Pattern=ja
+	Constrained: 

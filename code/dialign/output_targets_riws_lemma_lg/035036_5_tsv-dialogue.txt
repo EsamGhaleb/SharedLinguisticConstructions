@@ -1,0 +1,99 @@
+B|0| B: _ja_ _dit_ vinden ik echt _hier_ snapte ik niks _van_ 
+B|1| B: _dit zijn_ 
+B|2| B: nou _ja_ je hebben _dat_ _dat_ kopvormpje dus en dan staan daarbovenop _een soort_ _rechthoekig_ vormp _een soort_ _gebouw_ _of_ zo _of_ _ja_ zo zullen je _het_ _kunnen_ zien 
+A|3| A: [ja] 
+B|4| B: en dan hebben _die_ aan de linkerkant _een_ 
+A|5| A: [een soort] [van] _half_ lampenkap 
+B|6| B: [ja] [half] [ja] inderdaad en aan aan de ander kant [een soort] [ja] verschillend steeksel en zo 
+A|7| A: [ja] 
+A|8| A: _oké_ _dat zijn_ acht 
+B|9| B: [oké] 
+A|10| A: [hier] [kunnen] we niet zoveel [van] maken _dat zijn die_ _met dat_ huis [rechthoekig] ding _bovenop_ 
+B|11| B: [ja] 
+B|12| B: waar staan [die] 
+B|13| B: [ja] 
+B|14| B: [dat zijn] E bij mij 
+B|15| B: [dat zijn die] raar [met _dat] gebouw bovenop_ 
+A|16| A: even zoeken [dat zijn] één 
+A|17| A: [oké] _dit zijn die_ stom [met dat] huis [bovenop] [of] [dat gebouw bovenop] 
+B|18| B: [ja] 
+B|19| B: E 
+B|20| B: [dit zijn die] raar _met het_ [gebouw] 
+A|21| A: zestien 
+A|22| A: [dit zijn die] [met het] gek [gebouw] 
+B|23| B: [dat zijn] O 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : ja dit vinden ik echt hier snapte ik niks van
+	Free: Pattern=ja, Pattern=van, Pattern=hier, Pattern=dit
+	Constrained: 
+Turn ID=1| B | B : dit zijn
+	Free: Pattern=dit zijn
+	Constrained: Pattern=dit
+Turn ID=2| B | B : nou ja je hebben dat dat kopvormpje dus en dan staan daarbovenop een soort rechthoekig vormp een soort gebouw of zo of ja zo zullen je het kunnen zien
+	Free: Pattern=dat, Pattern=of, Pattern=kunnen, Pattern=gebouw, Pattern=het, Pattern=een soort, Pattern=rechthoekig, Pattern=ja
+	Constrained: Pattern=een
+Turn ID=3| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=4| B | B : en dan hebben die aan de linkerkant een
+	Free: Pattern=een, Pattern=die
+	Constrained: 
+Turn ID=5| A | A : een soort van half lampenkap
+	Free: Pattern=een soort, Pattern=van, Pattern=half
+	Constrained: Pattern=een
+Turn ID=6| B | B : ja half ja inderdaad en aan aan de ander kant een soort ja verschillend steeksel en zo
+	Free: Pattern=een soort, Pattern=ja, Pattern=half
+	Constrained: Pattern=een
+Turn ID=7| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=8| A | A : oké dat zijn acht
+	Free: Pattern=dat zijn, Pattern=oké
+	Constrained: Pattern=dat
+Turn ID=9| B | B : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=10| A | A : hier kunnen we niet zoveel van maken dat zijn die met dat huis rechthoekig ding bovenop
+	Free: Pattern=dat zijn die, Pattern=bovenop, Pattern=kunnen, Pattern=rechthoekig, Pattern=hier, Pattern=met dat, Pattern=van
+	Constrained: Pattern=dat, Pattern=die, Pattern=dat zijn
+Turn ID=11| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=12| B | B : waar staan die
+	Free: Pattern=die
+	Constrained: 
+Turn ID=13| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=14| B | B : dat zijn E bij mij
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat
+Turn ID=15| B | B : dat zijn die raar met dat gebouw bovenop
+	Free: Pattern=dat zijn die, Pattern=dat gebouw bovenop, Pattern=met dat
+	Constrained: Pattern=gebouw, Pattern=die, Pattern=dat, Pattern=dat zijn, Pattern=bovenop
+Turn ID=16| A | A : even zoeken dat zijn één
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat
+Turn ID=17| A | A : oké dit zijn die stom met dat huis bovenop of dat gebouw bovenop
+	Free: Pattern=bovenop, Pattern=of, Pattern=dit zijn die, Pattern=dat gebouw bovenop, Pattern=met dat, Pattern=oké
+	Constrained: Pattern=gebouw, Pattern=dit, Pattern=die, Pattern=dit zijn, Pattern=dat, Pattern=bovenop
+Turn ID=18| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=19| B | B : E
+	Free: 
+	Constrained: 
+Turn ID=20| B | B : dit zijn die raar met het gebouw
+	Free: Pattern=dit zijn die, Pattern=met het, Pattern=gebouw
+	Constrained: Pattern=dit zijn, Pattern=dit, Pattern=die, Pattern=het
+Turn ID=21| A | A : zestien
+	Free: 
+	Constrained: 
+Turn ID=22| A | A : dit zijn die met het gek gebouw
+	Free: Pattern=dit zijn die, Pattern=met het, Pattern=gebouw
+	Constrained: Pattern=dit zijn, Pattern=dit, Pattern=die, Pattern=het
+Turn ID=23| B | B : dat zijn O
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat

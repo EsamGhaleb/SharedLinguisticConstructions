@@ -1,0 +1,115 @@
+B|0| B: _en_ _dit zijn_ _ja_ _zitten_ _weer_ vier ding _aan_ , _dat zijn_ best wel vaak waaronder _een_ _ei_ 
+B|1| B: _aan de voorkant_ 
+B|2| B: _en_ _een_ penseel of iets wat _zitten_ erin 
+A|3| A: okee 
+B|4| B: _en_ nog _een_ staafje _zitten_ erin 
+B|5| B: _en_ _aan de_ linkerkant _zitten_ nog _een_ staafje 
+B|6| B: dus _aan de_ buitenkant hebben je _een_ _ei_ _en_ _een_ _staaf_ 
+A|7| A: nee 
+B|8| B: oké 
+A|9| A: [ja] 
+A|10| A: [ja] _het_ [zijn] [een] soort pipet dinge toch 
+A|11| A: [ja] 
+A|12| A: dertien [zijn] _het_ dan 
+A|13| A: deze [zijn] _met_ [dat] [ei] helemaal voorin [en] er [zitten] twee [staaf] in [de] één [zijn] _met_ [dat] pipetvormpje [weer] 
+B|14| B: _dat zijn_ F 
+A|15| A: okee 
+A|16| A: [ja] twee 
+A|17| A: [dit zijn] _met de_ _met het_ _ei [aan de_ voorkant] [en] _met_ [dat] pipetvormp 
+A|18| A: [dat zijn] nummer acht 
+B|19| B: bak [met] [aan de voorkant] [een] [ei] 
+B|20| B: [en] [een] penceel die erin liggen 
+B|21| B: niet te verwarren [met het] ander kop waar ook [een] [ei] op [de voorkant] [zitten] , [met de] zuignap 
+A|22| A: [dit zijn] [met de] pipet [en] [het] _ei [aan de_ voorkant] 
+B|23| B: [dat zijn] hem niet 
+B|24| B: maar [de] ander 
+B|25| B: J 
+B|26| B: bak [met] penceel [en] nog [een] stok erin [en] [een] [ei aan de] rechterkant 
+B|27| B: G 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : en dit zijn ja zitten weer vier ding aan , dat zijn best wel vaak waaronder een ei
+	Free: Pattern=dat zijn, Pattern=ei, Pattern=een, Pattern=zitten, Pattern=en, Pattern=weer, Pattern=dit zijn, Pattern=aan, Pattern=ja
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=1| B | B : aan de voorkant
+	Free: Pattern=aan de voorkant
+	Constrained: Pattern=aan, Pattern=de, Pattern=de voorkant, Pattern=aan de
+Turn ID=2| B | B : en een penseel of iets wat zitten erin
+	Free: Pattern=en, Pattern=zitten, Pattern=een
+	Constrained: 
+Turn ID=3| A | A : okee
+	Free: 
+	Constrained: 
+Turn ID=4| B | B : en nog een staafje zitten erin
+	Free: Pattern=en, Pattern=zitten, Pattern=een
+	Constrained: 
+Turn ID=5| B | B : en aan de linkerkant zitten nog een staafje
+	Free: Pattern=aan de, Pattern=en, Pattern=zitten, Pattern=een
+	Constrained: Pattern=de, Pattern=aan
+Turn ID=6| B | B : dus aan de buitenkant hebben je een ei en een staaf
+	Free: Pattern=ei, Pattern=staaf, Pattern=aan de, Pattern=een, Pattern=en
+	Constrained: Pattern=de, Pattern=aan
+Turn ID=7| A | A : nee
+	Free: 
+	Constrained: 
+Turn ID=8| B | B : oké
+	Free: 
+	Constrained: 
+Turn ID=9| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=10| A | A : ja het zijn een soort pipet dinge toch
+	Free: Pattern=zijn, Pattern=ja, Pattern=het, Pattern=een
+	Constrained: 
+Turn ID=11| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=12| A | A : dertien zijn het dan
+	Free: Pattern=zijn, Pattern=het
+	Constrained: 
+Turn ID=13| A | A : deze zijn met dat ei helemaal voorin en er zitten twee staaf in de één zijn met dat pipetvormpje weer
+	Free: Pattern=dat, Pattern=ei, Pattern=de, Pattern=staaf, Pattern=met, Pattern=zitten, Pattern=en, Pattern=zijn, Pattern=weer
+	Constrained: 
+Turn ID=14| B | B : dat zijn F
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=15| A | A : okee
+	Free: 
+	Constrained: 
+Turn ID=16| A | A : ja twee
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=17| A | A : dit zijn met de met het ei aan de voorkant en met dat pipetvormp
+	Free: Pattern=dat, Pattern=met de, Pattern=met, Pattern=en, Pattern=met het, Pattern=ei aan de, Pattern=aan de voorkant, Pattern=dit zijn
+	Constrained: Pattern=ei, Pattern=aan de, Pattern=het, Pattern=met, Pattern=de voorkant, Pattern=zijn, Pattern=de, Pattern=aan
+Turn ID=18| A | A : dat zijn nummer acht
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=19| B | B : bak met aan de voorkant een ei
+	Free: Pattern=aan de voorkant, Pattern=ei, Pattern=met, Pattern=een
+	Constrained: Pattern=aan, Pattern=de, Pattern=de voorkant, Pattern=aan de
+Turn ID=20| B | B : en een penceel die erin liggen
+	Free: Pattern=en, Pattern=een
+	Constrained: 
+Turn ID=21| B | B : niet te verwarren met het ander kop waar ook een ei op de voorkant zitten , met de zuignap
+	Free: Pattern=ei, Pattern=met de, Pattern=een, Pattern=met het, Pattern=de voorkant, Pattern=zitten
+	Constrained: Pattern=de, Pattern=met, Pattern=het
+Turn ID=22| A | A : dit zijn met de pipet en het ei aan de voorkant
+	Free: Pattern=met de, Pattern=het, Pattern=en, Pattern=ei aan de, Pattern=aan de voorkant, Pattern=dit zijn
+	Constrained: Pattern=ei, Pattern=aan de, Pattern=met, Pattern=de voorkant, Pattern=zijn, Pattern=de, Pattern=aan
+Turn ID=23| B | B : dat zijn hem niet
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=24| B | B : maar de ander
+	Free: Pattern=de
+	Constrained: 
+Turn ID=25| B | B : J
+	Free: 
+	Constrained: 
+Turn ID=26| B | B : bak met penceel en nog een stok erin en een ei aan de rechterkant
+	Free: Pattern=ei aan de, Pattern=en, Pattern=met, Pattern=een
+	Constrained: Pattern=aan de, Pattern=de, Pattern=ei, Pattern=aan
+Turn ID=27| B | B : G
+	Free: 
+	Constrained: 

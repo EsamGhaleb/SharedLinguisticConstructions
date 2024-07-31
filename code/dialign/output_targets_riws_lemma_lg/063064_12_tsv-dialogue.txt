@@ -1,0 +1,95 @@
+A|0| A: even denken _dit_ _kop_ hebben _aan de rechterkant_ _een_ soort van rond _schijf_ 
+A|1| A: op _de_ _plat_ kant _zeggen_ maar 
+A|2| A: _en_ dan _aan de linkerkant_ zitten _een_ soort van _ja_ letter _C_ zullen je kunnen _zeggen_ _die_ heel lang doorlopen _en_ daar 
+A|3| A: steken _weer_ _een_ soort van _ijspegel_ uit recht links naar boven 
+B|4| B: [en] _met_ nog [een] _vierkantje_ erop 
+A|5| A: _ja_ 
+B|6| B: oké _dat zijn_ L 
+B|7| B: [en] _dit zijn weer_ _dat_ [kop] _met die plat_ [schijf] [aan de rechterkant] 
+B|8| B: [en] [aan de linkerkant] [ja] jij [zeggen] net [C] geloven ik 
+B|9| B: [en] [die] [ijspegel] [en] het _vierkantje_ 
+A|10| A: [ja] [ja] 
+A|11| A: zeven 
+A|12| A: _dit zijn weer met_ zo'n rond [schijf] [die] uitsteken op [de] [plat] kant _met de_ letter _C en_ [een] [ijspegel] naar boven [met] [vierkantje] 
+B|13| B: [ja] 
+B|14| B: [ja] _dat zijn_ [C] 
+B|15| B: [dit zijn] [die] _met die plat_ [schijf] [aan de rechterkant] _en de_ [C _en] de_ [ijspegel] [aan de linkerkant] 
+A|16| A: [dat zijn] één 
+A|17| A: [dit zijn] _met dat_ [met die plat] cirkel [en de] letter [C en] dan [de] 
+B|18| B: [ijspegel] 
+A|19| A: [ja] 
+B|20| B: [ja] [dat zijn] A 
+B|21| B: [dit zijn weer [met] dat] plateau [aan de rechterkant] [en de] [C] [aan de linkerkant] [met de] [ijspegel] [en] het [vierkantje] 
+A|22| A: dertien 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : even denken dit kop hebben aan de rechterkant een soort van rond schijf
+	Free: Pattern=een, Pattern=schijf, Pattern=aan de rechterkant, Pattern=kop, Pattern=dit
+	Constrained: Pattern=de
+Turn ID=1| A | A : op de plat kant zeggen maar
+	Free: Pattern=de, Pattern=plat, Pattern=zeggen
+	Constrained: 
+Turn ID=2| A | A : en dan aan de linkerkant zitten een soort van ja letter C zullen je kunnen zeggen die heel lang doorlopen en daar
+	Free: Pattern=ja, Pattern=een, Pattern=zeggen, Pattern=die, Pattern=en, Pattern=C, Pattern=aan de linkerkant
+	Constrained: Pattern=de
+Turn ID=3| A | A : steken weer een soort van ijspegel uit recht links naar boven
+	Free: Pattern=een, Pattern=ijspegel, Pattern=weer
+	Constrained: 
+Turn ID=4| B | B : en met nog een vierkantje erop
+	Free: Pattern=en, Pattern=vierkantje, Pattern=een, Pattern=met
+	Constrained: 
+Turn ID=5| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=6| B | B : oké dat zijn L
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat
+Turn ID=7| B | B : en dit zijn weer dat kop met die plat schijf aan de rechterkant
+	Free: Pattern=dat, Pattern=met die plat, Pattern=schijf, Pattern=kop, Pattern=aan de rechterkant, Pattern=en, Pattern=dit zijn weer
+	Constrained: Pattern=de, Pattern=dit, Pattern=met, Pattern=die, Pattern=plat, Pattern=weer, Pattern=dit zijn
+Turn ID=8| B | B : en aan de linkerkant ja jij zeggen net C geloven ik
+	Free: Pattern=ja, Pattern=zeggen, Pattern=en, Pattern=C, Pattern=aan de linkerkant
+	Constrained: Pattern=de
+Turn ID=9| B | B : en die ijspegel en het vierkantje
+	Free: Pattern=en, Pattern=vierkantje, Pattern=die, Pattern=ijspegel
+	Constrained: 
+Turn ID=10| A | A : ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=11| A | A : zeven
+	Free: 
+	Constrained: 
+Turn ID=12| A | A : dit zijn weer met zo'n rond schijf die uitsteken op de plat kant met de letter C en een ijspegel naar boven met vierkantje
+	Free: Pattern=dit zijn weer met, Pattern=een, Pattern=schijf, Pattern=die, Pattern=C en, Pattern=ijspegel, Pattern=plat, Pattern=de, Pattern=met de, Pattern=vierkantje, Pattern=met
+	Constrained: Pattern=de, Pattern=dit, Pattern=met, Pattern=en, Pattern=weer, Pattern=dit zijn, Pattern=C, Pattern=dit zijn weer
+Turn ID=13| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=14| B | B : ja dat zijn C
+	Free: Pattern=dat zijn, Pattern=ja, Pattern=C
+	Constrained: Pattern=dat
+Turn ID=15| B | B : dit zijn die met die plat schijf aan de rechterkant en de C en de ijspegel aan de linkerkant
+	Free: Pattern=met die plat, Pattern=en de, Pattern=schijf, Pattern=C en, Pattern=ijspegel, Pattern=dit zijn, Pattern=aan de linkerkant, Pattern=aan de rechterkant, Pattern=die
+	Constrained: Pattern=de, Pattern=dit, Pattern=met, Pattern=die, Pattern=en, Pattern=plat, Pattern=C
+Turn ID=16| A | A : dat zijn één
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat
+Turn ID=17| A | A : dit zijn met dat met die plat cirkel en de letter C en dan de
+	Free: Pattern=en de, Pattern=met dat, Pattern=C en, Pattern=dit zijn, Pattern=de, Pattern=met die plat
+	Constrained: Pattern=dat, Pattern=de, Pattern=dit, Pattern=met, Pattern=die, Pattern=en, Pattern=plat, Pattern=C
+Turn ID=18| B | B : ijspegel
+	Free: Pattern=ijspegel
+	Constrained: 
+Turn ID=19| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=20| B | B : ja dat zijn A
+	Free: Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=dat
+Turn ID=21| B | B : dit zijn weer met dat plateau aan de rechterkant en de C aan de linkerkant met de ijspegel en het vierkantje
+	Free: Pattern=dit zijn weer met, Pattern=met de, Pattern=en de, Pattern=met dat, Pattern=vierkantje, Pattern=aan de rechterkant, Pattern=ijspegel, Pattern=en, Pattern=C, Pattern=aan de linkerkant
+	Constrained: Pattern=dat, Pattern=de, Pattern=dit, Pattern=met, Pattern=en, Pattern=weer, Pattern=dit zijn, Pattern=dit zijn weer
+Turn ID=22| A | A : dertien
+	Free: 
+	Constrained: 

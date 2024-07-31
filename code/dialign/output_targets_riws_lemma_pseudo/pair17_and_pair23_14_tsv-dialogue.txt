@@ -1,0 +1,119 @@
+A|0| A: er zitten _een_ _groot_ verticaal _balk_ voor _de_ emmer 
+A|1| A: _en_ _bovenop_ _de_ emmer hebben _je_ _een_ bal 
+B|2| B: _ja_ 
+B|3| B: duidelijk 
+A|4| A: _en_ dan links _en_ rechts hebben _je_ _twee_ cilinder 
+B|5| B: L 
+B|6| B: _ja_ 
+B|7| B: L 
+A|8| A: [ja] 
+A|9| A: negen 
+B|10| B: [een] lang recht [balk] Voorin 
+B|11| B: met [een] balle wat eigenlijk in het kop lijken te kunnen vallen 
+B|12| B: [twee] klein dun armpjes [ja] 
+A|13| A: deze hebben [een] bal _bovenop_ _de_ emmer _en_ voor _de_ emmer _zijn_ [een] [balk] 
+A|14| A: na zeven 
+B|15| B: [ja] 
+B|16| B: M 
+A|17| A: deze hebben die bal _bovenop_ _en_ voor _de_ emmer [een] _groot balk_ 
+A|18| A: negen 
+B|19| B: [groot balk] naar beneden vooraf , bolle [bovenop] 
+B|20| B: [en] [twee] klein dinge 
+B|21| B: waar [zijn] [je] 
+B|22| B: met [de] bol aan [de] bovenkant 
+B|23| B: [ja] 
+B|24| B: O 
+B|25| B: [balk] aan [de] voorkant 
+B|26| B: recht balkje 
+B|27| B: balle Bovenin 
+B|28| B: [twee] klein armpjes 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : er zitten een groot verticaal balk voor de emmer
+	Free: Pattern=balk, Pattern=een, Pattern=groot, Pattern=de
+	Constrained: 
+Turn ID=1| A | A : en bovenop de emmer hebben je een bal
+	Free: Pattern=bovenop, Pattern=de, Pattern=een, Pattern=en, Pattern=je
+	Constrained: 
+Turn ID=2| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=3| B | B : duidelijk
+	Free: 
+	Constrained: 
+Turn ID=4| A | A : en dan links en rechts hebben je twee cilinder
+	Free: Pattern=twee, Pattern=je, Pattern=en
+	Constrained: 
+Turn ID=5| B | B : L
+	Free: 
+	Constrained: 
+Turn ID=6| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=7| B | B : L
+	Free: 
+	Constrained: 
+Turn ID=8| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=9| A | A : negen
+	Free: 
+	Constrained: 
+Turn ID=10| B | B : een lang recht balk Voorin
+	Free: Pattern=balk, Pattern=een
+	Constrained: 
+Turn ID=11| B | B : met een balle wat eigenlijk in het kop lijken te kunnen vallen
+	Free: Pattern=een
+	Constrained: 
+Turn ID=12| B | B : twee klein dun armpjes ja
+	Free: Pattern=twee, Pattern=ja
+	Constrained: 
+Turn ID=13| A | A : deze hebben een bal bovenop de emmer en voor de emmer zijn een balk
+	Free: Pattern=bovenop, Pattern=de, Pattern=een, Pattern=balk, Pattern=en, Pattern=zijn
+	Constrained: 
+Turn ID=14| A | A : na zeven
+	Free: 
+	Constrained: 
+Turn ID=15| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=16| B | B : M
+	Free: 
+	Constrained: 
+Turn ID=17| A | A : deze hebben die bal bovenop en voor de emmer een groot balk
+	Free: Pattern=bovenop, Pattern=de, Pattern=een, Pattern=groot balk, Pattern=en
+	Constrained: Pattern=balk, Pattern=groot
+Turn ID=18| A | A : negen
+	Free: 
+	Constrained: 
+Turn ID=19| B | B : groot balk naar beneden vooraf , bolle bovenop
+	Free: Pattern=groot balk, Pattern=bovenop
+	Constrained: Pattern=balk, Pattern=groot
+Turn ID=20| B | B : en twee klein dinge
+	Free: Pattern=twee, Pattern=en
+	Constrained: 
+Turn ID=21| B | B : waar zijn je
+	Free: Pattern=je, Pattern=zijn
+	Constrained: 
+Turn ID=22| B | B : met de bol aan de bovenkant
+	Free: Pattern=de
+	Constrained: 
+Turn ID=23| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=24| B | B : O
+	Free: 
+	Constrained: 
+Turn ID=25| B | B : balk aan de voorkant
+	Free: Pattern=balk, Pattern=de
+	Constrained: 
+Turn ID=26| B | B : recht balkje
+	Free: 
+	Constrained: 
+Turn ID=27| B | B : balle Bovenin
+	Free: 
+	Constrained: 
+Turn ID=28| B | B : twee klein armpjes
+	Free: Pattern=twee
+	Constrained: 

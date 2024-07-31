@@ -1,0 +1,175 @@
+B|0| B: _ja_ 
+B|1| B: _ja_ 
+B|2| B: _met_ _aan de linkerkant_ _ook nog twee_ uitsteekselt _en_ _aan _de_ bovenkant_ zo'n 
+B|3| B: _ja_ _dat zijn_ I 
+A|4| A: deze kop 
+A|5| A: even kijken horen hij hebben [de bovenkant] zitten [zijn] er een driehoek maar die [zijn] afgevlken 
+A|6| A: [ja] 
+A|7| A: er zitten een soort hendel [aan] [en] [twee] plat rechthoe 
+A|8| A: [ja] 
+B|9| B: dit [zijn] [de] hoe noemen jij _het_ ? varken 
+B|10| B: [ja] _dat zijn_ N 
+A|11| A: [ja] 
+A|12| A: even kijken horen 
+A|13| A: afgevlakte driehoek die erbovenop zitten 
+A|14| A: daar hebben we er volgens mij [ook] maar één van toch 
+A|15| A: [ja] [en] er zitten [ook] iets onder toch een soort van uitlaat 
+A|16| A: een bak liggen ernaast 
+A|17| A: [ja] 
+A|18| A: [ja] [en] er zitten [ook nog twee] vlak ernaast toch 
+A|19| A: [aan de linkerkant] 
+A|20| A: nee [aan de] rechterkant 
+A|21| A: zitten [twee] balk 
+A|22| A: [ja] 
+A|23| A: oké [dat zijn] [twee] 
+A|24| A: [en] ik hebben beker afgevlakte vier driehoek 
+A|25| A: [met] [het] hendelt waar je zo van houden 
+A|26| A: [en] klein gas uitlaat [aan de] 
+B|27| B: dit [zijn] weer [het] varken 
+B|28| B: [dat zijn] F 
+B|29| B: dit [zijn] weer [het] varken 
+A|30| A: [ja] we [zijn] helemaal druk bezig [met] een nieuw manier uitvinden [ja] 
+A|31| A: oké 
+A|32| A: [met] [het] hendelt even kijken waar [zijn] die 
+A|33| A: ah 
+A|34| A: [dat zijn] negen 
+A|35| A: [ja] 
+A|36| A: [ja] ik weten niet 
+A|37| A: ze zeggen [dat] [het] een uur kunnen duren ik hebben geen idee dus [de] tijd hier gaan niet veel 
+A|38| A: er zitten een hendel 
+A|39| A: afgevlakte driehoek 
+A|40| A: ah hendelt 
+A|41| A: waar [zijn] die ? [ja] 
+A|42| A: [dat zijn] zes 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=1| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=2| B | B : met aan de linkerkant ook nog twee uitsteekselt en aan de bovenkant zo'n
+	Free: Pattern=aan de, Pattern=de bovenkant, Pattern=met, Pattern=aan de linkerkant, Pattern=en, Pattern=ook nog twee
+	Constrained: Pattern=twee, Pattern=de, Pattern=aan, Pattern=aan de, Pattern=ook
+Turn ID=3| B | B : ja dat zijn I
+	Free: Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=4| A | A : deze kop
+	Free: 
+	Constrained: 
+Turn ID=5| A | A : even kijken horen hij hebben de bovenkant zitten zijn er een driehoek maar die zijn afgevlken
+	Free: Pattern=de bovenkant, Pattern=zijn
+	Constrained: Pattern=de
+Turn ID=6| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=7| A | A : er zitten een soort hendel aan en twee plat rechthoe
+	Free: Pattern=twee, Pattern=en, Pattern=aan
+	Constrained: 
+Turn ID=8| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=9| B | B : dit zijn de hoe noemen jij het ? varken
+	Free: Pattern=zijn, Pattern=het, Pattern=de
+	Constrained: 
+Turn ID=10| B | B : ja dat zijn N
+	Free: Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=11| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=12| A | A : even kijken horen
+	Free: 
+	Constrained: 
+Turn ID=13| A | A : afgevlakte driehoek die erbovenop zitten
+	Free: 
+	Constrained: 
+Turn ID=14| A | A : daar hebben we er volgens mij ook maar één van toch
+	Free: Pattern=ook
+	Constrained: 
+Turn ID=15| A | A : ja en er zitten ook iets onder toch een soort van uitlaat
+	Free: Pattern=ook, Pattern=ja, Pattern=en
+	Constrained: 
+Turn ID=16| A | A : een bak liggen ernaast
+	Free: 
+	Constrained: 
+Turn ID=17| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=18| A | A : ja en er zitten ook nog twee vlak ernaast toch
+	Free: Pattern=ook nog twee, Pattern=ja, Pattern=en
+	Constrained: Pattern=ook, Pattern=twee
+Turn ID=19| A | A : aan de linkerkant
+	Free: Pattern=aan de linkerkant
+	Constrained: Pattern=aan, Pattern=de, Pattern=aan de
+Turn ID=20| A | A : nee aan de rechterkant
+	Free: Pattern=aan de
+	Constrained: Pattern=de, Pattern=aan
+Turn ID=21| A | A : zitten twee balk
+	Free: Pattern=twee
+	Constrained: 
+Turn ID=22| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=23| A | A : oké dat zijn twee
+	Free: Pattern=dat zijn, Pattern=twee
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=24| A | A : en ik hebben beker afgevlakte vier driehoek
+	Free: Pattern=en
+	Constrained: 
+Turn ID=25| A | A : met het hendelt waar je zo van houden
+	Free: Pattern=het, Pattern=met
+	Constrained: 
+Turn ID=26| A | A : en klein gas uitlaat aan de
+	Free: Pattern=aan de, Pattern=en
+	Constrained: Pattern=de, Pattern=aan
+Turn ID=27| B | B : dit zijn weer het varken
+	Free: Pattern=zijn, Pattern=het
+	Constrained: 
+Turn ID=28| B | B : dat zijn F
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=29| B | B : dit zijn weer het varken
+	Free: Pattern=zijn, Pattern=het
+	Constrained: 
+Turn ID=30| A | A : ja we zijn helemaal druk bezig met een nieuw manier uitvinden ja
+	Free: Pattern=zijn, Pattern=ja, Pattern=met
+	Constrained: 
+Turn ID=31| A | A : oké
+	Free: 
+	Constrained: 
+Turn ID=32| A | A : met het hendelt even kijken waar zijn die
+	Free: Pattern=zijn, Pattern=het, Pattern=met
+	Constrained: 
+Turn ID=33| A | A : ah
+	Free: 
+	Constrained: 
+Turn ID=34| A | A : dat zijn negen
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=35| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=36| A | A : ja ik weten niet
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=37| A | A : ze zeggen dat het een uur kunnen duren ik hebben geen idee dus de tijd hier gaan niet veel
+	Free: Pattern=het, Pattern=de, Pattern=dat
+	Constrained: 
+Turn ID=38| A | A : er zitten een hendel
+	Free: 
+	Constrained: 
+Turn ID=39| A | A : afgevlakte driehoek
+	Free: 
+	Constrained: 
+Turn ID=40| A | A : ah hendelt
+	Free: 
+	Constrained: 
+Turn ID=41| A | A : waar zijn die ? ja
+	Free: Pattern=zijn, Pattern=ja
+	Constrained: 
+Turn ID=42| A | A : dat zijn zes
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn, Pattern=dat

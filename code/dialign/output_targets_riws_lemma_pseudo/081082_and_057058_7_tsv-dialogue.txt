@@ -1,0 +1,139 @@
+B|0| B: ik hebben _ja_ _het_ _zijn_ _een_ soort van _tafel_ of zoiets wat _een_ beetje zo half uitsteken _met_ van _die_ _poo_ 
+B|1| B: _een_ soort van plank 
+B|2| B: _met_ _poo_ _die_ zo uitsteken _en dan_ _een_ soort van omdraaien 
+B|3| B: _ja_ 
+B|4| B: yes 
+A|5| A: [ja] [en] [met] zo'n bak erop 
+A|6| A: _ja dat zijn_ nummer zestien 
+B|7| B: [ja] 
+B|8| B: yes [dat zijn] P 
+B|9| B: [ja] 
+A|10| A: _dat tafel_ 
+A|11| A: [met] [het] bak erop 
+A|12| A: nee nee nee [die] [een] [met] [het] _tafel _met die_ poot en dan_ [dat] bak erop 
+B|13| B: oké ik hebben weer [dat] soort van [tafel] 
+B|14| B: zo blijven ik [het] noemen 
+B|15| B: [met die poot en dan] [die] omdraaien piramide 
+B|16| B: oké 
+A|17| A: [met] de [poo] 
+A|18| A: [ja] 
+A|19| A: [dat zijn] nummer veertien 
+B|20| B: weten ik niet ik weten niet of [dat] wisselen elk ronde 
+B|21| B: echt 
+B|22| B: jee daar hebben ik niet op letten 
+B|23| B: daar hebben ik echt niet op letten 
+B|24| B: oké ik kunnen [het] nu wel onthouden 
+B|25| B: yes waar staan [die] ? N bij mij 
+A|26| A: dit [zijn] [met] _dat tafel_ 
+A|27| A: [met die] twee [poo] [en] [het] bak erop 
+B|28| B: weer [dat] plank of [dat [tafel] met die] [poo] 
+B|29| B: [en] [die] piramide 
+A|30| A: nieuw 
+A|31| A: _ja dat zijn_ nummer tien 
+B|32| B: [ja] [ja dat zijn] d bij mij 
+A|33| A: [tafel met] de twee [poo] [en] [het] bak 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : ik hebben ja het zijn een soort van tafel of zoiets wat een beetje zo half uitsteken met van die poo
+	Free: Pattern=een, Pattern=het, Pattern=met, Pattern=zijn, Pattern=poo, Pattern=ja, Pattern=tafel, Pattern=die
+	Constrained: 
+Turn ID=1| B | B : een soort van plank
+	Free: Pattern=een
+	Constrained: 
+Turn ID=2| B | B : met poo die zo uitsteken en dan een soort van omdraaien
+	Free: Pattern=poo, Pattern=en dan, Pattern=een, Pattern=met, Pattern=die
+	Constrained: Pattern=en
+Turn ID=3| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=4| B | B : yes
+	Free: 
+	Constrained: 
+Turn ID=5| A | A : ja en met zo'n bak erop
+	Free: Pattern=ja, Pattern=met, Pattern=en
+	Constrained: 
+Turn ID=6| A | A : ja dat zijn nummer zestien
+	Free: Pattern=ja dat zijn
+	Constrained: Pattern=dat zijn, Pattern=zijn, Pattern=ja, Pattern=dat
+Turn ID=7| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=8| B | B : yes dat zijn P
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=9| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=10| A | A : dat tafel
+	Free: Pattern=dat tafel
+	Constrained: Pattern=tafel, Pattern=dat
+Turn ID=11| A | A : met het bak erop
+	Free: Pattern=het, Pattern=met
+	Constrained: 
+Turn ID=12| A | A : nee nee nee die een met het tafel met die poot en dan dat bak erop
+	Free: Pattern=dat, Pattern=een, Pattern=het, Pattern=met, Pattern=met die poot en dan, Pattern=tafel met die, Pattern=die
+	Constrained: Pattern=met die, Pattern=tafel met, Pattern=en dan, Pattern=met, Pattern=en, Pattern=tafel, Pattern=die
+Turn ID=13| B | B : oké ik hebben weer dat soort van tafel
+	Free: Pattern=tafel, Pattern=dat
+	Constrained: 
+Turn ID=14| B | B : zo blijven ik het noemen
+	Free: Pattern=het
+	Constrained: 
+Turn ID=15| B | B : met die poot en dan die omdraaien piramide
+	Free: Pattern=met die poot en dan, Pattern=die
+	Constrained: Pattern=met die, Pattern=en dan, Pattern=met, Pattern=die, Pattern=en
+Turn ID=16| B | B : oké
+	Free: 
+	Constrained: 
+Turn ID=17| A | A : met de poo
+	Free: Pattern=poo, Pattern=met
+	Constrained: 
+Turn ID=18| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=19| A | A : dat zijn nummer veertien
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=20| B | B : weten ik niet ik weten niet of dat wisselen elk ronde
+	Free: Pattern=dat
+	Constrained: 
+Turn ID=21| B | B : echt
+	Free: 
+	Constrained: 
+Turn ID=22| B | B : jee daar hebben ik niet op letten
+	Free: 
+	Constrained: 
+Turn ID=23| B | B : daar hebben ik echt niet op letten
+	Free: 
+	Constrained: 
+Turn ID=24| B | B : oké ik kunnen het nu wel onthouden
+	Free: Pattern=het
+	Constrained: 
+Turn ID=25| B | B : yes waar staan die ? N bij mij
+	Free: Pattern=die
+	Constrained: 
+Turn ID=26| A | A : dit zijn met dat tafel
+	Free: Pattern=dat tafel, Pattern=zijn, Pattern=met
+	Constrained: Pattern=tafel, Pattern=dat
+Turn ID=27| A | A : met die twee poo en het bak erop
+	Free: Pattern=met die, Pattern=poo, Pattern=het, Pattern=en
+	Constrained: Pattern=die, Pattern=met
+Turn ID=28| B | B : weer dat plank of dat tafel met die poo
+	Free: Pattern=tafel met die, Pattern=dat tafel, Pattern=poo, Pattern=dat
+	Constrained: Pattern=tafel met, Pattern=met, Pattern=dat, Pattern=met die, Pattern=tafel, Pattern=die
+Turn ID=29| B | B : en die piramide
+	Free: Pattern=die, Pattern=en
+	Constrained: 
+Turn ID=30| A | A : nieuw
+	Free: 
+	Constrained: 
+Turn ID=31| A | A : ja dat zijn nummer tien
+	Free: Pattern=ja dat zijn
+	Constrained: Pattern=dat zijn, Pattern=zijn, Pattern=ja, Pattern=dat
+Turn ID=32| B | B : ja ja dat zijn d bij mij
+	Free: Pattern=ja dat zijn, Pattern=ja
+	Constrained: Pattern=dat zijn, Pattern=zijn, Pattern=ja, Pattern=dat
+Turn ID=33| A | A : tafel met de twee poo en het bak
+	Free: Pattern=tafel met, Pattern=poo, Pattern=het, Pattern=en
+	Constrained: Pattern=met, Pattern=tafel

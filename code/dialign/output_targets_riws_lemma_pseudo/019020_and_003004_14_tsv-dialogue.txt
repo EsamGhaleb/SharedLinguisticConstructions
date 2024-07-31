@@ -1,0 +1,95 @@
+B|0| B: _ja_ _en_ _aan de voorkant_ _een_ _vierkant_ staaf 
+B|1| B: D 
+A|2| A: ok deze dus _je_ _hebben_ gewoon _weer_ _dat_ beker Standaard Bekervormpje [en] er liggen [een] _bolle_ _bovenop_ 
+A|3| A: _met_ [een] rechthoek [aan de voorkant] recht naar beneden ? [en] twee van _die_ haken _als een_ soort armpjes _aan de zijkant_ 
+A|4| A: [ja] _maar_ _dat_ _zijn_ volgens mij nu omdat ze _dat_ rood rechthoek [vierkant] er omheen _hebben_ zetten _dat_ [de] helft van _het_ plaat er half _zijn_ afgeknipt 
+A|5| A: _maar_ [ja] nee _in_ ieder geval _die_ _zijn_ nu _in_ _dit_ geval _zijn_ hij kort dan _zijn_ _de een_ dus linkerkant _zijn_ lang dan rechts [ja] 
+A|6| A: ok 
+B|7| B: oké _dit zijn_ diegene _met die_ staaf [aan de voorkant] [weer] [met] [dat] bollet [bovenop] 
+B|8| B: we [hebben] hem al [hebben] 
+B|9| B: [met] [ja] _met die_ dinget [aan de zijkant] 
+A|10| A: _ja ja_ [dat] [zijn] vijftien bij mij 
+B|11| B: [ja] [met] [de] [vierkant] statief 
+B|12| B: [de een] pullup ik ik zien [het] wel [als een] [een] basketbal laten [maar] zeggen 
+B|13| B: weten [je] wel [dat] [je] [dat] [bolle] [als] [de] basketbal [in] [het] theekop doen 
+B|14| B: basketbal 
+B|15| B: L 
+B|16| B: [de] basketbal 
+B|17| B: [ja ja] 
+B|18| B: [de] basketbal 
+A|19| A: [dit zijn] [die] [met die] bal [bovenop] [en] [die] rechthoek [aan de voorkant] [met die] twee ongelijk arm 
+A|20| A: [ja ja] [dat] [zijn] nummer zes 
+A|21| A: [dit zijn] [met die] bal [bovenop] rechthoek [voorkant] [en] [die] twee ongelijk arm 
+A|22| A: [ja] [dat] [zijn] nummer drie 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : ja en aan de voorkant een vierkant staaf
+	Free: Pattern=ja, Pattern=een, Pattern=en, Pattern=vierkant, Pattern=aan de voorkant
+	Constrained: Pattern=voorkant, Pattern=de
+Turn ID=1| B | B : D
+	Free: 
+	Constrained: 
+Turn ID=2| A | A : ok deze dus je hebben gewoon weer dat beker Standaard Bekervormpje en er liggen een bolle bovenop
+	Free: Pattern=een, Pattern=hebben, Pattern=bolle, Pattern=en, Pattern=dat, Pattern=bovenop, Pattern=weer, Pattern=je
+	Constrained: 
+Turn ID=3| A | A : met een rechthoek aan de voorkant recht naar beneden ? en twee van die haken als een soort armpjes aan de zijkant
+	Free: Pattern=als een, Pattern=met, Pattern=die, Pattern=en, Pattern=aan de voorkant, Pattern=een, Pattern=aan de zijkant
+	Constrained: Pattern=als, Pattern=een, Pattern=de, Pattern=voorkant
+Turn ID=4| A | A : ja maar dat zijn volgens mij nu omdat ze dat rood rechthoek vierkant er omheen hebben zetten dat de helft van het plaat er half zijn afgeknipt
+	Free: Pattern=dat, Pattern=het, Pattern=hebben, Pattern=vierkant, Pattern=de, Pattern=ja, Pattern=zijn, Pattern=maar
+	Constrained: 
+Turn ID=5| A | A : maar ja nee in ieder geval die zijn nu in dit geval zijn hij kort dan zijn de een dus linkerkant zijn lang dan rechts ja
+	Free: Pattern=ja, Pattern=dit, Pattern=in, Pattern=de een, Pattern=die, Pattern=zijn, Pattern=maar
+	Constrained: Pattern=een, Pattern=de
+Turn ID=6| A | A : ok
+	Free: 
+	Constrained: 
+Turn ID=7| B | B : oké dit zijn diegene met die staaf aan de voorkant weer met dat bollet bovenop
+	Free: Pattern=met, Pattern=dit zijn, Pattern=dat, Pattern=met die, Pattern=bovenop, Pattern=weer, Pattern=aan de voorkant
+	Constrained: Pattern=de, Pattern=voorkant, Pattern=dit, Pattern=met, Pattern=die, Pattern=zijn
+Turn ID=8| B | B : we hebben hem al hebben
+	Free: Pattern=hebben
+	Constrained: 
+Turn ID=9| B | B : met ja met die dinget aan de zijkant
+	Free: Pattern=aan de zijkant, Pattern=met die, Pattern=met, Pattern=ja
+	Constrained: Pattern=de, Pattern=met, Pattern=die
+Turn ID=10| A | A : ja ja dat zijn vijftien bij mij
+	Free: Pattern=ja ja, Pattern=dat, Pattern=zijn
+	Constrained: Pattern=ja
+Turn ID=11| B | B : ja met de vierkant statief
+	Free: Pattern=met, Pattern=de, Pattern=vierkant, Pattern=ja
+	Constrained: 
+Turn ID=12| B | B : de een pullup ik ik zien het wel als een een basketbal laten maar zeggen
+	Free: Pattern=een, Pattern=het, Pattern=als een, Pattern=de een, Pattern=maar
+	Constrained: Pattern=een, Pattern=de, Pattern=als
+Turn ID=13| B | B : weten je wel dat je dat bolle als de basketbal in het theekop doen
+	Free: Pattern=dat, Pattern=de, Pattern=het, Pattern=in, Pattern=als, Pattern=bolle, Pattern=je
+	Constrained: 
+Turn ID=14| B | B : basketbal
+	Free: 
+	Constrained: 
+Turn ID=15| B | B : L
+	Free: 
+	Constrained: 
+Turn ID=16| B | B : de basketbal
+	Free: Pattern=de
+	Constrained: 
+Turn ID=17| B | B : ja ja
+	Free: Pattern=ja ja
+	Constrained: Pattern=ja
+Turn ID=18| B | B : de basketbal
+	Free: Pattern=de
+	Constrained: 
+Turn ID=19| A | A : dit zijn die met die bal bovenop en die rechthoek aan de voorkant met die twee ongelijk arm
+	Free: Pattern=die, Pattern=en, Pattern=aan de voorkant, Pattern=dit zijn, Pattern=met die, Pattern=bovenop
+	Constrained: Pattern=de, Pattern=voorkant, Pattern=dit, Pattern=met, Pattern=die, Pattern=zijn
+Turn ID=20| A | A : ja ja dat zijn nummer zes
+	Free: Pattern=ja ja, Pattern=dat, Pattern=zijn
+	Constrained: Pattern=ja
+Turn ID=21| A | A : dit zijn met die bal bovenop rechthoek voorkant en die twee ongelijk arm
+	Free: Pattern=voorkant, Pattern=die, Pattern=en, Pattern=dit zijn, Pattern=met die, Pattern=bovenop
+	Constrained: Pattern=dit, Pattern=zijn, Pattern=die, Pattern=met
+Turn ID=22| A | A : ja dat zijn nummer drie
+	Free: Pattern=dat, Pattern=zijn, Pattern=ja
+	Constrained: 

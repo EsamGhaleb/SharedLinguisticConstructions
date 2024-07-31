@@ -1,0 +1,147 @@
+A|0| A: er zitten _een _plat_ rond aan de_ rechterkant 
+A|1| A: _plat cirkel_ zegmaar 
+A|2| A: _en_ _aan de_ linkerkant steken _een_ dik _staaf_ uit _die_ _die_ _ja_ beetje dik naar dun lopen zegmaar zo 
+A|3| A: _en_ dan zitten er nog _een soort van_ trompe komen eruit 
+A|4| A: uit _die_ linker _staaf_ 
+A|5| A: of _ja_ veel zo'n _ding_ wat zo gaan 
+A|6| A: _ja_ 
+A|7| A: _ja_ 
+B|8| B: [plat rond aan de] 
+B|9| B: [ja] 
+B|10| B: [en] _met_ _een een_ ster [en] [een] sterrenkijkerachtig [ding] toch 
+B|11| B: [ja] 
+B|12| B: _dat zijn_ bij mij d 
+A|13| A: [ja] 
+A|14| A: _die_ trompetje-achtig 
+A|15| A: wat naar achter schieten 
+A|16| A: [ja] 
+A|17| A: zes 
+B|18| B: deze _hebben_ [een] rechts [van] _het_ figuur _een plat cirkel_ 
+B|19| B: [en] link omschrijven _je_ _het_ als [een soort van] hartjeachtig vorm _met_ [een] sterrenkijker erin 
+B|20| B: [die] spiest [de] har 
+B|21| B: [ja] [ja] [ja] 
+A|22| A: _dit zijn_ [met] [het] trompetter [dat zijn] dan links [hebben] [je] [die] zo'n dik _staaf en_ daar komen [die] trompetter uit [en] [aan de] rechterkant [hebben] [je] nog [een [een] plat cirkel] 
+A|23| A: [ja] 
+A|24| A: [ja] 
+B|25| B: [ja] [ja] [dat zijn] k 
+A|26| A: [ja] ik [hebben] hem 
+A|27| A: veertien 
+B|28| B: [dit zijn] [de] [de] [de] [de] hart Hartjesstaaf [en] [een] verrekijker 
+B|29| B: sterrekijker 
+B|30| B: [dat zijn] vijf 
+B|31| B: [ja] [dat zijn] g 
+A|32| A: [dat] nee [dat] trompetter zeggen maar [aan de] zijkant 
+B|33| B: [de] hartjesvormig [staaf en] [de] sterrenkijker 
+A|34| A: [ja] 
+A|35| A: negen 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : er zitten een plat rond aan de rechterkant
+	Free: Pattern=plat rond aan de, Pattern=een plat
+	Constrained: Pattern=een, Pattern=de, Pattern=aan de
+Turn ID=1| A | A : plat cirkel zegmaar
+	Free: Pattern=plat cirkel
+	Constrained: 
+Turn ID=2| A | A : en aan de linkerkant steken een dik staaf uit die die ja beetje dik naar dun lopen zegmaar zo
+	Free: Pattern=ja, Pattern=staaf, Pattern=aan de, Pattern=een, Pattern=die, Pattern=en
+	Constrained: Pattern=de
+Turn ID=3| A | A : en dan zitten er nog een soort van trompe komen eruit
+	Free: Pattern=een soort van, Pattern=en
+	Constrained: Pattern=een, Pattern=van
+Turn ID=4| A | A : uit die linker staaf
+	Free: Pattern=die, Pattern=staaf
+	Constrained: 
+Turn ID=5| A | A : of ja veel zo'n ding wat zo gaan
+	Free: Pattern=ja, Pattern=ding
+	Constrained: 
+Turn ID=6| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=7| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=8| B | B : plat rond aan de
+	Free: Pattern=plat rond aan de
+	Constrained: Pattern=aan de, Pattern=de
+Turn ID=9| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=10| B | B : en met een een ster en een sterrenkijkerachtig ding toch
+	Free: Pattern=ding, Pattern=een, Pattern=en, Pattern=een een, Pattern=met
+	Constrained: Pattern=een
+Turn ID=11| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=12| B | B : dat zijn bij mij d
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat
+Turn ID=13| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=14| A | A : die trompetje-achtig
+	Free: Pattern=die
+	Constrained: 
+Turn ID=15| A | A : wat naar achter schieten
+	Free: 
+	Constrained: 
+Turn ID=16| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=17| A | A : zes
+	Free: 
+	Constrained: 
+Turn ID=18| B | B : deze hebben een rechts van het figuur een plat cirkel
+	Free: Pattern=een, Pattern=het, Pattern=hebben, Pattern=een plat cirkel, Pattern=van
+	Constrained: Pattern=een plat, Pattern=een, Pattern=plat cirkel
+Turn ID=19| B | B : en link omschrijven je het als een soort van hartjeachtig vorm met een sterrenkijker erin
+	Free: Pattern=een, Pattern=het, Pattern=een soort van, Pattern=met, Pattern=en, Pattern=je
+	Constrained: Pattern=een, Pattern=van
+Turn ID=20| B | B : die spiest de har
+	Free: Pattern=die, Pattern=de
+	Constrained: 
+Turn ID=21| B | B : ja ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=22| A | A : dit zijn met het trompetter dat zijn dan links hebben je die zo'n dik staaf en daar komen die trompetter uit en aan de rechterkant hebben je nog een een plat cirkel
+	Free: Pattern=dat zijn, Pattern=aan de, Pattern=het, Pattern=hebben, Pattern=staaf en, Pattern=die, Pattern=een plat cirkel, Pattern=en, Pattern=je, Pattern=dit zijn, Pattern=een een, Pattern=met
+	Constrained: Pattern=dat, Pattern=de, Pattern=staaf, Pattern=een plat, Pattern=een, Pattern=plat cirkel, Pattern=en
+Turn ID=23| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=24| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=25| B | B : ja ja dat zijn k
+	Free: Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=dat
+Turn ID=26| A | A : ja ik hebben hem
+	Free: Pattern=hebben, Pattern=ja
+	Constrained: 
+Turn ID=27| A | A : veertien
+	Free: 
+	Constrained: 
+Turn ID=28| B | B : dit zijn de de de de hart Hartjesstaaf en een verrekijker
+	Free: Pattern=dit zijn, Pattern=een, Pattern=en, Pattern=de
+	Constrained: 
+Turn ID=29| B | B : sterrekijker
+	Free: 
+	Constrained: 
+Turn ID=30| B | B : dat zijn vijf
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat
+Turn ID=31| B | B : ja dat zijn g
+	Free: Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=dat
+Turn ID=32| A | A : dat nee dat trompetter zeggen maar aan de zijkant
+	Free: Pattern=aan de, Pattern=dat
+	Constrained: Pattern=de
+Turn ID=33| B | B : de hartjesvormig staaf en de sterrenkijker
+	Free: Pattern=staaf en, Pattern=de
+	Constrained: Pattern=staaf, Pattern=en
+Turn ID=34| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=35| A | A : negen
+	Free: 
+	Constrained: 

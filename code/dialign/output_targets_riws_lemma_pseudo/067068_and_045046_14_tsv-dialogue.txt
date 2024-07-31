@@ -1,0 +1,119 @@
+B|0| B: _ja_ _ik_ weten _welk_ je bedoelen 
+B|1| B: D 
+A|2| A: [ja] nu hebben [ik] deze [ja] ook _weer_ vier _ding_ hij hebben _een_ _een_ rond _bal bovenop_ 
+A|3| A: _en_ _een_ langwerpig staaf ervoor 
+A|4| A: _en_ _twee_ soort van hand _aan de_ zijkant 
+A|5| A: [ja] 
+B|6| B: dit _zijn_ _met_ [een] [bal] bovenaan [en] _die_ [twee] _armp zo_ [en] dan _dat_ [ding] [aan de] voorkant 
+B|7| B: [ja] 
+A|8| A: [ja] 
+A|9| A: we [zijn] nu allemaal steeds we we [zijn] nu op één zes denken [ik] 
+A|10| A: want ze [zijn] nu al figuur [zijn] nu van plek wisselen 
+A|11| A: dus 
+A|12| A: [ja] 
+A|13| A: [en] volgens mij doen we het zes keer 
+A|14| A: [ja] [dat] [zijn] nummer vijftien 
+B|15| B: [ja] [ik] weten _welk_ je bedoelen 
+B|16| B: L 
+B|17| B: dit [zijn] [weer] _met die_ [bal bovenop] [en] _die_ pilaar [en] [de] [twee] _armp_ 
+A|18| A: [ik] hebben [die] één [met die] [armp zo] [bal] erbovenop balk ervoor 
+A|19| A: dus niet [die] [met die] [armp] [met die] stomp eraan maar veel [die] _dun armpjes en_ [een] rond [bal] erbovenop 
+A|20| A: [ja] [en] [een] balk echt 
+B|21| B: [ja] 
+B|22| B: waar [zijn] [die] 
+B|23| B: J 
+A|24| A: [welk] hebben [ja] [ja] zes 
+B|25| B: dit [zijn] [weer] [met] [dat] bollet [bovenop] [en] [die] [twee] [dun armpjes en] [de] pilaar 
+A|26| A: [twee] van [die] klein [armpjes] [bal] erop balk ervoor 
+A|27| A: [ja] [de] [bal] erbovenop [en] zo'n balk ervoor 
+A|28| A: nummer drie 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : ja ik weten welk je bedoelen
+	Free: Pattern=ik, Pattern=ja, Pattern=welk
+	Constrained: 
+Turn ID=1| B | B : D
+	Free: 
+	Constrained: 
+Turn ID=2| A | A : ja nu hebben ik deze ja ook weer vier ding hij hebben een een rond bal bovenop
+	Free: Pattern=ja, Pattern=ding, Pattern=een, Pattern=ik, Pattern=bal bovenop, Pattern=weer
+	Constrained: Pattern=bovenop, Pattern=bal
+Turn ID=3| A | A : en een langwerpig staaf ervoor
+	Free: Pattern=een, Pattern=en
+	Constrained: 
+Turn ID=4| A | A : en twee soort van hand aan de zijkant
+	Free: Pattern=aan de, Pattern=en, Pattern=twee
+	Constrained: Pattern=de
+Turn ID=5| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=6| B | B : dit zijn met een bal bovenaan en die twee armp zo en dan dat ding aan de voorkant
+	Free: Pattern=dat, Pattern=armp zo, Pattern=aan de, Pattern=ding, Pattern=een, Pattern=met, Pattern=die, Pattern=en, Pattern=zijn, Pattern=twee, Pattern=bal
+	Constrained: Pattern=armp, Pattern=de
+Turn ID=7| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=8| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=9| A | A : we zijn nu allemaal steeds we we zijn nu op één zes denken ik
+	Free: Pattern=ik, Pattern=zijn
+	Constrained: 
+Turn ID=10| A | A : want ze zijn nu al figuur zijn nu van plek wisselen
+	Free: Pattern=zijn
+	Constrained: 
+Turn ID=11| A | A : dus
+	Free: 
+	Constrained: 
+Turn ID=12| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=13| A | A : en volgens mij doen we het zes keer
+	Free: Pattern=en
+	Constrained: 
+Turn ID=14| A | A : ja dat zijn nummer vijftien
+	Free: Pattern=dat, Pattern=ja, Pattern=zijn
+	Constrained: 
+Turn ID=15| B | B : ja ik weten welk je bedoelen
+	Free: Pattern=ik, Pattern=ja, Pattern=welk
+	Constrained: 
+Turn ID=16| B | B : L
+	Free: 
+	Constrained: 
+Turn ID=17| B | B : dit zijn weer met die bal bovenop en die pilaar en de twee armp
+	Free: Pattern=met die, Pattern=twee, Pattern=de, Pattern=armp, Pattern=die, Pattern=zijn, Pattern=weer, Pattern=en, Pattern=bal bovenop
+	Constrained: Pattern=bovenop, Pattern=bal, Pattern=met, Pattern=die
+Turn ID=18| A | A : ik hebben die één met die armp zo bal erbovenop balk ervoor
+	Free: Pattern=met die, Pattern=bal, Pattern=armp zo, Pattern=die, Pattern=ik
+	Constrained: Pattern=armp, Pattern=met, Pattern=die
+Turn ID=19| A | A : dus niet die met die armp met die stomp eraan maar veel die dun armpjes en een rond bal erbovenop
+	Free: Pattern=met die, Pattern=bal, Pattern=een, Pattern=armp, Pattern=dun armpjes en, Pattern=die
+	Constrained: Pattern=armpjes, Pattern=met, Pattern=die, Pattern=en
+Turn ID=20| A | A : ja en een balk echt
+	Free: Pattern=een, Pattern=en, Pattern=ja
+	Constrained: 
+Turn ID=21| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=22| B | B : waar zijn die
+	Free: Pattern=zijn, Pattern=die
+	Constrained: 
+Turn ID=23| B | B : J
+	Free: 
+	Constrained: 
+Turn ID=24| A | A : welk hebben ja ja zes
+	Free: Pattern=ja, Pattern=welk
+	Constrained: 
+Turn ID=25| B | B : dit zijn weer met dat bollet bovenop en die twee dun armpjes en de pilaar
+	Free: Pattern=twee, Pattern=de, Pattern=dun armpjes en, Pattern=met, Pattern=die, Pattern=en, Pattern=zijn, Pattern=weer, Pattern=dat, Pattern=bovenop
+	Constrained: Pattern=armpjes, Pattern=en
+Turn ID=26| A | A : twee van die klein armpjes bal erop balk ervoor
+	Free: Pattern=armpjes, Pattern=bal, Pattern=twee, Pattern=die
+	Constrained: 
+Turn ID=27| A | A : ja de bal erbovenop en zo'n balk ervoor
+	Free: Pattern=en, Pattern=ja, Pattern=de, Pattern=bal
+	Constrained: 
+Turn ID=28| A | A : nummer drie
+	Free: 
+	Constrained: 

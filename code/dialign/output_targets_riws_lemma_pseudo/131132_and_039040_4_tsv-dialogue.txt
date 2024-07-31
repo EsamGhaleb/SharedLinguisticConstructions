@@ -1,0 +1,115 @@
+B|0| B: met ook zo'n _soort van_ uitlaa _aan de_ onderkant _of_ 
+B|1| B: _ja_ _dan _hebben_ _ik_ hem_ _dat zijn_ I 
+B|2| B: _ik_ moeten altijd _even_ kijken _of_ het _een_ I _of_ _een_ L _zijn_ 
+B|3| B: _maar_ het _zijn_ _een_ I 
+A|4| A: [ja] dit [zijn] [de] [de] vogel [of] [de] Eend 
+A|5| A: zo zo _vinden_ [ik hem] nee ? [hebben] _je_ [dat] nooit ? _oké_ 
+A|6| A: hij [hebben] [aan de] rechterkant [hebben] die zeggen [maar] twee twee balk onder elkaar 
+A|7| A: en [dan hebben] die [een] hanenkam 
+A|8| A: sorry 
+A|9| A: [ja] 
+A|10| A: [ja] en [dan hebben] die [een] hanenkam en [dan hebben] die dus zeggen [maar] [aan de] linkerkant [hebben] die [een] [een] [soort] staart zeggen [maar] [een] floeps 
+A|11| A: en hij [hebben] [dan] twee [een] [soort van] vleugel 
+A|12| A: _oké_ 
+B|13| B: het [zijn] [een] beetje [een] het wat jij [een] stekkerding stopcontact [of] iets [vinden] 
+B|14| B: nou _dat zijn_ [hem] 
+B|15| B: [ik] weten welk [je] bedoelen _even_ loeren [ja] M 
+A|16| A: ah leuk 
+A|17| A: [even] zoeken ah [ja] 
+A|18| A: [dat zijn] nummer twee 
+B|19| B: stekker 
+A|20| A: [de] vogel [hebben ik] 
+B|21| B: [oké] 
+B|22| B: [ja] [vinden] F 
+B|23| B: het [zijn] [een] stekker 
+A|24| A: [ja] 
+A|25| A: nummer negen 
+A|26| A: dus [ik] [hebben] [de] vogel 
+A|27| A: Ah nummer zes 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : met ook zo'n soort van uitlaa aan de onderkant of
+	Free: Pattern=aan de, Pattern=soort van, Pattern=of
+	Constrained: Pattern=de, Pattern=soort
+Turn ID=1| B | B : ja dan hebben ik hem dat zijn I
+	Free: Pattern=dat zijn, Pattern=ik hem, Pattern=ja, Pattern=hebben ik, Pattern=dan hebben
+	Constrained: Pattern=dat, Pattern=dan, Pattern=hebben, Pattern=ik, Pattern=zijn, Pattern=hem
+Turn ID=2| B | B : ik moeten altijd even kijken of het een I of een L zijn
+	Free: Pattern=of, Pattern=even, Pattern=een, Pattern=ik, Pattern=zijn
+	Constrained: 
+Turn ID=3| B | B : maar het zijn een I
+	Free: Pattern=zijn, Pattern=een, Pattern=maar
+	Constrained: 
+Turn ID=4| A | A : ja dit zijn de de vogel of de Eend
+	Free: Pattern=zijn, Pattern=de, Pattern=ja, Pattern=of
+	Constrained: 
+Turn ID=5| A | A : zo zo vinden ik hem nee ? hebben je dat nooit ? oké
+	Free: Pattern=dat, Pattern=ik hem, Pattern=vinden, Pattern=hebben, Pattern=oké, Pattern=je
+	Constrained: Pattern=ik, Pattern=hem
+Turn ID=6| A | A : hij hebben aan de rechterkant hebben die zeggen maar twee twee balk onder elkaar
+	Free: Pattern=aan de, Pattern=maar, Pattern=hebben
+	Constrained: Pattern=de
+Turn ID=7| A | A : en dan hebben die een hanenkam
+	Free: Pattern=dan hebben, Pattern=een
+	Constrained: Pattern=dan, Pattern=hebben
+Turn ID=8| A | A : sorry
+	Free: 
+	Constrained: 
+Turn ID=9| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=10| A | A : ja en dan hebben die een hanenkam en dan hebben die dus zeggen maar aan de linkerkant hebben die een een soort staart zeggen maar een floeps
+	Free: Pattern=soort, Pattern=ja, Pattern=aan de, Pattern=een, Pattern=hebben, Pattern=dan hebben, Pattern=maar
+	Constrained: Pattern=dan, Pattern=de, Pattern=hebben
+Turn ID=11| A | A : en hij hebben dan twee een soort van vleugel
+	Free: Pattern=soort van, Pattern=dan, Pattern=een, Pattern=hebben
+	Constrained: Pattern=soort
+Turn ID=12| A | A : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=13| B | B : het zijn een beetje een het wat jij een stekkerding stopcontact of iets vinden
+	Free: Pattern=vinden, Pattern=zijn, Pattern=een, Pattern=of
+	Constrained: 
+Turn ID=14| B | B : nou dat zijn hem
+	Free: Pattern=dat zijn, Pattern=hem
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=15| B | B : ik weten welk je bedoelen even loeren ja M
+	Free: Pattern=even, Pattern=ik, Pattern=je, Pattern=ja
+	Constrained: 
+Turn ID=16| A | A : ah leuk
+	Free: 
+	Constrained: 
+Turn ID=17| A | A : even zoeken ah ja
+	Free: Pattern=even, Pattern=ja
+	Constrained: 
+Turn ID=18| A | A : dat zijn nummer twee
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=19| B | B : stekker
+	Free: 
+	Constrained: 
+Turn ID=20| A | A : de vogel hebben ik
+	Free: Pattern=hebben ik, Pattern=de
+	Constrained: Pattern=ik, Pattern=hebben
+Turn ID=21| B | B : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=22| B | B : ja vinden F
+	Free: Pattern=vinden, Pattern=ja
+	Constrained: 
+Turn ID=23| B | B : het zijn een stekker
+	Free: Pattern=zijn, Pattern=een
+	Constrained: 
+Turn ID=24| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=25| A | A : nummer negen
+	Free: 
+	Constrained: 
+Turn ID=26| A | A : dus ik hebben de vogel
+	Free: Pattern=de, Pattern=ik, Pattern=hebben
+	Constrained: 
+Turn ID=27| A | A : Ah nummer zes
+	Free: 
+	Constrained: 

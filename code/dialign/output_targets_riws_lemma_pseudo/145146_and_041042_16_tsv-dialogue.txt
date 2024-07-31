@@ -1,0 +1,191 @@
+B|0| B: kunnen _je_ hem _nog_ _een_ keer omschrijven 
+B|1| B: _ja_ 
+A|2| A: _oké_ ik _hebben_ _zo'n_ lang spriet omhoog 
+A|3| A: want [je] _hebben_ _dat_ basisvormpje weer _en dan_ _hebben_ ik _zo'n_ lang spriet omhoog 
+A|4| A: _die_ _een beetje_ _zo_ gaan 
+A|5| A: hij _hebben_ 
+A|6| A: [ja] 
+A|7| A: _en_ hij _hebben_ _ook_ _zo'n_ soort neus 
+B|8| B: _ja ja_ _dus_ [een beetje] [zo'n] [zo'n] worm [die] van achter uit [die] appel erin komen 
+A|9| A: [ja] 
+B|10| B: kunnen _je dat_ [zo] zien 
+B|11| B: zeggen maar [zo'n] [beetje] [zo'n] [zo'n] kronkelstaar _aan de_ achterkant [en dan] _twee_ van _die kegel_ boven 
+A|12| A: [ja ja] 
+B|13| B: _en aan de_ voorkant worden _het_ [zo'n] _groot_ _vierkant_ _met_ kleintje erachter 
+A|14| A: [en] hij _hebben_ [aan de] ander kant _hebben_ [die] _ook_ [nog] [zo'n] uitsteeksel [een beetje] [ja ja] precies 
+B|15| B: [oké] [dan] _zijn_ [dat] E 
+A|16| A: [ja] 
+A|17| A: [ja] 
+A|18| A: [en aan de] ander kant _hebben_ [je dat] raar armp 
+A|19| A: [ja] 
+A|20| A: [oké] _dat zijn_ elf 
+B|21| B: [oké] nu _hebben we_ deze _hebben we_ [ook] al [hebben] _met_ [dat] wormp [dat] achterin [die] pot komen 
+B|22| B: _met_ [dat] _vierkant_ [dat] zeggen maar klein vierkan worden dicht naar [de] pot toe 
+B|23| B: [ja] 
+A|24| A: ik [hebben] weer _die met_ [die] lang neus [die] [twee] kegelt [dus] [die] lang neus als kegeltje [en] [het] [de] bovenkant [een] kegeltje [die] uitsteken 
+A|25| A: [en dan] [aan] één kant [hebben] ik weer [die] blok allemaal als armpje 
+A|26| A: [en] [dat] ander 
+A|27| A: _bij_ mij _staan_ [die] rechts 
+A|28| A: [aan de] rechterkant 
+A|29| A: [een beetje] in [het] midden 
+A|30| A: [ja] 
+B|31| B: [dat zijn] J 
+B|32| B: dit [zijn] [die met] [dat] [die] pot [en] _die vierkant_ voor [en] [die] worden steeds klein _die vierkant_ [aan de] voorkant [en dan] [staan] er [dat] wormp zeggen maar [bij] [zijn] rug 
+B|33| B: [ja] 
+A|34| A: welk [twee] ding 
+A|35| A: [ja] [die] [ja] 
+A|36| A: [die] [twee] bowlingkegel [en dan] [die] [die vierkant] [en] [dat] raar armpje [ja] 
+A|37| A: [dat zijn] negen 
+B|38| B: [ja] 
+B|39| B: [dat zijn] B 
+B|40| B: dit [zijn] [met] [dat] wormp achterin 
+A|41| A: ik [hebben] [die] [groot] 
+A|42| A: [ja] [die met] [die kegel] 
+A|43| A: [dus] [die] [hebben we] net 
+A|44| A: [ja] 
+A|45| A: [oké] 
+A|46| A: [ja] [zijn] nummer vier 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : kunnen je hem nog een keer omschrijven
+	Free: Pattern=je, Pattern=een, Pattern=nog
+	Constrained: 
+Turn ID=1| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=2| A | A : oké ik hebben zo'n lang spriet omhoog
+	Free: Pattern=oké, Pattern=zo'n, Pattern=hebben
+	Constrained: 
+Turn ID=3| A | A : want je hebben dat basisvormpje weer en dan hebben ik zo'n lang spriet omhoog
+	Free: Pattern=dat, Pattern=zo'n, Pattern=en dan, Pattern=hebben, Pattern=je
+	Constrained: Pattern=dan, Pattern=en
+Turn ID=4| A | A : die een beetje zo gaan
+	Free: Pattern=een beetje, Pattern=zo, Pattern=die
+	Constrained: Pattern=een, Pattern=beetje
+Turn ID=5| A | A : hij hebben
+	Free: Pattern=hebben
+	Constrained: 
+Turn ID=6| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=7| A | A : en hij hebben ook zo'n soort neus
+	Free: Pattern=ook, Pattern=zo'n, Pattern=hebben, Pattern=en
+	Constrained: 
+Turn ID=8| B | B : ja ja dus een beetje zo'n zo'n worm die van achter uit die appel erin komen
+	Free: Pattern=zo'n, Pattern=die, Pattern=een beetje, Pattern=dus, Pattern=ja ja
+	Constrained: Pattern=ja, Pattern=een, Pattern=beetje
+Turn ID=9| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=10| B | B : kunnen je dat zo zien
+	Free: Pattern=je dat, Pattern=zo
+	Constrained: Pattern=dat, Pattern=je
+Turn ID=11| B | B : zeggen maar zo'n beetje zo'n zo'n kronkelstaar aan de achterkant en dan twee van die kegel boven
+	Free: Pattern=en dan, Pattern=aan de, Pattern=beetje, Pattern=die kegel, Pattern=zo'n, Pattern=twee
+	Constrained: Pattern=dan, Pattern=die, Pattern=en, Pattern=de, Pattern=aan
+Turn ID=12| A | A : ja ja
+	Free: Pattern=ja ja
+	Constrained: Pattern=ja
+Turn ID=13| B | B : en aan de voorkant worden het zo'n groot vierkant met kleintje erachter
+	Free: Pattern=zo'n, Pattern=het, Pattern=groot, Pattern=met, Pattern=vierkant, Pattern=en aan de
+	Constrained: Pattern=aan de, Pattern=aan, Pattern=en, Pattern=de
+Turn ID=14| A | A : en hij hebben aan de ander kant hebben die ook nog zo'n uitsteeksel een beetje ja ja precies
+	Free: Pattern=nog, Pattern=zo'n, Pattern=ja ja, Pattern=hebben, Pattern=die, Pattern=en, Pattern=een beetje, Pattern=aan de, Pattern=ook
+	Constrained: Pattern=beetje, Pattern=een, Pattern=de, Pattern=aan, Pattern=ja
+Turn ID=15| B | B : oké dan zijn dat E
+	Free: Pattern=dat, Pattern=dan, Pattern=oké, Pattern=zijn
+	Constrained: 
+Turn ID=16| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=17| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=18| A | A : en aan de ander kant hebben je dat raar armp
+	Free: Pattern=en aan de, Pattern=je dat, Pattern=hebben
+	Constrained: Pattern=dat, Pattern=aan de, Pattern=en, Pattern=je, Pattern=de, Pattern=aan
+Turn ID=19| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=20| A | A : oké dat zijn elf
+	Free: Pattern=dat zijn, Pattern=oké
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=21| B | B : oké nu hebben we deze hebben we ook al hebben met dat wormp dat achterin die pot komen
+	Free: Pattern=dat, Pattern=ook, Pattern=hebben, Pattern=met, Pattern=die, Pattern=oké, Pattern=hebben we
+	Constrained: Pattern=hebben
+Turn ID=22| B | B : met dat vierkant dat zeggen maar klein vierkan worden dicht naar de pot toe
+	Free: Pattern=dat, Pattern=vierkant, Pattern=met, Pattern=de
+	Constrained: 
+Turn ID=23| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=24| A | A : ik hebben weer die met die lang neus die twee kegelt dus die lang neus als kegeltje en het de bovenkant een kegeltje die uitsteken
+	Free: Pattern=twee, Pattern=een, Pattern=het, Pattern=hebben, Pattern=die met, Pattern=die, Pattern=en, Pattern=de, Pattern=dus
+	Constrained: Pattern=die, Pattern=met
+Turn ID=25| A | A : en dan aan één kant hebben ik weer die blok allemaal als armpje
+	Free: Pattern=en dan, Pattern=die, Pattern=hebben, Pattern=aan
+	Constrained: Pattern=dan, Pattern=en
+Turn ID=26| A | A : en dat ander
+	Free: Pattern=dat, Pattern=en
+	Constrained: 
+Turn ID=27| A | A : bij mij staan die rechts
+	Free: Pattern=die, Pattern=bij, Pattern=staan
+	Constrained: 
+Turn ID=28| A | A : aan de rechterkant
+	Free: Pattern=aan de
+	Constrained: Pattern=aan, Pattern=de
+Turn ID=29| A | A : een beetje in het midden
+	Free: Pattern=een beetje, Pattern=het
+	Constrained: Pattern=een, Pattern=beetje
+Turn ID=30| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=31| B | B : dat zijn J
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=32| B | B : dit zijn die met dat die pot en die vierkant voor en die worden steeds klein die vierkant aan de voorkant en dan staan er dat wormp zeggen maar bij zijn rug
+	Free: Pattern=dat, Pattern=die vierkant, Pattern=en dan, Pattern=aan de, Pattern=staan, Pattern=die met, Pattern=die, Pattern=bij, Pattern=en, Pattern=zijn
+	Constrained: Pattern=dan, Pattern=met, Pattern=die, Pattern=en, Pattern=vierkant, Pattern=de, Pattern=aan
+Turn ID=33| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=34| A | A : welk twee ding
+	Free: Pattern=twee
+	Constrained: 
+Turn ID=35| A | A : ja die ja
+	Free: Pattern=die, Pattern=ja
+	Constrained: 
+Turn ID=36| A | A : die twee bowlingkegel en dan die die vierkant en dat raar armpje ja
+	Free: Pattern=dat, Pattern=die vierkant, Pattern=twee, Pattern=ja, Pattern=en dan, Pattern=die, Pattern=en
+	Constrained: Pattern=dan, Pattern=vierkant, Pattern=die, Pattern=en
+Turn ID=37| A | A : dat zijn negen
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=38| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=39| B | B : dat zijn B
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=40| B | B : dit zijn met dat wormp achterin
+	Free: Pattern=dat, Pattern=zijn, Pattern=met
+	Constrained: 
+Turn ID=41| A | A : ik hebben die groot
+	Free: Pattern=die, Pattern=hebben, Pattern=groot
+	Constrained: 
+Turn ID=42| A | A : ja die met die kegel
+	Free: Pattern=die kegel, Pattern=die met, Pattern=ja
+	Constrained: Pattern=die, Pattern=met
+Turn ID=43| A | A : dus die hebben we net
+	Free: Pattern=hebben we, Pattern=die, Pattern=dus
+	Constrained: Pattern=hebben
+Turn ID=44| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=45| A | A : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=46| A | A : ja zijn nummer vier
+	Free: Pattern=zijn, Pattern=ja
+	Constrained: 

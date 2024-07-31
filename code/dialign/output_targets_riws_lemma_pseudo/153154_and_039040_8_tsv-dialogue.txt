@@ -1,0 +1,143 @@
+B|0| B: denken _ik_ ook 
+B|1| B: _zijn dat_ _wat ik_ _een beetje_ _op_ _een_ olifant _vinden_ lijken _met_ ook _van die_ driehoeken erbovenop _en dan_ 
+B|2| B: nou misschien lijken _het_ 
+B|3| B: _ja_ _dat zijn_ _het_ wel 
+B|4| B: nou _ja_ 
+B|5| B: nou _het_ lijken niet _op_ _een_ olifant _ik_ denken _eerst_ _een_ kat _zeggen_ _maar_ _met_ _zo'n_ 
+B|6| B: _het zijn_ _hem_ in ieder geval 
+A|7| A: dit [vinden] [ik] zelf [een beetje] [een] apart [ik] _hebben_ [het] idee [dat] er [een] soort [van] toffeesnoep snoepjespapier [op] [zijn] 
+A|8| A: [op] [zijn] hoofd _zitten_ [en dan] _zitten_ er [een] soort [van] Staafneus [die] eruit komen _aan de onderkant_ _zitten_ er [een] soort [van] [ja] [wat] [zijn dat] ? [een] soort [van] ding [wat] eruit komen [ja] 
+A|9| A: [een] [een] [een] haak of zo of iets 
+A|10| A: [maar] laten we [eerst] _met de_ bovenkant beginnen _de_ bovenkant [zijn] dus [zijn] dus twee [van die] vierkant [die] zo tegen elkaar _aan_ _zitten_ _waar_ [dan] [een] soort [van] snoeppapierwrapping uit komen 
+A|11| A: zo zien [ik] _het [een_ beetje] 
+A|12| A: snapen _je_ [wat ik] daarmee bedoelen te [zeggen] [een] soort toffee 
+A|13| A: [ja] [ja] [maar] hij _hebben_ _aan de_ [maar] [dat] gaan naar voren toe 
+A|14| A: [ja] [en dan] _hebben die_ [zo'n] soort [van] staaf naar voren toe 
+A|15| A: [en dan] _aan de_ linker of _aan de_ rechterkant _hebben die_ [zo'n] soort [van] arm of iets 
+A|16| A: [ja] [en] _aan de_ bovenkant _zitten_ dus [dat] soort [van] snoeppapier 
+A|17| A: [het zijn] [een beetje] alsof _je_ trekken [en dan] trek _je_ [hem] zo uit elkaar 
+B|18| B: [het _zijn] die_ [met de] dinge [aan de onderkant] waarvan [ik] [vinden] [dat] [het een] olifant [zijn] [maar] [wat] bij nad inzien niet [op] [een] olifant lijken 
+B|19| B: [ja] hier [hebben _die] een_ stok 
+B|20| B: als [je] [het] interpreteren als [een] mens 
+A|21| A: [ja] [ja] [ja] [ik] weten [hem] [ik] weten [hem] 
+A|22| A: [dat zijn] nummer negen 
+B|23| B: [waar] _zijn die_ 
+B|24| B: [ja] H 
+B|25| B: [het _zijn] die_ olifant 
+B|26| B: [wat ik] [een] olifant [vinden] 
+A|27| A: dit [zijn [die] een] [met] [die] snoep wrap [met] [die] toffee [aan de] bovenkant 
+A|28| A: [ja] [met] daaronder [zo'n] raar uitstulpink 
+B|29| B: D 
+A|30| A: [ja] [ik] zien [hem] 
+A|31| A: toffee [zijn] nummer elf 
+B|32| B: [het zijn] [de] olifant [die] [zitten] bij mij 
+A|33| A: [die een] [met] [die] toffee [op] [zijn] hoofd 
+A|34| A: [ja] nummer twee 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : denken ik ook
+	Free: Pattern=ik
+	Constrained: 
+Turn ID=1| B | B : zijn dat wat ik een beetje op een olifant vinden lijken met ook van die driehoeken erbovenop en dan
+	Free: Pattern=vinden, Pattern=en dan, Pattern=op, Pattern=een, Pattern=met, Pattern=een beetje, Pattern=zijn dat, Pattern=van die, Pattern=wat ik
+	Constrained: Pattern=dat, Pattern=dan, Pattern=een, Pattern=die, Pattern=wat, Pattern=ik, Pattern=zijn, Pattern=van, Pattern=en
+Turn ID=2| B | B : nou misschien lijken het
+	Free: Pattern=het
+	Constrained: 
+Turn ID=3| B | B : ja dat zijn het wel
+	Free: Pattern=dat zijn, Pattern=ja, Pattern=het
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=4| B | B : nou ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=5| B | B : nou het lijken niet op een olifant ik denken eerst een kat zeggen maar met zo'n
+	Free: Pattern=zo'n, Pattern=op, Pattern=een, Pattern=het, Pattern=zeggen, Pattern=met, Pattern=maar, Pattern=eerst, Pattern=ik
+	Constrained: 
+Turn ID=6| B | B : het zijn hem in ieder geval
+	Free: Pattern=het zijn, Pattern=hem
+	Constrained: Pattern=zijn, Pattern=het
+Turn ID=7| A | A : dit vinden ik zelf een beetje een apart ik hebben het idee dat er een soort van toffeesnoep snoepjespapier op zijn
+	Free: Pattern=dat, Pattern=vinden, Pattern=op, Pattern=een, Pattern=het, Pattern=hebben, Pattern=ik, Pattern=van, Pattern=zijn, Pattern=een beetje
+	Constrained: Pattern=een
+Turn ID=8| A | A : op zijn hoofd zitten en dan zitten er een soort van Staafneus die eruit komen aan de onderkant zitten er een soort van ja wat zijn dat ? een soort van ding wat eruit komen ja
+	Free: Pattern=ja, Pattern=en dan, Pattern=op, Pattern=een, Pattern=aan de onderkant, Pattern=wat, Pattern=van, Pattern=zijn, Pattern=zijn dat, Pattern=die, Pattern=zitten
+	Constrained: Pattern=dat, Pattern=aan de, Pattern=dan, Pattern=en, Pattern=zijn, Pattern=de, Pattern=aan
+Turn ID=9| A | A : een een een haak of zo of iets
+	Free: Pattern=een
+	Constrained: 
+Turn ID=10| A | A : maar laten we eerst met de bovenkant beginnen de bovenkant zijn dus zijn dus twee van die vierkant die zo tegen elkaar aan zitten waar dan een soort van snoeppapierwrapping uit komen
+	Free: Pattern=waar, Pattern=dan, Pattern=een, Pattern=eerst, Pattern=de, Pattern=met de, Pattern=aan, Pattern=die, Pattern=zitten, Pattern=van, Pattern=van die, Pattern=zijn, Pattern=maar
+	Constrained: Pattern=die, Pattern=de, Pattern=met, Pattern=van
+Turn ID=11| A | A : zo zien ik het een beetje
+	Free: Pattern=een beetje, Pattern=het een, Pattern=ik
+	Constrained: Pattern=een, Pattern=het
+Turn ID=12| A | A : snapen je wat ik daarmee bedoelen te zeggen een soort toffee
+	Free: Pattern=wat ik, Pattern=een, Pattern=je, Pattern=zeggen
+	Constrained: Pattern=ik, Pattern=wat
+Turn ID=13| A | A : ja ja maar hij hebben aan de maar dat gaan naar voren toe
+	Free: Pattern=dat, Pattern=ja, Pattern=aan de, Pattern=hebben, Pattern=maar
+	Constrained: Pattern=de, Pattern=aan
+Turn ID=14| A | A : ja en dan hebben die zo'n soort van staaf naar voren toe
+	Free: Pattern=zo'n, Pattern=ja, Pattern=en dan, Pattern=van, Pattern=hebben die
+	Constrained: Pattern=dan, Pattern=die, Pattern=hebben, Pattern=en
+Turn ID=15| A | A : en dan aan de linker of aan de rechterkant hebben die zo'n soort van arm of iets
+	Free: Pattern=zo'n, Pattern=en dan, Pattern=aan de, Pattern=van, Pattern=hebben die
+	Constrained: Pattern=dan, Pattern=hebben, Pattern=die, Pattern=en, Pattern=de, Pattern=aan
+Turn ID=16| A | A : ja en aan de bovenkant zitten dus dat soort van snoeppapier
+	Free: Pattern=dat, Pattern=ja, Pattern=aan de, Pattern=zitten, Pattern=van, Pattern=en
+	Constrained: Pattern=de, Pattern=aan
+Turn ID=17| A | A : het zijn een beetje alsof je trekken en dan trek je hem zo uit elkaar
+	Free: Pattern=en dan, Pattern=het zijn, Pattern=hem, Pattern=een beetje, Pattern=je
+	Constrained: Pattern=dan, Pattern=een, Pattern=het, Pattern=en, Pattern=zijn
+Turn ID=18| B | B : het zijn die met de dinge aan de onderkant waarvan ik vinden dat het een olifant zijn maar wat bij nad inzien niet op een olifant lijken
+	Free: Pattern=het een, Pattern=dat, Pattern=op, Pattern=een, Pattern=zijn die, Pattern=aan de onderkant, Pattern=het zijn, Pattern=wat, Pattern=ik, Pattern=met de, Pattern=vinden, Pattern=zijn, Pattern=maar
+	Constrained: Pattern=aan de, Pattern=een, Pattern=het, Pattern=met, Pattern=die, Pattern=zijn, Pattern=de, Pattern=aan
+Turn ID=19| B | B : ja hier hebben die een stok
+	Free: Pattern=hebben die, Pattern=die een, Pattern=ja
+	Constrained: Pattern=een, Pattern=die, Pattern=hebben
+Turn ID=20| B | B : als je het interpreteren als een mens
+	Free: Pattern=een, Pattern=je, Pattern=het
+	Constrained: 
+Turn ID=21| A | A : ja ja ja ik weten hem ik weten hem
+	Free: Pattern=ja, Pattern=hem, Pattern=ik
+	Constrained: 
+Turn ID=22| A | A : dat zijn nummer negen
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=23| B | B : waar zijn die
+	Free: Pattern=zijn die, Pattern=waar
+	Constrained: Pattern=zijn, Pattern=die
+Turn ID=24| B | B : ja H
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=25| B | B : het zijn die olifant
+	Free: Pattern=het zijn, Pattern=zijn die
+	Constrained: Pattern=zijn, Pattern=die, Pattern=het
+Turn ID=26| B | B : wat ik een olifant vinden
+	Free: Pattern=wat ik, Pattern=een, Pattern=vinden
+	Constrained: Pattern=ik, Pattern=wat
+Turn ID=27| A | A : dit zijn die een met die snoep wrap met die toffee aan de bovenkant
+	Free: Pattern=aan de, Pattern=zijn die, Pattern=met, Pattern=die, Pattern=die een
+	Constrained: Pattern=een, Pattern=die, Pattern=zijn, Pattern=de, Pattern=aan
+Turn ID=28| A | A : ja met daaronder zo'n raar uitstulpink
+	Free: Pattern=ja, Pattern=zo'n, Pattern=met
+	Constrained: 
+Turn ID=29| B | B : D
+	Free: 
+	Constrained: 
+Turn ID=30| A | A : ja ik zien hem
+	Free: Pattern=ja, Pattern=hem, Pattern=ik
+	Constrained: 
+Turn ID=31| A | A : toffee zijn nummer elf
+	Free: Pattern=zijn
+	Constrained: 
+Turn ID=32| B | B : het zijn de olifant die zitten bij mij
+	Free: Pattern=het zijn, Pattern=die, Pattern=de, Pattern=zitten
+	Constrained: Pattern=zijn, Pattern=het
+Turn ID=33| A | A : die een met die toffee op zijn hoofd
+	Free: Pattern=op, Pattern=met, Pattern=die, Pattern=die een, Pattern=zijn
+	Constrained: Pattern=een, Pattern=die
+Turn ID=34| A | A : ja nummer twee
+	Free: Pattern=ja
+	Constrained: 

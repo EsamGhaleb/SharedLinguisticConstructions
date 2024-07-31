@@ -1,0 +1,91 @@
+B|0| B: _het_ _zijn_ _die een_ _die_ _op een_ voet _lijken_ te staan _zeggen maar met die_ twirl _en_ _dan_ _op een_ driehoek 
+A|1| A: _ja_ hebben [die een] soort van Standaard 
+A|2| A: [lijken] [het] [op een] beetje [op een] prijs [een] travee trofee 
+A|3| A: _ja_ 
+A|4| A: _ja_ [dan] zitten er twee blok [op] plus één soort van staafje 
+A|5| A: _ja_ _dat_ [zijn] bij mij vier 
+B|6| B: waar _zijn het_ kreng ? [ja] vinden A 
+A|7| A: bij mij [zijn het] _de_ trofee [die een] beetje [op] [die] schuine Standaard bekendstaan [zeggen maar met die] twee blok [en] _dat_ ander dinge erbovenop 
+A|8| A: weten je welk ik bedoelen 
+A|9| A: [ja] [die] zo'n beetje draaien poot zo omhoogging zo 
+A|10| A: [ja] _de_ trofee 
+A|11| A: [ja] 
+B|12| B: dit [zijn] [op] [dat] [op] [dat] voetstuk [met die] Twirl 
+B|13| B: L 
+A|14| A: [ja] ik zien hem tien 
+A|15| A: tien 
+B|16| B: [het] [zijn] [die] [op] [de] driehoekig voetstuk [met die] Twirl 
+A|17| A: [de] trofee 
+A|18| A: [ja] 
+B|19| B: [ja] F 
+A|20| A: nummer vier 
+A|21| A: [de] trofee 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : het zijn die een die op een voet lijken te staan zeggen maar met die twirl en dan op een driehoek
+	Free: Pattern=het, Pattern=die, Pattern=die een, Pattern=en, Pattern=zijn, Pattern=op een, Pattern=lijken, Pattern=zeggen maar met die, Pattern=dan
+	Constrained: Pattern=een, Pattern=die, Pattern=met die, Pattern=op
+Turn ID=1| A | A : ja hebben die een soort van Standaard
+	Free: Pattern=die een, Pattern=ja
+	Constrained: Pattern=een, Pattern=die
+Turn ID=2| A | A : lijken het op een beetje op een prijs een travee trofee
+	Free: Pattern=op een, Pattern=een, Pattern=het, Pattern=lijken
+	Constrained: Pattern=een, Pattern=op
+Turn ID=3| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=4| A | A : ja dan zitten er twee blok op plus één soort van staafje
+	Free: Pattern=dan, Pattern=ja, Pattern=op
+	Constrained: 
+Turn ID=5| A | A : ja dat zijn bij mij vier
+	Free: Pattern=ja, Pattern=zijn, Pattern=dat
+	Constrained: 
+Turn ID=6| B | B : waar zijn het kreng ? ja vinden A
+	Free: Pattern=zijn het, Pattern=ja
+	Constrained: Pattern=zijn, Pattern=het
+Turn ID=7| A | A : bij mij zijn het de trofee die een beetje op die schuine Standaard bekendstaan zeggen maar met die twee blok en dat ander dinge erbovenop
+	Free: Pattern=dat, Pattern=zijn het, Pattern=de, Pattern=op, Pattern=zeggen maar met die, Pattern=die, Pattern=die een, Pattern=en
+	Constrained: Pattern=met die, Pattern=een, Pattern=het, Pattern=die, Pattern=zijn
+Turn ID=8| A | A : weten je welk ik bedoelen
+	Free: 
+	Constrained: 
+Turn ID=9| A | A : ja die zo'n beetje draaien poot zo omhoogging zo
+	Free: Pattern=ja, Pattern=die
+	Constrained: 
+Turn ID=10| A | A : ja de trofee
+	Free: Pattern=ja, Pattern=de
+	Constrained: 
+Turn ID=11| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=12| B | B : dit zijn op dat op dat voetstuk met die Twirl
+	Free: Pattern=met die, Pattern=zijn, Pattern=op, Pattern=dat
+	Constrained: Pattern=die
+Turn ID=13| B | B : L
+	Free: 
+	Constrained: 
+Turn ID=14| A | A : ja ik zien hem tien
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=15| A | A : tien
+	Free: 
+	Constrained: 
+Turn ID=16| B | B : het zijn die op de driehoekig voetstuk met die Twirl
+	Free: Pattern=met die, Pattern=de, Pattern=op, Pattern=het, Pattern=die, Pattern=zijn
+	Constrained: Pattern=die
+Turn ID=17| A | A : de trofee
+	Free: Pattern=de
+	Constrained: 
+Turn ID=18| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=19| B | B : ja F
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=20| A | A : nummer vier
+	Free: 
+	Constrained: 
+Turn ID=21| A | A : de trofee
+	Free: Pattern=de
+	Constrained: 

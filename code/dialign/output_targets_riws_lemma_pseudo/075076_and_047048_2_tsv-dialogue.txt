@@ -1,0 +1,111 @@
+A|0| A: _dit zijn_ _het_ figuur waar _een_ soort van piramide _of_ _een_ _driehoek_ bovenop staan 
+A|1| A: _ja_ precies _en een_ soort van cirkel onderaan 
+B|2| B: [ja] 
+B|3| B: de [driehoek] [en] 
+B|4| B: oké J 
+A|5| A: [ja] _zijn_ bij mij nummer zes 
+B|6| B: ah [dit zijn] _met_ de [driehoek] op [zijn] hoofd 
+B|7| B: [en] 
+B|8| B: wiele onder 
+B|9| B: _ik_ weten niet [of] _dat_ [een] wiele [zijn] 
+B|10| B: [ja] er [zijn] één rond dinget eronder [en een] 
+B|11| B: _hebben_ _ik_ [een] raar best wel groot ding aan de rechterkant 
+B|12| B: [ja] 
+A|13| A: [ik] [hebben] _die_ [met] _die_ piramide bovenop 
+A|14| A: [of] _het_ [driehoek] 
+A|15| A: [ja] 
+A|16| A: zo'n blok rechts 
+A|17| A: beetje in _het_ midden 
+B|18| B: [ja] de feestmuts 
+B|19| B: oké E 
+A|20| A: [ja] 
+A|21| A: nummer tien 
+B|22| B: [die] [een] [met] [het] feesthoed 
+A|23| A: [ik] [hebben] [die] [met] [dat] driehoekje bovenop 
+B|24| B: oké G 
+A|25| A: nummer tien 
+B|26| B: [het] feesthoed 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : dit zijn het figuur waar een soort van piramide of een driehoek bovenop staan
+	Free: Pattern=driehoek, Pattern=of, Pattern=een, Pattern=het, Pattern=dit zijn
+	Constrained: Pattern=zijn
+Turn ID=1| A | A : ja precies en een soort van cirkel onderaan
+	Free: Pattern=en een, Pattern=ja
+	Constrained: Pattern=een, Pattern=en
+Turn ID=2| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=3| B | B : de driehoek en
+	Free: Pattern=en, Pattern=driehoek
+	Constrained: 
+Turn ID=4| B | B : oké J
+	Free: 
+	Constrained: 
+Turn ID=5| A | A : ja zijn bij mij nummer zes
+	Free: Pattern=ja, Pattern=zijn
+	Constrained: 
+Turn ID=6| B | B : ah dit zijn met de driehoek op zijn hoofd
+	Free: Pattern=dit zijn, Pattern=met, Pattern=zijn, Pattern=driehoek
+	Constrained: Pattern=zijn
+Turn ID=7| B | B : en
+	Free: Pattern=en
+	Constrained: 
+Turn ID=8| B | B : wiele onder
+	Free: 
+	Constrained: 
+Turn ID=9| B | B : ik weten niet of dat een wiele zijn
+	Free: Pattern=dat, Pattern=of, Pattern=een, Pattern=ik, Pattern=zijn
+	Constrained: 
+Turn ID=10| B | B : ja er zijn één rond dinget eronder en een
+	Free: Pattern=en een, Pattern=ja, Pattern=zijn
+	Constrained: Pattern=een, Pattern=en
+Turn ID=11| B | B : hebben ik een raar best wel groot ding aan de rechterkant
+	Free: Pattern=hebben, Pattern=een, Pattern=ik
+	Constrained: 
+Turn ID=12| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=13| A | A : ik hebben die met die piramide bovenop
+	Free: Pattern=met, Pattern=hebben, Pattern=ik, Pattern=die
+	Constrained: 
+Turn ID=14| A | A : of het driehoek
+	Free: Pattern=of, Pattern=het, Pattern=driehoek
+	Constrained: 
+Turn ID=15| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=16| A | A : zo'n blok rechts
+	Free: 
+	Constrained: 
+Turn ID=17| A | A : beetje in het midden
+	Free: Pattern=het
+	Constrained: 
+Turn ID=18| B | B : ja de feestmuts
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=19| B | B : oké E
+	Free: 
+	Constrained: 
+Turn ID=20| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=21| A | A : nummer tien
+	Free: 
+	Constrained: 
+Turn ID=22| B | B : die een met het feesthoed
+	Free: Pattern=met, Pattern=een, Pattern=het, Pattern=die
+	Constrained: 
+Turn ID=23| A | A : ik hebben die met dat driehoekje bovenop
+	Free: Pattern=dat, Pattern=hebben, Pattern=met, Pattern=die, Pattern=ik
+	Constrained: 
+Turn ID=24| B | B : oké G
+	Free: 
+	Constrained: 
+Turn ID=25| A | A : nummer tien
+	Free: 
+	Constrained: 
+Turn ID=26| B | B : het feesthoed
+	Free: Pattern=het
+	Constrained: 

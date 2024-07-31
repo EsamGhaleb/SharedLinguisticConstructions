@@ -1,0 +1,135 @@
+A|0| A: hier hebben je _de_ hoofdvorm _en_ _dan_ rechts _van_ _de_ hoofdvorm hebben je _een_ cirkel op _zijn_ plat kant 
+A|1| A: nee _dat zijn_ trouwens rechts link hebben je één _ja_ wat _zijn het_ _een_ rond staaf maar _dan_ _de_ helft daarvan 
+A|2| A: _en_ _aan_ _die_ rond staaf zitten _een_ soort puntvormig puntvormig voorwerp 
+A|3| A: _ja_ 
+A|4| A: nummer achten 
+A|5| A: _dit zijn_ _de_ hoofdvorm waarbij er rechts _een_ cirkel _zijn_ gewoon _zo_ plat 
+A|6| A: link hebben je _die_ vorm _die_ half uitgesneden _zijn_ _met_ _een_ soort spits punt erin 
+A|7| A: _ja_ _een_ cirkeltje _die_ eraan vast _zijn_ plakken waar je _iets_ op kunnen voortzetten 
+A|8| A: _in_ feit 
+A|9| A: _en_ _dan_ _links_ hebben je _die_ rond staaf _die_ eigenlijk door _de_ helft _zijn_ 
+B|10| B: [ja] 
+B|11| B: [ja] ik zien [het] zelf misschien als [iets] [van] [dat] water [dat] uit [de] muur lopen of [dat] [het] [zo] omhoog spuiten 
+B|12| B: want [het] eindigen [in] [een] vierkantje toch 
+B|13| B: [ja] [en] [met] zo'n plateau _aan de_ rechterkant 
+B|14| B: [ja] 
+B|15| B: [dan] [zijn het] h 
+A|16| A: [ja] 
+A|17| A: [met] _die_ punt 
+A|18| A: [ja] 
+A|19| A: nummer twee 
+B|20| B: [dit zijn] [die] [een] [met] [het] water uit [de] muur [het] kaneelstaaf [en] [het] cirkelplateau 
+B|21| B: naald [zijn] wel [links] 
+B|22| B: [ja] 
+A|23| A: [dit zijn] [de] hoofdvorm [met] [die] rond staaf [aan de] linkerkant [die] uitgesneden [zijn] [met] [die] punt erin 
+A|24| A: [ja] 
+B|25| B: [ja] 
+B|26| B: [ja] [dat zijn] n 
+A|27| A: [ja] 
+A|28| A: waar je [iets] op kunnen voortzetten 
+A|29| A: nummer twee 
+B|30| B: [het] water [dat] uit [de] muur komen kaneelstaaf [en] cirkelplateau 
+B|31| B: [dat zijn] à 
+B|32| B: [het] kaneelstaaf water uit [de] muur [en] plateau 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : hier hebben je de hoofdvorm en dan rechts van de hoofdvorm hebben je een cirkel op zijn plat kant
+	Free: Pattern=de, Pattern=dan, Pattern=een, Pattern=zijn, Pattern=van, Pattern=en
+	Constrained: 
+Turn ID=1| A | A : nee dat zijn trouwens rechts link hebben je één ja wat zijn het een rond staaf maar dan de helft daarvan
+	Free: Pattern=dat zijn, Pattern=zijn het, Pattern=dan, Pattern=een, Pattern=de, Pattern=ja
+	Constrained: Pattern=dat, Pattern=zijn, Pattern=het
+Turn ID=2| A | A : en aan die rond staaf zitten een soort puntvormig puntvormig voorwerp
+	Free: Pattern=en, Pattern=aan, Pattern=die, Pattern=een
+	Constrained: 
+Turn ID=3| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=4| A | A : nummer achten
+	Free: 
+	Constrained: 
+Turn ID=5| A | A : dit zijn de hoofdvorm waarbij er rechts een cirkel zijn gewoon zo plat
+	Free: Pattern=de, Pattern=een, Pattern=zo, Pattern=zijn, Pattern=dit zijn
+	Constrained: Pattern=zijn
+Turn ID=6| A | A : link hebben je die vorm die half uitgesneden zijn met een soort spits punt erin
+	Free: Pattern=zijn, Pattern=die, Pattern=een, Pattern=met
+	Constrained: 
+Turn ID=7| A | A : ja een cirkeltje die eraan vast zijn plakken waar je iets op kunnen voortzetten
+	Free: Pattern=een, Pattern=die, Pattern=zijn, Pattern=iets, Pattern=ja
+	Constrained: 
+Turn ID=8| A | A : in feit
+	Free: Pattern=in
+	Constrained: 
+Turn ID=9| A | A : en dan links hebben je die rond staaf die eigenlijk door de helft zijn
+	Free: Pattern=de, Pattern=dan, Pattern=links, Pattern=die, Pattern=en, Pattern=zijn
+	Constrained: 
+Turn ID=10| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=11| B | B : ja ik zien het zelf misschien als iets van dat water dat uit de muur lopen of dat het zo omhoog spuiten
+	Free: Pattern=dat, Pattern=het, Pattern=zo, Pattern=van, Pattern=de, Pattern=iets, Pattern=ja
+	Constrained: 
+Turn ID=12| B | B : want het eindigen in een vierkantje toch
+	Free: Pattern=in, Pattern=een, Pattern=het
+	Constrained: 
+Turn ID=13| B | B : ja en met zo'n plateau aan de rechterkant
+	Free: Pattern=aan de, Pattern=en, Pattern=ja, Pattern=met
+	Constrained: Pattern=aan, Pattern=de
+Turn ID=14| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=15| B | B : dan zijn het h
+	Free: Pattern=zijn het, Pattern=dan
+	Constrained: Pattern=zijn, Pattern=het
+Turn ID=16| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=17| A | A : met die punt
+	Free: Pattern=die, Pattern=met
+	Constrained: 
+Turn ID=18| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=19| A | A : nummer twee
+	Free: 
+	Constrained: 
+Turn ID=20| B | B : dit zijn die een met het water uit de muur het kaneelstaaf en het cirkelplateau
+	Free: Pattern=de, Pattern=een, Pattern=het, Pattern=met, Pattern=die, Pattern=en, Pattern=dit zijn
+	Constrained: Pattern=zijn
+Turn ID=21| B | B : naald zijn wel links
+	Free: Pattern=links, Pattern=zijn
+	Constrained: 
+Turn ID=22| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=23| A | A : dit zijn de hoofdvorm met die rond staaf aan de linkerkant die uitgesneden zijn met die punt erin
+	Free: Pattern=de, Pattern=aan de, Pattern=met, Pattern=die, Pattern=zijn, Pattern=dit zijn
+	Constrained: Pattern=aan, Pattern=zijn, Pattern=de
+Turn ID=24| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=25| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=26| B | B : ja dat zijn n
+	Free: Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=27| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=28| A | A : waar je iets op kunnen voortzetten
+	Free: Pattern=iets
+	Constrained: 
+Turn ID=29| A | A : nummer twee
+	Free: 
+	Constrained: 
+Turn ID=30| B | B : het water dat uit de muur komen kaneelstaaf en cirkelplateau
+	Free: Pattern=en, Pattern=dat, Pattern=de, Pattern=het
+	Constrained: 
+Turn ID=31| B | B : dat zijn à
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=32| B | B : het kaneelstaaf water uit de muur en plateau
+	Free: Pattern=en, Pattern=de, Pattern=het
+	Constrained: 

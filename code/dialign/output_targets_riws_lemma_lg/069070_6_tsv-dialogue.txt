@@ -1,0 +1,111 @@
+A|0| A: _oké_ nu _hebben_ _ik_ _een_ rood vierkant 
+A|1| A: _er zitten_ _een_ soort _bol_ op _de voorkant_ 
+A|2| A: _en_ daar _zitten_ _een_ uitsteeksel _doorheen_ 
+B|3| B: _ja_ 
+B|4| B: _ja_ 
+A|5| A: _met een_ _met zo'n_ rond 
+B|6| B: [met een] plat stuk eraan 
+A|7| A: _ja ja_ 
+B|8| B: _ja dan_ weten [ik] welk _het_ _zijn_ [en] [er zitten] nog _één_ _fliepje_ 
+A|9| A: _en één_ dinge bovenop 
+A|10| A: [ja] 
+B|11| B: [ja] 
+B|12| B: [oké] _dan zijn het_ F 
+B|13| B: [oké] dit _zijn_ degeen [met] [de] bal _aan de voorkant waar_ _dat ding_ [doorheen] [zitten] [en] _dan_ _aan de_ achterkant nog zo _dat_ 
+A|14| A: [ja] 
+A|15| A: [ja [dan] zijn het] vijf 
+A|16| A: _ik hebben die_ _met die_ [dat] [fliepje] bovenop [en] _zo'n_ _bol aan de voorkant waar_ iets [doorheen] opsteken 
+B|17| B: _ja dat zijn_ A 
+B|18| B: [ik hebben] diegene [met een] [bol aan de voorkant waar] [een] _ding_ [doorheen] [zitten] [en één] _fliebel_ 
+A|19| A: [ja] 
+A|20| A: [ja dat zijn] vijf 
+A|21| A: _ik hebben die_ _met die_ uitstekend [bol] [en] [met] [dat ding] _erdoorheen_ 
+B|22| B: [ja] 
+A|23| A: [en] [met] [dat] [fliebel] bovenop 
+B|24| B: [ja] even zoeken [ja [ja] dat zijn] H 
+B|25| B: [ik hebben die] boor [met die] balk [erdoorheen] [met zo'n] [fliebel] in [die] pot 
+A|26| A: [ja dat zijn] vijftien 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : oké nu hebben ik een rood vierkant
+	Free: Pattern=ik, Pattern=hebben, Pattern=oké, Pattern=een
+	Constrained: 
+Turn ID=1| A | A : er zitten een soort bol op de voorkant
+	Free: Pattern=er zitten, Pattern=de voorkant, Pattern=een, Pattern=bol
+	Constrained: Pattern=zitten, Pattern=de
+Turn ID=2| A | A : en daar zitten een uitsteeksel doorheen
+	Free: Pattern=zitten, Pattern=doorheen, Pattern=een, Pattern=en
+	Constrained: 
+Turn ID=3| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=4| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=5| A | A : met een met zo'n rond
+	Free: Pattern=met zo'n, Pattern=met een
+	Constrained: Pattern=met, Pattern=zo'n, Pattern=een
+Turn ID=6| B | B : met een plat stuk eraan
+	Free: Pattern=met een
+	Constrained: Pattern=met, Pattern=een
+Turn ID=7| A | A : ja ja
+	Free: Pattern=ja ja
+	Constrained: Pattern=ja
+Turn ID=8| B | B : ja dan weten ik welk het zijn en er zitten nog één fliepje
+	Free: Pattern=ja dan, Pattern=het, Pattern=er zitten, Pattern=ik, Pattern=en, Pattern=zijn, Pattern=één, Pattern=fliepje
+	Constrained: Pattern=zitten, Pattern=ja, Pattern=dan
+Turn ID=9| A | A : en één dinge bovenop
+	Free: Pattern=en één
+	Constrained: Pattern=één, Pattern=en
+Turn ID=10| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=11| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=12| B | B : oké dan zijn het F
+	Free: Pattern=dan zijn het, Pattern=oké
+	Constrained: Pattern=zijn, Pattern=het, Pattern=dan
+Turn ID=13| B | B : oké dit zijn degeen met de bal aan de voorkant waar dat ding doorheen zitten en dan aan de achterkant nog zo dat
+	Free: Pattern=dat, Pattern=dan, Pattern=dat ding, Pattern=met, Pattern=zitten, Pattern=oké, Pattern=en, Pattern=zijn, Pattern=de, Pattern=doorheen, Pattern=aan de, Pattern=aan de voorkant waar
+	Constrained: Pattern=dat, Pattern=de, Pattern=aan de, Pattern=ding, Pattern=de voorkant
+Turn ID=14| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=15| A | A : ja dan zijn het vijf
+	Free: Pattern=dan zijn het, Pattern=ja dan
+	Constrained: Pattern=dan, Pattern=het, Pattern=ja, Pattern=zijn
+Turn ID=16| A | A : ik hebben die met die dat fliepje bovenop en zo'n bol aan de voorkant waar iets doorheen opsteken
+	Free: Pattern=zo'n, Pattern=doorheen, Pattern=ik hebben die, Pattern=fliepje, Pattern=dat, Pattern=met die, Pattern=en, Pattern=bol aan de voorkant waar
+	Constrained: Pattern=ik hebben, Pattern=de, Pattern=hebben, Pattern=met, Pattern=ik, Pattern=bol, Pattern=aan de, Pattern=aan de voorkant waar, Pattern=de voorkant, Pattern=die
+Turn ID=17| B | B : ja dat zijn A
+	Free: Pattern=ja dat zijn
+	Constrained: Pattern=zijn, Pattern=ja, Pattern=dat
+Turn ID=18| B | B : ik hebben diegene met een bol aan de voorkant waar een ding doorheen zitten en één fliebel
+	Free: Pattern=doorheen, Pattern=ding, Pattern=een, Pattern=fliebel, Pattern=zitten, Pattern=met een, Pattern=bol aan de voorkant waar, Pattern=ik hebben, Pattern=en één
+	Constrained: Pattern=de, Pattern=een, Pattern=hebben, Pattern=met, Pattern=de voorkant, Pattern=ik, Pattern=en, Pattern=één, Pattern=bol, Pattern=aan de, Pattern=aan de voorkant waar
+Turn ID=19| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=20| A | A : ja dat zijn vijf
+	Free: Pattern=ja dat zijn
+	Constrained: Pattern=zijn, Pattern=ja, Pattern=dat
+Turn ID=21| A | A : ik hebben die met die uitstekend bol en met dat ding erdoorheen
+	Free: Pattern=met die, Pattern=bol, Pattern=dat ding, Pattern=erdoorheen, Pattern=met, Pattern=ik hebben die, Pattern=en
+	Constrained: Pattern=ik hebben, Pattern=dat, Pattern=ding, Pattern=hebben, Pattern=met, Pattern=die, Pattern=ik
+Turn ID=22| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=23| A | A : en met dat fliebel bovenop
+	Free: Pattern=met, Pattern=fliebel, Pattern=dat, Pattern=en
+	Constrained: 
+Turn ID=24| B | B : ja even zoeken ja ja dat zijn H
+	Free: Pattern=ja dat zijn, Pattern=ja ja, Pattern=ja
+	Constrained: Pattern=zijn, Pattern=ja, Pattern=dat
+Turn ID=25| B | B : ik hebben die boor met die balk erdoorheen met zo'n fliebel in die pot
+	Free: Pattern=met die, Pattern=erdoorheen, Pattern=fliebel, Pattern=die, Pattern=ik hebben die, Pattern=met zo'n
+	Constrained: Pattern=ik hebben, Pattern=zo'n, Pattern=hebben, Pattern=met, Pattern=die, Pattern=ik
+Turn ID=26| A | A : ja dat zijn vijftien
+	Free: Pattern=ja dat zijn
+	Constrained: Pattern=zijn, Pattern=ja, Pattern=dat

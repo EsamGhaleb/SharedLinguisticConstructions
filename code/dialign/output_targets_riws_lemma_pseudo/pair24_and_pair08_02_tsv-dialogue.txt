@@ -1,0 +1,107 @@
+A|0| A: dit _zijn_ _een_ heel erg druk bak met _bovenop een_ soort van feesthoed 
+A|1| A: wat hij _hebben_ 
+A|2| A: _en_ linkerkant zitten nog _een_ _klein_ 
+A|3| A: als je zo kijken als je _ja_ dan lijken hij op _een_ vogel , goed , _ja_ 
+B|4| B: [ja] 
+B|5| B: misvormde kubus 
+B|6| B: [ja] [bovenop een] driehoek 
+B|7| B: [ja] 
+B|8| B: _ja dat zijn_ I 
+A|9| A: [ja dat zijn] nummer elf 
+B|10| B: deze [hebben] [een] driehoek [bovenop] 
+B|11| B: [en] [ja] [klein] cirkel linksonder 
+B|12| B: ding , spijker , kogel [ja] 
+B|13| B: [ja] kogel [ja] 
+A|14| A: _de_ bak met het feesthoed 
+A|15| A: aan linkerkant weer [een] [een] uitsteekselt 
+A|16| A: rechterkant zitten [een] 
+B|17| B: [en] [een] kogel links 
+B|18| B: J 
+A|19| A: nummer zeven 
+B|20| B: deze [hebben] zo'n scherp driehoek [bovenop] [en] [een] kogel links 
+A|21| A: het vogel met het feesthoed 
+A|22| A: nummer negen 
+B|23| B: kogel 
+B|24| B: A 
+B|25| B: deze [hebben] [de] scherp driehoek [bovenop] [en] [een] kogel links 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : dit zijn een heel erg druk bak met bovenop een soort van feesthoed
+	Free: Pattern=bovenop een, Pattern=een, Pattern=zijn
+	Constrained: Pattern=een, Pattern=bovenop
+Turn ID=1| A | A : wat hij hebben
+	Free: Pattern=hebben
+	Constrained: 
+Turn ID=2| A | A : en linkerkant zitten nog een klein
+	Free: Pattern=een, Pattern=en, Pattern=klein
+	Constrained: 
+Turn ID=3| A | A : als je zo kijken als je ja dan lijken hij op een vogel , goed , ja
+	Free: Pattern=een, Pattern=ja
+	Constrained: 
+Turn ID=4| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=5| B | B : misvormde kubus
+	Free: 
+	Constrained: 
+Turn ID=6| B | B : ja bovenop een driehoek
+	Free: Pattern=bovenop een, Pattern=ja
+	Constrained: Pattern=een, Pattern=bovenop
+Turn ID=7| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=8| B | B : ja dat zijn I
+	Free: Pattern=ja dat zijn
+	Constrained: Pattern=ja, Pattern=zijn
+Turn ID=9| A | A : ja dat zijn nummer elf
+	Free: Pattern=ja dat zijn
+	Constrained: Pattern=ja, Pattern=zijn
+Turn ID=10| B | B : deze hebben een driehoek bovenop
+	Free: Pattern=een, Pattern=bovenop, Pattern=hebben
+	Constrained: 
+Turn ID=11| B | B : en ja klein cirkel linksonder
+	Free: Pattern=ja, Pattern=en, Pattern=klein
+	Constrained: 
+Turn ID=12| B | B : ding , spijker , kogel ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=13| B | B : ja kogel ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=14| A | A : de bak met het feesthoed
+	Free: Pattern=de
+	Constrained: 
+Turn ID=15| A | A : aan linkerkant weer een een uitsteekselt
+	Free: Pattern=een
+	Constrained: 
+Turn ID=16| A | A : rechterkant zitten een
+	Free: Pattern=een
+	Constrained: 
+Turn ID=17| B | B : en een kogel links
+	Free: Pattern=een, Pattern=en
+	Constrained: 
+Turn ID=18| B | B : J
+	Free: 
+	Constrained: 
+Turn ID=19| A | A : nummer zeven
+	Free: 
+	Constrained: 
+Turn ID=20| B | B : deze hebben zo'n scherp driehoek bovenop en een kogel links
+	Free: Pattern=een, Pattern=bovenop, Pattern=en, Pattern=hebben
+	Constrained: 
+Turn ID=21| A | A : het vogel met het feesthoed
+	Free: 
+	Constrained: 
+Turn ID=22| A | A : nummer negen
+	Free: 
+	Constrained: 
+Turn ID=23| B | B : kogel
+	Free: 
+	Constrained: 
+Turn ID=24| B | B : A
+	Free: 
+	Constrained: 
+Turn ID=25| B | B : deze hebben de scherp driehoek bovenop en een kogel links
+	Free: Pattern=bovenop, Pattern=de, Pattern=een, Pattern=hebben, Pattern=en
+	Constrained: 

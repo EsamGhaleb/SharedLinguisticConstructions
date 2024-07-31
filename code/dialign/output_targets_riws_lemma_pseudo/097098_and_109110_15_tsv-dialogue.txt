@@ -1,0 +1,139 @@
+A|0| A: _ja_ 
+A|1| A: _dat_ _zijn_ hier nummer zestien 
+B|2| B: ok ik _hebben_ deze ik _zitten_ heel erg te twijfelen tussen of als fabriek of als _vierkant_ dwarslaesie 
+B|3| B: het [zijn] _een soort_ schijf dwars _een vierkant_ schijf dwars door het midden _van_ _de_ beker 
+B|4| B: met met 
+B|5| B: [ja] met _die_ glijbaan [ja] precies ik _zitten_ _er_ _ook_ over te nadenken zullen ik hem omschrijven als glijbaan _en_ _die_ _soort_ _twee_ _twee klein_ heel _klein_ antenne bovenop 
+B|6| B: [ja] 
+B|7| B: ok 
+B|8| B: jij moeten dan zeggen 
+A|9| A: _dit_ [zijn] [de] koffiemok [die] [twee klein] staafjes aan [de] bovenkant [hebben] [die] _even_ groot [zijn] 
+A|10| A: [er] [zitten] [ook] [een vierkant] schot omheen 
+A|11| A: [ja] 
+A|12| A: [ja] 
+B|13| B: met het platvorm in [de] midden [ja] C 
+B|14| B: ik [hebben] [de] fabriek of [de] glijbaan 
+A|15| A: [ja] 
+A|16| A: _dat_ [zijn] hier nummer dertien 
+B|17| B: [zitten] hem [even] te zoeken 
+B|18| B: [ja] J 
+A|19| A: _dit_ [zijn] [de] mok waar [een] plateau aan vastzitten eigenlijk aan [de] onderkant 
+A|20| A: [en] [er] komen [twee] gelijk stok aan [de] bovenkant uit 
+A|21| A: link komen [een soort] [van] tetrisblokje uit [en] aan [de] voorkant [een] lang rond vorm 
+B|22| B: fabriek Glijbaan 
+A|23| A: [ja] 
+A|24| A: nummer negen 
+B|25| B: zo wat 
+B|26| B: ik weten het niet 
+B|27| B: o ok nee [dit] 
+B|28| B: ok [zijn] [dat] _zo'n_ _zo'n_ zweven stofzuiger ding 
+B|29| B: o nee ok 
+B|30| B: nee inderdaad maar [die] fabriek N 
+A|31| A: [dit] [zijn] [de] mok waarbij [er] [twee] dezelfde stok aan [de] bovenkant uit komen 
+A|32| A: aan [de] onderkant [zo'n] [vierkant] plateau [zitten] 
+A|33| A: link [zo'n] tetrisblok uit komen [en] [een] rond aan [de] voorkant 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=1| A | A : dat zijn hier nummer zestien
+	Free: Pattern=dat, Pattern=zijn
+	Constrained: 
+Turn ID=2| B | B : ok ik hebben deze ik zitten heel erg te twijfelen tussen of als fabriek of als vierkant dwarslaesie
+	Free: Pattern=hebben, Pattern=zitten, Pattern=vierkant
+	Constrained: 
+Turn ID=3| B | B : het zijn een soort schijf dwars een vierkant schijf dwars door het midden van de beker
+	Free: Pattern=de, Pattern=een soort, Pattern=van, Pattern=zijn, Pattern=een vierkant
+	Constrained: Pattern=een, Pattern=soort, Pattern=vierkant
+Turn ID=4| B | B : met met
+	Free: 
+	Constrained: 
+Turn ID=5| B | B : ja met die glijbaan ja precies ik zitten er ook over te nadenken zullen ik hem omschrijven als glijbaan en die soort twee twee klein heel klein antenne bovenop
+	Free: Pattern=soort, Pattern=twee, Pattern=ja, Pattern=ook, Pattern=er, Pattern=klein, Pattern=en, Pattern=twee klein, Pattern=die, Pattern=zitten
+	Constrained: Pattern=klein, Pattern=twee
+Turn ID=6| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=7| B | B : ok
+	Free: 
+	Constrained: 
+Turn ID=8| B | B : jij moeten dan zeggen
+	Free: 
+	Constrained: 
+Turn ID=9| A | A : dit zijn de koffiemok die twee klein staafjes aan de bovenkant hebben die even groot zijn
+	Free: Pattern=de, Pattern=even, Pattern=hebben, Pattern=dit, Pattern=die, Pattern=zijn, Pattern=twee klein
+	Constrained: Pattern=klein, Pattern=twee
+Turn ID=10| A | A : er zitten ook een vierkant schot omheen
+	Free: Pattern=een vierkant, Pattern=er, Pattern=ook, Pattern=zitten
+	Constrained: Pattern=een, Pattern=vierkant
+Turn ID=11| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=12| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=13| B | B : met het platvorm in de midden ja C
+	Free: Pattern=de, Pattern=ja
+	Constrained: 
+Turn ID=14| B | B : ik hebben de fabriek of de glijbaan
+	Free: Pattern=de, Pattern=hebben
+	Constrained: 
+Turn ID=15| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=16| A | A : dat zijn hier nummer dertien
+	Free: Pattern=dat, Pattern=zijn
+	Constrained: 
+Turn ID=17| B | B : zitten hem even te zoeken
+	Free: Pattern=zitten, Pattern=even
+	Constrained: 
+Turn ID=18| B | B : ja J
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=19| A | A : dit zijn de mok waar een plateau aan vastzitten eigenlijk aan de onderkant
+	Free: Pattern=de, Pattern=een, Pattern=dit, Pattern=zijn
+	Constrained: 
+Turn ID=20| A | A : en er komen twee gelijk stok aan de bovenkant uit
+	Free: Pattern=de, Pattern=er, Pattern=en, Pattern=twee
+	Constrained: 
+Turn ID=21| A | A : link komen een soort van tetrisblokje uit en aan de voorkant een lang rond vorm
+	Free: Pattern=de, Pattern=een, Pattern=een soort, Pattern=van, Pattern=en
+	Constrained: Pattern=een, Pattern=soort
+Turn ID=22| B | B : fabriek Glijbaan
+	Free: 
+	Constrained: 
+Turn ID=23| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=24| A | A : nummer negen
+	Free: 
+	Constrained: 
+Turn ID=25| B | B : zo wat
+	Free: 
+	Constrained: 
+Turn ID=26| B | B : ik weten het niet
+	Free: 
+	Constrained: 
+Turn ID=27| B | B : o ok nee dit
+	Free: Pattern=dit
+	Constrained: 
+Turn ID=28| B | B : ok zijn dat zo'n zo'n zweven stofzuiger ding
+	Free: Pattern=dat, Pattern=zijn, Pattern=zo'n
+	Constrained: 
+Turn ID=29| B | B : o nee ok
+	Free: 
+	Constrained: 
+Turn ID=30| B | B : nee inderdaad maar die fabriek N
+	Free: Pattern=die
+	Constrained: 
+Turn ID=31| A | A : dit zijn de mok waarbij er twee dezelfde stok aan de bovenkant uit komen
+	Free: Pattern=twee, Pattern=de, Pattern=dit, Pattern=er, Pattern=zijn
+	Constrained: 
+Turn ID=32| A | A : aan de onderkant zo'n vierkant plateau zitten
+	Free: Pattern=de, Pattern=zitten, Pattern=zo'n, Pattern=vierkant
+	Constrained: 
+Turn ID=33| A | A : link zo'n tetrisblok uit komen en een rond aan de voorkant
+	Free: Pattern=de, Pattern=een, Pattern=en, Pattern=zo'n
+	Constrained: 

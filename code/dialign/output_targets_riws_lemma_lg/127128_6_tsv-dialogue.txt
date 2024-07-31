@@ -1,0 +1,175 @@
+A|0| A: even kijken _ik_ _hebben_ nou _ook_ _een_ mok _met _een_ soort van_ lepeltje erin alleen lijken _het_ lepeltje _aan de_ achterkant te _zitten_ 
+A|1| A: _en_ _aan de_ voorkant zien je _zo'n_ bol _met_ _zo'n_ staaf erdoorheen 
+A|2| A: _en_ _aan de_ _aan de_ rechterkant _nog_ _een soort van_ muntstuk 
+B|3| B: _ja_ 
+A|4| A: _aan_ eraan vast 
+B|5| B: _dat _zijn_ bij mij_ F 
+A|6| A: oké 
+B|7| B: _dit_ vinden [ik] _de indiaan_ _die_ [een] neusring [hebben] _zeggen_ maar [zo'n] _die_ [hebben] [zo'n] bot _door_ _zijn_ neus _heen_ _dat zijn_ _dan_ _dat ei_ hier 
+B|8| B: [zitten] [zo'n] klein klep op [aan de] zijkant [en] _die_ [hebben] [een] klein veer wat uit _zijn_ tooi komen 
+A|9| A: oké [ja] 
+A|10| A: [dat zijn] dus [dat _ei] met_ [die] balk erdoorheen _en dan_ _nog_ [aan de] rechterkant [zo'n] _soort van_ muntje 
+B|11| B: [ja] 
+B|12| B: [ik] vinden [het] [een soort van] _indiaan_ 
+A|13| A: [ja] 
+B|14| B: [met een] [met een] veer op [zijn] tooi _zeggen_ maar [ook] [nog] 
+A|15| A: oké nou [dan] [zijn] [dat] [de indiaan] vanaf nu 
+A|16| A: [dat zijn] nummer vijf 
+A|17| A: _dit _zijn_ die_ [ik] net bedoelen _dit zijn_ [ook] [met een] [ei] [aan de] voorkant [met een] balk erdoorheen 
+B|18| B: [dit zijn] [de indiaan] _zeggen_ maar _met dat_ ding _door_ [de] neus 
+A|19| A: [ja] 
+B|20| B: [en] [zo'n] klein veer 
+A|21| A: [ja] _en dan_ [nog] [dat] rondig 
+B|22| B: [zo'n] _plaat_ ertegenaan 
+A|23| A: [plaat] _ja dat_ 
+B|24| B: [ja [dat] _zijn] bij mij_ A 
+A|25| A: oké [de indiaan] 
+A|26| A: [ja] 
+B|27| B: [dit zijn] [de indiaan] [met] [het] veer [ei _met] dat_ neusring [en dan] [dat] [plaat] 
+A|28| A: [ja] 
+A|29| A: nummer vijf 
+A|30| A: [dit zijn] volgens [mij] noemen jij hem [de indiaan] 
+B|31| B: [indiaan] 
+A|32| A: [met dat] lepel bovenin [dat ei] [aan de] voorkant balk [door] [dat ei] [heen] 
+B|33| B: [ja] [ja] 
+B|34| B: [dat _zijn] bij mij_ H 
+B|35| B: [dit zijn] [de indiaan] 
+A|36| A: [de indiaan] 
+B|37| B: in _dat driehoek_ [zijn die] staan _bij mij_ in _dat driehoek_ 
+A|38| A: nee [bij mij] niet 
+A|39| A: [indiaan] bedoelen jij [dat] lepel erin [en dan] [die] [ei] [aan de] voorkant 
+B|40| B: _doorboren_ [met dat] ding [ja] 
+A|41| A: [doorboren] [ja] 
+A|42| A: hij [zijn bij mij] niet [het] [bij mij] [hebben] je [dat driehoek] [ik] zullen eerst [zeggen] [zijn] nummer vijftien 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : even kijken ik hebben nou ook een mok met een soort van lepeltje erin alleen lijken het lepeltje aan de achterkant te zitten
+	Free: Pattern=een, Pattern=het, Pattern=hebben, Pattern=een soort van, Pattern=zitten, Pattern=met een, Pattern=ik, Pattern=aan de, Pattern=ook
+	Constrained: Pattern=een, Pattern=met, Pattern=soort van, Pattern=de, Pattern=aan
+Turn ID=1| A | A : en aan de voorkant zien je zo'n bol met zo'n staaf erdoorheen
+	Free: Pattern=aan de, Pattern=zo'n, Pattern=met, Pattern=en
+	Constrained: Pattern=aan, Pattern=de
+Turn ID=2| A | A : en aan de aan de rechterkant nog een soort van muntstuk
+	Free: Pattern=een soort van, Pattern=aan de, Pattern=nog, Pattern=en
+	Constrained: Pattern=aan, Pattern=een, Pattern=de, Pattern=soort van
+Turn ID=3| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=4| A | A : aan eraan vast
+	Free: Pattern=aan
+	Constrained: 
+Turn ID=5| B | B : dat zijn bij mij F
+	Free: Pattern=zijn bij mij, Pattern=dat zijn
+	Constrained: Pattern=bij mij, Pattern=dat, Pattern=mij, Pattern=zijn
+Turn ID=6| A | A : oké
+	Free: 
+	Constrained: 
+Turn ID=7| B | B : dit vinden ik de indiaan die een neusring hebben zeggen maar zo'n die hebben zo'n bot door zijn neus heen dat zijn dan dat ei hier
+	Free: Pattern=dat zijn, Pattern=zo'n, Pattern=een, Pattern=heen, Pattern=dat ei, Pattern=die, Pattern=ik, Pattern=zijn, Pattern=door, Pattern=dan, Pattern=hebben, Pattern=de indiaan, Pattern=zeggen, Pattern=dit
+	Constrained: Pattern=dat, Pattern=ei, Pattern=de, Pattern=indiaan, Pattern=zijn
+Turn ID=8| B | B : zitten zo'n klein klep op aan de zijkant en die hebben een klein veer wat uit zijn tooi komen
+	Free: Pattern=zo'n, Pattern=aan de, Pattern=een, Pattern=hebben, Pattern=en, Pattern=zijn, Pattern=die, Pattern=zitten
+	Constrained: Pattern=aan, Pattern=de
+Turn ID=9| A | A : oké ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=10| A | A : dat zijn dus dat ei met die balk erdoorheen en dan nog aan de rechterkant zo'n soort van muntje
+	Free: Pattern=dat zijn, Pattern=nog, Pattern=zo'n, Pattern=en dan, Pattern=aan de, Pattern=dat ei, Pattern=die, Pattern=ei met, Pattern=soort van
+	Constrained: Pattern=dat, Pattern=ei, Pattern=dan, Pattern=met, Pattern=en, Pattern=zijn, Pattern=de, Pattern=aan
+Turn ID=11| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=12| B | B : ik vinden het een soort van indiaan
+	Free: Pattern=een soort van, Pattern=indiaan, Pattern=het, Pattern=ik
+	Constrained: Pattern=soort van, Pattern=een
+Turn ID=13| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=14| B | B : met een met een veer op zijn tooi zeggen maar ook nog
+	Free: Pattern=nog, Pattern=ook, Pattern=zeggen, Pattern=met een, Pattern=zijn
+	Constrained: Pattern=een, Pattern=met
+Turn ID=15| A | A : oké nou dan zijn dat de indiaan vanaf nu
+	Free: Pattern=de indiaan, Pattern=dat, Pattern=dan, Pattern=zijn
+	Constrained: Pattern=indiaan, Pattern=de
+Turn ID=16| A | A : dat zijn nummer vijf
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=17| A | A : dit zijn die ik net bedoelen dit zijn ook met een ei aan de voorkant met een balk erdoorheen
+	Free: Pattern=ei, Pattern=zijn die, Pattern=met een, Pattern=ik, Pattern=dit zijn, Pattern=aan de, Pattern=ook
+	Constrained: Pattern=een, Pattern=dit, Pattern=met, Pattern=die, Pattern=zijn, Pattern=de, Pattern=aan
+Turn ID=18| B | B : dit zijn de indiaan zeggen maar met dat ding door de neus
+	Free: Pattern=de, Pattern=door, Pattern=de indiaan, Pattern=zeggen, Pattern=met dat, Pattern=dit zijn
+	Constrained: Pattern=dat, Pattern=de, Pattern=dit, Pattern=met, Pattern=indiaan, Pattern=zijn
+Turn ID=19| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=20| B | B : en zo'n klein veer
+	Free: Pattern=zo'n, Pattern=en
+	Constrained: 
+Turn ID=21| A | A : ja en dan nog dat rondig
+	Free: Pattern=en dan, Pattern=dat, Pattern=ja, Pattern=nog
+	Constrained: Pattern=dan, Pattern=en
+Turn ID=22| B | B : zo'n plaat ertegenaan
+	Free: Pattern=plaat, Pattern=zo'n
+	Constrained: 
+Turn ID=23| A | A : plaat ja dat
+	Free: Pattern=ja dat, Pattern=plaat
+	Constrained: Pattern=dat, Pattern=ja
+Turn ID=24| B | B : ja dat zijn bij mij A
+	Free: Pattern=zijn bij mij, Pattern=ja dat, Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=ja, Pattern=mij, Pattern=zijn, Pattern=bij mij
+Turn ID=25| A | A : oké de indiaan
+	Free: Pattern=de indiaan
+	Constrained: Pattern=indiaan, Pattern=de
+Turn ID=26| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=27| B | B : dit zijn de indiaan met het veer ei met dat neusring en dan dat plaat
+	Free: Pattern=dat, Pattern=en dan, Pattern=het, Pattern=de indiaan, Pattern=met dat, Pattern=met, Pattern=ei met, Pattern=dit zijn, Pattern=plaat
+	Constrained: Pattern=dat, Pattern=ei, Pattern=de, Pattern=dan, Pattern=dit, Pattern=met, Pattern=indiaan, Pattern=en, Pattern=zijn
+Turn ID=28| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=29| A | A : nummer vijf
+	Free: 
+	Constrained: 
+Turn ID=30| A | A : dit zijn volgens mij noemen jij hem de indiaan
+	Free: Pattern=de indiaan, Pattern=dit zijn, Pattern=mij
+	Constrained: Pattern=indiaan, Pattern=dit, Pattern=zijn, Pattern=de
+Turn ID=31| B | B : indiaan
+	Free: Pattern=indiaan
+	Constrained: 
+Turn ID=32| A | A : met dat lepel bovenin dat ei aan de voorkant balk door dat ei heen
+	Free: Pattern=aan de, Pattern=door, Pattern=heen, Pattern=met dat, Pattern=dat ei
+	Constrained: Pattern=dat, Pattern=ei, Pattern=met, Pattern=de, Pattern=aan
+Turn ID=33| B | B : ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=34| B | B : dat zijn bij mij H
+	Free: Pattern=zijn bij mij, Pattern=dat zijn
+	Constrained: Pattern=bij mij, Pattern=dat, Pattern=mij, Pattern=zijn
+Turn ID=35| B | B : dit zijn de indiaan
+	Free: Pattern=de indiaan, Pattern=dit zijn
+	Constrained: Pattern=indiaan, Pattern=dit, Pattern=zijn, Pattern=de
+Turn ID=36| A | A : de indiaan
+	Free: Pattern=de indiaan
+	Constrained: Pattern=indiaan, Pattern=de
+Turn ID=37| B | B : in dat driehoek zijn die staan bij mij in dat driehoek
+	Free: Pattern=zijn die, Pattern=bij mij, Pattern=dat driehoek
+	Constrained: Pattern=mij, Pattern=dat, Pattern=zijn, Pattern=die
+Turn ID=38| A | A : nee bij mij niet
+	Free: Pattern=bij mij
+	Constrained: Pattern=mij
+Turn ID=39| A | A : indiaan bedoelen jij dat lepel erin en dan die ei aan de voorkant
+	Free: Pattern=dat, Pattern=ei, Pattern=en dan, Pattern=aan de, Pattern=die, Pattern=indiaan
+	Constrained: Pattern=dan, Pattern=aan, Pattern=de, Pattern=en
+Turn ID=40| B | B : doorboren met dat ding ja
+	Free: Pattern=met dat, Pattern=doorboren, Pattern=ja
+	Constrained: Pattern=dat, Pattern=met
+Turn ID=41| A | A : doorboren ja
+	Free: Pattern=doorboren, Pattern=ja
+	Constrained: 
+Turn ID=42| A | A : hij zijn bij mij niet het bij mij hebben je dat driehoek ik zullen eerst zeggen zijn nummer vijftien
+	Free: Pattern=dat driehoek, Pattern=het, Pattern=hebben, Pattern=zeggen, Pattern=ik, Pattern=bij mij, Pattern=zijn bij mij, Pattern=zijn
+	Constrained: Pattern=mij, Pattern=dat, Pattern=bij mij, Pattern=zijn

@@ -1,0 +1,155 @@
+A|0| A: deze hebben _een_ _een cirkel_ _aan de rechterkant_ _die_ eruitzien _alsof het_ zeggen maar 
+A|1| A: _dat_ _je_ daar _een_ glas _op_ _kunnen_ voortzetten 
+A|2| A: _en_ _en_ links _zijn_ _een_ _een_ groot uitsteeksel _die_ _een beetje_ bred worden 
+B|3| B: even kijken 
+B|4| B: trompe 
+B|5| B: [dat] naar achter lopen 
+B|6| B: dus [het] zullen [een] panne [kunnen] [zijn] wat [aan de rechterkant] zitten 
+B|7| B: oké 
+B|8| B: M 
+A|9| A: _ja_ 
+A|10| A: [zijn] hem ik [zijn] hem _aan het_ zoeken 
+A|11| A: daar 
+A|12| A: vijf 
+B|13| B: pijl lopen naar achter soort panne 
+B|14| B: [en] [het] panne zitten rechtsvoor 
+B|15| B: [en] er zitten [aan de] linkerkant komen er recht komen er [een] figuur uit [en] er gaan iets naar achter [alsof] weg [aan het] schieten [zijn] 
+B|16| B: _dit zijn_ [het] [een] kop met [het] wat heel klein [aan de rechterkant] beginnen [en] dan [een cirkel] [zijn] 
+B|17| B: dus [het] voelen [een beetje] [alsof het] [een] soort pannetje [zijn] 
+B|18| B: dus rechts van [het] kop 
+B|19| B: zitten [die] [cirkel] 
+B|20| B: [die] met [een] heel klein stuk bevestigen zitten 
+B|21| B: [en] [aan de] linkerkant van [het] kop zitten best wel [een] breed figuur [en] [op] [dat] figuur zelf schiet er iets naar achter 
+B|22| B: [ja] trompeten 
+B|23| B: [ja] 
+A|24| A: [die] bijzettafel 
+B|25| B: [ja] even kijken 
+B|26| B: link waar [zijn] [je] 
+B|27| B: [ja] [ja] [ja] 
+B|28| B: [de] [het] lopen naar achter [die] trompet inderdaad [ja] 
+B|29| B: B 
+A|30| A: [ja] 
+A|31| A: vijf 
+A|32| A: [dit zijn] [die] bijzettafel 
+B|33| B: trompet naar achter lopen 
+A|34| A: veertien 
+B|35| B: [ja] trompetje 
+B|36| B: M 
+B|37| B: trompet 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : deze hebben een een cirkel aan de rechterkant die eruitzien alsof het zeggen maar
+	Free: Pattern=alsof het, Pattern=een, Pattern=een cirkel, Pattern=aan de rechterkant, Pattern=die
+	Constrained: Pattern=cirkel, Pattern=de, Pattern=aan de, Pattern=een, Pattern=het, Pattern=alsof
+Turn ID=1| A | A : dat je daar een glas op kunnen voortzetten
+	Free: Pattern=dat, Pattern=kunnen, Pattern=op, Pattern=een, Pattern=je
+	Constrained: 
+Turn ID=2| A | A : en en links zijn een een groot uitsteeksel die een beetje bred worden
+	Free: Pattern=een, Pattern=die, Pattern=en, Pattern=zijn, Pattern=een beetje
+	Constrained: Pattern=een
+Turn ID=3| B | B : even kijken
+	Free: 
+	Constrained: 
+Turn ID=4| B | B : trompe
+	Free: 
+	Constrained: 
+Turn ID=5| B | B : dat naar achter lopen
+	Free: Pattern=dat
+	Constrained: 
+Turn ID=6| B | B : dus het zullen een panne kunnen zijn wat aan de rechterkant zitten
+	Free: Pattern=kunnen, Pattern=een, Pattern=het, Pattern=aan de rechterkant, Pattern=zijn
+	Constrained: Pattern=de, Pattern=aan de
+Turn ID=7| B | B : oké
+	Free: 
+	Constrained: 
+Turn ID=8| B | B : M
+	Free: 
+	Constrained: 
+Turn ID=9| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=10| A | A : zijn hem ik zijn hem aan het zoeken
+	Free: Pattern=aan het, Pattern=zijn
+	Constrained: Pattern=het
+Turn ID=11| A | A : daar
+	Free: 
+	Constrained: 
+Turn ID=12| A | A : vijf
+	Free: 
+	Constrained: 
+Turn ID=13| B | B : pijl lopen naar achter soort panne
+	Free: 
+	Constrained: 
+Turn ID=14| B | B : en het panne zitten rechtsvoor
+	Free: Pattern=en, Pattern=het
+	Constrained: 
+Turn ID=15| B | B : en er zitten aan de linkerkant komen er recht komen er een figuur uit en er gaan iets naar achter alsof weg aan het schieten zijn
+	Free: Pattern=aan het, Pattern=aan de, Pattern=een, Pattern=alsof, Pattern=en, Pattern=zijn
+	Constrained: Pattern=het, Pattern=de
+Turn ID=16| B | B : dit zijn het een kop met het wat heel klein aan de rechterkant beginnen en dan een cirkel zijn
+	Free: Pattern=het, Pattern=aan de rechterkant, Pattern=en, Pattern=zijn, Pattern=dit zijn, Pattern=een, Pattern=een cirkel
+	Constrained: Pattern=cirkel, Pattern=de, Pattern=aan de, Pattern=een, Pattern=zijn
+Turn ID=17| B | B : dus het voelen een beetje alsof het een soort pannetje zijn
+	Free: Pattern=alsof het, Pattern=een, Pattern=het, Pattern=zijn, Pattern=een beetje
+	Constrained: Pattern=een, Pattern=het, Pattern=alsof
+Turn ID=18| B | B : dus rechts van het kop
+	Free: Pattern=het
+	Constrained: 
+Turn ID=19| B | B : zitten die cirkel
+	Free: Pattern=die, Pattern=cirkel
+	Constrained: 
+Turn ID=20| B | B : die met een heel klein stuk bevestigen zitten
+	Free: Pattern=een, Pattern=die
+	Constrained: 
+Turn ID=21| B | B : en aan de linkerkant van het kop zitten best wel een breed figuur en op dat figuur zelf schiet er iets naar achter
+	Free: Pattern=dat, Pattern=een, Pattern=het, Pattern=en, Pattern=op, Pattern=aan de
+	Constrained: Pattern=de
+Turn ID=22| B | B : ja trompeten
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=23| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=24| A | A : die bijzettafel
+	Free: Pattern=die
+	Constrained: 
+Turn ID=25| B | B : ja even kijken
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=26| B | B : link waar zijn je
+	Free: Pattern=zijn, Pattern=je
+	Constrained: 
+Turn ID=27| B | B : ja ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=28| B | B : de het lopen naar achter die trompet inderdaad ja
+	Free: Pattern=ja, Pattern=die, Pattern=het, Pattern=de
+	Constrained: 
+Turn ID=29| B | B : B
+	Free: 
+	Constrained: 
+Turn ID=30| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=31| A | A : vijf
+	Free: 
+	Constrained: 
+Turn ID=32| A | A : dit zijn die bijzettafel
+	Free: Pattern=dit zijn, Pattern=die
+	Constrained: Pattern=zijn
+Turn ID=33| B | B : trompet naar achter lopen
+	Free: 
+	Constrained: 
+Turn ID=34| A | A : veertien
+	Free: 
+	Constrained: 
+Turn ID=35| B | B : ja trompetje
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=36| B | B : M
+	Free: 
+	Constrained: 
+Turn ID=37| B | B : trompet
+	Free: 
+	Constrained: 

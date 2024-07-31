@@ -1,0 +1,91 @@
+B|0| B: _oké_ _dit_ vinden ik een _soort_ van _standbeeld_ 
+B|1| B: hij _hebben_ onderaan een poot _dan_ een stuk tussen _het_ lichaam _en_ 
+B|2| B: _die_ poot _en dan_ bovenaan _hebben_ _die_ in _het_ midden een blok rechts een blok _en_ link een _soort_ armp 
+A|3| A: _ja_ 
+A|4| A: [oké] [dan] _zijn_ [het] nummer vier 
+B|5| B: [ja] 
+A|6| A: [dit] _zijn_ [die] jij toen [hebben] met dat [soort] [standbeeld] op dat plateau [en dan] één zo'n ding 
+B|7| B: [oké] [ja] 
+B|8| B: [ja] 
+B|9| B: [het] [zijn] A 
+B|10| B: _het standbeeld_ 
+A|11| A: [ja] 
+A|12| A: nummer tien 
+A|13| A: [dit] [zijn] dat [standbeeld] 
+B|14| B: [ja] L 
+A|15| A: [oké] jammer 
+B|16| B: _het standbeeld_ 
+A|17| A: even kijken _waar_ [die] [zijn] 
+A|18| A: [ja] nummer vier 
+A|19| A: [het standbeeld] 
+B|20| B: [waar] staan [die] 
+B|21| B: [ja] F 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : oké dit vinden ik een soort van standbeeld
+	Free: Pattern=soort, Pattern=standbeeld, Pattern=oké, Pattern=dit
+	Constrained: 
+Turn ID=1| B | B : hij hebben onderaan een poot dan een stuk tussen het lichaam en
+	Free: Pattern=dan, Pattern=en, Pattern=het, Pattern=hebben
+	Constrained: 
+Turn ID=2| B | B : die poot en dan bovenaan hebben die in het midden een blok rechts een blok en link een soort armp
+	Free: Pattern=soort, Pattern=en dan, Pattern=het, Pattern=hebben, Pattern=die, Pattern=en
+	Constrained: Pattern=dan, Pattern=en
+Turn ID=3| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=4| A | A : oké dan zijn het nummer vier
+	Free: Pattern=dan, Pattern=oké, Pattern=het, Pattern=zijn
+	Constrained: 
+Turn ID=5| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=6| A | A : dit zijn die jij toen hebben met dat soort standbeeld op dat plateau en dan één zo'n ding
+	Free: Pattern=en dan, Pattern=hebben, Pattern=dit, Pattern=die, Pattern=zijn, Pattern=standbeeld, Pattern=soort
+	Constrained: Pattern=dan, Pattern=en
+Turn ID=7| B | B : oké ja
+	Free: Pattern=ja, Pattern=oké
+	Constrained: 
+Turn ID=8| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=9| B | B : het zijn A
+	Free: Pattern=het, Pattern=zijn
+	Constrained: 
+Turn ID=10| B | B : het standbeeld
+	Free: Pattern=het standbeeld
+	Constrained: Pattern=standbeeld, Pattern=het
+Turn ID=11| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=12| A | A : nummer tien
+	Free: 
+	Constrained: 
+Turn ID=13| A | A : dit zijn dat standbeeld
+	Free: Pattern=standbeeld, Pattern=zijn, Pattern=dit
+	Constrained: 
+Turn ID=14| B | B : ja L
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=15| A | A : oké jammer
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=16| B | B : het standbeeld
+	Free: Pattern=het standbeeld
+	Constrained: Pattern=standbeeld, Pattern=het
+Turn ID=17| A | A : even kijken waar die zijn
+	Free: Pattern=waar, Pattern=zijn, Pattern=die
+	Constrained: 
+Turn ID=18| A | A : ja nummer vier
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=19| A | A : het standbeeld
+	Free: Pattern=het standbeeld
+	Constrained: Pattern=standbeeld, Pattern=het
+Turn ID=20| B | B : waar staan die
+	Free: Pattern=waar, Pattern=die
+	Constrained: 
+Turn ID=21| B | B : ja F
+	Free: Pattern=ja
+	Constrained: 

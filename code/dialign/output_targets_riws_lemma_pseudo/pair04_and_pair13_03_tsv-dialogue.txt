@@ -1,0 +1,151 @@
+A|0| A: _ja_ 
+A|1| A: _dat zijn_ nummer _twee_ 
+B|2| B: _het_ lijken alsof _het_ er [zijn] eerst _een soort_ van plateauachtig iets in _een driehoekje_ _dan_ _een_ staaf _en dan_ komen _het_ beker dus [zijn] hij zweeven iets hoog in _de_ lucht 
+B|3| B: _en dan hebben je_ even kijken _twee vierkant bovenop_ één _die_ uitsteken aan _de_ rechterkant één _die_ er gewoon _op_ _staan_ 
+B|4| B: _en_ aan _de_ linkerkant _nog een_ _een uitsteeksel_ van iets 
+B|5| B: liggen eraan wat voor houder 
+B|6| B: nee nee nee geen [twee] streep 
+B|7| B: _ik_ snapen _welk je bedoelen_ nee [dat zijn] hem niet 
+B|8| B: even kijken _het_ [zijn] echt zo'n _je_ _hebben_ eerst _een_ plateau _en dan_ zo'n ding _en dan_ komen _het_ beker 
+B|9| B: dus alsof hij gewoon iets hij hij [zijn] sowieso wat boven in _de_ lucht als _je_ hem zullen neerzetten 
+A|10| A: _ik weten_ wel [welk je bedoelen] 
+A|11| A: hier [hebben je] weer [de] hoofdvorm [die] [staan] [op] [een soort] ronddraaien staafje [en] [dat] ronddraaien staafje [die] [staan] weer [op] [een driehoekje] [een soort] taartpun 
+B|12| B: nee 
+B|13| B: nee eerst [een] plateau 
+B|14| B: [soort] van wijnglasidee 
+A|15| A: [en dan hebben je] [twee vierkant bovenop] 
+B|16| B: [hebben je] ook eerst [een soort] van plateau [en] 
+B|17| B: nou alleen _dit_ wijnglas [zijn] scheef 
+B|18| B: [een] beetje 
+B|19| B: [ja] 
+B|20| B: [en dan] [een] [vierkant] in _het_ midden [en] aan [de] linkerkant _nog_ iets 
+B|21| B: [ja] 
+B|22| B: [ja] [ja] 
+A|23| A: [ja] 
+A|24| A: nummer vijfteen 
+B|25| B: [ja] 
+B|26| B: [ja] [ik weten] hem 
+B|27| B: [ja] 
+B|28| B: [ja] [dat zijn] j 
+A|29| A: hier [hebben je] weer [dat] [dat] hoofdvorm [dat] [op] [een soort] ronddraaien figuur [staan] [op] [die] pizzapunt of [die] taartpunt 
+A|30| A: [en] [nog [een] uitsteeksel] 
+A|31| A: [ja] nummer twaalf 
+A|32| A: [dit] [zijn] [het] pizzapun of [het] taartpun 
+B|33| B: [het] wijnglas 
+B|34| B: ah [ja] p 
+B|35| B: [het] wijnglas 
+B|36| B: [dat zijn] à 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=1| A | A : dat zijn nummer twee
+	Free: Pattern=dat zijn, Pattern=twee
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=2| B | B : het lijken alsof het er zijn eerst een soort van plateauachtig iets in een driehoekje dan een staaf en dan komen het beker dus zijn hij zweeven iets hoog in de lucht
+	Free: Pattern=de, Pattern=en dan, Pattern=dan, Pattern=een, Pattern=het, Pattern=een driehoekje, Pattern=een soort, Pattern=zijn
+	Constrained: Pattern=dan, Pattern=een, Pattern=soort, Pattern=en
+Turn ID=3| B | B : en dan hebben je even kijken twee vierkant bovenop één die uitsteken aan de rechterkant één die er gewoon op staan
+	Free: Pattern=de, Pattern=op, Pattern=staan, Pattern=twee vierkant bovenop, Pattern=en dan hebben je, Pattern=die
+	Constrained: Pattern=twee, Pattern=en dan, Pattern=dan, Pattern=hebben, Pattern=hebben je, Pattern=en, Pattern=vierkant, Pattern=je
+Turn ID=4| B | B : en aan de linkerkant nog een een uitsteeksel van iets
+	Free: Pattern=een uitsteeksel, Pattern=nog een, Pattern=en, Pattern=de
+	Constrained: Pattern=een, Pattern=nog
+Turn ID=5| B | B : liggen eraan wat voor houder
+	Free: 
+	Constrained: 
+Turn ID=6| B | B : nee nee nee geen twee streep
+	Free: Pattern=twee
+	Constrained: 
+Turn ID=7| B | B : ik snapen welk je bedoelen nee dat zijn hem niet
+	Free: Pattern=welk je bedoelen, Pattern=dat zijn, Pattern=ik
+	Constrained: Pattern=dat, Pattern=zijn, Pattern=je
+Turn ID=8| B | B : even kijken het zijn echt zo'n je hebben eerst een plateau en dan zo'n ding en dan komen het beker
+	Free: Pattern=en dan, Pattern=een, Pattern=het, Pattern=hebben, Pattern=zijn, Pattern=je
+	Constrained: Pattern=dan, Pattern=en
+Turn ID=9| B | B : dus alsof hij gewoon iets hij hij zijn sowieso wat boven in de lucht als je hem zullen neerzetten
+	Free: Pattern=je, Pattern=zijn, Pattern=de
+	Constrained: 
+Turn ID=10| A | A : ik weten wel welk je bedoelen
+	Free: Pattern=welk je bedoelen, Pattern=ik weten
+	Constrained: Pattern=je, Pattern=ik
+Turn ID=11| A | A : hier hebben je weer de hoofdvorm die staan op een soort ronddraaien staafje en dat ronddraaien staafje die staan weer op een driehoekje een soort taartpun
+	Free: Pattern=dat, Pattern=de, Pattern=op, Pattern=staan, Pattern=en, Pattern=een driehoekje, Pattern=die, Pattern=hebben je, Pattern=een soort
+	Constrained: Pattern=een, Pattern=je, Pattern=soort, Pattern=hebben
+Turn ID=12| B | B : nee
+	Free: 
+	Constrained: 
+Turn ID=13| B | B : nee eerst een plateau
+	Free: Pattern=een
+	Constrained: 
+Turn ID=14| B | B : soort van wijnglasidee
+	Free: Pattern=soort
+	Constrained: 
+Turn ID=15| A | A : en dan hebben je twee vierkant bovenop
+	Free: Pattern=en dan hebben je, Pattern=twee vierkant bovenop
+	Constrained: Pattern=twee, Pattern=en dan, Pattern=dan, Pattern=hebben, Pattern=hebben je, Pattern=en, Pattern=vierkant, Pattern=je
+Turn ID=16| B | B : hebben je ook eerst een soort van plateau en
+	Free: Pattern=een soort, Pattern=hebben je, Pattern=en
+	Constrained: Pattern=soort, Pattern=een, Pattern=hebben, Pattern=je
+Turn ID=17| B | B : nou alleen dit wijnglas zijn scheef
+	Free: Pattern=dit, Pattern=zijn
+	Constrained: 
+Turn ID=18| B | B : een beetje
+	Free: Pattern=een
+	Constrained: 
+Turn ID=19| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=20| B | B : en dan een vierkant in het midden en aan de linkerkant nog iets
+	Free: Pattern=nog, Pattern=de, Pattern=en dan, Pattern=een, Pattern=het, Pattern=en, Pattern=vierkant
+	Constrained: Pattern=dan, Pattern=en
+Turn ID=21| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=22| B | B : ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=23| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=24| A | A : nummer vijfteen
+	Free: 
+	Constrained: 
+Turn ID=25| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=26| B | B : ja ik weten hem
+	Free: Pattern=ik weten, Pattern=ja
+	Constrained: Pattern=ik
+Turn ID=27| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=28| B | B : ja dat zijn j
+	Free: Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=29| A | A : hier hebben je weer dat dat hoofdvorm dat op een soort ronddraaien figuur staan op die pizzapunt of die taartpunt
+	Free: Pattern=dat, Pattern=op, Pattern=staan, Pattern=die, Pattern=hebben je, Pattern=een soort
+	Constrained: Pattern=soort, Pattern=een, Pattern=hebben, Pattern=je
+Turn ID=30| A | A : en nog een uitsteeksel
+	Free: Pattern=een uitsteeksel, Pattern=nog een, Pattern=en
+	Constrained: Pattern=een, Pattern=nog
+Turn ID=31| A | A : ja nummer twaalf
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=32| A | A : dit zijn het pizzapun of het taartpun
+	Free: Pattern=dit, Pattern=het, Pattern=zijn
+	Constrained: 
+Turn ID=33| B | B : het wijnglas
+	Free: Pattern=het
+	Constrained: 
+Turn ID=34| B | B : ah ja p
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=35| B | B : het wijnglas
+	Free: Pattern=het
+	Constrained: 
+Turn ID=36| B | B : dat zijn à
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn

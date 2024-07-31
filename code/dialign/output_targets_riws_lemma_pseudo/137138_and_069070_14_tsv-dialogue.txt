@@ -1,0 +1,123 @@
+B|0| B: oké 
+B|1| B: _even kijken_ 
+B|2| B: _ja_ 
+B|3| B: _ja_ _met een_ hoek erin _dat_ uitsteeksel 
+B|4| B: _ja_ _en_ _die_ _balk_ _zijn_ eigenlijk gewoon los 
+B|5| B: _ja_ oké 
+B|6| B: dan _zijn_ _het_ d 
+A|7| A: [even kijken] horen _dit_ figuur _hebben een_ [een] bolle _bovenop_ 
+A|8| A: [en] als _ik_ zo kijk [zijn] [dat] _de_ enig [die] [dat] _hebben_ 
+A|9| A: hij _hebben_ ook _een balk_ ervoor staan 
+A|10| A: [ja] 
+A|11| A: [ja] 
+B|12| B: oké 
+B|13| B: deze [hebben [een] balk] _aan de_ voorkant 
+B|14| B: deze [hebben] we al [hebben] [de] [balk] _aan de_ voorkant [en] zo'n bol _erbovenop_ [en] twee van [die] arm _aan de_ zijkant 
+A|15| A: [met een] balkje ervoor 
+A|16| A: [ja] 
+A|17| A: nummer vijftien 
+B|18| B: [ja] [en] [een] bal daarbovenop [ja] 
+B|19| B: oké _dat zijn_ L 
+A|20| A: [even kijken] _dit zijn_ [aan de] beide kant steken er iets uit _dit zijn_ [de] enig [met een] bolle erop 
+B|21| B: [dit zijn] degeen waar [de] [balk] voor staat [met] twee uitsteeksel [en] [een] bol [bovenop] 
+A|22| A: bolle [bovenop] [met een] balkje ervoor 
+A|23| A: [ja] [dat zijn] nummer zes 
+B|24| B: [die] [een] beetje losstaan [ja] 
+B|25| B: [dat zijn] J 
+A|26| A: [dit zijn] [de] figuur [met] [het] ballet [erbovenop] [met [een] balk] ervoor 
+A|27| A: enig [met een] balle [erbovenop] [ja] 
+B|28| B: [ik] [hebben] diegene waar [de] [balk] voor staat [en] [die] bol daarbovenop [en] [die] twee uitsteeksel 
+A|29| A: [ja] [dat zijn] nummer drie 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : oké
+	Free: 
+	Constrained: 
+Turn ID=1| B | B : even kijken
+	Free: Pattern=even kijken
+	Constrained: 
+Turn ID=2| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=3| B | B : ja met een hoek erin dat uitsteeksel
+	Free: Pattern=met een, Pattern=dat, Pattern=ja
+	Constrained: Pattern=een, Pattern=met
+Turn ID=4| B | B : ja en die balk zijn eigenlijk gewoon los
+	Free: Pattern=ja, Pattern=balk, Pattern=die, Pattern=en, Pattern=zijn
+	Constrained: 
+Turn ID=5| B | B : ja oké
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=6| B | B : dan zijn het d
+	Free: Pattern=het, Pattern=zijn
+	Constrained: 
+Turn ID=7| A | A : even kijken horen dit figuur hebben een een bolle bovenop
+	Free: Pattern=bovenop, Pattern=hebben een, Pattern=een, Pattern=dit, Pattern=even kijken
+	Constrained: Pattern=hebben, Pattern=een
+Turn ID=8| A | A : en als ik zo kijk zijn dat de enig die dat hebben
+	Free: Pattern=dat, Pattern=de, Pattern=hebben, Pattern=die, Pattern=ik, Pattern=en, Pattern=zijn
+	Constrained: 
+Turn ID=9| A | A : hij hebben ook een balk ervoor staan
+	Free: Pattern=een balk, Pattern=hebben
+	Constrained: Pattern=een, Pattern=balk
+Turn ID=10| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=11| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=12| B | B : oké
+	Free: 
+	Constrained: 
+Turn ID=13| B | B : deze hebben een balk aan de voorkant
+	Free: Pattern=aan de, Pattern=een balk, Pattern=hebben een
+	Constrained: Pattern=hebben, Pattern=de, Pattern=een, Pattern=balk
+Turn ID=14| B | B : deze hebben we al hebben de balk aan de voorkant en zo'n bol erbovenop en twee van die arm aan de zijkant
+	Free: Pattern=de, Pattern=aan de, Pattern=hebben, Pattern=balk, Pattern=die, Pattern=erbovenop, Pattern=en
+	Constrained: Pattern=de
+Turn ID=15| A | A : met een balkje ervoor
+	Free: Pattern=met een
+	Constrained: Pattern=een, Pattern=met
+Turn ID=16| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=17| A | A : nummer vijftien
+	Free: 
+	Constrained: 
+Turn ID=18| B | B : ja en een bal daarbovenop ja
+	Free: Pattern=en, Pattern=een, Pattern=ja
+	Constrained: 
+Turn ID=19| B | B : oké dat zijn L
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=20| A | A : even kijken dit zijn aan de beide kant steken er iets uit dit zijn de enig met een bolle erop
+	Free: Pattern=de, Pattern=aan de, Pattern=even kijken, Pattern=met een, Pattern=dit zijn
+	Constrained: Pattern=de, Pattern=een, Pattern=dit, Pattern=met, Pattern=zijn
+Turn ID=21| B | B : dit zijn degeen waar de balk voor staat met twee uitsteeksel en een bol bovenop
+	Free: Pattern=bovenop, Pattern=de, Pattern=een, Pattern=balk, Pattern=met, Pattern=en, Pattern=dit zijn
+	Constrained: Pattern=dit, Pattern=zijn
+Turn ID=22| A | A : bolle bovenop met een balkje ervoor
+	Free: Pattern=met een, Pattern=bovenop
+	Constrained: Pattern=een, Pattern=met
+Turn ID=23| A | A : ja dat zijn nummer zes
+	Free: Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=24| B | B : die een beetje losstaan ja
+	Free: Pattern=die, Pattern=een, Pattern=ja
+	Constrained: 
+Turn ID=25| B | B : dat zijn J
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=26| A | A : dit zijn de figuur met het ballet erbovenop met een balk ervoor
+	Free: Pattern=de, Pattern=het, Pattern=met, Pattern=met een, Pattern=erbovenop, Pattern=dit zijn, Pattern=een balk
+	Constrained: Pattern=een, Pattern=dit, Pattern=balk, Pattern=met, Pattern=zijn
+Turn ID=27| A | A : enig met een balle erbovenop ja
+	Free: Pattern=met een, Pattern=ja, Pattern=erbovenop
+	Constrained: Pattern=een, Pattern=met
+Turn ID=28| B | B : ik hebben diegene waar de balk voor staat en die bol daarbovenop en die twee uitsteeksel
+	Free: Pattern=de, Pattern=hebben, Pattern=balk, Pattern=die, Pattern=ik, Pattern=en
+	Constrained: 
+Turn ID=29| A | A : ja dat zijn nummer drie
+	Free: Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=dat, Pattern=zijn

@@ -1,0 +1,123 @@
+B|0| B: _ja_ 
+B|1| B: o eigenlijk _zo'n_ slurfje zo 
+B|2| B: _ja_ _en aan de_ bovenkant _een_ _soort van_ vierkan inderdaad _met_ _aan_ beide kant iets er uit steken 
+B|3| B: _en_ link _zitten een_ _soort van_ _ja_ arm _ja_ _dat zijn_ M 
+A|4| A: [ja] 
+A|5| A: dit [zijn] _het zijn_ _het_ kop [en] dan _bovenop_ [zitten] dan [een] ruit [met] [een] _vierkant_ staaf erdoorheen _die_ ook steeds groot worden naar [aan de] buitenkant 
+A|6| A: [en] dan [aan de] rechterkant [zitten een] [een] staaf [met] [een] knik [en aan de] voorkant [zitten] ook [een] staaf [en _aan de] onderkant zitten_ ook [zo'n] [soort van] poo [met] [een] knik 
+B|7| B: [ja] weten niet maken [het] wel makkelijk 
+B|8| B: [het zijn] zegmaar _die met_ [zo'n] vierkan [bovenop] [die] [aan] beide kant doorboren [zijn] [aan de onderkant zitten] weer [zo'n] gek 
+B|9| B: glijbaan waar je [het] net over hebben [en] hij hebben [een] heel lang _neus_ bij wijze [van] spreken 
+B|10| B: [ja] [en] _met _die_ neus_ [ja] H 
+A|11| A: [ja] [ja] 
+A|12| A: [ja] 
+A|13| A: [ja] [ja] [die] groot worden 
+A|14| A: yes [dat zijn] negen 
+B|15| B: [dat] glijbaan onderin [en] bovenin [zo'n] [vierkant] wat doorboord [zijn] [aan] beide kant 
+B|16| B: even kijken 
+B|17| B: even kijken _met die_ arm 
+B|18| B: [dat] bovenste vierkan wat doorboren [zijn] [aan] beide kant 
+B|19| B: o [ja] [dat] [ja] sorry D 
+A|20| A: dit [zijn] [de] [ja] [die [met] die] [die] [die] ruit [bovenop] [en] dan [die] [vierkant] erdoorheen 
+A|21| A: [die] [die] klein wordende groot worden vierkante [en] dan links ik bedoelen rechts [en [aan de] onderkant] nog [een] haak [en aan de] voorkant nog [die neus] 
+B|22| B: [dat] glijbaan onderaan [en] doorbooren [vierkant] [aan] beide kant bovenaan 
+A|23| A: [ja] 
+A|24| A: [dat zijn] elf 
+A|25| A: [ja] dit [zijn] [die [met] die] [die] [die] [die] ruit [bovenop] [met die] [vierkant] [die] groot [en] klein worden 
+A|26| A: [en] [die] drie uitstulpings 
+A|27| A: nee 
+A|28| A: [en] [die] ander drie 
+A|29| A: [dat zijn] veertien 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=1| B | B : o eigenlijk zo'n slurfje zo
+	Free: Pattern=zo'n
+	Constrained: 
+Turn ID=2| B | B : ja en aan de bovenkant een soort van vierkan inderdaad met aan beide kant iets er uit steken
+	Free: Pattern=een, Pattern=met, Pattern=soort van, Pattern=en aan de, Pattern=aan, Pattern=ja
+	Constrained: Pattern=aan de, Pattern=de, Pattern=aan, Pattern=van, Pattern=en
+Turn ID=3| B | B : en link zitten een soort van ja arm ja dat zijn M
+	Free: Pattern=dat zijn, Pattern=ja, Pattern=zitten een, Pattern=en, Pattern=soort van
+	Constrained: Pattern=dat, Pattern=een, Pattern=zitten, Pattern=van, Pattern=zijn
+Turn ID=4| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=5| A | A : dit zijn het zijn het kop en dan bovenop zitten dan een ruit met een vierkant staaf erdoorheen die ook steeds groot worden naar aan de buitenkant
+	Free: Pattern=bovenop, Pattern=aan de, Pattern=een, Pattern=het, Pattern=met, Pattern=en, Pattern=zijn, Pattern=vierkant, Pattern=het zijn, Pattern=die, Pattern=zitten
+	Constrained: Pattern=aan, Pattern=de, Pattern=het, Pattern=zijn
+Turn ID=6| A | A : en dan aan de rechterkant zitten een een staaf met een knik en aan de voorkant zitten ook een staaf en aan de onderkant zitten ook zo'n soort van poo met een knik
+	Free: Pattern=aan de onderkant zitten, Pattern=zo'n, Pattern=aan de, Pattern=een, Pattern=met, Pattern=zitten, Pattern=zitten een, Pattern=en, Pattern=soort van, Pattern=en aan de
+	Constrained: Pattern=aan de, Pattern=een, Pattern=aan de onderkant, Pattern=zitten, Pattern=de, Pattern=aan, Pattern=van, Pattern=en
+Turn ID=7| B | B : ja weten niet maken het wel makkelijk
+	Free: Pattern=ja, Pattern=het
+	Constrained: 
+Turn ID=8| B | B : het zijn zegmaar die met zo'n vierkan bovenop die aan beide kant doorboren zijn aan de onderkant zitten weer zo'n gek
+	Free: Pattern=aan de onderkant zitten, Pattern=bovenop, Pattern=zo'n, Pattern=aan, Pattern=die met, Pattern=zijn, Pattern=het zijn, Pattern=die
+	Constrained: Pattern=aan de, Pattern=het, Pattern=aan de onderkant, Pattern=met, Pattern=zijn, Pattern=de, Pattern=aan, Pattern=die, Pattern=zitten
+Turn ID=9| B | B : glijbaan waar je het net over hebben en hij hebben een heel lang neus bij wijze van spreken
+	Free: Pattern=een, Pattern=het, Pattern=neus, Pattern=van, Pattern=en
+	Constrained: 
+Turn ID=10| B | B : ja en met die neus ja H
+	Free: Pattern=die neus, Pattern=met die, Pattern=ja, Pattern=en
+	Constrained: Pattern=die, Pattern=met, Pattern=neus
+Turn ID=11| A | A : ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=12| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=13| A | A : ja ja die groot worden
+	Free: Pattern=die, Pattern=ja
+	Constrained: 
+Turn ID=14| A | A : yes dat zijn negen
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=15| B | B : dat glijbaan onderin en bovenin zo'n vierkant wat doorboord zijn aan beide kant
+	Free: Pattern=dat, Pattern=zo'n, Pattern=aan, Pattern=en, Pattern=zijn, Pattern=vierkant
+	Constrained: 
+Turn ID=16| B | B : even kijken
+	Free: 
+	Constrained: 
+Turn ID=17| B | B : even kijken met die arm
+	Free: Pattern=met die
+	Constrained: Pattern=die, Pattern=met
+Turn ID=18| B | B : dat bovenste vierkan wat doorboren zijn aan beide kant
+	Free: Pattern=aan, Pattern=dat, Pattern=zijn
+	Constrained: 
+Turn ID=19| B | B : o ja dat ja sorry D
+	Free: Pattern=ja, Pattern=dat
+	Constrained: 
+Turn ID=20| A | A : dit zijn de ja die met die die die ruit bovenop en dan die vierkant erdoorheen
+	Free: Pattern=die met, Pattern=die, Pattern=en, Pattern=zijn, Pattern=vierkant, Pattern=met die, Pattern=bovenop, Pattern=de, Pattern=ja
+	Constrained: Pattern=die, Pattern=met
+Turn ID=21| A | A : die die klein wordende groot worden vierkante en dan links ik bedoelen rechts en aan de onderkant nog een haak en aan de voorkant nog die neus
+	Free: Pattern=die neus, Pattern=een, Pattern=aan de onderkant, Pattern=die, Pattern=en, Pattern=en aan de
+	Constrained: Pattern=aan de, Pattern=neus, Pattern=die, Pattern=en, Pattern=de, Pattern=aan
+Turn ID=22| B | B : dat glijbaan onderaan en doorbooren vierkant aan beide kant bovenaan
+	Free: Pattern=aan, Pattern=vierkant, Pattern=dat, Pattern=en
+	Constrained: 
+Turn ID=23| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=24| A | A : dat zijn elf
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=25| A | A : ja dit zijn die met die die die die ruit bovenop met die vierkant die groot en klein worden
+	Free: Pattern=ja, Pattern=die met, Pattern=die, Pattern=en, Pattern=zijn, Pattern=vierkant, Pattern=met die, Pattern=bovenop
+	Constrained: Pattern=die, Pattern=met
+Turn ID=26| A | A : en die drie uitstulpings
+	Free: Pattern=die, Pattern=en
+	Constrained: 
+Turn ID=27| A | A : nee
+	Free: 
+	Constrained: 
+Turn ID=28| A | A : en die ander drie
+	Free: Pattern=die, Pattern=en
+	Constrained: 
+Turn ID=29| A | A : dat zijn veertien
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn

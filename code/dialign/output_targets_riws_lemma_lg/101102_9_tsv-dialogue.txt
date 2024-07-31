@@ -1,0 +1,179 @@
+A|0| A: goed 
+B|1| B: _oké_ 
+B|2| B: _het_ _zijn_ _een_ _er_ _zitten_ _een_ cirkel verstpen achter _het kop_ 
+B|3| B: _en_ _er_ steken _een_ ding _uit_ 
+B|4| B: _aan de_ zijkant _en_ ook _aan de_ bovenkant 
+B|5| B: _en het_ ding wat _aan de_ bovenkant uitsteekt _zijn_ afronden 
+B|6| B: _en het_ ding wat _aan de_ zijkant uitsteken _zijn_ gewoon _een_ cilinder 
+A|7| A: lijken [het] _een soort_ van _op een_ [kop] waar [een] _lepel_ in [zitten] zeggen maar 
+A|8| A: [en] dan _met_ nog [een] rond bovenop 
+B|9| B: _ja_ 
+B|10| B: _ja_ 
+A|11| A: [oké] 
+B|12| B: [en] daarachter [zitten] dus wel [een soort] plaat verstpen 
+A|13| A: [ja] 
+B|14| B: achter _het kop_ 
+A|15| A: [en] [zijn] _de onderkant zijn_ _die_ _plat_ 
+B|16| B: [ja] [de onderkant zijn] [plat] 
+B|17| B: hij _staan op een soort_ _dinge_ _het kop_ 
+A|18| A: [ja] [oké] 
+A|19| A: dan [zijn] [het] nummer dertien 
+A|20| A: [en] _op de geel knop_ drukken 
+B|21| B: [op de geel knop] [ja] 
+A|22| A: [oké] 
+A|23| A: _dit zijn_ weer [het kop] _met de_ lepeltje eruit [en] _dat_ rond schijf [aan de] achterkant 
+A|24| A: _met_ _die_ [plat] [plat] [onderkant] [en] _die_ [staan op een soort] van [ja] [dinge] 
+B|25| B: [ja] 
+B|26| B: [dinge] [ja] O [zijn] [dat] 
+B|27| B: [dit zijn] [met de] verbergen cirkel achter [het kop] [op] [het] plateau 
+B|28| B: _met het lepel erin_ ook 
+A|29| A: [lepel erin] 
+A|30| A: [ja] nummer acht 
+A|31| A: [dit zijn] [het kop] [met het lepel] [en het] rond [dat] [er] [aan de] achterkant [uit] komen 
+B|32| B: [ja] 
+B|33| B: _dat zijn_ C 
+B|34| B: verbergen cirkel achter [het kop] [op] [het] statief [met] [dat] [lepel erin] 
+A|35| A: [dat zijn] nummer zeven 
+A|36| A: [dit zijn] [het kop] [met het lepel erin] [en] [dat] [en het] rond [dat] [er] [aan de] achterkant [uit] komen 
+B|37| B: [ja] 
+B|38| B: C 
+A|39| A: mooi 
+B|40| B: tamta 
+B|41| B: [oké] 
+B|42| B: ik hebben [die] plaat wel vaak genoeg zien nu 
+B|43| B: Jezus 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : goed
+	Free: 
+	Constrained: 
+Turn ID=1| B | B : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=2| B | B : het zijn een er zitten een cirkel verstpen achter het kop
+	Free: Pattern=het kop, Pattern=een, Pattern=het, Pattern=zitten, Pattern=er, Pattern=zijn
+	Constrained: Pattern=het, Pattern=kop
+Turn ID=3| B | B : en er steken een ding uit
+	Free: Pattern=uit, Pattern=een, Pattern=er, Pattern=en
+	Constrained: 
+Turn ID=4| B | B : aan de zijkant en ook aan de bovenkant
+	Free: Pattern=aan de, Pattern=en
+	Constrained: 
+Turn ID=5| B | B : en het ding wat aan de bovenkant uitsteekt zijn afronden
+	Free: Pattern=aan de, Pattern=en het, Pattern=zijn
+	Constrained: Pattern=het, Pattern=en
+Turn ID=6| B | B : en het ding wat aan de zijkant uitsteken zijn gewoon een cilinder
+	Free: Pattern=aan de, Pattern=en het, Pattern=een, Pattern=zijn
+	Constrained: Pattern=het, Pattern=en
+Turn ID=7| A | A : lijken het een soort van op een kop waar een lepel in zitten zeggen maar
+	Free: Pattern=lepel, Pattern=een, Pattern=het, Pattern=kop, Pattern=zitten, Pattern=een soort, Pattern=op een
+	Constrained: Pattern=op, Pattern=een
+Turn ID=8| A | A : en dan met nog een rond bovenop
+	Free: Pattern=een, Pattern=met, Pattern=en
+	Constrained: 
+Turn ID=9| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=10| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=11| A | A : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=12| B | B : en daarachter zitten dus wel een soort plaat verstpen
+	Free: Pattern=een soort, Pattern=zitten, Pattern=en
+	Constrained: Pattern=een
+Turn ID=13| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=14| B | B : achter het kop
+	Free: Pattern=het kop
+	Constrained: Pattern=het, Pattern=kop
+Turn ID=15| A | A : en zijn de onderkant zijn die plat
+	Free: Pattern=die, Pattern=de onderkant zijn, Pattern=en, Pattern=plat, Pattern=zijn
+	Constrained: Pattern=onderkant, Pattern=zijn
+Turn ID=16| B | B : ja de onderkant zijn plat
+	Free: Pattern=de onderkant zijn, Pattern=plat, Pattern=ja
+	Constrained: Pattern=onderkant, Pattern=zijn
+Turn ID=17| B | B : hij staan op een soort dinge het kop
+	Free: Pattern=staan op een soort, Pattern=het kop, Pattern=dinge
+	Constrained: Pattern=op, Pattern=een, Pattern=het, Pattern=kop, Pattern=een soort, Pattern=op een
+Turn ID=18| A | A : ja oké
+	Free: Pattern=oké, Pattern=ja
+	Constrained: 
+Turn ID=19| A | A : dan zijn het nummer dertien
+	Free: Pattern=het, Pattern=zijn
+	Constrained: 
+Turn ID=20| A | A : en op de geel knop drukken
+	Free: Pattern=op de geel knop, Pattern=en
+	Constrained: Pattern=op
+Turn ID=21| B | B : op de geel knop ja
+	Free: Pattern=op de geel knop, Pattern=ja
+	Constrained: Pattern=op
+Turn ID=22| A | A : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=23| A | A : dit zijn weer het kop met de lepeltje eruit en dat rond schijf aan de achterkant
+	Free: Pattern=dat, Pattern=met de, Pattern=aan de, Pattern=het kop, Pattern=en, Pattern=dit zijn
+	Constrained: Pattern=zijn, Pattern=met, Pattern=het, Pattern=kop
+Turn ID=24| A | A : met die plat plat onderkant en die staan op een soort van ja dinge
+	Free: Pattern=staan op een soort, Pattern=ja, Pattern=met, Pattern=onderkant, Pattern=en, Pattern=plat, Pattern=die, Pattern=dinge
+	Constrained: Pattern=een soort, Pattern=op een, Pattern=een, Pattern=op
+Turn ID=25| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=26| B | B : dinge ja O zijn dat
+	Free: Pattern=dat, Pattern=dinge, Pattern=zijn, Pattern=ja
+	Constrained: 
+Turn ID=27| B | B : dit zijn met de verbergen cirkel achter het kop op het plateau
+	Free: Pattern=met de, Pattern=op, Pattern=het kop, Pattern=het, Pattern=dit zijn
+	Constrained: Pattern=zijn, Pattern=met, Pattern=het, Pattern=kop
+Turn ID=28| B | B : met het lepel erin ook
+	Free: Pattern=met het lepel erin
+	Constrained: Pattern=lepel, Pattern=met het lepel, Pattern=lepel erin, Pattern=het, Pattern=met
+Turn ID=29| A | A : lepel erin
+	Free: Pattern=lepel erin
+	Constrained: Pattern=lepel
+Turn ID=30| A | A : ja nummer acht
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=31| A | A : dit zijn het kop met het lepel en het rond dat er aan de achterkant uit komen
+	Free: Pattern=dat, Pattern=met het lepel, Pattern=het kop, Pattern=er, Pattern=dit zijn, Pattern=uit, Pattern=aan de, Pattern=en het
+	Constrained: Pattern=lepel, Pattern=het, Pattern=kop, Pattern=met, Pattern=en, Pattern=zijn
+Turn ID=32| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=33| B | B : dat zijn C
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=34| B | B : verbergen cirkel achter het kop op het statief met dat lepel erin
+	Free: Pattern=dat, Pattern=op, Pattern=het, Pattern=met, Pattern=het kop, Pattern=lepel erin
+	Constrained: Pattern=het, Pattern=kop, Pattern=lepel
+Turn ID=35| A | A : dat zijn nummer zeven
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=36| A | A : dit zijn het kop met het lepel erin en dat en het rond dat er aan de achterkant uit komen
+	Free: Pattern=dat, Pattern=het kop, Pattern=er, Pattern=en, Pattern=dit zijn, Pattern=met het lepel erin, Pattern=uit, Pattern=aan de, Pattern=en het
+	Constrained: Pattern=lepel, Pattern=met het lepel, Pattern=lepel erin, Pattern=het, Pattern=kop, Pattern=met, Pattern=en, Pattern=zijn
+Turn ID=37| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=38| B | B : C
+	Free: 
+	Constrained: 
+Turn ID=39| A | A : mooi
+	Free: 
+	Constrained: 
+Turn ID=40| B | B : tamta
+	Free: 
+	Constrained: 
+Turn ID=41| B | B : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=42| B | B : ik hebben die plaat wel vaak genoeg zien nu
+	Free: Pattern=die
+	Constrained: 
+Turn ID=43| B | B : Jezus
+	Free: 
+	Constrained: 

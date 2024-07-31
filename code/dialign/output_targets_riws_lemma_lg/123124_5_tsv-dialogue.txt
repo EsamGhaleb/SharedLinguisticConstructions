@@ -1,0 +1,235 @@
+B|0| B: _dit_ lijken _een_ beetje _op een_ _soort_ WALLErobo 
+B|1| B: _met een_ balk _staan_ erbovenop 
+B|2| B: _en_ _het_ lijken net alsof _die_ _zo_ iets vasthouden 
+B|3| B: _met _een_ heel_ lang _cilindertje_ _erop_ 
+A|4| A: _ja_ _ja_ _ja_ _ja_ _ja_ 
+A|5| A: _ja_ 
+A|6| A: acht 
+A|7| A: _dat zijn_ [dit] _dat_ WALLEpoppe [met] _dat_ _hand_ [met een] buisje [erop] [en] _zo'n_ blok _bovenop_ 
+A|8| A: twee van [die] _ja_ [soort] van armp of [zo] aan _de_ _links_ rechts 
+B|9| B: _met het_ 
+B|10| B: _bedoelen je_ _met het_ vierkant vlak erachter _op een_ standaard 
+A|11| A: _nee_ niet [op] _de_ Standaard 
+A|12| A: _nee_ [met] _zo'n_ [heel] klein buisje [die] [op een] klein armp [staan] 
+B|13| B: [ja] _zeggen_ maar [de] _de beker_ 
+A|14| A: [de beker] 
+B|15| B: [ja] [dat] _zeggen_ maar als _je_ hebben winnen [zo'n] trofee 
+A|16| A: _nee_ _nee_ _nee_ niet _nee_ niet [de beker] 
+A|17| A: _nee_ _dit zijn_ [die] jij [zeggen] WALLEpoppetje vinden _ik_ [een heel] goed 
+A|18| A: hij _zijn_ best wel klein 
+A|19| A: er opsteken niet zoveel uit eigenlijk 
+B|20| B: [en] hebben [die] [zo] [zo'n] [hand] [zo] [met een] cilinder [erop] 
+A|21| A: [ja] 
+A|22| A: precies 
+A|23| A: [die] [ja] 
+B|24| B: _oké_ [ja] 
+B|25| B: [dat zijn] E 
+B|26| B: [dit _zijn] de_ serveerster [die] [zo] [met] 
+A|27| A: [ja] 
+A|28| A: vijftien [met] [de] Eiffeltoren 
+B|29| B: [nee] 
+B|30| B: maar volgens mij hebben [ik] ook [een] keer WALLErobotpoppe [zeggen] 
+B|31| B: bij deze [bovenop] [een] 
+A|32| A: _ja met_ [met het] [cilindertje] [bedoelen je] 
+B|33| B: [ja [met] een] [cilindertje] [en] [bovenop] [een] [ja] [een] lang hoe heten [dat] ? [een] rechthoek [zo'n] lang vlak 
+A|34| A: [ja] 
+A|35| A: [ja] 
+B|36| B: [ja] 
+A|37| A: [oké] zullen _we die_ vanaf nu _WALLE noemen_ 
+B|38| B: [ja] [noemen] [we die] [WALLE] als codetaal 
+A|39| A: [en] dan [zijn de] ander 
+A|40| A: [en] dan [zijn de] ander [de] Eiffeltoren 
+B|41| B: [ja] 
+A|42| A: [oké] één 
+A|43| A: [WALLE] 
+B|44| B: [WALLE] 
+A|45| A: [met het] [cilindertje] 
+B|46| B: even kijken waar [zijn] [WALLE] 
+B|47| B: [ja] 
+B|48| B: E 
+A|49| A: gaan weer bijna fout 
+B|50| B: [ja] 
+B|51| B: [dit zijn] volgens mij hebben [we] deze [WALLE noemen] [zo] [met] [hand] 
+A|52| A: [ja] 
+A|53| A: zestien 
+A|54| A: [WALLE] 
+B|55| B: [WALLE] [zijn] [staan] [die] bij jou ook [links] onderin 
+A|56| A: [ja] helemaal linksonder 
+A|57| A: [ja] 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : dit lijken een beetje op een soort WALLErobo
+	Free: Pattern=op een, Pattern=soort, Pattern=dit, Pattern=een
+	Constrained: Pattern=op, Pattern=een
+Turn ID=1| B | B : met een balk staan erbovenop
+	Free: Pattern=met een, Pattern=staan
+	Constrained: Pattern=een, Pattern=met
+Turn ID=2| B | B : en het lijken net alsof die zo iets vasthouden
+	Free: Pattern=en, Pattern=zo, Pattern=het, Pattern=die
+	Constrained: 
+Turn ID=3| B | B : met een heel lang cilindertje erop
+	Free: Pattern=een heel, Pattern=met een, Pattern=erop, Pattern=cilindertje
+	Constrained: Pattern=heel, Pattern=een, Pattern=met
+Turn ID=4| A | A : ja ja ja ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=5| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=6| A | A : acht
+	Free: 
+	Constrained: 
+Turn ID=7| A | A : dat zijn dit dat WALLEpoppe met dat hand met een buisje erop en zo'n blok bovenop
+	Free: Pattern=zo'n, Pattern=erop, Pattern=dit, Pattern=met, Pattern=hand, Pattern=met een, Pattern=en, Pattern=dat, Pattern=dat zijn, Pattern=bovenop
+	Constrained: Pattern=dat, Pattern=zijn, Pattern=een, Pattern=met
+Turn ID=8| A | A : twee van die ja soort van armp of zo aan de links rechts
+	Free: Pattern=soort, Pattern=links, Pattern=zo, Pattern=die, Pattern=de, Pattern=ja
+	Constrained: 
+Turn ID=9| B | B : met het
+	Free: Pattern=met het
+	Constrained: Pattern=het, Pattern=met
+Turn ID=10| B | B : bedoelen je met het vierkant vlak erachter op een standaard
+	Free: Pattern=met het, Pattern=op een, Pattern=bedoelen je
+	Constrained: Pattern=op, Pattern=een, Pattern=het, Pattern=met, Pattern=je
+Turn ID=11| A | A : nee niet op de Standaard
+	Free: Pattern=nee, Pattern=op, Pattern=de
+	Constrained: 
+Turn ID=12| A | A : nee met zo'n heel klein buisje die op een klein armp staan
+	Free: Pattern=heel, Pattern=zo'n, Pattern=staan, Pattern=nee, Pattern=met, Pattern=die, Pattern=op een
+	Constrained: Pattern=op, Pattern=een
+Turn ID=13| B | B : ja zeggen maar de de beker
+	Free: Pattern=de beker, Pattern=zeggen, Pattern=de, Pattern=ja
+	Constrained: Pattern=de
+Turn ID=14| A | A : de beker
+	Free: Pattern=de beker
+	Constrained: Pattern=de
+Turn ID=15| B | B : ja dat zeggen maar als je hebben winnen zo'n trofee
+	Free: Pattern=dat, Pattern=zo'n, Pattern=ja, Pattern=zeggen, Pattern=je
+	Constrained: 
+Turn ID=16| A | A : nee nee nee niet nee niet de beker
+	Free: Pattern=de beker, Pattern=nee
+	Constrained: Pattern=de
+Turn ID=17| A | A : nee dit zijn die jij zeggen WALLEpoppetje vinden ik een heel goed
+	Free: Pattern=een heel, Pattern=nee, Pattern=zeggen, Pattern=die, Pattern=ik, Pattern=dit zijn
+	Constrained: Pattern=heel, Pattern=zijn, Pattern=dit, Pattern=een
+Turn ID=18| A | A : hij zijn best wel klein
+	Free: Pattern=zijn
+	Constrained: 
+Turn ID=19| A | A : er opsteken niet zoveel uit eigenlijk
+	Free: 
+	Constrained: 
+Turn ID=20| B | B : en hebben die zo zo'n hand zo met een cilinder erop
+	Free: Pattern=zo'n, Pattern=erop, Pattern=zo, Pattern=die, Pattern=hand, Pattern=met een, Pattern=en
+	Constrained: Pattern=een, Pattern=met
+Turn ID=21| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=22| A | A : precies
+	Free: 
+	Constrained: 
+Turn ID=23| A | A : die ja
+	Free: Pattern=ja, Pattern=die
+	Constrained: 
+Turn ID=24| B | B : oké ja
+	Free: Pattern=oké, Pattern=ja
+	Constrained: 
+Turn ID=25| B | B : dat zijn E
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=26| B | B : dit zijn de serveerster die zo met
+	Free: Pattern=zo, Pattern=met, Pattern=die, Pattern=zijn de, Pattern=dit zijn
+	Constrained: Pattern=de, Pattern=zijn, Pattern=dit
+Turn ID=27| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=28| A | A : vijftien met de Eiffeltoren
+	Free: Pattern=de, Pattern=met
+	Constrained: 
+Turn ID=29| B | B : nee
+	Free: Pattern=nee
+	Constrained: 
+Turn ID=30| B | B : maar volgens mij hebben ik ook een keer WALLErobotpoppe zeggen
+	Free: Pattern=zeggen, Pattern=ik, Pattern=een
+	Constrained: 
+Turn ID=31| B | B : bij deze bovenop een
+	Free: Pattern=bovenop, Pattern=een
+	Constrained: 
+Turn ID=32| A | A : ja met met het cilindertje bedoelen je
+	Free: Pattern=ja met, Pattern=met het, Pattern=bedoelen je, Pattern=cilindertje
+	Constrained: Pattern=je, Pattern=ja, Pattern=het, Pattern=met
+Turn ID=33| B | B : ja met een cilindertje en bovenop een ja een lang hoe heten dat ? een rechthoek zo'n lang vlak
+	Free: Pattern=zo'n, Pattern=ja, Pattern=cilindertje, Pattern=met een, Pattern=en, Pattern=dat, Pattern=bovenop, Pattern=een, Pattern=ja met
+	Constrained: Pattern=ja, Pattern=een, Pattern=met
+Turn ID=34| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=35| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=36| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=37| A | A : oké zullen we die vanaf nu WALLE noemen
+	Free: Pattern=WALLE noemen, Pattern=we die, Pattern=oké
+	Constrained: Pattern=noemen, Pattern=WALLE, Pattern=we, Pattern=die
+Turn ID=38| B | B : ja noemen we die WALLE als codetaal
+	Free: Pattern=we die, Pattern=noemen, Pattern=ja, Pattern=WALLE
+	Constrained: Pattern=we, Pattern=die
+Turn ID=39| A | A : en dan zijn de ander
+	Free: Pattern=zijn de, Pattern=en
+	Constrained: Pattern=de, Pattern=zijn
+Turn ID=40| A | A : en dan zijn de ander de Eiffeltoren
+	Free: Pattern=zijn de, Pattern=en, Pattern=de
+	Constrained: Pattern=de, Pattern=zijn
+Turn ID=41| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=42| A | A : oké één
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=43| A | A : WALLE
+	Free: Pattern=WALLE
+	Constrained: 
+Turn ID=44| B | B : WALLE
+	Free: Pattern=WALLE
+	Constrained: 
+Turn ID=45| A | A : met het cilindertje
+	Free: Pattern=met het, Pattern=cilindertje
+	Constrained: Pattern=het, Pattern=met
+Turn ID=46| B | B : even kijken waar zijn WALLE
+	Free: Pattern=zijn, Pattern=WALLE
+	Constrained: 
+Turn ID=47| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=48| B | B : E
+	Free: 
+	Constrained: 
+Turn ID=49| A | A : gaan weer bijna fout
+	Free: 
+	Constrained: 
+Turn ID=50| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=51| B | B : dit zijn volgens mij hebben we deze WALLE noemen zo met hand
+	Free: Pattern=zo, Pattern=met, Pattern=we, Pattern=hand, Pattern=dit zijn, Pattern=WALLE noemen
+	Constrained: Pattern=noemen, Pattern=zijn, Pattern=WALLE, Pattern=dit
+Turn ID=52| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=53| A | A : zestien
+	Free: 
+	Constrained: 
+Turn ID=54| A | A : WALLE
+	Free: Pattern=WALLE
+	Constrained: 
+Turn ID=55| B | B : WALLE zijn staan die bij jou ook links onderin
+	Free: Pattern=staan, Pattern=links, Pattern=die, Pattern=WALLE, Pattern=zijn
+	Constrained: 
+Turn ID=56| A | A : ja helemaal linksonder
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=57| A | A : ja
+	Free: Pattern=ja
+	Constrained: 

@@ -1,0 +1,223 @@
+B|0| B: _oké_ even kijken _ik_ noemen hem pinokkio 
+B|1| B: _hij_ _hebben_ _een_ _een_ neus naar link 
+B|2| B: nee nee nee 
+B|3| B: nee 
+B|4| B: nee 
+B|5| B: _hij_ _hebben_ _een_ _een_ neus naar links _en_ _hij staan _op_ een_ voe _en_ _hij_ _hebben_ _één_ haar _en_ _een_ _half_ _cirkel_ _aan de_ linkerkant 
+A|6| A: [oké] [en] het voetstuk _zijn een_ beetje langwerpig [en] het [staan] ongeveer deze hoek 
+B|7| B: _aan de achterkant_ eigenlijk 
+B|8| B: [en] even kijken [en] _de_ neus [zijn een] zeshoek 
+A|9| A: _ja_ _ja_ spiegelen dan 
+A|10| A: [oké] [en] dat rood cirkeltje zitten [een] beetje [aan de achterkant] 
+A|11| A: dat je het [half] zien 
+B|12| B: bij mij heten _die_ G 
+A|13| A: rond _ja_ Sorry 
+A|14| A: [oké] 
+A|15| A: dan 
+A|16| A: _ja_ dertien 
+B|17| B: _dit zijn_ _met_ zeshoek link 
+B|18| B: O [en] bij jou 
+B|19| B: O vier 
+A|20| A: [dit zijn] _ja_ dat panne _weer_ zeggen maar _dus_ je [hebben] dat komme [en] dan in het midden [één] kant zitten _zo'n_ staafje [en] dan bovenop lijken het alsof het er _zo'n_ lepel in zitten [en] dan [met] dat rond [aan de achterkant] 
+A|21| A: [op] _zo'n_ _ja_ [op een] klein blok 
+A|22| A: _ja_ 
+B|23| B: _we_ [zijn] [weer] wisselen 
+B|24| B: [dit zijn] pinokkio voor mij 
+B|25| B: [met] [zo'n] pluimp hoe heten hoe heten _die_ ook alweer bij jou ? [hebben] [een] pluimp zo [op] [zijn] achterhoofd zeshoekig neus 
+B|26| B: N 
+B|27| B: Nico 
+A|28| A: _met die_ paardenstaart 
+A|29| A: _ja_ 
+A|30| A: _ja_ 
+A|31| A: [met] het [cirkel] [en] het 
+A|32| A: yes 
+A|33| A: nummer achten 
+B|34| B: even kijken 
+B|35| B: moeten _ik_ even [de] goed pak [ja] 
+B|36| B: [ja] even zoeken daar 
+B|37| B: C 
+B|38| B: C veertien 
+A|39| A: [dit zijn] zeggen maar het panne [op een] voetstuk 
+A|40| A: [met] dat [cirkel] daarachter 
+A|41| A: [en] dan dat dinge erin [en] dat ding [aan de] stok [aan de] zijkant 
+B|42| B: voor mij pinokkio [dus] zeshoekig neus 
+B|43| B: [met die] 
+B|44| B: N trouwens 
+B|45| B: [ja] 
+A|46| A: [ja] 
+A|47| A: nummer _zeven_ 
+B|48| B: even kijken 
+B|49| B: [zeven] hè ? C [zeven] 
+A|50| A: [dit zijn] zeggen maar dat [ja] wat [ik] zeggen panne 
+A|51| A: [hij staan op] dat klein voetstuk 
+A|52| A: [en] er zitten [een] armpje [aan de] zijkant [en] het rond erachter 
+A|53| A: [en] het lepel daarin 
+A|54| A: [en] dan [zijn] [we] klaar 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : oké even kijken ik noemen hem pinokkio
+	Free: Pattern=oké, Pattern=ik
+	Constrained: 
+Turn ID=1| B | B : hij hebben een een neus naar link
+	Free: Pattern=hebben, Pattern=een, Pattern=hij
+	Constrained: 
+Turn ID=2| B | B : nee nee nee
+	Free: 
+	Constrained: 
+Turn ID=3| B | B : nee
+	Free: 
+	Constrained: 
+Turn ID=4| B | B : nee
+	Free: 
+	Constrained: 
+Turn ID=5| B | B : hij hebben een een neus naar links en hij staan op een voe en hij hebben één haar en een half cirkel aan de linkerkant
+	Free: Pattern=cirkel, Pattern=aan de, Pattern=hebben, Pattern=hij, Pattern=en, Pattern=één, Pattern=een, Pattern=hij staan op, Pattern=op een, Pattern=half
+	Constrained: Pattern=de, Pattern=op, Pattern=hij, Pattern=een, Pattern=staan
+Turn ID=6| A | A : oké en het voetstuk zijn een beetje langwerpig en het staan ongeveer deze hoek
+	Free: Pattern=zijn een, Pattern=staan, Pattern=en, Pattern=oké
+	Constrained: Pattern=zijn, Pattern=een
+Turn ID=7| B | B : aan de achterkant eigenlijk
+	Free: Pattern=aan de achterkant
+	Constrained: Pattern=aan de, Pattern=de
+Turn ID=8| B | B : en even kijken en de neus zijn een zeshoek
+	Free: Pattern=zijn een, Pattern=en, Pattern=de
+	Constrained: Pattern=zijn, Pattern=een
+Turn ID=9| A | A : ja ja spiegelen dan
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=10| A | A : oké en dat rood cirkeltje zitten een beetje aan de achterkant
+	Free: Pattern=aan de achterkant, Pattern=en, Pattern=oké, Pattern=een
+	Constrained: Pattern=aan de, Pattern=de
+Turn ID=11| A | A : dat je het half zien
+	Free: Pattern=half
+	Constrained: 
+Turn ID=12| B | B : bij mij heten die G
+	Free: Pattern=die
+	Constrained: 
+Turn ID=13| A | A : rond ja Sorry
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=14| A | A : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=15| A | A : dan
+	Free: 
+	Constrained: 
+Turn ID=16| A | A : ja dertien
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=17| B | B : dit zijn met zeshoek link
+	Free: Pattern=dit zijn, Pattern=met
+	Constrained: Pattern=zijn
+Turn ID=18| B | B : O en bij jou
+	Free: Pattern=en
+	Constrained: 
+Turn ID=19| B | B : O vier
+	Free: 
+	Constrained: 
+Turn ID=20| A | A : dit zijn ja dat panne weer zeggen maar dus je hebben dat komme en dan in het midden één kant zitten zo'n staafje en dan bovenop lijken het alsof het er zo'n lepel in zitten en dan met dat rond aan de achterkant
+	Free: Pattern=aan de achterkant, Pattern=zo'n, Pattern=hebben, Pattern=met, Pattern=en, Pattern=dit zijn, Pattern=dus, Pattern=ja, Pattern=weer, Pattern=één
+	Constrained: Pattern=de, Pattern=zijn, Pattern=aan de
+Turn ID=21| A | A : op zo'n ja op een klein blok
+	Free: Pattern=op een, Pattern=ja, Pattern=op, Pattern=zo'n
+	Constrained: Pattern=een, Pattern=op
+Turn ID=22| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=23| B | B : we zijn weer wisselen
+	Free: Pattern=zijn, Pattern=we, Pattern=weer
+	Constrained: 
+Turn ID=24| B | B : dit zijn pinokkio voor mij
+	Free: Pattern=dit zijn
+	Constrained: Pattern=zijn
+Turn ID=25| B | B : met zo'n pluimp hoe heten hoe heten die ook alweer bij jou ? hebben een pluimp zo op zijn achterhoofd zeshoekig neus
+	Free: Pattern=zo'n, Pattern=op, Pattern=een, Pattern=hebben, Pattern=met, Pattern=die, Pattern=zijn
+	Constrained: 
+Turn ID=26| B | B : N
+	Free: 
+	Constrained: 
+Turn ID=27| B | B : Nico
+	Free: 
+	Constrained: 
+Turn ID=28| A | A : met die paardenstaart
+	Free: Pattern=met die
+	Constrained: Pattern=die, Pattern=met
+Turn ID=29| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=30| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=31| A | A : met het cirkel en het
+	Free: Pattern=en, Pattern=cirkel, Pattern=met
+	Constrained: 
+Turn ID=32| A | A : yes
+	Free: 
+	Constrained: 
+Turn ID=33| A | A : nummer achten
+	Free: 
+	Constrained: 
+Turn ID=34| B | B : even kijken
+	Free: 
+	Constrained: 
+Turn ID=35| B | B : moeten ik even de goed pak ja
+	Free: Pattern=ik, Pattern=ja, Pattern=de
+	Constrained: 
+Turn ID=36| B | B : ja even zoeken daar
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=37| B | B : C
+	Free: 
+	Constrained: 
+Turn ID=38| B | B : C veertien
+	Free: 
+	Constrained: 
+Turn ID=39| A | A : dit zijn zeggen maar het panne op een voetstuk
+	Free: Pattern=dit zijn, Pattern=op een
+	Constrained: Pattern=zijn, Pattern=een, Pattern=op
+Turn ID=40| A | A : met dat cirkel daarachter
+	Free: Pattern=cirkel, Pattern=met
+	Constrained: 
+Turn ID=41| A | A : en dan dat dinge erin en dat ding aan de stok aan de zijkant
+	Free: Pattern=aan de, Pattern=en
+	Constrained: Pattern=de
+Turn ID=42| B | B : voor mij pinokkio dus zeshoekig neus
+	Free: Pattern=dus
+	Constrained: 
+Turn ID=43| B | B : met die
+	Free: Pattern=met die
+	Constrained: Pattern=die, Pattern=met
+Turn ID=44| B | B : N trouwens
+	Free: 
+	Constrained: 
+Turn ID=45| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=46| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=47| A | A : nummer zeven
+	Free: Pattern=zeven
+	Constrained: 
+Turn ID=48| B | B : even kijken
+	Free: 
+	Constrained: 
+Turn ID=49| B | B : zeven hè ? C zeven
+	Free: Pattern=zeven
+	Constrained: 
+Turn ID=50| A | A : dit zijn zeggen maar dat ja wat ik zeggen panne
+	Free: Pattern=dit zijn, Pattern=ik, Pattern=ja
+	Constrained: Pattern=zijn
+Turn ID=51| A | A : hij staan op dat klein voetstuk
+	Free: Pattern=hij staan op
+	Constrained: Pattern=staan, Pattern=op, Pattern=hij
+Turn ID=52| A | A : en er zitten een armpje aan de zijkant en het rond erachter
+	Free: Pattern=aan de, Pattern=en, Pattern=een
+	Constrained: Pattern=de
+Turn ID=53| A | A : en het lepel daarin
+	Free: Pattern=en
+	Constrained: 
+Turn ID=54| A | A : en dan zijn we klaar
+	Free: Pattern=en, Pattern=zijn, Pattern=we
+	Constrained: 

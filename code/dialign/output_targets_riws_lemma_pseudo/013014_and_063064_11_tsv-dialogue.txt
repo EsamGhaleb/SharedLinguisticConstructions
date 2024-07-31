@@ -1,0 +1,199 @@
+A|0| A: _ja_ 
+A|1| A: _zijn_ _het_ _die_ 
+A|2| A: _ja_ 
+A|3| A: _ja_ veertien 
+B|4| B: dit kop _hebben_ vier uitsteeksel als _één_ rechts _weer_ zo'n ei op [het] kop 
+B|5| B: dan steken _er_ _een_ rechthoekig plank uit _en een_ [ja] 
+B|6| B: [ja] _zo_ kunnen je [het] noemen [ja] _en_ [het] lijken _een_ soort driehoekig dinge naar _de_ linkerkant 
+B|7| B: [ja] _dat zijn_ N 
+A|8| A: [er] zitten [een] bal voorop 
+A|9| A: [er] zitten geen _balkje_ doorheen 
+A|10| A: daar [zijn] [er] ook maar [één] van 
+B|11| B: dit [zijn] [die] _met_ [het] ei _erop_ _aan de_ rechterkant [een] [balkje] steken uit _en die_ kegel 
+B|12| B: _en_ _aan de_ linkerkant steken _nog_ [een] _balk_ uit 
+A|13| A: [ja] 
+A|14| A: my god oké jij [zijn] 
+A|15| A: zitten [er] zitten [er] niet doorheen 
+A|16| A: oké [ja] 
+A|17| A: [dat zijn] negen 
+B|18| B: [ja] [dat zijn] G 
+B|19| B: dit [zijn] even kijken [een] ei _aan de_ voorkant 
+B|20| B: _en één_ rechthoekig [balkje] eruit _en één_ kegel eruit 
+B|21| B: _en_ _aan de_ linkerkant _nog_ [een] [balkje] 
+B|22| B: _wat_ ? kunnen je [het] _nog_ [een] _keer_ zeggen 
+B|23| B: [ja] [ja] 
+B|24| B: _en die_ kegel 
+B|25| B: [ja] [ja] [dat zijn] J 
+A|26| A: [ja] 
+A|27| A: [ja] want ik denken eerst [dat] [dat] [dat] [dat] [het] [de] plaat eromheen ook iets mee elkaar te maken [hebben] maar uiteindelijk blijken [dat] niet [zo] misschien 
+A|28| A: [een] bal ervoor 
+A|29| A: [met] twee uitstekel erin [en één] [aan de] zijkant 
+A|30| A: gewoon [een] heel bal 
+A|31| A: [ja] [het] zullen wel [het] handigst [zijn] denken ik 
+A|32| A: maar [weer] veel werk [zijn] 
+A|33| A: hij zitten [de] mijne [die] [die] [die] degeen [die] waar [een] rood vak omheen zitten [zijn] [een] bal voor 
+A|34| A: [en die] gewoon [één] bal 
+A|35| A: maar [één] van 
+A|36| A: [ja] [een] kegeltje [en een] drie vierkant rechthoek in zitten [er] 
+A|37| A: [ja] 
+A|38| A: hij staan naast [de] lampenkapje [met] [de] [balk] [erop] 
+A|39| A: best wel [een] stuk [en] [er] staan ook iets boven [met] [een] paddenstoel staan [er] [wat] staan [er] best wel vlak boven 
+A|40| A: [en] daaronder zitten ook [nog] [de] slurf [met] [de] plaat erdoorheen 
+A|41| A: ik weten niet 
+A|42| A: ik goken misschien twee [en een] half [keer] 
+A|43| A: [ja] 
+A|44| A: [dat zijn] vijf 
+A|45| A: [er] zitten [een] bal voor 
+A|46| A: ik [hebben] maar [één] van 
+A|47| A: [een] rond bal 
+A|48| A: alleen [met] [de] bal 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=1| A | A : zijn het die
+	Free: Pattern=zijn, Pattern=die, Pattern=het
+	Constrained: 
+Turn ID=2| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=3| A | A : ja veertien
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=4| B | B : dit kop hebben vier uitsteeksel als één rechts weer zo'n ei op het kop
+	Free: Pattern=weer, Pattern=één, Pattern=hebben, Pattern=het
+	Constrained: 
+Turn ID=5| B | B : dan steken er een rechthoekig plank uit en een ja
+	Free: Pattern=en een, Pattern=er, Pattern=ja, Pattern=een
+	Constrained: Pattern=en, Pattern=een
+Turn ID=6| B | B : ja zo kunnen je het noemen ja en het lijken een soort driehoekig dinge naar de linkerkant
+	Free: Pattern=een, Pattern=het, Pattern=zo, Pattern=en, Pattern=de, Pattern=ja
+	Constrained: 
+Turn ID=7| B | B : ja dat zijn N
+	Free: Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=8| A | A : er zitten een bal voorop
+	Free: Pattern=er, Pattern=een
+	Constrained: 
+Turn ID=9| A | A : er zitten geen balkje doorheen
+	Free: Pattern=er, Pattern=balkje
+	Constrained: 
+Turn ID=10| A | A : daar zijn er ook maar één van
+	Free: Pattern=er, Pattern=één, Pattern=zijn
+	Constrained: 
+Turn ID=11| B | B : dit zijn die met het ei erop aan de rechterkant een balkje steken uit en die kegel
+	Free: Pattern=en die, Pattern=erop, Pattern=aan de, Pattern=een, Pattern=balkje, Pattern=het, Pattern=met, Pattern=die, Pattern=zijn
+	Constrained: Pattern=en, Pattern=die, Pattern=de
+Turn ID=12| B | B : en aan de linkerkant steken nog een balk uit
+	Free: Pattern=nog, Pattern=aan de, Pattern=een, Pattern=balk, Pattern=en
+	Constrained: Pattern=de
+Turn ID=13| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=14| A | A : my god oké jij zijn
+	Free: Pattern=zijn
+	Constrained: 
+Turn ID=15| A | A : zitten er zitten er niet doorheen
+	Free: Pattern=er
+	Constrained: 
+Turn ID=16| A | A : oké ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=17| A | A : dat zijn negen
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=18| B | B : ja dat zijn G
+	Free: Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=19| B | B : dit zijn even kijken een ei aan de voorkant
+	Free: Pattern=aan de, Pattern=zijn, Pattern=een
+	Constrained: Pattern=de
+Turn ID=20| B | B : en één rechthoekig balkje eruit en één kegel eruit
+	Free: Pattern=en één, Pattern=balkje
+	Constrained: Pattern=één, Pattern=en
+Turn ID=21| B | B : en aan de linkerkant nog een balkje
+	Free: Pattern=nog, Pattern=aan de, Pattern=een, Pattern=balkje, Pattern=en
+	Constrained: Pattern=de
+Turn ID=22| B | B : wat ? kunnen je het nog een keer zeggen
+	Free: Pattern=nog, Pattern=een, Pattern=het, Pattern=keer, Pattern=wat
+	Constrained: 
+Turn ID=23| B | B : ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=24| B | B : en die kegel
+	Free: Pattern=en die
+	Constrained: Pattern=en, Pattern=die
+Turn ID=25| B | B : ja ja dat zijn J
+	Free: Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=26| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=27| A | A : ja want ik denken eerst dat dat dat dat het de plaat eromheen ook iets mee elkaar te maken hebben maar uiteindelijk blijken dat niet zo misschien
+	Free: Pattern=dat, Pattern=het, Pattern=hebben, Pattern=zo, Pattern=de, Pattern=ja
+	Constrained: 
+Turn ID=28| A | A : een bal ervoor
+	Free: Pattern=een
+	Constrained: 
+Turn ID=29| A | A : met twee uitstekel erin en één aan de zijkant
+	Free: Pattern=aan de, Pattern=en één, Pattern=met
+	Constrained: Pattern=één, Pattern=en, Pattern=de
+Turn ID=30| A | A : gewoon een heel bal
+	Free: Pattern=een
+	Constrained: 
+Turn ID=31| A | A : ja het zullen wel het handigst zijn denken ik
+	Free: Pattern=zijn, Pattern=het, Pattern=ja
+	Constrained: 
+Turn ID=32| A | A : maar weer veel werk zijn
+	Free: Pattern=weer, Pattern=zijn
+	Constrained: 
+Turn ID=33| A | A : hij zitten de mijne die die die degeen die waar een rood vak omheen zitten zijn een bal voor
+	Free: Pattern=zijn, Pattern=die, Pattern=de, Pattern=een
+	Constrained: 
+Turn ID=34| A | A : en die gewoon één bal
+	Free: Pattern=en die, Pattern=één
+	Constrained: Pattern=en, Pattern=die
+Turn ID=35| A | A : maar één van
+	Free: Pattern=één
+	Constrained: 
+Turn ID=36| A | A : ja een kegeltje en een drie vierkant rechthoek in zitten er
+	Free: Pattern=en een, Pattern=er, Pattern=ja, Pattern=een
+	Constrained: Pattern=en, Pattern=een
+Turn ID=37| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=38| A | A : hij staan naast de lampenkapje met de balk erop
+	Free: Pattern=erop, Pattern=de, Pattern=balk, Pattern=met
+	Constrained: 
+Turn ID=39| A | A : best wel een stuk en er staan ook iets boven met een paddenstoel staan er wat staan er best wel vlak boven
+	Free: Pattern=een, Pattern=met, Pattern=en, Pattern=wat, Pattern=er
+	Constrained: 
+Turn ID=40| A | A : en daaronder zitten ook nog de slurf met de plaat erdoorheen
+	Free: Pattern=nog, Pattern=en, Pattern=de, Pattern=met
+	Constrained: 
+Turn ID=41| A | A : ik weten niet
+	Free: 
+	Constrained: 
+Turn ID=42| A | A : ik goken misschien twee en een half keer
+	Free: Pattern=en een, Pattern=keer
+	Constrained: Pattern=en, Pattern=een
+Turn ID=43| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=44| A | A : dat zijn vijf
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=45| A | A : er zitten een bal voor
+	Free: Pattern=er, Pattern=een
+	Constrained: 
+Turn ID=46| A | A : ik hebben maar één van
+	Free: Pattern=één, Pattern=hebben
+	Constrained: 
+Turn ID=47| A | A : een rond bal
+	Free: Pattern=een
+	Constrained: 
+Turn ID=48| A | A : alleen met de bal
+	Free: Pattern=de, Pattern=met
+	Constrained: 

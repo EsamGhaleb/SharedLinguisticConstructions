@@ -1,0 +1,99 @@
+B|0| B: _een soort van_ _en_ link _hebben_ _die_ _een soort van_ omgekeerd pion 
+B|1| B: op _dat_ 
+B|2| B: _ja_ 
+B|3| B: _dat zijn_ bij mij L 
+B|4| B: _deze_ _hebben_ _weer_ _dat_ rond plaa _soort_ _dienblad_ _en_ _die_ 
+B|5| B: _ja_ _dan_ weten je welk _ik_ bedoelen 
+B|6| B: oké _dat zijn_ bij mij C 
+A|7| A: [ik] noemen [deze] eigenlijk de serveerster _met_ [een] trompet _het_ [zijn] [een soort van] poppe [die] [hebben] [een] hand [en] daar zitten [een soort van] ding steken eruit 
+A|8| A: [en] [dan] aan in de ander hand zitten [een soort van] [dienblad] 
+A|9| A: [ja] kunnen ook 
+A|10| A: [ja] 
+A|11| A: oeh wachten _even_ moeten [ik] _even_ [weer] _zoeken_ waar [die] staan 
+A|12| A: ah [ja] [ik] [hebben] hem 
+A|13| A: [dat zijn] numero zeven 
+B|14| B: [dat] [met] [dat] [dienblad] 
+B|15| B: [even] [zoeken] 
+B|16| B: A 
+A|17| A: dit gaan over de serveer serveerder [met] de trompet 
+A|18| A: nee mijn serveerder [met] de trompet 
+A|19| A: of [met] de spijker 
+B|20| B: [met] [het] [dienblad] 
+A|21| A: [dat zijn] numero één 
+A|22| A: de de serveerder [met] de trompet 
+A|23| A: serveerster [even] kijken [ja] numero dertien 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : een soort van en link hebben die een soort van omgekeerd pion
+	Free: Pattern=een soort van, Pattern=die, Pattern=en, Pattern=hebben
+	Constrained: Pattern=een, Pattern=soort
+Turn ID=1| B | B : op dat
+	Free: Pattern=dat
+	Constrained: 
+Turn ID=2| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=3| B | B : dat zijn bij mij L
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=4| B | B : deze hebben weer dat rond plaa soort dienblad en die
+	Free: Pattern=dat, Pattern=soort, Pattern=hebben, Pattern=die, Pattern=dienblad, Pattern=en, Pattern=deze, Pattern=weer
+	Constrained: 
+Turn ID=5| B | B : ja dan weten je welk ik bedoelen
+	Free: Pattern=ja, Pattern=dan, Pattern=ik
+	Constrained: 
+Turn ID=6| B | B : oké dat zijn bij mij C
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=7| A | A : ik noemen deze eigenlijk de serveerster met een trompet het zijn een soort van poppe die hebben een hand en daar zitten een soort van ding steken eruit
+	Free: Pattern=een, Pattern=het, Pattern=hebben, Pattern=een soort van, Pattern=met, Pattern=die, Pattern=ik, Pattern=en, Pattern=zijn, Pattern=deze
+	Constrained: Pattern=een, Pattern=soort
+Turn ID=8| A | A : en dan aan in de ander hand zitten een soort van dienblad
+	Free: Pattern=een soort van, Pattern=en, Pattern=dan, Pattern=dienblad
+	Constrained: Pattern=een, Pattern=soort
+Turn ID=9| A | A : ja kunnen ook
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=10| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=11| A | A : oeh wachten even moeten ik even weer zoeken waar die staan
+	Free: Pattern=zoeken, Pattern=even, Pattern=die, Pattern=ik, Pattern=weer
+	Constrained: 
+Turn ID=12| A | A : ah ja ik hebben hem
+	Free: Pattern=ja, Pattern=hebben, Pattern=ik
+	Constrained: 
+Turn ID=13| A | A : dat zijn numero zeven
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=14| B | B : dat met dat dienblad
+	Free: Pattern=dat, Pattern=dienblad, Pattern=met
+	Constrained: 
+Turn ID=15| B | B : even zoeken
+	Free: Pattern=even, Pattern=zoeken
+	Constrained: 
+Turn ID=16| B | B : A
+	Free: 
+	Constrained: 
+Turn ID=17| A | A : dit gaan over de serveer serveerder met de trompet
+	Free: Pattern=met
+	Constrained: 
+Turn ID=18| A | A : nee mijn serveerder met de trompet
+	Free: Pattern=met
+	Constrained: 
+Turn ID=19| A | A : of met de spijker
+	Free: Pattern=met
+	Constrained: 
+Turn ID=20| B | B : met het dienblad
+	Free: Pattern=het, Pattern=dienblad, Pattern=met
+	Constrained: 
+Turn ID=21| A | A : dat zijn numero één
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=22| A | A : de de serveerder met de trompet
+	Free: Pattern=met
+	Constrained: 
+Turn ID=23| A | A : serveerster even kijken ja numero dertien
+	Free: Pattern=ja, Pattern=even
+	Constrained: 

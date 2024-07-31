@@ -1,0 +1,111 @@
+B|0| B: _ja_ _die_ 
+B|1| B: spijker _of_ zo _ja dat zijn_ _dan_ J 
+A|2| A: _ik_ _hebben_ _er_ nu één _met_ _een soort_ _punt_ erboven 
+A|3| A: zo'n _soort_ driehoekig _punt en_ _aan de_ voorkant [ja] niet helemaal _een_ _blok_ maar lijken wel _een_ beetje op _een_ _blok aan de_ rechtervoorkant 
+A|4| A: [of] [ja] 
+A|5| A: zo'n vaag uitsteekselt 
+A|6| A: [ja] 
+B|7| B: [ja] dit _zijn_ weer diegene _met die_ spijker in [de] zijkant [en] _die_ _die_ _die_ _die_ 
+B|8| B: piramide [of] _die_ kegel [of] weten [ik] veel wat bovenop _met die_ [punt _en] dan_ _dat raar [blok_ aan de] zijkant _en dat_ 
+B|9| B: [ja] _en dat_ cirkel nog _dat_ schijf [aan de] onderkant _ja dat zijn_ hem 
+A|10| A: _dat _dat_ soort_ driehoekig ding erboven [en dan] zo'n kubus ervoor [en dan] zo'n uitsteeksel _hier_ [en] zo'n _rond_ 
+A|11| A: [ja dat zijn] _bij_ mij nummer zes 
+B|12| B: [en] _die_ spijker _die_ erin gaan 
+B|13| B: [ja dat zijn] E 
+A|14| A: [ik] _hebben_ nu [die] [met die] driehoek erboven zeggen maar [en [dat] raar blok] [en dat] ervoor [en dat] _rond_ eronder 
+B|15| B: [ja] dit [zijn] weer [die] [die] kegel [die] piramide weten [ik] veel wat spijker [aan de] zijkant [raar] groot [blok aan de] zijkant [en] [een soort] 
+B|16| B: koek [of] zo [dat dat] [er] nog [bij] liggen 
+A|17| A: [ja] 
+A|18| A: nummer tien 
+B|19| B: [ja dat zijn] G 
+B|20| B: [ja] [hier] [hebben] je weer [die] spijker [aan] [die] zijkant [die] piramide bovenop [dat soort] [rond] schijf onderin [en dan] nog [dat] [blok] [dat] erbij zitten 
+A|21| A: [ik] [hebben] [die] [een] [bij] mij staan [die] helemaal [of] linksbof bedoelen [ik] 
+A|22| A: [met] [dat] driehoekig ding 
+A|23| A: erboven zo'n [rond] [aan] kant [en] zo'n [blok] ervoor 
+A|24| A: [die] driehoek 
+A|25| A: [ja] 
+A|26| A: nummer tien 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : ja die
+	Free: Pattern=die, Pattern=ja
+	Constrained: 
+Turn ID=1| B | B : spijker of zo ja dat zijn dan J
+	Free: Pattern=ja dat zijn, Pattern=dan, Pattern=of
+	Constrained: Pattern=dat, Pattern=ja, Pattern=zijn
+Turn ID=2| A | A : ik hebben er nu één met een soort punt erboven
+	Free: Pattern=punt, Pattern=hebben, Pattern=met, Pattern=er, Pattern=ik, Pattern=een soort
+	Constrained: Pattern=een, Pattern=soort
+Turn ID=3| A | A : zo'n soort driehoekig punt en aan de voorkant ja niet helemaal een blok maar lijken wel een beetje op een blok aan de rechtervoorkant
+	Free: Pattern=soort, Pattern=ja, Pattern=aan de, Pattern=punt en, Pattern=een, Pattern=blok, Pattern=blok aan de
+	Constrained: Pattern=punt, Pattern=aan de, Pattern=en, Pattern=blok, Pattern=de, Pattern=aan
+Turn ID=4| A | A : of ja
+	Free: Pattern=ja, Pattern=of
+	Constrained: 
+Turn ID=5| A | A : zo'n vaag uitsteekselt
+	Free: 
+	Constrained: 
+Turn ID=6| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=7| B | B : ja dit zijn weer diegene met die spijker in de zijkant en die die die die
+	Free: Pattern=met die, Pattern=die, Pattern=en, Pattern=zijn, Pattern=de, Pattern=ja
+	Constrained: Pattern=die, Pattern=met
+Turn ID=8| B | B : piramide of die kegel of weten ik veel wat bovenop met die punt en dan dat raar blok aan de zijkant en dat
+	Free: Pattern=met die, Pattern=of, Pattern=en dan, Pattern=punt en, Pattern=ik, Pattern=dat raar blok, Pattern=die, Pattern=en dat, Pattern=blok aan de
+	Constrained: Pattern=dat, Pattern=punt, Pattern=aan de, Pattern=dan, Pattern=met, Pattern=die, Pattern=en, Pattern=blok, Pattern=raar, Pattern=de, Pattern=aan
+Turn ID=9| B | B : ja en dat cirkel nog dat schijf aan de onderkant ja dat zijn hem
+	Free: Pattern=dat, Pattern=ja, Pattern=aan de, Pattern=ja dat zijn, Pattern=en dat
+	Constrained: Pattern=dat, Pattern=en, Pattern=zijn, Pattern=de, Pattern=aan, Pattern=ja
+Turn ID=10| A | A : dat dat soort driehoekig ding erboven en dan zo'n kubus ervoor en dan zo'n uitsteeksel hier en zo'n rond
+	Free: Pattern=dat soort, Pattern=dat dat, Pattern=en, Pattern=rond, Pattern=hier, Pattern=en dan
+	Constrained: Pattern=dat, Pattern=dan, Pattern=en, Pattern=soort
+Turn ID=11| A | A : ja dat zijn bij mij nummer zes
+	Free: Pattern=ja dat zijn, Pattern=bij
+	Constrained: Pattern=dat, Pattern=ja, Pattern=zijn
+Turn ID=12| B | B : en die spijker die erin gaan
+	Free: Pattern=die, Pattern=en
+	Constrained: 
+Turn ID=13| B | B : ja dat zijn E
+	Free: Pattern=ja dat zijn
+	Constrained: Pattern=dat, Pattern=ja, Pattern=zijn
+Turn ID=14| A | A : ik hebben nu die met die driehoek erboven zeggen maar en dat raar blok en dat ervoor en dat rond eronder
+	Free: Pattern=met die, Pattern=hebben, Pattern=ik, Pattern=rond, Pattern=en dat, Pattern=dat raar blok, Pattern=die
+	Constrained: Pattern=dat, Pattern=met, Pattern=die, Pattern=en, Pattern=blok, Pattern=raar
+Turn ID=15| B | B : ja dit zijn weer die die kegel die piramide weten ik veel wat spijker aan de zijkant raar groot blok aan de zijkant en een soort
+	Free: Pattern=ja, Pattern=aan de, Pattern=die, Pattern=en, Pattern=zijn, Pattern=raar, Pattern=blok aan de, Pattern=ik, Pattern=een soort
+	Constrained: Pattern=soort, Pattern=aan de, Pattern=een, Pattern=blok, Pattern=de, Pattern=aan
+Turn ID=16| B | B : koek of zo dat dat er nog bij liggen
+	Free: Pattern=dat dat, Pattern=er, Pattern=bij, Pattern=of
+	Constrained: Pattern=dat
+Turn ID=17| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=18| A | A : nummer tien
+	Free: 
+	Constrained: 
+Turn ID=19| B | B : ja dat zijn G
+	Free: Pattern=ja dat zijn
+	Constrained: Pattern=dat, Pattern=ja, Pattern=zijn
+Turn ID=20| B | B : ja hier hebben je weer die spijker aan die zijkant die piramide bovenop dat soort rond schijf onderin en dan nog dat blok dat erbij zitten
+	Free: Pattern=dat, Pattern=hebben, Pattern=dat soort, Pattern=die, Pattern=aan, Pattern=ja, Pattern=hier, Pattern=en dan, Pattern=rond, Pattern=blok
+	Constrained: Pattern=dat, Pattern=dan, Pattern=en, Pattern=soort
+Turn ID=21| A | A : ik hebben die een bij mij staan die helemaal of linksbof bedoelen ik
+	Free: Pattern=of, Pattern=een, Pattern=hebben, Pattern=die, Pattern=bij, Pattern=ik
+	Constrained: 
+Turn ID=22| A | A : met dat driehoekig ding
+	Free: Pattern=dat, Pattern=met
+	Constrained: 
+Turn ID=23| A | A : erboven zo'n rond aan kant en zo'n blok ervoor
+	Free: Pattern=rond, Pattern=aan, Pattern=blok, Pattern=en
+	Constrained: 
+Turn ID=24| A | A : die driehoek
+	Free: Pattern=die
+	Constrained: 
+Turn ID=25| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=26| A | A : nummer tien
+	Free: 
+	Constrained: 

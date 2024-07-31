@@ -1,0 +1,111 @@
+A|0| A: _deze hebben_ een een piramide als dak 
+A|1| A: een een paardenstaar 
+A|2| A: _en_ een rond aan _de_ _en_ een heel _groot neus_ 
+B|3| B: [en] 
+A|4| A: [en] een rond aan _de_ onderkant 
+B|5| B: _ja_ J 
+B|6| B: [deze hebben] _die_ _dat_ hoed op _zijn_ hoofd _die_ piramidehoed 
+A|7| A: _met dat_ _die groot neus_ 
+B|8| B: _ja_ 
+A|9| A: [ja] 
+A|10| A: zes 
+A|11| A: [zijn] [die] _met dat_ piramide _en die groot neus_ _en dat_ armp [en] 
+B|12| B: ah E 
+B|13| B: [deze] [zijn] [met dat] piramidehoed 
+B|14| B: [en dat] klein 
+A|15| A: [ja] _en die groot neus_ 
+B|16| B: [en die groot neus] 
+A|17| A: [ja] 
+B|18| B: [ja] 
+A|19| A: tien 
+A|20| A: _het_ _met de_ [groot neus] [en] _het driehoek_ [en] 
+B|21| B: [groot neus] 
+B|22| B: [ja] 
+B|23| B: G 
+B|24| B: [met de] drie [met] [het driehoek] op [zijn] hoofd [met] [die] dik [neus] 
+A|25| A: [ja] 
+A|26| A: tien 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : deze hebben een een piramide als dak
+	Free: Pattern=deze hebben
+	Constrained: Pattern=deze
+Turn ID=1| A | A : een een paardenstaar
+	Free: 
+	Constrained: 
+Turn ID=2| A | A : en een rond aan de en een heel groot neus
+	Free: Pattern=groot neus, Pattern=de, Pattern=en
+	Constrained: Pattern=neus
+Turn ID=3| B | B : en
+	Free: Pattern=en
+	Constrained: 
+Turn ID=4| A | A : en een rond aan de onderkant
+	Free: Pattern=de, Pattern=en
+	Constrained: 
+Turn ID=5| B | B : ja J
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=6| B | B : deze hebben die dat hoed op zijn hoofd die piramidehoed
+	Free: Pattern=deze hebben, Pattern=die, Pattern=dat, Pattern=zijn
+	Constrained: Pattern=deze
+Turn ID=7| A | A : met dat die groot neus
+	Free: Pattern=die groot neus, Pattern=met dat
+	Constrained: Pattern=dat, Pattern=groot neus, Pattern=neus, Pattern=met, Pattern=die
+Turn ID=8| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=9| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=10| A | A : zes
+	Free: 
+	Constrained: 
+Turn ID=11| A | A : zijn die met dat piramide en die groot neus en dat armp en
+	Free: Pattern=met dat, Pattern=die, Pattern=en, Pattern=zijn, Pattern=en die groot neus, Pattern=en dat
+	Constrained: Pattern=dat, Pattern=groot neus, Pattern=die groot neus, Pattern=neus, Pattern=met, Pattern=die, Pattern=en
+Turn ID=12| B | B : ah E
+	Free: 
+	Constrained: 
+Turn ID=13| B | B : deze zijn met dat piramidehoed
+	Free: Pattern=met dat, Pattern=zijn, Pattern=deze
+	Constrained: Pattern=dat, Pattern=met
+Turn ID=14| B | B : en dat klein
+	Free: Pattern=en dat
+	Constrained: Pattern=dat, Pattern=en
+Turn ID=15| A | A : ja en die groot neus
+	Free: Pattern=en die groot neus, Pattern=ja
+	Constrained: Pattern=groot neus, Pattern=die groot neus, Pattern=neus, Pattern=die, Pattern=en
+Turn ID=16| B | B : en die groot neus
+	Free: Pattern=en die groot neus
+	Constrained: Pattern=groot neus, Pattern=die groot neus, Pattern=neus, Pattern=die, Pattern=en
+Turn ID=17| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=18| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=19| A | A : tien
+	Free: 
+	Constrained: 
+Turn ID=20| A | A : het met de groot neus en het driehoek en
+	Free: Pattern=met de, Pattern=het driehoek, Pattern=het, Pattern=groot neus, Pattern=en
+	Constrained: Pattern=neus, Pattern=de, Pattern=met, Pattern=het
+Turn ID=21| B | B : groot neus
+	Free: Pattern=groot neus
+	Constrained: Pattern=neus
+Turn ID=22| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=23| B | B : G
+	Free: 
+	Constrained: 
+Turn ID=24| B | B : met de drie met het driehoek op zijn hoofd met die dik neus
+	Free: Pattern=met de, Pattern=het driehoek, Pattern=neus, Pattern=met, Pattern=die, Pattern=zijn
+	Constrained: Pattern=het, Pattern=de, Pattern=met
+Turn ID=25| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=26| A | A : tien
+	Free: 
+	Constrained: 

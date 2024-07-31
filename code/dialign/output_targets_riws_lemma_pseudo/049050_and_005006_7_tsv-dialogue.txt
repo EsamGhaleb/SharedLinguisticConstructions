@@ -1,0 +1,99 @@
+B|0| B: deze hebben een _tafel met_ een bak er _op_ aan _de_ voorkant 
+A|1| A: ja 
+A|2| A: maar dan [op] zijn kop 
+A|3| A: ja 
+A|4| A: ja 
+A|5| A: _dat_ zijn zestien 
+B|6| B: _even_ kijken waar _die_ staan P 
+A|7| A: ja dit zijn _dat_ kop _met dat_ ja [tafel met] [die] twee poo 
+A|8| A: en [die] omgekeerd piramide _erop_ 
+A|9| A: en achterin nog _dat_ haak 
+B|10| B: [tafel met] bak [erop] 
+B|11| B: o _met dat tafel_ 
+B|12| B: jaja N 
+B|13| B: [tafel met] bakje er [op] 
+A|14| A: [even] zoeken 
+A|15| A: ik kunnen hem niet vinden 
+A|16| A: ja ja 
+A|17| A: ja [dat] zijn veertien 
+B|18| B: D 
+A|19| A: ja dit zijn [die] [met] [die] [met dat tafel] 
+A|20| A: [die] twee poo en [de] omgekeerd piramide [erop] 
+A|21| A: ja 
+A|22| A: [dat] zijn tien 
+A|23| A: dit zijn [die] [met dat [tafel] met] [de] poo en [de] omgekeerd piramide 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : deze hebben een tafel met een bak er op aan de voorkant
+	Free: Pattern=tafel met, Pattern=de, Pattern=op
+	Constrained: Pattern=met
+Turn ID=1| A | A : ja
+	Free: 
+	Constrained: 
+Turn ID=2| A | A : maar dan op zijn kop
+	Free: Pattern=op
+	Constrained: 
+Turn ID=3| A | A : ja
+	Free: 
+	Constrained: 
+Turn ID=4| A | A : ja
+	Free: 
+	Constrained: 
+Turn ID=5| A | A : dat zijn zestien
+	Free: Pattern=dat
+	Constrained: 
+Turn ID=6| B | B : even kijken waar die staan P
+	Free: Pattern=die, Pattern=even
+	Constrained: 
+Turn ID=7| A | A : ja dit zijn dat kop met dat ja tafel met die twee poo
+	Free: Pattern=tafel met, Pattern=met dat, Pattern=die, Pattern=dat
+	Constrained: Pattern=met, Pattern=dat
+Turn ID=8| A | A : en die omgekeerd piramide erop
+	Free: Pattern=die, Pattern=erop
+	Constrained: 
+Turn ID=9| A | A : en achterin nog dat haak
+	Free: Pattern=dat
+	Constrained: 
+Turn ID=10| B | B : tafel met bak erop
+	Free: Pattern=tafel met, Pattern=erop
+	Constrained: Pattern=met
+Turn ID=11| B | B : o met dat tafel
+	Free: Pattern=met dat tafel
+	Constrained: Pattern=dat, Pattern=met, Pattern=met dat
+Turn ID=12| B | B : jaja N
+	Free: 
+	Constrained: 
+Turn ID=13| B | B : tafel met bakje er op
+	Free: Pattern=tafel met, Pattern=op
+	Constrained: Pattern=met
+Turn ID=14| A | A : even zoeken
+	Free: Pattern=even
+	Constrained: 
+Turn ID=15| A | A : ik kunnen hem niet vinden
+	Free: 
+	Constrained: 
+Turn ID=16| A | A : ja ja
+	Free: 
+	Constrained: 
+Turn ID=17| A | A : ja dat zijn veertien
+	Free: Pattern=dat
+	Constrained: 
+Turn ID=18| B | B : D
+	Free: 
+	Constrained: 
+Turn ID=19| A | A : ja dit zijn die met die met dat tafel
+	Free: Pattern=met dat tafel, Pattern=die, Pattern=met
+	Constrained: Pattern=dat, Pattern=met, Pattern=met dat
+Turn ID=20| A | A : die twee poo en de omgekeerd piramide erop
+	Free: Pattern=die, Pattern=erop, Pattern=de
+	Constrained: 
+Turn ID=21| A | A : ja
+	Free: 
+	Constrained: 
+Turn ID=22| A | A : dat zijn tien
+	Free: Pattern=dat
+	Constrained: 
+Turn ID=23| A | A : dit zijn die met dat tafel met de poo en de omgekeerd piramide
+	Free: Pattern=met dat tafel, Pattern=tafel met, Pattern=die, Pattern=de
+	Constrained: Pattern=dat, Pattern=met, Pattern=met dat

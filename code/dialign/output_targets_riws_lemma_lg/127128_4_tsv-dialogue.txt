@@ -1,0 +1,151 @@
+A|0| A: deze mok _hebben_ _aan_ _de_ rechterkant _twee_ balkje _die_ precies even groot _zijn_ 
+A|1| A: precies ongeveer even groot _zijn_ 
+A|2| A: _aan_ _de_ bovenkant _zitten_ _er_ _een soort van_ _driehoek_ bovenop 
+A|3| A: _maar_ wel _een_ stompe _driehoek_ 
+B|4| B: _ja_ 
+A|5| A: _dan_ _zitten_ _er_ nog _een_ _een soort van_ balkje _aan_ _de_ _links_ _kant_ _en_ helemaal onderin _zitten_ nog _een soort van_ standaard of _zo_ [ja] 
+B|6| B: _de stekker_ 
+B|7| B: zeggen [maar] [een soort van] _stekker_ 
+A|8| A: [ja] 
+B|9| B: [ja] 
+B|10| B: _dat zijn_ _bij mij_ I 
+B|11| B: tenminste ik denken _dat_ _het_ I [zijn] 
+B|12| B: [ja] I 
+B|13| B: _dit zijn de stekker_ 
+A|14| A: [de stekker] [dat zijn] 
+B|15| B: [ja] 
+B|16| B: [hebben] _een driehoek_ met [een] [de] stomp [zijn] ervan af 
+B|17| B: [die] [hebben] zo'n deurklink 
+B|18| B: [zitten] zo'n klein dinge hier [zo] [links] [en] [die] [hebben] [dan] [twee] [van] [die] ding [die] [er] [aan] [die] [kant] _uit_ steken 
+A|19| A: [ja] 
+A|20| A: [dat zijn] nummer [twee] 
+A|21| A: [dit zijn] [het] figuur waar [aan] [de] rechterkant [twee] dezelfde balkjes [uit] komen [er] [zitten] [een driehoek] bovenop [maar] [dat zijn] wel [die] stompe [driehoek] 
+A|22| A: [en] [ja] [die] [stekker] 
+B|23| B: [ja] [dat zijn] _bij mij_ M 
+B|24| B: _dit zijn de stekker_ 
+A|25| A: [de stekker] [die] [die] [dat zijn] nummer 
+B|26| B: [zitten] _bij mij_ Linksboven 
+B|27| B: in [het] linkerbovenvlak [zitten] [die] _bij mij_ 
+A|28| A: [ja] 
+A|29| A: nummer negen 
+A|30| A: [ja] [bij mij] ook 
+A|31| A: [dit zijn de stekker] 
+B|32| B: [ja] [dat zijn] [bij mij] F 
+B|33| B: [dit zijn de stekker] 
+B|34| B: [die] [zitten] [bij mij] horizontaal [en] [dan] [de] middellijn 
+A|35| A: [de stekker] [zitten] [ja] 
+A|36| A: nummer zes 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : deze mok hebben aan de rechterkant twee balkje die precies even groot zijn
+	Free: Pattern=twee, Pattern=hebben, Pattern=die, Pattern=zijn, Pattern=de, Pattern=aan
+	Constrained: 
+Turn ID=1| A | A : precies ongeveer even groot zijn
+	Free: Pattern=zijn
+	Constrained: 
+Turn ID=2| A | A : aan de bovenkant zitten er een soort van driehoek bovenop
+	Free: Pattern=driehoek, Pattern=een soort van, Pattern=zitten, Pattern=er, Pattern=de, Pattern=aan
+	Constrained: Pattern=van, Pattern=een
+Turn ID=3| A | A : maar wel een stompe driehoek
+	Free: Pattern=driehoek, Pattern=maar, Pattern=een
+	Constrained: 
+Turn ID=4| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=5| A | A : dan zitten er nog een een soort van balkje aan de links kant en helemaal onderin zitten nog een soort van standaard of zo ja
+	Free: Pattern=kant, Pattern=dan, Pattern=een, Pattern=links, Pattern=zo, Pattern=een soort van, Pattern=zitten, Pattern=er, Pattern=en, Pattern=de, Pattern=aan, Pattern=ja
+	Constrained: Pattern=van, Pattern=een
+Turn ID=6| B | B : de stekker
+	Free: Pattern=de stekker
+	Constrained: Pattern=stekker, Pattern=de
+Turn ID=7| B | B : zeggen maar een soort van stekker
+	Free: Pattern=een soort van, Pattern=stekker, Pattern=maar
+	Constrained: Pattern=van, Pattern=een
+Turn ID=8| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=9| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=10| B | B : dat zijn bij mij I
+	Free: Pattern=bij mij, Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=11| B | B : tenminste ik denken dat het I zijn
+	Free: Pattern=dat, Pattern=zijn, Pattern=het
+	Constrained: 
+Turn ID=12| B | B : ja I
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=13| B | B : dit zijn de stekker
+	Free: Pattern=dit zijn de stekker
+	Constrained: Pattern=stekker, Pattern=de, Pattern=de stekker, Pattern=zijn, Pattern=dit zijn
+Turn ID=14| A | A : de stekker dat zijn
+	Free: Pattern=dat zijn, Pattern=de stekker
+	Constrained: Pattern=dat, Pattern=stekker, Pattern=zijn, Pattern=de
+Turn ID=15| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=16| B | B : hebben een driehoek met een de stomp zijn ervan af
+	Free: Pattern=de, Pattern=een, Pattern=hebben, Pattern=zijn, Pattern=een driehoek
+	Constrained: Pattern=driehoek, Pattern=een
+Turn ID=17| B | B : die hebben zo'n deurklink
+	Free: Pattern=hebben, Pattern=die
+	Constrained: 
+Turn ID=18| B | B : zitten zo'n klein dinge hier zo links en die hebben dan twee van die ding die er aan die kant uit steken
+	Free: Pattern=kant, Pattern=twee, Pattern=aan, Pattern=uit, Pattern=dan, Pattern=links, Pattern=hebben, Pattern=zo, Pattern=er, Pattern=die, Pattern=zitten, Pattern=van, Pattern=en
+	Constrained: 
+Turn ID=19| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=20| A | A : dat zijn nummer twee
+	Free: Pattern=dat zijn, Pattern=twee
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=21| A | A : dit zijn het figuur waar aan de rechterkant twee dezelfde balkjes uit komen er zitten een driehoek bovenop maar dat zijn wel die stompe driehoek
+	Free: Pattern=driehoek, Pattern=dat zijn, Pattern=twee, Pattern=uit, Pattern=het, Pattern=er, Pattern=maar, Pattern=dit zijn, Pattern=een driehoek, Pattern=de, Pattern=aan, Pattern=die, Pattern=zitten
+	Constrained: Pattern=driehoek, Pattern=dat, Pattern=zijn, Pattern=een
+Turn ID=22| A | A : en ja die stekker
+	Free: Pattern=stekker, Pattern=ja, Pattern=die, Pattern=en
+	Constrained: 
+Turn ID=23| B | B : ja dat zijn bij mij M
+	Free: Pattern=bij mij, Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=24| B | B : dit zijn de stekker
+	Free: Pattern=dit zijn de stekker
+	Constrained: Pattern=stekker, Pattern=de, Pattern=de stekker, Pattern=zijn, Pattern=dit zijn
+Turn ID=25| A | A : de stekker die die dat zijn nummer
+	Free: Pattern=dat zijn, Pattern=de stekker, Pattern=die
+	Constrained: Pattern=dat, Pattern=stekker, Pattern=zijn, Pattern=de
+Turn ID=26| B | B : zitten bij mij Linksboven
+	Free: Pattern=bij mij, Pattern=zitten
+	Constrained: 
+Turn ID=27| B | B : in het linkerbovenvlak zitten die bij mij
+	Free: Pattern=bij mij, Pattern=het, Pattern=zitten, Pattern=die
+	Constrained: 
+Turn ID=28| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=29| A | A : nummer negen
+	Free: 
+	Constrained: 
+Turn ID=30| A | A : ja bij mij ook
+	Free: Pattern=bij mij, Pattern=ja
+	Constrained: 
+Turn ID=31| A | A : dit zijn de stekker
+	Free: Pattern=dit zijn de stekker
+	Constrained: Pattern=stekker, Pattern=de, Pattern=de stekker, Pattern=zijn, Pattern=dit zijn
+Turn ID=32| B | B : ja dat zijn bij mij F
+	Free: Pattern=bij mij, Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=33| B | B : dit zijn de stekker
+	Free: Pattern=dit zijn de stekker
+	Constrained: Pattern=stekker, Pattern=de, Pattern=de stekker, Pattern=zijn, Pattern=dit zijn
+Turn ID=34| B | B : die zitten bij mij horizontaal en dan de middellijn
+	Free: Pattern=de, Pattern=dan, Pattern=en, Pattern=bij mij, Pattern=die, Pattern=zitten
+	Constrained: 
+Turn ID=35| A | A : de stekker zitten ja
+	Free: Pattern=de stekker, Pattern=ja, Pattern=zitten
+	Constrained: Pattern=stekker, Pattern=de
+Turn ID=36| A | A : nummer zes
+	Free: 
+	Constrained: 

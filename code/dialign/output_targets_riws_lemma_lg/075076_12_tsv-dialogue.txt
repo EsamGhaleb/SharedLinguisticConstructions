@@ -1,0 +1,99 @@
+A|0| A: oké deze _zijn_ _een_ beetje lastig uit te vastleggen _aan de rechterkant_ _zijn_ _een_ soort van _een_ soort van _het_ lijken _een_ beetje op _een_ dienblad _een_ plat cirkel laten maar zeggen 
+A|1| A: _die_ _aan de rechterkant_ uitsteken 
+B|2| B: _ja_ zo'n plateautjeachtig _iets_ 
+A|3| A: _en_ _aan de_ linkerkant opsteken er ook [iets] uit _met daar_ _een_ soort van piek _bovenop_ 
+B|4| B: _ja_ 
+B|5| B: _dat zijn_ L 
+A|6| A: [ja] 
+B|7| B: _ik hebben die_ [een] _met dat_ _dat plateau_ hoe noemen jij _dat_ ? [aan de rechterkant] 
+B|8| B: _en dan_ [een] _uitsteeksel_ links [met daar] _weer_ [een] _uitsteeksel_ [bovenop] 
+A|9| A: [ja] [dat zijn] nummer zeven bij mij 
+A|10| A: [ik hebben] diegene [met [dat] plateau] [weer] [aan de rechterkant] _en dan dat_ [uitsteeksel] [met] [die] piek _erop_ 
+B|11| B: [ja] 
+B|12| B: [dat zijn] C 
+B|13| B: _ik hebben die_ [een] [met] [het] [plateau] [en dan] [het] ding [met] [de] toren [erop] of whatever 
+A|14| A: [ja] nummer één 
+A|15| A: [ja] wel 
+A|16| A: [ik hebben die] [met [dat] plateau] [aan de rechterkant] 
+A|17| A: [en] [dat] [uitsteeksel] [met] [die] piek [aan de] linkerkant 
+B|18| B: [ja] 
+B|19| B: _ik zijn_ blind 
+B|20| B: [daar] [zijn] [die] [dat zijn] A 
+B|21| B: dit [zijn] [met] [het] plateaut rechts [en dan dat] ding links [met] [de] toren [erop] 
+A|22| A: [dat zijn] bij mij nummer [ik zijn] hem even kwijt hoor 
+A|23| A: nummer dertien 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : oké deze zijn een beetje lastig uit te vastleggen aan de rechterkant zijn een soort van een soort van het lijken een beetje op een dienblad een plat cirkel laten maar zeggen
+	Free: Pattern=aan de rechterkant, Pattern=zijn, Pattern=het, Pattern=een
+	Constrained: Pattern=aan de, Pattern=de
+Turn ID=1| A | A : die aan de rechterkant uitsteken
+	Free: Pattern=aan de rechterkant, Pattern=die
+	Constrained: Pattern=aan de, Pattern=de
+Turn ID=2| B | B : ja zo'n plateautjeachtig iets
+	Free: Pattern=ja, Pattern=iets
+	Constrained: 
+Turn ID=3| A | A : en aan de linkerkant opsteken er ook iets uit met daar een soort van piek bovenop
+	Free: Pattern=bovenop, Pattern=iets, Pattern=aan de, Pattern=een, Pattern=met daar, Pattern=en
+	Constrained: Pattern=daar, Pattern=met, Pattern=de
+Turn ID=4| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=5| B | B : dat zijn L
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=6| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=7| B | B : ik hebben die een met dat dat plateau hoe noemen jij dat ? aan de rechterkant
+	Free: Pattern=dat, Pattern=dat plateau, Pattern=een, Pattern=met dat, Pattern=aan de rechterkant, Pattern=ik hebben die
+	Constrained: Pattern=ik hebben, Pattern=dat, Pattern=de, Pattern=aan de, Pattern=plateau, Pattern=met, Pattern=die
+Turn ID=8| B | B : en dan een uitsteeksel links met daar weer een uitsteeksel bovenop
+	Free: Pattern=bovenop, Pattern=en dan, Pattern=uitsteeksel, Pattern=een, Pattern=met daar, Pattern=weer
+	Constrained: Pattern=daar, Pattern=met, Pattern=en
+Turn ID=9| A | A : ja dat zijn nummer zeven bij mij
+	Free: Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=10| A | A : ik hebben diegene met dat plateau weer aan de rechterkant en dan dat uitsteeksel met die piek erop
+	Free: Pattern=ik hebben, Pattern=dat plateau, Pattern=erop, Pattern=uitsteeksel, Pattern=met dat, Pattern=met, Pattern=weer, Pattern=en dan dat, Pattern=aan de rechterkant, Pattern=die
+	Constrained: Pattern=dat, Pattern=de, Pattern=en dan, Pattern=aan de, Pattern=plateau, Pattern=met, Pattern=en
+Turn ID=11| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=12| B | B : dat zijn C
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=13| B | B : ik hebben die een met het plateau en dan het ding met de toren erop of whatever
+	Free: Pattern=de, Pattern=een, Pattern=het, Pattern=plateau, Pattern=met, Pattern=ik hebben die, Pattern=en dan, Pattern=erop
+	Constrained: Pattern=die, Pattern=en, Pattern=ik hebben
+Turn ID=14| A | A : ja nummer één
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=15| A | A : ja wel
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=16| A | A : ik hebben die met dat plateau aan de rechterkant
+	Free: Pattern=ik hebben die, Pattern=aan de rechterkant, Pattern=met dat, Pattern=dat plateau
+	Constrained: Pattern=ik hebben, Pattern=dat, Pattern=de, Pattern=aan de, Pattern=plateau, Pattern=met, Pattern=die
+Turn ID=17| A | A : en dat uitsteeksel met die piek aan de linkerkant
+	Free: Pattern=dat, Pattern=aan de, Pattern=uitsteeksel, Pattern=met, Pattern=die, Pattern=en
+	Constrained: Pattern=de
+Turn ID=18| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=19| B | B : ik zijn blind
+	Free: Pattern=ik zijn
+	Constrained: Pattern=zijn
+Turn ID=20| B | B : daar zijn die dat zijn A
+	Free: Pattern=dat zijn, Pattern=zijn, Pattern=daar, Pattern=die
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=21| B | B : dit zijn met het plateaut rechts en dan dat ding links met de toren erop
+	Free: Pattern=de, Pattern=erop, Pattern=het, Pattern=met, Pattern=zijn, Pattern=en dan dat
+	Constrained: Pattern=dat, Pattern=en dan, Pattern=en
+Turn ID=22| A | A : dat zijn bij mij nummer ik zijn hem even kwijt hoor
+	Free: Pattern=ik zijn, Pattern=dat zijn
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=23| A | A : nummer dertien
+	Free: 
+	Constrained: 

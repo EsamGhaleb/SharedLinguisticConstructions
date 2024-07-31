@@ -1,0 +1,87 @@
+A|0| A: ok 
+A|1| A: hand _dat zijn_ vier 
+B|2| B: ik _hebben_ nou _ja_ het je kunnen het _een_ beetje vergelijken _met_ _een_ wijnglas _zeggen maar_ dus _dan_ [zijn] het zo'n beker _en_ daaronder _zitten dan_ nog zo'n staaf _met_ _een_ _een driehoek_ eronder _zeggen maar_ 
+B|3| B: _en_ _dan_ _hebben_ je nog _twee_ van _die_ blok _en_ nog _ja_ _een_ soort van rie _wat_ eruit steken _een_ beetje 
+B|4| B: _ja_ 
+A|5| A: ok deze [hebben] _dat_ lang _ding_ aan _de_ onderkant [wat] draaien [en] daar [zitten dan] _weer_ [een driehoek] aan vast _de_ bovenkant [twee] vierkant 
+B|6| B: _ja_ 
+B|7| B: _ja_ 
+B|8| B: [dat zijn] a bij mij 
+A|9| A: [die] _wel_ draaien ok [dat zijn] tien 
+A|10| A: dit _zijn dat_ gedraaide _ding_ aan _de_ onderkant [met] _de_ [driehoek] [zeggen maar] 
+B|11| B: nou [hebben] we [weer] [die] soort van trofee [zeggen maar] [met] [wel] [dat] driehoekje [en] [dan] 
+B|12| B: _ja_ 
+A|13| A: [ja] [dat zijn] vier 
+A|14| A: o [ja] dit [zijn] _met die_ [ja] [wat] draaien naar beneden [met] _de_ [driehoek] eraan [zeggen maar] 
+B|15| B: [ja] 
+B|16| B: bij mij [zijn dat] L 
+B|17| B: [weer] [die] [een] trofee [zeggen maar] [die] op [dat] plateau [en] [dan] [met die] [twee] kubuss 
+B|18| B: [ja] [de] driehoekig [ding] inderdaad [en] [dan] 
+B|19| B: [ja] 
+B|20| B: [dat zijn] bij mij F 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : ok
+	Free: 
+	Constrained: 
+Turn ID=1| A | A : hand dat zijn vier
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=2| B | B : ik hebben nou ja het je kunnen het een beetje vergelijken met een wijnglas zeggen maar dus dan zijn het zo'n beker en daaronder zitten dan nog zo'n staaf met een een driehoek eronder zeggen maar
+	Free: Pattern=ja, Pattern=dan, Pattern=een, Pattern=zeggen maar, Pattern=hebben, Pattern=en, Pattern=zijn, Pattern=een driehoek, Pattern=zitten dan, Pattern=met
+	Constrained: Pattern=een, Pattern=dan, Pattern=driehoek
+Turn ID=3| B | B : en dan hebben je nog twee van die blok en nog ja een soort van rie wat eruit steken een beetje
+	Free: Pattern=twee, Pattern=ja, Pattern=dan, Pattern=een, Pattern=hebben, Pattern=die, Pattern=wat, Pattern=en
+	Constrained: 
+Turn ID=4| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=5| A | A : ok deze hebben dat lang ding aan de onderkant wat draaien en daar zitten dan weer een driehoek aan vast de bovenkant twee vierkant
+	Free: Pattern=dat, Pattern=twee, Pattern=de, Pattern=ding, Pattern=hebben, Pattern=zitten dan, Pattern=wat, Pattern=en, Pattern=weer, Pattern=een driehoek
+	Constrained: Pattern=een, Pattern=dan, Pattern=driehoek
+Turn ID=6| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=7| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=8| B | B : dat zijn a bij mij
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=9| A | A : die wel draaien ok dat zijn tien
+	Free: Pattern=dat zijn, Pattern=die, Pattern=wel
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=10| A | A : dit zijn dat gedraaide ding aan de onderkant met de driehoek zeggen maar
+	Free: Pattern=driehoek, Pattern=de, Pattern=ding, Pattern=zeggen maar, Pattern=met, Pattern=zijn dat
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=11| B | B : nou hebben we weer die soort van trofee zeggen maar met wel dat driehoekje en dan
+	Free: Pattern=dat, Pattern=dan, Pattern=wel, Pattern=zeggen maar, Pattern=hebben, Pattern=met, Pattern=die, Pattern=en, Pattern=weer
+	Constrained: 
+Turn ID=12| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=13| A | A : ja dat zijn vier
+	Free: Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=14| A | A : o ja dit zijn met die ja wat draaien naar beneden met de driehoek eraan zeggen maar
+	Free: Pattern=driehoek, Pattern=met die, Pattern=zeggen maar, Pattern=met, Pattern=wat, Pattern=zijn, Pattern=de, Pattern=ja
+	Constrained: Pattern=met, Pattern=die
+Turn ID=15| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=16| B | B : bij mij zijn dat L
+	Free: Pattern=zijn dat
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=17| B | B : weer die een trofee zeggen maar die op dat plateau en dan met die twee kubuss
+	Free: Pattern=twee, Pattern=dan, Pattern=een, Pattern=zeggen maar, Pattern=die, Pattern=en, Pattern=weer, Pattern=dat, Pattern=met die
+	Constrained: Pattern=met, Pattern=die
+Turn ID=18| B | B : ja de driehoekig ding inderdaad en dan
+	Free: Pattern=dan, Pattern=ding, Pattern=en, Pattern=de, Pattern=ja
+	Constrained: 
+Turn ID=19| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=20| B | B : dat zijn bij mij F
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn

@@ -1,0 +1,123 @@
+A|0| A: _dit zijn_ net diegene _die_ _ik_ beschrijven _met die_ bowlingkegel op _zijn_ kop 
+A|1| A: _en_ _zo'n_ ander bowlingkegel _naar_ _de_ linkerkant 
+A|2| A: _en aan de achterkant_ zitten _een_ soort worm 
+A|3| A: _en aan de_ rechterkant zitten _een_ soort wolkenkrabber 
+B|4| B: _ja_ dan hebben [ik] hem 
+B|5| B: _dat zijn_ bij mij E 
+B|6| B: _dit zijn die_ [met] heel veel uitsteeksel dus hij hebben _bovenop_ [een] [een] rondachtig cilinder 
+B|7| B: ook [naar] voren links 
+B|8| B: [en] dan hebben [die] nog [aan de] zijkant [zo'n] _blok_ [die] steeds groot worden 
+A|9| A: [ja] 
+B|10| B: [en aan de achterkant] nog [zo'n] _pijp_ 
+A|11| A: [ja] 
+A|12| A: [dat zijn] nummer elf 
+A|13| A: [dit zijn die] [een] raar weer _met die_ _kegel_ [aan de] bovenkant _kegel_ [aan de] linkerkant [dat] blokjesding [aan de] rechterkant [en] [die] _pijp aan de achterkant_ 
+B|14| B: [een] [een] [pijp aan de achterkant] 
+A|15| A: _kegel bovenop_ 
+B|16| B: [ja] [ja] [ja] heel [die] uitsteeksel 
+A|17| A: [ja] _met die vier_ 
+B|18| B: [ja] 
+B|19| B: [dat zijn] bij mij J 
+B|20| B: [dit zijn] [met die vier] uitsteeksel dus [die] uitlaat linksachter 
+B|21| B: [kegel bovenop] 
+B|22| B: [kegel] linksvoor [en] [een] blokkig ding rechtsvoor 
+A|23| A: [ja] 
+A|24| A: [dat zijn] nummer negen 
+A|25| A: [dit zijn die] [een] [met die] raar [kegel] [en] het [pijp] _en de blok_ 
+B|26| B: [ja] [dat zijn] B 
+B|27| B: [de] [vier] lang uitsteeksel dus [de] twee [kegel] [de] [pijp aan de achterkant] [en de blok] [aan de] voorkant 
+A|28| A: [ja] 
+A|29| A: [zijn] nummer [vier] 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : dit zijn net diegene die ik beschrijven met die bowlingkegel op zijn kop
+	Free: Pattern=met die, Pattern=die, Pattern=ik, Pattern=zijn, Pattern=dit zijn
+	Constrained: Pattern=zijn, Pattern=die, Pattern=met
+Turn ID=1| A | A : en zo'n ander bowlingkegel naar de linkerkant
+	Free: Pattern=de, Pattern=naar, Pattern=en, Pattern=zo'n
+	Constrained: 
+Turn ID=2| A | A : en aan de achterkant zitten een soort worm
+	Free: Pattern=en aan de achterkant, Pattern=een
+	Constrained: Pattern=en aan de, Pattern=de, Pattern=aan de, Pattern=en
+Turn ID=3| A | A : en aan de rechterkant zitten een soort wolkenkrabber
+	Free: Pattern=en aan de, Pattern=een
+	Constrained: Pattern=aan de, Pattern=de, Pattern=en
+Turn ID=4| B | B : ja dan hebben ik hem
+	Free: Pattern=ik, Pattern=ja
+	Constrained: 
+Turn ID=5| B | B : dat zijn bij mij E
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=6| B | B : dit zijn die met heel veel uitsteeksel dus hij hebben bovenop een een rondachtig cilinder
+	Free: Pattern=dit zijn die, Pattern=een, Pattern=met, Pattern=bovenop
+	Constrained: Pattern=dit zijn, Pattern=zijn, Pattern=die
+Turn ID=7| B | B : ook naar voren links
+	Free: Pattern=naar
+	Constrained: 
+Turn ID=8| B | B : en dan hebben die nog aan de zijkant zo'n blok die steeds groot worden
+	Free: Pattern=zo'n, Pattern=aan de, Pattern=die, Pattern=en, Pattern=blok
+	Constrained: Pattern=de
+Turn ID=9| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=10| B | B : en aan de achterkant nog zo'n pijp
+	Free: Pattern=en aan de achterkant, Pattern=pijp, Pattern=zo'n
+	Constrained: Pattern=en aan de, Pattern=de, Pattern=aan de, Pattern=en
+Turn ID=11| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=12| A | A : dat zijn nummer elf
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=13| A | A : dit zijn die een raar weer met die kegel aan de bovenkant kegel aan de linkerkant dat blokjesding aan de rechterkant en die pijp aan de achterkant
+	Free: Pattern=kegel, Pattern=dit zijn die, Pattern=aan de, Pattern=een, Pattern=die, Pattern=en, Pattern=pijp aan de achterkant, Pattern=dat, Pattern=met die
+	Constrained: Pattern=de, Pattern=aan de, Pattern=met, Pattern=die, Pattern=pijp, Pattern=zijn, Pattern=dit zijn
+Turn ID=14| B | B : een een pijp aan de achterkant
+	Free: Pattern=pijp aan de achterkant, Pattern=een
+	Constrained: Pattern=pijp, Pattern=de, Pattern=aan de
+Turn ID=15| A | A : kegel bovenop
+	Free: Pattern=kegel bovenop
+	Constrained: Pattern=kegel, Pattern=bovenop
+Turn ID=16| B | B : ja ja ja heel die uitsteeksel
+	Free: Pattern=die, Pattern=ja
+	Constrained: 
+Turn ID=17| A | A : ja met die vier
+	Free: Pattern=met die vier, Pattern=ja
+	Constrained: Pattern=met, Pattern=die, Pattern=vier, Pattern=met die
+Turn ID=18| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=19| B | B : dat zijn bij mij J
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=20| B | B : dit zijn met die vier uitsteeksel dus die uitlaat linksachter
+	Free: Pattern=met die vier, Pattern=dit zijn, Pattern=die
+	Constrained: Pattern=met die, Pattern=met, Pattern=die, Pattern=zijn, Pattern=vier
+Turn ID=21| B | B : kegel bovenop
+	Free: Pattern=kegel bovenop
+	Constrained: Pattern=kegel, Pattern=bovenop
+Turn ID=22| B | B : kegel linksvoor en een blokkig ding rechtsvoor
+	Free: Pattern=een, Pattern=kegel, Pattern=en
+	Constrained: 
+Turn ID=23| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=24| A | A : dat zijn nummer negen
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=25| A | A : dit zijn die een met die raar kegel en het pijp en de blok
+	Free: Pattern=kegel, Pattern=met die, Pattern=dit zijn die, Pattern=een, Pattern=en de blok, Pattern=pijp, Pattern=en
+	Constrained: Pattern=de, Pattern=met, Pattern=die, Pattern=en, Pattern=blok, Pattern=zijn, Pattern=dit zijn
+Turn ID=26| B | B : ja dat zijn B
+	Free: Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=27| B | B : de vier lang uitsteeksel dus de twee kegel de pijp aan de achterkant en de blok aan de voorkant
+	Free: Pattern=kegel, Pattern=de, Pattern=aan de, Pattern=en de blok, Pattern=pijp aan de achterkant, Pattern=vier
+	Constrained: Pattern=de, Pattern=aan de, Pattern=blok, Pattern=pijp, Pattern=en
+Turn ID=28| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=29| A | A : zijn nummer vier
+	Free: Pattern=zijn, Pattern=vier
+	Constrained: 

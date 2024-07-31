@@ -1,0 +1,159 @@
+A|0| A: ik _hebben_ _aan de rechterkant_ _een_ _uitsteeksel_ wat balkvormig _zijn_ _en_ _aan de_ _aan de_ daarna of _aan de_ uitein _een soort_ bol 
+A|1| A: _die_ _zijn_ _aan de_ linkerkant ook al dan _zijn_ _hij_ kort 
+A|2| A: _en_ achterop staan nog _een_ _ja _een_ soort_ plaat staan _daar_ schuin op monteeren 
+A|3| A: _die_ staan _aan de_ achterkant _aan de_ _links_ achterkant 
+A|4| A: _ja_ 
+A|5| A: _ja_ 
+A|6| A: tien 
+A|7| A: ik _hebben_ _die twee_ _die_ _dat_ zonnepaneel 
+B|8| B: [hebben] [hij] [aan de rechterkant] [twee] staaf 
+B|9| B: [een soort] gieter 
+B|10| B: oké [ja] [dat] [zijn] [dat] [zijn] K 
+A|11| A: [ja] 
+A|12| A: even zoeken vijfteen 
+A|13| A: ik [hebben] _die_ [een] _met_ het zonnepaneel 
+B|14| B: dit [zijn] [die] [soort] gieter 
+B|15| B: [links] [en] rechts [ja een] staaf [met] [een] bolle eraan 
+B|16| B: [ja] [en] [daar] achter 
+B|17| B: [ja] 
+A|18| A: [ja] 
+A|19| A: [een] 
+B|20| B: [ja] 
+B|21| B: [en] [een] vierkant erachter achter [ja] B 
+B|22| B: dit [zijn] [de] gieter 
+B|23| B: [links] [en] rechts [ja] 
+B|24| B: [ja] [links] [en] rechts [twee] van [die] 
+B|25| B: [ja een] bolle 
+B|26| B: zo'n 
+B|27| B: nee 
+B|28| B: deze [hebben] [links] [en] rechts [twee] ding [en] [een] rond eraan 
+B|29| B: [ja] 
+B|30| B: [ja] 
+B|31| B: oké 
+B|32| B: ballet eraan , [ja] 
+B|33| B: F 
+B|34| B: [de] gieter 
+B|35| B: [die twee] ballet rechts 
+B|36| B: [ja] [twee] van [die] [uitsteeksel] , [links] [en] rechts , zitten [een] balle [aan] vast 
+B|37| B: [die] gieter , 
+B|38| B: [ja] 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : ik hebben aan de rechterkant een uitsteeksel wat balkvormig zijn en aan de aan de daarna of aan de uitein een soort bol
+	Free: Pattern=aan de, Pattern=uitsteeksel, Pattern=een, Pattern=hebben, Pattern=aan de rechterkant, Pattern=een soort, Pattern=en, Pattern=zijn
+	Constrained: Pattern=soort, Pattern=aan de, Pattern=een, Pattern=de, Pattern=aan
+Turn ID=1| A | A : die zijn aan de linkerkant ook al dan zijn hij kort
+	Free: Pattern=aan de, Pattern=zijn, Pattern=hij, Pattern=die
+	Constrained: Pattern=de, Pattern=aan
+Turn ID=2| A | A : en achterop staan nog een ja een soort plaat staan daar schuin op monteeren
+	Free: Pattern=een, Pattern=ja een, Pattern=een soort, Pattern=en, Pattern=daar
+	Constrained: Pattern=ja, Pattern=soort, Pattern=een
+Turn ID=3| A | A : die staan aan de achterkant aan de links achterkant
+	Free: Pattern=aan de, Pattern=links, Pattern=die
+	Constrained: Pattern=de, Pattern=aan
+Turn ID=4| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=5| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=6| A | A : tien
+	Free: 
+	Constrained: 
+Turn ID=7| A | A : ik hebben die twee die dat zonnepaneel
+	Free: Pattern=die twee, Pattern=dat, Pattern=hebben, Pattern=die
+	Constrained: Pattern=twee, Pattern=die
+Turn ID=8| B | B : hebben hij aan de rechterkant twee staaf
+	Free: Pattern=aan de rechterkant, Pattern=hij, Pattern=twee, Pattern=hebben
+	Constrained: Pattern=aan, Pattern=de, Pattern=aan de
+Turn ID=9| B | B : een soort gieter
+	Free: Pattern=een soort
+	Constrained: Pattern=soort, Pattern=een
+Turn ID=10| B | B : oké ja dat zijn dat zijn K
+	Free: Pattern=dat, Pattern=zijn, Pattern=ja
+	Constrained: 
+Turn ID=11| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=12| A | A : even zoeken vijfteen
+	Free: 
+	Constrained: 
+Turn ID=13| A | A : ik hebben die een met het zonnepaneel
+	Free: Pattern=met, Pattern=hebben, Pattern=die, Pattern=een
+	Constrained: 
+Turn ID=14| B | B : dit zijn die soort gieter
+	Free: Pattern=zijn, Pattern=die, Pattern=soort
+	Constrained: 
+Turn ID=15| B | B : links en rechts ja een staaf met een bolle eraan
+	Free: Pattern=een, Pattern=links, Pattern=en, Pattern=ja een, Pattern=met
+	Constrained: Pattern=ja, Pattern=een
+Turn ID=16| B | B : ja en daar achter
+	Free: Pattern=daar, Pattern=ja, Pattern=en
+	Constrained: 
+Turn ID=17| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=18| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=19| A | A : een
+	Free: Pattern=een
+	Constrained: 
+Turn ID=20| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=21| B | B : en een vierkant erachter achter ja B
+	Free: Pattern=ja, Pattern=en, Pattern=een
+	Constrained: 
+Turn ID=22| B | B : dit zijn de gieter
+	Free: Pattern=zijn, Pattern=de
+	Constrained: 
+Turn ID=23| B | B : links en rechts ja
+	Free: Pattern=links, Pattern=ja, Pattern=en
+	Constrained: 
+Turn ID=24| B | B : ja links en rechts twee van die
+	Free: Pattern=twee, Pattern=ja, Pattern=links, Pattern=die, Pattern=en
+	Constrained: 
+Turn ID=25| B | B : ja een bolle
+	Free: Pattern=ja een
+	Constrained: Pattern=ja, Pattern=een
+Turn ID=26| B | B : zo'n
+	Free: 
+	Constrained: 
+Turn ID=27| B | B : nee
+	Free: 
+	Constrained: 
+Turn ID=28| B | B : deze hebben links en rechts twee ding en een rond eraan
+	Free: Pattern=twee, Pattern=een, Pattern=links, Pattern=hebben, Pattern=en
+	Constrained: 
+Turn ID=29| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=30| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=31| B | B : oké
+	Free: 
+	Constrained: 
+Turn ID=32| B | B : ballet eraan , ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=33| B | B : F
+	Free: 
+	Constrained: 
+Turn ID=34| B | B : de gieter
+	Free: Pattern=de
+	Constrained: 
+Turn ID=35| B | B : die twee ballet rechts
+	Free: Pattern=die twee
+	Constrained: Pattern=twee, Pattern=die
+Turn ID=36| B | B : ja twee van die uitsteeksel , links en rechts , zitten een balle aan vast
+	Free: Pattern=twee, Pattern=uitsteeksel, Pattern=een, Pattern=links, Pattern=die, Pattern=en, Pattern=aan, Pattern=ja
+	Constrained: 
+Turn ID=37| B | B : die gieter ,
+	Free: Pattern=die
+	Constrained: 
+Turn ID=38| B | B : ja
+	Free: Pattern=ja
+	Constrained: 

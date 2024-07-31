@@ -1,0 +1,119 @@
+B|0| B: ok _ja_ deze _hebben_ _aan de_ bovenkant _een_ balk _aan de_ linkerkant _een beetje_ _soort_ _van_ 
+B|1| B: _ja_ tui _of_ zo _en_ _aan de_ rechterkant _ja_ zitten er _ook_ _een_ vlak _en_ daar zitten dan nog weer _een_ 
+B|2| B: balk op hij _zijn_ _zeggen maar_ alles zitten wel heel dicht tegen het object _aan_ 
+B|3| B: _ja_ liggen _ja_ _die_ _zijn_ _zeggen maar_ net iets klein dan _dat_ rond ding zelf 
+B|4| B: _ja_ 
+B|5| B: _ja_ 
+A|6| A: [ja] 
+A|7| A: [een] [soort] vleugel [aan de] zijkant [ja] 
+A|8| A: zo'n [soort] neus [of] [een] bek [en] 
+A|9| A: [ja] [ja] 
+A|10| A: ik [hebben] [ook] zo'n associatie 
+A|11| A: _dat zijn_ acht 
+B|12| B: [een] balk bovenop 
+B|13| B: [zijn] hij _zeggen maar_ _die_ heel compact [of] niet ok 
+B|14| B: _zeggen maar_ _die_ balk erop [en] [aan de] linkerkant [hebben] hij zoiets [en] [aan de] rechterkant [en] er zitten nog [een] staafje op 
+B|15| B: ok dan [zijn] het E 
+B|16| B: ok [ja] _dit zijn die_ compacte met [dat] blok bovenop 
+A|17| A: oké [dit zijn die] jij [de] vogel noemen [en] ik [ja] ik [een beetje] pinguïn want [die] [hebben] [een beetje] [aan de] zijkant [van] [dat] [soort] vleugelt [en] [een] raar bek 
+B|18| B: [ja] 
+B|19| B: [dat zijn] E 
+A|20| A: [ja] 
+A|21| A: even kijken waar [die] staan 
+A|22| A: [ja] [dat zijn] één 
+B|23| B: ok [dit zijn die] compact 
+A|24| A: ander plek 
+A|25| A: [dit zijn] [de] pinguïn [of] [de] vogel [zeggen maar] 
+A|26| A: [ja] 
+A|27| A: even kijken [dat zijn] zestien 
+A|28| A: [dit zijn] [de] pinguïn [of] [de] vogel [zeggen maar] 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : ok ja deze hebben aan de bovenkant een balk aan de linkerkant een beetje soort van
+	Free: Pattern=soort, Pattern=ja, Pattern=aan de, Pattern=een, Pattern=hebben, Pattern=van, Pattern=een beetje
+	Constrained: Pattern=de, Pattern=aan, Pattern=een
+Turn ID=1| B | B : ja tui of zo en aan de rechterkant ja zitten er ook een vlak en daar zitten dan nog weer een
+	Free: Pattern=of, Pattern=ja, Pattern=een, Pattern=en, Pattern=aan de, Pattern=ook
+	Constrained: Pattern=de, Pattern=aan
+Turn ID=2| B | B : balk op hij zijn zeggen maar alles zitten wel heel dicht tegen het object aan
+	Free: Pattern=zeggen maar, Pattern=aan, Pattern=zijn
+	Constrained: 
+Turn ID=3| B | B : ja liggen ja die zijn zeggen maar net iets klein dan dat rond ding zelf
+	Free: Pattern=dat, Pattern=ja, Pattern=zeggen maar, Pattern=die, Pattern=zijn
+	Constrained: 
+Turn ID=4| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=5| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=6| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=7| A | A : een soort vleugel aan de zijkant ja
+	Free: Pattern=aan de, Pattern=soort, Pattern=ja, Pattern=een
+	Constrained: Pattern=de, Pattern=aan
+Turn ID=8| A | A : zo'n soort neus of een bek en
+	Free: Pattern=soort, Pattern=een, Pattern=en, Pattern=of
+	Constrained: 
+Turn ID=9| A | A : ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=10| A | A : ik hebben ook zo'n associatie
+	Free: Pattern=hebben, Pattern=ook
+	Constrained: 
+Turn ID=11| A | A : dat zijn acht
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=12| B | B : een balk bovenop
+	Free: Pattern=een
+	Constrained: 
+Turn ID=13| B | B : zijn hij zeggen maar die heel compact of niet ok
+	Free: Pattern=zeggen maar, Pattern=die, Pattern=zijn, Pattern=of
+	Constrained: 
+Turn ID=14| B | B : zeggen maar die balk erop en aan de linkerkant hebben hij zoiets en aan de rechterkant en er zitten nog een staafje op
+	Free: Pattern=aan de, Pattern=een, Pattern=zeggen maar, Pattern=hebben, Pattern=die, Pattern=en
+	Constrained: Pattern=de, Pattern=aan
+Turn ID=15| B | B : ok dan zijn het E
+	Free: Pattern=zijn
+	Constrained: 
+Turn ID=16| B | B : ok ja dit zijn die compacte met dat blok bovenop
+	Free: Pattern=dit zijn die, Pattern=dat, Pattern=ja
+	Constrained: Pattern=dit zijn, Pattern=die, Pattern=zijn
+Turn ID=17| A | A : oké dit zijn die jij de vogel noemen en ik ja ik een beetje pinguïn want die hebben een beetje aan de zijkant van dat soort vleugelt en een raar bek
+	Free: Pattern=dat, Pattern=aan de, Pattern=een, Pattern=hebben, Pattern=die, Pattern=een beetje, Pattern=dit zijn die, Pattern=soort, Pattern=de, Pattern=ja, Pattern=van, Pattern=en
+	Constrained: Pattern=een, Pattern=die, Pattern=zijn, Pattern=dit zijn, Pattern=de, Pattern=aan
+Turn ID=18| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=19| B | B : dat zijn E
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=20| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=21| A | A : even kijken waar die staan
+	Free: Pattern=die
+	Constrained: 
+Turn ID=22| A | A : ja dat zijn één
+	Free: Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=23| B | B : ok dit zijn die compact
+	Free: Pattern=dit zijn die
+	Constrained: Pattern=dit zijn, Pattern=die, Pattern=zijn
+Turn ID=24| A | A : ander plek
+	Free: 
+	Constrained: 
+Turn ID=25| A | A : dit zijn de pinguïn of de vogel zeggen maar
+	Free: Pattern=zeggen maar, Pattern=dit zijn, Pattern=de, Pattern=of
+	Constrained: Pattern=zijn
+Turn ID=26| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=27| A | A : even kijken dat zijn zestien
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=28| A | A : dit zijn de pinguïn of de vogel zeggen maar
+	Free: Pattern=zeggen maar, Pattern=dit zijn, Pattern=de, Pattern=of
+	Constrained: Pattern=zijn

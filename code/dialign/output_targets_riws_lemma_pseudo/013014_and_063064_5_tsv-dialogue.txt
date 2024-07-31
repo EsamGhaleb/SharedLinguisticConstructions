@@ -1,0 +1,143 @@
+B|0| B: _ik_ vinden dit _een_ beetje _op_ zo'n tapje lijken als je zo'n groot glas komen hebben _waar_ je limonade uit kunnen tappen 
+B|1| B: _dan_ komen er zo'n _balkje_ uit _waar_ ook weer _een balkje_ _op_ _zitten_ 
+B|2| B: _en_ _aan_ _de_ zijkant _zitten_ _twee van die_ schuin ding _die_ zo lopen _aan_ _de_ _een_ _kant_ zien je hem goed _dan_ _aan_ _de_ ander _kant_ 
+B|3| B: _en_ bovenop _zitten_ nog _een balkje_ 
+B|4| B: _oké_ 
+A|5| A: _ja_ 
+A|6| A: lampenkap 
+A|7| A: _ja_ 
+A|8| A: _ja_ 
+A|9| A: wachten [en] ze [zitten] [zitten] [zitten] [aan] beide [kant] lampenkapjes 
+A|10| A: [en] erbovenop [zitten] één [zitten] toch [een balkje] toch 
+A|11| A: _ja_ [oké] [dan] weten [ik] _het_ 
+A|12| A: _dat zijn_ acht 
+B|13| B: even kijken _waar_ _die_ [zijn] hoor 
+B|14| B: [ja] [ja] [dat zijn] E 
+A|15| A: _het_ [zijn] [een] [zitten] [een] balk [op] 
+A|16| A: [en] [die] [twee van die] hoe noemen jij _het_ 
+A|17| A: [ja] [van die] lampenkapjes naast [twee] lampenkapjes naast 
+B|18| B: dit _zijn de_ kip [en] [het] watertapdinge 
+B|19| B: [dat zijn] E 
+A|20| A: [oké] 
+A|21| A: [ja] 
+A|22| A: [en] [dan] [twee] lampenkapjes naast 
+A|23| A: [en] [twee] [een] cilinder ervoor in [de] voorkant volgens mij [zijn] [dat] [een] cilinder 
+A|24| A: [ja] 
+A|25| A: één [zijn] [dat] 
+B|26| B: dit [zijn] weer [de] kip 
+B|27| B: of [de] watertap 
+A|28| A: lampenkapjes [balkje] erop 
+B|29| B: [ja] [dat zijn] O 
+A|30| A: [ja] 
+A|31| A: [die] lampenkap lampenkapjes [waar] [zijn de] lampenkapjes 
+A|32| A: [ja] 
+A|33| A: [dat zijn] zestien 
+A|34| A: lampenkapjes met [de] balk erop 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : ik vinden dit een beetje op zo'n tapje lijken als je zo'n groot glas komen hebben waar je limonade uit kunnen tappen
+	Free: Pattern=waar, Pattern=ik, Pattern=op, Pattern=een
+	Constrained: 
+Turn ID=1| B | B : dan komen er zo'n balkje uit waar ook weer een balkje op zitten
+	Free: Pattern=waar, Pattern=op, Pattern=dan, Pattern=balkje, Pattern=een balkje, Pattern=zitten
+	Constrained: Pattern=balkje, Pattern=een
+Turn ID=2| B | B : en aan de zijkant zitten twee van die schuin ding die zo lopen aan de een kant zien je hem goed dan aan de ander kant
+	Free: Pattern=twee van die, Pattern=kant, Pattern=dan, Pattern=een, Pattern=en, Pattern=de, Pattern=aan, Pattern=die, Pattern=zitten
+	Constrained: Pattern=van die, Pattern=die, Pattern=twee
+Turn ID=3| B | B : en bovenop zitten nog een balkje
+	Free: Pattern=een balkje, Pattern=en, Pattern=zitten
+	Constrained: Pattern=balkje, Pattern=een
+Turn ID=4| B | B : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=5| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=6| A | A : lampenkap
+	Free: 
+	Constrained: 
+Turn ID=7| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=8| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=9| A | A : wachten en ze zitten zitten zitten aan beide kant lampenkapjes
+	Free: Pattern=kant, Pattern=en, Pattern=aan, Pattern=zitten
+	Constrained: 
+Turn ID=10| A | A : en erbovenop zitten één zitten toch een balkje toch
+	Free: Pattern=een balkje, Pattern=en, Pattern=zitten
+	Constrained: Pattern=balkje, Pattern=een
+Turn ID=11| A | A : ja oké dan weten ik het
+	Free: Pattern=ja, Pattern=dan, Pattern=het, Pattern=oké, Pattern=ik
+	Constrained: 
+Turn ID=12| A | A : dat zijn acht
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=13| B | B : even kijken waar die zijn hoor
+	Free: Pattern=zijn, Pattern=die, Pattern=waar
+	Constrained: 
+Turn ID=14| B | B : ja ja dat zijn E
+	Free: Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=15| A | A : het zijn een zitten een balk op
+	Free: Pattern=op, Pattern=een, Pattern=het, Pattern=zitten, Pattern=zijn
+	Constrained: 
+Turn ID=16| A | A : en die twee van die hoe noemen jij het
+	Free: Pattern=twee van die, Pattern=en, Pattern=die, Pattern=het
+	Constrained: Pattern=van die, Pattern=die, Pattern=twee
+Turn ID=17| A | A : ja van die lampenkapjes naast twee lampenkapjes naast
+	Free: Pattern=van die, Pattern=ja, Pattern=twee
+	Constrained: Pattern=die
+Turn ID=18| B | B : dit zijn de kip en het watertapdinge
+	Free: Pattern=zijn de, Pattern=en, Pattern=het
+	Constrained: Pattern=zijn, Pattern=de
+Turn ID=19| B | B : dat zijn E
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=20| A | A : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=21| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=22| A | A : en dan twee lampenkapjes naast
+	Free: Pattern=en, Pattern=dan, Pattern=twee
+	Constrained: 
+Turn ID=23| A | A : en twee een cilinder ervoor in de voorkant volgens mij zijn dat een cilinder
+	Free: Pattern=dat, Pattern=twee, Pattern=de, Pattern=een, Pattern=en, Pattern=zijn
+	Constrained: 
+Turn ID=24| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=25| A | A : één zijn dat
+	Free: Pattern=dat, Pattern=zijn
+	Constrained: 
+Turn ID=26| B | B : dit zijn weer de kip
+	Free: Pattern=zijn, Pattern=de
+	Constrained: 
+Turn ID=27| B | B : of de watertap
+	Free: Pattern=de
+	Constrained: 
+Turn ID=28| A | A : lampenkapjes balkje erop
+	Free: Pattern=balkje
+	Constrained: 
+Turn ID=29| B | B : ja dat zijn O
+	Free: Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=30| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=31| A | A : die lampenkap lampenkapjes waar zijn de lampenkapjes
+	Free: Pattern=zijn de, Pattern=die, Pattern=waar
+	Constrained: Pattern=zijn, Pattern=de
+Turn ID=32| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=33| A | A : dat zijn zestien
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=34| A | A : lampenkapjes met de balk erop
+	Free: Pattern=de
+	Constrained: 

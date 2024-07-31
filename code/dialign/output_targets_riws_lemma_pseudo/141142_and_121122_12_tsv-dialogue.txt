@@ -1,0 +1,111 @@
+B|0| B: _ja_ 
+B|1| B: _ja_ 
+B|2| B: _dat zijn_ bij _mij_ L 
+B|3| B: mooi omschrijving 
+B|4| B: _dit zijn_ _waar_ jij _je_ plan op _zullen_ bijzetten _met_ 
+B|5| B: _je_ cactus 
+B|6| B: C 
+A|7| A: oké deze _hebben_ aan de linkerkant 
+A|8| A: [ja] misschien [je] [zullen] het kunnen zien als een soort van bank of zo die net een beetje naar voren kantelen [zijn] 
+A|9| A: [met] een [ja] een soort van een groot nagel zeggen maar een spijker die ertegenaan zitten 
+A|10| A: en aan de linkerkant _hebben_ [je] een soort van [ja] een cirkel die die die [ja] 
+A|11| A: [ja] 
+A|12| A: welk [zijn] [dat] ook alweer ? even kijken [waar] die staan 
+A|13| A: [ja] [ja] 
+A|14| A: [ja] oké 
+A|15| A: dus [dat zijn] zeven voor [mij] 
+B|16| B: ik [hebben] jou plantenbak 
+B|17| B: [zijn] A 
+A|18| A: [ja] oké deze [hebben] die die kantelen bank [met] de [met] de spijker ertegenaan 
+A|19| A: en de en die cirkel aan de rechterkant 
+A|20| A: yes 
+B|21| B: bij [mij] [dat] plantenbak 
+A|22| A: [ja] 
+A|23| A: oké [dat zijn] één 
+A|24| A: even kijken [dit zijn] weer die omgu die die kantelen bank [met] de spijker erop 
+A|25| A: en de cirkel 
+A|26| A: [ja] [dat zijn] dertien 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=1| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=2| B | B : dat zijn bij mij L
+	Free: Pattern=dat zijn, Pattern=mij
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=3| B | B : mooi omschrijving
+	Free: 
+	Constrained: 
+Turn ID=4| B | B : dit zijn waar jij je plan op zullen bijzetten met
+	Free: Pattern=zullen, Pattern=waar, Pattern=met, Pattern=je, Pattern=dit zijn
+	Constrained: Pattern=zijn
+Turn ID=5| B | B : je cactus
+	Free: Pattern=je
+	Constrained: 
+Turn ID=6| B | B : C
+	Free: 
+	Constrained: 
+Turn ID=7| A | A : oké deze hebben aan de linkerkant
+	Free: Pattern=hebben
+	Constrained: 
+Turn ID=8| A | A : ja misschien je zullen het kunnen zien als een soort van bank of zo die net een beetje naar voren kantelen zijn
+	Free: Pattern=zijn, Pattern=zullen, Pattern=ja, Pattern=je
+	Constrained: 
+Turn ID=9| A | A : met een ja een soort van een groot nagel zeggen maar een spijker die ertegenaan zitten
+	Free: Pattern=ja, Pattern=met
+	Constrained: 
+Turn ID=10| A | A : en aan de linkerkant hebben je een soort van ja een cirkel die die die ja
+	Free: Pattern=hebben, Pattern=ja, Pattern=je
+	Constrained: 
+Turn ID=11| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=12| A | A : welk zijn dat ook alweer ? even kijken waar die staan
+	Free: Pattern=dat, Pattern=waar, Pattern=zijn
+	Constrained: 
+Turn ID=13| A | A : ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=14| A | A : ja oké
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=15| A | A : dus dat zijn zeven voor mij
+	Free: Pattern=dat zijn, Pattern=mij
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=16| B | B : ik hebben jou plantenbak
+	Free: Pattern=hebben
+	Constrained: 
+Turn ID=17| B | B : zijn A
+	Free: Pattern=zijn
+	Constrained: 
+Turn ID=18| A | A : ja oké deze hebben die die kantelen bank met de met de spijker ertegenaan
+	Free: Pattern=hebben, Pattern=ja, Pattern=met
+	Constrained: 
+Turn ID=19| A | A : en de en die cirkel aan de rechterkant
+	Free: 
+	Constrained: 
+Turn ID=20| A | A : yes
+	Free: 
+	Constrained: 
+Turn ID=21| B | B : bij mij dat plantenbak
+	Free: Pattern=mij, Pattern=dat
+	Constrained: 
+Turn ID=22| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=23| A | A : oké dat zijn één
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=24| A | A : even kijken dit zijn weer die omgu die die kantelen bank met de spijker erop
+	Free: Pattern=dit zijn, Pattern=met
+	Constrained: Pattern=zijn
+Turn ID=25| A | A : en de cirkel
+	Free: 
+	Constrained: 
+Turn ID=26| A | A : ja dat zijn dertien
+	Free: Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=dat, Pattern=zijn

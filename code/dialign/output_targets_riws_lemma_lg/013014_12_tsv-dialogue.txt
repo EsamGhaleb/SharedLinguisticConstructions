@@ -1,0 +1,223 @@
+A|0| A: _oké_ _dit zijn_ _een_ mok _er zitten_ niks in _de_ bovenkant 
+A|1| A: _er zitten_ wel _een uitsteeksel_ 
+A|2| A: _een_ beetje _een _Bvormig_ uitsteeksel_ 
+B|3| B: [een Bvormig] 
+A|4| A: _en_ daarop 
+A|5| A: _ja_ [een] beetje _ja_ [een] beetje [Bvormig] 
+A|6| A: twee golf 
+A|7| A: _en_ daarboven daarop _zitten_ weer [een] _een uitsteeksel_ in _de_ vorm van [een] uitgerekte piramide 
+A|8| A: [een] beetje uitgerekt zo 
+A|9| A: _en er zitten_ ook [een] [een] _tafel _aan_ de_ rechterkant 
+B|10| B: [ja] 
+B|11| B: [ja] 
+B|12| B: _dat zijn_ L 
+B|13| B: _jij_ noemen net [een] ding waar _een soort_ [tafel aan] vasthing 
+B|14| B: [en er zitten] _een soort pion_ op [een uitsteeksel] 
+A|15| A: [een soort pion] 
+B|16| B: dus je hebben [een] 
+A|17| A: [ja] [zijn] _dit_ _die met_ _de_ [Bvormig] [een] [tafel] toch _aan de_ _aan de_ 
+B|18| B: _aan de linkerkant_ inderdaad bvormig 
+A|19| A: [ja] 
+B|20| B: [en er] nou [aan de] ander _kant_ _zijn _het_ tafel en_ [aan] _het_ [uitsteeksel] [zitten] [een soort] _pionne_ 
+A|21| A: _uitgerekken_ 
+A|22| A: [ja] [een] uitgerekt [pionne] [ja] [ja] _oké_ 
+A|23| A: [dat zijn] zeven 
+B|24| B: [ja] 
+A|25| A: [zitten] veel veel naar beneden 
+B|26| B: gewoon makkelijk om gewoon _centimeter_ te praten eigenlijk 
+B|27| B: als [dat] lukken 
+A|28| A: ik kunnen ik [zijn] echt ik kunnen echt niet inschatten hoeveel [centimeter] ik moeten gokken hier 
+A|29| A: even kijken hoor beker 
+A|30| A: [tafel aan] deze [kant] 
+A|31| A: [aan de] rechterkant 
+A|32| A: [en] [het] [zijn] [een] Bvorm [aan de linkerkant] [en] zo'n uitgerekte [pion] 
+B|33| B: [ja] 
+B|34| B: [ja] 
+A|35| A: _eraan_ vast 
+B|36| B: letter C 
+B|37| B: prima 
+A|38| A: [en] [jij] [zijn] 
+B|39| B: [ja] [dat zijn] [dat] [dat] [Bvormig uitsteeksel] 
+B|40| B: waar [een] [die] [pion] uit komen [die] [uitgerekken] [zijn] 
+B|41| B: [en] [dat] [tafel] [eraan] 
+A|42| A: [Bvormig] [pion] [die] 
+A|43| A: [die] [ja] 
+B|44| B: [Bvormig] uit steeksel 
+A|45| A: _oké_ 
+A|46| A: _dit [zijn_ het] mok _met [het_ tafel en] [de] Bvorm [en] [de] verlengen [pion] [die] daaraan vastziken 
+A|47| A: uittrken 
+B|48| B: [oké] [ja] 
+B|49| B: [dat zijn] A 
+A|50| A: [ja] 
+B|51| B: klinken goed 
+B|52| B: [dit zijn] [die [met] het] [Bvormig uitsteeksel] [het tafel en] [dat] [pionne] [dat] uit [het] uitseeksel komen 
+A|53| A: [ja] [die] 
+A|54| A: [dat zijn] dertien 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : oké dit zijn een mok er zitten niks in de bovenkant
+	Free: Pattern=de, Pattern=een, Pattern=dit zijn, Pattern=er zitten, Pattern=oké
+	Constrained: Pattern=dit, Pattern=zijn, Pattern=zitten
+Turn ID=1| A | A : er zitten wel een uitsteeksel
+	Free: Pattern=er zitten, Pattern=een uitsteeksel
+	Constrained: Pattern=een, Pattern=uitsteeksel, Pattern=zitten
+Turn ID=2| A | A : een beetje een Bvormig uitsteeksel
+	Free: Pattern=een Bvormig, Pattern=Bvormig uitsteeksel, Pattern=een
+	Constrained: Pattern=Bvormig, Pattern=een, Pattern=uitsteeksel
+Turn ID=3| B | B : een Bvormig
+	Free: Pattern=een Bvormig
+	Constrained: Pattern=Bvormig, Pattern=een
+Turn ID=4| A | A : en daarop
+	Free: Pattern=en
+	Constrained: 
+Turn ID=5| A | A : ja een beetje ja een beetje Bvormig
+	Free: Pattern=Bvormig, Pattern=een, Pattern=ja
+	Constrained: 
+Turn ID=6| A | A : twee golf
+	Free: 
+	Constrained: 
+Turn ID=7| A | A : en daarboven daarop zitten weer een een uitsteeksel in de vorm van een uitgerekte piramide
+	Free: Pattern=de, Pattern=een, Pattern=zitten, Pattern=en, Pattern=een uitsteeksel
+	Constrained: Pattern=een, Pattern=uitsteeksel
+Turn ID=8| A | A : een beetje uitgerekt zo
+	Free: Pattern=een
+	Constrained: 
+Turn ID=9| A | A : en er zitten ook een een tafel aan de rechterkant
+	Free: Pattern=en er zitten, Pattern=aan de, Pattern=tafel aan, Pattern=een
+	Constrained: Pattern=en er, Pattern=er zitten, Pattern=en, Pattern=de, Pattern=aan, Pattern=tafel, Pattern=zitten
+Turn ID=10| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=11| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=12| B | B : dat zijn L
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=13| B | B : jij noemen net een ding waar een soort tafel aan vasthing
+	Free: Pattern=een soort, Pattern=tafel aan, Pattern=een, Pattern=jij
+	Constrained: Pattern=een, Pattern=tafel, Pattern=aan
+Turn ID=14| B | B : en er zitten een soort pion op een uitsteeksel
+	Free: Pattern=en er zitten, Pattern=een soort pion, Pattern=een uitsteeksel
+	Constrained: Pattern=uitsteeksel, Pattern=een, Pattern=en er, Pattern=zitten, Pattern=er zitten, Pattern=een soort, Pattern=en, Pattern=pion
+Turn ID=15| A | A : een soort pion
+	Free: Pattern=een soort pion
+	Constrained: Pattern=een soort, Pattern=pion, Pattern=een
+Turn ID=16| B | B : dus je hebben een
+	Free: Pattern=een
+	Constrained: 
+Turn ID=17| A | A : ja zijn dit die met de Bvormig een tafel toch aan de aan de
+	Free: Pattern=aan de, Pattern=een, Pattern=dit, Pattern=die met, Pattern=tafel, Pattern=de, Pattern=ja, Pattern=Bvormig, Pattern=zijn
+	Constrained: Pattern=de, Pattern=die, Pattern=aan
+Turn ID=18| B | B : aan de linkerkant inderdaad bvormig
+	Free: Pattern=aan de linkerkant
+	Constrained: Pattern=aan, Pattern=de, Pattern=aan de
+Turn ID=19| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=20| B | B : en er nou aan de ander kant zijn het tafel en aan het uitsteeksel zitten een soort pionne
+	Free: Pattern=kant, Pattern=zijn het, Pattern=aan, Pattern=aan de, Pattern=uitsteeksel, Pattern=en er, Pattern=het, Pattern=zitten, Pattern=het tafel en, Pattern=een soort, Pattern=pionne
+	Constrained: Pattern=een, Pattern=het, Pattern=tafel, Pattern=en, Pattern=zijn, Pattern=de, Pattern=aan
+Turn ID=21| A | A : uitgerekken
+	Free: Pattern=uitgerekken
+	Constrained: 
+Turn ID=22| A | A : ja een uitgerekt pionne ja ja oké
+	Free: Pattern=oké, Pattern=een, Pattern=ja, Pattern=pionne
+	Constrained: 
+Turn ID=23| A | A : dat zijn zeven
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=24| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=25| A | A : zitten veel veel naar beneden
+	Free: Pattern=zitten
+	Constrained: 
+Turn ID=26| B | B : gewoon makkelijk om gewoon centimeter te praten eigenlijk
+	Free: Pattern=centimeter
+	Constrained: 
+Turn ID=27| B | B : als dat lukken
+	Free: Pattern=dat
+	Constrained: 
+Turn ID=28| A | A : ik kunnen ik zijn echt ik kunnen echt niet inschatten hoeveel centimeter ik moeten gokken hier
+	Free: Pattern=zijn, Pattern=centimeter
+	Constrained: 
+Turn ID=29| A | A : even kijken hoor beker
+	Free: 
+	Constrained: 
+Turn ID=30| A | A : tafel aan deze kant
+	Free: Pattern=tafel aan, Pattern=kant
+	Constrained: Pattern=tafel, Pattern=aan
+Turn ID=31| A | A : aan de rechterkant
+	Free: Pattern=aan de
+	Constrained: Pattern=de, Pattern=aan
+Turn ID=32| A | A : en het zijn een Bvorm aan de linkerkant en zo'n uitgerekte pion
+	Free: Pattern=een, Pattern=het, Pattern=en, Pattern=zijn, Pattern=pion, Pattern=aan de linkerkant
+	Constrained: Pattern=aan, Pattern=de, Pattern=aan de
+Turn ID=33| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=34| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=35| A | A : eraan vast
+	Free: Pattern=eraan
+	Constrained: 
+Turn ID=36| B | B : letter C
+	Free: 
+	Constrained: 
+Turn ID=37| B | B : prima
+	Free: 
+	Constrained: 
+Turn ID=38| A | A : en jij zijn
+	Free: Pattern=zijn, Pattern=en, Pattern=jij
+	Constrained: 
+Turn ID=39| B | B : ja dat zijn dat dat Bvormig uitsteeksel
+	Free: Pattern=dat zijn, Pattern=Bvormig uitsteeksel, Pattern=dat, Pattern=ja
+	Constrained: Pattern=Bvormig, Pattern=dat, Pattern=uitsteeksel, Pattern=zijn
+Turn ID=40| B | B : waar een die pion uit komen die uitgerekken zijn
+	Free: Pattern=uitgerekken, Pattern=een, Pattern=die, Pattern=zijn, Pattern=pion
+	Constrained: 
+Turn ID=41| B | B : en dat tafel eraan
+	Free: Pattern=eraan, Pattern=dat, Pattern=en, Pattern=tafel
+	Constrained: 
+Turn ID=42| A | A : Bvormig pion die
+	Free: Pattern=Bvormig, Pattern=die, Pattern=pion
+	Constrained: 
+Turn ID=43| A | A : die ja
+	Free: Pattern=die, Pattern=ja
+	Constrained: 
+Turn ID=44| B | B : Bvormig uit steeksel
+	Free: Pattern=Bvormig
+	Constrained: 
+Turn ID=45| A | A : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=46| A | A : dit zijn het mok met het tafel en de Bvorm en de verlengen pion die daaraan vastziken
+	Free: Pattern=zijn het, Pattern=de, Pattern=die, Pattern=het tafel en, Pattern=en, Pattern=met het, Pattern=dit zijn, Pattern=pion
+	Constrained: Pattern=het, Pattern=dit, Pattern=tafel, Pattern=en, Pattern=zijn
+Turn ID=47| A | A : uittrken
+	Free: 
+	Constrained: 
+Turn ID=48| B | B : oké ja
+	Free: Pattern=oké, Pattern=ja
+	Constrained: 
+Turn ID=49| B | B : dat zijn A
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=50| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=51| B | B : klinken goed
+	Free: 
+	Constrained: 
+Turn ID=52| B | B : dit zijn die met het Bvormig uitsteeksel het tafel en dat pionne dat uit het uitseeksel komen
+	Free: Pattern=dat, Pattern=Bvormig uitsteeksel, Pattern=het, Pattern=die met, Pattern=het tafel en, Pattern=met het, Pattern=dit zijn, Pattern=pionne
+	Constrained: Pattern=uitsteeksel, Pattern=het, Pattern=dit, Pattern=en, Pattern=tafel, Pattern=die, Pattern=Bvormig, Pattern=zijn
+Turn ID=53| A | A : ja die
+	Free: Pattern=die, Pattern=ja
+	Constrained: 
+Turn ID=54| A | A : dat zijn dertien
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn

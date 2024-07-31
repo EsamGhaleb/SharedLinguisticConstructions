@@ -1,0 +1,119 @@
+B|0| B: _ja_ _en_ dan ook _twee_ _van_ _die_ uitstulpsel 
+B|1| B: _ja_ _dat zijn_ bij _mij_ nummer D 
+A|2| A: _oké_ 
+A|3| A: er staan nu één of _een_ rood vierkant om 
+A|4| A: [ja] er [zijn] _een_ _een_ bol aan de bovenkant 
+A|5| A: boven op het _kop_ 
+A|6| A: [en] er staan _voor_ het _kop_ iets naar de rechterkant [van] [van] ons zien 
+A|7| A: staan _een_ _ja een_ rechthoekig ding zeggen maar 
+A|8| A: [en] het [zijn] hij _hebben_ _een_ soort [van] soort [van] arm zeggen maar aan de zijkant _zitten_ 
+A|9| A: zullen kunnen 
+A|10| A: [ja] 
+A|11| A: _oké_ 
+B|12| B: [oké] ik [hebben] [ja een] [kop] [en] daar [zitten] zo'n _bolle_ bovenop [en] dan zo'n paal _ervoor_ 
+B|13| B: [en] nog _twee_ [van] _die_ dinget 
+B|14| B: [ja] 
+A|15| A: even kijken 
+A|16| A: _dat die_ [hebben] we al eerder _met dat_ 
+A|17| A: [ja] [oké] [dat zijn] vijftien _voor_ [mij] 
+B|18| B: [ja] [dat zijn] L 
+B|19| B: [ja] [met dat] bollet bovenop _en die_ staaf vooraan 
+B|20| B: J 
+B|21| B: ik [hebben] [met dat] balle _en dat dat die_ paal [voor] 
+A|22| A: dit [zijn] [die] [met] de bol erop 
+A|23| A: [en dat dat die] rechthoek [ervoor] [en die] [twee] armp 
+A|24| A: [oké] 
+A|25| A: [ja] [oké] [dat zijn] zes 
+A|26| A: [oké] dit [zijn] weer het [bolle] erop de [twee] armp aan de zijkant [en] de Blok [ervoor] 
+A|27| A: [ja] [ja] 
+A|28| A: drie [zijn] [dat] 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : ja en dan ook twee van die uitstulpsel
+	Free: Pattern=twee, Pattern=ja, Pattern=die, Pattern=van, Pattern=en
+	Constrained: 
+Turn ID=1| B | B : ja dat zijn bij mij nummer D
+	Free: Pattern=dat zijn, Pattern=mij, Pattern=ja
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=2| A | A : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=3| A | A : er staan nu één of een rood vierkant om
+	Free: Pattern=een
+	Constrained: 
+Turn ID=4| A | A : ja er zijn een een bol aan de bovenkant
+	Free: Pattern=zijn, Pattern=een, Pattern=ja
+	Constrained: 
+Turn ID=5| A | A : boven op het kop
+	Free: Pattern=kop
+	Constrained: 
+Turn ID=6| A | A : en er staan voor het kop iets naar de rechterkant van van ons zien
+	Free: Pattern=en, Pattern=voor, Pattern=van, Pattern=kop
+	Constrained: 
+Turn ID=7| A | A : staan een ja een rechthoekig ding zeggen maar
+	Free: Pattern=ja een, Pattern=een
+	Constrained: Pattern=een, Pattern=ja
+Turn ID=8| A | A : en het zijn hij hebben een soort van soort van arm zeggen maar aan de zijkant zitten
+	Free: Pattern=een, Pattern=hebben, Pattern=zitten, Pattern=zijn, Pattern=van, Pattern=en
+	Constrained: 
+Turn ID=9| A | A : zullen kunnen
+	Free: 
+	Constrained: 
+Turn ID=10| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=11| A | A : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=12| B | B : oké ik hebben ja een kop en daar zitten zo'n bolle bovenop en dan zo'n paal ervoor
+	Free: Pattern=ervoor, Pattern=hebben, Pattern=kop, Pattern=zitten, Pattern=oké, Pattern=en, Pattern=bolle, Pattern=ja een
+	Constrained: Pattern=een, Pattern=ja
+Turn ID=13| B | B : en nog twee van die dinget
+	Free: Pattern=die, Pattern=en, Pattern=van, Pattern=twee
+	Constrained: 
+Turn ID=14| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=15| A | A : even kijken
+	Free: 
+	Constrained: 
+Turn ID=16| A | A : dat die hebben we al eerder met dat
+	Free: Pattern=met dat, Pattern=dat die, Pattern=hebben
+	Constrained: Pattern=die, Pattern=dat, Pattern=met
+Turn ID=17| A | A : ja oké dat zijn vijftien voor mij
+	Free: Pattern=dat zijn, Pattern=ja, Pattern=voor, Pattern=oké, Pattern=mij
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=18| B | B : ja dat zijn L
+	Free: Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=19| B | B : ja met dat bollet bovenop en die staaf vooraan
+	Free: Pattern=en die, Pattern=met dat, Pattern=ja
+	Constrained: Pattern=die, Pattern=en, Pattern=dat, Pattern=met
+Turn ID=20| B | B : J
+	Free: 
+	Constrained: 
+Turn ID=21| B | B : ik hebben met dat balle en dat dat die paal voor
+	Free: Pattern=en dat dat die, Pattern=met dat, Pattern=voor, Pattern=hebben
+	Constrained: Pattern=dat, Pattern=met, Pattern=die, Pattern=en, Pattern=dat die
+Turn ID=22| A | A : dit zijn die met de bol erop
+	Free: Pattern=die, Pattern=zijn, Pattern=met
+	Constrained: 
+Turn ID=23| A | A : en dat dat die rechthoek ervoor en die twee armp
+	Free: Pattern=en dat dat die, Pattern=en die, Pattern=ervoor, Pattern=twee
+	Constrained: Pattern=dat, Pattern=die, Pattern=en, Pattern=dat die
+Turn ID=24| A | A : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=25| A | A : ja oké dat zijn zes
+	Free: Pattern=dat zijn, Pattern=oké, Pattern=ja
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=26| A | A : oké dit zijn weer het bolle erop de twee armp aan de zijkant en de Blok ervoor
+	Free: Pattern=twee, Pattern=ervoor, Pattern=bolle, Pattern=oké, Pattern=en, Pattern=zijn
+	Constrained: 
+Turn ID=27| A | A : ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=28| A | A : drie zijn dat
+	Free: Pattern=dat, Pattern=zijn
+	Constrained: 

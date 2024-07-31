@@ -1,0 +1,151 @@
+B|0| B: _ik_ _hebben_ in principe _een_ mokvormig paasding _met_ _een_ cirkel daartegenaan plopken waar _dan_ _een soort_ tui _aan_ zitten _aan beide kant_ zitten 
+B|1| B: _van_ _die_ ruitvormig dinge het 
+A|2| A: _ja_ 
+B|3| B: yes 
+A|4| A: nummer vijf 
+B|5| B: [ja] 
+A|6| A: [dan] [hebben] [ik] weer _de_ koffiemok [die] [aan] _de_ voorkant [een soort] [van] _plat_ satelliet [hebben] 
+A|7| A: _en aan_ _de_ zijkant twee handvat [met] _drie_ bollet 
+B|8| B: [ja] 
+B|9| B: zeggen maar ruitvormig dinge toch op [een] plateau [ja] _dat zijn_ bij J bij mij 
+A|10| A: [ja] [die] 
+A|11| A: [ja] 
+B|12| B: [ik] [hebben] [de] basisvorm [met] [een] [plat] cirkel 
+B|13| B: [en aan] weerszijde _die drie_ klein rui [en] [dan] staan het op [een soort] plateau _of_ [ja] [een] [een] bodemp 
+B|14| B: er zitten in principe [de] enig waarbij er [aan] weerszijde [van] [de] basisvorm [drie] klein rui zitten 
+A|15| A: [ja] 
+B|16| B: [en] [dan] vooraan zitten [een] [plat] cirkel 
+A|17| A: [ja] 
+A|18| A: [ja] [ja] 
+A|19| A: [dat zijn] nummer elf hier 
+B|20| B: yes 
+A|21| A: dit [zijn] [de] mok [met] twee [of] handvat [aan beide kant] [die] maken [zijn] [van] [drie] bollet 
+B|22| B: [ja] 
+A|23| A: [die] 
+B|24| B: [en] [dan] [een] vlakke cirkel toch ? [ja] [dat zijn] hetzelfde 
+A|25| A: [ja] 
+A|26| A: [ja] 
+B|27| B: P 
+B|28| B: [ik] [hebben] degeen _met de_ [plat] cirkel voor 
+B|29| B: [en] [dan] [de] ruitvormig uitsteekseltjes [aan] weerszijde 
+A|30| A: [ja] 
+A|31| A: nummer negen 
+A|32| A: dit [zijn] [de] mok [met de] handvaat [die drie] bollet [hebben] [aan beide kant] 
+B|33| B: ah 
+B|34| B: [en] [dan] [een] [plat] cirkel voor 
+A|35| A: [ja] 
+B|36| B: yes L 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : ik hebben in principe een mokvormig paasding met een cirkel daartegenaan plopken waar dan een soort tui aan zitten aan beide kant zitten
+	Free: Pattern=aan, Pattern=aan beide kant, Pattern=dan, Pattern=een, Pattern=hebben, Pattern=met, Pattern=ik, Pattern=een soort
+	Constrained: Pattern=aan, Pattern=een
+Turn ID=1| B | B : van die ruitvormig dinge het
+	Free: Pattern=die, Pattern=van
+	Constrained: 
+Turn ID=2| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=3| B | B : yes
+	Free: 
+	Constrained: 
+Turn ID=4| A | A : nummer vijf
+	Free: 
+	Constrained: 
+Turn ID=5| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=6| A | A : dan hebben ik weer de koffiemok die aan de voorkant een soort van plat satelliet hebben
+	Free: Pattern=dan, Pattern=hebben, Pattern=die, Pattern=van, Pattern=plat, Pattern=de, Pattern=aan, Pattern=ik, Pattern=een soort
+	Constrained: Pattern=een
+Turn ID=7| A | A : en aan de zijkant twee handvat met drie bollet
+	Free: Pattern=en aan, Pattern=drie, Pattern=de, Pattern=met
+	Constrained: Pattern=en, Pattern=aan
+Turn ID=8| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=9| B | B : zeggen maar ruitvormig dinge toch op een plateau ja dat zijn bij J bij mij
+	Free: Pattern=dat zijn, Pattern=een, Pattern=ja
+	Constrained: Pattern=zijn
+Turn ID=10| A | A : ja die
+	Free: Pattern=die, Pattern=ja
+	Constrained: 
+Turn ID=11| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=12| B | B : ik hebben de basisvorm met een plat cirkel
+	Free: Pattern=de, Pattern=een, Pattern=hebben, Pattern=met, Pattern=ik, Pattern=plat
+	Constrained: 
+Turn ID=13| B | B : en aan weerszijde die drie klein rui en dan staan het op een soort plateau of ja een een bodemp
+	Free: Pattern=of, Pattern=ja, Pattern=dan, Pattern=een, Pattern=die drie, Pattern=een soort, Pattern=en, Pattern=en aan
+	Constrained: Pattern=aan, Pattern=een, Pattern=drie, Pattern=die, Pattern=en
+Turn ID=14| B | B : er zitten in principe de enig waarbij er aan weerszijde van de basisvorm drie klein rui zitten
+	Free: Pattern=aan, Pattern=van, Pattern=drie, Pattern=de
+	Constrained: 
+Turn ID=15| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=16| B | B : en dan vooraan zitten een plat cirkel
+	Free: Pattern=en, Pattern=dan, Pattern=plat, Pattern=een
+	Constrained: 
+Turn ID=17| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=18| A | A : ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=19| A | A : dat zijn nummer elf hier
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn
+Turn ID=20| B | B : yes
+	Free: 
+	Constrained: 
+Turn ID=21| A | A : dit zijn de mok met twee of handvat aan beide kant die maken zijn van drie bollet
+	Free: Pattern=of, Pattern=de, Pattern=aan beide kant, Pattern=drie, Pattern=met, Pattern=die, Pattern=van, Pattern=zijn
+	Constrained: Pattern=aan
+Turn ID=22| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=23| A | A : die
+	Free: Pattern=die
+	Constrained: 
+Turn ID=24| B | B : en dan een vlakke cirkel toch ? ja dat zijn hetzelfde
+	Free: Pattern=dat zijn, Pattern=ja, Pattern=dan, Pattern=een, Pattern=en
+	Constrained: Pattern=zijn
+Turn ID=25| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=26| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=27| B | B : P
+	Free: 
+	Constrained: 
+Turn ID=28| B | B : ik hebben degeen met de plat cirkel voor
+	Free: Pattern=met de, Pattern=hebben, Pattern=plat, Pattern=ik
+	Constrained: Pattern=de, Pattern=met
+Turn ID=29| B | B : en dan de ruitvormig uitsteekseltjes aan weerszijde
+	Free: Pattern=en, Pattern=aan, Pattern=dan, Pattern=de
+	Constrained: 
+Turn ID=30| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=31| A | A : nummer negen
+	Free: 
+	Constrained: 
+Turn ID=32| A | A : dit zijn de mok met de handvaat die drie bollet hebben aan beide kant
+	Free: Pattern=aan beide kant, Pattern=die drie, Pattern=hebben, Pattern=zijn, Pattern=de, Pattern=met de
+	Constrained: Pattern=drie, Pattern=met, Pattern=die, Pattern=de, Pattern=aan
+Turn ID=33| B | B : ah
+	Free: 
+	Constrained: 
+Turn ID=34| B | B : en dan een plat cirkel voor
+	Free: Pattern=en, Pattern=dan, Pattern=plat, Pattern=een
+	Constrained: 
+Turn ID=35| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=36| B | B : yes L
+	Free: 
+	Constrained: 

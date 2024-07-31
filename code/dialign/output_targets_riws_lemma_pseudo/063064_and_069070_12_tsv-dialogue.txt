@@ -1,0 +1,91 @@
+B|0| B: _ja_ 
+B|1| B: _ja_ _dan_ _zijn_ het L 
+A|2| A: even denken dit kop _hebben_ _aan de_ rechterkant _een_ soort van Ronde schijf 
+A|3| A: _op_ _de_ plat kant zeggen maar 
+A|4| A: _en_ [dan] _aan de_ linkerkant zitten _een_ soort van [ja] letter _C_ zullen je kunnen zeggen _die_ heel lang doorlopen _en_ daar 
+A|5| A: steken weer _een_ soort van ijspegel _uit_ recht links naar boven 
+A|6| A: [ja] 
+B|7| B: deze [hebben] wat jij [op] [een] spijker vinden lijken _met_ [op] _dat_ gek vormig [uit] [en] _dat_ plateau [aan de] zijkant 
+A|8| A: [ja] [ja] 
+A|9| A: zeven 
+B|10| B: oké 
+B|11| B: _dat zijn_ [C] 
+A|12| A: dit [zijn] weer [met] zo'n rond schijf _die_ uitsteken [op] [de] plat kant [met] [de] letter [C] _en een_ ijspegel naar boven [met] vierkan 
+B|13| B: ik [hebben] diegene _met die_ spijker [en] _dat_ gek vormp waar [die] [op] staat [en een] plateau 
+B|14| B: oké 
+B|15| B: [ja] 
+B|16| B: _dat zijn_ A 
+A|17| A: [dat zijn] één 
+B|18| B: ik [hebben] diegene _met die_ spijker [en] [dat] gek vormpje [en] het plateau 
+A|19| A: dit [zijn] [met] [dat] [met die] plat cirkel [en] [de] letter [C] [en] [dan] [de] 
+A|20| A: [ja] 
+A|21| A: dertien 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=1| B | B : ja dan zijn het L
+	Free: Pattern=ja, Pattern=dan, Pattern=zijn
+	Constrained: 
+Turn ID=2| A | A : even denken dit kop hebben aan de rechterkant een soort van Ronde schijf
+	Free: Pattern=aan de, Pattern=hebben, Pattern=een
+	Constrained: Pattern=de
+Turn ID=3| A | A : op de plat kant zeggen maar
+	Free: Pattern=de, Pattern=op
+	Constrained: 
+Turn ID=4| A | A : en dan aan de linkerkant zitten een soort van ja letter C zullen je kunnen zeggen die heel lang doorlopen en daar
+	Free: Pattern=ja, Pattern=aan de, Pattern=dan, Pattern=een, Pattern=die, Pattern=en, Pattern=C
+	Constrained: Pattern=de
+Turn ID=5| A | A : steken weer een soort van ijspegel uit recht links naar boven
+	Free: Pattern=een, Pattern=uit
+	Constrained: 
+Turn ID=6| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=7| B | B : deze hebben wat jij op een spijker vinden lijken met op dat gek vormig uit en dat plateau aan de zijkant
+	Free: Pattern=dat, Pattern=een, Pattern=hebben, Pattern=met, Pattern=en, Pattern=op, Pattern=uit, Pattern=aan de
+	Constrained: Pattern=de
+Turn ID=8| A | A : ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=9| A | A : zeven
+	Free: 
+	Constrained: 
+Turn ID=10| B | B : oké
+	Free: 
+	Constrained: 
+Turn ID=11| B | B : dat zijn C
+	Free: Pattern=dat zijn, Pattern=C
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=12| A | A : dit zijn weer met zo'n rond schijf die uitsteken op de plat kant met de letter C en een ijspegel naar boven met vierkan
+	Free: Pattern=de, Pattern=op, Pattern=met, Pattern=die, Pattern=C, Pattern=en een, Pattern=zijn
+	Constrained: Pattern=een, Pattern=en
+Turn ID=13| B | B : ik hebben diegene met die spijker en dat gek vormp waar die op staat en een plateau
+	Free: Pattern=op, Pattern=hebben, Pattern=die, Pattern=en, Pattern=en een, Pattern=dat, Pattern=met die
+	Constrained: Pattern=met, Pattern=een, Pattern=die, Pattern=en
+Turn ID=14| B | B : oké
+	Free: 
+	Constrained: 
+Turn ID=15| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=16| B | B : dat zijn A
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=17| A | A : dat zijn één
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=18| B | B : ik hebben diegene met die spijker en dat gek vormpje en het plateau
+	Free: Pattern=met die, Pattern=hebben, Pattern=dat, Pattern=en
+	Constrained: Pattern=met, Pattern=die
+Turn ID=19| A | A : dit zijn met dat met die plat cirkel en de letter C en dan de
+	Free: Pattern=de, Pattern=dan, Pattern=met, Pattern=en, Pattern=zijn, Pattern=C, Pattern=dat, Pattern=met die
+	Constrained: Pattern=met, Pattern=die
+Turn ID=20| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=21| A | A : dertien
+	Free: 
+	Constrained: 

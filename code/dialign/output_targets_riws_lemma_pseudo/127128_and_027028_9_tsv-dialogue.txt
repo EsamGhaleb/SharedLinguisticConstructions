@@ -1,0 +1,243 @@
+A|0| A: _ja_ 
+B|1| B: _ik_ _hebben het_ rood 
+B|2| B: _ik_ vinden _het wel_ _een_ beetje lijken _op een_ cocktail 
+B|3| B: _met een_ schijf citroen misschien _een_ [ja] 
+B|4| B: _en dan_ _zitten_ _er een_ _soort_ _lepeltje_ _boven_ 
+A|5| A: _zijn_ _dat_ _zo'n_ ruitvorm 
+A|6| A: _dat_ muntstuk 
+B|7| B: _en_ _er_ _zitten_ eigenlijk _aan de_ zijkant _dan_ _een_ 
+B|8| B: _een_ handvat 
+A|9| A: even kijken 
+B|10| B: [ja] 
+A|11| A: [ja] [en] mok bedoelen _je_ gewoon _dat_ figuur [ja] [en dan] ? wat _zeggen_ _je_ daarna 
+A|12| A: [ja] 
+A|13| A: [hebben het] twee uitsteeksel [aan de] linkerkant 
+A|14| A: één 
+A|15| A: [ja] 
+A|16| A: [ja] 
+A|17| A: [en] daar [zitten] [dan] ook nog _zo'n soort_ _van_ pluimp [aan de] voorkant 
+A|18| A: voor _dat_ muntstuk _zeggen maar_ steken nog iets naar [boven] 
+A|19| A: [aan de] rechterkant 
+A|20| A: nee 
+A|21| A: [ja] 
+A|22| A: [ja] oké 
+A|23| A: [ja] 
+A|24| A: _dat_ bedoelen [ik] [ja] 
+A|25| A: [ja] 
+A|26| A: _dat zijn_ nummer dertien 
+A|27| A: _dit zijn weer die_ mok _waar_ _dat_ half muntstuk _zo_ bovenuit komen [met een] [lepeltje] daarvoor [en] [aan de] linkerkant [een] _balk_ _die_ daaruit steken 
+A|28| A: [en] nog [op een] verhogink [ja] 
+B|29| B: [ja] 
+B|30| B: [dat zijn] O 
+B|31| B: [dit zijn weer die] [soort] cocktail [zeggen maar] 
+B|32| B: _met dat_ kannet eronder 
+B|33| B: [op] [dat] 
+B|34| B: volgens mij [zijn] [het] [weer] [een] nieuw ronde trouwens 
+B|35| B: nou [ja] _dus_ [zeggen maar] [dan] [hebben] [je] [zo] [zitten] stijgen _er_ [zo'n soort] lepel _uit_ [en dan] [aan de] zijkant [zijn] _er_ [aan de] [een] kant [zo'n] ding 
+B|36| B: [ja] [zo'n soort] [balk] [en dan] [dan] [zijn] _er_ [zo'n] rond [ja] ananasschijfje citroenschijfje of [zo] 
+B|37| B: [ja] 
+B|38| B: [ja] 
+B|39| B: [ja] 
+A|40| A: [ja] 
+A|41| A: [dat zijn] nummer acht 
+B|42| B: cocktail [waar] [zijn] [je] 
+B|43| B: [ja] 
+B|44| B: ah C 
+B|45| B: [van] cocktail 
+A|46| A: [dit zijn] [met dat] muntstuk wat erin vallen 
+A|47| A: [een] [lepeltje] erin [en] [aan de] linkerkant komen [er een] staaf [uit] 
+A|48| A: [dus] [aan de] bovenkant vallen [er een] [een] muntstuk in 
+B|49| B: [de] cocktail 
+A|50| A: [ja] 
+A|51| A: link [zitten] [een] staafje verhoging [ja] nummer zeven 
+B|52| B: [de] cocktail C 
+B|53| B: [ja] 
+A|54| A: [dit zijn] [de] spaarpot 
+A|55| A: [ja] 
+A|56| A: spaarpot 
+A|57| A: [ja] 
+A|58| A: [ja] [ik] denken [het wel] 
+A|59| A: Hallo 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=1| B | B : ik hebben het rood
+	Free: Pattern=hebben het, Pattern=ik
+	Constrained: Pattern=hebben, Pattern=het
+Turn ID=2| B | B : ik vinden het wel een beetje lijken op een cocktail
+	Free: Pattern=het wel, Pattern=op een, Pattern=ik, Pattern=een
+	Constrained: Pattern=het, Pattern=op, Pattern=een
+Turn ID=3| B | B : met een schijf citroen misschien een ja
+	Free: Pattern=met een, Pattern=ja, Pattern=een
+	Constrained: Pattern=een
+Turn ID=4| B | B : en dan zitten er een soort lepeltje boven
+	Free: Pattern=soort, Pattern=en dan, Pattern=boven, Pattern=zitten, Pattern=er een, Pattern=lepeltje
+	Constrained: Pattern=er, Pattern=en, Pattern=dan, Pattern=een
+Turn ID=5| A | A : zijn dat zo'n ruitvorm
+	Free: Pattern=zo'n, Pattern=dat, Pattern=zijn
+	Constrained: 
+Turn ID=6| A | A : dat muntstuk
+	Free: Pattern=dat
+	Constrained: 
+Turn ID=7| B | B : en er zitten eigenlijk aan de zijkant dan een
+	Free: Pattern=aan de, Pattern=dan, Pattern=een, Pattern=zitten, Pattern=er, Pattern=en
+	Constrained: Pattern=de
+Turn ID=8| B | B : een handvat
+	Free: Pattern=een
+	Constrained: 
+Turn ID=9| A | A : even kijken
+	Free: 
+	Constrained: 
+Turn ID=10| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=11| A | A : ja en mok bedoelen je gewoon dat figuur ja en dan ? wat zeggen je daarna
+	Free: Pattern=dat, Pattern=ja, Pattern=en dan, Pattern=zeggen, Pattern=en, Pattern=je
+	Constrained: Pattern=en, Pattern=dan
+Turn ID=12| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=13| A | A : hebben het twee uitsteeksel aan de linkerkant
+	Free: Pattern=aan de, Pattern=hebben het
+	Constrained: Pattern=hebben, Pattern=het, Pattern=de
+Turn ID=14| A | A : één
+	Free: 
+	Constrained: 
+Turn ID=15| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=16| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=17| A | A : en daar zitten dan ook nog zo'n soort van pluimp aan de voorkant
+	Free: Pattern=aan de, Pattern=dan, Pattern=zitten, Pattern=zo'n soort, Pattern=van, Pattern=en
+	Constrained: Pattern=soort, Pattern=zo'n, Pattern=de
+Turn ID=18| A | A : voor dat muntstuk zeggen maar steken nog iets naar boven
+	Free: Pattern=zeggen maar, Pattern=boven, Pattern=dat
+	Constrained: Pattern=zeggen
+Turn ID=19| A | A : aan de rechterkant
+	Free: Pattern=aan de
+	Constrained: Pattern=de
+Turn ID=20| A | A : nee
+	Free: 
+	Constrained: 
+Turn ID=21| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=22| A | A : ja oké
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=23| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=24| A | A : dat bedoelen ik ja
+	Free: Pattern=dat, Pattern=ja, Pattern=ik
+	Constrained: 
+Turn ID=25| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=26| A | A : dat zijn nummer dertien
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=27| A | A : dit zijn weer die mok waar dat half muntstuk zo bovenuit komen met een lepeltje daarvoor en aan de linkerkant een balk die daaruit steken
+	Free: Pattern=dat, Pattern=dit zijn weer die, Pattern=waar, Pattern=aan de, Pattern=een, Pattern=zo, Pattern=balk, Pattern=die, Pattern=met een, Pattern=en, Pattern=lepeltje
+	Constrained: Pattern=de, Pattern=een, Pattern=die, Pattern=zijn, Pattern=weer, Pattern=dit zijn
+Turn ID=28| A | A : en nog op een verhogink ja
+	Free: Pattern=op een, Pattern=en, Pattern=ja
+	Constrained: Pattern=op, Pattern=een
+Turn ID=29| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=30| B | B : dat zijn O
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=31| B | B : dit zijn weer die soort cocktail zeggen maar
+	Free: Pattern=dit zijn weer die, Pattern=zeggen maar, Pattern=soort
+	Constrained: Pattern=zeggen, Pattern=die, Pattern=zijn, Pattern=weer, Pattern=dit zijn
+Turn ID=32| B | B : met dat kannet eronder
+	Free: Pattern=met dat
+	Constrained: Pattern=dat
+Turn ID=33| B | B : op dat
+	Free: Pattern=dat, Pattern=op
+	Constrained: 
+Turn ID=34| B | B : volgens mij zijn het weer een nieuw ronde trouwens
+	Free: Pattern=het, Pattern=zijn, Pattern=weer, Pattern=een
+	Constrained: 
+Turn ID=35| B | B : nou ja dus zeggen maar dan hebben je zo zitten stijgen er zo'n soort lepel uit en dan aan de zijkant zijn er aan de een kant zo'n ding
+	Free: Pattern=zo'n, Pattern=en dan, Pattern=dan, Pattern=een, Pattern=zeggen maar, Pattern=hebben, Pattern=zo, Pattern=zitten, Pattern=er, Pattern=je, Pattern=dus, Pattern=ja, Pattern=uit, Pattern=aan de, Pattern=zo'n soort, Pattern=zijn
+	Constrained: Pattern=soort, Pattern=zo'n, Pattern=de, Pattern=dan, Pattern=zeggen, Pattern=en
+Turn ID=36| B | B : ja zo'n soort balk en dan dan zijn er zo'n rond ja ananasschijfje citroenschijfje of zo
+	Free: Pattern=zo'n, Pattern=ja, Pattern=en dan, Pattern=dan, Pattern=zo, Pattern=balk, Pattern=er, Pattern=zo'n soort, Pattern=zijn
+	Constrained: Pattern=en, Pattern=soort, Pattern=zo'n, Pattern=dan
+Turn ID=37| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=38| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=39| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=40| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=41| A | A : dat zijn nummer acht
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=42| B | B : cocktail waar zijn je
+	Free: Pattern=waar, Pattern=zijn, Pattern=je
+	Constrained: 
+Turn ID=43| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=44| B | B : ah C
+	Free: 
+	Constrained: 
+Turn ID=45| B | B : van cocktail
+	Free: Pattern=van
+	Constrained: 
+Turn ID=46| A | A : dit zijn met dat muntstuk wat erin vallen
+	Free: Pattern=met dat, Pattern=dit zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=47| A | A : een lepeltje erin en aan de linkerkant komen er een staaf uit
+	Free: Pattern=een, Pattern=er een, Pattern=uit, Pattern=aan de, Pattern=en, Pattern=lepeltje
+	Constrained: Pattern=er, Pattern=de, Pattern=een
+Turn ID=48| A | A : dus aan de bovenkant vallen er een een muntstuk in
+	Free: Pattern=er een, Pattern=aan de, Pattern=dus, Pattern=een
+	Constrained: Pattern=er, Pattern=de, Pattern=een
+Turn ID=49| B | B : de cocktail
+	Free: Pattern=de
+	Constrained: 
+Turn ID=50| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=51| A | A : link zitten een staafje verhoging ja nummer zeven
+	Free: Pattern=ja, Pattern=zitten, Pattern=een
+	Constrained: 
+Turn ID=52| B | B : de cocktail C
+	Free: Pattern=de
+	Constrained: 
+Turn ID=53| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=54| A | A : dit zijn de spaarpot
+	Free: Pattern=dit zijn, Pattern=de
+	Constrained: Pattern=zijn
+Turn ID=55| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=56| A | A : spaarpot
+	Free: 
+	Constrained: 
+Turn ID=57| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=58| A | A : ja ik denken het wel
+	Free: Pattern=het wel, Pattern=ja, Pattern=ik
+	Constrained: Pattern=het
+Turn ID=59| A | A : Hallo
+	Free: 
+	Constrained: 

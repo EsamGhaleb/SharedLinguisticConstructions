@@ -1,0 +1,147 @@
+B|0| B: _ja_ 
+B|1| B: _oké_ _ja_ dan _zijn_ _het_ K 
+A|2| A: _deze hebben_ [ja] hoe leggen je _dat_ eigenlijk _zitten_ links _en_ rechts [zijn] er uitstekel _met een_ rond kop eraan 
+A|3| A: _en_ hij _hebben_ erachter ook _nog een_ _een_ soort van plateautje 
+A|4| A: [ja] 
+B|5| B: _oké_ [deze hebben] _die_ uitsteeksel [met] _aan de_ zijkant [een] bol waarvan _de_ [een] lang [zijn] dan _de_ ander 
+B|6| B: [en] _aan de achterkant zitten_ _wat_ ik vinden [een] beetje zo'n metselding lijken 
+B|7| B: maar [met] zo'n balk zeggen maar zo'n plat [en] dan [zijn] [nog een] streepje daaraan 
+B|8| B: [ja] 
+B|9| B: [ja] [ja] [ja] 
+B|10| B: _oké_ 
+A|11| A: [met] _dat_ plateaut [wat] er [nog] [aan de achterkant zitten] 
+A|12| A: _met die_ bollet [die] uit steken 
+A|13| A: _ja dat zijn_ nummer negen 
+B|14| B: [ja] ik moeten _even_ zoeken waar [die] staan 
+B|15| B: [ja] ik moeten alleen _even_ zoeken waar [die] staan want anders [hebben] _het_ [ja] [ja] _oké_ [ja] [ja dat zijn] F 
+A|16| A: dit [zijn] _die met die_ stang erdoorheen [met] [de] uiteinde [die] bollet 
+A|17| A: [met] [het] plateaut erachterop [nog] 
+A|18| A: [ja] 
+A|19| A: [oké] 
+B|20| B: [oké] 
+B|21| B: ik [hebben] [die met die] twee uitsteeksel [met een] bol erop [die] niet _even_ lang [zijn] 
+B|22| B: [en] [die] metselding 
+B|23| B: [oké] 
+A|24| A: [even] kijken 
+A|25| A: [ja] dus [met die] rond uitein _weer_ 
+A|26| A: [oké] [dat zijn] nummer drie 
+B|27| B: [ja] 
+B|28| B: [ja] 
+B|29| B: [dat zijn] L 
+A|30| A: dit [zijn] [met die] staaf erdoorheen [met die] rond uiteinde 
+A|31| A: [met] [het] plateaut [nog] [aan de achterkant] 
+B|32| B: ik [hebben] diegene [met die] uitsteeksel [en] [een] bol op erop [en] dan [dat] [die] ongelijk [zijn] [aan] twee kant 
+B|33| B: [ja] staan [weer] anders 
+A|34| A: daarachter 
+A|35| A: [ja dat zijn] nummer vijf 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=1| B | B : oké ja dan zijn het K
+	Free: Pattern=oké, Pattern=zijn, Pattern=het, Pattern=ja
+	Constrained: 
+Turn ID=2| A | A : deze hebben ja hoe leggen je dat eigenlijk zitten links en rechts zijn er uitstekel met een rond kop eraan
+	Free: Pattern=dat, Pattern=ja, Pattern=deze hebben, Pattern=zitten, Pattern=met een, Pattern=en, Pattern=zijn
+	Constrained: Pattern=met, Pattern=hebben, Pattern=een
+Turn ID=3| A | A : en hij hebben erachter ook nog een een soort van plateautje
+	Free: Pattern=nog een, Pattern=en, Pattern=hebben, Pattern=een
+	Constrained: Pattern=nog, Pattern=een
+Turn ID=4| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=5| B | B : oké deze hebben die uitsteeksel met aan de zijkant een bol waarvan de een lang zijn dan de ander
+	Free: Pattern=de, Pattern=aan de, Pattern=een, Pattern=deze hebben, Pattern=met, Pattern=die, Pattern=oké, Pattern=zijn
+	Constrained: Pattern=aan, Pattern=de, Pattern=hebben
+Turn ID=6| B | B : en aan de achterkant zitten wat ik vinden een beetje zo'n metselding lijken
+	Free: Pattern=aan de achterkant zitten, Pattern=en, Pattern=wat, Pattern=een
+	Constrained: Pattern=aan de achterkant, Pattern=aan de, Pattern=zitten, Pattern=de, Pattern=aan
+Turn ID=7| B | B : maar met zo'n balk zeggen maar zo'n plat en dan zijn nog een streepje daaraan
+	Free: Pattern=nog een, Pattern=zijn, Pattern=en, Pattern=met
+	Constrained: Pattern=nog, Pattern=een
+Turn ID=8| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=9| B | B : ja ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=10| B | B : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=11| A | A : met dat plateaut wat er nog aan de achterkant zitten
+	Free: Pattern=aan de achterkant zitten, Pattern=dat, Pattern=nog, Pattern=met, Pattern=wat
+	Constrained: Pattern=aan de achterkant, Pattern=aan de, Pattern=zitten, Pattern=de, Pattern=aan
+Turn ID=12| A | A : met die bollet die uit steken
+	Free: Pattern=met die, Pattern=die
+	Constrained: Pattern=die, Pattern=met
+Turn ID=13| A | A : ja dat zijn nummer negen
+	Free: Pattern=ja dat zijn
+	Constrained: Pattern=dat zijn, Pattern=zijn, Pattern=ja, Pattern=dat
+Turn ID=14| B | B : ja ik moeten even zoeken waar die staan
+	Free: Pattern=die, Pattern=even, Pattern=ja
+	Constrained: 
+Turn ID=15| B | B : ja ik moeten alleen even zoeken waar die staan want anders hebben het ja ja oké ja ja dat zijn F
+	Free: Pattern=ja, Pattern=even, Pattern=ja dat zijn, Pattern=het, Pattern=hebben, Pattern=die, Pattern=oké
+	Constrained: Pattern=dat zijn, Pattern=zijn, Pattern=ja, Pattern=dat
+Turn ID=16| A | A : dit zijn die met die stang erdoorheen met de uiteinde die bollet
+	Free: Pattern=de, Pattern=die met die, Pattern=met, Pattern=die, Pattern=zijn
+	Constrained: Pattern=met die, Pattern=die, Pattern=met
+Turn ID=17| A | A : met het plateaut erachterop nog
+	Free: Pattern=nog, Pattern=het, Pattern=met
+	Constrained: 
+Turn ID=18| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=19| A | A : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=20| B | B : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=21| B | B : ik hebben die met die twee uitsteeksel met een bol erop die niet even lang zijn
+	Free: Pattern=die met die, Pattern=even, Pattern=hebben, Pattern=die, Pattern=met een, Pattern=zijn
+	Constrained: Pattern=met die, Pattern=die, Pattern=met, Pattern=een
+Turn ID=22| B | B : en die metselding
+	Free: Pattern=die, Pattern=en
+	Constrained: 
+Turn ID=23| B | B : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=24| A | A : even kijken
+	Free: Pattern=even
+	Constrained: 
+Turn ID=25| A | A : ja dus met die rond uitein weer
+	Free: Pattern=met die, Pattern=ja, Pattern=weer
+	Constrained: Pattern=die, Pattern=met
+Turn ID=26| A | A : oké dat zijn nummer drie
+	Free: Pattern=dat zijn, Pattern=oké
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=27| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=28| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=29| B | B : dat zijn L
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=30| A | A : dit zijn met die staaf erdoorheen met die rond uiteinde
+	Free: Pattern=met die, Pattern=zijn
+	Constrained: Pattern=die, Pattern=met
+Turn ID=31| A | A : met het plateaut nog aan de achterkant
+	Free: Pattern=aan de achterkant, Pattern=nog, Pattern=het, Pattern=met
+	Constrained: Pattern=aan, Pattern=de, Pattern=aan de
+Turn ID=32| B | B : ik hebben diegene met die uitsteeksel en een bol op erop en dan dat die ongelijk zijn aan twee kant
+	Free: Pattern=aan, Pattern=een, Pattern=hebben, Pattern=die, Pattern=en, Pattern=zijn, Pattern=dat, Pattern=met die
+	Constrained: Pattern=die, Pattern=met
+Turn ID=33| B | B : ja staan weer anders
+	Free: Pattern=ja, Pattern=weer
+	Constrained: 
+Turn ID=34| A | A : daarachter
+	Free: 
+	Constrained: 
+Turn ID=35| A | A : ja dat zijn nummer vijf
+	Free: Pattern=ja dat zijn
+	Constrained: Pattern=dat zijn, Pattern=zijn, Pattern=ja, Pattern=dat

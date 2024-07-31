@@ -1,0 +1,207 @@
+A|0| A: je je kunnen ook kort naam bedenken 
+A|1| A: _ja_ 
+A|2| A: welk _zijn_ _die_ bij jou 
+A|3| A: N 
+A|4| A: oké 
+A|5| A: N achten 
+B|6| B: deze vinden _ik_ _het_ _het_ kut 
+B|7| B: even kijken 
+B|8| B: er liggen zeggen maar _een balk op_ 
+B|9| B: _een_ langwerpig _balk_ 
+B|10| B: bovenop 
+B|11| B: en 
+B|12| B: [ja] [ja] omdraaien zeggen maar _op_ [zijn] _op_ _de_ kop 
+B|13| B: [ja] 
+B|14| B: _ja ik weten_ niet wat _het_ 
+B|15| B: [ja] dat lijken _een_ beetje _op_ _een_ schepje 
+B|16| B: [ja] 
+A|17| A: oorbel van jou 
+A|18| A: oorbel [balk op] [het] hoofd 
+A|19| A: één 
+A|20| A: één 
+A|21| A: yes 
+B|22| B: [ja] 
+B|23| B: E 
+A|24| A: [ja ik weten] wel [ik weten] welk je bedoelen 
+A|25| A: oorbel dus drie ding [ja] 
+A|26| A: welk [zijn] [het] 
+A|27| A: _O_ 
+A|28| A: _O_ elf 
+B|29| B: weer [die] [balk] en dan [die] [die] scoop hoe heten dat [die] [die] beker [op] _de_ kop en [die] schep 
+A|30| A: oorbel 
+A|31| A: bal [een balk op] [het] hoofd 
+A|32| A: vier 
+B|33| B: _ja die_ 
+B|34| B: waar staan [die] 
+B|35| B: [ja] nou vinden [ik] hem heel makkelijk 
+B|36| B: ah hier 
+B|37| B: E 
+A|38| A: jou oorbel 
+A|39| A: denken je of 
+A|40| A: [ja] [de] omgedraai driehoek inderdaad met [een] staafje boven 
+A|41| A: [ja] 
+A|42| A: oké 
+A|43| A: C zestien 
+B|44| B: weer [die] beker [op] [de] kop en [die] [die] schep erbij 
+A|45| A: oorbel of [die] nee sorry [ja die] oorbel van jou 
+A|46| A: met 
+A|47| A: met [een balk op] [het] hoofd [ja] 
+A|48| A: één 
+B|49| B: [ja] 
+B|50| B: [O] 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : je je kunnen ook kort naam bedenken
+	Free: 
+	Constrained: 
+Turn ID=1| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=2| A | A : welk zijn die bij jou
+	Free: Pattern=zijn, Pattern=die
+	Constrained: 
+Turn ID=3| A | A : N
+	Free: 
+	Constrained: 
+Turn ID=4| A | A : oké
+	Free: 
+	Constrained: 
+Turn ID=5| A | A : N achten
+	Free: 
+	Constrained: 
+Turn ID=6| B | B : deze vinden ik het het kut
+	Free: Pattern=het, Pattern=ik
+	Constrained: 
+Turn ID=7| B | B : even kijken
+	Free: 
+	Constrained: 
+Turn ID=8| B | B : er liggen zeggen maar een balk op
+	Free: Pattern=een balk op
+	Constrained: Pattern=balk op, Pattern=een, Pattern=balk, Pattern=op
+Turn ID=9| B | B : een langwerpig balk
+	Free: Pattern=een, Pattern=balk
+	Constrained: 
+Turn ID=10| B | B : bovenop
+	Free: 
+	Constrained: 
+Turn ID=11| B | B : en
+	Free: 
+	Constrained: 
+Turn ID=12| B | B : ja ja omdraaien zeggen maar op zijn op de kop
+	Free: Pattern=zijn, Pattern=de, Pattern=op, Pattern=ja
+	Constrained: 
+Turn ID=13| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=14| B | B : ja ik weten niet wat het
+	Free: Pattern=ja ik weten, Pattern=het
+	Constrained: Pattern=ik weten, Pattern=ja, Pattern=ik
+Turn ID=15| B | B : ja dat lijken een beetje op een schepje
+	Free: Pattern=een, Pattern=op, Pattern=ja
+	Constrained: 
+Turn ID=16| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=17| A | A : oorbel van jou
+	Free: 
+	Constrained: 
+Turn ID=18| A | A : oorbel balk op het hoofd
+	Free: Pattern=balk op, Pattern=het
+	Constrained: Pattern=balk, Pattern=op
+Turn ID=19| A | A : één
+	Free: 
+	Constrained: 
+Turn ID=20| A | A : één
+	Free: 
+	Constrained: 
+Turn ID=21| A | A : yes
+	Free: 
+	Constrained: 
+Turn ID=22| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=23| B | B : E
+	Free: 
+	Constrained: 
+Turn ID=24| A | A : ja ik weten wel ik weten welk je bedoelen
+	Free: Pattern=ja ik weten, Pattern=ik weten
+	Constrained: Pattern=ik weten, Pattern=ja, Pattern=ik
+Turn ID=25| A | A : oorbel dus drie ding ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=26| A | A : welk zijn het
+	Free: Pattern=zijn, Pattern=het
+	Constrained: 
+Turn ID=27| A | A : O
+	Free: Pattern=O
+	Constrained: 
+Turn ID=28| A | A : O elf
+	Free: Pattern=O
+	Constrained: 
+Turn ID=29| B | B : weer die balk en dan die die scoop hoe heten dat die die beker op de kop en die schep
+	Free: Pattern=die, Pattern=de, Pattern=balk, Pattern=op
+	Constrained: 
+Turn ID=30| A | A : oorbel
+	Free: 
+	Constrained: 
+Turn ID=31| A | A : bal een balk op het hoofd
+	Free: Pattern=een balk op, Pattern=het
+	Constrained: Pattern=balk op, Pattern=een, Pattern=balk, Pattern=op
+Turn ID=32| A | A : vier
+	Free: 
+	Constrained: 
+Turn ID=33| B | B : ja die
+	Free: Pattern=ja die
+	Constrained: Pattern=die, Pattern=ja
+Turn ID=34| B | B : waar staan die
+	Free: Pattern=die
+	Constrained: 
+Turn ID=35| B | B : ja nou vinden ik hem heel makkelijk
+	Free: Pattern=ja, Pattern=ik
+	Constrained: 
+Turn ID=36| B | B : ah hier
+	Free: 
+	Constrained: 
+Turn ID=37| B | B : E
+	Free: 
+	Constrained: 
+Turn ID=38| A | A : jou oorbel
+	Free: 
+	Constrained: 
+Turn ID=39| A | A : denken je of
+	Free: 
+	Constrained: 
+Turn ID=40| A | A : ja de omgedraai driehoek inderdaad met een staafje boven
+	Free: Pattern=een, Pattern=de, Pattern=ja
+	Constrained: 
+Turn ID=41| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=42| A | A : oké
+	Free: 
+	Constrained: 
+Turn ID=43| A | A : C zestien
+	Free: 
+	Constrained: 
+Turn ID=44| B | B : weer die beker op de kop en die die schep erbij
+	Free: Pattern=die, Pattern=de, Pattern=op
+	Constrained: 
+Turn ID=45| A | A : oorbel of die nee sorry ja die oorbel van jou
+	Free: Pattern=ja die, Pattern=die
+	Constrained: Pattern=die, Pattern=ja
+Turn ID=46| A | A : met
+	Free: 
+	Constrained: 
+Turn ID=47| A | A : met een balk op het hoofd ja
+	Free: Pattern=een balk op, Pattern=ja, Pattern=het
+	Constrained: Pattern=balk op, Pattern=een, Pattern=balk, Pattern=op
+Turn ID=48| A | A : één
+	Free: 
+	Constrained: 
+Turn ID=49| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=50| B | B : O
+	Free: Pattern=O
+	Constrained: 

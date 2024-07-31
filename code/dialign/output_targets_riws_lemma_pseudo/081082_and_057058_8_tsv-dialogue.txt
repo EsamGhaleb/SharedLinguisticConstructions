@@ -1,0 +1,147 @@
+B|0| B: zo'n _ruit_ 
+B|1| B: _ja_ 
+B|2| B: _en_ dinget eruit 
+B|3| B: _ja_ 
+B|4| B: _en _aan_ de_ onderkant 
+B|5| B: _ja_ _ja dat zijn_ M bij mij 
+A|6| A: deze staat op _een_ voet eigenlijk 
+A|7| A: [en] hij hebben _een_ twee _van_ _die_ driehoek bovenop 
+A|8| A: [en aan] _die_ twee driehoek _zitten_ nog twee ding naar [de] zijkant 
+A|9| A: zien je [dat] 
+A|10| A: [en] hij staan niet per se op _een_ voetstuk maar echt _een soort_ _een soort_ echt _een_ voet _een_ menselijk voet zeggen maar _met_ _een_ enkel _en dan_ _een_ voet 
+A|11| A: [en] hij hebben bovenop [aan de] achterkant 
+A|12| A: twee _van_ _die_ [ruit] [ja] 
+A|13| A: [ja] _en dan_ [aan] _die_ twee [ruit] _zitten_ nog twee ding naar [de] zijkant 
+A|14| A: _oké_ 
+B|15| B: [ja] toch 
+B|16| B: weer [die] [met] [die] sellight achterop 
+B|17| B: [met] [met] [die] sellight [dat] [ruit] [dat] [ruit] [dat] er [een soort] [van] in [zitten] [met] [die] [met] [die] legoblokjes [die] er zo 
+B|18| B: [en] _met dat_ toe [en dan] zo zo'n arm [van] onder 
+B|19| B: [ja] 
+B|20| B: [oké] 
+A|21| A: waar staan [die] ? waar staan [die] 
+A|22| A: [ja] 
+A|23| A: [dat zijn] nummer negen 
+B|24| B: [oké] 
+B|25| B: yes [en dan] [dat] haak zo eronder 
+B|26| B: [de] H bij mij 
+A|27| A: [met dat] voe [en] [die] vliegtuigvleugels op [de] achterkant 
+B|28| B: [dan] weer [de] space station 
+B|29| B: [met] [de] armpjes 
+A|30| A: [dat zijn] nummer elf 
+B|31| B: space station [dat zijn] [de] D 
+B|32| B: worden zo snel 
+A|33| A: [de] [een] [met] het voe [en] [de] Vliegtuigvleugels 
+B|34| B: weer [de] space station 
+A|35| A: [ja dat zijn] veertien 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : zo'n ruit
+	Free: Pattern=ruit
+	Constrained: 
+Turn ID=1| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=2| B | B : en dinget eruit
+	Free: Pattern=en
+	Constrained: 
+Turn ID=3| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=4| B | B : en aan de onderkant
+	Free: Pattern=aan de, Pattern=en aan
+	Constrained: Pattern=en, Pattern=de, Pattern=aan
+Turn ID=5| B | B : ja ja dat zijn M bij mij
+	Free: Pattern=ja dat zijn, Pattern=ja
+	Constrained: Pattern=dat zijn, Pattern=dat, Pattern=ja
+Turn ID=6| A | A : deze staat op een voet eigenlijk
+	Free: Pattern=een
+	Constrained: 
+Turn ID=7| A | A : en hij hebben een twee van die driehoek bovenop
+	Free: Pattern=en, Pattern=die, Pattern=van, Pattern=een
+	Constrained: 
+Turn ID=8| A | A : en aan die twee driehoek zitten nog twee ding naar de zijkant
+	Free: Pattern=en aan, Pattern=de, Pattern=zitten, Pattern=die
+	Constrained: Pattern=en, Pattern=aan
+Turn ID=9| A | A : zien je dat
+	Free: Pattern=dat
+	Constrained: 
+Turn ID=10| A | A : en hij staan niet per se op een voetstuk maar echt een soort een soort echt een voet een menselijk voet zeggen maar met een enkel en dan een voet
+	Free: Pattern=en dan, Pattern=een, Pattern=met, Pattern=een soort, Pattern=en
+	Constrained: Pattern=en, Pattern=dan, Pattern=een
+Turn ID=11| A | A : en hij hebben bovenop aan de achterkant
+	Free: Pattern=aan de, Pattern=en
+	Constrained: Pattern=de, Pattern=aan
+Turn ID=12| A | A : twee van die ruit ja
+	Free: Pattern=ruit, Pattern=ja, Pattern=die, Pattern=van
+	Constrained: 
+Turn ID=13| A | A : ja en dan aan die twee ruit zitten nog twee ding naar de zijkant
+	Free: Pattern=ruit, Pattern=en dan, Pattern=de, Pattern=aan, Pattern=ja, Pattern=die, Pattern=zitten
+	Constrained: Pattern=en, Pattern=dan
+Turn ID=14| A | A : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=15| B | B : ja toch
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=16| B | B : weer die met die sellight achterop
+	Free: Pattern=die, Pattern=met
+	Constrained: 
+Turn ID=17| B | B : met met die sellight dat ruit dat ruit dat er een soort van in zitten met die met die legoblokjes die er zo
+	Free: Pattern=dat, Pattern=ruit, Pattern=met, Pattern=een soort, Pattern=van, Pattern=die, Pattern=zitten
+	Constrained: Pattern=een
+Turn ID=18| B | B : en met dat toe en dan zo zo'n arm van onder
+	Free: Pattern=en dan, Pattern=met dat, Pattern=en, Pattern=van
+	Constrained: Pattern=en, Pattern=dat, Pattern=dan, Pattern=met
+Turn ID=19| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=20| B | B : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=21| A | A : waar staan die ? waar staan die
+	Free: Pattern=die
+	Constrained: 
+Turn ID=22| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=23| A | A : dat zijn nummer negen
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat
+Turn ID=24| B | B : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=25| B | B : yes en dan dat haak zo eronder
+	Free: Pattern=en dan, Pattern=dat
+	Constrained: Pattern=en, Pattern=dan
+Turn ID=26| B | B : de H bij mij
+	Free: Pattern=de
+	Constrained: 
+Turn ID=27| A | A : met dat voe en die vliegtuigvleugels op de achterkant
+	Free: Pattern=met dat, Pattern=en, Pattern=de, Pattern=die
+	Constrained: Pattern=dat, Pattern=met
+Turn ID=28| B | B : dan weer de space station
+	Free: Pattern=de, Pattern=dan
+	Constrained: 
+Turn ID=29| B | B : met de armpjes
+	Free: Pattern=de, Pattern=met
+	Constrained: 
+Turn ID=30| A | A : dat zijn nummer elf
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat
+Turn ID=31| B | B : space station dat zijn de D
+	Free: Pattern=dat zijn, Pattern=de
+	Constrained: Pattern=dat
+Turn ID=32| B | B : worden zo snel
+	Free: 
+	Constrained: 
+Turn ID=33| A | A : de een met het voe en de Vliegtuigvleugels
+	Free: Pattern=en, Pattern=de, Pattern=met, Pattern=een
+	Constrained: 
+Turn ID=34| B | B : weer de space station
+	Free: Pattern=de
+	Constrained: 
+Turn ID=35| A | A : ja dat zijn veertien
+	Free: Pattern=ja dat zijn
+	Constrained: Pattern=dat zijn, Pattern=dat, Pattern=ja

@@ -1,0 +1,107 @@
+B|0| B: _zijn_ _dat_ _die_ soort van toeter of 
+B|1| B: _ja_ _ja_ _dat zijn_ L 
+B|2| B: _het_ _zijn_ _die_ trompetachtige _met_ _dat_ plateau _en het_ dinge waar _dat_ 
+A|3| A: deze ik ik beschrijf hem als zeggen maar [zijn] een dakraam [die] [die] licht weergeven 
+A|4| A: op op [het] blok zeggen maar 
+A|5| A: [ja] hebben een leuk [ja] 
+A|6| A: [ja] 
+B|7| B: C 
+A|8| A: [ja] 
+A|9| A: [dat zijn] 
+A|10| A: Pacman 
+A|11| A: leuk 
+A|12| A: juist [ja] 
+A|13| A: [dat zijn] [het] dakraam [met] [het] dienblad 
+A|14| A: [dat zijn] de Pacman oké 
+A|15| A: [zijn] nummer zeven 
+B|16| B: [het] [zijn] [die] toeter [met] [dat] plateaut 
+A|17| A: [zijn] [het] dakraam [en] [en het] dienblad 
+A|18| A: [ja] 
+B|19| B: A 
+A|20| A: nummer één 
+B|21| B: [ja] 
+B|22| B: [het] [zijn] [die] [met] [die] trompet toeterachtig dinget 
+A|23| A: oké 
+A|24| A: ik hebben [het] dienblad 
+A|25| A: [ja] nummer dertien 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : zijn dat die soort van toeter of
+	Free: Pattern=dat, Pattern=zijn, Pattern=die
+	Constrained: 
+Turn ID=1| B | B : ja ja dat zijn L
+	Free: Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=2| B | B : het zijn die trompetachtige met dat plateau en het dinge waar dat
+	Free: Pattern=dat, Pattern=en het, Pattern=het, Pattern=met, Pattern=die, Pattern=zijn
+	Constrained: Pattern=en, Pattern=het
+Turn ID=3| A | A : deze ik ik beschrijf hem als zeggen maar zijn een dakraam die die licht weergeven
+	Free: Pattern=zijn, Pattern=die
+	Constrained: 
+Turn ID=4| A | A : op op het blok zeggen maar
+	Free: Pattern=het
+	Constrained: 
+Turn ID=5| A | A : ja hebben een leuk ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=6| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=7| B | B : C
+	Free: 
+	Constrained: 
+Turn ID=8| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=9| A | A : dat zijn
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=10| A | A : Pacman
+	Free: 
+	Constrained: 
+Turn ID=11| A | A : leuk
+	Free: 
+	Constrained: 
+Turn ID=12| A | A : juist ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=13| A | A : dat zijn het dakraam met het dienblad
+	Free: Pattern=dat zijn, Pattern=het, Pattern=met
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=14| A | A : dat zijn de Pacman oké
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=15| A | A : zijn nummer zeven
+	Free: Pattern=zijn
+	Constrained: 
+Turn ID=16| B | B : het zijn die toeter met dat plateaut
+	Free: Pattern=dat, Pattern=het, Pattern=met, Pattern=die, Pattern=zijn
+	Constrained: 
+Turn ID=17| A | A : zijn het dakraam en en het dienblad
+	Free: Pattern=en het, Pattern=en, Pattern=het, Pattern=zijn
+	Constrained: Pattern=en, Pattern=het
+Turn ID=18| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=19| B | B : A
+	Free: 
+	Constrained: 
+Turn ID=20| A | A : nummer één
+	Free: 
+	Constrained: 
+Turn ID=21| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=22| B | B : het zijn die met die trompet toeterachtig dinget
+	Free: Pattern=het, Pattern=zijn, Pattern=met, Pattern=die
+	Constrained: 
+Turn ID=23| A | A : oké
+	Free: 
+	Constrained: 
+Turn ID=24| A | A : ik hebben het dienblad
+	Free: Pattern=het
+	Constrained: 
+Turn ID=25| A | A : ja nummer dertien
+	Free: Pattern=ja
+	Constrained: 

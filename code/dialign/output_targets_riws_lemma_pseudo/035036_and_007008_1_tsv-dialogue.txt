@@ -1,0 +1,111 @@
+A|0| A: oké _ja_ 
+A|1| A: _dat_ _zijn_ _een_ groot _vierkant_ _aan de voorkant_ _zeggen maar_ 
+A|2| A: oké _dat_ _zijn_ _twee_ 
+B|3| B: _deze_ hebben _één_ hebben [een] [vierkant] plaat [zeggen maar] [aan de voorkant] 
+B|4| B: en [een] op [zijn] hoofd lijken het [een] schroef 
+B|5| B: [twee] Empire State Buildings 
+B|6| B: [ja] 
+B|7| B: [ja] [dat] ook 
+A|8| A: [deze] noemen jij volgens mij [een] helikopter _met_ [een] televisiescherm _aan de zijkant_ 
+A|9| A: [dat] [zijn] negen 
+B|10| B: even kijken [een] [vierkant] 
+B|11| B: die en dan zitten hierboven zo'n ding en [aan de zijkant] ook 
+B|12| B: [ja] 
+B|13| B: F 
+A|14| A: _dit zijn_ [de] helikopter _met_ [dat] scherm 
+B|15| B: [dit zijn] die [met] die [met] zo'n [vierkant] plaat 
+B|16| B: boven weer [een] schroef en dan die die die uitpuilen blokkending 
+A|17| A: [dat] [zijn] [één] 
+B|18| B: [ja] 
+B|19| B: [ja] 
+B|20| B: [ja] ik zien het [ja] 
+B|21| B: D 
+A|22| A: [dit zijn] [de] helikopter 
+B|23| B: die [met] die [vierkant] plaat en weer die die blok [zeggen maar] als oog 
+B|24| B: [ja] 
+B|25| B: [ja] 
+B|26| B: B 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : oké ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=1| A | A : dat zijn een groot vierkant aan de voorkant zeggen maar
+	Free: Pattern=dat, Pattern=een, Pattern=zeggen maar, Pattern=zijn, Pattern=vierkant, Pattern=aan de voorkant
+	Constrained: Pattern=de
+Turn ID=2| A | A : oké dat zijn twee
+	Free: Pattern=dat, Pattern=zijn, Pattern=twee
+	Constrained: 
+Turn ID=3| B | B : deze hebben één hebben een vierkant plaat zeggen maar aan de voorkant
+	Free: Pattern=een, Pattern=zeggen maar, Pattern=vierkant, Pattern=deze, Pattern=één, Pattern=aan de voorkant
+	Constrained: Pattern=de
+Turn ID=4| B | B : en een op zijn hoofd lijken het een schroef
+	Free: Pattern=een, Pattern=zijn
+	Constrained: 
+Turn ID=5| B | B : twee Empire State Buildings
+	Free: Pattern=twee
+	Constrained: 
+Turn ID=6| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=7| B | B : ja dat ook
+	Free: Pattern=dat, Pattern=ja
+	Constrained: 
+Turn ID=8| A | A : deze noemen jij volgens mij een helikopter met een televisiescherm aan de zijkant
+	Free: Pattern=aan de zijkant, Pattern=een, Pattern=deze, Pattern=met
+	Constrained: Pattern=de
+Turn ID=9| A | A : dat zijn negen
+	Free: Pattern=dat, Pattern=zijn
+	Constrained: 
+Turn ID=10| B | B : even kijken een vierkant
+	Free: Pattern=een, Pattern=vierkant
+	Constrained: 
+Turn ID=11| B | B : die en dan zitten hierboven zo'n ding en aan de zijkant ook
+	Free: Pattern=aan de zijkant
+	Constrained: Pattern=de
+Turn ID=12| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=13| B | B : F
+	Free: 
+	Constrained: 
+Turn ID=14| A | A : dit zijn de helikopter met dat scherm
+	Free: Pattern=dit zijn, Pattern=dat, Pattern=de, Pattern=met
+	Constrained: Pattern=zijn
+Turn ID=15| B | B : dit zijn die met die met zo'n vierkant plaat
+	Free: Pattern=dit zijn, Pattern=vierkant, Pattern=met
+	Constrained: Pattern=zijn
+Turn ID=16| B | B : boven weer een schroef en dan die die die uitpuilen blokkending
+	Free: Pattern=een
+	Constrained: 
+Turn ID=17| A | A : dat zijn één
+	Free: Pattern=dat, Pattern=één, Pattern=zijn
+	Constrained: 
+Turn ID=18| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=19| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=20| B | B : ja ik zien het ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=21| B | B : D
+	Free: 
+	Constrained: 
+Turn ID=22| A | A : dit zijn de helikopter
+	Free: Pattern=dit zijn, Pattern=de
+	Constrained: Pattern=zijn
+Turn ID=23| B | B : die met die vierkant plaat en weer die die blok zeggen maar als oog
+	Free: Pattern=zeggen maar, Pattern=vierkant, Pattern=met
+	Constrained: 
+Turn ID=24| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=25| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=26| B | B : B
+	Free: 
+	Constrained: 

@@ -1,0 +1,115 @@
+B|0| B: bij mij staan hij _op een_ groot _vierkant_ rechthoek 
+B|1| B: komen _een soort_ van gebobbeld stang _door_ _de_ emmer 
+B|2| B: rond voorop 
+A|3| A: zo'n [soort] spiraalachtig iets 
+A|4| A: _okee_ _dat_ _zijn_ nummer negen 
+B|5| B: _ja_ _wat_ snel 
+B|6| B: _ja_ _en_ hij [zijn] _op_ [dat] platform 
+B|7| B: _ja_ 
+B|8| B: I 
+B|9| B: deze hebben _de_ staaf _met_ kralen _door_ _de_ _achter_ _de_ emmer _heen_ _en_ _een_ rond voorop 
+B|10| B: _ja_ 
+B|11| B: [okee] o 
+B|12| B: deze hebben _de_ staal _met_ kra erachter 
+B|13| B: e 
+A|14| A: [ja] dit [zijn] het beker [met] het spiraal aan [de] achterkant 
+A|15| A: die [op een] plateau zitten 
+A|16| A: [op [een] soort] [vierkant] bord 
+A|17| A: [en] zo'n [soort] ronddraaistaafje [wat] aan [de] achterkant zitten 
+A|18| A: [met] [een soort] cirkel aan [de] voorzijde 
+A|19| A: die [op] zo'n [soort] [vierkant] treetje of niet treetje maar [soort] 
+A|20| A: [ja] [dat] 
+A|21| A: [ja] 
+A|22| A: [ja] [dat] [zijn] nummer acht 
+A|23| A: het spiraal [achter] het beker 
+A|24| A: of [door] het beker [heen] 
+A|25| A: [ja] 
+A|26| A: nummer dertien 
+A|27| A: spiraal [achter] het beker 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : bij mij staan hij op een groot vierkant rechthoek
+	Free: Pattern=op een, Pattern=vierkant
+	Constrained: Pattern=op, Pattern=een
+Turn ID=1| B | B : komen een soort van gebobbeld stang door de emmer
+	Free: Pattern=een soort, Pattern=door, Pattern=de
+	Constrained: Pattern=soort, Pattern=een
+Turn ID=2| B | B : rond voorop
+	Free: 
+	Constrained: 
+Turn ID=3| A | A : zo'n soort spiraalachtig iets
+	Free: Pattern=soort
+	Constrained: 
+Turn ID=4| A | A : okee dat zijn nummer negen
+	Free: Pattern=okee, Pattern=zijn, Pattern=dat
+	Constrained: 
+Turn ID=5| B | B : ja wat snel
+	Free: Pattern=wat, Pattern=ja
+	Constrained: 
+Turn ID=6| B | B : ja en hij zijn op dat platform
+	Free: Pattern=dat, Pattern=ja, Pattern=op, Pattern=en, Pattern=zijn
+	Constrained: 
+Turn ID=7| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=8| B | B : I
+	Free: 
+	Constrained: 
+Turn ID=9| B | B : deze hebben de staaf met kralen door de achter de emmer heen en een rond voorop
+	Free: Pattern=de, Pattern=door, Pattern=een, Pattern=achter, Pattern=heen, Pattern=met, Pattern=en
+	Constrained: 
+Turn ID=10| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=11| B | B : okee o
+	Free: Pattern=okee
+	Constrained: 
+Turn ID=12| B | B : deze hebben de staal met kra erachter
+	Free: Pattern=met, Pattern=de
+	Constrained: 
+Turn ID=13| B | B : e
+	Free: 
+	Constrained: 
+Turn ID=14| A | A : ja dit zijn het beker met het spiraal aan de achterkant
+	Free: Pattern=ja, Pattern=met, Pattern=zijn, Pattern=de
+	Constrained: 
+Turn ID=15| A | A : die op een plateau zitten
+	Free: Pattern=op een
+	Constrained: Pattern=op, Pattern=een
+Turn ID=16| A | A : op een soort vierkant bord
+	Free: Pattern=een soort, Pattern=op een, Pattern=vierkant
+	Constrained: Pattern=op, Pattern=soort, Pattern=een
+Turn ID=17| A | A : en zo'n soort ronddraaistaafje wat aan de achterkant zitten
+	Free: Pattern=wat, Pattern=soort, Pattern=en, Pattern=de
+	Constrained: 
+Turn ID=18| A | A : met een soort cirkel aan de voorzijde
+	Free: Pattern=een soort, Pattern=met, Pattern=de
+	Constrained: Pattern=soort, Pattern=een
+Turn ID=19| A | A : die op zo'n soort vierkant treetje of niet treetje maar soort
+	Free: Pattern=op, Pattern=soort, Pattern=vierkant
+	Constrained: 
+Turn ID=20| A | A : ja dat
+	Free: Pattern=ja, Pattern=dat
+	Constrained: 
+Turn ID=21| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=22| A | A : ja dat zijn nummer acht
+	Free: Pattern=ja, Pattern=zijn, Pattern=dat
+	Constrained: 
+Turn ID=23| A | A : het spiraal achter het beker
+	Free: Pattern=achter
+	Constrained: 
+Turn ID=24| A | A : of door het beker heen
+	Free: Pattern=heen, Pattern=door
+	Constrained: 
+Turn ID=25| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=26| A | A : nummer dertien
+	Free: 
+	Constrained: 
+Turn ID=27| A | A : spiraal achter het beker
+	Free: Pattern=achter
+	Constrained: 

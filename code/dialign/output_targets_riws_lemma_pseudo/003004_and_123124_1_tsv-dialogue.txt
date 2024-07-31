@@ -1,0 +1,99 @@
+A|0| A: _ja_ 
+A|1| A: _ja_ 
+A|2| A: _en_ zo'n antennetje erbovenop _ja_ _twee_ 
+B|3| B: aan _de_ voorkant _zijn_ een heel groot vierkant vlak 
+B|4| B: [en] aan _de_ linkerkant [twee] soort blokkendooz die erin gaan 
+B|5| B: [ja] 
+B|6| B: [ja] [ja] 
+B|7| B: iets futuristisch 
+A|8| A: [de] verrekijker _met de_ Antenne bovenop 
+A|9| A: [en] [de] 
+A|10| A: [ja] precies 
+B|11| B: [ja] [met] [twee] [twee] blokkentorens aan [de] linkerkant 
+B|12| B: _dat zijn_ G 
+A|13| A: negen 
+B|14| B: dit _zijn_ _dat_ poppe [met] aan [de] linkerkant [twee] blokkentorens die het hoofd ingaan aan [de] voorkant een groot vierkant vak vlak 
+B|15| B: [ja] zoiets 
+A|16| A: [de] verrekijker 
+B|17| B: [ja] _dat zijn_ D 
+A|18| A: verrekijker waar staan je ? [dat zijn] één 
+B|19| B: dit [zijn] [met] [ja] het volgens mij noemen we het ruimteschip [met de] [twee] blokkending die erin gaan 
+A|20| A: verrekijker 
+A|21| A: [ja] 
+B|22| B: [met] voor een vierkant vlak 
+B|23| B: [dat zijn] B 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=1| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=2| A | A : en zo'n antennetje erbovenop ja twee
+	Free: Pattern=twee, Pattern=ja, Pattern=en
+	Constrained: 
+Turn ID=3| B | B : aan de voorkant zijn een heel groot vierkant vlak
+	Free: Pattern=de, Pattern=zijn
+	Constrained: 
+Turn ID=4| B | B : en aan de linkerkant twee soort blokkendooz die erin gaan
+	Free: Pattern=twee, Pattern=en, Pattern=de
+	Constrained: 
+Turn ID=5| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=6| B | B : ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=7| B | B : iets futuristisch
+	Free: 
+	Constrained: 
+Turn ID=8| A | A : de verrekijker met de Antenne bovenop
+	Free: Pattern=met de, Pattern=de
+	Constrained: Pattern=met, Pattern=de
+Turn ID=9| A | A : en de
+	Free: Pattern=en, Pattern=de
+	Constrained: 
+Turn ID=10| A | A : ja precies
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=11| B | B : ja met twee twee blokkentorens aan de linkerkant
+	Free: Pattern=met, Pattern=twee, Pattern=ja, Pattern=de
+	Constrained: 
+Turn ID=12| B | B : dat zijn G
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=13| A | A : negen
+	Free: 
+	Constrained: 
+Turn ID=14| B | B : dit zijn dat poppe met aan de linkerkant twee blokkentorens die het hoofd ingaan aan de voorkant een groot vierkant vak vlak
+	Free: Pattern=dat, Pattern=twee, Pattern=de, Pattern=met, Pattern=zijn
+	Constrained: 
+Turn ID=15| B | B : ja zoiets
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=16| A | A : de verrekijker
+	Free: Pattern=de
+	Constrained: 
+Turn ID=17| B | B : ja dat zijn D
+	Free: Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=18| A | A : verrekijker waar staan je ? dat zijn één
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=19| B | B : dit zijn met ja het volgens mij noemen we het ruimteschip met de twee blokkending die erin gaan
+	Free: Pattern=twee, Pattern=met, Pattern=zijn, Pattern=met de, Pattern=ja
+	Constrained: Pattern=met, Pattern=de
+Turn ID=20| A | A : verrekijker
+	Free: 
+	Constrained: 
+Turn ID=21| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=22| B | B : met voor een vierkant vlak
+	Free: Pattern=met
+	Constrained: 
+Turn ID=23| B | B : dat zijn B
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn

@@ -1,0 +1,91 @@
+B|0| B: _zijn_ _dat_ _die soort van_ toeter _of_ 
+B|1| B: _ja ja_ _dat zijn_ L 
+B|2| B: _het_ _zijn die_ trompetachtige _met dat_ _plateau_ _en_ _het_ dinge _waar_ _dat_ 
+A|3| A: bij mij [zijn] dit [het] kop 
+A|4| A: [en] aan de rechts kant hebben [die] een [soort van] [plateau] alsof [die] een dienblad vasthouden 
+A|5| A: [en] aan de 
+A|6| A: [ja] [en] aan de linkerkant hebben [die] een [soort van] raar neus [waar] een [soort van] popnagel inslaan lijken te worden 
+A|7| A: [of] een _trompet_ eruit lijken te komen net wat je wat je willen [ja] 
+A|8| A: [ja [ja] [ja] [ja] ja] 
+B|9| B: C 
+A|10| A: [ja] 
+A|11| A: even kijken [waar] staan [die] 
+A|12| A: [ja] _met [die_ soort van] popnagel [die] erin slaan worden [ja] 
+A|13| A: [dat zijn] bij mij zeven 
+A|14| A: dit [zijn die] een [met dat] dienblad [en] [die] nagel [die] erin slaan worden 
+B|15| B: [het] [zijn die] toeter [met dat] plateaut 
+B|16| B: A 
+A|17| A: [ja] nummer één 
+A|18| A: dit [zijn die] een [met] [het] dienblad [en] [die] spijker [die] in [zijn] raar neus komen 
+B|19| B: [ja] 
+B|20| B: [het] [zijn die] [met die] [trompet] toeterachtig dinget 
+A|21| A: [die] staan bij mij [of] [die] hebben ik dertien 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : zijn dat die soort van toeter of
+	Free: Pattern=die soort van, Pattern=zijn, Pattern=dat, Pattern=of
+	Constrained: Pattern=soort van, Pattern=die
+Turn ID=1| B | B : ja ja dat zijn L
+	Free: Pattern=dat zijn, Pattern=ja ja
+	Constrained: Pattern=zijn, Pattern=ja, Pattern=dat
+Turn ID=2| B | B : het zijn die trompetachtige met dat plateau en het dinge waar dat
+	Free: Pattern=dat, Pattern=waar, Pattern=plateau, Pattern=met dat, Pattern=en, Pattern=het, Pattern=zijn die
+	Constrained: Pattern=zijn, Pattern=dat, Pattern=die, Pattern=met
+Turn ID=3| A | A : bij mij zijn dit het kop
+	Free: Pattern=zijn, Pattern=het
+	Constrained: 
+Turn ID=4| A | A : en aan de rechts kant hebben die een soort van plateau alsof die een dienblad vasthouden
+	Free: Pattern=soort van, Pattern=en, Pattern=plateau, Pattern=die
+	Constrained: 
+Turn ID=5| A | A : en aan de
+	Free: Pattern=en
+	Constrained: 
+Turn ID=6| A | A : ja en aan de linkerkant hebben die een soort van raar neus waar een soort van popnagel inslaan lijken te worden
+	Free: Pattern=ja, Pattern=waar, Pattern=die, Pattern=en, Pattern=soort van
+	Constrained: 
+Turn ID=7| A | A : of een trompet eruit lijken te komen net wat je wat je willen ja
+	Free: Pattern=ja, Pattern=trompet, Pattern=of
+	Constrained: 
+Turn ID=8| A | A : ja ja ja ja ja
+	Free: Pattern=ja ja
+	Constrained: Pattern=ja
+Turn ID=9| B | B : C
+	Free: 
+	Constrained: 
+Turn ID=10| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=11| A | A : even kijken waar staan die
+	Free: Pattern=waar, Pattern=die
+	Constrained: 
+Turn ID=12| A | A : ja met die soort van popnagel die erin slaan worden ja
+	Free: Pattern=die soort van, Pattern=met die, Pattern=ja, Pattern=die
+	Constrained: Pattern=soort van, Pattern=die, Pattern=met
+Turn ID=13| A | A : dat zijn bij mij zeven
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=14| A | A : dit zijn die een met dat dienblad en die nagel die erin slaan worden
+	Free: Pattern=zijn die, Pattern=met dat, Pattern=en, Pattern=die
+	Constrained: Pattern=zijn, Pattern=dat, Pattern=die, Pattern=met
+Turn ID=15| B | B : het zijn die toeter met dat plateaut
+	Free: Pattern=zijn die, Pattern=met dat, Pattern=het
+	Constrained: Pattern=zijn, Pattern=dat, Pattern=die, Pattern=met
+Turn ID=16| B | B : A
+	Free: 
+	Constrained: 
+Turn ID=17| A | A : ja nummer één
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=18| A | A : dit zijn die een met het dienblad en die spijker die in zijn raar neus komen
+	Free: Pattern=met, Pattern=die, Pattern=en, Pattern=zijn, Pattern=het, Pattern=zijn die
+	Constrained: Pattern=zijn, Pattern=die
+Turn ID=19| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=20| B | B : het zijn die met die trompet toeterachtig dinget
+	Free: Pattern=zijn die, Pattern=met die, Pattern=trompet, Pattern=het
+	Constrained: Pattern=zijn, Pattern=die, Pattern=met
+Turn ID=21| A | A : die staan bij mij of die hebben ik dertien
+	Free: Pattern=die, Pattern=of
+	Constrained: 

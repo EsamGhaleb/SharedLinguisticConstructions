@@ -1,0 +1,131 @@
+B|0| B: goed _de_ volgen hebben ik omschrijven als _een_ _ijscoupe_ 
+B|1| B: _die_ vinden ik _het_ veel lijk _op_ _een_ _ijscoupe_ of één of _een_ cocktailglas 
+B|2| B: _met een_ _een_ rie erin _en_ ijsblok _die_ er _een_ beetje boven zweven 
+A|3| A: _en een_ 
+B|4| B: [en _een] gedraaide_ hals 
+A|5| A: [het] waar [die] [op] staat _zijn_ [een] soort _driehoek_ soort taartpunt 
+B|6| B: _ja_ 
+B|7| B: [een] [driehoek] _ja_ 
+A|8| A: [met [een] gedraaide] steel 
+B|9| B: _ja_ 
+B|10| B: [en] daarboven [het] of the kop [met] toebehoar 
+A|11| A: _de ijscoupe_ 
+A|12| A: [met] twee blok ijs 
+B|13| B: _ja_ 
+A|14| A: [ja] 
+A|15| A: _dat zijn_ nummer vier 
+A|16| A: [en] _de ijscoupe_ 
+B|17| B: [de ijscoupe] [dat zijn] letter A 
+B|18| B: [de ijscoupe] 
+A|19| A: [ijscoupe] waar [zijn] je ? ah 
+A|20| A: [ja] 
+A|21| A: nummer tien 
+A|22| A: [de ijscoupe] 
+B|23| B: [de ijscoupe] 
+B|24| B: letter L 
+A|25| A: [ja] 
+B|26| B: [de ijscoupe] 
+A|27| A: check 
+A|28| A: nummer vier 
+A|29| A: [de ijscoupe] 
+B|30| B: [de ijscoupe] 
+B|31| B: letter F 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : goed de volgen hebben ik omschrijven als een ijscoupe
+	Free: Pattern=een, Pattern=ijscoupe, Pattern=de
+	Constrained: 
+Turn ID=1| B | B : die vinden ik het veel lijk op een ijscoupe of één of een cocktailglas
+	Free: Pattern=op, Pattern=een, Pattern=het, Pattern=die, Pattern=ijscoupe
+	Constrained: 
+Turn ID=2| B | B : met een een rie erin en ijsblok die er een beetje boven zweven
+	Free: Pattern=met een, Pattern=een, Pattern=en, Pattern=die
+	Constrained: Pattern=een, Pattern=met
+Turn ID=3| A | A : en een
+	Free: Pattern=en een
+	Constrained: Pattern=een, Pattern=en
+Turn ID=4| B | B : en een gedraaide hals
+	Free: Pattern=en een, Pattern=een gedraaide
+	Constrained: Pattern=een, Pattern=en
+Turn ID=5| A | A : het waar die op staat zijn een soort driehoek soort taartpunt
+	Free: Pattern=driehoek, Pattern=op, Pattern=een, Pattern=het, Pattern=die, Pattern=zijn
+	Constrained: 
+Turn ID=6| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=7| B | B : een driehoek ja
+	Free: Pattern=een, Pattern=ja, Pattern=driehoek
+	Constrained: 
+Turn ID=8| A | A : met een gedraaide steel
+	Free: Pattern=een gedraaide, Pattern=met een
+	Constrained: Pattern=een, Pattern=met
+Turn ID=9| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=10| B | B : en daarboven het of the kop met toebehoar
+	Free: Pattern=het, Pattern=en, Pattern=met
+	Constrained: 
+Turn ID=11| A | A : de ijscoupe
+	Free: Pattern=de ijscoupe
+	Constrained: Pattern=ijscoupe, Pattern=de
+Turn ID=12| A | A : met twee blok ijs
+	Free: Pattern=met
+	Constrained: 
+Turn ID=13| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=14| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=15| A | A : dat zijn nummer vier
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn
+Turn ID=16| A | A : en de ijscoupe
+	Free: Pattern=de ijscoupe, Pattern=en
+	Constrained: Pattern=ijscoupe, Pattern=de
+Turn ID=17| B | B : de ijscoupe dat zijn letter A
+	Free: Pattern=de ijscoupe, Pattern=dat zijn
+	Constrained: Pattern=zijn, Pattern=ijscoupe, Pattern=de
+Turn ID=18| B | B : de ijscoupe
+	Free: Pattern=de ijscoupe
+	Constrained: Pattern=ijscoupe, Pattern=de
+Turn ID=19| A | A : ijscoupe waar zijn je ? ah
+	Free: Pattern=zijn, Pattern=ijscoupe
+	Constrained: 
+Turn ID=20| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=21| A | A : nummer tien
+	Free: 
+	Constrained: 
+Turn ID=22| A | A : de ijscoupe
+	Free: Pattern=de ijscoupe
+	Constrained: Pattern=ijscoupe, Pattern=de
+Turn ID=23| B | B : de ijscoupe
+	Free: Pattern=de ijscoupe
+	Constrained: Pattern=ijscoupe, Pattern=de
+Turn ID=24| B | B : letter L
+	Free: 
+	Constrained: 
+Turn ID=25| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=26| B | B : de ijscoupe
+	Free: Pattern=de ijscoupe
+	Constrained: Pattern=ijscoupe, Pattern=de
+Turn ID=27| A | A : check
+	Free: 
+	Constrained: 
+Turn ID=28| A | A : nummer vier
+	Free: 
+	Constrained: 
+Turn ID=29| A | A : de ijscoupe
+	Free: Pattern=de ijscoupe
+	Constrained: Pattern=ijscoupe, Pattern=de
+Turn ID=30| B | B : de ijscoupe
+	Free: Pattern=de ijscoupe
+	Constrained: Pattern=ijscoupe, Pattern=de
+Turn ID=31| B | B : letter F
+	Free: 
+	Constrained: 

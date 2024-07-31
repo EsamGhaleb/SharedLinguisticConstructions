@@ -1,0 +1,79 @@
+B|0| B: nou _dit zijn_ _dan_ weer gewoon _zo'n_ soort emmercupding _en_ _het_ lijken alsof daarvoor _een schap_ _zijn_ ophangen _waar_ de poo _nog_ onder _staan_ _en_ daarop _staan_ _een_ bak 
+A|1| A: _ja_ _ja_ _ja_ 
+A|2| A: inderdaad _ja_ zestien 
+A|3| A: [dit zijn] _dat_ [schap] [waar] jij [het] over hebben [zo'n] [zo'n] cupje _met [een_ schap] [en] daar [staan] [dan] [nog] iets op 
+B|4| B: [met een] [een] bak _erop_ 
+A|5| A: _ja_ 
+B|6| B: [dat] [zijn] P 
+B|7| B: [dit zijn] [het] emmer _met _het_ schap_ ervoor 
+A|8| A: _ja_ 
+A|9| A: even kijken [waar] [staan] die 
+A|10| A: veertien 
+A|11| A: [het _schap] [met_ het] cupje [erop] 
+B|12| B: [ja] [dat] [zijn] N 
+B|13| B: [dit zijn] [het schap] 
+B|14| B: aan de voorkant [een [schap] [met] een] bak [erop] 
+A|15| A: [ja] tien 
+A|16| A: [het schap] 
+B|17| B: [het schap] 
+B|18| B: [dat] [zijn] D 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : nou dit zijn dan weer gewoon zo'n soort emmercupding en het lijken alsof daarvoor een schap zijn ophangen waar de poo nog onder staan en daarop staan een bak
+	Free: Pattern=nog, Pattern=zo'n, Pattern=waar, Pattern=dan, Pattern=het, Pattern=een schap, Pattern=en, Pattern=zijn, Pattern=dit zijn, Pattern=een, Pattern=staan
+	Constrained: Pattern=een, Pattern=schap, Pattern=zijn
+Turn ID=1| A | A : ja ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=2| A | A : inderdaad ja zestien
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=3| A | A : dit zijn dat schap waar jij het over hebben zo'n zo'n cupje met een schap en daar staan dan nog iets op
+	Free: Pattern=dat, Pattern=nog, Pattern=zo'n, Pattern=waar, Pattern=dan, Pattern=staan, Pattern=het, Pattern=een schap, Pattern=schap, Pattern=met een, Pattern=en, Pattern=dit zijn
+	Constrained: Pattern=een, Pattern=schap, Pattern=zijn
+Turn ID=4| B | B : met een een bak erop
+	Free: Pattern=met een, Pattern=een, Pattern=erop
+	Constrained: Pattern=een
+Turn ID=5| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=6| B | B : dat zijn P
+	Free: Pattern=dat, Pattern=zijn
+	Constrained: 
+Turn ID=7| B | B : dit zijn het emmer met het schap ervoor
+	Free: Pattern=dit zijn, Pattern=met het, Pattern=het schap, Pattern=het
+	Constrained: Pattern=het, Pattern=schap, Pattern=zijn
+Turn ID=8| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=9| A | A : even kijken waar staan die
+	Free: Pattern=waar, Pattern=staan
+	Constrained: 
+Turn ID=10| A | A : veertien
+	Free: 
+	Constrained: 
+Turn ID=11| A | A : het schap met het cupje erop
+	Free: Pattern=schap met, Pattern=met het, Pattern=het schap, Pattern=erop
+	Constrained: Pattern=het, Pattern=schap
+Turn ID=12| B | B : ja dat zijn N
+	Free: Pattern=dat, Pattern=zijn, Pattern=ja
+	Constrained: 
+Turn ID=13| B | B : dit zijn het schap
+	Free: Pattern=dit zijn, Pattern=het schap
+	Constrained: Pattern=het, Pattern=schap, Pattern=zijn
+Turn ID=14| B | B : aan de voorkant een schap met een bak erop
+	Free: Pattern=schap met, Pattern=een schap, Pattern=met een, Pattern=erop
+	Constrained: Pattern=een, Pattern=schap
+Turn ID=15| A | A : ja tien
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=16| A | A : het schap
+	Free: Pattern=het schap
+	Constrained: Pattern=het, Pattern=schap
+Turn ID=17| B | B : het schap
+	Free: Pattern=het schap
+	Constrained: Pattern=het, Pattern=schap
+Turn ID=18| B | B : dat zijn D
+	Free: Pattern=dat, Pattern=zijn
+	Constrained: 

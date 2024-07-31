@@ -1,0 +1,151 @@
+A|0| A: _ik_ _zijn_ nu 
+A|1| A: _oké_ _ik_ natuurlijk _een_ bekervormpje natuurlijk _en_ _dan_ _aan de voorkant_ _zitten_ _er_ _een_ _een_ bal 
+B|2| B: _ja_ 
+A|3| A: _met een_ balk erdoorheen 
+A|4| A: _met_ _aan de_ uiteinde _aan de_ rechterkant _een cirkel_ 
+B|5| B: [oké] F 
+A|6| A: jij drukken 
+B|7| B: goed 
+B|8| B: [de] _bol_ [aan de voorkant] _waar_ _die_ _staaf doorheen_ gaan _met een cirkel eraan_ 
+A|9| A: [ja] _dat zijn_ vijf 
+A|10| A: [ja] _ik_ _er_ _zitten_ _ik_ hebben [een] bal maar _er_ _zitten een_ balk [doorheen] 
+A|11| A: bij _dit_ _kop_ 
+B|12| B: [oké] [en] [een cirkel] 
+A|13| A: [ja] 
+B|14| B: [ja] 
+B|15| B: [dat zijn] A 
+B|16| B: [dan] [zitten] _die_ wel goed 
+B|17| B: [oké] [dit] [zijn] _het_ [kop] _met de_ _knobbel_ [aan de voorkant] [er] gaan _een staaf doorheen_ [met] _die_ _cirkel eraan_ 
+A|18| A: ah [ja] 
+A|19| A: [dat zijn] vijf 
+A|20| A: [oké] _ik_ hebben [een] [een] [bol] [en] [er] _zitten [een_ staaf doorheen] 
+A|21| A: [met een cirkel eraan] vast [aan de] rechterkant 
+B|22| B: [ja] 
+B|23| B: [dat zijn] H 
+B|24| B: [zijn] _die_ [met] _die_ _knobbel met de staaf waar het cirkel aan vastzit_ 
+A|25| A: [knobbel met de staaf waar het cirkel aan vastzit] 
+B|26| B: [een] 
+A|27| A: [knobbel met de staaf] 
+B|28| B: [ja] [er] [zijn] [een] bolle [aan de voorkant] daar gaan [een staaf doorheen] [en] daar [zitten [een] [cirkel] aan] 
+A|29| A: [die] [ja] 
+A|30| A: [ja] [dat zijn] vijftien 
+B|31| B: [ik] noemen [dat] zelf [de] slinger 
+A|32| A: leuk 
+A|33| A: [een] deel van mijn school heten zo 
+B|34| B: echt 
+A|35| A: [ja] 
+B|36| B: [ja] 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : ik zijn nu
+	Free: Pattern=zijn, Pattern=ik
+	Constrained: 
+Turn ID=1| A | A : oké ik natuurlijk een bekervormpje natuurlijk en dan aan de voorkant zitten er een een bal
+	Free: Pattern=dan, Pattern=een, Pattern=zitten, Pattern=oké, Pattern=er, Pattern=ik, Pattern=en, Pattern=aan de voorkant
+	Constrained: Pattern=de, Pattern=aan de
+Turn ID=2| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=3| A | A : met een balk erdoorheen
+	Free: Pattern=met een
+	Constrained: Pattern=met, Pattern=een
+Turn ID=4| A | A : met aan de uiteinde aan de rechterkant een cirkel
+	Free: Pattern=een cirkel, Pattern=aan de, Pattern=met
+	Constrained: Pattern=de, Pattern=een
+Turn ID=5| B | B : oké F
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=6| A | A : jij drukken
+	Free: 
+	Constrained: 
+Turn ID=7| B | B : goed
+	Free: 
+	Constrained: 
+Turn ID=8| B | B : de bol aan de voorkant waar die staaf doorheen gaan met een cirkel eraan
+	Free: Pattern=de, Pattern=waar, Pattern=bol, Pattern=die, Pattern=staaf doorheen, Pattern=aan de voorkant, Pattern=met een cirkel eraan
+	Constrained: Pattern=aan de, Pattern=met, Pattern=met een, Pattern=cirkel eraan, Pattern=de, Pattern=doorheen, Pattern=een, Pattern=een cirkel
+Turn ID=9| A | A : ja dat zijn vijf
+	Free: Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=10| A | A : ja ik er zitten ik hebben een bal maar er zitten een balk doorheen
+	Free: Pattern=een, Pattern=zitten, Pattern=er, Pattern=ja, Pattern=doorheen, Pattern=ik, Pattern=zitten een
+	Constrained: Pattern=zitten, Pattern=een
+Turn ID=11| A | A : bij dit kop
+	Free: Pattern=dit, Pattern=kop
+	Constrained: 
+Turn ID=12| B | B : oké en een cirkel
+	Free: Pattern=een cirkel, Pattern=oké, Pattern=en
+	Constrained: Pattern=een
+Turn ID=13| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=14| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=15| B | B : dat zijn A
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=16| B | B : dan zitten die wel goed
+	Free: Pattern=dan, Pattern=die, Pattern=zitten
+	Constrained: 
+Turn ID=17| B | B : oké dit zijn het kop met de knobbel aan de voorkant er gaan een staaf doorheen met die cirkel eraan
+	Free: Pattern=met de, Pattern=het, Pattern=met, Pattern=die, Pattern=er, Pattern=cirkel eraan, Pattern=zijn, Pattern=aan de voorkant, Pattern=een staaf doorheen, Pattern=kop, Pattern=dit, Pattern=oké, Pattern=knobbel
+	Constrained: Pattern=aan de, Pattern=een, Pattern=met, Pattern=staaf doorheen, Pattern=de, Pattern=doorheen
+Turn ID=18| A | A : ah ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=19| A | A : dat zijn vijf
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=20| A | A : oké ik hebben een een bol en er zitten een staaf doorheen
+	Free: Pattern=bol, Pattern=een, Pattern=oké, Pattern=er, Pattern=en, Pattern=een staaf doorheen, Pattern=ik, Pattern=zitten een
+	Constrained: Pattern=doorheen, Pattern=staaf doorheen, Pattern=zitten, Pattern=een
+Turn ID=21| A | A : met een cirkel eraan vast aan de rechterkant
+	Free: Pattern=met een cirkel eraan, Pattern=aan de
+	Constrained: Pattern=de, Pattern=met, Pattern=met een, Pattern=cirkel eraan, Pattern=een, Pattern=een cirkel
+Turn ID=22| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=23| B | B : dat zijn H
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=24| B | B : zijn die met die knobbel met de staaf waar het cirkel aan vastzit
+	Free: Pattern=knobbel met de staaf waar het cirkel aan vastzit, Pattern=die, Pattern=zijn, Pattern=met
+	Constrained: Pattern=cirkel aan, Pattern=waar, Pattern=het, Pattern=knobbel met de staaf, Pattern=met, Pattern=knobbel, Pattern=de, Pattern=met de
+Turn ID=25| A | A : knobbel met de staaf waar het cirkel aan vastzit
+	Free: Pattern=knobbel met de staaf waar het cirkel aan vastzit
+	Constrained: Pattern=cirkel aan, Pattern=waar, Pattern=het, Pattern=knobbel met de staaf, Pattern=met, Pattern=knobbel, Pattern=de, Pattern=met de
+Turn ID=26| B | B : een
+	Free: Pattern=een
+	Constrained: 
+Turn ID=27| A | A : knobbel met de staaf
+	Free: Pattern=knobbel met de staaf
+	Constrained: Pattern=de, Pattern=met, Pattern=knobbel, Pattern=met de
+Turn ID=28| B | B : ja er zijn een bolle aan de voorkant daar gaan een staaf doorheen en daar zitten een cirkel aan
+	Free: Pattern=cirkel aan, Pattern=ja, Pattern=er, Pattern=zitten een, Pattern=en, Pattern=zijn, Pattern=aan de voorkant, Pattern=een staaf doorheen, Pattern=een, Pattern=een cirkel
+	Constrained: Pattern=aan de, Pattern=een, Pattern=zitten, Pattern=staaf doorheen, Pattern=de, Pattern=doorheen
+Turn ID=29| A | A : die ja
+	Free: Pattern=die, Pattern=ja
+	Constrained: 
+Turn ID=30| A | A : ja dat zijn vijftien
+	Free: Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=31| B | B : ik noemen dat zelf de slinger
+	Free: Pattern=dat, Pattern=de, Pattern=ik
+	Constrained: 
+Turn ID=32| A | A : leuk
+	Free: 
+	Constrained: 
+Turn ID=33| A | A : een deel van mijn school heten zo
+	Free: Pattern=een
+	Constrained: 
+Turn ID=34| B | B : echt
+	Free: 
+	Constrained: 
+Turn ID=35| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=36| B | B : ja
+	Free: Pattern=ja
+	Constrained: 

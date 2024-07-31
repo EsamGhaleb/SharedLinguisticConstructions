@@ -1,0 +1,135 @@
+B|0| B: oké ik hebben er één _het_ hebben _een soort_ van rood of _een_ bolle _aan de voorkant_ 
+B|1| B: _en_ één _soort_ van kwastje _die_ eruit steken _en_ nog _een_ recht 
+B|2| B: _ja_ _en_ nog _een soort_ van _driehoekje_ _aan de_ _ja_ 
+B|3| B: oké 
+A|4| A: [een] [driehoekje] 
+A|5| A: [ja] 
+A|6| A: lijken op [een soort] konijntje eigenlijk 
+A|7| A: _dan_ _zijn_ [het] nummer veertien 
+B|8| B: [ja] [ja] _dat zijn_ _de_ N bij mij 
+A|9| A: dit [zijn] [die] [het] konijntje 
+A|10| A: dit [zijn] _met die_ bol rechtsvoor 
+A|11| A: [en] zo'n balkje bovenop _en dan_ links zo'n zo'n [driehoekje] 
+B|12| B: weer [een] [het] bolle _aan de voorkant_ [soort] van 
+B|13| B: [en] [een soort] van kwastje erin [en dan] weer _dat_ recht plaat 
+B|14| B: [ja] 
+B|15| B: [en] _dat_ [driehoekje] _aan de_ zijkant yes 
+A|16| A: [ja] 
+A|17| A: [dat zijn] nummer negen 
+B|18| B: top 
+B|19| B: [en] [het] [ja] 
+B|20| B: yes [dat zijn] G bij mij 
+B|21| B: weer [met die] neus 
+B|22| B: [en dan] [dat] rechthoekje _en de_ kwast 
+B|23| B: oké 
+B|24| B: oké 
+A|25| A: [het] konijntje 
+A|26| A: [met] [de] bol [aan de voorkant] [en de] twee 
+A|27| A: [ja] 
+A|28| A: [zijn] nummer vijf 
+B|29| B: [ja] [en dan] [dat] staafje [en] [dat] [driehoekje] 
+B|30| B: yes 
+B|31| B: [dat zijn] J bij mij 
+A|32| A: konijn 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : oké ik hebben er één het hebben een soort van rood of een bolle aan de voorkant
+	Free: Pattern=aan de voorkant, Pattern=een soort, Pattern=een, Pattern=het
+	Constrained: Pattern=een, Pattern=de, Pattern=soort, Pattern=aan de
+Turn ID=1| B | B : en één soort van kwastje die eruit steken en nog een recht
+	Free: Pattern=die, Pattern=en, Pattern=een, Pattern=soort
+	Constrained: 
+Turn ID=2| B | B : ja en nog een soort van driehoekje aan de ja
+	Free: Pattern=ja, Pattern=aan de, Pattern=een soort, Pattern=en, Pattern=driehoekje
+	Constrained: Pattern=de, Pattern=een, Pattern=soort
+Turn ID=3| B | B : oké
+	Free: 
+	Constrained: 
+Turn ID=4| A | A : een driehoekje
+	Free: Pattern=driehoekje, Pattern=een
+	Constrained: 
+Turn ID=5| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=6| A | A : lijken op een soort konijntje eigenlijk
+	Free: Pattern=een soort
+	Constrained: Pattern=een, Pattern=soort
+Turn ID=7| A | A : dan zijn het nummer veertien
+	Free: Pattern=dan, Pattern=zijn, Pattern=het
+	Constrained: 
+Turn ID=8| B | B : ja ja dat zijn de N bij mij
+	Free: Pattern=dat zijn, Pattern=ja, Pattern=de
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=9| A | A : dit zijn die het konijntje
+	Free: Pattern=die, Pattern=zijn, Pattern=het
+	Constrained: 
+Turn ID=10| A | A : dit zijn met die bol rechtsvoor
+	Free: Pattern=met die, Pattern=zijn
+	Constrained: Pattern=die, Pattern=met
+Turn ID=11| A | A : en zo'n balkje bovenop en dan links zo'n zo'n driehoekje
+	Free: Pattern=en dan, Pattern=en, Pattern=driehoekje
+	Constrained: Pattern=dan, Pattern=en
+Turn ID=12| B | B : weer een het bolle aan de voorkant soort van
+	Free: Pattern=aan de voorkant, Pattern=een, Pattern=soort, Pattern=het
+	Constrained: Pattern=aan de, Pattern=de
+Turn ID=13| B | B : en een soort van kwastje erin en dan weer dat recht plaat
+	Free: Pattern=een soort, Pattern=en dan, Pattern=en, Pattern=dat
+	Constrained: Pattern=dan, Pattern=en, Pattern=een, Pattern=soort
+Turn ID=14| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=15| B | B : en dat driehoekje aan de zijkant yes
+	Free: Pattern=aan de, Pattern=en, Pattern=driehoekje, Pattern=dat
+	Constrained: Pattern=de
+Turn ID=16| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=17| A | A : dat zijn nummer negen
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=18| B | B : top
+	Free: 
+	Constrained: 
+Turn ID=19| B | B : en het ja
+	Free: Pattern=ja, Pattern=en, Pattern=het
+	Constrained: 
+Turn ID=20| B | B : yes dat zijn G bij mij
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=21| B | B : weer met die neus
+	Free: Pattern=met die
+	Constrained: Pattern=die, Pattern=met
+Turn ID=22| B | B : en dan dat rechthoekje en de kwast
+	Free: Pattern=en dan, Pattern=en de, Pattern=dat
+	Constrained: Pattern=dan, Pattern=en, Pattern=de
+Turn ID=23| B | B : oké
+	Free: 
+	Constrained: 
+Turn ID=24| B | B : oké
+	Free: 
+	Constrained: 
+Turn ID=25| A | A : het konijntje
+	Free: Pattern=het
+	Constrained: 
+Turn ID=26| A | A : met de bol aan de voorkant en de twee
+	Free: Pattern=aan de voorkant, Pattern=en de, Pattern=de, Pattern=met
+	Constrained: Pattern=de, Pattern=en, Pattern=aan de
+Turn ID=27| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=28| A | A : zijn nummer vijf
+	Free: Pattern=zijn
+	Constrained: 
+Turn ID=29| B | B : ja en dan dat staafje en dat driehoekje
+	Free: Pattern=dat, Pattern=ja, Pattern=en dan, Pattern=en, Pattern=driehoekje
+	Constrained: Pattern=dan, Pattern=en
+Turn ID=30| B | B : yes
+	Free: 
+	Constrained: 
+Turn ID=31| B | B : dat zijn J bij mij
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=32| A | A : konijn
+	Free: 
+	Constrained: 

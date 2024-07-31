@@ -1,0 +1,131 @@
+B|0| B: oké 
+B|1| B: ik hebben _ja_ ik noemen het _een_ theekop 
+B|2| B: _die_ _een_ vierkant scherm erdoorheen hebben zitten alleen _dan_ onder het midden 
+B|3| B: _ja_ horen _aan de_ voorkant hebben _die_ _dan_ _nog_ wel _zo'n_ rond _staaf_ _die_ laten _maar_ zeggen als _een_ neus eruit komen 
+B|4| B: _en_ _aan de_ linkerkant hebben _die_ _een_ _staaf_ _met_ _een_ hoekje erin 
+B|5| B: _en_ _bovenop_ hebben _die_ _twee_ _ja_ voelsprietjes kunnen je het noemen 
+B|6| B: _ja_ _iets_ onder het midden zitten _een_ vierkant erdoorheen laten _maar_ zeggen 
+B|7| B: oké 
+A|8| A: [ja] 
+A|9| A: [dan] 
+A|10| A: [ja] [en] [dan] één er [nog] [aan de] zijkant [staaf] [ja] [ja] nummertje zes 
+A|11| A: [ja] _dat_ _zijn_ lijk _dat_ _zijn_ [een] plateau wat net niet onderin [maar] [iets] er boven doorheen boort [en] eigenlijk [met] [zo'n] _glijbaan_ toet er ook voor [en] [dan] [twee] omhoog [ja] 
+B|12| B: erdoorheen 
+B|13| B: [ja] 
+B|14| B: [ja] 
+B|15| B: [ja] daar kunnen je [een] oké prima [zijn] [dat] [de] [glijbaan] 
+B|16| B: C 
+B|17| B: [de] [glijbaan] 
+B|18| B: [ja] 
+B|19| B: [met] het [met] het vierkant [aan de] onderkant erdoorheen 
+A|20| A: [ja] ok 
+A|21| A: [ja] 
+A|22| A: ok [dat] [zijn] [dan] nummertje dertien 
+B|23| B: [ja] 
+B|24| B: hier J 
+A|25| A: [ja] _dit zijn_ eigenlijk [met] [die] [glijbaan] [met] [die] plateau 
+A|26| A: [en] [met] [dat] [bovenop] [ja] 
+B|27| B: [dit zijn] [de] [glijbaan] 
+B|28| B: [met] het vierkant erdoorheen 
+A|29| A: [ja] 
+A|30| A: [ja] [ja] [dat] [zijn] [dan] nummertje negen 
+A|31| A: [ja] [dit zijn] [die] [met] [die] [glijbaan] 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : oké
+	Free: 
+	Constrained: 
+Turn ID=1| B | B : ik hebben ja ik noemen het een theekop
+	Free: Pattern=een, Pattern=ja
+	Constrained: 
+Turn ID=2| B | B : die een vierkant scherm erdoorheen hebben zitten alleen dan onder het midden
+	Free: Pattern=een, Pattern=dan, Pattern=die
+	Constrained: 
+Turn ID=3| B | B : ja horen aan de voorkant hebben die dan nog wel zo'n rond staaf die laten maar zeggen als een neus eruit komen
+	Free: Pattern=nog, Pattern=zo'n, Pattern=ja, Pattern=staaf, Pattern=aan de, Pattern=dan, Pattern=een, Pattern=die, Pattern=maar
+	Constrained: Pattern=de
+Turn ID=4| B | B : en aan de linkerkant hebben die een staaf met een hoekje erin
+	Free: Pattern=staaf, Pattern=aan de, Pattern=een, Pattern=met, Pattern=die, Pattern=en
+	Constrained: Pattern=de
+Turn ID=5| B | B : en bovenop hebben die twee ja voelsprietjes kunnen je het noemen
+	Free: Pattern=bovenop, Pattern=twee, Pattern=ja, Pattern=die, Pattern=en
+	Constrained: 
+Turn ID=6| B | B : ja iets onder het midden zitten een vierkant erdoorheen laten maar zeggen
+	Free: Pattern=een, Pattern=iets, Pattern=ja, Pattern=maar
+	Constrained: 
+Turn ID=7| B | B : oké
+	Free: 
+	Constrained: 
+Turn ID=8| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=9| A | A : dan
+	Free: Pattern=dan
+	Constrained: 
+Turn ID=10| A | A : ja en dan één er nog aan de zijkant staaf ja ja nummertje zes
+	Free: Pattern=nog, Pattern=ja, Pattern=staaf, Pattern=aan de, Pattern=dan, Pattern=en
+	Constrained: Pattern=de
+Turn ID=11| A | A : ja dat zijn lijk dat zijn een plateau wat net niet onderin maar iets er boven doorheen boort en eigenlijk met zo'n glijbaan toet er ook voor en dan twee omhoog ja
+	Free: Pattern=dat, Pattern=dan, Pattern=een, Pattern=met, Pattern=glijbaan, Pattern=en, Pattern=zo'n, Pattern=twee, Pattern=iets, Pattern=ja, Pattern=zijn, Pattern=maar
+	Constrained: 
+Turn ID=12| B | B : erdoorheen
+	Free: 
+	Constrained: 
+Turn ID=13| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=14| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=15| B | B : ja daar kunnen je een oké prima zijn dat de glijbaan
+	Free: Pattern=dat, Pattern=een, Pattern=glijbaan, Pattern=zijn, Pattern=de, Pattern=ja
+	Constrained: 
+Turn ID=16| B | B : C
+	Free: 
+	Constrained: 
+Turn ID=17| B | B : de glijbaan
+	Free: Pattern=glijbaan, Pattern=de
+	Constrained: 
+Turn ID=18| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=19| B | B : met het met het vierkant aan de onderkant erdoorheen
+	Free: Pattern=aan de, Pattern=met
+	Constrained: Pattern=de
+Turn ID=20| A | A : ja ok
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=21| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=22| A | A : ok dat zijn dan nummertje dertien
+	Free: Pattern=dat, Pattern=dan, Pattern=zijn
+	Constrained: 
+Turn ID=23| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=24| B | B : hier J
+	Free: 
+	Constrained: 
+Turn ID=25| A | A : ja dit zijn eigenlijk met die glijbaan met die plateau
+	Free: Pattern=ja, Pattern=met, Pattern=die, Pattern=glijbaan, Pattern=dit zijn
+	Constrained: Pattern=zijn
+Turn ID=26| A | A : en met dat bovenop ja
+	Free: Pattern=ja, Pattern=met, Pattern=en, Pattern=dat, Pattern=bovenop
+	Constrained: 
+Turn ID=27| B | B : dit zijn de glijbaan
+	Free: Pattern=dit zijn, Pattern=glijbaan, Pattern=de
+	Constrained: Pattern=zijn
+Turn ID=28| B | B : met het vierkant erdoorheen
+	Free: Pattern=met
+	Constrained: 
+Turn ID=29| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=30| A | A : ja ja dat zijn dan nummertje negen
+	Free: Pattern=dat, Pattern=dan, Pattern=zijn, Pattern=ja
+	Constrained: 
+Turn ID=31| A | A : ja dit zijn die met die glijbaan
+	Free: Pattern=ja, Pattern=met, Pattern=die, Pattern=glijbaan, Pattern=dit zijn
+	Constrained: Pattern=zijn

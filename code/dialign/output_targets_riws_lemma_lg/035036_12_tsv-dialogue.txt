@@ -1,0 +1,91 @@
+A|0| A: deze hebben _een soort_ van _omgekeerde pion_ uitsteken aan _de_ linkerkant 
+A|1| A: en aan _de_ rechterkant _een soort_ van rond tafeltje 
+B|2| B: _ja_ 
+B|3| B: [een soort] dienblad of zo 
+A|4| A: [ja] 
+B|5| B: [ja] 
+B|6| B: _dat zijn_ L bij mij 
+A|7| A: denken het 
+B|8| B: _dit zijn die_ omgekeeren [pion] in _zijn_ 
+A|9| A: het misgaan wel makkelijk nu 
+B|10| B: [ja] 
+A|11| A: [ja] oké [dat zijn] zeven 
+A|12| A: [dit zijn die] met _de omgekeerde pion_ 
+B|13| B: [ja] [dat zijn] C bij mij 
+B|14| B: [dit zijn] [de omgekeerde pion] 
+A|15| A: [ja] 
+A|16| A: [dat zijn] één 
+A|17| A: [dit zijn die] met [de omgekeerde pion] 
+A|18| A: en 
+B|19| B: [dat zijn] A 
+B|20| B: [dit zijn] [de] [pion] 
+A|21| A: [dat zijn] dertien 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : deze hebben een soort van omgekeerde pion uitsteken aan de linkerkant
+	Free: Pattern=een soort, Pattern=omgekeerde pion, Pattern=de
+	Constrained: Pattern=pion
+Turn ID=1| A | A : en aan de rechterkant een soort van rond tafeltje
+	Free: Pattern=een soort, Pattern=de
+	Constrained: 
+Turn ID=2| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=3| B | B : een soort dienblad of zo
+	Free: Pattern=een soort
+	Constrained: 
+Turn ID=4| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=5| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=6| B | B : dat zijn L bij mij
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn
+Turn ID=7| A | A : denken het
+	Free: 
+	Constrained: 
+Turn ID=8| B | B : dit zijn die omgekeeren pion in zijn
+	Free: Pattern=dit zijn die, Pattern=pion, Pattern=zijn
+	Constrained: Pattern=dit zijn, Pattern=zijn
+Turn ID=9| A | A : het misgaan wel makkelijk nu
+	Free: 
+	Constrained: 
+Turn ID=10| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=11| A | A : ja oké dat zijn zeven
+	Free: Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=zijn
+Turn ID=12| A | A : dit zijn die met de omgekeerde pion
+	Free: Pattern=de omgekeerde pion, Pattern=dit zijn die
+	Constrained: Pattern=de, Pattern=omgekeerde pion, Pattern=zijn, Pattern=dit zijn, Pattern=pion
+Turn ID=13| B | B : ja dat zijn C bij mij
+	Free: Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=zijn
+Turn ID=14| B | B : dit zijn de omgekeerde pion
+	Free: Pattern=de omgekeerde pion, Pattern=dit zijn
+	Constrained: Pattern=omgekeerde pion, Pattern=pion, Pattern=de, Pattern=zijn
+Turn ID=15| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=16| A | A : dat zijn één
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn
+Turn ID=17| A | A : dit zijn die met de omgekeerde pion
+	Free: Pattern=de omgekeerde pion, Pattern=dit zijn die
+	Constrained: Pattern=de, Pattern=omgekeerde pion, Pattern=zijn, Pattern=dit zijn, Pattern=pion
+Turn ID=18| A | A : en
+	Free: 
+	Constrained: 
+Turn ID=19| B | B : dat zijn A
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn
+Turn ID=20| B | B : dit zijn de pion
+	Free: Pattern=dit zijn, Pattern=pion, Pattern=de
+	Constrained: Pattern=zijn
+Turn ID=21| A | A : dat zijn dertien
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn

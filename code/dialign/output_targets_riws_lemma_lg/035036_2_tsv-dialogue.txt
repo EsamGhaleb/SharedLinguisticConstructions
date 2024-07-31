@@ -1,0 +1,87 @@
+A|0| A: oké deze hebben _een_ piramidehoed bovenop 
+B|1| B: _ja_ _ja_ echt zo'n puntig 
+A|2| A: _en_ dan nog _een_ heel groot massief stuk _aan de_ Rechtervoorkant 
+B|3| B: _ja_ [en] [een] soort [een] rond onderaan 
+A|4| A: _die_ 
+A|5| A: [ja] 
+B|6| B: _dat zijn_ J bij mij 
+B|7| B: _dit zijn die met_ _dat_ puntmuts _en dat_ raar _blok_ [aan de] rechterkant _en dat_ rond onder 
+A|8| A: [ja] 
+A|9| A: even kijken hoor 
+A|10| A: [ja] vinden 
+A|11| A: zes 
+A|12| A: [dit zijn die met] het piramidehoed [en dat] groot [blok] 
+B|13| B: _ja dat zijn_ E 
+B|14| B: [dit zijn die met] [die] _piramide_ 
+A|15| A: [ja dat zijn] tien 
+A|16| A: [dit zijn die met] _de piramide_ 
+A|17| A: hoed 
+B|18| B: [dat zijn] G 
+B|19| B: [dit zijn] [de piramide] 
+A|20| A: [dat zijn] tien 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : oké deze hebben een piramidehoed bovenop
+	Free: Pattern=een
+	Constrained: 
+Turn ID=1| B | B : ja ja echt zo'n puntig
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=2| A | A : en dan nog een heel groot massief stuk aan de Rechtervoorkant
+	Free: Pattern=aan de, Pattern=een, Pattern=en
+	Constrained: 
+Turn ID=3| B | B : ja en een soort een rond onderaan
+	Free: Pattern=een, Pattern=en, Pattern=ja
+	Constrained: 
+Turn ID=4| A | A : die
+	Free: Pattern=die
+	Constrained: 
+Turn ID=5| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=6| B | B : dat zijn J bij mij
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat
+Turn ID=7| B | B : dit zijn die met dat puntmuts en dat raar blok aan de rechterkant en dat rond onder
+	Free: Pattern=dat, Pattern=aan de, Pattern=dit zijn die met, Pattern=blok, Pattern=en dat
+	Constrained: Pattern=dit zijn, Pattern=dat, Pattern=die, Pattern=en
+Turn ID=8| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=9| A | A : even kijken hoor
+	Free: 
+	Constrained: 
+Turn ID=10| A | A : ja vinden
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=11| A | A : zes
+	Free: 
+	Constrained: 
+Turn ID=12| A | A : dit zijn die met het piramidehoed en dat groot blok
+	Free: Pattern=dit zijn die met, Pattern=en dat, Pattern=blok
+	Constrained: Pattern=dit zijn, Pattern=dat, Pattern=die, Pattern=en
+Turn ID=13| B | B : ja dat zijn E
+	Free: Pattern=ja dat zijn
+	Constrained: Pattern=dat zijn, Pattern=dat, Pattern=ja
+Turn ID=14| B | B : dit zijn die met die piramide
+	Free: Pattern=dit zijn die met, Pattern=piramide, Pattern=die
+	Constrained: Pattern=dit zijn, Pattern=die
+Turn ID=15| A | A : ja dat zijn tien
+	Free: Pattern=ja dat zijn
+	Constrained: Pattern=dat zijn, Pattern=dat, Pattern=ja
+Turn ID=16| A | A : dit zijn die met de piramide
+	Free: Pattern=dit zijn die met, Pattern=de piramide
+	Constrained: Pattern=dit zijn, Pattern=piramide, Pattern=die
+Turn ID=17| A | A : hoed
+	Free: 
+	Constrained: 
+Turn ID=18| B | B : dat zijn G
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat
+Turn ID=19| B | B : dit zijn de piramide
+	Free: Pattern=dit zijn, Pattern=de piramide
+	Constrained: Pattern=piramide
+Turn ID=20| A | A : dat zijn tien
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat

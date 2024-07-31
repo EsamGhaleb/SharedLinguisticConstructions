@@ -1,0 +1,79 @@
+B|0| B: _er_ zitten zeggen maar weer _een_ balonnetje _in_ _soort_ _van_ balonne _met_ _een_ 
+B|1| B: pilaar _er_ langs boven _en_ _aan de voorkant_ zitten _een_ bol _en_ link zitten nog _een soort_ _van_ gootje 
+A|2| A: _zo'n_ _driehoek_ 
+B|3| B: _ja_ _soort_ _van_ _ja_ [driehoek] inderdaad 
+A|4| A: veertien 
+A|5| A: deze hebben [een] groot [ja] groot rond [aan de voorkant] _en dan_ dus _dat driehoek_ [aan de] zijkant als [een soort] gleuf 
+A|6| A: vierkant _blok_ op _de bovenkant_ [en] _dat_ gek _ballonne er_ [in] 
+B|7| B: [de voorkant] [zo'n] _bolle_ zegmaar die echt [dan] [ja] ok [dat] zijn N 
+A|8| A: [ja] 
+A|9| A: nee 
+B|10| B: zegmaar _met_ _dat bolle_ vooraan links [dat] [soort] _van_ gootje [dat driehoek] [en dan] links [ballonne] eruit _en een_ [blok] eruit boven 
+A|11| A: [ja] 
+A|12| A: negen 
+A|13| A: [dat bolle] [aan de voorkant] [en dan] _gleufje_ [van] [een] [driehoek] [aan de] zijkant [en een] vierkantje _aan de bovenkant_ 
+B|14| B: G 
+B|15| B: die _met_ [dat bolle] vooraan [gleufje] link [ballonne er] uit [en] [blok] [er] uit [aan de bovenkant] 
+A|16| A: vijf 
+A|17| A: [met] het [bolle] [aan de voorkant] driehoekig [gleufje] [aan de] zijkant 
+B|18| B: J 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : er zitten zeggen maar weer een balonnetje in soort van balonne met een
+	Free: Pattern=soort, Pattern=een, Pattern=in, Pattern=met, Pattern=er, Pattern=van
+	Constrained: 
+Turn ID=1| B | B : pilaar er langs boven en aan de voorkant zitten een bol en link zitten nog een soort van gootje
+	Free: Pattern=een, Pattern=er, Pattern=een soort, Pattern=aan de voorkant, Pattern=van, Pattern=en
+	Constrained: Pattern=een, Pattern=de voorkant, Pattern=soort, Pattern=aan de
+Turn ID=2| A | A : zo'n driehoek
+	Free: Pattern=driehoek, Pattern=zo'n
+	Constrained: 
+Turn ID=3| B | B : ja soort van ja driehoek inderdaad
+	Free: Pattern=ja, Pattern=soort, Pattern=driehoek, Pattern=van
+	Constrained: 
+Turn ID=4| A | A : veertien
+	Free: 
+	Constrained: 
+Turn ID=5| A | A : deze hebben een groot ja groot rond aan de voorkant en dan dus dat driehoek aan de zijkant als een soort gleuf
+	Free: Pattern=ja, Pattern=en dan, Pattern=aan de, Pattern=dat driehoek, Pattern=een, Pattern=een soort, Pattern=aan de voorkant
+	Constrained: Pattern=driehoek, Pattern=dat, Pattern=soort, Pattern=aan de, Pattern=dan, Pattern=een, Pattern=de voorkant, Pattern=en
+Turn ID=6| A | A : vierkant blok op de bovenkant en dat gek ballonne er in
+	Free: Pattern=dat, Pattern=de bovenkant, Pattern=in, Pattern=en, Pattern=blok, Pattern=ballonne er
+	Constrained: Pattern=ballonne, Pattern=er
+Turn ID=7| B | B : de voorkant zo'n bolle zegmaar die echt dan ja ok dat zijn N
+	Free: Pattern=dat, Pattern=zo'n, Pattern=ja, Pattern=dan, Pattern=bolle, Pattern=de voorkant
+	Constrained: 
+Turn ID=8| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=9| A | A : nee
+	Free: 
+	Constrained: 
+Turn ID=10| B | B : zegmaar met dat bolle vooraan links dat soort van gootje dat driehoek en dan links ballonne eruit en een blok eruit boven
+	Free: Pattern=dat, Pattern=soort, Pattern=en dan, Pattern=dat driehoek, Pattern=dat bolle, Pattern=met, Pattern=ballonne, Pattern=van, Pattern=blok, Pattern=en een
+	Constrained: Pattern=driehoek, Pattern=dat, Pattern=dan, Pattern=een, Pattern=bolle, Pattern=en
+Turn ID=11| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=12| A | A : negen
+	Free: 
+	Constrained: 
+Turn ID=13| A | A : dat bolle aan de voorkant en dan gleufje van een driehoek aan de zijkant en een vierkantje aan de bovenkant
+	Free: Pattern=driehoek, Pattern=en dan, Pattern=aan de, Pattern=een, Pattern=dat bolle, Pattern=en een, Pattern=aan de voorkant, Pattern=gleufje, Pattern=van, Pattern=aan de bovenkant
+	Constrained: Pattern=dat, Pattern=aan de, Pattern=dan, Pattern=de bovenkant, Pattern=een, Pattern=bolle, Pattern=de voorkant, Pattern=en
+Turn ID=14| B | B : G
+	Free: 
+	Constrained: 
+Turn ID=15| B | B : die met dat bolle vooraan gleufje link ballonne er uit en blok er uit aan de bovenkant
+	Free: Pattern=dat bolle, Pattern=met, Pattern=er, Pattern=blok, Pattern=gleufje, Pattern=ballonne er, Pattern=aan de bovenkant, Pattern=en
+	Constrained: Pattern=dat, Pattern=aan de, Pattern=de bovenkant, Pattern=bolle, Pattern=ballonne, Pattern=er
+Turn ID=16| A | A : vijf
+	Free: 
+	Constrained: 
+Turn ID=17| A | A : met het bolle aan de voorkant driehoekig gleufje aan de zijkant
+	Free: Pattern=aan de, Pattern=aan de voorkant, Pattern=gleufje, Pattern=bolle, Pattern=met
+	Constrained: Pattern=aan de, Pattern=de voorkant
+Turn ID=18| B | B : J
+	Free: 
+	Constrained: 

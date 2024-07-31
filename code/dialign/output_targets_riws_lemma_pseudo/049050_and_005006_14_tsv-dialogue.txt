@@ -1,0 +1,107 @@
+B|0| B: _ja_ 
+B|1| B: _ja_ _en_ hij hebben _een_ soort van _twee_ armp _aan de zijkant_ _dan_ _zijn_ _het_ d 
+B|2| B: ik moeten klikken toch _ja_ 
+A|3| A: oké [het] [zijn] [een] [ja] kopje [en] daarvoor zitten zo'n zo'n verticaal _vierkant_ staaf [en] [dan] _bovenop_ [een] balle 
+A|4| A: [en] [dan] links [en] rechts beide [een] [een] [een] rond staafje _met_ [een] knikje erin 
+B|5| B: hij hebben zegmaar [een] bolle [bovenop] [en] _twee_ van _die_ armp [en] [een] [vierkant] pilaar _aan de voorkant_ 
+A|6| A: [ja] 
+A|7| A: [ja] 
+A|8| A: [ja] _met die_ verticaal buis 
+A|9| A: [ja] 
+A|10| A: dat [zijn] vijftien 
+B|11| B: pilaar 
+B|12| B: L 
+B|13| B: zegmaar bolle [bovenop] _twee_ armp [en] pilaar _aan de voorkant_ 
+B|14| B: J 
+A|15| A: dit [zijn] [die] _met die_ verticaal balk voorop 
+A|16| A: Bovenin dat ballet 
+A|17| A: [en] [aan] beide [zijkant] zo'n buigen rond staafje 
+B|18| B: [met die] armp bolle [bovenop] [en] pilaar _aan de voorkant_ 
+A|19| A: [ja] [die] verticaal balk 
+A|20| A: dat [zijn] zes 
+A|21| A: dit [zijn] [die] [met] [de] verticaal staaf [aan de voorkant] [en] [het] bollet 
+A|22| A: [en] [die] [twee] haak [aan de zijkant] 
+A|23| A: [ja] 
+A|24| A: [ja] [die] verticaal staaf 
+A|25| A: dat [zijn] drie 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=1| B | B : ja en hij hebben een soort van twee armp aan de zijkant dan zijn het d
+	Free: Pattern=twee, Pattern=ja, Pattern=dan, Pattern=het, Pattern=en, Pattern=zijn, Pattern=een, Pattern=aan de zijkant
+	Constrained: Pattern=aan, Pattern=zijkant, Pattern=de
+Turn ID=2| B | B : ik moeten klikken toch ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=3| A | A : oké het zijn een ja kopje en daarvoor zitten zo'n zo'n verticaal vierkant staaf en dan bovenop een balle
+	Free: Pattern=bovenop, Pattern=ja, Pattern=dan, Pattern=een, Pattern=het, Pattern=en, Pattern=zijn, Pattern=vierkant
+	Constrained: 
+Turn ID=4| A | A : en dan links en rechts beide een een een rond staafje met een knikje erin
+	Free: Pattern=een, Pattern=met, Pattern=dan, Pattern=en
+	Constrained: 
+Turn ID=5| B | B : hij hebben zegmaar een bolle bovenop en twee van die armp en een vierkant pilaar aan de voorkant
+	Free: Pattern=bovenop, Pattern=twee, Pattern=een, Pattern=die, Pattern=en, Pattern=vierkant, Pattern=aan de voorkant
+	Constrained: Pattern=aan, Pattern=de
+Turn ID=6| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=7| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=8| A | A : ja met die verticaal buis
+	Free: Pattern=met die, Pattern=ja
+	Constrained: Pattern=met, Pattern=die
+Turn ID=9| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=10| A | A : dat zijn vijftien
+	Free: Pattern=zijn
+	Constrained: 
+Turn ID=11| B | B : pilaar
+	Free: 
+	Constrained: 
+Turn ID=12| B | B : L
+	Free: 
+	Constrained: 
+Turn ID=13| B | B : zegmaar bolle bovenop twee armp en pilaar aan de voorkant
+	Free: Pattern=aan de voorkant, Pattern=en, Pattern=bovenop, Pattern=twee
+	Constrained: Pattern=aan, Pattern=de
+Turn ID=14| B | B : J
+	Free: 
+	Constrained: 
+Turn ID=15| A | A : dit zijn die met die verticaal balk voorop
+	Free: Pattern=met die, Pattern=zijn, Pattern=die
+	Constrained: Pattern=met, Pattern=die
+Turn ID=16| A | A : Bovenin dat ballet
+	Free: 
+	Constrained: 
+Turn ID=17| A | A : en aan beide zijkant zo'n buigen rond staafje
+	Free: Pattern=aan, Pattern=en, Pattern=zijkant
+	Constrained: 
+Turn ID=18| B | B : met die armp bolle bovenop en pilaar aan de voorkant
+	Free: Pattern=aan de voorkant, Pattern=met die, Pattern=en, Pattern=bovenop
+	Constrained: Pattern=aan, Pattern=de, Pattern=die, Pattern=met
+Turn ID=19| A | A : ja die verticaal balk
+	Free: Pattern=die, Pattern=ja
+	Constrained: 
+Turn ID=20| A | A : dat zijn zes
+	Free: Pattern=zijn
+	Constrained: 
+Turn ID=21| A | A : dit zijn die met de verticaal staaf aan de voorkant en het bollet
+	Free: Pattern=de, Pattern=het, Pattern=met, Pattern=die, Pattern=en, Pattern=zijn, Pattern=aan de voorkant
+	Constrained: Pattern=aan, Pattern=de
+Turn ID=22| A | A : en die twee haak aan de zijkant
+	Free: Pattern=aan de zijkant, Pattern=en, Pattern=die, Pattern=twee
+	Constrained: Pattern=aan, Pattern=zijkant, Pattern=de
+Turn ID=23| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=24| A | A : ja die verticaal staaf
+	Free: Pattern=die, Pattern=ja
+	Constrained: 
+Turn ID=25| A | A : dat zijn drie
+	Free: Pattern=zijn
+	Constrained: 

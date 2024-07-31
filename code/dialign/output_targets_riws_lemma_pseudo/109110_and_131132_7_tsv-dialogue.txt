@@ -1,0 +1,111 @@
+A|0| A: _die_ _dan_ _weten_ _ik_ _het_ al meteen _en_ daar _staan_ _ook_ _een_ 
+A|1| A: jajaja inderdaad nou zestien 
+B|2| B: oké _ja_ dit zijn [die] we net denken _dat_ _dat_ _je_ [die] hebben _dat_ zijn _met_ _dat_ _ja_ wat [ik] vinden zijn [een] picknicktafel 
+B|3| B: dus [ook] _met_ _dat_ vlakje maar [dan] aan de bovenste helft van [het] kop zeggen maar 
+B|4| B: doorheen _met die_ _twee_ schuin poo [en] [dan] _dat_ trechterdinge erbovenop 
+B|5| B: [ik] vinden [een] beetje de poot van [een] picknicktafel omdat ze zo schuin [staan] 
+B|6| B: [weten] _je_ welk [ik] bedoelen 
+B|7| B: _ja_ 
+B|8| B: _ja ja_ 
+B|9| B: _ja_ 
+A|10| A: [die] tafel [met] [twee] poet 
+A|11| A: [ja] 
+B|12| B: oké 
+B|13| B: _dat_ zijn bij mij P van Picknick 
+A|14| A: als [je] goed kijken in mijn bril _kunnen_ [je] misschien 
+A|15| A: [ja] [dat] [weten] [ik] al 
+A|16| A: o 
+A|17| A: o veertien 
+B|18| B: oké dit zijn _met die_ picknicktafel 
+A|19| A: [ja] [met die] tafel [en] [met] [twee] po [en] [die] Blok er op [dat] blok 
+B|20| B: oké [dat] zijn bij mij N van Nico 
+A|21| A: [ja [ja] ja] tien 
+B|22| B: nu [met die] picknicktafel maar nu zijn ze allemaal weer veranderen 
+A|23| A: tafel [met] [twee] poet 
+B|24| B: [ja] 
+B|25| B: hij moeten [kunnen] niet weg zijn 
+B|26| B: [ja] bij mij [staan] [die] rechtsboven zeggen maar [dat] zijn D 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : die dan weten ik het al meteen en daar staan ook een
+	Free: Pattern=ook, Pattern=dan, Pattern=weten, Pattern=het, Pattern=die, Pattern=ik, Pattern=en, Pattern=een, Pattern=staan
+	Constrained: 
+Turn ID=1| A | A : jajaja inderdaad nou zestien
+	Free: 
+	Constrained: 
+Turn ID=2| B | B : oké ja dit zijn die we net denken dat dat je die hebben dat zijn met dat ja wat ik vinden zijn een picknicktafel
+	Free: Pattern=dat, Pattern=ja, Pattern=een, Pattern=met, Pattern=die, Pattern=ik, Pattern=je
+	Constrained: 
+Turn ID=3| B | B : dus ook met dat vlakje maar dan aan de bovenste helft van het kop zeggen maar
+	Free: Pattern=dat, Pattern=ook, Pattern=dan, Pattern=het, Pattern=met
+	Constrained: 
+Turn ID=4| B | B : doorheen met die twee schuin poo en dan dat trechterdinge erbovenop
+	Free: Pattern=twee, Pattern=dan, Pattern=en, Pattern=dat, Pattern=met die
+	Constrained: Pattern=die, Pattern=met
+Turn ID=5| B | B : ik vinden een beetje de poot van een picknicktafel omdat ze zo schuin staan
+	Free: Pattern=een, Pattern=staan, Pattern=ik
+	Constrained: 
+Turn ID=6| B | B : weten je welk ik bedoelen
+	Free: Pattern=je, Pattern=ik, Pattern=weten
+	Constrained: 
+Turn ID=7| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=8| B | B : ja ja
+	Free: Pattern=ja ja
+	Constrained: Pattern=ja
+Turn ID=9| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=10| A | A : die tafel met twee poet
+	Free: Pattern=die, Pattern=met, Pattern=twee
+	Constrained: 
+Turn ID=11| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=12| B | B : oké
+	Free: 
+	Constrained: 
+Turn ID=13| B | B : dat zijn bij mij P van Picknick
+	Free: Pattern=dat
+	Constrained: 
+Turn ID=14| A | A : als je goed kijken in mijn bril kunnen je misschien
+	Free: Pattern=je, Pattern=kunnen
+	Constrained: 
+Turn ID=15| A | A : ja dat weten ik al
+	Free: Pattern=dat, Pattern=ja, Pattern=ik, Pattern=weten
+	Constrained: 
+Turn ID=16| A | A : o
+	Free: 
+	Constrained: 
+Turn ID=17| A | A : o veertien
+	Free: 
+	Constrained: 
+Turn ID=18| B | B : oké dit zijn met die picknicktafel
+	Free: Pattern=met die
+	Constrained: Pattern=die, Pattern=met
+Turn ID=19| A | A : ja met die tafel en met twee po en die Blok er op dat blok
+	Free: Pattern=twee, Pattern=ja, Pattern=met, Pattern=die, Pattern=en, Pattern=dat, Pattern=met die
+	Constrained: Pattern=die, Pattern=met
+Turn ID=20| B | B : oké dat zijn bij mij N van Nico
+	Free: Pattern=dat
+	Constrained: 
+Turn ID=21| A | A : ja ja ja tien
+	Free: Pattern=ja ja
+	Constrained: Pattern=ja
+Turn ID=22| B | B : nu met die picknicktafel maar nu zijn ze allemaal weer veranderen
+	Free: Pattern=met die
+	Constrained: Pattern=die, Pattern=met
+Turn ID=23| A | A : tafel met twee poet
+	Free: Pattern=met, Pattern=twee
+	Constrained: 
+Turn ID=24| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=25| B | B : hij moeten kunnen niet weg zijn
+	Free: Pattern=kunnen
+	Constrained: 
+Turn ID=26| B | B : ja bij mij staan die rechtsboven zeggen maar dat zijn D
+	Free: Pattern=die, Pattern=staan, Pattern=dat, Pattern=ja
+	Constrained: 

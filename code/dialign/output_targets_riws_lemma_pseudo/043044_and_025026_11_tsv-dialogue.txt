@@ -1,0 +1,103 @@
+B|0| B: ok deze _hebben_ een _soort van_ groot rond _neus_ een beetje aan _de_ rechterkant aan _de_ linkerkant _zitten_ een _soort van_ 
+B|1| B: driehoek balk _er_ boven _in_ opzitten twee uitsteeksel één _zijn_ een beetje kegelachtig _en de_ ander _zijn_ een _ja_ rechthoek 
+A|2| A: [ja] 
+A|3| A: [zijn] _dat_ _die_ vulpen zeggen maar _die_ ik zo [hebben] noemen 
+A|4| A: [ja] 
+A|5| A: ik [hebben] ze allemaal [van] _dat_ [soort] gek naam geven 
+A|6| A: _dan_ [zijn] het veertien 
+B|7| B: _ja dat zijn_ N 
+A|8| A: oké _dit zijn_ degeen _die_ ik altijd noemen _met die neus en_ _die_ vulpen erin 
+A|9| A: [ja] 
+A|10| A: [en] _die_ staaf 
+B|11| B: [dit zijn] [met die neus en] [dan] [die] twee ding bovenop 
+B|12| B: [neus] _zitten_ een beetje aan _de_ rechterkant 
+B|13| B: [ja] link [ja] 
+A|14| A: [ja] 
+A|15| A: negen 
+B|16| B: _ja dat zijn_ G 
+B|17| B: [ja] [dit zijn] [met die neus en] twee [van] [die] ding bovenin [en] links [dat] driehoekje 
+B|18| B: _ja dat zijn_ J 
+A|19| A: [dit zijn] weer [met] [de] [neus [en] de] vulpen 
+A|20| A: niet erdoorheen steken nee [dit zijn] zeggen maar [van] zo'n zo'n zeggen maar vulpen [zitten] [er] [dan] [in] zeggen maar 
+A|21| A: [ja] precies 
+A|22| A: even kijken 
+A|23| A: [ja dat zijn] vijf 
+A|24| A: [dit zijn] [die] [met] [de] [neus [en] de] vulpen [in] het [soort van] het bak 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : ok deze hebben een soort van groot rond neus een beetje aan de rechterkant aan de linkerkant zitten een soort van
+	Free: Pattern=de, Pattern=hebben, Pattern=neus, Pattern=zitten, Pattern=soort van
+	Constrained: Pattern=soort, Pattern=van
+Turn ID=1| B | B : driehoek balk er boven in opzitten twee uitsteeksel één zijn een beetje kegelachtig en de ander zijn een ja rechthoek
+	Free: Pattern=ja, Pattern=en de, Pattern=in, Pattern=er, Pattern=zijn
+	Constrained: Pattern=de, Pattern=en
+Turn ID=2| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=3| A | A : zijn dat die vulpen zeggen maar die ik zo hebben noemen
+	Free: Pattern=die, Pattern=dat, Pattern=hebben, Pattern=zijn
+	Constrained: 
+Turn ID=4| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=5| A | A : ik hebben ze allemaal van dat soort gek naam geven
+	Free: Pattern=soort, Pattern=dat, Pattern=hebben, Pattern=van
+	Constrained: 
+Turn ID=6| A | A : dan zijn het veertien
+	Free: Pattern=dan, Pattern=zijn
+	Constrained: 
+Turn ID=7| B | B : ja dat zijn N
+	Free: Pattern=ja dat zijn
+	Constrained: Pattern=dat, Pattern=ja, Pattern=zijn
+Turn ID=8| A | A : oké dit zijn degeen die ik altijd noemen met die neus en die vulpen erin
+	Free: Pattern=met die neus en, Pattern=dit zijn, Pattern=die
+	Constrained: Pattern=neus, Pattern=die, Pattern=en, Pattern=zijn, Pattern=neus en, Pattern=met
+Turn ID=9| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=10| A | A : en die staaf
+	Free: Pattern=die, Pattern=en
+	Constrained: 
+Turn ID=11| B | B : dit zijn met die neus en dan die twee ding bovenop
+	Free: Pattern=met die neus en, Pattern=dit zijn, Pattern=die, Pattern=dan
+	Constrained: Pattern=neus, Pattern=die, Pattern=en, Pattern=zijn, Pattern=neus en, Pattern=met
+Turn ID=12| B | B : neus zitten een beetje aan de rechterkant
+	Free: Pattern=neus, Pattern=de, Pattern=zitten
+	Constrained: 
+Turn ID=13| B | B : ja link ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=14| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=15| A | A : negen
+	Free: 
+	Constrained: 
+Turn ID=16| B | B : ja dat zijn G
+	Free: Pattern=ja dat zijn
+	Constrained: Pattern=dat, Pattern=ja, Pattern=zijn
+Turn ID=17| B | B : ja dit zijn met die neus en twee van die ding bovenin en links dat driehoekje
+	Free: Pattern=dat, Pattern=ja, Pattern=die, Pattern=dit zijn, Pattern=van, Pattern=en, Pattern=met die neus en
+	Constrained: Pattern=neus, Pattern=die, Pattern=en, Pattern=zijn, Pattern=neus en, Pattern=met
+Turn ID=18| B | B : ja dat zijn J
+	Free: Pattern=ja dat zijn
+	Constrained: Pattern=dat, Pattern=ja, Pattern=zijn
+Turn ID=19| A | A : dit zijn weer met de neus en de vulpen
+	Free: Pattern=de, Pattern=en de, Pattern=dit zijn, Pattern=neus en, Pattern=met
+	Constrained: Pattern=neus, Pattern=de, Pattern=en, Pattern=zijn
+Turn ID=20| A | A : niet erdoorheen steken nee dit zijn zeggen maar van zo'n zo'n zeggen maar vulpen zitten er dan in zeggen maar
+	Free: Pattern=dan, Pattern=in, Pattern=zitten, Pattern=er, Pattern=van, Pattern=dit zijn
+	Constrained: Pattern=zijn
+Turn ID=21| A | A : ja precies
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=22| A | A : even kijken
+	Free: 
+	Constrained: 
+Turn ID=23| A | A : ja dat zijn vijf
+	Free: Pattern=ja dat zijn
+	Constrained: Pattern=dat, Pattern=ja, Pattern=zijn
+Turn ID=24| A | A : dit zijn die met de neus en de vulpen in het soort van het bak
+	Free: Pattern=de, Pattern=en de, Pattern=in, Pattern=die, Pattern=soort van, Pattern=dit zijn, Pattern=neus en, Pattern=met
+	Constrained: Pattern=soort, Pattern=de, Pattern=neus, Pattern=zijn, Pattern=van, Pattern=en

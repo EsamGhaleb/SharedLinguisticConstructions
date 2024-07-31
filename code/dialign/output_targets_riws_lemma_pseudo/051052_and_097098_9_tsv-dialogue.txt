@@ -1,0 +1,199 @@
+A|0| A: sorry _wat_ bedoelen _je_ ? _een_ vlak 
+A|1| A: _ja_ 
+A|2| A: _ja_ 
+A|3| A: zo'n handva 
+A|4| A: _ja_ 
+A|5| A: _ja_ 
+A|6| A: zo'n ovaal 
+A|7| A: _en dan _hebben die een_ soort_ kegeltje zo'n bol kegeltje _die_ erin _staan_ 
+A|8| A: oké 
+A|9| A: _dan_ _zijn_ _dat_ nummer dertien 
+B|10| B: _ik_ [hebben] _het_ rood vierkant 
+B|11| B: _bij_ _mij_ [hebben die een soort] traanvormig afronden uitsteeksel _op_ _het_ bovenste gedeelte 
+B|12| B: _daarachter_ [zijn] [een] cirkel [die] half verscholen [zijn] 
+B|13| B: lijken _op [een_ soort] _voe_ te [staan] 
+B|14| B: [en dan hebben die een] cilindervormig uitsteeksel 
+B|15| B: [ja] 
+B|16| B: [ja] 
+B|17| B: _dat zijn_ _bij_ _mij_ denken _ik_ O hij [hebben] [een] [een] [een] _rond erachter_ toch 
+B|18| B: [ja] O 
+A|19| A: [ja] [dan] komen we weer [bij] jou beker _met_ [dat] [rond erachter] 
+A|20| A: [het] kegel [dat] erin steken 
+A|21| A: _cilinder_ [en] [het] ovale aan _de_ onderkant 
+A|22| A: _ja en_ [dat] 
+A|23| A: [en dan] [dat] handva 
+A|24| A: _ja dat zijn_ nummer acht 
+B|25| B: _ik_ [hebben] [het] [de] basisvorm _daarachter_ zitten [een soort] cirkel 
+B|26| B: _op een_ _voe_ 
+B|27| B: [met] [een] [cilinder] of hoekigvormig [cilinder] uitstekend [en dan] [een soort] van nog _dat dat_ [ja dat] _lepel_ [wat] [je] 
+B|28| B: dus [de] hij [staan] _op een_ _voe_ 
+B|29| B: [en] 
+B|30| B: [ja [en] dan] 
+B|31| B: [ja] 
+A|32| A: [ja] [het] kop [met] [die] [op] [dat] ovaal ding [staan] [het] [rond] [daarachter] [het] kegel erin [en] [het] 
+A|33| A: [ja] 
+B|34| B: [ja] C 
+A|35| A: [ik] [zijn] hem aan [het] [lepel] erin [rond _erachter] en_ [dat] dinge 
+A|36| A: yes [dat zijn] nummer zeven 
+B|37| B: [ik] [hebben] degeen _op een_ _voe_ 
+B|38| B: cirkelvorm [erachter [en] dan] [een soort] gek [cilinder] 
+B|39| B: [ja] 
+A|40| A: [ja] maar maar [die] [zijn] toen [bij] volgens [mij] [zijn] [het] [het] systeempje wel [dat [dat] [dat] dat] [dan] even blij [en] als [je] [dan hebben] zeggen welk waterpomp ? [dan] 
+A|41| A: [het] kop [met] [het] roerstaafje [het] [rond] aan [de] achterkant [het] ovaal [voe] 
+A|42| A: [en] [het] [cilinder] aan [de] linkerkant 
+B|43| B: [ja dat zijn] C 
+A|44| A: oké 
+A|45| A: nou [op een] geven moment [hebben] we wel echt zo'n flow zeggen maar [ja] 
+A|46| A: [ja] [ja] 
+A|47| A: [ja] 
+B|48| B: vol 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : sorry wat bedoelen je ? een vlak
+	Free: Pattern=je, Pattern=wat, Pattern=een
+	Constrained: 
+Turn ID=1| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=2| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=3| A | A : zo'n handva
+	Free: 
+	Constrained: 
+Turn ID=4| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=5| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=6| A | A : zo'n ovaal
+	Free: 
+	Constrained: 
+Turn ID=7| A | A : en dan hebben die een soort kegeltje zo'n bol kegeltje die erin staan
+	Free: Pattern=en dan hebben die een, Pattern=hebben die een soort, Pattern=staan, Pattern=die
+	Constrained: Pattern=en dan, Pattern=dan, Pattern=een, Pattern=hebben, Pattern=dan hebben, Pattern=die, Pattern=een soort, Pattern=en
+Turn ID=8| A | A : oké
+	Free: 
+	Constrained: 
+Turn ID=9| A | A : dan zijn dat nummer dertien
+	Free: Pattern=dan, Pattern=zijn, Pattern=dat
+	Constrained: 
+Turn ID=10| B | B : ik hebben het rood vierkant
+	Free: Pattern=hebben, Pattern=het, Pattern=ik
+	Constrained: 
+Turn ID=11| B | B : bij mij hebben die een soort traanvormig afronden uitsteeksel op het bovenste gedeelte
+	Free: Pattern=op, Pattern=het, Pattern=hebben die een soort, Pattern=bij, Pattern=mij
+	Constrained: Pattern=een soort, Pattern=een, Pattern=die, Pattern=hebben
+Turn ID=12| B | B : daarachter zijn een cirkel die half verscholen zijn
+	Free: Pattern=zijn, Pattern=die, Pattern=een, Pattern=daarachter
+	Constrained: 
+Turn ID=13| B | B : lijken op een soort voe te staan
+	Free: Pattern=een soort, Pattern=op een, Pattern=staan, Pattern=voe
+	Constrained: Pattern=op, Pattern=een
+Turn ID=14| B | B : en dan hebben die een cilindervormig uitsteeksel
+	Free: Pattern=en dan hebben die een
+	Constrained: Pattern=en dan, Pattern=dan, Pattern=een, Pattern=hebben, Pattern=dan hebben, Pattern=die, Pattern=en
+Turn ID=15| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=16| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=17| B | B : dat zijn bij mij denken ik O hij hebben een een een rond erachter toch
+	Free: Pattern=dat zijn, Pattern=een, Pattern=hebben, Pattern=bij, Pattern=rond erachter, Pattern=mij, Pattern=ik
+	Constrained: Pattern=zijn, Pattern=rond, Pattern=dat
+Turn ID=18| B | B : ja O
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=19| A | A : ja dan komen we weer bij jou beker met dat rond erachter
+	Free: Pattern=dat, Pattern=ja, Pattern=dan, Pattern=met, Pattern=bij, Pattern=rond erachter
+	Constrained: Pattern=rond
+Turn ID=20| A | A : het kegel dat erin steken
+	Free: Pattern=het, Pattern=dat
+	Constrained: 
+Turn ID=21| A | A : cilinder en het ovale aan de onderkant
+	Free: Pattern=het, Pattern=cilinder, Pattern=de, Pattern=en
+	Constrained: 
+Turn ID=22| A | A : ja en dat
+	Free: Pattern=ja en, Pattern=dat
+	Constrained: Pattern=ja, Pattern=en
+Turn ID=23| A | A : en dan dat handva
+	Free: Pattern=en dan, Pattern=dat
+	Constrained: Pattern=dan, Pattern=en
+Turn ID=24| A | A : ja dat zijn nummer acht
+	Free: Pattern=ja dat zijn
+	Constrained: Pattern=ja, Pattern=zijn, Pattern=ja dat, Pattern=dat, Pattern=dat zijn
+Turn ID=25| B | B : ik hebben het de basisvorm daarachter zitten een soort cirkel
+	Free: Pattern=daarachter, Pattern=de, Pattern=het, Pattern=hebben, Pattern=ik, Pattern=een soort
+	Constrained: Pattern=een
+Turn ID=26| B | B : op een voe
+	Free: Pattern=op een, Pattern=voe
+	Constrained: Pattern=op, Pattern=een
+Turn ID=27| B | B : met een cilinder of hoekigvormig cilinder uitstekend en dan een soort van nog dat dat ja dat lepel wat je
+	Free: Pattern=lepel, Pattern=en dan, Pattern=een, Pattern=met, Pattern=dat dat, Pattern=wat, Pattern=een soort, Pattern=cilinder, Pattern=je, Pattern=ja dat
+	Constrained: Pattern=dat, Pattern=ja, Pattern=dan, Pattern=een, Pattern=en
+Turn ID=28| B | B : dus de hij staan op een voe
+	Free: Pattern=op een, Pattern=de, Pattern=staan, Pattern=voe
+	Constrained: Pattern=op, Pattern=een
+Turn ID=29| B | B : en
+	Free: Pattern=en
+	Constrained: 
+Turn ID=30| B | B : ja en dan
+	Free: Pattern=en dan, Pattern=ja en
+	Constrained: Pattern=dan, Pattern=ja, Pattern=en
+Turn ID=31| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=32| A | A : ja het kop met die op dat ovaal ding staan het rond daarachter het kegel erin en het
+	Free: Pattern=dat, Pattern=daarachter, Pattern=ja, Pattern=op, Pattern=staan, Pattern=het, Pattern=met, Pattern=die, Pattern=en, Pattern=rond
+	Constrained: 
+Turn ID=33| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=34| B | B : ja C
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=35| A | A : ik zijn hem aan het lepel erin rond erachter en dat dinge
+	Free: Pattern=dat, Pattern=lepel, Pattern=erachter en, Pattern=het, Pattern=ik, Pattern=rond erachter, Pattern=zijn
+	Constrained: Pattern=rond, Pattern=en
+Turn ID=36| A | A : yes dat zijn nummer zeven
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=37| B | B : ik hebben degeen op een voe
+	Free: Pattern=op een, Pattern=hebben, Pattern=voe, Pattern=ik
+	Constrained: Pattern=op, Pattern=een
+Turn ID=38| B | B : cirkelvorm erachter en dan een soort gek cilinder
+	Free: Pattern=en dan, Pattern=een soort, Pattern=erachter en, Pattern=cilinder
+	Constrained: Pattern=dan, Pattern=een, Pattern=en
+Turn ID=39| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=40| A | A : ja maar maar die zijn toen bij volgens mij zijn het het systeempje wel dat dat dat dat dan even blij en als je dan hebben zeggen welk waterpomp ? dan
+	Free: Pattern=ja, Pattern=dan, Pattern=het, Pattern=dan hebben, Pattern=bij, Pattern=mij, Pattern=en, Pattern=zijn, Pattern=je, Pattern=die, Pattern=dat dat
+	Constrained: Pattern=hebben, Pattern=dan, Pattern=dat
+Turn ID=41| A | A : het kop met het roerstaafje het rond aan de achterkant het ovaal voe
+	Free: Pattern=de, Pattern=het, Pattern=met, Pattern=rond, Pattern=voe
+	Constrained: 
+Turn ID=42| A | A : en het cilinder aan de linkerkant
+	Free: Pattern=het, Pattern=cilinder, Pattern=de, Pattern=en
+	Constrained: 
+Turn ID=43| B | B : ja dat zijn C
+	Free: Pattern=ja dat zijn
+	Constrained: Pattern=ja, Pattern=zijn, Pattern=ja dat, Pattern=dat, Pattern=dat zijn
+Turn ID=44| A | A : oké
+	Free: 
+	Constrained: 
+Turn ID=45| A | A : nou op een geven moment hebben we wel echt zo'n flow zeggen maar ja
+	Free: Pattern=op een, Pattern=hebben, Pattern=ja
+	Constrained: Pattern=op, Pattern=een
+Turn ID=46| A | A : ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=47| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=48| B | B : vol
+	Free: 
+	Constrained: 

@@ -1,0 +1,119 @@
+A|0| A: _ik hebben_ _er_ nu één _met_ zo'n _staaf _ervoor_ en_ zo'n _bolle_ erop 
+A|1| A: _en_ _twee_ _ja_ je zullen je het kunnen zien als armp eigenlijk 
+B|2| B: [ja] 
+A|3| A: _twee_ dinge _aan de zijkant_ 
+B|4| B: [ja] 
+B|5| B: _dat zijn_ 
+B|6| B: [ja] [ik] denken _dat_ [ik] wel weten welk 
+A|7| A: oké 
+B|8| B: _dat zijn_ _bij mij_ dan D 
+B|9| B: [ja] [ik hebben] nou ook weer _die_ _een_ _die_ [hebben] we al [hebben] _met die staaf_ zeggen maar 
+B|10| B: [ervoor en] dan [twee] uitsteeksel [aan de zijkant] [en] _een bolle_ [aan de] bovenkant [ja] 
+A|11| A: [een bolle] erop 
+A|12| A: oké [dat zijn] nummer vijftien 
+A|13| A: _die staaf ervoor_ _dat bolle_ erop _en die twee_ steeksel _uit_ 
+B|14| B: [ja] [dat zijn] _bij mij_ L 
+B|15| B: nou [hebben] weer [die staaf] [aan de] voorkant _en dat bolle_ bovenop [en] dan [die twee] uitstekend staf 
+A|16| A: [met die] armpjes 
+A|17| A: [ja] 
+A|18| A: [dat zijn] nummer zes [bij mij] 
+A|19| A: even kijken [ik hebben] _er_ één [met] [dat bolle] Erboven 
+A|20| A: [bij mij] [een] beetje staan [die] rechts bedoelen [ik] juist _met die staaf [ervoor_ _en] die twee_ armp 
+B|21| B: [ja] 
+B|22| B: [dat zijn] [bij mij] J 
+B|23| B: weer [die] [een] [met die staaf ervoor] zeggen maar _en dat bolle_ [aan de] bovenkant [en die twee] staf [die] [er] nog [uit] steken 
+A|24| A: even kijken 
+A|25| A: [ja] 
+A|26| A: even kijken [ja] [die staaf [ervoor] [en] die] ding [en dat bolle] 
+B|27| B: [ja] 
+A|28| A: nummer drie 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : ik hebben er nu één met zo'n staaf ervoor en zo'n bolle erop
+	Free: Pattern=ik hebben, Pattern=er, Pattern=staaf ervoor, Pattern=ervoor en, Pattern=bolle, Pattern=met
+	Constrained: Pattern=en, Pattern=ik, Pattern=hebben
+Turn ID=1| A | A : en twee ja je zullen je het kunnen zien als armp eigenlijk
+	Free: Pattern=twee, Pattern=en, Pattern=ja
+	Constrained: 
+Turn ID=2| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=3| A | A : twee dinge aan de zijkant
+	Free: Pattern=aan de zijkant, Pattern=twee
+	Constrained: Pattern=aan de
+Turn ID=4| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=5| B | B : dat zijn
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat
+Turn ID=6| B | B : ja ik denken dat ik wel weten welk
+	Free: Pattern=ik, Pattern=ja, Pattern=dat
+	Constrained: 
+Turn ID=7| A | A : oké
+	Free: 
+	Constrained: 
+Turn ID=8| B | B : dat zijn bij mij dan D
+	Free: Pattern=dat zijn, Pattern=bij mij
+	Constrained: Pattern=dat
+Turn ID=9| B | B : ja ik hebben nou ook weer die een die hebben we al hebben met die staaf zeggen maar
+	Free: Pattern=ik hebben, Pattern=ja, Pattern=met die staaf, Pattern=een, Pattern=hebben, Pattern=die
+	Constrained: Pattern=met die, Pattern=hebben, Pattern=met, Pattern=ik, Pattern=die staaf, Pattern=die
+Turn ID=10| B | B : ervoor en dan twee uitsteeksel aan de zijkant en een bolle aan de bovenkant ja
+	Free: Pattern=twee, Pattern=ja, Pattern=aan de, Pattern=aan de zijkant, Pattern=een bolle, Pattern=en, Pattern=ervoor en
+	Constrained: Pattern=bolle, Pattern=een, Pattern=en, Pattern=aan de
+Turn ID=11| A | A : een bolle erop
+	Free: Pattern=een bolle
+	Constrained: Pattern=bolle, Pattern=een
+Turn ID=12| A | A : oké dat zijn nummer vijftien
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat
+Turn ID=13| A | A : die staaf ervoor dat bolle erop en die twee steeksel uit
+	Free: Pattern=die staaf ervoor, Pattern=en die twee, Pattern=dat bolle, Pattern=uit
+	Constrained: Pattern=en die, Pattern=dat, Pattern=twee, Pattern=die twee, Pattern=bolle, Pattern=en, Pattern=staaf ervoor, Pattern=die staaf, Pattern=die
+Turn ID=14| B | B : ja dat zijn bij mij L
+	Free: Pattern=dat zijn, Pattern=bij mij, Pattern=ja
+	Constrained: Pattern=dat
+Turn ID=15| B | B : nou hebben weer die staaf aan de voorkant en dat bolle bovenop en dan die twee uitstekend staf
+	Free: Pattern=aan de, Pattern=die twee, Pattern=hebben, Pattern=die staaf, Pattern=en, Pattern=en dat bolle
+	Constrained: Pattern=dat, Pattern=twee, Pattern=dat bolle, Pattern=bolle, Pattern=die, Pattern=en
+Turn ID=16| A | A : met die armpjes
+	Free: Pattern=met die
+	Constrained: Pattern=met, Pattern=die
+Turn ID=17| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=18| A | A : dat zijn nummer zes bij mij
+	Free: Pattern=dat zijn, Pattern=bij mij
+	Constrained: Pattern=dat
+Turn ID=19| A | A : even kijken ik hebben er één met dat bolle Erboven
+	Free: Pattern=dat bolle, Pattern=ik hebben, Pattern=met, Pattern=er
+	Constrained: Pattern=bolle, Pattern=hebben, Pattern=ik, Pattern=dat
+Turn ID=20| A | A : bij mij een beetje staan die rechts bedoelen ik juist met die staaf ervoor en die twee armp
+	Free: Pattern=een, Pattern=en die twee, Pattern=die, Pattern=ik, Pattern=bij mij, Pattern=ervoor en, Pattern=met die staaf ervoor
+	Constrained: Pattern=en die, Pattern=met die, Pattern=twee, Pattern=met die staaf, Pattern=die twee, Pattern=die staaf ervoor, Pattern=met, Pattern=en, Pattern=staaf ervoor, Pattern=die staaf, Pattern=die
+Turn ID=21| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=22| B | B : dat zijn bij mij J
+	Free: Pattern=dat zijn, Pattern=bij mij
+	Constrained: Pattern=dat
+Turn ID=23| B | B : weer die een met die staaf ervoor zeggen maar en dat bolle aan de bovenkant en die twee staf die er nog uit steken
+	Free: Pattern=een, Pattern=en die twee, Pattern=die, Pattern=er, Pattern=en dat bolle, Pattern=met die staaf ervoor, Pattern=uit, Pattern=aan de
+	Constrained: Pattern=en die, Pattern=twee, Pattern=met die staaf, Pattern=dat bolle, Pattern=die twee, Pattern=die staaf ervoor, Pattern=en, Pattern=staaf ervoor, Pattern=dat, Pattern=met die, Pattern=bolle, Pattern=met, Pattern=die staaf, Pattern=die
+Turn ID=24| A | A : even kijken
+	Free: 
+	Constrained: 
+Turn ID=25| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=26| A | A : even kijken ja die staaf ervoor en die ding en dat bolle
+	Free: Pattern=en die, Pattern=ja, Pattern=die staaf ervoor, Pattern=en dat bolle, Pattern=ervoor en
+	Constrained: Pattern=dat, Pattern=dat bolle, Pattern=bolle, Pattern=en, Pattern=staaf ervoor, Pattern=die staaf, Pattern=die
+Turn ID=27| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=28| A | A : nummer drie
+	Free: 
+	Constrained: 

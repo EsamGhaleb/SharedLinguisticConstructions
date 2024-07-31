@@ -1,0 +1,147 @@
+B|0| B: _ik_ zien _een_ zoals al plaat _een_ blauw _kop_ 
+A|1| A: _ja_ 
+B|2| B: _en_ daar steken _een_ soort _lepeltje_ bovenuit _aan de_ rechterkant 
+A|3| A: _ja_ 
+B|4| B: _aan de linkerkant_ bovenin zitten _een_ 
+A|5| A: zo'n _citroen_ hebben [ik] 
+B|6| B: half rond inderdaad 
+A|7| A: _ja_ _ja_ _ja oké_ 
+B|8| B: _maar_ _er_ zitten _ook_ _aan de linkerkant_ _nog_ _een_ uitstekend _balk_ 
+A|9| A: _ja_ 
+A|10| A: _ja oké_ 
+A|11| A: bij mij _zijn_ _het_ dan dertien 
+A|12| A: _dit zijn weer_ _dat_ [kop] _met_ [ook] die citroenschijf [maar] dan _met_ [de] _lepel_ erin 
+A|13| A: [en] zo'n buisje die [er] link [nog] uit opsteken 
+B|14| B: [en] onderin [ook] [nog] 
+A|15| A: _ja_ _ja_ _ja_ 
+B|16| B: [ja oké] [dat] [zijn] O 
+B|17| B: one's [dit zijn] geloven [ik] [ook] [weer] [het] één plaat waar [ik] mee beginnen [met] [dat] [citroen] 
+A|18| A: [en] _een lepeltje_ 
+B|19| B: [er] 
+B|20| B: [ja] [een lepeltje] [en] _links_ [nog] [een] uitsteeksel [en] onderin [ook] [nog] 
+A|21| A: [ja] [ja] 
+A|22| A: acht 
+A|23| A: [de] _lepel_ [met] [een] [citroen] 
+A|24| A: [en] [nog] zo'n klein [balk] [aan de linkerkant] eruit 
+B|25| B: [ja] [dat] [zijn] C 
+B|26| B: [en] [dit zijn weer] [met] [dat] [citroen] 
+B|27| B: boven [het] [kop] 
+B|28| B: half [citroen] 
+A|29| A: [en] [de] _lepel_ 
+B|30| B: [en] [het] [lepel] [en] [aan de linkerkant] [dat] uitsteeksel [en] [aan de] onderkant 
+A|31| A: zeven 
+A|32| A: [dit zijn] [met] [de] [lepel] eruit [en] [de] citroenschijf [en] dan [nog] [links] [een] [balk] 
+B|33| B: [ja] [dat] [zijn] C 
+A|34| A: eindelijk 
+B|35| B: hallo 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : ik zien een zoals al plaat een blauw kop
+	Free: Pattern=kop, Pattern=ik, Pattern=een
+	Constrained: 
+Turn ID=1| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=2| B | B : en daar steken een soort lepeltje bovenuit aan de rechterkant
+	Free: Pattern=aan de, Pattern=en, Pattern=een, Pattern=lepeltje
+	Constrained: Pattern=de
+Turn ID=3| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=4| B | B : aan de linkerkant bovenin zitten een
+	Free: Pattern=aan de linkerkant, Pattern=een
+	Constrained: Pattern=aan de, Pattern=de
+Turn ID=5| A | A : zo'n citroen hebben ik
+	Free: Pattern=citroen, Pattern=ik
+	Constrained: 
+Turn ID=6| B | B : half rond inderdaad
+	Free: 
+	Constrained: 
+Turn ID=7| A | A : ja ja ja oké
+	Free: Pattern=ja oké, Pattern=ja
+	Constrained: Pattern=ja
+Turn ID=8| B | B : maar er zitten ook aan de linkerkant nog een uitstekend balk
+	Free: Pattern=nog, Pattern=ook, Pattern=een, Pattern=balk, Pattern=er, Pattern=maar, Pattern=aan de linkerkant
+	Constrained: Pattern=aan de, Pattern=de
+Turn ID=9| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=10| A | A : ja oké
+	Free: Pattern=ja oké
+	Constrained: Pattern=ja
+Turn ID=11| A | A : bij mij zijn het dan dertien
+	Free: Pattern=zijn, Pattern=het
+	Constrained: 
+Turn ID=12| A | A : dit zijn weer dat kop met ook die citroenschijf maar dan met de lepel erin
+	Free: Pattern=dat, Pattern=lepel, Pattern=de, Pattern=ook, Pattern=kop, Pattern=met, Pattern=maar, Pattern=dit zijn weer
+	Constrained: Pattern=dit zijn, Pattern=zijn, Pattern=weer
+Turn ID=13| A | A : en zo'n buisje die er link nog uit opsteken
+	Free: Pattern=nog, Pattern=er, Pattern=en
+	Constrained: 
+Turn ID=14| B | B : en onderin ook nog
+	Free: Pattern=nog, Pattern=en, Pattern=ook
+	Constrained: 
+Turn ID=15| A | A : ja ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=16| B | B : ja oké dat zijn O
+	Free: Pattern=ja oké, Pattern=dat, Pattern=zijn
+	Constrained: Pattern=ja
+Turn ID=17| B | B : one's dit zijn geloven ik ook weer het één plaat waar ik mee beginnen met dat citroen
+	Free: Pattern=dat, Pattern=ook, Pattern=het, Pattern=met, Pattern=citroen, Pattern=ik, Pattern=weer, Pattern=dit zijn
+	Constrained: Pattern=zijn
+Turn ID=18| A | A : en een lepeltje
+	Free: Pattern=een lepeltje, Pattern=en
+	Constrained: Pattern=een, Pattern=lepeltje
+Turn ID=19| B | B : er
+	Free: Pattern=er
+	Constrained: 
+Turn ID=20| B | B : ja een lepeltje en links nog een uitsteeksel en onderin ook nog
+	Free: Pattern=nog, Pattern=ja, Pattern=een, Pattern=links, Pattern=en, Pattern=een lepeltje, Pattern=ook
+	Constrained: Pattern=een, Pattern=lepeltje
+Turn ID=21| A | A : ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=22| A | A : acht
+	Free: 
+	Constrained: 
+Turn ID=23| A | A : de lepel met een citroen
+	Free: Pattern=lepel, Pattern=de, Pattern=een, Pattern=met, Pattern=citroen
+	Constrained: 
+Turn ID=24| A | A : en nog zo'n klein balk aan de linkerkant eruit
+	Free: Pattern=aan de linkerkant, Pattern=nog, Pattern=en, Pattern=balk
+	Constrained: Pattern=aan de, Pattern=de
+Turn ID=25| B | B : ja dat zijn C
+	Free: Pattern=dat, Pattern=ja, Pattern=zijn
+	Constrained: 
+Turn ID=26| B | B : en dit zijn weer met dat citroen
+	Free: Pattern=dat, Pattern=met, Pattern=citroen, Pattern=en, Pattern=dit zijn weer
+	Constrained: Pattern=dit zijn, Pattern=zijn, Pattern=weer
+Turn ID=27| B | B : boven het kop
+	Free: Pattern=kop, Pattern=het
+	Constrained: 
+Turn ID=28| B | B : half citroen
+	Free: Pattern=citroen
+	Constrained: 
+Turn ID=29| A | A : en de lepel
+	Free: Pattern=en, Pattern=de, Pattern=lepel
+	Constrained: 
+Turn ID=30| B | B : en het lepel en aan de linkerkant dat uitsteeksel en aan de onderkant
+	Free: Pattern=dat, Pattern=lepel, Pattern=aan de, Pattern=het, Pattern=en, Pattern=aan de linkerkant
+	Constrained: Pattern=aan de, Pattern=de
+Turn ID=31| A | A : zeven
+	Free: 
+	Constrained: 
+Turn ID=32| A | A : dit zijn met de lepel eruit en de citroenschijf en dan nog links een balk
+	Free: Pattern=lepel, Pattern=nog, Pattern=de, Pattern=een, Pattern=links, Pattern=balk, Pattern=met, Pattern=en, Pattern=dit zijn
+	Constrained: Pattern=zijn
+Turn ID=33| B | B : ja dat zijn C
+	Free: Pattern=dat, Pattern=ja, Pattern=zijn
+	Constrained: 
+Turn ID=34| A | A : eindelijk
+	Free: 
+	Constrained: 
+Turn ID=35| B | B : hallo
+	Free: 
+	Constrained: 

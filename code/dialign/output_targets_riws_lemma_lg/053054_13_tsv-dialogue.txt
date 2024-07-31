@@ -1,0 +1,131 @@
+B|0| B: _dit_ plaat _hebben_ _drie_ bollet _aan_ allebei _de_ _kant_ 
+B|1| B: _en_ _een_ _schijf aan de voorkant_ _en_ _een_ _vierkant_ _aan de onderkant_ 
+A|2| A: _ja_ 
+A|3| A: _dat_ zeggen maar _die drie_ soort van ruit zeggen maar [aan] elkaar plakken 
+B|4| B: [ja] 
+A|5| A: [ja] 
+A|6| A: _oké_ _dat zijn_ nummer vijf _bij mij_ 
+B|7| B: [oké] 
+A|8| A: _dit zijn_ _die_ [een] _met die_ twee identiek vormpjes [aan de] zijkant zeggen maar 
+A|9| A: _met_ [een] groot 
+A|10| A: blauw rechthoek of [vierkant] eronder [en] daar _link_ dan nog weer zo'n boog uit [en] op [de voorkant] zitten ook [een] cirkel plakken _met_ ook [een] boog eruit 
+B|11| B: [ja] 
+B|12| B: _met die zes dinget_ 
+A|13| A: [ja] 
+B|14| B: [oké] 
+A|15| A: [drie] [aan] beide [kant] [ja] 
+B|16| B: [ja] 
+B|17| B: [dat zijn] [bij mij] J 
+B|18| B: _dit zijn met _die_ drie dinget link en_ _rechts en_ [een] _schijf aan de voorkant_ [en] het plat _aan de onderkant_ 
+A|19| A: [ja] 
+A|20| A: [dat zijn] nummer elf 
+A|21| A: deze [hebben] [die drie dinget link _en] [die_ drie dinget] [rechts _en] die_ geplakte [schijf aan de voorkant] [met] [dat] tuu [en] [link] [dat] 
+B|22| B: [ja] 
+A|23| A: tuu [en] [aan de onderkant] [dat] [vierkant] 
+B|24| B: [ja] 
+B|25| B: [dat zijn] [bij mij] P 
+B|26| B: [met [die] drie dinget link en] [rechts] 
+A|27| A: [oké] 
+B|28| B: [en die] [schijf aan de voorkant] 
+A|29| A: [dat zijn] nummer negen 
+A|30| A: [dit zijn [met die] zes dinget] [drie] [link en] [drie] [rechts] 
+B|31| B: [dat zijn] [bij mij] L 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : dit plaat hebben drie bollet aan allebei de kant
+	Free: Pattern=kant, Pattern=drie, Pattern=hebben, Pattern=dit, Pattern=de, Pattern=aan
+	Constrained: 
+Turn ID=1| B | B : en een schijf aan de voorkant en een vierkant aan de onderkant
+	Free: Pattern=een, Pattern=aan de onderkant, Pattern=schijf aan de voorkant, Pattern=en, Pattern=vierkant
+	Constrained: Pattern=aan, Pattern=de, Pattern=de voorkant, Pattern=aan de
+Turn ID=2| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=3| A | A : dat zeggen maar die drie soort van ruit zeggen maar aan elkaar plakken
+	Free: Pattern=die drie, Pattern=aan, Pattern=dat
+	Constrained: Pattern=die, Pattern=drie
+Turn ID=4| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=5| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=6| A | A : oké dat zijn nummer vijf bij mij
+	Free: Pattern=dat zijn, Pattern=bij mij, Pattern=oké
+	Constrained: Pattern=dat
+Turn ID=7| B | B : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=8| A | A : dit zijn die een met die twee identiek vormpjes aan de zijkant zeggen maar
+	Free: Pattern=met die, Pattern=aan de, Pattern=een, Pattern=die, Pattern=dit zijn
+	Constrained: Pattern=dit, Pattern=met, Pattern=die, Pattern=de, Pattern=aan
+Turn ID=9| A | A : met een groot
+	Free: Pattern=met, Pattern=een
+	Constrained: 
+Turn ID=10| A | A : blauw rechthoek of vierkant eronder en daar link dan nog weer zo'n boog uit en op de voorkant zitten ook een cirkel plakken met ook een boog eruit
+	Free: Pattern=een, Pattern=met, Pattern=de voorkant, Pattern=link, Pattern=en, Pattern=vierkant
+	Constrained: Pattern=de
+Turn ID=11| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=12| B | B : met die zes dinget
+	Free: Pattern=met die zes dinget
+	Constrained: Pattern=met, Pattern=die, Pattern=met die
+Turn ID=13| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=14| B | B : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=15| A | A : drie aan beide kant ja
+	Free: Pattern=aan, Pattern=kant, Pattern=ja, Pattern=drie
+	Constrained: 
+Turn ID=16| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=17| B | B : dat zijn bij mij J
+	Free: Pattern=dat zijn, Pattern=bij mij
+	Constrained: Pattern=dat
+Turn ID=18| B | B : dit zijn met die drie dinget link en rechts en een schijf aan de voorkant en het plat aan de onderkant
+	Free: Pattern=rechts en, Pattern=die drie dinget link en, Pattern=een, Pattern=aan de onderkant, Pattern=schijf aan de voorkant, Pattern=en, Pattern=dit zijn met die
+	Constrained: Pattern=met die, Pattern=aan de, Pattern=die drie, Pattern=drie, Pattern=met, Pattern=link, Pattern=en, Pattern=dit zijn, Pattern=link en, Pattern=de, Pattern=rechts, Pattern=aan, Pattern=die drie dinget, Pattern=dit, Pattern=de voorkant, Pattern=die
+Turn ID=19| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=20| A | A : dat zijn nummer elf
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat
+Turn ID=21| A | A : deze hebben die drie dinget link en die drie dinget rechts en die geplakte schijf aan de voorkant met dat tuu en link dat
+	Free: Pattern=en die, Pattern=die drie dinget link en, Pattern=hebben, Pattern=met, Pattern=link, Pattern=en, Pattern=dat, Pattern=rechts en, Pattern=schijf aan de voorkant, Pattern=die drie dinget
+	Constrained: Pattern=aan de, Pattern=die drie, Pattern=drie, Pattern=die drie dinget, Pattern=link, Pattern=en, Pattern=link en, Pattern=de, Pattern=rechts, Pattern=aan, Pattern=de voorkant, Pattern=die
+Turn ID=22| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=23| A | A : tuu en aan de onderkant dat vierkant
+	Free: Pattern=aan de onderkant, Pattern=en, Pattern=vierkant, Pattern=dat
+	Constrained: Pattern=aan, Pattern=de, Pattern=aan de
+Turn ID=24| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=25| B | B : dat zijn bij mij P
+	Free: Pattern=dat zijn, Pattern=bij mij
+	Constrained: Pattern=dat
+Turn ID=26| B | B : met die drie dinget link en rechts
+	Free: Pattern=die drie dinget link en, Pattern=met die, Pattern=rechts
+	Constrained: Pattern=die drie, Pattern=drie, Pattern=die drie dinget, Pattern=met, Pattern=die, Pattern=link, Pattern=en, Pattern=link en
+Turn ID=27| A | A : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=28| B | B : en die schijf aan de voorkant
+	Free: Pattern=schijf aan de voorkant, Pattern=en die
+	Constrained: Pattern=aan de, Pattern=en, Pattern=de, Pattern=aan, Pattern=de voorkant, Pattern=die
+Turn ID=29| A | A : dat zijn nummer negen
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat
+Turn ID=30| A | A : dit zijn met die zes dinget drie link en drie rechts
+	Free: Pattern=rechts, Pattern=met die zes dinget, Pattern=drie, Pattern=dit zijn met die, Pattern=link en
+	Constrained: Pattern=met die, Pattern=dit, Pattern=met, Pattern=die, Pattern=link, Pattern=en, Pattern=dit zijn
+Turn ID=31| B | B : dat zijn bij mij L
+	Free: Pattern=dat zijn, Pattern=bij mij
+	Constrained: Pattern=dat

@@ -1,0 +1,107 @@
+B|0| B: oké begin of _het_ _zijn_ _het_ bak _en_ _het_ bak _staan op_ _een soort_ van Swirly dinge 
+B|1| B: _en dat_ Swirly dinget zitten _op_ _een_ _driehoek_ 
+A|2| A: _ja_ 
+B|3| B: _ik_ vinden _het_ _net_ _een_ robot _die_ naar boven komen _zeggen maar_ _draaien_ 
+A|4| A: [ik] [ik] denken veel [dat] [het] [een soort] [soort] _fancy cocktailglas_ [zijn] [maar] 
+A|5| A: nummer vier 
+B|6| B: oké 
+A|7| A: dit [zijn] wat [ik] [net] [zeggen] [dat] raar _cocktailglas_ wat jij [zeggen] [een soort] ander ding 
+A|8| A: je _hebben_ [zeggen maar] [dat] [dat] voetstuk [dat] [zijn] zo [draaien] [en dat] [staan op] [het] [driehoek] 
+B|9| B: [ja] 
+B|10| B: [ja] [ja] [ja] [ik] [hebben] hem 
+A|11| A: [en] dan met [die] blok erop [zeggen maar] 
+B|12| B: [ja] 
+B|13| B: A 
+B|14| B: _het fancy cocktailglas_ 
+A|15| A: [ja] 
+A|16| A: nummer tien 
+A|17| A: [het fancy cocktailglas] 
+A|18| A: met [het] [driehoek] onderop 
+B|19| B: [ja] 
+B|20| B: letter L 
+B|21| B: [cocktailglas] 
+A|22| A: nummer vier 
+A|23| A: [het] [cocktailglas] 
+B|24| B: yes 
+B|25| B: letter F 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : oké begin of het zijn het bak en het bak staan op een soort van Swirly dinge
+	Free: Pattern=het, Pattern=een soort, Pattern=en, Pattern=zijn, Pattern=staan op
+	Constrained: Pattern=een, Pattern=soort, Pattern=op
+Turn ID=1| B | B : en dat Swirly dinget zitten op een driehoek
+	Free: Pattern=en dat, Pattern=een, Pattern=op, Pattern=driehoek
+	Constrained: Pattern=en, Pattern=dat
+Turn ID=2| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=3| B | B : ik vinden het net een robot die naar boven komen zeggen maar draaien
+	Free: Pattern=net, Pattern=draaien, Pattern=een, Pattern=zeggen maar, Pattern=het, Pattern=die, Pattern=ik
+	Constrained: Pattern=zeggen, Pattern=maar
+Turn ID=4| A | A : ik ik denken veel dat het een soort soort fancy cocktailglas zijn maar
+	Free: Pattern=dat, Pattern=soort, Pattern=het, Pattern=fancy cocktailglas, Pattern=ik, Pattern=een soort, Pattern=zijn, Pattern=maar
+	Constrained: Pattern=een, Pattern=cocktailglas, Pattern=soort
+Turn ID=5| A | A : nummer vier
+	Free: 
+	Constrained: 
+Turn ID=6| B | B : oké
+	Free: 
+	Constrained: 
+Turn ID=7| A | A : dit zijn wat ik net zeggen dat raar cocktailglas wat jij zeggen een soort ander ding
+	Free: Pattern=dat, Pattern=net, Pattern=zeggen, Pattern=cocktailglas, Pattern=zijn, Pattern=ik, Pattern=een soort
+	Constrained: Pattern=een, Pattern=soort
+Turn ID=8| A | A : je hebben zeggen maar dat dat voetstuk dat zijn zo draaien en dat staan op het driehoek
+	Free: Pattern=driehoek, Pattern=dat, Pattern=draaien, Pattern=zeggen maar, Pattern=het, Pattern=hebben, Pattern=zijn, Pattern=staan op, Pattern=en dat
+	Constrained: Pattern=dat, Pattern=op, Pattern=zeggen, Pattern=en, Pattern=maar
+Turn ID=9| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=10| B | B : ja ja ja ik hebben hem
+	Free: Pattern=hebben, Pattern=ja, Pattern=ik
+	Constrained: 
+Turn ID=11| A | A : en dan met die blok erop zeggen maar
+	Free: Pattern=zeggen maar, Pattern=en, Pattern=die
+	Constrained: Pattern=zeggen, Pattern=maar
+Turn ID=12| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=13| B | B : A
+	Free: 
+	Constrained: 
+Turn ID=14| B | B : het fancy cocktailglas
+	Free: Pattern=het fancy cocktailglas
+	Constrained: Pattern=fancy cocktailglas, Pattern=cocktailglas, Pattern=het
+Turn ID=15| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=16| A | A : nummer tien
+	Free: 
+	Constrained: 
+Turn ID=17| A | A : het fancy cocktailglas
+	Free: Pattern=het fancy cocktailglas
+	Constrained: Pattern=fancy cocktailglas, Pattern=cocktailglas, Pattern=het
+Turn ID=18| A | A : met het driehoek onderop
+	Free: Pattern=het, Pattern=driehoek
+	Constrained: 
+Turn ID=19| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=20| B | B : letter L
+	Free: 
+	Constrained: 
+Turn ID=21| B | B : cocktailglas
+	Free: Pattern=cocktailglas
+	Constrained: 
+Turn ID=22| A | A : nummer vier
+	Free: 
+	Constrained: 
+Turn ID=23| A | A : het cocktailglas
+	Free: Pattern=cocktailglas, Pattern=het
+	Constrained: 
+Turn ID=24| B | B : yes
+	Free: 
+	Constrained: 
+Turn ID=25| B | B : letter F
+	Free: 
+	Constrained: 

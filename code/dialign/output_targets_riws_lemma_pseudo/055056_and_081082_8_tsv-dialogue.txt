@@ -1,0 +1,223 @@
+B|0| B: _ja_ 
+B|1| B: _ja_ _met_ _die_ _met_ _die_ 
+B|2| B: nee 
+B|3| B: _het_ _zijn_ niet _dat_ voetstuk nee 
+B|4| B: _oké_ 
+B|5| B: _met_ _die_ ruit _aan de achterkant_ 
+B|6| B: _het_ _lijken_ _een beetje op de_ staart _van_ _een_ vliegtuig _ja_ 
+B|7| B: _oké_ 
+B|8| B: _ja_ _zitten_ _nog_ _twee_ kubus _aan de zijkant_ 
+B|9| B: _oké_ _dat zijn_ bij mij _zijn_ _dat_ M 
+A|10| A: ik _hebben_ voor jou [een] koffiebeker [met] [een] 
+A|11| A: uitsteeksel [aan de] onderkant _en_ [twee] [aan de zijkant] 
+A|12| A: _en_ [aan de] bovenkant [aan de] rand steken [een] vierkant biscui zullen ik maar noemen 
+A|13| A: [met] [twee] blok [die] daarin _wat_ groot worden steken [aan] beide kant [van] [het] biscui uit 
+A|14| A: _en_ één [van] even [de] voorkantuitsteeksel [zijn] ook [een beetje] cilinderachtig _en_ [aan de] 
+A|15| A: rechts [zijkant] [zijn] [een] staaf [die] [een] haaks bocht [lijken] te _hebben_ 
+A|16| A: _of_ in ieder geval [een] getrapt bocht 
+A|17| A: net als [de] 
+A|18| A: zien jij [een] koffiebekert [met] 
+A|19| A: zestien stuk 
+A|20| A: _met het_ biscuit _staan_ zeggen maar rechtop schuin [ja] als [een] ruitvorm 
+A|21| A: [op] [een beetje op de] bovenste rand 
+A|22| A: iets [aan de achterkant] 
+A|23| A: [zitten] [twee] uitsteeksel 
+A|24| A: [oké] 
+A|25| A: even kijken waar je 
+A|26| A: [ja] 
+A|27| A: [ja] _en_ [die] _staan_ rechtop 
+A|28| A: als [een] soort ruitvorm 
+A|29| A: [op de] rand 
+A|30| A: [ja] ? mee 
+A|31| A: [oké] 
+A|32| A: één [aan de] onderkant 
+A|33| A: _en_ [twee] [aan de zijkant] 
+A|34| A: [ja] 
+B|35| B: _dan_ [hebben] we deze dit [zijn] weer [met] [die] [die] [op] _dat_ voe [staan] 
+B|36| B: [en] [met het] [de] ruit [aan de achterkant] [wat] [een beetje op de] achtervleugel [van] [een] vliegtuig [lijken] 
+B|37| B: [ja] _dat zijn_ h 
+A|38| A: ik noemen [die] net [het] biscuit 
+A|39| A: [oké] [met] onderin [dat] [en] [twee] [aan de zijkant] [en] [dan] boven [dat] gedoe 
+A|40| A: [dat zijn] nummer negen 
+B|41| B: dit [zijn] [die] [met] [die] vliegtuigachtervleugel [op] [het] voe 
+B|42| B: [het] voe [en] [de] Vliegtuigvleugels 
+B|43| B: [ja] [dat zijn] D 
+B|44| B: [de] vliegtuigachtervleugel [op] [het] voetstuk [of] [op] [het] voe 
+A|45| A: koffiekopje [met] [een] rechtopstaand biscui bovenaan in ruitvorm [met] 
+A|46| A: [de] robotarmen [die] eruit komen 
+A|47| A: [ja] hebbes 
+A|48| A: [en] [nog] drie uitsteeksel 
+A|49| A: [ja] 
+A|50| A: [dat zijn] nummer elf 
+A|51| A: biscui [met] robotarmp eruit 
+A|52| A: [en] [nog] drie uitsteeksel 
+A|53| A: hebbes 
+A|54| A: nummer veertien 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=1| B | B : ja met die met die
+	Free: Pattern=met, Pattern=die, Pattern=ja
+	Constrained: 
+Turn ID=2| B | B : nee
+	Free: 
+	Constrained: 
+Turn ID=3| B | B : het zijn niet dat voetstuk nee
+	Free: Pattern=dat, Pattern=zijn, Pattern=het
+	Constrained: 
+Turn ID=4| B | B : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=5| B | B : met die ruit aan de achterkant
+	Free: Pattern=aan de achterkant, Pattern=met, Pattern=die
+	Constrained: Pattern=aan, Pattern=de, Pattern=aan de
+Turn ID=6| B | B : het lijken een beetje op de staart van een vliegtuig ja
+	Free: Pattern=ja, Pattern=lijken, Pattern=een, Pattern=het, Pattern=een beetje op de, Pattern=van
+	Constrained: Pattern=de, Pattern=op, Pattern=een, Pattern=een beetje, Pattern=op de
+Turn ID=7| B | B : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=8| B | B : ja zitten nog twee kubus aan de zijkant
+	Free: Pattern=nog, Pattern=twee, Pattern=ja, Pattern=aan de zijkant, Pattern=zitten
+	Constrained: Pattern=aan, Pattern=zijkant, Pattern=de, Pattern=aan de
+Turn ID=9| B | B : oké dat zijn bij mij zijn dat M
+	Free: Pattern=dat zijn, Pattern=dat, Pattern=oké, Pattern=zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=10| A | A : ik hebben voor jou een koffiebeker met een
+	Free: Pattern=een, Pattern=hebben, Pattern=met
+	Constrained: 
+Turn ID=11| A | A : uitsteeksel aan de onderkant en twee aan de zijkant
+	Free: Pattern=aan de zijkant, Pattern=aan de, Pattern=en, Pattern=twee
+	Constrained: Pattern=aan, Pattern=zijkant, Pattern=de, Pattern=aan de
+Turn ID=12| A | A : en aan de bovenkant aan de rand steken een vierkant biscui zullen ik maar noemen
+	Free: Pattern=aan de, Pattern=een, Pattern=en
+	Constrained: Pattern=de, Pattern=aan
+Turn ID=13| A | A : met twee blok die daarin wat groot worden steken aan beide kant van het biscui uit
+	Free: Pattern=twee, Pattern=aan, Pattern=het, Pattern=met, Pattern=die, Pattern=wat, Pattern=van
+	Constrained: 
+Turn ID=14| A | A : en één van even de voorkantuitsteeksel zijn ook een beetje cilinderachtig en aan de
+	Free: Pattern=de, Pattern=aan de, Pattern=zijn, Pattern=een beetje, Pattern=van, Pattern=en
+	Constrained: Pattern=de, Pattern=een, Pattern=aan
+Turn ID=15| A | A : rechts zijkant zijn een staaf die een haaks bocht lijken te hebben
+	Free: Pattern=lijken, Pattern=een, Pattern=hebben, Pattern=zijn, Pattern=die, Pattern=zijkant
+	Constrained: 
+Turn ID=16| A | A : of in ieder geval een getrapt bocht
+	Free: Pattern=een, Pattern=of
+	Constrained: 
+Turn ID=17| A | A : net als de
+	Free: Pattern=de
+	Constrained: 
+Turn ID=18| A | A : zien jij een koffiebekert met
+	Free: Pattern=een, Pattern=met
+	Constrained: 
+Turn ID=19| A | A : zestien stuk
+	Free: 
+	Constrained: 
+Turn ID=20| A | A : met het biscuit staan zeggen maar rechtop schuin ja als een ruitvorm
+	Free: Pattern=met het, Pattern=een, Pattern=staan, Pattern=ja
+	Constrained: Pattern=met, Pattern=het
+Turn ID=21| A | A : op een beetje op de bovenste rand
+	Free: Pattern=een beetje op de, Pattern=op
+	Constrained: Pattern=de, Pattern=op, Pattern=een, Pattern=een beetje, Pattern=op de
+Turn ID=22| A | A : iets aan de achterkant
+	Free: Pattern=aan de achterkant
+	Constrained: Pattern=aan, Pattern=de, Pattern=aan de
+Turn ID=23| A | A : zitten twee uitsteeksel
+	Free: Pattern=twee, Pattern=zitten
+	Constrained: 
+Turn ID=24| A | A : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=25| A | A : even kijken waar je
+	Free: 
+	Constrained: 
+Turn ID=26| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=27| A | A : ja en die staan rechtop
+	Free: Pattern=staan, Pattern=en, Pattern=die, Pattern=ja
+	Constrained: 
+Turn ID=28| A | A : als een soort ruitvorm
+	Free: Pattern=een
+	Constrained: 
+Turn ID=29| A | A : op de rand
+	Free: Pattern=op de
+	Constrained: Pattern=de, Pattern=op
+Turn ID=30| A | A : ja ? mee
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=31| A | A : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=32| A | A : één aan de onderkant
+	Free: Pattern=aan de
+	Constrained: Pattern=de, Pattern=aan
+Turn ID=33| A | A : en twee aan de zijkant
+	Free: Pattern=aan de zijkant, Pattern=en, Pattern=twee
+	Constrained: Pattern=aan, Pattern=zijkant, Pattern=de, Pattern=aan de
+Turn ID=34| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=35| B | B : dan hebben we deze dit zijn weer met die die op dat voe staan
+	Free: Pattern=dat, Pattern=op, Pattern=dan, Pattern=staan, Pattern=hebben, Pattern=met, Pattern=die, Pattern=zijn
+	Constrained: 
+Turn ID=36| B | B : en met het de ruit aan de achterkant wat een beetje op de achtervleugel van een vliegtuig lijken
+	Free: Pattern=aan de achterkant, Pattern=de, Pattern=lijken, Pattern=een, Pattern=wat, Pattern=een beetje op de, Pattern=met het, Pattern=van, Pattern=en
+	Constrained: Pattern=een, Pattern=het, Pattern=met, Pattern=een beetje, Pattern=op de, Pattern=de, Pattern=aan, Pattern=op, Pattern=aan de
+Turn ID=37| B | B : ja dat zijn h
+	Free: Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=38| A | A : ik noemen die net het biscuit
+	Free: Pattern=die, Pattern=het
+	Constrained: 
+Turn ID=39| A | A : oké met onderin dat en twee aan de zijkant en dan boven dat gedoe
+	Free: Pattern=dat, Pattern=twee, Pattern=dan, Pattern=aan de zijkant, Pattern=met, Pattern=oké, Pattern=en
+	Constrained: Pattern=aan, Pattern=zijkant, Pattern=de, Pattern=aan de
+Turn ID=40| A | A : dat zijn nummer negen
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=41| B | B : dit zijn die met die vliegtuigachtervleugel op het voe
+	Free: Pattern=op, Pattern=het, Pattern=met, Pattern=die, Pattern=zijn
+	Constrained: 
+Turn ID=42| B | B : het voe en de Vliegtuigvleugels
+	Free: Pattern=de, Pattern=en, Pattern=het
+	Constrained: 
+Turn ID=43| B | B : ja dat zijn D
+	Free: Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=44| B | B : de vliegtuigachtervleugel op het voetstuk of op het voe
+	Free: Pattern=de, Pattern=of, Pattern=op, Pattern=het
+	Constrained: 
+Turn ID=45| A | A : koffiekopje met een rechtopstaand biscui bovenaan in ruitvorm met
+	Free: Pattern=een, Pattern=met
+	Constrained: 
+Turn ID=46| A | A : de robotarmen die eruit komen
+	Free: Pattern=de, Pattern=die
+	Constrained: 
+Turn ID=47| A | A : ja hebbes
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=48| A | A : en nog drie uitsteeksel
+	Free: Pattern=nog, Pattern=en
+	Constrained: 
+Turn ID=49| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=50| A | A : dat zijn nummer elf
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=51| A | A : biscui met robotarmp eruit
+	Free: Pattern=met
+	Constrained: 
+Turn ID=52| A | A : en nog drie uitsteeksel
+	Free: Pattern=nog, Pattern=en
+	Constrained: 
+Turn ID=53| A | A : hebbes
+	Free: 
+	Constrained: 
+Turn ID=54| A | A : nummer veertien
+	Free: 
+	Constrained: 

@@ -1,0 +1,139 @@
+A|0| A: _koffiekopje_ 
+A|1| A: _met_ iets rechts aan _de_ voorkant _een_ schuin omhoog klein _uitsteeksel_ _met_ daarop _een_ rond vlak 
+A|2| A: _en_ link _een uitsteeksel_ _dat_ _met _een_ beetje_ fantasie _op een oor_ _lijken_ maar _dan_ flink 
+B|3| B: [een oor] 
+A|4| A: uittrekken _en_ daarbovenop _staan_ _een een_ _ja_ _soort_ _obelisk_ omgekeerd hakt erin 
+B|5| B: [ja] [dat] spiest er [een beetje] in 
+B|6| B: [ja] 
+B|7| B: _je_ hebben dus [een] _koffiekopje [met_ [een] een] [soort] _dienblad_ weer eraan 
+A|8| A: [ja] 
+B|9| B: [ja] 
+B|10| B: _dat zijn_ letter L 
+B|11| B: [de] volgen _zijn_ _het koffiekopje [met_ een] _dienblad_ eraan vast _en [een_ uitsteeksel] wat jij [op een oor] vinden [lijken] 
+B|12| B: [met een] [obelisk] eraan 
+A|13| A: [ja] 
+A|14| A: nummer zeven 
+A|15| A: [het koffiekopje met] rond [dienblad] [met [een] oor] 
+A|16| A: [en een] ding erin 
+B|17| B: [ja] 
+B|18| B: die [dat] [oor] 
+B|19| B: [ja] 
+B|20| B: _dat zijn_ letter C 
+B|21| B: [dan] moeten [het] dezelfde _zijn_ 
+B|22| B: [met] [dat] [oor] 
+A|23| A: [ja] even zoeken _waar_ [zijn] [je] ? _waar_ [zijn] [je] ? _waar_ [zijn] [je] ? [ja] 
+A|24| A: [en] [dat zijn] nummer één 
+A|25| A: _het oor_ 
+B|26| B: [het oor] [waar] [staan] die ook alweer 
+B|27| B: [ja] 
+B|28| B: letter A 
+B|29| B: [het oor] 
+A|30| A: [het oor] [het oor] [het oor] 
+B|31| B: [met] die [obelisk] 
+A|32| A: [ja] 
+A|33| A: dertien 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : koffiekopje
+	Free: Pattern=koffiekopje
+	Constrained: 
+Turn ID=1| A | A : met iets rechts aan de voorkant een schuin omhoog klein uitsteeksel met daarop een rond vlak
+	Free: Pattern=uitsteeksel, Pattern=de, Pattern=een, Pattern=met
+	Constrained: 
+Turn ID=2| A | A : en link een uitsteeksel dat met een beetje fantasie op een oor lijken maar dan flink
+	Free: Pattern=dat, Pattern=op een oor, Pattern=met een, Pattern=en, Pattern=een beetje, Pattern=een uitsteeksel, Pattern=lijken, Pattern=dan
+	Constrained: Pattern=oor, Pattern=uitsteeksel, Pattern=een, Pattern=met, Pattern=een oor
+Turn ID=3| B | B : een oor
+	Free: Pattern=een oor
+	Constrained: Pattern=een, Pattern=oor
+Turn ID=4| A | A : uittrekken en daarbovenop staan een een ja soort obelisk omgekeerd hakt erin
+	Free: Pattern=soort, Pattern=ja, Pattern=staan, Pattern=een een, Pattern=obelisk, Pattern=en
+	Constrained: Pattern=een
+Turn ID=5| B | B : ja dat spiest er een beetje in
+	Free: Pattern=een beetje, Pattern=dat, Pattern=ja
+	Constrained: Pattern=een
+Turn ID=6| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=7| B | B : je hebben dus een koffiekopje met een een soort dienblad weer eraan
+	Free: Pattern=soort, Pattern=een, Pattern=een een, Pattern=met een, Pattern=dienblad, Pattern=koffiekopje met, Pattern=je
+	Constrained: Pattern=koffiekopje, Pattern=een, Pattern=met
+Turn ID=8| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=9| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=10| B | B : dat zijn letter L
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=11| B | B : de volgen zijn het koffiekopje met een dienblad eraan vast en een uitsteeksel wat jij op een oor vinden lijken
+	Free: Pattern=lijken, Pattern=met een, Pattern=dienblad, Pattern=het koffiekopje met, Pattern=een uitsteeksel, Pattern=de, Pattern=op een oor, Pattern=en een, Pattern=zijn
+	Constrained: Pattern=oor, Pattern=uitsteeksel, Pattern=een, Pattern=het, Pattern=koffiekopje, Pattern=met, Pattern=een oor, Pattern=koffiekopje met, Pattern=en
+Turn ID=12| B | B : met een obelisk eraan
+	Free: Pattern=met een, Pattern=obelisk
+	Constrained: Pattern=een, Pattern=met
+Turn ID=13| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=14| A | A : nummer zeven
+	Free: 
+	Constrained: 
+Turn ID=15| A | A : het koffiekopje met rond dienblad met een oor
+	Free: Pattern=het koffiekopje met, Pattern=een oor, Pattern=met een, Pattern=dienblad
+	Constrained: Pattern=oor, Pattern=een, Pattern=het, Pattern=koffiekopje, Pattern=met, Pattern=koffiekopje met
+Turn ID=16| A | A : en een ding erin
+	Free: Pattern=en een
+	Constrained: Pattern=en, Pattern=een
+Turn ID=17| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=18| B | B : die dat oor
+	Free: Pattern=dat, Pattern=oor
+	Constrained: 
+Turn ID=19| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=20| B | B : dat zijn letter C
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=21| B | B : dan moeten het dezelfde zijn
+	Free: Pattern=dan, Pattern=het, Pattern=zijn
+	Constrained: 
+Turn ID=22| B | B : met dat oor
+	Free: Pattern=dat, Pattern=met, Pattern=oor
+	Constrained: 
+Turn ID=23| A | A : ja even zoeken waar zijn je ? waar zijn je ? waar zijn je ? ja
+	Free: Pattern=waar, Pattern=je, Pattern=ja, Pattern=zijn
+	Constrained: 
+Turn ID=24| A | A : en dat zijn nummer één
+	Free: Pattern=dat zijn, Pattern=en
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=25| A | A : het oor
+	Free: Pattern=het oor
+	Constrained: Pattern=het, Pattern=oor
+Turn ID=26| B | B : het oor waar staan die ook alweer
+	Free: Pattern=het oor, Pattern=staan, Pattern=waar
+	Constrained: Pattern=het, Pattern=oor
+Turn ID=27| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=28| B | B : letter A
+	Free: 
+	Constrained: 
+Turn ID=29| B | B : het oor
+	Free: Pattern=het oor
+	Constrained: Pattern=het, Pattern=oor
+Turn ID=30| A | A : het oor het oor het oor
+	Free: Pattern=het oor
+	Constrained: Pattern=het, Pattern=oor
+Turn ID=31| B | B : met die obelisk
+	Free: Pattern=obelisk, Pattern=met
+	Constrained: 
+Turn ID=32| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=33| A | A : dertien
+	Free: 
+	Constrained: 

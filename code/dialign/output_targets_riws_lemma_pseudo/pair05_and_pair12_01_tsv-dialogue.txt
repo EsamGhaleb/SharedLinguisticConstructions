@@ -1,0 +1,87 @@
+B|0| B: _deze hebben een_ groot _vierkant_ vlak _aan de voorkant_ 
+B|1| B: _en _een_ soort_ verrekijker link 
+B|2| B: l 
+A|3| A: ja 
+A|4| A: dat zijn zes 
+B|5| B: _een_ verrekijker _en_ _het_ _vierkant_ vlak 
+B|6| B: h 
+B|7| B: verrekijker link 
+B|8| B: rechtervlak _aan de voorkant_ 
+A|9| A: [deze hebben] rechtsvoor [een] plateau 
+A|10| A: [een soort] paddestoel op zijn hoofd 
+A|11| A: jij zeggen [het] anders maar ja [een soort] speld 
+A|12| A: [en] [aan de] linkerkant twee identiek uitstulping 
+B|13| B: J 
+A|14| A: dat zijn vier 
+A|15| A: [deze hebben een] paddestoel op zijn hoofd [en een] scherm [aan de voorkant] [en] twee [vierkant] schroeven 
+A|16| A: ja twaalf 
+A|17| A: nou ja dit zijn met paddestoel op zijn hoofd 
+A|18| A: [het] [het] lijken wel [een] robot 
+A|19| A: ja 
+A|20| A: ja 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : deze hebben een groot vierkant vlak aan de voorkant
+	Free: Pattern=deze hebben een, Pattern=aan de voorkant, Pattern=vierkant
+	Constrained: Pattern=deze hebben, Pattern=een, Pattern=aan de
+Turn ID=1| B | B : en een soort verrekijker link
+	Free: Pattern=en een, Pattern=een soort
+	Constrained: Pattern=een, Pattern=en
+Turn ID=2| B | B : l
+	Free: 
+	Constrained: 
+Turn ID=3| A | A : ja
+	Free: 
+	Constrained: 
+Turn ID=4| A | A : dat zijn zes
+	Free: 
+	Constrained: 
+Turn ID=5| B | B : een verrekijker en het vierkant vlak
+	Free: Pattern=vierkant, Pattern=een, Pattern=en, Pattern=het
+	Constrained: 
+Turn ID=6| B | B : h
+	Free: 
+	Constrained: 
+Turn ID=7| B | B : verrekijker link
+	Free: 
+	Constrained: 
+Turn ID=8| B | B : rechtervlak aan de voorkant
+	Free: Pattern=aan de voorkant
+	Constrained: Pattern=aan de
+Turn ID=9| A | A : deze hebben rechtsvoor een plateau
+	Free: Pattern=deze hebben, Pattern=een
+	Constrained: 
+Turn ID=10| A | A : een soort paddestoel op zijn hoofd
+	Free: Pattern=een soort
+	Constrained: Pattern=een
+Turn ID=11| A | A : jij zeggen het anders maar ja een soort speld
+	Free: Pattern=een soort, Pattern=het
+	Constrained: Pattern=een
+Turn ID=12| A | A : en aan de linkerkant twee identiek uitstulping
+	Free: Pattern=aan de, Pattern=en
+	Constrained: 
+Turn ID=13| B | B : J
+	Free: 
+	Constrained: 
+Turn ID=14| A | A : dat zijn vier
+	Free: 
+	Constrained: 
+Turn ID=15| A | A : deze hebben een paddestoel op zijn hoofd en een scherm aan de voorkant en twee vierkant schroeven
+	Free: Pattern=deze hebben een, Pattern=en, Pattern=en een, Pattern=vierkant, Pattern=aan de voorkant
+	Constrained: Pattern=deze hebben, Pattern=een, Pattern=en, Pattern=aan de
+Turn ID=16| A | A : ja twaalf
+	Free: 
+	Constrained: 
+Turn ID=17| A | A : nou ja dit zijn met paddestoel op zijn hoofd
+	Free: 
+	Constrained: 
+Turn ID=18| A | A : het het lijken wel een robot
+	Free: Pattern=een, Pattern=het
+	Constrained: 
+Turn ID=19| A | A : ja
+	Free: 
+	Constrained: 
+Turn ID=20| A | A : ja
+	Free: 
+	Constrained: 

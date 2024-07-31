@@ -1,0 +1,107 @@
+B|0| B: _oké_ hier zitten _een_ plaat _door het kop_ 
+A|1| A: _ja_ 
+A|2| A: [oké] 
+B|3| B: _dan_ _opsteken_ er link _nog een_ balk uit _met_ _een_ hoek 
+A|4| A: _ja_ 
+B|5| B: _en_ recht voor komen _nog een_ balk eruit _en_ bovenin komen _twee klein balkjes_ eruit 
+A|6| A: [oké] _dat zijn_ zes 
+A|7| A: _dit zijn weer met_ _zo'n_ _zo'n_ plat schijf _erdoorheen_ 
+A|8| A: [en] [dan] [twee klein balkjes] erbovenuit 
+A|9| A: [en] [een] soort _glijbaan_ naar beneden aan _de_ voorkant [en] [dan] [nog een] armp _die_ zo omhoog [opsteken] 
+B|10| B: [ja] [dat zijn] C 
+B|11| B: deze hebben [weer] [zo'n] plaat [erdoorheen] [met] jij zeggen mooi [een] [glijbaan] 
+B|12| B: [en] [twee] van [die] dinge erop 
+A|13| A: [ja] [ja] [ja] 
+B|14| B: [en] links [nog] _het_ uitsteeksel 
+A|15| A: dertien 
+A|16| A: _dit zijn_ [die] [een] [met] _de glijbaan en_ [en] [een] vierkant [door het kop] heen 
+B|17| B: [ja] [en] [die] [twee] _schoorsteen_ 
+A|18| A: [ja] [ja] [ja] 
+B|19| B: [ja] 
+B|20| B: [dat zijn] J 
+B|21| B: [dit zijn weer met] [dat] plateau erdoor [en] [de glijbaan en] [de] [twee] uitstekend balk [en] link ook [nog] 
+A|22| A: [dat zijn] negen 
+A|23| A: [dit zijn] [de glijbaan] 
+A|24| A: [met] [die] [schoorsteen] 
+B|25| B: [ja] [dat zijn] N 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : oké hier zitten een plaat door het kop
+	Free: Pattern=door het kop, Pattern=een, Pattern=oké
+	Constrained: Pattern=het
+Turn ID=1| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=2| A | A : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=3| B | B : dan opsteken er link nog een balk uit met een hoek
+	Free: Pattern=nog een, Pattern=dan, Pattern=een, Pattern=opsteken, Pattern=met
+	Constrained: Pattern=een, Pattern=nog
+Turn ID=4| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=5| B | B : en recht voor komen nog een balk eruit en bovenin komen twee klein balkjes eruit
+	Free: Pattern=twee klein balkjes, Pattern=nog een, Pattern=en
+	Constrained: Pattern=twee, Pattern=nog, Pattern=een
+Turn ID=6| A | A : oké dat zijn zes
+	Free: Pattern=dat zijn, Pattern=oké
+	Constrained: Pattern=dat
+Turn ID=7| A | A : dit zijn weer met zo'n zo'n plat schijf erdoorheen
+	Free: Pattern=dit zijn weer met, Pattern=erdoorheen, Pattern=zo'n
+	Constrained: Pattern=dit zijn, Pattern=weer, Pattern=met
+Turn ID=8| A | A : en dan twee klein balkjes erbovenuit
+	Free: Pattern=twee klein balkjes, Pattern=dan, Pattern=en
+	Constrained: Pattern=twee
+Turn ID=9| A | A : en een soort glijbaan naar beneden aan de voorkant en dan nog een armp die zo omhoog opsteken
+	Free: Pattern=nog een, Pattern=de, Pattern=dan, Pattern=een, Pattern=opsteken, Pattern=die, Pattern=glijbaan, Pattern=en
+	Constrained: Pattern=een, Pattern=nog
+Turn ID=10| B | B : ja dat zijn C
+	Free: Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=dat
+Turn ID=11| B | B : deze hebben weer zo'n plaat erdoorheen met jij zeggen mooi een glijbaan
+	Free: Pattern=zo'n, Pattern=een, Pattern=erdoorheen, Pattern=met, Pattern=glijbaan, Pattern=weer
+	Constrained: 
+Turn ID=12| B | B : en twee van die dinge erop
+	Free: Pattern=die, Pattern=en, Pattern=twee
+	Constrained: 
+Turn ID=13| A | A : ja ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=14| B | B : en links nog het uitsteeksel
+	Free: Pattern=het, Pattern=nog, Pattern=en
+	Constrained: 
+Turn ID=15| A | A : dertien
+	Free: 
+	Constrained: 
+Turn ID=16| A | A : dit zijn die een met de glijbaan en en een vierkant door het kop heen
+	Free: Pattern=door het kop, Pattern=de glijbaan en, Pattern=een, Pattern=met, Pattern=die, Pattern=en, Pattern=dit zijn
+	Constrained: Pattern=de, Pattern=het, Pattern=glijbaan, Pattern=en, Pattern=de glijbaan
+Turn ID=17| B | B : ja en die twee schoorsteen
+	Free: Pattern=twee, Pattern=ja, Pattern=schoorsteen, Pattern=die, Pattern=en
+	Constrained: 
+Turn ID=18| A | A : ja ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=19| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=20| B | B : dat zijn J
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat
+Turn ID=21| B | B : dit zijn weer met dat plateau erdoor en de glijbaan en de twee uitstekend balk en link ook nog
+	Free: Pattern=dat, Pattern=dit zijn weer met, Pattern=nog, Pattern=twee, Pattern=de, Pattern=de glijbaan en, Pattern=en
+	Constrained: Pattern=de, Pattern=met, Pattern=glijbaan, Pattern=en, Pattern=de glijbaan, Pattern=weer, Pattern=dit zijn
+Turn ID=22| A | A : dat zijn negen
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat
+Turn ID=23| A | A : dit zijn de glijbaan
+	Free: Pattern=dit zijn, Pattern=de glijbaan
+	Constrained: Pattern=de, Pattern=glijbaan
+Turn ID=24| A | A : met die schoorsteen
+	Free: Pattern=met, Pattern=die, Pattern=schoorsteen
+	Constrained: 
+Turn ID=25| B | B : ja dat zijn N
+	Free: Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=dat

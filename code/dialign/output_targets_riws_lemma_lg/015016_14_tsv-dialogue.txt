@@ -1,0 +1,155 @@
+A|0| A: _deze_ _deze hebben_ hiervoor even kijken _deze hebben_ je _hebben_ _die_ _die_ weten je wel _dat_ _dat_ hoofdfiguur zeggen maar daar daar _die_ _emmer_ zeggen maar 
+B|1| B: _ja_ 
+B|2| B: _ja_ [emmer] _in_ het _zijn_ ook een [emmer] 
+A|3| A: _en dan_ [ja] 
+A|4| A: _en dan_ daarvoor staan daar _zo'n_ rechthoekig _staaf_ _zo_ verticaal 
+B|5| B: [ja] [en] een _bal bovenop_ 
+A|6| A: [ja] _zo'n [bal_ bovenop] _en dan_ 
+B|7| B: [en dan] twee _van die_ haak 
+A|8| A: [ja] [ja] [die] [ja] 
+B|9| B: [ja] [dat] [hebben] ik [dan] _zijn_ het D 
+A|10| A: oké 
+B|11| B: [deze hebben] _aan de voorkant_ een een een balk [en] [bovenop] een _ei_ 
+A|12| A: even 
+A|13| A: even kijken 
+B|14| B: _aan de voorkant_ een balk [zo] 
+A|15| A: [zo] _rechtop_ 
+B|16| B: [ja] [rechtop] [en dan] daarbovenop zitten [zo'n] [zo'n] _ei_ of [zo'n bal] [en] _aan de_ buitenkant zitten _van die_ _van die_ haak _van die_ armpjes 
+A|17| A: [ja] [van die] ronde 
+B|18| B: [ja] kloppen 
+A|19| A: [ja] 
+A|20| A: één met [zo'n] hoek _en de_ ander niet 
+B|21| B: [ja] kloppen [ja] 
+A|22| A: [ja] één [zo] [in] [de] hoek [ja] 
+A|23| A: [dat] [zijn] vijftien 
+A|24| A: [ja] _dit zijn_ [die] met [die] recht _staaf_ [die] ervoor staan [en] [dat] [ei] [bovenop] [en] [dat] 
+B|25| B: [ja] 
+B|26| B: L 
+B|27| B: [dit zijn] [de] _staaf aan de voorkant_ _en die [bal_ bovenop] 
+A|28| A: [die] verticaal [staaf] [en die bal] 
+B|29| B: [ja] 
+B|30| B: [ja] 
+A|31| A: zes 
+A|32| A: [dit zijn] [die] rechthoekig [staaf aan de voorkant] 
+B|33| B: [ja] 
+A|34| A: [en] [dat] [ei] [bovenop] 
+B|35| B: [ja] J 
+B|36| B: [dit zijn] [de] [staaf aan de voorkant] [en de] [bal bovenop] 
+A|37| A: [ja] drie 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : deze deze hebben hiervoor even kijken deze hebben je hebben die die weten je wel dat dat hoofdfiguur zeggen maar daar daar die emmer zeggen maar
+	Free: Pattern=dat, Pattern=hebben, Pattern=deze hebben, Pattern=die, Pattern=emmer, Pattern=deze
+	Constrained: Pattern=deze, Pattern=hebben
+Turn ID=1| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=2| B | B : ja emmer in het zijn ook een emmer
+	Free: Pattern=zijn, Pattern=ja, Pattern=emmer, Pattern=in
+	Constrained: 
+Turn ID=3| A | A : en dan ja
+	Free: Pattern=en dan, Pattern=ja
+	Constrained: Pattern=dan, Pattern=en
+Turn ID=4| A | A : en dan daarvoor staan daar zo'n rechthoekig staaf zo verticaal
+	Free: Pattern=en dan, Pattern=zo'n, Pattern=zo, Pattern=staaf
+	Constrained: Pattern=dan, Pattern=en
+Turn ID=5| B | B : ja en een bal bovenop
+	Free: Pattern=bal bovenop, Pattern=ja, Pattern=en
+	Constrained: Pattern=bovenop
+Turn ID=6| A | A : ja zo'n bal bovenop en dan
+	Free: Pattern=zo'n bal, Pattern=en dan, Pattern=bal bovenop, Pattern=ja
+	Constrained: Pattern=bovenop, Pattern=zo'n, Pattern=en, Pattern=dan
+Turn ID=7| B | B : en dan twee van die haak
+	Free: Pattern=van die, Pattern=en dan
+	Constrained: Pattern=die, Pattern=dan, Pattern=en
+Turn ID=8| A | A : ja ja die ja
+	Free: Pattern=die, Pattern=ja
+	Constrained: 
+Turn ID=9| B | B : ja dat hebben ik dan zijn het D
+	Free: Pattern=dat, Pattern=ja, Pattern=dan, Pattern=hebben, Pattern=zijn
+	Constrained: 
+Turn ID=10| A | A : oké
+	Free: 
+	Constrained: 
+Turn ID=11| B | B : deze hebben aan de voorkant een een een balk en bovenop een ei
+	Free: Pattern=bovenop, Pattern=ei, Pattern=deze hebben, Pattern=en, Pattern=aan de voorkant
+	Constrained: Pattern=de, Pattern=deze, Pattern=aan de, Pattern=hebben
+Turn ID=12| A | A : even
+	Free: 
+	Constrained: 
+Turn ID=13| A | A : even kijken
+	Free: 
+	Constrained: 
+Turn ID=14| B | B : aan de voorkant een balk zo
+	Free: Pattern=aan de voorkant, Pattern=zo
+	Constrained: Pattern=aan de, Pattern=de
+Turn ID=15| A | A : zo rechtop
+	Free: Pattern=rechtop, Pattern=zo
+	Constrained: 
+Turn ID=16| B | B : ja rechtop en dan daarbovenop zitten zo'n zo'n ei of zo'n bal en aan de buitenkant zitten van die van die haak van die armpjes
+	Free: Pattern=ei, Pattern=zo'n, Pattern=ja, Pattern=en dan, Pattern=aan de, Pattern=rechtop, Pattern=zo'n bal, Pattern=van die, Pattern=en
+	Constrained: Pattern=zo'n, Pattern=de, Pattern=dan, Pattern=die, Pattern=en
+Turn ID=17| A | A : ja van die ronde
+	Free: Pattern=van die, Pattern=ja
+	Constrained: Pattern=die
+Turn ID=18| B | B : ja kloppen
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=19| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=20| A | A : één met zo'n hoek en de ander niet
+	Free: Pattern=en de, Pattern=zo'n
+	Constrained: Pattern=de, Pattern=en
+Turn ID=21| B | B : ja kloppen ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=22| A | A : ja één zo in de hoek ja
+	Free: Pattern=ja, Pattern=zo, Pattern=de, Pattern=in
+	Constrained: 
+Turn ID=23| A | A : dat zijn vijftien
+	Free: Pattern=zijn, Pattern=dat
+	Constrained: 
+Turn ID=24| A | A : ja dit zijn die met die recht staaf die ervoor staan en dat ei bovenop en dat
+	Free: Pattern=ei, Pattern=ja, Pattern=staaf, Pattern=die, Pattern=en, Pattern=dit zijn, Pattern=dat, Pattern=bovenop
+	Constrained: Pattern=zijn
+Turn ID=25| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=26| B | B : L
+	Free: 
+	Constrained: 
+Turn ID=27| B | B : dit zijn de staaf aan de voorkant en die bal bovenop
+	Free: Pattern=de, Pattern=bal bovenop, Pattern=dit zijn, Pattern=en die bal, Pattern=staaf aan de voorkant
+	Constrained: Pattern=bovenop, Pattern=de, Pattern=staaf, Pattern=aan de, Pattern=die, Pattern=en, Pattern=zijn, Pattern=aan de voorkant
+Turn ID=28| A | A : die verticaal staaf en die bal
+	Free: Pattern=en die bal, Pattern=die, Pattern=staaf
+	Constrained: Pattern=die, Pattern=en
+Turn ID=29| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=30| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=31| A | A : zes
+	Free: 
+	Constrained: 
+Turn ID=32| A | A : dit zijn die rechthoekig staaf aan de voorkant
+	Free: Pattern=staaf aan de voorkant, Pattern=dit zijn, Pattern=die
+	Constrained: Pattern=de, Pattern=staaf, Pattern=aan de, Pattern=zijn, Pattern=aan de voorkant
+Turn ID=33| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=34| A | A : en dat ei bovenop
+	Free: Pattern=bovenop, Pattern=dat, Pattern=ei, Pattern=en
+	Constrained: 
+Turn ID=35| B | B : ja J
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=36| B | B : dit zijn de staaf aan de voorkant en de bal bovenop
+	Free: Pattern=staaf aan de voorkant, Pattern=de, Pattern=en de, Pattern=bal bovenop, Pattern=dit zijn
+	Constrained: Pattern=bovenop, Pattern=de, Pattern=staaf, Pattern=aan de, Pattern=en, Pattern=zijn, Pattern=aan de voorkant
+Turn ID=37| A | A : ja drie
+	Free: Pattern=ja
+	Constrained: 

@@ -1,0 +1,95 @@
+B|0| B: _dit zijn de tulp_ _die_ jij zeggen _dus_ in ieder geval _dan_ hebben je het vierkantje rechts bovenin klein vierkantje in het midden 
+A|1| A: ah 
+A|2| A: _ja_ 
+B|3| B: _en_ _wat_ naar links rechthoekigachtig ding _en_ _dan_ _die_ slurf 
+A|4| A: _ja_ 
+B|5| B: lang ding omheen 
+B|6| B: _oké_ 
+A|7| A: [oké] _dat zijn_ vier 
+A|8| A: _oké dit zijn_ [wat] ik [de tulp] noemen 
+B|9| B: [ja] 
+B|10| B: [ja] [ja] [ja] 
+A|11| A: [dus] [ja] met [die] verdraaien steel [en] op zo'n soort driehoek waar [die] [dan] op staat 
+B|12| B: [ja] sorry A who [oké] A 
+A|13| A: [ja] maken niet uit 
+B|14| B: [oké _dit zijn] de tulp_ 
+A|15| A: yes 
+A|16| A: _dat zijn_ tien 
+A|17| A: [dit zijn de tulp] 
+B|18| B: [de tulp] [ja] [dat zijn] L 
+B|19| B: [dit zijn de tulp] 
+A|20| A: [oké] [dat zijn] vier 
+A|21| A: [dit zijn de tulp] 
+B|22| B: [ja] F 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : dit zijn de tulp die jij zeggen dus in ieder geval dan hebben je het vierkantje rechts bovenin klein vierkantje in het midden
+	Free: Pattern=dit zijn de tulp, Pattern=dan, Pattern=dus, Pattern=die
+	Constrained: Pattern=de tulp
+Turn ID=1| A | A : ah
+	Free: 
+	Constrained: 
+Turn ID=2| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=3| B | B : en wat naar links rechthoekigachtig ding en dan die slurf
+	Free: Pattern=dan, Pattern=en, Pattern=wat, Pattern=die
+	Constrained: 
+Turn ID=4| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=5| B | B : lang ding omheen
+	Free: 
+	Constrained: 
+Turn ID=6| B | B : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=7| A | A : oké dat zijn vier
+	Free: Pattern=dat zijn, Pattern=oké
+	Constrained: 
+Turn ID=8| A | A : oké dit zijn wat ik de tulp noemen
+	Free: Pattern=oké dit zijn, Pattern=de tulp, Pattern=wat
+	Constrained: Pattern=oké
+Turn ID=9| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=10| B | B : ja ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=11| A | A : dus ja met die verdraaien steel en op zo'n soort driehoek waar die dan op staat
+	Free: Pattern=dan, Pattern=die, Pattern=en, Pattern=dus, Pattern=ja
+	Constrained: 
+Turn ID=12| B | B : ja sorry A who oké A
+	Free: Pattern=oké, Pattern=ja
+	Constrained: 
+Turn ID=13| A | A : ja maken niet uit
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=14| B | B : oké dit zijn de tulp
+	Free: Pattern=dit zijn de tulp, Pattern=oké dit zijn
+	Constrained: Pattern=oké, Pattern=de tulp
+Turn ID=15| A | A : yes
+	Free: 
+	Constrained: 
+Turn ID=16| A | A : dat zijn tien
+	Free: Pattern=dat zijn
+	Constrained: 
+Turn ID=17| A | A : dit zijn de tulp
+	Free: Pattern=dit zijn de tulp
+	Constrained: Pattern=de tulp
+Turn ID=18| B | B : de tulp ja dat zijn L
+	Free: Pattern=de tulp, Pattern=dat zijn, Pattern=ja
+	Constrained: 
+Turn ID=19| B | B : dit zijn de tulp
+	Free: Pattern=dit zijn de tulp
+	Constrained: Pattern=de tulp
+Turn ID=20| A | A : oké dat zijn vier
+	Free: Pattern=dat zijn, Pattern=oké
+	Constrained: 
+Turn ID=21| A | A : dit zijn de tulp
+	Free: Pattern=dit zijn de tulp
+	Constrained: Pattern=de tulp
+Turn ID=22| B | B : ja F
+	Free: Pattern=ja
+	Constrained: 

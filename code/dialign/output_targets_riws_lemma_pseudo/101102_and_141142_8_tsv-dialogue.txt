@@ -1,0 +1,147 @@
+B|0| B: _zijn_ _het_ 
+A|1| A: _dit_ figuur hebben _een_ soort 
+A|2| A: satelliet _aan de_ bovenkant _zo_ noemen _ik het_ _het zijn een_ _een_ _ruit_ _met_ daaruit _aan_ beide kant _uitsteeksel_ 
+B|3| B: _ja_ 
+A|4| A: _en_ _aan de onderkant_ hebben _die een_ _een_ slurf 
+B|5| B: _ja_ _dat_ _zijn die met de_ [ruit] 
+A|6| A: _en_ _aan de_ voorkant hebben [die] ook nog _twee_ _uitsteeksel_ [die] eigenlijk _zo_ vooruitgaan 
+B|7| B: [met] _met de_ ruitvorm 
+B|8| B: [zijn] [het] M 
+B|9| B: _ja_ [het zijn] M 
+A|10| A: [zijn] [dat] [die] [die] _ik_ net satelliet noemen 
+A|11| A: _oké_ 
+A|12| A: nummer negen 
+B|13| B: _dit zijn_ weer [die een] _met de_ [met] [die] [ruit] [die] strik [aan de] achterkant 
+B|14| B: [en] dan [met] [die] [twee] armp 
+B|15| B: [die] 
+B|16| B: [en] [die] L [en] [dat] Lvormig [uitsteeksel] [aan de onderkant] 
+B|17| B: hij doen [een] beetje [dit] 
+B|18| B: [zo] interpreteren [ik het] [een] beetje 
+B|19| B: maar [de] [de] strik om [het] [zo] te zeggen 
+B|20| B: [de] [ruit] 
+B|21| B: [oké] 
+A|22| A: [en] [dit [zijn] die met de] satelliet [aan de] bovenkant [en] [de onderkant] [dat] staart 
+A|23| A: lastig 
+A|24| A: moeten je [de] heel tijd zoeken 
+B|25| B: _ja_ 
+B|26| B: [zijn] H 
+A|27| A: [ja] jou beurt 
+A|28| A: [de] [ja] elf 
+B|29| B: [het zijn] [de] strik 
+A|30| A: [dit zijn] [dat] poppe [met de] satelliet [aan de] bovenkant 
+A|31| A: [en] [aan de onderkant] [het] [uitsteeksel] 
+B|32| B: [de] strik 
+B|33| B: [en] [die] staan D 
+A|34| A: nummer veertien 
+B|35| B: [het zijn een] strik 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : zijn het
+	Free: Pattern=zijn, Pattern=het
+	Constrained: 
+Turn ID=1| A | A : dit figuur hebben een soort
+	Free: Pattern=dit, Pattern=een
+	Constrained: 
+Turn ID=2| A | A : satelliet aan de bovenkant zo noemen ik het het zijn een een ruit met daaruit aan beide kant uitsteeksel
+	Free: Pattern=ruit, Pattern=aan, Pattern=aan de, Pattern=een, Pattern=ik het, Pattern=zo, Pattern=met, Pattern=het zijn een, Pattern=uitsteeksel
+	Constrained: Pattern=een, Pattern=het, Pattern=het zijn, Pattern=ik, Pattern=zijn, Pattern=de, Pattern=aan
+Turn ID=3| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=4| A | A : en aan de onderkant hebben die een een slurf
+	Free: Pattern=aan de onderkant, Pattern=die een, Pattern=en, Pattern=een
+	Constrained: Pattern=aan de, Pattern=een, Pattern=de, Pattern=aan, Pattern=die, Pattern=de onderkant
+Turn ID=5| B | B : ja dat zijn die met de ruit
+	Free: Pattern=zijn die met de, Pattern=ja, Pattern=ruit, Pattern=dat
+	Constrained: Pattern=met, Pattern=die, Pattern=zijn, Pattern=de, Pattern=met de
+Turn ID=6| A | A : en aan de voorkant hebben die ook nog twee uitsteeksel die eigenlijk zo vooruitgaan
+	Free: Pattern=twee, Pattern=aan de, Pattern=uitsteeksel, Pattern=zo, Pattern=die, Pattern=en
+	Constrained: Pattern=aan, Pattern=de
+Turn ID=7| B | B : met met de ruitvorm
+	Free: Pattern=met de, Pattern=met
+	Constrained: Pattern=de, Pattern=met
+Turn ID=8| B | B : zijn het M
+	Free: Pattern=zijn, Pattern=het
+	Constrained: 
+Turn ID=9| B | B : ja het zijn M
+	Free: Pattern=het zijn, Pattern=ja
+	Constrained: Pattern=zijn, Pattern=het
+Turn ID=10| A | A : zijn dat die die ik net satelliet noemen
+	Free: Pattern=zijn, Pattern=ik, Pattern=die, Pattern=dat
+	Constrained: 
+Turn ID=11| A | A : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=12| A | A : nummer negen
+	Free: 
+	Constrained: 
+Turn ID=13| B | B : dit zijn weer die een met de met die ruit die strik aan de achterkant
+	Free: Pattern=ruit, Pattern=met de, Pattern=aan de, Pattern=met, Pattern=die, Pattern=die een, Pattern=dit zijn
+	Constrained: Pattern=een, Pattern=dit, Pattern=met, Pattern=die, Pattern=zijn, Pattern=de, Pattern=aan
+Turn ID=14| B | B : en dan met die twee armp
+	Free: Pattern=en, Pattern=die, Pattern=met, Pattern=twee
+	Constrained: 
+Turn ID=15| B | B : die
+	Free: Pattern=die
+	Constrained: 
+Turn ID=16| B | B : en die L en dat Lvormig uitsteeksel aan de onderkant
+	Free: Pattern=dat, Pattern=uitsteeksel, Pattern=aan de onderkant, Pattern=die, Pattern=en
+	Constrained: Pattern=de onderkant, Pattern=aan, Pattern=de, Pattern=aan de
+Turn ID=17| B | B : hij doen een beetje dit
+	Free: Pattern=dit, Pattern=een
+	Constrained: 
+Turn ID=18| B | B : zo interpreteren ik het een beetje
+	Free: Pattern=ik het, Pattern=zo, Pattern=een
+	Constrained: Pattern=ik, Pattern=het
+Turn ID=19| B | B : maar de de strik om het zo te zeggen
+	Free: Pattern=de, Pattern=zo, Pattern=het
+	Constrained: 
+Turn ID=20| B | B : de ruit
+	Free: Pattern=de, Pattern=ruit
+	Constrained: 
+Turn ID=21| B | B : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=22| A | A : en dit zijn die met de satelliet aan de bovenkant en de onderkant dat staart
+	Free: Pattern=dat, Pattern=zijn die met de, Pattern=aan de, Pattern=de onderkant, Pattern=en, Pattern=dit zijn
+	Constrained: Pattern=dit, Pattern=met, Pattern=die, Pattern=zijn, Pattern=de, Pattern=met de, Pattern=aan
+Turn ID=23| A | A : lastig
+	Free: 
+	Constrained: 
+Turn ID=24| A | A : moeten je de heel tijd zoeken
+	Free: Pattern=de
+	Constrained: 
+Turn ID=25| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=26| B | B : zijn H
+	Free: Pattern=zijn
+	Constrained: 
+Turn ID=27| A | A : ja jou beurt
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=28| A | A : de ja elf
+	Free: Pattern=ja, Pattern=de
+	Constrained: 
+Turn ID=29| B | B : het zijn de strik
+	Free: Pattern=het zijn, Pattern=de
+	Constrained: Pattern=zijn, Pattern=het
+Turn ID=30| A | A : dit zijn dat poppe met de satelliet aan de bovenkant
+	Free: Pattern=aan de, Pattern=dit zijn, Pattern=met de, Pattern=dat
+	Constrained: Pattern=dit, Pattern=met, Pattern=zijn, Pattern=de, Pattern=aan
+Turn ID=31| A | A : en aan de onderkant het uitsteeksel
+	Free: Pattern=aan de onderkant, Pattern=en, Pattern=uitsteeksel, Pattern=het
+	Constrained: Pattern=de onderkant, Pattern=aan, Pattern=de, Pattern=aan de
+Turn ID=32| B | B : de strik
+	Free: Pattern=de
+	Constrained: 
+Turn ID=33| B | B : en die staan D
+	Free: Pattern=en, Pattern=die
+	Constrained: 
+Turn ID=34| A | A : nummer veertien
+	Free: 
+	Constrained: 
+Turn ID=35| B | B : het zijn een strik
+	Free: Pattern=het zijn een
+	Constrained: Pattern=een, Pattern=zijn, Pattern=het, Pattern=het zijn

@@ -1,0 +1,139 @@
+A|0| A: ah _die op_ _die_ groot vierkant plaat _staan_ 
+A|1| A: _ja_ 
+A|2| A: vijfteen 
+B|3| B: nou _deze_ [die] _zijn_ wel we hebben het net over één [die op] _een_ onderzetter [staan] 
+B|4| B: _dat zijn_ _deze_ 
+B|5| B: _deze zijn_ er niet doorheen zakken 
+B|6| B: [ja] er zitten _een_ _een_ _een_ soort _van_ schijf _aan de voorkant_ 
+B|7| B: _een_ soort _van_ kraantje link 
+B|8| B: _en_ _aan de_ achterkant zullen _dat_ misschien _ook_ _zo_ _zijn_ maar [die] zien je dan maar half 
+B|9| B: _en een_ _een_ links _en_ rechts achter het kop _ook_ _een_ aantal [ja] _diaman_ 
+B|10| B: kraal 
+B|11| B: [ja] 
+A|12| A: [deze zijn] met [die] cirkel [aan de] [aan de voorkant] [zo] recht ervoor 
+A|13| A: [die op] [dat] groot vierkant eronder [staan] 
+A|14| A: met met drie met [van] [die] drie blok [aan de] zijkant 
+A|15| A: [ja] 
+B|16| B: [ja] 
+B|17| B: okee dan gaan ik _voor_ e 
+A|18| A: [ja] [ook] 
+A|19| A: [dat zijn] vier 
+A|20| A: [deze zijn] met [die] [diaman] [aan de] zijkant [en een] cirkel [voor] 
+B|21| B: [deze zijn] wel [op] [zijn] onderzetter blijven [staan] 
+B|22| B: rond schijf _aan de voorkant en_ diamantfiguurtjes [aan de] achterkant 
+A|23| A: ah [ja] met [die] cirkel ervoor 
+A|24| A: [ja] 
+A|25| A: zes 
+B|26| B: [ja] 
+B|27| B: b 
+A|28| A: dit [zijn] met [die] cirkel [de] [aan de voorkant en] [die] drie vormp [aan de] zijkant [aan de] beide kant 
+A|29| A: [ja] 
+A|30| A: [aan de] zijkant [ja] 
+B|31| B: [deze] staat nog wel gewoon [op] [zijn] onderzetter 
+B|32| B: [en] kraalvorm [aan de] achterkant 
+B|33| B: p 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : ah die op die groot vierkant plaat staan
+	Free: Pattern=die op, Pattern=die, Pattern=staan
+	Constrained: Pattern=die, Pattern=op
+Turn ID=1| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=2| A | A : vijfteen
+	Free: 
+	Constrained: 
+Turn ID=3| B | B : nou deze die zijn wel we hebben het net over één die op een onderzetter staan
+	Free: Pattern=die, Pattern=die op, Pattern=zijn, Pattern=deze, Pattern=een, Pattern=staan
+	Constrained: Pattern=die, Pattern=op
+Turn ID=4| B | B : dat zijn deze
+	Free: Pattern=dat zijn, Pattern=deze
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=5| B | B : deze zijn er niet doorheen zakken
+	Free: Pattern=deze zijn
+	Constrained: Pattern=deze, Pattern=zijn
+Turn ID=6| B | B : ja er zitten een een een soort van schijf aan de voorkant
+	Free: Pattern=aan de voorkant, Pattern=ja, Pattern=van, Pattern=een
+	Constrained: Pattern=aan de, Pattern=de
+Turn ID=7| B | B : een soort van kraantje link
+	Free: Pattern=van, Pattern=een
+	Constrained: 
+Turn ID=8| B | B : en aan de achterkant zullen dat misschien ook zo zijn maar die zien je dan maar half
+	Free: Pattern=dat, Pattern=zo, Pattern=die, Pattern=en, Pattern=zijn, Pattern=aan de, Pattern=ook
+	Constrained: Pattern=de
+Turn ID=9| B | B : en een een links en rechts achter het kop ook een aantal ja diaman
+	Free: Pattern=ja, Pattern=ook, Pattern=een, Pattern=en een, Pattern=diaman, Pattern=en
+	Constrained: Pattern=een, Pattern=en
+Turn ID=10| B | B : kraal
+	Free: 
+	Constrained: 
+Turn ID=11| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=12| A | A : deze zijn met die cirkel aan de aan de voorkant zo recht ervoor
+	Free: Pattern=deze zijn, Pattern=aan de, Pattern=zo, Pattern=die, Pattern=aan de voorkant
+	Constrained: Pattern=de, Pattern=zijn, Pattern=deze, Pattern=aan de
+Turn ID=13| A | A : die op dat groot vierkant eronder staan
+	Free: Pattern=die op, Pattern=staan, Pattern=dat
+	Constrained: Pattern=die, Pattern=op
+Turn ID=14| A | A : met met drie met van die drie blok aan de zijkant
+	Free: Pattern=aan de, Pattern=die, Pattern=van
+	Constrained: Pattern=de
+Turn ID=15| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=16| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=17| B | B : okee dan gaan ik voor e
+	Free: Pattern=voor
+	Constrained: 
+Turn ID=18| A | A : ja ook
+	Free: Pattern=ook, Pattern=ja
+	Constrained: 
+Turn ID=19| A | A : dat zijn vier
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=20| A | A : deze zijn met die diaman aan de zijkant en een cirkel voor
+	Free: Pattern=deze zijn, Pattern=aan de, Pattern=voor, Pattern=die, Pattern=diaman, Pattern=en een
+	Constrained: Pattern=de, Pattern=een, Pattern=en, Pattern=zijn, Pattern=deze
+Turn ID=21| B | B : deze zijn wel op zijn onderzetter blijven staan
+	Free: Pattern=deze zijn, Pattern=staan, Pattern=op, Pattern=zijn
+	Constrained: Pattern=deze, Pattern=zijn
+Turn ID=22| B | B : rond schijf aan de voorkant en diamantfiguurtjes aan de achterkant
+	Free: Pattern=aan de voorkant en, Pattern=aan de
+	Constrained: Pattern=en, Pattern=aan de, Pattern=aan de voorkant, Pattern=de
+Turn ID=23| A | A : ah ja met die cirkel ervoor
+	Free: Pattern=die, Pattern=ja
+	Constrained: 
+Turn ID=24| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=25| A | A : zes
+	Free: 
+	Constrained: 
+Turn ID=26| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=27| B | B : b
+	Free: 
+	Constrained: 
+Turn ID=28| A | A : dit zijn met die cirkel de aan de voorkant en die drie vormp aan de zijkant aan de beide kant
+	Free: Pattern=aan de voorkant en, Pattern=de, Pattern=aan de, Pattern=die, Pattern=zijn
+	Constrained: Pattern=en, Pattern=aan de, Pattern=aan de voorkant, Pattern=de
+Turn ID=29| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=30| A | A : aan de zijkant ja
+	Free: Pattern=aan de, Pattern=ja
+	Constrained: Pattern=de
+Turn ID=31| B | B : deze staat nog wel gewoon op zijn onderzetter
+	Free: Pattern=deze, Pattern=op, Pattern=zijn
+	Constrained: 
+Turn ID=32| B | B : en kraalvorm aan de achterkant
+	Free: Pattern=aan de, Pattern=en
+	Constrained: Pattern=de
+Turn ID=33| B | B : p
+	Free: 
+	Constrained: 

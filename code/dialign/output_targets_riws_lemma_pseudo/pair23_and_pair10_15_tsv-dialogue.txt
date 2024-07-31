@@ -1,0 +1,119 @@
+A|0| A: _en_ _er zitten_ _twee_ stok _aan_ de achterkant 
+A|1| A: omhoog 
+A|2| A: _en_ nog één 
+A|3| A: _ja_ 
+A|4| A: _twee_ 
+B|5| B: nou hebben hem weer [ja] 
+B|6| B: [er zitten] zeggen maar _een_ _een_ plat vierkant [zitten] [er] ongeveer erin _in _het_ kop_ 
+B|7| B: [en] bovenop staan [twee] punt achtig ministaaf 
+B|8| B: [en] link hebben je _zo'n_ 
+B|9| B: [ja] ik [zitten] [aan] _een_ kapstok te denken maar [ja] 
+B|10| B: [en] vooraan hebben je _een_ soort _van_ Ronde staaf die naar voren komen 
+A|11| A: [een] tafel [een] beetje of [een] plateau door de door [het kop] heen _in het midden_ met de slurf eruit [en] [twee] dinget omhoog 
+A|12| A: [ja] 
+B|13| B: [ja] 
+B|14| B: dat zijn bij mij j 
+A|15| A: [ja] 
+A|16| A: veertien 
+B|17| B: deze hebben [in het midden] ongeveer [een] vierkant [zitten] [en] bovenop [twee] staaf 
+A|18| A: [een] tafel door [het midden] [van] de [van] [het kop] heen 
+A|19| A: voorin [een] slurf 
+A|20| A: Bovenin _twee klein_ dinget , links [zo'n] vierkan 
+B|21| B: [ja] dat zijn n 
+B|22| B: [twee klein] staafjes bovenop [en] [een] plat vierkant erin 
+A|23| A: [ja] 
+A|24| A: tien 
+B|25| B: [ja] dat zijn 
+B|26| B: [ja] [ja] dat zijn f 
+A|27| A: tafel halverwege 
+A|28| A: Bovenin [twee klein] dinge 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : en er zitten twee stok aan de achterkant
+	Free: Pattern=er zitten, Pattern=twee, Pattern=aan, Pattern=en
+	Constrained: Pattern=er, Pattern=zitten
+Turn ID=1| A | A : omhoog
+	Free: 
+	Constrained: 
+Turn ID=2| A | A : en nog één
+	Free: Pattern=en
+	Constrained: 
+Turn ID=3| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=4| A | A : twee
+	Free: Pattern=twee
+	Constrained: 
+Turn ID=5| B | B : nou hebben hem weer ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=6| B | B : er zitten zeggen maar een een plat vierkant zitten er ongeveer erin in het kop
+	Free: Pattern=het kop, Pattern=een, Pattern=in het, Pattern=zitten, Pattern=er zitten, Pattern=er
+	Constrained: Pattern=er, Pattern=zitten
+Turn ID=7| B | B : en bovenop staan twee punt achtig ministaaf
+	Free: Pattern=twee, Pattern=en
+	Constrained: 
+Turn ID=8| B | B : en link hebben je zo'n
+	Free: Pattern=zo'n, Pattern=en
+	Constrained: 
+Turn ID=9| B | B : ja ik zitten aan een kapstok te denken maar ja
+	Free: Pattern=aan, Pattern=ja, Pattern=zitten, Pattern=een
+	Constrained: 
+Turn ID=10| B | B : en vooraan hebben je een soort van Ronde staaf die naar voren komen
+	Free: Pattern=van, Pattern=en, Pattern=een
+	Constrained: 
+Turn ID=11| A | A : een tafel een beetje of een plateau door de door het kop heen in het midden met de slurf eruit en twee dinget omhoog
+	Free: Pattern=twee, Pattern=het kop, Pattern=een, Pattern=en, Pattern=in het midden
+	Constrained: Pattern=in het, Pattern=het midden
+Turn ID=12| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=13| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=14| B | B : dat zijn bij mij j
+	Free: 
+	Constrained: 
+Turn ID=15| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=16| A | A : veertien
+	Free: 
+	Constrained: 
+Turn ID=17| B | B : deze hebben in het midden ongeveer een vierkant zitten en bovenop twee staaf
+	Free: Pattern=twee, Pattern=een, Pattern=zitten, Pattern=en, Pattern=in het midden
+	Constrained: Pattern=in het, Pattern=het midden
+Turn ID=18| A | A : een tafel door het midden van de van het kop heen
+	Free: Pattern=het midden, Pattern=het kop, Pattern=van, Pattern=een
+	Constrained: 
+Turn ID=19| A | A : voorin een slurf
+	Free: Pattern=een
+	Constrained: 
+Turn ID=20| A | A : Bovenin twee klein dinget , links zo'n vierkan
+	Free: Pattern=twee klein, Pattern=zo'n
+	Constrained: Pattern=twee
+Turn ID=21| B | B : ja dat zijn n
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=22| B | B : twee klein staafjes bovenop en een plat vierkant erin
+	Free: Pattern=twee klein, Pattern=en, Pattern=een
+	Constrained: Pattern=twee
+Turn ID=23| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=24| A | A : tien
+	Free: 
+	Constrained: 
+Turn ID=25| B | B : ja dat zijn
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=26| B | B : ja ja dat zijn f
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=27| A | A : tafel halverwege
+	Free: 
+	Constrained: 
+Turn ID=28| A | A : Bovenin twee klein dinge
+	Free: Pattern=twee klein
+	Constrained: Pattern=twee

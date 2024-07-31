@@ -1,0 +1,71 @@
+B|0| B: _ah_ daar _zijn_ er maar _één_ _van_ _toch_ 
+B|1| B: _ja_ dan _zijn_ het J 
+A|2| A: deze hebben eigenlijk een soort [van] [ja] hoedje dus een hoe heten zoiets ? een driehoek 
+A|3| A: eigenlijk helemaal bovenaan 
+A|4| A: [ja] en twee [van] _die_ rond althans [één] rond zien je goed helemaal onderaan 
+B|5| B: hum _dit zijn_ [die] piramide op _dat_ hoofd 
+A|6| A: [ah] [ja] 
+A|7| A: [die] driehoek 
+A|8| A: [toch] ? [ja] oké nummer zes 
+B|9| B: ok _dat zijn_ E 
+B|10| B: _dit zijn met_ de piramide bovenop 
+A|11| A: [dit zijn met] [dat] hoedje [die] driehoek 
+B|12| B: [ja] _dat zijn_ G 
+B|13| B: [dit zijn] de piramide er bovenop 
+A|14| A: [ja] oké [dat zijn] nummer tien 
+A|15| A: [dit zijn met] [dat] hoedje [die] driehoek 
+A|16| A: [dat zijn] nummer tien 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : ah daar zijn er maar één van toch
+	Free: Pattern=ah, Pattern=toch, Pattern=van, Pattern=zijn, Pattern=één
+	Constrained: 
+Turn ID=1| B | B : ja dan zijn het J
+	Free: Pattern=zijn, Pattern=ja
+	Constrained: 
+Turn ID=2| A | A : deze hebben eigenlijk een soort van ja hoedje dus een hoe heten zoiets ? een driehoek
+	Free: Pattern=van, Pattern=ja
+	Constrained: 
+Turn ID=3| A | A : eigenlijk helemaal bovenaan
+	Free: 
+	Constrained: 
+Turn ID=4| A | A : ja en twee van die rond althans één rond zien je goed helemaal onderaan
+	Free: Pattern=van, Pattern=die, Pattern=ja, Pattern=één
+	Constrained: 
+Turn ID=5| B | B : hum dit zijn die piramide op dat hoofd
+	Free: Pattern=dit zijn, Pattern=die, Pattern=dat
+	Constrained: Pattern=zijn
+Turn ID=6| A | A : ah ja
+	Free: Pattern=ah, Pattern=ja
+	Constrained: 
+Turn ID=7| A | A : die driehoek
+	Free: Pattern=die
+	Constrained: 
+Turn ID=8| A | A : toch ? ja oké nummer zes
+	Free: Pattern=toch, Pattern=ja
+	Constrained: 
+Turn ID=9| B | B : ok dat zijn E
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=10| B | B : dit zijn met de piramide bovenop
+	Free: Pattern=dit zijn met
+	Constrained: Pattern=dit zijn, Pattern=zijn
+Turn ID=11| A | A : dit zijn met dat hoedje die driehoek
+	Free: Pattern=dit zijn met, Pattern=die, Pattern=dat
+	Constrained: Pattern=dit zijn, Pattern=zijn
+Turn ID=12| B | B : ja dat zijn G
+	Free: Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=13| B | B : dit zijn de piramide er bovenop
+	Free: Pattern=dit zijn
+	Constrained: Pattern=zijn
+Turn ID=14| A | A : ja oké dat zijn nummer tien
+	Free: Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=15| A | A : dit zijn met dat hoedje die driehoek
+	Free: Pattern=dit zijn met, Pattern=die, Pattern=dat
+	Constrained: Pattern=dit zijn, Pattern=zijn
+Turn ID=16| A | A : dat zijn nummer tien
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn

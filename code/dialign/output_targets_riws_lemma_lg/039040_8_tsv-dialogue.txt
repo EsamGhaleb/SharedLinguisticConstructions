@@ -1,0 +1,147 @@
+B|0| B: _denken_ _ik_ _ook_ 
+A|1| A: even kijken _wat_ _zijn_ dit [ook] alweer ? _ja_ er _zitten_ twee _van die_ haak zo 
+A|2| A: _en_ _die_ _hebben_ _een_ lang _stok_ 
+A|3| A: één één haak onder 
+A|4| A: _dat zijn_ eigenlijk _de_ enig _met_ _een_ haak onder echt _zo'n_ 
+B|5| B: [zijn] [dat] [wat] _ik_ [een] beetje _op een olifant vinden lijken_ [met] [ook] [van die] driehoek erbovenop [en] _dan_ 
+A|6| A: even kijken [ik] weten namelijk _niet_ of we _het_ over hetzelfde _hebben_ 
+A|7| A: _ik denken_ _het_ _niet_ want daar [zijn] er nog ander [van] 
+B|8| B: nou misschien _lijken_ [het] 
+A|9| A: hij _hebben_ bovenop _hebben die_ _zo'n_ soort [van] _zo'n_ ruit [met] uitsteeksel 
+B|10| B: [ja] [dat _zijn] het_ wel 
+A|11| A: oké [ja] oké [dat _zijn] de olifant_ goed om te weten 
+B|12| B: nou [ja] 
+B|13| B: nou [het] _lijken_ [niet] _op een olifant_ [ik denken] eerst [een] kat zeggen maar [met] [zo'n] 
+B|14| B: [het] [zijn] hem in ieder geval 
+B|15| B: [het] [zijn] [die] [met] [de] dinge aan [de] onderkant waarvan [ik] _vinden_ [dat] [het] _een olifant_ [zijn] maar [wat] bij nad inzien [niet] _op een olifant_ _lijken_ 
+A|16| A: [ja] [de] _stok_ zo naar voren [ook] 
+B|17| B: [ja] hier [hebben die] [een] [stok] 
+A|18| A: of [niet] 
+A|19| A: [ja] 
+A|20| A: [ja] zo 
+A|21| A: [ja] 
+B|22| B: als je [het] interpreteren als [een] mens 
+A|23| A: [ja] 
+A|24| A: [dan] [zijn het] negen 
+A|25| A: dit [zijn] degeen [die] jij [op een olifant vinden lijken] 
+B|26| B: waar [zijn] [die] 
+B|27| B: [ja] H 
+B|28| B: [het] [zijn] _die olifant_ 
+B|29| B: [wat] [ik] [een olifant vinden] 
+A|30| A: [ja] 
+A|31| A: [ja] elf 
+A|32| A: dit _zijn de olifant_ 
+B|33| B: d 
+B|34| B: [het] [zijn de _olifant] die_ [zitten] bij mij 
+A|35| A: even kijken [die [olifant] die] [zijn] [ja] veertien 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : denken ik ook
+	Free: Pattern=denken, Pattern=ook, Pattern=ik
+	Constrained: 
+Turn ID=1| A | A : even kijken wat zijn dit ook alweer ? ja er zitten twee van die haak zo
+	Free: Pattern=ja, Pattern=ook, Pattern=zitten, Pattern=wat, Pattern=van die, Pattern=zijn
+	Constrained: Pattern=die, Pattern=van
+Turn ID=2| A | A : en die hebben een lang stok
+	Free: Pattern=een, Pattern=hebben, Pattern=die, Pattern=stok, Pattern=en
+	Constrained: 
+Turn ID=3| A | A : één één haak onder
+	Free: 
+	Constrained: 
+Turn ID=4| A | A : dat zijn eigenlijk de enig met een haak onder echt zo'n
+	Free: Pattern=dat zijn, Pattern=zo'n, Pattern=de, Pattern=een, Pattern=met
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=5| B | B : zijn dat wat ik een beetje op een olifant vinden lijken met ook van die driehoek erbovenop en dan
+	Free: Pattern=dat, Pattern=ook, Pattern=dan, Pattern=een, Pattern=met, Pattern=op een olifant vinden lijken, Pattern=wat, Pattern=ik, Pattern=zijn, Pattern=van die, Pattern=en
+	Constrained: Pattern=een olifant vinden, Pattern=op een olifant, Pattern=vinden, Pattern=lijken, Pattern=een, Pattern=die, Pattern=van, Pattern=een olifant
+Turn ID=6| A | A : even kijken ik weten namelijk niet of we het over hetzelfde hebben
+	Free: Pattern=niet, Pattern=hebben, Pattern=ik, Pattern=het
+	Constrained: 
+Turn ID=7| A | A : ik denken het niet want daar zijn er nog ander van
+	Free: Pattern=niet, Pattern=het, Pattern=zijn, Pattern=ik denken, Pattern=van
+	Constrained: Pattern=denken, Pattern=ik
+Turn ID=8| B | B : nou misschien lijken het
+	Free: Pattern=lijken, Pattern=het
+	Constrained: 
+Turn ID=9| A | A : hij hebben bovenop hebben die zo'n soort van zo'n ruit met uitsteeksel
+	Free: Pattern=zo'n, Pattern=hebben, Pattern=met, Pattern=van, Pattern=hebben die
+	Constrained: Pattern=hebben, Pattern=die
+Turn ID=10| B | B : ja dat zijn het wel
+	Free: Pattern=zijn het, Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=dat, Pattern=zijn, Pattern=het
+Turn ID=11| A | A : oké ja oké dat zijn de olifant goed om te weten
+	Free: Pattern=zijn de olifant, Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=dat, Pattern=de, Pattern=zijn
+Turn ID=12| B | B : nou ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=13| B | B : nou het lijken niet op een olifant ik denken eerst een kat zeggen maar met zo'n
+	Free: Pattern=op een olifant, Pattern=zo'n, Pattern=een, Pattern=het, Pattern=met, Pattern=ik denken, Pattern=lijken, Pattern=niet
+	Constrained: Pattern=een olifant, Pattern=ik, Pattern=een, Pattern=denken
+Turn ID=14| B | B : het zijn hem in ieder geval
+	Free: Pattern=zijn, Pattern=het
+	Constrained: 
+Turn ID=15| B | B : het zijn die met de dinge aan de onderkant waarvan ik vinden dat het een olifant zijn maar wat bij nad inzien niet op een olifant lijken
+	Free: Pattern=dat, Pattern=op een olifant, Pattern=het, Pattern=met, Pattern=die, Pattern=wat, Pattern=ik, Pattern=zijn, Pattern=een olifant, Pattern=de, Pattern=vinden, Pattern=lijken, Pattern=niet
+	Constrained: Pattern=een olifant, Pattern=een
+Turn ID=16| A | A : ja de stok zo naar voren ook
+	Free: Pattern=ook, Pattern=de, Pattern=stok, Pattern=ja
+	Constrained: 
+Turn ID=17| B | B : ja hier hebben die een stok
+	Free: Pattern=hebben die, Pattern=een, Pattern=stok, Pattern=ja
+	Constrained: Pattern=hebben, Pattern=die
+Turn ID=18| A | A : of niet
+	Free: Pattern=niet
+	Constrained: 
+Turn ID=19| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=20| A | A : ja zo
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=21| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=22| B | B : als je het interpreteren als een mens
+	Free: Pattern=een, Pattern=het
+	Constrained: 
+Turn ID=23| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=24| A | A : dan zijn het negen
+	Free: Pattern=zijn het, Pattern=dan
+	Constrained: Pattern=zijn, Pattern=het
+Turn ID=25| A | A : dit zijn degeen die jij op een olifant vinden lijken
+	Free: Pattern=op een olifant vinden lijken, Pattern=zijn, Pattern=die
+	Constrained: Pattern=een olifant vinden, Pattern=op een olifant, Pattern=vinden, Pattern=lijken, Pattern=een, Pattern=een olifant
+Turn ID=26| B | B : waar zijn die
+	Free: Pattern=zijn, Pattern=die
+	Constrained: 
+Turn ID=27| B | B : ja H
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=28| B | B : het zijn die olifant
+	Free: Pattern=die olifant, Pattern=zijn, Pattern=het
+	Constrained: Pattern=die
+Turn ID=29| B | B : wat ik een olifant vinden
+	Free: Pattern=een olifant vinden, Pattern=wat, Pattern=ik
+	Constrained: Pattern=een, Pattern=een olifant, Pattern=vinden
+Turn ID=30| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=31| A | A : ja elf
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=32| A | A : dit zijn de olifant
+	Free: Pattern=zijn de olifant
+	Constrained: Pattern=zijn, Pattern=de
+Turn ID=33| B | B : d
+	Free: 
+	Constrained: 
+Turn ID=34| B | B : het zijn de olifant die zitten bij mij
+	Free: Pattern=zijn de olifant, Pattern=olifant die, Pattern=zitten, Pattern=het
+	Constrained: Pattern=de, Pattern=zijn, Pattern=die
+Turn ID=35| A | A : even kijken die olifant die zijn ja veertien
+	Free: Pattern=die olifant, Pattern=olifant die, Pattern=zijn, Pattern=ja
+	Constrained: Pattern=die

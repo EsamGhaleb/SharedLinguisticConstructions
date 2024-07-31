@@ -1,0 +1,139 @@
+A|0| A: _ja_ _het_ hebben zullen ik maar zeggen _twee_ heel ongelijk vlaggenmast alsof je _één_ _lang_ paal _en een_ _kort_ 
+B|1| B: [en een] 
+A|2| A: [en] zo'n _schuin dakje_ _er_ of zo achter achter _die_ 
+B|3| B: [schuin dakje] aan _de_ achterkant 
+A|4| A: _ja_ _ja_ 
+B|5| B: [ja] 
+B|6| B: K 
+B|7| B: one [ja] deze _zijn_ _met die twee_ handvaat waarvan [er] [één] [kort] _zijn_ _dan_ _de_ ander 
+A|8| A: [de] waar [met] _dat_ [schuin dakje] wel [dan] nu 
+B|9| B: [en] 
+B|10| B: [ja] _schuin dak_ 
+A|11| A: _oké_ _dat_ [zijn] negen 
+A|12| A: weten ik niet 
+B|13| B: [oké] 
+A|14| A: _dit_ _dit zijn die een [met_ die twee] 
+B|15| B: [lang] duren 
+A|16| A: uitsteeksel [met] _dat_ [schuin dak] waar [die] niet al [twee] even gelijk [zijn] 
+B|17| B: [ja] F 
+B|18| B: [oké] 
+B|19| B: [dit zijn die een met] [twee] handvaat van ander lengte 
+A|20| A: [ja] wachten even zoeken 
+A|21| A: [zijn] ik nou blind of waar 
+A|22| A: daar 
+A|23| A: [met] _dat_ [een] raar [dakje] [er] nog zo 
+B|24| B: [ja] [dat] vierkantig 
+A|25| A: [ja] 
+A|26| A: nummer drie 
+A|27| A: [dit zijn] weer [dat] [met die twee] ongelijk staven [met] [dat] [schuin dak] 
+B|28| B: [ja] 
+B|29| B: L 
+B|30| B: one's [het] [twee] handvat van [de] ander lengte 
+A|31| A: [ja] [met] [dat] [schuin dak] zo 
+B|32| B: [ja] 
+A|33| A: nummer vijf 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : ja het hebben zullen ik maar zeggen twee heel ongelijk vlaggenmast alsof je één lang paal en een kort
+	Free: Pattern=twee, Pattern=ja, Pattern=het, Pattern=kort, Pattern=lang, Pattern=en een, Pattern=één
+	Constrained: Pattern=een, Pattern=en
+Turn ID=1| B | B : en een
+	Free: Pattern=en een
+	Constrained: Pattern=een, Pattern=en
+Turn ID=2| A | A : en zo'n schuin dakje er of zo achter achter die
+	Free: Pattern=schuin dakje, Pattern=die, Pattern=en, Pattern=er
+	Constrained: Pattern=dakje
+Turn ID=3| B | B : schuin dakje aan de achterkant
+	Free: Pattern=schuin dakje, Pattern=de
+	Constrained: Pattern=dakje
+Turn ID=4| A | A : ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=5| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=6| B | B : K
+	Free: 
+	Constrained: 
+Turn ID=7| B | B : one ja deze zijn met die twee handvaat waarvan er één kort zijn dan de ander
+	Free: Pattern=dan, Pattern=met die twee, Pattern=zijn, Pattern=één, Pattern=de, Pattern=ja, Pattern=kort, Pattern=er
+	Constrained: Pattern=die, Pattern=twee, Pattern=met
+Turn ID=8| A | A : de waar met dat schuin dakje wel dan nu
+	Free: Pattern=schuin dakje, Pattern=dat, Pattern=de, Pattern=dan, Pattern=met
+	Constrained: Pattern=dakje
+Turn ID=9| B | B : en
+	Free: Pattern=en
+	Constrained: 
+Turn ID=10| B | B : ja schuin dak
+	Free: Pattern=schuin dak, Pattern=ja
+	Constrained: 
+Turn ID=11| A | A : oké dat zijn negen
+	Free: Pattern=dat, Pattern=zijn, Pattern=oké
+	Constrained: 
+Turn ID=12| A | A : weten ik niet
+	Free: 
+	Constrained: 
+Turn ID=13| B | B : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=14| A | A : dit dit zijn die een met die twee
+	Free: Pattern=dit zijn die een met, Pattern=met die twee, Pattern=dit
+	Constrained: Pattern=twee, Pattern=een, Pattern=dit, Pattern=met, Pattern=die, Pattern=zijn, Pattern=dit zijn
+Turn ID=15| B | B : lang duren
+	Free: Pattern=lang
+	Constrained: 
+Turn ID=16| A | A : uitsteeksel met dat schuin dak waar die niet al twee even gelijk zijn
+	Free: Pattern=dat, Pattern=schuin dak, Pattern=twee, Pattern=met, Pattern=die, Pattern=zijn
+	Constrained: 
+Turn ID=17| B | B : ja F
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=18| B | B : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=19| B | B : dit zijn die een met twee handvaat van ander lengte
+	Free: Pattern=dit zijn die een met, Pattern=twee
+	Constrained: Pattern=een, Pattern=dit, Pattern=met, Pattern=die, Pattern=zijn, Pattern=dit zijn
+Turn ID=20| A | A : ja wachten even zoeken
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=21| A | A : zijn ik nou blind of waar
+	Free: Pattern=zijn
+	Constrained: 
+Turn ID=22| A | A : daar
+	Free: 
+	Constrained: 
+Turn ID=23| A | A : met dat een raar dakje er nog zo
+	Free: Pattern=dat, Pattern=dakje, Pattern=een, Pattern=met, Pattern=er
+	Constrained: 
+Turn ID=24| B | B : ja dat vierkantig
+	Free: Pattern=dat, Pattern=ja
+	Constrained: 
+Turn ID=25| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=26| A | A : nummer drie
+	Free: 
+	Constrained: 
+Turn ID=27| A | A : dit zijn weer dat met die twee ongelijk staven met dat schuin dak
+	Free: Pattern=dat, Pattern=schuin dak, Pattern=met die twee, Pattern=met, Pattern=dit zijn
+	Constrained: Pattern=twee, Pattern=dit, Pattern=met, Pattern=die, Pattern=zijn
+Turn ID=28| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=29| B | B : L
+	Free: 
+	Constrained: 
+Turn ID=30| B | B : one's het twee handvat van de ander lengte
+	Free: Pattern=de, Pattern=het, Pattern=twee
+	Constrained: 
+Turn ID=31| A | A : ja met dat schuin dak zo
+	Free: Pattern=schuin dak, Pattern=dat, Pattern=met, Pattern=ja
+	Constrained: 
+Turn ID=32| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=33| A | A : nummer vijf
+	Free: 
+	Constrained: 

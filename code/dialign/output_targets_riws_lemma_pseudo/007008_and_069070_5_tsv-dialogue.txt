@@ -1,0 +1,139 @@
+B|0| B: _oké_ deze _zijn_ best _wel_ klein hij _hebben_ twee soort _ding_ _aan de zijkant_ laag _en_ _een_ _balk_ bovenop 
+B|1| B: _en_ hij _hebben_ nog _aan de_ voorkant iets _waar_ _ook_ nog _een_ pin uit komen _of zo_ 
+B|2| B: _ja _die_ zijn_ heel simpel 
+B|3| B: nee 
+A|4| A: [ja] 
+A|5| A: _zo'n_ _zo'n_ _zo'n_ kop [of zo] [aan de zijkant] [of] niet 
+A|6| A: [ja] 
+A|7| A: [oké] dan [hebben] _ik_ [die] al 
+A|8| A: wachten voor [de] zekerheid 
+A|9| A: [ook] [aan de zijkant] [hebben] zeggen _maar_ _zo'n_ [ja] _ik_ jij denken _ik_ 
+A|10| A: [oké] dan [wel] 
+A|11| A: achten 
+B|12| B: [ja] _en_ alleen [maar] [zo] twee van [die] _ding_ [aan de zijkant] _en_ _één_ 
+B|13| B: [oké] _dat_ _zijn_ E 
+B|14| B: [ik] [hebben] [die] heel compact _met_ [zo] [de] _balk_ op [de] bovenkant _en_ twee van [die] _ding_ [aan de zijkant] _en_ _één_ [zo'n] 
+B|15| B: [ja] 
+B|16| B: _dat_ _zijn_ E 
+A|17| A: [de] [dat] balkje boven [en] dan [zo'n] 
+A|18| A: [een] vending machine 
+A|19| A: [dat] [ding] 
+B|20| B: [ik] [hebben] [die] heel compact _met_ [die] _balk_ [aan de] bovenkant 
+B|21| B: [en] [zo] [die] twee klein uitsteeksel 
+A|22| A: [ja] [ja] [ja] 
+A|23| A: [waar] [zijn] [die] 
+A|24| A: [één] 
+B|25| B: [ja] _even_ zoeken 
+B|26| B: [ja] [dat] [zijn] O 
+A|27| A: [de] [ja die] [een] [die] jij lastig vinden 
+A|28| A: [met] [dat] [balk] [en] [dat] schep 
+A|29| A: [en] omgekeerd beker zeggen [maar] 
+A|30| A: [ja] 
+A|31| A: [even] kijken [waar] [die zijn] 
+A|32| A: [de] [ja] [de] schep [en] [dat] omgedraaide beker [en] [dat] [balk] 
+A|33| A: wat jij eerst moeilijk vinden 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : oké deze zijn best wel klein hij hebben twee soort ding aan de zijkant laag en een balk bovenop
+	Free: Pattern=ding, Pattern=hebben, Pattern=balk, Pattern=oké, Pattern=en, Pattern=zijn, Pattern=een, Pattern=aan de zijkant, Pattern=wel
+	Constrained: Pattern=aan de, Pattern=de
+Turn ID=1| B | B : en hij hebben nog aan de voorkant iets waar ook nog een pin uit komen of zo
+	Free: Pattern=of zo, Pattern=waar, Pattern=een, Pattern=hebben, Pattern=en, Pattern=aan de, Pattern=ook
+	Constrained: Pattern=zo, Pattern=de, Pattern=of
+Turn ID=2| B | B : ja die zijn heel simpel
+	Free: Pattern=ja die, Pattern=die zijn
+	Constrained: Pattern=zijn, Pattern=die, Pattern=ja
+Turn ID=3| B | B : nee
+	Free: 
+	Constrained: 
+Turn ID=4| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=5| A | A : zo'n zo'n zo'n kop of zo aan de zijkant of niet
+	Free: Pattern=aan de zijkant, Pattern=of zo, Pattern=zo'n, Pattern=of
+	Constrained: Pattern=de, Pattern=zo, Pattern=aan de, Pattern=of
+Turn ID=6| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=7| A | A : oké dan hebben ik die al
+	Free: Pattern=oké, Pattern=die, Pattern=hebben, Pattern=ik
+	Constrained: 
+Turn ID=8| A | A : wachten voor de zekerheid
+	Free: Pattern=de
+	Constrained: 
+Turn ID=9| A | A : ook aan de zijkant hebben zeggen maar zo'n ja ik jij denken ik
+	Free: Pattern=zo'n, Pattern=ja, Pattern=ook, Pattern=aan de zijkant, Pattern=hebben, Pattern=ik, Pattern=maar
+	Constrained: Pattern=aan de, Pattern=de
+Turn ID=10| A | A : oké dan wel
+	Free: Pattern=oké, Pattern=wel
+	Constrained: 
+Turn ID=11| A | A : achten
+	Free: 
+	Constrained: 
+Turn ID=12| B | B : ja en alleen maar zo twee van die ding aan de zijkant en één
+	Free: Pattern=ja, Pattern=ding, Pattern=aan de zijkant, Pattern=zo, Pattern=die, Pattern=en, Pattern=maar, Pattern=één
+	Constrained: Pattern=aan de, Pattern=de
+Turn ID=13| B | B : oké dat zijn E
+	Free: Pattern=dat, Pattern=oké, Pattern=zijn
+	Constrained: 
+Turn ID=14| B | B : ik hebben die heel compact met zo de balk op de bovenkant en twee van die ding aan de zijkant en één zo'n
+	Free: Pattern=zo'n, Pattern=de, Pattern=ding, Pattern=aan de zijkant, Pattern=hebben, Pattern=zo, Pattern=balk, Pattern=met, Pattern=die, Pattern=ik, Pattern=en, Pattern=één
+	Constrained: Pattern=aan de, Pattern=de
+Turn ID=15| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=16| B | B : dat zijn E
+	Free: Pattern=dat, Pattern=zijn
+	Constrained: 
+Turn ID=17| A | A : de dat balkje boven en dan zo'n
+	Free: Pattern=en, Pattern=dat, Pattern=zo'n, Pattern=de
+	Constrained: 
+Turn ID=18| A | A : een vending machine
+	Free: Pattern=een
+	Constrained: 
+Turn ID=19| A | A : dat ding
+	Free: Pattern=ding, Pattern=dat
+	Constrained: 
+Turn ID=20| B | B : ik hebben die heel compact met die balk aan de bovenkant
+	Free: Pattern=aan de, Pattern=hebben, Pattern=balk, Pattern=met, Pattern=die, Pattern=ik
+	Constrained: Pattern=de
+Turn ID=21| B | B : en zo die twee klein uitsteeksel
+	Free: Pattern=en, Pattern=die, Pattern=zo
+	Constrained: 
+Turn ID=22| A | A : ja ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=23| A | A : waar zijn die
+	Free: Pattern=zijn, Pattern=die, Pattern=waar
+	Constrained: 
+Turn ID=24| A | A : één
+	Free: Pattern=één
+	Constrained: 
+Turn ID=25| B | B : ja even zoeken
+	Free: Pattern=ja, Pattern=even
+	Constrained: 
+Turn ID=26| B | B : ja dat zijn O
+	Free: Pattern=dat, Pattern=zijn, Pattern=ja
+	Constrained: 
+Turn ID=27| A | A : de ja die een die jij lastig vinden
+	Free: Pattern=ja die, Pattern=een, Pattern=die, Pattern=de
+	Constrained: Pattern=die, Pattern=ja
+Turn ID=28| A | A : met dat balk en dat schep
+	Free: Pattern=balk, Pattern=en, Pattern=dat, Pattern=met
+	Constrained: 
+Turn ID=29| A | A : en omgekeerd beker zeggen maar
+	Free: Pattern=en, Pattern=maar
+	Constrained: 
+Turn ID=30| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=31| A | A : even kijken waar die zijn
+	Free: Pattern=die zijn, Pattern=waar, Pattern=even
+	Constrained: Pattern=zijn, Pattern=die
+Turn ID=32| A | A : de ja de schep en dat omgedraaide beker en dat balk
+	Free: Pattern=dat, Pattern=balk, Pattern=en, Pattern=de, Pattern=ja
+	Constrained: 
+Turn ID=33| A | A : wat jij eerst moeilijk vinden
+	Free: 
+	Constrained: 

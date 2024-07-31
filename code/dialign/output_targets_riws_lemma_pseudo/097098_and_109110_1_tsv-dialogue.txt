@@ -1,0 +1,143 @@
+A|0| A: _ja_ 
+A|1| A: dat _zijn_ nummer _twee_ hier 
+A|2| A: _ja_ 
+B|3| B: ik _hebben_ deze als _een soort_ _vierkant_ spijker door [zijn] waar ze als oog 
+B|4| B: [ja] normaal spijker _en_ er _zitten_ nog _een vierkant_ plaat of tegen he [ja] 
+B|5| B: ok 
+A|6| A: dit [zijn] _het_ kop _met_ _aan de_ linkerkant _twee_ handvat _met_ 
+B|7| B: o [ja] [de] normaal spijker _en_ [het] _vierkant aan de voorkant_ 
+B|8| B: ok G 
+A|9| A: blok _die_ groot beginnen [en] steeds klein worden 
+A|10| A: [aan de] bovenkant [zitten] [een] [een soort] van prikker [en] daarvoor [een vierkant] blok plat 
+A|11| A: plat [vierkant] blok 
+A|12| A: nee [aan] één kant 
+A|13| A: allebei [aan de] linkerkant 
+A|14| A: [ja] 
+B|15| B: o Spijker bovenop _vierkant aan de voorkant_ [twee] spijker nog of [twee] [vierkant] spijker als oog 
+B|16| B: [ja] [die] normaal spijker inderdaad bovenop [ja] 
+B|17| B: o jij noemen hem [de] normaal spijker ok dan zullen ik dan zullen ik [die] gebruiken volgen keer 
+A|18| A: [ja] 
+A|19| A: [ja] 
+A|20| A: dat [zijn] nummer negen hier 
+B|21| B: [met] vierkan _aan de voorkant_ 
+B|22| B: [ja] 
+B|23| B: D 
+A|24| A: dit [zijn] [de] mok [die] [aan de] linkerkant [twee] handvaet [hebben] maken van groot naar klein lopen blok 
+A|25| A: [een vierkant] plakkaat [aan de voorkant] [en] [een soort] antenne [aan de] bovenkant 
+B|26| B: [met] [de] normaal spijker bovenop 
+B|27| B: [en] [vierkant] vooraan 
+A|28| A: [ja] 
+A|29| A: [een] antenne 
+A|30| A: [ja] nummer één 
+B|31| B: [ja] [en] [vierkant] oog 
+B|32| B: even kijken B 
+A|33| A: dit [zijn] [de] mok [die] [aan de] linkerkant [twee] dezelfde hengsel [hebben] [met] [die] blok [die] van groot naar klein gaan 
+A|34| A: [en] [een [vierkant] aan de voorkant] [en] [een] antenne [aan de] bovenkant 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=1| A | A : dat zijn nummer twee hier
+	Free: Pattern=zijn, Pattern=twee
+	Constrained: 
+Turn ID=2| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=3| B | B : ik hebben deze als een soort vierkant spijker door zijn waar ze als oog
+	Free: Pattern=een soort, Pattern=zijn, Pattern=vierkant, Pattern=hebben
+	Constrained: Pattern=een
+Turn ID=4| B | B : ja normaal spijker en er zitten nog een vierkant plaat of tegen he ja
+	Free: Pattern=een vierkant, Pattern=en, Pattern=zitten, Pattern=ja
+	Constrained: Pattern=vierkant, Pattern=een
+Turn ID=5| B | B : ok
+	Free: 
+	Constrained: 
+Turn ID=6| A | A : dit zijn het kop met aan de linkerkant twee handvat met
+	Free: Pattern=twee, Pattern=aan de, Pattern=het, Pattern=met, Pattern=zijn
+	Constrained: Pattern=de, Pattern=aan
+Turn ID=7| B | B : o ja de normaal spijker en het vierkant aan de voorkant
+	Free: Pattern=het, Pattern=en, Pattern=vierkant aan de voorkant, Pattern=de, Pattern=ja
+	Constrained: Pattern=aan de, Pattern=de, Pattern=aan, Pattern=vierkant, Pattern=aan de voorkant
+Turn ID=8| B | B : ok G
+	Free: 
+	Constrained: 
+Turn ID=9| A | A : blok die groot beginnen en steeds klein worden
+	Free: Pattern=en, Pattern=die
+	Constrained: 
+Turn ID=10| A | A : aan de bovenkant zitten een een soort van prikker en daarvoor een vierkant blok plat
+	Free: Pattern=aan de, Pattern=een, Pattern=zitten, Pattern=een soort, Pattern=en, Pattern=een vierkant
+	Constrained: Pattern=aan, Pattern=vierkant, Pattern=een, Pattern=de
+Turn ID=11| A | A : plat vierkant blok
+	Free: Pattern=vierkant
+	Constrained: 
+Turn ID=12| A | A : nee aan één kant
+	Free: Pattern=aan
+	Constrained: 
+Turn ID=13| A | A : allebei aan de linkerkant
+	Free: Pattern=aan de
+	Constrained: Pattern=de, Pattern=aan
+Turn ID=14| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=15| B | B : o Spijker bovenop vierkant aan de voorkant twee spijker nog of twee vierkant spijker als oog
+	Free: Pattern=vierkant aan de voorkant, Pattern=vierkant, Pattern=twee
+	Constrained: Pattern=aan de, Pattern=de, Pattern=aan, Pattern=vierkant, Pattern=aan de voorkant
+Turn ID=16| B | B : ja die normaal spijker inderdaad bovenop ja
+	Free: Pattern=die, Pattern=ja
+	Constrained: 
+Turn ID=17| B | B : o jij noemen hem de normaal spijker ok dan zullen ik dan zullen ik die gebruiken volgen keer
+	Free: Pattern=die, Pattern=de
+	Constrained: 
+Turn ID=18| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=19| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=20| A | A : dat zijn nummer negen hier
+	Free: Pattern=zijn
+	Constrained: 
+Turn ID=21| B | B : met vierkan aan de voorkant
+	Free: Pattern=aan de voorkant, Pattern=met
+	Constrained: Pattern=aan, Pattern=de, Pattern=aan de
+Turn ID=22| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=23| B | B : D
+	Free: 
+	Constrained: 
+Turn ID=24| A | A : dit zijn de mok die aan de linkerkant twee handvaet hebben maken van groot naar klein lopen blok
+	Free: Pattern=twee, Pattern=de, Pattern=aan de, Pattern=hebben, Pattern=die, Pattern=zijn
+	Constrained: Pattern=de, Pattern=aan
+Turn ID=25| A | A : een vierkant plakkaat aan de voorkant en een soort antenne aan de bovenkant
+	Free: Pattern=aan de, Pattern=een soort, Pattern=en, Pattern=aan de voorkant, Pattern=een vierkant
+	Constrained: Pattern=aan de, Pattern=een, Pattern=vierkant, Pattern=de, Pattern=aan
+Turn ID=26| B | B : met de normaal spijker bovenop
+	Free: Pattern=de, Pattern=met
+	Constrained: 
+Turn ID=27| B | B : en vierkant vooraan
+	Free: Pattern=en, Pattern=vierkant
+	Constrained: 
+Turn ID=28| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=29| A | A : een antenne
+	Free: Pattern=een
+	Constrained: 
+Turn ID=30| A | A : ja nummer één
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=31| B | B : ja en vierkant oog
+	Free: Pattern=en, Pattern=vierkant, Pattern=ja
+	Constrained: 
+Turn ID=32| B | B : even kijken B
+	Free: 
+	Constrained: 
+Turn ID=33| A | A : dit zijn de mok die aan de linkerkant twee dezelfde hengsel hebben met die blok die van groot naar klein gaan
+	Free: Pattern=twee, Pattern=de, Pattern=aan de, Pattern=hebben, Pattern=met, Pattern=die, Pattern=zijn
+	Constrained: Pattern=de, Pattern=aan
+Turn ID=34| A | A : en een vierkant aan de voorkant en een antenne aan de bovenkant
+	Free: Pattern=aan de, Pattern=een, Pattern=en, Pattern=vierkant aan de voorkant, Pattern=een vierkant
+	Constrained: Pattern=aan de, Pattern=een, Pattern=de, Pattern=aan, Pattern=vierkant, Pattern=aan de voorkant

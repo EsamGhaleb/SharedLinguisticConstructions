@@ -1,0 +1,139 @@
+A|0| A: _ik_ vinden het lijken op een gieter 
+A|1| A: maar dan een heel lelijk gieter je hebben gewoon _dat_ bakkie _en_ aan de een kant of _ja_ aan beide kant steken een soort _zeshoekig_ staafje uit _en_ aan de een kant _zijn_ _die_ vrij kort aan de ander kant lang 
+A|2| A: _en_ dan aan beide uiteinde zitten een bolle 
+A|3| A: _en_ dan bovenop zitten er nog een soort kleppie waar dan ook weer zo'n soort vierkant stok uit steken 
+A|4| A: naar beneden 
+B|5| B: [ja] [dat] [zijn] bij mij arm 
+B|6| B: denken [ik] even kijken 
+B|7| B: [ja] [ja] [ja] K [en] bij jou 
+B|8| B: tien K 
+B|9| B: _dit_ _dit_ deze _dit zijn_ mijn armpjes 
+B|10| B: _dus die_ [zeshoekig] armpjes 
+B|11| B: _met die_ _met_ [dat] gek ding 
+B|12| B: [ja] _met_ [dat] paneel erachter 
+B|13| B: B 
+A|14| A: [ja] 
+A|15| A: nummer negen 
+B|16| B: [ja] 
+B|17| B: F 
+B|18| B: F zeven 
+A|19| A: [dit zijn] wat [ik] [dus] vinden lijken op [die] gieter [met] [dus die] twee [zeshoekig] dinget [en] één [zijn] iets lang [en] dan [die] twee bollet aan de uiteinde daarvan 
+A|20| A: [en] dan een klepje erop 
+A|21| A: aan de zijkant 
+B|22| B: [dit zijn] _met die_ plat achterkant [die] [ik] armp noemen 
+B|23| B: K 
+A|24| A: yes 
+A|25| A: nummer drie 
+B|26| B: even kijken 
+B|27| B: L veertien 
+A|28| A: zeggen maar [dat] gieterdinge 
+A|29| A: [met die] twee staaf waar de bollet aan zitten 
+B|30| B: [dit zijn] mijn arm 
+B|31| B: [met die] plaat 
+B|32| B: [ja] M 
+A|33| A: nummer vijf 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : ik vinden het lijken op een gieter
+	Free: Pattern=ik
+	Constrained: 
+Turn ID=1| A | A : maar dan een heel lelijk gieter je hebben gewoon dat bakkie en aan de een kant of ja aan beide kant steken een soort zeshoekig staafje uit en aan de een kant zijn die vrij kort aan de ander kant lang
+	Free: Pattern=dat, Pattern=ja, Pattern=die, Pattern=en, Pattern=zeshoekig, Pattern=zijn
+	Constrained: 
+Turn ID=2| A | A : en dan aan beide uiteinde zitten een bolle
+	Free: Pattern=en
+	Constrained: 
+Turn ID=3| A | A : en dan bovenop zitten er nog een soort kleppie waar dan ook weer zo'n soort vierkant stok uit steken
+	Free: Pattern=en
+	Constrained: 
+Turn ID=4| A | A : naar beneden
+	Free: 
+	Constrained: 
+Turn ID=5| B | B : ja dat zijn bij mij arm
+	Free: Pattern=dat, Pattern=ja, Pattern=zijn
+	Constrained: 
+Turn ID=6| B | B : denken ik even kijken
+	Free: Pattern=ik
+	Constrained: 
+Turn ID=7| B | B : ja ja ja K en bij jou
+	Free: Pattern=en, Pattern=ja
+	Constrained: 
+Turn ID=8| B | B : tien K
+	Free: 
+	Constrained: 
+Turn ID=9| B | B : dit dit deze dit zijn mijn armpjes
+	Free: Pattern=dit zijn, Pattern=dit
+	Constrained: Pattern=dit, Pattern=zijn
+Turn ID=10| B | B : dus die zeshoekig armpjes
+	Free: Pattern=dus die, Pattern=zeshoekig
+	Constrained: Pattern=die, Pattern=dus
+Turn ID=11| B | B : met die met dat gek ding
+	Free: Pattern=met die, Pattern=dat, Pattern=met
+	Constrained: Pattern=die, Pattern=met
+Turn ID=12| B | B : ja met dat paneel erachter
+	Free: Pattern=dat, Pattern=ja, Pattern=met
+	Constrained: 
+Turn ID=13| B | B : B
+	Free: 
+	Constrained: 
+Turn ID=14| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=15| A | A : nummer negen
+	Free: 
+	Constrained: 
+Turn ID=16| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=17| B | B : F
+	Free: 
+	Constrained: 
+Turn ID=18| B | B : F zeven
+	Free: 
+	Constrained: 
+Turn ID=19| A | A : dit zijn wat ik dus vinden lijken op die gieter met dus die twee zeshoekig dinget en één zijn iets lang en dan die twee bollet aan de uiteinde daarvan
+	Free: Pattern=dus, Pattern=met, Pattern=die, Pattern=dus die, Pattern=ik, Pattern=en, Pattern=dit zijn, Pattern=zeshoekig, Pattern=zijn
+	Constrained: Pattern=dit, Pattern=die, Pattern=dus, Pattern=zijn
+Turn ID=20| A | A : en dan een klepje erop
+	Free: Pattern=en
+	Constrained: 
+Turn ID=21| A | A : aan de zijkant
+	Free: 
+	Constrained: 
+Turn ID=22| B | B : dit zijn met die plat achterkant die ik armp noemen
+	Free: Pattern=dit zijn, Pattern=met die, Pattern=ik, Pattern=die
+	Constrained: Pattern=dit, Pattern=die, Pattern=met, Pattern=zijn
+Turn ID=23| B | B : K
+	Free: 
+	Constrained: 
+Turn ID=24| A | A : yes
+	Free: 
+	Constrained: 
+Turn ID=25| A | A : nummer drie
+	Free: 
+	Constrained: 
+Turn ID=26| B | B : even kijken
+	Free: 
+	Constrained: 
+Turn ID=27| B | B : L veertien
+	Free: 
+	Constrained: 
+Turn ID=28| A | A : zeggen maar dat gieterdinge
+	Free: Pattern=dat
+	Constrained: 
+Turn ID=29| A | A : met die twee staaf waar de bollet aan zitten
+	Free: Pattern=met die
+	Constrained: Pattern=die, Pattern=met
+Turn ID=30| B | B : dit zijn mijn arm
+	Free: Pattern=dit zijn
+	Constrained: Pattern=dit, Pattern=zijn
+Turn ID=31| B | B : met die plaat
+	Free: Pattern=met die
+	Constrained: Pattern=die, Pattern=met
+Turn ID=32| B | B : ja M
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=33| A | A : nummer vijf
+	Free: 
+	Constrained: 

@@ -1,0 +1,223 @@
+A|0| A: oei _dit_ vinden _ik_ _een_ lastig 
+A|1| A: er steken één ding omhoog _en_ _die_ beginnen smal _en_ _die_ worden _steeds_ breder _en dan_ _zijn_ _die_ weer smal 
+A|2| A: _en_ er steken drie ding eruit _aan de zijkant_ 
+A|3| A: waaronder één _zo'n vierkant_ _blok_ 
+A|4| A: hetzelfde als wat _boven_ _zeggen maar_ _dat_ ding 
+A|5| A: _en_ achter _nog_ _zo'n_ _een_ _een_ krulletje 
+A|6| A: _en_ _het_ _zijn_ _een_ pot hij staan _op_ niks _of_ _zo_ _zeggen maar_ 
+A|7| A: wat naar _boven_ eruit steken _en_ _de_ _een_ _kant_ _aan de zijkant_ _zijn_ hetzelfde 
+A|8| A: _en dan_ _hebben_ _je nog_ twee _ander_ dinge ernaast 
+B|9| B: oké event _kijken_ 
+B|10| B: kunnen [je nog] _iets_ veel beschrijven 
+B|11| B: _even_ 
+B|12| B: plat [kant] 
+B|13| B: _nee_ [ik] _denken_ [dat] [ik] [dit] heel anders [hebben] beschrijven toen 
+B|14| B: _even kijken_ 
+B|15| B: welk vormp [hebben] [die] [op] [zijn] hoofd 
+B|16| B: _ja_ oké 
+B|17| B: oké helemaal _in_ [het] midden _bovenop_ 
+B|18| B: [of] niet 
+B|19| B: _ja_ _en [aan de_ zijkant] [zeggen maar] [zijn] [zo'n vierkant] [en] [dat] gaan [dan] [steeds] klein [zeggen maar] 
+B|20| B: _ja_ 
+B|21| B: E 
+A|22| A: [even] [denken] hoor [bovenop] wat [dat] [zijn] 
+A|23| A: [even] [denken] 
+A|24| A: [en] [nee] smal breed 
+A|25| A: alsof er _een_ wolkenkrabber doorheen [zijn] 
+A|26| A: [ja] kloppen 
+A|27| A: [en aan de] achterkant [hebben] [je nog] [zo'n] [zo'n] dinge 
+A|28| A: [ja] 
+A|29| A: elf 
+B|30| B: oké deze [hebben] [zeggen maar] Hierbovenop veel [zo'n] waterdruppel 
+B|31| B: [en [aan de] zijkant] ook [een] waterdruppel 
+B|32| B: [ja] 
+A|33| A: [dit] [zijn] [die] wolkenkrabber [die] erin [zijn] Geboord 
+A|34| A: [en] _boven_ [aan de zijkant] [hebben] [je] [zijn] dezelfde wat erin zitten 
+A|35| A: [en] er zitten achter [nog] [een] staart [of] [iets] [of] _zo_ 
+A|36| A: [ja] kloppen 
+B|37| B: _even kijken_ 
+B|38| B: [ja] met [die] hier [en] hier 
+B|39| B: [ja] 
+B|40| B: J 
+A|41| A: [ja] [ik] zitten te [kijken] 
+A|42| A: [ja] [ik] zien hem 
+A|43| A: negen 
+B|44| B: [die] met [die] druppel hier [en] druppel hier [en dan] [die] [blok] [zo] [aan de] [ander] [kant] 
+B|45| B: [ja] 
+B|46| B: [even] zoeken 
+B|47| B: [ja] 
+A|48| A: [dit] [zijn] [de] [de] wolkenkrabber [die] 
+A|49| A: erin [zijn] boord [en dan] [hebben] [je nog] twee [zo] eruit steken [en] achter [nog] [een] staart [of] [zo] 
+B|50| B: [die] druppel [boven] [en [aan de] zijkant] [en aan de] [ander] [kant] [die] [blok] 
+A|51| A: [even kijken] waar staan [je] 
+A|52| A: [in] [die] arm toch 
+A|53| A: [ja] 
+A|54| A: dertien 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : oei dit vinden ik een lastig
+	Free: Pattern=dit, Pattern=een, Pattern=ik
+	Constrained: 
+Turn ID=1| A | A : er steken één ding omhoog en die beginnen smal en die worden steeds breder en dan zijn die weer smal
+	Free: Pattern=en dan, Pattern=steeds, Pattern=die, Pattern=en, Pattern=zijn
+	Constrained: Pattern=en, Pattern=dan
+Turn ID=2| A | A : en er steken drie ding eruit aan de zijkant
+	Free: Pattern=aan de zijkant, Pattern=en
+	Constrained: Pattern=aan de, Pattern=de
+Turn ID=3| A | A : waaronder één zo'n vierkant blok
+	Free: Pattern=zo'n vierkant, Pattern=blok
+	Constrained: Pattern=zo'n
+Turn ID=4| A | A : hetzelfde als wat boven zeggen maar dat ding
+	Free: Pattern=zeggen maar, Pattern=boven, Pattern=dat
+	Constrained: 
+Turn ID=5| A | A : en achter nog zo'n een een krulletje
+	Free: Pattern=en, Pattern=zo'n, Pattern=een, Pattern=nog
+	Constrained: 
+Turn ID=6| A | A : en het zijn een pot hij staan op niks of zo zeggen maar
+	Free: Pattern=of, Pattern=op, Pattern=een, Pattern=zeggen maar, Pattern=het, Pattern=zo, Pattern=en, Pattern=zijn
+	Constrained: 
+Turn ID=7| A | A : wat naar boven eruit steken en de een kant aan de zijkant zijn hetzelfde
+	Free: Pattern=kant, Pattern=de, Pattern=boven, Pattern=en, Pattern=zijn, Pattern=een, Pattern=aan de zijkant
+	Constrained: Pattern=aan de, Pattern=de
+Turn ID=8| A | A : en dan hebben je nog twee ander dinge ernaast
+	Free: Pattern=je nog, Pattern=en dan, Pattern=hebben, Pattern=ander
+	Constrained: Pattern=en, Pattern=dan, Pattern=je, Pattern=nog
+Turn ID=9| B | B : oké event kijken
+	Free: Pattern=kijken
+	Constrained: 
+Turn ID=10| B | B : kunnen je nog iets veel beschrijven
+	Free: Pattern=je nog, Pattern=iets
+	Constrained: Pattern=je, Pattern=nog
+Turn ID=11| B | B : even
+	Free: Pattern=even
+	Constrained: 
+Turn ID=12| B | B : plat kant
+	Free: Pattern=kant
+	Constrained: 
+Turn ID=13| B | B : nee ik denken dat ik dit heel anders hebben beschrijven toen
+	Free: Pattern=dat, Pattern=denken, Pattern=nee, Pattern=hebben, Pattern=dit, Pattern=ik
+	Constrained: 
+Turn ID=14| B | B : even kijken
+	Free: Pattern=even kijken
+	Constrained: Pattern=even, Pattern=kijken
+Turn ID=15| B | B : welk vormp hebben die op zijn hoofd
+	Free: Pattern=zijn, Pattern=die, Pattern=op, Pattern=hebben
+	Constrained: 
+Turn ID=16| B | B : ja oké
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=17| B | B : oké helemaal in het midden bovenop
+	Free: Pattern=bovenop, Pattern=het, Pattern=in
+	Constrained: 
+Turn ID=18| B | B : of niet
+	Free: Pattern=of
+	Constrained: 
+Turn ID=19| B | B : ja en aan de zijkant zeggen maar zijn zo'n vierkant en dat gaan dan steeds klein zeggen maar
+	Free: Pattern=dat, Pattern=ja, Pattern=aan de zijkant, Pattern=zeggen maar, Pattern=steeds, Pattern=en, Pattern=zijn, Pattern=en aan de, Pattern=zo'n vierkant, Pattern=dan
+	Constrained: Pattern=de, Pattern=zo'n, Pattern=en, Pattern=aan de
+Turn ID=20| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=21| B | B : E
+	Free: 
+	Constrained: 
+Turn ID=22| A | A : even denken hoor bovenop wat dat zijn
+	Free: Pattern=denken, Pattern=even, Pattern=zijn, Pattern=dat, Pattern=bovenop
+	Constrained: 
+Turn ID=23| A | A : even denken
+	Free: Pattern=even, Pattern=denken
+	Constrained: 
+Turn ID=24| A | A : en nee smal breed
+	Free: Pattern=en, Pattern=nee
+	Constrained: 
+Turn ID=25| A | A : alsof er een wolkenkrabber doorheen zijn
+	Free: Pattern=zijn, Pattern=een
+	Constrained: 
+Turn ID=26| A | A : ja kloppen
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=27| A | A : en aan de achterkant hebben je nog zo'n zo'n dinge
+	Free: Pattern=en aan de, Pattern=je nog, Pattern=hebben, Pattern=zo'n
+	Constrained: Pattern=nog, Pattern=de, Pattern=aan de, Pattern=en, Pattern=je
+Turn ID=28| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=29| A | A : elf
+	Free: 
+	Constrained: 
+Turn ID=30| B | B : oké deze hebben zeggen maar Hierbovenop veel zo'n waterdruppel
+	Free: Pattern=zeggen maar, Pattern=hebben, Pattern=zo'n
+	Constrained: 
+Turn ID=31| B | B : en aan de zijkant ook een waterdruppel
+	Free: Pattern=aan de zijkant, Pattern=en aan de, Pattern=een
+	Constrained: Pattern=de, Pattern=en, Pattern=aan de
+Turn ID=32| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=33| A | A : dit zijn die wolkenkrabber die erin zijn Geboord
+	Free: Pattern=dit, Pattern=zijn, Pattern=die
+	Constrained: 
+Turn ID=34| A | A : en boven aan de zijkant hebben je zijn dezelfde wat erin zitten
+	Free: Pattern=boven, Pattern=aan de zijkant, Pattern=hebben, Pattern=en, Pattern=zijn, Pattern=je
+	Constrained: Pattern=aan de, Pattern=de
+Turn ID=35| A | A : en er zitten achter nog een staart of iets of zo
+	Free: Pattern=of, Pattern=nog, Pattern=iets, Pattern=een, Pattern=zo, Pattern=en
+	Constrained: 
+Turn ID=36| A | A : ja kloppen
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=37| B | B : even kijken
+	Free: Pattern=even kijken
+	Constrained: Pattern=even, Pattern=kijken
+Turn ID=38| B | B : ja met die hier en hier
+	Free: Pattern=en, Pattern=die, Pattern=ja
+	Constrained: 
+Turn ID=39| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=40| B | B : J
+	Free: 
+	Constrained: 
+Turn ID=41| A | A : ja ik zitten te kijken
+	Free: Pattern=kijken, Pattern=ik, Pattern=ja
+	Constrained: 
+Turn ID=42| A | A : ja ik zien hem
+	Free: Pattern=ik, Pattern=ja
+	Constrained: 
+Turn ID=43| A | A : negen
+	Free: 
+	Constrained: 
+Turn ID=44| B | B : die met die druppel hier en druppel hier en dan die blok zo aan de ander kant
+	Free: Pattern=kant, Pattern=en dan, Pattern=aan de, Pattern=zo, Pattern=die, Pattern=ander, Pattern=en, Pattern=blok
+	Constrained: Pattern=en, Pattern=dan, Pattern=de
+Turn ID=45| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=46| B | B : even zoeken
+	Free: Pattern=even
+	Constrained: 
+Turn ID=47| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=48| A | A : dit zijn de de wolkenkrabber die
+	Free: Pattern=dit, Pattern=zijn, Pattern=die, Pattern=de
+	Constrained: 
+Turn ID=49| A | A : erin zijn boord en dan hebben je nog twee zo eruit steken en achter nog een staart of zo
+	Free: Pattern=of, Pattern=nog, Pattern=en dan, Pattern=een, Pattern=zo, Pattern=en, Pattern=zijn, Pattern=je nog, Pattern=hebben
+	Constrained: Pattern=en, Pattern=dan, Pattern=je, Pattern=nog
+Turn ID=50| B | B : die druppel boven en aan de zijkant en aan de ander kant die blok
+	Free: Pattern=kant, Pattern=boven, Pattern=aan de zijkant, Pattern=die, Pattern=ander, Pattern=blok, Pattern=en aan de
+	Constrained: Pattern=de, Pattern=en, Pattern=aan de
+Turn ID=51| A | A : even kijken waar staan je
+	Free: Pattern=even kijken, Pattern=je
+	Constrained: Pattern=even, Pattern=kijken
+Turn ID=52| A | A : in die arm toch
+	Free: Pattern=die, Pattern=in
+	Constrained: 
+Turn ID=53| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=54| A | A : dertien
+	Free: 
+	Constrained: 

@@ -1,0 +1,155 @@
+A|0| A: _jij_ _zijn_ 
+A|1| A: _ja_ 
+A|2| A: ik zien _het_ _ja_ 
+A|3| A: _oké_ 
+A|4| A: dwars doorheen toch 
+B|5| B: [oké] hier _zitten _een_ plaat_ door [het] kop 
+A|6| A: _ja_ 
+A|7| A: _ja_ 
+B|8| B: dan steken _er_ link nog _een_ balkje _uit met een_ hoek 
+A|9| A: shit 
+A|10| A: [oké] 
+B|11| B: _en_ recht voor _komen_ nog _een_ balkje eruit _en_ bovenin _komen_ _twee_ klein balkjes eruit 
+B|12| B: [ja] _dat zijn_ C 
+B|13| B: _deze_ _hebben_ weer _zo'n_ _plaat_ erdoorheen _met_ [jij] zeggen mooi _een_ glijbaan 
+B|14| B: _en_ _twee_ _van_ _die_ dinget erop 
+B|15| B: _en_ links nog [het] uitsteeksel 
+A|16| A: [oké] dus [er] [komen] bij [deze] [een] slurfje [uit] [en] [er] gaan [een] rechthoek nee vierkant [er] dwars doorheen 
+A|17| A: [en] [er] [zitten] [twee] cirkelvormig pun op 
+A|18| A: [ja] ik weten niet hoe noemen je [dat] ? cilinder [zitten] [twee] cilinder op 
+A|19| A: [twee] cilinder op [en] [er] voortkomen één cilinder [uit met een] slurf [van] [een] olifant 
+A|20| A: [ja] gaan _ook_ [een plaat] doorheen 
+A|21| A: [oké] welk [zijn] [dat] ? daar [hebben] ik maar één [van] 
+A|22| A: waar [zijn] [die] ? [zijn] [het] [zijn] [het] [met] _de_ slurf 
+A|23| A: [oké] 
+A|24| A: [dat zijn] dertien 
+B|25| B: [ja] [en] [die] [twee] schoorsteen 
+B|26| B: [ja] 
+B|27| B: [dat zijn] J 
+A|28| A: [zijn] wel goed 
+A|29| A: [en] [zo'n] slurf [er] [zitten een] slurfje aan _de_ voorkant 
+A|30| A: [en] daar gaan [een plaat] doorheen 
+B|31| B: dit [zijn] weer [met] [dat] plateau erdoor [en] [de] glijbaan [en] [de] [twee] uitstekend balk [en] links [ook] nog 
+B|32| B: [ja] [dat zijn] N 
+A|33| A: [en] 
+A|34| A: [de] slurf waar [de] [plaat] doorheen gaan waar [zijn] [de] slurf ? Slurf Slurf 
+A|35| A: ah ik zien hem 
+A|36| A: [dat zijn] negen 
+A|37| A: slurf aan [de] voorkant gaan [een plaat] doorheen 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : jij zijn
+	Free: Pattern=zijn, Pattern=jij
+	Constrained: 
+Turn ID=1| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=2| A | A : ik zien het ja
+	Free: Pattern=het, Pattern=ja
+	Constrained: 
+Turn ID=3| A | A : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=4| A | A : dwars doorheen toch
+	Free: 
+	Constrained: 
+Turn ID=5| B | B : oké hier zitten een plaat door het kop
+	Free: Pattern=een plaat, Pattern=zitten een, Pattern=oké, Pattern=het
+	Constrained: Pattern=een, Pattern=plaat, Pattern=zitten
+Turn ID=6| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=7| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=8| B | B : dan steken er link nog een balkje uit met een hoek
+	Free: Pattern=uit met een, Pattern=een, Pattern=er
+	Constrained: Pattern=met, Pattern=een, Pattern=uit
+Turn ID=9| A | A : shit
+	Free: 
+	Constrained: 
+Turn ID=10| A | A : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=11| B | B : en recht voor komen nog een balkje eruit en bovenin komen twee klein balkjes eruit
+	Free: Pattern=een, Pattern=en, Pattern=twee, Pattern=komen
+	Constrained: 
+Turn ID=12| B | B : ja dat zijn C
+	Free: Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=13| B | B : deze hebben weer zo'n plaat erdoorheen met jij zeggen mooi een glijbaan
+	Free: Pattern=zo'n, Pattern=een, Pattern=hebben, Pattern=met, Pattern=deze, Pattern=jij, Pattern=plaat
+	Constrained: 
+Turn ID=14| B | B : en twee van die dinget erop
+	Free: Pattern=en, Pattern=van, Pattern=twee, Pattern=die
+	Constrained: 
+Turn ID=15| B | B : en links nog het uitsteeksel
+	Free: Pattern=en, Pattern=het
+	Constrained: 
+Turn ID=16| A | A : oké dus er komen bij deze een slurfje uit en er gaan een rechthoek nee vierkant er dwars doorheen
+	Free: Pattern=uit, Pattern=komen, Pattern=een, Pattern=oké, Pattern=er, Pattern=en, Pattern=deze
+	Constrained: 
+Turn ID=17| A | A : en er zitten twee cirkelvormig pun op
+	Free: Pattern=er, Pattern=en, Pattern=twee, Pattern=zitten
+	Constrained: 
+Turn ID=18| A | A : ja ik weten niet hoe noemen je dat ? cilinder zitten twee cilinder op
+	Free: Pattern=dat, Pattern=ja, Pattern=twee, Pattern=zitten
+	Constrained: 
+Turn ID=19| A | A : twee cilinder op en er voortkomen één cilinder uit met een slurf van een olifant
+	Free: Pattern=twee, Pattern=een, Pattern=uit met een, Pattern=er, Pattern=van, Pattern=en
+	Constrained: Pattern=met, Pattern=een, Pattern=uit
+Turn ID=20| A | A : ja gaan ook een plaat doorheen
+	Free: Pattern=een plaat, Pattern=ook, Pattern=ja
+	Constrained: Pattern=een, Pattern=plaat
+Turn ID=21| A | A : oké welk zijn dat ? daar hebben ik maar één van
+	Free: Pattern=dat, Pattern=hebben, Pattern=oké, Pattern=van, Pattern=zijn
+	Constrained: 
+Turn ID=22| A | A : waar zijn die ? zijn het zijn het met de slurf
+	Free: Pattern=de, Pattern=het, Pattern=met, Pattern=die, Pattern=zijn
+	Constrained: 
+Turn ID=23| A | A : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=24| A | A : dat zijn dertien
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=25| B | B : ja en die twee schoorsteen
+	Free: Pattern=en, Pattern=ja, Pattern=twee, Pattern=die
+	Constrained: 
+Turn ID=26| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=27| B | B : dat zijn J
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=28| A | A : zijn wel goed
+	Free: Pattern=zijn
+	Constrained: 
+Turn ID=29| A | A : en zo'n slurf er zitten een slurfje aan de voorkant
+	Free: Pattern=zo'n, Pattern=de, Pattern=er, Pattern=zitten een, Pattern=en
+	Constrained: Pattern=een, Pattern=zitten
+Turn ID=30| A | A : en daar gaan een plaat doorheen
+	Free: Pattern=een plaat, Pattern=en
+	Constrained: Pattern=een, Pattern=plaat
+Turn ID=31| B | B : dit zijn weer met dat plateau erdoor en de glijbaan en de twee uitstekend balk en links ook nog
+	Free: Pattern=dat, Pattern=twee, Pattern=de, Pattern=ook, Pattern=met, Pattern=en, Pattern=zijn
+	Constrained: 
+Turn ID=32| B | B : ja dat zijn N
+	Free: Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=33| A | A : en
+	Free: Pattern=en
+	Constrained: 
+Turn ID=34| A | A : de slurf waar de plaat doorheen gaan waar zijn de slurf ? Slurf Slurf
+	Free: Pattern=de, Pattern=zijn, Pattern=plaat
+	Constrained: 
+Turn ID=35| A | A : ah ik zien hem
+	Free: 
+	Constrained: 
+Turn ID=36| A | A : dat zijn negen
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=37| A | A : slurf aan de voorkant gaan een plaat doorheen
+	Free: Pattern=een plaat, Pattern=de
+	Constrained: Pattern=een, Pattern=plaat

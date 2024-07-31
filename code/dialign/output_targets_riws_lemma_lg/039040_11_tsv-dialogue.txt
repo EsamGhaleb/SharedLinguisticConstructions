@@ -1,0 +1,119 @@
+B|0| B: het _zijn_ _die_ _met_ _met_ _zo'n_ _neus_ aan _de_ voorkant 
+A|1| A: bij jou [zo'n] bolle 
+B|2| B: _en_ dan _zonder_ 
+B|3| B: wat 
+A|4| A: _bedoelen_ _je_ [zo'n] bolle 
+B|5| B: _ja_ 
+A|6| A: [ja] 
+B|7| B: _en_ dan _hebben_ _die_ een soort van _kegel_ op _zijn_ hoofd _en_ nog een plank 
+A|8| A: _die twee_ 
+A|9| A: [ja] 
+B|10| B: [ja] 
+A|11| A: [ja] veertien 
+A|12| A: _ik_ [hebben] degeen [met] [de] bolletjesneus [en] [de] _twee_ antenne 
+B|13| B: waar één van een _kegel_ _zijn_ 
+A|14| A: [ja] 
+B|15| B: [ja] N 
+B|16| B: het _zijn_ [die] [met] [die] Neusachtig iets [en] dan [hebben] [die twee] uitsteeksel erbovenop [en] één aan [de] zijkant 
+A|17| A: [ja] negen 
+A|18| A: dit [zijn] degeen [met] [de] [neus] [zonder] piercing [met] [twee] antenne [kegel] bovenop 
+B|19| B: [ja] G 
+A|20| A: oké 
+B|21| B: het [zijn] [die] [met] [die] _neus en_ [die twee] uitsteeksel op [zijn] hoofd 
+A|22| A: [ja] 
+A|23| A: _even_ kijken [de] in [de] piercing 
+A|24| A: [ja] vijf 
+A|25| A: dit [zijn] degeen [met] [de] [neus en] [twee] antenne 
+B|26| B: [ja] [ik] weten welk [je] [bedoelen] [even] 
+B|27| B: [ja] vinden 
+B|28| B: J 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : het zijn die met met zo'n neus aan de voorkant
+	Free: Pattern=zo'n, Pattern=de, Pattern=neus, Pattern=met, Pattern=die, Pattern=zijn
+	Constrained: 
+Turn ID=1| A | A : bij jou zo'n bolle
+	Free: Pattern=zo'n
+	Constrained: 
+Turn ID=2| B | B : en dan zonder
+	Free: Pattern=zonder, Pattern=en
+	Constrained: 
+Turn ID=3| B | B : wat
+	Free: 
+	Constrained: 
+Turn ID=4| A | A : bedoelen je zo'n bolle
+	Free: Pattern=je, Pattern=zo'n, Pattern=bedoelen
+	Constrained: 
+Turn ID=5| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=6| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=7| B | B : en dan hebben die een soort van kegel op zijn hoofd en nog een plank
+	Free: Pattern=kegel, Pattern=hebben, Pattern=die, Pattern=en, Pattern=zijn
+	Constrained: 
+Turn ID=8| A | A : die twee
+	Free: Pattern=die twee
+	Constrained: Pattern=twee, Pattern=die
+Turn ID=9| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=10| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=11| A | A : ja veertien
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=12| A | A : ik hebben degeen met de bolletjesneus en de twee antenne
+	Free: Pattern=twee, Pattern=de, Pattern=hebben, Pattern=met, Pattern=ik, Pattern=en
+	Constrained: 
+Turn ID=13| B | B : waar één van een kegel zijn
+	Free: Pattern=kegel, Pattern=zijn
+	Constrained: 
+Turn ID=14| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=15| B | B : ja N
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=16| B | B : het zijn die met die Neusachtig iets en dan hebben die twee uitsteeksel erbovenop en één aan de zijkant
+	Free: Pattern=de, Pattern=die twee, Pattern=hebben, Pattern=met, Pattern=die, Pattern=en, Pattern=zijn
+	Constrained: Pattern=twee, Pattern=die
+Turn ID=17| A | A : ja negen
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=18| A | A : dit zijn degeen met de neus zonder piercing met twee antenne kegel bovenop
+	Free: Pattern=kegel, Pattern=zonder, Pattern=twee, Pattern=de, Pattern=neus, Pattern=met, Pattern=zijn
+	Constrained: 
+Turn ID=19| B | B : ja G
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=20| A | A : oké
+	Free: 
+	Constrained: 
+Turn ID=21| B | B : het zijn die met die neus en die twee uitsteeksel op zijn hoofd
+	Free: Pattern=die twee, Pattern=die, Pattern=zijn, Pattern=neus en, Pattern=met
+	Constrained: Pattern=twee, Pattern=en, Pattern=neus, Pattern=die
+Turn ID=22| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=23| A | A : even kijken de in de piercing
+	Free: Pattern=even, Pattern=de
+	Constrained: 
+Turn ID=24| A | A : ja vijf
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=25| A | A : dit zijn degeen met de neus en twee antenne
+	Free: Pattern=twee, Pattern=de, Pattern=zijn, Pattern=neus en, Pattern=met
+	Constrained: Pattern=en, Pattern=neus
+Turn ID=26| B | B : ja ik weten welk je bedoelen even
+	Free: Pattern=ja, Pattern=even, Pattern=bedoelen, Pattern=ik, Pattern=je
+	Constrained: 
+Turn ID=27| B | B : ja vinden
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=28| B | B : J
+	Free: 
+	Constrained: 

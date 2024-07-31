@@ -1,0 +1,103 @@
+A|0| A: _met_ _een_ 
+A|1| A: _ja_ 
+A|2| A: _ja_ _en_ _een driehoek_ onder _die_ onder _die_ _staaf_ 
+A|3| A: _ja_ 
+A|4| A: vijfteen 
+B|5| B: _deze_ hebben _aan de onderkant_ [een] soort van draaien [staaf] [en] hij staan _op [een_ driehoek] 
+B|6| B: _en dan_ _bovenop_ nog [een] vierkantje rechts [een] vierkan [en] nog [een] raar figuur _aan de_ linkerkant _zeggen maar_ 
+A|7| A: [deze] staat [op] weer [op] zo'n plateaut _met_ _die_ wat [een] beetje [op een] ijsje lijken [en dan] [een driehoek] eronder 
+A|8| A: _ja_ 
+B|9| B: [ja] 
+B|10| B: _dat_ zijn bij mij à 
+A|11| A: [dat] 
+A|12| A: [ja] [ja] 
+A|13| A: [ja] 
+A|14| A: zeven 
+B|15| B: dit zijn _de_ draaien [staaf] naar beneden [met] _de_ [driehoek] _aan de onderkant_ 
+B|16| B: [ja] waar zijn [die] waar zijn [die] daar [ja] [dat] zijn f 
+A|17| A: [die] [met] [die] swirl dinge [aan de onderkant] [zeggen maar] [dat] of [die] [driehoek] [met] [die] drie 
+A|18| A: [ja] 
+B|19| B: [de] draaien [staaf] naar [de onderkant] [en] [de] [driehoek] waar [die] [op] staan 
+A|20| A: [die] swirl dinge 
+A|21| A: [ja] 
+A|22| A: zes 
+B|23| B: [ja] [dat] zijn à 
+A|24| A: [dat] swirl dinge [met] [die] drie ding [bovenop] 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : met een
+	Free: Pattern=een, Pattern=met
+	Constrained: 
+Turn ID=1| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=2| A | A : ja en een driehoek onder die onder die staaf
+	Free: Pattern=ja, Pattern=staaf, Pattern=die, Pattern=en, Pattern=een driehoek
+	Constrained: Pattern=een, Pattern=driehoek
+Turn ID=3| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=4| A | A : vijfteen
+	Free: 
+	Constrained: 
+Turn ID=5| B | B : deze hebben aan de onderkant een soort van draaien staaf en hij staan op een driehoek
+	Free: Pattern=staaf, Pattern=een, Pattern=aan de onderkant, Pattern=en, Pattern=deze, Pattern=op een, Pattern=een driehoek
+	Constrained: Pattern=driehoek, Pattern=de, Pattern=een, Pattern=de onderkant, Pattern=op, Pattern=aan de
+Turn ID=6| B | B : en dan bovenop nog een vierkantje rechts een vierkan en nog een raar figuur aan de linkerkant zeggen maar
+	Free: Pattern=bovenop, Pattern=en dan, Pattern=aan de, Pattern=een, Pattern=zeggen maar, Pattern=en
+	Constrained: Pattern=en, Pattern=de
+Turn ID=7| A | A : deze staat op weer op zo'n plateaut met die wat een beetje op een ijsje lijken en dan een driehoek eronder
+	Free: Pattern=en dan, Pattern=op, Pattern=een, Pattern=met, Pattern=die, Pattern=deze, Pattern=op een, Pattern=een driehoek
+	Constrained: Pattern=een, Pattern=en, Pattern=driehoek, Pattern=op
+Turn ID=8| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=9| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=10| B | B : dat zijn bij mij à
+	Free: Pattern=dat
+	Constrained: 
+Turn ID=11| A | A : dat
+	Free: Pattern=dat
+	Constrained: 
+Turn ID=12| A | A : ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=13| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=14| A | A : zeven
+	Free: 
+	Constrained: 
+Turn ID=15| B | B : dit zijn de draaien staaf naar beneden met de driehoek aan de onderkant
+	Free: Pattern=driehoek, Pattern=de, Pattern=staaf, Pattern=aan de onderkant, Pattern=met
+	Constrained: Pattern=de onderkant, Pattern=aan de, Pattern=de
+Turn ID=16| B | B : ja waar zijn die waar zijn die daar ja dat zijn f
+	Free: Pattern=die, Pattern=dat, Pattern=ja
+	Constrained: 
+Turn ID=17| A | A : die met die swirl dinge aan de onderkant zeggen maar dat of die driehoek met die drie
+	Free: Pattern=driehoek, Pattern=dat, Pattern=zeggen maar, Pattern=aan de onderkant, Pattern=met, Pattern=die
+	Constrained: Pattern=de onderkant, Pattern=de, Pattern=aan de
+Turn ID=18| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=19| B | B : de draaien staaf naar de onderkant en de driehoek waar die op staan
+	Free: Pattern=driehoek, Pattern=de, Pattern=staaf, Pattern=op, Pattern=en, Pattern=die, Pattern=de onderkant
+	Constrained: Pattern=de
+Turn ID=20| A | A : die swirl dinge
+	Free: Pattern=die
+	Constrained: 
+Turn ID=21| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=22| A | A : zes
+	Free: 
+	Constrained: 
+Turn ID=23| B | B : ja dat zijn à
+	Free: Pattern=dat, Pattern=ja
+	Constrained: 
+Turn ID=24| A | A : dat swirl dinge met die drie ding bovenop
+	Free: Pattern=die, Pattern=bovenop, Pattern=dat, Pattern=met
+	Constrained: 

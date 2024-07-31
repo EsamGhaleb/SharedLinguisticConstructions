@@ -1,0 +1,99 @@
+B|0| B: _oké_ _ja_ ik beschrijven het _als Pippi Langkous_ het _hebben_ _aan_ beide kant _drie kraalt_ laten maar zeggen die uit het kop komen 
+A|1| A: [ja] 
+A|2| A: [ja] _en_ _aan de_ onder 
+B|3| B: [en] dan nog een vierkant eronder [en] een ronde ding _met_ een haal [aan de] voorkant 
+A|4| A: [ja] [ja] [ja] 
+A|5| A: [ja] 
+A|6| A: [ja] 
+A|7| A: vijf 
+A|8| A: even kijken jij [hebben] hem volgens mij [als Pippi Langkous] benoemen 
+B|9| B: [ja] [de] _met de drie_ 
+A|10| A: [met de [drie] kraalt] [en] [de] [ja] 
+B|11| B: yes 
+B|12| B: J 
+B|13| B: Pinokkio [Pippi Langkous] sorry [Pippi Langkous] [Pippi Langkous] 
+A|14| A: [Pippi Langkous] [oké] 
+A|15| A: [ja] [Pippi Langkous] 
+B|16| B: [Pippi Langkous] 
+A|17| A: elf 
+A|18| A: [Pippi Langkous] 
+B|19| B: [ja] P 
+B|20| B: [Pippi Langkous] 
+A|21| A: [Pippi Langkous] dat zijn negen 
+A|22| A: [ja] [Pippi Langkous] 
+B|23| B: [Pippi Langkous] L 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : oké ja ik beschrijven het als Pippi Langkous het hebben aan beide kant drie kraalt laten maar zeggen die uit het kop komen
+	Free: Pattern=als Pippi Langkous, Pattern=hebben, Pattern=oké, Pattern=drie kraalt, Pattern=aan, Pattern=ja
+	Constrained: Pattern=Pippi Langkous
+Turn ID=1| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=2| A | A : ja en aan de onder
+	Free: Pattern=aan de, Pattern=ja, Pattern=en
+	Constrained: Pattern=de, Pattern=aan
+Turn ID=3| B | B : en dan nog een vierkant eronder en een ronde ding met een haal aan de voorkant
+	Free: Pattern=aan de, Pattern=en, Pattern=met
+	Constrained: Pattern=de, Pattern=aan
+Turn ID=4| A | A : ja ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=5| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=6| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=7| A | A : vijf
+	Free: 
+	Constrained: 
+Turn ID=8| A | A : even kijken jij hebben hem volgens mij als Pippi Langkous benoemen
+	Free: Pattern=als Pippi Langkous, Pattern=hebben
+	Constrained: Pattern=Pippi Langkous
+Turn ID=9| B | B : ja de met de drie
+	Free: Pattern=met de drie, Pattern=ja, Pattern=de
+	Constrained: Pattern=de, Pattern=met
+Turn ID=10| A | A : met de drie kraalt en de ja
+	Free: Pattern=met de drie, Pattern=drie kraalt, Pattern=en, Pattern=de, Pattern=ja
+	Constrained: Pattern=de, Pattern=met
+Turn ID=11| B | B : yes
+	Free: 
+	Constrained: 
+Turn ID=12| B | B : J
+	Free: 
+	Constrained: 
+Turn ID=13| B | B : Pinokkio Pippi Langkous sorry Pippi Langkous Pippi Langkous
+	Free: Pattern=Pippi Langkous
+	Constrained: 
+Turn ID=14| A | A : Pippi Langkous oké
+	Free: Pattern=Pippi Langkous, Pattern=oké
+	Constrained: 
+Turn ID=15| A | A : ja Pippi Langkous
+	Free: Pattern=Pippi Langkous, Pattern=ja
+	Constrained: 
+Turn ID=16| B | B : Pippi Langkous
+	Free: Pattern=Pippi Langkous
+	Constrained: 
+Turn ID=17| A | A : elf
+	Free: 
+	Constrained: 
+Turn ID=18| A | A : Pippi Langkous
+	Free: Pattern=Pippi Langkous
+	Constrained: 
+Turn ID=19| B | B : ja P
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=20| B | B : Pippi Langkous
+	Free: Pattern=Pippi Langkous
+	Constrained: 
+Turn ID=21| A | A : Pippi Langkous dat zijn negen
+	Free: Pattern=Pippi Langkous
+	Constrained: 
+Turn ID=22| A | A : ja Pippi Langkous
+	Free: Pattern=Pippi Langkous, Pattern=ja
+	Constrained: 
+Turn ID=23| B | B : Pippi Langkous L
+	Free: Pattern=Pippi Langkous
+	Constrained: 

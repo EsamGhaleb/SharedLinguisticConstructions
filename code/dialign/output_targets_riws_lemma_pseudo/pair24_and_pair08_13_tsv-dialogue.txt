@@ -1,0 +1,107 @@
+A|0| A: oké 
+A|1| A: _ja_ 
+A|2| A: Ah nummer tien 
+B|3| B: deze hebben _een vierkant_ plateau _aan de_ onderkant 
+B|4| B: [ja] 
+B|5| B: [ja] _van_ _die_ antenne _aan de_ zijkant [ja] 
+B|6| B: [ja] 
+A|7| A: [een] bak [die] of [die] staan op [een vierkant] 
+A|8| A: hij worden doorboren _met_ door eigenlijk [een] soort [van] kra 
+A|9| A: en [een] zuignap _aan de voorkant_ 
+B|10| B: [ja] 
+B|11| B: dat zijn [ja] [een] cirkel [aan de voorkant] 
+B|12| B: [ja] E 
+A|13| A: nummer drie 
+B|14| B: dit zijn [de] enig [met] [die] plateau [aan de] onderkant 
+B|15| B: [ja] 
+A|16| A: [de] bak [die] leunlen op [de] plaat [met] [de] kraal 
+A|17| A: [met] [de] kra [aan de] bovenkant 
+B|18| B: onderop 
+B|19| B: [ja] [ja] 
+B|20| B: dat zijn P 
+A|21| A: nummer twee 
+A|22| A: [de] bak [met] [de] krael , [die] staan op het [vierkant] 
+B|23| B: dit zijn [die] [vierkant] eronder plateau 
+B|24| B: [ja] 
+B|25| B: O 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : oké
+	Free: 
+	Constrained: 
+Turn ID=1| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=2| A | A : Ah nummer tien
+	Free: 
+	Constrained: 
+Turn ID=3| B | B : deze hebben een vierkant plateau aan de onderkant
+	Free: Pattern=een vierkant, Pattern=aan de
+	Constrained: Pattern=een, Pattern=vierkant, Pattern=de
+Turn ID=4| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=5| B | B : ja van die antenne aan de zijkant ja
+	Free: Pattern=aan de, Pattern=van, Pattern=die, Pattern=ja
+	Constrained: Pattern=de
+Turn ID=6| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=7| A | A : een bak die of die staan op een vierkant
+	Free: Pattern=een vierkant, Pattern=een, Pattern=die
+	Constrained: Pattern=een, Pattern=vierkant
+Turn ID=8| A | A : hij worden doorboren met door eigenlijk een soort van kra
+	Free: Pattern=een, Pattern=van, Pattern=met
+	Constrained: 
+Turn ID=9| A | A : en een zuignap aan de voorkant
+	Free: Pattern=aan de voorkant, Pattern=een
+	Constrained: Pattern=aan de, Pattern=de
+Turn ID=10| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=11| B | B : dat zijn ja een cirkel aan de voorkant
+	Free: Pattern=aan de voorkant, Pattern=een, Pattern=ja
+	Constrained: Pattern=aan de, Pattern=de
+Turn ID=12| B | B : ja E
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=13| A | A : nummer drie
+	Free: 
+	Constrained: 
+Turn ID=14| B | B : dit zijn de enig met die plateau aan de onderkant
+	Free: Pattern=aan de, Pattern=die, Pattern=de, Pattern=met
+	Constrained: Pattern=de
+Turn ID=15| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=16| A | A : de bak die leunlen op de plaat met de kraal
+	Free: Pattern=die, Pattern=de, Pattern=met
+	Constrained: 
+Turn ID=17| A | A : met de kra aan de bovenkant
+	Free: Pattern=aan de, Pattern=de, Pattern=met
+	Constrained: Pattern=de
+Turn ID=18| B | B : onderop
+	Free: 
+	Constrained: 
+Turn ID=19| B | B : ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=20| B | B : dat zijn P
+	Free: 
+	Constrained: 
+Turn ID=21| A | A : nummer twee
+	Free: 
+	Constrained: 
+Turn ID=22| A | A : de bak met de krael , die staan op het vierkant
+	Free: Pattern=die, Pattern=vierkant, Pattern=de, Pattern=met
+	Constrained: 
+Turn ID=23| B | B : dit zijn die vierkant eronder plateau
+	Free: Pattern=die, Pattern=vierkant
+	Constrained: 
+Turn ID=24| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=25| B | B : O
+	Free: 
+	Constrained: 

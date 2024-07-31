@@ -1,0 +1,115 @@
+B|0| B: oké deze hebben zo'n _plaat_ _vierkant_ _maar_ _dan_ halverwege 
+B|1| B: _en het_ lijken _een_ beetje alsof _die_ zo'n _armp_ opsteekken _en dan_ zo'n slurf hebben _aan de_ voorkant 
+A|2| A: [en dan] _twee_ _van_ [die] dinget 
+B|3| B: _ja_ 
+A|4| A: [dan] _zijn_ _dat_ nummer zes 
+A|5| A: [ja] _dit zijn_ _die met die_ [plaat] [die] zeggen [maar] _op _een_ kwart van_ [de] onderkant zitten 
+A|6| A: _met die twee klein_ staafjes [aan de] bovenkant 
+B|7| B: [ja] 
+A|8| A: _dat_ armdinge [en] _één_ _en die_ glijbaan 
+B|9| B: [en die] slurf [ja] 
+B|10| B: [ja] 
+B|11| B: [dat] [zijn] C 
+B|12| B: [dit zijn] weer [die met die] _vierkant_ [plaat] [op] [op] ongeveer [een kwart van] _het kop_ 
+B|13| B: _met dat_ _armp_ omhoog [met die twee klein] stokjes [op een] _kop_ 
+A|14| A: [ja] 
+A|15| A: nummer dertien 
+A|16| A: [ja] [dit zijn] [die [met] dat] vierkantje [op [een] kwart van] onder 
+A|17| A: [de] [twee klein] staafjes [aan de] bovenkant 
+B|18| B: [ja] 
+A|19| A: [de] glijbaan [en het] zwaaiend [armp] 
+B|20| B: _met de_ 
+B|21| B: _en het armp_ 
+B|22| B: [dat] [zijn] J 
+B|23| B: [dit zijn] weer [met die] _vierkant_ [plaat] [op] [één] vier ongeveer [met die twee klein] cilindertjes bovenop [en] [dat] [armp] omhoog 
+A|24| A: dinget 
+A|25| A: [ja] nummer negen 
+A|26| A: [het kop] [met de] [twee klein] staafjes erbovenop [de] [vierkant] [op [een] kwart] [de] glijbaan [en het armp] 
+B|27| B: [ja] [ja] [dat] [zijn] N 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : oké deze hebben zo'n plaat vierkant maar dan halverwege
+	Free: Pattern=vierkant, Pattern=dan, Pattern=maar, Pattern=plaat
+	Constrained: 
+Turn ID=1| B | B : en het lijken een beetje alsof die zo'n armp opsteekken en dan zo'n slurf hebben aan de voorkant
+	Free: Pattern=en dan, Pattern=een, Pattern=armp, Pattern=die, Pattern=aan de, Pattern=en het
+	Constrained: Pattern=dan, Pattern=de, Pattern=en
+Turn ID=2| A | A : en dan twee van die dinget
+	Free: Pattern=en dan, Pattern=die, Pattern=van, Pattern=twee
+	Constrained: Pattern=dan, Pattern=en
+Turn ID=3| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=4| A | A : dan zijn dat nummer zes
+	Free: Pattern=dan, Pattern=zijn, Pattern=dat
+	Constrained: 
+Turn ID=5| A | A : ja dit zijn die met die plaat die zeggen maar op een kwart van de onderkant zitten
+	Free: Pattern=een kwart van, Pattern=die met die, Pattern=die, Pattern=maar, Pattern=op een, Pattern=dit zijn, Pattern=plaat, Pattern=de, Pattern=ja
+	Constrained: Pattern=met die, Pattern=op, Pattern=een kwart, Pattern=een, Pattern=die met, Pattern=die, Pattern=van, Pattern=zijn
+Turn ID=6| A | A : met die twee klein staafjes aan de bovenkant
+	Free: Pattern=met die twee klein, Pattern=aan de
+	Constrained: Pattern=met die, Pattern=twee, Pattern=de, Pattern=die, Pattern=twee klein
+Turn ID=7| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=8| A | A : dat armdinge en één en die glijbaan
+	Free: Pattern=en die, Pattern=dat, Pattern=één, Pattern=en
+	Constrained: Pattern=die, Pattern=en
+Turn ID=9| B | B : en die slurf ja
+	Free: Pattern=en die, Pattern=ja
+	Constrained: Pattern=die, Pattern=en
+Turn ID=10| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=11| B | B : dat zijn C
+	Free: Pattern=zijn, Pattern=dat
+	Constrained: 
+Turn ID=12| B | B : dit zijn weer die met die vierkant plaat op op ongeveer een kwart van het kop
+	Free: Pattern=een kwart van, Pattern=die met die, Pattern=op, Pattern=het kop, Pattern=vierkant, Pattern=dit zijn, Pattern=plaat
+	Constrained: Pattern=met die, Pattern=een kwart, Pattern=een, Pattern=kop, Pattern=die met, Pattern=die, Pattern=van, Pattern=zijn
+Turn ID=13| B | B : met dat armp omhoog met die twee klein stokjes op een kop
+	Free: Pattern=armp, Pattern=kop, Pattern=met dat, Pattern=op een, Pattern=met die twee klein
+	Constrained: Pattern=twee, Pattern=op, Pattern=een, Pattern=die, Pattern=twee klein, Pattern=dat, Pattern=met die
+Turn ID=14| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=15| A | A : nummer dertien
+	Free: 
+	Constrained: 
+Turn ID=16| A | A : ja dit zijn die met dat vierkantje op een kwart van onder
+	Free: Pattern=een kwart van, Pattern=ja, Pattern=die met, Pattern=met dat, Pattern=op een, Pattern=dit zijn
+	Constrained: Pattern=dat, Pattern=op, Pattern=een kwart, Pattern=een, Pattern=die, Pattern=van, Pattern=zijn
+Turn ID=17| A | A : de twee klein staafjes aan de bovenkant
+	Free: Pattern=aan de, Pattern=twee klein, Pattern=de
+	Constrained: Pattern=de, Pattern=twee
+Turn ID=18| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=19| A | A : de glijbaan en het zwaaiend armp
+	Free: Pattern=en het, Pattern=de, Pattern=armp
+	Constrained: Pattern=en
+Turn ID=20| B | B : met de
+	Free: Pattern=met de
+	Constrained: Pattern=de
+Turn ID=21| B | B : en het armp
+	Free: Pattern=en het armp
+	Constrained: Pattern=en het, Pattern=armp, Pattern=en
+Turn ID=22| B | B : dat zijn J
+	Free: Pattern=zijn, Pattern=dat
+	Constrained: 
+Turn ID=23| B | B : dit zijn weer met die vierkant plaat op één vier ongeveer met die twee klein cilindertjes bovenop en dat armp omhoog
+	Free: Pattern=op, Pattern=armp, Pattern=en, Pattern=met die twee klein, Pattern=dit zijn, Pattern=plaat, Pattern=dat, Pattern=met die, Pattern=vierkant, Pattern=één
+	Constrained: Pattern=met die, Pattern=twee, Pattern=die, Pattern=zijn, Pattern=twee klein
+Turn ID=24| A | A : dinget
+	Free: 
+	Constrained: 
+Turn ID=25| A | A : ja nummer negen
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=26| A | A : het kop met de twee klein staafjes erbovenop de vierkant op een kwart de glijbaan en het armp
+	Free: Pattern=en het armp, Pattern=op een, Pattern=de, Pattern=met de, Pattern=een kwart, Pattern=het kop, Pattern=vierkant, Pattern=twee klein
+	Constrained: Pattern=twee, Pattern=de, Pattern=een, Pattern=armp, Pattern=kop, Pattern=en, Pattern=op, Pattern=en het
+Turn ID=27| B | B : ja ja dat zijn N
+	Free: Pattern=ja, Pattern=zijn, Pattern=dat
+	Constrained: 

@@ -1,0 +1,111 @@
+A|0| A: _even kijken_ _het_ figuur _zijn_ _een_ _een soort_ kop waar _het_ lijken alsof er _een_ _lepel_ uitsteken aan _de_ bovenkant eigenlijk hetzelfde figuurt ongeveer als _wat_ we net hebben 
+A|1| A: _en_ aan _de_ voorkant zitten _een_ bolle _en_ daaruit steken _een_ _ja_ _soort_ staaf 
+B|2| B: [een soort] _neuspiercing_ 
+B|3| B: prachtig maar dan heel extreem 
+A|4| A: zoiets _ja_ 
+B|5| B: of zo 
+B|6| B: [ja] ik denken dat ik wel weten welk dat [zijn] 
+A|7| A: _oké_ 
+B|8| B: dat [zijn] F 
+B|9| B: [oké] _dit zijn de neuspiercing_ 
+B|10| B: [soort] van 
+B|11| B: dus [het] [lepel] [wat] erin opsteken [en] dan dat ding 
+A|12| A: [het] dinge erdoor 
+B|13| B: [ja] 
+A|14| A: [ja] 
+A|15| A: nummer vijf 
+A|16| A: [dit zijn de] [het] poppe met [de neuspiercing] 
+B|17| B: [ja] 
+B|18| B: A 
+B|19| B: yes 
+B|20| B: [neuspiercing] 
+A|21| A: nummer vijf 
+A|22| A: [dit zijn de neuspiercing] 
+B|23| B: [even kijken] 
+B|24| B: H 
+B|25| B: [de neuspiercing] 
+A|26| A: vijftien 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : even kijken het figuur zijn een een soort kop waar het lijken alsof er een lepel uitsteken aan de bovenkant eigenlijk hetzelfde figuurt ongeveer als wat we net hebben
+	Free: Pattern=lepel, Pattern=de, Pattern=een, Pattern=het, Pattern=even kijken, Pattern=wat, Pattern=een soort, Pattern=zijn
+	Constrained: Pattern=soort, Pattern=een
+Turn ID=1| A | A : en aan de voorkant zitten een bolle en daaruit steken een ja soort staaf
+	Free: Pattern=soort, Pattern=een, Pattern=en, Pattern=de, Pattern=ja
+	Constrained: 
+Turn ID=2| B | B : een soort neuspiercing
+	Free: Pattern=een soort, Pattern=neuspiercing
+	Constrained: Pattern=soort, Pattern=een
+Turn ID=3| B | B : prachtig maar dan heel extreem
+	Free: 
+	Constrained: 
+Turn ID=4| A | A : zoiets ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=5| B | B : of zo
+	Free: 
+	Constrained: 
+Turn ID=6| B | B : ja ik denken dat ik wel weten welk dat zijn
+	Free: Pattern=zijn, Pattern=ja
+	Constrained: 
+Turn ID=7| A | A : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=8| B | B : dat zijn F
+	Free: Pattern=zijn
+	Constrained: 
+Turn ID=9| B | B : oké dit zijn de neuspiercing
+	Free: Pattern=dit zijn de neuspiercing, Pattern=oké
+	Constrained: Pattern=de, Pattern=neuspiercing, Pattern=de neuspiercing, Pattern=zijn, Pattern=dit zijn de
+Turn ID=10| B | B : soort van
+	Free: Pattern=soort
+	Constrained: 
+Turn ID=11| B | B : dus het lepel wat erin opsteken en dan dat ding
+	Free: Pattern=en, Pattern=het, Pattern=wat, Pattern=lepel
+	Constrained: 
+Turn ID=12| A | A : het dinge erdoor
+	Free: Pattern=het
+	Constrained: 
+Turn ID=13| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=14| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=15| A | A : nummer vijf
+	Free: 
+	Constrained: 
+Turn ID=16| A | A : dit zijn de het poppe met de neuspiercing
+	Free: Pattern=dit zijn de, Pattern=de neuspiercing, Pattern=het
+	Constrained: Pattern=zijn, Pattern=de, Pattern=neuspiercing
+Turn ID=17| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=18| B | B : A
+	Free: 
+	Constrained: 
+Turn ID=19| B | B : yes
+	Free: 
+	Constrained: 
+Turn ID=20| B | B : neuspiercing
+	Free: Pattern=neuspiercing
+	Constrained: 
+Turn ID=21| A | A : nummer vijf
+	Free: 
+	Constrained: 
+Turn ID=22| A | A : dit zijn de neuspiercing
+	Free: Pattern=dit zijn de neuspiercing
+	Constrained: Pattern=de, Pattern=neuspiercing, Pattern=de neuspiercing, Pattern=zijn, Pattern=dit zijn de
+Turn ID=23| B | B : even kijken
+	Free: Pattern=even kijken
+	Constrained: 
+Turn ID=24| B | B : H
+	Free: 
+	Constrained: 
+Turn ID=25| B | B : de neuspiercing
+	Free: Pattern=de neuspiercing
+	Constrained: Pattern=de, Pattern=neuspiercing
+Turn ID=26| A | A : vijftien
+	Free: 
+	Constrained: 

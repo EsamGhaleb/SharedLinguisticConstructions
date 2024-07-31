@@ -1,0 +1,167 @@
+A|0| A: er komen een soort aan _de_ bovenkant een soort van vierkant vlak uit wat er een beetje schuin in vallen 
+A|1| A: en dan _hebben_ je aan beide kant een soort van staaf wat erdoorheen zitten 
+A|2| A: en aan _de_ linkerkant _zijn_ _die_ kort als aan _de_ rechterkant 
+A|3| A: _ja ja_ 
+A|4| A: _ja_ 
+B|5| B: [die] [ja] 
+B|6| B: [ja] _dat zijn_ K 
+A|7| A: even kijken een vierkant vlak 
+A|8| A: [ja] 
+A|9| A: _met_ [dat] dinge eronder 
+A|10| A: aan [dat] schuin vierkant vlak 
+A|11| A: zitten een dinge onder 
+B|12| B: [ja] hier [zijn] het eigenlijk weer [die] rugtas niet [die] [dat] klein rugtas _maar_ [die] groot [met] [die] uitsteeksel 
+A|13| A: [ja] 
+B|14| B: [ja ja] 
+A|15| A: nummer 
+A|16| A: [ja] 
+A|17| A: [dat zijn] nummer negen 
+B|18| B: groot rugtas [dat zijn] F 
+A|19| A: deze _hebben_ aan allebei _de_ kant zo'n stanget [die] eruit komen [met] zo'n bolle erop en dan zo'n schuin 
+A|20| A: vierkant vlak wat erin vallen 
+A|21| A: [met] een dinge er onderaan 
+A|22| A: onderaan [dat] vierkant vlak 
+B|23| B: [de] groot rugtas 
+A|24| A: [ja] 
+A|25| A: [ja] en [dat] vierkant vlak wat erin vallen staan schuin 
+A|26| A: [ja] 
+A|27| A: [ja] 
+A|28| A: [dat zijn] nummer drie 
+B|29| B: [de] groot tas 
+B|30| B: nee _ik hebben_ alleen [de] klein zien 
+B|31| B: waar ? ah daar 
+B|32| B: L 
+B|33| B: dit [zijn] [de] groot boekentas 
+A|34| A: [ik hebben] deze omschrijven als een spagaat [maar] [dat zijn] [die] een [met] [dat] schuin vlak wat erin vallen en dan aan allebei [de] kant komen er een staaf uit [met] een bolle aan 
+A|35| A: [dat] en [die] staaf één [zijn] lang dan [de] ander 
+A|36| A: [ja] 
+A|37| A: [ja] 
+A|38| A: [ja] 
+A|39| A: spagaat 
+A|40| A: vijf 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : er komen een soort aan de bovenkant een soort van vierkant vlak uit wat er een beetje schuin in vallen
+	Free: Pattern=de
+	Constrained: 
+Turn ID=1| A | A : en dan hebben je aan beide kant een soort van staaf wat erdoorheen zitten
+	Free: Pattern=hebben
+	Constrained: 
+Turn ID=2| A | A : en aan de linkerkant zijn die kort als aan de rechterkant
+	Free: Pattern=zijn, Pattern=die, Pattern=de
+	Constrained: 
+Turn ID=3| A | A : ja ja
+	Free: Pattern=ja ja
+	Constrained: Pattern=ja
+Turn ID=4| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=5| B | B : die ja
+	Free: Pattern=die, Pattern=ja
+	Constrained: 
+Turn ID=6| B | B : ja dat zijn K
+	Free: Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=7| A | A : even kijken een vierkant vlak
+	Free: 
+	Constrained: 
+Turn ID=8| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=9| A | A : met dat dinge eronder
+	Free: Pattern=dat, Pattern=met
+	Constrained: 
+Turn ID=10| A | A : aan dat schuin vierkant vlak
+	Free: Pattern=dat
+	Constrained: 
+Turn ID=11| A | A : zitten een dinge onder
+	Free: 
+	Constrained: 
+Turn ID=12| B | B : ja hier zijn het eigenlijk weer die rugtas niet die dat klein rugtas maar die groot met die uitsteeksel
+	Free: Pattern=dat, Pattern=ja, Pattern=met, Pattern=die, Pattern=zijn, Pattern=maar
+	Constrained: 
+Turn ID=13| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=14| B | B : ja ja
+	Free: Pattern=ja ja
+	Constrained: Pattern=ja
+Turn ID=15| A | A : nummer
+	Free: 
+	Constrained: 
+Turn ID=16| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=17| A | A : dat zijn nummer negen
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=18| B | B : groot rugtas dat zijn F
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=19| A | A : deze hebben aan allebei de kant zo'n stanget die eruit komen met zo'n bolle erop en dan zo'n schuin
+	Free: Pattern=hebben, Pattern=die, Pattern=de, Pattern=met
+	Constrained: 
+Turn ID=20| A | A : vierkant vlak wat erin vallen
+	Free: 
+	Constrained: 
+Turn ID=21| A | A : met een dinge er onderaan
+	Free: Pattern=met
+	Constrained: 
+Turn ID=22| A | A : onderaan dat vierkant vlak
+	Free: Pattern=dat
+	Constrained: 
+Turn ID=23| B | B : de groot rugtas
+	Free: Pattern=de
+	Constrained: 
+Turn ID=24| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=25| A | A : ja en dat vierkant vlak wat erin vallen staan schuin
+	Free: Pattern=dat, Pattern=ja
+	Constrained: 
+Turn ID=26| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=27| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=28| A | A : dat zijn nummer drie
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=29| B | B : de groot tas
+	Free: Pattern=de
+	Constrained: 
+Turn ID=30| B | B : nee ik hebben alleen de klein zien
+	Free: Pattern=ik hebben, Pattern=de
+	Constrained: Pattern=hebben
+Turn ID=31| B | B : waar ? ah daar
+	Free: 
+	Constrained: 
+Turn ID=32| B | B : L
+	Free: 
+	Constrained: 
+Turn ID=33| B | B : dit zijn de groot boekentas
+	Free: Pattern=zijn, Pattern=de
+	Constrained: 
+Turn ID=34| A | A : ik hebben deze omschrijven als een spagaat maar dat zijn die een met dat schuin vlak wat erin vallen en dan aan allebei de kant komen er een staaf uit met een bolle aan
+	Free: Pattern=ik hebben, Pattern=de, Pattern=met, Pattern=die, Pattern=maar, Pattern=dat, Pattern=dat zijn
+	Constrained: Pattern=hebben, Pattern=dat, Pattern=zijn
+Turn ID=35| A | A : dat en die staaf één zijn lang dan de ander
+	Free: Pattern=dat, Pattern=zijn, Pattern=die, Pattern=de
+	Constrained: 
+Turn ID=36| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=37| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=38| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=39| A | A : spagaat
+	Free: 
+	Constrained: 
+Turn ID=40| A | A : vijf
+	Free: 
+	Constrained: 

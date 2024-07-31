@@ -1,0 +1,111 @@
+A|0| A: _ja_ 
+A|1| A: daar _zijn_ er alleen _weer_ _twee_ van 
+A|2| A: één waarbij _die_ er heel diep in _zitten_ _en_ één waarbij _die_ er _maar_ _een_ klein beetje in _zitten_ bij mij 
+A|3| A: degeen waarbij _die_ er heel diep in _zitten_ _hebben_ _een_ soort van bak nog ervoor 
+A|4| A: _en_ degeen _die_ waarbij _die_ er _maar_ niet _zo_ diep in _zitten_ _hebben_ _een_ soort van staaf _en_ _een_ handvat _aan de_ linkerkant 
+A|5| A: _oké_ 
+A|6| A: _dat_ _zijn_ nummer zes 
+B|7| B: [oké] 
+B|8| B: _even_ kijken 
+B|9| B: _dit zijn_ _zeggen maar_ [aan de] zijkant [zitten] [een] [een] steel [die] [zo] omhooggaat _zeggen maar_ 
+B|10| B: [ja] [ja] [zo] als alsof je je arm [zo] [hebben] 
+B|11| B: [ja] [ja] [ja] 
+A|12| A: [dit zijn] [de] iets weinig diep wasbak 
+A|13| A: _met_ [de] _met dat_ handvat link [zeggen maar] 
+A|14| A: [ja] 
+A|15| A: _dat_ [zijn] nummer dertien 
+B|16| B: [ja] [die] [ja] [ja] 
+B|17| B: C 
+A|18| A: [dit zijn] [de] niet [zo] diep gootsteen _met_ het handvat [aan de] linkerkant 
+B|19| B: nu [hebben] ik [die] [weer] [met] [met dat] hand [zo] 
+B|20| B: [en] [met] _links_ bovenop of [met] [met] bovenop zo'n [twee] streep 
+B|21| B: [ja] 
+B|22| B: [ja] 
+B|23| B: J 
+A|24| A: [even] zoeken [ja] [dat] [zijn] negen 
+A|25| A: [dit zijn] [de] niet [zo] diep gootsteen [met] [de] hendel [links] 
+B|26| B: [die] [met] [die] arm [zo] [en] [die] slurf 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=1| A | A : daar zijn er alleen weer twee van
+	Free: Pattern=weer, Pattern=twee, Pattern=zijn
+	Constrained: 
+Turn ID=2| A | A : één waarbij die er heel diep in zitten en één waarbij die er maar een klein beetje in zitten bij mij
+	Free: Pattern=een, Pattern=en, Pattern=maar, Pattern=die, Pattern=zitten
+	Constrained: 
+Turn ID=3| A | A : degeen waarbij die er heel diep in zitten hebben een soort van bak nog ervoor
+	Free: Pattern=die, Pattern=een, Pattern=hebben, Pattern=zitten
+	Constrained: 
+Turn ID=4| A | A : en degeen die waarbij die er maar niet zo diep in zitten hebben een soort van staaf en een handvat aan de linkerkant
+	Free: Pattern=aan de, Pattern=een, Pattern=hebben, Pattern=zo, Pattern=en, Pattern=maar, Pattern=die, Pattern=zitten
+	Constrained: Pattern=de
+Turn ID=5| A | A : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=6| A | A : dat zijn nummer zes
+	Free: Pattern=dat, Pattern=zijn
+	Constrained: 
+Turn ID=7| B | B : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=8| B | B : even kijken
+	Free: Pattern=even
+	Constrained: 
+Turn ID=9| B | B : dit zijn zeggen maar aan de zijkant zitten een een steel die zo omhooggaat zeggen maar
+	Free: Pattern=aan de, Pattern=een, Pattern=zeggen maar, Pattern=zo, Pattern=dit zijn, Pattern=die, Pattern=zitten
+	Constrained: Pattern=maar, Pattern=de, Pattern=zijn
+Turn ID=10| B | B : ja ja zo als alsof je je arm zo hebben
+	Free: Pattern=hebben, Pattern=zo, Pattern=ja
+	Constrained: 
+Turn ID=11| B | B : ja ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=12| A | A : dit zijn de iets weinig diep wasbak
+	Free: Pattern=dit zijn, Pattern=de
+	Constrained: Pattern=zijn
+Turn ID=13| A | A : met de met dat handvat link zeggen maar
+	Free: Pattern=zeggen maar, Pattern=met dat, Pattern=met, Pattern=de
+	Constrained: Pattern=met, Pattern=dat, Pattern=maar
+Turn ID=14| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=15| A | A : dat zijn nummer dertien
+	Free: Pattern=dat, Pattern=zijn
+	Constrained: 
+Turn ID=16| B | B : ja die ja ja
+	Free: Pattern=die, Pattern=ja
+	Constrained: 
+Turn ID=17| B | B : C
+	Free: 
+	Constrained: 
+Turn ID=18| A | A : dit zijn de niet zo diep gootsteen met het handvat aan de linkerkant
+	Free: Pattern=de, Pattern=aan de, Pattern=zo, Pattern=met, Pattern=dit zijn
+	Constrained: Pattern=de, Pattern=zijn
+Turn ID=19| B | B : nu hebben ik die weer met met dat hand zo
+	Free: Pattern=hebben, Pattern=zo, Pattern=met dat, Pattern=met, Pattern=die, Pattern=weer
+	Constrained: Pattern=met, Pattern=dat
+Turn ID=20| B | B : en met links bovenop of met met bovenop zo'n twee streep
+	Free: Pattern=met, Pattern=en, Pattern=links, Pattern=twee
+	Constrained: 
+Turn ID=21| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=22| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=23| B | B : J
+	Free: 
+	Constrained: 
+Turn ID=24| A | A : even zoeken ja dat zijn negen
+	Free: Pattern=dat, Pattern=even, Pattern=ja, Pattern=zijn
+	Constrained: 
+Turn ID=25| A | A : dit zijn de niet zo diep gootsteen met de hendel links
+	Free: Pattern=de, Pattern=links, Pattern=zo, Pattern=met, Pattern=dit zijn
+	Constrained: Pattern=zijn
+Turn ID=26| B | B : die met die arm zo en die slurf
+	Free: Pattern=met, Pattern=die, Pattern=en, Pattern=zo
+	Constrained: 

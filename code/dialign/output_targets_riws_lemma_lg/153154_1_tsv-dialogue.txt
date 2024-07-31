@@ -1,0 +1,147 @@
+B|0| B: _ja_ _dit_ vinden _ik_ echt _een_ _raar_ ding _het_ _zijn_ _een_ kop 
+B|1| B: _en_ _er_ _zitten_ _aan de_ linkerkant _twee_ _van _die_ vierkant_ _die_ steeds groot worden _aan_ 
+A|2| A: [ja] [ja] [van die] neus [die] [ik] _en dan_ [zitten] [er] _een vierkant_ 
+B|3| B: [ja] [en dan] _aan de_ ander _kant_ [een vierkant] 
+A|4| A: [ja] [ja] [ja] _met_ [een] soort [van] [raar] knopding _of_ _zo_ _of_ [een] _spijker ja_ 
+B|5| B: _ja die_ 
+B|6| B: [spijker ja] 
+B|7| B: [die] 
+A|8| A: [ja] [ik] denken _dat_ [het] zo'n ejectionknop _zo_ zoiets [zijn] 
+B|9| B: [dat] kunnen ook 
+A|10| A: [ja] [dat] [dat] [zijn] bij mij [twee] 
+A|11| A: _dit zijn die een met_ [dat] [raar] _vierkant aan de_ rechts [kant] [en dan] _die die_ ejectionknop 
+B|12| B: [ja] 
+B|13| B: [die] 
+B|14| B: [ja] oké 
+A|15| A: [en dan] [die] [twee] soort [van] [vierkant] neus [die] eruit komen 
+B|16| B: [ja] 
+B|17| B: G 
+B|18| B: [dit zijn die een _met] die_ ding op [zijn] [zijn die] naald wat je zeggen [of] [die [die] die] [spijker] 
+B|19| B: [met] [twee] [van _die] [vierkant_ aan de] zijkant [die] [zo] groot worden 
+B|20| B: [en] [het] [vierkant] 
+A|21| A: [ja] [met die] ejection 
+B|22| B: _ja die_ 
+A|23| A: [ja] [ja] [ja] 
+A|24| A: nummer negen 
+A|25| A: [dit zijn die een met] [dat] [vierkant] [met die] ejectionknop _en die_ [twee] [vierkant] neus [die] eruit komen 
+B|26| B: [ja] D 
+B|27| B: [dit zijn die een met] [de] hoe noemen je [het] ? [die] [spijker] in [zijn] hoofd [en] [dat] vierkantje 
+A|28| A: [ja die] ejection [met die] [twee] [met [die] vierkant] neus [die] eruit komen 
+B|29| B: [en die] 
+B|30| B: [ja] Ejection [ja] wauw wat [zijn] mijn geheug goed vandaag 
+B|31| B: [ja] 
+A|32| A: nummer één 
+A|33| A: degeen [met] [dat] [vierkant] schild [die] ejectionknop [en die] [twee] [vierkant] neuzen 
+B|34| B: [ja] 
+B|35| B: [ja] hier B 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : ja dit vinden ik echt een raar ding het zijn een kop
+	Free: Pattern=ja, Pattern=een, Pattern=het, Pattern=dit, Pattern=ik, Pattern=zijn, Pattern=raar
+	Constrained: 
+Turn ID=1| B | B : en er zitten aan de linkerkant twee van die vierkant die steeds groot worden aan
+	Free: Pattern=die vierkant, Pattern=twee, Pattern=aan, Pattern=aan de, Pattern=er, Pattern=die, Pattern=zitten, Pattern=van die, Pattern=en
+	Constrained: Pattern=die, Pattern=van, Pattern=vierkant, Pattern=de, Pattern=aan
+Turn ID=2| A | A : ja ja van die neus die ik en dan zitten er een vierkant
+	Free: Pattern=ja, Pattern=en dan, Pattern=er, Pattern=ik, Pattern=van die, Pattern=een vierkant, Pattern=die, Pattern=zitten
+	Constrained: Pattern=een, Pattern=die, Pattern=vierkant, Pattern=van, Pattern=en
+Turn ID=3| B | B : ja en dan aan de ander kant een vierkant
+	Free: Pattern=kant, Pattern=ja, Pattern=en dan, Pattern=aan de, Pattern=een vierkant
+	Constrained: Pattern=een, Pattern=en, Pattern=vierkant, Pattern=de, Pattern=aan
+Turn ID=4| A | A : ja ja ja met een soort van raar knopding of zo of een spijker ja
+	Free: Pattern=of, Pattern=ja, Pattern=spijker ja, Pattern=een, Pattern=zo, Pattern=met, Pattern=van, Pattern=raar
+	Constrained: Pattern=spijker, Pattern=ja
+Turn ID=5| B | B : ja die
+	Free: Pattern=ja die
+	Constrained: Pattern=ja, Pattern=die
+Turn ID=6| B | B : spijker ja
+	Free: Pattern=spijker ja
+	Constrained: Pattern=spijker, Pattern=ja
+Turn ID=7| B | B : die
+	Free: Pattern=die
+	Constrained: 
+Turn ID=8| A | A : ja ik denken dat het zo'n ejectionknop zo zoiets zijn
+	Free: Pattern=dat, Pattern=ja, Pattern=het, Pattern=zo, Pattern=ik, Pattern=zijn
+	Constrained: 
+Turn ID=9| B | B : dat kunnen ook
+	Free: Pattern=dat
+	Constrained: 
+Turn ID=10| A | A : ja dat dat zijn bij mij twee
+	Free: Pattern=zijn, Pattern=ja, Pattern=twee, Pattern=dat
+	Constrained: 
+Turn ID=11| A | A : dit zijn die een met dat raar vierkant aan de rechts kant en dan die die ejectionknop
+	Free: Pattern=dit zijn die een met, Pattern=en dan, Pattern=die die, Pattern=dat, Pattern=kant, Pattern=vierkant aan de, Pattern=raar
+	Constrained: Pattern=aan de, Pattern=een, Pattern=zijn die, Pattern=dit, Pattern=met, Pattern=die, Pattern=en, Pattern=zijn, Pattern=vierkant, Pattern=de, Pattern=aan
+Turn ID=12| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=13| B | B : die
+	Free: Pattern=die
+	Constrained: 
+Turn ID=14| B | B : ja oké
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=15| A | A : en dan die twee soort van vierkant neus die eruit komen
+	Free: Pattern=twee, Pattern=en dan, Pattern=die, Pattern=van, Pattern=vierkant
+	Constrained: Pattern=en
+Turn ID=16| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=17| B | B : G
+	Free: 
+	Constrained: 
+Turn ID=18| B | B : dit zijn die een met die ding op zijn zijn die naald wat je zeggen of die die die spijker
+	Free: Pattern=met die, Pattern=of, Pattern=dit zijn die een met, Pattern=zijn die, Pattern=die die, Pattern=zijn, Pattern=spijker
+	Constrained: Pattern=een, Pattern=zijn die, Pattern=dit, Pattern=met, Pattern=die, Pattern=zijn
+Turn ID=19| B | B : met twee van die vierkant aan de zijkant die zo groot worden
+	Free: Pattern=die vierkant, Pattern=twee, Pattern=zo, Pattern=met, Pattern=die, Pattern=van die, Pattern=vierkant aan de
+	Constrained: Pattern=aan de, Pattern=die, Pattern=van, Pattern=vierkant, Pattern=de, Pattern=aan
+Turn ID=20| B | B : en het vierkant
+	Free: Pattern=het, Pattern=vierkant, Pattern=en
+	Constrained: 
+Turn ID=21| A | A : ja met die ejection
+	Free: Pattern=met die, Pattern=ja
+	Constrained: Pattern=met, Pattern=die
+Turn ID=22| B | B : ja die
+	Free: Pattern=ja die
+	Constrained: Pattern=ja, Pattern=die
+Turn ID=23| A | A : ja ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=24| A | A : nummer negen
+	Free: 
+	Constrained: 
+Turn ID=25| A | A : dit zijn die een met dat vierkant met die ejectionknop en die twee vierkant neus die eruit komen
+	Free: Pattern=en die, Pattern=die, Pattern=vierkant, Pattern=dat, Pattern=met die, Pattern=dit zijn die een met, Pattern=twee
+	Constrained: Pattern=een, Pattern=zijn die, Pattern=dit, Pattern=met, Pattern=die, Pattern=en, Pattern=zijn
+Turn ID=26| B | B : ja D
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=27| B | B : dit zijn die een met de hoe noemen je het ? die spijker in zijn hoofd en dat vierkantje
+	Free: Pattern=dat, Pattern=dit zijn die een met, Pattern=de, Pattern=het, Pattern=die, Pattern=en, Pattern=zijn, Pattern=spijker
+	Constrained: Pattern=een, Pattern=zijn die, Pattern=dit, Pattern=met, Pattern=die, Pattern=zijn
+Turn ID=28| A | A : ja die ejection met die twee met die vierkant neus die eruit komen
+	Free: Pattern=met die, Pattern=die vierkant, Pattern=ja die, Pattern=twee, Pattern=die
+	Constrained: Pattern=ja, Pattern=vierkant, Pattern=met, Pattern=die
+Turn ID=29| B | B : en die
+	Free: Pattern=en die
+	Constrained: Pattern=en, Pattern=die
+Turn ID=30| B | B : ja Ejection ja wauw wat zijn mijn geheug goed vandaag
+	Free: Pattern=zijn, Pattern=ja
+	Constrained: 
+Turn ID=31| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=32| A | A : nummer één
+	Free: 
+	Constrained: 
+Turn ID=33| A | A : degeen met dat vierkant schild die ejectionknop en die twee vierkant neuzen
+	Free: Pattern=en die, Pattern=dat, Pattern=twee, Pattern=met, Pattern=die, Pattern=vierkant
+	Constrained: Pattern=en, Pattern=die
+Turn ID=34| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=35| B | B : ja hier B
+	Free: Pattern=ja
+	Constrained: 

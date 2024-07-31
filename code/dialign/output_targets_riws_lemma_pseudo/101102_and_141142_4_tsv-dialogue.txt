@@ -1,0 +1,111 @@
+A|0| A: _ja_ 
+A|1| A: _dit_ figuur _hebben_ even kijken _aan de_ bovenkant _een_ soort hoedje op _met_ _een_ plat dak _aan de_ bovenkant 
+A|2| A: _en_ _aan de rechterkant_ staan _een_ soort isteken 
+A|3| A: _en_ _aan de_ linkerkant _een_ minne 
+A|4| A: _en_ dan _hebben_ _die_ _aan de_ Linkeronderkant _hebben_ _die_ nog _een_ soort komma staart 
+B|5| B: [ja] 
+B|6| B: ik zien _het_ _het_ _zijn_ I 
+B|7| B: ik [hebben] hem 
+B|8| B: [ja] 
+A|9| A: [ja] 
+A|10| A: nummer _twee_ 
+B|11| B: nou [ja] _dit zijn_ weer [die] [een] [met] [de] lampenkap erop [en] [die] [twee] cilinder [die] eruit steken [aan de rechterkant] 
+B|12| B: rechthoe correctie 
+B|13| B: [ja] 
+B|14| B: [ja] [ja] 
+B|15| B: [ja] 
+A|16| A: [dit zijn] dat plaat [met] dat heuvel [aan de] bovenkant [en] [aan de] [een] kant [het] isje [en] [aan de] ander kant [het] minteken 
+B|17| B: [ja] 
+B|18| B: [ja] M 
+A|19| A: [ja] nummer negen 
+B|20| B: [dit zijn] [de] lampenkap [met] [de] [twee] balk eruit 
+B|21| B: [ja] [ja] [ja] [ja] 
+B|22| B: oké 
+A|23| A: [en] [dit zijn] [die] [met] [het] isteken rechts [en] [het] minne link 
+B|24| B: F 
+A|25| A: nummer zes 
+B|26| B: [het] [zijn] [de] lampenkap [met] [de] [twee] balk 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=1| A | A : dit figuur hebben even kijken aan de bovenkant een soort hoedje op met een plat dak aan de bovenkant
+	Free: Pattern=aan de, Pattern=een, Pattern=hebben, Pattern=dit, Pattern=met
+	Constrained: Pattern=de
+Turn ID=2| A | A : en aan de rechterkant staan een soort isteken
+	Free: Pattern=aan de rechterkant, Pattern=een, Pattern=en
+	Constrained: Pattern=aan de, Pattern=de
+Turn ID=3| A | A : en aan de linkerkant een minne
+	Free: Pattern=aan de, Pattern=een, Pattern=en
+	Constrained: Pattern=de
+Turn ID=4| A | A : en dan hebben die aan de Linkeronderkant hebben die nog een soort komma staart
+	Free: Pattern=aan de, Pattern=een, Pattern=hebben, Pattern=die, Pattern=en
+	Constrained: Pattern=de
+Turn ID=5| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=6| B | B : ik zien het het zijn I
+	Free: Pattern=zijn, Pattern=het
+	Constrained: 
+Turn ID=7| B | B : ik hebben hem
+	Free: Pattern=hebben
+	Constrained: 
+Turn ID=8| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=9| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=10| A | A : nummer twee
+	Free: Pattern=twee
+	Constrained: 
+Turn ID=11| B | B : nou ja dit zijn weer die een met de lampenkap erop en die twee cilinder die eruit steken aan de rechterkant
+	Free: Pattern=twee, Pattern=een, Pattern=met, Pattern=en, Pattern=dit zijn, Pattern=de, Pattern=ja, Pattern=aan de rechterkant, Pattern=die
+	Constrained: Pattern=dit, Pattern=de, Pattern=zijn, Pattern=aan de
+Turn ID=12| B | B : rechthoe correctie
+	Free: 
+	Constrained: 
+Turn ID=13| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=14| B | B : ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=15| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=16| A | A : dit zijn dat plaat met dat heuvel aan de bovenkant en aan de een kant het isje en aan de ander kant het minteken
+	Free: Pattern=aan de, Pattern=een, Pattern=het, Pattern=met, Pattern=en, Pattern=dit zijn
+	Constrained: Pattern=dit, Pattern=zijn, Pattern=de
+Turn ID=17| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=18| B | B : ja M
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=19| A | A : ja nummer negen
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=20| B | B : dit zijn de lampenkap met de twee balk eruit
+	Free: Pattern=dit zijn, Pattern=twee, Pattern=de, Pattern=met
+	Constrained: Pattern=dit, Pattern=zijn
+Turn ID=21| B | B : ja ja ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=22| B | B : oké
+	Free: 
+	Constrained: 
+Turn ID=23| A | A : en dit zijn die met het isteken rechts en het minne link
+	Free: Pattern=het, Pattern=met, Pattern=die, Pattern=en, Pattern=dit zijn
+	Constrained: Pattern=dit, Pattern=zijn
+Turn ID=24| B | B : F
+	Free: 
+	Constrained: 
+Turn ID=25| A | A : nummer zes
+	Free: 
+	Constrained: 
+Turn ID=26| B | B : het zijn de lampenkap met de twee balk
+	Free: Pattern=twee, Pattern=de, Pattern=het, Pattern=met, Pattern=zijn
+	Constrained: 

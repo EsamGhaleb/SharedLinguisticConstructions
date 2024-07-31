@@ -1,0 +1,95 @@
+A|0| A: _ja ik_ weten welk je bedoelen 
+A|1| A: _ja_ 
+A|2| A: nummer zes 
+B|3| B: [ja ik] zien _het_ _een_ beetje als _een_ soort van ballerina _het_ hebben zeggen maar _het_ _zijn_ _een_ pot _met_ _een_ vierkant plaat om zich heen 
+B|4| B: [ja] zo'n tutuu 
+B|5| B: [ja] 
+B|6| B: oké 
+A|7| A: [ja] _dit zijn_ die [een] [met] die lang neus zo en _dat_ dinget zo eromheen 
+A|8| A: en dan _dat_ armp 
+A|9| A: [ja] 
+A|10| A: nummer dertien 
+A|11| A: _dit zijn_ _dat poppe met_ die langwerpig neus en _dat_ armpje zo omhoog [met] _dat_ dinge eromheen 
+B|12| B: [ja] 
+B|13| B: [dat] [zijn] C 
+B|14| B: [dit zijn] weer [dat poppe met] _het_ tutuu 
+A|15| A: [ja] 
+A|16| A: nummer negen 
+A|17| A: [het] [poppe met] die lang neus en [dat] armpje zo omhoog en die twee spriet bovenop 
+B|18| B: oké 
+B|19| B: [dat] [zijn] J 
+B|20| B: [dit zijn] weer [met] [het] tutuu 
+B|21| B: [ja] 
+B|22| B: [dat] [zijn] N 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : ja ik weten welk je bedoelen
+	Free: Pattern=ja ik
+	Constrained: Pattern=ja
+Turn ID=1| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=2| A | A : nummer zes
+	Free: 
+	Constrained: 
+Turn ID=3| B | B : ja ik zien het een beetje als een soort van ballerina het hebben zeggen maar het zijn een pot met een vierkant plaat om zich heen
+	Free: Pattern=een, Pattern=het, Pattern=met, Pattern=ja ik, Pattern=zijn
+	Constrained: Pattern=ja
+Turn ID=4| B | B : ja zo'n tutuu
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=5| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=6| B | B : oké
+	Free: 
+	Constrained: 
+Turn ID=7| A | A : ja dit zijn die een met die lang neus zo en dat dinget zo eromheen
+	Free: Pattern=dat, Pattern=ja, Pattern=een, Pattern=met, Pattern=dit zijn
+	Constrained: Pattern=zijn
+Turn ID=8| A | A : en dan dat armp
+	Free: Pattern=dat
+	Constrained: 
+Turn ID=9| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=10| A | A : nummer dertien
+	Free: 
+	Constrained: 
+Turn ID=11| A | A : dit zijn dat poppe met die langwerpig neus en dat armpje zo omhoog met dat dinge eromheen
+	Free: Pattern=dat poppe met, Pattern=dit zijn, Pattern=met, Pattern=dat
+	Constrained: Pattern=poppe met, Pattern=zijn, Pattern=met, Pattern=dat
+Turn ID=12| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=13| B | B : dat zijn C
+	Free: Pattern=zijn, Pattern=dat
+	Constrained: 
+Turn ID=14| B | B : dit zijn weer dat poppe met het tutuu
+	Free: Pattern=dat poppe met, Pattern=dit zijn, Pattern=het
+	Constrained: Pattern=poppe met, Pattern=zijn, Pattern=met, Pattern=dat
+Turn ID=15| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=16| A | A : nummer negen
+	Free: 
+	Constrained: 
+Turn ID=17| A | A : het poppe met die lang neus en dat armpje zo omhoog en die twee spriet bovenop
+	Free: Pattern=poppe met, Pattern=het, Pattern=dat
+	Constrained: Pattern=met
+Turn ID=18| B | B : oké
+	Free: 
+	Constrained: 
+Turn ID=19| B | B : dat zijn J
+	Free: Pattern=zijn, Pattern=dat
+	Constrained: 
+Turn ID=20| B | B : dit zijn weer met het tutuu
+	Free: Pattern=dit zijn, Pattern=het, Pattern=met
+	Constrained: Pattern=zijn
+Turn ID=21| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=22| B | B : dat zijn N
+	Free: Pattern=zijn, Pattern=dat
+	Constrained: 

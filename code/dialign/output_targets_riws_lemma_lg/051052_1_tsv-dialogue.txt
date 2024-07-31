@@ -1,0 +1,111 @@
+B|0| B: _dit zijn die_ _met_ _die vierkant_ plaat _aan de voorkant_ _plakken_ 
+B|1| B: _en_ dan links zitten _twee_ _van_ _die_ soort schroef _die_ _met_ _die_ vierkantjes _die steeds groot worden_ 
+A|2| A: _ja_ 
+A|3| A: [en] daarbovenop zo'n _schoorsteen_ 
+B|4| B: [ja] 
+A|5| A: [ja] 
+A|6| A: _dat zijn_ nummer [twee] 
+A|7| A: [dit zijn die] _dat_ beker [met] vierkantje erop [plakken] 
+A|8| A: [aan de] linkerkant _die vierkant [die steeds_ groot worden] [en] _het schoorsteen_ 
+B|9| B: [ja] 
+B|10| B: [dat zijn] G 
+B|11| B: [dit zijn] weer [dat] ding [met] [dat] [vierkant] _aan de voorkant_ 
+B|12| B: [en] dan [dat] paddenstoele [en] [die] [twee] schroef link [die] [met] [die vierkant die steeds] 
+A|13| A: [ja] [dat zijn] nummer negen 
+A|14| A: _schoorsteen_ vierkantje [aan de voorkant] _de [vierkant_ [die steeds] groot worden] [aan de] linkerkant 
+A|15| A: [en] hij staan bij mij echt praktisch in _het_ midden iets linksboven [van] _het_ midden 
+B|16| B: wachten ik doen eerst [dat zijn] D 
+A|17| A: [ja] 
+B|18| B: [dit zijn die] weer [met] [het schoorsteen] [met] [de vierkant] [aan de voorkant] 
+A|19| A: [en] [de] 
+B|20| B: [twee] schroef link 
+A|21| A: [die steeds groot worden] 
+B|22| B: [ja] 
+A|23| A: nummer één 
+A|24| A: [het schoorsteen] vierkantje erop [en] [de] [twee] [groot worden] [vierkant] 
+B|25| B: [ja] 
+B|26| B: [dat zijn] B 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : dit zijn die met die vierkant plaat aan de voorkant plakken
+	Free: Pattern=die vierkant, Pattern=dit zijn die, Pattern=met, Pattern=aan de voorkant, Pattern=plakken
+	Constrained: Pattern=de, Pattern=aan de, Pattern=die, Pattern=vierkant, Pattern=dit zijn
+Turn ID=1| B | B : en dan links zitten twee van die soort schroef die met die vierkantjes die steeds groot worden
+	Free: Pattern=twee, Pattern=die steeds groot worden, Pattern=met, Pattern=die, Pattern=van, Pattern=en
+	Constrained: Pattern=groot worden, Pattern=die
+Turn ID=2| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=3| A | A : en daarbovenop zo'n schoorsteen
+	Free: Pattern=schoorsteen, Pattern=en
+	Constrained: 
+Turn ID=4| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=5| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=6| A | A : dat zijn nummer twee
+	Free: Pattern=dat zijn, Pattern=twee
+	Constrained: Pattern=dat
+Turn ID=7| A | A : dit zijn die dat beker met vierkantje erop plakken
+	Free: Pattern=dit zijn die, Pattern=dat, Pattern=plakken, Pattern=met
+	Constrained: Pattern=dit zijn, Pattern=die
+Turn ID=8| A | A : aan de linkerkant die vierkant die steeds groot worden en het schoorsteen
+	Free: Pattern=die vierkant die steeds, Pattern=die steeds groot worden, Pattern=en, Pattern=het schoorsteen, Pattern=aan de
+	Constrained: Pattern=die vierkant, Pattern=de, Pattern=het, Pattern=schoorsteen, Pattern=vierkant die steeds, Pattern=die, Pattern=groot worden, Pattern=vierkant
+Turn ID=9| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=10| B | B : dat zijn G
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat
+Turn ID=11| B | B : dit zijn weer dat ding met dat vierkant aan de voorkant
+	Free: Pattern=dat, Pattern=met, Pattern=dit zijn, Pattern=vierkant, Pattern=aan de voorkant
+	Constrained: Pattern=de, Pattern=aan de
+Turn ID=12| B | B : en dan dat paddenstoele en die twee schroef link die met die vierkant die steeds
+	Free: Pattern=dat, Pattern=twee, Pattern=die vierkant die steeds, Pattern=met, Pattern=die, Pattern=en
+	Constrained: Pattern=vierkant, Pattern=vierkant die steeds, Pattern=die vierkant, Pattern=die
+Turn ID=13| A | A : ja dat zijn nummer negen
+	Free: Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=dat
+Turn ID=14| A | A : schoorsteen vierkantje aan de voorkant de vierkant die steeds groot worden aan de linkerkant
+	Free: Pattern=aan de, Pattern=de vierkant, Pattern=schoorsteen, Pattern=aan de voorkant, Pattern=vierkant die steeds, Pattern=die steeds groot worden
+	Constrained: Pattern=de, Pattern=aan de, Pattern=die, Pattern=groot worden, Pattern=vierkant
+Turn ID=15| A | A : en hij staan bij mij echt praktisch in het midden iets linksboven van het midden
+	Free: Pattern=van, Pattern=het, Pattern=en
+	Constrained: 
+Turn ID=16| B | B : wachten ik doen eerst dat zijn D
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat
+Turn ID=17| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=18| B | B : dit zijn die weer met het schoorsteen met de vierkant aan de voorkant
+	Free: Pattern=dit zijn die, Pattern=het schoorsteen, Pattern=de vierkant, Pattern=met, Pattern=aan de voorkant
+	Constrained: Pattern=de, Pattern=aan de, Pattern=het, Pattern=schoorsteen, Pattern=die, Pattern=vierkant, Pattern=dit zijn
+Turn ID=19| A | A : en de
+	Free: Pattern=de, Pattern=en
+	Constrained: 
+Turn ID=20| B | B : twee schroef link
+	Free: Pattern=twee
+	Constrained: 
+Turn ID=21| A | A : die steeds groot worden
+	Free: Pattern=die steeds groot worden
+	Constrained: Pattern=groot worden, Pattern=die
+Turn ID=22| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=23| A | A : nummer één
+	Free: 
+	Constrained: 
+Turn ID=24| A | A : het schoorsteen vierkantje erop en de twee groot worden vierkant
+	Free: Pattern=twee, Pattern=de, Pattern=het schoorsteen, Pattern=en, Pattern=groot worden, Pattern=vierkant
+	Constrained: Pattern=het, Pattern=schoorsteen
+Turn ID=25| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=26| B | B : dat zijn B
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat

@@ -1,0 +1,75 @@
+A|0| A: _ja_ ik noemen dit kralen 
+A|1| A: oké _ja_ _dat_ zijn nummer vijf 
+B|2| B: hij hebben aan _de_ het hij _staan_ eigenlijk ook gewoon _op_ een _op_ een vierkant _op_ een blauw vierkant 
+B|3| B: [ja] [ja] [ja] aan allebei _de_ kant 
+A|4| A: oké dit zijn _die_ _met die_ kra 
+A|5| A: [op] _die_ erop [staan] 
+B|6| B: [ja] [ja] [ja] 
+B|7| B: J 
+A|8| A: _dat_ zijn elf 
+A|9| A: dit zijn _die_ _met_ [de] krael 
+B|10| B: weer [die] [op] een vierkant plaat [staan] en aan allebei [de] kant zo'n diaman 
+A|11| A: _dat_ zijn negen 
+B|12| B: [ja] 
+B|13| B: P 
+A|14| A: dit zijn [die] _met_ [de] krael 
+B|15| B: weer [die] [op] [op] [dat] vierkant [staan] en [met die] diaman 
+B|16| B: [ja] 
+B|17| B: L 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : ja ik noemen dit kralen
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=1| A | A : oké ja dat zijn nummer vijf
+	Free: Pattern=dat, Pattern=ja
+	Constrained: 
+Turn ID=2| B | B : hij hebben aan de het hij staan eigenlijk ook gewoon op een op een vierkant op een blauw vierkant
+	Free: Pattern=op, Pattern=staan, Pattern=de
+	Constrained: 
+Turn ID=3| B | B : ja ja ja aan allebei de kant
+	Free: Pattern=ja, Pattern=de
+	Constrained: 
+Turn ID=4| A | A : oké dit zijn die met die kra
+	Free: Pattern=met die, Pattern=die
+	Constrained: Pattern=met, Pattern=die
+Turn ID=5| A | A : op die erop staan
+	Free: Pattern=op, Pattern=staan, Pattern=die
+	Constrained: 
+Turn ID=6| B | B : ja ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=7| B | B : J
+	Free: 
+	Constrained: 
+Turn ID=8| A | A : dat zijn elf
+	Free: Pattern=dat
+	Constrained: 
+Turn ID=9| A | A : dit zijn die met de krael
+	Free: Pattern=met, Pattern=de, Pattern=die
+	Constrained: 
+Turn ID=10| B | B : weer die op een vierkant plaat staan en aan allebei de kant zo'n diaman
+	Free: Pattern=op, Pattern=staan, Pattern=de, Pattern=die
+	Constrained: 
+Turn ID=11| A | A : dat zijn negen
+	Free: Pattern=dat
+	Constrained: 
+Turn ID=12| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=13| B | B : P
+	Free: 
+	Constrained: 
+Turn ID=14| A | A : dit zijn die met de krael
+	Free: Pattern=met, Pattern=de, Pattern=die
+	Constrained: 
+Turn ID=15| B | B : weer die op op dat vierkant staan en met die diaman
+	Free: Pattern=op, Pattern=staan, Pattern=die, Pattern=dat, Pattern=met die
+	Constrained: Pattern=met, Pattern=die
+Turn ID=16| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=17| B | B : L
+	Free: 
+	Constrained: 

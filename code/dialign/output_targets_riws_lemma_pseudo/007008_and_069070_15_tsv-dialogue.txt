@@ -1,0 +1,139 @@
+B|0| B: _oké_ 
+B|1| B: er zitten _een_ vlak doorheen 
+B|2| B: _en_ er zitten _twee_ dinge bovenaan uit 
+B|3| B: _ja_ 
+A|4| A: nou _hebben_ jij _het_ rond 
+A|5| A: _in_ _zo'n_ hand of zo 
+A|6| A: [ja] [oké] 
+A|7| A: [ja] 
+A|8| A: [oké] _dat_ _hebben_ _ik_ 
+A|9| A: _en zo'n_ _zo'n_ _zo'n_ neusachtig 
+A|10| A: [oké] 
+A|11| A: _dan_ _zeggen_ _ik_ zes 
+B|12| B: [ja] [ja] 
+B|13| B: [ja] [dat] zijn C 
+B|14| B: [oké] [ik] [hebben] diegene _met_ _die_ plaat erdoorheen _en dan twee_ uitsteeksel [en] nog _twee_ [in] [het] midden _zeggen maar_ 
+B|15| B: [oké] 
+B|16| B: [ja] 
+B|17| B: [ja] [dat] zijn J 
+A|18| A: _de_ [ja] _de_ zwaaien robot [zeggen maar] 
+A|19| A: [met] [met] [dat] [met] [dat] hoekig hand 
+A|20| A: _en zo'n_ slurfje 
+A|21| A: [ja] 
+A|22| A: [ja] [en dan] _de_ slurp 
+A|23| A: dertien 
+B|24| B: [oké] bij mij [ik] [hebben] _die_ [met] [de] er erdoorheen _en dan twee_ klein uitsteeksel erboven 
+B|25| B: [en zo'n] soort van [ik] vinden [het] _een_ pijp lijken 
+B|26| B: [oké] 
+A|27| A: [die] [die] hand [zeggen maar] 
+A|28| A: [en dan twee] 
+B|29| B: [ja] [dat] zijn N 
+A|30| A: [ja] 
+A|31| A: negen 
+A|32| A: [die] zwaaien robot 
+A|33| A: [met] [een] slurf 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=1| B | B : er zitten een vlak doorheen
+	Free: Pattern=een
+	Constrained: 
+Turn ID=2| B | B : en er zitten twee dinge bovenaan uit
+	Free: Pattern=twee, Pattern=en
+	Constrained: 
+Turn ID=3| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=4| A | A : nou hebben jij het rond
+	Free: Pattern=hebben, Pattern=het
+	Constrained: 
+Turn ID=5| A | A : in zo'n hand of zo
+	Free: Pattern=in, Pattern=zo'n
+	Constrained: 
+Turn ID=6| A | A : ja oké
+	Free: Pattern=ja, Pattern=oké
+	Constrained: 
+Turn ID=7| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=8| A | A : oké dat hebben ik
+	Free: Pattern=hebben, Pattern=oké, Pattern=dat, Pattern=ik
+	Constrained: 
+Turn ID=9| A | A : en zo'n zo'n zo'n neusachtig
+	Free: Pattern=en zo'n, Pattern=zo'n
+	Constrained: Pattern=en, Pattern=zo'n
+Turn ID=10| A | A : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=11| A | A : dan zeggen ik zes
+	Free: Pattern=ik, Pattern=dan, Pattern=zeggen
+	Constrained: 
+Turn ID=12| B | B : ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=13| B | B : ja dat zijn C
+	Free: Pattern=ja, Pattern=dat
+	Constrained: 
+Turn ID=14| B | B : oké ik hebben diegene met die plaat erdoorheen en dan twee uitsteeksel en nog twee in het midden zeggen maar
+	Free: Pattern=twee, Pattern=zeggen maar, Pattern=het, Pattern=hebben, Pattern=in, Pattern=met, Pattern=die, Pattern=oké, Pattern=ik, Pattern=en, Pattern=en dan twee
+	Constrained: Pattern=twee, Pattern=en dan, Pattern=dan, Pattern=zeggen, Pattern=en
+Turn ID=15| B | B : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=16| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=17| B | B : ja dat zijn J
+	Free: Pattern=ja, Pattern=dat
+	Constrained: 
+Turn ID=18| A | A : de ja de zwaaien robot zeggen maar
+	Free: Pattern=zeggen maar, Pattern=ja, Pattern=de
+	Constrained: Pattern=zeggen
+Turn ID=19| A | A : met met dat met dat hoekig hand
+	Free: Pattern=dat, Pattern=met
+	Constrained: 
+Turn ID=20| A | A : en zo'n slurfje
+	Free: Pattern=en zo'n
+	Constrained: Pattern=en, Pattern=zo'n
+Turn ID=21| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=22| A | A : ja en dan de slurp
+	Free: Pattern=en dan, Pattern=ja, Pattern=de
+	Constrained: Pattern=en, Pattern=dan
+Turn ID=23| A | A : dertien
+	Free: 
+	Constrained: 
+Turn ID=24| B | B : oké bij mij ik hebben die met de er erdoorheen en dan twee klein uitsteeksel erboven
+	Free: Pattern=de, Pattern=hebben, Pattern=met, Pattern=die, Pattern=oké, Pattern=ik, Pattern=en dan twee
+	Constrained: Pattern=twee, Pattern=dan, Pattern=en dan, Pattern=en
+Turn ID=25| B | B : en zo'n soort van ik vinden het een pijp lijken
+	Free: Pattern=en zo'n, Pattern=een, Pattern=het, Pattern=ik
+	Constrained: Pattern=en, Pattern=zo'n
+Turn ID=26| B | B : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=27| A | A : die die hand zeggen maar
+	Free: Pattern=zeggen maar, Pattern=die
+	Constrained: Pattern=zeggen
+Turn ID=28| A | A : en dan twee
+	Free: Pattern=en dan twee
+	Constrained: Pattern=twee, Pattern=dan, Pattern=en dan, Pattern=en
+Turn ID=29| B | B : ja dat zijn N
+	Free: Pattern=ja, Pattern=dat
+	Constrained: 
+Turn ID=30| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=31| A | A : negen
+	Free: 
+	Constrained: 
+Turn ID=32| A | A : die zwaaien robot
+	Free: Pattern=die
+	Constrained: 
+Turn ID=33| A | A : met een slurf
+	Free: Pattern=een, Pattern=met
+	Constrained: 

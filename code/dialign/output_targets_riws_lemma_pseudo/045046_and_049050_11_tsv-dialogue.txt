@@ -1,0 +1,107 @@
+A|0| A: _ja_ je _hebben_ er _twee_ inderdaad _die_ _een_ _zitten_ erdoorheen _en_ _die_ _ander_ _dan_ niet 
+A|1| A: of 
+A|2| A: _nee_ _maar_ _die_ _ander_ _met_ 
+A|3| A: _ja_ _een_ speer _en_ _een_ balkje zeggen _maar_ 
+A|4| A: _ja_ 
+A|5| A: veertien 
+B|6| B: [hebben] [een] bolle aan _de_ voor [ja] rechtsvoorkanten 
+B|7| B: [en] aan _de_ bovenkant [zitten] [een] recht rechthoekig staaf [maar] daarnaast [een] veel ronder vorm 
+B|8| B: lang dinge 
+B|9| B: [ja] _en dan_ aan _de_ zijkant _van_ het kop [zitten] nog [een] driehoekig staafje 
+A|10| A: _dit zijn_ [ja] _dat_ man _met_ _met_ _met_ [een] neusje [en dan] [hebben] _die_ dus [een] zo'n soort [van] speerachtig iets als [een] pilaar bovenuit lijken ook [een] beetje op [een] 
+A|11| A: [ja] [ja] lijken ook [een] beetje op [een] pennenbak 
+A|12| A: [ja] [ja] [ja] even kijken waar [ja] 
+A|13| A: _dat zijn_ negen 
+B|14| B: [ja] 
+B|15| B: [dat zijn] N 
+A|16| A: _dit zijn_ degeen _met_ [de] neus zonder [de] piercing 
+A|17| A: neus zonder piercing vijf 
+A|18| A: _dit zijn_ _met_ [de] neus [en] zonder [de] piercing 
+B|19| B: [dit zijn] [die] [met] het bollet aan [de] rechtervoorkant [en] [twee] ding aan [de] bovenkant één [zijn] 
+B|20| B: rechthoekig [en] [de] [ander] [zijn] kegelvorm [en] links nog [een] driehoekig staafje 
+B|21| B: [ja] 
+B|22| B: [dat zijn] G 
+B|23| B: [dit zijn] [die] [met] het bollet aan [de] rechtervoorkant [en dan] [twee] dinget bovenop één [zijn] kegel [en] [de] [ander] [zijn] rechthoekig [en dan] links nog [een] [nee] driehoekig dinge 
+B|24| B: [ja] 
+B|25| B: [dat zijn] J 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : ja je hebben er twee inderdaad die een zitten erdoorheen en die ander dan niet
+	Free: Pattern=twee, Pattern=ja, Pattern=dan, Pattern=een, Pattern=hebben, Pattern=ander, Pattern=en, Pattern=die, Pattern=zitten
+	Constrained: 
+Turn ID=1| A | A : of
+	Free: 
+	Constrained: 
+Turn ID=2| A | A : nee maar die ander met
+	Free: Pattern=nee, Pattern=met, Pattern=die, Pattern=ander, Pattern=maar
+	Constrained: 
+Turn ID=3| A | A : ja een speer en een balkje zeggen maar
+	Free: Pattern=een, Pattern=en, Pattern=maar, Pattern=ja
+	Constrained: 
+Turn ID=4| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=5| A | A : veertien
+	Free: 
+	Constrained: 
+Turn ID=6| B | B : hebben een bolle aan de voor ja rechtsvoorkanten
+	Free: Pattern=een, Pattern=de, Pattern=hebben, Pattern=ja
+	Constrained: 
+Turn ID=7| B | B : en aan de bovenkant zitten een recht rechthoekig staaf maar daarnaast een veel ronder vorm
+	Free: Pattern=de, Pattern=een, Pattern=zitten, Pattern=en, Pattern=maar
+	Constrained: 
+Turn ID=8| B | B : lang dinge
+	Free: 
+	Constrained: 
+Turn ID=9| B | B : ja en dan aan de zijkant van het kop zitten nog een driehoekig staafje
+	Free: Pattern=en dan, Pattern=een, Pattern=zitten, Pattern=van, Pattern=de, Pattern=ja
+	Constrained: Pattern=en, Pattern=dan
+Turn ID=10| A | A : dit zijn ja dat man met met met een neusje en dan hebben die dus een zo'n soort van speerachtig iets als een pilaar bovenuit lijken ook een beetje op een
+	Free: Pattern=dat, Pattern=ja, Pattern=en dan, Pattern=een, Pattern=hebben, Pattern=met, Pattern=die, Pattern=van, Pattern=dit zijn
+	Constrained: Pattern=en, Pattern=dan, Pattern=zijn
+Turn ID=11| A | A : ja ja lijken ook een beetje op een pennenbak
+	Free: Pattern=een, Pattern=ja
+	Constrained: 
+Turn ID=12| A | A : ja ja ja even kijken waar ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=13| A | A : dat zijn negen
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=14| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=15| B | B : dat zijn N
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=16| A | A : dit zijn degeen met de neus zonder de piercing
+	Free: Pattern=dit zijn, Pattern=met, Pattern=de
+	Constrained: Pattern=zijn
+Turn ID=17| A | A : neus zonder piercing vijf
+	Free: 
+	Constrained: 
+Turn ID=18| A | A : dit zijn met de neus en zonder de piercing
+	Free: Pattern=dit zijn, Pattern=met, Pattern=en, Pattern=de
+	Constrained: Pattern=zijn
+Turn ID=19| B | B : dit zijn die met het bollet aan de rechtervoorkant en twee ding aan de bovenkant één zijn
+	Free: Pattern=twee, Pattern=de, Pattern=met, Pattern=die, Pattern=en, Pattern=zijn, Pattern=dit zijn
+	Constrained: Pattern=zijn
+Turn ID=20| B | B : rechthoekig en de ander zijn kegelvorm en links nog een driehoekig staafje
+	Free: Pattern=de, Pattern=een, Pattern=ander, Pattern=en, Pattern=zijn
+	Constrained: 
+Turn ID=21| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=22| B | B : dat zijn G
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=23| B | B : dit zijn die met het bollet aan de rechtervoorkant en dan twee dinget bovenop één zijn kegel en de ander zijn rechthoekig en dan links nog een nee driehoekig dinge
+	Free: Pattern=twee, Pattern=de, Pattern=en dan, Pattern=een, Pattern=nee, Pattern=met, Pattern=die, Pattern=ander, Pattern=en, Pattern=zijn, Pattern=dit zijn
+	Constrained: Pattern=en, Pattern=dan, Pattern=zijn
+Turn ID=24| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=25| B | B : dat zijn J
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn

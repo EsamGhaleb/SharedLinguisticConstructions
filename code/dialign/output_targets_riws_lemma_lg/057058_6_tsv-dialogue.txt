@@ -1,0 +1,135 @@
+B|0| B: _oké_ 
+A|1| A: [oké] nou nu _hebben_ _ik_ een rood vierkant en _ik hebben_ er één _ik_ vinden _hem_ zelf een beetje op een _ik_ moeten doen me denken aan een _kannibaal met_ een _neus_ en dan zo'n groot spie erdoor 
+B|2| B: _ja_ [ik] weten welk _ja_ [ik] weten welk je bedoelen 
+B|3| B: _dat_ _zijn_ bij mij _zijn_ _dat_ F 
+B|4| B: [ik] noemen [hem] ook _de_ heel tijd _de inboorling_ 
+A|5| A: [oké] top nou dan [zijn] we er al snel uit 
+B|6| B: [oké] dus F 
+B|7| B: _ja_ precies 
+A|8| A: top 
+B|9| B: [oké] [ik hebben] _weer_ _die_ _inboorling_ 
+A|10| A: _met_ [dat] _ding door zijn neus_ 
+B|11| B: dus _de kannibaal met de_ [ding door zijn neus] 
+A|12| A: maar waar [zijn] [die] ? waar [zijn] [die] ? daar [zijn] [die] 
+A|13| A: _nummer_ vijf 
+A|14| A: nou _weer [de_ kannibaal met de] 
+B|15| B: [oké] [kannibaal] yes [dat] [zijn] [nummer] A of [dat] [zijn] A bij mij 
+A|16| A: _met de piercing_ 
+B|17| B: _ja_ 
+B|18| B: [oké] [weer _de] inboorling_ 
+B|19| B: [de kannibaal] 
+A|20| A: top 
+A|21| A: _met de piercing_ 
+B|22| B: [met de piercing] 
+A|23| A: [nummer] vijf 
+A|24| A: nou dit [zijn] [weer de] [de] [de inboorling] [met de] 
+B|25| B: [inboorling] 
+A|26| A: [ja] 
+B|27| B: [de] H [zijn] [dat] bij mij 
+B|28| B: nice 
+A|29| A: top 
+B|30| B: [de inboorling] [weer] 
+A|31| A: Chill vijftien 
+B|32| B: [de kannibaal] 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=1| A | A : oké nou nu hebben ik een rood vierkant en ik hebben er één ik vinden hem zelf een beetje op een ik moeten doen me denken aan een kannibaal met een neus en dan zo'n groot spie erdoor
+	Free: Pattern=hebben, Pattern=neus, Pattern=oké, Pattern=ik, Pattern=hem, Pattern=kannibaal met, Pattern=ik hebben
+	Constrained: Pattern=hebben, Pattern=met, Pattern=kannibaal, Pattern=ik
+Turn ID=2| B | B : ja ik weten welk ja ik weten welk je bedoelen
+	Free: Pattern=ja, Pattern=ik
+	Constrained: 
+Turn ID=3| B | B : dat zijn bij mij zijn dat F
+	Free: Pattern=zijn, Pattern=dat
+	Constrained: 
+Turn ID=4| B | B : ik noemen hem ook de heel tijd de inboorling
+	Free: Pattern=de inboorling, Pattern=de, Pattern=ik, Pattern=hem
+	Constrained: Pattern=de, Pattern=inboorling
+Turn ID=5| A | A : oké top nou dan zijn we er al snel uit
+	Free: Pattern=zijn, Pattern=oké
+	Constrained: 
+Turn ID=6| B | B : oké dus F
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=7| B | B : ja precies
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=8| A | A : top
+	Free: 
+	Constrained: 
+Turn ID=9| B | B : oké ik hebben weer die inboorling
+	Free: Pattern=ik hebben, Pattern=inboorling, Pattern=die, Pattern=oké, Pattern=weer
+	Constrained: Pattern=hebben, Pattern=ik
+Turn ID=10| A | A : met dat ding door zijn neus
+	Free: Pattern=ding door zijn neus, Pattern=met, Pattern=dat
+	Constrained: Pattern=zijn, Pattern=neus
+Turn ID=11| B | B : dus de kannibaal met de ding door zijn neus
+	Free: Pattern=de kannibaal met de, Pattern=ding door zijn neus
+	Constrained: Pattern=kannibaal met, Pattern=kannibaal, Pattern=neus, Pattern=met, Pattern=de kannibaal, Pattern=zijn, Pattern=de, Pattern=met de
+Turn ID=12| A | A : maar waar zijn die ? waar zijn die ? daar zijn die
+	Free: Pattern=zijn, Pattern=die
+	Constrained: 
+Turn ID=13| A | A : nummer vijf
+	Free: Pattern=nummer
+	Constrained: 
+Turn ID=14| A | A : nou weer de kannibaal met de
+	Free: Pattern=de kannibaal met de, Pattern=weer de
+	Constrained: Pattern=kannibaal met, Pattern=kannibaal, Pattern=met, Pattern=de kannibaal, Pattern=weer, Pattern=de, Pattern=met de
+Turn ID=15| B | B : oké kannibaal yes dat zijn nummer A of dat zijn A bij mij
+	Free: Pattern=dat, Pattern=nummer, Pattern=kannibaal, Pattern=oké, Pattern=zijn
+	Constrained: 
+Turn ID=16| A | A : met de piercing
+	Free: Pattern=met de piercing
+	Constrained: Pattern=de, Pattern=met, Pattern=met de
+Turn ID=17| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=18| B | B : oké weer de inboorling
+	Free: Pattern=de inboorling, Pattern=weer de, Pattern=oké
+	Constrained: Pattern=de, Pattern=inboorling, Pattern=weer
+Turn ID=19| B | B : de kannibaal
+	Free: Pattern=de kannibaal
+	Constrained: Pattern=kannibaal, Pattern=de
+Turn ID=20| A | A : top
+	Free: 
+	Constrained: 
+Turn ID=21| A | A : met de piercing
+	Free: Pattern=met de piercing
+	Constrained: Pattern=de, Pattern=met, Pattern=met de
+Turn ID=22| B | B : met de piercing
+	Free: Pattern=met de piercing
+	Constrained: Pattern=de, Pattern=met, Pattern=met de
+Turn ID=23| A | A : nummer vijf
+	Free: Pattern=nummer
+	Constrained: 
+Turn ID=24| A | A : nou dit zijn weer de de de inboorling met de
+	Free: Pattern=de inboorling, Pattern=de, Pattern=met de, Pattern=weer de, Pattern=zijn
+	Constrained: Pattern=met, Pattern=de, Pattern=inboorling, Pattern=weer
+Turn ID=25| B | B : inboorling
+	Free: Pattern=inboorling
+	Constrained: 
+Turn ID=26| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=27| B | B : de H zijn dat bij mij
+	Free: Pattern=zijn, Pattern=de, Pattern=dat
+	Constrained: 
+Turn ID=28| B | B : nice
+	Free: 
+	Constrained: 
+Turn ID=29| A | A : top
+	Free: 
+	Constrained: 
+Turn ID=30| B | B : de inboorling weer
+	Free: Pattern=de inboorling, Pattern=weer
+	Constrained: Pattern=de, Pattern=inboorling
+Turn ID=31| A | A : Chill vijftien
+	Free: 
+	Constrained: 
+Turn ID=32| B | B : de kannibaal
+	Free: Pattern=de kannibaal
+	Constrained: Pattern=kannibaal, Pattern=de

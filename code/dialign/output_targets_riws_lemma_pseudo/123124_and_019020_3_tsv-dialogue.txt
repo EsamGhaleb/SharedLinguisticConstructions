@@ -1,0 +1,111 @@
+A|0| A: _ja_ 
+A|1| A: _een_ soort beker _ja_ 
+A|2| A: vier 
+B|3| B: ok _dit zijn_ _met_ [een] groot aanhangsel onderaan zo noemen ik het telkens 
+B|4| B: en dan hebben je bovenaan nog [een] blok en nog [een] blok en linksbof zitten [een] [ja] wat _zijn_ het voor vorm 
+B|5| B: schuin 
+B|6| B: [ja] 
+B|7| B: [ja] 
+A|8| A: [dit zijn] _die_ beker 
+A|9| A: _die_ Cup 
+A|10| A: _met die_ spiraal 
+A|11| A: [ja] _die_ [ja] 
+B|12| B: [ja] 
+B|13| B: dat [zijn] voor mij A 
+A|14| A: [ja] 
+A|15| A: [ja] 
+A|16| A: tien 
+A|17| A: de beker 
+A|18| A: [ja] 
+A|19| A: [ja] 
+A|20| A: vier 
+B|21| B: [dit zijn] [met die] dat aanhangsel onderaan en [met die] twee blok bovenop 
+A|22| A: de beker 
+B|23| B: [ja] dat [zijn] voor mij L 
+B|24| B: [dit zijn] [met die] dat aanhangsel onderaan en [die] twee blok bovenop 
+B|25| B: [ja] 
+B|26| B: [ja] dat [zijn] voor mij F 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=1| A | A : een soort beker ja
+	Free: Pattern=een, Pattern=ja
+	Constrained: 
+Turn ID=2| A | A : vier
+	Free: 
+	Constrained: 
+Turn ID=3| B | B : ok dit zijn met een groot aanhangsel onderaan zo noemen ik het telkens
+	Free: Pattern=dit zijn, Pattern=met, Pattern=een
+	Constrained: Pattern=zijn
+Turn ID=4| B | B : en dan hebben je bovenaan nog een blok en nog een blok en linksbof zitten een ja wat zijn het voor vorm
+	Free: Pattern=een, Pattern=ja, Pattern=zijn
+	Constrained: 
+Turn ID=5| B | B : schuin
+	Free: 
+	Constrained: 
+Turn ID=6| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=7| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=8| A | A : dit zijn die beker
+	Free: Pattern=dit zijn, Pattern=die
+	Constrained: Pattern=zijn
+Turn ID=9| A | A : die Cup
+	Free: Pattern=die
+	Constrained: 
+Turn ID=10| A | A : met die spiraal
+	Free: Pattern=met die
+	Constrained: Pattern=met, Pattern=die
+Turn ID=11| A | A : ja die ja
+	Free: Pattern=ja, Pattern=die
+	Constrained: 
+Turn ID=12| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=13| B | B : dat zijn voor mij A
+	Free: Pattern=zijn
+	Constrained: 
+Turn ID=14| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=15| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=16| A | A : tien
+	Free: 
+	Constrained: 
+Turn ID=17| A | A : de beker
+	Free: 
+	Constrained: 
+Turn ID=18| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=19| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=20| A | A : vier
+	Free: 
+	Constrained: 
+Turn ID=21| B | B : dit zijn met die dat aanhangsel onderaan en met die twee blok bovenop
+	Free: Pattern=dit zijn, Pattern=met die
+	Constrained: Pattern=met, Pattern=die, Pattern=zijn
+Turn ID=22| A | A : de beker
+	Free: 
+	Constrained: 
+Turn ID=23| B | B : ja dat zijn voor mij L
+	Free: Pattern=ja, Pattern=zijn
+	Constrained: 
+Turn ID=24| B | B : dit zijn met die dat aanhangsel onderaan en die twee blok bovenop
+	Free: Pattern=dit zijn, Pattern=met die, Pattern=die
+	Constrained: Pattern=met, Pattern=die, Pattern=zijn
+Turn ID=25| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=26| B | B : ja dat zijn voor mij F
+	Free: Pattern=ja, Pattern=zijn
+	Constrained: 

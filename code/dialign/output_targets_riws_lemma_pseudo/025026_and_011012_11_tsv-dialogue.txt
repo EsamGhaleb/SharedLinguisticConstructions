@@ -1,0 +1,99 @@
+B|0| B: ik _hebben_ nou _een_ plaa _met_ _zo'n_ _een_ bol _aan de_ voorkant _zeggen maar_ 
+B|1| B: _en_ _dan_ _hebben_ je _één_ _aan de_ bovenkant _een_ recht _staaf_ _en_ _een_ _staaf_ dat _een_ _beetje_ lijken op _één_ bowlingpin _zeggen maar_ 
+B|2| B: _en_ _dan_ steken _er_ _aan de_ linkerkant _nog een_ _een_ _driehoekje_ uit 
+B|3| B: dat 
+A|4| A: ok 
+A|5| A: ok [dan] _zijn het_ veertien 
+A|6| A: deze [hebben] [een] neus [er] _zitten_ twee dinget _in_ _het_ kop [één] rechthoekje [en] [één] _ja_ 
+A|7| A: [beetje] gekkig figuur [en] [aan de] zijkant _zitten_ [nog een] _soort_ _driehoekje wat_ _in_ Driehoekvorm lopen 
+B|8| B: [ja] 
+B|9| B: [ja] 
+B|10| B: dat [zijn] bij mij [zijn] dat N 
+A|11| A: [ja] 
+A|12| A: [er] _zitten_ _ook_ [nog] [één] ander ding _zo'n driehoekje_ [ja] negen 
+B|13| B: nou [hebben] ik weer _die_ [een] _met_ dat bolle [aan de] voorkant _zeggen maar_ [en] [dan] [hebben] je [zo'n] [het] [één] 
+B|14| B: recht staafje _zeggen maar_ [en] [dan] [zo'n] [soort] _van_ Bowlingpin weer [aan de] bovenkant _die_ _erin_ [zitten] [en] [dan] [nog] [zo'n [driehoekje] wat] [er] uit steken 
+A|15| A: [ja] deze [hebben] [een] neus niet [met] [die] ding stang [er] doorheen [met] twee ding _in_ [het] kop [zeggen maar] [die] wel verschil [en] [die] driehoek [aan de] zijkant 
+A|16| A: [ja] [zijn] vijf 
+A|17| A: dit [zijn] [met] [de] neus niet [met] [de] [staaf] [er] doorheen [met] twee [van] [die] lepelt [erin] [die] wel verschillen 
+B|18| B: [ja] 
+B|19| B: [ja] bij mij [zijn het] G 
+B|20| B: weer [met] dat rond [aan de] voorkant [en] [dan] [zo'n] [in] [een] rechthoek zo [die] erboven uitsteken [en] [ook] [in] [zo'n] [soort] [van] bowlingpin 
+B|21| B: [ja] 
+B|22| B: oké 
+B|23| B: dat [zijn] bij mij J 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : ik hebben nou een plaa met zo'n een bol aan de voorkant zeggen maar
+	Free: Pattern=zo'n, Pattern=aan de, Pattern=een, Pattern=zeggen maar, Pattern=hebben, Pattern=met
+	Constrained: Pattern=de
+Turn ID=1| B | B : en dan hebben je één aan de bovenkant een recht staaf en een staaf dat een beetje lijken op één bowlingpin zeggen maar
+	Free: Pattern=staaf, Pattern=aan de, Pattern=een, Pattern=zeggen maar, Pattern=hebben, Pattern=en, Pattern=één, Pattern=beetje, Pattern=dan
+	Constrained: Pattern=de
+Turn ID=2| B | B : en dan steken er aan de linkerkant nog een een driehoekje uit
+	Free: Pattern=nog een, Pattern=aan de, Pattern=dan, Pattern=een, Pattern=er, Pattern=en, Pattern=driehoekje
+	Constrained: Pattern=een, Pattern=nog, Pattern=de
+Turn ID=3| B | B : dat
+	Free: 
+	Constrained: 
+Turn ID=4| A | A : ok
+	Free: 
+	Constrained: 
+Turn ID=5| A | A : ok dan zijn het veertien
+	Free: Pattern=zijn het, Pattern=dan
+	Constrained: Pattern=zijn, Pattern=het
+Turn ID=6| A | A : deze hebben een neus er zitten twee dinget in het kop één rechthoekje en één ja
+	Free: Pattern=ja, Pattern=een, Pattern=het, Pattern=hebben, Pattern=in, Pattern=zitten, Pattern=er, Pattern=en, Pattern=één
+	Constrained: 
+Turn ID=7| A | A : beetje gekkig figuur en aan de zijkant zitten nog een soort driehoekje wat in Driehoekvorm lopen
+	Free: Pattern=soort, Pattern=nog een, Pattern=aan de, Pattern=beetje, Pattern=in, Pattern=zitten, Pattern=driehoekje wat, Pattern=en
+	Constrained: Pattern=nog, Pattern=een, Pattern=de, Pattern=driehoekje
+Turn ID=8| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=9| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=10| B | B : dat zijn bij mij zijn dat N
+	Free: Pattern=zijn
+	Constrained: 
+Turn ID=11| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=12| A | A : er zitten ook nog één ander ding zo'n driehoekje ja negen
+	Free: Pattern=nog, Pattern=ja, Pattern=ook, Pattern=zitten, Pattern=één, Pattern=zo'n driehoekje, Pattern=er
+	Constrained: Pattern=driehoekje, Pattern=zo'n
+Turn ID=13| B | B : nou hebben ik weer die een met dat bolle aan de voorkant zeggen maar en dan hebben je zo'n het één
+	Free: Pattern=zo'n, Pattern=aan de, Pattern=dan, Pattern=een, Pattern=zeggen maar, Pattern=het, Pattern=hebben, Pattern=met, Pattern=die, Pattern=en, Pattern=één
+	Constrained: Pattern=de
+Turn ID=14| B | B : recht staafje zeggen maar en dan zo'n soort van Bowlingpin weer aan de bovenkant die erin zitten en dan nog zo'n driehoekje wat er uit steken
+	Free: Pattern=zo'n, Pattern=aan de, Pattern=dan, Pattern=zeggen maar, Pattern=driehoekje wat, Pattern=erin, Pattern=nog, Pattern=soort, Pattern=die, Pattern=zitten, Pattern=zo'n driehoekje, Pattern=er, Pattern=van, Pattern=en
+	Constrained: Pattern=de, Pattern=zo'n, Pattern=driehoekje
+Turn ID=15| A | A : ja deze hebben een neus niet met die ding stang er doorheen met twee ding in het kop zeggen maar die wel verschil en die driehoek aan de zijkant
+	Free: Pattern=ja, Pattern=aan de, Pattern=een, Pattern=zeggen maar, Pattern=het, Pattern=hebben, Pattern=in, Pattern=met, Pattern=die, Pattern=er, Pattern=en
+	Constrained: Pattern=de
+Turn ID=16| A | A : ja zijn vijf
+	Free: Pattern=ja, Pattern=zijn
+	Constrained: 
+Turn ID=17| A | A : dit zijn met de neus niet met de staaf er doorheen met twee van die lepelt erin die wel verschillen
+	Free: Pattern=de, Pattern=staaf, Pattern=met, Pattern=die, Pattern=er, Pattern=van, Pattern=erin, Pattern=zijn
+	Constrained: 
+Turn ID=18| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=19| B | B : ja bij mij zijn het G
+	Free: Pattern=zijn het, Pattern=ja
+	Constrained: Pattern=zijn, Pattern=het
+Turn ID=20| B | B : weer met dat rond aan de voorkant en dan zo'n in een rechthoek zo die erboven uitsteken en ook in zo'n soort van bowlingpin
+	Free: Pattern=soort, Pattern=zo'n, Pattern=dan, Pattern=een, Pattern=in, Pattern=met, Pattern=die, Pattern=aan de, Pattern=ook, Pattern=van, Pattern=en
+	Constrained: Pattern=de
+Turn ID=21| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=22| B | B : oké
+	Free: 
+	Constrained: 
+Turn ID=23| B | B : dat zijn bij mij J
+	Free: Pattern=zijn
+	Constrained: 

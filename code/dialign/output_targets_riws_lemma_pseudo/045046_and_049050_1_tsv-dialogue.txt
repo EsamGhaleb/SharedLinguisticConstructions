@@ -1,0 +1,87 @@
+A|0| A: even _ja_ _ja_ _ja_ _ja_ _ja_ _ja_ _ja_ _ja_ 
+A|1| A: toppie _twee_ 
+A|2| A: _dit zijn_ diegene _met die_ Antenne _vierkant_ _van_ voren _en_ _die twee_ _vierkant aan de_ rechterkant 
+A|3| A: _die klein worden_ _ja_ 
+B|4| B: deze hebben soort [van] paddenstoel [aan de] bovenkant 
+B|5| B: [klein] 
+B|6| B: [en] dan zo'n [vierkant aan de] voorkant [en] dan links hebben [die twee] [van] [die] _het_ lijken net oog of zo 
+B|7| B: zeggen maar [die klein worden] zeggen maar naar _het_ kop toe 
+B|8| B: _dat zijn_ _het_ eigenlijk 
+A|9| A: _ja_ [die twee] [aan de] _ja_ _oké_ [dat zijn] negen 
+A|10| A: _oké_ _dit zijn_ diegene _met_ [de] Antenne [het] vierkan [van] voren [en] [die twee] [vierkant] [die] telkens [klein worden] [aan de] zijkant 
+B|11| B: [ja] 
+B|12| B: [dat zijn] G 
+A|13| A: [ja] [ja] [ja] [dat zijn] één 
+B|14| B: [dit zijn] [die] [met die] paddenstoel 
+B|15| B: [die] oog 
+A|16| A: [dit zijn] degeen [met] [de] Antenne [vierkant] [van] voren [en] [twee] [vierkant] [die klein worden] [aan de] 
+B|17| B: [oké] 
+B|18| B: [dat zijn] D 
+B|19| B: [dit zijn] [die] [met die] paddenstoel 
+B|20| B: [dat zijn] B 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : even ja ja ja ja ja ja ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=1| A | A : toppie twee
+	Free: Pattern=twee
+	Constrained: 
+Turn ID=2| A | A : dit zijn diegene met die Antenne vierkant van voren en die twee vierkant aan de rechterkant
+	Free: Pattern=met die, Pattern=die twee, Pattern=vierkant, Pattern=dit zijn, Pattern=vierkant aan de, Pattern=van, Pattern=en
+	Constrained: Pattern=twee, Pattern=de, Pattern=aan de, Pattern=met, Pattern=die, Pattern=vierkant
+Turn ID=3| A | A : die klein worden ja
+	Free: Pattern=die klein worden, Pattern=ja
+	Constrained: Pattern=klein worden, Pattern=klein, Pattern=die
+Turn ID=4| B | B : deze hebben soort van paddenstoel aan de bovenkant
+	Free: Pattern=aan de, Pattern=van
+	Constrained: Pattern=de
+Turn ID=5| B | B : klein
+	Free: Pattern=klein
+	Constrained: 
+Turn ID=6| B | B : en dan zo'n vierkant aan de voorkant en dan links hebben die twee van die het lijken net oog of zo
+	Free: Pattern=die, Pattern=vierkant aan de, Pattern=het, Pattern=die twee, Pattern=van, Pattern=en
+	Constrained: Pattern=twee, Pattern=de, Pattern=aan de, Pattern=die, Pattern=vierkant
+Turn ID=7| B | B : zeggen maar die klein worden zeggen maar naar het kop toe
+	Free: Pattern=die klein worden, Pattern=het
+	Constrained: Pattern=klein worden, Pattern=klein, Pattern=die
+Turn ID=8| B | B : dat zijn het eigenlijk
+	Free: Pattern=dat zijn, Pattern=het
+	Constrained: 
+Turn ID=9| A | A : ja die twee aan de ja oké dat zijn negen
+	Free: Pattern=dat zijn, Pattern=ja, Pattern=aan de, Pattern=die twee, Pattern=oké
+	Constrained: Pattern=de, Pattern=die, Pattern=twee
+Turn ID=10| A | A : oké dit zijn diegene met de Antenne het vierkan van voren en die twee vierkant die telkens klein worden aan de zijkant
+	Free: Pattern=de, Pattern=aan de, Pattern=klein worden, Pattern=met, Pattern=die, Pattern=oké, Pattern=vierkant, Pattern=dit zijn, Pattern=het, Pattern=die twee, Pattern=van, Pattern=en
+	Constrained: Pattern=twee, Pattern=de, Pattern=die, Pattern=klein
+Turn ID=11| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=12| B | B : dat zijn G
+	Free: Pattern=dat zijn
+	Constrained: 
+Turn ID=13| A | A : ja ja ja dat zijn één
+	Free: Pattern=dat zijn, Pattern=ja
+	Constrained: 
+Turn ID=14| B | B : dit zijn die met die paddenstoel
+	Free: Pattern=met die, Pattern=dit zijn, Pattern=die
+	Constrained: Pattern=die, Pattern=met
+Turn ID=15| B | B : die oog
+	Free: Pattern=die
+	Constrained: 
+Turn ID=16| A | A : dit zijn degeen met de Antenne vierkant van voren en twee vierkant die klein worden aan de
+	Free: Pattern=twee, Pattern=de, Pattern=aan de, Pattern=met, Pattern=vierkant, Pattern=dit zijn, Pattern=die klein worden, Pattern=van, Pattern=en
+	Constrained: Pattern=de, Pattern=die, Pattern=klein worden, Pattern=klein
+Turn ID=17| B | B : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=18| B | B : dat zijn D
+	Free: Pattern=dat zijn
+	Constrained: 
+Turn ID=19| B | B : dit zijn die met die paddenstoel
+	Free: Pattern=met die, Pattern=dit zijn, Pattern=die
+	Constrained: Pattern=die, Pattern=met
+Turn ID=20| B | B : dat zijn B
+	Free: Pattern=dat zijn
+	Constrained: 

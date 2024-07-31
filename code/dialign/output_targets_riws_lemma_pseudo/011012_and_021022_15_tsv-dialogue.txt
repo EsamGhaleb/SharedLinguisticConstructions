@@ -1,0 +1,115 @@
+B|0| B: _ja_ deze _hebben_ eigenlijk een soort plateau _op_ zich heen _en_ _het_ _zijn_ niet onderop _het_ _zijn_ net iets veel richting _het midden_ 
+A|1| A: in [het midden] _zo'n_ plaat erdoorheen zeggen maar 
+B|2| B: _en_ er eindigen een soort glijbaan ook _op_ _dat_ plateau _of zo_ _twee van die_ _staaf_ bovenop 
+A|3| A: oké 
+A|4| A: _dat zijn_ bij mij nummer zes 
+A|5| A: [ja] 
+A|6| A: oké 
+B|7| B: [ja] 
+A|8| A: druk _ik_ [op] geel 
+B|9| B: [ja] 
+B|10| B: [ja] [dat zijn] dan C 
+B|11| B: dit [zijn] weer [dat] plateau waar _die_ _die_ glijbaan _of zo_ lijken [het] wel een beetje [op] uitkomen _twee van die_ staal bovenop _en_ dan nog [zo'n] ding _met_ een hoek hoek erin 
+A|12| A: _ik_ [hebben] nu één _met _die_ twee staaf_ erboven [en] [zo'n] plaat door [het midden] 
+A|13| A: [ja] [zo'n] slurf [of zo] 
+A|14| A: staafjes erop 
+A|15| A: [ja] 
+A|16| A: [en] [die] slurf _aan_ de voorkant zeggen maar 
+A|17| A: nummer dertien [zijn] [dat] bij mij 
+B|18| B: [ja] [ik] [zijn] hem even [aan] [het] zoeken [ja] 
+B|19| B: helemaal goed [ja] [dat zijn] dan J 
+A|20| A: [die] _met _die_ twee_ uitsteeksel erboven [en] [die] plaat erdoorheen 
+A|21| A: ongeveer in [het midden] onder liggen [die] bij mij 
+B|22| B: nee bijna verkeerd knop 
+B|23| B: [ja] dit [zijn] weer [dat] plateau [met die] soort glijbaan [die twee staaf] bovenop [en] [ja] 
+B|24| B: [ja] [dat zijn] N _van_ Nico 
+A|25| A: [met die] plaat door [het midden] 
+A|26| A: nummer negen 
+A|27| A: [die] staan bij mij ongeveer in [het midden] boven [met] [twee van die] antenne [en] [zo'n] plaat erdoorheen zeggen maar [en] [die] slurf 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : ja deze hebben eigenlijk een soort plateau op zich heen en het zijn niet onderop het zijn net iets veel richting het midden
+	Free: Pattern=het midden, Pattern=ja, Pattern=op, Pattern=het, Pattern=hebben, Pattern=en, Pattern=zijn
+	Constrained: Pattern=het
+Turn ID=1| A | A : in het midden zo'n plaat erdoorheen zeggen maar
+	Free: Pattern=het midden, Pattern=zo'n
+	Constrained: Pattern=het
+Turn ID=2| B | B : en er eindigen een soort glijbaan ook op dat plateau of zo twee van die staaf bovenop
+	Free: Pattern=twee van die, Pattern=dat, Pattern=of zo, Pattern=staaf, Pattern=op, Pattern=en
+	Constrained: Pattern=die, Pattern=van
+Turn ID=3| A | A : oké
+	Free: 
+	Constrained: 
+Turn ID=4| A | A : dat zijn bij mij nummer zes
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=5| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=6| A | A : oké
+	Free: 
+	Constrained: 
+Turn ID=7| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=8| A | A : druk ik op geel
+	Free: Pattern=ik, Pattern=op
+	Constrained: 
+Turn ID=9| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=10| B | B : ja dat zijn dan C
+	Free: Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=11| B | B : dit zijn weer dat plateau waar die die glijbaan of zo lijken het wel een beetje op uitkomen twee van die staal bovenop en dan nog zo'n ding met een hoek hoek erin
+	Free: Pattern=twee van die, Pattern=dat, Pattern=op, Pattern=het, Pattern=met, Pattern=die, Pattern=en, Pattern=zijn, Pattern=zo'n, Pattern=of zo
+	Constrained: Pattern=die, Pattern=van
+Turn ID=12| A | A : ik hebben nu één met die twee staaf erboven en zo'n plaat door het midden
+	Free: Pattern=met die, Pattern=zo'n, Pattern=hebben, Pattern=ik, Pattern=en, Pattern=het midden, Pattern=die twee staaf
+	Constrained: Pattern=staaf, Pattern=met, Pattern=die, Pattern=het, Pattern=die twee
+Turn ID=13| A | A : ja zo'n slurf of zo
+	Free: Pattern=of zo, Pattern=zo'n, Pattern=ja
+	Constrained: 
+Turn ID=14| A | A : staafjes erop
+	Free: 
+	Constrained: 
+Turn ID=15| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=16| A | A : en die slurf aan de voorkant zeggen maar
+	Free: Pattern=die, Pattern=aan, Pattern=en
+	Constrained: 
+Turn ID=17| A | A : nummer dertien zijn dat bij mij
+	Free: Pattern=zijn, Pattern=dat
+	Constrained: 
+Turn ID=18| B | B : ja ik zijn hem even aan het zoeken ja
+	Free: Pattern=het, Pattern=ik, Pattern=zijn, Pattern=aan, Pattern=ja
+	Constrained: 
+Turn ID=19| B | B : helemaal goed ja dat zijn dan J
+	Free: Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=20| A | A : die met die twee uitsteeksel erboven en die plaat erdoorheen
+	Free: Pattern=die twee, Pattern=met die, Pattern=die, Pattern=en
+	Constrained: Pattern=die, Pattern=met
+Turn ID=21| A | A : ongeveer in het midden onder liggen die bij mij
+	Free: Pattern=het midden, Pattern=die
+	Constrained: Pattern=het
+Turn ID=22| B | B : nee bijna verkeerd knop
+	Free: 
+	Constrained: 
+Turn ID=23| B | B : ja dit zijn weer dat plateau met die soort glijbaan die twee staaf bovenop en ja
+	Free: Pattern=die twee staaf, Pattern=ja, Pattern=en, Pattern=zijn, Pattern=dat, Pattern=met die
+	Constrained: Pattern=staaf, Pattern=met, Pattern=die, Pattern=die twee
+Turn ID=24| B | B : ja dat zijn N van Nico
+	Free: Pattern=dat zijn, Pattern=van, Pattern=ja
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=25| A | A : met die plaat door het midden
+	Free: Pattern=het midden, Pattern=met die
+	Constrained: Pattern=die, Pattern=met, Pattern=het
+Turn ID=26| A | A : nummer negen
+	Free: 
+	Constrained: 
+Turn ID=27| A | A : die staan bij mij ongeveer in het midden boven met twee van die antenne en zo'n plaat erdoorheen zeggen maar en die slurf
+	Free: Pattern=twee van die, Pattern=het midden, Pattern=zo'n, Pattern=met, Pattern=die, Pattern=en
+	Constrained: Pattern=die, Pattern=het, Pattern=van

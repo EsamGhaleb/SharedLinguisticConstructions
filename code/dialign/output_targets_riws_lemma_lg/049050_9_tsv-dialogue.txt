@@ -1,0 +1,195 @@
+B|0| B: hij staan bij _mij_ eromheen 
+A|1| A: _ja_ 
+A|2| A: _oké_ 
+B|3| B: one _even_ kijken hoor hij _hebben_ _aan de_ linkerkant zo'n soort van klein rond staaf 
+B|4| B: vast _aan_ het midden van _de_ zijkant van het _kop_ zeggen maar 
+B|5| B: _en dan_ _daarachter_ zitten zien je zeggen maar _de_ helft van een _cirkel_ _die_ daaraan vastziken 
+B|6| B: _en dan_ daarbovenop nog zitten zo'n soort van rond staafachtig dinge 
+A|7| A: _ja_ 
+B|8| B: _en aan de onderkant_ _hebben_ _die_ nog soort van rond rechthoekig soort van _standaard_ of zo 
+A|9| A: _ja_ 
+B|10| B: _en _dat_ zijn_ eigenlijk alles wat _die_ _hebben_ 
+A|11| A: _ja_ nee [dat] snap _ik_ wel 
+B|12| B: [oké] 
+A|13| A: dus [dan] 
+B|14| B: [dan] moeten jij het nummer zeggen denken [ik] 
+A|15| A: dertien 
+A|16| A: _ja_ volgens [mij] [zijn] _we_ weer _met_ [de] herhaling bezig want deze [dat zijn] [dat] [kop] _met_ [de] _ja_ _half cirkel_ [aan de] achterkant 
+A|17| A: _en dan links_ [die] [die] zeshoekig buis [en dan] [dat] pluimbje boven [en dan] [die] langwerpig ovaal _ding aan de onderkant_ 
+B|18| B: [ja] 
+B|19| B: [dat zijn] O 
+B|20| B: _dit zijn die met die_ verbergen [cirkel] erachter 
+B|21| B: [en dan links] _hebben_ [die] soort van staaf als neus 
+B|22| B: [en dan] nog een _pluimp_ bovenop 
+B|23| B: [en] daaronder nog een soort van Standaard 
+A|24| A: [ja] 
+A|25| A: [ja] [dat zijn] acht 
+A|26| A: [ja] [dit zijn die met _die] half cirkel_ [aan de] achterkant 
+A|27| A: [en dat] [pluimp] 
+A|28| A: [en aan de onderkant] [dat] ovaal langgerekken 
+B|29| B: [ja] [en dat] staafje [links] 
+A|30| A: [ja] 
+B|31| B: [dat zijn] C 
+B|32| B: [dit zijn die met] soort van staafneusje [aan de] linkerkant [en] _die half cirkel daarachter_ 
+B|33| B: [pluimp] [aan de] bovenkant [en] one's _ovale_ [ding aan de onderkant] 
+B|34| B: zeggen maar _standaard_ het _standaard_ eronder 
+A|35| A: [die] 
+A|36| A: [die met [die] half cirkel daarachter] 
+B|37| B: [ja] 
+A|38| A: [ik] [zijn] [even] [ik] kunnen hem niet vinden 
+A|39| A: [dat zijn] zeven 
+A|40| A: [dit zijn die] [ja] [die] op [die] [standaard] [die] [aan de onderkant] [dat] [ovale] [hebben] [met] [dat] [cirkel] er [half] achter [en] [de] pluim 
+B|41| B: [ja] 
+B|42| B: [dat zijn] C 
+B|43| B: [oké] 
+B|44| B: klaar 
+B|45| B: het doen pijn [aan] mijn oor 
+A|46| A: [ja] 
+B|47| B: mogen [we] [dit] afzetten 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : hij staan bij mij eromheen
+	Free: Pattern=mij
+	Constrained: 
+Turn ID=1| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=2| A | A : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=3| B | B : one even kijken hoor hij hebben aan de linkerkant zo'n soort van klein rond staaf
+	Free: Pattern=aan de, Pattern=even, Pattern=hebben
+	Constrained: Pattern=de, Pattern=aan
+Turn ID=4| B | B : vast aan het midden van de zijkant van het kop zeggen maar
+	Free: Pattern=de, Pattern=aan, Pattern=kop
+	Constrained: 
+Turn ID=5| B | B : en dan daarachter zitten zien je zeggen maar de helft van een cirkel die daaraan vastziken
+	Free: Pattern=cirkel, Pattern=daarachter, Pattern=de, Pattern=en dan, Pattern=die
+	Constrained: Pattern=dan, Pattern=en
+Turn ID=6| B | B : en dan daarbovenop nog zitten zo'n soort van rond staafachtig dinge
+	Free: Pattern=en dan
+	Constrained: Pattern=dan, Pattern=en
+Turn ID=7| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=8| B | B : en aan de onderkant hebben die nog soort van rond rechthoekig soort van standaard of zo
+	Free: Pattern=en aan de onderkant, Pattern=die, Pattern=hebben, Pattern=standaard
+	Constrained: Pattern=aan de, Pattern=aan de onderkant, Pattern=en, Pattern=de, Pattern=aan
+Turn ID=9| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=10| B | B : en dat zijn eigenlijk alles wat die hebben
+	Free: Pattern=dat zijn, Pattern=en dat, Pattern=die, Pattern=hebben
+	Constrained: Pattern=zijn, Pattern=en, Pattern=dat
+Turn ID=11| A | A : ja nee dat snap ik wel
+	Free: Pattern=ja, Pattern=dat, Pattern=ik
+	Constrained: 
+Turn ID=12| B | B : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=13| A | A : dus dan
+	Free: Pattern=dan
+	Constrained: 
+Turn ID=14| B | B : dan moeten jij het nummer zeggen denken ik
+	Free: Pattern=dan, Pattern=ik
+	Constrained: 
+Turn ID=15| A | A : dertien
+	Free: 
+	Constrained: 
+Turn ID=16| A | A : ja volgens mij zijn we weer met de herhaling bezig want deze dat zijn dat kop met de ja half cirkel aan de achterkant
+	Free: Pattern=aan de, Pattern=kop, Pattern=met, Pattern=we, Pattern=mij, Pattern=zijn, Pattern=half cirkel, Pattern=dat, Pattern=dat zijn, Pattern=de, Pattern=ja
+	Constrained: Pattern=cirkel, Pattern=dat, Pattern=zijn, Pattern=half, Pattern=de, Pattern=aan
+Turn ID=17| A | A : en dan links die die zeshoekig buis en dan dat pluimbje boven en dan die langwerpig ovaal ding aan de onderkant
+	Free: Pattern=dat, Pattern=ding aan de onderkant, Pattern=en dan, Pattern=en dan links, Pattern=die
+	Constrained: Pattern=en dan, Pattern=aan de, Pattern=dan, Pattern=links, Pattern=aan de onderkant, Pattern=en, Pattern=de, Pattern=aan
+Turn ID=18| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=19| B | B : dat zijn O
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=20| B | B : dit zijn die met die verbergen cirkel erachter
+	Free: Pattern=dit zijn die met die, Pattern=cirkel
+	Constrained: Pattern=dit zijn die, Pattern=die met die, Pattern=dit, Pattern=dit zijn die met, Pattern=met, Pattern=die, Pattern=zijn
+Turn ID=21| B | B : en dan links hebben die soort van staaf als neus
+	Free: Pattern=en dan links, Pattern=die, Pattern=hebben
+	Constrained: Pattern=dan, Pattern=en dan, Pattern=links, Pattern=en
+Turn ID=22| B | B : en dan nog een pluimp bovenop
+	Free: Pattern=en dan, Pattern=pluimp
+	Constrained: Pattern=dan, Pattern=en
+Turn ID=23| B | B : en daaronder nog een soort van Standaard
+	Free: Pattern=en
+	Constrained: 
+Turn ID=24| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=25| A | A : ja dat zijn acht
+	Free: Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=26| A | A : ja dit zijn die met die half cirkel aan de achterkant
+	Free: Pattern=dit zijn die met die, Pattern=die half cirkel, Pattern=aan de, Pattern=ja
+	Constrained: Pattern=cirkel, Pattern=dit zijn die, Pattern=die met die, Pattern=dit, Pattern=dit zijn die met, Pattern=met, Pattern=die, Pattern=zijn, Pattern=half, Pattern=half cirkel, Pattern=de, Pattern=aan
+Turn ID=27| A | A : en dat pluimp
+	Free: Pattern=en dat, Pattern=pluimp
+	Constrained: Pattern=en, Pattern=dat
+Turn ID=28| A | A : en aan de onderkant dat ovaal langgerekken
+	Free: Pattern=en aan de onderkant, Pattern=dat
+	Constrained: Pattern=aan de, Pattern=aan de onderkant, Pattern=en, Pattern=de, Pattern=aan
+Turn ID=29| B | B : ja en dat staafje links
+	Free: Pattern=en dat, Pattern=ja, Pattern=links
+	Constrained: Pattern=en, Pattern=dat
+Turn ID=30| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=31| B | B : dat zijn C
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=32| B | B : dit zijn die met soort van staafneusje aan de linkerkant en die half cirkel daarachter
+	Free: Pattern=die half cirkel daarachter, Pattern=dit zijn die met, Pattern=aan de, Pattern=en
+	Constrained: Pattern=cirkel, Pattern=die half cirkel, Pattern=daarachter, Pattern=dit zijn die, Pattern=dit, Pattern=met, Pattern=die, Pattern=zijn, Pattern=half, Pattern=half cirkel, Pattern=de, Pattern=aan
+Turn ID=33| B | B : pluimp aan de bovenkant en one's ovale ding aan de onderkant
+	Free: Pattern=ding aan de onderkant, Pattern=aan de, Pattern=en, Pattern=ovale, Pattern=pluimp
+	Constrained: Pattern=aan, Pattern=de, Pattern=aan de onderkant, Pattern=aan de
+Turn ID=34| B | B : zeggen maar standaard het standaard eronder
+	Free: Pattern=standaard
+	Constrained: 
+Turn ID=35| A | A : die
+	Free: Pattern=die
+	Constrained: 
+Turn ID=36| A | A : die met die half cirkel daarachter
+	Free: Pattern=die half cirkel daarachter, Pattern=die met die
+	Constrained: Pattern=cirkel, Pattern=die half cirkel, Pattern=daarachter, Pattern=met, Pattern=die, Pattern=half, Pattern=half cirkel
+Turn ID=37| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=38| A | A : ik zijn even ik kunnen hem niet vinden
+	Free: Pattern=even, Pattern=zijn, Pattern=ik
+	Constrained: 
+Turn ID=39| A | A : dat zijn zeven
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=40| A | A : dit zijn die ja die op die standaard die aan de onderkant dat ovale hebben met dat cirkel er half achter en de pluim
+	Free: Pattern=cirkel, Pattern=dat, Pattern=dit zijn die, Pattern=hebben, Pattern=aan de onderkant, Pattern=met, Pattern=die, Pattern=en, Pattern=standaard, Pattern=ovale, Pattern=half, Pattern=de, Pattern=ja
+	Constrained: Pattern=aan de, Pattern=dit, Pattern=die, Pattern=zijn, Pattern=de, Pattern=aan
+Turn ID=41| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=42| B | B : dat zijn C
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=43| B | B : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=44| B | B : klaar
+	Free: 
+	Constrained: 
+Turn ID=45| B | B : het doen pijn aan mijn oor
+	Free: Pattern=aan
+	Constrained: 
+Turn ID=46| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=47| B | B : mogen we dit afzetten
+	Free: Pattern=we, Pattern=dit
+	Constrained: 

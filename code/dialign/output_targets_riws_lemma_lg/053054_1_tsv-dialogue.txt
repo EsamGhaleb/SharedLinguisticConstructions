@@ -1,0 +1,119 @@
+B|0| B: _deze hebben aan de linkerkant_ _twee_ van _die_ _kubus_ _die_ steeds groot worden 
+B|1| B: _en_ _aan de_ voorkant _een_ _vierkant_ schijf _of_ _ja_ geen schijf dan _maar_ 
+A|2| A: [ja] 
+A|3| A: [ja] 
+B|4| B: _en_ _aan de_ bovenkant _een_ soort 
+A|5| A: _paddenstoel_ [of] zo 
+B|6| B: [ja] 
+B|7| B: [ja] vinden _ik_ _een_ goed omschrijving 
+A|8| A: [ja] 
+A|9| A: nummer [twee] _zijn_ _dat_ 
+A|10| A: [ik] [hebben] nu links _twee keer_ _die uitdijen kubus_ zeggen [maar] [en] _bovenop_ [die] zeggen [maar] _paddenstoel_ 
+A|11| A: [en] vooraan [die] _dat_ [vierkant] ertegenaan plakken 
+B|12| B: [ja] 
+B|13| B: _dat zijn_ bij mij G 
+B|14| B: _deze_ [zijn] _met_ _de_ [paddenstoel] [bovenop] 
+B|15| B: [en] _de_ [twee] [vierkant] ding _aan de linkerkant_ 
+A|16| A: [ja] [ik] [hebben] hem 
+A|17| A: [ja] 
+A|18| A: [dat zijn] nummer negen 
+A|19| A: [deze hebben aan de linkerkant] [die] [twee] _uitdijen kubus_ [en] [bovenop] [dat] [paddenstoel] [en] vooraan [dat] geplakken [vierkant] 
+B|20| B: [ja] 
+B|21| B: [dat zijn] bij mij d 
+B|22| B: _dit zijn_ _met_ [die uitdijen kubus] [aan de linkerkant] [twee keer] [en] [de] [paddenstoel] [bovenop] 
+A|23| A: [ja] 
+A|24| A: [ja] 
+A|25| A: [dat zijn] nummer één 
+A|26| A: [dit zijn] [die] [een] [met] links [die] [twee] [uitdijen kubus] [en] [bovenop] [dat] [paddenstoel] 
+B|27| B: [ja] 
+B|28| B: [dat zijn] bij mij B 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : deze hebben aan de linkerkant twee van die kubus die steeds groot worden
+	Free: Pattern=deze hebben aan de linkerkant, Pattern=kubus, Pattern=die, Pattern=twee
+	Constrained: Pattern=de, Pattern=aan de, Pattern=hebben, Pattern=deze, Pattern=aan de linkerkant
+Turn ID=1| B | B : en aan de voorkant een vierkant schijf of ja geen schijf dan maar
+	Free: Pattern=of, Pattern=ja, Pattern=aan de, Pattern=een, Pattern=en, Pattern=maar, Pattern=vierkant
+	Constrained: Pattern=de
+Turn ID=2| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=3| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=4| B | B : en aan de bovenkant een soort
+	Free: Pattern=aan de, Pattern=een, Pattern=en
+	Constrained: Pattern=de
+Turn ID=5| A | A : paddenstoel of zo
+	Free: Pattern=of, Pattern=paddenstoel
+	Constrained: 
+Turn ID=6| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=7| B | B : ja vinden ik een goed omschrijving
+	Free: Pattern=een, Pattern=ik, Pattern=ja
+	Constrained: 
+Turn ID=8| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=9| A | A : nummer twee zijn dat
+	Free: Pattern=dat, Pattern=zijn, Pattern=twee
+	Constrained: 
+Turn ID=10| A | A : ik hebben nu links twee keer die uitdijen kubus zeggen maar en bovenop die zeggen maar paddenstoel
+	Free: Pattern=bovenop, Pattern=paddenstoel, Pattern=hebben, Pattern=die, Pattern=die uitdijen kubus, Pattern=ik, Pattern=en, Pattern=maar, Pattern=twee keer
+	Constrained: Pattern=twee, Pattern=uitdijen kubus, Pattern=kubus, Pattern=die
+Turn ID=11| A | A : en vooraan die dat vierkant ertegenaan plakken
+	Free: Pattern=vierkant, Pattern=dat, Pattern=die, Pattern=en
+	Constrained: 
+Turn ID=12| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=13| B | B : dat zijn bij mij G
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=14| B | B : deze zijn met de paddenstoel bovenop
+	Free: Pattern=bovenop, Pattern=de, Pattern=paddenstoel, Pattern=met, Pattern=zijn, Pattern=deze
+	Constrained: 
+Turn ID=15| B | B : en de twee vierkant ding aan de linkerkant
+	Free: Pattern=twee, Pattern=de, Pattern=en, Pattern=vierkant, Pattern=aan de linkerkant
+	Constrained: Pattern=aan de, Pattern=de
+Turn ID=16| A | A : ja ik hebben hem
+	Free: Pattern=ik, Pattern=ja, Pattern=hebben
+	Constrained: 
+Turn ID=17| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=18| A | A : dat zijn nummer negen
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=19| A | A : deze hebben aan de linkerkant die twee uitdijen kubus en bovenop dat paddenstoel en vooraan dat geplakken vierkant
+	Free: Pattern=uitdijen kubus, Pattern=twee, Pattern=paddenstoel, Pattern=deze hebben aan de linkerkant, Pattern=die, Pattern=en, Pattern=vierkant, Pattern=dat, Pattern=bovenop
+	Constrained: Pattern=de, Pattern=aan de, Pattern=hebben, Pattern=aan de linkerkant, Pattern=kubus, Pattern=deze
+Turn ID=20| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=21| B | B : dat zijn bij mij d
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=22| B | B : dit zijn met die uitdijen kubus aan de linkerkant twee keer en de paddenstoel bovenop
+	Free: Pattern=bovenop, Pattern=de, Pattern=paddenstoel, Pattern=met, Pattern=die uitdijen kubus, Pattern=en, Pattern=twee keer, Pattern=dit zijn, Pattern=aan de linkerkant
+	Constrained: Pattern=uitdijen kubus, Pattern=twee, Pattern=de, Pattern=aan de, Pattern=die, Pattern=zijn, Pattern=kubus
+Turn ID=23| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=24| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=25| A | A : dat zijn nummer één
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=26| A | A : dit zijn die een met links die twee uitdijen kubus en bovenop dat paddenstoel
+	Free: Pattern=uitdijen kubus, Pattern=twee, Pattern=een, Pattern=paddenstoel, Pattern=met, Pattern=die, Pattern=en, Pattern=dit zijn, Pattern=dat, Pattern=bovenop
+	Constrained: Pattern=kubus, Pattern=zijn
+Turn ID=27| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=28| B | B : dat zijn bij mij B
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn

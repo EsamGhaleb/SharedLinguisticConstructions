@@ -1,0 +1,67 @@
+B|0| B: ah _ik_ vinden het een cocktailglas 
+B|1| B: weten je welk _ik_ bedoelen 
+B|2| B: kunnen ook 
+B|3| B: _ja_ 
+A|4| A: [ja] dat zijn nummer vier 
+B|5| B: A 
+A|6| A: [ik] hebben de heel lang heel langwerpig 
+B|7| B: het wijnglas 
+B|8| B: waar staan die 
+B|9| B: [ja] L 
+A|10| A: nummer tien 
+B|11| B: het wijnglas 
+B|12| B: [ja] F 
+A|13| A: [ik] hebben de heel lang 
+A|14| A: nummer vier 
+A|15| A: [ik] hebben de lang langwerpig 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : ah ik vinden het een cocktailglas
+	Free: Pattern=ik
+	Constrained: 
+Turn ID=1| B | B : weten je welk ik bedoelen
+	Free: Pattern=ik
+	Constrained: 
+Turn ID=2| B | B : kunnen ook
+	Free: 
+	Constrained: 
+Turn ID=3| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=4| A | A : ja dat zijn nummer vier
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=5| B | B : A
+	Free: 
+	Constrained: 
+Turn ID=6| A | A : ik hebben de heel lang heel langwerpig
+	Free: Pattern=ik
+	Constrained: 
+Turn ID=7| B | B : het wijnglas
+	Free: 
+	Constrained: 
+Turn ID=8| B | B : waar staan die
+	Free: 
+	Constrained: 
+Turn ID=9| B | B : ja L
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=10| A | A : nummer tien
+	Free: 
+	Constrained: 
+Turn ID=11| B | B : het wijnglas
+	Free: 
+	Constrained: 
+Turn ID=12| B | B : ja F
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=13| A | A : ik hebben de heel lang
+	Free: Pattern=ik
+	Constrained: 
+Turn ID=14| A | A : nummer vier
+	Free: 
+	Constrained: 
+Turn ID=15| A | A : ik hebben de lang langwerpig
+	Free: Pattern=ik
+	Constrained: 

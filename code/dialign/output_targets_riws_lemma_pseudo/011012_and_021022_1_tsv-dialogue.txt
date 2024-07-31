@@ -1,0 +1,87 @@
+B|0| B: _ja_ _het_ lijken wel _of_ dit _ding_ _twee_ van _die_ oog _hebben_ 
+B|1| B: _zeggen maar_ _die_ _die_ blok _die_ steeds _groot worden_ _en_ dan bovenop nog _een_ soort paddenstoel _of_ _ik_ weten niet wat _het_ precies _zijn_ 
+A|2| A: [en] daarvoor zo'n vierkant _plaat_ 
+A|3| A: [ja] 
+A|4| A: _dat zijn_ bij mij nummer [twee] 
+B|5| B: _en die twee_ oog _die _een_ beetje_ op _een_ [ja] [dat zijn] dan [en] dan _hebben_ je nog _die plaat_ _aan de_ zijkant [ja] [dat zijn] dan G 
+B|6| B: dit [zijn] weer _die een met die_ paddenstoel bovenop _en dat_ plak kaas _of_ zo _of_ weten _ik_ veel wat _aan de_ zijkant 
+B|7| B: [ja] _met _die_ met die_ blok [ja] 
+A|8| A: [ik] [hebben] nu [de] [een] mat [met die] antenne [en dat] vierkant [of] [ja] [die plaat] ervoor [zeggen maar] [en die twee] vierkant uitstekend [ding] 
+A|9| A: [en die] antenne erop 
+A|10| A: [ja] 
+A|11| A: nummer negen bij mij 
+B|12| B: [ja] 
+B|13| B: [ja] [dat zijn] dan D 
+A|14| A: [ik] [hebben] nu [die een met die] antenne erop [die plaat] ervoor [en die] vierkant [aan de] linkerkant 
+B|15| B: [ja] dit [zijn] _die met die_ paddenstoel bovenop [en dat] cheddar plak [aan de] zijkant [en die] blok [die] steeds _groot worden_ 
+B|16| B: [ja] [ja] [dat zijn] B 
+A|17| A: [ja] 
+A|18| A: nummer één [zijn] [dat] bij mij 
+A|19| A: [ik] [hebben] [die met die] antenne staan bij mij onderin [een beetje] in [het] midden 
+A|20| A: [met] zo'n vierkant [plaat] er voor [en die] vierkant [die] [groot worden] 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : ja het lijken wel of dit ding twee van die oog hebben
+	Free: Pattern=of, Pattern=twee, Pattern=ja, Pattern=ding, Pattern=het, Pattern=hebben, Pattern=die
+	Constrained: 
+Turn ID=1| B | B : zeggen maar die die blok die steeds groot worden en dan bovenop nog een soort paddenstoel of ik weten niet wat het precies zijn
+	Free: Pattern=of, Pattern=een, Pattern=zeggen maar, Pattern=het, Pattern=die, Pattern=ik, Pattern=en, Pattern=groot worden, Pattern=zijn
+	Constrained: 
+Turn ID=2| A | A : en daarvoor zo'n vierkant plaat
+	Free: Pattern=plaat, Pattern=en
+	Constrained: 
+Turn ID=3| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=4| A | A : dat zijn bij mij nummer twee
+	Free: Pattern=dat zijn, Pattern=twee
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=5| B | B : en die twee oog die een beetje op een ja dat zijn dan en dan hebben je nog die plaat aan de zijkant ja dat zijn dan G
+	Free: Pattern=dat zijn, Pattern=ja, Pattern=aan de, Pattern=een, Pattern=en die twee, Pattern=hebben, Pattern=die een, Pattern=en, Pattern=die plaat, Pattern=een beetje
+	Constrained: Pattern=en die, Pattern=dat, Pattern=twee, Pattern=de, Pattern=een, Pattern=die, Pattern=en, Pattern=zijn, Pattern=plaat
+Turn ID=6| B | B : dit zijn weer die een met die paddenstoel bovenop en dat plak kaas of zo of weten ik veel wat aan de zijkant
+	Free: Pattern=of, Pattern=aan de, Pattern=die een met die, Pattern=ik, Pattern=zijn, Pattern=en dat
+	Constrained: Pattern=de, Pattern=een, Pattern=met, Pattern=die, Pattern=die een, Pattern=en, Pattern=dat, Pattern=met die
+Turn ID=7| B | B : ja met die met die blok ja
+	Free: Pattern=die met die, Pattern=met die, Pattern=ja
+	Constrained: Pattern=met die, Pattern=die, Pattern=met
+Turn ID=8| A | A : ik hebben nu de een mat met die antenne en dat vierkant of ja die plaat ervoor zeggen maar en die twee vierkant uitstekend ding
+	Free: Pattern=met die, Pattern=of, Pattern=ding, Pattern=een, Pattern=zeggen maar, Pattern=en die twee, Pattern=hebben, Pattern=ik, Pattern=die plaat, Pattern=en dat, Pattern=de, Pattern=ja
+	Constrained: Pattern=en die, Pattern=dat, Pattern=twee, Pattern=met, Pattern=die, Pattern=en, Pattern=plaat
+Turn ID=9| A | A : en die antenne erop
+	Free: Pattern=en die
+	Constrained: Pattern=die, Pattern=en
+Turn ID=10| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=11| A | A : nummer negen bij mij
+	Free: 
+	Constrained: 
+Turn ID=12| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=13| B | B : ja dat zijn dan D
+	Free: Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=14| A | A : ik hebben nu die een met die antenne erop die plaat ervoor en die vierkant aan de linkerkant
+	Free: Pattern=en die, Pattern=aan de, Pattern=die een met die, Pattern=hebben, Pattern=ik, Pattern=die plaat
+	Constrained: Pattern=met die, Pattern=de, Pattern=een, Pattern=met, Pattern=die, Pattern=die een, Pattern=en, Pattern=plaat
+Turn ID=15| B | B : ja dit zijn die met die paddenstoel bovenop en dat cheddar plak aan de zijkant en die blok die steeds groot worden
+	Free: Pattern=en die, Pattern=ja, Pattern=die met die, Pattern=aan de, Pattern=die, Pattern=groot worden, Pattern=zijn, Pattern=en dat
+	Constrained: Pattern=de, Pattern=met, Pattern=die, Pattern=en, Pattern=dat, Pattern=met die
+Turn ID=16| B | B : ja ja dat zijn B
+	Free: Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=17| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=18| A | A : nummer één zijn dat bij mij
+	Free: Pattern=zijn, Pattern=dat
+	Constrained: 
+Turn ID=19| A | A : ik hebben die met die antenne staan bij mij onderin een beetje in het midden
+	Free: Pattern=die met die, Pattern=het, Pattern=hebben, Pattern=ik, Pattern=een beetje
+	Constrained: Pattern=een, Pattern=met, Pattern=die, Pattern=met die
+Turn ID=20| A | A : met zo'n vierkant plaat er voor en die vierkant die groot worden
+	Free: Pattern=en die, Pattern=met, Pattern=die, Pattern=groot worden, Pattern=plaat
+	Constrained: Pattern=die, Pattern=en

@@ -1,0 +1,91 @@
+B|0| B: _en_ _zeggen maar_ _één_ _zijn_ _een_ isteken aan _de_ zijkant 
+B|1| B: _ja_ 
+B|2| B: I 
+A|3| A: ik [ja] _het_ goed kunnen je hem [een] beetje misschien wel _met_ [een] [één] zo'n ouderwets adopter of lader of stekker of als je naar Engeland of iets toe gaan [zeggen maar] zo'n stekker 
+A|4| A: of [één] [en] hij lijken ook wel [een] beetje op [een] fietsenlamp [een] heel klein beetje 
+A|5| A: er zitten nog zo'n dinge bovenop [en] _dat_ zakken dan af 
+A|6| A: [ja] _die_ adapter hebben we twee adapter of [één] 
+A|7| A: in ieder geval _die_ adapter _met_ _die_ [een] beetje dan zo afloopt 
+A|8| A: [ja] precies waar [de] kop eraf [zijn] [zijn] afbrokkelen [ja] 
+A|9| A: twee 
+B|10| B: [het] [zijn] weer [die] [met] [dat] isteken aan [de] zijkant 
+A|11| A: [dat] [zijn] [die] oud adapter 
+B|12| B: [ja] 
+B|13| B: M 
+A|14| A: [ja] 
+A|15| A: negen 
+B|16| B: [die] [met] [dat] isteken 
+A|17| A: [de] oud adapter 
+B|18| B: F 
+B|19| B: [de] istek 
+A|20| A: [ja] 
+A|21| A: zes 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : en zeggen maar één zijn een isteken aan de zijkant
+	Free: Pattern=de, Pattern=een, Pattern=zeggen maar, Pattern=en, Pattern=zijn, Pattern=één
+	Constrained: 
+Turn ID=1| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=2| B | B : I
+	Free: 
+	Constrained: 
+Turn ID=3| A | A : ik ja het goed kunnen je hem een beetje misschien wel met een één zo'n ouderwets adopter of lader of stekker of als je naar Engeland of iets toe gaan zeggen maar zo'n stekker
+	Free: Pattern=ja, Pattern=een, Pattern=zeggen maar, Pattern=het, Pattern=met, Pattern=één
+	Constrained: 
+Turn ID=4| A | A : of één en hij lijken ook wel een beetje op een fietsenlamp een heel klein beetje
+	Free: Pattern=een, Pattern=één, Pattern=en
+	Constrained: 
+Turn ID=5| A | A : er zitten nog zo'n dinge bovenop en dat zakken dan af
+	Free: Pattern=en, Pattern=dat
+	Constrained: 
+Turn ID=6| A | A : ja die adapter hebben we twee adapter of één
+	Free: Pattern=één, Pattern=ja, Pattern=die
+	Constrained: 
+Turn ID=7| A | A : in ieder geval die adapter met die een beetje dan zo afloopt
+	Free: Pattern=met, Pattern=een, Pattern=die
+	Constrained: 
+Turn ID=8| A | A : ja precies waar de kop eraf zijn zijn afbrokkelen ja
+	Free: Pattern=ja, Pattern=zijn, Pattern=de
+	Constrained: 
+Turn ID=9| A | A : twee
+	Free: 
+	Constrained: 
+Turn ID=10| B | B : het zijn weer die met dat isteken aan de zijkant
+	Free: Pattern=dat, Pattern=de, Pattern=het, Pattern=met, Pattern=die, Pattern=zijn
+	Constrained: 
+Turn ID=11| A | A : dat zijn die oud adapter
+	Free: Pattern=die, Pattern=dat, Pattern=zijn
+	Constrained: 
+Turn ID=12| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=13| B | B : M
+	Free: 
+	Constrained: 
+Turn ID=14| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=15| A | A : negen
+	Free: 
+	Constrained: 
+Turn ID=16| B | B : die met dat isteken
+	Free: Pattern=met, Pattern=die, Pattern=dat
+	Constrained: 
+Turn ID=17| A | A : de oud adapter
+	Free: Pattern=de
+	Constrained: 
+Turn ID=18| B | B : F
+	Free: 
+	Constrained: 
+Turn ID=19| B | B : de istek
+	Free: Pattern=de
+	Constrained: 
+Turn ID=20| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=21| A | A : zes
+	Free: 
+	Constrained: 

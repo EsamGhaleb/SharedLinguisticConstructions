@@ -1,0 +1,143 @@
+A|0| A: _ja_ 
+A|1| A: _dan weer_ _met die_ balonnet _en dan_ _één_ groot er in _en_ _één_ groot _aan de zijkant_ _en dan_ zo'n toren _van_ vierkant _aan de_ rechterkant 
+B|2| B: [ja] 
+B|3| B: [ja] 
+B|4| B: het zijn maar zeggen maar dat ding dat [aan] [één] _kant_ uitsteken [en] dat daarboven zijn hetzelfde zeker 
+B|5| B: [ja] 
+B|6| B: [ja] [ja] 
+B|7| B: oké 
+B|8| B: dat zijn E 
+A|9| A: [en] _aan de ander_ [kant] hebben hij _een_ armpje _of_ zo 
+A|10| A: [ja] ok elf 
+B|11| B: [ja] _deze_ zijn [met die] [ja] [met] dat [een] ding bovenop dat ook [aan de zijkant] zitten zeggen maar 
+B|12| B: zeggen maar dat dat eerst [dan] smal zijn [en dan] breder worden [en [dan] weer] smal worden 
+B|13| B: [en] diezelfde zitten ook [aan de zijkant] 
+B|14| B: [en dan] [aan de ander] [één] [van] [de ander] [zijkant] het zijn net [of] daar [een] wolkenkrabber doorheen zijn Geboord 
+B|15| B: [ja] [ja] [ja] 
+A|16| A: [deze] hebben [die] twee ballonnetje [één] op [de] bovenkant [en] [één] [aan de zijkant] [en dan] blokkentoren 
+A|17| A: [ja] 
+B|18| B: [ja] 
+B|19| B: [ja] 
+B|20| B: [ja] 
+B|21| B: [ja] [ja] 
+B|22| B: [ja] [die] cactusachtig wolkenkrabber 
+B|23| B: J 
+A|24| A: [ja] negen 
+B|25| B: [ja] dit zijn [die] [met die] [één] wolkenkrabber zeggen maar 
+B|26| B: [en dan] [met die] cactusachtig ding 
+A|27| A: twee ballonnet [één] [aan de] bovenkant [één] [aan de zijkant] [en dan] blokkentoren [aan de zijkant] 
+A|28| A: blokkentoren vier 
+B|29| B: [die] 
+B|30| B: [ja] 
+B|31| B: [ja] 
+B|32| B: B 
+B|33| B: [met die] [een] wolkenkrabber 
+B|34| B: [ja] 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=1| A | A : dan weer met die balonnet en dan één groot er in en één groot aan de zijkant en dan zo'n toren van vierkant aan de rechterkant
+	Free: Pattern=met die, Pattern=en dan, Pattern=aan de, Pattern=aan de zijkant, Pattern=dan weer, Pattern=één, Pattern=van, Pattern=en
+	Constrained: Pattern=aan de, Pattern=dan, Pattern=met, Pattern=en, Pattern=de, Pattern=aan, Pattern=die, Pattern=zijkant
+Turn ID=2| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=3| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=4| B | B : het zijn maar zeggen maar dat ding dat aan één kant uitsteken en dat daarboven zijn hetzelfde zeker
+	Free: Pattern=één, Pattern=en, Pattern=aan, Pattern=kant
+	Constrained: 
+Turn ID=5| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=6| B | B : ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=7| B | B : oké
+	Free: 
+	Constrained: 
+Turn ID=8| B | B : dat zijn E
+	Free: 
+	Constrained: 
+Turn ID=9| A | A : en aan de ander kant hebben hij een armpje of zo
+	Free: Pattern=kant, Pattern=of, Pattern=en, Pattern=een, Pattern=aan de ander
+	Constrained: Pattern=aan, Pattern=de, Pattern=aan de, Pattern=de ander
+Turn ID=10| A | A : ja ok elf
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=11| B | B : ja deze zijn met die ja met dat een ding bovenop dat ook aan de zijkant zitten zeggen maar
+	Free: Pattern=met die, Pattern=ja, Pattern=met, Pattern=deze, Pattern=een, Pattern=aan de zijkant
+	Constrained: Pattern=aan de, Pattern=met, Pattern=de, Pattern=aan, Pattern=die, Pattern=zijkant
+Turn ID=12| B | B : zeggen maar dat dat eerst dan smal zijn en dan breder worden en dan weer smal worden
+	Free: Pattern=en dan, Pattern=dan weer, Pattern=dan
+	Constrained: Pattern=en, Pattern=dan
+Turn ID=13| B | B : en diezelfde zitten ook aan de zijkant
+	Free: Pattern=aan de zijkant, Pattern=en
+	Constrained: Pattern=aan, Pattern=zijkant, Pattern=de, Pattern=aan de
+Turn ID=14| B | B : en dan aan de ander één van de ander zijkant het zijn net of daar een wolkenkrabber doorheen zijn Geboord
+	Free: Pattern=of, Pattern=en dan, Pattern=zijkant, Pattern=van, Pattern=een, Pattern=aan de ander, Pattern=één, Pattern=de ander
+	Constrained: Pattern=aan de, Pattern=dan, Pattern=en, Pattern=de ander, Pattern=de, Pattern=aan
+Turn ID=15| B | B : ja ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=16| A | A : deze hebben die twee ballonnetje één op de bovenkant en één aan de zijkant en dan blokkentoren
+	Free: Pattern=de, Pattern=en dan, Pattern=aan de zijkant, Pattern=die, Pattern=en, Pattern=deze, Pattern=één
+	Constrained: Pattern=aan de, Pattern=dan, Pattern=zijkant, Pattern=en, Pattern=de, Pattern=aan
+Turn ID=17| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=18| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=19| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=20| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=21| B | B : ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=22| B | B : ja die cactusachtig wolkenkrabber
+	Free: Pattern=die, Pattern=ja
+	Constrained: 
+Turn ID=23| B | B : J
+	Free: 
+	Constrained: 
+Turn ID=24| A | A : ja negen
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=25| B | B : ja dit zijn die met die één wolkenkrabber zeggen maar
+	Free: Pattern=met die, Pattern=één, Pattern=die, Pattern=ja
+	Constrained: Pattern=die, Pattern=met
+Turn ID=26| B | B : en dan met die cactusachtig ding
+	Free: Pattern=en dan, Pattern=met die
+	Constrained: Pattern=en, Pattern=dan, Pattern=die, Pattern=met
+Turn ID=27| A | A : twee ballonnet één aan de bovenkant één aan de zijkant en dan blokkentoren aan de zijkant
+	Free: Pattern=aan de zijkant, Pattern=aan de, Pattern=en dan, Pattern=één
+	Constrained: Pattern=aan de, Pattern=dan, Pattern=zijkant, Pattern=en, Pattern=de, Pattern=aan
+Turn ID=28| A | A : blokkentoren vier
+	Free: 
+	Constrained: 
+Turn ID=29| B | B : die
+	Free: Pattern=die
+	Constrained: 
+Turn ID=30| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=31| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=32| B | B : B
+	Free: 
+	Constrained: 
+Turn ID=33| B | B : met die een wolkenkrabber
+	Free: Pattern=met die, Pattern=een
+	Constrained: Pattern=die, Pattern=met
+Turn ID=34| B | B : ja
+	Free: Pattern=ja
+	Constrained: 

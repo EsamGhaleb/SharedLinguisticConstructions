@@ -1,0 +1,119 @@
+B|0| B: _ja_ 
+B|1| B: o 
+A|2| A: okeeen _deze hebben_ dus _een_ neus _die_ steken _een_ beetje diagonaal _uit_ zo _naar _de_ rechterkant_ 
+A|3| A: _met_ _ook_ _een_ arm erbij zo 
+A|4| A: _en_ _die_ _hebben een soort van_ [ja] _die_ staan op _een_ 
+A|5| A: [ja] op _een_ voetstuk _en_ _die_ _hebben_ hier lijken het op zo'n strik 
+B|6| B: [deze [hebben] een soort van] staaf [die] eruit komen onderaan [die] [naar de] toe wijzen 
+B|7| B: [en] aan [de] zijkant komen er [ook] zoiets [uit] wat aan [de rechterkant] [ook] [naar] je toe wijzen 
+B|8| B: bovenop _zijn_ er twee ruit _en dan_ 
+B|9| B: [ja] 
+A|10| A: lijken het op [een] op op zo'n knot of 
+A|11| A: [en] hij staan op _iets_ 
+A|12| A: [ja] 
+A|13| A: okee dat [zijn] nummer veertien 
+B|14| B: [ja] d 
+A|15| A: [deze hebben] [ja] dat kunnen [een] strik noemen hierboven 
+A|16| A: dat arm hier zo 
+B|17| B: [deze hebben] [de] ruit bovenop [met] [de] staaf eruit 
+A|18| A: hier [een] neus dat zo uitsteken [en] hij staan op _iets_ 
+B|19| B: [en] aan [de] onderkant [en] aan [de rechterkant] komen er [een soort van] [iets] [uit] wat [naar] jou toe wijzen 
+B|20| B: [ja] daarachter [soort van] twee ruit 
+B|21| B: [en] aan [de] [een] kant komen er [die] blok [uit] [en] aan [de] ander kant 
+B|22| B: [ja] c 
+A|23| A: [ja] zo'n kromme voet [ja] 
+A|24| A: dat [zijn] zes 
+B|25| B: dit [zijn] [de] [met] [de] twee ruit bovenop [en] waar [de] blok uitkomen 
+A|26| A: [deze] lijken net of [die] dat strik [hebben] [en] zo'n arm 
+A|27| A: [en dan] [dan] staan hij op [iets] 
+A|28| A: [ja] dat [zijn] tien 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=1| B | B : o
+	Free: 
+	Constrained: 
+Turn ID=2| A | A : okeeen deze hebben dus een neus die steken een beetje diagonaal uit zo naar de rechterkant
+	Free: Pattern=de rechterkant, Pattern=uit, Pattern=een, Pattern=naar de, Pattern=deze hebben, Pattern=die
+	Constrained: Pattern=de, Pattern=deze, Pattern=naar, Pattern=hebben
+Turn ID=3| A | A : met ook een arm erbij zo
+	Free: Pattern=ook, Pattern=een, Pattern=met
+	Constrained: 
+Turn ID=4| A | A : en die hebben een soort van ja die staan op een
+	Free: Pattern=ja, Pattern=hebben een soort van, Pattern=een, Pattern=die, Pattern=en
+	Constrained: Pattern=een, Pattern=een soort van, Pattern=soort van, Pattern=hebben
+Turn ID=5| A | A : ja op een voetstuk en die hebben hier lijken het op zo'n strik
+	Free: Pattern=ja, Pattern=een, Pattern=hebben, Pattern=die, Pattern=en
+	Constrained: 
+Turn ID=6| B | B : deze hebben een soort van staaf die eruit komen onderaan die naar de toe wijzen
+	Free: Pattern=hebben een soort van, Pattern=naar de, Pattern=deze hebben, Pattern=die
+	Constrained: Pattern=de, Pattern=een, Pattern=hebben, Pattern=een soort van, Pattern=soort van, Pattern=deze, Pattern=naar
+Turn ID=7| B | B : en aan de zijkant komen er ook zoiets uit wat aan de rechterkant ook naar je toe wijzen
+	Free: Pattern=de, Pattern=de rechterkant, Pattern=en, Pattern=naar, Pattern=uit, Pattern=ook
+	Constrained: Pattern=de
+Turn ID=8| B | B : bovenop zijn er twee ruit en dan
+	Free: Pattern=en dan, Pattern=zijn
+	Constrained: Pattern=dan, Pattern=en
+Turn ID=9| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=10| A | A : lijken het op een op op zo'n knot of
+	Free: Pattern=een
+	Constrained: 
+Turn ID=11| A | A : en hij staan op iets
+	Free: Pattern=iets, Pattern=en
+	Constrained: 
+Turn ID=12| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=13| A | A : okee dat zijn nummer veertien
+	Free: Pattern=zijn
+	Constrained: 
+Turn ID=14| B | B : ja d
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=15| A | A : deze hebben ja dat kunnen een strik noemen hierboven
+	Free: Pattern=deze hebben, Pattern=ja, Pattern=een
+	Constrained: Pattern=hebben, Pattern=deze
+Turn ID=16| A | A : dat arm hier zo
+	Free: 
+	Constrained: 
+Turn ID=17| B | B : deze hebben de ruit bovenop met de staaf eruit
+	Free: Pattern=deze hebben, Pattern=de, Pattern=met
+	Constrained: Pattern=hebben, Pattern=deze
+Turn ID=18| A | A : hier een neus dat zo uitsteken en hij staan op iets
+	Free: Pattern=een, Pattern=iets, Pattern=en
+	Constrained: 
+Turn ID=19| B | B : en aan de onderkant en aan de rechterkant komen er een soort van iets uit wat naar jou toe wijzen
+	Free: Pattern=de rechterkant, Pattern=uit, Pattern=een soort van, Pattern=en, Pattern=naar, Pattern=de, Pattern=iets
+	Constrained: Pattern=een, Pattern=de, Pattern=soort van
+Turn ID=20| B | B : ja daarachter soort van twee ruit
+	Free: Pattern=soort van, Pattern=ja
+	Constrained: 
+Turn ID=21| B | B : en aan de een kant komen er die blok uit en aan de ander kant
+	Free: Pattern=de, Pattern=uit, Pattern=een, Pattern=die, Pattern=en
+	Constrained: 
+Turn ID=22| B | B : ja c
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=23| A | A : ja zo'n kromme voet ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=24| A | A : dat zijn zes
+	Free: Pattern=zijn
+	Constrained: 
+Turn ID=25| B | B : dit zijn de met de twee ruit bovenop en waar de blok uitkomen
+	Free: Pattern=zijn, Pattern=de, Pattern=met, Pattern=en
+	Constrained: 
+Turn ID=26| A | A : deze lijken net of die dat strik hebben en zo'n arm
+	Free: Pattern=die, Pattern=hebben, Pattern=deze, Pattern=en
+	Constrained: 
+Turn ID=27| A | A : en dan dan staan hij op iets
+	Free: Pattern=en dan, Pattern=dan, Pattern=iets
+	Constrained: Pattern=dan, Pattern=en
+Turn ID=28| A | A : ja dat zijn tien
+	Free: Pattern=ja, Pattern=zijn
+	Constrained: 

@@ -1,0 +1,91 @@
+A|0| A: precies diezelfde 
+A|1| A: volgens mij als degeen _die_ ik nu moeten omschrijven 
+B|2| B: oké 
+B|3| B: dus weer _met_ [die] _schijf_ erachter _en_ _dat_ ding _erdoorheen_ 
+A|4| A: _met de_ [schijf] erdoor _ja_ door het rond heen [en] dan _een_ soort van _ja_ veer of lepeltje Erboven 
+B|5| B: [ja] 
+B|6| B: oké 
+B|7| B: G 
+B|8| B: _dit zijn_ [de] neus _met de piercing_ 
+A|9| A: [ja] even kijken waar [die] in principe [ja] [dat] [zijn] vijf 
+A|10| A: [dit zijn] degeen [met de piercing] [erdoorheen] 
+B|11| B: oké 
+B|12| B: A 
+B|13| B: [de piercing] 
+A|14| A: [de piercing] 
+B|15| B: neus [met de piercing] 
+A|16| A: vijf 
+A|17| A: [dit zijn] [met de piercing] 
+B|18| B: H 
+B|19| B: [een] neus [met de piercing] 
+A|20| A: [ja] 
+A|21| A: vijftien 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : precies diezelfde
+	Free: 
+	Constrained: 
+Turn ID=1| A | A : volgens mij als degeen die ik nu moeten omschrijven
+	Free: Pattern=die
+	Constrained: 
+Turn ID=2| B | B : oké
+	Free: 
+	Constrained: 
+Turn ID=3| B | B : dus weer met die schijf erachter en dat ding erdoorheen
+	Free: Pattern=dat, Pattern=met, Pattern=die, Pattern=en, Pattern=erdoorheen, Pattern=schijf
+	Constrained: 
+Turn ID=4| A | A : met de schijf erdoor ja door het rond heen en dan een soort van ja veer of lepeltje Erboven
+	Free: Pattern=een, Pattern=schijf, Pattern=en, Pattern=met de, Pattern=ja
+	Constrained: Pattern=de, Pattern=met
+Turn ID=5| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=6| B | B : oké
+	Free: 
+	Constrained: 
+Turn ID=7| B | B : G
+	Free: 
+	Constrained: 
+Turn ID=8| B | B : dit zijn de neus met de piercing
+	Free: Pattern=met de piercing, Pattern=dit zijn, Pattern=de
+	Constrained: Pattern=met, Pattern=zijn, Pattern=de piercing, Pattern=de, Pattern=met de
+Turn ID=9| A | A : ja even kijken waar die in principe ja dat zijn vijf
+	Free: Pattern=ja, Pattern=dat, Pattern=zijn, Pattern=die
+	Constrained: 
+Turn ID=10| A | A : dit zijn degeen met de piercing erdoorheen
+	Free: Pattern=met de piercing, Pattern=dit zijn, Pattern=erdoorheen
+	Constrained: Pattern=met, Pattern=zijn, Pattern=de piercing, Pattern=de, Pattern=met de
+Turn ID=11| B | B : oké
+	Free: 
+	Constrained: 
+Turn ID=12| B | B : A
+	Free: 
+	Constrained: 
+Turn ID=13| B | B : de piercing
+	Free: Pattern=de piercing
+	Constrained: Pattern=de
+Turn ID=14| A | A : de piercing
+	Free: Pattern=de piercing
+	Constrained: Pattern=de
+Turn ID=15| B | B : neus met de piercing
+	Free: Pattern=met de piercing
+	Constrained: Pattern=de, Pattern=met, Pattern=met de, Pattern=de piercing
+Turn ID=16| A | A : vijf
+	Free: 
+	Constrained: 
+Turn ID=17| A | A : dit zijn met de piercing
+	Free: Pattern=met de piercing, Pattern=dit zijn
+	Constrained: Pattern=met, Pattern=zijn, Pattern=de piercing, Pattern=de, Pattern=met de
+Turn ID=18| B | B : H
+	Free: 
+	Constrained: 
+Turn ID=19| B | B : een neus met de piercing
+	Free: Pattern=met de piercing, Pattern=een
+	Constrained: Pattern=de, Pattern=met, Pattern=met de, Pattern=de piercing
+Turn ID=20| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=21| A | A : vijftien
+	Free: 
+	Constrained: 

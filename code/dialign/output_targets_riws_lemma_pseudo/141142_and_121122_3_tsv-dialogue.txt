@@ -1,0 +1,123 @@
+B|0| B: _ik_ _hebben_ _de_ trofee 
+B|1| B: _ja_ _met_ als enig zo'n uitstulpsel echt onder 
+B|2| B: lijken op _de_ trofee 
+B|3| B: staan op zo'n drie 
+B|4| B: _ja_ 
+A|5| A: [ja] oké 
+A|6| A: twee blok erop 
+A|7| A: [ja] [ik] zien er één [met] twee blok erop [hebben] zeggen maar [de] onderkant een soort van draai erin zitten 
+A|8| A: [ja] oké 
+A|9| A: en dan inderdaad een een driehoek _die_ er onderin zitten 
+A|10| A: oké _dat zijn_ vier voor _mij_ dan 
+B|11| B: [ja] 
+B|12| B: [dat zijn] bij [mij] A 
+A|13| A: deze [hebben] een draaien onderkant en [de] driehoek eronder 
+A|14| A: [ja] 
+A|15| A: en _die_ twee blok 
+B|16| B: [met] [dat] voe 
+B|17| B: [die] trofee 
+B|18| B: dNAstreng 
+B|19| B: [ja] [zijn] L 
+B|20| B: [ik] [hebben] _die met_ [die] dNAstreng 
+B|21| B: [ja] 
+B|22| B: F 
+A|23| A: [ja] en [de] en [de] draaien 
+A|24| A: [ja] gedraaide ding oké [dat zijn] tien 
+A|25| A: [dat] kloppen 
+A|26| A: oké dit [zijn] weer [de] draaien onderkant [met] [de] driehoek eronder 
+A|27| A: yes 
+A|28| A: oké [dat zijn] vier 
+A|29| A: deze dit [zijn] weer [die met] [de] draaien onderkant en [de] en [de] blok erop 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : ik hebben de trofee
+	Free: Pattern=hebben, Pattern=ik, Pattern=de
+	Constrained: 
+Turn ID=1| B | B : ja met als enig zo'n uitstulpsel echt onder
+	Free: Pattern=ja, Pattern=met
+	Constrained: 
+Turn ID=2| B | B : lijken op de trofee
+	Free: Pattern=de
+	Constrained: 
+Turn ID=3| B | B : staan op zo'n drie
+	Free: 
+	Constrained: 
+Turn ID=4| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=5| A | A : ja oké
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=6| A | A : twee blok erop
+	Free: 
+	Constrained: 
+Turn ID=7| A | A : ja ik zien er één met twee blok erop hebben zeggen maar de onderkant een soort van draai erin zitten
+	Free: Pattern=hebben, Pattern=met, Pattern=ik, Pattern=de, Pattern=ja
+	Constrained: 
+Turn ID=8| A | A : ja oké
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=9| A | A : en dan inderdaad een een driehoek die er onderin zitten
+	Free: Pattern=die
+	Constrained: 
+Turn ID=10| A | A : oké dat zijn vier voor mij dan
+	Free: Pattern=dat zijn, Pattern=mij
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=11| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=12| B | B : dat zijn bij mij A
+	Free: Pattern=dat zijn, Pattern=mij
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=13| A | A : deze hebben een draaien onderkant en de driehoek eronder
+	Free: Pattern=hebben, Pattern=de
+	Constrained: 
+Turn ID=14| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=15| A | A : en die twee blok
+	Free: Pattern=die
+	Constrained: 
+Turn ID=16| B | B : met dat voe
+	Free: Pattern=dat, Pattern=met
+	Constrained: 
+Turn ID=17| B | B : die trofee
+	Free: Pattern=die
+	Constrained: 
+Turn ID=18| B | B : dNAstreng
+	Free: 
+	Constrained: 
+Turn ID=19| B | B : ja zijn L
+	Free: Pattern=ja, Pattern=zijn
+	Constrained: 
+Turn ID=20| B | B : ik hebben die met die dNAstreng
+	Free: Pattern=die met, Pattern=hebben, Pattern=ik, Pattern=die
+	Constrained: Pattern=met, Pattern=die
+Turn ID=21| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=22| B | B : F
+	Free: 
+	Constrained: 
+Turn ID=23| A | A : ja en de en de draaien
+	Free: Pattern=ja, Pattern=de
+	Constrained: 
+Turn ID=24| A | A : ja gedraaide ding oké dat zijn tien
+	Free: Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=25| A | A : dat kloppen
+	Free: Pattern=dat
+	Constrained: 
+Turn ID=26| A | A : oké dit zijn weer de draaien onderkant met de driehoek eronder
+	Free: Pattern=de, Pattern=zijn, Pattern=met
+	Constrained: 
+Turn ID=27| A | A : yes
+	Free: 
+	Constrained: 
+Turn ID=28| A | A : oké dat zijn vier
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=29| A | A : deze dit zijn weer die met de draaien onderkant en de en de blok erop
+	Free: Pattern=die met, Pattern=de, Pattern=zijn
+	Constrained: Pattern=met, Pattern=die

@@ -1,0 +1,91 @@
+A|0| A: _ik hebben_ er één _met_ _een_ soort van het lijken alsof er _twee_ _paddenstoel aan de zijkant_ laten maar zeggen zitten 
+B|1| B: [de] _zoutvaat_ 
+A|2| A: ja kloppen precies _die_ 
+B|3| B: zo zien [ik] hem 
+B|4| B: en dan zo'n schuin ding [een] beetje achter 
+A|5| A: ja 
+B|6| B: dat _zijn_ K 
+B|7| B: [ik hebben] dat ding [met] [de] _zoutvaat_ of [paddenstoel aan de zijkant] 
+A|8| A: ja [ik] moeten _even_ zoeken 
+A|9| A: ja 
+A|10| A: ja [zijn] bij mij nummer negen 
+B|11| B: oké 
+A|12| A: [ik hebben] diegene [met] _die_ [zoutvaat] weer 
+B|13| B: [die] dat [zijn] F 
+B|14| B: _de twee zoutvaat_ 
+A|15| A: ja [die] staan bij mij [ik] kunnen ze niet vinden 
+A|16| A: ja nummer drie 
+A|17| A: [ik hebben] [de twee zoutvaat] 
+B|18| B: [even] kijken 
+B|19| B: dat [zijn] L 
+B|20| B: [ik hebben] [die] [twee] [met] [de twee zoutvaat] 
+A|21| A: nummer vijf 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : ik hebben er één met een soort van het lijken alsof er twee paddenstoel aan de zijkant laten maar zeggen zitten
+	Free: Pattern=ik hebben, Pattern=twee, Pattern=een, Pattern=met, Pattern=paddenstoel aan de zijkant
+	Constrained: Pattern=de, Pattern=ik
+Turn ID=1| B | B : de zoutvaat
+	Free: Pattern=zoutvaat, Pattern=de
+	Constrained: 
+Turn ID=2| A | A : ja kloppen precies die
+	Free: Pattern=die
+	Constrained: 
+Turn ID=3| B | B : zo zien ik hem
+	Free: Pattern=ik
+	Constrained: 
+Turn ID=4| B | B : en dan zo'n schuin ding een beetje achter
+	Free: Pattern=een
+	Constrained: 
+Turn ID=5| A | A : ja
+	Free: 
+	Constrained: 
+Turn ID=6| B | B : dat zijn K
+	Free: Pattern=zijn
+	Constrained: 
+Turn ID=7| B | B : ik hebben dat ding met de zoutvaat of paddenstoel aan de zijkant
+	Free: Pattern=ik hebben, Pattern=de, Pattern=zoutvaat, Pattern=met, Pattern=paddenstoel aan de zijkant
+	Constrained: Pattern=de, Pattern=ik
+Turn ID=8| A | A : ja ik moeten even zoeken
+	Free: Pattern=even, Pattern=ik
+	Constrained: 
+Turn ID=9| A | A : ja
+	Free: 
+	Constrained: 
+Turn ID=10| A | A : ja zijn bij mij nummer negen
+	Free: Pattern=zijn
+	Constrained: 
+Turn ID=11| B | B : oké
+	Free: 
+	Constrained: 
+Turn ID=12| A | A : ik hebben diegene met die zoutvaat weer
+	Free: Pattern=ik hebben, Pattern=zoutvaat, Pattern=die, Pattern=met
+	Constrained: Pattern=ik
+Turn ID=13| B | B : die dat zijn F
+	Free: Pattern=die, Pattern=zijn
+	Constrained: 
+Turn ID=14| B | B : de twee zoutvaat
+	Free: Pattern=de twee zoutvaat
+	Constrained: Pattern=zoutvaat, Pattern=twee, Pattern=de
+Turn ID=15| A | A : ja die staan bij mij ik kunnen ze niet vinden
+	Free: Pattern=die, Pattern=ik
+	Constrained: 
+Turn ID=16| A | A : ja nummer drie
+	Free: 
+	Constrained: 
+Turn ID=17| A | A : ik hebben de twee zoutvaat
+	Free: Pattern=de twee zoutvaat, Pattern=ik hebben
+	Constrained: Pattern=twee, Pattern=de, Pattern=zoutvaat, Pattern=ik
+Turn ID=18| B | B : even kijken
+	Free: Pattern=even
+	Constrained: 
+Turn ID=19| B | B : dat zijn L
+	Free: Pattern=zijn
+	Constrained: 
+Turn ID=20| B | B : ik hebben die twee met de twee zoutvaat
+	Free: Pattern=ik hebben, Pattern=de twee zoutvaat, Pattern=twee, Pattern=met, Pattern=die
+	Constrained: Pattern=twee, Pattern=de, Pattern=zoutvaat, Pattern=ik
+Turn ID=21| A | A : nummer vijf
+	Free: 
+	Constrained: 

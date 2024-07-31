@@ -1,0 +1,95 @@
+A|0| A: _ja_ 
+A|1| A: _ja_ ik zien hem 
+A|2| A: _en_ _die_ Pippi Langkous _die_ _hebben_ _dat_ zijn veel _een_ beetje wat zijn _dat_ ? van _die_ diamant drie _diaman_ _aan de_ beide 
+A|3| A: _ja_ 
+B|4| B: hij [hebben] [aan de] het hij _staan_ eigenlijk ook gewoon op [een] op [een] vierkant op [een] blauw vierkant 
+A|5| A: vijf 
+B|6| B: [ja] [ja] [ja] [aan] allebei [de] kant 
+A|7| A: dit zijn Pippi Langkous 
+B|8| B: [ja] [ja] [ja] 
+B|9| B: J 
+A|10| A: waar [staan] je ? [ja] daar 
+A|11| A: elf 
+B|12| B: weer [die] op [een] vierkant plaat [staan] [en] [aan] allebei [de] kant zo'n [diaman] 
+A|13| A: veel boven bij mij 
+A|14| A: Pippi Langkous 
+B|15| B: [ja] 
+B|16| B: P 
+A|17| A: Pippi Langkous [ja] 
+A|18| A: negen 
+B|19| B: weer [die] op op [dat] vierkant [staan] [en] met [die] [diaman] 
+B|20| B: [ja] 
+B|21| B: L 
+A|22| A: Pippi Langkous 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=1| A | A : ja ik zien hem
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=2| A | A : en die Pippi Langkous die hebben dat zijn veel een beetje wat zijn dat ? van die diamant drie diaman aan de beide
+	Free: Pattern=dat, Pattern=aan de, Pattern=een, Pattern=hebben, Pattern=die, Pattern=diaman, Pattern=en
+	Constrained: Pattern=aan, Pattern=de
+Turn ID=3| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=4| B | B : hij hebben aan de het hij staan eigenlijk ook gewoon op een op een vierkant op een blauw vierkant
+	Free: Pattern=aan de, Pattern=hebben, Pattern=een, Pattern=staan
+	Constrained: Pattern=aan, Pattern=de
+Turn ID=5| A | A : vijf
+	Free: 
+	Constrained: 
+Turn ID=6| B | B : ja ja ja aan allebei de kant
+	Free: Pattern=aan, Pattern=ja, Pattern=de
+	Constrained: 
+Turn ID=7| A | A : dit zijn Pippi Langkous
+	Free: 
+	Constrained: 
+Turn ID=8| B | B : ja ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=9| B | B : J
+	Free: 
+	Constrained: 
+Turn ID=10| A | A : waar staan je ? ja daar
+	Free: Pattern=staan, Pattern=ja
+	Constrained: 
+Turn ID=11| A | A : elf
+	Free: 
+	Constrained: 
+Turn ID=12| B | B : weer die op een vierkant plaat staan en aan allebei de kant zo'n diaman
+	Free: Pattern=die, Pattern=de, Pattern=aan, Pattern=een, Pattern=staan, Pattern=diaman, Pattern=en
+	Constrained: 
+Turn ID=13| A | A : veel boven bij mij
+	Free: 
+	Constrained: 
+Turn ID=14| A | A : Pippi Langkous
+	Free: 
+	Constrained: 
+Turn ID=15| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=16| B | B : P
+	Free: 
+	Constrained: 
+Turn ID=17| A | A : Pippi Langkous ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=18| A | A : negen
+	Free: 
+	Constrained: 
+Turn ID=19| B | B : weer die op op dat vierkant staan en met die diaman
+	Free: Pattern=dat, Pattern=staan, Pattern=die, Pattern=diaman, Pattern=en
+	Constrained: 
+Turn ID=20| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=21| B | B : L
+	Free: 
+	Constrained: 
+Turn ID=22| A | A : Pippi Langkous
+	Free: 
+	Constrained: 

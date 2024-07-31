@@ -1,0 +1,83 @@
+B|0| B: oké een soort van _schroef_ _onderaan_ _met_ een _driehoek_ op _het_ einde als een soort voetstuk 
+A|1| A: _ja_ 
+A|2| A: _de_ wokkel 
+A|3| A: _ja_ _ja_ 
+A|4| A: _dat zijn_ nummer vier _bij mij_ 
+B|5| B: oké _aan de onderkant_ [dat] gedraaide oké [ja] [dat zijn] [bij mij] A 
+A|6| A: deze hebben _weer die_ wokkel [aan de onderkant] of _die schroef_ 
+A|7| A: noemen jij [het] geloven ik _met _die_ driehoek_ eronder _en die_ twee vierkant bovenop 
+B|8| B: _dit zijn_ [weer [die] schroef] [met] [driehoek] eraan 
+B|9| B: [dat zijn] [bij mij] L 
+A|10| A: [ja] 
+A|11| A: [dat zijn] nummer tien 
+B|12| B: [die] _met die schroef_ [en [die] driehoek] 
+B|13| B: als voetstuk 
+B|14| B: F 
+A|15| A: ik hebben nu [met die schroef] of [met die] wokkel [onderaan] 
+A|16| A: [ja] 
+A|17| A: [ja] 
+A|18| A: [dat zijn] nummer vier 
+A|19| A: [dit zijn] [met die] wokkel [aan de onderkant] [die schroef] 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : oké een soort van schroef onderaan met een driehoek op het einde als een soort voetstuk
+	Free: Pattern=driehoek, Pattern=onderaan, Pattern=het, Pattern=met, Pattern=schroef
+	Constrained: 
+Turn ID=1| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=2| A | A : de wokkel
+	Free: Pattern=de
+	Constrained: 
+Turn ID=3| A | A : ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=4| A | A : dat zijn nummer vier bij mij
+	Free: Pattern=dat zijn, Pattern=bij mij
+	Constrained: Pattern=dat
+Turn ID=5| B | B : oké aan de onderkant dat gedraaide oké ja dat zijn bij mij A
+	Free: Pattern=ja, Pattern=aan de onderkant, Pattern=bij mij, Pattern=dat, Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=de
+Turn ID=6| A | A : deze hebben weer die wokkel aan de onderkant of die schroef
+	Free: Pattern=aan de onderkant, Pattern=die schroef, Pattern=weer die
+	Constrained: Pattern=schroef, Pattern=de, Pattern=die
+Turn ID=7| A | A : noemen jij het geloven ik met die driehoek eronder en die twee vierkant bovenop
+	Free: Pattern=met die, Pattern=die driehoek, Pattern=en die, Pattern=het
+	Constrained: Pattern=die, Pattern=driehoek, Pattern=met
+Turn ID=8| B | B : dit zijn weer die schroef met driehoek eraan
+	Free: Pattern=driehoek, Pattern=die schroef, Pattern=weer die, Pattern=met, Pattern=dit zijn
+	Constrained: Pattern=die, Pattern=schroef
+Turn ID=9| B | B : dat zijn bij mij L
+	Free: Pattern=dat zijn, Pattern=bij mij
+	Constrained: Pattern=dat
+Turn ID=10| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=11| A | A : dat zijn nummer tien
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat
+Turn ID=12| B | B : die met die schroef en die driehoek
+	Free: Pattern=met die schroef, Pattern=die driehoek, Pattern=en die, Pattern=die
+	Constrained: Pattern=driehoek, Pattern=met, Pattern=die, Pattern=schroef, Pattern=die schroef, Pattern=met die
+Turn ID=13| B | B : als voetstuk
+	Free: 
+	Constrained: 
+Turn ID=14| B | B : F
+	Free: 
+	Constrained: 
+Turn ID=15| A | A : ik hebben nu met die schroef of met die wokkel onderaan
+	Free: Pattern=met die schroef, Pattern=met die, Pattern=onderaan
+	Constrained: Pattern=met, Pattern=die, Pattern=schroef, Pattern=die schroef, Pattern=met die
+Turn ID=16| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=17| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=18| A | A : dat zijn nummer vier
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat
+Turn ID=19| A | A : dit zijn met die wokkel aan de onderkant die schroef
+	Free: Pattern=aan de onderkant, Pattern=die schroef, Pattern=met die, Pattern=dit zijn
+	Constrained: Pattern=schroef, Pattern=de, Pattern=met, Pattern=die

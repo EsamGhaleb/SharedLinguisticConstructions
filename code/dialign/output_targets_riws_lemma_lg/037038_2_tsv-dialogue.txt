@@ -1,0 +1,83 @@
+A|0| A: _ja_ _ik_ vinden dit _een_ beetje lijken _op_ _een_ poppe met _zo'n_ _feestmuts_ zeggen maar 
+A|1| A: gewoon eigenlijk _dat_ noemen je _het_ 
+B|2| B: _linksonder_ _hebben_ _die_ [een] _rond_ 
+A|3| A: _ja_ hij [hebben] [linksonder] _zo'n_ [rond] _ja_ _en_ _ik_ denken 
+B|4| B: [en] links in [het] midden nog [een] soort van 
+A|5| A: _zo'n_ _ja_ raar uitstulpingding 
+B|6| B: [ja] dan weten [ik] [het] 
+B|7| B: [het] _zijn_ J 
+B|8| B: deze [hebben] _die_ [feestmuts] [op] _zijn_ hoofd links nog [zo'n] armp 
+A|9| A: [ja] [ik] zien hem 
+A|10| A: nummer zes 
+A|11| A: dit [zijn] [die] met _de feestmuts_ 
+B|12| B: [ja] [dat] [zijn] E 
+B|13| B: [de feestmuts] 
+A|14| A: even zoeken waar [die] [zijn] 
+A|15| A: [ja] nummer tien 
+A|16| A: [het] feestmutsje 
+B|17| B: [ja] G 
+B|18| B: [feestmuts] 
+A|19| A: even kijken [ja] nummer tien 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : ja ik vinden dit een beetje lijken op een poppe met zo'n feestmuts zeggen maar
+	Free: Pattern=zo'n, Pattern=ja, Pattern=een, Pattern=ik, Pattern=op, Pattern=feestmuts
+	Constrained: 
+Turn ID=1| A | A : gewoon eigenlijk dat noemen je het
+	Free: Pattern=het, Pattern=dat
+	Constrained: 
+Turn ID=2| B | B : linksonder hebben die een rond
+	Free: Pattern=een, Pattern=hebben, Pattern=die, Pattern=rond, Pattern=linksonder
+	Constrained: 
+Turn ID=3| A | A : ja hij hebben linksonder zo'n rond ja en ik denken
+	Free: Pattern=zo'n, Pattern=ja, Pattern=hebben, Pattern=ik, Pattern=en, Pattern=rond, Pattern=linksonder
+	Constrained: 
+Turn ID=4| B | B : en links in het midden nog een soort van
+	Free: Pattern=een, Pattern=en, Pattern=het
+	Constrained: 
+Turn ID=5| A | A : zo'n ja raar uitstulpingding
+	Free: Pattern=ja, Pattern=zo'n
+	Constrained: 
+Turn ID=6| B | B : ja dan weten ik het
+	Free: Pattern=ja, Pattern=ik, Pattern=het
+	Constrained: 
+Turn ID=7| B | B : het zijn J
+	Free: Pattern=het, Pattern=zijn
+	Constrained: 
+Turn ID=8| B | B : deze hebben die feestmuts op zijn hoofd links nog zo'n armp
+	Free: Pattern=zo'n, Pattern=hebben, Pattern=die, Pattern=zijn, Pattern=op, Pattern=feestmuts
+	Constrained: 
+Turn ID=9| A | A : ja ik zien hem
+	Free: Pattern=ja, Pattern=ik
+	Constrained: 
+Turn ID=10| A | A : nummer zes
+	Free: 
+	Constrained: 
+Turn ID=11| A | A : dit zijn die met de feestmuts
+	Free: Pattern=de feestmuts, Pattern=zijn, Pattern=die
+	Constrained: Pattern=feestmuts
+Turn ID=12| B | B : ja dat zijn E
+	Free: Pattern=ja, Pattern=dat, Pattern=zijn
+	Constrained: 
+Turn ID=13| B | B : de feestmuts
+	Free: Pattern=de feestmuts
+	Constrained: Pattern=feestmuts
+Turn ID=14| A | A : even zoeken waar die zijn
+	Free: Pattern=zijn, Pattern=die
+	Constrained: 
+Turn ID=15| A | A : ja nummer tien
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=16| A | A : het feestmutsje
+	Free: Pattern=het
+	Constrained: 
+Turn ID=17| B | B : ja G
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=18| B | B : feestmuts
+	Free: Pattern=feestmuts
+	Constrained: 
+Turn ID=19| A | A : even kijken ja nummer tien
+	Free: Pattern=ja
+	Constrained: 

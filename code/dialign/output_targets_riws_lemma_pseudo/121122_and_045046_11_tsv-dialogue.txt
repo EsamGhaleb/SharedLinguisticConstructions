@@ -1,0 +1,107 @@
+B|0| B: ah _ja_ ik vinden dit _echt_ _een_ beetje _een_ ding _met_ _een neus_ _op_ _de_ één of ander manier 
+B|1| B: _ja_ weten ik niet 
+B|2| B: niet _met de_ piercing zeggen _maar_ _gewoon_ _die_ ander 
+B|3| B: _twee_ ding erbovenuit _en_ _zo'n_ driehoekig ding _dat_ eruit komen 
+B|4| B: _ja_ 
+A|5| A: _oké_ wachten nog [een] keer 
+A|6| A: helemaal _aan de_ voorkant [echt] 
+A|7| A: [ja] 
+A|8| A: _oké_ [en] dan hebben [die] bovenin nog [twee] [twee] dinget 
+A|9| A: [ja] ook [zo'n] [zo'n] _driehoekje_ _oké_ [dat] _zijn_ bij mij nummer veertien 
+B|10| B: [en] [dat] [driehoekje] [aan de] linkerkant 
+B|11| B: [oké] 
+B|12| B: N 
+A|13| A: [die] [een] _met die_ [die] lijken [op] [die] inboorling [maar] dan _zonder de_ neusring [en] dan nog allemaal [die] tierelantijnt 
+A|14| A: [ja] 
+A|15| A: [ja] 
+A|16| A: [dat] _zijn_ nummer negen 
+B|17| B: dit [zijn] degeen _met de _neus_ zonder de_ piercing 
+B|18| B: _met de_ [met die] kegel ding bovenop 
+A|19| A: [die] [met die] [een [neus] zonder de] ring 
+A|20| A: [met de neus] 
+A|21| A: nummer vijf 
+B|22| B: G 
+B|23| B: [de [neus] zonder] piercing 
+A|24| A: [die] [met die] [een] [en] [een] [gewoon] [neus] 
+B|25| B: J 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : ah ja ik vinden dit echt een beetje een ding met een neus op de één of ander manier
+	Free: Pattern=een neus, Pattern=op, Pattern=een, Pattern=met, Pattern=echt, Pattern=de, Pattern=ja
+	Constrained: Pattern=een, Pattern=neus
+Turn ID=1| B | B : ja weten ik niet
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=2| B | B : niet met de piercing zeggen maar gewoon die ander
+	Free: Pattern=met de, Pattern=gewoon, Pattern=maar, Pattern=die
+	Constrained: Pattern=de, Pattern=met
+Turn ID=3| B | B : twee ding erbovenuit en zo'n driehoekig ding dat eruit komen
+	Free: Pattern=twee, Pattern=dat, Pattern=en, Pattern=zo'n
+	Constrained: 
+Turn ID=4| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=5| A | A : oké wachten nog een keer
+	Free: Pattern=een, Pattern=oké
+	Constrained: 
+Turn ID=6| A | A : helemaal aan de voorkant echt
+	Free: Pattern=aan de, Pattern=echt
+	Constrained: Pattern=de
+Turn ID=7| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=8| A | A : oké en dan hebben die bovenin nog twee twee dinget
+	Free: Pattern=twee, Pattern=en, Pattern=oké, Pattern=die
+	Constrained: 
+Turn ID=9| A | A : ja ook zo'n zo'n driehoekje oké dat zijn bij mij nummer veertien
+	Free: Pattern=dat, Pattern=zo'n, Pattern=ja, Pattern=oké, Pattern=driehoekje, Pattern=zijn
+	Constrained: 
+Turn ID=10| B | B : en dat driehoekje aan de linkerkant
+	Free: Pattern=aan de, Pattern=dat, Pattern=en, Pattern=driehoekje
+	Constrained: Pattern=de
+Turn ID=11| B | B : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=12| B | B : N
+	Free: 
+	Constrained: 
+Turn ID=13| A | A : die een met die die lijken op die inboorling maar dan zonder de neusring en dan nog allemaal die tierelantijnt
+	Free: Pattern=met die, Pattern=op, Pattern=een, Pattern=zonder de, Pattern=die, Pattern=en, Pattern=maar
+	Constrained: Pattern=de, Pattern=met, Pattern=die
+Turn ID=14| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=15| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=16| A | A : dat zijn nummer negen
+	Free: Pattern=dat, Pattern=zijn
+	Constrained: 
+Turn ID=17| B | B : dit zijn degeen met de neus zonder de piercing
+	Free: Pattern=neus zonder de, Pattern=met de neus, Pattern=zijn
+	Constrained: Pattern=de neus, Pattern=zonder de, Pattern=neus, Pattern=met, Pattern=neus zonder, Pattern=de, Pattern=met de
+Turn ID=18| B | B : met de met die kegel ding bovenop
+	Free: Pattern=met de, Pattern=met die
+	Constrained: Pattern=de, Pattern=met, Pattern=die
+Turn ID=19| A | A : die met die een neus zonder de ring
+	Free: Pattern=neus zonder de, Pattern=een neus, Pattern=met die, Pattern=die
+	Constrained: Pattern=de, Pattern=een, Pattern=zonder de, Pattern=neus, Pattern=met, Pattern=die, Pattern=neus zonder
+Turn ID=20| A | A : met de neus
+	Free: Pattern=met de neus
+	Constrained: Pattern=de neus, Pattern=neus, Pattern=met, Pattern=de, Pattern=met de
+Turn ID=21| A | A : nummer vijf
+	Free: 
+	Constrained: 
+Turn ID=22| B | B : G
+	Free: 
+	Constrained: 
+Turn ID=23| B | B : de neus zonder piercing
+	Free: Pattern=de neus, Pattern=neus zonder
+	Constrained: Pattern=neus, Pattern=de
+Turn ID=24| A | A : die met die een en een gewoon neus
+	Free: Pattern=met die, Pattern=een, Pattern=gewoon, Pattern=neus, Pattern=die, Pattern=en
+	Constrained: Pattern=met, Pattern=die
+Turn ID=25| B | B : J
+	Free: 
+	Constrained: 

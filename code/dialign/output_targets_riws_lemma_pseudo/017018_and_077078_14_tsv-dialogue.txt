@@ -1,0 +1,103 @@
+B|0| B: _dat_ neusje 
+B|1| B: _ja_ 
+B|2| B: _ja_ 
+B|3| B: _ja_ oké 
+B|4| B: D 
+A|5| A: _deze_ lijken _een_ beetje _op_ _een_ korf waar _een_ bal in gooilen worden _er_ zitten ook _een_ staaf aan 
+A|6| A: _en een_ [ja] 
+A|7| A: steken iets uit [ja] 
+B|8| B: [er] _zijn_ [een] bakje [en] het bak hebben twee arm [deze] hebben jij al _voor mij_ doen net 
+B|9| B: [en] hij hebben [een] neusje [op] _zijn_ hoofd 
+B|10| B: zeggen maar zo'n bolle 
+B|11| B: geen probleem 
+B|12| B: [en] _voor_ _hem_ staan [een] balk 
+A|13| A: [ja] _die_ [hem] vasthouden 
+A|14| A: [dat] [zijn] vijftien [voor mij] 
+B|15| B: [ja] 
+B|16| B: letter L 
+A|17| A: dit [zijn] de de korf 
+B|18| B: hij hebben [een] balk [voor] zich [en] hij hebben [een] rond bollet boven [hem] [en] hij hebben twee van [die] ijzerig armpjes 
+A|19| A: _yes_ [dat] [zijn] zes [voor mij] 
+A|20| A: dit [zijn] de korf 
+B|21| B: [yes] 
+B|22| B: letter J 
+A|23| A: [ja] 
+B|24| B: hij hebben [een] balk [voor] zich hij hebben twee armp [en een] balle [op] [zijn] hoofd 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : dat neusje
+	Free: Pattern=dat
+	Constrained: 
+Turn ID=1| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=2| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=3| B | B : ja oké
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=4| B | B : D
+	Free: 
+	Constrained: 
+Turn ID=5| A | A : deze lijken een beetje op een korf waar een bal in gooilen worden er zitten ook een staaf aan
+	Free: Pattern=op, Pattern=een, Pattern=deze, Pattern=er
+	Constrained: 
+Turn ID=6| A | A : en een ja
+	Free: Pattern=en een, Pattern=ja
+	Constrained: Pattern=een, Pattern=en
+Turn ID=7| A | A : steken iets uit ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=8| B | B : er zijn een bakje en het bak hebben twee arm deze hebben jij al voor mij doen net
+	Free: Pattern=een, Pattern=voor mij, Pattern=er, Pattern=en, Pattern=zijn, Pattern=deze
+	Constrained: Pattern=voor
+Turn ID=9| B | B : en hij hebben een neusje op zijn hoofd
+	Free: Pattern=op, Pattern=een, Pattern=en, Pattern=zijn
+	Constrained: 
+Turn ID=10| B | B : zeggen maar zo'n bolle
+	Free: 
+	Constrained: 
+Turn ID=11| B | B : geen probleem
+	Free: 
+	Constrained: 
+Turn ID=12| B | B : en voor hem staan een balk
+	Free: Pattern=voor, Pattern=een, Pattern=hem, Pattern=en
+	Constrained: 
+Turn ID=13| A | A : ja die hem vasthouden
+	Free: Pattern=ja, Pattern=die, Pattern=hem
+	Constrained: 
+Turn ID=14| A | A : dat zijn vijftien voor mij
+	Free: Pattern=voor mij, Pattern=dat, Pattern=zijn
+	Constrained: Pattern=voor
+Turn ID=15| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=16| B | B : letter L
+	Free: 
+	Constrained: 
+Turn ID=17| A | A : dit zijn de de korf
+	Free: Pattern=zijn
+	Constrained: 
+Turn ID=18| B | B : hij hebben een balk voor zich en hij hebben een rond bollet boven hem en hij hebben twee van die ijzerig armpjes
+	Free: Pattern=een, Pattern=voor, Pattern=die, Pattern=en, Pattern=hem
+	Constrained: 
+Turn ID=19| A | A : yes dat zijn zes voor mij
+	Free: Pattern=voor mij, Pattern=yes, Pattern=dat, Pattern=zijn
+	Constrained: Pattern=voor
+Turn ID=20| A | A : dit zijn de korf
+	Free: Pattern=zijn
+	Constrained: 
+Turn ID=21| B | B : yes
+	Free: Pattern=yes
+	Constrained: 
+Turn ID=22| B | B : letter J
+	Free: 
+	Constrained: 
+Turn ID=23| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=24| B | B : hij hebben een balk voor zich hij hebben twee armp en een balle op zijn hoofd
+	Free: Pattern=op, Pattern=een, Pattern=voor, Pattern=en een, Pattern=zijn
+	Constrained: Pattern=een, Pattern=en

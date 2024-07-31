@@ -1,0 +1,111 @@
+A|0| A: ik _hebben_ _er_ _één die_ _hebben_ _twee_ dezelfde _vormp_ _één_ recht op het midden _zo'n_ langwerpig _en één_ _aan de_ zijkant ook _zo'n_ langwerpig 
+A|1| A: _ja_ _ja_ 
+A|2| A: _en_ nog _zo'n_ soort _van_ verrekijker tenminste zo _hebben_ ik hem 
+A|3| A: met _van die_ vierkant 
+A|4| A: oké 
+B|5| B: [ja] 
+B|6| B: [ja] _zijn_ E 
+A|7| A: [ja] 
+A|8| A: even kijken wachten ik [zijn] even _aan_ het zoeken [ja] Bingo 
+A|9| A: elf 
+B|10| B: deze [hebben] zegmaar [twee] [van die] ballonnet eentjedie boven uitsteken [en [één] die] daar links uit steekt [en] rechts [hebben] hij [zo'n] blokkentoren 
+B|11| B: [ja] 
+B|12| B: [ja] iets heel geks 
+A|13| A: dit [zijn] degeen met [één] verrekijker [en] [zo'n] kegel hier [en] een kegel _aan de_ zijkant 
+A|14| A: [ja] 
+A|15| A: negen 
+A|16| A: mormeltje 
+B|17| B: [aan de] rechterkant 
+B|18| B: [ja] J 
+B|19| B: [twee] ballonne [er] uit [één] boven [één] links [en] dan blokkentoren rechts 
+B|20| B: [en] dat gek [vormp] [aan de] achterkant 
+A|21| A: dit [zijn] degeen met [één] verrekijker 
+A|22| A: [en] [die] [twee] kegel 
+B|23| B: [ja] B 
+A|24| A: [ja] 
+A|25| A: vier 
+B|26| B: [twee] ballonnet [één] boven [één] link rechts zitten [zo'n] blokkentoren 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : ik hebben er één die hebben twee dezelfde vormp één recht op het midden zo'n langwerpig en één aan de zijkant ook zo'n langwerpig
+	Free: Pattern=en één, Pattern=aan de, Pattern=er, Pattern=één, Pattern=zo'n, Pattern=twee, Pattern=één die, Pattern=hebben, Pattern=vormp
+	Constrained: Pattern=aan, Pattern=die, Pattern=en, Pattern=één
+Turn ID=1| A | A : ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=2| A | A : en nog zo'n soort van verrekijker tenminste zo hebben ik hem
+	Free: Pattern=hebben, Pattern=van, Pattern=zo'n, Pattern=en
+	Constrained: 
+Turn ID=3| A | A : met van die vierkant
+	Free: Pattern=van die
+	Constrained: Pattern=die, Pattern=van
+Turn ID=4| A | A : oké
+	Free: 
+	Constrained: 
+Turn ID=5| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=6| B | B : ja zijn E
+	Free: Pattern=zijn, Pattern=ja
+	Constrained: 
+Turn ID=7| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=8| A | A : even kijken wachten ik zijn even aan het zoeken ja Bingo
+	Free: Pattern=zijn, Pattern=aan, Pattern=ja
+	Constrained: 
+Turn ID=9| A | A : elf
+	Free: 
+	Constrained: 
+Turn ID=10| B | B : deze hebben zegmaar twee van die ballonnet eentjedie boven uitsteken en één die daar links uit steekt en rechts hebben hij zo'n blokkentoren
+	Free: Pattern=en één, Pattern=zo'n, Pattern=twee, Pattern=één die, Pattern=hebben, Pattern=van die, Pattern=en
+	Constrained: Pattern=die, Pattern=van, Pattern=één, Pattern=en
+Turn ID=11| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=12| B | B : ja iets heel geks
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=13| A | A : dit zijn degeen met één verrekijker en zo'n kegel hier en een kegel aan de zijkant
+	Free: Pattern=zo'n, Pattern=aan de, Pattern=en, Pattern=zijn, Pattern=één
+	Constrained: Pattern=aan
+Turn ID=14| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=15| A | A : negen
+	Free: 
+	Constrained: 
+Turn ID=16| A | A : mormeltje
+	Free: 
+	Constrained: 
+Turn ID=17| B | B : aan de rechterkant
+	Free: Pattern=aan de
+	Constrained: Pattern=aan
+Turn ID=18| B | B : ja J
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=19| B | B : twee ballonne er uit één boven één links en dan blokkentoren rechts
+	Free: Pattern=twee, Pattern=één, Pattern=er, Pattern=en
+	Constrained: 
+Turn ID=20| B | B : en dat gek vormp aan de achterkant
+	Free: Pattern=aan de, Pattern=vormp, Pattern=en
+	Constrained: Pattern=aan
+Turn ID=21| A | A : dit zijn degeen met één verrekijker
+	Free: Pattern=zijn, Pattern=één
+	Constrained: 
+Turn ID=22| A | A : en die twee kegel
+	Free: Pattern=die, Pattern=twee, Pattern=en
+	Constrained: 
+Turn ID=23| B | B : ja B
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=24| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=25| A | A : vier
+	Free: 
+	Constrained: 
+Turn ID=26| B | B : twee ballonnet één boven één link rechts zitten zo'n blokkentoren
+	Free: Pattern=twee, Pattern=zo'n, Pattern=één
+	Constrained: 

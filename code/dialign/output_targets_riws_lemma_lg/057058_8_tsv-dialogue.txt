@@ -1,0 +1,167 @@
+A|0| A: deze hebben _een_ soor _ja_ ik vinden het best lastig _een_ beetje ISS International Space Station achtig bovenop 
+A|1| A: _met_ _zo'n_ vierkan _zo_ _met de_ 
+B|2| B: _zo'n ruit_ 
+A|3| A: _ja_ [zo'n ruit] _met de_ punt erin _en dan_ twee 
+B|4| B: [ja] 
+B|5| B: [en] dinget eruit 
+A|6| A: precies _en dan_ _aan de_ voorkant nog _aan de_ zijkant _en aan de onderkant_ 
+B|7| B: [ja] 
+B|8| B: [en aan de onderkant] 
+B|9| B: _ja ja_ dat _zijn_ M bij mij 
+A|10| A: [ja] precies 
+A|11| A: nou gaan lekker 
+B|12| B: [ja] toch 
+B|13| B: _weer_ _die_ [met] _die_ sellight achterop 
+A|14| A: _met de_ wat 
+B|15| B: [met] [met] _die_ sellight dat [ruit] dat [ruit] dat er [een] soort van in zitten [met] _die_ [met] _die_ legoblokje _die_ er [zo] 
+A|16| A: [ja] 
+A|17| A: [ja [ja] ja] 
+B|18| B: [en] [met] dat toe [en dan] [zo] [zo'n] arm van onder 
+A|19| A: even kijken [ja ja] 
+A|20| A: nummer negen 
+B|21| B: [ja] 
+B|22| B: _oké_ 
+A|23| A: [ja] 
+A|24| A: [oké] 
+A|25| A: nou [weer] [met] het _space station_ bovenop waar het diamantvormpje [zo] erin opsteken 
+B|26| B: [oké] 
+B|27| B: yes [en dan] dat haak [zo] eronder 
+A|28| A: precies 
+B|29| B: [de] H bij mij 
+B|30| B: [dan] [weer] [de] [space station] 
+A|31| A: [ja] 
+B|32| B: [met de] armp 
+A|33| A: waar [zijn] [die] ? elf 
+A|34| A: [oké] nou dit [zijn] [weer] [space station] bovenop 
+B|35| B: [space station] dat [zijn] [de] D 
+A|36| A: [en] het fliebel onderaan 
+B|37| B: worden [zo] snel 
+A|38| A: makkelijk makkelijk 
+B|39| B: [weer] [de] [space station] 
+A|40| A: [space station] veertien 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : deze hebben een soor ja ik vinden het best lastig een beetje ISS International Space Station achtig bovenop
+	Free: Pattern=ja, Pattern=een
+	Constrained: 
+Turn ID=1| A | A : met zo'n vierkan zo met de
+	Free: Pattern=met de, Pattern=zo, Pattern=zo'n, Pattern=met
+	Constrained: Pattern=met, Pattern=de
+Turn ID=2| B | B : zo'n ruit
+	Free: Pattern=zo'n ruit
+	Constrained: Pattern=ruit, Pattern=zo'n
+Turn ID=3| A | A : ja zo'n ruit met de punt erin en dan twee
+	Free: Pattern=zo'n ruit, Pattern=en dan, Pattern=met de, Pattern=ja
+	Constrained: Pattern=ruit, Pattern=zo'n, Pattern=de, Pattern=dan, Pattern=met, Pattern=en
+Turn ID=4| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=5| B | B : en dinget eruit
+	Free: Pattern=en
+	Constrained: 
+Turn ID=6| A | A : precies en dan aan de voorkant nog aan de zijkant en aan de onderkant
+	Free: Pattern=en aan de onderkant, Pattern=en dan, Pattern=aan de
+	Constrained: Pattern=dan, Pattern=de, Pattern=en, Pattern=aan de
+Turn ID=7| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=8| B | B : en aan de onderkant
+	Free: Pattern=en aan de onderkant
+	Constrained: Pattern=de, Pattern=en, Pattern=aan de
+Turn ID=9| B | B : ja ja dat zijn M bij mij
+	Free: Pattern=ja ja, Pattern=zijn
+	Constrained: Pattern=ja
+Turn ID=10| A | A : ja precies
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=11| A | A : nou gaan lekker
+	Free: 
+	Constrained: 
+Turn ID=12| B | B : ja toch
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=13| B | B : weer die met die sellight achterop
+	Free: Pattern=die, Pattern=met, Pattern=weer
+	Constrained: 
+Turn ID=14| A | A : met de wat
+	Free: Pattern=met de
+	Constrained: Pattern=met, Pattern=de
+Turn ID=15| B | B : met met die sellight dat ruit dat ruit dat er een soort van in zitten met die met die legoblokje die er zo
+	Free: Pattern=ruit, Pattern=een, Pattern=zo, Pattern=met, Pattern=die
+	Constrained: 
+Turn ID=16| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=17| A | A : ja ja ja
+	Free: Pattern=ja ja
+	Constrained: Pattern=ja
+Turn ID=18| B | B : en met dat toe en dan zo zo'n arm van onder
+	Free: Pattern=zo'n, Pattern=en dan, Pattern=zo, Pattern=met, Pattern=en
+	Constrained: Pattern=dan, Pattern=en
+Turn ID=19| A | A : even kijken ja ja
+	Free: Pattern=ja ja
+	Constrained: Pattern=ja
+Turn ID=20| A | A : nummer negen
+	Free: 
+	Constrained: 
+Turn ID=21| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=22| B | B : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=23| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=24| A | A : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=25| A | A : nou weer met het space station bovenop waar het diamantvormpje zo erin opsteken
+	Free: Pattern=space station, Pattern=zo, Pattern=met, Pattern=weer
+	Constrained: 
+Turn ID=26| B | B : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=27| B | B : yes en dan dat haak zo eronder
+	Free: Pattern=en dan, Pattern=zo
+	Constrained: Pattern=dan, Pattern=en
+Turn ID=28| A | A : precies
+	Free: 
+	Constrained: 
+Turn ID=29| B | B : de H bij mij
+	Free: Pattern=de
+	Constrained: 
+Turn ID=30| B | B : dan weer de space station
+	Free: Pattern=space station, Pattern=dan, Pattern=de, Pattern=weer
+	Constrained: 
+Turn ID=31| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=32| B | B : met de armp
+	Free: Pattern=met de
+	Constrained: Pattern=met, Pattern=de
+Turn ID=33| A | A : waar zijn die ? elf
+	Free: Pattern=die, Pattern=zijn
+	Constrained: 
+Turn ID=34| A | A : oké nou dit zijn weer space station bovenop
+	Free: Pattern=space station, Pattern=oké, Pattern=zijn, Pattern=weer
+	Constrained: 
+Turn ID=35| B | B : space station dat zijn de D
+	Free: Pattern=space station, Pattern=de, Pattern=zijn
+	Constrained: 
+Turn ID=36| A | A : en het fliebel onderaan
+	Free: Pattern=en
+	Constrained: 
+Turn ID=37| B | B : worden zo snel
+	Free: Pattern=zo
+	Constrained: 
+Turn ID=38| A | A : makkelijk makkelijk
+	Free: 
+	Constrained: 
+Turn ID=39| B | B : weer de space station
+	Free: Pattern=space station, Pattern=de, Pattern=weer
+	Constrained: 
+Turn ID=40| A | A : space station veertien
+	Free: Pattern=space station
+	Constrained: 

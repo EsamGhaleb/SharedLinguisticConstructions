@@ -1,0 +1,87 @@
+B|0| B: oké nou nu _zijn_ _het_ _die_ trofee 
+B|1| B: _dat zijn_ best _wel_ makkelijk _ja_ 
+B|2| B: _met dat_ draaien poo 
+A|3| A: [zijn] [dat] [met] [die] [die] schef ding zo aan de onderkant [met] [die] kunkelhoek 
+A|4| A: jajaja nee dan weten _ik_ [het] al [ja] 
+A|5| A: [ja] 
+A|6| A: [ja] vier 
+A|7| A: ok [dat _zijn] die_ [met] [die] [met dat] kronkel opzetstuk weten je [wel] [met dat] gedraaide lijken ook op beetje op een glas 
+A|8| A: [die] heel hoog lijken ook een beetje op een struisvogel of zo 
+A|9| A: [ja] klopt [die] 
+B|10| B: oké 
+B|11| B: A 
+A|12| A: [dat] ding [ja] tien 
+B|13| B: oké dit [zijn die] trofee 
+A|14| A: [die] [die] struisvogel Slash wijnglas of zo [ja] 
+B|15| B: [dat zijn] bij mij L 
+A|16| A: even zoeken _ik_ zien hem al [ja] vier 
+A|17| A: [die] struisvogel Slash wijnglas of zo of ver kennen 
+B|18| B: nu hebben [ik] [die] trofee 
+B|19| B: [ja] 
+B|20| B: [dat zijn] bij mij F 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : oké nou nu zijn het die trofee
+	Free: Pattern=het, Pattern=die, Pattern=zijn
+	Constrained: 
+Turn ID=1| B | B : dat zijn best wel makkelijk ja
+	Free: Pattern=dat zijn, Pattern=ja, Pattern=wel
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=2| B | B : met dat draaien poo
+	Free: Pattern=met dat
+	Constrained: Pattern=met, Pattern=dat
+Turn ID=3| A | A : zijn dat met die die schef ding zo aan de onderkant met die kunkelhoek
+	Free: Pattern=met, Pattern=dat, Pattern=die, Pattern=zijn
+	Constrained: 
+Turn ID=4| A | A : jajaja nee dan weten ik het al ja
+	Free: Pattern=ja, Pattern=ik, Pattern=het
+	Constrained: 
+Turn ID=5| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=6| A | A : ja vier
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=7| A | A : ok dat zijn die met die met dat kronkel opzetstuk weten je wel met dat gedraaide lijken ook op beetje op een glas
+	Free: Pattern=dat zijn, Pattern=wel, Pattern=zijn die, Pattern=met dat, Pattern=met, Pattern=die
+	Constrained: Pattern=met, Pattern=dat, Pattern=die, Pattern=zijn
+Turn ID=8| A | A : die heel hoog lijken ook een beetje op een struisvogel of zo
+	Free: Pattern=die
+	Constrained: 
+Turn ID=9| A | A : ja klopt die
+	Free: Pattern=ja, Pattern=die
+	Constrained: 
+Turn ID=10| B | B : oké
+	Free: 
+	Constrained: 
+Turn ID=11| B | B : A
+	Free: 
+	Constrained: 
+Turn ID=12| A | A : dat ding ja tien
+	Free: Pattern=ja, Pattern=dat
+	Constrained: 
+Turn ID=13| B | B : oké dit zijn die trofee
+	Free: Pattern=zijn die
+	Constrained: Pattern=die, Pattern=zijn
+Turn ID=14| A | A : die die struisvogel Slash wijnglas of zo ja
+	Free: Pattern=ja, Pattern=die
+	Constrained: 
+Turn ID=15| B | B : dat zijn bij mij L
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=16| A | A : even zoeken ik zien hem al ja vier
+	Free: Pattern=ja, Pattern=ik
+	Constrained: 
+Turn ID=17| A | A : die struisvogel Slash wijnglas of zo of ver kennen
+	Free: Pattern=die
+	Constrained: 
+Turn ID=18| B | B : nu hebben ik die trofee
+	Free: Pattern=ik, Pattern=die
+	Constrained: 
+Turn ID=19| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=20| B | B : dat zijn bij mij F
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn

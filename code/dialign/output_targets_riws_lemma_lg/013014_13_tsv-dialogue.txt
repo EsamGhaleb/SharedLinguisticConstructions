@@ -1,0 +1,195 @@
+B|0| B: _ik_ vinden _het_ zelf iets _op_ water lijken _het _zijn_ een_ komme _hij_ staan _op een_ plaat _en_ _er_ komen _bollet_ uit _de_ zijkant 
+A|1| A: _ja_ 
+B|2| B: twee kant 
+A|3| A: oké _dan_ moeten [ik] [het] zeggen welk kunnen welk [het zijn] toch 
+B|4| B: [ja] 
+B|5| B: _nummer_ _en_ [dan] geel drukken 
+A|6| A: _dat zijn_ [nummer] vijf 
+A|7| A: [ik] hebben _beker_ _aan de_ voorkant zitten [een] afgevlakt cirkel 
+A|8| A: _en hij_ zitten onderkant zitten [een] _vierkant_ 
+A|9| A: [een] soort van [een] soort van mok soort soort van hoe noemen je _dat_ ? schotel 
+A|10| A: _vierkant_ schotel 
+A|11| A: _waar die_ [op] staat 
+B|12| B: _er_ komen _punt_ uit [de] zijkant 
+A|13| A: _ja en_ daar hebben je [er] maar één van 
+B|14| B: [ja] 
+B|15| B: [dan] [zijn] [het] [nummer] J 
+B|16| B: dit [zijn] [het] [beker] [waar die] stipjes uit komen 
+A|17| A: [ja] 
+B|18| B: [en hij] staan _op een_ plaat 
+A|19| A: oké 
+A|20| A: _dat zijn_ elf 
+A|21| A: _dat zijn_ [er] zitten [een] mokje [op een] _vierkant_ [een] soort van [op] [het] hoe noemen je _dat_ 
+B|22| B: [ja] 
+B|23| B: [en] [er] komen _bollet_ uit 
+A|24| A: [ja] _aan de_ achterkant 
+B|25| B: [dat zijn] P 
+A|26| A: _drie bollet_ 
+A|27| A: oké jij [zijn] 
+B|28| B: [het] kop _met die_ [drie bollet] [aan de] zijkant 
+A|29| A: [ja] 
+A|30| A: [dat zijn] negen 
+A|31| A: [die] [met] [de] [de] [de] vierhoekjes [die] [aan de] [de] mokje vastzitten [met] [het] tafel eronder [het] vierhoek eronder 
+A|32| A: [en] [een] cirkel ervoor 
+A|33| A: eigenlijk 
+A|34| A: dus [een] mok 
+B|35| B: [ja] 
+A|36| A: [en] [de] plat cirkel ervoor 
+B|37| B: [ja en] _met die punt_ 
+A|38| A: precies [met die punt] nou [die] liggen [op een] vierhoek 
+B|39| B: [ja] 
+B|40| B: [ja] 
+B|41| B: [dat zijn] [de] L 
+A|42| A: want hoe noemen je [die] ? noemen je [dat] [een] tafel of zo of [een] 
+B|43| B: [ja] 
+B|44| B: [een] plateau 
+A|45| A: [dat [zijn] een] [een] kort woord 
+B|46| B: [vierkant] 
+A|47| A: [ja] [het] kunnen 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : ik vinden het zelf iets op water lijken het zijn een komme hij staan op een plaat en er komen bollet uit de zijkant
+	Free: Pattern=bollet, Pattern=de, Pattern=op, Pattern=zijn een, Pattern=het, Pattern=hij, Pattern=het zijn, Pattern=er, Pattern=ik, Pattern=en, Pattern=op een
+	Constrained: Pattern=het, Pattern=een, Pattern=op, Pattern=zijn
+Turn ID=1| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=2| B | B : twee kant
+	Free: 
+	Constrained: 
+Turn ID=3| A | A : oké dan moeten ik het zeggen welk kunnen welk het zijn toch
+	Free: Pattern=het zijn, Pattern=het, Pattern=dan, Pattern=ik
+	Constrained: Pattern=het, Pattern=zijn
+Turn ID=4| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=5| B | B : nummer en dan geel drukken
+	Free: Pattern=dan, Pattern=nummer, Pattern=en
+	Constrained: 
+Turn ID=6| A | A : dat zijn nummer vijf
+	Free: Pattern=dat zijn, Pattern=nummer
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=7| A | A : ik hebben beker aan de voorkant zitten een afgevlakt cirkel
+	Free: Pattern=aan de, Pattern=beker, Pattern=ik, Pattern=een
+	Constrained: Pattern=de
+Turn ID=8| A | A : en hij zitten onderkant zitten een vierkant
+	Free: Pattern=en hij, Pattern=een, Pattern=vierkant
+	Constrained: Pattern=hij, Pattern=en
+Turn ID=9| A | A : een soort van een soort van mok soort soort van hoe noemen je dat ? schotel
+	Free: Pattern=dat, Pattern=een
+	Constrained: 
+Turn ID=10| A | A : vierkant schotel
+	Free: Pattern=vierkant
+	Constrained: 
+Turn ID=11| A | A : waar die op staat
+	Free: Pattern=waar die, Pattern=op
+	Constrained: Pattern=die
+Turn ID=12| B | B : er komen punt uit de zijkant
+	Free: Pattern=er, Pattern=punt, Pattern=de
+	Constrained: 
+Turn ID=13| A | A : ja en daar hebben je er maar één van
+	Free: Pattern=ja en, Pattern=er
+	Constrained: Pattern=ja, Pattern=en
+Turn ID=14| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=15| B | B : dan zijn het nummer J
+	Free: Pattern=het, Pattern=dan, Pattern=zijn, Pattern=nummer
+	Constrained: 
+Turn ID=16| B | B : dit zijn het beker waar die stipjes uit komen
+	Free: Pattern=waar die, Pattern=beker, Pattern=het, Pattern=zijn
+	Constrained: Pattern=die
+Turn ID=17| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=18| B | B : en hij staan op een plaat
+	Free: Pattern=en hij, Pattern=op een
+	Constrained: Pattern=een, Pattern=op, Pattern=hij, Pattern=en
+Turn ID=19| A | A : oké
+	Free: 
+	Constrained: 
+Turn ID=20| A | A : dat zijn elf
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=21| A | A : dat zijn er zitten een mokje op een vierkant een soort van op het hoe noemen je dat
+	Free: Pattern=op, Pattern=een, Pattern=het, Pattern=er, Pattern=vierkant, Pattern=op een, Pattern=dat, Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=een, Pattern=op, Pattern=zijn
+Turn ID=22| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=23| B | B : en er komen bollet uit
+	Free: Pattern=er, Pattern=bollet, Pattern=en
+	Constrained: 
+Turn ID=24| A | A : ja aan de achterkant
+	Free: Pattern=aan de, Pattern=ja
+	Constrained: Pattern=de
+Turn ID=25| B | B : dat zijn P
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=26| A | A : drie bollet
+	Free: Pattern=drie bollet
+	Constrained: Pattern=bollet
+Turn ID=27| A | A : oké jij zijn
+	Free: Pattern=zijn
+	Constrained: 
+Turn ID=28| B | B : het kop met die drie bollet aan de zijkant
+	Free: Pattern=aan de, Pattern=drie bollet, Pattern=met die, Pattern=het
+	Constrained: Pattern=die, Pattern=bollet, Pattern=de, Pattern=met
+Turn ID=29| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=30| A | A : dat zijn negen
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=31| A | A : die met de de de vierhoekjes die aan de de mokje vastzitten met het tafel eronder het vierhoek eronder
+	Free: Pattern=de, Pattern=aan de, Pattern=het, Pattern=met, Pattern=die
+	Constrained: Pattern=de
+Turn ID=32| A | A : en een cirkel ervoor
+	Free: Pattern=een, Pattern=en
+	Constrained: 
+Turn ID=33| A | A : eigenlijk
+	Free: 
+	Constrained: 
+Turn ID=34| A | A : dus een mok
+	Free: Pattern=een
+	Constrained: 
+Turn ID=35| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=36| A | A : en de plat cirkel ervoor
+	Free: Pattern=de, Pattern=en
+	Constrained: 
+Turn ID=37| B | B : ja en met die punt
+	Free: Pattern=met die punt, Pattern=ja en
+	Constrained: Pattern=met die, Pattern=punt, Pattern=ja, Pattern=met, Pattern=die, Pattern=en
+Turn ID=38| A | A : precies met die punt nou die liggen op een vierhoek
+	Free: Pattern=met die punt, Pattern=op een, Pattern=die
+	Constrained: Pattern=met die, Pattern=punt, Pattern=op, Pattern=een, Pattern=met, Pattern=die
+Turn ID=39| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=40| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=41| B | B : dat zijn de L
+	Free: Pattern=dat zijn, Pattern=de
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=42| A | A : want hoe noemen je die ? noemen je dat een tafel of zo of een
+	Free: Pattern=dat, Pattern=een, Pattern=die
+	Constrained: 
+Turn ID=43| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=44| B | B : een plateau
+	Free: Pattern=een
+	Constrained: 
+Turn ID=45| A | A : dat zijn een een kort woord
+	Free: Pattern=zijn een, Pattern=dat zijn, Pattern=een
+	Constrained: Pattern=dat, Pattern=een, Pattern=zijn
+Turn ID=46| B | B : vierkant
+	Free: Pattern=vierkant
+	Constrained: 
+Turn ID=47| A | A : ja het kunnen
+	Free: Pattern=het, Pattern=ja
+	Constrained: 

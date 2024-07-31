@@ -1,0 +1,123 @@
+B|0| B: deze _hebben_ _een_ plaat erdoorheen aan _de_ _een beetje_ aan _de_ bovenkant en twee poot eronderuit 
+B|1| B: vinden _ik_ _het_ _lijken_ 
+B|2| B: en er staan _een_ soort van omgekeerde driehoek afronden bovenop 
+A|3| A: _ja_ 
+A|4| A: _ja_ 
+A|5| A: _ja_ [lijken] [een beetje] op [een] tafel 
+B|6| B: [ja] _dat_ vinden _ik_ ook [een] _picknicktafel_ 
+A|7| A: die 
+A|8| A: [ja] _oké_ top 
+B|9| B: [ja] 
+A|10| A: dan _zijn_ [het] zestien 
+B|11| B: [oké] 
+A|12| A: _dit zijn_ die met die [picknicktafel] 
+B|13| B: [ja] nou [dit zijn] P laugh 
+B|14| B: [oké] _ik hebben_ _de picknicktafel_ 
+A|15| A: _even zoeken_ 
+A|16| A: wow 
+A|17| A: [ja] 
+A|18| A: [oké] _dat zijn_ veertien 
+B|19| B: [oké] 
+A|20| A: [ik hebben] die met [de picknicktafel] 
+B|21| B: [ja] [even zoeken] 
+B|22| B: [ja] [dat zijn] N 
+A|23| A: [oké] 
+B|24| B: [ik hebben] [een] [picknicktafel] 
+A|25| A: [even zoeken] 
+A|26| A: [dat zijn] tien 
+A|27| A: [dit zijn] die met [de picknicktafel] 
+B|28| B: [ja] 
+B|29| B: [ja] [dat zijn] D 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : deze hebben een plaat erdoorheen aan de een beetje aan de bovenkant en twee poot eronderuit
+	Free: Pattern=een beetje, Pattern=de, Pattern=hebben, Pattern=een
+	Constrained: Pattern=een
+Turn ID=1| B | B : vinden ik het lijken
+	Free: Pattern=ik, Pattern=het, Pattern=lijken
+	Constrained: 
+Turn ID=2| B | B : en er staan een soort van omgekeerde driehoek afronden bovenop
+	Free: Pattern=een
+	Constrained: 
+Turn ID=3| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=4| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=5| A | A : ja lijken een beetje op een tafel
+	Free: Pattern=een beetje, Pattern=ja, Pattern=lijken, Pattern=een
+	Constrained: Pattern=een
+Turn ID=6| B | B : ja dat vinden ik ook een picknicktafel
+	Free: Pattern=dat, Pattern=ja, Pattern=een, Pattern=picknicktafel, Pattern=ik
+	Constrained: 
+Turn ID=7| A | A : die
+	Free: 
+	Constrained: 
+Turn ID=8| A | A : ja oké top
+	Free: Pattern=ja, Pattern=oké
+	Constrained: 
+Turn ID=9| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=10| A | A : dan zijn het zestien
+	Free: Pattern=het, Pattern=zijn
+	Constrained: 
+Turn ID=11| B | B : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=12| A | A : dit zijn die met die picknicktafel
+	Free: Pattern=dit zijn, Pattern=picknicktafel
+	Constrained: Pattern=zijn
+Turn ID=13| B | B : ja nou dit zijn P laugh
+	Free: Pattern=dit zijn, Pattern=ja
+	Constrained: Pattern=zijn
+Turn ID=14| B | B : oké ik hebben de picknicktafel
+	Free: Pattern=de picknicktafel, Pattern=ik hebben, Pattern=oké
+	Constrained: Pattern=picknicktafel, Pattern=de, Pattern=ik, Pattern=hebben
+Turn ID=15| A | A : even zoeken
+	Free: Pattern=even zoeken
+	Constrained: 
+Turn ID=16| A | A : wow
+	Free: 
+	Constrained: 
+Turn ID=17| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=18| A | A : oké dat zijn veertien
+	Free: Pattern=dat zijn, Pattern=oké
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=19| B | B : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=20| A | A : ik hebben die met de picknicktafel
+	Free: Pattern=de picknicktafel, Pattern=ik hebben
+	Constrained: Pattern=picknicktafel, Pattern=de, Pattern=ik, Pattern=hebben
+Turn ID=21| B | B : ja even zoeken
+	Free: Pattern=even zoeken, Pattern=ja
+	Constrained: 
+Turn ID=22| B | B : ja dat zijn N
+	Free: Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=23| A | A : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=24| B | B : ik hebben een picknicktafel
+	Free: Pattern=ik hebben, Pattern=picknicktafel, Pattern=een
+	Constrained: Pattern=ik, Pattern=hebben
+Turn ID=25| A | A : even zoeken
+	Free: Pattern=even zoeken
+	Constrained: 
+Turn ID=26| A | A : dat zijn tien
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=27| A | A : dit zijn die met de picknicktafel
+	Free: Pattern=de picknicktafel, Pattern=dit zijn
+	Constrained: Pattern=picknicktafel, Pattern=de, Pattern=zijn
+Turn ID=28| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=29| B | B : ja dat zijn D
+	Free: Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=dat, Pattern=zijn

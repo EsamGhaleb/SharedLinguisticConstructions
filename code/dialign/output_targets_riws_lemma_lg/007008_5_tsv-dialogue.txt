@@ -1,0 +1,175 @@
+B|0| B: deze _vinden_ _ik_ het het kut 
+B|1| B: _even kijken_ 
+B|2| B: er liggen _zeggen maar_ _een_ _balk_ op 
+B|3| B: _een_ langwerpig _balk_ 
+A|4| A: _ja_ 
+B|5| B: bovenop 
+B|6| B: _en_ 
+A|7| A: zo'n zo'n zo'n _kop_ of zo aan _de_ zijkant of _niet_ 
+B|8| B: _ja ja_ omgedraaid _zeggen maar_ op _zijn_ op [de] [kop] 
+A|9| A: [ja] 
+B|10| B: [ja] 
+A|11| A: oké _dan_ hebben [ik] _die_ al 
+A|12| A: wachten voor [de] zekerheid 
+A|13| A: ook aan [de] zijkant hebben [zeggen maar] zo'n _ja ik_ jij denken [ik] 
+B|14| B: [ja ik] weten [niet] _wat_ het 
+B|15| B: [ja] _dat_ lijken _een_ beetje op _een_ _schep_ 
+A|16| A: oké _dan_ wel 
+B|17| B: [ja] 
+A|18| A: acht 
+A|19| A: [de] [dat] [balk] boven _en dan_ zo'n 
+B|20| B: [ja] 
+A|21| A: [een] vending machine 
+A|22| A: [dat] ding 
+B|23| B: E 
+B|24| B: weer [die] _balk [en_ dan] [die] [die] scoop hoe heten [dat] [die] [die] _beker_ op [de] [kop] [en] [die] _schep_ 
+A|25| A: [ja [ja] ja] 
+A|26| A: _waar_ [zijn] [die] 
+A|27| A: één 
+A|28| A: [de] _ja die_ [een] [die] jij lastig [vinden] 
+A|29| A: met [dat] [balk en] [dat] [schep] 
+A|30| A: [en] omgekeerde [beker] [zeggen maar] 
+B|31| B: [ja die] 
+B|32| B: [waar] staan [die] 
+B|33| B: [ja] nou [vinden] [ik] hem heel makkelijk 
+B|34| B: ah hier 
+B|35| B: E 
+B|36| B: weer [die] [beker] op [de] [kop] [en] [die] [die] [schep] erbij 
+A|37| A: [ja] 
+A|38| A: [even kijken] [waar] [die] [zijn] 
+A|39| A: [de] [ja] [de] [schep] [en] [dat] omgedraaide [beker] [en] [dat] [balk] 
+A|40| A: [wat] jij eerst moeilijk [vinden] 
+B|41| B: [ja] 
+B|42| B: O 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : deze vinden ik het het kut
+	Free: Pattern=vinden, Pattern=ik
+	Constrained: 
+Turn ID=1| B | B : even kijken
+	Free: Pattern=even kijken
+	Constrained: 
+Turn ID=2| B | B : er liggen zeggen maar een balk op
+	Free: Pattern=zeggen maar, Pattern=balk, Pattern=een
+	Constrained: 
+Turn ID=3| B | B : een langwerpig balk
+	Free: Pattern=balk, Pattern=een
+	Constrained: 
+Turn ID=4| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=5| B | B : bovenop
+	Free: 
+	Constrained: 
+Turn ID=6| B | B : en
+	Free: Pattern=en
+	Constrained: 
+Turn ID=7| A | A : zo'n zo'n zo'n kop of zo aan de zijkant of niet
+	Free: Pattern=de, Pattern=niet, Pattern=kop
+	Constrained: 
+Turn ID=8| B | B : ja ja omgedraaid zeggen maar op zijn op de kop
+	Free: Pattern=zeggen maar, Pattern=kop, Pattern=zijn, Pattern=de, Pattern=ja ja
+	Constrained: Pattern=ja
+Turn ID=9| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=10| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=11| A | A : oké dan hebben ik die al
+	Free: Pattern=dan, Pattern=ik, Pattern=die
+	Constrained: 
+Turn ID=12| A | A : wachten voor de zekerheid
+	Free: Pattern=de
+	Constrained: 
+Turn ID=13| A | A : ook aan de zijkant hebben zeggen maar zo'n ja ik jij denken ik
+	Free: Pattern=ja ik, Pattern=zeggen maar, Pattern=de, Pattern=ik
+	Constrained: Pattern=ja, Pattern=ik
+Turn ID=14| B | B : ja ik weten niet wat het
+	Free: Pattern=ja ik, Pattern=niet, Pattern=wat
+	Constrained: Pattern=ja, Pattern=ik
+Turn ID=15| B | B : ja dat lijken een beetje op een schep
+	Free: Pattern=dat, Pattern=ja, Pattern=schep, Pattern=een
+	Constrained: 
+Turn ID=16| A | A : oké dan wel
+	Free: Pattern=dan
+	Constrained: 
+Turn ID=17| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=18| A | A : acht
+	Free: 
+	Constrained: 
+Turn ID=19| A | A : de dat balk boven en dan zo'n
+	Free: Pattern=en dan, Pattern=de, Pattern=dat, Pattern=balk
+	Constrained: Pattern=en, Pattern=dan
+Turn ID=20| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=21| A | A : een vending machine
+	Free: Pattern=een
+	Constrained: 
+Turn ID=22| A | A : dat ding
+	Free: Pattern=dat
+	Constrained: 
+Turn ID=23| B | B : E
+	Free: 
+	Constrained: 
+Turn ID=24| B | B : weer die balk en dan die die scoop hoe heten dat die die beker op de kop en die schep
+	Free: Pattern=beker, Pattern=dat, Pattern=de, Pattern=en dan, Pattern=schep, Pattern=kop, Pattern=die, Pattern=en, Pattern=balk en
+	Constrained: Pattern=en, Pattern=dan, Pattern=balk
+Turn ID=25| A | A : ja ja ja
+	Free: Pattern=ja ja
+	Constrained: Pattern=ja
+Turn ID=26| A | A : waar zijn die
+	Free: Pattern=zijn, Pattern=waar, Pattern=die
+	Constrained: 
+Turn ID=27| A | A : één
+	Free: 
+	Constrained: 
+Turn ID=28| A | A : de ja die een die jij lastig vinden
+	Free: Pattern=ja die, Pattern=een, Pattern=die, Pattern=de, Pattern=vinden
+	Constrained: Pattern=ja, Pattern=die
+Turn ID=29| A | A : met dat balk en dat schep
+	Free: Pattern=balk en, Pattern=dat, Pattern=schep
+	Constrained: Pattern=en, Pattern=balk
+Turn ID=30| A | A : en omgekeerde beker zeggen maar
+	Free: Pattern=zeggen maar, Pattern=en, Pattern=beker
+	Constrained: 
+Turn ID=31| B | B : ja die
+	Free: Pattern=ja die
+	Constrained: Pattern=ja, Pattern=die
+Turn ID=32| B | B : waar staan die
+	Free: Pattern=waar, Pattern=die
+	Constrained: 
+Turn ID=33| B | B : ja nou vinden ik hem heel makkelijk
+	Free: Pattern=ja, Pattern=vinden, Pattern=ik
+	Constrained: 
+Turn ID=34| B | B : ah hier
+	Free: 
+	Constrained: 
+Turn ID=35| B | B : E
+	Free: 
+	Constrained: 
+Turn ID=36| B | B : weer die beker op de kop en die die schep erbij
+	Free: Pattern=beker, Pattern=de, Pattern=schep, Pattern=kop, Pattern=die, Pattern=en
+	Constrained: 
+Turn ID=37| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=38| A | A : even kijken waar die zijn
+	Free: Pattern=even kijken, Pattern=zijn, Pattern=waar, Pattern=die
+	Constrained: 
+Turn ID=39| A | A : de ja de schep en dat omgedraaide beker en dat balk
+	Free: Pattern=beker, Pattern=dat, Pattern=schep, Pattern=balk, Pattern=en, Pattern=de, Pattern=ja
+	Constrained: 
+Turn ID=40| A | A : wat jij eerst moeilijk vinden
+	Free: Pattern=wat, Pattern=vinden
+	Constrained: 
+Turn ID=41| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=42| B | B : O
+	Free: 
+	Constrained: 

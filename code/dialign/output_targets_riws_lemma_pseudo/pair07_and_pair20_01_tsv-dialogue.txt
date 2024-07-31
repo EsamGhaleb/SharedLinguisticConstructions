@@ -1,0 +1,59 @@
+A|0| A: _ja_ elf 
+A|1| A: _deze hebben_ _een_ plat _vierkant_ _aan de_ voorkant _en_ _met_ daarbovenop _dat_ paddestoel 
+B|2| B: eens even kijken horen [deze hebben] [aan de] linkerkant twee van die die _vier_ kubus eraan zitten die zitten achter elkaar er zitten [een] [vierkant] voor [en] [een] soort 
+B|3| B: [ja] Spijker Antenne inderdaad 
+A|4| A: [ja] _dat zijn_ acht 
+A|5| A: dit _zijn_ [een] plat [vierkant] [aan de] voorkant _met het_ paddestoel 
+B|6| B: [dat zijn] b 
+B|7| B: [deze hebben] twee [de] twee _vier_ kubus achter elkaar als handvat [met het] [vierkant] ervoor 
+A|8| A: [ja] [vier] 
+B|9| B: [met het] vlak ervoor 
+B|10| B: yes [dat zijn] I 
+A|11| A: dit [zijn] [de] [het] paddestoel 
+B|12| B: [deze hebben] [de] twee maal [vier] kubus [aan de] linkerkant [en] [het] [en] [de] antenne [aan de] bovenkant 
+B|13| B: yes [dat zijn] d 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : ja elf
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=1| A | A : deze hebben een plat vierkant aan de voorkant en met daarbovenop dat paddestoel
+	Free: Pattern=dat, Pattern=aan de, Pattern=een, Pattern=deze hebben, Pattern=met, Pattern=en, Pattern=vierkant
+	Constrained: Pattern=de
+Turn ID=2| B | B : eens even kijken horen deze hebben aan de linkerkant twee van die die vier kubus eraan zitten die zitten achter elkaar er zitten een vierkant voor en een soort
+	Free: Pattern=aan de, Pattern=een, Pattern=deze hebben, Pattern=en, Pattern=vierkant, Pattern=vier
+	Constrained: Pattern=de
+Turn ID=3| B | B : ja Spijker Antenne inderdaad
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=4| A | A : ja dat zijn acht
+	Free: Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=5| A | A : dit zijn een plat vierkant aan de voorkant met het paddestoel
+	Free: Pattern=aan de, Pattern=een, Pattern=met het, Pattern=zijn, Pattern=vierkant
+	Constrained: Pattern=de, Pattern=het, Pattern=met
+Turn ID=6| B | B : dat zijn b
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=7| B | B : deze hebben twee de twee vier kubus achter elkaar als handvat met het vierkant ervoor
+	Free: Pattern=de, Pattern=deze hebben, Pattern=met het, Pattern=vierkant, Pattern=vier
+	Constrained: Pattern=het, Pattern=met
+Turn ID=8| A | A : ja vier
+	Free: Pattern=ja, Pattern=vier
+	Constrained: 
+Turn ID=9| B | B : met het vlak ervoor
+	Free: Pattern=met het
+	Constrained: Pattern=het, Pattern=met
+Turn ID=10| B | B : yes dat zijn I
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=11| A | A : dit zijn de het paddestoel
+	Free: Pattern=de, Pattern=het, Pattern=zijn
+	Constrained: 
+Turn ID=12| B | B : deze hebben de twee maal vier kubus aan de linkerkant en het en de antenne aan de bovenkant
+	Free: Pattern=de, Pattern=aan de, Pattern=het, Pattern=deze hebben, Pattern=en, Pattern=vier
+	Constrained: Pattern=de
+Turn ID=13| B | B : yes dat zijn d
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn

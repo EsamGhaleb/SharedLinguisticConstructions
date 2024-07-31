@@ -1,0 +1,95 @@
+A|0| A: _deze hebben een_ _een piramide_ als dakje 
+A|1| A: _een_ _een_ paardenstaar 
+A|2| A: _en_ _een_ rond _aan de_ _en_ _een_ _heel_ groot neus 
+A|3| A: _en_ _een_ rond _aan de_ onderkant 
+B|4| B: _ja_ 
+B|5| B: zitten daar echt zo'n [heel] random [een] soort alsof [een] kogel [aan de] ? _ja_ 
+B|6| B: _dat_ _zijn_ J 
+A|7| A: _met_ [dat] _die_ groot neus 
+A|8| A: [ja] 
+A|9| A: zes 
+B|10| B: [deze hebben [een] piramide] op _zijn_ hoofd [en] [aan de] linkerkant [een] kogel [die] er bijna doorheen gaan 
+A|11| A: [zijn] [die] _met_ [dat] [piramide] [en] [die] groot neus [en] [dat] armpje [en] 
+A|12| A: _ja en_ [die] groot neus 
+A|13| A: [ja] 
+A|14| A: tien 
+B|15| B: [ja en] [de] kogel [die] er bijna doorheen gaan 
+B|16| B: E 
+B|17| B: dit [zijn] _met de_ [piramide] boven [en] [de] kogel [aan de] linkerkant 
+A|18| A: _het_ [met de] groot neus [en] _het_ driehoekje [en] 
+A|19| A: [ja] 
+A|20| A: tien 
+B|21| B: [piramide] op [het] hoofd [en] kogel 
+B|22| B: [die] er bijna doorheen gaan 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : deze hebben een een piramide als dakje
+	Free: Pattern=deze hebben een, Pattern=een piramide
+	Constrained: Pattern=een, Pattern=piramide
+Turn ID=1| A | A : een een paardenstaar
+	Free: Pattern=een
+	Constrained: 
+Turn ID=2| A | A : en een rond aan de en een heel groot neus
+	Free: Pattern=aan de, Pattern=een, Pattern=en, Pattern=heel
+	Constrained: Pattern=de
+Turn ID=3| A | A : en een rond aan de onderkant
+	Free: Pattern=aan de, Pattern=een, Pattern=en
+	Constrained: Pattern=de
+Turn ID=4| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=5| B | B : zitten daar echt zo'n heel random een soort alsof een kogel aan de ? ja
+	Free: Pattern=aan de, Pattern=een, Pattern=ja, Pattern=heel
+	Constrained: Pattern=de
+Turn ID=6| B | B : dat zijn J
+	Free: Pattern=dat, Pattern=zijn
+	Constrained: 
+Turn ID=7| A | A : met dat die groot neus
+	Free: Pattern=dat, Pattern=die, Pattern=met
+	Constrained: 
+Turn ID=8| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=9| A | A : zes
+	Free: 
+	Constrained: 
+Turn ID=10| B | B : deze hebben een piramide op zijn hoofd en aan de linkerkant een kogel die er bijna doorheen gaan
+	Free: Pattern=aan de, Pattern=deze hebben een, Pattern=een, Pattern=die, Pattern=en, Pattern=zijn, Pattern=een piramide
+	Constrained: Pattern=een, Pattern=piramide, Pattern=de
+Turn ID=11| A | A : zijn die met dat piramide en die groot neus en dat armpje en
+	Free: Pattern=dat, Pattern=piramide, Pattern=met, Pattern=die, Pattern=en, Pattern=zijn
+	Constrained: 
+Turn ID=12| A | A : ja en die groot neus
+	Free: Pattern=ja en, Pattern=die
+	Constrained: Pattern=en, Pattern=ja
+Turn ID=13| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=14| A | A : tien
+	Free: 
+	Constrained: 
+Turn ID=15| B | B : ja en de kogel die er bijna doorheen gaan
+	Free: Pattern=ja en, Pattern=de, Pattern=die
+	Constrained: Pattern=en, Pattern=ja
+Turn ID=16| B | B : E
+	Free: 
+	Constrained: 
+Turn ID=17| B | B : dit zijn met de piramide boven en de kogel aan de linkerkant
+	Free: Pattern=en, Pattern=zijn, Pattern=de, Pattern=met de, Pattern=piramide, Pattern=aan de
+	Constrained: Pattern=de, Pattern=met
+Turn ID=18| A | A : het met de groot neus en het driehoekje en
+	Free: Pattern=met de, Pattern=en, Pattern=het
+	Constrained: Pattern=de, Pattern=met
+Turn ID=19| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=20| A | A : tien
+	Free: 
+	Constrained: 
+Turn ID=21| B | B : piramide op het hoofd en kogel
+	Free: Pattern=piramide, Pattern=en, Pattern=het
+	Constrained: 
+Turn ID=22| B | B : die er bijna doorheen gaan
+	Free: Pattern=die
+	Constrained: 

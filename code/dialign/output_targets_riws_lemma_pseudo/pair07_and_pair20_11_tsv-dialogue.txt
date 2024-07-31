@@ -1,0 +1,103 @@
+A|0| A: zo'n _soort_ v- zo 
+A|1| A: _ja_ _ja ik_ denken _dat_ _ik_ _het_ 
+A|2| A: _en_ _zitten_ _er_ twee ding bovenop 
+A|3| A: _ja okee_ twaalf 
+B|4| B: okeeen deze _hebben_ weer een een eivorm _aan de aan de_ voorkant 
+B|5| B: echt [er] helemaal voor 
+B|6| B: [er] [zitten] een een [soort] staaf _die_ gaan in [het] kop [en] daarnaast nog iets wat in [het] kop gaan _hebben_ een beetje een één [ja ik] zullen [het] niet echt een zandloperfiguur noemen maar eerst een [soort] ruitje _en dan_ gaan hij worden hij klein [en] nog weer een klein uitstulpsel 
+B|7| B: [en] [er] [zitten] een [soort] driehoekig handvat _aan_ 
+B|8| B: _ja dat_ _zijn_ wel een goed 
+B|9| B: [ja] 
+A|10| A: _dit_ [hebben] [die] ronde ovaal [aan de aan de] rechterkant [dat] bolle [en dan] [aan de] linkerkant [dat] [ja dat] gevouwen dinge 
+A|11| A: [ja] [ja] [ja] 
+A|12| A: [ja] 
+A|13| A: elf 
+B|14| B: [ja okee] [dat] _zijn_ f 
+A|15| A: _dit zijn het_ gezicht 
+A|16| A: met [die] twee ding bovenop 
+A|17| A: [ja] 
+A|18| A: _zoeken_ 
+A|19| A: zestien 
+B|20| B: deze [hebben] [het] ei [aan de] voorkant [en] [het] pipet 
+A|21| A: _dit zijn het_ gezicht 
+B|22| B: [ja] eens even [zoeken] [dat] [zijn] d 
+B|23| B: [dit zijn het] ei [en] [het] pipet 
+B|24| B: [ja dat] [zijn] j 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : zo'n soort v- zo
+	Free: Pattern=soort
+	Constrained: 
+Turn ID=1| A | A : ja ja ik denken dat ik het
+	Free: Pattern=dat, Pattern=ja, Pattern=het, Pattern=ja ik, Pattern=ik
+	Constrained: Pattern=ik, Pattern=ja
+Turn ID=2| A | A : en zitten er twee ding bovenop
+	Free: Pattern=en, Pattern=er, Pattern=zitten
+	Constrained: 
+Turn ID=3| A | A : ja okee twaalf
+	Free: Pattern=ja okee
+	Constrained: Pattern=ja
+Turn ID=4| B | B : okeeen deze hebben weer een een eivorm aan de aan de voorkant
+	Free: Pattern=aan de aan de, Pattern=hebben
+	Constrained: Pattern=aan de, Pattern=aan
+Turn ID=5| B | B : echt er helemaal voor
+	Free: Pattern=er
+	Constrained: 
+Turn ID=6| B | B : er zitten een een soort staaf die gaan in het kop en daarnaast nog iets wat in het kop gaan hebben een beetje een één ja ik zullen het niet echt een zandloperfiguur noemen maar eerst een soort ruitje en dan gaan hij worden hij klein en nog weer een klein uitstulpsel
+	Free: Pattern=soort, Pattern=en dan, Pattern=het, Pattern=hebben, Pattern=en, Pattern=die, Pattern=zitten, Pattern=ja ik, Pattern=er
+	Constrained: Pattern=ik, Pattern=ja, Pattern=en
+Turn ID=7| B | B : en er zitten een soort driehoekig handvat aan
+	Free: Pattern=soort, Pattern=aan, Pattern=zitten, Pattern=er, Pattern=en
+	Constrained: 
+Turn ID=8| B | B : ja dat zijn wel een goed
+	Free: Pattern=ja dat, Pattern=zijn
+	Constrained: Pattern=ja, Pattern=dat
+Turn ID=9| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=10| A | A : dit hebben die ronde ovaal aan de aan de rechterkant dat bolle en dan aan de linkerkant dat ja dat gevouwen dinge
+	Free: Pattern=aan de aan de, Pattern=dat, Pattern=en dan, Pattern=aan de, Pattern=hebben, Pattern=dit, Pattern=die, Pattern=ja dat
+	Constrained: Pattern=dat, Pattern=aan de, Pattern=en, Pattern=aan, Pattern=ja
+Turn ID=11| A | A : ja ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=12| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=13| A | A : elf
+	Free: 
+	Constrained: 
+Turn ID=14| B | B : ja okee dat zijn f
+	Free: Pattern=ja okee, Pattern=zijn, Pattern=dat
+	Constrained: Pattern=ja
+Turn ID=15| A | A : dit zijn het gezicht
+	Free: Pattern=dit zijn het
+	Constrained: Pattern=dit, Pattern=zijn, Pattern=het
+Turn ID=16| A | A : met die twee ding bovenop
+	Free: Pattern=die
+	Constrained: 
+Turn ID=17| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=18| A | A : zoeken
+	Free: Pattern=zoeken
+	Constrained: 
+Turn ID=19| A | A : zestien
+	Free: 
+	Constrained: 
+Turn ID=20| B | B : deze hebben het ei aan de voorkant en het pipet
+	Free: Pattern=aan de, Pattern=en, Pattern=het, Pattern=hebben
+	Constrained: Pattern=aan
+Turn ID=21| A | A : dit zijn het gezicht
+	Free: Pattern=dit zijn het
+	Constrained: Pattern=dit, Pattern=zijn, Pattern=het
+Turn ID=22| B | B : ja eens even zoeken dat zijn d
+	Free: Pattern=zijn, Pattern=ja, Pattern=zoeken, Pattern=dat
+	Constrained: 
+Turn ID=23| B | B : dit zijn het ei en het pipet
+	Free: Pattern=dit zijn het, Pattern=en, Pattern=het
+	Constrained: Pattern=dit, Pattern=zijn, Pattern=het
+Turn ID=24| B | B : ja dat zijn j
+	Free: Pattern=ja dat, Pattern=zijn
+	Constrained: Pattern=ja, Pattern=dat

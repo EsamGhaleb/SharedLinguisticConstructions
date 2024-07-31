@@ -1,0 +1,107 @@
+A|0| A: _deze hebben_ twee uitsteeksel _met_ _aan_ _het_ einde van _de_ uitsteeksel een _soort_ 
+A|1| A: _ja_ knop of knoopje erop 
+A|2| A: _en_ _aan de achterkant_ zitten een _soort_ plankje schuin omhoog _met_ een dinge _eraan_ vast _nog_ 
+B|3| B: [ja] 
+B|4| B: [ja] 
+B|5| B: _dat zijn bij mij_ K 
+A|6| A: een schuin plaat zo erachter 
+A|7| A: [ja] [dat zijn bij mij] negen 
+B|8| B: [deze hebben] _die soort_ zoutpot [aan de] zijkant 
+B|9| B: [en] [het] kle [aan de achterkant] [met] [nog] iets [eraan] 
+A|10| A: [deze hebben] twee [die] twee uitsteekselt [met] een rond [aan] [het] einde 
+A|11| A: [en] [dat] vierkan zo schuin achter 
+B|12| B: [ja] 
+B|13| B: [ja] 
+B|14| B: [dat zijn bij mij] F 
+A|15| A: [ja] [ja] 
+A|16| A: [dat zijn bij mij] drie 
+A|17| A: _deze zijn_ [die] _met [die_ soort] staaf erdoorheen [en] [die] rond dinget [aan de] uitein [en] [die] plank zo schuin 
+A|18| A: [ja] 
+B|19| B: [deze zijn] [met die] zout ding 
+B|20| B: [aan de] zijkant 
+A|21| A: [ja] [dat zijn] nummer vijf 
+B|22| B: [ja] 
+B|23| B: even kijken 
+B|24| B: [dat zijn bij mij] L 
+B|25| B: [met die] zoutpot 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : deze hebben twee uitsteeksel met aan het einde van de uitsteeksel een soort
+	Free: Pattern=soort, Pattern=het, Pattern=deze hebben, Pattern=met, Pattern=de, Pattern=aan
+	Constrained: 
+Turn ID=1| A | A : ja knop of knoopje erop
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=2| A | A : en aan de achterkant zitten een soort plankje schuin omhoog met een dinge eraan vast nog
+	Free: Pattern=aan de achterkant, Pattern=eraan, Pattern=met, Pattern=en, Pattern=nog, Pattern=soort
+	Constrained: Pattern=aan, Pattern=de, Pattern=aan de
+Turn ID=3| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=4| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=5| B | B : dat zijn bij mij K
+	Free: Pattern=dat zijn bij mij
+	Constrained: Pattern=dat, Pattern=dat zijn
+Turn ID=6| A | A : een schuin plaat zo erachter
+	Free: 
+	Constrained: 
+Turn ID=7| A | A : ja dat zijn bij mij negen
+	Free: Pattern=dat zijn bij mij, Pattern=ja
+	Constrained: Pattern=dat, Pattern=dat zijn
+Turn ID=8| B | B : deze hebben die soort zoutpot aan de zijkant
+	Free: Pattern=deze hebben, Pattern=aan de, Pattern=die soort
+	Constrained: Pattern=aan, Pattern=de, Pattern=soort, Pattern=die
+Turn ID=9| B | B : en het kle aan de achterkant met nog iets eraan
+	Free: Pattern=aan de achterkant, Pattern=nog, Pattern=eraan, Pattern=het, Pattern=met, Pattern=en
+	Constrained: Pattern=aan, Pattern=de, Pattern=aan de
+Turn ID=10| A | A : deze hebben twee die twee uitsteekselt met een rond aan het einde
+	Free: Pattern=aan, Pattern=het, Pattern=deze hebben, Pattern=met, Pattern=die
+	Constrained: 
+Turn ID=11| A | A : en dat vierkan zo schuin achter
+	Free: Pattern=dat, Pattern=en
+	Constrained: 
+Turn ID=12| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=13| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=14| B | B : dat zijn bij mij F
+	Free: Pattern=dat zijn bij mij
+	Constrained: Pattern=dat, Pattern=dat zijn
+Turn ID=15| A | A : ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=16| A | A : dat zijn bij mij drie
+	Free: Pattern=dat zijn bij mij
+	Constrained: Pattern=dat, Pattern=dat zijn
+Turn ID=17| A | A : deze zijn die met die soort staaf erdoorheen en die rond dinget aan de uitein en die plank zo schuin
+	Free: Pattern=met die, Pattern=deze zijn, Pattern=aan de, Pattern=die, Pattern=die soort, Pattern=en
+	Constrained: Pattern=soort, Pattern=met, Pattern=die, Pattern=de, Pattern=aan
+Turn ID=18| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=19| B | B : deze zijn met die zout ding
+	Free: Pattern=deze zijn, Pattern=met die
+	Constrained: Pattern=met, Pattern=die
+Turn ID=20| B | B : aan de zijkant
+	Free: Pattern=aan de
+	Constrained: Pattern=aan, Pattern=de
+Turn ID=21| A | A : ja dat zijn nummer vijf
+	Free: Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=dat
+Turn ID=22| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=23| B | B : even kijken
+	Free: 
+	Constrained: 
+Turn ID=24| B | B : dat zijn bij mij L
+	Free: Pattern=dat zijn bij mij
+	Constrained: Pattern=dat, Pattern=dat zijn
+Turn ID=25| B | B : met die zoutpot
+	Free: Pattern=met die
+	Constrained: Pattern=met, Pattern=die

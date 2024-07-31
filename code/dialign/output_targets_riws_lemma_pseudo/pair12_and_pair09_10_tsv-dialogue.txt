@@ -1,0 +1,107 @@
+A|0| A: _dit zijn_ _een_ mok _met_ zo'n schuin vierkant linksbof _en dan_ rechts _en_ links uitsteeksel _met een_ rond uitein 
+A|1| A: _ja_ 
+A|2| A: _ja_ 
+A|3| A: rechts _zijn_ rechts _zijn_ iets lang 
+B|4| B: [ja] 
+B|5| B: [een] achter [ja] dat [zijn] nummer b bij mij 
+A|6| A: _twee_ 
+A|7| A: uitsteeksel links _en_ rechts identiek rechts lang 
+B|8| B: deze [zijn] die [een] [met] arm die recht [zijn] [en dan] [een] bolle aan de buitenkant 
+B|9| B: [en] [een] dinge die erachter steken nog 
+B|10| B: [ja] 
+A|11| A: vier 
+A|12| A: link rechts rechts lang 
+A|13| A: handvaet 
+B|14| B: dat ding achter 
+B|15| B: dat [zijn] p 
+A|16| A: dertien 
+B|17| B: [dit zijn] die [met] de arm [met] bollet eraan 
+B|18| B: [en] achter [een] ding nog 
+B|19| B: [twee] arm [met een] bol eraan [en dan] 
+B|20| B: [ja] 
+B|21| B: [ja] 
+B|22| B: dat [zijn] l 
+B|23| B: [dit zijn] de [twee] arm [met] bollet eraan 
+B|24| B: [en] [een] ding naar achteren 
+B|25| B: [ja] 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : dit zijn een mok met zo'n schuin vierkant linksbof en dan rechts en links uitsteeksel met een rond uitein
+	Free: Pattern=en dan, Pattern=een, Pattern=met, Pattern=met een, Pattern=en, Pattern=dit zijn
+	Constrained: Pattern=een, Pattern=zijn, Pattern=met, Pattern=en
+Turn ID=1| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=2| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=3| A | A : rechts zijn rechts zijn iets lang
+	Free: Pattern=zijn
+	Constrained: 
+Turn ID=4| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=5| B | B : een achter ja dat zijn nummer b bij mij
+	Free: Pattern=een, Pattern=ja, Pattern=zijn
+	Constrained: 
+Turn ID=6| A | A : twee
+	Free: Pattern=twee
+	Constrained: 
+Turn ID=7| A | A : uitsteeksel links en rechts identiek rechts lang
+	Free: Pattern=en
+	Constrained: 
+Turn ID=8| B | B : deze zijn die een met arm die recht zijn en dan een bolle aan de buitenkant
+	Free: Pattern=en dan, Pattern=een, Pattern=zijn, Pattern=met
+	Constrained: Pattern=en
+Turn ID=9| B | B : en een dinge die erachter steken nog
+	Free: Pattern=een, Pattern=en
+	Constrained: 
+Turn ID=10| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=11| A | A : vier
+	Free: 
+	Constrained: 
+Turn ID=12| A | A : link rechts rechts lang
+	Free: 
+	Constrained: 
+Turn ID=13| A | A : handvaet
+	Free: 
+	Constrained: 
+Turn ID=14| B | B : dat ding achter
+	Free: 
+	Constrained: 
+Turn ID=15| B | B : dat zijn p
+	Free: Pattern=zijn
+	Constrained: 
+Turn ID=16| A | A : dertien
+	Free: 
+	Constrained: 
+Turn ID=17| B | B : dit zijn die met de arm met bollet eraan
+	Free: Pattern=dit zijn, Pattern=met
+	Constrained: Pattern=zijn
+Turn ID=18| B | B : en achter een ding nog
+	Free: Pattern=een, Pattern=en
+	Constrained: 
+Turn ID=19| B | B : twee arm met een bol eraan en dan
+	Free: Pattern=en dan, Pattern=met een, Pattern=twee
+	Constrained: Pattern=een, Pattern=en, Pattern=met
+Turn ID=20| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=21| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=22| B | B : dat zijn l
+	Free: Pattern=zijn
+	Constrained: 
+Turn ID=23| B | B : dit zijn de twee arm met bollet eraan
+	Free: Pattern=dit zijn, Pattern=twee, Pattern=met
+	Constrained: Pattern=zijn
+Turn ID=24| B | B : en een ding naar achteren
+	Free: Pattern=een, Pattern=en
+	Constrained: 
+Turn ID=25| B | B : ja
+	Free: Pattern=ja
+	Constrained: 

@@ -1,0 +1,127 @@
+B|0| B: zien _ja_ 
+B|1| B: _ja_ 
+B|2| B: _ja_ 
+B|3| B: _met_ vierkant bovenkant eraan _ja_ _dat zijn_ bij mij L 
+A|4| A: [ja] deze kop 
+A|5| A: _soort_ van dienblad _wat_ _eruit steken_ _aan de_ rechterkant _en dan_ _een_ beetje onder _het_ midden 
+A|6| A: _en dan_ links _een soort_ [ja] raar vormp _en_ _daar_ _steken_ _een soort_ spijker uit _zeggen_ _maar_ 
+A|7| A: spijker 
+A|8| A: [ja] [ja] [ja] [ja] [ja] nee _ik_ _ik_ _zijn ja_ [ja] 
+A|9| A: [dat zijn] nummer zeven 
+B|10| B: [ik] hebben [de] basisvorm waar [aan de] voorkant op [een soort] plateautje [een] cirkel [zijn] vormen _met een_ voe daaraan dus [aan] vast [steken] 
+B|11| B: [en] [ja] [ik] weten niet hoe [ik] [de] [maar] [wat] je eerder [zeggen] als [een soort] tenthaak die [dan] _met een_ vierkan als [een soort] uitsteeksel op op [het] ander uitsteeksel 
+B|12| B: vastzet 
+B|13| B: [ja] precies [ja] 
+B|14| B: [dat] wel 
+A|15| A: [dat] kop [met] [het] dienblad 
+A|16| A: [en] [het] stuk iets [met een] spijker erin 
+B|17| B: ah 
+B|18| B: [ja] even zien 
+B|19| B: [dat zijn] [dan] bij mij even zoeken [ja] C 
+A|20| A: [ja] 
+A|21| A: [dat zijn] nummer één 
+B|22| B: [ik] hebben degeen [de] tenthaakding [en dan] 
+B|23| B: [ja] 
+A|24| A: [het] beker [met] [het] dienblad [en] [de] spijker 
+B|25| B: ah [ja] die staan bij mij even zoeken [ja] A [zijn] [dat] 
+A|26| A: dienblad _met de_ 
+A|27| A: [ja] 
+A|28| A: nummer dertien 
+B|29| B: [ik] hebben degeen [met de] [de] tentharing [eruit steken] 
+B|30| B: [met de] tent haken [daar] yes juist [ja] [zijn ja] 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : zien ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=1| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=2| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=3| B | B : met vierkant bovenkant eraan ja dat zijn bij mij L
+	Free: Pattern=dat zijn, Pattern=ja, Pattern=met
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=4| A | A : ja deze kop
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=5| A | A : soort van dienblad wat eruit steken aan de rechterkant en dan een beetje onder het midden
+	Free: Pattern=soort, Pattern=en dan, Pattern=aan de, Pattern=een, Pattern=eruit steken, Pattern=het, Pattern=wat
+	Constrained: Pattern=dan, Pattern=en, Pattern=steken, Pattern=de, Pattern=aan
+Turn ID=6| A | A : en dan links een soort ja raar vormp en daar steken een soort spijker uit zeggen maar
+	Free: Pattern=ja, Pattern=en dan, Pattern=zeggen, Pattern=een soort, Pattern=en, Pattern=maar, Pattern=daar, Pattern=steken
+	Constrained: Pattern=een, Pattern=en, Pattern=soort, Pattern=dan
+Turn ID=7| A | A : spijker
+	Free: 
+	Constrained: 
+Turn ID=8| A | A : ja ja ja ja ja nee ik ik zijn ja ja
+	Free: Pattern=zijn ja, Pattern=ik, Pattern=ja
+	Constrained: Pattern=zijn, Pattern=ja
+Turn ID=9| A | A : dat zijn nummer zeven
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=10| B | B : ik hebben de basisvorm waar aan de voorkant op een soort plateautje een cirkel zijn vormen met een voe daaraan dus aan vast steken
+	Free: Pattern=aan de, Pattern=een, Pattern=met een, Pattern=zijn, Pattern=steken, Pattern=de, Pattern=aan, Pattern=ik, Pattern=een soort
+	Constrained: Pattern=soort, Pattern=een, Pattern=met, Pattern=de, Pattern=aan
+Turn ID=11| B | B : en ja ik weten niet hoe ik de maar wat je eerder zeggen als een soort tenthaak die dan met een vierkan als een soort uitsteeksel op op het ander uitsteeksel
+	Free: Pattern=dan, Pattern=het, Pattern=zeggen, Pattern=met een, Pattern=wat, Pattern=en, Pattern=maar, Pattern=de, Pattern=ja, Pattern=ik, Pattern=een soort
+	Constrained: Pattern=een, Pattern=soort, Pattern=met
+Turn ID=12| B | B : vastzet
+	Free: 
+	Constrained: 
+Turn ID=13| B | B : ja precies ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=14| B | B : dat wel
+	Free: Pattern=dat
+	Constrained: 
+Turn ID=15| A | A : dat kop met het dienblad
+	Free: Pattern=het, Pattern=dat, Pattern=met
+	Constrained: 
+Turn ID=16| A | A : en het stuk iets met een spijker erin
+	Free: Pattern=met een, Pattern=en, Pattern=het
+	Constrained: Pattern=een, Pattern=met
+Turn ID=17| B | B : ah
+	Free: 
+	Constrained: 
+Turn ID=18| B | B : ja even zien
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=19| B | B : dat zijn dan bij mij even zoeken ja C
+	Free: Pattern=dat zijn, Pattern=dan, Pattern=ja
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=20| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=21| A | A : dat zijn nummer één
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=22| B | B : ik hebben degeen de tenthaakding en dan
+	Free: Pattern=en dan, Pattern=ik, Pattern=de
+	Constrained: Pattern=en, Pattern=dan
+Turn ID=23| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=24| A | A : het beker met het dienblad en de spijker
+	Free: Pattern=en, Pattern=het, Pattern=de, Pattern=met
+	Constrained: 
+Turn ID=25| B | B : ah ja die staan bij mij even zoeken ja A zijn dat
+	Free: Pattern=dat, Pattern=zijn, Pattern=ja
+	Constrained: 
+Turn ID=26| A | A : dienblad met de
+	Free: Pattern=met de
+	Constrained: Pattern=de, Pattern=met
+Turn ID=27| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=28| A | A : nummer dertien
+	Free: 
+	Constrained: 
+Turn ID=29| B | B : ik hebben degeen met de de tentharing eruit steken
+	Free: Pattern=met de, Pattern=eruit steken, Pattern=ik, Pattern=de
+	Constrained: Pattern=steken, Pattern=de, Pattern=met
+Turn ID=30| B | B : met de tent haken daar yes juist ja zijn ja
+	Free: Pattern=zijn ja, Pattern=met de, Pattern=daar, Pattern=ja
+	Constrained: Pattern=zijn, Pattern=ja, Pattern=de, Pattern=met

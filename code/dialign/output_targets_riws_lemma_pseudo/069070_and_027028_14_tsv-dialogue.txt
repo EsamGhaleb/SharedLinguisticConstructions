@@ -1,0 +1,127 @@
+A|0| A: _deze_ _hebben_ een balk aan _de_ voorkant _en_ een bol erbovenop 
+A|1| A: _en_ _die_ balk steken uit aan _de_ onderkant 
+A|2| A: _en_ aan _de_ linkerkant zitten _ook_ _nog_ een _uitsteeksel_ aan _de_ rechterkant _ook_ _nog_ een klein _maar_ _die_ staan _er_ niet helemaal op denken ik 
+A|3| A: _ja_ 
+A|4| A: _ja_ _het_ lijken alsof _die_ daarvoor staan _zeggen maar_ 
+A|5| A: _ja_ 
+B|6| B: [ja] 
+B|7| B: [en] _zijn het_ _dan_ _dat_ [er] [nog] wel allemaal ander [uitsteeksel] 
+B|8| B: [zeggen maar] één 
+B|9| B: [ja] 
+B|10| B: [ja] 
+B|11| B: [ja] [ja] _dat zijn_ D 
+A|12| A: bol bovenop 
+A|13| A: [ja] 
+A|14| A: [ja] _oké_ [dan] [zijn het] vijftien 
+B|15| B: even kijken 
+B|16| B: [ja] volgens mij [hebben] we [deze] [ook] al [hebben] _dat zijn_ weer [die] basketbal 
+A|17| A: _dit zijn die_ met [die] balk aan _de_ voorkant [die] een beetje los lijken te staan 
+A|18| A: [en] [die] bol bovenop 
+A|19| A: [ja] 
+A|20| A: [ja] 
+A|21| A: _oké_ [dat zijn] zes 
+A|22| A: _dit zijn die_ met [die] bol bovenop [en] [die] balk aan _de_ voorkant [die] een beetje los lijken 
+B|23| B: [ja] 
+B|24| B: [dat zijn] L 
+A|25| A: [ja] 
+A|26| A: [dat zijn] drie 
+B|27| B: [ja] [dit zijn die] basketbal 
+B|28| B: [de] basketbal [oké] 
+B|29| B: J 
+B|30| B: [de] basketbal 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : deze hebben een balk aan de voorkant en een bol erbovenop
+	Free: Pattern=deze, Pattern=en, Pattern=hebben, Pattern=de
+	Constrained: 
+Turn ID=1| A | A : en die balk steken uit aan de onderkant
+	Free: Pattern=en, Pattern=die, Pattern=de
+	Constrained: 
+Turn ID=2| A | A : en aan de linkerkant zitten ook nog een uitsteeksel aan de rechterkant ook nog een klein maar die staan er niet helemaal op denken ik
+	Free: Pattern=nog, Pattern=de, Pattern=ook, Pattern=uitsteeksel, Pattern=die, Pattern=er, Pattern=en, Pattern=maar
+	Constrained: 
+Turn ID=3| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=4| A | A : ja het lijken alsof die daarvoor staan zeggen maar
+	Free: Pattern=zeggen maar, Pattern=ja, Pattern=het, Pattern=die
+	Constrained: Pattern=maar
+Turn ID=5| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=6| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=7| B | B : en zijn het dan dat er nog wel allemaal ander uitsteeksel
+	Free: Pattern=dat, Pattern=zijn het, Pattern=nog, Pattern=er, Pattern=en, Pattern=uitsteeksel, Pattern=dan
+	Constrained: Pattern=het
+Turn ID=8| B | B : zeggen maar één
+	Free: Pattern=zeggen maar
+	Constrained: Pattern=maar
+Turn ID=9| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=10| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=11| B | B : ja ja dat zijn D
+	Free: Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=dat
+Turn ID=12| A | A : bol bovenop
+	Free: 
+	Constrained: 
+Turn ID=13| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=14| A | A : ja oké dan zijn het vijftien
+	Free: Pattern=zijn het, Pattern=ja, Pattern=oké, Pattern=dan
+	Constrained: Pattern=het
+Turn ID=15| B | B : even kijken
+	Free: 
+	Constrained: 
+Turn ID=16| B | B : ja volgens mij hebben we deze ook al hebben dat zijn weer die basketbal
+	Free: Pattern=dat zijn, Pattern=ja, Pattern=ook, Pattern=hebben, Pattern=die, Pattern=deze
+	Constrained: Pattern=dat
+Turn ID=17| A | A : dit zijn die met die balk aan de voorkant die een beetje los lijken te staan
+	Free: Pattern=dit zijn die, Pattern=die, Pattern=de
+	Constrained: Pattern=die
+Turn ID=18| A | A : en die bol bovenop
+	Free: Pattern=en, Pattern=die
+	Constrained: 
+Turn ID=19| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=20| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=21| A | A : oké dat zijn zes
+	Free: Pattern=dat zijn, Pattern=oké
+	Constrained: Pattern=dat
+Turn ID=22| A | A : dit zijn die met die bol bovenop en die balk aan de voorkant die een beetje los lijken
+	Free: Pattern=dit zijn die, Pattern=en, Pattern=die, Pattern=de
+	Constrained: Pattern=die
+Turn ID=23| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=24| B | B : dat zijn L
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat
+Turn ID=25| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=26| A | A : dat zijn drie
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat
+Turn ID=27| B | B : ja dit zijn die basketbal
+	Free: Pattern=dit zijn die, Pattern=ja
+	Constrained: Pattern=die
+Turn ID=28| B | B : de basketbal oké
+	Free: Pattern=oké, Pattern=de
+	Constrained: 
+Turn ID=29| B | B : J
+	Free: 
+	Constrained: 
+Turn ID=30| B | B : de basketbal
+	Free: Pattern=de
+	Constrained: 

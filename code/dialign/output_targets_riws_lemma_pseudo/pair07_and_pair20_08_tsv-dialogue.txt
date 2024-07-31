@@ -1,0 +1,79 @@
+A|0| A: _okee_ hier _zitten_ heel veel ding _aan_ vooral _aan de bovenkant zitten_ _een_ _een_ ruitvorm _met_ iets erdoorheen 
+B|1| B: _ja_ 
+B|2| B: _ja_ [okee] 
+B|3| B: dat _zijn_ b _ja_ dat _zijn_ b 
+A|4| A: [ja] vijf 
+A|5| A: _dit zijn_ _die_ heel ingewikkelde _met _die_ ruit_ _aan de bovenkant_ _die_ doorboord [zijn] _met_ _een_ staaf 
+B|6| B: deze hebben dat [die ruit] er [aan de bovenkant zitten] [met die] twee vier kubus [aan] beide kant en [een] buigen poo eronder 
+B|7| B: [ja] inderdaad [ja] 
+A|8| A: achten 
+A|9| A: _dit zijn_ [die] [met [die] ruit] bovenop [die] [met] waar [een] ding doorheen [zitten] 
+B|10| B: [ja] 
+B|11| B: eens even kijken dat [zijn] j 
+A|12| A: [ja] vijf 
+B|13| B: deze hebben [de] halter 
+B|14| B: [ja] 
+B|15| B: [met] het krom poo [aan de] onderkant 
+B|16| B: dat [zijn] l 
+B|17| B: [dit zijn] [de] halter 
+B|18| B: [met] dat draaien vierkan 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : okee hier zitten heel veel ding aan vooral aan de bovenkant zitten een een ruitvorm met iets erdoorheen
+	Free: Pattern=een, Pattern=met, Pattern=zitten, Pattern=okee, Pattern=aan, Pattern=aan de bovenkant zitten
+	Constrained: Pattern=aan de, Pattern=zitten, Pattern=aan de bovenkant, Pattern=de, Pattern=aan
+Turn ID=1| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=2| B | B : ja okee
+	Free: Pattern=okee, Pattern=ja
+	Constrained: 
+Turn ID=3| B | B : dat zijn b ja dat zijn b
+	Free: Pattern=ja, Pattern=zijn
+	Constrained: 
+Turn ID=4| A | A : ja vijf
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=5| A | A : dit zijn die heel ingewikkelde met die ruit aan de bovenkant die doorboord zijn met een staaf
+	Free: Pattern=met die, Pattern=een, Pattern=die ruit, Pattern=met, Pattern=die, Pattern=aan de bovenkant, Pattern=zijn, Pattern=dit zijn
+	Constrained: Pattern=aan de, Pattern=met, Pattern=die, Pattern=zijn, Pattern=de, Pattern=aan
+Turn ID=6| B | B : deze hebben dat die ruit er aan de bovenkant zitten met die twee vier kubus aan beide kant en een buigen poo eronder
+	Free: Pattern=met die, Pattern=een, Pattern=die ruit, Pattern=aan, Pattern=aan de bovenkant zitten
+	Constrained: Pattern=aan de, Pattern=met, Pattern=aan de bovenkant, Pattern=de, Pattern=aan, Pattern=die, Pattern=zitten
+Turn ID=7| B | B : ja inderdaad ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=8| A | A : achten
+	Free: 
+	Constrained: 
+Turn ID=9| A | A : dit zijn die met die ruit bovenop die met waar een ding doorheen zitten
+	Free: Pattern=met die, Pattern=een, Pattern=die ruit, Pattern=met, Pattern=dit zijn, Pattern=die, Pattern=zitten
+	Constrained: Pattern=die, Pattern=zijn, Pattern=met
+Turn ID=10| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=11| B | B : eens even kijken dat zijn j
+	Free: Pattern=zijn
+	Constrained: 
+Turn ID=12| A | A : ja vijf
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=13| B | B : deze hebben de halter
+	Free: Pattern=de
+	Constrained: 
+Turn ID=14| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=15| B | B : met het krom poo aan de onderkant
+	Free: Pattern=aan de, Pattern=met
+	Constrained: Pattern=de, Pattern=aan
+Turn ID=16| B | B : dat zijn l
+	Free: Pattern=zijn
+	Constrained: 
+Turn ID=17| B | B : dit zijn de halter
+	Free: Pattern=dit zijn, Pattern=de
+	Constrained: Pattern=zijn
+Turn ID=18| B | B : met dat draaien vierkan
+	Free: Pattern=met
+	Constrained: 

@@ -1,0 +1,131 @@
+B|0| B: _ja_ _en_ aan _de_ _een_ kant _zitten een_ hoekje _en_ aan _de_ ander kant niet 
+B|1| B: _ja_ dan _zijn_ _dat_ D 
+A|2| A: oké 
+A|3| A: bekervormp 
+A|4| A: _er_ [zitten een] bal _op_ [de] bovenkant 
+A|5| A: je zien 
+A|6| A: [ja] kloppen 
+B|7| B: dit _zijn_ het kop _met_ die verticaal _balk voor_ het kop 
+B|8| B: _en_ weer _zo'n_ citroen [op] het kop 
+B|9| B: _en_ aan [de] linker _en_ [de] rechterkant steken _zo'n_ buis uit waarvan _één_ buigen _zijn_ aan _één_ kant 
+B|10| B: [ja] [ja] 
+A|11| A: _er_ [zitten een] bal [op] [en] _er_ [zitten een] [balk voor] 
+A|12| A: oké [ja] 
+A|13| A: _dat zijn_ vijftien 
+B|14| B: [ja] [dat zijn] L 
+B|15| B: bij deze [zitten] weer _zo'n_ citroen of ei erop 
+B|16| B: [en] die verticaal [balk] [er] eigenlijk tegenaan geplakt 
+B|17| B: [en] twee van die armp aan [de] zijkant 
+A|18| A: [er] [zitten een] bal [op] 
+A|19| A: [en] [een] balkje ervoor 
+B|20| B: [ja] [ja] [dat zijn] J 
+A|21| A: waar [de] bal [op] liggen 
+A|22| A: [ja] 
+A|23| A: [en] [zo'n] balkje ervoor 
+A|24| A: oké 
+A|25| A: [dat zijn] zes 
+B|26| B: bij deze zit weer [dat] ei erop 
+B|27| B: [en] die [balk] aan [de] voorkant [en] [de] armp aan [de] zijkant 
+A|28| A: [er] [zitten een] bal [op] [met] [een] staaf dun [balk] [balk] ervoor 
+A|29| A: [ja] oké [er] [zijn] maar [één] bal 
+A|30| A: [dat zijn] drie [de] [balk] toch ervoor 
+A|31| A: oké 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : ja en aan de een kant zitten een hoekje en aan de ander kant niet
+	Free: Pattern=een, Pattern=zitten een, Pattern=en, Pattern=de, Pattern=ja
+	Constrained: Pattern=een, Pattern=zitten
+Turn ID=1| B | B : ja dan zijn dat D
+	Free: Pattern=zijn, Pattern=ja, Pattern=dat
+	Constrained: 
+Turn ID=2| A | A : oké
+	Free: 
+	Constrained: 
+Turn ID=3| A | A : bekervormp
+	Free: 
+	Constrained: 
+Turn ID=4| A | A : er zitten een bal op de bovenkant
+	Free: Pattern=zitten een, Pattern=op, Pattern=er, Pattern=de
+	Constrained: Pattern=een, Pattern=zitten
+Turn ID=5| A | A : je zien
+	Free: 
+	Constrained: 
+Turn ID=6| A | A : ja kloppen
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=7| B | B : dit zijn het kop met die verticaal balk voor het kop
+	Free: Pattern=balk voor, Pattern=met, Pattern=zijn
+	Constrained: Pattern=balk
+Turn ID=8| B | B : en weer zo'n citroen op het kop
+	Free: Pattern=op, Pattern=en, Pattern=zo'n
+	Constrained: 
+Turn ID=9| B | B : en aan de linker en de rechterkant steken zo'n buis uit waarvan één buigen zijn aan één kant
+	Free: Pattern=zo'n, Pattern=de, Pattern=en, Pattern=zijn, Pattern=één
+	Constrained: 
+Turn ID=10| B | B : ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=11| A | A : er zitten een bal op en er zitten een balk voor
+	Free: Pattern=op, Pattern=er, Pattern=zitten een, Pattern=en, Pattern=balk voor
+	Constrained: Pattern=balk, Pattern=een, Pattern=zitten
+Turn ID=12| A | A : oké ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=13| A | A : dat zijn vijftien
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=14| B | B : ja dat zijn L
+	Free: Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=15| B | B : bij deze zitten weer zo'n citroen of ei erop
+	Free: Pattern=zo'n, Pattern=zitten
+	Constrained: 
+Turn ID=16| B | B : en die verticaal balk er eigenlijk tegenaan geplakt
+	Free: Pattern=balk, Pattern=er, Pattern=en
+	Constrained: 
+Turn ID=17| B | B : en twee van die armp aan de zijkant
+	Free: Pattern=en, Pattern=de
+	Constrained: 
+Turn ID=18| A | A : er zitten een bal op
+	Free: Pattern=zitten een, Pattern=op, Pattern=er
+	Constrained: Pattern=een, Pattern=zitten
+Turn ID=19| A | A : en een balkje ervoor
+	Free: Pattern=een, Pattern=en
+	Constrained: 
+Turn ID=20| B | B : ja ja dat zijn J
+	Free: Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=21| A | A : waar de bal op liggen
+	Free: Pattern=op, Pattern=de
+	Constrained: 
+Turn ID=22| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=23| A | A : en zo'n balkje ervoor
+	Free: Pattern=en, Pattern=zo'n
+	Constrained: 
+Turn ID=24| A | A : oké
+	Free: 
+	Constrained: 
+Turn ID=25| A | A : dat zijn zes
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=26| B | B : bij deze zit weer dat ei erop
+	Free: Pattern=dat
+	Constrained: 
+Turn ID=27| B | B : en die balk aan de voorkant en de armp aan de zijkant
+	Free: Pattern=balk, Pattern=en, Pattern=de
+	Constrained: 
+Turn ID=28| A | A : er zitten een bal op met een staaf dun balk balk ervoor
+	Free: Pattern=op, Pattern=een, Pattern=balk, Pattern=met, Pattern=er, Pattern=zitten een
+	Constrained: Pattern=een, Pattern=zitten
+Turn ID=29| A | A : ja oké er zijn maar één bal
+	Free: Pattern=zijn, Pattern=er, Pattern=ja, Pattern=één
+	Constrained: 
+Turn ID=30| A | A : dat zijn drie de balk toch ervoor
+	Free: Pattern=dat zijn, Pattern=balk, Pattern=de
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=31| A | A : oké
+	Free: 
+	Constrained: 

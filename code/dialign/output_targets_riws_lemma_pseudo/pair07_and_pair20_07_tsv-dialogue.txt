@@ -1,0 +1,87 @@
+A|0| A: _ja_ negen 
+A|1| A: _deze_ hebben _dat_ _dat_ vierkant _erdoorheen met_ _die_ _twee poo_ 
+B|2| B: eens even kijken horen [deze] _zijn_ weer wat abstracter 
+B|3| B: want hier aan _de_ bovenkant van _het_ kop gaan er weer een soort vlak doorheen 
+B|4| B: waar [twee poo] aan zitten 
+B|5| B: en aan _de_ achterkant zitten er een een soort staar aan 
+B|6| B: en een soort trapeziumfiguur staan erop 
+B|7| B: [ja] 
+A|8| A: [ja] 
+A|9| A: vijf 
+B|10| B: [ja] okee [dat] _zijn_ I 
+A|11| A: _dit zijn_ _die_ _met_ [het] vierkant _met_ _die_ [poo] 
+A|12| A: _erdoorheen_ 
+A|13| A: _met de poo_ 
+A|14| A: vijf 
+B|15| B: [deze] heef [het] vlak [erdoorheen [met] de] [twee poo] en [het] trapezium erbovenop 
+A|16| A: _dit zijn_ [het] _tafel met_ [poo] 
+B|17| B: [ja] eens even kijken waar staan [die] 
+B|18| B: [dat] [zijn] f 
+B|19| B: [dit zijn] [de] [de] [tafel [met] de poo] en [het] trapezium 
+B|20| B: [ja] [dat] [zijn] m 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : ja negen
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=1| A | A : deze hebben dat dat vierkant erdoorheen met die twee poo
+	Free: Pattern=dat, Pattern=erdoorheen met, Pattern=die, Pattern=deze, Pattern=twee poo
+	Constrained: Pattern=poo, Pattern=erdoorheen, Pattern=met
+Turn ID=2| B | B : eens even kijken horen deze zijn weer wat abstracter
+	Free: Pattern=deze, Pattern=zijn
+	Constrained: 
+Turn ID=3| B | B : want hier aan de bovenkant van het kop gaan er weer een soort vlak doorheen
+	Free: Pattern=de, Pattern=het
+	Constrained: 
+Turn ID=4| B | B : waar twee poo aan zitten
+	Free: Pattern=twee poo
+	Constrained: Pattern=poo
+Turn ID=5| B | B : en aan de achterkant zitten er een een soort staar aan
+	Free: Pattern=de
+	Constrained: 
+Turn ID=6| B | B : en een soort trapeziumfiguur staan erop
+	Free: 
+	Constrained: 
+Turn ID=7| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=8| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=9| A | A : vijf
+	Free: 
+	Constrained: 
+Turn ID=10| B | B : ja okee dat zijn I
+	Free: Pattern=ja, Pattern=zijn, Pattern=dat
+	Constrained: 
+Turn ID=11| A | A : dit zijn die met het vierkant met die poo
+	Free: Pattern=poo, Pattern=het, Pattern=met, Pattern=die, Pattern=dit zijn
+	Constrained: Pattern=zijn
+Turn ID=12| A | A : erdoorheen
+	Free: Pattern=erdoorheen
+	Constrained: 
+Turn ID=13| A | A : met de poo
+	Free: Pattern=met de poo
+	Constrained: Pattern=de, Pattern=met, Pattern=poo, Pattern=met de
+Turn ID=14| A | A : vijf
+	Free: 
+	Constrained: 
+Turn ID=15| B | B : deze heef het vlak erdoorheen met de twee poo en het trapezium erbovenop
+	Free: Pattern=erdoorheen met, Pattern=met de, Pattern=het, Pattern=deze, Pattern=twee poo
+	Constrained: Pattern=poo, Pattern=erdoorheen, Pattern=de, Pattern=met
+Turn ID=16| A | A : dit zijn het tafel met poo
+	Free: Pattern=dit zijn, Pattern=tafel met, Pattern=poo, Pattern=het
+	Constrained: Pattern=zijn, Pattern=met
+Turn ID=17| B | B : ja eens even kijken waar staan die
+	Free: Pattern=ja, Pattern=die
+	Constrained: 
+Turn ID=18| B | B : dat zijn f
+	Free: Pattern=zijn, Pattern=dat
+	Constrained: 
+Turn ID=19| B | B : dit zijn de de tafel met de poo en het trapezium
+	Free: Pattern=tafel met, Pattern=de, Pattern=het, Pattern=dit zijn, Pattern=met de poo
+	Constrained: Pattern=met, Pattern=zijn, Pattern=de, Pattern=met de, Pattern=poo
+Turn ID=20| B | B : ja dat zijn m
+	Free: Pattern=ja, Pattern=zijn, Pattern=dat
+	Constrained: 

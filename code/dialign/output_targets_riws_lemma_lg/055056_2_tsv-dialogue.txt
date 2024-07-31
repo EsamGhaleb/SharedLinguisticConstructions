@@ -1,0 +1,151 @@
+A|0| A: zo 
+A|1| A: dan hebben ik _de_ koffiemok _met een_ piramidedriehoekachtig _aan de_ bovenkant 
+A|2| A: _en_ _aan de voorkant_ zitten _een_ flink _blok wat_ _aan de_ _een_ kant _wat_ schuin lopen twee kant misschien 
+B|3| B: _ja_ 
+A|4| A: _aan de_ onderkant zitten _een_ link _een_ _wat_ _rond_ vorm 
+A|5| A: _en_ er zitten _nog een_ _uitsteeksel_ link halverwege 
+B|6| B: _ja_ 
+B|7| B: _dat zijn_ duidelijk 
+B|8| B: _dat zijn_ letter J 
+A|9| A: [ja] 
+B|10| B: het koffiekopje [met een] [een] soort omgekeerde trechter in ieder geval [een] [een] _punthoofd_ 
+B|11| B: [een] bijzonder soort [blok wat] van breed naar smal uitloopen als _zijn_ [een] neus 
+B|12| B: [aan de] linkerkant [nog een] klein stekelt als [uitsteeksel] 
+B|13| B: [en] daaronder [een] cirkel [een] [rond] 
+A|14| A: [ja] 
+A|15| A: oké 
+A|16| A: [dat zijn] nummer zes 
+A|17| A: [punthoofd] 
+A|18| A: _raar blok_ _aan de voorkant_ 
+B|19| B: [ja] [met] zo'n [raar blok] 
+B|20| B: [ja] 
+A|21| A: [ja] 
+B|22| B: [dat zijn] letter E 
+A|23| A: oké 
+B|24| B: Punthoofd Blok [aan de voorkant] 
+B|25| B: [een] cirkel onder 
+A|26| A: [ja] 
+A|27| A: nummer tien 
+A|28| A: [punthoofd] 
+B|29| B: [ja] 
+B|30| B: [met] die [raar] blokneus 
+A|31| A: [ja] 
+B|32| B: [ja] 
+B|33| B: letter G 
+B|34| B: het [punthoofd] [met] [de] blokneus 
+A|35| A: [ja] 
+A|36| A: nummer tien 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : zo
+	Free: 
+	Constrained: 
+Turn ID=1| A | A : dan hebben ik de koffiemok met een piramidedriehoekachtig aan de bovenkant
+	Free: Pattern=met een, Pattern=aan de, Pattern=de
+	Constrained: Pattern=met, Pattern=een, Pattern=de
+Turn ID=2| A | A : en aan de voorkant zitten een flink blok wat aan de een kant wat schuin lopen twee kant misschien
+	Free: Pattern=aan de, Pattern=een, Pattern=wat, Pattern=en, Pattern=aan de voorkant, Pattern=blok wat
+	Constrained: Pattern=de, Pattern=wat, Pattern=aan de
+Turn ID=3| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=4| A | A : aan de onderkant zitten een link een wat rond vorm
+	Free: Pattern=aan de, Pattern=rond, Pattern=een, Pattern=wat
+	Constrained: Pattern=de
+Turn ID=5| A | A : en er zitten nog een uitsteeksel link halverwege
+	Free: Pattern=nog een, Pattern=uitsteeksel, Pattern=en
+	Constrained: Pattern=een
+Turn ID=6| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=7| B | B : dat zijn duidelijk
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn
+Turn ID=8| B | B : dat zijn letter J
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn
+Turn ID=9| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=10| B | B : het koffiekopje met een een soort omgekeerde trechter in ieder geval een een punthoofd
+	Free: Pattern=met een, Pattern=punthoofd, Pattern=een
+	Constrained: Pattern=met, Pattern=een
+Turn ID=11| B | B : een bijzonder soort blok wat van breed naar smal uitloopen als zijn een neus
+	Free: Pattern=blok wat, Pattern=zijn, Pattern=een
+	Constrained: Pattern=wat
+Turn ID=12| B | B : aan de linkerkant nog een klein stekelt als uitsteeksel
+	Free: Pattern=nog een, Pattern=aan de, Pattern=uitsteeksel
+	Constrained: Pattern=een, Pattern=de
+Turn ID=13| B | B : en daaronder een cirkel een rond
+	Free: Pattern=rond, Pattern=een, Pattern=en
+	Constrained: 
+Turn ID=14| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=15| A | A : oké
+	Free: 
+	Constrained: 
+Turn ID=16| A | A : dat zijn nummer zes
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn
+Turn ID=17| A | A : punthoofd
+	Free: Pattern=punthoofd
+	Constrained: 
+Turn ID=18| A | A : raar blok aan de voorkant
+	Free: Pattern=aan de voorkant, Pattern=raar blok
+	Constrained: Pattern=raar, Pattern=de, Pattern=aan de
+Turn ID=19| B | B : ja met zo'n raar blok
+	Free: Pattern=raar blok, Pattern=met, Pattern=ja
+	Constrained: Pattern=raar
+Turn ID=20| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=21| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=22| B | B : dat zijn letter E
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn
+Turn ID=23| A | A : oké
+	Free: 
+	Constrained: 
+Turn ID=24| B | B : Punthoofd Blok aan de voorkant
+	Free: Pattern=aan de voorkant
+	Constrained: Pattern=aan de, Pattern=de
+Turn ID=25| B | B : een cirkel onder
+	Free: Pattern=een
+	Constrained: 
+Turn ID=26| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=27| A | A : nummer tien
+	Free: 
+	Constrained: 
+Turn ID=28| A | A : punthoofd
+	Free: Pattern=punthoofd
+	Constrained: 
+Turn ID=29| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=30| B | B : met die raar blokneus
+	Free: Pattern=met, Pattern=raar
+	Constrained: 
+Turn ID=31| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=32| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=33| B | B : letter G
+	Free: 
+	Constrained: 
+Turn ID=34| B | B : het punthoofd met de blokneus
+	Free: Pattern=met, Pattern=punthoofd, Pattern=de
+	Constrained: 
+Turn ID=35| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=36| A | A : nummer tien
+	Free: 
+	Constrained: 

@@ -1,0 +1,131 @@
+A|0| A: _ja_ 
+A|1| A: driehoekding 
+A|2| A: _ja_ 
+A|3| A: _ja_ _dat zijn_ bij mij nummer drie 
+B|4| B: ah 
+B|5| B: nou [ja] van al _ander_ kop zeggen maar er [zijn] er niet zo veel _die_ staan _op_ een soort van plateautje 
+B|6| B: _en_ _deze_ _die_ staan _op_ een soort van driehoekplateau _met_ een twist omhoog 
+B|7| B: een soort wokkel inderdaad 
+B|8| B: een blok [ja] een blok 
+B|9| B: zitten er rechts één _en_ er zitten er één in denken ik 
+B|10| B: _en nog_ een _ander_ uitsteeksel 
+B|11| B: ik denken [dat] je hem wel weten 
+A|12| A: [deze] staat [op] [die] draaien pilaar [op] de _driehoek_ 
+A|13| A: [met] de twee vierkant erbovenop 
+A|14| A: [en nog] zo'n [ander] ding 
+B|15| B: [ja] 
+B|16| B: een wokkel omhoog [ja] 
+B|17| B: ik [ja] ik gaan voor d 
+A|18| A: [ja] 
+A|19| A: _dat zijn_ elf 
+A|20| A: _dit zijn_ _die op_ [die] draaien pilaar [op] de _driehoek_ 
+A|21| A: [ja] _dat zijn_ vier 
+A|22| A: _dit zijn_ [met] [die] draaien stok [op] de _driehoek_ 
+B|23| B: nou [dit zijn] diegene [die op] een twisterpoo staan 
+B|24| B: een driehoekig 
+B|25| B: [ja] 
+B|26| B: yes 
+B|27| B: [dat zijn] o 
+B|28| B: het [zijn] grappig hoe [dit] werken vinden ik wel 
+B|29| B: twisterkop [met] [driehoek] beneden 
+B|30| B: [ja] 
+B|31| B: [dat zijn] k 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=1| A | A : driehoekding
+	Free: 
+	Constrained: 
+Turn ID=2| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=3| A | A : ja dat zijn bij mij nummer drie
+	Free: Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=4| B | B : ah
+	Free: 
+	Constrained: 
+Turn ID=5| B | B : nou ja van al ander kop zeggen maar er zijn er niet zo veel die staan op een soort van plateautje
+	Free: Pattern=ja, Pattern=op, Pattern=die, Pattern=ander, Pattern=zijn
+	Constrained: 
+Turn ID=6| B | B : en deze die staan op een soort van driehoekplateau met een twist omhoog
+	Free: Pattern=op, Pattern=met, Pattern=die, Pattern=en, Pattern=deze
+	Constrained: 
+Turn ID=7| B | B : een soort wokkel inderdaad
+	Free: 
+	Constrained: 
+Turn ID=8| B | B : een blok ja een blok
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=9| B | B : zitten er rechts één en er zitten er één in denken ik
+	Free: Pattern=en
+	Constrained: 
+Turn ID=10| B | B : en nog een ander uitsteeksel
+	Free: Pattern=en nog, Pattern=ander
+	Constrained: Pattern=en
+Turn ID=11| B | B : ik denken dat je hem wel weten
+	Free: Pattern=dat
+	Constrained: 
+Turn ID=12| A | A : deze staat op die draaien pilaar op de driehoek
+	Free: Pattern=die, Pattern=driehoek, Pattern=op, Pattern=deze
+	Constrained: 
+Turn ID=13| A | A : met de twee vierkant erbovenop
+	Free: Pattern=met
+	Constrained: 
+Turn ID=14| A | A : en nog zo'n ander ding
+	Free: Pattern=en nog, Pattern=ander
+	Constrained: Pattern=en
+Turn ID=15| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=16| B | B : een wokkel omhoog ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=17| B | B : ik ja ik gaan voor d
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=18| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=19| A | A : dat zijn elf
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=20| A | A : dit zijn die op die draaien pilaar op de driehoek
+	Free: Pattern=driehoek, Pattern=op, Pattern=die, Pattern=die op, Pattern=dit zijn
+	Constrained: Pattern=die, Pattern=dit, Pattern=zijn, Pattern=op
+Turn ID=21| A | A : ja dat zijn vier
+	Free: Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=22| A | A : dit zijn met die draaien stok op de driehoek
+	Free: Pattern=driehoek, Pattern=op, Pattern=met, Pattern=die, Pattern=dit zijn
+	Constrained: Pattern=dit, Pattern=zijn
+Turn ID=23| B | B : nou dit zijn diegene die op een twisterpoo staan
+	Free: Pattern=die op, Pattern=dit zijn
+	Constrained: Pattern=die, Pattern=dit, Pattern=zijn, Pattern=op
+Turn ID=24| B | B : een driehoekig
+	Free: 
+	Constrained: 
+Turn ID=25| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=26| B | B : yes
+	Free: 
+	Constrained: 
+Turn ID=27| B | B : dat zijn o
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=28| B | B : het zijn grappig hoe dit werken vinden ik wel
+	Free: Pattern=dit, Pattern=zijn
+	Constrained: 
+Turn ID=29| B | B : twisterkop met driehoek beneden
+	Free: Pattern=driehoek, Pattern=met
+	Constrained: 
+Turn ID=30| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=31| B | B : dat zijn k
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn

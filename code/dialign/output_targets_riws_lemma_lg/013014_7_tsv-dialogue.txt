@@ -1,0 +1,111 @@
+B|0| B: _oké_ _ik_ noemen _het_ zelf _het_ _kop_ _met een_ schap en _het bak_ 
+B|1| B: er _zijn_ één er _zijn_ één _kop_ _waar_ _een_ soort _tafel_ aan vasthangen 
+A|2| A: _ja_ [ik] hebben hem 
+A|3| A: _ja_ 
+B|4| B: en er staan _een_ _kop_ op 
+A|5| A: _ja_ _ja dat zijn_ zestien 
+A|6| A: _ja_ _het zijn_ [een] mok [met een] _tafel [met_ een] beker erop 
+A|7| A: dus _het tafel_ erop 
+B|8| B: [ja dat] _bak_ 
+A|9| A: [ja] 
+B|10| B: [ja] 
+B|11| B: _oké_ [dat zijn] P 
+A|12| A: [ja] 
+B|13| B: prima 
+B|14| B: [het _zijn] dat_ [tafel] _waar_ _het bak_ op staan 
+A|15| A: [ja] 
+A|16| A: [ja] die [zijn [dat] zijn] elf 
+A|17| A: [oké] _tafel met_ mokje of [kop] bakje erop 
+B|18| B: [ja dat zijn] N 
+B|19| B: dit [zijn] [het _tafel] met het bak_ 
+A|20| A: [ja] 
+A|21| A: [tafel met] bakje [waar] [zijn] die nou 
+A|22| A: [ja] 
+A|23| A: [dat zijn] tien 
+A|24| A: [oké] 
+A|25| A: [tafel met het bak] [kop] mokje erop 
+B|26| B: [ja dat zijn] D 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : oké ik noemen het zelf het kop met een schap en het bak
+	Free: Pattern=kop, Pattern=oké, Pattern=met een, Pattern=ik, Pattern=het, Pattern=het bak
+	Constrained: Pattern=bak, Pattern=een, Pattern=het
+Turn ID=1| B | B : er zijn één er zijn één kop waar een soort tafel aan vasthangen
+	Free: Pattern=waar, Pattern=een, Pattern=kop, Pattern=tafel, Pattern=zijn
+	Constrained: 
+Turn ID=2| A | A : ja ik hebben hem
+	Free: Pattern=ik, Pattern=ja
+	Constrained: 
+Turn ID=3| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=4| B | B : en er staan een kop op
+	Free: Pattern=een, Pattern=kop
+	Constrained: 
+Turn ID=5| A | A : ja ja dat zijn zestien
+	Free: Pattern=ja dat zijn, Pattern=ja
+	Constrained: Pattern=ja dat, Pattern=zijn, Pattern=dat zijn, Pattern=ja
+Turn ID=6| A | A : ja het zijn een mok met een tafel met een beker erop
+	Free: Pattern=tafel met, Pattern=ja, Pattern=een, Pattern=het zijn, Pattern=met een
+	Constrained: Pattern=tafel, Pattern=een, Pattern=zijn, Pattern=het
+Turn ID=7| A | A : dus het tafel erop
+	Free: Pattern=het tafel
+	Constrained: Pattern=tafel, Pattern=het
+Turn ID=8| B | B : ja dat bak
+	Free: Pattern=ja dat, Pattern=bak
+	Constrained: Pattern=ja
+Turn ID=9| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=10| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=11| B | B : oké dat zijn P
+	Free: Pattern=dat zijn, Pattern=oké
+	Constrained: Pattern=zijn
+Turn ID=12| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=13| B | B : prima
+	Free: 
+	Constrained: 
+Turn ID=14| B | B : het zijn dat tafel waar het bak op staan
+	Free: Pattern=waar, Pattern=het bak, Pattern=zijn dat, Pattern=tafel, Pattern=het zijn
+	Constrained: Pattern=bak, Pattern=het, Pattern=zijn
+Turn ID=15| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=16| A | A : ja die zijn dat zijn elf
+	Free: Pattern=zijn dat, Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=zijn
+Turn ID=17| A | A : oké tafel met mokje of kop bakje erop
+	Free: Pattern=tafel met, Pattern=kop, Pattern=oké
+	Constrained: Pattern=tafel
+Turn ID=18| B | B : ja dat zijn N
+	Free: Pattern=ja dat zijn
+	Constrained: Pattern=ja dat, Pattern=zijn, Pattern=dat zijn, Pattern=ja
+Turn ID=19| B | B : dit zijn het tafel met het bak
+	Free: Pattern=tafel met het bak, Pattern=het tafel, Pattern=zijn
+	Constrained: Pattern=tafel met, Pattern=tafel, Pattern=bak, Pattern=het, Pattern=het bak
+Turn ID=20| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=21| A | A : tafel met bakje waar zijn die nou
+	Free: Pattern=tafel met, Pattern=zijn, Pattern=waar
+	Constrained: Pattern=tafel
+Turn ID=22| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=23| A | A : dat zijn tien
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn
+Turn ID=24| A | A : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=25| A | A : tafel met het bak kop mokje erop
+	Free: Pattern=tafel met het bak, Pattern=kop
+	Constrained: Pattern=tafel met, Pattern=tafel, Pattern=bak, Pattern=het, Pattern=het bak
+Turn ID=26| B | B : ja dat zijn D
+	Free: Pattern=ja dat zijn
+	Constrained: Pattern=ja dat, Pattern=zijn, Pattern=dat zijn, Pattern=ja

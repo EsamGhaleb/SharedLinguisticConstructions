@@ -1,0 +1,143 @@
+B|0| B: _oké_ dit _zijn_ _weer_ _een_ gezicht 
+B|1| B: _met_ zo'n _een_ eineus 
+A|2| A: _ja_ 
+B|3| B: _en_ maar _nu_ _hebben die_ twee spriet _en de_ _een_ _zijn_ _een_ rechthoek _en de_ ander één of ander gek _ding_ 
+A|4| A: _ja dat_ [hebben] _ik_ als _een vulpen_ omschrijven _ja_ 
+B|5| B: [een vulpen] 
+B|6| B: [ja] 
+A|7| A: _ik hebben_ _het_ 
+B|8| B: _oké_ _en_ _hij_ [hebben] [een] ooriet 
+A|9| A: [ja] [ja] _ik_ zien hem 
+A|10| A: _ja dat zijn_ veertien 
+A|11| A: _vulp_ 
+A|12| A: _ik hebben_ [nu] [weer] [die] _vulp_ 
+A|13| A: [en] _dat_ ei neus [ding] 
+B|14| B: [ja] [die] 
+A|15| A: [ja] 
+B|16| B: [ja] 
+B|17| B: _oké dat zijn_ N 
+B|18| B: _oké_ _ik hebben die met_ [het] _Eineus_ 
+A|19| A: [ja] 
+B|20| B: _en de_ balk op [zijn] hoofd _en de_ [vulp] 
+A|21| A: [ja] wachten even zoeken hoor waar [die] [zijn] 
+A|22| A: [ja] wachten [hij] zitten bij mij linksboven [ja] 
+A|23| A: _ja dat zijn_ negen 
+A|24| A: [ik hebben die] [vulp] [en] [dat] [Eineus] 
+B|25| B: [ja] 
+B|26| B: [ja dat zijn] G 
+B|27| B: _oké_ [ik hebben] _de_ [vulp] 
+A|28| A: [ja] 
+A|29| A: [oké dat zijn] nummer vijf 
+A|30| A: [ik hebben die met] [die] [vulp] 
+A|31| A: [en de] [Eineus] 
+B|32| B: [ja] 
+B|33| B: [ja] 
+B|34| B: [dat zijn] J 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : oké dit zijn weer een gezicht
+	Free: Pattern=zijn, Pattern=weer, Pattern=oké, Pattern=een
+	Constrained: 
+Turn ID=1| B | B : met zo'n een eineus
+	Free: Pattern=met, Pattern=een
+	Constrained: 
+Turn ID=2| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=3| B | B : en maar nu hebben die twee spriet en de een zijn een rechthoek en de ander één of ander gek ding
+	Free: Pattern=ding, Pattern=een, Pattern=en, Pattern=zijn, Pattern=hebben die, Pattern=en de, Pattern=nu
+	Constrained: Pattern=en, Pattern=de, Pattern=hebben, Pattern=die
+Turn ID=4| A | A : ja dat hebben ik als een vulpen omschrijven ja
+	Free: Pattern=ja, Pattern=hebben, Pattern=een vulpen, Pattern=ik, Pattern=ja dat
+	Constrained: Pattern=ja, Pattern=dat, Pattern=een
+Turn ID=5| B | B : een vulpen
+	Free: Pattern=een vulpen
+	Constrained: Pattern=een
+Turn ID=6| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=7| A | A : ik hebben het
+	Free: Pattern=ik hebben, Pattern=het
+	Constrained: Pattern=hebben, Pattern=ik
+Turn ID=8| B | B : oké en hij hebben een ooriet
+	Free: Pattern=een, Pattern=hebben, Pattern=hij, Pattern=oké, Pattern=en
+	Constrained: 
+Turn ID=9| A | A : ja ja ik zien hem
+	Free: Pattern=ja, Pattern=ik
+	Constrained: 
+Turn ID=10| A | A : ja dat zijn veertien
+	Free: Pattern=ja dat zijn
+	Constrained: Pattern=ja, Pattern=zijn, Pattern=ja dat, Pattern=dat, Pattern=dat zijn
+Turn ID=11| A | A : vulp
+	Free: Pattern=vulp
+	Constrained: 
+Turn ID=12| A | A : ik hebben nu weer die vulp
+	Free: Pattern=ik hebben, Pattern=vulp, Pattern=nu, Pattern=die, Pattern=weer
+	Constrained: Pattern=hebben, Pattern=ik
+Turn ID=13| A | A : en dat ei neus ding
+	Free: Pattern=en, Pattern=dat, Pattern=ding
+	Constrained: 
+Turn ID=14| B | B : ja die
+	Free: Pattern=ja, Pattern=die
+	Constrained: 
+Turn ID=15| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=16| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=17| B | B : oké dat zijn N
+	Free: Pattern=oké dat zijn
+	Constrained: Pattern=dat zijn, Pattern=zijn, Pattern=oké, Pattern=dat
+Turn ID=18| B | B : oké ik hebben die met het Eineus
+	Free: Pattern=ik hebben die met, Pattern=oké, Pattern=het, Pattern=Eineus
+	Constrained: Pattern=ik hebben, Pattern=hebben, Pattern=met, Pattern=die, Pattern=hebben die, Pattern=ik hebben die, Pattern=ik
+Turn ID=19| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=20| B | B : en de balk op zijn hoofd en de vulp
+	Free: Pattern=en de, Pattern=zijn, Pattern=vulp
+	Constrained: Pattern=en, Pattern=de
+Turn ID=21| A | A : ja wachten even zoeken hoor waar die zijn
+	Free: Pattern=zijn, Pattern=ja, Pattern=die
+	Constrained: 
+Turn ID=22| A | A : ja wachten hij zitten bij mij linksboven ja
+	Free: Pattern=ja, Pattern=hij
+	Constrained: 
+Turn ID=23| A | A : ja dat zijn negen
+	Free: Pattern=ja dat zijn
+	Constrained: Pattern=ja, Pattern=zijn, Pattern=ja dat, Pattern=dat, Pattern=dat zijn
+Turn ID=24| A | A : ik hebben die vulp en dat Eineus
+	Free: Pattern=dat, Pattern=vulp, Pattern=Eineus, Pattern=ik hebben die, Pattern=en
+	Constrained: Pattern=ik hebben, Pattern=hebben, Pattern=die, Pattern=ik, Pattern=hebben die
+Turn ID=25| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=26| B | B : ja dat zijn G
+	Free: Pattern=ja dat zijn
+	Constrained: Pattern=ja, Pattern=zijn, Pattern=ja dat, Pattern=dat, Pattern=dat zijn
+Turn ID=27| B | B : oké ik hebben de vulp
+	Free: Pattern=ik hebben, Pattern=vulp, Pattern=oké, Pattern=de
+	Constrained: Pattern=hebben, Pattern=ik
+Turn ID=28| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=29| A | A : oké dat zijn nummer vijf
+	Free: Pattern=oké dat zijn
+	Constrained: Pattern=dat zijn, Pattern=zijn, Pattern=oké, Pattern=dat
+Turn ID=30| A | A : ik hebben die met die vulp
+	Free: Pattern=ik hebben die met, Pattern=vulp, Pattern=die
+	Constrained: Pattern=ik hebben, Pattern=hebben, Pattern=met, Pattern=die, Pattern=hebben die, Pattern=ik hebben die, Pattern=ik
+Turn ID=31| A | A : en de Eineus
+	Free: Pattern=en de, Pattern=Eineus
+	Constrained: Pattern=en, Pattern=de
+Turn ID=32| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=33| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=34| B | B : dat zijn J
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn, Pattern=dat

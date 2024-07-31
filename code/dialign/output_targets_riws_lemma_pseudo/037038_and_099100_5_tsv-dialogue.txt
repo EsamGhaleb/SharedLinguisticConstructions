@@ -1,0 +1,155 @@
+A|0| A: _even kijken_ horen 
+A|1| A: _ja_ _ja_ _ja_ 
+A|2| A: _ja_ ik weten welk _het_ _zijn_ 
+A|3| A: _en_ _dan_ _aan de zijkant_ _hebben_ die zo'n _soort_ _soort_ mouwtje _of_ zo _lijken_ _het_ wel 
+A|4| A: _oké_ 
+A|5| A: nummer achten 
+B|6| B: deze [hebben] _een_ _een_ [soort] _balkje_ op op [zijn] hoofd 
+B|7| B: [en] er zitten [aan de zijkant] [ja] [het] [lijken] _een_ beetje op _een_ [soort] espressoapparaat 
+B|8| B: [soort] tuu _waar_ iets uit kunnen komen 
+B|9| B: [en] [aan de zijkant] zitten nog _een_ [soort] armpje _met_ _een_ staafje omhoog 
+B|10| B: [oké] 
+B|11| B: [ja] 
+B|12| B: [ja] 
+B|13| B: [ja] 
+B|14| B: [ja] 
+B|15| B: [ja] 
+A|16| A: _dit zijn_ _dat_ ding _met dat_ enig recht [balkje] zo bovenop 
+A|17| A: [en] _dan_ die 
+A|18| A: _ja met het_ mouw [ja] 
+A|19| A: [ja] 
+A|20| A: nummer één 
+B|21| B: [ja] 
+B|22| B: [even kijken] 
+B|23| B: [zijn] [het] _een_ hanenkam [of] [met dat] balk 
+A|24| A: _dit zijn_ [dat] [een] ding [met dat] recht [balkje] bovenop [en] die mouwt 
+B|25| B: [ja met het] balk 
+B|26| B: [dan] [zijn] [het] E 
+A|27| A: [ja] 
+A|28| A: [even kijken] [waar] die [zijn] 
+A|29| A: nummer zestien 
+B|30| B: [dit zijn] weer [dat] espressoapparaat _met dat balkje_ op [zijn] kop 
+A|31| A: [dat] ding [met dat balkje] erop 
+A|32| A: als enig [dat] plat [balkje] [en] die mouwt 
+B|33| B: [ja] 
+B|34| B: [dat] [zijn] E 
+B|35| B: [dit zijn] weer [dat] espressoapparaat 
+B|36| B: [oké] 
+B|37| B: [dat] [zijn] O 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : even kijken horen
+	Free: Pattern=even kijken
+	Constrained: 
+Turn ID=1| A | A : ja ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=2| A | A : ja ik weten welk het zijn
+	Free: Pattern=ja, Pattern=het, Pattern=zijn
+	Constrained: 
+Turn ID=3| A | A : en dan aan de zijkant hebben die zo'n soort soort mouwtje of zo lijken het wel
+	Free: Pattern=of, Pattern=soort, Pattern=aan de zijkant, Pattern=het, Pattern=hebben, Pattern=en, Pattern=lijken, Pattern=dan
+	Constrained: 
+Turn ID=4| A | A : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=5| A | A : nummer achten
+	Free: 
+	Constrained: 
+Turn ID=6| B | B : deze hebben een een soort balkje op op zijn hoofd
+	Free: Pattern=soort, Pattern=een, Pattern=balkje, Pattern=hebben, Pattern=zijn
+	Constrained: 
+Turn ID=7| B | B : en er zitten aan de zijkant ja het lijken een beetje op een soort espressoapparaat
+	Free: Pattern=soort, Pattern=ja, Pattern=lijken, Pattern=het, Pattern=en, Pattern=een, Pattern=aan de zijkant
+	Constrained: 
+Turn ID=8| B | B : soort tuu waar iets uit kunnen komen
+	Free: Pattern=soort, Pattern=waar
+	Constrained: 
+Turn ID=9| B | B : en aan de zijkant zitten nog een soort armpje met een staafje omhoog
+	Free: Pattern=soort, Pattern=met, Pattern=en, Pattern=een, Pattern=aan de zijkant
+	Constrained: 
+Turn ID=10| B | B : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=11| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=12| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=13| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=14| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=15| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=16| A | A : dit zijn dat ding met dat enig recht balkje zo bovenop
+	Free: Pattern=met dat, Pattern=dit zijn, Pattern=balkje, Pattern=dat
+	Constrained: Pattern=dat, Pattern=met, Pattern=zijn
+Turn ID=17| A | A : en dan die
+	Free: Pattern=en, Pattern=dan
+	Constrained: 
+Turn ID=18| A | A : ja met het mouw ja
+	Free: Pattern=ja met het, Pattern=ja
+	Constrained: Pattern=ja, Pattern=het, Pattern=met
+Turn ID=19| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=20| A | A : nummer één
+	Free: 
+	Constrained: 
+Turn ID=21| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=22| B | B : even kijken
+	Free: Pattern=even kijken
+	Constrained: 
+Turn ID=23| B | B : zijn het een hanenkam of met dat balk
+	Free: Pattern=of, Pattern=een, Pattern=het, Pattern=met dat, Pattern=zijn
+	Constrained: Pattern=dat, Pattern=met
+Turn ID=24| A | A : dit zijn dat een ding met dat recht balkje bovenop en die mouwt
+	Free: Pattern=dat, Pattern=een, Pattern=balkje, Pattern=met dat, Pattern=en, Pattern=dit zijn
+	Constrained: Pattern=dat, Pattern=met, Pattern=zijn
+Turn ID=25| B | B : ja met het balk
+	Free: Pattern=ja met het
+	Constrained: Pattern=ja, Pattern=het, Pattern=met
+Turn ID=26| B | B : dan zijn het E
+	Free: Pattern=dan, Pattern=het, Pattern=zijn
+	Constrained: 
+Turn ID=27| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=28| A | A : even kijken waar die zijn
+	Free: Pattern=even kijken, Pattern=waar, Pattern=zijn
+	Constrained: 
+Turn ID=29| A | A : nummer zestien
+	Free: 
+	Constrained: 
+Turn ID=30| B | B : dit zijn weer dat espressoapparaat met dat balkje op zijn kop
+	Free: Pattern=met dat balkje, Pattern=dit zijn, Pattern=dat, Pattern=zijn
+	Constrained: Pattern=dat, Pattern=balkje, Pattern=met dat, Pattern=met, Pattern=zijn
+Turn ID=31| A | A : dat ding met dat balkje erop
+	Free: Pattern=met dat balkje, Pattern=dat
+	Constrained: Pattern=dat, Pattern=balkje, Pattern=met, Pattern=met dat
+Turn ID=32| A | A : als enig dat plat balkje en die mouwt
+	Free: Pattern=en, Pattern=balkje, Pattern=dat
+	Constrained: 
+Turn ID=33| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=34| B | B : dat zijn E
+	Free: Pattern=dat, Pattern=zijn
+	Constrained: 
+Turn ID=35| B | B : dit zijn weer dat espressoapparaat
+	Free: Pattern=dit zijn, Pattern=dat
+	Constrained: Pattern=zijn
+Turn ID=36| B | B : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=37| B | B : dat zijn O
+	Free: Pattern=dat, Pattern=zijn
+	Constrained: 

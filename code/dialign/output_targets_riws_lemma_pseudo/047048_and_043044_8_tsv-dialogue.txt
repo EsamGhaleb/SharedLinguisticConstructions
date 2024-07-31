@@ -1,0 +1,151 @@
+A|0| A: _dit_ vinden _ik_ _de_ heel tijd _een_ kraan _ik_ weten niet er zitten _een_ je _hebben_ _zeggen_ maar _een_ driehoek _bovenop_ _en dan_ _hebben_ je _twee van die_ ding eraan 
+A|1| A: _het_ _zijn_ _met de_ allermeeste uitsteeksel _die_ je kunnen vinden 
+A|2| A: _de_ allerdruk 
+A|3| A: _ja_ _met_ _een_ ruitje _en dan_ zitten daar _van die_ _twee_ 
+A|4| A: _ja_ _en dan_ zo weer _van die_ _van die_ uitlaat _en_ nog één _als_ _voorkant_ 
+A|5| A: _ja_ 
+B|6| B: pion 
+B|7| B: wachten _even_ 
+B|8| B: [ja] 
+B|9| B: _ja _ja_ ja_ 
+B|10| B: [die] [hebben] [ik] _dat zijn_ M 
+A|11| A: [ja] _met_ _zo'n_ ding eronder bedoelen je 
+A|12| A: _en dan_ _twee van die_ ding nog zo 
+A|13| A: maar je bedoelen [die] _een_ _met het_ _ruit_ op _het_ hoofd toch 
+A|14| A: [ja] _oké_ 
+A|15| A: [die] _twee_ ding [die] eruit [ja] _oké_ 
+A|16| A: negen 
+B|17| B: [oké] _dit zijn_ [de] poeh [hebben] [een] cilinder [als] wat jij [zeggen] Pinokkio [die] neus [met] onderaan [zo'n] 
+B|18| B: slurfachtig rechts [en dan] [bovenop] [zo'n] [twee van _die] ruit_ 
+B|19| B: [ja] 
+B|20| B: [ja] [de] pootjes _ja ja_ 
+A|21| A: [dit zijn] [die] [met] [die] [dat] [die ruit] [met] [die] Minecraftdingen [en dan] [die] uitlaat 
+A|22| A: eronder 
+A|23| A: [ja] _aan de_ onderkant zitten nog [zo'n] uitsteeksel 
+A|24| A: [ja] [die] wijzen naar voren [ja ja] sorry [ja] 
+A|25| A: [ja] [met] [die] [dat] ding _aan de_ onderkant ook toch 
+A|26| A: _ja dat zijn_ elf 
+A|27| A: [ja] [een] kraan 
+B|28| B: [ja dat zijn] h 
+A|29| A: [die] kraan [met] [die ruit] [en] [die] 
+A|30| A: [even] zoeken [ja] nummer veertien 
+B|31| B: [dit zijn] [de] steel [aan de] [voorkant] [met het] poo onder pootje rechts [en] [de] rui 
+B|32| B: [ja] 
+B|33| B: D 
+B|34| B: [dit zijn] voe onder voe rechts 
+B|35| B: neus 
+B|36| B: verrekijker [met de] [ruit] 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : dit vinden ik de heel tijd een kraan ik weten niet er zitten een je hebben zeggen maar een driehoek bovenop en dan hebben je twee van die ding eraan
+	Free: Pattern=twee van die, Pattern=bovenop, Pattern=de, Pattern=en dan, Pattern=een, Pattern=hebben, Pattern=ik, Pattern=zeggen, Pattern=dit
+	Constrained: Pattern=twee, Pattern=die, Pattern=van die, Pattern=en
+Turn ID=1| A | A : het zijn met de allermeeste uitsteeksel die je kunnen vinden
+	Free: Pattern=met de, Pattern=zijn, Pattern=die, Pattern=het
+	Constrained: Pattern=de, Pattern=met
+Turn ID=2| A | A : de allerdruk
+	Free: Pattern=de
+	Constrained: 
+Turn ID=3| A | A : ja met een ruitje en dan zitten daar van die twee
+	Free: Pattern=twee, Pattern=ja, Pattern=en dan, Pattern=een, Pattern=met, Pattern=van die
+	Constrained: Pattern=die, Pattern=en
+Turn ID=4| A | A : ja en dan zo weer van die van die uitlaat en nog één als voorkant
+	Free: Pattern=ja, Pattern=en dan, Pattern=voorkant, Pattern=als, Pattern=van die, Pattern=en
+	Constrained: Pattern=die, Pattern=en
+Turn ID=5| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=6| B | B : pion
+	Free: 
+	Constrained: 
+Turn ID=7| B | B : wachten even
+	Free: Pattern=even
+	Constrained: 
+Turn ID=8| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=9| B | B : ja ja ja
+	Free: Pattern=ja ja
+	Constrained: Pattern=ja
+Turn ID=10| B | B : die hebben ik dat zijn M
+	Free: Pattern=dat zijn, Pattern=hebben, Pattern=die, Pattern=ik
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=11| A | A : ja met zo'n ding eronder bedoelen je
+	Free: Pattern=zo'n, Pattern=ja, Pattern=met
+	Constrained: 
+Turn ID=12| A | A : en dan twee van die ding nog zo
+	Free: Pattern=twee van die, Pattern=en dan
+	Constrained: Pattern=twee, Pattern=die, Pattern=van die, Pattern=en
+Turn ID=13| A | A : maar je bedoelen die een met het ruit op het hoofd toch
+	Free: Pattern=ruit, Pattern=een, Pattern=het, Pattern=die, Pattern=met het
+	Constrained: Pattern=met, Pattern=het
+Turn ID=14| A | A : ja oké
+	Free: Pattern=oké, Pattern=ja
+	Constrained: 
+Turn ID=15| A | A : die twee ding die eruit ja oké
+	Free: Pattern=twee, Pattern=oké, Pattern=die, Pattern=ja
+	Constrained: 
+Turn ID=16| A | A : negen
+	Free: 
+	Constrained: 
+Turn ID=17| B | B : oké dit zijn de poeh hebben een cilinder als wat jij zeggen Pinokkio die neus met onderaan zo'n
+	Free: Pattern=zo'n, Pattern=de, Pattern=een, Pattern=hebben, Pattern=zeggen, Pattern=als, Pattern=met, Pattern=die, Pattern=oké, Pattern=dit zijn
+	Constrained: Pattern=dit, Pattern=zijn
+Turn ID=18| B | B : slurfachtig rechts en dan bovenop zo'n twee van die ruit
+	Free: Pattern=twee van die, Pattern=bovenop, Pattern=zo'n, Pattern=en dan, Pattern=die ruit
+	Constrained: Pattern=ruit, Pattern=twee, Pattern=die, Pattern=van die, Pattern=en
+Turn ID=19| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=20| B | B : ja de pootjes ja ja
+	Free: Pattern=ja ja, Pattern=de, Pattern=ja
+	Constrained: Pattern=ja
+Turn ID=21| A | A : dit zijn die met die dat die ruit met die Minecraftdingen en dan die uitlaat
+	Free: Pattern=dat, Pattern=en dan, Pattern=die ruit, Pattern=met, Pattern=die, Pattern=dit zijn
+	Constrained: Pattern=ruit, Pattern=dit, Pattern=die, Pattern=en, Pattern=zijn
+Turn ID=22| A | A : eronder
+	Free: 
+	Constrained: 
+Turn ID=23| A | A : ja aan de onderkant zitten nog zo'n uitsteeksel
+	Free: Pattern=aan de, Pattern=zo'n, Pattern=ja
+	Constrained: Pattern=de
+Turn ID=24| A | A : ja die wijzen naar voren ja ja sorry ja
+	Free: Pattern=ja ja, Pattern=die, Pattern=ja
+	Constrained: Pattern=ja
+Turn ID=25| A | A : ja met die dat ding aan de onderkant ook toch
+	Free: Pattern=dat, Pattern=ja, Pattern=aan de, Pattern=met, Pattern=die
+	Constrained: Pattern=de
+Turn ID=26| A | A : ja dat zijn elf
+	Free: Pattern=ja dat zijn
+	Constrained: Pattern=dat zijn, Pattern=dat, Pattern=zijn, Pattern=ja
+Turn ID=27| A | A : ja een kraan
+	Free: Pattern=ja, Pattern=een
+	Constrained: 
+Turn ID=28| B | B : ja dat zijn h
+	Free: Pattern=ja dat zijn
+	Constrained: Pattern=dat zijn, Pattern=dat, Pattern=zijn, Pattern=ja
+Turn ID=29| A | A : die kraan met die ruit en die
+	Free: Pattern=die ruit, Pattern=die, Pattern=en, Pattern=met
+	Constrained: Pattern=die, Pattern=ruit
+Turn ID=30| A | A : even zoeken ja nummer veertien
+	Free: Pattern=ja, Pattern=even
+	Constrained: 
+Turn ID=31| B | B : dit zijn de steel aan de voorkant met het poo onder pootje rechts en de rui
+	Free: Pattern=de, Pattern=aan de, Pattern=voorkant, Pattern=en, Pattern=met het, Pattern=dit zijn
+	Constrained: Pattern=de, Pattern=het, Pattern=dit, Pattern=met, Pattern=zijn
+Turn ID=32| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=33| B | B : D
+	Free: 
+	Constrained: 
+Turn ID=34| B | B : dit zijn voe onder voe rechts
+	Free: Pattern=dit zijn
+	Constrained: Pattern=dit, Pattern=zijn
+Turn ID=35| B | B : neus
+	Free: 
+	Constrained: 
+Turn ID=36| B | B : verrekijker met de ruit
+	Free: Pattern=met de, Pattern=ruit
+	Constrained: Pattern=de, Pattern=met

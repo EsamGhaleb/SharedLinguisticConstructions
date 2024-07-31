@@ -1,0 +1,139 @@
+B|0| B: _dan_ kloppen nou 
+B|1| B: _dit zijn_ _een_ _kop_ weer 
+B|2| B: _en_ _er_ _zitten een_ _een_ vierkantje omheen _hebben_ je _het kop_ _en_ _dan_ _zitten_ _het_ vierkantje eromheen _er_ _staan_ _twee_ _klein_ cilindertjes op 
+B|3| B: _een_ soort van _Lvormig_ uitsteeksel 
+A|4| A: _ja_ 
+B|5| B: _en een_ [ja] nog _een_ cilindervormig uitsteeksel 
+A|6| A: [ja] _oké_ [dan] [zijn] _dat_ nummer zes voor mij 
+B|7| B: nice 
+A|8| A: _oké_ deze [hebben] [twee] heel [klein] _cilindert_ bovenaan [staan] 
+A|9| A: [en] één [en een] vierkant zeggen maar horizontaal dwars door [het kop] heen 
+A|10| A: [en] inderdaad aan de linkerkant [zitten een] [zitten een] [Lvormig] ding 
+B|11| B: [ja] 
+B|12| B: C 
+A|13| A: yes 
+A|14| A: _oké_ 
+B|15| B: nou _dit zijn_ weer [het kop] _met_ [het] [Lvormig] uitsteeksel _en het_ vierkantje in [het] midden 
+B|16| B: waar _die_ _doorheen gaan_ _die twee_ cilindervormig uitsteekseltjes 
+B|17| B: _die_ 
+A|18| A: even kijken 
+A|19| A: [en] [die] de _dat_ vierkant wat [er] dwars [doorheen gaan] zeggen maar 
+B|20| B: [ja] [die] [ja] 
+B|21| B: [ja] 
+A|22| A: _dat zijn_ dertien 
+A|23| A: _oké_ [dit zijn] _die een met_ de [Lvormig] ding aan de zijkant [en] de [en het] vierkant [er] dwars [doorheen] 
+A|24| A: [en] _die twee cilindert_ erbovenop 
+B|25| B: [oké] [ja] [dat zijn] J 
+A|26| A: [oké] 
+B|27| B: [het] [zijn] weer [die een met] [het] [ja] [met] [het] vierkantje in [het] midden 
+B|28| B: [die] [die] [ja] [die twee cilindert] erop [en het] [Lvormig] uitsteeksel link 
+A|29| A: yes [dat zijn] negen 
+A|30| A: [oké] [dit zijn] de [Lvormig] linkerkant [met] de [met] de vierkant erdoorheen 
+B|31| B: [Lvormig] 
+B|32| B: [ja] 
+B|33| B: [dat zijn] N 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : dan kloppen nou
+	Free: Pattern=dan
+	Constrained: 
+Turn ID=1| B | B : dit zijn een kop weer
+	Free: Pattern=dit zijn, Pattern=kop, Pattern=een
+	Constrained: Pattern=zijn
+Turn ID=2| B | B : en er zitten een een vierkantje omheen hebben je het kop en dan zitten het vierkantje eromheen er staan twee klein cilindertjes op
+	Free: Pattern=twee, Pattern=dan, Pattern=het kop, Pattern=het, Pattern=hebben, Pattern=zitten, Pattern=er, Pattern=en, Pattern=een, Pattern=staan, Pattern=klein, Pattern=zitten een
+	Constrained: Pattern=het, Pattern=kop, Pattern=zitten, Pattern=een
+Turn ID=3| B | B : een soort van Lvormig uitsteeksel
+	Free: Pattern=Lvormig, Pattern=een
+	Constrained: 
+Turn ID=4| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=5| B | B : en een ja nog een cilindervormig uitsteeksel
+	Free: Pattern=en een, Pattern=ja, Pattern=een
+	Constrained: Pattern=en, Pattern=een
+Turn ID=6| A | A : ja oké dan zijn dat nummer zes voor mij
+	Free: Pattern=dat, Pattern=ja, Pattern=dan, Pattern=oké, Pattern=zijn
+	Constrained: 
+Turn ID=7| B | B : nice
+	Free: 
+	Constrained: 
+Turn ID=8| A | A : oké deze hebben twee heel klein cilindert bovenaan staan
+	Free: Pattern=staan, Pattern=hebben, Pattern=oké, Pattern=klein, Pattern=twee, Pattern=cilindert
+	Constrained: 
+Turn ID=9| A | A : en één en een vierkant zeggen maar horizontaal dwars door het kop heen
+	Free: Pattern=en een, Pattern=het kop, Pattern=en
+	Constrained: Pattern=en, Pattern=het, Pattern=kop, Pattern=een
+Turn ID=10| A | A : en inderdaad aan de linkerkant zitten een zitten een Lvormig ding
+	Free: Pattern=zitten een, Pattern=en, Pattern=Lvormig
+	Constrained: Pattern=zitten, Pattern=een
+Turn ID=11| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=12| B | B : C
+	Free: 
+	Constrained: 
+Turn ID=13| A | A : yes
+	Free: 
+	Constrained: 
+Turn ID=14| A | A : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=15| B | B : nou dit zijn weer het kop met het Lvormig uitsteeksel en het vierkantje in het midden
+	Free: Pattern=Lvormig, Pattern=en het, Pattern=het kop, Pattern=het, Pattern=met, Pattern=dit zijn
+	Constrained: Pattern=en, Pattern=het, Pattern=zijn, Pattern=kop
+Turn ID=16| B | B : waar die doorheen gaan die twee cilindervormig uitsteekseltjes
+	Free: Pattern=die twee, Pattern=doorheen gaan, Pattern=die
+	Constrained: Pattern=die, Pattern=twee, Pattern=doorheen
+Turn ID=17| B | B : die
+	Free: Pattern=die
+	Constrained: 
+Turn ID=18| A | A : even kijken
+	Free: 
+	Constrained: 
+Turn ID=19| A | A : en die de dat vierkant wat er dwars doorheen gaan zeggen maar
+	Free: Pattern=dat, Pattern=die, Pattern=er, Pattern=en, Pattern=doorheen gaan
+	Constrained: Pattern=doorheen
+Turn ID=20| B | B : ja die ja
+	Free: Pattern=ja, Pattern=die
+	Constrained: 
+Turn ID=21| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=22| A | A : dat zijn dertien
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=23| A | A : oké dit zijn die een met de Lvormig ding aan de zijkant en de en het vierkant er dwars doorheen
+	Free: Pattern=Lvormig, Pattern=en het, Pattern=oké, Pattern=er, Pattern=en, Pattern=dit zijn, Pattern=die een met, Pattern=doorheen
+	Constrained: Pattern=een, Pattern=het, Pattern=met, Pattern=die, Pattern=en, Pattern=zijn
+Turn ID=24| A | A : en die twee cilindert erbovenop
+	Free: Pattern=die twee cilindert, Pattern=en
+	Constrained: Pattern=cilindert, Pattern=die, Pattern=twee, Pattern=die twee
+Turn ID=25| B | B : oké ja dat zijn J
+	Free: Pattern=dat zijn, Pattern=ja, Pattern=oké
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=26| A | A : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=27| B | B : het zijn weer die een met het ja met het vierkantje in het midden
+	Free: Pattern=het, Pattern=met, Pattern=zijn, Pattern=die een met, Pattern=ja
+	Constrained: Pattern=die, Pattern=met, Pattern=een
+Turn ID=28| B | B : die die ja die twee cilindert erop en het Lvormig uitsteeksel link
+	Free: Pattern=Lvormig, Pattern=ja, Pattern=en het, Pattern=die twee cilindert, Pattern=die
+	Constrained: Pattern=die, Pattern=en, Pattern=twee, Pattern=cilindert, Pattern=het, Pattern=die twee
+Turn ID=29| A | A : yes dat zijn negen
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=30| A | A : oké dit zijn de Lvormig linkerkant met de met de vierkant erdoorheen
+	Free: Pattern=dit zijn, Pattern=oké, Pattern=Lvormig, Pattern=met
+	Constrained: Pattern=zijn
+Turn ID=31| B | B : Lvormig
+	Free: Pattern=Lvormig
+	Constrained: 
+Turn ID=32| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=33| B | B : dat zijn N
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn

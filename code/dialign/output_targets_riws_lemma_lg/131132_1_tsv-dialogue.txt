@@ -1,0 +1,115 @@
+B|0| B: oké 
+B|1| B: _dan_ _hebben_ _ik_ die _met_ die _twee_ verrekijkert 
+A|2| A: ah _ja_ 
+B|3| B: [ja] 
+A|4| A: _en dan zo'n_ _zo'n vierkant_ vlak _en_ een _antenne_ op zich 
+B|5| B: [en dan [zo'n] vierkant] dinge aan _de_ zijkant 
+B|6| B: [ja] 
+A|7| A: [ja] 
+A|8| A: nummer [twee] 
+A|9| A: _dit zijn_ [de] _verrekijker_ 
+A|10| A: _met twee_ binocular zeggen maar 
+B|11| B: [met twee] 
+B|12| B: even kijken waar die staan 
+B|13| B: daar 
+B|14| B: G 
+A|15| A: [ja] 
+B|16| B: oké [dit zijn] [met] die [twee] [verrekijker] [en] die [antenne] 
+A|17| A: [ja] nummer negen 
+A|18| A: [ik] [hebben] [de] [verrekijker] [met twee] 
+B|19| B: [met twee] dat [zijn] D 
+A|20| A: [ja] 
+B|21| B: [dit zijn] [met] die dubbel [verrekijker] 
+A|22| A: [ja] nummer één 
+B|23| B: die [zijn] wisselen [met] die penseel van mij volgens mij 
+A|24| A: ah [ja] 
+B|25| B: [ja] 
+A|26| A: [de] [verrekijker] [met twee] 
+B|27| B: even kijken dat [zijn] bij mij B 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : oké
+	Free: 
+	Constrained: 
+Turn ID=1| B | B : dan hebben ik die met die twee verrekijkert
+	Free: Pattern=twee, Pattern=dan, Pattern=hebben, Pattern=met, Pattern=ik
+	Constrained: 
+Turn ID=2| A | A : ah ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=3| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=4| A | A : en dan zo'n zo'n vierkant vlak en een antenne op zich
+	Free: Pattern=en dan zo'n, Pattern=zo'n vierkant, Pattern=en, Pattern=antenne
+	Constrained: Pattern=dan, Pattern=en
+Turn ID=5| B | B : en dan zo'n vierkant dinge aan de zijkant
+	Free: Pattern=en dan zo'n, Pattern=zo'n vierkant, Pattern=de
+	Constrained: Pattern=dan, Pattern=en
+Turn ID=6| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=7| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=8| A | A : nummer twee
+	Free: Pattern=twee
+	Constrained: 
+Turn ID=9| A | A : dit zijn de verrekijker
+	Free: Pattern=dit zijn, Pattern=verrekijker, Pattern=de
+	Constrained: Pattern=zijn
+Turn ID=10| A | A : met twee binocular zeggen maar
+	Free: Pattern=met twee
+	Constrained: Pattern=met, Pattern=twee
+Turn ID=11| B | B : met twee
+	Free: Pattern=met twee
+	Constrained: Pattern=met, Pattern=twee
+Turn ID=12| B | B : even kijken waar die staan
+	Free: 
+	Constrained: 
+Turn ID=13| B | B : daar
+	Free: 
+	Constrained: 
+Turn ID=14| B | B : G
+	Free: 
+	Constrained: 
+Turn ID=15| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=16| B | B : oké dit zijn met die twee verrekijker en die antenne
+	Free: Pattern=twee, Pattern=met, Pattern=antenne, Pattern=dit zijn, Pattern=verrekijker, Pattern=en
+	Constrained: Pattern=zijn
+Turn ID=17| A | A : ja nummer negen
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=18| A | A : ik hebben de verrekijker met twee
+	Free: Pattern=de, Pattern=hebben, Pattern=met twee, Pattern=ik, Pattern=verrekijker
+	Constrained: Pattern=met, Pattern=twee
+Turn ID=19| B | B : met twee dat zijn D
+	Free: Pattern=met twee, Pattern=zijn
+	Constrained: Pattern=met, Pattern=twee
+Turn ID=20| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=21| B | B : dit zijn met die dubbel verrekijker
+	Free: Pattern=dit zijn, Pattern=verrekijker, Pattern=met
+	Constrained: Pattern=zijn
+Turn ID=22| A | A : ja nummer één
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=23| B | B : die zijn wisselen met die penseel van mij volgens mij
+	Free: Pattern=zijn, Pattern=met
+	Constrained: 
+Turn ID=24| A | A : ah ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=25| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=26| A | A : de verrekijker met twee
+	Free: Pattern=met twee, Pattern=verrekijker, Pattern=de
+	Constrained: Pattern=met, Pattern=twee
+Turn ID=27| B | B : even kijken dat zijn bij mij B
+	Free: Pattern=zijn
+	Constrained: 

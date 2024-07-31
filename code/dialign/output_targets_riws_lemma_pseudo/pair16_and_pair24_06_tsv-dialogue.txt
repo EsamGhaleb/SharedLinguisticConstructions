@@ -1,0 +1,167 @@
+B|0| B: _waar_ _zitten_ _de_ propeller 
+B|1| B: _ja_ 
+B|2| B: _en_ _de_ propeller wijken _ook_ af naar rechts 
+B|3| B: _ja_ 
+B|4| B: _ja_ 
+B|5| B: _ja_ 
+B|6| B: _ja_ oké _dan_ weten _ik_ _het_ 
+B|7| B: _dan zijn_ _het_ M 
+A|8| A: okee 
+A|9| A: [ja] nou nu weer zo'n _koffiekopje_ 
+A|10| A: _aan_ [de] voorkant [zitten] _een_ soort van [ja] bal 
+A|11| A: [en] er [zitten] _een_ houten [ja] _een_ houten lang stok doorheen 
+A|12| A: _met_ [ja] één _aan_ _een_ _aan_ één uitein _een_ 
+A|13| A: [ja] _een_ schijf inderdaad [ja] 
+A|14| A: _die_ [en] bovenop nog zo'n pluimp 
+A|15| A: okee 
+B|16| B: [een] _kop met_ [een] lepeltje zo _zien_ _ik_ _het_ [en] _een ei_ [met] [een] zuignap 
+B|17| B: [ja] _dat_ _ei_ hebben [een] pilaar [en] daar zuignap [ja] 
+A|18| A: ah [ja] [met] [dat] pluimp bovenop [ook] 
+A|19| A: [ja] 
+A|20| A: _dat zijn_ nummer vier 
+B|21| B: oké makkelijk [dat zijn] _dan_ K 
+B|22| B: [koffiekopje] [met] [een] zuignap [en] _een ei_ 
+B|23| B: _waar die_ [aan] vastgemaakken [zijn] 
+A|24| A: dit [zijn] [ja] [het] [kop met] [ook] [een ei] [aan] [de] voorkant [dat] ballet [met] [die] houten plank erdoorheen 
+A|25| A: [met] [ja] [het] [het] voetstuk zeggen maar 
+A|26| A: [ik] [zien] [het] altijd als zo'n springpaal zeggen maar [die] je [die] je neerzetten [waar] je [een] touw tussen spant dus 
+A|27| A: maar [dan zijn] [die] horizontaal 
+A|28| A: dus [ja] [die] 
+B|29| B: [ja] 
+B|30| B: [ei] 
+B|31| B: I 
+A|32| A: ah [die] Springstok 
+A|33| A: ah nummer dertien 
+B|34| B: [een] [kop met] [een] lepeltje erin [en] [een] zuignap [die] door [de] [ei] gespiest [zijn] 
+A|35| A: deze [zijn] weer [met] [die] springstok 
+A|36| A: eivormig ballet [aan] [de] voorkant [waar die] stok doorheen [zitten] [met] [dat] 
+A|37| A: [ja] 
+A|38| A: [de] stok 
+A|39| A: Springstok 
+A|40| A: [ja] nummer zestien 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : waar zitten de propeller
+	Free: Pattern=de, Pattern=waar, Pattern=zitten
+	Constrained: 
+Turn ID=1| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=2| B | B : en de propeller wijken ook af naar rechts
+	Free: Pattern=en, Pattern=de, Pattern=ook
+	Constrained: 
+Turn ID=3| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=4| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=5| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=6| B | B : ja oké dan weten ik het
+	Free: Pattern=dan, Pattern=ik, Pattern=ja, Pattern=het
+	Constrained: 
+Turn ID=7| B | B : dan zijn het M
+	Free: Pattern=dan zijn, Pattern=het
+	Constrained: Pattern=dan, Pattern=zijn
+Turn ID=8| A | A : okee
+	Free: 
+	Constrained: 
+Turn ID=9| A | A : ja nou nu weer zo'n koffiekopje
+	Free: Pattern=koffiekopje, Pattern=ja
+	Constrained: 
+Turn ID=10| A | A : aan de voorkant zitten een soort van ja bal
+	Free: Pattern=een, Pattern=zitten, Pattern=de, Pattern=aan, Pattern=ja
+	Constrained: 
+Turn ID=11| A | A : en er zitten een houten ja een houten lang stok doorheen
+	Free: Pattern=en, Pattern=ja, Pattern=zitten, Pattern=een
+	Constrained: 
+Turn ID=12| A | A : met ja één aan een aan één uitein een
+	Free: Pattern=aan, Pattern=ja, Pattern=een, Pattern=met
+	Constrained: 
+Turn ID=13| A | A : ja een schijf inderdaad ja
+	Free: Pattern=ja, Pattern=een
+	Constrained: 
+Turn ID=14| A | A : die en bovenop nog zo'n pluimp
+	Free: Pattern=en, Pattern=die
+	Constrained: 
+Turn ID=15| A | A : okee
+	Free: 
+	Constrained: 
+Turn ID=16| B | B : een kop met een lepeltje zo zien ik het en een ei met een zuignap
+	Free: Pattern=kop met, Pattern=een, Pattern=het, Pattern=een ei, Pattern=met, Pattern=zien, Pattern=ik, Pattern=en
+	Constrained: Pattern=ei, Pattern=een, Pattern=met
+Turn ID=17| B | B : ja dat ei hebben een pilaar en daar zuignap ja
+	Free: Pattern=dat, Pattern=ei, Pattern=ja, Pattern=een, Pattern=en
+	Constrained: 
+Turn ID=18| A | A : ah ja met dat pluimp bovenop ook
+	Free: Pattern=dat, Pattern=ja, Pattern=ook, Pattern=met
+	Constrained: 
+Turn ID=19| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=20| A | A : dat zijn nummer vier
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=21| B | B : oké makkelijk dat zijn dan K
+	Free: Pattern=dat zijn, Pattern=dan
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=22| B | B : koffiekopje met een zuignap en een ei
+	Free: Pattern=een, Pattern=koffiekopje, Pattern=een ei, Pattern=met, Pattern=en
+	Constrained: Pattern=ei, Pattern=een
+Turn ID=23| B | B : waar die aan vastgemaakken zijn
+	Free: Pattern=waar die, Pattern=aan, Pattern=zijn
+	Constrained: Pattern=waar, Pattern=die
+Turn ID=24| A | A : dit zijn ja het kop met ook een ei aan de voorkant dat ballet met die houten plank erdoorheen
+	Free: Pattern=dat, Pattern=kop met, Pattern=ook, Pattern=het, Pattern=een ei, Pattern=met, Pattern=die, Pattern=zijn, Pattern=de, Pattern=aan, Pattern=ja
+	Constrained: Pattern=ei, Pattern=een, Pattern=met
+Turn ID=25| A | A : met ja het het voetstuk zeggen maar
+	Free: Pattern=ja, Pattern=het, Pattern=met
+	Constrained: 
+Turn ID=26| A | A : ik zien het altijd als zo'n springpaal zeggen maar die je die je neerzetten waar je een touw tussen spant dus
+	Free: Pattern=waar, Pattern=een, Pattern=het, Pattern=ik, Pattern=die, Pattern=zien
+	Constrained: 
+Turn ID=27| A | A : maar dan zijn die horizontaal
+	Free: Pattern=dan zijn, Pattern=die
+	Constrained: Pattern=dan, Pattern=zijn
+Turn ID=28| A | A : dus ja die
+	Free: Pattern=die, Pattern=ja
+	Constrained: 
+Turn ID=29| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=30| B | B : ei
+	Free: Pattern=ei
+	Constrained: 
+Turn ID=31| B | B : I
+	Free: 
+	Constrained: 
+Turn ID=32| A | A : ah die Springstok
+	Free: Pattern=die
+	Constrained: 
+Turn ID=33| A | A : ah nummer dertien
+	Free: 
+	Constrained: 
+Turn ID=34| B | B : een kop met een lepeltje erin en een zuignap die door de ei gespiest zijn
+	Free: Pattern=ei, Pattern=de, Pattern=kop met, Pattern=een, Pattern=die, Pattern=en, Pattern=zijn
+	Constrained: Pattern=met
+Turn ID=35| A | A : deze zijn weer met die springstok
+	Free: Pattern=zijn, Pattern=die, Pattern=met
+	Constrained: 
+Turn ID=36| A | A : eivormig ballet aan de voorkant waar die stok doorheen zitten met dat
+	Free: Pattern=dat, Pattern=waar die, Pattern=met, Pattern=zitten, Pattern=de, Pattern=aan
+	Constrained: Pattern=waar, Pattern=die
+Turn ID=37| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=38| A | A : de stok
+	Free: Pattern=de
+	Constrained: 
+Turn ID=39| A | A : Springstok
+	Free: 
+	Constrained: 
+Turn ID=40| A | A : ja nummer zestien
+	Free: Pattern=ja
+	Constrained: 

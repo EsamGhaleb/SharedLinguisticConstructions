@@ -1,0 +1,75 @@
+A|0| A: ok _deze hebben_ 
+A|1| A: _twee_ staf _aan de zijkant_ _waar_ _een_ bolle op zitten _en_ _aan de achterkant_ zitten _een_ schuin vierkantje _wat_ _een_ beetje verstpen zitten 
+A|2| A: _en_ daar komen ook _een_ _ja_ _iets_ uit 
+B|3| B: _o_ [ja] [een] soort van _schermpje_ [aan de achterkant] [waar] [ja] _dat_ zijn K 
+A|4| A: [ja] 
+B|5| B: [deze hebben] zegmaar _weer_ _dat_ liggen _schermpje er achter en_ [twee] uitstekend [ja] [wat] zullen je _het_ kunnen noemen _spijker_ [iets] in _die_ richting 
+A|6| A: [ja] negen 
+A|7| A: [deze hebben] [weer] _die _spijker aan_ de zijkant_ dus [twee] [en] dan [dat] [schermpje] erachter 
+B|8| B: even kijken [waar] [die] staan F 
+A|9| A: [o] nee 
+B|10| B: [o] Jee 
+B|11| B: [deze hebben] zegmaar [dat] liggen [schermpje] [en] [twee] van [die spijker aan] beide kant 
+A|12| A: [ja] 
+A|13| A: drie 
+A|14| A: [die] met [die] _twee spijker aan de zijkant_ [en] [het] [schermpje er achter en] [dat] gleufje dinge 
+B|15| B: even kijken L 
+B|16| B: [twee spijker aan de zijkant] liggen [schermpje] [achter] 
+A|17| A: vijf 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : ok deze hebben
+	Free: Pattern=deze hebben
+	Constrained: 
+Turn ID=1| A | A : twee staf aan de zijkant waar een bolle op zitten en aan de achterkant zitten een schuin vierkantje wat een beetje verstpen zitten
+	Free: Pattern=aan de achterkant, Pattern=twee, Pattern=waar, Pattern=wat, Pattern=en, Pattern=een, Pattern=aan de zijkant
+	Constrained: 
+Turn ID=2| A | A : en daar komen ook een ja iets uit
+	Free: Pattern=iets, Pattern=en, Pattern=een, Pattern=ja
+	Constrained: 
+Turn ID=3| B | B : o ja een soort van schermpje aan de achterkant waar ja dat zijn K
+	Free: Pattern=ja, Pattern=waar, Pattern=een, Pattern=schermpje, Pattern=o, Pattern=dat, Pattern=aan de achterkant
+	Constrained: 
+Turn ID=4| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=5| B | B : deze hebben zegmaar weer dat liggen schermpje er achter en twee uitstekend ja wat zullen je het kunnen noemen spijker iets in die richting
+	Free: Pattern=dat, Pattern=twee, Pattern=schermpje er achter en, Pattern=het, Pattern=deze hebben, Pattern=die, Pattern=wat, Pattern=weer, Pattern=spijker, Pattern=iets, Pattern=ja
+	Constrained: Pattern=en, Pattern=schermpje, Pattern=achter
+Turn ID=6| A | A : ja negen
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=7| A | A : deze hebben weer die spijker aan de zijkant dus twee en dan dat schermpje erachter
+	Free: Pattern=dat, Pattern=twee, Pattern=die spijker aan, Pattern=spijker aan de zijkant, Pattern=schermpje, Pattern=deze hebben, Pattern=en, Pattern=weer
+	Constrained: Pattern=die, Pattern=aan de zijkant, Pattern=spijker
+Turn ID=8| B | B : even kijken waar die staan F
+	Free: Pattern=die, Pattern=waar
+	Constrained: 
+Turn ID=9| A | A : o nee
+	Free: Pattern=o
+	Constrained: 
+Turn ID=10| B | B : o Jee
+	Free: Pattern=o
+	Constrained: 
+Turn ID=11| B | B : deze hebben zegmaar dat liggen schermpje en twee van die spijker aan beide kant
+	Free: Pattern=dat, Pattern=twee, Pattern=die spijker aan, Pattern=schermpje, Pattern=deze hebben, Pattern=en
+	Constrained: Pattern=die, Pattern=spijker
+Turn ID=12| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=13| A | A : drie
+	Free: 
+	Constrained: 
+Turn ID=14| A | A : die met die twee spijker aan de zijkant en het schermpje er achter en dat gleufje dinge
+	Free: Pattern=dat, Pattern=schermpje er achter en, Pattern=het, Pattern=die, Pattern=twee spijker aan de zijkant, Pattern=en
+	Constrained: Pattern=twee, Pattern=spijker aan de zijkant, Pattern=aan de zijkant, Pattern=schermpje, Pattern=achter, Pattern=en, Pattern=spijker
+Turn ID=15| B | B : even kijken L
+	Free: 
+	Constrained: 
+Turn ID=16| B | B : twee spijker aan de zijkant liggen schermpje achter
+	Free: Pattern=twee spijker aan de zijkant, Pattern=schermpje, Pattern=achter
+	Constrained: Pattern=twee, Pattern=spijker aan de zijkant, Pattern=aan de zijkant, Pattern=spijker
+Turn ID=17| A | A : vijf
+	Free: 
+	Constrained: 

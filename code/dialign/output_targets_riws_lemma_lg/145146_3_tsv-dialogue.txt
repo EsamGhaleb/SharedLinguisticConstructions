@@ -1,0 +1,147 @@
+B|0| B: _oké_ dit je _hebben_ hier weer _de_ basisvorm _en_ daaronder komen _een_ _een_ _ding_ naar beneden _en_ _die_ _zitten_ zeggen maar zo draaien 
+A|1| A: _ja_ _ja_ _ja_ 
+B|2| B: _en_ daar _zitten_ _een_ driehoek onder 
+A|3| A: _ja_ 
+B|4| B: weten je welk _ik_ bedoelen 
+A|5| A: _ja_ [en] er [zitten] er bovenin [zitten] er dan [een] _ja_ [een] beetje [een] kubus 
+B|6| B: [ja] 
+A|7| A: _en nog_ [een] _ander_ [ja] 
+B|8| B: twee 
+A|9| A: [ja] precies _en nog_ [een] schuin [ding] 
+B|10| B: [en nog] één of [ander] gek [ding] 
+A|11| A: [ja] [ja] 
+A|12| A: _oké dat zijn_ vier 
+A|13| A: _ik hebben_ nu [die] soort helixachtig _onderkant_ 
+A|14| A: _dat_ draai vormen [ding] 
+B|15| B: [ja] 
+B|16| B: [ja] 
+B|17| B: _ja [oké_ dat zijn] A 
+A|18| A: met 
+B|19| B: _ik hebben de helix_ 
+A|20| A: [ja oké] 
+B|21| B: aan _de_ [onderkant] 
+A|22| A: [dat zijn] met [die] kubus Erboven [ja] 
+B|23| B: [ja] 
+A|24| A: [dat zijn] tien 
+A|25| A: [ik hebben] nu [die] [dat] draaiding 
+B|26| B: _de helix_ 
+A|27| A: [de helix] [ja] 
+B|28| B: [ja] [dat zijn] L 
+B|29| B: [oké] _ik hebben de helix_ 
+A|30| A: [ja] 
+A|31| A: [ik] kunnen ze steeds weinig goed zien [ja] 
+A|32| A: [zijn] nummer vier 
+A|33| A: [ik hebben de helix] 
+B|34| B: [ja] 
+B|35| B: [oké dat zijn] F 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : oké dit je hebben hier weer de basisvorm en daaronder komen een een ding naar beneden en die zitten zeggen maar zo draaien
+	Free: Pattern=de, Pattern=ding, Pattern=een, Pattern=hebben, Pattern=oké, Pattern=en, Pattern=die, Pattern=zitten
+	Constrained: 
+Turn ID=1| A | A : ja ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=2| B | B : en daar zitten een driehoek onder
+	Free: Pattern=zitten, Pattern=een, Pattern=en
+	Constrained: 
+Turn ID=3| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=4| B | B : weten je welk ik bedoelen
+	Free: Pattern=ik
+	Constrained: 
+Turn ID=5| A | A : ja en er zitten er bovenin zitten er dan een ja een beetje een kubus
+	Free: Pattern=ja, Pattern=zitten, Pattern=een, Pattern=en
+	Constrained: 
+Turn ID=6| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=7| A | A : en nog een ander ja
+	Free: Pattern=en nog, Pattern=ander, Pattern=ja, Pattern=een
+	Constrained: Pattern=en
+Turn ID=8| B | B : twee
+	Free: 
+	Constrained: 
+Turn ID=9| A | A : ja precies en nog een schuin ding
+	Free: Pattern=en nog, Pattern=ja, Pattern=ding, Pattern=een
+	Constrained: Pattern=en
+Turn ID=10| B | B : en nog één of ander gek ding
+	Free: Pattern=en nog, Pattern=ander, Pattern=ding
+	Constrained: Pattern=en
+Turn ID=11| A | A : ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=12| A | A : oké dat zijn vier
+	Free: Pattern=oké dat zijn
+	Constrained: Pattern=dat zijn, Pattern=dat, Pattern=oké, Pattern=zijn
+Turn ID=13| A | A : ik hebben nu die soort helixachtig onderkant
+	Free: Pattern=ik hebben, Pattern=die, Pattern=onderkant
+	Constrained: Pattern=hebben, Pattern=ik
+Turn ID=14| A | A : dat draai vormen ding
+	Free: Pattern=dat, Pattern=ding
+	Constrained: 
+Turn ID=15| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=16| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=17| B | B : ja oké dat zijn A
+	Free: Pattern=oké dat zijn, Pattern=ja oké
+	Constrained: Pattern=ja, Pattern=oké, Pattern=zijn, Pattern=dat, Pattern=dat zijn
+Turn ID=18| A | A : met
+	Free: 
+	Constrained: 
+Turn ID=19| B | B : ik hebben de helix
+	Free: Pattern=ik hebben de helix
+	Constrained: Pattern=ik hebben, Pattern=de, Pattern=hebben, Pattern=de helix, Pattern=ik
+Turn ID=20| A | A : ja oké
+	Free: Pattern=ja oké
+	Constrained: Pattern=oké, Pattern=ja
+Turn ID=21| B | B : aan de onderkant
+	Free: Pattern=onderkant, Pattern=de
+	Constrained: 
+Turn ID=22| A | A : dat zijn met die kubus Erboven ja
+	Free: Pattern=dat zijn, Pattern=die, Pattern=ja
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=23| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=24| A | A : dat zijn tien
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=25| A | A : ik hebben nu die dat draaiding
+	Free: Pattern=ik hebben, Pattern=dat, Pattern=die
+	Constrained: Pattern=hebben, Pattern=ik
+Turn ID=26| B | B : de helix
+	Free: Pattern=de helix
+	Constrained: Pattern=de
+Turn ID=27| A | A : de helix ja
+	Free: Pattern=de helix, Pattern=ja
+	Constrained: Pattern=de
+Turn ID=28| B | B : ja dat zijn L
+	Free: Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=29| B | B : oké ik hebben de helix
+	Free: Pattern=ik hebben de helix, Pattern=oké
+	Constrained: Pattern=ik hebben, Pattern=de, Pattern=hebben, Pattern=de helix, Pattern=ik
+Turn ID=30| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=31| A | A : ik kunnen ze steeds weinig goed zien ja
+	Free: Pattern=ik, Pattern=ja
+	Constrained: 
+Turn ID=32| A | A : zijn nummer vier
+	Free: Pattern=zijn
+	Constrained: 
+Turn ID=33| A | A : ik hebben de helix
+	Free: Pattern=ik hebben de helix
+	Constrained: Pattern=ik hebben, Pattern=de, Pattern=hebben, Pattern=de helix, Pattern=ik
+Turn ID=34| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=35| B | B : oké dat zijn F
+	Free: Pattern=oké dat zijn
+	Constrained: Pattern=dat zijn, Pattern=dat, Pattern=oké, Pattern=zijn

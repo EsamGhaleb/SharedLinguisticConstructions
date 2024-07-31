@@ -1,0 +1,147 @@
+A|0| A: _ja_ _en_ dan _aan de_ linkerkant _hebben_ _je_ _een_ soort van L eraan _zitten_ 
+A|1| A: _ja_ 
+A|2| A: dus _die_ gaan we vanaf _nu_ stoomboot noemen 
+A|3| A: _oké_ 
+A|4| A: welk _zijn_ _die_ bij jou 
+A|5| A: H zes 
+B|6| B: [oké] 
+B|7| B: even kijken 
+B|8| B: dit [zijn] zeggen _maar_ _aan de zijkant_ [zitten] [een] [een] steel [die] zo omhooggaat zeggen _maar_ 
+B|9| B: [ja] [ja] zo als alsof [je] [je] arm zo [hebben] 
+B|10| B: [ja] [ja] [ja] 
+A|11| A: plaat recht door [de] emmer heen [een] L [aan de zijkant] van het hoofd _twee_ spriet _bovenop_ 
+A|12| A: zestien 
+A|13| A: _ik_ weten welk [je] bedoelen [maar] _ik_ moeten hem eerst vinden 
+A|14| A: _ik_ moeten hem vinden 
+A|15| A: _met_ [de] L [aan de zijkant] 
+A|16| A: [ja] [oké] 
+A|17| A: I dertien 
+B|18| B: [ja] [die] [ja] [ja] 
+B|19| B: C 
+B|20| B: [nu] [hebben] [ik] [die] weer [met] [met] dat hand zo 
+B|21| B: [en] [met] links [bovenop] of [met] [met] [bovenop] zo'n [twee] streep 
+B|22| B: [ja] 
+A|23| A: stoomboot van jou 
+A|24| A: _met die_ L [aan de zijkant] 
+A|25| A: vijftien 
+B|26| B: [ja] 
+B|27| B: J 
+A|28| A: [ja] 
+A|29| A: welk [zijn] het 
+A|30| A: M negen [ja] maken niet uit 
+A|31| A: [ik] vergeetgen het zelf ook [de] heel tijd 
+B|32| B: [die] [met die] arm zo [en] [die] slurf 
+A|33| A: [je] stoomboot 
+A|34| A: [met] [de] L [aan de zijkant] 
+A|35| A: achten 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : ja en dan aan de linkerkant hebben je een soort van L eraan zitten
+	Free: Pattern=ja, Pattern=aan de, Pattern=een, Pattern=hebben, Pattern=zitten, Pattern=en, Pattern=je
+	Constrained: Pattern=de
+Turn ID=1| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=2| A | A : dus die gaan we vanaf nu stoomboot noemen
+	Free: Pattern=nu, Pattern=die
+	Constrained: 
+Turn ID=3| A | A : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=4| A | A : welk zijn die bij jou
+	Free: Pattern=zijn, Pattern=die
+	Constrained: 
+Turn ID=5| A | A : H zes
+	Free: 
+	Constrained: 
+Turn ID=6| B | B : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=7| B | B : even kijken
+	Free: 
+	Constrained: 
+Turn ID=8| B | B : dit zijn zeggen maar aan de zijkant zitten een een steel die zo omhooggaat zeggen maar
+	Free: Pattern=een, Pattern=aan de zijkant, Pattern=die, Pattern=zitten, Pattern=zijn, Pattern=maar
+	Constrained: Pattern=aan de, Pattern=de
+Turn ID=9| B | B : ja ja zo als alsof je je arm zo hebben
+	Free: Pattern=hebben, Pattern=je, Pattern=ja
+	Constrained: 
+Turn ID=10| B | B : ja ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=11| A | A : plaat recht door de emmer heen een L aan de zijkant van het hoofd twee spriet bovenop
+	Free: Pattern=bovenop, Pattern=twee, Pattern=de, Pattern=een, Pattern=aan de zijkant
+	Constrained: Pattern=aan de, Pattern=de
+Turn ID=12| A | A : zestien
+	Free: 
+	Constrained: 
+Turn ID=13| A | A : ik weten welk je bedoelen maar ik moeten hem eerst vinden
+	Free: Pattern=maar, Pattern=ik, Pattern=je
+	Constrained: 
+Turn ID=14| A | A : ik moeten hem vinden
+	Free: Pattern=ik
+	Constrained: 
+Turn ID=15| A | A : met de L aan de zijkant
+	Free: Pattern=aan de zijkant, Pattern=met, Pattern=de
+	Constrained: Pattern=aan de, Pattern=de
+Turn ID=16| A | A : ja oké
+	Free: Pattern=oké, Pattern=ja
+	Constrained: 
+Turn ID=17| A | A : I dertien
+	Free: 
+	Constrained: 
+Turn ID=18| B | B : ja die ja ja
+	Free: Pattern=die, Pattern=ja
+	Constrained: 
+Turn ID=19| B | B : C
+	Free: 
+	Constrained: 
+Turn ID=20| B | B : nu hebben ik die weer met met dat hand zo
+	Free: Pattern=nu, Pattern=hebben, Pattern=met, Pattern=die, Pattern=ik
+	Constrained: 
+Turn ID=21| B | B : en met links bovenop of met met bovenop zo'n twee streep
+	Free: Pattern=met, Pattern=en, Pattern=bovenop, Pattern=twee
+	Constrained: 
+Turn ID=22| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=23| A | A : stoomboot van jou
+	Free: 
+	Constrained: 
+Turn ID=24| A | A : met die L aan de zijkant
+	Free: Pattern=aan de zijkant, Pattern=met die
+	Constrained: Pattern=de, Pattern=met, Pattern=die, Pattern=aan de
+Turn ID=25| A | A : vijftien
+	Free: 
+	Constrained: 
+Turn ID=26| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=27| B | B : J
+	Free: 
+	Constrained: 
+Turn ID=28| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=29| A | A : welk zijn het
+	Free: Pattern=zijn
+	Constrained: 
+Turn ID=30| A | A : M negen ja maken niet uit
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=31| A | A : ik vergeetgen het zelf ook de heel tijd
+	Free: Pattern=de, Pattern=ik
+	Constrained: 
+Turn ID=32| B | B : die met die arm zo en die slurf
+	Free: Pattern=met die, Pattern=en, Pattern=die
+	Constrained: Pattern=met, Pattern=die
+Turn ID=33| A | A : je stoomboot
+	Free: Pattern=je
+	Constrained: 
+Turn ID=34| A | A : met de L aan de zijkant
+	Free: Pattern=aan de zijkant, Pattern=met, Pattern=de
+	Constrained: Pattern=aan de, Pattern=de
+Turn ID=35| A | A : achten
+	Free: 
+	Constrained: 

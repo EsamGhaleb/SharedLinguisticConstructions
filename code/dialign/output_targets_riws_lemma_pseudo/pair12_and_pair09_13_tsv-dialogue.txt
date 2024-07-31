@@ -1,0 +1,91 @@
+A|0| A: _ja_ vijfteen 
+B|1| B: [ja] deze hebben _drie_ bollet telkens als arm 
+B|2| B: _en_ staan _op een_ _groot_ vierkant 
+B|3| B: [ja] 
+B|4| B: [ja] 
+B|5| B: [ja] 
+B|6| B: verstrooien professor 
+A|7| A: [groot] plateau waar het [op] staat 
+A|8| A: [ja] _met_ _die_ 
+A|9| A: zes zes 
+A|10| A: [op een] plateau 
+A|11| A: [en] _de_ uitsteeksel [drie] 
+B|12| B: [ja] [de] [drie] [drie] dinget zeggen maar 
+B|13| B: [ja] 
+B|14| B: [ja] dit zijn k 
+A|15| A: zestien 
+A|16| A: beker [op een] plateau 
+B|17| B: dit zijn [die] [met] [de] haar 
+B|18| B: [de] pippi Langkous 
+B|19| B: nummer letter J 
+B|20| B: dit zijn pippi Langkous 
+B|21| B: g 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : ja vijfteen
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=1| B | B : ja deze hebben drie bollet telkens als arm
+	Free: Pattern=ja, Pattern=drie
+	Constrained: 
+Turn ID=2| B | B : en staan op een groot vierkant
+	Free: Pattern=op een, Pattern=groot, Pattern=en
+	Constrained: Pattern=op
+Turn ID=3| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=4| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=5| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=6| B | B : verstrooien professor
+	Free: 
+	Constrained: 
+Turn ID=7| A | A : groot plateau waar het op staat
+	Free: Pattern=groot, Pattern=op
+	Constrained: 
+Turn ID=8| A | A : ja met die
+	Free: Pattern=met, Pattern=ja, Pattern=die
+	Constrained: 
+Turn ID=9| A | A : zes zes
+	Free: 
+	Constrained: 
+Turn ID=10| A | A : op een plateau
+	Free: Pattern=op een
+	Constrained: Pattern=op
+Turn ID=11| A | A : en de uitsteeksel drie
+	Free: Pattern=en, Pattern=drie, Pattern=de
+	Constrained: 
+Turn ID=12| B | B : ja de drie drie dinget zeggen maar
+	Free: Pattern=ja, Pattern=drie, Pattern=de
+	Constrained: 
+Turn ID=13| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=14| B | B : ja dit zijn k
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=15| A | A : zestien
+	Free: 
+	Constrained: 
+Turn ID=16| A | A : beker op een plateau
+	Free: Pattern=op een
+	Constrained: Pattern=op
+Turn ID=17| B | B : dit zijn die met de haar
+	Free: Pattern=met, Pattern=die, Pattern=de
+	Constrained: 
+Turn ID=18| B | B : de pippi Langkous
+	Free: Pattern=de
+	Constrained: 
+Turn ID=19| B | B : nummer letter J
+	Free: 
+	Constrained: 
+Turn ID=20| B | B : dit zijn pippi Langkous
+	Free: 
+	Constrained: 
+Turn ID=21| B | B : g
+	Free: 
+	Constrained: 

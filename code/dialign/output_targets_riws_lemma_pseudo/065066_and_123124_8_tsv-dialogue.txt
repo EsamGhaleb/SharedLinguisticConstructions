@@ -1,0 +1,127 @@
+B|0| B: _met_ _aan_ allebei _de_ kant twee blokkentorens 
+B|1| B: _oké_ dan _zijn_ _het_ M 
+A|2| A: [oké] 
+A|3| A: _ja ik_ vinden _dit_ _een_ kraantje 
+A|4| A: _ja_ 
+A|5| A: nee bovenop _zien_ je _een_ _een_ _een_ kantelen vierkant [met] _van_ _die_ _ja_ echt _van_ _die_ kraan eraan _en aan de_ onder onder alsof [het] _een_ wasbak [zijn] 
+A|6| A: _ja hij_ hebben _een_ één 
+A|7| A: _hij_ hebben één arm 
+A|8| A: _ja_ 
+A|9| A: _ja_ 
+A|10| A: _ja_ _en aan de_ zijkant _en_ _ja_ 
+A|11| A: negen 
+B|12| B: [ja] [dit] [zijn] [ja ik] [zien] [het] als [een] karatepoppe 
+B|13| B: [met] [aan de] voorkant wel nog [een] soort Pinokkioneus 
+B|14| B: [die] naar rechts gaan 
+B|15| B: [en aan de] onderkant [en aan de] rechterkant [een] soort [van] buigen dinge 
+B|16| B: [ja] 
+A|17| A: [het] kraantje 
+A|18| A: [ja] 
+A|19| A: [ja] 
+A|20| A: [zijn] elf 
+B|21| B: Karate Kid waar staan Karate Kid 
+B|22| B: [ja] 
+B|23| B: dat [zijn] H 
+A|24| A: [het] kraantje 
+A|25| A: [ja] veertien 
+B|26| B: [dit] [zijn] Karate Kid poppe [met] [het] hoed ook wel 
+B|27| B: [ja] 
+B|28| B: Karate Kid staan dat [zijn] D 
+B|29| B: karatepoppe 
+B|30| B: [ja hij] staan bij mij helemaal links in [het] midden 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : met aan allebei de kant twee blokkentorens
+	Free: Pattern=de, Pattern=met, Pattern=aan
+	Constrained: 
+Turn ID=1| B | B : oké dan zijn het M
+	Free: Pattern=oké, Pattern=zijn, Pattern=het
+	Constrained: 
+Turn ID=2| A | A : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=3| A | A : ja ik vinden dit een kraantje
+	Free: Pattern=ja ik, Pattern=dit, Pattern=een
+	Constrained: Pattern=ja
+Turn ID=4| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=5| A | A : nee bovenop zien je een een een kantelen vierkant met van die ja echt van die kraan eraan en aan de onder onder alsof het een wasbak zijn
+	Free: Pattern=ja, Pattern=een, Pattern=het, Pattern=met, Pattern=van, Pattern=zijn, Pattern=en aan de, Pattern=die, Pattern=zien
+	Constrained: Pattern=aan de, Pattern=en, Pattern=de, Pattern=aan
+Turn ID=6| A | A : ja hij hebben een één
+	Free: Pattern=ja hij, Pattern=een
+	Constrained: Pattern=hij, Pattern=ja
+Turn ID=7| A | A : hij hebben één arm
+	Free: Pattern=hij
+	Constrained: 
+Turn ID=8| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=9| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=10| A | A : ja en aan de zijkant en ja
+	Free: Pattern=en aan de, Pattern=en, Pattern=ja
+	Constrained: Pattern=aan de, Pattern=en, Pattern=de, Pattern=aan
+Turn ID=11| A | A : negen
+	Free: 
+	Constrained: 
+Turn ID=12| B | B : ja dit zijn ja ik zien het als een karatepoppe
+	Free: Pattern=ja, Pattern=een, Pattern=het, Pattern=dit, Pattern=zien, Pattern=ja ik, Pattern=zijn
+	Constrained: Pattern=ja
+Turn ID=13| B | B : met aan de voorkant wel nog een soort Pinokkioneus
+	Free: Pattern=aan de, Pattern=met, Pattern=een
+	Constrained: Pattern=de, Pattern=aan
+Turn ID=14| B | B : die naar rechts gaan
+	Free: Pattern=die
+	Constrained: 
+Turn ID=15| B | B : en aan de onderkant en aan de rechterkant een soort van buigen dinge
+	Free: Pattern=en aan de, Pattern=van, Pattern=een
+	Constrained: Pattern=aan de, Pattern=en, Pattern=de, Pattern=aan
+Turn ID=16| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=17| A | A : het kraantje
+	Free: Pattern=het
+	Constrained: 
+Turn ID=18| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=19| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=20| A | A : zijn elf
+	Free: Pattern=zijn
+	Constrained: 
+Turn ID=21| B | B : Karate Kid waar staan Karate Kid
+	Free: 
+	Constrained: 
+Turn ID=22| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=23| B | B : dat zijn H
+	Free: Pattern=zijn
+	Constrained: 
+Turn ID=24| A | A : het kraantje
+	Free: Pattern=het
+	Constrained: 
+Turn ID=25| A | A : ja veertien
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=26| B | B : dit zijn Karate Kid poppe met het hoed ook wel
+	Free: Pattern=dit, Pattern=zijn, Pattern=het, Pattern=met
+	Constrained: 
+Turn ID=27| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=28| B | B : Karate Kid staan dat zijn D
+	Free: Pattern=zijn
+	Constrained: 
+Turn ID=29| B | B : karatepoppe
+	Free: 
+	Constrained: 
+Turn ID=30| B | B : ja hij staan bij mij helemaal links in het midden
+	Free: Pattern=ja hij, Pattern=het
+	Constrained: Pattern=hij, Pattern=ja

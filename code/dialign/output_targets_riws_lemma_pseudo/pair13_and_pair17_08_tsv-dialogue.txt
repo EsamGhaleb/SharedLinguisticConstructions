@@ -1,0 +1,127 @@
+B|0| B: _ja_ 
+B|1| B: o 
+A|2| A: even kijken _dit zijn_ best wel zo'n druk 
+A|3| A: het _hebben_ _aan de onderkant_ _hebben_ het _een soort_ [ja] laten maar zeggen uitstulp _en_ _een soort_ hand _wat_ daar hangen 
+A|4| A: _aan de onderkant_ [ja] 
+A|5| A: _dan_ kunnen _je_ daar _naar_ kijken 
+A|6| A: daarnaast _hebben_ het boven _hebben_ het _een soort_ laten maar zeggen alsof _je_ in _een_ cocktailtje _een soort_ citroen daarnaast _hebben_ plakken 
+A|7| A: _en dan_ _zijn_ het echt _een soort_ vierkan _wat_ daar zeggen maar _aan de_ bovenkant uitsteekt _en dan_ _uit_ dat vierkan lopen nog _twee_ dinget in 
+A|8| A: alsof _je_ _een_ cocktailglas _hebben_ _met_ _een soort_ citroen maar _dan_ _een_ vierkan 
+A|9| A: _en dan_ _hebben_ het _aan de onderkant_ zo'n hand _en_ daar rechts _hebben_ het _ook_ _een soort_ [ja] _twee_ uitsteeksel 
+A|10| A: okee 
+B|11| B: deze [hebben] [een soort] van staaf _die_ eruit komen onderaan _die_ [naar] [de] toe wijzen 
+B|12| B: [en] [aan de] zijkant komen er [ook] zoiets [uit] _wat [aan_ de] rechterkant [ook] [naar] [je] toe wijzen 
+B|13| B: bovenop [zijn] er [twee] ruit [en dan] 
+B|14| B: [ja] 
+B|15| B: [ja] d 
+B|16| B: deze [hebben] [de] ruit bovenop [met] [de] staaf eruit 
+B|17| B: [en] [aan de onderkant] [en] [aan de] rechterkant komen er [een soort] van iets [uit] [wat] [naar] jou toe wijzen 
+B|18| B: [ja] daarachter [soort] van [twee] ruit 
+B|19| B: [en] [aan de] [een] kant komen er _die_ blok [uit] [en] [aan de] ander kant 
+B|20| B: [ja] c 
+B|21| B: [dit zijn] [de] [met] [de] [twee] ruit bovenop [en] _waar_ [de] blok uitkomen 
+A|22| A: [ja] welk [zijn] het [ook] alweer 
+A|23| A: [ja] 
+A|24| A: [ja] [en] dus [een soort] dinge 
+A|25| A: [ja] dat [zijn] nummer acht 
+A|26| A: [ja] dat [zijn] dat cocktail citroen [wat aan] het beker zitten zeggen maar 
+A|27| A: [waar] [zijn] [die] 
+A|28| A: [ja] nummer drie 
+A|29| A: cocktailtje citroen [aan] het beker 
+A|30| A: [ja] dat [zijn] nummer vijf 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=1| B | B : o
+	Free: 
+	Constrained: 
+Turn ID=2| A | A : even kijken dit zijn best wel zo'n druk
+	Free: Pattern=dit zijn
+	Constrained: Pattern=zijn
+Turn ID=3| A | A : het hebben aan de onderkant hebben het een soort ja laten maar zeggen uitstulp en een soort hand wat daar hangen
+	Free: Pattern=ja, Pattern=hebben, Pattern=aan de onderkant, Pattern=wat, Pattern=een soort, Pattern=en
+	Constrained: Pattern=soort, Pattern=aan de, Pattern=een, Pattern=de, Pattern=aan
+Turn ID=4| A | A : aan de onderkant ja
+	Free: Pattern=aan de onderkant, Pattern=ja
+	Constrained: Pattern=aan, Pattern=de, Pattern=aan de
+Turn ID=5| A | A : dan kunnen je daar naar kijken
+	Free: Pattern=dan, Pattern=naar, Pattern=je
+	Constrained: 
+Turn ID=6| A | A : daarnaast hebben het boven hebben het een soort laten maar zeggen alsof je in een cocktailtje een soort citroen daarnaast hebben plakken
+	Free: Pattern=een soort, Pattern=hebben, Pattern=je, Pattern=een
+	Constrained: Pattern=soort, Pattern=een
+Turn ID=7| A | A : en dan zijn het echt een soort vierkan wat daar zeggen maar aan de bovenkant uitsteekt en dan uit dat vierkan lopen nog twee dinget in
+	Free: Pattern=twee, Pattern=en dan, Pattern=wat, Pattern=een soort, Pattern=zijn, Pattern=uit, Pattern=aan de
+	Constrained: Pattern=soort, Pattern=dan, Pattern=een, Pattern=en, Pattern=de, Pattern=aan
+Turn ID=8| A | A : alsof je een cocktailglas hebben met een soort citroen maar dan een vierkan
+	Free: Pattern=dan, Pattern=een, Pattern=hebben, Pattern=met, Pattern=een soort, Pattern=je
+	Constrained: Pattern=soort, Pattern=een
+Turn ID=9| A | A : en dan hebben het aan de onderkant zo'n hand en daar rechts hebben het ook een soort ja twee uitsteeksel
+	Free: Pattern=twee, Pattern=ja, Pattern=en dan, Pattern=ook, Pattern=hebben, Pattern=aan de onderkant, Pattern=een soort, Pattern=en
+	Constrained: Pattern=soort, Pattern=aan de, Pattern=dan, Pattern=een, Pattern=en, Pattern=de, Pattern=aan
+Turn ID=10| A | A : okee
+	Free: 
+	Constrained: 
+Turn ID=11| B | B : deze hebben een soort van staaf die eruit komen onderaan die naar de toe wijzen
+	Free: Pattern=de, Pattern=hebben, Pattern=die, Pattern=een soort, Pattern=naar
+	Constrained: Pattern=soort, Pattern=een
+Turn ID=12| B | B : en aan de zijkant komen er ook zoiets uit wat aan de rechterkant ook naar je toe wijzen
+	Free: Pattern=wat aan, Pattern=en, Pattern=je, Pattern=naar, Pattern=uit, Pattern=aan de, Pattern=ook
+	Constrained: Pattern=de, Pattern=wat, Pattern=aan
+Turn ID=13| B | B : bovenop zijn er twee ruit en dan
+	Free: Pattern=en dan, Pattern=zijn, Pattern=twee
+	Constrained: Pattern=en, Pattern=dan
+Turn ID=14| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=15| B | B : ja d
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=16| B | B : deze hebben de ruit bovenop met de staaf eruit
+	Free: Pattern=de, Pattern=hebben, Pattern=met
+	Constrained: 
+Turn ID=17| B | B : en aan de onderkant en aan de rechterkant komen er een soort van iets uit wat naar jou toe wijzen
+	Free: Pattern=aan de onderkant, Pattern=wat, Pattern=een soort, Pattern=en, Pattern=naar, Pattern=uit, Pattern=aan de
+	Constrained: Pattern=soort, Pattern=aan de, Pattern=een, Pattern=de, Pattern=aan
+Turn ID=18| B | B : ja daarachter soort van twee ruit
+	Free: Pattern=soort, Pattern=ja, Pattern=twee
+	Constrained: 
+Turn ID=19| B | B : en aan de een kant komen er die blok uit en aan de ander kant
+	Free: Pattern=een, Pattern=die, Pattern=en, Pattern=uit, Pattern=aan de
+	Constrained: Pattern=de, Pattern=aan
+Turn ID=20| B | B : ja c
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=21| B | B : dit zijn de met de twee ruit bovenop en waar de blok uitkomen
+	Free: Pattern=twee, Pattern=de, Pattern=waar, Pattern=met, Pattern=en, Pattern=dit zijn
+	Constrained: Pattern=zijn
+Turn ID=22| A | A : ja welk zijn het ook alweer
+	Free: Pattern=zijn, Pattern=ook, Pattern=ja
+	Constrained: 
+Turn ID=23| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=24| A | A : ja en dus een soort dinge
+	Free: Pattern=een soort, Pattern=en, Pattern=ja
+	Constrained: Pattern=soort, Pattern=een
+Turn ID=25| A | A : ja dat zijn nummer acht
+	Free: Pattern=zijn, Pattern=ja
+	Constrained: 
+Turn ID=26| A | A : ja dat zijn dat cocktail citroen wat aan het beker zitten zeggen maar
+	Free: Pattern=wat aan, Pattern=zijn, Pattern=ja
+	Constrained: Pattern=wat, Pattern=aan
+Turn ID=27| A | A : waar zijn die
+	Free: Pattern=zijn, Pattern=die, Pattern=waar
+	Constrained: 
+Turn ID=28| A | A : ja nummer drie
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=29| A | A : cocktailtje citroen aan het beker
+	Free: Pattern=aan
+	Constrained: 
+Turn ID=30| A | A : ja dat zijn nummer vijf
+	Free: Pattern=zijn, Pattern=ja
+	Constrained: 

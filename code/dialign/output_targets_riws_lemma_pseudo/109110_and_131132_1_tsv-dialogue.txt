@@ -1,0 +1,127 @@
+A|0| A: o _en_ erboven zitten nog een normaal spijker 
+A|1| A: _ja_ vlak _ja_ _ja_ _dat_ weten _ik_ wel 
+A|2| A: _twee_ 
+B|3| B: oké 
+B|4| B: _dan_ hebben [ik] _die met die_ [twee] verrekijkert 
+B|5| B: [ja] 
+B|6| B: _en dan_ zo'n _vierkant_ dinge _aan de_ zijkant 
+B|7| B: [ja] 
+A|8| A: nou hier zitten gewoon wat het veel lijken op een spijker bovenin [en dan] [twee] _van_ [die] [vierkant] achtig ding [aan de] linkerkant 
+A|9| A: [ja] [de] normaal spijker 
+A|10| A: [ja] ook [ja] 
+B|11| B: _met_ [twee] 
+B|12| B: even kijken waar [die] staan 
+B|13| B: daar 
+B|14| B: G 
+A|15| A: o 
+A|16| A: o [met [die] met] _dat_ platvorm _en die_ normaal spijker 
+A|17| A: bedoelen je 
+A|18| A: [ja] [die] normaal spijker [ja] _dat_ [dan] weten [ik] al genoeg 
+A|19| A: [ja] negen 
+B|20| B: oké dit zijn [met die] [twee] verrekijker [en die] antenne 
+A|21| A: [die met die] normaal spijker 
+A|22| A: [ja] 
+B|23| B: [met] [twee] [dat] zijn D 
+A|24| A: [ja] één 
+A|25| A: één misgaan vlot nu 
+B|26| B: dit zijn [met die] dubbel verrekijker 
+A|27| A: [met die] normaal spijker [en] [dat] vierkan of [ja] [vierkant] 
+B|28| B: [die] zijn wisselen [met die] penseel [van] mij volgens mij 
+B|29| B: [ja] 
+B|30| B: even kijken [dat] zijn bij mij B 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : o en erboven zitten nog een normaal spijker
+	Free: Pattern=en
+	Constrained: 
+Turn ID=1| A | A : ja vlak ja ja dat weten ik wel
+	Free: Pattern=dat, Pattern=ik, Pattern=ja
+	Constrained: 
+Turn ID=2| A | A : twee
+	Free: Pattern=twee
+	Constrained: 
+Turn ID=3| B | B : oké
+	Free: 
+	Constrained: 
+Turn ID=4| B | B : dan hebben ik die met die twee verrekijkert
+	Free: Pattern=die met die, Pattern=dan, Pattern=ik, Pattern=twee
+	Constrained: Pattern=met die, Pattern=die met, Pattern=met, Pattern=die
+Turn ID=5| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=6| B | B : en dan zo'n vierkant dinge aan de zijkant
+	Free: Pattern=aan de, Pattern=en dan, Pattern=vierkant
+	Constrained: Pattern=dan, Pattern=de, Pattern=en
+Turn ID=7| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=8| A | A : nou hier zitten gewoon wat het veel lijken op een spijker bovenin en dan twee van die vierkant achtig ding aan de linkerkant
+	Free: Pattern=twee, Pattern=en dan, Pattern=aan de, Pattern=die, Pattern=van, Pattern=vierkant
+	Constrained: Pattern=dan, Pattern=de, Pattern=en
+Turn ID=9| A | A : ja de normaal spijker
+	Free: Pattern=de, Pattern=ja
+	Constrained: 
+Turn ID=10| A | A : ja ook ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=11| B | B : met twee
+	Free: Pattern=twee, Pattern=met
+	Constrained: 
+Turn ID=12| B | B : even kijken waar die staan
+	Free: Pattern=die
+	Constrained: 
+Turn ID=13| B | B : daar
+	Free: 
+	Constrained: 
+Turn ID=14| B | B : G
+	Free: 
+	Constrained: 
+Turn ID=15| A | A : o
+	Free: 
+	Constrained: 
+Turn ID=16| A | A : o met die met dat platvorm en die normaal spijker
+	Free: Pattern=met die, Pattern=die met, Pattern=en die, Pattern=dat
+	Constrained: Pattern=met, Pattern=die, Pattern=en
+Turn ID=17| A | A : bedoelen je
+	Free: 
+	Constrained: 
+Turn ID=18| A | A : ja die normaal spijker ja dat dan weten ik al genoeg
+	Free: Pattern=dat, Pattern=ja, Pattern=dan, Pattern=die, Pattern=ik
+	Constrained: 
+Turn ID=19| A | A : ja negen
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=20| B | B : oké dit zijn met die twee verrekijker en die antenne
+	Free: Pattern=met die, Pattern=en die, Pattern=twee
+	Constrained: Pattern=met, Pattern=die, Pattern=en
+Turn ID=21| A | A : die met die normaal spijker
+	Free: Pattern=die met die
+	Constrained: Pattern=met die, Pattern=die met, Pattern=met, Pattern=die
+Turn ID=22| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=23| B | B : met twee dat zijn D
+	Free: Pattern=dat, Pattern=twee, Pattern=met
+	Constrained: 
+Turn ID=24| A | A : ja één
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=25| A | A : één misgaan vlot nu
+	Free: 
+	Constrained: 
+Turn ID=26| B | B : dit zijn met die dubbel verrekijker
+	Free: Pattern=met die
+	Constrained: Pattern=met, Pattern=die
+Turn ID=27| A | A : met die normaal spijker en dat vierkan of ja vierkant
+	Free: Pattern=ja, Pattern=en, Pattern=vierkant, Pattern=dat, Pattern=met die
+	Constrained: Pattern=met, Pattern=die
+Turn ID=28| B | B : die zijn wisselen met die penseel van mij volgens mij
+	Free: Pattern=met die, Pattern=van, Pattern=die
+	Constrained: Pattern=met, Pattern=die
+Turn ID=29| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=30| B | B : even kijken dat zijn bij mij B
+	Free: Pattern=dat
+	Constrained: 

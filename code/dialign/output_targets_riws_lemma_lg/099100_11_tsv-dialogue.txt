@@ -1,0 +1,127 @@
+B|0| B: _dit zijn_ _een_ _een_ soort _theekopje met twee_ lepelt _erin_ 
+B|1| B: _één_ hebben _een_ _wat puntig en_ _een_ neus hebben _die_ _en_ _één_ oor 
+A|2| A: oké _ja_ 
+A|3| A: [en] _zitten_ _er_ zo'n hoe heten zoiets ? [een] rechthoek _in_ zo'n 
+B|4| B: [ja] [er] [zitten] [een] [een] staaf of [een] _balk_ [in] 
+A|5| A: oké _dan zijn het_ nummer veertien 
+A|6| A: oké _dit zijn weer dat theekopje_ [wat] jij omschrijven maar _dan_ [met twee] dinget [erin] _de_ [één] [wat puntig _en] de_ ander zo'n 
+B|7| B: [ja] 
+B|8| B: _balk_ 
+A|9| A: [balk] 
+B|10| B: [en de] oor [en de] neus 
+A|11| A: [ja] 
+B|12| B: [dan zijn het] N 
+B|13| B: [dit zijn weer dat theekopje] 
+B|14| B: _met die_ eenpuntig uitsteeksel [één] [balk] 
+B|15| B: oor [en de] neus 
+A|16| A: [ja] 
+A|17| A: _met die twee_ ding [erin] toch 
+B|18| B: [ja] 
+A|19| A: [ja] 
+A|20| A: oké _dat zijn_ nummer negen 
+A|21| A: [dit zijn] [dat theekopje] eigenlijk maar [dan] [met twee] dinge [in] dus [dat] [puntig en] [die] 
+B|22| B: [ja] 
+B|23| B: [ja] 
+B|24| B: [dat zijn] [dan] G 
+B|25| B: [dit zijn weer _dat theekopje] [met_ die twee] staaf [erin] 
+B|26| B: [één] [puntig en] [één] [balk] 
+A|27| A: nummer vijf 
+A|28| A: [dit zijn] [dat [theekopje met] twee] ding [erin] dus [dat] [puntig en] [die] rechthoekig 
+B|29| B: [ja] 
+B|30| B: [dat zijn] J 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : dit zijn een een soort theekopje met twee lepelt erin
+	Free: Pattern=theekopje met twee, Pattern=dit zijn, Pattern=erin, Pattern=een
+	Constrained: Pattern=met twee
+Turn ID=1| B | B : één hebben een wat puntig en een neus hebben die en één oor
+	Free: Pattern=wat puntig en, Pattern=een, Pattern=die, Pattern=en, Pattern=één
+	Constrained: Pattern=puntig en, Pattern=en, Pattern=wat
+Turn ID=2| A | A : oké ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=3| A | A : en zitten er zo'n hoe heten zoiets ? een rechthoek in zo'n
+	Free: Pattern=een, Pattern=in, Pattern=zitten, Pattern=er, Pattern=en
+	Constrained: 
+Turn ID=4| B | B : ja er zitten een een staaf of een balk in
+	Free: Pattern=ja, Pattern=een, Pattern=in, Pattern=balk, Pattern=zitten, Pattern=er
+	Constrained: 
+Turn ID=5| A | A : oké dan zijn het nummer veertien
+	Free: Pattern=dan zijn het
+	Constrained: Pattern=dan
+Turn ID=6| A | A : oké dit zijn weer dat theekopje wat jij omschrijven maar dan met twee dinget erin de één wat puntig en de ander zo'n
+	Free: Pattern=de, Pattern=wat puntig en, Pattern=dan, Pattern=en de, Pattern=met twee, Pattern=wat, Pattern=erin, Pattern=één, Pattern=dit zijn weer dat theekopje
+	Constrained: Pattern=dat, Pattern=puntig en, Pattern=de, Pattern=dat theekopje, Pattern=wat, Pattern=en, Pattern=dit zijn
+Turn ID=7| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=8| B | B : balk
+	Free: Pattern=balk
+	Constrained: 
+Turn ID=9| A | A : balk
+	Free: Pattern=balk
+	Constrained: 
+Turn ID=10| B | B : en de oor en de neus
+	Free: Pattern=en de
+	Constrained: Pattern=de, Pattern=en
+Turn ID=11| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=12| B | B : dan zijn het N
+	Free: Pattern=dan zijn het
+	Constrained: Pattern=dan
+Turn ID=13| B | B : dit zijn weer dat theekopje
+	Free: Pattern=dit zijn weer dat theekopje
+	Constrained: Pattern=dit zijn, Pattern=dat, Pattern=dat theekopje
+Turn ID=14| B | B : met die eenpuntig uitsteeksel één balk
+	Free: Pattern=met die, Pattern=één, Pattern=balk
+	Constrained: Pattern=die
+Turn ID=15| B | B : oor en de neus
+	Free: Pattern=en de
+	Constrained: Pattern=de, Pattern=en
+Turn ID=16| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=17| A | A : met die twee ding erin toch
+	Free: Pattern=met die twee, Pattern=erin
+	Constrained: Pattern=die, Pattern=met die
+Turn ID=18| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=19| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=20| A | A : oké dat zijn nummer negen
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat
+Turn ID=21| A | A : dit zijn dat theekopje eigenlijk maar dan met twee dinge in dus dat puntig en die
+	Free: Pattern=dat, Pattern=puntig en, Pattern=dan, Pattern=dat theekopje, Pattern=die, Pattern=dit zijn, Pattern=met twee, Pattern=in
+	Constrained: Pattern=dat, Pattern=en
+Turn ID=22| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=23| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=24| B | B : dat zijn dan G
+	Free: Pattern=dat zijn, Pattern=dan
+	Constrained: Pattern=dat
+Turn ID=25| B | B : dit zijn weer dat theekopje met die twee staaf erin
+	Free: Pattern=dit zijn weer dat theekopje, Pattern=dat theekopje met, Pattern=met die twee, Pattern=erin
+	Constrained: Pattern=dat theekopje, Pattern=die, Pattern=dit zijn, Pattern=dat, Pattern=met die
+Turn ID=26| B | B : één puntig en één balk
+	Free: Pattern=puntig en, Pattern=één, Pattern=balk
+	Constrained: Pattern=en
+Turn ID=27| A | A : nummer vijf
+	Free: 
+	Constrained: 
+Turn ID=28| A | A : dit zijn dat theekopje met twee ding erin dus dat puntig en die rechthoekig
+	Free: Pattern=dat, Pattern=puntig en, Pattern=theekopje met twee, Pattern=dat theekopje met, Pattern=die, Pattern=erin, Pattern=dit zijn
+	Constrained: Pattern=dat, Pattern=en, Pattern=met twee, Pattern=dat theekopje
+Turn ID=29| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=30| B | B : dat zijn J
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat

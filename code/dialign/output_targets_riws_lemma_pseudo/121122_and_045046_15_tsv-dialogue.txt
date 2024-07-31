@@ -1,0 +1,91 @@
+A|0| A: _ja_ zo'n zo'n _soort_ tutu _en_ _dan_ hebben _die_ zo'n omgedraaide L _als_ _linkerkant_ 
+A|1| A: oké dat _zijn_ _bij mij_ nummer zes 
+B|2| B: de er zitten _een_ [soort] van haak aan de [linkerkant] 
+B|3| B: [en] er steken twee dinge bovenuit 
+B|4| B: [en] er zitten _een_ _vierkant_ schijf doorheen 
+B|5| B: _ik_ zien het ook [als] _een_ glijbaan 
+B|6| B: C 
+A|7| A: _die_ [een] _met_ dat [vierkant] op ongeveer buikhoogte 
+A|8| A: _ja_ _ja_ tutu noemen [ik] hem _met_ _die_ L 
+A|9| A: _ja_ 
+B|10| B: [bij mij] [zijn] weer [met] de glijbaan 
+A|11| A: [en] dat [zijn] dertien 
+B|12| B: [dan] weten je denken [ik] welk [ik] bedoelen 
+A|13| A: _die_ [met] _die_ _die_ tutu [en] dat dat L'etje 
+B|14| B: [ja] J 
+A|15| A: [ja] dat [zijn] nummer negen 
+B|16| B: dit [zijn] de glijbaan 
+A|17| A: _die_ [met] _die_ [met] dat rok 
+A|18| A: [ja] 
+B|19| B: [ja] 
+B|20| B: waar [zijn] [die] 
+B|21| B: N 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : ja zo'n zo'n soort tutu en dan hebben die zo'n omgedraaide L als linkerkant
+	Free: Pattern=soort, Pattern=ja, Pattern=dan, Pattern=als, Pattern=die, Pattern=en, Pattern=linkerkant
+	Constrained: 
+Turn ID=1| A | A : oké dat zijn bij mij nummer zes
+	Free: Pattern=bij mij, Pattern=zijn
+	Constrained: 
+Turn ID=2| B | B : de er zitten een soort van haak aan de linkerkant
+	Free: Pattern=een, Pattern=soort, Pattern=linkerkant
+	Constrained: 
+Turn ID=3| B | B : en er steken twee dinge bovenuit
+	Free: Pattern=en
+	Constrained: 
+Turn ID=4| B | B : en er zitten een vierkant schijf doorheen
+	Free: Pattern=een, Pattern=vierkant, Pattern=en
+	Constrained: 
+Turn ID=5| B | B : ik zien het ook als een glijbaan
+	Free: Pattern=een, Pattern=als, Pattern=ik
+	Constrained: 
+Turn ID=6| B | B : C
+	Free: 
+	Constrained: 
+Turn ID=7| A | A : die een met dat vierkant op ongeveer buikhoogte
+	Free: Pattern=met, Pattern=een, Pattern=vierkant, Pattern=die
+	Constrained: 
+Turn ID=8| A | A : ja ja tutu noemen ik hem met die L
+	Free: Pattern=met, Pattern=ja, Pattern=ik, Pattern=die
+	Constrained: 
+Turn ID=9| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=10| B | B : bij mij zijn weer met de glijbaan
+	Free: Pattern=bij mij, Pattern=met, Pattern=zijn
+	Constrained: 
+Turn ID=11| A | A : en dat zijn dertien
+	Free: Pattern=en, Pattern=zijn
+	Constrained: 
+Turn ID=12| B | B : dan weten je denken ik welk ik bedoelen
+	Free: Pattern=ik, Pattern=dan
+	Constrained: 
+Turn ID=13| A | A : die met die die tutu en dat dat L'etje
+	Free: Pattern=met, Pattern=en, Pattern=die
+	Constrained: 
+Turn ID=14| B | B : ja J
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=15| A | A : ja dat zijn nummer negen
+	Free: Pattern=ja, Pattern=zijn
+	Constrained: 
+Turn ID=16| B | B : dit zijn de glijbaan
+	Free: Pattern=zijn
+	Constrained: 
+Turn ID=17| A | A : die met die met dat rok
+	Free: Pattern=met, Pattern=die
+	Constrained: 
+Turn ID=18| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=19| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=20| B | B : waar zijn die
+	Free: Pattern=zijn, Pattern=die
+	Constrained: 
+Turn ID=21| B | B : N
+	Free: 
+	Constrained: 

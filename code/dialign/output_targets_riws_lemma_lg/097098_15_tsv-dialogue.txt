@@ -1,0 +1,131 @@
+B|0| B: ik _hebben_ hem deze keer in principe lijken het _een soort_ plaat te _hebben_ over in het midden _van_ het kelkvormig dinge of in het midden _van_ _de_ 
+B|1| B: mokvormig basisvorm 
+B|2| B: dan _hebben_ je _twee_ uitsteeksel _aan de bovenkant_ _en _een_ soort_ hoekuitsteeksel _en_ dan nog _een_ cilindervormig ding 
+A|3| A: _ja_ 
+A|4| A: _dat zijn_ hier nummer zestien 
+A|5| A: dit _zijn_ [de] koffiemok _die twee klein_ staafjes [aan de bovenkant] [hebben] _die_ even groot _zijn_ 
+B|6| B: [ja] 
+A|7| A: er _zitten_ ook [een] _vierkant_ schot omheen 
+B|8| B: [ja] dan weten ik wel [dat zijn] denken ik C met [een] cilinder _en_ dan [een] hoek [aan de] 
+A|9| A: [ja] 
+B|10| B: [ja] C 
+A|11| A: [ja] 
+B|12| B: ik [hebben] degeen _waarbij_ op [een] drie _van_ [de] basisvorm _een soort_ [vierkant] [zitten] 
+B|13| B: daarboven [zijn] _een soort_ uitstekend cilinder 
+B|14| B: _en_ dan [twee] _van_ [die] _gelijk_ [klein] balkjes boven _en_ dan rechts of _link_ nog [een] hoekig handvat 
+A|15| A: [ja] 
+A|16| A: [dat zijn] hier nummer dertien 
+A|17| A: dit [zijn] [de] mok waar [een] _plateau_ [aan] vastzitten eigenlijk [aan de] onderkant 
+A|18| A: [en] er komen [twee] [gelijk] stokjes [aan de bovenkant] uit 
+A|19| A: [link] komen [een soort] [van] tetrisblokje uit [en] [aan de] voorkant [een] lang rond vorm 
+B|20| B: [ja] 
+B|21| B: [ja] 
+B|22| B: [dat zijn] bij mij J 
+B|23| B: ik [hebben] degeen met op [een] drie dus [dat] [dat] [soort] [plateau] [dat] het doorklieven [en] dan links 
+B|24| B: [de] het uitsteeksel met [een] hoek erin [en] boven [die twee klein] blok [en] dan voor 
+A|25| A: [ja] 
+A|26| A: nummer negen 
+A|27| A: dit [zijn] [de] mok [waarbij] er [twee] dezelfde stokjes [aan de bovenkant] uit komen 
+A|28| A: [aan de] onderkant zo'n [vierkant] [plateau] [zitten] 
+B|29| B: [ja] 
+A|30| A: [link] zo'n tetrisblok uit komen [en een] rond [aan de] voorkant 
+B|31| B: yes N 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : ik hebben hem deze keer in principe lijken het een soort plaat te hebben over in het midden van het kelkvormig dinge of in het midden van de
+	Free: Pattern=een soort, Pattern=hebben, Pattern=van, Pattern=de
+	Constrained: Pattern=soort, Pattern=een
+Turn ID=1| B | B : mokvormig basisvorm
+	Free: 
+	Constrained: 
+Turn ID=2| B | B : dan hebben je twee uitsteeksel aan de bovenkant en een soort hoekuitsteeksel en dan nog een cilindervormig ding
+	Free: Pattern=twee, Pattern=een, Pattern=hebben, Pattern=een soort, Pattern=en een, Pattern=aan de bovenkant, Pattern=en
+	Constrained: Pattern=soort, Pattern=aan de, Pattern=een, Pattern=en, Pattern=de, Pattern=aan
+Turn ID=3| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=4| A | A : dat zijn hier nummer zestien
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=5| A | A : dit zijn de koffiemok die twee klein staafjes aan de bovenkant hebben die even groot zijn
+	Free: Pattern=de, Pattern=die, Pattern=aan de bovenkant, Pattern=zijn, Pattern=die twee klein, Pattern=hebben
+	Constrained: Pattern=twee, Pattern=aan de, Pattern=die, Pattern=klein, Pattern=de, Pattern=aan
+Turn ID=6| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=7| A | A : er zitten ook een vierkant schot omheen
+	Free: Pattern=vierkant, Pattern=zitten, Pattern=een
+	Constrained: 
+Turn ID=8| B | B : ja dan weten ik wel dat zijn denken ik C met een cilinder en dan een hoek aan de
+	Free: Pattern=dat zijn, Pattern=ja, Pattern=aan de, Pattern=een, Pattern=en
+	Constrained: Pattern=dat, Pattern=zijn, Pattern=aan, Pattern=de
+Turn ID=9| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=10| B | B : ja C
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=11| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=12| B | B : ik hebben degeen waarbij op een drie van de basisvorm een soort vierkant zitten
+	Free: Pattern=de, Pattern=waarbij, Pattern=een, Pattern=hebben, Pattern=zitten, Pattern=een soort, Pattern=van, Pattern=vierkant
+	Constrained: Pattern=soort, Pattern=een
+Turn ID=13| B | B : daarboven zijn een soort uitstekend cilinder
+	Free: Pattern=een soort, Pattern=zijn
+	Constrained: Pattern=soort, Pattern=een
+Turn ID=14| B | B : en dan twee van die gelijk klein balkjes boven en dan rechts of link nog een hoekig handvat
+	Free: Pattern=twee, Pattern=een, Pattern=die, Pattern=link, Pattern=klein, Pattern=gelijk, Pattern=van, Pattern=en
+	Constrained: 
+Turn ID=15| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=16| A | A : dat zijn hier nummer dertien
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=17| A | A : dit zijn de mok waar een plateau aan vastzitten eigenlijk aan de onderkant
+	Free: Pattern=aan de, Pattern=een, Pattern=plateau, Pattern=zijn, Pattern=de, Pattern=aan
+	Constrained: Pattern=aan, Pattern=de
+Turn ID=18| A | A : en er komen twee gelijk stokjes aan de bovenkant uit
+	Free: Pattern=aan de bovenkant, Pattern=en, Pattern=twee, Pattern=gelijk
+	Constrained: Pattern=aan, Pattern=de, Pattern=aan de
+Turn ID=19| A | A : link komen een soort van tetrisblokje uit en aan de voorkant een lang rond vorm
+	Free: Pattern=aan de, Pattern=een, Pattern=link, Pattern=een soort, Pattern=van, Pattern=en
+	Constrained: Pattern=soort, Pattern=aan, Pattern=de, Pattern=een
+Turn ID=20| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=21| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=22| B | B : dat zijn bij mij J
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=23| B | B : ik hebben degeen met op een drie dus dat dat soort plateau dat het doorklieven en dan links
+	Free: Pattern=dat, Pattern=soort, Pattern=een, Pattern=hebben, Pattern=plateau, Pattern=en
+	Constrained: 
+Turn ID=24| B | B : de het uitsteeksel met een hoek erin en boven die twee klein blok en dan voor
+	Free: Pattern=die twee klein, Pattern=en, Pattern=de, Pattern=een
+	Constrained: Pattern=twee, Pattern=die, Pattern=klein
+Turn ID=25| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=26| A | A : nummer negen
+	Free: 
+	Constrained: 
+Turn ID=27| A | A : dit zijn de mok waarbij er twee dezelfde stokjes aan de bovenkant uit komen
+	Free: Pattern=twee, Pattern=de, Pattern=waarbij, Pattern=aan de bovenkant, Pattern=zijn
+	Constrained: Pattern=aan, Pattern=de, Pattern=aan de
+Turn ID=28| A | A : aan de onderkant zo'n vierkant plateau zitten
+	Free: Pattern=aan de, Pattern=vierkant, Pattern=zitten, Pattern=plateau
+	Constrained: Pattern=aan, Pattern=de
+Turn ID=29| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=30| A | A : link zo'n tetrisblok uit komen en een rond aan de voorkant
+	Free: Pattern=en een, Pattern=aan de, Pattern=link
+	Constrained: Pattern=en, Pattern=aan, Pattern=de, Pattern=een
+Turn ID=31| B | B : yes N
+	Free: 
+	Constrained: 

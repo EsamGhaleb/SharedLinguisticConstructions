@@ -1,0 +1,151 @@
+A|0| A: _het_ kop _aan_ beide kant hebben _je_ een _soort_ staafje _aan_ maar _dat_ stoppen _met_ een bolle of een _ja_ _niet_ een helemaal rond bollet , maar _aan_ beide kant , _aan de_ een kant _rechterkant_ _zijn_ groot of 
+A|1| A: hebben _je hem_ 
+A|2| A: _ja_ _aan de_ bovenkant zitten een _soort_ vierkant verstoppen 
+B|3| B: [soort] van pedaal 
+B|4| B: okee 
+B|5| B: [ja] [ja] [ja] voor [de] rest kunnen [je hem] volgens mij _ook_ [niet] echt omschrijven 
+B|6| B: [dat] [zijn] vrij vrij basic _deze_ 
+B|7| B: [ja] 
+B|8| B: _dan_ [zijn] [het] m 
+A|9| A: [ja] snapen ik 
+A|10| A: [ja] 
+A|11| A: oké _en_ [zijn] daar achter zitten [ook] een [soort] vierkantje verstoppen 
+A|12| A: oké 
+A|13| A: nummer zes 
+B|14| B: _deze_ [zijn] _die_ [dat] [dat] pedaal weten [je] wel 
+B|15| B: _die_ _die_ [dat] [soort] van 
+B|16| B: _met die_ _met die_ twee kegel [aan de] zijkant 
+B|17| B: [ja] _met die_ stang doorheen [ja] 
+B|18| B: [ja] 
+A|19| A: oké [deze] hebben [aan] beide kant _iets_ uitsteken , _aan de rechterkant_ [zijn] hij _iets_ lang [dan] _aan de linkerkant en_ er [zijn] een [soort] plat bollet 
+A|20| A: [met die] plat rond _en die_ een [die] _iets_ groot [zijn] [dan] [die] ander 
+A|21| A: oké nummer achten 
+B|22| B: [ja] [ja] [ja] 
+B|23| B: [ja] [dat] klein staaf [aan de linkerkant en] [aan de rechterkant] [die] _steken_ [iets] ver uit 
+B|24| B: [ja] okee [dat] [zijn] p 
+A|25| A: [deze] hebben [aan] beide kant een uitstulpsel , [de] een kant [zijn] [iets] groot [dan] [de] ander kant [en] [dan] een [soort] plat bolle erop 
+B|26| B: dit [zijn] [die] dit [zijn] [dat] wel [met] [dat] pedaal weten [je] wel 
+B|27| B: [en die] twee kegel [aan de] [aan de] onderkant 
+B|28| B: [ja] 
+A|29| A: even kijken 
+A|30| A: [die] [aan de] buitenkant [steken] bedoelen [je] 
+A|31| A: [met die] uh , nummer tien 
+B|32| B: sorry 
+B|33| B: Ah okee [ja] [ja] [ja] 
+B|34| B: [dat] maken [niet] uit 
+B|35| B: [dat] [zijn] l 
+B|36| B: dit [zijn] [de] [het] pedaal [met] [de] kegel 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : het kop aan beide kant hebben je een soort staafje aan maar dat stoppen met een bolle of een ja niet een helemaal rond bollet , maar aan beide kant , aan de een kant rechterkant zijn groot of
+	Free: Pattern=dat, Pattern=soort, Pattern=aan de, Pattern=niet, Pattern=het, Pattern=rechterkant, Pattern=met, Pattern=zijn, Pattern=je, Pattern=aan, Pattern=ja
+	Constrained: Pattern=de, Pattern=aan
+Turn ID=1| A | A : hebben je hem
+	Free: Pattern=je hem
+	Constrained: Pattern=je
+Turn ID=2| A | A : ja aan de bovenkant zitten een soort vierkant verstoppen
+	Free: Pattern=aan de, Pattern=soort, Pattern=ja
+	Constrained: Pattern=de, Pattern=aan
+Turn ID=3| B | B : soort van pedaal
+	Free: Pattern=soort
+	Constrained: 
+Turn ID=4| B | B : okee
+	Free: 
+	Constrained: 
+Turn ID=5| B | B : ja ja ja voor de rest kunnen je hem volgens mij ook niet echt omschrijven
+	Free: Pattern=ook, Pattern=niet, Pattern=je hem, Pattern=de, Pattern=ja
+	Constrained: Pattern=je
+Turn ID=6| B | B : dat zijn vrij vrij basic deze
+	Free: Pattern=dat, Pattern=zijn, Pattern=deze
+	Constrained: 
+Turn ID=7| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=8| B | B : dan zijn het m
+	Free: Pattern=dan, Pattern=zijn, Pattern=het
+	Constrained: 
+Turn ID=9| A | A : ja snapen ik
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=10| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=11| A | A : oké en zijn daar achter zitten ook een soort vierkantje verstoppen
+	Free: Pattern=zijn, Pattern=ook, Pattern=soort, Pattern=en
+	Constrained: 
+Turn ID=12| A | A : oké
+	Free: 
+	Constrained: 
+Turn ID=13| A | A : nummer zes
+	Free: 
+	Constrained: 
+Turn ID=14| B | B : deze zijn die dat dat pedaal weten je wel
+	Free: Pattern=dat, Pattern=die, Pattern=zijn, Pattern=deze, Pattern=je
+	Constrained: 
+Turn ID=15| B | B : die die dat soort van
+	Free: Pattern=dat, Pattern=die, Pattern=soort
+	Constrained: 
+Turn ID=16| B | B : met die met die twee kegel aan de zijkant
+	Free: Pattern=aan de, Pattern=met die
+	Constrained: Pattern=die, Pattern=met, Pattern=de, Pattern=aan
+Turn ID=17| B | B : ja met die stang doorheen ja
+	Free: Pattern=met die, Pattern=ja
+	Constrained: Pattern=die, Pattern=met
+Turn ID=18| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=19| A | A : oké deze hebben aan beide kant iets uitsteken , aan de rechterkant zijn hij iets lang dan aan de linkerkant en er zijn een soort plat bollet
+	Free: Pattern=soort, Pattern=dan, Pattern=aan de rechterkant, Pattern=deze, Pattern=aan, Pattern=iets, Pattern=aan de linkerkant en, Pattern=zijn
+	Constrained: Pattern=aan de, Pattern=rechterkant, Pattern=en, Pattern=de, Pattern=aan
+Turn ID=20| A | A : met die plat rond en die een die iets groot zijn dan die ander
+	Free: Pattern=en die, Pattern=met die, Pattern=iets, Pattern=dan, Pattern=die, Pattern=zijn
+	Constrained: Pattern=die, Pattern=met, Pattern=en
+Turn ID=21| A | A : oké nummer achten
+	Free: 
+	Constrained: 
+Turn ID=22| B | B : ja ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=23| B | B : ja dat klein staaf aan de linkerkant en aan de rechterkant die steken iets ver uit
+	Free: Pattern=dat, Pattern=aan de linkerkant en, Pattern=steken, Pattern=iets, Pattern=ja, Pattern=aan de rechterkant, Pattern=die
+	Constrained: Pattern=aan de, Pattern=rechterkant, Pattern=en, Pattern=de, Pattern=aan
+Turn ID=24| B | B : ja okee dat zijn p
+	Free: Pattern=dat, Pattern=zijn, Pattern=ja
+	Constrained: 
+Turn ID=25| A | A : deze hebben aan beide kant een uitstulpsel , de een kant zijn iets groot dan de ander kant en dan een soort plat bolle erop
+	Free: Pattern=soort, Pattern=dan, Pattern=en, Pattern=zijn, Pattern=deze, Pattern=de, Pattern=aan, Pattern=iets
+	Constrained: 
+Turn ID=26| B | B : dit zijn die dit zijn dat wel met dat pedaal weten je wel
+	Free: Pattern=dat, Pattern=met, Pattern=die, Pattern=zijn, Pattern=je
+	Constrained: 
+Turn ID=27| B | B : en die twee kegel aan de aan de onderkant
+	Free: Pattern=aan de, Pattern=en die
+	Constrained: Pattern=die, Pattern=de, Pattern=aan, Pattern=en
+Turn ID=28| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=29| A | A : even kijken
+	Free: 
+	Constrained: 
+Turn ID=30| A | A : die aan de buitenkant steken bedoelen je
+	Free: Pattern=aan de, Pattern=die, Pattern=steken, Pattern=je
+	Constrained: Pattern=de, Pattern=aan
+Turn ID=31| A | A : met die uh , nummer tien
+	Free: Pattern=met die
+	Constrained: Pattern=die, Pattern=met
+Turn ID=32| B | B : sorry
+	Free: 
+	Constrained: 
+Turn ID=33| B | B : Ah okee ja ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=34| B | B : dat maken niet uit
+	Free: Pattern=dat, Pattern=niet
+	Constrained: 
+Turn ID=35| B | B : dat zijn l
+	Free: Pattern=dat, Pattern=zijn
+	Constrained: 
+Turn ID=36| B | B : dit zijn de het pedaal met de kegel
+	Free: Pattern=zijn, Pattern=met, Pattern=de, Pattern=het
+	Constrained: 

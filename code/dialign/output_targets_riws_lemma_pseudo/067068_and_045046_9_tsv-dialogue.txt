@@ -1,0 +1,167 @@
+B|0| B: _hij_ staan op _een soort van_ ovaal ding _met_ _een rond_ _schijf_ _erachter_ 
+B|1| B: afhangen _erachter_ 
+B|2| B: _en_ er steken _een_ _ja_ _één_ _rond_ ding _links_ uit 
+B|3| B: _en_ _een soort van_ _lepel_ Erbovenin staan 
+B|4| B: _ja_ precies 
+B|5| B: _ja_ 
+A|6| A: uitein [van] [een] [lepel] 
+A|7| A: _zijn_ _hebben_ _die_ _zo'n_ [soort] dienblad _of_ _zo'n_ [soort] horizontaal [schijf] eraan zitten 
+A|8| A: daarbovenop zitten 
+A|9| A: [ja] 
+A|10| A: [ja] [ja] [ja] [ja] ik 
+A|11| A: nummer dertien denken ik 
+B|12| B: oeh [zijn] verschuiven 
+B|13| B: [zijn] het er _één die we_ al [hebben] [hebben] toevallig 
+B|14| B: _dat_ ovaal ding weer waar [die] op staan [of] [zijn] _dat_ weer [een] ander 
+B|15| B: linkerkant _een soort van_ potlood _en_ _een soort van_ lepeltje erin 
+B|16| B: [ja] 
+B|17| B: O 
+A|18| A: nu [hebben] ik [een soort] pinokkio [hij] [hebben] [een] lang cilinder [links] 
+A|19| A: [een rond] [erachter] [en] _zo'n_ [lepel] erbovenop ook nog 
+A|20| A: [en] daaronder zitten [een soort] breed nek 
+A|21| A: [ja] [zijn] [we] mee beginnen 
+B|22| B: dit [zijn] weer _met_ _dat_ potlood _dat_ eruit steken [een rond] [schijf] aan de achterkant [en] [hij] staan weer op [zo'n] oor ovaal ding 
+B|23| B: _dat zijn_ de enig waar _dat_ ovaal ding doorheen steken 
+B|24| B: [ja] 
+A|25| A: [ja] 
+A|26| A: [ja] [ja] [ja] 
+A|27| A: [ja] [dat zijn] nummer acht 
+B|28| B: potlood aan de linkerkant 
+B|29| B: [ja] 
+B|30| B: C 
+B|31| B: [ja] dit [zijn] weer [dat] ding [dat] op [zo'n] ding staan _met_ [een] potlood [links] [en] [een rond] [schijf] achter 
+B|32| B: [en] [een] lepeltje erin 
+A|33| A: ik [hebben] [die] [met] [die] [één die we] doen [een soort van] pinokkio 
+B|34| B: [ja] 
+B|35| B: C 
+B|36| B: oké 
+A|37| A: nummer zeven 
+A|38| A: ik [hebben] Pinokkio 
+A|39| A: [ja] [een] half [rond] erop [ja] 
+A|40| A: [we] did it 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : hij staan op een soort van ovaal ding met een rond schijf erachter
+	Free: Pattern=erachter, Pattern=schijf, Pattern=hij, Pattern=een soort van, Pattern=met, Pattern=een rond
+	Constrained: Pattern=soort, Pattern=een, Pattern=een soort, Pattern=van, Pattern=rond
+Turn ID=1| B | B : afhangen erachter
+	Free: Pattern=erachter
+	Constrained: 
+Turn ID=2| B | B : en er steken een ja één rond ding links uit
+	Free: Pattern=ja, Pattern=een, Pattern=links, Pattern=en, Pattern=rond, Pattern=één
+	Constrained: 
+Turn ID=3| B | B : en een soort van lepel Erbovenin staan
+	Free: Pattern=een soort van, Pattern=en, Pattern=lepel
+	Constrained: Pattern=een soort, Pattern=een, Pattern=van, Pattern=soort
+Turn ID=4| B | B : ja precies
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=5| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=6| A | A : uitein van een lepel
+	Free: Pattern=een, Pattern=van, Pattern=lepel
+	Constrained: 
+Turn ID=7| A | A : zijn hebben die zo'n soort dienblad of zo'n soort horizontaal schijf eraan zitten
+	Free: Pattern=of, Pattern=soort, Pattern=zo'n, Pattern=die, Pattern=zijn, Pattern=hebben, Pattern=schijf
+	Constrained: 
+Turn ID=8| A | A : daarbovenop zitten
+	Free: 
+	Constrained: 
+Turn ID=9| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=10| A | A : ja ja ja ja ik
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=11| A | A : nummer dertien denken ik
+	Free: 
+	Constrained: 
+Turn ID=12| B | B : oeh zijn verschuiven
+	Free: Pattern=zijn
+	Constrained: 
+Turn ID=13| B | B : zijn het er één die we al hebben hebben toevallig
+	Free: Pattern=één die we, Pattern=hebben, Pattern=zijn
+	Constrained: Pattern=we, Pattern=die, Pattern=één
+Turn ID=14| B | B : dat ovaal ding weer waar die op staan of zijn dat weer een ander
+	Free: Pattern=dat, Pattern=of, Pattern=een, Pattern=die, Pattern=zijn
+	Constrained: 
+Turn ID=15| B | B : linkerkant een soort van potlood en een soort van lepeltje erin
+	Free: Pattern=een soort van, Pattern=en
+	Constrained: Pattern=een soort, Pattern=een, Pattern=van, Pattern=soort
+Turn ID=16| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=17| B | B : O
+	Free: 
+	Constrained: 
+Turn ID=18| A | A : nu hebben ik een soort pinokkio hij hebben een lang cilinder links
+	Free: Pattern=een, Pattern=links, Pattern=hebben, Pattern=hij, Pattern=een soort
+	Constrained: Pattern=een, Pattern=soort
+Turn ID=19| A | A : een rond erachter en zo'n lepel erbovenop ook nog
+	Free: Pattern=erachter, Pattern=lepel, Pattern=zo'n, Pattern=en, Pattern=een rond
+	Constrained: Pattern=een, Pattern=rond
+Turn ID=20| A | A : en daaronder zitten een soort breed nek
+	Free: Pattern=een soort, Pattern=en
+	Constrained: Pattern=een, Pattern=soort
+Turn ID=21| A | A : ja zijn we mee beginnen
+	Free: Pattern=we, Pattern=ja, Pattern=zijn
+	Constrained: 
+Turn ID=22| B | B : dit zijn weer met dat potlood dat eruit steken een rond schijf aan de achterkant en hij staan weer op zo'n oor ovaal ding
+	Free: Pattern=dat, Pattern=zo'n, Pattern=schijf, Pattern=hij, Pattern=met, Pattern=en, Pattern=een rond, Pattern=zijn
+	Constrained: Pattern=een, Pattern=rond
+Turn ID=23| B | B : dat zijn de enig waar dat ovaal ding doorheen steken
+	Free: Pattern=dat zijn, Pattern=dat
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=24| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=25| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=26| A | A : ja ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=27| A | A : ja dat zijn nummer acht
+	Free: Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=28| B | B : potlood aan de linkerkant
+	Free: 
+	Constrained: 
+Turn ID=29| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=30| B | B : C
+	Free: 
+	Constrained: 
+Turn ID=31| B | B : ja dit zijn weer dat ding dat op zo'n ding staan met een potlood links en een rond schijf achter
+	Free: Pattern=dat, Pattern=zo'n, Pattern=ja, Pattern=een, Pattern=links, Pattern=schijf, Pattern=met, Pattern=en, Pattern=een rond, Pattern=zijn
+	Constrained: Pattern=een, Pattern=rond
+Turn ID=32| B | B : en een lepeltje erin
+	Free: Pattern=een, Pattern=en
+	Constrained: 
+Turn ID=33| A | A : ik hebben die met die één die we doen een soort van pinokkio
+	Free: Pattern=hebben, Pattern=een soort van, Pattern=met, Pattern=die, Pattern=één die we
+	Constrained: Pattern=soort, Pattern=een, Pattern=een soort, Pattern=van, Pattern=één, Pattern=we, Pattern=die
+Turn ID=34| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=35| B | B : C
+	Free: 
+	Constrained: 
+Turn ID=36| B | B : oké
+	Free: 
+	Constrained: 
+Turn ID=37| A | A : nummer zeven
+	Free: 
+	Constrained: 
+Turn ID=38| A | A : ik hebben Pinokkio
+	Free: Pattern=hebben
+	Constrained: 
+Turn ID=39| A | A : ja een half rond erop ja
+	Free: Pattern=een, Pattern=rond, Pattern=ja
+	Constrained: 
+Turn ID=40| A | A : we did it
+	Free: Pattern=we
+	Constrained: 

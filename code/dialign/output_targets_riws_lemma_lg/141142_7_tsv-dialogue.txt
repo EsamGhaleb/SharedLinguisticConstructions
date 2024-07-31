@@ -1,0 +1,91 @@
+B|0| B: nou _het_ _dit zijn_ _een_ kop er _zitten_ _een soort van_ _plank_ _aan_ _met_ _een_ _omgekeerde lampenkap erop_ 
+A|1| A: _en_ [aan] _die_ [plank] [zitten] steken ook _twee_ ding naar naar beneden uit alsof [het] [een soort van] tafel [zijn] dat [zijn] zestien voor mij 
+B|2| B: _ja_ _ja_ _ja_ _ja_ _ja_ 
+B|3| B: precies 
+B|4| B: _ja_ 
+A|5| A: oké deze hebben _de_ [het] dienblad voor zich _met de_ poot [aan] _de_ onderkant 
+A|6| A: _en_ _en de_ _en de_ [omgekeerde lampenkap erop] zeggen maar 
+B|7| B: ah P 
+A|8| A: [ja] 
+B|9| B: [het] _zijn weer_ [die] [een] [met de] [plank] [met de] [lampenkap] 
+A|10| A: even kijken waar staan [die] ? [ja] [met _de] twee_ poot eronder 
+B|11| B: [ja] 
+A|12| A: yes dat [zijn] veertien 
+A|13| A: oké [dit [zijn] weer] [het] dienblad [met de] [omgekeerde lampenkap erop] 
+A|14| A: _en de_ poo onder [het] dienblad 
+B|15| B: N 
+B|16| B: [en] [ja] [het] [zijn weer] [de] [plank] [met de] [lampenkap] 
+B|17| B: [en [de] twee] balk eruit 
+A|18| A: dat [zijn] tien 
+A|19| A: [dit [zijn] weer] [het] [het] dienblad [met de] [omgekeerde lampenkap erop] 
+A|20| A: [en de] poot [aan] [de] onderkant [van] [het] dienblad 
+B|21| B: d 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : nou het dit zijn een kop er zitten een soort van plank aan met een omgekeerde lampenkap erop
+	Free: Pattern=aan, Pattern=plank, Pattern=een, Pattern=het, Pattern=een soort van, Pattern=met, Pattern=zitten, Pattern=omgekeerde lampenkap erop, Pattern=dit zijn
+	Constrained: Pattern=een, Pattern=zijn, Pattern=van, Pattern=lampenkap
+Turn ID=1| A | A : en aan die plank zitten steken ook twee ding naar naar beneden uit alsof het een soort van tafel zijn dat zijn zestien voor mij
+	Free: Pattern=twee, Pattern=aan, Pattern=plank, Pattern=het, Pattern=een soort van, Pattern=en, Pattern=zijn, Pattern=die, Pattern=zitten
+	Constrained: Pattern=van, Pattern=een
+Turn ID=2| B | B : ja ja ja ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=3| B | B : precies
+	Free: 
+	Constrained: 
+Turn ID=4| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=5| A | A : oké deze hebben de het dienblad voor zich met de poot aan de onderkant
+	Free: Pattern=met de, Pattern=het, Pattern=de, Pattern=aan
+	Constrained: Pattern=de, Pattern=met
+Turn ID=6| A | A : en en de en de omgekeerde lampenkap erop zeggen maar
+	Free: Pattern=omgekeerde lampenkap erop, Pattern=en de, Pattern=en
+	Constrained: Pattern=de, Pattern=lampenkap, Pattern=en
+Turn ID=7| B | B : ah P
+	Free: 
+	Constrained: 
+Turn ID=8| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=9| B | B : het zijn weer die een met de plank met de lampenkap
+	Free: Pattern=plank, Pattern=een, Pattern=het, Pattern=die, Pattern=zijn weer, Pattern=met de, Pattern=lampenkap
+	Constrained: Pattern=zijn, Pattern=de, Pattern=met
+Turn ID=10| A | A : even kijken waar staan die ? ja met de twee poot eronder
+	Free: Pattern=met de, Pattern=de twee, Pattern=ja, Pattern=die
+	Constrained: Pattern=de, Pattern=met, Pattern=twee
+Turn ID=11| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=12| A | A : yes dat zijn veertien
+	Free: Pattern=zijn
+	Constrained: 
+Turn ID=13| A | A : oké dit zijn weer het dienblad met de omgekeerde lampenkap erop
+	Free: Pattern=met de, Pattern=het, Pattern=omgekeerde lampenkap erop, Pattern=dit zijn, Pattern=zijn weer
+	Constrained: Pattern=zijn, Pattern=met, Pattern=de, Pattern=lampenkap
+Turn ID=14| A | A : en de poo onder het dienblad
+	Free: Pattern=en de, Pattern=het
+	Constrained: Pattern=en, Pattern=de
+Turn ID=15| B | B : N
+	Free: 
+	Constrained: 
+Turn ID=16| B | B : en ja het zijn weer de plank met de lampenkap
+	Free: Pattern=plank, Pattern=het, Pattern=en, Pattern=zijn weer, Pattern=de, Pattern=met de, Pattern=ja, Pattern=lampenkap
+	Constrained: Pattern=zijn, Pattern=de, Pattern=met
+Turn ID=17| B | B : en de twee balk eruit
+	Free: Pattern=de twee, Pattern=en de
+	Constrained: Pattern=en, Pattern=de, Pattern=twee
+Turn ID=18| A | A : dat zijn tien
+	Free: Pattern=zijn
+	Constrained: 
+Turn ID=19| A | A : dit zijn weer het het dienblad met de omgekeerde lampenkap erop
+	Free: Pattern=met de, Pattern=het, Pattern=omgekeerde lampenkap erop, Pattern=dit zijn, Pattern=zijn weer
+	Constrained: Pattern=zijn, Pattern=met, Pattern=de, Pattern=lampenkap
+Turn ID=20| A | A : en de poot aan de onderkant van het dienblad
+	Free: Pattern=en de, Pattern=het, Pattern=van, Pattern=de, Pattern=aan
+	Constrained: Pattern=en, Pattern=de
+Turn ID=21| B | B : d
+	Free: 
+	Constrained: 

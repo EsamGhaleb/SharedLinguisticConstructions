@@ -1,0 +1,123 @@
+B|0| B: nou _dit_ lijken wel _een_ beetje zeggen maar _een_ poppe wat zo _met_ _de_ armp omhoog staan op _een soort_ draaien gedraaide balk 
+A|1| A: _ja_ 
+B|2| B: het _zijn_ _een soort beker_ 
+A|3| A: [een soort beker] _ja_ 
+B|4| B: [ja] 
+A|5| A: vier 
+A|6| A: _dit zijn_ _die_ [beker] 
+A|7| A: _die_ _Cup_ 
+B|8| B: [Cup] [Cup] 
+A|9| A: [met] _die_ _spiraal_ 
+B|10| B: [ja] en 
+B|11| B: [met] [een] [spiraal] 
+B|12| B: [ja] [ja] [ja] 
+A|13| A: [ja] _die_ [ja] 
+B|14| B: dat [zijn] A 
+A|15| A: [ja] 
+B|16| B: [dit zijn] zeggen maar _de_ winnaarsbeker 
+A|17| A: [ja] 
+B|18| B: [met] dat draaiden 
+A|19| A: tien 
+A|20| A: _de beker_ 
+B|21| B: [de beker] [met] [de] draaien 
+A|22| A: [ja] 
+B|23| B: dat [zijn] L 
+B|24| B: [dit zijn] [de beker] 
+B|25| B: op [die] draaien ding 
+A|26| A: [ja] 
+A|27| A: vier 
+A|28| A: [de beker] 
+B|29| B: dat [zijn] F 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : nou dit lijken wel een beetje zeggen maar een poppe wat zo met de armp omhoog staan op een soort draaien gedraaide balk
+	Free: Pattern=de, Pattern=een, Pattern=dit, Pattern=met, Pattern=een soort
+	Constrained: Pattern=een
+Turn ID=1| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=2| B | B : het zijn een soort beker
+	Free: Pattern=een soort beker, Pattern=zijn
+	Constrained: Pattern=een soort, Pattern=een, Pattern=beker
+Turn ID=3| A | A : een soort beker ja
+	Free: Pattern=een soort beker, Pattern=ja
+	Constrained: Pattern=een soort, Pattern=een, Pattern=beker
+Turn ID=4| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=5| A | A : vier
+	Free: 
+	Constrained: 
+Turn ID=6| A | A : dit zijn die beker
+	Free: Pattern=dit zijn, Pattern=beker, Pattern=die
+	Constrained: Pattern=zijn, Pattern=dit
+Turn ID=7| A | A : die Cup
+	Free: Pattern=Cup, Pattern=die
+	Constrained: 
+Turn ID=8| B | B : Cup Cup
+	Free: Pattern=Cup
+	Constrained: 
+Turn ID=9| A | A : met die spiraal
+	Free: Pattern=spiraal, Pattern=die, Pattern=met
+	Constrained: 
+Turn ID=10| B | B : ja en
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=11| B | B : met een spiraal
+	Free: Pattern=spiraal, Pattern=een, Pattern=met
+	Constrained: 
+Turn ID=12| B | B : ja ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=13| A | A : ja die ja
+	Free: Pattern=ja, Pattern=die
+	Constrained: 
+Turn ID=14| B | B : dat zijn A
+	Free: Pattern=zijn
+	Constrained: 
+Turn ID=15| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=16| B | B : dit zijn zeggen maar de winnaarsbeker
+	Free: Pattern=dit zijn, Pattern=de
+	Constrained: Pattern=zijn, Pattern=dit
+Turn ID=17| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=18| B | B : met dat draaiden
+	Free: Pattern=met
+	Constrained: 
+Turn ID=19| A | A : tien
+	Free: 
+	Constrained: 
+Turn ID=20| A | A : de beker
+	Free: Pattern=de beker
+	Constrained: Pattern=beker, Pattern=de
+Turn ID=21| B | B : de beker met de draaien
+	Free: Pattern=de beker, Pattern=de, Pattern=met
+	Constrained: Pattern=beker, Pattern=de
+Turn ID=22| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=23| B | B : dat zijn L
+	Free: Pattern=zijn
+	Constrained: 
+Turn ID=24| B | B : dit zijn de beker
+	Free: Pattern=de beker, Pattern=dit zijn
+	Constrained: Pattern=beker, Pattern=zijn, Pattern=dit, Pattern=de
+Turn ID=25| B | B : op die draaien ding
+	Free: Pattern=die
+	Constrained: 
+Turn ID=26| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=27| A | A : vier
+	Free: 
+	Constrained: 
+Turn ID=28| A | A : de beker
+	Free: Pattern=de beker
+	Constrained: Pattern=beker, Pattern=de
+Turn ID=29| B | B : dat zijn F
+	Free: Pattern=zijn
+	Constrained: 

@@ -1,0 +1,135 @@
+B|0| B: _oké_ 
+B|1| B: deze _hebben_ _een_ _soort van_ _een_ plaat eromheen zitten 
+B|2| B: als _je_ snpen wat _ik_ _bedoelen_ 
+A|3| A: _even kijken_ 
+B|4| B: _dat_ _zijn_ er 
+A|5| A: [ik] denken [dat] _aan de_ bovenkant of _aan de onderkant_ 
+B|6| B: _ja_ _een beetje aan de onderkant_ hij _hebben_ _zo'n_ armpjeachtig iets _aan de linkerkant_ 
+A|7| A: [zo'n] [soort van] _L_ 
+B|8| B: _ja_ 
+A|9| A: [ja] [oké] dan weten [ik] welk [je] [bedoelen] [ik] denken [dat] _het_ nummer zes [zijn] 
+A|10| A: [ik] [hebben] _die een met _dat_ vierkant_ laten maar zeggen [een beetje aan de onderkant] erdoorheen 
+A|11| A: _en_ dan _die_ _L aan de linkerkant_ 
+B|12| B: [die] 
+B|13| B: [ja] 
+B|14| B: [dat] [zijn] C 
+B|15| B: dit [zijn] [die een met dat] vlak eromheen 
+B|16| B: [dat vierkant] zo 
+B|17| B: [en] _de L_ 
+A|18| A: [ja] 
+B|19| B: [aan de linkerkant] 
+A|20| A: [ja] [zijn] bij mij nummer dertien 
+B|21| B: [oké] 
+A|22| A: [ik] [hebben] [die een met] _de L aan de linkerkant_ 
+B|23| B: [even kijken] 
+A|24| A: [en] [dat vierkant] erdoorheen 
+B|25| B: daar 
+B|26| B: [dat] [zijn] J 
+B|27| B: dit [zijn] [die een met] [het] [vierkant] eromheen 
+B|28| B: [en] [de L aan de linkerkant] 
+A|29| A: searching sound 
+A|30| A: nummer negen 
+A|31| A: [ik] [hebben] degeen [met] [de] [de L aan de linkerkant] 
+B|32| B: [dat] [zijn] N 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=1| B | B : deze hebben een soort van een plaat eromheen zitten
+	Free: Pattern=soort van, Pattern=hebben, Pattern=een
+	Constrained: 
+Turn ID=2| B | B : als je snpen wat ik bedoelen
+	Free: Pattern=ik, Pattern=bedoelen, Pattern=je
+	Constrained: 
+Turn ID=3| A | A : even kijken
+	Free: Pattern=even kijken
+	Constrained: 
+Turn ID=4| B | B : dat zijn er
+	Free: Pattern=dat, Pattern=zijn
+	Constrained: 
+Turn ID=5| A | A : ik denken dat aan de bovenkant of aan de onderkant
+	Free: Pattern=aan de onderkant, Pattern=aan de, Pattern=ik, Pattern=dat
+	Constrained: Pattern=aan de, Pattern=de
+Turn ID=6| B | B : ja een beetje aan de onderkant hij hebben zo'n armpjeachtig iets aan de linkerkant
+	Free: Pattern=zo'n, Pattern=ja, Pattern=hebben, Pattern=een beetje aan de onderkant, Pattern=aan de linkerkant
+	Constrained: Pattern=de, Pattern=aan de onderkant, Pattern=aan de, Pattern=een
+Turn ID=7| A | A : zo'n soort van L
+	Free: Pattern=soort van, Pattern=zo'n, Pattern=L
+	Constrained: 
+Turn ID=8| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=9| A | A : ja oké dan weten ik welk je bedoelen ik denken dat het nummer zes zijn
+	Free: Pattern=dat, Pattern=ja, Pattern=het, Pattern=bedoelen, Pattern=oké, Pattern=ik, Pattern=zijn, Pattern=je
+	Constrained: 
+Turn ID=10| A | A : ik hebben die een met dat vierkant laten maar zeggen een beetje aan de onderkant erdoorheen
+	Free: Pattern=ik, Pattern=een beetje aan de onderkant, Pattern=die een met dat, Pattern=dat vierkant, Pattern=hebben
+	Constrained: Pattern=dat, Pattern=aan de, Pattern=een, Pattern=aan de onderkant, Pattern=met, Pattern=die, Pattern=vierkant, Pattern=de, Pattern=die een met
+Turn ID=11| A | A : en dan die L aan de linkerkant
+	Free: Pattern=L aan de linkerkant, Pattern=en, Pattern=die
+	Constrained: Pattern=de, Pattern=L, Pattern=aan de, Pattern=aan de linkerkant
+Turn ID=12| B | B : die
+	Free: Pattern=die
+	Constrained: 
+Turn ID=13| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=14| B | B : dat zijn C
+	Free: Pattern=dat, Pattern=zijn
+	Constrained: 
+Turn ID=15| B | B : dit zijn die een met dat vlak eromheen
+	Free: Pattern=die een met dat, Pattern=zijn
+	Constrained: Pattern=dat, Pattern=die een met, Pattern=een, Pattern=met, Pattern=die
+Turn ID=16| B | B : dat vierkant zo
+	Free: Pattern=dat vierkant
+	Constrained: Pattern=dat, Pattern=vierkant
+Turn ID=17| B | B : en de L
+	Free: Pattern=de L, Pattern=en
+	Constrained: Pattern=de, Pattern=L
+Turn ID=18| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=19| B | B : aan de linkerkant
+	Free: Pattern=aan de linkerkant
+	Constrained: Pattern=aan de, Pattern=de
+Turn ID=20| A | A : ja zijn bij mij nummer dertien
+	Free: Pattern=zijn, Pattern=ja
+	Constrained: 
+Turn ID=21| B | B : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=22| A | A : ik hebben die een met de L aan de linkerkant
+	Free: Pattern=de L aan de linkerkant, Pattern=die een met, Pattern=ik, Pattern=hebben
+	Constrained: Pattern=L, Pattern=L aan de linkerkant, Pattern=de, Pattern=aan de, Pattern=een, Pattern=met, Pattern=die, Pattern=de L, Pattern=aan de linkerkant
+Turn ID=23| B | B : even kijken
+	Free: Pattern=even kijken
+	Constrained: 
+Turn ID=24| A | A : en dat vierkant erdoorheen
+	Free: Pattern=dat vierkant, Pattern=en
+	Constrained: Pattern=dat, Pattern=vierkant
+Turn ID=25| B | B : daar
+	Free: 
+	Constrained: 
+Turn ID=26| B | B : dat zijn J
+	Free: Pattern=dat, Pattern=zijn
+	Constrained: 
+Turn ID=27| B | B : dit zijn die een met het vierkant eromheen
+	Free: Pattern=die een met, Pattern=zijn, Pattern=het, Pattern=vierkant
+	Constrained: Pattern=die, Pattern=met, Pattern=een
+Turn ID=28| B | B : en de L aan de linkerkant
+	Free: Pattern=de L aan de linkerkant, Pattern=en
+	Constrained: Pattern=L, Pattern=L aan de linkerkant, Pattern=de, Pattern=aan de, Pattern=de L, Pattern=aan de linkerkant
+Turn ID=29| A | A : searching sound
+	Free: 
+	Constrained: 
+Turn ID=30| A | A : nummer negen
+	Free: 
+	Constrained: 
+Turn ID=31| A | A : ik hebben degeen met de de L aan de linkerkant
+	Free: Pattern=de, Pattern=hebben, Pattern=met, Pattern=ik, Pattern=de L aan de linkerkant
+	Constrained: Pattern=L, Pattern=L aan de linkerkant, Pattern=de, Pattern=aan de, Pattern=de L, Pattern=aan de linkerkant
+Turn ID=32| B | B : dat zijn N
+	Free: Pattern=dat, Pattern=zijn
+	Constrained: 

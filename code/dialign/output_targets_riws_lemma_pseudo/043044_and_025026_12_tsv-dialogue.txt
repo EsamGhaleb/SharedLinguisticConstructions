@@ -1,0 +1,99 @@
+B|0| B: _ja_ _soort van_ spijker of zo _maar_ _dan_ 
+B|1| B: ok _dat zijn_ L 
+A|2| A: _ja dit_ vinden ik ook _een_ beetje _een_ raar ding het [zijn] _een_ [soort van] weer _zo'n soort_ beker _die_ [dan] _een_ [soort van] [ja] dienblaad hebben aan de rechterkant 
+A|3| A: _links_ _een_ cilinder _die_ gedeeltelijk [zijn] opengemaakt _en_ _een_ [soort] schoorsteenachtig ding wat daar weer uitspringen 
+A|4| A: _en_ [dat] schoorsteending [zijn] boven bred [dan] het beneden [zijn] 
+A|5| A: [ja] [ja] [dat zijn] _een_ makkelijkere inderdaad [dat zijn] echt inderdaad hoe het eruitziet 
+B|6| B: [ja _dit] zijn_ [zo'n [soort] van] kop _met een_ dienblad _en links_ [en] _met_ [zo'n] spijker 
+A|7| A: [ja] de _die_ ik de schoorsteen hebben noemen 
+A|8| A: [ja] 
+A|9| A: [ja] precies 
+A|10| A: [ja] [dan] [zijn] [dat] zeven 
+B|11| B: _ja _even kijken_ waar_ hij staan 
+B|12| B: [dat zijn] C 
+A|13| A: [dit zijn] degeen [met] de omgekeerd pion zeggen [maar] [en] [een] [soort van] [ja] rechts [en links] cilinder _die_ uitsteken 
+B|14| B: [ja [dit] zijn] [met] [dat] dienblad [en] [die] spijker 
+B|15| B: _ja met_ [die] spijker 
+B|16| B: ok [dat zijn] A 
+A|17| A: [ja even kijken] 
+A|18| A: [ja met] [dan] weer [zo'n] cilinder [met een] hap eruit zeggen [maar] 
+A|19| A: [dat zijn] één 
+B|20| B: [ja [dit] zijn] [met] [dat] dienblad [en] [die] schroef Spijker 
+A|21| A: [dit zijn] weer [die] pion omgekeerd [met] de twee cilinder waarbij de [een] heel cilinder daar [zijn] [een] hap uit zeggen [maar] 
+A|22| A: yes [even kijken waar] je [zijn] 
+A|23| A: [ja] [dat zijn] dertien 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : ja soort van spijker of zo maar dan
+	Free: Pattern=soort van, Pattern=dan, Pattern=maar, Pattern=ja
+	Constrained: Pattern=soort
+Turn ID=1| B | B : ok dat zijn L
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=2| A | A : ja dit vinden ik ook een beetje een raar ding het zijn een soort van weer zo'n soort beker die dan een soort van ja dienblaad hebben aan de rechterkant
+	Free: Pattern=ja, Pattern=dan, Pattern=een, Pattern=die, Pattern=ja dit, Pattern=soort van, Pattern=zo'n soort, Pattern=zijn
+	Constrained: Pattern=ja, Pattern=soort, Pattern=zo'n
+Turn ID=3| A | A : links een cilinder die gedeeltelijk zijn opengemaakt en een soort schoorsteenachtig ding wat daar weer uitspringen
+	Free: Pattern=soort, Pattern=een, Pattern=links, Pattern=die, Pattern=en, Pattern=zijn
+	Constrained: 
+Turn ID=4| A | A : en dat schoorsteending zijn boven bred dan het beneden zijn
+	Free: Pattern=dan, Pattern=zijn, Pattern=en, Pattern=dat
+	Constrained: 
+Turn ID=5| A | A : ja ja dat zijn een makkelijkere inderdaad dat zijn echt inderdaad hoe het eruitziet
+	Free: Pattern=dat zijn, Pattern=ja, Pattern=een
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=6| B | B : ja dit zijn zo'n soort van kop met een dienblad en links en met zo'n spijker
+	Free: Pattern=zo'n, Pattern=en links, Pattern=met, Pattern=met een, Pattern=dit zijn, Pattern=ja dit, Pattern=en, Pattern=soort van, Pattern=zo'n soort
+	Constrained: Pattern=soort, Pattern=zo'n, Pattern=ja, Pattern=een, Pattern=links, Pattern=met, Pattern=en, Pattern=zijn
+Turn ID=7| A | A : ja de die ik de schoorsteen hebben noemen
+	Free: Pattern=ja, Pattern=die
+	Constrained: 
+Turn ID=8| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=9| A | A : ja precies
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=10| A | A : ja dan zijn dat zeven
+	Free: Pattern=dan, Pattern=zijn, Pattern=ja, Pattern=dat
+	Constrained: 
+Turn ID=11| B | B : ja even kijken waar hij staan
+	Free: Pattern=even kijken waar, Pattern=ja even kijken
+	Constrained: Pattern=ja
+Turn ID=12| B | B : dat zijn C
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=13| A | A : dit zijn degeen met de omgekeerd pion zeggen maar en een soort van ja rechts en links cilinder die uitsteken
+	Free: Pattern=ja, Pattern=een, Pattern=en links, Pattern=met, Pattern=die, Pattern=en, Pattern=dit zijn, Pattern=soort van, Pattern=maar
+	Constrained: Pattern=zijn, Pattern=links, Pattern=en, Pattern=soort
+Turn ID=14| B | B : ja dit zijn met dat dienblad en die spijker
+	Free: Pattern=dat, Pattern=met, Pattern=die, Pattern=dit zijn, Pattern=ja dit, Pattern=en
+	Constrained: Pattern=zijn, Pattern=ja
+Turn ID=15| B | B : ja met die spijker
+	Free: Pattern=ja met, Pattern=die
+	Constrained: Pattern=met, Pattern=ja
+Turn ID=16| B | B : ok dat zijn A
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=17| A | A : ja even kijken
+	Free: Pattern=ja even kijken
+	Constrained: Pattern=ja
+Turn ID=18| A | A : ja met dan weer zo'n cilinder met een hap eruit zeggen maar
+	Free: Pattern=zo'n, Pattern=dan, Pattern=ja met, Pattern=met een, Pattern=maar
+	Constrained: Pattern=met, Pattern=ja, Pattern=een
+Turn ID=19| A | A : dat zijn één
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=20| B | B : ja dit zijn met dat dienblad en die schroef Spijker
+	Free: Pattern=dat, Pattern=met, Pattern=die, Pattern=dit zijn, Pattern=ja dit, Pattern=en
+	Constrained: Pattern=zijn, Pattern=ja
+Turn ID=21| A | A : dit zijn weer die pion omgekeerd met de twee cilinder waarbij de een heel cilinder daar zijn een hap uit zeggen maar
+	Free: Pattern=een, Pattern=met, Pattern=die, Pattern=dit zijn, Pattern=zijn, Pattern=maar
+	Constrained: Pattern=zijn
+Turn ID=22| A | A : yes even kijken waar je zijn
+	Free: Pattern=even kijken waar, Pattern=zijn
+	Constrained: 
+Turn ID=23| A | A : ja dat zijn dertien
+	Free: Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=zijn, Pattern=dat

@@ -1,0 +1,151 @@
+A|0| A: oké _nou_ vertel 
+B|1| B: _ja_ 
+B|2| B: _ja_ dan moeten jij 
+A|3| A: _met_ _een_ lang neus 
+A|4| A: oké 
+B|5| B: _ja_ tuurlijk sorry 
+A|6| A: _hebben die_ twee van _die_ ding op _zijn_ op _zijn_ 
+B|7| B: [nou] het [zijn] hij [hebben] [een] cilinder _aan de_ linkerkant zitten 
+B|8| B: _ja_ _en_ dan achter _aan de_ achterkant [hebben die] het lijken [een] _rond_ zitten 
+A|9| A: [hebben die] _zo'n_ [rond] ding [aan de] zijkant van [zijn] hoofd 
+B|10| B: maar je zien maar [de] helft 
+B|11| B: _ja_ 
+A|12| A: [ja] 
+A|13| A: nummer dertien 
+A|14| A: deze 
+B|15| B: [ja] 
+B|16| B: [ja] kunnen wel 
+A|17| A: _dit zijn_ jou pinokkio 
+A|18| A: _met_ _dat_ dinge erop [en] _dat_ [rond] [ja] 
+B|19| B: [ja] 
+B|20| B: O 
+A|21| A: [ja] [die] [hebben] ik vinden 
+B|22| B: [ja] 
+B|23| B: sorry 
+B|24| B: [dat] [zijn] [met] het citroenschijf 
+B|25| B: [en] dan links [de] cilinder [en] daarbovenop weer [zo'n] pipetjeachtig achter 
+A|26| A: pinokkio 
+A|27| A: _even zoeken_ [ja] nummer zeven 
+A|28| A: [ja] 
+A|29| A: pinokkio 
+B|30| B: [even zoeken] 
+B|31| B: [ja] [met] links [de] cilinder 
+B|32| B: C 
+B|33| B: [dit zijn] [de] citroen citroenschijfje 
+B|34| B: [ja] [dat] [zijn] C 
+B|35| B: top 
+B|36| B: yes 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : oké nou vertel
+	Free: Pattern=nou
+	Constrained: 
+Turn ID=1| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=2| B | B : ja dan moeten jij
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=3| A | A : met een lang neus
+	Free: Pattern=een, Pattern=met
+	Constrained: 
+Turn ID=4| A | A : oké
+	Free: 
+	Constrained: 
+Turn ID=5| B | B : ja tuurlijk sorry
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=6| A | A : hebben die twee van die ding op zijn op zijn
+	Free: Pattern=hebben die, Pattern=zijn, Pattern=die
+	Constrained: Pattern=hebben, Pattern=die
+Turn ID=7| B | B : nou het zijn hij hebben een cilinder aan de linkerkant zitten
+	Free: Pattern=nou, Pattern=aan de, Pattern=een, Pattern=hebben, Pattern=zijn
+	Constrained: Pattern=de
+Turn ID=8| B | B : ja en dan achter aan de achterkant hebben die het lijken een rond zitten
+	Free: Pattern=ja, Pattern=aan de, Pattern=een, Pattern=en, Pattern=rond, Pattern=hebben die
+	Constrained: Pattern=hebben, Pattern=die, Pattern=de
+Turn ID=9| A | A : hebben die zo'n rond ding aan de zijkant van zijn hoofd
+	Free: Pattern=zo'n, Pattern=aan de, Pattern=rond, Pattern=zijn, Pattern=hebben die
+	Constrained: Pattern=hebben, Pattern=die, Pattern=de
+Turn ID=10| B | B : maar je zien maar de helft
+	Free: Pattern=de
+	Constrained: 
+Turn ID=11| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=12| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=13| A | A : nummer dertien
+	Free: 
+	Constrained: 
+Turn ID=14| A | A : deze
+	Free: 
+	Constrained: 
+Turn ID=15| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=16| B | B : ja kunnen wel
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=17| A | A : dit zijn jou pinokkio
+	Free: Pattern=dit zijn
+	Constrained: Pattern=zijn
+Turn ID=18| A | A : met dat dinge erop en dat rond ja
+	Free: Pattern=dat, Pattern=ja, Pattern=met, Pattern=en, Pattern=rond
+	Constrained: 
+Turn ID=19| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=20| B | B : O
+	Free: 
+	Constrained: 
+Turn ID=21| A | A : ja die hebben ik vinden
+	Free: Pattern=hebben, Pattern=die, Pattern=ja
+	Constrained: 
+Turn ID=22| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=23| B | B : sorry
+	Free: 
+	Constrained: 
+Turn ID=24| B | B : dat zijn met het citroenschijf
+	Free: Pattern=dat, Pattern=zijn, Pattern=met
+	Constrained: 
+Turn ID=25| B | B : en dan links de cilinder en daarbovenop weer zo'n pipetjeachtig achter
+	Free: Pattern=en, Pattern=de, Pattern=zo'n
+	Constrained: 
+Turn ID=26| A | A : pinokkio
+	Free: 
+	Constrained: 
+Turn ID=27| A | A : even zoeken ja nummer zeven
+	Free: Pattern=even zoeken, Pattern=ja
+	Constrained: 
+Turn ID=28| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=29| A | A : pinokkio
+	Free: 
+	Constrained: 
+Turn ID=30| B | B : even zoeken
+	Free: Pattern=even zoeken
+	Constrained: 
+Turn ID=31| B | B : ja met links de cilinder
+	Free: Pattern=de, Pattern=ja, Pattern=met
+	Constrained: 
+Turn ID=32| B | B : C
+	Free: 
+	Constrained: 
+Turn ID=33| B | B : dit zijn de citroen citroenschijfje
+	Free: Pattern=dit zijn, Pattern=de
+	Constrained: Pattern=zijn
+Turn ID=34| B | B : ja dat zijn C
+	Free: Pattern=dat, Pattern=zijn, Pattern=ja
+	Constrained: 
+Turn ID=35| B | B : top
+	Free: 
+	Constrained: 
+Turn ID=36| B | B : yes
+	Free: 
+	Constrained: 

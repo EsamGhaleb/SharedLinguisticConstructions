@@ -1,0 +1,99 @@
+A|0| A: oké _deze_ hebben zo'n soort _ja_ pionne bovenaan 
+A|1| A: en dan _rechts_ _twee_ van _die_ vierkant balk 
+A|2| A: en iets link zitten nog _een_ soort staaf 
+B|3| B: [ja] _ik_ weten _het_ 
+A|4| A: en daaronder ook nog zo'n [ja] klein kruldinge 
+B|5| B: _ik_ vinden _het_ [een] beetje op [een] _vogel_ lijken 
+A|6| A: [ja] 
+A|7| A: [ja] denken [ik] ook _aan_ [ja] 
+B|8| B: I _zijn dat_ 
+B|9| B: [deze] vinden [ik] op [die] _vogel_ lijken met [die] [twee] blok [aan] de zijkant [rechts] 
+A|10| A: [ja] 
+A|11| A: [ja] 
+A|12| A: [dat] [zijn] nummer [twee] 
+A|13| A: dit [zijn dat] [vogel] 
+B|14| B: _even kijken waar die_ staan 
+B|15| B: [ja] M 
+B|16| B: _het vogel_ 
+A|17| A: [even kijken waar die] [zijn] 
+A|18| A: [ja] nummer negen 
+A|19| A: [het vogel] 
+B|20| B: [ja] F 
+B|21| B: [het vogel] 
+A|22| A: eens [even kijken waar die] [zijn] 
+A|23| A: [ja] nummer zes 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : oké deze hebben zo'n soort ja pionne bovenaan
+	Free: Pattern=deze, Pattern=ja
+	Constrained: 
+Turn ID=1| A | A : en dan rechts twee van die vierkant balk
+	Free: Pattern=rechts, Pattern=die, Pattern=twee
+	Constrained: 
+Turn ID=2| A | A : en iets link zitten nog een soort staaf
+	Free: Pattern=een
+	Constrained: 
+Turn ID=3| B | B : ja ik weten het
+	Free: Pattern=ja, Pattern=ik, Pattern=het
+	Constrained: 
+Turn ID=4| A | A : en daaronder ook nog zo'n ja klein kruldinge
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=5| B | B : ik vinden het een beetje op een vogel lijken
+	Free: Pattern=vogel, Pattern=ik, Pattern=een, Pattern=het
+	Constrained: 
+Turn ID=6| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=7| A | A : ja denken ik ook aan ja
+	Free: Pattern=ja, Pattern=ik, Pattern=aan
+	Constrained: 
+Turn ID=8| B | B : I zijn dat
+	Free: Pattern=zijn dat
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=9| B | B : deze vinden ik op die vogel lijken met die twee blok aan de zijkant rechts
+	Free: Pattern=vogel, Pattern=twee, Pattern=die, Pattern=ik, Pattern=deze, Pattern=rechts, Pattern=aan
+	Constrained: 
+Turn ID=10| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=11| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=12| A | A : dat zijn nummer twee
+	Free: Pattern=zijn, Pattern=dat, Pattern=twee
+	Constrained: 
+Turn ID=13| A | A : dit zijn dat vogel
+	Free: Pattern=zijn dat, Pattern=vogel
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=14| B | B : even kijken waar die staan
+	Free: Pattern=even kijken waar die
+	Constrained: Pattern=die
+Turn ID=15| B | B : ja M
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=16| B | B : het vogel
+	Free: Pattern=het vogel
+	Constrained: Pattern=vogel, Pattern=het
+Turn ID=17| A | A : even kijken waar die zijn
+	Free: Pattern=even kijken waar die, Pattern=zijn
+	Constrained: Pattern=die
+Turn ID=18| A | A : ja nummer negen
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=19| A | A : het vogel
+	Free: Pattern=het vogel
+	Constrained: Pattern=vogel, Pattern=het
+Turn ID=20| B | B : ja F
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=21| B | B : het vogel
+	Free: Pattern=het vogel
+	Constrained: Pattern=vogel, Pattern=het
+Turn ID=22| A | A : eens even kijken waar die zijn
+	Free: Pattern=even kijken waar die, Pattern=zijn
+	Constrained: Pattern=die
+Turn ID=23| A | A : ja nummer zes
+	Free: Pattern=ja
+	Constrained: 

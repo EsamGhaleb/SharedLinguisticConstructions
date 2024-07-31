@@ -1,0 +1,139 @@
+A|0| A: _een_ balk 
+A|1| A: _een_ balk _aan de bovenkant_ 
+A|2| A: _en_ _hebben_ _die_ _aan de rechterkant_ _hebben_ _die_ zo'n uitsteekselt _en_ daar staan _nog_ _een_ dinge _bovenop_ 
+A|3| A: zo'n cilindert erbovenop 
+A|4| A: _oké_ _ja_ _dan_ _zijn_ het acht 
+B|5| B: _deze hebben een_ vierkant staaf [bovenop] liggen 
+B|6| B: plat 
+B|7| B: [en] [aan de] linkerkant steken _een soort_ lampenkap uit 
+B|8| B: [en] [aan de rechterkant] [ja] ook [nog] iets _met_ [een] staafje [en] _een soort_ driehoekje of zo 
+A|9| A: [deze hebben [een] soort] balk [bovenop] 
+A|10| A: _en dan_ [een] 
+A|11| A: drie prisma [aan de] zijkant [ja] 
+A|12| A: _oké_ 
+B|13| B: [ja] 
+B|14| B: [ja] 
+B|15| B: _dat zijn bij mij_ E 
+A|16| A: [ja] wachten waar [zijn] _die_ ? [ja] [dat zijn bij mij] één 
+A|17| A: _dit zijn met_ _die_ balk _bovenop en die_ _die_ prisma 
+B|18| B: [deze hebben een] horizontaal vierkant [aan de bovenkant] 
+B|19| B: of [ja] [een] rechthoek eigenlijk 
+B|20| B: [en dan] [de] lampenkap [en] 
+B|21| B: [ja] 
+A|22| A: [de] bal [en] [de] prisma 
+A|23| A: balk [ja] [ja] 
+A|24| A: [ja] [hebben] ik 
+A|25| A: [dat zijn] nummer zestien 
+B|26| B: [oké] 
+B|27| B: [ja] 
+B|28| B: [dat zijn bij mij] E 
+A|29| A: _dit zijn met_ _die_ balk _bovenop en_ [de] prisma 
+B|30| B: [dit zijn met] [dat] plat rechthoek [bovenop en die] lampenkap 
+B|31| B: [ja] even zoeken 
+B|32| B: [ja] 
+B|33| B: [dat zijn bij mij] O 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : een balk
+	Free: Pattern=een
+	Constrained: 
+Turn ID=1| A | A : een balk aan de bovenkant
+	Free: Pattern=aan de bovenkant, Pattern=een
+	Constrained: Pattern=aan de, Pattern=de
+Turn ID=2| A | A : en hebben die aan de rechterkant hebben die zo'n uitsteekselt en daar staan nog een dinge bovenop
+	Free: Pattern=bovenop, Pattern=nog, Pattern=een, Pattern=hebben, Pattern=en, Pattern=aan de rechterkant, Pattern=die
+	Constrained: Pattern=aan de, Pattern=de
+Turn ID=3| A | A : zo'n cilindert erbovenop
+	Free: 
+	Constrained: 
+Turn ID=4| A | A : oké ja dan zijn het acht
+	Free: Pattern=zijn, Pattern=dan, Pattern=ja, Pattern=oké
+	Constrained: 
+Turn ID=5| B | B : deze hebben een vierkant staaf bovenop liggen
+	Free: Pattern=deze hebben een, Pattern=bovenop
+	Constrained: Pattern=hebben, Pattern=een
+Turn ID=6| B | B : plat
+	Free: 
+	Constrained: 
+Turn ID=7| B | B : en aan de linkerkant steken een soort lampenkap uit
+	Free: Pattern=aan de, Pattern=een soort, Pattern=en
+	Constrained: Pattern=de, Pattern=een
+Turn ID=8| B | B : en aan de rechterkant ja ook nog iets met een staafje en een soort driehoekje of zo
+	Free: Pattern=nog, Pattern=ja, Pattern=een, Pattern=met, Pattern=aan de rechterkant, Pattern=een soort, Pattern=en
+	Constrained: Pattern=een, Pattern=de, Pattern=aan de
+Turn ID=9| A | A : deze hebben een soort balk bovenop
+	Free: Pattern=deze hebben een, Pattern=een soort, Pattern=bovenop
+	Constrained: Pattern=hebben, Pattern=een
+Turn ID=10| A | A : en dan een
+	Free: Pattern=en dan, Pattern=een
+	Constrained: Pattern=dan, Pattern=en
+Turn ID=11| A | A : drie prisma aan de zijkant ja
+	Free: Pattern=aan de, Pattern=ja
+	Constrained: Pattern=de
+Turn ID=12| A | A : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=13| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=14| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=15| B | B : dat zijn bij mij E
+	Free: Pattern=dat zijn bij mij
+	Constrained: Pattern=dat, Pattern=zijn, Pattern=dat zijn
+Turn ID=16| A | A : ja wachten waar zijn die ? ja dat zijn bij mij één
+	Free: Pattern=dat zijn bij mij, Pattern=zijn, Pattern=ja, Pattern=die
+	Constrained: Pattern=dat, Pattern=zijn, Pattern=dat zijn
+Turn ID=17| A | A : dit zijn met die balk bovenop en die die prisma
+	Free: Pattern=dit zijn met, Pattern=bovenop en die, Pattern=die
+	Constrained: Pattern=bovenop, Pattern=bovenop en, Pattern=met, Pattern=die, Pattern=en, Pattern=zijn
+Turn ID=18| B | B : deze hebben een horizontaal vierkant aan de bovenkant
+	Free: Pattern=deze hebben een, Pattern=aan de bovenkant
+	Constrained: Pattern=een, Pattern=de, Pattern=aan de, Pattern=hebben
+Turn ID=19| B | B : of ja een rechthoek eigenlijk
+	Free: Pattern=ja, Pattern=een
+	Constrained: 
+Turn ID=20| B | B : en dan de lampenkap en
+	Free: Pattern=en dan, Pattern=de, Pattern=en
+	Constrained: Pattern=dan, Pattern=en
+Turn ID=21| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=22| A | A : de bal en de prisma
+	Free: Pattern=de, Pattern=en
+	Constrained: 
+Turn ID=23| A | A : balk ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=24| A | A : ja hebben ik
+	Free: Pattern=hebben, Pattern=ja
+	Constrained: 
+Turn ID=25| A | A : dat zijn nummer zestien
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=26| B | B : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=27| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=28| B | B : dat zijn bij mij E
+	Free: Pattern=dat zijn bij mij
+	Constrained: Pattern=dat, Pattern=zijn, Pattern=dat zijn
+Turn ID=29| A | A : dit zijn met die balk bovenop en de prisma
+	Free: Pattern=dit zijn met, Pattern=bovenop en, Pattern=de, Pattern=die
+	Constrained: Pattern=bovenop, Pattern=zijn, Pattern=met, Pattern=en
+Turn ID=30| B | B : dit zijn met dat plat rechthoek bovenop en die lampenkap
+	Free: Pattern=dit zijn met, Pattern=bovenop en die, Pattern=dat
+	Constrained: Pattern=bovenop, Pattern=bovenop en, Pattern=met, Pattern=die, Pattern=en, Pattern=zijn
+Turn ID=31| B | B : ja even zoeken
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=32| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=33| B | B : dat zijn bij mij O
+	Free: Pattern=dat zijn bij mij
+	Constrained: Pattern=dat, Pattern=zijn, Pattern=dat zijn

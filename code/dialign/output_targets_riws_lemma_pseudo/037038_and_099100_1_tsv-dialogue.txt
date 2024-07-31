@@ -1,0 +1,119 @@
+A|0| A: _ja_ 
+A|1| A: ik weten welk _het_ _zijn_ 
+A|2| A: nummer _twee_ 
+B|3| B: [ja] _dit_ lijken eigenlijk een beetje een _soort_ _van_ _op_ een hond _die_ helemaal zo in de grond aan [het] eten [zijn] of zo _die_ hebben een staart _op het_ 
+B|4| B: _op het_ lijfje zitten _met_ een rond dop _en dan_ [twee] poo aan de zijkant _en dan_ nog een vlak aan de zijkant 
+B|5| B: dus hij hebben _op_ de bovenkant hebben _die_ een _soort_ _van_ spijker of schroef lijken [het] wel 
+B|6| B: [ja] [ja] 
+B|7| B: [twee] poo 
+B|8| B: [ja] 
+B|9| B: [ja] 
+A|10| A: _dit zijn dat_ ding [met] [die] [twee] armp link [met] [die] blok [die] groot worden 
+A|11| A: [en dan] zo'n [soort] Antenne [op] [op het] hoofd 
+A|12| A: [ja] 
+A|13| A: nummer negen 
+A|14| A: _dit zijn dat_ ding [met] _dat_ vierkan voor [en] [twee] armp link 
+A|15| A: [met] [van] klein naar groot worden blok [en] [die] antenne bovenop 
+B|16| B: [ja] 
+B|17| B: [dat] [zijn] G 
+B|18| B: [dit zijn dat] omgekeerd hond 
+A|19| A: [ja] 
+A|20| A: kijken waar [die] [zijn] [ja] 
+A|21| A: nummer één 
+A|22| A: [dat] ding [met] [die] antenne erop [en] [die] [twee] armp [met] blok 
+A|23| A: link 
+B|24| B: oké 
+B|25| B: [dat] [zijn] D 
+B|26| B: [dit zijn dat] omgekeerd hond 
+B|27| B: oké 
+B|28| B: [dat] [zijn] B 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=1| A | A : ik weten welk het zijn
+	Free: Pattern=het, Pattern=zijn
+	Constrained: 
+Turn ID=2| A | A : nummer twee
+	Free: Pattern=twee
+	Constrained: 
+Turn ID=3| B | B : ja dit lijken eigenlijk een beetje een soort van op een hond die helemaal zo in de grond aan het eten zijn of zo die hebben een staart op het
+	Free: Pattern=soort, Pattern=ja, Pattern=op, Pattern=het, Pattern=dit, Pattern=die, Pattern=van, Pattern=zijn, Pattern=op het
+	Constrained: Pattern=het, Pattern=op
+Turn ID=4| B | B : op het lijfje zitten met een rond dop en dan twee poo aan de zijkant en dan nog een vlak aan de zijkant
+	Free: Pattern=op het, Pattern=en dan, Pattern=twee, Pattern=met
+	Constrained: Pattern=en, Pattern=het, Pattern=op
+Turn ID=5| B | B : dus hij hebben op de bovenkant hebben die een soort van spijker of schroef lijken het wel
+	Free: Pattern=soort, Pattern=op, Pattern=het, Pattern=die, Pattern=van
+	Constrained: 
+Turn ID=6| B | B : ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=7| B | B : twee poo
+	Free: Pattern=twee
+	Constrained: 
+Turn ID=8| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=9| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=10| A | A : dit zijn dat ding met die twee armp link met die blok die groot worden
+	Free: Pattern=dit zijn dat, Pattern=twee, Pattern=die, Pattern=met
+	Constrained: Pattern=dat, Pattern=zijn, Pattern=dit
+Turn ID=11| A | A : en dan zo'n soort Antenne op op het hoofd
+	Free: Pattern=op het, Pattern=en dan, Pattern=soort, Pattern=op
+	Constrained: Pattern=en, Pattern=het, Pattern=op
+Turn ID=12| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=13| A | A : nummer negen
+	Free: 
+	Constrained: 
+Turn ID=14| A | A : dit zijn dat ding met dat vierkan voor en twee armp link
+	Free: Pattern=dat, Pattern=twee, Pattern=met, Pattern=en, Pattern=dit zijn dat
+	Constrained: Pattern=dat, Pattern=zijn, Pattern=dit
+Turn ID=15| A | A : met van klein naar groot worden blok en die antenne bovenop
+	Free: Pattern=en, Pattern=van, Pattern=die, Pattern=met
+	Constrained: 
+Turn ID=16| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=17| B | B : dat zijn G
+	Free: Pattern=dat, Pattern=zijn
+	Constrained: 
+Turn ID=18| B | B : dit zijn dat omgekeerd hond
+	Free: Pattern=dit zijn dat
+	Constrained: Pattern=dat, Pattern=zijn, Pattern=dit
+Turn ID=19| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=20| A | A : kijken waar die zijn ja
+	Free: Pattern=ja, Pattern=zijn, Pattern=die
+	Constrained: 
+Turn ID=21| A | A : nummer één
+	Free: 
+	Constrained: 
+Turn ID=22| A | A : dat ding met die antenne erop en die twee armp met blok
+	Free: Pattern=dat, Pattern=twee, Pattern=met, Pattern=die, Pattern=en
+	Constrained: 
+Turn ID=23| A | A : link
+	Free: 
+	Constrained: 
+Turn ID=24| B | B : oké
+	Free: 
+	Constrained: 
+Turn ID=25| B | B : dat zijn D
+	Free: Pattern=dat, Pattern=zijn
+	Constrained: 
+Turn ID=26| B | B : dit zijn dat omgekeerd hond
+	Free: Pattern=dit zijn dat
+	Constrained: Pattern=dat, Pattern=zijn, Pattern=dit
+Turn ID=27| B | B : oké
+	Free: 
+	Constrained: 
+Turn ID=28| B | B : dat zijn B
+	Free: Pattern=dat, Pattern=zijn
+	Constrained: 

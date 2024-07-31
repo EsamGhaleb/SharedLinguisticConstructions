@@ -1,0 +1,179 @@
+A|0| A: dit _zijn_ _een_ weer _zo'n_ koffiemok waar _een_ lepeltje recht omhoogsteekken 
+A|1| A: _en_ _er_ lijken _aan de achterkant_ _een soort_ van theetuitje _te_ _zitten_ van _een_ theekan 
+A|2| A: _en_ _er zitten een soort_ hengsel _aan_ _met_ _vierkant_ blok _die_ groot _zijn_ _en_ steeds klein worden 
+B|3| B: hebben hij [een soort] slurfje [aan de] onderkant ? _en aan de_ 
+B|4| B: o 
+B|5| B: o [er zitten een soort] [soort] [soort] ovalig ding [zitten een] [vierkant] [er zitten een] [vierkant] ding _naar_ beetje rechts toe [en] dan [en] [een soort] plat rond o 
+B|6| B: misschien niet 
+B|7| B: [zitten] [er] [een] ei op 
+B|8| B: hebben hij [een] punthoofd 
+B|9| B: ok _maar_ hebben hij hebben hij [een soort] [soort] [vierkant] _dat_ [er] _aan de bovenkant_ zo ingestoken [zijn] 
+B|10| B: o 
+B|11| B: [een] [een soort] trapezium vormig ei 
+B|12| B: _vier_ 
+B|13| B: even kijken [zitten] [er] [een soort] isteken [aan de] zijkant 
+B|14| B: _ja_ [en] [die] hebben [een soort] [vierkant] [een soort] [vierkant] spijker _aan de rechterkant_ [en] [zitten een soort] slap armp 
+B|15| B: ok _ja ik_ hebben deze [een] in mijn hoofd beetje omschrijven _als_ [een soort] robot [die] [met] [zijn] rug _naar_ je toe staan _ja_ 
+B|16| B: ok _dat zijn_ E 
+A|17| A: [die] 
+A|18| A: [en] [dat zijn] [die] waar _het_ _het_ [ja ik] _noemen_ _het_ [maar] [een] koffielepeltje [maar] recht omhoogsteekken [en] [er] lijken [een soort] van tuitje _aan de achterkant_ _te_ [zitten] 
+A|19| A: [ja] 
+A|20| A: [ja] kloppen 
+A|21| A: [ja] [dat zijn] nummer elf hier 
+B|22| B: ok hoe omschrijven we deze deze vinden jij heel erg moeilijk [ik] omschrijven [die] _als_ [een] robo 
+B|23| B: [er zitten] hij hebben [een soort] slap armpje [aan de achterkant] [zitten] [en] _vier_ ding waarvan [de] [die] _aan de bovenkant_ _en aan de_ voor voorkant hetzelfde [zijn] 
+B|24| B: [de] [met] [het] [met] [met] [het] [soort] ei bovenop 
+B|25| B: o je bedoelen je bedoelen [dat] [dat] wat welk [ik] telkens robotje [noemen] of nou [ja] inderdaad [met] [zo'n] slap armpje achterop 
+B|26| B: o jajaja J 
+A|27| A: dit [zijn] zeggen [maar] [de] koffiemok waar één lepeltje [aan de bovenkant] uit komen [en [aan de] rechterkant] [een] handvat [zitten] [met] blok waarbij [die] van groot [naar] klein lopen 
+A|28| A: [aan de] linkerkant dezelfde lepel [zitten] [als] [die] [er] recht uit steekt [en] [zo'n] tui [aan de achterkant] 
+A|29| A: nee 
+A|30| A: één 
+A|31| A: alleen [aan de rechterkant] [zitten] [dat] handvat [met] [die] groot [naar] klein 
+A|32| A: [ja] 
+B|33| B: [het] moeilijk ding 
+B|34| B: [met] slapp armp 
+A|35| A: [ja] [ja] [met] [die] theetuit 
+A|36| A: [ja] nummer negen 
+B|37| B: [ja] moeilijk [te] omschrijven B 
+A|38| A: dit [zijn] [de] mok waar [aan de rechterkant] [die] van groot [naar] klein lopen blok [zitten] 
+A|39| A: daarboven steken [een] lepeltje uit [die] daar eigenlijk ook link uit lijken [te] steken [en] [zo'n] tui 
+A|40| A: oké 
+B|41| B: moeilijk robo 
+A|42| A: [ja] 
+A|43| A: nummer [vier] 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : dit zijn een weer zo'n koffiemok waar een lepeltje recht omhoogsteekken
+	Free: Pattern=zijn, Pattern=een, Pattern=zo'n
+	Constrained: 
+Turn ID=1| A | A : en er lijken aan de achterkant een soort van theetuitje te zitten van een theekan
+	Free: Pattern=aan de achterkant, Pattern=een, Pattern=te, Pattern=zitten, Pattern=er, Pattern=een soort, Pattern=en
+	Constrained: Pattern=soort, Pattern=aan de, Pattern=een, Pattern=de, Pattern=aan
+Turn ID=2| A | A : en er zitten een soort hengsel aan met vierkant blok die groot zijn en steeds klein worden
+	Free: Pattern=aan, Pattern=met, Pattern=die, Pattern=er zitten een soort, Pattern=en, Pattern=zijn, Pattern=vierkant
+	Constrained: Pattern=soort, Pattern=een, Pattern=er zitten een, Pattern=zitten, Pattern=er zitten, Pattern=er, Pattern=zitten een soort, Pattern=zitten een, Pattern=een soort
+Turn ID=3| B | B : hebben hij een soort slurfje aan de onderkant ? en aan de
+	Free: Pattern=en aan de, Pattern=aan de, Pattern=een soort
+	Constrained: Pattern=soort, Pattern=aan de, Pattern=een, Pattern=en, Pattern=de, Pattern=aan
+Turn ID=4| B | B : o
+	Free: 
+	Constrained: 
+Turn ID=5| B | B : o er zitten een soort soort soort ovalig ding zitten een vierkant er zitten een vierkant ding naar beetje rechts toe en dan en een soort plat rond o
+	Free: Pattern=soort, Pattern=er zitten een, Pattern=en, Pattern=vierkant, Pattern=naar, Pattern=er zitten een soort, Pattern=zitten een, Pattern=een soort
+	Constrained: Pattern=soort, Pattern=een, Pattern=er zitten een, Pattern=zitten, Pattern=er zitten, Pattern=er, Pattern=zitten een soort, Pattern=zitten een, Pattern=een soort
+Turn ID=6| B | B : misschien niet
+	Free: 
+	Constrained: 
+Turn ID=7| B | B : zitten er een ei op
+	Free: Pattern=een, Pattern=zitten, Pattern=er
+	Constrained: 
+Turn ID=8| B | B : hebben hij een punthoofd
+	Free: Pattern=een
+	Constrained: 
+Turn ID=9| B | B : ok maar hebben hij hebben hij een soort soort vierkant dat er aan de bovenkant zo ingestoken zijn
+	Free: Pattern=dat, Pattern=soort, Pattern=er, Pattern=een soort, Pattern=aan de bovenkant, Pattern=vierkant, Pattern=zijn, Pattern=maar
+	Constrained: Pattern=soort, Pattern=aan de, Pattern=een, Pattern=de, Pattern=aan
+Turn ID=10| B | B : o
+	Free: 
+	Constrained: 
+Turn ID=11| B | B : een een soort trapezium vormig ei
+	Free: Pattern=een soort, Pattern=een
+	Constrained: Pattern=een, Pattern=soort
+Turn ID=12| B | B : vier
+	Free: Pattern=vier
+	Constrained: 
+Turn ID=13| B | B : even kijken zitten er een soort isteken aan de zijkant
+	Free: Pattern=aan de, Pattern=een soort, Pattern=zitten, Pattern=er
+	Constrained: Pattern=aan, Pattern=de, Pattern=een, Pattern=soort
+Turn ID=14| B | B : ja en die hebben een soort vierkant een soort vierkant spijker aan de rechterkant en zitten een soort slap armp
+	Free: Pattern=ja, Pattern=een soort, Pattern=en, Pattern=vierkant, Pattern=zitten een soort, Pattern=aan de rechterkant, Pattern=die
+	Constrained: Pattern=soort, Pattern=aan de, Pattern=een, Pattern=zitten, Pattern=de, Pattern=aan, Pattern=zitten een, Pattern=een soort
+Turn ID=15| B | B : ok ja ik hebben deze een in mijn hoofd beetje omschrijven als een soort robot die met zijn rug naar je toe staan ja
+	Free: Pattern=ja, Pattern=een, Pattern=als, Pattern=met, Pattern=die, Pattern=ja ik, Pattern=een soort, Pattern=zijn, Pattern=naar
+	Constrained: Pattern=ja, Pattern=ik, Pattern=een, Pattern=soort
+Turn ID=16| B | B : ok dat zijn E
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=17| A | A : die
+	Free: Pattern=die
+	Constrained: 
+Turn ID=18| A | A : en dat zijn die waar het het ja ik noemen het maar een koffielepeltje maar recht omhoogsteekken en er lijken een soort van tuitje aan de achterkant te zitten
+	Free: Pattern=een, Pattern=het, Pattern=te, Pattern=een soort, Pattern=en, Pattern=maar, Pattern=noemen, Pattern=dat zijn, Pattern=aan de achterkant, Pattern=die, Pattern=zitten, Pattern=ja ik, Pattern=er
+	Constrained: Pattern=dat, Pattern=soort, Pattern=aan de, Pattern=een, Pattern=ik, Pattern=zijn, Pattern=de, Pattern=aan, Pattern=ja
+Turn ID=19| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=20| A | A : ja kloppen
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=21| A | A : ja dat zijn nummer elf hier
+	Free: Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=22| B | B : ok hoe omschrijven we deze deze vinden jij heel erg moeilijk ik omschrijven die als een robo
+	Free: Pattern=ik, Pattern=een, Pattern=die, Pattern=als
+	Constrained: 
+Turn ID=23| B | B : er zitten hij hebben een soort slap armpje aan de achterkant zitten en vier ding waarvan de die aan de bovenkant en aan de voor voorkant hetzelfde zijn
+	Free: Pattern=aan de achterkant, Pattern=de, Pattern=er zitten, Pattern=een soort, Pattern=zijn, Pattern=die, Pattern=zitten, Pattern=aan de bovenkant, Pattern=en, Pattern=en aan de, Pattern=vier
+	Constrained: Pattern=soort, Pattern=aan de, Pattern=een, Pattern=zitten, Pattern=er, Pattern=en, Pattern=de, Pattern=aan
+Turn ID=24| B | B : de met het met met het soort ei bovenop
+	Free: Pattern=de, Pattern=het, Pattern=met, Pattern=soort
+	Constrained: 
+Turn ID=25| B | B : o je bedoelen je bedoelen dat dat wat welk ik telkens robotje noemen of nou ja inderdaad met zo'n slap armpje achterop
+	Free: Pattern=dat, Pattern=zo'n, Pattern=ja, Pattern=met, Pattern=ik, Pattern=noemen
+	Constrained: 
+Turn ID=26| B | B : o jajaja J
+	Free: 
+	Constrained: 
+Turn ID=27| A | A : dit zijn zeggen maar de koffiemok waar één lepeltje aan de bovenkant uit komen en aan de rechterkant een handvat zitten met blok waarbij die van groot naar klein lopen
+	Free: Pattern=de, Pattern=een, Pattern=met, Pattern=aan de bovenkant, Pattern=en aan de, Pattern=naar, Pattern=aan de rechterkant, Pattern=die, Pattern=zitten, Pattern=zijn, Pattern=maar
+	Constrained: Pattern=aan, Pattern=de, Pattern=en, Pattern=aan de
+Turn ID=28| A | A : aan de linkerkant dezelfde lepel zitten als die er recht uit steekt en zo'n tui aan de achterkant
+	Free: Pattern=aan de achterkant, Pattern=zo'n, Pattern=aan de, Pattern=als, Pattern=er, Pattern=en, Pattern=die, Pattern=zitten
+	Constrained: Pattern=aan, Pattern=de, Pattern=aan de
+Turn ID=29| A | A : nee
+	Free: 
+	Constrained: 
+Turn ID=30| A | A : één
+	Free: 
+	Constrained: 
+Turn ID=31| A | A : alleen aan de rechterkant zitten dat handvat met die groot naar klein
+	Free: Pattern=dat, Pattern=met, Pattern=naar, Pattern=aan de rechterkant, Pattern=die, Pattern=zitten
+	Constrained: Pattern=aan, Pattern=de, Pattern=aan de
+Turn ID=32| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=33| B | B : het moeilijk ding
+	Free: Pattern=het
+	Constrained: 
+Turn ID=34| B | B : met slapp armp
+	Free: Pattern=met
+	Constrained: 
+Turn ID=35| A | A : ja ja met die theetuit
+	Free: Pattern=ja, Pattern=met, Pattern=die
+	Constrained: 
+Turn ID=36| A | A : ja nummer negen
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=37| B | B : ja moeilijk te omschrijven B
+	Free: Pattern=ja, Pattern=te
+	Constrained: 
+Turn ID=38| A | A : dit zijn de mok waar aan de rechterkant die van groot naar klein lopen blok zitten
+	Free: Pattern=de, Pattern=zijn, Pattern=naar, Pattern=aan de rechterkant, Pattern=die, Pattern=zitten
+	Constrained: Pattern=aan, Pattern=de, Pattern=aan de
+Turn ID=39| A | A : daarboven steken een lepeltje uit die daar eigenlijk ook link uit lijken te steken en zo'n tui
+	Free: Pattern=zo'n, Pattern=een, Pattern=te, Pattern=die, Pattern=en
+	Constrained: 
+Turn ID=40| A | A : oké
+	Free: 
+	Constrained: 
+Turn ID=41| B | B : moeilijk robo
+	Free: 
+	Constrained: 
+Turn ID=42| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=43| A | A : nummer vier
+	Free: Pattern=vier
+	Constrained: 

@@ -1,0 +1,163 @@
+A|0| A: er zitten _een_ piramideachtig _bovenop_ 
+A|1| A: _en_ aan _de_ voorkant zitten rechtsvoor zitten _een_ best wel dik Neusachtig iets 
+A|2| A: _ja_ 
+A|3| A: _en_ 
+B|4| B: _zo'n_ plat _rond_ 
+B|5| B: [ja] 
+B|6| B: dat zijn bij mij j 
+A|7| A: [ja] 
+A|8| A: _en_ nog _een_ klein dinge 
+A|9| A: aan _de_ 
+A|10| A: aan _de_ 
+A|11| A: [ja] 
+A|12| A: dertien 
+B|13| B: deze hebben _een driehoek bovenop_ [en] link [een] spiesdinge [en] linksonder [een] plat schijf 
+B|14| B: [en] links [een] spiesdinge 
+B|15| B: [en] linksonder [een] plat schijf 
+B|16| B: [ja] vierkant rechthoek ding 
+B|17| B: [ja] rechts _ja ja_ 
+B|18| B: [ja] met [een] punt [ja] 
+A|19| A: voorin [een] of [bovenop] [een] piramide 
+A|20| A: voorin [een] groot blok wat als neus uit zien 
+A|21| A: [ja] 
+A|22| A: [en] [een] [rond] onder 
+A|23| A: [ja] 
+B|24| B: [ja] dat zijn p 
+A|25| A: [ja] 
+A|26| A: [een] 
+B|27| B: _de driehoek_ puntig _driehoek bovenop_ [en] links [een] spie 
+B|28| B: [ja] 
+B|29| B: [ja] dat zijn e 
+A|30| A: [een driehoek bovenop] 
+A|31| A: [en] [een] aan [de] zijkant [een] dun dinge aan [de] onderkant , of aan [de] linker zijkant [zo'n] dun dinge [en] aan [de] onderkant [een] half [rond] 
+A|32| A: [en] aan [de] rechter zijkant [een] dikok vierkantachtig iets 
+A|33| A: [bovenop] zitten [de driehoek] 
+A|34| A: [ja] 
+A|35| A: [ja ja] 
+A|36| A: [ja] 
+B|37| B: [de driehoek] puntig [driehoek bovenop] [en] [de] ministerrenkijker 
+A|38| A: [ja] 
+A|39| A: achten 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : er zitten een piramideachtig bovenop
+	Free: Pattern=bovenop, Pattern=een
+	Constrained: 
+Turn ID=1| A | A : en aan de voorkant zitten rechtsvoor zitten een best wel dik Neusachtig iets
+	Free: Pattern=een, Pattern=en, Pattern=de
+	Constrained: 
+Turn ID=2| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=3| A | A : en
+	Free: Pattern=en
+	Constrained: 
+Turn ID=4| B | B : zo'n plat rond
+	Free: Pattern=rond, Pattern=zo'n
+	Constrained: 
+Turn ID=5| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=6| B | B : dat zijn bij mij j
+	Free: 
+	Constrained: 
+Turn ID=7| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=8| A | A : en nog een klein dinge
+	Free: Pattern=een, Pattern=en
+	Constrained: 
+Turn ID=9| A | A : aan de
+	Free: Pattern=de
+	Constrained: 
+Turn ID=10| A | A : aan de
+	Free: Pattern=de
+	Constrained: 
+Turn ID=11| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=12| A | A : dertien
+	Free: 
+	Constrained: 
+Turn ID=13| B | B : deze hebben een driehoek bovenop en link een spiesdinge en linksonder een plat schijf
+	Free: Pattern=een driehoek bovenop, Pattern=een, Pattern=en
+	Constrained: Pattern=driehoek bovenop, Pattern=bovenop, Pattern=een
+Turn ID=14| B | B : en links een spiesdinge
+	Free: Pattern=een, Pattern=en
+	Constrained: 
+Turn ID=15| B | B : en linksonder een plat schijf
+	Free: Pattern=een, Pattern=en
+	Constrained: 
+Turn ID=16| B | B : ja vierkant rechthoek ding
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=17| B | B : ja rechts ja ja
+	Free: Pattern=ja ja, Pattern=ja
+	Constrained: Pattern=ja
+Turn ID=18| B | B : ja met een punt ja
+	Free: Pattern=een, Pattern=ja
+	Constrained: 
+Turn ID=19| A | A : voorin een of bovenop een piramide
+	Free: Pattern=bovenop, Pattern=een
+	Constrained: 
+Turn ID=20| A | A : voorin een groot blok wat als neus uit zien
+	Free: Pattern=een
+	Constrained: 
+Turn ID=21| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=22| A | A : en een rond onder
+	Free: Pattern=rond, Pattern=een, Pattern=en
+	Constrained: 
+Turn ID=23| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=24| B | B : ja dat zijn p
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=25| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=26| A | A : een
+	Free: Pattern=een
+	Constrained: 
+Turn ID=27| B | B : de driehoek puntig driehoek bovenop en links een spie
+	Free: Pattern=driehoek bovenop, Pattern=de driehoek, Pattern=een, Pattern=en
+	Constrained: Pattern=bovenop, Pattern=de
+Turn ID=28| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=29| B | B : ja dat zijn e
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=30| A | A : een driehoek bovenop
+	Free: Pattern=een driehoek bovenop
+	Constrained: Pattern=driehoek bovenop, Pattern=bovenop, Pattern=een
+Turn ID=31| A | A : en een aan de zijkant een dun dinge aan de onderkant , of aan de linker zijkant zo'n dun dinge en aan de onderkant een half rond
+	Free: Pattern=zo'n, Pattern=de, Pattern=een, Pattern=en, Pattern=rond
+	Constrained: 
+Turn ID=32| A | A : en aan de rechter zijkant een dikok vierkantachtig iets
+	Free: Pattern=een, Pattern=en, Pattern=de
+	Constrained: 
+Turn ID=33| A | A : bovenop zitten de driehoek
+	Free: Pattern=de driehoek, Pattern=bovenop
+	Constrained: Pattern=de
+Turn ID=34| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=35| A | A : ja ja
+	Free: Pattern=ja ja
+	Constrained: Pattern=ja
+Turn ID=36| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=37| B | B : de driehoek puntig driehoek bovenop en de ministerrenkijker
+	Free: Pattern=driehoek bovenop, Pattern=de driehoek, Pattern=en, Pattern=de
+	Constrained: Pattern=bovenop, Pattern=de
+Turn ID=38| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=39| A | A : achten
+	Free: 
+	Constrained: 

@@ -1,0 +1,163 @@
+B|0| B: _ja_ _dit zijn_ _een_ _ding_ _ik_ vinden het net alsof _er_ het het _zijn_ _de_ basisvorm _met_ _een vierkant_ eronder _en_ net alsof _er_ twee muizentrappe zo _als_ arm _zijn_ 
+B|1| B: _en_ hij hebben ook nog _een_ _rond _ding_ _aan de_ voorkant_ 
+A|2| A: [ja] [en] _zitten_ _daar_ zo'n _soort_ _van_ zo'n [ding aan] 
+A|3| A: of _niet_ 
+B|4| B: wat bedoelen ? [ja] _er_ [zitten] _aan de_ _als_ je _dat vierkant_ eronder hebben [daar] [zitten] ook nog _aan allebei de kant_ twee _van die_ half ronde [ja] [soort] fris [ja] _ik_ weten ook [niet] wat het _zijn_ twee half _rond_ buisjes 
+B|5| B: _maar_ het _zijn_ _eigenlijk_ voor voornamelijk _dat_ 
+A|6| A: gewoon [een vierkant] onderplaat waar [die] op staat [en] [zitten] [er] dan drie [van die] [van die] kralen [eigenlijk] zeggen [maar] 
+B|7| B: [ja] 
+B|8| B: [ja] 
+B|9| B: precies 
+A|10| A: dus eerst drie _kraal_ [en] dan drie _kraal_ [aan] [die] [kant] [en] dan zo'n cirkel [met] zo'n [ding aan de] zijkant 
+B|11| B: _aan allebei de kant_ 
+B|12| B: _ja die_ 
+B|13| B: [ja] 
+B|14| B: [ja] 
+B|15| B: [die] 
+A|16| A: [ja die] snap [ik] _dat zijn_ bij mij vijf 
+A|17| A: of nee wachten [ja] _dat zijn_ vijf [ja] 
+A|18| A: _dit zijn die een met die_ ieder keer drie _kraal_ [aan de] zijkant zeggen [maar] [met] [dat] [rond] dinge [als] neus [aan de voorkant] [met] op [dat] vierkantje 
+B|19| B: [ja] 
+B|20| B: [ja] 
+B|21| B: [ja] 
+B|22| B: [ja] 
+B|23| B: J 
+B|24| B: [dit zijn die een met die] [met die] _allebei de kant_ waarvan [die] driehoekjesachtig vier [die] 
+A|25| A: [ja die] [dat] telraamdinge [die] eruit komen zeggen [maar] [met] [dat] [rond ding] [als] neus 
+B|26| B: [ja] 
+B|27| B: [ja die] 
+A|28| A: [ja] _dat zijn_ bij mij elf 
+A|29| A: [dit zijn die een met die] drie _kraal_ [die] [aan allebei de kant] eruit komen [met die] cirkel [aan de voorkant] op [dat vierkant] 
+B|30| B: [ja] 
+B|31| B: [dat zijn] P 
+B|32| B: [dit zijn] wel [die een] je hebben [een] vierkan [en] [dat] [van die] [kraal] 
+A|33| A: [met die] drie [kraal] [ja] 
+B|34| B: [ja] 
+A|35| A: nummer negen 
+A|36| A: degeen [met die] drie [kraal] [aan allebei de kant] 
+B|37| B: [ja] 
+A|38| A: [en] op [dat vierkant] plateau [ja] 
+B|39| B: L 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : ja dit zijn een ding ik vinden het net alsof er het het zijn de basisvorm met een vierkant eronder en net alsof er twee muizentrappe zo als arm zijn
+	Free: Pattern=ding, Pattern=een, Pattern=als, Pattern=met, Pattern=er, Pattern=ik, Pattern=en, Pattern=zijn, Pattern=dit zijn, Pattern=een vierkant, Pattern=de, Pattern=ja
+	Constrained: Pattern=zijn, Pattern=een
+Turn ID=1| B | B : en hij hebben ook nog een rond ding aan de voorkant
+	Free: Pattern=rond ding, Pattern=ding aan de, Pattern=een, Pattern=en, Pattern=aan de voorkant
+	Constrained: Pattern=ding, Pattern=rond, Pattern=de, Pattern=aan, Pattern=ding aan, Pattern=aan de
+Turn ID=2| A | A : ja en zitten daar zo'n soort van zo'n ding aan
+	Free: Pattern=soort, Pattern=ja, Pattern=ding aan, Pattern=zitten, Pattern=daar, Pattern=van, Pattern=en
+	Constrained: Pattern=aan, Pattern=ding
+Turn ID=3| A | A : of niet
+	Free: Pattern=niet
+	Constrained: 
+Turn ID=4| B | B : wat bedoelen ? ja er zitten aan de als je dat vierkant eronder hebben daar zitten ook nog aan allebei de kant twee van die half ronde ja soort fris ja ik weten ook niet wat het zijn twee half rond buisjes
+	Free: Pattern=soort, Pattern=ja, Pattern=aan de, Pattern=niet, Pattern=dat vierkant, Pattern=als, Pattern=zitten, Pattern=aan allebei de kant, Pattern=er, Pattern=ik, Pattern=van die, Pattern=rond, Pattern=zijn, Pattern=daar
+	Constrained: Pattern=die, Pattern=allebei de kant, Pattern=van, Pattern=dat, Pattern=kant, Pattern=de, Pattern=aan
+Turn ID=5| B | B : maar het zijn eigenlijk voor voornamelijk dat
+	Free: Pattern=eigenlijk, Pattern=maar, Pattern=zijn, Pattern=dat
+	Constrained: 
+Turn ID=6| A | A : gewoon een vierkant onderplaat waar die op staat en zitten er dan drie van die van die kralen eigenlijk zeggen maar
+	Free: Pattern=eigenlijk, Pattern=er, Pattern=maar, Pattern=een vierkant, Pattern=die, Pattern=zitten, Pattern=van die, Pattern=en
+	Constrained: Pattern=van, Pattern=die, Pattern=een
+Turn ID=7| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=8| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=9| B | B : precies
+	Free: 
+	Constrained: 
+Turn ID=10| A | A : dus eerst drie kraal en dan drie kraal aan die kant en dan zo'n cirkel met zo'n ding aan de zijkant
+	Free: Pattern=kant, Pattern=kraal, Pattern=aan, Pattern=ding aan de, Pattern=met, Pattern=die, Pattern=en
+	Constrained: Pattern=ding, Pattern=de, Pattern=aan, Pattern=ding aan, Pattern=aan de
+Turn ID=11| B | B : aan allebei de kant
+	Free: Pattern=aan allebei de kant
+	Constrained: Pattern=aan, Pattern=de, Pattern=kant, Pattern=allebei de kant
+Turn ID=12| B | B : ja die
+	Free: Pattern=ja die
+	Constrained: Pattern=die, Pattern=ja
+Turn ID=13| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=14| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=15| B | B : die
+	Free: Pattern=die
+	Constrained: 
+Turn ID=16| A | A : ja die snap ik dat zijn bij mij vijf
+	Free: Pattern=ja die, Pattern=dat zijn, Pattern=ik
+	Constrained: Pattern=die, Pattern=zijn, Pattern=ja, Pattern=dat
+Turn ID=17| A | A : of nee wachten ja dat zijn vijf ja
+	Free: Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=18| A | A : dit zijn die een met die ieder keer drie kraal aan de zijkant zeggen maar met dat rond dinge als neus aan de voorkant met op dat vierkantje
+	Free: Pattern=dat, Pattern=kraal, Pattern=aan de, Pattern=als, Pattern=met, Pattern=rond, Pattern=maar, Pattern=dit zijn die een met die, Pattern=aan de voorkant
+	Constrained: Pattern=met die, Pattern=aan de, Pattern=een, Pattern=met, Pattern=die, Pattern=die een, Pattern=zijn, Pattern=dit zijn, Pattern=de, Pattern=aan
+Turn ID=19| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=20| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=21| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=22| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=23| B | B : J
+	Free: 
+	Constrained: 
+Turn ID=24| B | B : dit zijn die een met die met die allebei de kant waarvan die driehoekjesachtig vier die
+	Free: Pattern=dit zijn die een met die, Pattern=allebei de kant, Pattern=met die, Pattern=die
+	Constrained: Pattern=de, Pattern=een, Pattern=met, Pattern=die, Pattern=die een, Pattern=zijn, Pattern=dit zijn, Pattern=kant, Pattern=met die
+Turn ID=25| A | A : ja die dat telraamdinge die eruit komen zeggen maar met dat rond ding als neus
+	Free: Pattern=dat, Pattern=als, Pattern=met, Pattern=die, Pattern=maar, Pattern=rond ding, Pattern=ja die
+	Constrained: Pattern=die, Pattern=rond, Pattern=ja, Pattern=ding
+Turn ID=26| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=27| B | B : ja die
+	Free: Pattern=ja die
+	Constrained: Pattern=die, Pattern=ja
+Turn ID=28| A | A : ja dat zijn bij mij elf
+	Free: Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=29| A | A : dit zijn die een met die drie kraal die aan allebei de kant eruit komen met die cirkel aan de voorkant op dat vierkant
+	Free: Pattern=met die, Pattern=kraal, Pattern=dat vierkant, Pattern=die, Pattern=aan allebei de kant, Pattern=dit zijn die een met die, Pattern=aan de voorkant
+	Constrained: Pattern=aan de, Pattern=een, Pattern=met, Pattern=die, Pattern=zijn, Pattern=dit zijn, Pattern=dat, Pattern=kant, Pattern=met die, Pattern=de, Pattern=aan, Pattern=die een, Pattern=allebei de kant
+Turn ID=30| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=31| B | B : dat zijn P
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=32| B | B : dit zijn wel die een je hebben een vierkan en dat van die kraal
+	Free: Pattern=dat, Pattern=kraal, Pattern=een, Pattern=die een, Pattern=dit zijn, Pattern=van die, Pattern=en
+	Constrained: Pattern=van, Pattern=die, Pattern=zijn, Pattern=een
+Turn ID=33| A | A : met die drie kraal ja
+	Free: Pattern=met die, Pattern=ja, Pattern=kraal
+	Constrained: Pattern=met, Pattern=die
+Turn ID=34| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=35| A | A : nummer negen
+	Free: 
+	Constrained: 
+Turn ID=36| A | A : degeen met die drie kraal aan allebei de kant
+	Free: Pattern=aan allebei de kant, Pattern=met die, Pattern=kraal
+	Constrained: Pattern=kant, Pattern=met, Pattern=die, Pattern=allebei de kant, Pattern=de, Pattern=aan
+Turn ID=37| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=38| A | A : en op dat vierkant plateau ja
+	Free: Pattern=dat vierkant, Pattern=en, Pattern=ja
+	Constrained: Pattern=dat
+Turn ID=39| B | B : L
+	Free: 
+	Constrained: 

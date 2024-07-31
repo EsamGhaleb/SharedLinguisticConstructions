@@ -1,0 +1,123 @@
+A|0| A: _deze hebben een soort_ handvatding _aan de_ bovenkant 
+A|1| A: _en dan_ _aan de_ rechterkant _een_ _blok_ op _een groot blok_ op _een groot blok_ op _een groot blok_ 
+B|2| B: _en zitten er_ link _nog_ twee dinget 
+A|3| A: _ja_ datzelfde _ding_ als _die_ bovenop _hebben_ [zitten] _aan de_ linkerkant [en] daarachter [zitten] _ook_ _nog een_ dinge 
+B|4| B: oké [dan] _zijn_ het E 
+B|5| B: [deze hebben een soort] [ja] 
+B|6| B: _kegel_ erop [die] _er_ [ook] voor [zitten] [en dan] rechts _die blok_ _weer _die_ steeds_ [een] klein [blok] [en dan] [een groot blok] [en dan] [nog] [groot blok] 
+A|7| A: [een] [kegel] bovenop 
+B|8| B: _en links aan de zijkant_ [nog] 
+A|9| A: [en links aan de zijkant] 
+B|10| B: _dat zijn_ ongeveer dezelfde [kegel] 
+B|11| B: volgens _mij_ _zijn_ het _één_ van [de] _één_ [die] we [hebben] 
+A|12| A: [en zitten er] ver [nog] wat 
+B|13| B: [ja] rechts in elkaar stapellen [blok] 
+B|14| B: [en links] boven _dat_ kegelding [zitten] [nog een] klein raar frutje 
+A|15| A: [ja] ik denken ik denken [dat] ik hem [dat] ik hem [hebben] 
+A|16| A: [dat zijn] elf 
+A|17| A: _deze hebben weer die_ [soort] [kegel] bovenop [en dan] [ook] [aan de zijkant] [aan de] 
+A|18| A: linkerkant [en dan] [die] vierkant [die steeds] [groot] worden 
+B|19| B: _ja _dat zijn_ bij mij_ J 
+B|20| B: [deze hebben weer die] twee [kegel] _en _die_ blok_ [die] 
+A|21| A: [ja] [die] [één] [aan de] voorkant [één] [aan de zijkant] [en dan] [die blok] [ja] 
+B|22| B: [ja] 
+A|23| A: [dat zijn bij mij] nummer negen 
+A|24| A: [deze hebben weer die] [kegel] bovenop [en die] [kegel] [aan de zijkant] [en dan] [die] vierkant [die steeds] [groot] worden 
+B|25| B: B 
+B|26| B: [deze] [zijn] [weer] _met die_ twee [ding] [die] zo gaan 
+A|27| A: [ja] [met die] vierkant [die steeds] [groot] worden [ja dat zijn] nummer vier 
+B|28| B: [en die] 
+B|29| B: [ja] 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : deze hebben een soort handvatding aan de bovenkant
+	Free: Pattern=deze hebben een soort, Pattern=aan de
+	Constrained: Pattern=soort, Pattern=de, Pattern=een, Pattern=hebben, Pattern=deze
+Turn ID=1| A | A : en dan aan de rechterkant een blok op een groot blok op een groot blok op een groot blok
+	Free: Pattern=en dan, Pattern=aan de, Pattern=een, Pattern=een groot blok, Pattern=blok
+	Constrained: Pattern=groot blok, Pattern=de, Pattern=dan, Pattern=een, Pattern=groot, Pattern=en, Pattern=blok
+Turn ID=2| B | B : en zitten er link nog twee dinget
+	Free: Pattern=en zitten er, Pattern=nog
+	Constrained: Pattern=er, Pattern=en, Pattern=zitten
+Turn ID=3| A | A : ja datzelfde ding als die bovenop hebben zitten aan de linkerkant en daarachter zitten ook nog een dinge
+	Free: Pattern=nog een, Pattern=ja, Pattern=ding, Pattern=hebben, Pattern=en, Pattern=aan de, Pattern=ook, Pattern=die, Pattern=zitten
+	Constrained: Pattern=de, Pattern=nog, Pattern=een
+Turn ID=4| B | B : oké dan zijn het E
+	Free: Pattern=zijn, Pattern=dan
+	Constrained: 
+Turn ID=5| B | B : deze hebben een soort ja
+	Free: Pattern=deze hebben een soort, Pattern=ja
+	Constrained: Pattern=een, Pattern=deze, Pattern=soort, Pattern=hebben
+Turn ID=6| B | B : kegel erop die er ook voor zitten en dan rechts die blok weer die steeds een klein blok en dan een groot blok en dan nog groot blok
+	Free: Pattern=nog, Pattern=die blok, Pattern=en dan, Pattern=ook, Pattern=een, Pattern=die steeds, Pattern=weer die, Pattern=een groot blok, Pattern=er, Pattern=blok, Pattern=kegel, Pattern=groot blok, Pattern=die, Pattern=zitten
+	Constrained: Pattern=groot blok, Pattern=dan, Pattern=een, Pattern=groot, Pattern=die, Pattern=en, Pattern=blok, Pattern=weer
+Turn ID=7| A | A : een kegel bovenop
+	Free: Pattern=een, Pattern=kegel
+	Constrained: 
+Turn ID=8| B | B : en links aan de zijkant nog
+	Free: Pattern=en links aan de zijkant, Pattern=nog
+	Constrained: Pattern=de, Pattern=aan de, Pattern=aan de zijkant, Pattern=en links, Pattern=en
+Turn ID=9| A | A : en links aan de zijkant
+	Free: Pattern=en links aan de zijkant
+	Constrained: Pattern=de, Pattern=aan de, Pattern=aan de zijkant, Pattern=en links, Pattern=en
+Turn ID=10| B | B : dat zijn ongeveer dezelfde kegel
+	Free: Pattern=dat zijn, Pattern=kegel
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=11| B | B : volgens mij zijn het één van de één die we hebben
+	Free: Pattern=de, Pattern=hebben, Pattern=die, Pattern=mij, Pattern=zijn, Pattern=één
+	Constrained: 
+Turn ID=12| A | A : en zitten er ver nog wat
+	Free: Pattern=en zitten er, Pattern=nog
+	Constrained: Pattern=er, Pattern=en, Pattern=zitten
+Turn ID=13| B | B : ja rechts in elkaar stapellen blok
+	Free: Pattern=ja, Pattern=blok
+	Constrained: 
+Turn ID=14| B | B : en links boven dat kegelding zitten nog een klein raar frutje
+	Free: Pattern=nog een, Pattern=en links, Pattern=zitten, Pattern=dat
+	Constrained: Pattern=nog, Pattern=een, Pattern=en
+Turn ID=15| A | A : ja ik denken ik denken dat ik hem dat ik hem hebben
+	Free: Pattern=ja, Pattern=hebben, Pattern=dat
+	Constrained: 
+Turn ID=16| A | A : dat zijn elf
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=17| A | A : deze hebben weer die soort kegel bovenop en dan ook aan de zijkant aan de
+	Free: Pattern=kegel, Pattern=soort, Pattern=deze hebben weer die, Pattern=en dan, Pattern=aan de zijkant, Pattern=aan de, Pattern=ook
+	Constrained: Pattern=de, Pattern=aan de, Pattern=dan, Pattern=hebben, Pattern=weer die, Pattern=die, Pattern=en, Pattern=deze, Pattern=weer
+Turn ID=18| A | A : linkerkant en dan die vierkant die steeds groot worden
+	Free: Pattern=en dan, Pattern=die steeds, Pattern=groot, Pattern=die
+	Constrained: Pattern=dan, Pattern=en, Pattern=die
+Turn ID=19| B | B : ja dat zijn bij mij J
+	Free: Pattern=dat zijn bij mij, Pattern=ja dat zijn
+	Constrained: Pattern=ja, Pattern=mij, Pattern=zijn, Pattern=dat, Pattern=dat zijn
+Turn ID=20| B | B : deze hebben weer die twee kegel en die blok die
+	Free: Pattern=die blok, Pattern=deze hebben weer die, Pattern=die, Pattern=kegel, Pattern=en die
+	Constrained: Pattern=hebben, Pattern=weer die, Pattern=die, Pattern=en, Pattern=blok, Pattern=deze, Pattern=weer
+Turn ID=21| A | A : ja die één aan de voorkant één aan de zijkant en dan die blok ja
+	Free: Pattern=die blok, Pattern=ja, Pattern=en dan, Pattern=aan de, Pattern=aan de zijkant, Pattern=die, Pattern=één
+	Constrained: Pattern=de, Pattern=aan de, Pattern=dan, Pattern=die, Pattern=en, Pattern=blok
+Turn ID=22| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=23| A | A : dat zijn bij mij nummer negen
+	Free: Pattern=dat zijn bij mij
+	Constrained: Pattern=dat, Pattern=zijn, Pattern=dat zijn, Pattern=mij
+Turn ID=24| A | A : deze hebben weer die kegel bovenop en die kegel aan de zijkant en dan die vierkant die steeds groot worden
+	Free: Pattern=deze hebben weer die, Pattern=en dan, Pattern=aan de zijkant, Pattern=die steeds, Pattern=groot, Pattern=die, Pattern=kegel, Pattern=en die
+	Constrained: Pattern=de, Pattern=aan de, Pattern=dan, Pattern=hebben, Pattern=weer die, Pattern=die, Pattern=en, Pattern=deze, Pattern=weer
+Turn ID=25| B | B : B
+	Free: 
+	Constrained: 
+Turn ID=26| B | B : deze zijn weer met die twee ding die zo gaan
+	Free: Pattern=met die, Pattern=ding, Pattern=die, Pattern=zijn, Pattern=deze, Pattern=weer
+	Constrained: Pattern=die
+Turn ID=27| A | A : ja met die vierkant die steeds groot worden ja dat zijn nummer vier
+	Free: Pattern=met die, Pattern=ja, Pattern=ja dat zijn, Pattern=die steeds, Pattern=groot
+	Constrained: Pattern=ja, Pattern=die, Pattern=zijn, Pattern=dat, Pattern=dat zijn
+Turn ID=28| B | B : en die
+	Free: Pattern=en die
+	Constrained: Pattern=en, Pattern=die
+Turn ID=29| B | B : ja
+	Free: Pattern=ja
+	Constrained: 

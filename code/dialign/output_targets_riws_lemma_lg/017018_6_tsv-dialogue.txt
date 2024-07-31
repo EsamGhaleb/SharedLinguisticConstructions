@@ -1,0 +1,95 @@
+A|0| A: hij _hebben_ _een_ _een_ _rond_ _aan de voorkant_ _en_ daar zitten _een_ _staaf_ doorheen 
+A|1| A: _en_ daar zitten op _de_ zijkant _weer_ _een_ _rond_ tegenaan 
+A|2| A: alsof 
+B|3| B: [hebben] _die_ _aan de bovenkant_ [een] soort van appelsteel 
+A|4| A: _ja_ 
+B|5| B: oké _dan_ weten ik welk het _zijn_ _dan_ moeten _dat_ F _zijn_ _voor mij_ 
+B|6| B: dus even kijken _dan_ _zijn_ _dat_ [de] geel knop 
+B|7| B: even kijken _dit zijn_ het het bak waar het appelsteel [aan de] linkerkant boven uit opsteken 
+B|8| B: _met_ [aan de voorkant] het bolle _met_ het [staaf] erdoorheen 
+A|9| A: _ja_ 
+A|10| A: _en_ [dan] ding [aan de] zijkant 
+B|11| B: [ja] 
+A|12| A: _dat zijn_ vijf [voor mij] 
+B|13| B: nee 
+A|14| A: [dit zijn] degeen [met] [dat] appelsprietje _aan de bovenkant en_ [de] _doorboren_ [ja] Neusding 
+B|15| B: [ja] 
+B|16| B: [dat zijn] [voor mij] A 
+B|17| B: _dit zijn die_ [weer] [met] het appelsteel [aan de bovenkant en] het _neus_ wat [doorboren] worden 
+A|18| A: yes [dat zijn] vijf [voor mij] 
+A|19| A: [dit zijn die] [met] [dat] _appelsteeltje en_ [de] [doorboren] [neus] 
+B|20| B: [dat zijn] H [voor mij] 
+B|21| B: het [appelsteeltje en] het doorbooren [rond] 
+A|22| A: [ja] [dat zijn] vijftien [voor mij] 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : hij hebben een een rond aan de voorkant en daar zitten een staaf doorheen
+	Free: Pattern=staaf, Pattern=een, Pattern=hebben, Pattern=en, Pattern=rond, Pattern=aan de voorkant
+	Constrained: Pattern=aan de, Pattern=de
+Turn ID=1| A | A : en daar zitten op de zijkant weer een rond tegenaan
+	Free: Pattern=de, Pattern=een, Pattern=en, Pattern=rond, Pattern=weer
+	Constrained: 
+Turn ID=2| A | A : alsof
+	Free: 
+	Constrained: 
+Turn ID=3| B | B : hebben die aan de bovenkant een soort van appelsteel
+	Free: Pattern=aan de bovenkant, Pattern=hebben, Pattern=die, Pattern=een
+	Constrained: Pattern=aan de, Pattern=de
+Turn ID=4| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=5| B | B : oké dan weten ik welk het zijn dan moeten dat F zijn voor mij
+	Free: Pattern=voor mij, Pattern=dan, Pattern=dat, Pattern=zijn
+	Constrained: 
+Turn ID=6| B | B : dus even kijken dan zijn dat de geel knop
+	Free: Pattern=dan, Pattern=dat, Pattern=de, Pattern=zijn
+	Constrained: 
+Turn ID=7| B | B : even kijken dit zijn het het bak waar het appelsteel aan de linkerkant boven uit opsteken
+	Free: Pattern=dit zijn, Pattern=aan de
+	Constrained: Pattern=de, Pattern=zijn
+Turn ID=8| B | B : met aan de voorkant het bolle met het staaf erdoorheen
+	Free: Pattern=aan de voorkant, Pattern=met, Pattern=staaf
+	Constrained: Pattern=aan de, Pattern=de
+Turn ID=9| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=10| A | A : en dan ding aan de zijkant
+	Free: Pattern=aan de, Pattern=en, Pattern=dan
+	Constrained: Pattern=de
+Turn ID=11| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=12| A | A : dat zijn vijf voor mij
+	Free: Pattern=dat zijn, Pattern=voor mij
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=13| B | B : nee
+	Free: 
+	Constrained: 
+Turn ID=14| A | A : dit zijn degeen met dat appelsprietje aan de bovenkant en de doorboren ja Neusding
+	Free: Pattern=dat, Pattern=doorboren, Pattern=met, Pattern=aan de bovenkant en, Pattern=dit zijn, Pattern=de, Pattern=ja
+	Constrained: Pattern=de, Pattern=aan de, Pattern=zijn, Pattern=aan de bovenkant, Pattern=en
+Turn ID=15| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=16| B | B : dat zijn voor mij A
+	Free: Pattern=dat zijn, Pattern=voor mij
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=17| B | B : dit zijn die weer met het appelsteel aan de bovenkant en het neus wat doorboren worden
+	Free: Pattern=dit zijn die, Pattern=doorboren, Pattern=neus, Pattern=met, Pattern=aan de bovenkant en, Pattern=weer
+	Constrained: Pattern=de, Pattern=aan de, Pattern=die, Pattern=zijn, Pattern=dit zijn, Pattern=aan de bovenkant, Pattern=en
+Turn ID=18| A | A : yes dat zijn vijf voor mij
+	Free: Pattern=dat zijn, Pattern=voor mij
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=19| A | A : dit zijn die met dat appelsteeltje en de doorboren neus
+	Free: Pattern=dat, Pattern=dit zijn die, Pattern=de, Pattern=doorboren, Pattern=neus, Pattern=met, Pattern=appelsteeltje en
+	Constrained: Pattern=dit zijn, Pattern=zijn, Pattern=die, Pattern=en
+Turn ID=20| B | B : dat zijn H voor mij
+	Free: Pattern=dat zijn, Pattern=voor mij
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=21| B | B : het appelsteeltje en het doorbooren rond
+	Free: Pattern=appelsteeltje en, Pattern=rond
+	Constrained: Pattern=en
+Turn ID=22| A | A : ja dat zijn vijftien voor mij
+	Free: Pattern=dat zijn, Pattern=voor mij, Pattern=ja
+	Constrained: Pattern=dat, Pattern=zijn

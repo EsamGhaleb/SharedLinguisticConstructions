@@ -1,0 +1,143 @@
+B|0| B: alright one's _ja_ als je _het_ _kop_ _hebben_ daar zitten _een bolle_ op _aan de rechterkant_ 
+B|1| B: _en_ daar opsteken _aan de linkerkant_ _een soort_ dentastixding _uit_ zo _soort_ _driehoek_ uitgerekt 
+B|2| B: _en aan de bovenkant_ _hebben_ je _ja_ ik weten niet _het_ uitzien _er_ heel erg _uit_ als _een_ buttplug _en_ dan rechts daarvan _een_ _een_ rechthoek 
+B|3| B: _ja_ 
+A|4| A: [een soort] strip zeggen maar 
+B|5| B: _ja_ 
+A|6| A: [ja] 
+A|7| A: _oké_ 
+B|8| B: weten je hem 
+A|9| A: _dat zijn_ nummer veertien 
+B|10| B: [oké] 
+A|11| A: _dit zijn_ weer _dat_ [kop] _met_ [aan de linkerkant] _zo'n_ driehoekig _uitsteeksel_ 
+A|12| A: [en [aan de] rechterkant] _een bolle aan de_ voorkant [en aan de bovenkant] komen [er] twee ding [uit] 
+B|13| B: [ja] ik weten welk _het_ [zijn] 
+B|14| B: [de] N 
+B|15| B: [dit zijn] _die_ [met] [de] _driehoek_ _die [aan de_ linkerkant] uittrekken worden 
+B|16| B: [en] bovenin [zo'n] rechthoek [en] dan wel [een bolle [aan de] rechterkant] 
+A|17| A: waar twee ding [uit] [de bovenkant] komen 
+B|18| B: [ja] waarvan één [ja] 
+A|19| A: [ja] 
+A|20| A: negen 
+A|21| A: [dit _zijn] het_ plaat [met] [aan de bovenkant] twee _uitsteeksel [en_ [aan de] rechterkant] [een] rond _en aan de linkerkant_ _dat_ driehoekig _uitsteeksel_ 
+B|22| B: sorry kunnen je [dat] herhalen 
+A|23| A: [ja] [dat] [die [aan de] bovenkant] twee _uitsteeksel_ [hebben] 
+B|24| B: [ja] 
+A|25| A: [met] [een soort] stripje [en] [die] 
+B|26| B: [oké] [en aan de linkerkant] [de] _driehoek_ uitgerekt 
+A|27| A: [ja] 
+B|28| B: [oké] [dat zijn] G 
+B|29| B: [dit zijn] [met] [die] vier [uitsteeksel en] [de] Rechteruitsteeksel [zijn _het] bolle en_ links [zijn] [de] doorgetrokken _driehoek_ 
+A|30| A: [ja] nummer vijf 
+A|31| A: [en] [dit [zijn] het] plaat [met] [aan de rechterkant] [het bolle [en] aan de bovenkant] [die] twee [uitsteeksel] 
+B|32| B: [ja] 
+A|33| A: [en aan de linkerkant] [het] [driehoek] wat eruit komen 
+B|34| B: [dat zijn] J 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : alright one's ja als je het kop hebben daar zitten een bolle op aan de rechterkant
+	Free: Pattern=ja, Pattern=het, Pattern=hebben, Pattern=kop, Pattern=een bolle, Pattern=aan de rechterkant
+	Constrained: Pattern=een, Pattern=de
+Turn ID=1| B | B : en daar opsteken aan de linkerkant een soort dentastixding uit zo soort driehoek uitgerekt
+	Free: Pattern=driehoek, Pattern=soort, Pattern=uit, Pattern=een soort, Pattern=en, Pattern=aan de linkerkant
+	Constrained: Pattern=de, Pattern=soort, Pattern=een
+Turn ID=2| B | B : en aan de bovenkant hebben je ja ik weten niet het uitzien er heel erg uit als een buttplug en dan rechts daarvan een een rechthoek
+	Free: Pattern=ja, Pattern=uit, Pattern=een, Pattern=het, Pattern=hebben, Pattern=er, Pattern=en, Pattern=en aan de bovenkant
+	Constrained: Pattern=de, Pattern=de bovenkant, Pattern=en aan de, Pattern=aan de bovenkant, Pattern=en
+Turn ID=3| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=4| A | A : een soort strip zeggen maar
+	Free: Pattern=een soort
+	Constrained: Pattern=een, Pattern=soort
+Turn ID=5| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=6| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=7| A | A : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=8| B | B : weten je hem
+	Free: 
+	Constrained: 
+Turn ID=9| A | A : dat zijn nummer veertien
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=10| B | B : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=11| A | A : dit zijn weer dat kop met aan de linkerkant zo'n driehoekig uitsteeksel
+	Free: Pattern=dat, Pattern=zo'n, Pattern=uitsteeksel, Pattern=kop, Pattern=met, Pattern=dit zijn, Pattern=aan de linkerkant
+	Constrained: Pattern=de, Pattern=zijn
+Turn ID=12| A | A : en aan de rechterkant een bolle aan de voorkant en aan de bovenkant komen er twee ding uit
+	Free: Pattern=uit, Pattern=een bolle aan de, Pattern=aan de rechterkant, Pattern=er, Pattern=en aan de bovenkant, Pattern=en aan de
+	Constrained: Pattern=de, Pattern=de bovenkant, Pattern=een, Pattern=een bolle, Pattern=en aan de, Pattern=aan de bovenkant, Pattern=en
+Turn ID=13| B | B : ja ik weten welk het zijn
+	Free: Pattern=het, Pattern=zijn, Pattern=ja
+	Constrained: 
+Turn ID=14| B | B : de N
+	Free: Pattern=de
+	Constrained: 
+Turn ID=15| B | B : dit zijn die met de driehoek die aan de linkerkant uittrekken worden
+	Free: Pattern=driehoek, Pattern=de, Pattern=met, Pattern=die, Pattern=aan de linkerkant, Pattern=dit zijn, Pattern=die aan de
+	Constrained: Pattern=de, Pattern=zijn, Pattern=die
+Turn ID=16| B | B : en bovenin zo'n rechthoek en dan wel een bolle aan de rechterkant
+	Free: Pattern=een bolle aan de, Pattern=aan de rechterkant, Pattern=zo'n, Pattern=en
+	Constrained: Pattern=een bolle, Pattern=een, Pattern=de
+Turn ID=17| A | A : waar twee ding uit de bovenkant komen
+	Free: Pattern=de bovenkant, Pattern=uit
+	Constrained: Pattern=de
+Turn ID=18| B | B : ja waarvan één ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=19| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=20| A | A : negen
+	Free: 
+	Constrained: 
+Turn ID=21| A | A : dit zijn het plaat met aan de bovenkant twee uitsteeksel en aan de rechterkant een rond en aan de linkerkant dat driehoekig uitsteeksel
+	Free: Pattern=dat, Pattern=zijn het, Pattern=uitsteeksel, Pattern=een, Pattern=aan de rechterkant, Pattern=aan de bovenkant, Pattern=en aan de, Pattern=dit zijn, Pattern=uitsteeksel en, Pattern=en aan de linkerkant, Pattern=met
+	Constrained: Pattern=de, Pattern=uitsteeksel, Pattern=de bovenkant, Pattern=het, Pattern=en, Pattern=zijn, Pattern=en aan de, Pattern=aan de linkerkant
+Turn ID=22| B | B : sorry kunnen je dat herhalen
+	Free: Pattern=dat
+	Constrained: 
+Turn ID=23| A | A : ja dat die aan de bovenkant twee uitsteeksel hebben
+	Free: Pattern=dat, Pattern=ja, Pattern=uitsteeksel, Pattern=hebben, Pattern=aan de bovenkant, Pattern=die aan de
+	Constrained: Pattern=de, Pattern=die, Pattern=de bovenkant
+Turn ID=24| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=25| A | A : met een soort stripje en die
+	Free: Pattern=een soort, Pattern=met, Pattern=en, Pattern=die
+	Constrained: Pattern=een, Pattern=soort
+Turn ID=26| B | B : oké en aan de linkerkant de driehoek uitgerekt
+	Free: Pattern=en aan de linkerkant, Pattern=de, Pattern=driehoek, Pattern=oké
+	Constrained: Pattern=de, Pattern=en, Pattern=aan de linkerkant, Pattern=en aan de
+Turn ID=27| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=28| B | B : oké dat zijn G
+	Free: Pattern=dat zijn, Pattern=oké
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=29| B | B : dit zijn met die vier uitsteeksel en de Rechteruitsteeksel zijn het bolle en links zijn de doorgetrokken driehoek
+	Free: Pattern=driehoek, Pattern=zijn het, Pattern=de, Pattern=die, Pattern=het bolle en, Pattern=zijn, Pattern=dit zijn, Pattern=uitsteeksel en, Pattern=met
+	Constrained: Pattern=zijn, Pattern=uitsteeksel, Pattern=en, Pattern=het
+Turn ID=30| A | A : ja nummer vijf
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=31| A | A : en dit zijn het plaat met aan de rechterkant het bolle en aan de bovenkant die twee uitsteeksel
+	Free: Pattern=zijn het, Pattern=uitsteeksel, Pattern=met, Pattern=en, Pattern=dit zijn, Pattern=aan de rechterkant, Pattern=die, Pattern=het bolle en, Pattern=en aan de bovenkant
+	Constrained: Pattern=de, Pattern=de bovenkant, Pattern=het, Pattern=zijn, Pattern=en aan de, Pattern=aan de bovenkant, Pattern=en
+Turn ID=32| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=33| A | A : en aan de linkerkant het driehoek wat eruit komen
+	Free: Pattern=en aan de linkerkant, Pattern=het, Pattern=driehoek
+	Constrained: Pattern=de, Pattern=en, Pattern=aan de linkerkant, Pattern=en aan de
+Turn ID=34| B | B : dat zijn J
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn, Pattern=dat

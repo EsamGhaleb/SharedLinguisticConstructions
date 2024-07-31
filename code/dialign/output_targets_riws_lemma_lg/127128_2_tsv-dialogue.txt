@@ -1,0 +1,187 @@
+A|0| A: _bij mij_ _zitten_ _er_ _een_ _driehoek_ _bovenop_ _en_ _dit zijn_ wel _een_ _scherp_ _driehoek_ 
+A|1| A: _zijn_ geen _stompe_ maar echt _met_ _een_ _punt_ 
+A|2| A: _en dan_ _zitten_ _er_ nog _een soort_ van balk _die_ steeds _bred worden_ zo tegen _het_ figuur _aan_ _dan_ _zitten_ _er_ _aan de_ linkerkant nog één _ja_ _een_ _punt_ 
+B|3| B: [en] [er] steken [een] _klein_ muntstuk [aan de] onderkant uit 
+A|4| A: [een] _scherp_ dinge 
+A|5| A: _ja_ 
+B|6| B: [ja] 
+B|7| B: _dat _zijn_ bij mij_ J 
+B|8| B: [dit zijn] [die] [met] [die] _heel_ sterk [driehoek] [de] _piramide_ _op_ [bovenop] 
+B|9| B: [en dan] [met] [het] vierkant _dat_ naarmate [die] dichterbij komen [bred worden] 
+A|10| A: [ja] 
+B|11| B: _klein_ veer wat uitsteken [en] [een] muntstuk wat eruit _vallen_ 
+A|12| A: [ja] 
+A|13| A: [dat zijn] nummer zes 
+A|14| A: [dit zijn] _met dat_ puntig [driehoek] erbovenop 
+A|15| A: [en dan] zo'n blok [een] muntje [aan de] links kant [en] 
+B|16| B: wat eruit _vallen_ 
+A|17| A: [ja] [en] [aan de] links kant zo'n [klein] _kogel_ 
+B|18| B: [en] [een soort] [kogel] [die] erin komen 
+A|19| A: [ja] 
+B|20| B: [ja] zeiden [zijn] ook al twee [kogel] [ja] [het] _zijn een_ [kogel] 
+A|21| A: [ja] 
+A|22| A: [ja] 
+B|23| B: _ja dat _zijn_ bij mij_ E 
+A|24| A: misschien [vallen] [het] viel [het] net gewoon [op] omdat ze [die] omcirkeld [zijn bij mij] maar 
+B|25| B: [ja] 
+B|26| B: [ja] nee nu inderdaad weer 
+A|27| A: [ja] 
+B|28| B: _heel_ gek 
+B|29| B: nou daaronder [zitten] dus [die] [met dat] tafel 
+A|30| A: [ja] [de] 
+B|31| B: hebben je [die] [dan] ook 
+B|32| B: [met dat] [met dat] dienblad 
+B|33| B: [en] daaronder [zitten] [die] [met] [die] _heel scherp punt_ 
+A|34| A: [ja] 
+B|35| B: _scherp punt_ [en dan] [dat] veer [en] [dat] muntstuk [dat] eruit [vallen] 
+A|36| A: [piramide] zeggen maar 
+A|37| A: [ja] 
+A|38| A: [zijn] nummer tien 
+B|39| B: [ja] 
+A|40| A: [dit zijn] [het] veel linksbovenste figuur [bij mij] [dat [zijn] een] [heel scherp] [heel scherp punt] [de] driehoekpunt erbovenop 
+B|41| B: muntstuk [dat] eruit [vallen] 
+A|42| A: [met dat] mun [die] eronderuit [vallen] 
+B|43| B: _ja dat [zijn_ bij mij] G 
+B|44| B: [dit zijn] [die] [met] [die] [heel] [stompe] [driehoek] [en] [die] [kogel] 
+A|45| A: even zoeken [ja dat zijn] nummer zes 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : bij mij zitten er een driehoek bovenop en dit zijn wel een scherp driehoek
+	Free: Pattern=driehoek, Pattern=bovenop, Pattern=scherp, Pattern=een, Pattern=zitten, Pattern=er, Pattern=en, Pattern=bij mij, Pattern=dit zijn
+	Constrained: Pattern=zijn
+Turn ID=1| A | A : zijn geen stompe maar echt met een punt
+	Free: Pattern=punt, Pattern=een, Pattern=met, Pattern=stompe, Pattern=zijn
+	Constrained: 
+Turn ID=2| A | A : en dan zitten er nog een soort van balk die steeds bred worden zo tegen het figuur aan dan zitten er aan de linkerkant nog één ja een punt
+	Free: Pattern=en dan, Pattern=aan de, Pattern=dan, Pattern=een, Pattern=het, Pattern=er, Pattern=een soort, Pattern=punt, Pattern=bred worden, Pattern=aan, Pattern=ja, Pattern=die, Pattern=zitten
+	Constrained: Pattern=dan, Pattern=een, Pattern=en, Pattern=de, Pattern=aan
+Turn ID=3| B | B : en er steken een klein muntstuk aan de onderkant uit
+	Free: Pattern=aan de, Pattern=een, Pattern=er, Pattern=klein, Pattern=en
+	Constrained: Pattern=aan, Pattern=de
+Turn ID=4| A | A : een scherp dinge
+	Free: Pattern=een, Pattern=scherp
+	Constrained: 
+Turn ID=5| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=6| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=7| B | B : dat zijn bij mij J
+	Free: Pattern=zijn bij mij, Pattern=dat zijn
+	Constrained: Pattern=bij mij, Pattern=dat, Pattern=zijn
+Turn ID=8| B | B : dit zijn die met die heel sterk driehoek de piramide op bovenop
+	Free: Pattern=driehoek, Pattern=bovenop, Pattern=heel, Pattern=de, Pattern=met, Pattern=die, Pattern=dit zijn, Pattern=piramide, Pattern=op
+	Constrained: Pattern=zijn
+Turn ID=9| B | B : en dan met het vierkant dat naarmate die dichterbij komen bred worden
+	Free: Pattern=dat, Pattern=bred worden, Pattern=en dan, Pattern=het, Pattern=met, Pattern=die
+	Constrained: Pattern=en, Pattern=dan
+Turn ID=10| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=11| B | B : klein veer wat uitsteken en een muntstuk wat eruit vallen
+	Free: Pattern=en, Pattern=klein, Pattern=een, Pattern=vallen
+	Constrained: 
+Turn ID=12| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=13| A | A : dat zijn nummer zes
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=14| A | A : dit zijn met dat puntig driehoek erbovenop
+	Free: Pattern=met dat, Pattern=dit zijn, Pattern=driehoek
+	Constrained: Pattern=dat, Pattern=zijn, Pattern=met
+Turn ID=15| A | A : en dan zo'n blok een muntje aan de links kant en
+	Free: Pattern=aan de, Pattern=en dan, Pattern=en, Pattern=een
+	Constrained: Pattern=en, Pattern=aan, Pattern=dan, Pattern=de
+Turn ID=16| B | B : wat eruit vallen
+	Free: Pattern=vallen
+	Constrained: 
+Turn ID=17| A | A : ja en aan de links kant zo'n klein kogel
+	Free: Pattern=ja, Pattern=aan de, Pattern=kogel, Pattern=klein, Pattern=en
+	Constrained: Pattern=aan, Pattern=de
+Turn ID=18| B | B : en een soort kogel die erin komen
+	Free: Pattern=een soort, Pattern=kogel, Pattern=en, Pattern=die
+	Constrained: Pattern=een
+Turn ID=19| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=20| B | B : ja zeiden zijn ook al twee kogel ja het zijn een kogel
+	Free: Pattern=ja, Pattern=zijn een, Pattern=het, Pattern=kogel, Pattern=zijn
+	Constrained: Pattern=zijn, Pattern=een
+Turn ID=21| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=22| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=23| B | B : ja dat zijn bij mij E
+	Free: Pattern=ja dat zijn, Pattern=zijn bij mij
+	Constrained: Pattern=ja, Pattern=zijn, Pattern=bij mij, Pattern=dat, Pattern=dat zijn
+Turn ID=24| A | A : misschien vallen het viel het net gewoon op omdat ze die omcirkeld zijn bij mij maar
+	Free: Pattern=op, Pattern=het, Pattern=vallen, Pattern=die, Pattern=zijn bij mij
+	Constrained: Pattern=bij mij, Pattern=zijn
+Turn ID=25| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=26| B | B : ja nee nu inderdaad weer
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=27| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=28| B | B : heel gek
+	Free: Pattern=heel
+	Constrained: 
+Turn ID=29| B | B : nou daaronder zitten dus die met dat tafel
+	Free: Pattern=met dat, Pattern=zitten, Pattern=die
+	Constrained: Pattern=dat, Pattern=met
+Turn ID=30| A | A : ja de
+	Free: Pattern=ja, Pattern=de
+	Constrained: 
+Turn ID=31| B | B : hebben je die dan ook
+	Free: Pattern=dan, Pattern=die
+	Constrained: 
+Turn ID=32| B | B : met dat met dat dienblad
+	Free: Pattern=met dat
+	Constrained: Pattern=dat, Pattern=met
+Turn ID=33| B | B : en daaronder zitten die met die heel scherp punt
+	Free: Pattern=heel scherp punt, Pattern=met, Pattern=en, Pattern=die, Pattern=zitten
+	Constrained: Pattern=punt, Pattern=heel, Pattern=scherp, Pattern=heel scherp, Pattern=scherp punt
+Turn ID=34| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=35| B | B : scherp punt en dan dat veer en dat muntstuk dat eruit vallen
+	Free: Pattern=dat, Pattern=en dan, Pattern=vallen, Pattern=en, Pattern=scherp punt
+	Constrained: Pattern=en, Pattern=dan, Pattern=scherp, Pattern=punt
+Turn ID=36| A | A : piramide zeggen maar
+	Free: Pattern=piramide
+	Constrained: 
+Turn ID=37| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=38| A | A : zijn nummer tien
+	Free: Pattern=zijn
+	Constrained: 
+Turn ID=39| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=40| A | A : dit zijn het veel linksbovenste figuur bij mij dat zijn een heel scherp heel scherp punt de driehoekpunt erbovenop
+	Free: Pattern=dat zijn, Pattern=de, Pattern=zijn een, Pattern=het, Pattern=heel scherp punt, Pattern=heel scherp, Pattern=bij mij, Pattern=dit zijn
+	Constrained: Pattern=dat, Pattern=punt, Pattern=heel, Pattern=scherp, Pattern=een, Pattern=heel scherp, Pattern=zijn, Pattern=scherp punt
+Turn ID=41| B | B : muntstuk dat eruit vallen
+	Free: Pattern=dat, Pattern=vallen
+	Constrained: 
+Turn ID=42| A | A : met dat mun die eronderuit vallen
+	Free: Pattern=met dat, Pattern=vallen, Pattern=die
+	Constrained: Pattern=dat, Pattern=met
+Turn ID=43| B | B : ja dat zijn bij mij G
+	Free: Pattern=ja dat zijn, Pattern=zijn bij mij
+	Constrained: Pattern=ja, Pattern=zijn, Pattern=bij mij, Pattern=dat, Pattern=dat zijn
+Turn ID=44| B | B : dit zijn die met die heel stompe driehoek en die kogel
+	Free: Pattern=driehoek, Pattern=heel, Pattern=met, Pattern=die, Pattern=kogel, Pattern=en, Pattern=stompe, Pattern=dit zijn
+	Constrained: Pattern=zijn
+Turn ID=45| A | A : even zoeken ja dat zijn nummer zes
+	Free: Pattern=ja dat zijn
+	Constrained: Pattern=dat zijn, Pattern=dat, Pattern=zijn, Pattern=ja

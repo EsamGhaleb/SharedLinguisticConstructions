@@ -1,0 +1,71 @@
+B|0| B: _ja_ J 
+A|1| A: oké ik we noemen dit man _met de_ puntmuts _het zijn_ eigenlijk _de_ enig _die_ zo'n soort van punt op _zijn_ ding hebben _en_ dan hebben _die_ een soort van heel groot dik neus aan _de_ rechts kant zitten 
+B|2| B: [het _zijn] die_ [met de] driehoek erbovenop 
+A|3| A: _en_ een soort van [ja] wat [zijn] [het] ? een soort van punt van een potlood wat dan aan [de] zijkant erin prikken of zo 
+B|4| B: _en die_ 
+B|5| B: [ja] vinden E 
+A|6| A: [ja] [die] _staan_ _bij mij_ sorry 
+A|7| A: [ja] ik zien hem dat [zijn] nummer zes 
+B|8| B: [het _zijn] de_ driehoek erbovenop 
+A|9| A: dit [zijn die] een [met de] puntmuts [en die] heel groot neus 
+A|10| A: [ja] 
+A|11| A: [ja] nummer tien 
+B|12| B: [ja] [bij mij] [staan] [die] daar ook [het zijn] G 
+B|13| B: [het [zijn] die] driehoek 
+B|14| B: [ja] Sorry 
+A|15| A: dit [zijn de] puntmuts [met de] groot neus 
+A|16| A: [ja] nummer tien 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : ja J
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=1| A | A : oké ik we noemen dit man met de puntmuts het zijn eigenlijk de enig die zo'n soort van punt op zijn ding hebben en dan hebben die een soort van heel groot dik neus aan de rechts kant zitten
+	Free: Pattern=en, Pattern=zijn, Pattern=de, Pattern=met de, Pattern=het zijn, Pattern=die
+	Constrained: Pattern=zijn, Pattern=de, Pattern=het
+Turn ID=2| B | B : het zijn die met de driehoek erbovenop
+	Free: Pattern=het zijn, Pattern=zijn die, Pattern=met de
+	Constrained: Pattern=zijn, Pattern=de, Pattern=het, Pattern=die
+Turn ID=3| A | A : en een soort van ja wat zijn het ? een soort van punt van een potlood wat dan aan de zijkant erin prikken of zo
+	Free: Pattern=het, Pattern=en, Pattern=zijn, Pattern=de, Pattern=ja
+	Constrained: 
+Turn ID=4| B | B : en die
+	Free: Pattern=en die
+	Constrained: Pattern=en, Pattern=die
+Turn ID=5| B | B : ja vinden E
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=6| A | A : ja die staan bij mij sorry
+	Free: Pattern=bij mij, Pattern=ja, Pattern=die, Pattern=staan
+	Constrained: 
+Turn ID=7| A | A : ja ik zien hem dat zijn nummer zes
+	Free: Pattern=zijn, Pattern=ja
+	Constrained: 
+Turn ID=8| B | B : het zijn de driehoek erbovenop
+	Free: Pattern=zijn de, Pattern=het zijn
+	Constrained: Pattern=zijn, Pattern=de, Pattern=het
+Turn ID=9| A | A : dit zijn die een met de puntmuts en die heel groot neus
+	Free: Pattern=en die, Pattern=zijn die, Pattern=met de
+	Constrained: Pattern=en, Pattern=zijn, Pattern=de, Pattern=die
+Turn ID=10| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=11| A | A : ja nummer tien
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=12| B | B : ja bij mij staan die daar ook het zijn G
+	Free: Pattern=ja, Pattern=staan, Pattern=bij mij, Pattern=het zijn, Pattern=die
+	Constrained: Pattern=zijn, Pattern=het
+Turn ID=13| B | B : het zijn die driehoek
+	Free: Pattern=het zijn, Pattern=zijn die
+	Constrained: Pattern=zijn, Pattern=het, Pattern=die
+Turn ID=14| B | B : ja Sorry
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=15| A | A : dit zijn de puntmuts met de groot neus
+	Free: Pattern=zijn de, Pattern=met de
+	Constrained: Pattern=zijn, Pattern=de
+Turn ID=16| A | A : ja nummer tien
+	Free: Pattern=ja
+	Constrained: 

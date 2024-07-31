@@ -1,0 +1,83 @@
+B|0| B: je kunnen _het_ _een_ beetje beschrijven als _twee_ oog _die_ _die_ _aan de_ linkerkant hebben als verrekijker _en een vierkant_ erop plakken 
+B|1| B: _aan de_ _voorkant_ 
+B|2| B: _ja_ 
+A|3| A: [die] 
+A|4| A: [ja] _met_ zo'n bolle _bovenop_ [die] [ja] 
+A|5| A: [het] lijken op [een] robot dat _zijn_ nummer [twee] bij mij 
+B|6| B: [met] [het] _vierkant_ voorop 
+B|7| B: [ja] 
+B|8| B: G 
+B|9| B: _dit zijn_ _de_ verrekijker [met] _vierkant_ voorop _en_ [het] plubbel [bovenop] 
+B|10| B: D 
+A|11| A: [ja] [dit zijn] [die] op [die] robot lijken [met] [twee] van [die] telescoopog [en] zo'n [vierkant] links van hem [met] zo'n spijker boven in [zijn] hoofd 
+A|12| A: [ja] 
+A|13| A: [ja] dat [zijn] nummer negen 
+B|14| B: [dit zijn] _de_ verrekijker [met] [het] vierkan voorop plakken 
+B|15| B: [met] [het] vierkan 
+B|16| B: _waar staan_ [die] 
+A|17| A: [ja] [dit zijn] [met] [die] [twee] telescoopog [en] dat [vierkant] [aan de] zijkant [en] [die] spijker [bovenop] 
+A|18| A: [ja] dat [zijn] even kijken [waar staan] hij één 
+A|19| A: [dit zijn] [met] [die] [twee] telescoopog spijker Bovenin [en een vierkant] [aan de] zijkant of [voorkant] 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : je kunnen het een beetje beschrijven als twee oog die die aan de linkerkant hebben als verrekijker en een vierkant erop plakken
+	Free: Pattern=en een vierkant, Pattern=twee, Pattern=aan de, Pattern=een, Pattern=het, Pattern=die
+	Constrained: Pattern=een, Pattern=de, Pattern=en, Pattern=vierkant
+Turn ID=1| B | B : aan de voorkant
+	Free: Pattern=aan de, Pattern=voorkant
+	Constrained: Pattern=de
+Turn ID=2| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=3| A | A : die
+	Free: Pattern=die
+	Constrained: 
+Turn ID=4| A | A : ja met zo'n bolle bovenop die ja
+	Free: Pattern=bovenop, Pattern=ja, Pattern=die, Pattern=met
+	Constrained: 
+Turn ID=5| A | A : het lijken op een robot dat zijn nummer twee bij mij
+	Free: Pattern=een, Pattern=zijn, Pattern=twee, Pattern=het
+	Constrained: 
+Turn ID=6| B | B : met het vierkant voorop
+	Free: Pattern=vierkant, Pattern=met, Pattern=het
+	Constrained: 
+Turn ID=7| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=8| B | B : G
+	Free: 
+	Constrained: 
+Turn ID=9| B | B : dit zijn de verrekijker met vierkant voorop en het plubbel bovenop
+	Free: Pattern=bovenop, Pattern=de, Pattern=het, Pattern=met, Pattern=en, Pattern=vierkant, Pattern=dit zijn
+	Constrained: Pattern=zijn
+Turn ID=10| B | B : D
+	Free: 
+	Constrained: 
+Turn ID=11| A | A : ja dit zijn die op die robot lijken met twee van die telescoopog en zo'n vierkant links van hem met zo'n spijker boven in zijn hoofd
+	Free: Pattern=twee, Pattern=ja, Pattern=met, Pattern=die, Pattern=en, Pattern=zijn, Pattern=vierkant, Pattern=dit zijn
+	Constrained: Pattern=zijn
+Turn ID=12| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=13| A | A : ja dat zijn nummer negen
+	Free: Pattern=zijn, Pattern=ja
+	Constrained: 
+Turn ID=14| B | B : dit zijn de verrekijker met het vierkan voorop plakken
+	Free: Pattern=dit zijn, Pattern=met, Pattern=het, Pattern=de
+	Constrained: Pattern=zijn
+Turn ID=15| B | B : met het vierkan
+	Free: Pattern=met, Pattern=het
+	Constrained: 
+Turn ID=16| B | B : waar staan die
+	Free: Pattern=waar staan, Pattern=die
+	Constrained: 
+Turn ID=17| A | A : ja dit zijn met die twee telescoopog en dat vierkant aan de zijkant en die spijker bovenop
+	Free: Pattern=bovenop, Pattern=twee, Pattern=ja, Pattern=aan de, Pattern=met, Pattern=die, Pattern=en, Pattern=vierkant, Pattern=dit zijn
+	Constrained: Pattern=zijn, Pattern=de
+Turn ID=18| A | A : ja dat zijn even kijken waar staan hij één
+	Free: Pattern=waar staan, Pattern=zijn, Pattern=ja
+	Constrained: 
+Turn ID=19| A | A : dit zijn met die twee telescoopog spijker Bovenin en een vierkant aan de zijkant of voorkant
+	Free: Pattern=en een vierkant, Pattern=twee, Pattern=aan de, Pattern=voorkant, Pattern=met, Pattern=die, Pattern=dit zijn
+	Constrained: Pattern=de, Pattern=een, Pattern=en, Pattern=zijn, Pattern=vierkant

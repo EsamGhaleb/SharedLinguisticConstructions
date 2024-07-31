@@ -1,0 +1,111 @@
+A|0| A: even kijken _het_ figuur _zijn een_ _een_ soort kopje waar _het_ lijken alsof _er_ _een_ lepel uitsteken _aan de bovenkant_ eigenlijk hetzelfde figuur ongeveer als wat we net hebben 
+A|1| A: _en_ _aan de_ voorkant zitten _een_ bolle _en_ daaruit _steken_ _een ja_ soort staafje 
+A|2| A: zoiets _ja_ 
+A|3| A: _oké_ 
+B|4| B: [oké] 
+B|5| B: [zijn] [het] F 
+B|6| B: want ik denken dat ik hem nu zien 
+B|7| B: [ja] 
+B|8| B: ik zien hem 
+B|9| B: [het] [zijn] F 
+B|10| B: [het] [zijn] weer [het] [het] kop _met_ [het] bollet 
+A|11| A: [het] dinge erdoor 
+A|12| A: [ja] 
+A|13| A: nummer vijf 
+B|14| B: [en] [er] [steken] dan één door dat bollet [steken] dan [een] balk 
+B|15| B: _met_ [een ja] [het] [zijn een] beetje [een] spijker zo 
+B|16| B: sprie [aan de bovenkant] 
+B|17| B: [oké] 
+A|18| A: _dit zijn_ [de] [het] poppe _met de_ neuspiercing 
+B|19| B: [zijn] A 
+A|20| A: nummer vijf 
+B|21| B: nou [dit zijn] dan weer [de] die [een] [met de] spijker door [de] bol 
+B|22| B: [en] [het] flup bovenop 
+A|23| A: [dit zijn] [de] neuspiercing 
+B|24| B: [zijn] H 
+A|25| A: vijftien 
+B|26| B: [het] [zijn] die [een] weer [met de] spijker door [de] bol 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : even kijken het figuur zijn een een soort kopje waar het lijken alsof er een lepel uitsteken aan de bovenkant eigenlijk hetzelfde figuur ongeveer als wat we net hebben
+	Free: Pattern=zijn een, Pattern=een, Pattern=het, Pattern=er, Pattern=aan de bovenkant
+	Constrained: Pattern=een, Pattern=de, Pattern=zijn, Pattern=aan de
+Turn ID=1| A | A : en aan de voorkant zitten een bolle en daaruit steken een ja soort staafje
+	Free: Pattern=aan de, Pattern=een, Pattern=steken, Pattern=en, Pattern=een ja
+	Constrained: Pattern=de, Pattern=een, Pattern=ja
+Turn ID=2| A | A : zoiets ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=3| A | A : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=4| B | B : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=5| B | B : zijn het F
+	Free: Pattern=het, Pattern=zijn
+	Constrained: 
+Turn ID=6| B | B : want ik denken dat ik hem nu zien
+	Free: 
+	Constrained: 
+Turn ID=7| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=8| B | B : ik zien hem
+	Free: 
+	Constrained: 
+Turn ID=9| B | B : het zijn F
+	Free: Pattern=het, Pattern=zijn
+	Constrained: 
+Turn ID=10| B | B : het zijn weer het het kop met het bollet
+	Free: Pattern=het, Pattern=met, Pattern=zijn
+	Constrained: 
+Turn ID=11| A | A : het dinge erdoor
+	Free: Pattern=het
+	Constrained: 
+Turn ID=12| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=13| A | A : nummer vijf
+	Free: 
+	Constrained: 
+Turn ID=14| B | B : en er steken dan één door dat bollet steken dan een balk
+	Free: Pattern=steken, Pattern=een, Pattern=en, Pattern=er
+	Constrained: 
+Turn ID=15| B | B : met een ja het zijn een beetje een spijker zo
+	Free: Pattern=zijn een, Pattern=een, Pattern=het, Pattern=met, Pattern=een ja
+	Constrained: Pattern=zijn, Pattern=een, Pattern=ja
+Turn ID=16| B | B : sprie aan de bovenkant
+	Free: Pattern=aan de bovenkant
+	Constrained: Pattern=aan de, Pattern=de
+Turn ID=17| B | B : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=18| A | A : dit zijn de het poppe met de neuspiercing
+	Free: Pattern=met de, Pattern=dit zijn, Pattern=het, Pattern=de
+	Constrained: Pattern=met, Pattern=zijn, Pattern=de
+Turn ID=19| B | B : zijn A
+	Free: Pattern=zijn
+	Constrained: 
+Turn ID=20| A | A : nummer vijf
+	Free: 
+	Constrained: 
+Turn ID=21| B | B : nou dit zijn dan weer de die een met de spijker door de bol
+	Free: Pattern=met de, Pattern=dit zijn, Pattern=de, Pattern=een
+	Constrained: Pattern=met, Pattern=zijn, Pattern=de
+Turn ID=22| B | B : en het flup bovenop
+	Free: Pattern=het, Pattern=en
+	Constrained: 
+Turn ID=23| A | A : dit zijn de neuspiercing
+	Free: Pattern=dit zijn, Pattern=de
+	Constrained: Pattern=zijn
+Turn ID=24| B | B : zijn H
+	Free: Pattern=zijn
+	Constrained: 
+Turn ID=25| A | A : vijftien
+	Free: 
+	Constrained: 
+Turn ID=26| B | B : het zijn die een weer met de spijker door de bol
+	Free: Pattern=een, Pattern=het, Pattern=zijn, Pattern=de, Pattern=met de
+	Constrained: Pattern=met, Pattern=de

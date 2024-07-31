@@ -1,0 +1,159 @@
+A|0| A: _oké ik_ zullen proberen _met_ het in _een_ gezichtsvorm te praten 
+B|1| B: [oké] 
+A|2| A: hij _hebben_ _een_ beetje zo'n _eineus_ 
+B|3| B: _ja_ 
+A|4| A: snapan _je_ _dan_ wat _ik_ _bedoelen_ 
+B|5| B: _ja_ 
+A|6| A: [oké] _daar_ _zijn_ er dus twee van over 
+B|7| B: _ja_ 
+A|8| A: _en_ _die_ van mij _hebben_ _dan_ eigenlijk zo ook zo'n klein sprie als net 
+B|9| B: _ja_ 
+A|10| A: niet dus niet twee 
+B|11| B: [en] [hebben] [die] iets _door zijn neus_ 
+A|12| A: [ja] 
+B|13| B: [ja] [dan] weten [ik] welk [je] [bedoelen] 
+A|14| A: [oké] 
+B|15| B: [oké] F 
+B|16| B: [oké] dit [zijn] _weer dat_ poppe _met die_ [eineus] [en] [daar] zitten [een] ding doorheen 
+A|17| A: [ja] 
+A|18| A: [ja] [en] [dat] pluimp bovenin 
+B|19| B: [ja] 
+A|20| A: [ja] 
+A|21| A: _oké dat zijn_ vijf 
+A|22| A: _ik hebben_ [weer] [een] [eineus] 
+A|23| A: maar [dan] [met die] balk [door zijn neus] 
+B|24| B: [ja] 
+B|25| B: [ja] 
+B|26| B: [oké dat zijn] A 
+B|27| B: [oké [ik] hebben] _de neus_ [met] _de_ ding erdoorheen 
+A|28| A: [ja] 
+A|29| A: [ja] [en] het pluimp 
+B|30| B: [ja] 
+A|31| A: [ja] 
+A|32| A: [dat zijn] nummer vijf 
+A|33| A: [ik hebben] [weer dat] eineusding [met] [een] zo'n zo'n paal [door] [de neus] 
+B|34| B: [ja] 
+B|35| B: [dat zijn] H 
+B|36| B: [ik hebben] [de] Eineus [met] [de] ding erdoorheen 
+A|37| A: [ja] 
+A|38| A: [oké dat zijn] nummer vijftien 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : oké ik zullen proberen met het in een gezichtsvorm te praten
+	Free: Pattern=oké ik, Pattern=een, Pattern=met
+	Constrained: Pattern=oké, Pattern=ik
+Turn ID=1| B | B : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=2| A | A : hij hebben een beetje zo'n eineus
+	Free: Pattern=eineus, Pattern=hebben, Pattern=een
+	Constrained: 
+Turn ID=3| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=4| A | A : snapan je dan wat ik bedoelen
+	Free: Pattern=dan, Pattern=bedoelen, Pattern=ik, Pattern=je
+	Constrained: 
+Turn ID=5| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=6| A | A : oké daar zijn er dus twee van over
+	Free: Pattern=oké, Pattern=zijn, Pattern=daar
+	Constrained: 
+Turn ID=7| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=8| A | A : en die van mij hebben dan eigenlijk zo ook zo'n klein sprie als net
+	Free: Pattern=dan, Pattern=en, Pattern=hebben, Pattern=die
+	Constrained: 
+Turn ID=9| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=10| A | A : niet dus niet twee
+	Free: 
+	Constrained: 
+Turn ID=11| B | B : en hebben die iets door zijn neus
+	Free: Pattern=door zijn neus, Pattern=en, Pattern=hebben, Pattern=die
+	Constrained: Pattern=zijn, Pattern=door
+Turn ID=12| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=13| B | B : ja dan weten ik welk je bedoelen
+	Free: Pattern=ja, Pattern=dan, Pattern=bedoelen, Pattern=ik, Pattern=je
+	Constrained: 
+Turn ID=14| A | A : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=15| B | B : oké F
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=16| B | B : oké dit zijn weer dat poppe met die eineus en daar zitten een ding doorheen
+	Free: Pattern=met die, Pattern=eineus, Pattern=een, Pattern=oké, Pattern=en, Pattern=zijn, Pattern=daar, Pattern=weer dat
+	Constrained: Pattern=dat, Pattern=die, Pattern=weer, Pattern=met
+Turn ID=17| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=18| A | A : ja en dat pluimp bovenin
+	Free: Pattern=dat, Pattern=en, Pattern=ja
+	Constrained: 
+Turn ID=19| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=20| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=21| A | A : oké dat zijn vijf
+	Free: Pattern=oké dat zijn
+	Constrained: Pattern=dat zijn, Pattern=dat, Pattern=oké, Pattern=zijn
+Turn ID=22| A | A : ik hebben weer een eineus
+	Free: Pattern=ik hebben, Pattern=eineus, Pattern=weer, Pattern=een
+	Constrained: Pattern=hebben, Pattern=ik
+Turn ID=23| A | A : maar dan met die balk door zijn neus
+	Free: Pattern=door zijn neus, Pattern=met die, Pattern=dan
+	Constrained: Pattern=door, Pattern=zijn, Pattern=met, Pattern=die
+Turn ID=24| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=25| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=26| B | B : oké dat zijn A
+	Free: Pattern=oké dat zijn
+	Constrained: Pattern=dat zijn, Pattern=dat, Pattern=oké, Pattern=zijn
+Turn ID=27| B | B : oké ik hebben de neus met de ding erdoorheen
+	Free: Pattern=ik hebben, Pattern=de, Pattern=de neus, Pattern=oké ik, Pattern=met
+	Constrained: Pattern=de, Pattern=oké, Pattern=ik, Pattern=hebben
+Turn ID=28| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=29| A | A : ja en het pluimp
+	Free: Pattern=en, Pattern=ja
+	Constrained: 
+Turn ID=30| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=31| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=32| A | A : dat zijn nummer vijf
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=33| A | A : ik hebben weer dat eineusding met een zo'n zo'n paal door de neus
+	Free: Pattern=ik hebben, Pattern=de neus, Pattern=door, Pattern=een, Pattern=met, Pattern=weer dat
+	Constrained: Pattern=dat, Pattern=de, Pattern=hebben, Pattern=ik, Pattern=weer
+Turn ID=34| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=35| B | B : dat zijn H
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=36| B | B : ik hebben de Eineus met de ding erdoorheen
+	Free: Pattern=ik hebben, Pattern=de, Pattern=met
+	Constrained: Pattern=hebben, Pattern=ik
+Turn ID=37| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=38| A | A : oké dat zijn nummer vijftien
+	Free: Pattern=oké dat zijn
+	Constrained: Pattern=dat zijn, Pattern=dat, Pattern=oké, Pattern=zijn

@@ -1,0 +1,123 @@
+B|0| B: oké 
+B|1| B: deze dit ding staan zeggen maar veel op _een_ driehoek 
+B|2| B: en dan _zijn het_ _dat_ ding waarop _die_ staan _zijn_ _een_ beetje draaien 
+B|3| B: zeggen maar aan _de_ onderkant hebben _je_ _als_ basis zo'n driehoek 
+B|4| B: _ja_ 
+B|5| B: boven blok 
+B|6| B: _ja_ 
+A|7| A: raken _ik_ zelf even in [de] war 
+A|8| A: [ja] 
+A|9| A: _ik_ zien _ik_ omschrijven hem [als] _trofee_ in mijn hoofd 
+A|10| A: want [je] leggen net [een] _beker_ of [een] _trofee_ [die] [je] vastpken [ja] 
+A|11| A: vier 
+A|12| A: [dat] [zijn _het] zijn_ [de] _trofee_ of [de] bokaal 
+B|13| B: [ja] klopt [dat] denken [ik] ook al [ja] 
+B|14| B: A 
+A|15| A: [de] _trofee_ 
+A|16| A: [ja] 
+A|17| A: tien 
+B|18| B: [het zijn] weer [die] [beker] zeggen maar [die] op zo'n driehoek staan 
+A|19| A: [het] [de] _trofee_ 
+B|20| B: [ja] jij moeten drukken 
+B|21| B: [ja] 
+B|22| B: L 
+B|23| B: weer [die] [trofee] op [de] driehoek 
+A|24| A: [de] [trofee] 
+A|25| A: [ja] 
+A|26| A: vier 
+B|27| B: F 
+A|28| A: bokaal 
+A|29| A: of [de] [trofee] 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : oké
+	Free: 
+	Constrained: 
+Turn ID=1| B | B : deze dit ding staan zeggen maar veel op een driehoek
+	Free: Pattern=een
+	Constrained: 
+Turn ID=2| B | B : en dan zijn het dat ding waarop die staan zijn een beetje draaien
+	Free: Pattern=dat, Pattern=zijn het, Pattern=een, Pattern=die, Pattern=zijn
+	Constrained: Pattern=zijn, Pattern=het
+Turn ID=3| B | B : zeggen maar aan de onderkant hebben je als basis zo'n driehoek
+	Free: Pattern=je, Pattern=als, Pattern=de
+	Constrained: 
+Turn ID=4| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=5| B | B : boven blok
+	Free: 
+	Constrained: 
+Turn ID=6| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=7| A | A : raken ik zelf even in de war
+	Free: Pattern=ik, Pattern=de
+	Constrained: 
+Turn ID=8| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=9| A | A : ik zien ik omschrijven hem als trofee in mijn hoofd
+	Free: Pattern=als, Pattern=ik, Pattern=trofee
+	Constrained: 
+Turn ID=10| A | A : want je leggen net een beker of een trofee die je vastpken ja
+	Free: Pattern=beker, Pattern=ja, Pattern=een, Pattern=die, Pattern=je, Pattern=trofee
+	Constrained: 
+Turn ID=11| A | A : vier
+	Free: 
+	Constrained: 
+Turn ID=12| A | A : dat zijn het zijn de trofee of de bokaal
+	Free: Pattern=dat, Pattern=zijn het, Pattern=de, Pattern=het zijn, Pattern=trofee
+	Constrained: Pattern=zijn, Pattern=het
+Turn ID=13| B | B : ja klopt dat denken ik ook al ja
+	Free: Pattern=ja, Pattern=ik, Pattern=dat
+	Constrained: 
+Turn ID=14| B | B : A
+	Free: 
+	Constrained: 
+Turn ID=15| A | A : de trofee
+	Free: Pattern=trofee, Pattern=de
+	Constrained: 
+Turn ID=16| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=17| A | A : tien
+	Free: 
+	Constrained: 
+Turn ID=18| B | B : het zijn weer die beker zeggen maar die op zo'n driehoek staan
+	Free: Pattern=het zijn, Pattern=beker, Pattern=die
+	Constrained: Pattern=zijn, Pattern=het
+Turn ID=19| A | A : het de trofee
+	Free: Pattern=het, Pattern=trofee, Pattern=de
+	Constrained: 
+Turn ID=20| B | B : ja jij moeten drukken
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=21| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=22| B | B : L
+	Free: 
+	Constrained: 
+Turn ID=23| B | B : weer die trofee op de driehoek
+	Free: Pattern=die, Pattern=trofee, Pattern=de
+	Constrained: 
+Turn ID=24| A | A : de trofee
+	Free: Pattern=trofee, Pattern=de
+	Constrained: 
+Turn ID=25| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=26| A | A : vier
+	Free: 
+	Constrained: 
+Turn ID=27| B | B : F
+	Free: 
+	Constrained: 
+Turn ID=28| A | A : bokaal
+	Free: 
+	Constrained: 
+Turn ID=29| A | A : of de trofee
+	Free: Pattern=trofee, Pattern=de
+	Constrained: 

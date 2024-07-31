@@ -1,0 +1,103 @@
+B|0| B: _het_ voelen _een_ beetje als _een_ ballerina 
+B|1| B: _in het midden_ zijn _een_ soort van _vierkant_ 
+B|2| B: ah 
+B|3| B: _het_ _hebben ook_ zo'n achterkant , soort van lang neus aan _de_ voorkant _en_ aan _de_ linkerkant 
+A|4| A: _ja_ zestien 
+A|5| A: deze [hebben ook] [een] [vierkant] [een] horizontaal [vierkant] maar die gaan recht _door_ [de] emmer _heen_ 
+A|6| A: [en] dan _twee klein_ balk _bovenop_ [de] emmer 
+A|7| A: _ja_ 
+B|8| B: [ja] 
+B|9| B: [ja] [twee] precies [klein] dinge 
+B|10| B: J 
+A|11| A: [ja] drie 
+B|12| B: soort van [vierkant] _dwars door_ _het_ kop [heen] 
+B|13| B: [een] groot neus naar voren staand 
+B|14| B: aan [de] linkerkant blokachtig figuur [en] [twee] precies heel [klein] dinge [bovenop] 
+A|15| A: deze [hebben] dat [vierkant] [in het midden] [door] [de] emmer [en] [bovenop] die _twee klein_ balk 
+A|16| A: [ja] vijf 
+B|17| B: [ja] 
+B|18| B: [ja] 
+B|19| B: G 
+A|20| A: dat [vierkant] dat [dwars door] [de] emmer heengaten 
+B|21| B: tafel eromheen 
+B|22| B: neus naar voren , [twee klein] dinge erop 
+B|23| B: [ja] 
+B|24| B: M 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : het voelen een beetje als een ballerina
+	Free: Pattern=een, Pattern=het
+	Constrained: 
+Turn ID=1| B | B : in het midden zijn een soort van vierkant
+	Free: Pattern=in het midden, Pattern=een, Pattern=vierkant
+	Constrained: Pattern=het
+Turn ID=2| B | B : ah
+	Free: 
+	Constrained: 
+Turn ID=3| B | B : het hebben ook zo'n achterkant , soort van lang neus aan de voorkant en aan de linkerkant
+	Free: Pattern=hebben ook, Pattern=de, Pattern=het, Pattern=en
+	Constrained: Pattern=hebben
+Turn ID=4| A | A : ja zestien
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=5| A | A : deze hebben ook een vierkant een horizontaal vierkant maar die gaan recht door de emmer heen
+	Free: Pattern=de, Pattern=door, Pattern=een, Pattern=heen, Pattern=hebben ook, Pattern=vierkant
+	Constrained: Pattern=hebben
+Turn ID=6| A | A : en dan twee klein balk bovenop de emmer
+	Free: Pattern=twee klein, Pattern=bovenop, Pattern=de, Pattern=en
+	Constrained: Pattern=twee, Pattern=klein
+Turn ID=7| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=8| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=9| B | B : ja twee precies klein dinge
+	Free: Pattern=twee, Pattern=ja, Pattern=klein
+	Constrained: 
+Turn ID=10| B | B : J
+	Free: 
+	Constrained: 
+Turn ID=11| A | A : ja drie
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=12| B | B : soort van vierkant dwars door het kop heen
+	Free: Pattern=dwars door, Pattern=vierkant, Pattern=het, Pattern=heen
+	Constrained: Pattern=door
+Turn ID=13| B | B : een groot neus naar voren staand
+	Free: Pattern=een
+	Constrained: 
+Turn ID=14| B | B : aan de linkerkant blokachtig figuur en twee precies heel klein dinge bovenop
+	Free: Pattern=bovenop, Pattern=twee, Pattern=de, Pattern=klein, Pattern=en
+	Constrained: 
+Turn ID=15| A | A : deze hebben dat vierkant in het midden door de emmer en bovenop die twee klein balk
+	Free: Pattern=bovenop, Pattern=de, Pattern=door, Pattern=hebben, Pattern=en, Pattern=in het midden, Pattern=vierkant, Pattern=twee klein
+	Constrained: Pattern=twee, Pattern=het, Pattern=klein
+Turn ID=16| A | A : ja vijf
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=17| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=18| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=19| B | B : G
+	Free: 
+	Constrained: 
+Turn ID=20| A | A : dat vierkant dat dwars door de emmer heengaten
+	Free: Pattern=dwars door, Pattern=vierkant, Pattern=de
+	Constrained: Pattern=door
+Turn ID=21| B | B : tafel eromheen
+	Free: 
+	Constrained: 
+Turn ID=22| B | B : neus naar voren , twee klein dinge erop
+	Free: Pattern=twee klein
+	Constrained: Pattern=twee, Pattern=klein
+Turn ID=23| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=24| B | B : M
+	Free: 
+	Constrained: 

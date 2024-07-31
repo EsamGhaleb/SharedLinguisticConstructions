@@ -1,0 +1,147 @@
+A|0| A: _oké_ deze _hebben_ _een soort_ _van_ hoed op maar wat wel makkelijk _zijn_ mischien _aan de rechterkant_ _hebben_ _die _twee_ rechthoeak_ _die_ eruit steken 
+A|1| A: _en dan_ _zitten_ _er_ linksvoor _een_ ook nog _een_ uitsteeksel _aan_ 
+A|2| A: _en_ linksonder ook nog 
+B|3| B: hij [hebben] _dus_ _er zitten_ [een soort] [een soort] driehoek _piramide bovenop_ 
+A|4| A: _ja_ [er zitten] zeggen maar [een] één 
+A|5| A: _ja_ [een] [piramide bovenop] _waar_ alleen _het punt van af zijn_ 
+B|6| B: [ja] 
+B|7| B: _ja dat zijn_ [waar] [het punt van af zijn] 
+A|8| A: [ja] want je [hebben] één [dat zijn] ook nog [waar] [een] [een] heel [piramide] op staat 
+A|9| A: maar _die_ deze [hebben] ook [een] [piramide] erop maar zonder [punt] _dan_ [dus] eigenlijk [ja] geen [piramide] maar _dan_ weten je misschien [een] beetje wat [het] [zijn] 
+A|10| A: _en_ _twee rechthoeak_ _die_ uitsteken 
+B|11| B: [ja] 
+B|12| B: [ja] [die] [die] [aan de rechterkant] [twee rechthoeak] [en] [een soort] spijker naar [de] linkerkant 
+A|13| A: [ja] 
+A|14| A: precies 
+B|15| B: _ja dat zijn_ I 
+A|16| A: [ja] 
+B|17| B: [oké] _dit_ _dit zijn die_ _met die twee_ [twee] rechthoekje [die] [aan de] of [ja] zoals jij [het] noemen [de] _piramide die niet_ [zijn] _afmaken_ [bovenop] 
+B|18| B: [een soort] spijker [die] [er] link uit komen [en dan] [twee] klein rechthoekje [die] rechts 
+A|19| A: [ja] [ja] [dan] weten ik hem al 
+B|20| B: [dus] [ja] 
+A|21| A: [ja] 
+A|22| A: [dat zijn] nummer [twee] 
+A|23| A: [en] [dit zijn] eigenlijk [die] [piramide die niet] [af zijn] maken [die] erbovenop staan 
+A|24| A: [met die twee] rechter vierkant [die] uitsteken 
+B|25| B: [ja] 
+B|26| B: _ja dat zijn_ M 
+A|27| A: [ja] 
+B|28| B: [oké] [dit zijn] [de] [de] [de] onafgemaakt [piramide] [met] [de] spijker [aan de] linkerkant 
+A|29| A: [ja dat zijn] nummer negen 
+A|30| A: [dit zijn die] [piramide die] erbovenop staat [die niet] [afmaken] [zijn] 
+B|31| B: [ja] [oké] [dat zijn] F 
+B|32| B: [de] [het] onafgemaakken [piramide] [met] [de] [twee] rechthoek [aan de rechterkant] 
+B|33| B: spijkert link 
+A|34| A: [ja] 
+A|35| A: nummer zes 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : oké deze hebben een soort van hoed op maar wat wel makkelijk zijn mischien aan de rechterkant hebben die twee rechthoeak die eruit steken
+	Free: Pattern=twee rechthoeak, Pattern=die twee, Pattern=hebben, Pattern=oké, Pattern=een soort, Pattern=van, Pattern=zijn, Pattern=aan de rechterkant, Pattern=die
+	Constrained: Pattern=twee, Pattern=aan de, Pattern=een, Pattern=die, Pattern=de, Pattern=aan
+Turn ID=1| A | A : en dan zitten er linksvoor een ook nog een uitsteeksel aan
+	Free: Pattern=aan, Pattern=en dan, Pattern=een, Pattern=zitten, Pattern=er
+	Constrained: Pattern=en, Pattern=dan
+Turn ID=2| A | A : en linksonder ook nog
+	Free: Pattern=en
+	Constrained: 
+Turn ID=3| B | B : hij hebben dus er zitten een soort een soort driehoek piramide bovenop
+	Free: Pattern=dus, Pattern=piramide bovenop, Pattern=hebben, Pattern=er zitten, Pattern=een soort
+	Constrained: Pattern=bovenop, Pattern=piramide, Pattern=een, Pattern=zitten, Pattern=er
+Turn ID=4| A | A : ja er zitten zeggen maar een één
+	Free: Pattern=er zitten, Pattern=een, Pattern=ja
+	Constrained: Pattern=er, Pattern=zitten
+Turn ID=5| A | A : ja een piramide bovenop waar alleen het punt van af zijn
+	Free: Pattern=ja, Pattern=waar, Pattern=het punt van af zijn, Pattern=een, Pattern=piramide bovenop
+	Constrained: Pattern=bovenop, Pattern=punt, Pattern=piramide, Pattern=af zijn, Pattern=het, Pattern=van, Pattern=zijn
+Turn ID=6| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=7| B | B : ja dat zijn waar het punt van af zijn
+	Free: Pattern=het punt van af zijn, Pattern=ja dat zijn, Pattern=waar
+	Constrained: Pattern=dat zijn, Pattern=punt, Pattern=ja, Pattern=af zijn, Pattern=het, Pattern=van, Pattern=zijn
+Turn ID=8| A | A : ja want je hebben één dat zijn ook nog waar een een heel piramide op staat
+	Free: Pattern=dat zijn, Pattern=ja, Pattern=waar, Pattern=piramide, Pattern=een, Pattern=hebben
+	Constrained: Pattern=zijn
+Turn ID=9| A | A : maar die deze hebben ook een piramide erop maar zonder punt dan dus eigenlijk ja geen piramide maar dan weten je misschien een beetje wat het zijn
+	Free: Pattern=punt, Pattern=piramide, Pattern=dan, Pattern=een, Pattern=het, Pattern=hebben, Pattern=die, Pattern=zijn, Pattern=dus, Pattern=ja
+	Constrained: 
+Turn ID=10| A | A : en twee rechthoeak die uitsteken
+	Free: Pattern=twee rechthoeak, Pattern=die, Pattern=en
+	Constrained: Pattern=twee
+Turn ID=11| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=12| B | B : ja die die aan de rechterkant twee rechthoeak en een soort spijker naar de linkerkant
+	Free: Pattern=twee rechthoeak, Pattern=een soort, Pattern=en, Pattern=de, Pattern=ja, Pattern=aan de rechterkant, Pattern=die
+	Constrained: Pattern=twee, Pattern=aan de, Pattern=een, Pattern=de, Pattern=aan
+Turn ID=13| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=14| A | A : precies
+	Free: 
+	Constrained: 
+Turn ID=15| B | B : ja dat zijn I
+	Free: Pattern=ja dat zijn
+	Constrained: Pattern=dat zijn, Pattern=zijn, Pattern=ja
+Turn ID=16| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=17| B | B : oké dit dit zijn die met die twee twee rechthoekje die aan de of ja zoals jij het noemen de piramide die niet zijn afmaken bovenop
+	Free: Pattern=bovenop, Pattern=piramide die niet, Pattern=dit zijn die, Pattern=twee, Pattern=aan de, Pattern=met die twee, Pattern=het, Pattern=dit, Pattern=die, Pattern=oké, Pattern=de, Pattern=ja, Pattern=afmaken, Pattern=zijn
+	Constrained: Pattern=twee, Pattern=piramide, Pattern=die twee, Pattern=met, Pattern=die, Pattern=zijn, Pattern=dit zijn, Pattern=de, Pattern=aan, Pattern=die niet, Pattern=piramide die, Pattern=dit
+Turn ID=18| B | B : een soort spijker die er link uit komen en dan twee klein rechthoekje die rechts
+	Free: Pattern=twee, Pattern=en dan, Pattern=die, Pattern=er, Pattern=een soort
+	Constrained: Pattern=een, Pattern=en, Pattern=dan
+Turn ID=19| A | A : ja ja dan weten ik hem al
+	Free: Pattern=ja, Pattern=dan
+	Constrained: 
+Turn ID=20| B | B : dus ja
+	Free: Pattern=ja, Pattern=dus
+	Constrained: 
+Turn ID=21| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=22| A | A : dat zijn nummer twee
+	Free: Pattern=dat zijn, Pattern=twee
+	Constrained: Pattern=zijn
+Turn ID=23| A | A : en dit zijn eigenlijk die piramide die niet af zijn maken die erbovenop staan
+	Free: Pattern=piramide die niet, Pattern=af zijn, Pattern=die, Pattern=en, Pattern=dit zijn
+	Constrained: Pattern=die niet, Pattern=piramide, Pattern=die, Pattern=zijn, Pattern=piramide die, Pattern=dit
+Turn ID=24| A | A : met die twee rechter vierkant die uitsteken
+	Free: Pattern=met die twee, Pattern=die
+	Constrained: Pattern=die twee, Pattern=die, Pattern=twee, Pattern=met
+Turn ID=25| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=26| B | B : ja dat zijn M
+	Free: Pattern=ja dat zijn
+	Constrained: Pattern=dat zijn, Pattern=zijn, Pattern=ja
+Turn ID=27| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=28| B | B : oké dit zijn de de de onafgemaakt piramide met de spijker aan de linkerkant
+	Free: Pattern=de, Pattern=met, Pattern=oké, Pattern=dit zijn, Pattern=piramide, Pattern=aan de
+	Constrained: Pattern=zijn, Pattern=aan, Pattern=de, Pattern=dit
+Turn ID=29| A | A : ja dat zijn nummer negen
+	Free: Pattern=ja dat zijn
+	Constrained: Pattern=dat zijn, Pattern=zijn, Pattern=ja
+Turn ID=30| A | A : dit zijn die piramide die erbovenop staat die niet afmaken zijn
+	Free: Pattern=dit zijn die, Pattern=die niet, Pattern=piramide die, Pattern=afmaken, Pattern=zijn
+	Constrained: Pattern=piramide, Pattern=dit, Pattern=die, Pattern=zijn, Pattern=dit zijn
+Turn ID=31| B | B : ja oké dat zijn F
+	Free: Pattern=dat zijn, Pattern=ja, Pattern=oké
+	Constrained: Pattern=zijn
+Turn ID=32| B | B : de het onafgemaakken piramide met de twee rechthoek aan de rechterkant
+	Free: Pattern=twee, Pattern=de, Pattern=piramide, Pattern=het, Pattern=met, Pattern=aan de rechterkant
+	Constrained: Pattern=aan, Pattern=de, Pattern=aan de
+Turn ID=33| B | B : spijkert link
+	Free: 
+	Constrained: 
+Turn ID=34| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=35| A | A : nummer zes
+	Free: 
+	Constrained: 

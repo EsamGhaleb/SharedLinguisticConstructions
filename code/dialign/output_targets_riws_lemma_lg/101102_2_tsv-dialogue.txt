@@ -1,0 +1,83 @@
+A|0| A: _dit zijn_ _vinden ik het_ veel ingewikkeld plaat om te omschrijven _maar_ _ik_ gaan mijn best doen 
+A|1| A: boven op _het_ kop staan _een_ _een soort_ piramide _met_ _een_ spits punt 
+A|2| A: _en dan_ _aan de linkerkant_ _zijn_ _een_ uitsteeksel _een_ beetje in _de_ vorm van _een soort_ oordopje _met_ _een_ vast 
+B|3| B: _ja_ 
+B|4| B: [ik] weten al welk [het] [zijn] [het] [zijn] J 
+A|5| A: _oké_ 
+B|6| B: [een soort] _tovenaar_ [vinden ik het] 
+B|7| B: [oké] _dit zijn de tovenaar_ zeggen [maar] [met] [de] kroon [en dan] heel misvormd _neus_ [en] zo'n raar dinge [aan de linkerkant] 
+A|8| A: [ja] 
+A|9| A: nummer zes 
+A|10| A: [dit zijn de tovenaar] 
+A|11| A: [met] [zijn] gek [neus] 
+B|12| B: E 
+B|13| B: [de tovenaar] 
+B|14| B: [met] [de] misvormd [neus] [en] [het] hoed 
+A|15| A: tien 
+A|16| A: [dit zijn de tovenaar] 
+B|17| B: dat [zijn] G 
+B|18| B: [dit zijn de tovenaar] 
+A|19| A: tien 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : dit zijn vinden ik het veel ingewikkeld plaat om te omschrijven maar ik gaan mijn best doen
+	Free: Pattern=vinden ik het, Pattern=dit zijn, Pattern=ik, Pattern=maar
+	Constrained: Pattern=ik, Pattern=zijn, Pattern=het
+Turn ID=1| A | A : boven op het kop staan een een soort piramide met een spits punt
+	Free: Pattern=een soort, Pattern=met, Pattern=een, Pattern=het
+	Constrained: Pattern=een
+Turn ID=2| A | A : en dan aan de linkerkant zijn een uitsteeksel een beetje in de vorm van een soort oordopje met een vast
+	Free: Pattern=de, Pattern=en dan, Pattern=een, Pattern=met, Pattern=een soort, Pattern=zijn, Pattern=aan de linkerkant
+	Constrained: Pattern=de, Pattern=en, Pattern=een
+Turn ID=3| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=4| B | B : ik weten al welk het zijn het zijn J
+	Free: Pattern=ik, Pattern=zijn, Pattern=het
+	Constrained: 
+Turn ID=5| A | A : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=6| B | B : een soort tovenaar vinden ik het
+	Free: Pattern=vinden ik het, Pattern=een soort, Pattern=tovenaar
+	Constrained: Pattern=een, Pattern=het, Pattern=ik
+Turn ID=7| B | B : oké dit zijn de tovenaar zeggen maar met de kroon en dan heel misvormd neus en zo'n raar dinge aan de linkerkant
+	Free: Pattern=de, Pattern=en dan, Pattern=neus, Pattern=met, Pattern=oké, Pattern=en, Pattern=dit zijn de tovenaar, Pattern=maar, Pattern=aan de linkerkant
+	Constrained: Pattern=de, Pattern=en, Pattern=de tovenaar, Pattern=dit zijn, Pattern=zijn, Pattern=tovenaar
+Turn ID=8| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=9| A | A : nummer zes
+	Free: 
+	Constrained: 
+Turn ID=10| A | A : dit zijn de tovenaar
+	Free: Pattern=dit zijn de tovenaar
+	Constrained: Pattern=de, Pattern=de tovenaar, Pattern=dit zijn, Pattern=zijn, Pattern=tovenaar
+Turn ID=11| A | A : met zijn gek neus
+	Free: Pattern=neus, Pattern=met, Pattern=zijn
+	Constrained: 
+Turn ID=12| B | B : E
+	Free: 
+	Constrained: 
+Turn ID=13| B | B : de tovenaar
+	Free: Pattern=de tovenaar
+	Constrained: Pattern=tovenaar, Pattern=de
+Turn ID=14| B | B : met de misvormd neus en het hoed
+	Free: Pattern=de, Pattern=het, Pattern=neus, Pattern=met, Pattern=en
+	Constrained: 
+Turn ID=15| A | A : tien
+	Free: 
+	Constrained: 
+Turn ID=16| A | A : dit zijn de tovenaar
+	Free: Pattern=dit zijn de tovenaar
+	Constrained: Pattern=de, Pattern=de tovenaar, Pattern=dit zijn, Pattern=zijn, Pattern=tovenaar
+Turn ID=17| B | B : dat zijn G
+	Free: Pattern=zijn
+	Constrained: 
+Turn ID=18| B | B : dit zijn de tovenaar
+	Free: Pattern=dit zijn de tovenaar
+	Constrained: Pattern=de, Pattern=de tovenaar, Pattern=dit zijn, Pattern=zijn, Pattern=tovenaar
+Turn ID=19| A | A : tien
+	Free: 
+	Constrained: 

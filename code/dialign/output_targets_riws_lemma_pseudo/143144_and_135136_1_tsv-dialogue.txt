@@ -1,0 +1,83 @@
+B|0| B: mijne _hebben_ _een_ plaa ertegenaan _en_ _een soort_ _ja_ champignon of zo erop 
+B|1| B: _ja_ 
+B|2| B: _ja_ 
+B|3| B: _dat zijn_ bij mij G 
+B|4| B: deze _zijn_ _weer_ _met_ _dat_ _plaat_ ertegenaan _en die_ paddenstoel erop 
+A|5| A: hij [hebben] oog 
+A|6| A: [ja] [ja] [ja] [ja] [ja] ik zien hem [een soort] van spijker wat er op [zijn] hoofd zitten [en] dan 
+A|7| A: [ja] 
+A|8| A: dan [zijn] het numero twee 
+B|9| B: _dat zijn_ bij mij D 
+A|10| A: dit [zijn] jou robot 
+A|11| A: _met die_ oog [en] [dat] spijker op het hoofd [en die] [plaat] aan één kant 
+B|12| B: [met die] paddenstoel 
+A|13| A: jou robot ik gaan hem even opzoeken [weer] 
+A|14| A: [dat zijn] numero negen 
+B|15| B: B 
+A|16| A: je robot 
+A|17| A: ik [zijn] 
+A|18| A: [dat zijn] numero één 
+A|19| A: de robot 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : mijne hebben een plaa ertegenaan en een soort ja champignon of zo erop
+	Free: Pattern=ja, Pattern=een, Pattern=hebben, Pattern=een soort, Pattern=en
+	Constrained: Pattern=een
+Turn ID=1| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=2| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=3| B | B : dat zijn bij mij G
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=4| B | B : deze zijn weer met dat plaat ertegenaan en die paddenstoel erop
+	Free: Pattern=en die, Pattern=dat, Pattern=met, Pattern=zijn, Pattern=weer, Pattern=plaat
+	Constrained: Pattern=en
+Turn ID=5| A | A : hij hebben oog
+	Free: Pattern=hebben
+	Constrained: 
+Turn ID=6| A | A : ja ja ja ja ja ik zien hem een soort van spijker wat er op zijn hoofd zitten en dan
+	Free: Pattern=een soort, Pattern=ja, Pattern=zijn, Pattern=en
+	Constrained: Pattern=een
+Turn ID=7| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=8| A | A : dan zijn het numero twee
+	Free: Pattern=zijn
+	Constrained: 
+Turn ID=9| B | B : dat zijn bij mij D
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=10| A | A : dit zijn jou robot
+	Free: Pattern=zijn
+	Constrained: 
+Turn ID=11| A | A : met die oog en dat spijker op het hoofd en die plaat aan één kant
+	Free: Pattern=en die, Pattern=en, Pattern=plaat, Pattern=dat, Pattern=met die
+	Constrained: Pattern=met, Pattern=en
+Turn ID=12| B | B : met die paddenstoel
+	Free: Pattern=met die
+	Constrained: Pattern=met
+Turn ID=13| A | A : jou robot ik gaan hem even opzoeken weer
+	Free: Pattern=weer
+	Constrained: 
+Turn ID=14| A | A : dat zijn numero negen
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=15| B | B : B
+	Free: 
+	Constrained: 
+Turn ID=16| A | A : je robot
+	Free: 
+	Constrained: 
+Turn ID=17| A | A : ik zijn
+	Free: Pattern=zijn
+	Constrained: 
+Turn ID=18| A | A : dat zijn numero één
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=19| A | A : de robot
+	Free: 
+	Constrained: 

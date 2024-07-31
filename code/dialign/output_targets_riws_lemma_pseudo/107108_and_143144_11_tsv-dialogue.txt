@@ -1,0 +1,107 @@
+A|0| A: _ik_ _gaan_ _even_ _zoeken hoor_ 
+A|1| A: _ik_ _ik_ snapen wel _wat_ je bedoelen _met die_ _ja_ _ik_ _weten_ _dat_ bowlingding herken _ik_ wel _maar_ _dan_ _op_ _de_ _kop_ inderdaad 
+A|2| A: _ja ja_ bij mij _zijn_ _dat_ _de_ veertien 
+A|3| A: ok 
+B|4| B: _dit zijn_ eigenlijk het poppe [met] [de] dik neus iets [op] [zijn] hoofd een kegeltje ook nog [op] [zijn] hoofd [met] een 
+B|5| B: [ja] rechthoekje en 
+B|6| B: [ja] één 
+B|7| B: [wat] een driehoekig vormp hebben een triangel een kegel 
+A|8| A: _dit zijn die met die_ omgekeerd bowling pin 
+A|9| A: bij mij drie 
+B|10| B: [ik] [zijn] [even] aan het [zoeken hoor] 
+B|11| B: [ja ja] [de] kegel en een 
+B|12| B: [ja] [weten] [ik] [dan] misgaan het om N tweepoot 
+A|13| A: _dat_ [zijn] negen bij mij 
+A|14| A: ok 
+A|15| A: o sorry _dit zijn die_ omgekeerd bowling pion 
+A|16| A: [ja] dertien bij mij 
+B|17| B: [dit zijn die met die] rond neus 
+B|18| B: zonder piercing gewoon alleen [de] neus [met] twee staaf [op] [zijn] hoofd en zo 
+B|19| B: [met] zo'n goo erin 
+A|20| A: [ja] [zijn] vijf bij mij 
+A|21| A: [dit zijn] [de] bowling pion 
+A|22| A: [ja] negen bij mij o 
+B|23| B: [ja] [dan] [gaan] het om G 
+B|24| B: [dit zijn] het normaal nee wachten [ik] zeggen het verkeerd [dit zijn] zeggen [maar] [die met] een rond neus twee dinget [op] [zijn] [kop] en een waterpijp aan [de] linkerkant 
+B|25| B: [ja] [dat] worden [dan] J 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : ik gaan even zoeken hoor
+	Free: Pattern=zoeken hoor, Pattern=ik, Pattern=even, Pattern=gaan
+	Constrained: 
+Turn ID=1| A | A : ik ik snapen wel wat je bedoelen met die ja ik weten dat bowlingding herken ik wel maar dan op de kop inderdaad
+	Free: Pattern=op, Pattern=dan, Pattern=weten, Pattern=kop, Pattern=wat, Pattern=ik, Pattern=maar, Pattern=dat, Pattern=met die, Pattern=de, Pattern=ja
+	Constrained: Pattern=met
+Turn ID=2| A | A : ja ja bij mij zijn dat de veertien
+	Free: Pattern=ja ja, Pattern=de, Pattern=dat, Pattern=zijn
+	Constrained: Pattern=ja
+Turn ID=3| A | A : ok
+	Free: 
+	Constrained: 
+Turn ID=4| B | B : dit zijn eigenlijk het poppe met de dik neus iets op zijn hoofd een kegeltje ook nog op zijn hoofd met een
+	Free: Pattern=de, Pattern=op, Pattern=met, Pattern=zijn, Pattern=dit zijn
+	Constrained: Pattern=zijn
+Turn ID=5| B | B : ja rechthoekje en
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=6| B | B : ja één
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=7| B | B : wat een driehoekig vormp hebben een triangel een kegel
+	Free: Pattern=wat
+	Constrained: 
+Turn ID=8| A | A : dit zijn die met die omgekeerd bowling pin
+	Free: Pattern=dit zijn die met die
+	Constrained: Pattern=met die, Pattern=dit zijn die, Pattern=die met, Pattern=met, Pattern=zijn, Pattern=dit zijn
+Turn ID=9| A | A : bij mij drie
+	Free: 
+	Constrained: 
+Turn ID=10| B | B : ik zijn even aan het zoeken hoor
+	Free: Pattern=zoeken hoor, Pattern=ik, Pattern=even, Pattern=zijn
+	Constrained: 
+Turn ID=11| B | B : ja ja de kegel en een
+	Free: Pattern=ja ja, Pattern=de
+	Constrained: Pattern=ja
+Turn ID=12| B | B : ja weten ik dan misgaan het om N tweepoot
+	Free: Pattern=ik, Pattern=weten, Pattern=ja, Pattern=dan
+	Constrained: 
+Turn ID=13| A | A : dat zijn negen bij mij
+	Free: Pattern=dat, Pattern=zijn
+	Constrained: 
+Turn ID=14| A | A : ok
+	Free: 
+	Constrained: 
+Turn ID=15| A | A : o sorry dit zijn die omgekeerd bowling pion
+	Free: Pattern=dit zijn die
+	Constrained: Pattern=dit zijn, Pattern=zijn
+Turn ID=16| A | A : ja dertien bij mij
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=17| B | B : dit zijn die met die rond neus
+	Free: Pattern=dit zijn die met die
+	Constrained: Pattern=met die, Pattern=dit zijn die, Pattern=die met, Pattern=met, Pattern=zijn, Pattern=dit zijn
+Turn ID=18| B | B : zonder piercing gewoon alleen de neus met twee staaf op zijn hoofd en zo
+	Free: Pattern=de, Pattern=op, Pattern=zijn, Pattern=met
+	Constrained: 
+Turn ID=19| B | B : met zo'n goo erin
+	Free: Pattern=met
+	Constrained: 
+Turn ID=20| A | A : ja zijn vijf bij mij
+	Free: Pattern=ja, Pattern=zijn
+	Constrained: 
+Turn ID=21| A | A : dit zijn de bowling pion
+	Free: Pattern=dit zijn, Pattern=de
+	Constrained: Pattern=zijn
+Turn ID=22| A | A : ja negen bij mij o
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=23| B | B : ja dan gaan het om G
+	Free: Pattern=ja, Pattern=gaan, Pattern=dan
+	Constrained: 
+Turn ID=24| B | B : dit zijn het normaal nee wachten ik zeggen het verkeerd dit zijn zeggen maar die met een rond neus twee dinget op zijn kop en een waterpijp aan de linkerkant
+	Free: Pattern=de, Pattern=op, Pattern=kop, Pattern=die met, Pattern=ik, Pattern=dit zijn, Pattern=zijn, Pattern=maar
+	Constrained: Pattern=zijn, Pattern=met
+Turn ID=25| B | B : ja dat worden dan J
+	Free: Pattern=ja, Pattern=dat, Pattern=dan
+	Constrained: 

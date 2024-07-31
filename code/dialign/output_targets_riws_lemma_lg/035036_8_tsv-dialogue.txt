@@ -1,0 +1,115 @@
+A|0| A: _oké_ _dit_ vinden _ik_ wel met _de_ dansen been _ik_ noemen _het_ _een_ Pinokkiokopje met dansen been 
+A|1| A: dus _het zijn_ echt _een_ kop met _een_ lang neus als _het zijn_ en achter op _het_ hoofd zitten ook nog één of ander gek figuur 
+A|2| A: maar _het_ _hebben_ zeggen maar één been aan _de_ onderkant en één aan _de_ zijkant en _die_ vinden _ik_ _het_ lijken of ze aan _het_ dansen _zijn_ 
+B|3| B: [hebben] [die] [een] punthoofd 
+A|4| A: nee 
+B|5| B: [oké] 
+A|6| A: echt [een] lang hexagonfiguur aan _de_ als neus zeggen maar of aan _de_ voorkant 
+A|7| A: en dan één zeggen maar been aan _de_ onderkant 
+A|8| A: en één zo'n zelfde been aan _de_ rechterkant 
+A|9| A: volgens _mij_ _zijn_ er _zijn_ er daar maar één _van_ 
+A|10| A: en dan bovenop _zijn_ _zijn_ _het_ zeggen maar twee dun 
+A|11| A: vierkant naast naast elkaar met aan _de_ beide kant zo'n uitsteeksel 
+B|12| B: ja ja [ik] weten welk [het zijn] 
+B|13| B: _dat zijn_ M bij [mij] 
+B|14| B: _dit zijn_ [die] _Pinokkio_ [van] jou 
+A|15| A: [die] dansen [Pinokkio] 
+B|16| B: ja 
+A|17| A: [oké] [dat zijn] nummer negen 
+A|18| A: [dit zijn] dansen [Pinokkio] maar [zijn] been [zijn] [een] beetje afgehakt 
+A|19| A: maar [die] 
+B|20| B: ja ja 
+B|21| B: [dat zijn] H 
+B|22| B: [dit zijn] [Pinokkio] 
+A|23| A: [oké] [dat zijn] elf 
+A|24| A: [dit zijn] dansen [Pinokkio] 
+B|25| B: ja [dat zijn] D 
+B|26| B: [de] [Pinokkio] 
+A|27| A: [dat zijn] veertien 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : oké dit vinden ik wel met de dansen been ik noemen het een Pinokkiokopje met dansen been
+	Free: Pattern=de, Pattern=een, Pattern=het, Pattern=dit, Pattern=oké, Pattern=ik
+	Constrained: 
+Turn ID=1| A | A : dus het zijn echt een kop met een lang neus als het zijn en achter op het hoofd zitten ook nog één of ander gek figuur
+	Free: Pattern=het zijn, Pattern=een, Pattern=het
+	Constrained: Pattern=zijn, Pattern=het
+Turn ID=2| A | A : maar het hebben zeggen maar één been aan de onderkant en één aan de zijkant en die vinden ik het lijken of ze aan het dansen zijn
+	Free: Pattern=de, Pattern=het, Pattern=hebben, Pattern=die, Pattern=ik, Pattern=zijn
+	Constrained: 
+Turn ID=3| B | B : hebben die een punthoofd
+	Free: Pattern=hebben, Pattern=die, Pattern=een
+	Constrained: 
+Turn ID=4| A | A : nee
+	Free: 
+	Constrained: 
+Turn ID=5| B | B : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=6| A | A : echt een lang hexagonfiguur aan de als neus zeggen maar of aan de voorkant
+	Free: Pattern=de, Pattern=een
+	Constrained: 
+Turn ID=7| A | A : en dan één zeggen maar been aan de onderkant
+	Free: Pattern=de
+	Constrained: 
+Turn ID=8| A | A : en één zo'n zelfde been aan de rechterkant
+	Free: Pattern=de
+	Constrained: 
+Turn ID=9| A | A : volgens mij zijn er zijn er daar maar één van
+	Free: Pattern=zijn, Pattern=mij, Pattern=van
+	Constrained: 
+Turn ID=10| A | A : en dan bovenop zijn zijn het zeggen maar twee dun
+	Free: Pattern=zijn, Pattern=het
+	Constrained: 
+Turn ID=11| A | A : vierkant naast naast elkaar met aan de beide kant zo'n uitsteeksel
+	Free: Pattern=de
+	Constrained: 
+Turn ID=12| B | B : ja ja ik weten welk het zijn
+	Free: Pattern=het zijn, Pattern=ik
+	Constrained: Pattern=zijn, Pattern=het
+Turn ID=13| B | B : dat zijn M bij mij
+	Free: Pattern=dat zijn, Pattern=mij
+	Constrained: Pattern=zijn
+Turn ID=14| B | B : dit zijn die Pinokkio van jou
+	Free: Pattern=dit zijn, Pattern=die, Pattern=Pinokkio, Pattern=van
+	Constrained: Pattern=dit, Pattern=zijn
+Turn ID=15| A | A : die dansen Pinokkio
+	Free: Pattern=die, Pattern=Pinokkio
+	Constrained: 
+Turn ID=16| B | B : ja
+	Free: 
+	Constrained: 
+Turn ID=17| A | A : oké dat zijn nummer negen
+	Free: Pattern=dat zijn, Pattern=oké
+	Constrained: Pattern=zijn
+Turn ID=18| A | A : dit zijn dansen Pinokkio maar zijn been zijn een beetje afgehakt
+	Free: Pattern=dit zijn, Pattern=zijn, Pattern=Pinokkio, Pattern=een
+	Constrained: Pattern=dit, Pattern=zijn
+Turn ID=19| A | A : maar die
+	Free: Pattern=die
+	Constrained: 
+Turn ID=20| B | B : ja ja
+	Free: 
+	Constrained: 
+Turn ID=21| B | B : dat zijn H
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn
+Turn ID=22| B | B : dit zijn Pinokkio
+	Free: Pattern=dit zijn, Pattern=Pinokkio
+	Constrained: Pattern=dit, Pattern=zijn
+Turn ID=23| A | A : oké dat zijn elf
+	Free: Pattern=dat zijn, Pattern=oké
+	Constrained: Pattern=zijn
+Turn ID=24| A | A : dit zijn dansen Pinokkio
+	Free: Pattern=dit zijn, Pattern=Pinokkio
+	Constrained: Pattern=dit, Pattern=zijn
+Turn ID=25| B | B : ja dat zijn D
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn
+Turn ID=26| B | B : de Pinokkio
+	Free: Pattern=de, Pattern=Pinokkio
+	Constrained: 
+Turn ID=27| A | A : dat zijn veertien
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn

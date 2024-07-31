@@ -1,0 +1,155 @@
+A|0| A: _deze hebben een_ groot driehoek _bovenop_ 
+A|1| A: zeggen _en_ hij lijken _een_ beetje _rond_ te opgaan zeggen maar _een_ kegel 
+A|2| A: _en_ _aan de linkerkant_ zitten er _een soort_ van kogel 
+A|3| A: ook _een_ kegel zeggen maar 
+A|4| A: _en_ dan linksonder zitten zo'n cirkel 
+A|5| A: _en_ dan _en_ rechtsvoor zo'n groot blok 
+A|6| A: _ja_ 
+B|7| B: [ja] 
+B|8| B: [ja] 
+B|9| B: [soort] verrekijker 
+B|10| B: [ja] 
+B|11| B: [ja] 
+B|12| B: meerdere vorm 
+B|13| B: ik [hebben] hem denken ik al 
+B|14| B: [ja] 
+B|15| B: ik gaan voor b 
+A|16| A: [ja] 
+A|17| A: [ja] 
+A|18| A: [ja] _en_ dan zo'n kegel _aan de linkerkant_ die eruit steken 
+A|19| A: okee _dat zijn_ veertien 
+B|20| B: [deze hebben een] [een] _één_ pyramidevorm [bovenop] 
+B|21| B: [en] [een soort] verrekijker [aan de linkerkant] 
+B|22| B: [een] [rond] schijf onderaan 
+B|23| B: [en] [een] [een] object waar we allebei nog niet uit [zijn] komen [aan de] ander kant 
+B|24| B: [ja] 
+A|25| A: dit [zijn] weer die die driehoek [bovenop] zeggen maar die kegel die dimensionaal met _dat_ groot raar blok [aan de] voorkant 
+A|26| A: [ja] 
+A|27| A: [ja] negen 
+B|28| B: [ja] 
+B|29| B: uhu 
+B|30| B: [ja] [dat zijn] voor mij j 
+B|31| B: pyramide op [de] bovenkant 
+B|32| B: klein [rond] schijf [aan de] onderkant 
+B|33| B: ondefinieerbaaren object [aan] rechterkant 
+A|34| A: dit [zijn] weer met die driehoek erbovenop [en] [dat] raar groot blok rechtsvoor 
+A|35| A: [ja] [één] 
+B|36| B: [ja] [dat zijn] p 
+B|37| B: ondefinieerbaaren object [en] pyramidevorm [bovenop] 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : deze hebben een groot driehoek bovenop
+	Free: Pattern=deze hebben een, Pattern=bovenop
+	Constrained: Pattern=hebben, Pattern=een
+Turn ID=1| A | A : zeggen en hij lijken een beetje rond te opgaan zeggen maar een kegel
+	Free: Pattern=rond, Pattern=en, Pattern=een
+	Constrained: 
+Turn ID=2| A | A : en aan de linkerkant zitten er een soort van kogel
+	Free: Pattern=aan de linkerkant, Pattern=een soort, Pattern=en
+	Constrained: Pattern=soort, Pattern=aan de, Pattern=een, Pattern=de, Pattern=aan
+Turn ID=3| A | A : ook een kegel zeggen maar
+	Free: Pattern=een
+	Constrained: 
+Turn ID=4| A | A : en dan linksonder zitten zo'n cirkel
+	Free: Pattern=en
+	Constrained: 
+Turn ID=5| A | A : en dan en rechtsvoor zo'n groot blok
+	Free: Pattern=en
+	Constrained: 
+Turn ID=6| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=7| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=8| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=9| B | B : soort verrekijker
+	Free: Pattern=soort
+	Constrained: 
+Turn ID=10| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=11| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=12| B | B : meerdere vorm
+	Free: 
+	Constrained: 
+Turn ID=13| B | B : ik hebben hem denken ik al
+	Free: Pattern=hebben
+	Constrained: 
+Turn ID=14| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=15| B | B : ik gaan voor b
+	Free: 
+	Constrained: 
+Turn ID=16| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=17| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=18| A | A : ja en dan zo'n kegel aan de linkerkant die eruit steken
+	Free: Pattern=aan de linkerkant, Pattern=en, Pattern=ja
+	Constrained: Pattern=aan, Pattern=de, Pattern=aan de
+Turn ID=19| A | A : okee dat zijn veertien
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=20| B | B : deze hebben een een één pyramidevorm bovenop
+	Free: Pattern=deze hebben een, Pattern=één, Pattern=bovenop, Pattern=een
+	Constrained: Pattern=hebben, Pattern=een
+Turn ID=21| B | B : en een soort verrekijker aan de linkerkant
+	Free: Pattern=aan de linkerkant, Pattern=een soort, Pattern=en
+	Constrained: Pattern=soort, Pattern=aan de, Pattern=een, Pattern=de, Pattern=aan
+Turn ID=22| B | B : een rond schijf onderaan
+	Free: Pattern=rond, Pattern=een
+	Constrained: 
+Turn ID=23| B | B : en een een object waar we allebei nog niet uit zijn komen aan de ander kant
+	Free: Pattern=aan de, Pattern=zijn, Pattern=en, Pattern=een
+	Constrained: Pattern=de, Pattern=aan
+Turn ID=24| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=25| A | A : dit zijn weer die die driehoek bovenop zeggen maar die kegel die dimensionaal met dat groot raar blok aan de voorkant
+	Free: Pattern=aan de, Pattern=dat, Pattern=zijn, Pattern=bovenop
+	Constrained: Pattern=de, Pattern=aan
+Turn ID=26| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=27| A | A : ja negen
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=28| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=29| B | B : uhu
+	Free: 
+	Constrained: 
+Turn ID=30| B | B : ja dat zijn voor mij j
+	Free: Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=31| B | B : pyramide op de bovenkant
+	Free: Pattern=de
+	Constrained: 
+Turn ID=32| B | B : klein rond schijf aan de onderkant
+	Free: Pattern=aan de, Pattern=rond
+	Constrained: Pattern=de, Pattern=aan
+Turn ID=33| B | B : ondefinieerbaaren object aan rechterkant
+	Free: Pattern=aan
+	Constrained: 
+Turn ID=34| A | A : dit zijn weer met die driehoek erbovenop en dat raar groot blok rechtsvoor
+	Free: Pattern=dat, Pattern=zijn, Pattern=en
+	Constrained: 
+Turn ID=35| A | A : ja één
+	Free: Pattern=ja, Pattern=één
+	Constrained: 
+Turn ID=36| B | B : ja dat zijn p
+	Free: Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=37| B | B : ondefinieerbaaren object en pyramidevorm bovenop
+	Free: Pattern=en, Pattern=bovenop
+	Constrained: 

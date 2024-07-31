@@ -1,0 +1,143 @@
+B|0| B: _hier_ zitten bovenop de emmer liggen soort van _een_ _klein_ rechthoek 
+B|1| B: _en dan_ aan de linkerkant komen _er_ _een_ soort tui _op zijn_ kop _uit_ 
+B|2| B: _die_ _een beetje_ rond _zijn_ 
+B|3| B: _en_ aan de rechterkant _zijn ook_ _een_ tui 
+B|4| B: wat _lijken op een_ driehoek 
+B|5| B: _en_ daarbovenop _een_ _staafje_ 
+B|6| B: _dat zijn_ _een beetje_ niet niet _heel_ bijzonder _hij_ _zijn_ nogal _compact_ 
+B|7| B: _het_ _zijn_ de emmer _hebben_ erbovenop liggen _er_ soort van _een_ vierhoekig _staafje_ 
+B|8| B: aan de linkerkant komen _er_ _een_ _ja_ soort van tui _uit_ _maar_ _dan_ _op zijn_ kop 
+B|9| B: wat _een beetje_ rond vorming onderaan _hebben_ 
+B|10| B: _en_ aan de rechterkant zitten _er_ _een_ driehoekig tui _met_ daarop _een_ _staafje_ 
+A|11| A: zo'n steken zo'n ding [uit] 
+A|12| A: alsof [hij] _iets_ vasthouden zoiets laten we [het] zo [maar] zeggen 
+A|13| A: [lijken op een] mouw misschien 
+A|14| A: alsof [er] [lijken] [het] [op een] mouw misschien [een beetje] 
+A|15| A: zo zo 
+A|16| A: okee [dat zijn] denken ik nummer vijfteen bij mij 
+B|17| B: _ja_ h 
+A|18| A: _deze_ [zijn ook] [heel] [compact] zoals je laat zeggen 
+A|19| A: [het] [lijken] net of [hij] zoiets vasthouden zo [dat] [klein] [staafje] 
+A|20| A: [ja] [en dan] [hier] [hebben] [hij] zo'n raar armpje [en] [een] blok [op zijn] hoofd 
+B|21| B: [deze] [hebben] _die_ omgedraaide trechter aan de linkerkant soort van de neus 
+B|22| B: [en] bovenop [een] rechthoekig [staafje] 
+A|23| A: [ja] [en] [dat] raar armpje [hier] 
+A|24| A: zo 
+A|25| A: [dat zijn] nummer drie 
+B|26| B: [ja] p 
+A|27| A: [deze] [zijn] [die] compacte [met] [dat] raar armp zo 
+A|28| A: alsof [die] _iets_ vasthouden 
+B|29| B: [deze] [hebben] de omgedraai trechter neusachtig [iets] aan de linkerkant [en] [die] staaf bovenop 
+B|30| B: f 
+A|31| A: [en] zo'n armp 
+A|32| A: waar staan [hij] 
+A|33| A: daar nummer negen 
+A|34| A: dit [zijn] [die] [heel] [compact] [die] zo [iets] vasthouden 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : hier zitten bovenop de emmer liggen soort van een klein rechthoek
+	Free: Pattern=een, Pattern=klein, Pattern=hier
+	Constrained: 
+Turn ID=1| B | B : en dan aan de linkerkant komen er een soort tui op zijn kop uit
+	Free: Pattern=en dan, Pattern=uit, Pattern=een, Pattern=er, Pattern=op zijn
+	Constrained: Pattern=en, Pattern=dan, Pattern=zijn
+Turn ID=2| B | B : die een beetje rond zijn
+	Free: Pattern=een beetje, Pattern=die, Pattern=zijn
+	Constrained: Pattern=een
+Turn ID=3| B | B : en aan de rechterkant zijn ook een tui
+	Free: Pattern=zijn ook, Pattern=een, Pattern=en
+	Constrained: Pattern=zijn
+Turn ID=4| B | B : wat lijken op een driehoek
+	Free: Pattern=lijken op een
+	Constrained: Pattern=op een, Pattern=een, Pattern=lijken
+Turn ID=5| B | B : en daarbovenop een staafje
+	Free: Pattern=een, Pattern=en, Pattern=staafje
+	Constrained: 
+Turn ID=6| B | B : dat zijn een beetje niet niet heel bijzonder hij zijn nogal compact
+	Free: Pattern=dat zijn, Pattern=heel, Pattern=compact, Pattern=hij, Pattern=zijn, Pattern=een beetje
+	Constrained: Pattern=een, Pattern=dat, Pattern=zijn
+Turn ID=7| B | B : het zijn de emmer hebben erbovenop liggen er soort van een vierhoekig staafje
+	Free: Pattern=een, Pattern=het, Pattern=er, Pattern=zijn, Pattern=hebben, Pattern=staafje
+	Constrained: 
+Turn ID=8| B | B : aan de linkerkant komen er een ja soort van tui uit maar dan op zijn kop
+	Free: Pattern=ja, Pattern=uit, Pattern=dan, Pattern=een, Pattern=er, Pattern=op zijn, Pattern=maar
+	Constrained: Pattern=zijn
+Turn ID=9| B | B : wat een beetje rond vorming onderaan hebben
+	Free: Pattern=een beetje, Pattern=hebben
+	Constrained: Pattern=een
+Turn ID=10| B | B : en aan de rechterkant zitten er een driehoekig tui met daarop een staafje
+	Free: Pattern=een, Pattern=staafje, Pattern=met, Pattern=er, Pattern=en
+	Constrained: 
+Turn ID=11| A | A : zo'n steken zo'n ding uit
+	Free: Pattern=uit
+	Constrained: 
+Turn ID=12| A | A : alsof hij iets vasthouden zoiets laten we het zo maar zeggen
+	Free: Pattern=hij, Pattern=iets, Pattern=maar, Pattern=het
+	Constrained: 
+Turn ID=13| A | A : lijken op een mouw misschien
+	Free: Pattern=lijken op een
+	Constrained: Pattern=op een, Pattern=een, Pattern=lijken
+Turn ID=14| A | A : alsof er lijken het op een mouw misschien een beetje
+	Free: Pattern=lijken, Pattern=het, Pattern=er, Pattern=een beetje, Pattern=op een
+	Constrained: Pattern=een
+Turn ID=15| A | A : zo zo
+	Free: 
+	Constrained: 
+Turn ID=16| A | A : okee dat zijn denken ik nummer vijfteen bij mij
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=17| B | B : ja h
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=18| A | A : deze zijn ook heel compact zoals je laat zeggen
+	Free: Pattern=zijn ook, Pattern=heel, Pattern=compact, Pattern=deze
+	Constrained: Pattern=zijn
+Turn ID=19| A | A : het lijken net of hij zoiets vasthouden zo dat klein staafje
+	Free: Pattern=dat, Pattern=lijken, Pattern=het, Pattern=staafje, Pattern=hij, Pattern=klein
+	Constrained: 
+Turn ID=20| A | A : ja en dan hier hebben hij zo'n raar armpje en een blok op zijn hoofd
+	Free: Pattern=ja, Pattern=een, Pattern=hebben, Pattern=hij, Pattern=hier, Pattern=en dan, Pattern=en, Pattern=op zijn
+	Constrained: Pattern=en, Pattern=dan, Pattern=zijn
+Turn ID=21| B | B : deze hebben die omgedraaide trechter aan de linkerkant soort van de neus
+	Free: Pattern=die, Pattern=hebben, Pattern=deze
+	Constrained: 
+Turn ID=22| B | B : en bovenop een rechthoekig staafje
+	Free: Pattern=een, Pattern=en, Pattern=staafje
+	Constrained: 
+Turn ID=23| A | A : ja en dat raar armpje hier
+	Free: Pattern=en, Pattern=dat, Pattern=ja, Pattern=hier
+	Constrained: 
+Turn ID=24| A | A : zo
+	Free: 
+	Constrained: 
+Turn ID=25| A | A : dat zijn nummer drie
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=26| B | B : ja p
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=27| A | A : deze zijn die compacte met dat raar armp zo
+	Free: Pattern=dat, Pattern=met, Pattern=die, Pattern=zijn, Pattern=deze
+	Constrained: 
+Turn ID=28| A | A : alsof die iets vasthouden
+	Free: Pattern=iets, Pattern=die
+	Constrained: 
+Turn ID=29| B | B : deze hebben de omgedraai trechter neusachtig iets aan de linkerkant en die staaf bovenop
+	Free: Pattern=iets, Pattern=hebben, Pattern=die, Pattern=en, Pattern=deze
+	Constrained: 
+Turn ID=30| B | B : f
+	Free: 
+	Constrained: 
+Turn ID=31| A | A : en zo'n armp
+	Free: Pattern=en
+	Constrained: 
+Turn ID=32| A | A : waar staan hij
+	Free: Pattern=hij
+	Constrained: 
+Turn ID=33| A | A : daar nummer negen
+	Free: 
+	Constrained: 
+Turn ID=34| A | A : dit zijn die heel compact die zo iets vasthouden
+	Free: Pattern=heel, Pattern=iets, Pattern=compact, Pattern=die, Pattern=zijn
+	Constrained: 

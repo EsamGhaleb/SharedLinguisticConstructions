@@ -1,0 +1,111 @@
+A|0| A: _ja_ 
+A|1| A: _en_ voorop zitten _een soort_ _vierkant_ 
+A|2| A: vijfteen 
+A|3| A: _deze hebben_ _twee_ _steeds_ breder _worden_ uitsteeksel _aan de_ linkerkant _een_ plaat _aan de voorkant _en een_ soort_ Antenne _bovenop_ 
+A|4| A: _die_ _vierkant_ _steeds_ breder wordende dinget 
+A|5| A: _een_ plaat _aan de voorkant en een_ antenne _bovenop_ 
+A|6| A: _ja_ 
+A|7| A: dertien 
+A|8| A: ik _hebben_ _die_ _een_ _met_ _de_ antenne _bovenop_ _de_ _paddestoel_ _bovenop_ _en_ _de_ plaat _aan de voorkant_ 
+B|9| B: [deze hebben] [een] [vierkant] beetje [aan de voorkant] beetje naar rechts toe 
+B|10| B: [en] link [twee] van [die] staf [met] [vierkant] [die] [steeds] groot [worden] 
+B|11| B: [en] [ja] 
+B|12| B: [ja] 
+B|13| B: [soort] paddenstoel [ja] 
+A|14| A: [ja] vijfteen 
+A|15| A: ik [hebben] [de] _paddestoel_ [aan de] bovenkant [en] [de] plaat [aan de voorkant] 
+B|16| B: [en] [twee] link 
+B|17| B: [ja] dat zijn O 
+B|18| B: [deze hebben] [een] [vierkant] rechtsvoor [en een soort] [paddestoel] er [bovenop] 
+B|19| B: [ja] 
+B|20| B: links [ja] 
+B|21| B: G 
+B|22| B: [deze hebben] [een] [vierkant] [aan de voorkant en een] paddenstoel er [bovenop] 
+B|23| B: [en] 
+B|24| B: [ja] 
+B|25| B: [ja] 
+B|26| B: K 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=1| A | A : en voorop zitten een soort vierkant
+	Free: Pattern=een soort, Pattern=en, Pattern=vierkant
+	Constrained: Pattern=een, Pattern=soort
+Turn ID=2| A | A : vijfteen
+	Free: 
+	Constrained: 
+Turn ID=3| A | A : deze hebben twee steeds breder worden uitsteeksel aan de linkerkant een plaat aan de voorkant en een soort Antenne bovenop
+	Free: Pattern=bovenop, Pattern=twee, Pattern=een, Pattern=en een soort, Pattern=steeds, Pattern=deze hebben, Pattern=aan de voorkant en een, Pattern=aan de, Pattern=worden
+	Constrained: Pattern=soort, Pattern=de, Pattern=aan de, Pattern=een, Pattern=hebben, Pattern=een soort, Pattern=en, Pattern=aan de voorkant
+Turn ID=4| A | A : die vierkant steeds breder wordende dinget
+	Free: Pattern=steeds, Pattern=vierkant, Pattern=die
+	Constrained: 
+Turn ID=5| A | A : een plaat aan de voorkant en een antenne bovenop
+	Free: Pattern=aan de voorkant en een, Pattern=een, Pattern=bovenop
+	Constrained: Pattern=de, Pattern=aan de, Pattern=een, Pattern=en, Pattern=aan de voorkant
+Turn ID=6| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=7| A | A : dertien
+	Free: 
+	Constrained: 
+Turn ID=8| A | A : ik hebben die een met de antenne bovenop de paddestoel bovenop en de plaat aan de voorkant
+	Free: Pattern=bovenop, Pattern=de, Pattern=een, Pattern=hebben, Pattern=met, Pattern=die, Pattern=paddestoel, Pattern=en, Pattern=aan de voorkant
+	Constrained: Pattern=aan de, Pattern=de
+Turn ID=9| B | B : deze hebben een vierkant beetje aan de voorkant beetje naar rechts toe
+	Free: Pattern=aan de voorkant, Pattern=deze hebben, Pattern=een, Pattern=vierkant
+	Constrained: Pattern=de, Pattern=aan de, Pattern=hebben
+Turn ID=10| B | B : en link twee van die staf met vierkant die steeds groot worden
+	Free: Pattern=twee, Pattern=worden, Pattern=steeds, Pattern=met, Pattern=die, Pattern=en, Pattern=vierkant
+	Constrained: 
+Turn ID=11| B | B : en ja
+	Free: Pattern=en, Pattern=ja
+	Constrained: 
+Turn ID=12| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=13| B | B : soort paddenstoel ja
+	Free: Pattern=ja, Pattern=soort
+	Constrained: 
+Turn ID=14| A | A : ja vijfteen
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=15| A | A : ik hebben de paddestoel aan de bovenkant en de plaat aan de voorkant
+	Free: Pattern=de, Pattern=aan de, Pattern=hebben, Pattern=paddestoel, Pattern=en, Pattern=aan de voorkant
+	Constrained: Pattern=aan de, Pattern=de
+Turn ID=16| B | B : en twee link
+	Free: Pattern=en, Pattern=twee
+	Constrained: 
+Turn ID=17| B | B : ja dat zijn O
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=18| B | B : deze hebben een vierkant rechtsvoor en een soort paddestoel er bovenop
+	Free: Pattern=bovenop, Pattern=een, Pattern=en een soort, Pattern=deze hebben, Pattern=paddestoel, Pattern=vierkant
+	Constrained: Pattern=soort, Pattern=een, Pattern=hebben, Pattern=een soort, Pattern=en
+Turn ID=19| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=20| B | B : links ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=21| B | B : G
+	Free: 
+	Constrained: 
+Turn ID=22| B | B : deze hebben een vierkant aan de voorkant en een paddenstoel er bovenop
+	Free: Pattern=bovenop, Pattern=een, Pattern=deze hebben, Pattern=aan de voorkant en een, Pattern=vierkant
+	Constrained: Pattern=de, Pattern=aan de, Pattern=een, Pattern=hebben, Pattern=en, Pattern=aan de voorkant
+Turn ID=23| B | B : en
+	Free: Pattern=en
+	Constrained: 
+Turn ID=24| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=25| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=26| B | B : K
+	Free: 
+	Constrained: 

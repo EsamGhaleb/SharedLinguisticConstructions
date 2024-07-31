@@ -1,0 +1,143 @@
+A|0| A: _ik hebben_ nu _de_ mok _met _een_ soort_ van steun _aan de_ achterkant _die_ lijken _op een_ paaltje te _staan_ _en_ _het_ _zijn_ _een soort_ van vier of rechthoek 
+B|1| B: _ja_ 
+B|2| B: _ja_ 
+A|3| A: _en_ er zitten twee one's hoe zeggen _je_ _dat_ handvaat waarvan _de linkerkant_ _iets kort_ _zijn en_ _de rechterkant_ _lang_ 
+B|4| B: _ja_ 
+B|5| B: _dat zijn_ bij mij _nummer_ K 
+A|6| A: oké 
+B|7| B: [ik hebben] in principe weer [het] basismodel _waarbij_ _dan_ 
+B|8| B: schuin _een vierkant_ achter [staan] waar [dat] [op [een] soort] voet steunen [met een] [kort] uitsteeksel [aan [de] linkerkant] [die] rond afronden [zijn en] _dan_ [een] [lang] 
+A|9| A: [ja] 
+A|10| A: [dat zijn] [nummer] negen hier 
+A|11| A: dit [zijn] [de] mok [waarbij] [aan de] achterkant [een soort] van steunpilaart [staan] 
+A|12| A: [op een] paaltje [met [een] vierkant] blok daaraan vast 
+B|13| B: [ja] 
+A|14| A: [en] link zitten [een] handvat _wat_ hetzelfde [zijn] als rechts alleen rechts [lang] 
+B|15| B: [ja] 
+B|16| B: [dat zijn] bij mij F 
+A|17| A: oké 
+B|18| B: [ik hebben] degeen [met] [het] [vierkant] vlak schuin erachter 
+B|19| B: [met een] ondersteunen [ja] vorm erachter [en] _dan_ [hebben] [je] [aan [de] linkerkant] [dat] rond aflopen 
+B|20| B: puntig geval [en] [aan [de] rechterkant] [dat] [lang] puntig geval om armp 
+A|21| A: [ja] 
+A|22| A: [nummer] drie [zijn] [dat] hier 
+A|23| A: [ja] gelijk 
+A|24| A: dit [zijn] [de] mok [met] [dat] rugsteuntje achterin 
+A|25| A: [die] [op een] paaltje [staan] [met [een] vierkant] daarachter 
+A|26| A: [met] handvaat er [die] rechter [lang] [zijn] [dan] links 
+B|27| B: [ja] 
+B|28| B: [ja] [dat zijn] bij mij L 
+A|29| A: oké 
+B|30| B: [ik hebben] degeen [met] [het] [vierkant] vlak [wat] ondersteunen worden door [een] voet [met] [de] [zijn] 
+B|31| B: [lang] [en] [dan] [de] linker [iets kort] allebei rond afgevormen 
+A|32| A: [ja] 
+A|33| A: even kijken 
+A|34| A: [nummer] vijf 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : ik hebben nu de mok met een soort van steun aan de achterkant die lijken op een paaltje te staan en het zijn een soort van vier of rechthoek
+	Free: Pattern=ik hebben, Pattern=de, Pattern=aan de, Pattern=staan, Pattern=het, Pattern=die, Pattern=met een, Pattern=een soort, Pattern=en, Pattern=zijn, Pattern=op een
+	Constrained: Pattern=een, Pattern=de, Pattern=met, Pattern=hebben
+Turn ID=1| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=2| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=3| A | A : en er zitten twee one's hoe zeggen je dat handvaat waarvan de linkerkant iets kort zijn en de rechterkant lang
+	Free: Pattern=dat, Pattern=de rechterkant, Pattern=de linkerkant, Pattern=zijn en, Pattern=iets kort, Pattern=lang, Pattern=en, Pattern=je
+	Constrained: Pattern=de, Pattern=zijn, Pattern=en, Pattern=kort
+Turn ID=4| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=5| B | B : dat zijn bij mij nummer K
+	Free: Pattern=dat zijn, Pattern=nummer
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=6| A | A : oké
+	Free: 
+	Constrained: 
+Turn ID=7| B | B : ik hebben in principe weer het basismodel waarbij dan
+	Free: Pattern=ik hebben, Pattern=waarbij, Pattern=dan, Pattern=het
+	Constrained: Pattern=hebben
+Turn ID=8| B | B : schuin een vierkant achter staan waar dat op een soort voet steunen met een kort uitsteeksel aan de linkerkant die rond afronden zijn en dan een lang
+	Free: Pattern=dat, Pattern=aan de, Pattern=dan, Pattern=de linkerkant, Pattern=zijn en, Pattern=die, Pattern=met een, Pattern=kort, Pattern=op een, Pattern=een vierkant, Pattern=een, Pattern=staan, Pattern=lang, Pattern=een soort
+	Constrained: Pattern=de, Pattern=een, Pattern=met, Pattern=en, Pattern=zijn, Pattern=vierkant
+Turn ID=9| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=10| A | A : dat zijn nummer negen hier
+	Free: Pattern=dat zijn, Pattern=nummer
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=11| A | A : dit zijn de mok waarbij aan de achterkant een soort van steunpilaart staan
+	Free: Pattern=de, Pattern=aan de, Pattern=waarbij, Pattern=staan, Pattern=een soort, Pattern=zijn
+	Constrained: Pattern=de, Pattern=een
+Turn ID=12| A | A : op een paaltje met een vierkant blok daaraan vast
+	Free: Pattern=op een, Pattern=een vierkant, Pattern=met een
+	Constrained: Pattern=vierkant, Pattern=een, Pattern=met
+Turn ID=13| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=14| A | A : en link zitten een handvat wat hetzelfde zijn als rechts alleen rechts lang
+	Free: Pattern=een, Pattern=wat, Pattern=lang, Pattern=en, Pattern=zijn
+	Constrained: 
+Turn ID=15| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=16| B | B : dat zijn bij mij F
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=17| A | A : oké
+	Free: 
+	Constrained: 
+Turn ID=18| B | B : ik hebben degeen met het vierkant vlak schuin erachter
+	Free: Pattern=ik hebben, Pattern=vierkant, Pattern=het, Pattern=met
+	Constrained: Pattern=hebben
+Turn ID=19| B | B : met een ondersteunen ja vorm erachter en dan hebben je aan de linkerkant dat rond aflopen
+	Free: Pattern=dat, Pattern=ja, Pattern=aan de, Pattern=dan, Pattern=de linkerkant, Pattern=hebben, Pattern=met een, Pattern=en, Pattern=je
+	Constrained: Pattern=de, Pattern=een, Pattern=met
+Turn ID=20| B | B : puntig geval en aan de rechterkant dat lang puntig geval om armp
+	Free: Pattern=dat, Pattern=de rechterkant, Pattern=aan de, Pattern=lang, Pattern=en
+	Constrained: Pattern=de
+Turn ID=21| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=22| A | A : nummer drie zijn dat hier
+	Free: Pattern=dat, Pattern=zijn, Pattern=nummer
+	Constrained: 
+Turn ID=23| A | A : ja gelijk
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=24| A | A : dit zijn de mok met dat rugsteuntje achterin
+	Free: Pattern=dat, Pattern=de, Pattern=zijn, Pattern=met
+	Constrained: 
+Turn ID=25| A | A : die op een paaltje staan met een vierkant daarachter
+	Free: Pattern=staan, Pattern=die, Pattern=met een, Pattern=op een, Pattern=een vierkant
+	Constrained: Pattern=vierkant, Pattern=een, Pattern=met
+Turn ID=26| A | A : met handvaat er die rechter lang zijn dan links
+	Free: Pattern=dan, Pattern=met, Pattern=die, Pattern=lang, Pattern=zijn
+	Constrained: 
+Turn ID=27| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=28| B | B : ja dat zijn bij mij L
+	Free: Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=29| A | A : oké
+	Free: 
+	Constrained: 
+Turn ID=30| B | B : ik hebben degeen met het vierkant vlak wat ondersteunen worden door een voet met de zijn
+	Free: Pattern=ik hebben, Pattern=de, Pattern=een, Pattern=het, Pattern=met, Pattern=wat, Pattern=zijn, Pattern=vierkant
+	Constrained: Pattern=hebben
+Turn ID=31| B | B : lang en dan de linker iets kort allebei rond afgevormen
+	Free: Pattern=de, Pattern=dan, Pattern=iets kort, Pattern=lang, Pattern=en
+	Constrained: Pattern=kort
+Turn ID=32| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=33| A | A : even kijken
+	Free: 
+	Constrained: 
+Turn ID=34| A | A : nummer vijf
+	Free: Pattern=nummer
+	Constrained: 

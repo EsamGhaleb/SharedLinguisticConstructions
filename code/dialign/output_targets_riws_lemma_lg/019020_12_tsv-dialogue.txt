@@ -1,0 +1,135 @@
+A|0| A: _ja_ deze _hebben_ aan _de_ rechterkant _een_ soort mun of _een_ schijf _met een_ stok _die_ hem vastmaken aan _de_ beker 
+A|1| A: of aan _het_ _groot_ geheel _en_ _dan_ aan _de_ linkerkant _hebben_ _het_ _een_ soort _heel_ uitgerekken pacmanvorm _met_ _zo'n_ soort _spijker_ erin 
+A|2| A: _het_ _hebben_ _zijn_ zeggen _maar_ aan _de_ linkerkant _ja_ er er opsteken _dan_ _zo'n_ ding horizontaal uit _en_ in _dat_ uitgesteken ding 
+A|3| A: steken _weer_ iets zeggen _maar_ zo schuin van boven naar achter daar in 
+B|4| B: _nou_ ik weten totaal niet waar _je_ [het] over 
+A|5| A: nee ? 
+A|6| A: even kijken dus _je hebben_ gewoon [nou] _je hebben_ al bekervormen 
+B|7| B: [ja] 
+A|8| A: _en_ _dan_ _hebben_ [je] w rechtsonder _hebben_ [je] _een_ soort schijf _dat_ horizontaal er half tegenaan afhangen 
+A|9| A: _en_ _dat_ schijf worden worden zeggen _maar_ vastgemaakt aan _de_ kop _met een_ 
+B|10| B: o [zo'n] _plateau_ 
+A|11| A: _heel_ klein 
+A|12| A: [ja] [ja] [ja] _dat_ _plateau en_ _dan_ links daarvan [ja] _zijn_ toch _dat zijn_ zeggen _maar_ [zo'n] _heel_ _lang_ _uitgerekte_ breed _pacman en_ daarin 
+B|13| B: [ja] 
+B|14| B: o [dan] [de] [pacman] ik zien [de] [pacman] 
+B|15| B: [ja] 
+B|16| B: ik denken [je] willen [heel] [groot] [maar] [je hebben] [een] [lang] 
+A|17| A: nee [ja] precies [ja] _en_ daarin opsteken [dan] _die_ [het] lijken op [een] beetje op _een spijker_ op [zo'n] naald of wat [dan] ook 
+B|18| B: _ja ok dat zijn_ [dan] [de] L voor mij 
+A|19| A: [ok] 
+B|20| B: _dit zijn_ [weer] _met dat_ tablau [plateau] _met die uitgerekte pacman en die spijker_ 
+A|21| A: [ja] 
+A|22| A: [ja] [ja] [ja ok dat zijn] zeven 
+A|23| A: [ja] [dit zijn] [die] [met dat] raar _rond plateau_ [dat] er tegenaan zitten [met die uitgerekte pacman en die spijker] erin 
+B|24| B: [dat zijn] voor mij C 
+A|25| A: [ja] 
+B|26| B: [ok] [dit zijn] [met] [het] [rond _plateau] en de uitgerekte pacman _en_ de_ [spijker] 
+A|27| A: [ja] [dat zijn] één 
+A|28| A: [dit zijn] [die] [met dat] [plateau en de _uitgerekte pacman en] een spijker_ in [pacman] 
+B|29| B: [dat zijn] voor mij A 
+B|30| B: [dit zijn] [met] [het] [rond] tableau [met een] [uitgerekte pacman en een spijker] 
+A|31| A: [ja] 
+A|32| A: [dat zijn] dertien 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : ja deze hebben aan de rechterkant een soort mun of een schijf met een stok die hem vastmaken aan de beker
+	Free: Pattern=een, Pattern=hebben, Pattern=die, Pattern=met een, Pattern=de, Pattern=ja
+	Constrained: Pattern=met, Pattern=een
+Turn ID=1| A | A : of aan het groot geheel en dan aan de linkerkant hebben het een soort heel uitgerekken pacmanvorm met zo'n soort spijker erin
+	Free: Pattern=heel, Pattern=zo'n, Pattern=de, Pattern=dan, Pattern=een, Pattern=het, Pattern=met, Pattern=en, Pattern=spijker, Pattern=groot, Pattern=hebben
+	Constrained: 
+Turn ID=2| A | A : het hebben zijn zeggen maar aan de linkerkant ja er er opsteken dan zo'n ding horizontaal uit en in dat uitgesteken ding
+	Free: Pattern=dat, Pattern=zo'n, Pattern=dan, Pattern=het, Pattern=hebben, Pattern=en, Pattern=de, Pattern=ja, Pattern=zijn, Pattern=maar
+	Constrained: 
+Turn ID=3| A | A : steken weer iets zeggen maar zo schuin van boven naar achter daar in
+	Free: Pattern=maar, Pattern=weer
+	Constrained: 
+Turn ID=4| B | B : nou ik weten totaal niet waar je het over
+	Free: Pattern=je, Pattern=nou, Pattern=het
+	Constrained: 
+Turn ID=5| A | A : nee ?
+	Free: 
+	Constrained: 
+Turn ID=6| A | A : even kijken dus je hebben gewoon nou je hebben al bekervormen
+	Free: Pattern=je hebben, Pattern=nou
+	Constrained: Pattern=hebben, Pattern=je
+Turn ID=7| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=8| A | A : en dan hebben je w rechtsonder hebben je een soort schijf dat horizontaal er half tegenaan afhangen
+	Free: Pattern=dat, Pattern=dan, Pattern=een, Pattern=hebben, Pattern=en, Pattern=je
+	Constrained: 
+Turn ID=9| A | A : en dat schijf worden worden zeggen maar vastgemaakt aan de kop met een
+	Free: Pattern=dat, Pattern=de, Pattern=met een, Pattern=en, Pattern=maar
+	Constrained: Pattern=met, Pattern=een
+Turn ID=10| B | B : o zo'n plateau
+	Free: Pattern=zo'n, Pattern=plateau
+	Constrained: 
+Turn ID=11| A | A : heel klein
+	Free: Pattern=heel
+	Constrained: 
+Turn ID=12| A | A : ja ja ja dat plateau en dan links daarvan ja zijn toch dat zijn zeggen maar zo'n heel lang uitgerekte breed pacman en daarin
+	Free: Pattern=heel, Pattern=zo'n, Pattern=ja, Pattern=dan, Pattern=uitgerekte, Pattern=lang, Pattern=dat, Pattern=dat zijn, Pattern=zijn, Pattern=maar, Pattern=plateau en, Pattern=pacman en
+	Constrained: Pattern=dat, Pattern=pacman, Pattern=plateau, Pattern=en, Pattern=zijn
+Turn ID=13| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=14| B | B : o dan de pacman ik zien de pacman
+	Free: Pattern=de, Pattern=dan, Pattern=pacman
+	Constrained: 
+Turn ID=15| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=16| B | B : ik denken je willen heel groot maar je hebben een lang
+	Free: Pattern=heel, Pattern=een, Pattern=je hebben, Pattern=groot, Pattern=lang, Pattern=maar, Pattern=je
+	Constrained: Pattern=hebben, Pattern=je
+Turn ID=17| A | A : nee ja precies ja en daarin opsteken dan die het lijken op een beetje op een spijker op zo'n naald of wat dan ook
+	Free: Pattern=zo'n, Pattern=ja, Pattern=dan, Pattern=een, Pattern=het, Pattern=een spijker, Pattern=die, Pattern=en
+	Constrained: Pattern=spijker, Pattern=een
+Turn ID=18| B | B : ja ok dat zijn dan de L voor mij
+	Free: Pattern=ja ok dat zijn, Pattern=de, Pattern=dan
+	Constrained: Pattern=ja, Pattern=ok, Pattern=zijn, Pattern=dat, Pattern=dat zijn
+Turn ID=19| A | A : ok
+	Free: Pattern=ok
+	Constrained: 
+Turn ID=20| B | B : dit zijn weer met dat tablau plateau met die uitgerekte pacman en die spijker
+	Free: Pattern=plateau, Pattern=met dat, Pattern=weer, Pattern=met die uitgerekte pacman en die spijker, Pattern=dit zijn
+	Constrained: Pattern=dat, Pattern=pacman, Pattern=uitgerekte, Pattern=met, Pattern=die, Pattern=en, Pattern=zijn, Pattern=pacman en, Pattern=spijker
+Turn ID=21| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=22| A | A : ja ja ja ok dat zijn zeven
+	Free: Pattern=ja ok dat zijn, Pattern=ja
+	Constrained: Pattern=ja, Pattern=ok, Pattern=zijn, Pattern=dat, Pattern=dat zijn
+Turn ID=23| A | A : ja dit zijn die met dat raar rond plateau dat er tegenaan zitten met die uitgerekte pacman en die spijker erin
+	Free: Pattern=dat, Pattern=ja, Pattern=met dat, Pattern=die, Pattern=rond plateau, Pattern=met die uitgerekte pacman en die spijker, Pattern=dit zijn
+	Constrained: Pattern=dat, Pattern=pacman, Pattern=plateau, Pattern=uitgerekte, Pattern=met, Pattern=die, Pattern=en, Pattern=rond, Pattern=zijn, Pattern=pacman en, Pattern=spijker
+Turn ID=24| B | B : dat zijn voor mij C
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=25| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=26| B | B : ok dit zijn met het rond plateau en de uitgerekte pacman en de spijker
+	Free: Pattern=plateau en de uitgerekte pacman en, Pattern=en de, Pattern=het, Pattern=ok, Pattern=met, Pattern=rond plateau, Pattern=dit zijn, Pattern=spijker
+	Constrained: Pattern=de, Pattern=pacman, Pattern=en de, Pattern=plateau, Pattern=uitgerekte, Pattern=en, Pattern=rond, Pattern=zijn, Pattern=plateau en, Pattern=pacman en
+Turn ID=27| A | A : ja dat zijn één
+	Free: Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=28| A | A : dit zijn die met dat plateau en de uitgerekte pacman en een spijker in pacman
+	Free: Pattern=plateau en de uitgerekte pacman en, Pattern=pacman, Pattern=met dat, Pattern=uitgerekte pacman en een spijker, Pattern=die, Pattern=dit zijn
+	Constrained: Pattern=dat, Pattern=de, Pattern=en de, Pattern=plateau, Pattern=met, Pattern=en, Pattern=zijn, Pattern=spijker, Pattern=een, Pattern=pacman, Pattern=een spijker, Pattern=uitgerekte, Pattern=plateau en, Pattern=pacman en
+Turn ID=29| B | B : dat zijn voor mij A
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=30| B | B : dit zijn met het rond tableau met een uitgerekte pacman en een spijker
+	Free: Pattern=het, Pattern=met een, Pattern=rond, Pattern=dit zijn, Pattern=uitgerekte pacman en een spijker, Pattern=met
+	Constrained: Pattern=met, Pattern=en, Pattern=zijn, Pattern=pacman en, Pattern=spijker, Pattern=een, Pattern=pacman, Pattern=een spijker, Pattern=uitgerekte
+Turn ID=31| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=32| A | A : dat zijn dertien
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn, Pattern=dat

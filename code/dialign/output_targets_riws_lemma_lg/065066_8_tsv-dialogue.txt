@@ -1,0 +1,155 @@
+A|0| A: oké 
+A|1| A: _ja_ ik vinden _dit_ _een_ _kraan_ 
+B|2| B: [kraan] 
+A|3| A: _ja_ 
+B|4| B: beetje _met_ twee _van die_ ding op _de_ voorkant of 
+A|5| A: nee bovenop zien je _een_ _een_ _een_ kantelen vierkant [met] [van die] _ja_ echt [van die] [kraan] eraan _en aan de_ onder onder alsof het _een wasbak zijn_ 
+B|6| B: _hebben_ [die] zo'n voet 
+B|7| B: zo'n 
+A|8| A: _ja_ hij [hebben] _een_ _één_ 
+B|9| B: of [die] [een wasbak zijn] even 
+A|10| A: hij [hebben] _één_ arm 
+B|11| B: wachten 
+B|12| B: [ja] [één] [die] zo [en] dan [één] zo 
+A|13| A: [ja] 
+B|14| B: [ja] 
+B|15| B: [ja] 
+B|16| B: M 
+B|17| B: even kijken deze [hebben] dat [met] wat jou [aan] wat jou [aan] [een] kraantje doen denken 
+B|18| B: [die] [met] zo'n dinge 
+A|19| A: [ja] 
+A|20| A: [ja] _en _aan de_ zijkant_ [en] [ja] 
+B|21| B: [ja] 
+B|22| B: [en aan de] onderkant [ja] 
+A|23| A: negen 
+A|24| A: het [kraan] 
+B|25| B: [kraan] [kraan] 
+B|26| B: [met] dat dinge [aan de] onderkant 
+A|27| A: [ja] 
+B|28| B: [ja] 
+B|29| B: H 
+B|30| B: [dit] [zijn] dat [kraan] 
+B|31| B: [met] dat dinge [aan de] onderkant [en] dat dinge [aan de zijkant] 
+A|32| A: [ja] 
+A|33| A: [zijn] elf 
+A|34| A: het [kraan] 
+B|35| B: d 
+B|36| B: dat [kraan] 
+A|37| A: [ja] veertien 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : oké
+	Free: 
+	Constrained: 
+Turn ID=1| A | A : ja ik vinden dit een kraan
+	Free: Pattern=kraan, Pattern=dit, Pattern=ja, Pattern=een
+	Constrained: 
+Turn ID=2| B | B : kraan
+	Free: Pattern=kraan
+	Constrained: 
+Turn ID=3| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=4| B | B : beetje met twee van die ding op de voorkant of
+	Free: Pattern=van die, Pattern=met, Pattern=de
+	Constrained: Pattern=die
+Turn ID=5| A | A : nee bovenop zien je een een een kantelen vierkant met van die ja echt van die kraan eraan en aan de onder onder alsof het een wasbak zijn
+	Free: Pattern=ja, Pattern=een, Pattern=met, Pattern=een wasbak zijn, Pattern=van die, Pattern=en aan de, Pattern=kraan
+	Constrained: Pattern=aan de, Pattern=een, Pattern=die, Pattern=en, Pattern=zijn, Pattern=de, Pattern=aan
+Turn ID=6| B | B : hebben die zo'n voet
+	Free: Pattern=die, Pattern=hebben
+	Constrained: 
+Turn ID=7| B | B : zo'n
+	Free: 
+	Constrained: 
+Turn ID=8| A | A : ja hij hebben een één
+	Free: Pattern=één, Pattern=hebben, Pattern=ja, Pattern=een
+	Constrained: 
+Turn ID=9| B | B : of die een wasbak zijn even
+	Free: Pattern=een wasbak zijn, Pattern=die
+	Constrained: Pattern=zijn, Pattern=een
+Turn ID=10| A | A : hij hebben één arm
+	Free: Pattern=één, Pattern=hebben
+	Constrained: 
+Turn ID=11| B | B : wachten
+	Free: 
+	Constrained: 
+Turn ID=12| B | B : ja één die zo en dan één zo
+	Free: Pattern=die, Pattern=één, Pattern=ja, Pattern=en
+	Constrained: 
+Turn ID=13| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=14| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=15| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=16| B | B : M
+	Free: 
+	Constrained: 
+Turn ID=17| B | B : even kijken deze hebben dat met wat jou aan wat jou aan een kraantje doen denken
+	Free: Pattern=aan, Pattern=met, Pattern=hebben, Pattern=een
+	Constrained: 
+Turn ID=18| B | B : die met zo'n dinge
+	Free: Pattern=die, Pattern=met
+	Constrained: 
+Turn ID=19| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=20| A | A : ja en aan de zijkant en ja
+	Free: Pattern=aan de zijkant, Pattern=en aan de, Pattern=ja, Pattern=en
+	Constrained: Pattern=aan, Pattern=de, Pattern=en, Pattern=aan de
+Turn ID=21| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=22| B | B : en aan de onderkant ja
+	Free: Pattern=en aan de, Pattern=ja
+	Constrained: Pattern=aan de, Pattern=aan, Pattern=de, Pattern=en
+Turn ID=23| A | A : negen
+	Free: 
+	Constrained: 
+Turn ID=24| A | A : het kraan
+	Free: Pattern=kraan
+	Constrained: 
+Turn ID=25| B | B : kraan kraan
+	Free: Pattern=kraan
+	Constrained: 
+Turn ID=26| B | B : met dat dinge aan de onderkant
+	Free: Pattern=aan de, Pattern=met
+	Constrained: Pattern=aan, Pattern=de
+Turn ID=27| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=28| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=29| B | B : H
+	Free: 
+	Constrained: 
+Turn ID=30| B | B : dit zijn dat kraan
+	Free: Pattern=kraan, Pattern=dit, Pattern=zijn
+	Constrained: 
+Turn ID=31| B | B : met dat dinge aan de onderkant en dat dinge aan de zijkant
+	Free: Pattern=aan de zijkant, Pattern=aan de, Pattern=met, Pattern=en
+	Constrained: Pattern=aan, Pattern=de, Pattern=aan de
+Turn ID=32| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=33| A | A : zijn elf
+	Free: Pattern=zijn
+	Constrained: 
+Turn ID=34| A | A : het kraan
+	Free: Pattern=kraan
+	Constrained: 
+Turn ID=35| B | B : d
+	Free: 
+	Constrained: 
+Turn ID=36| B | B : dat kraan
+	Free: Pattern=kraan
+	Constrained: 
+Turn ID=37| A | A : ja veertien
+	Free: Pattern=ja
+	Constrained: 

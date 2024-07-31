@@ -1,0 +1,67 @@
+B|0| B: _en_ zitten er aan _het_ einde _van_ _die_ staaf _weer_ _een_ cirkel 
+B|1| B: oké dan _zijn_ _het_ F 
+A|2| A: nou _ja_ _dit zijn_ _een soort_ [van] _ja_ _ja_ ik noemen [het] de neuspiercing 
+A|3| A: _ja_ _met_ iets _erdoorheen en_ één haar 
+B|4| B: deze hebben ook _die_ bol [met] _die_ staaf [erdoorheen] [met] [een soort] cirkel aan [het] einde 
+B|5| B: [ja] 
+B|6| B: _dat zijn_ A 
+B|7| B: _die_ bol [met] _die_ staaf [erdoorheen] [met] _die_ schijf aan [het] einde 
+A|8| A: [die] gaan ik [weer] even opzoeken [ja] [dat zijn] numero vijf 
+B|9| B: [dat zijn] H 
+A|10| A: _dit zijn_ de piercing 
+A|11| A: de neuspiercing 
+B|12| B: [dit zijn] [die] [met] [die] bol [met] [dat] staafje [erdoorheen en] [die] cirkel aan [het] einde 
+A|13| A: de neuspiercing [dat zijn] numero vijf 
+A|14| A: de neuspiercing 
+A|15| A: [dat zijn] nummer vijftien 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : en zitten er aan het einde van die staaf weer een cirkel
+	Free: Pattern=een, Pattern=het, Pattern=die, Pattern=weer, Pattern=van, Pattern=en
+	Constrained: 
+Turn ID=1| B | B : oké dan zijn het F
+	Free: Pattern=het, Pattern=zijn
+	Constrained: 
+Turn ID=2| A | A : nou ja dit zijn een soort van ja ja ik noemen het de neuspiercing
+	Free: Pattern=ja, Pattern=het, Pattern=een soort, Pattern=van, Pattern=dit zijn
+	Constrained: Pattern=een, Pattern=zijn
+Turn ID=3| A | A : ja met iets erdoorheen en één haar
+	Free: Pattern=erdoorheen en, Pattern=ja, Pattern=met
+	Constrained: Pattern=en, Pattern=erdoorheen
+Turn ID=4| B | B : deze hebben ook die bol met die staaf erdoorheen met een soort cirkel aan het einde
+	Free: Pattern=het, Pattern=erdoorheen, Pattern=met, Pattern=die, Pattern=een soort
+	Constrained: Pattern=een
+Turn ID=5| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=6| B | B : dat zijn A
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=7| B | B : die bol met die staaf erdoorheen met die schijf aan het einde
+	Free: Pattern=het, Pattern=die, Pattern=erdoorheen, Pattern=met
+	Constrained: 
+Turn ID=8| A | A : die gaan ik weer even opzoeken ja dat zijn numero vijf
+	Free: Pattern=dat zijn, Pattern=weer, Pattern=ja, Pattern=die
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=9| B | B : dat zijn H
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=10| A | A : dit zijn de piercing
+	Free: Pattern=dit zijn
+	Constrained: Pattern=zijn
+Turn ID=11| A | A : de neuspiercing
+	Free: 
+	Constrained: 
+Turn ID=12| B | B : dit zijn die met die bol met dat staafje erdoorheen en die cirkel aan het einde
+	Free: Pattern=dat, Pattern=erdoorheen en, Pattern=het, Pattern=met, Pattern=die, Pattern=dit zijn
+	Constrained: Pattern=en, Pattern=zijn, Pattern=erdoorheen
+Turn ID=13| A | A : de neuspiercing dat zijn numero vijf
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=14| A | A : de neuspiercing
+	Free: 
+	Constrained: 
+Turn ID=15| A | A : dat zijn nummer vijftien
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn, Pattern=dat

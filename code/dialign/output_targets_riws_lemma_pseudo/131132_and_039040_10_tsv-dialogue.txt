@@ -1,0 +1,171 @@
+B|0| B: even loeren 
+B|1| B: _ja ik_ noemen dat _de_ theepot maar 
+A|2| A: nee deze _vinden_ [ik] niet leuk 
+A|3| A: deze kunnen [ik] niet hij _hebben_ niks herkenbaar _vinden_ [ik] 
+A|4| A: hij _hebben_ _het_ _zijn het_ _zijn_ _een_ _een_ cup hij _staan_ gewoon net 
+A|5| A: _en_ hij _hebben_ twee uitsteeksel _aan_ beide _kant_ 
+A|6| A: _die_ _die_ vrij op elkaar _lijken_ _één_ _zijn_ iets lang _één_ _zijn_ iets kort _met_ _een_ bolle _aan_ [de] uiteinde 
+A|7| A: _en dan_ _hebben_ _die_ _een soort_ [ja _ik] vinden_ _het een_ zonnepaneel _of_ zo _aan_ [de] achterkant 
+A|8| A: [ja] 
+A|9| A: [ja] oké 
+B|10| B: wat [ik] beschrijf als [een] theepot 
+B|11| B: weten je [die] nog 
+B|12| B: [ja] [ja] 
+B|13| B: [ja] 
+B|14| B: F 
+A|15| A: [ja] 
+A|16| A: [ja] 
+A|17| A: _en_ _het_ zonnepaneel [ja] 
+A|18| A: oké super nummer negen 
+B|19| B: [ik vinden] dit dus [een] theepot 
+B|20| B: [of] [een] gieter 
+B|21| B: [met] [die] armp _en die_ bollet eraan 
+B|22| B: [het] [lijken] alsof 
+B|23| B: [ja] 
+B|24| B: [het] [lijken] alsof [die] [aan] [één] [kant] dus zeggen maar [een soort] van handvat [hebben] [en dan] _met de_ ander [kant] [zijn [het] een] schenktuit 
+A|25| A: [ja] 
+A|26| A: [ik] [hebben] diegene [met de] [de] [de] zonnepaneel op [de] achterkant [en die] twee raar uitsteeksel [die] erdoorheen 
+A|27| A: [ja] 
+B|28| B: [ja] [vinden] L 
+B|29| B: gieter [of] theepot 
+B|30| B: bij mij [staan] 
+A|31| A: [ja] 
+A|32| A: oké 
+A|33| A: [ja] 
+A|34| A: ah daar nummer drie 
+A|35| A: [ja] 
+A|36| A: [ja] [de] zonnepaneel [en] [de] raar arm 
+A|37| A: [de] ongelijk arm 
+A|38| A: [ja] [de] ongelijk [ja] 
+A|39| A: [ja ik] zoeken hem 
+A|40| A: [ik] [hebben] hem 
+A|41| A: nummer vijf 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : even loeren
+	Free: 
+	Constrained: 
+Turn ID=1| B | B : ja ik noemen dat de theepot maar
+	Free: Pattern=ja ik, Pattern=de
+	Constrained: Pattern=ik, Pattern=ja
+Turn ID=2| A | A : nee deze vinden ik niet leuk
+	Free: Pattern=vinden, Pattern=ik
+	Constrained: 
+Turn ID=3| A | A : deze kunnen ik niet hij hebben niks herkenbaar vinden ik
+	Free: Pattern=vinden, Pattern=ik, Pattern=hebben
+	Constrained: 
+Turn ID=4| A | A : hij hebben het zijn het zijn een een cup hij staan gewoon net
+	Free: Pattern=zijn het, Pattern=het, Pattern=hebben, Pattern=zijn, Pattern=een, Pattern=staan
+	Constrained: Pattern=het, Pattern=zijn
+Turn ID=5| A | A : en hij hebben twee uitsteeksel aan beide kant
+	Free: Pattern=kant, Pattern=aan, Pattern=en, Pattern=hebben
+	Constrained: 
+Turn ID=6| A | A : die die vrij op elkaar lijken één zijn iets lang één zijn iets kort met een bolle aan de uiteinde
+	Free: Pattern=lijken, Pattern=een, Pattern=met, Pattern=die, Pattern=zijn, Pattern=één, Pattern=de, Pattern=aan
+	Constrained: 
+Turn ID=7| A | A : en dan hebben die een soort ja ik vinden het een zonnepaneel of zo aan de achterkant
+	Free: Pattern=het een, Pattern=of, Pattern=hebben, Pattern=die, Pattern=ja ik, Pattern=een soort, Pattern=de, Pattern=aan, Pattern=en dan, Pattern=ik vinden
+	Constrained: Pattern=een, Pattern=het, Pattern=ik, Pattern=en, Pattern=vinden, Pattern=ja
+Turn ID=8| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=9| A | A : ja oké
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=10| B | B : wat ik beschrijf als een theepot
+	Free: Pattern=ik, Pattern=een
+	Constrained: 
+Turn ID=11| B | B : weten je die nog
+	Free: Pattern=die
+	Constrained: 
+Turn ID=12| B | B : ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=13| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=14| B | B : F
+	Free: 
+	Constrained: 
+Turn ID=15| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=16| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=17| A | A : en het zonnepaneel ja
+	Free: Pattern=het, Pattern=en, Pattern=ja
+	Constrained: 
+Turn ID=18| A | A : oké super nummer negen
+	Free: 
+	Constrained: 
+Turn ID=19| B | B : ik vinden dit dus een theepot
+	Free: Pattern=ik vinden, Pattern=een
+	Constrained: Pattern=vinden, Pattern=ik
+Turn ID=20| B | B : of een gieter
+	Free: Pattern=een, Pattern=of
+	Constrained: 
+Turn ID=21| B | B : met die armp en die bollet eraan
+	Free: Pattern=en die, Pattern=die, Pattern=met
+	Constrained: Pattern=en, Pattern=die
+Turn ID=22| B | B : het lijken alsof
+	Free: Pattern=het, Pattern=lijken
+	Constrained: 
+Turn ID=23| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=24| B | B : het lijken alsof die aan één kant dus zeggen maar een soort van handvat hebben en dan met de ander kant zijn het een schenktuit
+	Free: Pattern=het een, Pattern=kant, Pattern=zijn het, Pattern=en dan, Pattern=lijken, Pattern=het, Pattern=hebben, Pattern=die, Pattern=een soort, Pattern=één, Pattern=met de, Pattern=aan
+	Constrained: Pattern=de, Pattern=een, Pattern=het, Pattern=met, Pattern=en, Pattern=zijn
+Turn ID=25| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=26| A | A : ik hebben diegene met de de de zonnepaneel op de achterkant en die twee raar uitsteeksel die erdoorheen
+	Free: Pattern=en die, Pattern=hebben, Pattern=die, Pattern=ik, Pattern=de, Pattern=met de
+	Constrained: Pattern=en, Pattern=die, Pattern=de, Pattern=met
+Turn ID=27| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=28| B | B : ja vinden L
+	Free: Pattern=vinden, Pattern=ja
+	Constrained: 
+Turn ID=29| B | B : gieter of theepot
+	Free: Pattern=of
+	Constrained: 
+Turn ID=30| B | B : bij mij staan
+	Free: Pattern=staan
+	Constrained: 
+Turn ID=31| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=32| A | A : oké
+	Free: 
+	Constrained: 
+Turn ID=33| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=34| A | A : ah daar nummer drie
+	Free: 
+	Constrained: 
+Turn ID=35| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=36| A | A : ja de zonnepaneel en de raar arm
+	Free: Pattern=en, Pattern=ja, Pattern=de
+	Constrained: 
+Turn ID=37| A | A : de ongelijk arm
+	Free: Pattern=de
+	Constrained: 
+Turn ID=38| A | A : ja de ongelijk ja
+	Free: Pattern=ja, Pattern=de
+	Constrained: 
+Turn ID=39| A | A : ja ik zoeken hem
+	Free: Pattern=ja ik
+	Constrained: Pattern=ik, Pattern=ja
+Turn ID=40| A | A : ik hebben hem
+	Free: Pattern=ik, Pattern=hebben
+	Constrained: 
+Turn ID=41| A | A : nummer vijf
+	Free: 
+	Constrained: 

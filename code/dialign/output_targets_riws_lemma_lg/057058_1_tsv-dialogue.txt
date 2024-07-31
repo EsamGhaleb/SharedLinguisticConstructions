@@ -1,0 +1,171 @@
+A|0| A: top 
+B|1| B: gaan wel goed 
+B|2| B: _ja_ _oké_ 
+B|3| B: _het_ _zijn_ hij _hebben_ _een_ _vierkantje_ _aan de voorkant_ gewoon _een_ _plat_ _vierkantje_ 
+A|4| A: [ja] we 
+A|5| A: [ja] 
+B|6| B: _en_ _twee van die_ gebouw _aan de_ of [ja] _die_ legoding _aan de zijkant_ 
+A|7| A: [en] dan [twee van die] 
+A|8| A: [ja] 
+A|9| A: [en] nog één antennetje bovenop 
+B|10| B: [ja] precies 
+A|11| A: [ja] vogelnes 
+A|12| A: nummer [twee] 
+A|13| A: deze [hebben] _weer_ zo'n antennetje bovenop [en] dan _dat vierkantje_ zo [aan de voorkant] [een] beetje tegenaan plakken _en die_ 
+A|14| A: _twee legoblok_ zeggen maar legoblokdingen [aan de zijkant] 
+B|15| B: [ja] [ja] 
+B|16| B: [ja] 
+B|17| B: [dat] _zijn_ G bij mij 
+B|18| B: [weer] [die] [twee legoblok] 
+A|19| A: [ja] 
+B|20| B: [aan de zijkant] _met_ [dat] _vierkant plat_ 
+A|21| A: [met] [de] [vierkant plat] [en] [het] _antenne_ 
+B|22| B: yes 
+B|23| B: yes 
+A|24| A: nummer negen 
+A|25| A: [oké] 
+A|26| A: deze _zijn weer_ [met] [het] _antenne_ bovenop [en] [de] [twee legoblok] [aan] één kant [en] [het] [vierkantje] voorop 
+B|27| B: [het] [vierkant] [ja] 
+B|28| B: [dat] [zijn] D bij mij 
+B|29| B: [het] [zijn weer] [die] [twee legoblok] 
+B|30| B: [met] [dat] [vierkant] [aan de voorkant] 
+A|31| A: [ja] 
+A|32| A: waar 
+B|33| B: [en die] [antenne] 
+A|34| A: [twee legoblok] zeggen je 
+B|35| B: [twee legoblok] yes 
+A|36| A: [ja] [met] [de] [ja] nummer één 
+B|37| B: [en] [dat vierkantje] 
+B|38| B: [oké] 
+A|39| A: deze [zijn weer] [met] [de] [twee legoblok] [aan] [die] kant [en] [het] [vierkantje] voorop antennetje 
+B|40| B: yes 
+B|41| B: B bij mij 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : top
+	Free: 
+	Constrained: 
+Turn ID=1| B | B : gaan wel goed
+	Free: 
+	Constrained: 
+Turn ID=2| B | B : ja oké
+	Free: Pattern=ja, Pattern=oké
+	Constrained: 
+Turn ID=3| B | B : het zijn hij hebben een vierkantje aan de voorkant gewoon een plat vierkantje
+	Free: Pattern=een, Pattern=het, Pattern=hebben, Pattern=vierkantje, Pattern=plat, Pattern=zijn, Pattern=aan de voorkant
+	Constrained: Pattern=aan, Pattern=de, Pattern=aan de
+Turn ID=4| A | A : ja we
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=5| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=6| B | B : en twee van die gebouw aan de of ja die legoding aan de zijkant
+	Free: Pattern=twee van die, Pattern=ja, Pattern=aan de, Pattern=aan de zijkant, Pattern=die, Pattern=en
+	Constrained: Pattern=twee, Pattern=aan de, Pattern=die, Pattern=de, Pattern=aan
+Turn ID=7| A | A : en dan twee van die
+	Free: Pattern=twee van die, Pattern=en
+	Constrained: Pattern=die, Pattern=twee
+Turn ID=8| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=9| A | A : en nog één antennetje bovenop
+	Free: Pattern=en
+	Constrained: 
+Turn ID=10| B | B : ja precies
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=11| A | A : ja vogelnes
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=12| A | A : nummer twee
+	Free: Pattern=twee
+	Constrained: 
+Turn ID=13| A | A : deze hebben weer zo'n antennetje bovenop en dan dat vierkantje zo aan de voorkant een beetje tegenaan plakken en die
+	Free: Pattern=en die, Pattern=een, Pattern=hebben, Pattern=dat vierkantje, Pattern=en, Pattern=weer, Pattern=aan de voorkant
+	Constrained: Pattern=dat, Pattern=aan de, Pattern=vierkantje, Pattern=die, Pattern=en, Pattern=de, Pattern=aan
+Turn ID=14| A | A : twee legoblok zeggen maar legoblokdingen aan de zijkant
+	Free: Pattern=aan de zijkant, Pattern=twee legoblok
+	Constrained: Pattern=twee, Pattern=aan, Pattern=de, Pattern=aan de
+Turn ID=15| B | B : ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=16| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=17| B | B : dat zijn G bij mij
+	Free: Pattern=zijn, Pattern=dat
+	Constrained: 
+Turn ID=18| B | B : weer die twee legoblok
+	Free: Pattern=twee legoblok, Pattern=die, Pattern=weer
+	Constrained: Pattern=twee
+Turn ID=19| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=20| B | B : aan de zijkant met dat vierkant plat
+	Free: Pattern=aan de zijkant, Pattern=vierkant plat, Pattern=met, Pattern=dat
+	Constrained: Pattern=aan de, Pattern=plat, Pattern=vierkant, Pattern=de, Pattern=aan
+Turn ID=21| A | A : met de vierkant plat en het antenne
+	Free: Pattern=de, Pattern=vierkant plat, Pattern=het, Pattern=met, Pattern=antenne, Pattern=en
+	Constrained: Pattern=vierkant, Pattern=plat
+Turn ID=22| B | B : yes
+	Free: 
+	Constrained: 
+Turn ID=23| B | B : yes
+	Free: 
+	Constrained: 
+Turn ID=24| A | A : nummer negen
+	Free: 
+	Constrained: 
+Turn ID=25| A | A : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=26| A | A : deze zijn weer met het antenne bovenop en de twee legoblok aan één kant en het vierkantje voorop
+	Free: Pattern=het, Pattern=en, Pattern=zijn weer, Pattern=de, Pattern=aan, Pattern=vierkantje, Pattern=met, Pattern=twee legoblok, Pattern=antenne
+	Constrained: Pattern=zijn, Pattern=twee, Pattern=weer
+Turn ID=27| B | B : het vierkant ja
+	Free: Pattern=het, Pattern=vierkant, Pattern=ja
+	Constrained: 
+Turn ID=28| B | B : dat zijn D bij mij
+	Free: Pattern=zijn, Pattern=dat
+	Constrained: 
+Turn ID=29| B | B : het zijn weer die twee legoblok
+	Free: Pattern=twee legoblok, Pattern=zijn weer, Pattern=die, Pattern=het
+	Constrained: Pattern=zijn, Pattern=twee, Pattern=weer
+Turn ID=30| B | B : met dat vierkant aan de voorkant
+	Free: Pattern=aan de voorkant, Pattern=vierkant, Pattern=met, Pattern=dat
+	Constrained: Pattern=aan, Pattern=de, Pattern=aan de
+Turn ID=31| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=32| A | A : waar
+	Free: 
+	Constrained: 
+Turn ID=33| B | B : en die antenne
+	Free: Pattern=en die, Pattern=antenne
+	Constrained: Pattern=die, Pattern=en
+Turn ID=34| A | A : twee legoblok zeggen je
+	Free: Pattern=twee legoblok
+	Constrained: Pattern=twee
+Turn ID=35| B | B : twee legoblok yes
+	Free: Pattern=twee legoblok
+	Constrained: Pattern=twee
+Turn ID=36| A | A : ja met de ja nummer één
+	Free: Pattern=de, Pattern=met, Pattern=ja
+	Constrained: 
+Turn ID=37| B | B : en dat vierkantje
+	Free: Pattern=dat vierkantje, Pattern=en
+	Constrained: Pattern=vierkantje, Pattern=dat
+Turn ID=38| B | B : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=39| A | A : deze zijn weer met de twee legoblok aan die kant en het vierkantje voorop antennetje
+	Free: Pattern=het, Pattern=die, Pattern=twee legoblok, Pattern=en, Pattern=zijn weer, Pattern=de, Pattern=aan, Pattern=vierkantje, Pattern=met
+	Constrained: Pattern=zijn, Pattern=twee, Pattern=weer
+Turn ID=40| B | B : yes
+	Free: 
+	Constrained: 
+Turn ID=41| B | B : B bij mij
+	Free: 
+	Constrained: 

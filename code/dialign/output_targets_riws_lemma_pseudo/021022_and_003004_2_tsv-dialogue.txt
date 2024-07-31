@@ -1,0 +1,119 @@
+B|0| B: _ja _ja_ ja_ 
+B|1| B: _en _dan_ hebben_ _die_ 
+B|2| B: _ja_ _en een_ fliebel _aan de_ achterkant 
+B|3| B: yes 
+B|4| B: J 
+A|5| A: hun [hebben] eigenlijk [de] enig vorm _met_ [een] soort piramide _bovenop_ 
+A|6| A: [en dan] [ja] [dan hebben] hij onderom nog iets [en] nog [aan de] zijkant [een] dikk blok [en] [aan] linkerkant [hebben] hij zo'n klein 
+A|7| A: spijker [ja ja] 
+A|8| A: [ja] o daar staan hij 
+A|9| A: [ja] dus [die] dat raar plateau 
+A|10| A: [ja] 
+A|11| A: [ja] 
+A|12| A: dat _zijn_ [dan] numero zeven 
+B|13| B: _dit zijn met_ [de] driehoekpunt [bovenop] het kop _met die_ _heel_ groot _neus_ 
+B|14| B: [met] het rond wiele link onderin 
+B|15| B: puntmuts 
+B|16| B: [de] puntmuts 
+B|17| B: [ja] E 
+A|18| A: [ja] [dit zijn [met] die] piramide weer [bovenop] [met] zo'n [heel] dik [neus] achtig blok [en dan] spijker spijker [aan de] zijkant [ja] 
+B|19| B: [dit zijn] [de] puntmuts 
+B|20| B: [ja] [met] [de] groot [neus] 
+A|21| A: [ja] 
+A|22| A: dat [zijn] [dan] nummertje tien 
+B|23| B: [ja] G 
+A|24| A: [dit zijn] [die] [met die] piramide [bovenop] [en] [met] dat spijker [aan de] zijkant [en een] koek erbij 
+B|25| B: [de] puntmuts 
+B|26| B: [met] [de] groot [neus] 
+A|27| A: [ja] 
+A|28| A: dat [zijn] [dan] nummertje tien 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : ja ja ja
+	Free: Pattern=ja ja
+	Constrained: Pattern=ja
+Turn ID=1| B | B : en dan hebben die
+	Free: Pattern=dan hebben, Pattern=en dan, Pattern=die
+	Constrained: Pattern=en, Pattern=dan, Pattern=hebben
+Turn ID=2| B | B : ja en een fliebel aan de achterkant
+	Free: Pattern=aan de, Pattern=en een, Pattern=ja
+	Constrained: Pattern=een, Pattern=de, Pattern=en, Pattern=aan
+Turn ID=3| B | B : yes
+	Free: 
+	Constrained: 
+Turn ID=4| B | B : J
+	Free: 
+	Constrained: 
+Turn ID=5| A | A : hun hebben eigenlijk de enig vorm met een soort piramide bovenop
+	Free: Pattern=bovenop, Pattern=de, Pattern=een, Pattern=hebben, Pattern=met
+	Constrained: 
+Turn ID=6| A | A : en dan ja dan hebben hij onderom nog iets en nog aan de zijkant een dikk blok en aan linkerkant hebben hij zo'n klein
+	Free: Pattern=en dan, Pattern=aan de, Pattern=een, Pattern=hebben, Pattern=dan hebben, Pattern=en, Pattern=aan, Pattern=ja
+	Constrained: Pattern=dan, Pattern=hebben, Pattern=en, Pattern=de, Pattern=aan
+Turn ID=7| A | A : spijker ja ja
+	Free: Pattern=ja ja
+	Constrained: Pattern=ja
+Turn ID=8| A | A : ja o daar staan hij
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=9| A | A : ja dus die dat raar plateau
+	Free: Pattern=ja, Pattern=die
+	Constrained: 
+Turn ID=10| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=11| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=12| A | A : dat zijn dan numero zeven
+	Free: Pattern=zijn, Pattern=dan
+	Constrained: 
+Turn ID=13| B | B : dit zijn met de driehoekpunt bovenop het kop met die heel groot neus
+	Free: Pattern=heel, Pattern=de, Pattern=dit zijn met, Pattern=neus, Pattern=met die, Pattern=bovenop
+	Constrained: Pattern=dit zijn, Pattern=zijn, Pattern=met, Pattern=die
+Turn ID=14| B | B : met het rond wiele link onderin
+	Free: Pattern=met
+	Constrained: 
+Turn ID=15| B | B : puntmuts
+	Free: 
+	Constrained: 
+Turn ID=16| B | B : de puntmuts
+	Free: Pattern=de
+	Constrained: 
+Turn ID=17| B | B : ja E
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=18| A | A : ja dit zijn met die piramide weer bovenop met zo'n heel dik neus achtig blok en dan spijker spijker aan de zijkant ja
+	Free: Pattern=heel, Pattern=ja, Pattern=en dan, Pattern=aan de, Pattern=dit zijn met, Pattern=neus, Pattern=met, Pattern=met die, Pattern=bovenop
+	Constrained: Pattern=dan, Pattern=met, Pattern=die, Pattern=en, Pattern=zijn, Pattern=dit zijn, Pattern=de, Pattern=aan
+Turn ID=19| B | B : dit zijn de puntmuts
+	Free: Pattern=dit zijn, Pattern=de
+	Constrained: Pattern=zijn
+Turn ID=20| B | B : ja met de groot neus
+	Free: Pattern=ja, Pattern=de, Pattern=neus, Pattern=met
+	Constrained: 
+Turn ID=21| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=22| A | A : dat zijn dan nummertje tien
+	Free: Pattern=zijn, Pattern=dan
+	Constrained: 
+Turn ID=23| B | B : ja G
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=24| A | A : dit zijn die met die piramide bovenop en met dat spijker aan de zijkant en een koek erbij
+	Free: Pattern=aan de, Pattern=met, Pattern=die, Pattern=en, Pattern=en een, Pattern=dit zijn, Pattern=met die, Pattern=bovenop
+	Constrained: Pattern=een, Pattern=met, Pattern=die, Pattern=en, Pattern=zijn, Pattern=de, Pattern=aan
+Turn ID=25| B | B : de puntmuts
+	Free: Pattern=de
+	Constrained: 
+Turn ID=26| B | B : met de groot neus
+	Free: Pattern=de, Pattern=neus, Pattern=met
+	Constrained: 
+Turn ID=27| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=28| A | A : dat zijn dan nummertje tien
+	Free: Pattern=zijn, Pattern=dan
+	Constrained: 

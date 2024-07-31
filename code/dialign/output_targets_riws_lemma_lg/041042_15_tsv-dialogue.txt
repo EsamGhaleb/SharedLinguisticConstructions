@@ -1,0 +1,127 @@
+B|0| B: oké nu _hebben ik_ hem 
+B|1| B: _het_ _zijn_ _een_ soort van _ja_ _ook_ _dat_ komme _en_ _ik_ _ik_ zien _het_ zeggen maar veel als _een_ _slurf_ 
+B|2| B: _en_ dan _een_ vierkant eromheen 
+B|3| B: _dus_ _het_ _zijn_ _een_ komme 
+A|4| A: [ja] 
+B|5| B: _en daar zitten_ dan _een_ soort van _slurf_ _aan_ _en daar zitten_ dan _zo'n_ vierkant _zitten_ dan helemaal eromheen 
+A|6| A: [ja] 
+A|7| A: [ja] [en] _twee_ torent in _de_ lucht 
+B|8| B: [ja] 
+A|9| A: [ja] 
+A|10| A: inderdaad hij _doorboort_ eigenlijk [een] beetje _de grond_ 
+B|11| B: [ja] 
+A|12| A: zo [hebben ik] [het] _dat zijn_ bij mij zes 
+A|13| A: [dus] nou zes [en] geel 
+A|14| A: _dit zijn met die slurf_ [en] _die twee_ tentakel omhoog 
+A|15| A: [en] [ja] waar _die_ eigenlijk _de grond doorboort_ [dus] je [hebben] [zo'n] [zo'n] plat vlak [en daar zitten] _die_ half boven half onder 
+B|16| B: [ja] 
+B|17| B: [dat zijn] C 
+B|18| B: [dit zijn] [die] [die slurf] [die] zeggen maar [de grond doorboort] 
+B|19| B: [met [die] twee] punt bovenop _aan de zijkant_ [een] armp 
+A|20| A: [ja] 
+A|21| A: [dat zijn] nummer dertien 
+A|22| A: [dit zijn] [de] [slurf] [en] [de] basisvorm [die] [doorboort] [de grond] [twee] tentakel in [de] lucht [en] nog één 
+A|23| A: [aan de zijkant] 
+B|24| B: even [ja] 
+B|25| B: [dat zijn] J 
+B|26| B: [dit zijn met die slurf] [die] [de grond doorboort] 
+A|27| A: [ja] 
+A|28| A: [dat zijn] negen 
+A|29| A: [dit zijn met] [de] [slurf] [en] [die] [ook] [de grond doorboort] 
+B|30| B: [dat zijn] N 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : oké nu hebben ik hem
+	Free: Pattern=hebben ik
+	Constrained: Pattern=hebben, Pattern=ik
+Turn ID=1| B | B : het zijn een soort van ja ook dat komme en ik ik zien het zeggen maar veel als een slurf
+	Free: Pattern=dat, Pattern=ja, Pattern=ook, Pattern=slurf, Pattern=een, Pattern=het, Pattern=ik, Pattern=en, Pattern=zijn
+	Constrained: 
+Turn ID=2| B | B : en dan een vierkant eromheen
+	Free: Pattern=een, Pattern=en
+	Constrained: 
+Turn ID=3| B | B : dus het zijn een komme
+	Free: Pattern=zijn, Pattern=een, Pattern=het, Pattern=dus
+	Constrained: 
+Turn ID=4| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=5| B | B : en daar zitten dan een soort van slurf aan en daar zitten dan zo'n vierkant zitten dan helemaal eromheen
+	Free: Pattern=zo'n, Pattern=aan, Pattern=slurf, Pattern=zitten, Pattern=een, Pattern=en daar zitten
+	Constrained: Pattern=en, Pattern=zitten
+Turn ID=6| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=7| A | A : ja en twee torent in de lucht
+	Free: Pattern=ja, Pattern=de, Pattern=en, Pattern=twee
+	Constrained: 
+Turn ID=8| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=9| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=10| A | A : inderdaad hij doorboort eigenlijk een beetje de grond
+	Free: Pattern=de grond, Pattern=een, Pattern=doorboort
+	Constrained: Pattern=de
+Turn ID=11| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=12| A | A : zo hebben ik het dat zijn bij mij zes
+	Free: Pattern=hebben ik, Pattern=dat zijn, Pattern=het
+	Constrained: Pattern=zijn, Pattern=hebben, Pattern=ik, Pattern=dat
+Turn ID=13| A | A : dus nou zes en geel
+	Free: Pattern=dus, Pattern=en
+	Constrained: 
+Turn ID=14| A | A : dit zijn met die slurf en die twee tentakel omhoog
+	Free: Pattern=dit zijn met die slurf, Pattern=die twee, Pattern=en
+	Constrained: Pattern=met die, Pattern=twee, Pattern=die slurf, Pattern=slurf, Pattern=dit zijn met, Pattern=die, Pattern=zijn, Pattern=dit zijn
+Turn ID=15| A | A : en ja waar die eigenlijk de grond doorboort dus je hebben zo'n zo'n plat vlak en daar zitten die half boven half onder
+	Free: Pattern=zo'n, Pattern=en daar zitten, Pattern=hebben, Pattern=die, Pattern=en, Pattern=de grond doorboort, Pattern=dus, Pattern=ja
+	Constrained: Pattern=de grond, Pattern=de, Pattern=doorboort, Pattern=zitten, Pattern=en
+Turn ID=16| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=17| B | B : dat zijn C
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=18| B | B : dit zijn die die slurf die zeggen maar de grond doorboort
+	Free: Pattern=de grond doorboort, Pattern=die slurf, Pattern=dit zijn, Pattern=die
+	Constrained: Pattern=de grond, Pattern=de, Pattern=slurf, Pattern=doorboort, Pattern=die, Pattern=zijn
+Turn ID=19| B | B : met die twee punt bovenop aan de zijkant een armp
+	Free: Pattern=aan de zijkant, Pattern=met die, Pattern=die twee, Pattern=een
+	Constrained: Pattern=twee, Pattern=aan, Pattern=de, Pattern=die
+Turn ID=20| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=21| A | A : dat zijn nummer dertien
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=22| A | A : dit zijn de slurf en de basisvorm die doorboort de grond twee tentakel in de lucht en nog één
+	Free: Pattern=de grond, Pattern=twee, Pattern=de, Pattern=slurf, Pattern=doorboort, Pattern=die, Pattern=en, Pattern=dit zijn
+	Constrained: Pattern=zijn, Pattern=de
+Turn ID=23| A | A : aan de zijkant
+	Free: Pattern=aan de zijkant
+	Constrained: Pattern=de, Pattern=aan
+Turn ID=24| B | B : even ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=25| B | B : dat zijn J
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=26| B | B : dit zijn met die slurf die de grond doorboort
+	Free: Pattern=dit zijn met die slurf, Pattern=de grond doorboort, Pattern=die
+	Constrained: Pattern=de, Pattern=die slurf, Pattern=slurf, Pattern=dit zijn met, Pattern=doorboort, Pattern=die, Pattern=zijn, Pattern=dit zijn, Pattern=met die, Pattern=de grond
+Turn ID=27| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=28| A | A : dat zijn negen
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=29| A | A : dit zijn met de slurf en die ook de grond doorboort
+	Free: Pattern=de, Pattern=ook, Pattern=slurf, Pattern=dit zijn met, Pattern=die, Pattern=en, Pattern=de grond doorboort
+	Constrained: Pattern=de grond, Pattern=de, Pattern=doorboort, Pattern=zijn, Pattern=dit zijn
+Turn ID=30| B | B : dat zijn N
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn, Pattern=dat

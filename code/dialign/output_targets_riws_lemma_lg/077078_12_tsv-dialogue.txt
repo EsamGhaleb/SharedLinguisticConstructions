@@ -1,0 +1,83 @@
+A|0| A: oké dit _zijn_ _dat_ bakkie _en dan_ _hebben_ je _een_ soort aan _de_ zijkant zitten er _een_ soort buis maar daar zitten _een_ soort hapje uit _het zijn_ van _het_ lijken _een_ beetje op _een_ soort _Pacman_ maar _dan een_ buisje _en_ daarin zitten _een_ soort groot _spijker_ 
+B|1| B: _ja_ duidelijk 
+A|2| A: _en_ aan _de_ ander kant zitten zo'n uitvormplateau wat rond _zijn_ 
+B|3| B: _ja_ 
+B|4| B: [het zijn] letter L 
+B|5| B: hij [hebben] [een] Pacmannetje [en [dan] een] _spijker erin_ 
+A|6| A: [ja] 
+A|7| A: _met dat tafel_ 
+B|8| B: [ja] [met dat tafel] 
+A|9| A: nummer zeven 
+A|10| A: oké dit [zijn] dus zeggen maar [dat] komme waar die _Pacman met_ die [spijker erin] uitsteken _en het_ bijzettafel 
+B|11| B: [ja] 
+B|12| B: letter C 
+B|13| B: [het zijn] [de] _Pacman met de spijker en het_ platformp 
+A|14| A: yes 
+A|15| A: nummer één 
+A|16| A: even kijken komme [met] [Pacman met de spijker en het] bijzettafel 
+B|17| B: [ja] letter A 
+B|18| B: [het zijn] [het] [Pacman met] [een] [spijker] 
+A|19| A: nummer dertien 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : oké dit zijn dat bakkie en dan hebben je een soort aan de zijkant zitten er een soort buis maar daar zitten een soort hapje uit het zijn van het lijken een beetje op een soort Pacman maar dan een buisje en daarin zitten een soort groot spijker
+	Free: Pattern=dat, Pattern=de, Pattern=en dan, Pattern=een, Pattern=het, Pattern=hebben, Pattern=Pacman, Pattern=en, Pattern=zijn, Pattern=spijker, Pattern=dan een, Pattern=het zijn
+	Constrained: Pattern=een, Pattern=zijn, Pattern=en, Pattern=het
+Turn ID=1| B | B : ja duidelijk
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=2| A | A : en aan de ander kant zitten zo'n uitvormplateau wat rond zijn
+	Free: Pattern=en, Pattern=zijn, Pattern=de
+	Constrained: 
+Turn ID=3| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=4| B | B : het zijn letter L
+	Free: Pattern=het zijn
+	Constrained: Pattern=zijn, Pattern=het
+Turn ID=5| B | B : hij hebben een Pacmannetje en dan een spijker erin
+	Free: Pattern=en dan, Pattern=een, Pattern=hebben, Pattern=dan een, Pattern=spijker erin
+	Constrained: Pattern=en, Pattern=spijker, Pattern=een
+Turn ID=6| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=7| A | A : met dat tafel
+	Free: Pattern=met dat tafel
+	Constrained: Pattern=dat, Pattern=met
+Turn ID=8| B | B : ja met dat tafel
+	Free: Pattern=met dat tafel, Pattern=ja
+	Constrained: Pattern=dat, Pattern=met
+Turn ID=9| A | A : nummer zeven
+	Free: 
+	Constrained: 
+Turn ID=10| A | A : oké dit zijn dus zeggen maar dat komme waar die Pacman met die spijker erin uitsteken en het bijzettafel
+	Free: Pattern=dat, Pattern=en het, Pattern=zijn, Pattern=spijker erin, Pattern=Pacman met
+	Constrained: Pattern=het, Pattern=Pacman, Pattern=met, Pattern=en, Pattern=spijker
+Turn ID=11| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=12| B | B : letter C
+	Free: 
+	Constrained: 
+Turn ID=13| B | B : het zijn de Pacman met de spijker en het platformp
+	Free: Pattern=Pacman met de spijker en het, Pattern=het zijn, Pattern=de
+	Constrained: Pattern=de, Pattern=en het, Pattern=het, Pattern=Pacman, Pattern=met, Pattern=en, Pattern=zijn, Pattern=Pacman met, Pattern=spijker
+Turn ID=14| A | A : yes
+	Free: 
+	Constrained: 
+Turn ID=15| A | A : nummer één
+	Free: 
+	Constrained: 
+Turn ID=16| A | A : even kijken komme met Pacman met de spijker en het bijzettafel
+	Free: Pattern=Pacman met de spijker en het, Pattern=met
+	Constrained: Pattern=de, Pattern=en het, Pattern=het, Pattern=Pacman, Pattern=met, Pattern=en, Pattern=Pacman met, Pattern=spijker
+Turn ID=17| B | B : ja letter A
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=18| B | B : het zijn het Pacman met een spijker
+	Free: Pattern=een, Pattern=het, Pattern=het zijn, Pattern=Pacman met, Pattern=spijker
+	Constrained: Pattern=zijn, Pattern=met, Pattern=het, Pattern=Pacman
+Turn ID=19| A | A : nummer dertien
+	Free: 
+	Constrained: 

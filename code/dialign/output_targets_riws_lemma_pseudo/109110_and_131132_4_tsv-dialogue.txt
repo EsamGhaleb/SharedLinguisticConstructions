@@ -1,0 +1,135 @@
+A|0| A: o deze lijken op flappy bird 
+A|1| A: o misschien moeten je _dat_ zien als je zeggen _maar het zijn_ gewoon _die_ mok dan en daarboven zitten _nee_ aan _de_ rechterkant zitten zeggen _maar_ _een_ _isteken_ 
+A|2| A: _dat zijn_ wat jij net zeggen 
+A|3| A: _ja_ 
+A|4| A: _ja_ 
+B|5| B: [een] vogel 
+B|6| B: [nee] 
+B|7| B: oké 
+B|8| B: [ja] [ja] [zijn] zo'n soort [isteken] 
+B|9| B: [ja] 
+B|10| B: zo'n soort [isteken] 
+B|11| B: [ja] [ja] 
+B|12| B: [ja] zo'n soort [ja] 
+B|13| B: met zo'n 
+B|14| B: [ja] 
+B|15| B: _ja ik_ vinden [het] veel [een] soort [isteken] [maar het zijn] inderdaad wel [een] soort vogel dus [dat zijn] _bij mij_ I 
+A|16| A: [ja] _die_ weten [ik] meteen twee 
+B|17| B: oké _nou_ hebben [ik] [die] vogel 
+B|18| B: _in_ zo'n web _zo_ [ja] 
+A|19| A: flappy bird 
+A|20| A: voor jou 
+B|21| B: oké _even_ _kijken_ [dat zijn] _bij mij_ M 
+A|22| A: goed [zo] 
+A|23| A: negen 
+A|24| A: [ja ik] zullen [ik] [zijn] [even] naar [dat] ding aan [het] [kijken] o o negen trouwens [nou] en [ik] denken van 
+A|25| A: eerst zien [ik] er niks [in] en toen zeggen [het] lijken [het] op [een] mens en toen keek [ik] [even] goed en toen lijken [het] flappy bird 
+B|26| B: nu hebben [ik] [die] vogel 
+A|27| A: flappy bird 
+A|28| A: [bij mij] zitten hij onderin _niet_ voorzeggen 
+B|29| B: [de] vogel [dat zijn] F 
+A|30| A: [ja] zes 
+B|31| B: kunnen ook [niet] 
+B|32| B: [die] vogel 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : o deze lijken op flappy bird
+	Free: 
+	Constrained: 
+Turn ID=1| A | A : o misschien moeten je dat zien als je zeggen maar het zijn gewoon die mok dan en daarboven zitten nee aan de rechterkant zitten zeggen maar een isteken
+	Free: Pattern=dat, Pattern=de, Pattern=een, Pattern=nee, Pattern=maar het zijn, Pattern=die, Pattern=isteken, Pattern=maar
+	Constrained: Pattern=zijn, Pattern=het, Pattern=maar
+Turn ID=2| A | A : dat zijn wat jij net zeggen
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=3| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=4| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=5| B | B : een vogel
+	Free: Pattern=een
+	Constrained: 
+Turn ID=6| B | B : nee
+	Free: Pattern=nee
+	Constrained: 
+Turn ID=7| B | B : oké
+	Free: 
+	Constrained: 
+Turn ID=8| B | B : ja ja zijn zo'n soort isteken
+	Free: Pattern=zijn, Pattern=ja, Pattern=isteken
+	Constrained: 
+Turn ID=9| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=10| B | B : zo'n soort isteken
+	Free: Pattern=isteken
+	Constrained: 
+Turn ID=11| B | B : ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=12| B | B : ja zo'n soort ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=13| B | B : met zo'n
+	Free: 
+	Constrained: 
+Turn ID=14| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=15| B | B : ja ik vinden het veel een soort isteken maar het zijn inderdaad wel een soort vogel dus dat zijn bij mij I
+	Free: Pattern=dat zijn, Pattern=een, Pattern=het, Pattern=maar het zijn, Pattern=ja ik, Pattern=isteken, Pattern=bij mij
+	Constrained: Pattern=dat, Pattern=ja, Pattern=het, Pattern=ik, Pattern=zijn, Pattern=maar
+Turn ID=16| A | A : ja die weten ik meteen twee
+	Free: Pattern=ik, Pattern=die, Pattern=ja
+	Constrained: 
+Turn ID=17| B | B : oké nou hebben ik die vogel
+	Free: Pattern=ik, Pattern=die, Pattern=nou
+	Constrained: 
+Turn ID=18| B | B : in zo'n web zo ja
+	Free: Pattern=in, Pattern=ja, Pattern=zo
+	Constrained: 
+Turn ID=19| A | A : flappy bird
+	Free: 
+	Constrained: 
+Turn ID=20| A | A : voor jou
+	Free: 
+	Constrained: 
+Turn ID=21| B | B : oké even kijken dat zijn bij mij M
+	Free: Pattern=bij mij, Pattern=dat zijn, Pattern=kijken, Pattern=even
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=22| A | A : goed zo
+	Free: Pattern=zo
+	Constrained: 
+Turn ID=23| A | A : negen
+	Free: 
+	Constrained: 
+Turn ID=24| A | A : ja ik zullen ik zijn even naar dat ding aan het kijken o o negen trouwens nou en ik denken van
+	Free: Pattern=dat, Pattern=nou, Pattern=even, Pattern=kijken, Pattern=het, Pattern=ja ik, Pattern=ik, Pattern=zijn
+	Constrained: Pattern=ik, Pattern=ja
+Turn ID=25| A | A : eerst zien ik er niks in en toen zeggen het lijken het op een mens en toen keek ik even goed en toen lijken het flappy bird
+	Free: Pattern=even, Pattern=een, Pattern=het, Pattern=in, Pattern=ik
+	Constrained: 
+Turn ID=26| B | B : nu hebben ik die vogel
+	Free: Pattern=ik, Pattern=die
+	Constrained: 
+Turn ID=27| A | A : flappy bird
+	Free: 
+	Constrained: 
+Turn ID=28| A | A : bij mij zitten hij onderin niet voorzeggen
+	Free: Pattern=bij mij, Pattern=niet
+	Constrained: 
+Turn ID=29| B | B : de vogel dat zijn F
+	Free: Pattern=dat zijn, Pattern=de
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=30| A | A : ja zes
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=31| B | B : kunnen ook niet
+	Free: Pattern=niet
+	Constrained: 
+Turn ID=32| B | B : die vogel
+	Free: Pattern=die
+	Constrained: 

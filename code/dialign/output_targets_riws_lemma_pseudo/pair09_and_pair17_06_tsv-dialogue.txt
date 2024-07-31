@@ -1,0 +1,115 @@
+B|0| B: _ja_ 
+B|1| B: _ja_ 
+B|2| B: _ja_ f 
+A|3| A: okee _dit zijn_ ook weer _het_ kop _en_ _hebben_ _een_ _neus_ _en_ _die_ _hebben_ iets door _zijn_ _neus_ heen 
+A|4| A: _en_ _het lijken_ _op_ _een_ spijker maar dan _zitten_ _er_ geen punt _zijn_ geen puntig spijker 
+A|5| A: _en_ hij _hebben_ _een_ klein kuifje achter 
+A|6| A: dus zo _een_ _neus_ 
+A|7| A: _en_ dan iets erdoorheen zo 
+A|8| A: _en aan de_ rechterkant _hebben_ hij dus _aan_ dat ding dat erdoorheen _zitten_ _zitten_ _zo'n_ rond 
+A|9| A: [ja] 
+A|10| A: [ja] _een_ kuifje 
+B|11| B: _deze _hebben_ zo'n_ bal voorop [en] [er] [zitten] [een] staaf in [het lijken] [een] beetje [op] [de] [neus] van [een] helikopter 
+B|12| B: [en aan de] [een] kant van [de] staaf [zijn] [een] cirkel 
+B|13| B: [en] bovenop [de] emmer [zijn] [een] soort van lepeltje handvaa 
+A|14| A: ah 
+A|15| A: waar [zitten] _die_ 
+A|16| A: [ja] [ja] _die_ [hebben zo'n] klein 
+A|17| A: dat [zijn] nummer tien 
+B|18| B: [ja] o 
+B|19| B: _deze_ [zijn] [de] helikopter 
+A|20| A: [deze hebben] [een] spijker door [zijn] [neus] 
+A|21| A: niet [een] echt spijker 
+A|22| A: door [zijn] [neus] heen 
+A|23| A: daar [zitten] hij nummer negen 
+B|24| B: [ja] d 
+A|25| A: [deze hebben] [de] spijker door [zijn] [neus] 
+B|26| B: [dit zijn] [die] helikopter 
+A|27| A: dat [zijn] nummer zeven 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=1| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=2| B | B : ja f
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=3| A | A : okee dit zijn ook weer het kop en hebben een neus en die hebben iets door zijn neus heen
+	Free: Pattern=een, Pattern=het, Pattern=hebben, Pattern=neus, Pattern=die, Pattern=en, Pattern=zijn, Pattern=dit zijn
+	Constrained: Pattern=zijn
+Turn ID=4| A | A : en het lijken op een spijker maar dan zitten er geen punt zijn geen puntig spijker
+	Free: Pattern=het lijken, Pattern=op, Pattern=een, Pattern=zitten, Pattern=er, Pattern=en, Pattern=zijn
+	Constrained: Pattern=het
+Turn ID=5| A | A : en hij hebben een klein kuifje achter
+	Free: Pattern=een, Pattern=en, Pattern=hebben
+	Constrained: 
+Turn ID=6| A | A : dus zo een neus
+	Free: Pattern=een, Pattern=neus
+	Constrained: 
+Turn ID=7| A | A : en dan iets erdoorheen zo
+	Free: Pattern=en
+	Constrained: 
+Turn ID=8| A | A : en aan de rechterkant hebben hij dus aan dat ding dat erdoorheen zitten zitten zo'n rond
+	Free: Pattern=zo'n, Pattern=aan, Pattern=hebben, Pattern=zitten, Pattern=en aan de
+	Constrained: Pattern=aan, Pattern=en, Pattern=de
+Turn ID=9| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=10| A | A : ja een kuifje
+	Free: Pattern=een, Pattern=ja
+	Constrained: 
+Turn ID=11| B | B : deze hebben zo'n bal voorop en er zitten een staaf in het lijken een beetje op de neus van een helikopter
+	Free: Pattern=de, Pattern=het lijken, Pattern=op, Pattern=een, Pattern=deze hebben, Pattern=hebben zo'n, Pattern=neus, Pattern=zitten, Pattern=er, Pattern=en
+	Constrained: Pattern=deze, Pattern=zo'n, Pattern=het, Pattern=hebben
+Turn ID=12| B | B : en aan de een kant van de staaf zijn een cirkel
+	Free: Pattern=en aan de, Pattern=een, Pattern=zijn, Pattern=de
+	Constrained: Pattern=aan, Pattern=en, Pattern=de
+Turn ID=13| B | B : en bovenop de emmer zijn een soort van lepeltje handvaa
+	Free: Pattern=een, Pattern=en, Pattern=zijn, Pattern=de
+	Constrained: 
+Turn ID=14| A | A : ah
+	Free: 
+	Constrained: 
+Turn ID=15| A | A : waar zitten die
+	Free: Pattern=zitten, Pattern=die
+	Constrained: 
+Turn ID=16| A | A : ja ja die hebben zo'n klein
+	Free: Pattern=hebben zo'n, Pattern=ja, Pattern=die
+	Constrained: Pattern=zo'n, Pattern=hebben
+Turn ID=17| A | A : dat zijn nummer tien
+	Free: Pattern=zijn
+	Constrained: 
+Turn ID=18| B | B : ja o
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=19| B | B : deze zijn de helikopter
+	Free: Pattern=deze, Pattern=zijn, Pattern=de
+	Constrained: 
+Turn ID=20| A | A : deze hebben een spijker door zijn neus
+	Free: Pattern=deze hebben, Pattern=een, Pattern=neus, Pattern=zijn
+	Constrained: Pattern=deze, Pattern=hebben
+Turn ID=21| A | A : niet een echt spijker
+	Free: Pattern=een
+	Constrained: 
+Turn ID=22| A | A : door zijn neus heen
+	Free: Pattern=neus, Pattern=zijn
+	Constrained: 
+Turn ID=23| A | A : daar zitten hij nummer negen
+	Free: Pattern=zitten
+	Constrained: 
+Turn ID=24| B | B : ja d
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=25| A | A : deze hebben de spijker door zijn neus
+	Free: Pattern=deze hebben, Pattern=neus, Pattern=zijn, Pattern=de
+	Constrained: Pattern=deze, Pattern=hebben
+Turn ID=26| B | B : dit zijn die helikopter
+	Free: Pattern=dit zijn, Pattern=die
+	Constrained: Pattern=zijn
+Turn ID=27| A | A : dat zijn nummer zeven
+	Free: Pattern=zijn
+	Constrained: 

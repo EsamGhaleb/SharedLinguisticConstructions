@@ -1,0 +1,167 @@
+A|0| A: _bovenop_ _zitten_ zo'n eivorm _en_ helemaal _aan de voorkant zitten_ zo'n recht staaf recht _naar_ beneden 
+A|1| A: _verticaal_ 
+A|2| A: _aan de zijkant_ _hebben je_ _nog_ _twee_ scheve beugelt 
+B|3| B: _ja_ 
+B|4| B: soort houten lat 
+B|5| B: _zijn_ _die_ [verticaal] 
+B|6| B: _okee_ _ja_ 
+B|7| B: _ja_ 
+B|8| B: _okee_ _dan_ denken ik _dat_ ik hem ook wel weten 
+B|9| B: ik _gaan_ voor g 
+A|10| A: _er_ _liggen_ _een_ bal _bovenop_ 
+A|11| A: [ja] 
+A|12| A: wachten even hoor 
+A|13| A: gewoon [die] zo recht _naar_ beneden [gaan] 
+A|14| A: _en_ [dan] _twee_ hendel _aan de zijkant_ 
+A|15| A: [okee] _dat zijn_ elf 
+B|16| B: ah bij bij _dit_ kop lijken _het_ alsof [er] [een] _ei_ bovenin [liggen] 
+B|17| B: [en] [er] [zitten] [aan de voorkant zitten] [een] [een] [een] lat 
+B|18| B: [verticaal] 
+B|19| B: [en] [je] [hebben] [nog] [een] uitsteeksel [aan de] linkerkant 
+B|20| B: [die] krom lopen 
+B|21| B: [en] [aan de] achterkant [hebben je] ook [nog] [een] uitsteeksel 
+B|22| B: [ja] 
+A|23| A: deze [zijn] waarmee [de] bal op [het] ding [liggen] 
+A|24| A: [en] _met_ zo'n rechthoekig rechthoek [aan de voorkant] 
+A|25| A: [ja] 
+A|26| A: [ja] elf 
+B|27| B: [je] [hebben] [ja] [ja] toch ? [ja] 
+B|28| B: [het] [gaan] echt om [het] zoeken inderdaad [ja] [ja] 
+B|29| B: [ja] 
+B|30| B: uitsteeksel [aan de zijkant] 
+B|31| B: [dat zijn] c voor mij 
+A|32| A: [dit] [zijn] _met_ zo'n [ei] [aan de] bovenkant [en] zo'n rechthoek [aan de voorkant] 
+A|33| A: [ja] 
+A|34| A: [ja] 
+B|35| B: hier [liggen] [het] eit bovenin [het] kop 
+B|36| B: [met] [een] [verticaal] lat [aan de voorkant] [en] [twee] uitsteeksel [naar] beide kant 
+A|37| A: [die] rechthoek 
+A|38| A: [ja] veertien 
+B|39| B: [dat zijn] d 
+B|40| B: [ei] [bovenop] [met] [een] lat [verticaal] [aan de voorkant] 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : bovenop zitten zo'n eivorm en helemaal aan de voorkant zitten zo'n recht staaf recht naar beneden
+	Free: Pattern=bovenop, Pattern=aan de voorkant zitten, Pattern=zitten, Pattern=en, Pattern=naar
+	Constrained: Pattern=de, Pattern=zitten, Pattern=aan de, Pattern=aan de voorkant
+Turn ID=1| A | A : verticaal
+	Free: Pattern=verticaal
+	Constrained: 
+Turn ID=2| A | A : aan de zijkant hebben je nog twee scheve beugelt
+	Free: Pattern=aan de zijkant, Pattern=hebben je, Pattern=twee, Pattern=nog
+	Constrained: Pattern=de, Pattern=je, Pattern=aan de, Pattern=hebben
+Turn ID=3| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=4| B | B : soort houten lat
+	Free: 
+	Constrained: 
+Turn ID=5| B | B : zijn die verticaal
+	Free: Pattern=zijn, Pattern=die, Pattern=verticaal
+	Constrained: 
+Turn ID=6| B | B : okee ja
+	Free: Pattern=ja, Pattern=okee
+	Constrained: 
+Turn ID=7| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=8| B | B : okee dan denken ik dat ik hem ook wel weten
+	Free: Pattern=dat, Pattern=dan, Pattern=okee
+	Constrained: 
+Turn ID=9| B | B : ik gaan voor g
+	Free: Pattern=gaan
+	Constrained: 
+Turn ID=10| A | A : er liggen een bal bovenop
+	Free: Pattern=bovenop, Pattern=een, Pattern=er, Pattern=liggen
+	Constrained: 
+Turn ID=11| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=12| A | A : wachten even hoor
+	Free: 
+	Constrained: 
+Turn ID=13| A | A : gewoon die zo recht naar beneden gaan
+	Free: Pattern=die, Pattern=naar, Pattern=gaan
+	Constrained: 
+Turn ID=14| A | A : en dan twee hendel aan de zijkant
+	Free: Pattern=aan de zijkant, Pattern=en, Pattern=twee, Pattern=dan
+	Constrained: Pattern=aan de, Pattern=de
+Turn ID=15| A | A : okee dat zijn elf
+	Free: Pattern=dat zijn, Pattern=okee
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=16| B | B : ah bij bij dit kop lijken het alsof er een ei bovenin liggen
+	Free: Pattern=ei, Pattern=een, Pattern=het, Pattern=dit, Pattern=er, Pattern=liggen
+	Constrained: 
+Turn ID=17| B | B : en er zitten aan de voorkant zitten een een een lat
+	Free: Pattern=aan de voorkant zitten, Pattern=een, Pattern=zitten, Pattern=er, Pattern=en
+	Constrained: Pattern=de, Pattern=zitten, Pattern=aan de, Pattern=aan de voorkant
+Turn ID=18| B | B : verticaal
+	Free: Pattern=verticaal
+	Constrained: 
+Turn ID=19| B | B : en je hebben nog een uitsteeksel aan de linkerkant
+	Free: Pattern=nog, Pattern=aan de, Pattern=een, Pattern=hebben, Pattern=en, Pattern=je
+	Constrained: Pattern=de
+Turn ID=20| B | B : die krom lopen
+	Free: Pattern=die
+	Constrained: 
+Turn ID=21| B | B : en aan de achterkant hebben je ook nog een uitsteeksel
+	Free: Pattern=nog, Pattern=aan de, Pattern=een, Pattern=hebben je, Pattern=en
+	Constrained: Pattern=je, Pattern=de, Pattern=hebben
+Turn ID=22| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=23| A | A : deze zijn waarmee de bal op het ding liggen
+	Free: Pattern=zijn, Pattern=de, Pattern=het, Pattern=liggen
+	Constrained: 
+Turn ID=24| A | A : en met zo'n rechthoekig rechthoek aan de voorkant
+	Free: Pattern=aan de voorkant, Pattern=en, Pattern=met
+	Constrained: Pattern=aan de, Pattern=de
+Turn ID=25| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=26| A | A : ja elf
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=27| B | B : je hebben ja ja toch ? ja
+	Free: Pattern=je, Pattern=ja, Pattern=hebben
+	Constrained: 
+Turn ID=28| B | B : het gaan echt om het zoeken inderdaad ja ja
+	Free: Pattern=het, Pattern=ja, Pattern=gaan
+	Constrained: 
+Turn ID=29| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=30| B | B : uitsteeksel aan de zijkant
+	Free: Pattern=aan de zijkant
+	Constrained: Pattern=aan de, Pattern=de
+Turn ID=31| B | B : dat zijn c voor mij
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=32| A | A : dit zijn met zo'n ei aan de bovenkant en zo'n rechthoek aan de voorkant
+	Free: Pattern=ei, Pattern=aan de, Pattern=dit, Pattern=met, Pattern=en, Pattern=zijn, Pattern=aan de voorkant
+	Constrained: Pattern=aan de, Pattern=de
+Turn ID=33| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=34| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=35| B | B : hier liggen het eit bovenin het kop
+	Free: Pattern=het, Pattern=liggen
+	Constrained: 
+Turn ID=36| B | B : met een verticaal lat aan de voorkant en twee uitsteeksel naar beide kant
+	Free: Pattern=twee, Pattern=verticaal, Pattern=een, Pattern=met, Pattern=en, Pattern=aan de voorkant, Pattern=naar
+	Constrained: Pattern=aan de, Pattern=de
+Turn ID=37| A | A : die rechthoek
+	Free: Pattern=die
+	Constrained: 
+Turn ID=38| A | A : ja veertien
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=39| B | B : dat zijn d
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=40| B | B : ei bovenop met een lat verticaal aan de voorkant
+	Free: Pattern=bovenop, Pattern=ei, Pattern=verticaal, Pattern=een, Pattern=met, Pattern=aan de voorkant
+	Constrained: Pattern=aan de, Pattern=de

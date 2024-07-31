@@ -1,0 +1,87 @@
+A|0| A: _ja_ _er_ steken weer _een_ leeg balonnetje uiit 
+A|1| A: _en_ je _hebben_ _een_ lang vierkant _staaf_ zeggen maar 
+A|2| A: _en_ door _de_ vierkant _staaf_ _zitten een_ _bolle en_ _aan_ _het_ eind van _de_ vierkant _staaf_ _zitten een_ _rond_ 
+B|3| B: [ja] _aan de_ voorzijde allebei _dat_ [bolle en] _die staaf_ 
+A|4| A: [ja] [ja] [ja] 
+B|5| B: okan _dan_ _zijn_ [het] F 
+B|6| B: deze [hebben] zegmaar _zo'n_ _ballonne_ uitstekend _aan de_ bovenkant _aan de voorkant_ [zitten een] bol _die_ doorboren _zijn_ _met een_ [staaf] 
+A|7| A: _ja _met_ dat rond_ _en dat_ _cirkel_ 
+B|8| B: _met zo'n_ [rond] _aan de_ rechterkant [ja] 
+A|9| A: [ja] vijf 
+A|10| A: [die] [dat] [met] _ballonne er in_ één _en dan_ [aan de voorkant] [die staaf] [met zo'n] [bolle] _er doorheen_ [en] [aan de] uiterst [een] [rond] 
+B|11| B: [ja] A 
+A|12| A: jij [zijn] [ja] 
+B|13| B: [ballonne] eruit [en dan] [zo'n] bol vooraan [met zo'n] [staaf] [er doorheen] [met dat rond] 
+A|14| A: _met die cirkel aan de_ [ja] 
+B|15| B: [ja [met] die cirkel aan de] rechter uiteinde 
+A|16| A: [ja] vijf 
+A|17| A: [die] [een] _met dat ballonne er in [en_ dan] [dat] [staaf] [aan de voorkant] [met een] [bolle _en] dat_ [cirkel] 
+B|18| B: [ja] [die] doorboren zegmaar [ja] H 
+B|19| B: [met dat ballonne er in [en] dat] [bolle] [aan de voorkant] wat doorboren [zijn] [en dan] [zitten] [er] rechts nog [zo'n] [rond] 
+A|20| A: vijftien 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : ja er steken weer een leeg balonnetje uiit
+	Free: Pattern=een, Pattern=er, Pattern=ja
+	Constrained: 
+Turn ID=1| A | A : en je hebben een lang vierkant staaf zeggen maar
+	Free: Pattern=staaf, Pattern=en, Pattern=een, Pattern=hebben
+	Constrained: 
+Turn ID=2| A | A : en door de vierkant staaf zitten een bolle en aan het eind van de vierkant staaf zitten een rond
+	Free: Pattern=bolle en, Pattern=staaf, Pattern=het, Pattern=zitten een, Pattern=en, Pattern=rond, Pattern=de, Pattern=aan
+	Constrained: Pattern=bolle, Pattern=en, Pattern=zitten, Pattern=een
+Turn ID=3| B | B : ja aan de voorzijde allebei dat bolle en die staaf
+	Free: Pattern=dat, Pattern=bolle en, Pattern=ja, Pattern=aan de, Pattern=die staaf
+	Constrained: Pattern=staaf, Pattern=bolle, Pattern=die, Pattern=en, Pattern=de, Pattern=aan
+Turn ID=4| A | A : ja ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=5| B | B : okan dan zijn het F
+	Free: Pattern=het, Pattern=dan, Pattern=zijn
+	Constrained: 
+Turn ID=6| B | B : deze hebben zegmaar zo'n ballonne uitstekend aan de bovenkant aan de voorkant zitten een bol die doorboren zijn met een staaf
+	Free: Pattern=zo'n, Pattern=staaf, Pattern=aan de, Pattern=hebben, Pattern=die, Pattern=zitten een, Pattern=zijn, Pattern=aan de voorkant, Pattern=met een, Pattern=ballonne
+	Constrained: Pattern=aan de, Pattern=een, Pattern=met, Pattern=zitten, Pattern=de, Pattern=aan
+Turn ID=7| A | A : ja met dat rond en dat cirkel
+	Free: Pattern=met dat rond, Pattern=en dat, Pattern=ja met, Pattern=cirkel
+	Constrained: Pattern=dat, Pattern=ja, Pattern=met, Pattern=en, Pattern=rond
+Turn ID=8| B | B : met zo'n rond aan de rechterkant ja
+	Free: Pattern=met zo'n, Pattern=aan de, Pattern=ja, Pattern=rond
+	Constrained: Pattern=met, Pattern=aan, Pattern=de, Pattern=zo'n
+Turn ID=9| A | A : ja vijf
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=10| A | A : die dat met ballonne er in één en dan aan de voorkant die staaf met zo'n bolle er doorheen en aan de uiterst een rond
+	Free: Pattern=dat, Pattern=en dan, Pattern=aan de, Pattern=een, Pattern=en, Pattern=rond, Pattern=aan de voorkant, Pattern=met zo'n, Pattern=ballonne er in, Pattern=er doorheen, Pattern=bolle, Pattern=met, Pattern=die staaf, Pattern=die
+	Constrained: Pattern=zo'n, Pattern=staaf, Pattern=aan de, Pattern=dan, Pattern=met, Pattern=die, Pattern=ballonne, Pattern=er, Pattern=en, Pattern=de, Pattern=aan
+Turn ID=11| B | B : ja A
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=12| A | A : jij zijn ja
+	Free: Pattern=zijn, Pattern=ja
+	Constrained: 
+Turn ID=13| B | B : ballonne eruit en dan zo'n bol vooraan met zo'n staaf er doorheen met dat rond
+	Free: Pattern=zo'n, Pattern=er doorheen, Pattern=met dat rond, Pattern=ballonne, Pattern=met zo'n, Pattern=staaf, Pattern=en dan
+	Constrained: Pattern=dat, Pattern=zo'n, Pattern=dan, Pattern=met, Pattern=er, Pattern=en, Pattern=rond
+Turn ID=14| A | A : met die cirkel aan de ja
+	Free: Pattern=met die cirkel aan de, Pattern=ja
+	Constrained: Pattern=cirkel, Pattern=aan de, Pattern=met, Pattern=die, Pattern=de, Pattern=aan
+Turn ID=15| B | B : ja met die cirkel aan de rechter uiteinde
+	Free: Pattern=met die cirkel aan de, Pattern=ja met
+	Constrained: Pattern=cirkel, Pattern=aan de, Pattern=met, Pattern=die, Pattern=de, Pattern=aan, Pattern=ja
+Turn ID=16| A | A : ja vijf
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=17| A | A : die een met dat ballonne er in en dan dat staaf aan de voorkant met een bolle en dat cirkel
+	Free: Pattern=cirkel, Pattern=dat, Pattern=bolle en, Pattern=een, Pattern=die, Pattern=met een, Pattern=met dat ballonne er in en, Pattern=aan de voorkant, Pattern=en dat, Pattern=staaf, Pattern=en dan
+	Constrained: Pattern=dat, Pattern=aan de, Pattern=dan, Pattern=een, Pattern=ballonne er in, Pattern=ballonne, Pattern=er, Pattern=en, Pattern=de, Pattern=aan, Pattern=bolle, Pattern=met
+Turn ID=18| B | B : ja die doorboren zegmaar ja H
+	Free: Pattern=ja, Pattern=die
+	Constrained: 
+Turn ID=19| B | B : met dat ballonne er in en dat bolle aan de voorkant wat doorboren zijn en dan zitten er rechts nog zo'n rond
+	Free: Pattern=zo'n, Pattern=en dan, Pattern=bolle, Pattern=zitten, Pattern=er, Pattern=zijn, Pattern=aan de voorkant, Pattern=en dat, Pattern=rond, Pattern=met dat ballonne er in en
+	Constrained: Pattern=dat, Pattern=aan de, Pattern=dan, Pattern=ballonne er in, Pattern=met, Pattern=ballonne, Pattern=er, Pattern=en, Pattern=de, Pattern=aan
+Turn ID=20| A | A : vijftien
+	Free: 
+	Constrained: 

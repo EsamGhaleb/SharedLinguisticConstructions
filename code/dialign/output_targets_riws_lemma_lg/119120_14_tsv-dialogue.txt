@@ -1,0 +1,179 @@
+A|0| A: _oké_ _ik noemen_ _deze_ _arm_ 
+A|1| A: omdat _die een_ soort van knuffel willen geven _met_ _twee_ heel dun _arm_ 
+B|2| B: _ja_ [ik noemen] [een] ander [arm] denken [ik] 
+B|3| B: even kijken hebben [die] hebben [die een] gek _balk_ boven _voor_ zich 
+A|4| A: één één bolle 
+A|5| A: [ja] 
+A|6| A: [ja] [ja] 
+B|7| B: [ja] 
+B|8| B: [oké] dat _zijn_ bij mij _d_ 
+A|9| A: [oké] dan [zijn] het [d] _zeven_ 
+B|10| B: [oké] D [zeven] 
+B|11| B: [deze] hebben we al hebben 
+B|12| B: dit [zijn] _armp_ 
+A|13| A: mooi zo 
+A|14| A: _jou armp_ of mijn [armp] 
+B|15| B: [jou armp] [met] _balk_ aan de voorkant 
+A|16| A: [oké] [ja] 
+B|17| B: _K_ 
+A|18| A: [K] _vijftien_ 
+A|19| A: [die] [ik] [arm] [noemen] [met] [die] paal [voor] het hoofd 
+B|20| B: [ja] 
+B|21| B: [ik] moeten even zoeken 
+A|22| A: _twee_ 
+B|23| B: L [twee] 
+B|24| B: [jou armp] 
+B|25| B: _M_ 
+B|26| B: Mico 
+B|27| B: Mico 
+B|28| B: nieuw naam 
+B|29| B: Mico 
+A|30| A: zo 
+A|31| A: als [ik] hem kunnen vinden 
+A|32| A: [M] 
+B|33| B: [M] 
+A|34| A: [M] zes 
+A|35| A: je mijn [arm] 
+A|36| A: [balk] [balk] ervoor 
+B|37| B: [ja] 
+B|38| B: J 
+A|39| A: _vijftien_ 
+B|40| B: J [vijftien] 
+B|41| B: [jou armp] 
+B|42| B: _A_ 
+A|43| A: [A] drie 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : oké ik noemen deze arm
+	Free: Pattern=ik noemen, Pattern=oké, Pattern=deze, Pattern=arm
+	Constrained: Pattern=noemen, Pattern=ik
+Turn ID=1| A | A : omdat die een soort van knuffel willen geven met twee heel dun arm
+	Free: Pattern=die een, Pattern=arm, Pattern=twee, Pattern=met
+	Constrained: Pattern=een, Pattern=die
+Turn ID=2| B | B : ja ik noemen een ander arm denken ik
+	Free: Pattern=ja, Pattern=een, Pattern=ik noemen, Pattern=ik, Pattern=arm
+	Constrained: Pattern=noemen, Pattern=ik
+Turn ID=3| B | B : even kijken hebben die hebben die een gek balk boven voor zich
+	Free: Pattern=die een, Pattern=balk, Pattern=die, Pattern=voor
+	Constrained: Pattern=een, Pattern=die
+Turn ID=4| A | A : één één bolle
+	Free: 
+	Constrained: 
+Turn ID=5| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=6| A | A : ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=7| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=8| B | B : oké dat zijn bij mij d
+	Free: Pattern=oké, Pattern=zijn, Pattern=d
+	Constrained: 
+Turn ID=9| A | A : oké dan zijn het d zeven
+	Free: Pattern=oké, Pattern=zijn, Pattern=zeven, Pattern=d
+	Constrained: 
+Turn ID=10| B | B : oké D zeven
+	Free: Pattern=oké, Pattern=zeven
+	Constrained: 
+Turn ID=11| B | B : deze hebben we al hebben
+	Free: Pattern=deze
+	Constrained: 
+Turn ID=12| B | B : dit zijn armp
+	Free: Pattern=armp, Pattern=zijn
+	Constrained: 
+Turn ID=13| A | A : mooi zo
+	Free: 
+	Constrained: 
+Turn ID=14| A | A : jou armp of mijn armp
+	Free: Pattern=jou armp, Pattern=armp
+	Constrained: Pattern=armp
+Turn ID=15| B | B : jou armp met balk aan de voorkant
+	Free: Pattern=jou armp, Pattern=balk, Pattern=met
+	Constrained: Pattern=armp
+Turn ID=16| A | A : oké ja
+	Free: Pattern=oké, Pattern=ja
+	Constrained: 
+Turn ID=17| B | B : K
+	Free: Pattern=K
+	Constrained: 
+Turn ID=18| A | A : K vijftien
+	Free: Pattern=vijftien, Pattern=K
+	Constrained: 
+Turn ID=19| A | A : die ik arm noemen met die paal voor het hoofd
+	Free: Pattern=voor, Pattern=met, Pattern=die, Pattern=ik, Pattern=arm, Pattern=noemen
+	Constrained: 
+Turn ID=20| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=21| B | B : ik moeten even zoeken
+	Free: Pattern=ik
+	Constrained: 
+Turn ID=22| A | A : twee
+	Free: Pattern=twee
+	Constrained: 
+Turn ID=23| B | B : L twee
+	Free: Pattern=twee
+	Constrained: 
+Turn ID=24| B | B : jou armp
+	Free: Pattern=jou armp
+	Constrained: Pattern=armp
+Turn ID=25| B | B : M
+	Free: Pattern=M
+	Constrained: 
+Turn ID=26| B | B : Mico
+	Free: 
+	Constrained: 
+Turn ID=27| B | B : Mico
+	Free: 
+	Constrained: 
+Turn ID=28| B | B : nieuw naam
+	Free: 
+	Constrained: 
+Turn ID=29| B | B : Mico
+	Free: 
+	Constrained: 
+Turn ID=30| A | A : zo
+	Free: 
+	Constrained: 
+Turn ID=31| A | A : als ik hem kunnen vinden
+	Free: Pattern=ik
+	Constrained: 
+Turn ID=32| A | A : M
+	Free: Pattern=M
+	Constrained: 
+Turn ID=33| B | B : M
+	Free: Pattern=M
+	Constrained: 
+Turn ID=34| A | A : M zes
+	Free: Pattern=M
+	Constrained: 
+Turn ID=35| A | A : je mijn arm
+	Free: Pattern=arm
+	Constrained: 
+Turn ID=36| A | A : balk balk ervoor
+	Free: Pattern=balk
+	Constrained: 
+Turn ID=37| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=38| B | B : J
+	Free: 
+	Constrained: 
+Turn ID=39| A | A : vijftien
+	Free: Pattern=vijftien
+	Constrained: 
+Turn ID=40| B | B : J vijftien
+	Free: Pattern=vijftien
+	Constrained: 
+Turn ID=41| B | B : jou armp
+	Free: Pattern=jou armp
+	Constrained: Pattern=armp
+Turn ID=42| B | B : A
+	Free: Pattern=A
+	Constrained: 
+Turn ID=43| A | A : A drie
+	Free: Pattern=A
+	Constrained: 

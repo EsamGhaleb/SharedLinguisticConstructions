@@ -1,0 +1,115 @@
+A|0| A: _ja_ _ja_ _een_ _ja_ _een_ soort staart _zijn_ _het_ haast 
+A|1| A: _ja_ 
+A|2| A: vijf 
+B|3| B: oké 
+B|4| B: [het] _kop_ staan _op_ [een] vierkant plateauachtig iets 
+B|5| B: _dat zijn_ eigenlijk _de_ enig _die_ _op_ iets staan 
+B|6| B: plat ding 
+B|7| B: _met_ allemaal _van_ _die_ bollet dinget erachter 
+B|8| B: _ja en_ dan nog [een] [een] cirkel _aan_ _de_ voorkant _en_ dan nog [een] boog ernaast _en_ _aan_ _de_ ander _kant_ _ook_ zo'n boog ernaast 
+A|9| A: _dit zijn_ [dat] [kop] [op] [dat] bord [met] [ook] [een] bord [van] voren [en] [die] soort staar 
+A|10| A: [ja] 
+A|11| A: [die] [ja] precies [dat zijn] elf 
+A|12| A: _dit zijn_ diegene [met] [het] platform [en] bord voor [en] [de] sprie 
+A|13| A: [aan] al twee [de] [kant] 
+B|14| B: [ja] 
+B|15| B: [dat zijn] [de] J 
+A|16| A: [ja] [ja] [ja] [ja] 
+A|17| A: negen 
+B|18| B: [dit zijn] [die] staan [op] zo'n vierkant plateau [met] ruit [aan] [de] achterkant [en] zo'n cirkel [aan] [de] voorkant 
+A|19| A: [dit zijn] [op] [het] platformp [met] 
+A|20| A: [ja en] [het] bord voor 
+B|21| B: [ja] 
+B|22| B: [dat zijn] P [ja] 
+B|23| B: [dit zijn] [die] [op] [een] vierkant ding staan 
+B|24| B: als enig 
+B|25| B: [met] [de] diaman erachter 
+B|26| B: [ja] 
+B|27| B: [dat zijn] L 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : ja ja een ja een soort staart zijn het haast
+	Free: Pattern=een, Pattern=ja, Pattern=het, Pattern=zijn
+	Constrained: 
+Turn ID=1| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=2| A | A : vijf
+	Free: 
+	Constrained: 
+Turn ID=3| B | B : oké
+	Free: 
+	Constrained: 
+Turn ID=4| B | B : het kop staan op een vierkant plateauachtig iets
+	Free: Pattern=een, Pattern=het, Pattern=kop, Pattern=op
+	Constrained: 
+Turn ID=5| B | B : dat zijn eigenlijk de enig die op iets staan
+	Free: Pattern=dat zijn, Pattern=de, Pattern=die, Pattern=op
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=6| B | B : plat ding
+	Free: 
+	Constrained: 
+Turn ID=7| B | B : met allemaal van die bollet dinget erachter
+	Free: Pattern=van, Pattern=die, Pattern=met
+	Constrained: 
+Turn ID=8| B | B : ja en dan nog een een cirkel aan de voorkant en dan nog een boog ernaast en aan de ander kant ook zo'n boog ernaast
+	Free: Pattern=kant, Pattern=ook, Pattern=een, Pattern=en, Pattern=ja en, Pattern=de, Pattern=aan
+	Constrained: Pattern=ja, Pattern=en
+Turn ID=9| A | A : dit zijn dat kop op dat bord met ook een bord van voren en die soort staar
+	Free: Pattern=dat, Pattern=een, Pattern=kop, Pattern=met, Pattern=die, Pattern=dit zijn, Pattern=op, Pattern=ook, Pattern=van, Pattern=en
+	Constrained: Pattern=zijn
+Turn ID=10| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=11| A | A : die ja precies dat zijn elf
+	Free: Pattern=dat zijn, Pattern=ja, Pattern=die
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=12| A | A : dit zijn diegene met het platform en bord voor en de sprie
+	Free: Pattern=de, Pattern=het, Pattern=met, Pattern=en, Pattern=dit zijn
+	Constrained: Pattern=zijn
+Turn ID=13| A | A : aan al twee de kant
+	Free: Pattern=aan, Pattern=kant, Pattern=de
+	Constrained: 
+Turn ID=14| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=15| B | B : dat zijn de J
+	Free: Pattern=dat zijn, Pattern=de
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=16| A | A : ja ja ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=17| A | A : negen
+	Free: 
+	Constrained: 
+Turn ID=18| B | B : dit zijn die staan op zo'n vierkant plateau met ruit aan de achterkant en zo'n cirkel aan de voorkant
+	Free: Pattern=op, Pattern=met, Pattern=die, Pattern=en, Pattern=dit zijn, Pattern=de, Pattern=aan
+	Constrained: Pattern=zijn
+Turn ID=19| A | A : dit zijn op het platformp met
+	Free: Pattern=dit zijn, Pattern=het, Pattern=met, Pattern=op
+	Constrained: Pattern=zijn
+Turn ID=20| A | A : ja en het bord voor
+	Free: Pattern=ja en, Pattern=het
+	Constrained: Pattern=ja, Pattern=en
+Turn ID=21| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=22| B | B : dat zijn P ja
+	Free: Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=23| B | B : dit zijn die op een vierkant ding staan
+	Free: Pattern=dit zijn, Pattern=een, Pattern=die, Pattern=op
+	Constrained: Pattern=zijn
+Turn ID=24| B | B : als enig
+	Free: 
+	Constrained: 
+Turn ID=25| B | B : met de diaman erachter
+	Free: Pattern=de, Pattern=met
+	Constrained: 
+Turn ID=26| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=27| B | B : dat zijn L
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn

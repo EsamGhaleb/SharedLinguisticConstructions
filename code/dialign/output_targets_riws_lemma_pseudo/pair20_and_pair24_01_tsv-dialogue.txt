@@ -1,0 +1,99 @@
+A|0| A: _ja_ 
+A|1| A: _ja_ 
+A|2| A: Antenne erop 
+A|3| A: _ja_ 
+A|4| A: _dat zijn_ nummer veertien 
+B|5| B: bak _met_ een schermpje op [zijn] zij 
+B|6| B: _en_ _met_ _twee_ armp zo voor zich uit _en_ een _antenne_ op [zijn] kop 
+A|7| A: ik _hebben_ nu _die_ [twee] [met] _die_ [twee] kubus _aan de linkerkant_ _en die_ [antenne] erop [en] _dat_ vierkan _aan de_ voorkant 
+A|8| A: okee 
+A|9| A: okee twaalf 
+B|10| B: [ja] 
+B|11| B: [dat zijn] J 
+A|12| A: deze [zijn] [met] _die_ [antenne] _en die_ [twee] kubus _aan die_ [twee] keer vier kubus _aan de linkerkant_ [en] [dat] 
+A|13| A: [met] [dat] vlak ervoor [ja] 
+B|14| B: bak 
+B|15| B: [ja] een flatscreen tv'tje [hebben] hij [met] zich mee , of een vierkant 
+B|16| B: [en die] zo op hem plken [zijn] 
+B|17| B: [en] [twee] armp [aan die] kant , [en] een [antenne] op [zijn] hoofd 
+A|18| A: twaalf 
+A|19| A: dit [zijn] [met] [die] [twee] [twee] keer vier kubus _aan de linkerkant_ [die] [antenne] [en] [dat] vierkan _aan de_ voorkant 
+B|20| B: [zijn] I 
+B|21| B: een plaat op [zijn] zijkant , spijker op [zijn] kop , of een [antenne] , [en] [aan de linkerkant] [twee] toren 
+B|22| B: [met] zo'n rond plateautje 
+B|23| B: J 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=1| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=2| A | A : Antenne erop
+	Free: 
+	Constrained: 
+Turn ID=3| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=4| A | A : dat zijn nummer veertien
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=5| B | B : bak met een schermpje op zijn zij
+	Free: Pattern=zijn, Pattern=met
+	Constrained: 
+Turn ID=6| B | B : en met twee armp zo voor zich uit en een antenne op zijn kop
+	Free: Pattern=twee, Pattern=met, Pattern=antenne, Pattern=en, Pattern=zijn
+	Constrained: 
+Turn ID=7| A | A : ik hebben nu die twee met die twee kubus aan de linkerkant en die antenne erop en dat vierkan aan de voorkant
+	Free: Pattern=en die, Pattern=dat, Pattern=twee, Pattern=aan de, Pattern=hebben, Pattern=met, Pattern=die, Pattern=antenne, Pattern=en, Pattern=aan de linkerkant
+	Constrained: Pattern=die, Pattern=en, Pattern=aan de
+Turn ID=8| A | A : okee
+	Free: 
+	Constrained: 
+Turn ID=9| A | A : okee twaalf
+	Free: 
+	Constrained: 
+Turn ID=10| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=11| B | B : dat zijn J
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=12| A | A : deze zijn met die antenne en die twee kubus aan die twee keer vier kubus aan de linkerkant en dat
+	Free: Pattern=dat, Pattern=twee, Pattern=met, Pattern=die, Pattern=antenne, Pattern=en, Pattern=zijn, Pattern=aan de linkerkant, Pattern=en die, Pattern=aan die
+	Constrained: Pattern=die, Pattern=en, Pattern=aan de
+Turn ID=13| A | A : met dat vlak ervoor ja
+	Free: Pattern=dat, Pattern=ja, Pattern=met
+	Constrained: 
+Turn ID=14| B | B : bak
+	Free: 
+	Constrained: 
+Turn ID=15| B | B : ja een flatscreen tv'tje hebben hij met zich mee , of een vierkant
+	Free: Pattern=ja, Pattern=hebben, Pattern=met
+	Constrained: 
+Turn ID=16| B | B : en die zo op hem plken zijn
+	Free: Pattern=en die, Pattern=zijn
+	Constrained: Pattern=en, Pattern=die
+Turn ID=17| B | B : en twee armp aan die kant , en een antenne op zijn hoofd
+	Free: Pattern=aan die, Pattern=twee, Pattern=antenne, Pattern=en, Pattern=zijn
+	Constrained: Pattern=die
+Turn ID=18| A | A : twaalf
+	Free: 
+	Constrained: 
+Turn ID=19| A | A : dit zijn met die twee twee keer vier kubus aan de linkerkant die antenne en dat vierkan aan de voorkant
+	Free: Pattern=dat, Pattern=twee, Pattern=aan de, Pattern=met, Pattern=die, Pattern=antenne, Pattern=en, Pattern=zijn, Pattern=aan de linkerkant
+	Constrained: Pattern=aan de
+Turn ID=20| B | B : zijn I
+	Free: Pattern=zijn
+	Constrained: 
+Turn ID=21| B | B : een plaat op zijn zijkant , spijker op zijn kop , of een antenne , en aan de linkerkant twee toren
+	Free: Pattern=twee, Pattern=antenne, Pattern=en, Pattern=zijn, Pattern=aan de linkerkant
+	Constrained: Pattern=aan de
+Turn ID=22| B | B : met zo'n rond plateautje
+	Free: Pattern=met
+	Constrained: 
+Turn ID=23| B | B : J
+	Free: 
+	Constrained: 

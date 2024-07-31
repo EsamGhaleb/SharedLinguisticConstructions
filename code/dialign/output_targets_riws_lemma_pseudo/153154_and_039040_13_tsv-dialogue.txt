@@ -1,0 +1,91 @@
+B|0| B: _dit zijn die_ _met die_ staart in principe _van die_ ruit 
+B|1| B: _ja_ 
+A|2| A: [ja] en zitten daar zo'n soort [van] zo'n ding aan 
+A|3| A: _of_ niet 
+A|4| A: gewoon een vierkant onderplaat waar [die] op staat en zitten er dan drie [van die] [van die] kralen eigenlijk zeggen maar 
+A|5| A: dus eerst drie kra en dan drie krael aan [die] kant en dan zo'n cirkel [met] zo'n ding aan de zijkant 
+A|6| A: [ja] [die] snapen ik _dat zijn_ bij mij vijf 
+A|7| A: _of_ nee wachten [ja] _dat zijn_ vijf [ja] 
+B|8| B: [ja] 
+B|9| B: [dat zijn] J 
+B|10| B: het _zijn die_ _met die_ staart [of] uitsteeksel _met die_ ruit 
+A|11| A: [dit zijn die] een [met die] ieder keer drie krael aan de zijkant zeggen maar [met] [dat] rond dinge als neus aan de voorkant [met] op [dat] vierkan 
+B|12| B: [ja] P 
+A|13| A: [ja] [die] [dat] telraamdinge [die] eruit komen zeggen maar [met] [dat] rond ding als neus 
+A|14| A: [ja] [dat zijn] bij mij elf 
+B|15| B: het [zijn die] [met die] staart [of] 
+A|16| A: [dit zijn die] een [met die] drie kra [die] aan allebei de kant eruit komen [met die] cirkel aan de voorkant op [dat] vierkant 
+A|17| A: [met die] drie kra [ja] 
+A|18| A: nummer negen 
+B|19| B: [ja] L 
+A|20| A: degeen [met die] drie krael aan allebei de kant 
+A|21| A: en op [dat] vierkant plateau [ja] 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : dit zijn die met die staart in principe van die ruit
+	Free: Pattern=dit zijn die, Pattern=van die, Pattern=met die
+	Constrained: Pattern=zijn die, Pattern=met, Pattern=die, Pattern=van
+Turn ID=1| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=2| A | A : ja en zitten daar zo'n soort van zo'n ding aan
+	Free: Pattern=van, Pattern=ja
+	Constrained: 
+Turn ID=3| A | A : of niet
+	Free: Pattern=of
+	Constrained: 
+Turn ID=4| A | A : gewoon een vierkant onderplaat waar die op staat en zitten er dan drie van die van die kralen eigenlijk zeggen maar
+	Free: Pattern=van die, Pattern=die
+	Constrained: Pattern=van, Pattern=die
+Turn ID=5| A | A : dus eerst drie kra en dan drie krael aan die kant en dan zo'n cirkel met zo'n ding aan de zijkant
+	Free: Pattern=die, Pattern=met
+	Constrained: 
+Turn ID=6| A | A : ja die snapen ik dat zijn bij mij vijf
+	Free: Pattern=dat zijn, Pattern=die, Pattern=ja
+	Constrained: Pattern=dat
+Turn ID=7| A | A : of nee wachten ja dat zijn vijf ja
+	Free: Pattern=dat zijn, Pattern=of, Pattern=ja
+	Constrained: Pattern=dat
+Turn ID=8| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=9| B | B : dat zijn J
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat
+Turn ID=10| B | B : het zijn die met die staart of uitsteeksel met die ruit
+	Free: Pattern=zijn die, Pattern=met die, Pattern=of
+	Constrained: Pattern=die, Pattern=met
+Turn ID=11| A | A : dit zijn die een met die ieder keer drie krael aan de zijkant zeggen maar met dat rond dinge als neus aan de voorkant met op dat vierkan
+	Free: Pattern=dit zijn die, Pattern=met die, Pattern=dat, Pattern=met
+	Constrained: Pattern=zijn die, Pattern=die, Pattern=met
+Turn ID=12| B | B : ja P
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=13| A | A : ja die dat telraamdinge die eruit komen zeggen maar met dat rond ding als neus
+	Free: Pattern=dat, Pattern=die, Pattern=ja, Pattern=met
+	Constrained: 
+Turn ID=14| A | A : ja dat zijn bij mij elf
+	Free: Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=dat
+Turn ID=15| B | B : het zijn die met die staart of
+	Free: Pattern=zijn die, Pattern=met die, Pattern=of
+	Constrained: Pattern=die, Pattern=met
+Turn ID=16| A | A : dit zijn die een met die drie kra die aan allebei de kant eruit komen met die cirkel aan de voorkant op dat vierkant
+	Free: Pattern=dit zijn die, Pattern=met die, Pattern=dat, Pattern=die
+	Constrained: Pattern=zijn die, Pattern=die, Pattern=met
+Turn ID=17| A | A : met die drie kra ja
+	Free: Pattern=met die, Pattern=ja
+	Constrained: Pattern=die, Pattern=met
+Turn ID=18| A | A : nummer negen
+	Free: 
+	Constrained: 
+Turn ID=19| B | B : ja L
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=20| A | A : degeen met die drie krael aan allebei de kant
+	Free: Pattern=met die
+	Constrained: Pattern=die, Pattern=met
+Turn ID=21| A | A : en op dat vierkant plateau ja
+	Free: Pattern=dat, Pattern=ja
+	Constrained: 

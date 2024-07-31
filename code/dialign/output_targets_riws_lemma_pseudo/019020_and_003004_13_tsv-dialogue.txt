@@ -1,0 +1,87 @@
+B|0| B: oké _ja_ ik beschrijven het als Pippi Langkous het hebben _aan beide kant drie_ kraalt laten _maar_ _zeggen_ _die_ uit het _kop_ komen 
+B|1| B: _en_ dan nog _een_ vierkant eronder _en een rond_ ding _met_ _een_ haal _aan de_ voorkant 
+A|2| A: [ja] 
+A|3| A: [ja] 
+A|4| A: [en] [die] twee macaroni dinget op [de] achtergrond ok [ja] dat zijn nummer vijf bij mij 
+B|5| B: [ja] [de] _met_ [de] _drie_ 
+B|6| B: yes 
+B|7| B: J 
+B|8| B: pinokkio Pippi Langkous sorry Pippi Langkous Pippi Langkous 
+B|9| B: Pippi Langkous 
+A|10| A: [ja] dit zijn [die] [kop] [die] op dat plateau staan [met] [die] [aan beide kant drie] van [die] 
+B|11| B: [ja] P 
+A|12| A: bollet of diaman [die] er [zeggen] [maar] uitkomen [en] zo'n vlakje voor [en] [die] macaroniding op [de] achtergrond [ja] 
+B|13| B: Pippi Langkous 
+A|14| A: [en] dat [rond] er voorop [en] [die] 
+A|15| A: [ja] dat zijn nummer elf 
+B|16| B: Pippi Langkous L 
+A|17| A: dit zijn [die] op dat plateau staan [met] [die] twee sliert [die] er uitkomen [en] dat [rond] er voorop [en] macaroni 
+A|18| A: [ja] 
+A|19| A: dat zijn nummer negen 
+A|20| A: dit zijn [met] dat plateau [met] [die] twee friemeltjes [aan de] zijkant [en] macaroni op [de] achtergrond [en een rond] plaat voorop 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : oké ja ik beschrijven het als Pippi Langkous het hebben aan beide kant drie kraalt laten maar zeggen die uit het kop komen
+	Free: Pattern=ja, Pattern=aan beide kant drie, Pattern=die, Pattern=maar, Pattern=kop, Pattern=zeggen
+	Constrained: Pattern=drie
+Turn ID=1| B | B : en dan nog een vierkant eronder en een rond ding met een haal aan de voorkant
+	Free: Pattern=aan de, Pattern=met, Pattern=en, Pattern=een, Pattern=en een rond
+	Constrained: Pattern=een, Pattern=de, Pattern=rond, Pattern=en
+Turn ID=2| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=3| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=4| A | A : en die twee macaroni dinget op de achtergrond ok ja dat zijn nummer vijf bij mij
+	Free: Pattern=de, Pattern=ja, Pattern=die, Pattern=en
+	Constrained: 
+Turn ID=5| B | B : ja de met de drie
+	Free: Pattern=de, Pattern=drie, Pattern=ja, Pattern=met
+	Constrained: 
+Turn ID=6| B | B : yes
+	Free: 
+	Constrained: 
+Turn ID=7| B | B : J
+	Free: 
+	Constrained: 
+Turn ID=8| B | B : pinokkio Pippi Langkous sorry Pippi Langkous Pippi Langkous
+	Free: 
+	Constrained: 
+Turn ID=9| B | B : Pippi Langkous
+	Free: 
+	Constrained: 
+Turn ID=10| A | A : ja dit zijn die kop die op dat plateau staan met die aan beide kant drie van die
+	Free: Pattern=ja, Pattern=aan beide kant drie, Pattern=kop, Pattern=met, Pattern=die
+	Constrained: Pattern=drie
+Turn ID=11| B | B : ja P
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=12| A | A : bollet of diaman die er zeggen maar uitkomen en zo'n vlakje voor en die macaroniding op de achtergrond ja
+	Free: Pattern=zeggen, Pattern=die, Pattern=en, Pattern=maar, Pattern=de, Pattern=ja
+	Constrained: 
+Turn ID=13| B | B : Pippi Langkous
+	Free: 
+	Constrained: 
+Turn ID=14| A | A : en dat rond er voorop en die
+	Free: Pattern=die, Pattern=rond, Pattern=en
+	Constrained: 
+Turn ID=15| A | A : ja dat zijn nummer elf
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=16| B | B : Pippi Langkous L
+	Free: 
+	Constrained: 
+Turn ID=17| A | A : dit zijn die op dat plateau staan met die twee sliert die er uitkomen en dat rond er voorop en macaroni
+	Free: Pattern=die, Pattern=rond, Pattern=en, Pattern=met
+	Constrained: 
+Turn ID=18| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=19| A | A : dat zijn nummer negen
+	Free: 
+	Constrained: 
+Turn ID=20| A | A : dit zijn met dat plateau met die twee friemeltjes aan de zijkant en macaroni op de achtergrond en een rond plaat voorop
+	Free: Pattern=de, Pattern=aan de, Pattern=en een rond, Pattern=met, Pattern=die, Pattern=en
+	Constrained: Pattern=een, Pattern=de, Pattern=rond, Pattern=en

@@ -1,0 +1,115 @@
+A|0| A: oké 
+A|1| A: _ik_ _hebben_ _dat_ _dat_ kop 
+A|2| A: _en_ _daar_ _hebben_ je _dan_ zo _aan de voorkant_ zitten zo'n _bolle_ 
+A|3| A: _en_ _dat_ _bolle_ _hebben_ _dan_ zo'n _vierkant staaf erdoorheen_ 
+A|4| A: _met_ zo'n _plat_ _ding_ _aan de_ einde van _de_ _staaf_ _en dan_ _dat_ gek _ja_ piek _bovenop_ 
+B|5| B: [ja] 
+B|6| B: [ik] zien hem 
+B|7| B: _dat zijn_ bij mij F 
+B|8| B: deze [hebben] een _bolle aan de voorkant met_ _nog_ een [vierkant staaf] doorheen 
+B|9| B: [met] [daar] weer een [plat] ronde [ding] eraan 
+B|10| B: [en dan] een pluimp [bovenop] 
+A|11| A: _ja dat zijn_ vijf 
+A|12| A: [ja] _dit zijn die met het bolle aan de voorkant met die staaf erdoorheen_ [en dan] [dat] ander cirkel [nog] rechts 
+B|13| B: [en] 
+A|14| A: [en] [de] pluim 
+B|15| B: [dat zijn] A 
+B|16| B: [dit zijn die met het bolle aan de voorkant met die staaf erdoorheen] 
+B|17| B: [en] [het] pluimp 
+A|18| A: [en] [die] pluim 
+B|19| B: [ja] 
+A|20| A: [ja] 
+A|21| A: [dat zijn] vijf 
+A|22| A: [dit zijn die met] [dat] _bolle [en_ dan] [de] [staaf erdoorheen] [met] [dat] [plat] kant 
+B|23| B: [ja] even kijken waar [die] [zijn] 
+B|24| B: ah [ja dat zijn] H 
+B|25| B: [dat zijn] [met die] bollet [aan] [voorkant] [en dan] [met die] [vierkant staaf erdoorheen] 
+B|26| B: door [het [bolle] en] [het] pluimp 
+A|27| A: [ja dat zijn] vijftien 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : oké
+	Free: 
+	Constrained: 
+Turn ID=1| A | A : ik hebben dat dat kop
+	Free: Pattern=ik, Pattern=hebben, Pattern=dat
+	Constrained: 
+Turn ID=2| A | A : en daar hebben je dan zo aan de voorkant zitten zo'n bolle
+	Free: Pattern=dan, Pattern=hebben, Pattern=bolle, Pattern=en, Pattern=daar, Pattern=aan de voorkant
+	Constrained: Pattern=aan, Pattern=de, Pattern=voorkant, Pattern=aan de
+Turn ID=3| A | A : en dat bolle hebben dan zo'n vierkant staaf erdoorheen
+	Free: Pattern=dat, Pattern=dan, Pattern=hebben, Pattern=bolle, Pattern=vierkant staaf erdoorheen, Pattern=en
+	Constrained: Pattern=staaf erdoorheen, Pattern=vierkant staaf, Pattern=staaf
+Turn ID=4| A | A : met zo'n plat ding aan de einde van de staaf en dan dat gek ja piek bovenop
+	Free: Pattern=aan de, Pattern=ding, Pattern=met, Pattern=plat, Pattern=dat, Pattern=bovenop, Pattern=de, Pattern=ja, Pattern=staaf, Pattern=en dan
+	Constrained: Pattern=en, Pattern=de, Pattern=aan, Pattern=dan
+Turn ID=5| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=6| B | B : ik zien hem
+	Free: Pattern=ik
+	Constrained: 
+Turn ID=7| B | B : dat zijn bij mij F
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=8| B | B : deze hebben een bolle aan de voorkant met nog een vierkant staaf doorheen
+	Free: Pattern=bolle aan de voorkant met, Pattern=vierkant staaf, Pattern=hebben, Pattern=nog
+	Constrained: Pattern=staaf, Pattern=aan de, Pattern=voorkant, Pattern=aan de voorkant, Pattern=de, Pattern=aan, Pattern=bolle, Pattern=met
+Turn ID=9| B | B : met daar weer een plat ronde ding eraan
+	Free: Pattern=plat, Pattern=met, Pattern=daar, Pattern=ding
+	Constrained: 
+Turn ID=10| B | B : en dan een pluimp bovenop
+	Free: Pattern=en dan, Pattern=bovenop
+	Constrained: Pattern=en, Pattern=dan
+Turn ID=11| A | A : ja dat zijn vijf
+	Free: Pattern=ja dat zijn
+	Constrained: Pattern=dat zijn, Pattern=dat, Pattern=zijn, Pattern=ja
+Turn ID=12| A | A : ja dit zijn die met het bolle aan de voorkant met die staaf erdoorheen en dan dat ander cirkel nog rechts
+	Free: Pattern=dat, Pattern=nog, Pattern=ja, Pattern=en dan, Pattern=dit zijn die met het bolle aan de voorkant met die staaf erdoorheen
+	Constrained: Pattern=met die, Pattern=staaf, Pattern=aan de, Pattern=dan, Pattern=voorkant, Pattern=het, Pattern=dit zijn die met, Pattern=die, Pattern=en, Pattern=zijn, Pattern=aan de voorkant, Pattern=staaf erdoorheen, Pattern=aan, Pattern=de, Pattern=bolle aan de voorkant met, Pattern=bolle, Pattern=het bolle, Pattern=met
+Turn ID=13| B | B : en
+	Free: Pattern=en
+	Constrained: 
+Turn ID=14| A | A : en de pluim
+	Free: Pattern=en, Pattern=de
+	Constrained: 
+Turn ID=15| B | B : dat zijn A
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=16| B | B : dit zijn die met het bolle aan de voorkant met die staaf erdoorheen
+	Free: Pattern=dit zijn die met het bolle aan de voorkant met die staaf erdoorheen
+	Constrained: Pattern=met die, Pattern=staaf, Pattern=aan de, Pattern=voorkant, Pattern=het, Pattern=dit zijn die met, Pattern=die, Pattern=zijn, Pattern=aan de voorkant, Pattern=staaf erdoorheen, Pattern=aan, Pattern=de, Pattern=bolle aan de voorkant met, Pattern=bolle, Pattern=het bolle, Pattern=met
+Turn ID=17| B | B : en het pluimp
+	Free: Pattern=en, Pattern=het
+	Constrained: 
+Turn ID=18| A | A : en die pluim
+	Free: Pattern=en, Pattern=die
+	Constrained: 
+Turn ID=19| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=20| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=21| A | A : dat zijn vijf
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=22| A | A : dit zijn die met dat bolle en dan de staaf erdoorheen met dat plat kant
+	Free: Pattern=dat, Pattern=bolle en, Pattern=en dan, Pattern=dit zijn die met, Pattern=met, Pattern=plat, Pattern=de, Pattern=staaf erdoorheen
+	Constrained: Pattern=staaf, Pattern=dan, Pattern=die, Pattern=en, Pattern=zijn, Pattern=bolle, Pattern=met
+Turn ID=23| B | B : ja even kijken waar die zijn
+	Free: Pattern=zijn, Pattern=ja, Pattern=die
+	Constrained: 
+Turn ID=24| B | B : ah ja dat zijn H
+	Free: Pattern=ja dat zijn
+	Constrained: Pattern=dat zijn, Pattern=dat, Pattern=zijn, Pattern=ja
+Turn ID=25| B | B : dat zijn met die bollet aan voorkant en dan met die vierkant staaf erdoorheen
+	Free: Pattern=aan, Pattern=en dan, Pattern=voorkant, Pattern=vierkant staaf erdoorheen, Pattern=dat zijn, Pattern=met die
+	Constrained: Pattern=staaf erdoorheen, Pattern=staaf, Pattern=dan, Pattern=met, Pattern=die, Pattern=en, Pattern=zijn, Pattern=dat, Pattern=vierkant staaf
+Turn ID=26| B | B : door het bolle en het pluimp
+	Free: Pattern=het bolle, Pattern=bolle en, Pattern=het
+	Constrained: Pattern=en, Pattern=bolle, Pattern=het
+Turn ID=27| A | A : ja dat zijn vijftien
+	Free: Pattern=ja dat zijn
+	Constrained: Pattern=dat zijn, Pattern=dat, Pattern=zijn, Pattern=ja

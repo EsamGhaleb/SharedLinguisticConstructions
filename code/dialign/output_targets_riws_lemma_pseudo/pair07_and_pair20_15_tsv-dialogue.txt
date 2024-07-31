@@ -1,0 +1,107 @@
+A|0| A: _ja_ zeven 
+B|1| B: oeh _deze_ _zijn_ _deze_ _zijn_ wat ingewikkeld 
+B|2| B: hier zitten _een_ ongeveer op het laag kwart zitten _een_ _een_ plat _een_ plat _vierkant_ _die_ gaan gewoon echt door het kop heen 
+B|3| B: _er_ zitten _een_ soort slurf _aan_ de voorkant 
+B|4| B: [ja] precies 
+B|5| B: _twee_ ding steken steken erbovenuit als _een_ soort konijnenoor 
+B|6| B: _en dan_ nog _een_ gehoekt handvat 
+B|7| B: [ja] 
+A|8| A: _deze hebben_ [een] [vierkant] [aan] [er] doorheen [een] [vierkant] plaat zeggen maar [en dan] [twee] heel klein staafjes bovenop 
+A|9| A: [ja] negen 
+A|10| A: _dit _zijn_ die_ _met_ [twee] klein uitsteekselt bovenop [en] [een] schijf _erdoorheen_ [vierkant] schijf _erdoorheen_ 
+B|11| B: [ja] 
+B|12| B: [ja] dat [zijn] k 
+B|13| B: [deze hebben] de de glijbaan [en] de de oort erboven 
+B|14| B: [met] dat _met die_ 
+B|15| B: [ja] 
+A|16| A: [ja] 
+A|17| A: twaalf 
+B|18| B: waar [zijn die] waar [zijn die] waar [zijn die] 
+B|19| B: _met die twee_ oort erboven 
+B|20| B: [ja] dat [zijn] b 
+A|21| A: _dit [zijn_ die] [met die twee] klein dinget erbovenop [en] [vierkant] _erdoorheen_ 
+B|22| B: [dit zijn] de de glijbaan [en] de konijnenoor 
+B|23| B: [met] het plateau [erdoorheen] 
+B|24| B: [ja] 
+B|25| B: yes dat [zijn] l 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : ja zeven
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=1| B | B : oeh deze zijn deze zijn wat ingewikkeld
+	Free: Pattern=zijn, Pattern=deze
+	Constrained: 
+Turn ID=2| B | B : hier zitten een ongeveer op het laag kwart zitten een een plat een plat vierkant die gaan gewoon echt door het kop heen
+	Free: Pattern=vierkant, Pattern=die, Pattern=een
+	Constrained: 
+Turn ID=3| B | B : er zitten een soort slurf aan de voorkant
+	Free: Pattern=aan, Pattern=een, Pattern=er
+	Constrained: 
+Turn ID=4| B | B : ja precies
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=5| B | B : twee ding steken steken erbovenuit als een soort konijnenoor
+	Free: Pattern=twee, Pattern=een
+	Constrained: 
+Turn ID=6| B | B : en dan nog een gehoekt handvat
+	Free: Pattern=en dan, Pattern=een
+	Constrained: Pattern=en
+Turn ID=7| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=8| A | A : deze hebben een vierkant aan er doorheen een vierkant plaat zeggen maar en dan twee heel klein staafjes bovenop
+	Free: Pattern=twee, Pattern=aan, Pattern=en dan, Pattern=een, Pattern=deze hebben, Pattern=er, Pattern=vierkant
+	Constrained: Pattern=en, Pattern=deze
+Turn ID=9| A | A : ja negen
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=10| A | A : dit zijn die met twee klein uitsteekselt bovenop en een schijf erdoorheen vierkant schijf erdoorheen
+	Free: Pattern=twee, Pattern=een, Pattern=zijn die, Pattern=erdoorheen, Pattern=met, Pattern=en, Pattern=vierkant, Pattern=dit zijn
+	Constrained: Pattern=zijn, Pattern=die
+Turn ID=11| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=12| B | B : ja dat zijn k
+	Free: Pattern=zijn, Pattern=ja
+	Constrained: 
+Turn ID=13| B | B : deze hebben de de glijbaan en de de oort erboven
+	Free: Pattern=deze hebben, Pattern=en
+	Constrained: Pattern=deze
+Turn ID=14| B | B : met dat met die
+	Free: Pattern=met die, Pattern=met
+	Constrained: Pattern=die, Pattern=met
+Turn ID=15| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=16| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=17| A | A : twaalf
+	Free: 
+	Constrained: 
+Turn ID=18| B | B : waar zijn die waar zijn die waar zijn die
+	Free: Pattern=zijn die
+	Constrained: Pattern=zijn, Pattern=die
+Turn ID=19| B | B : met die twee oort erboven
+	Free: Pattern=met die twee
+	Constrained: Pattern=met, Pattern=die, Pattern=met die, Pattern=twee
+Turn ID=20| B | B : ja dat zijn b
+	Free: Pattern=zijn, Pattern=ja
+	Constrained: 
+Turn ID=21| A | A : dit zijn die met die twee klein dinget erbovenop en vierkant erdoorheen
+	Free: Pattern=met die twee, Pattern=zijn die, Pattern=erdoorheen, Pattern=en, Pattern=vierkant, Pattern=dit zijn
+	Constrained: Pattern=met die, Pattern=twee, Pattern=met, Pattern=die, Pattern=zijn
+Turn ID=22| B | B : dit zijn de de glijbaan en de konijnenoor
+	Free: Pattern=dit zijn, Pattern=en
+	Constrained: Pattern=zijn
+Turn ID=23| B | B : met het plateau erdoorheen
+	Free: Pattern=met, Pattern=erdoorheen
+	Constrained: 
+Turn ID=24| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=25| B | B : yes dat zijn l
+	Free: Pattern=zijn
+	Constrained: 

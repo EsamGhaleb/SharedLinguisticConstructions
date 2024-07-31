@@ -1,0 +1,111 @@
+A|0| A: _ja_ hier _deze_ staat volgens mij als enig op _een_ _krom_ _blok_ 
+A|1| A: _en die_ _hebben_ eigenlijk _aan de zijkant _hebben_ hij_ twee _ja_ _een_ cilinder vormige _en_ _nog een_ kubusachtig hand zullen ik _maar_ _zeggen_ _zo_ zeg _en_ 
+B|2| B: [krom] 
+B|3| B: [hebben] [hebben hij] bovenin _een soort_ driehoek _waar_ _dat_ _ding doorheen_ opsteken 
+A|4| A: [een] [ding] [dat] _doorheen gaan ja_ _ja_ 
+B|5| B: [ja] ok _dan_ _zijn_ het M 
+B|6| B: _ja dit _zijn_ weer_ diegene [die] _zo'n_ hoek _van_ negentig graad aanhangsel [hebben] _onderin_ [zeggen] [maar] [en die] _zitten_ _er_ _dan_ _ook_ [nog een] keer [aan de zijkant] 
+B|7| B: _dan hebben je_ [nog] [die] _staaf_ [die] uitsteken [en] bovenin _hebben je_ [die] diamant of [zo] of _die _die ruit_ waar_ [dat] 
+A|8| A: [en [die] ruit waar] [zo'n] [ding doorheen] 
+B|9| B: [waar] [dat] [ding [doorheen] gaan ja] 
+A|10| A: _ja dat zijn dan_ nummer negen 
+A|11| A: [ja dit _zijn] dan_ eigenlijk [die] steunen [weer] op iets dus op [zo'n] op [zo'n] [zo'n] knik knikken 
+A|12| A: kubus achtig [en die] [hebben hij] [ook] _dan aan de zijkant_ [zitten] _en dan_ plus _met_ [nog een] ander [soort] toet toet [er] bij [er] _bovenop_ [hebben hij] eigenlijk [een soort] [van] [ruit] _met_ [zo'n] _doorboren_ 
+B|13| B: [die] 
+B|14| B: o [ja] 
+B|15| B: [die ruit waar] [die] [blok] 
+A|16| A: [ja] wat [doorheen] komen 
+B|17| B: [ja] [doorheen gaan] [dan] [zijn] [dat] H 
+B|18| B: [deze] [hebben] [bovenop] _die ruit die_ [doorboren] _worden_ [en [dan] [aan de zijkant] _hebben] je_ [nog] [van] [die] [ding] in [zo'n] hoek [en] [aan de] onderkant [ook] [en dan] [nog] [zo'n] _staaf_ erbij 
+A|19| A: [ja] 
+A|20| A: [zijn] nummer elf 
+B|21| B: [ja] 
+A|22| A: [ja dit zijn] [die [die ruit] die] [er] [er] [bovenop] [worden] gedoorboord door [zo'n] kubus [en [dan] hebben je] [onderin] [hebben je] één houder [zo'n] kromme houder [ja] 
+B|23| B: [ja dat zijn dan] D 
+B|24| B: [dit _zijn] weer_ diegene [met] [die ruit waar] [die] [blok] [doorheen gaan] [zo'n] uitsteeksel [aan de] onderkant dezelfde [zitten] [aan de zijkant] [en] [een soort] _staaf_ [die] uitsteken 
+A|25| A: jajaja [ja dat [zijn] weer] [die] [ja] diezelfde [staaf] [van] onder [zitten] [ook] [aan de zijkant] [ja dat zijn dan] nummer veertien 
+B|26| B: [ja] 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : ja hier deze staat volgens mij als enig op een krom blok
+	Free: Pattern=krom, Pattern=ja, Pattern=een, Pattern=blok, Pattern=deze
+	Constrained: 
+Turn ID=1| A | A : en die hebben eigenlijk aan de zijkant hebben hij twee ja een cilinder vormige en nog een kubusachtig hand zullen ik maar zeggen zo zeg en
+	Free: Pattern=en die, Pattern=hebben hij, Pattern=nog een, Pattern=ja, Pattern=een, Pattern=hebben, Pattern=en, Pattern=zeggen, Pattern=zo, Pattern=maar, Pattern=aan de zijkant hebben
+	Constrained: Pattern=nog, Pattern=aan de, Pattern=hebben, Pattern=die, Pattern=en, Pattern=een, Pattern=aan de zijkant
+Turn ID=2| B | B : krom
+	Free: Pattern=krom
+	Constrained: 
+Turn ID=3| B | B : hebben hebben hij bovenin een soort driehoek waar dat ding doorheen opsteken
+	Free: Pattern=dat, Pattern=hebben hij, Pattern=waar, Pattern=hebben, Pattern=een soort, Pattern=ding doorheen
+	Constrained: Pattern=soort, Pattern=doorheen, Pattern=ding, Pattern=een, Pattern=hebben
+Turn ID=4| A | A : een ding dat doorheen gaan ja ja
+	Free: Pattern=dat, Pattern=doorheen gaan ja, Pattern=ja, Pattern=ding, Pattern=een
+	Constrained: Pattern=doorheen, Pattern=doorheen gaan, Pattern=ja
+Turn ID=5| B | B : ja ok dan zijn het M
+	Free: Pattern=dan, Pattern=ja, Pattern=zijn
+	Constrained: 
+Turn ID=6| B | B : ja dit zijn weer diegene die zo'n hoek van negentig graad aanhangsel hebben onderin zeggen maar en die zitten er dan ook nog een keer aan de zijkant
+	Free: Pattern=en die, Pattern=ook, Pattern=dan, Pattern=hebben, Pattern=zeggen, Pattern=ja dit zijn, Pattern=er, Pattern=van, Pattern=maar, Pattern=zijn weer, Pattern=zo'n, Pattern=nog een, Pattern=aan de zijkant, Pattern=onderin, Pattern=die, Pattern=zitten
+	Constrained: Pattern=nog, Pattern=ja, Pattern=aan de, Pattern=een, Pattern=die, Pattern=en, Pattern=zijn, Pattern=weer, Pattern=dit zijn
+Turn ID=7| B | B : dan hebben je nog die staaf die uitsteken en bovenin hebben je die diamant of zo of die die ruit waar dat
+	Free: Pattern=die ruit waar, Pattern=dat, Pattern=nog, Pattern=zo, Pattern=dan hebben je, Pattern=die, Pattern=hebben je, Pattern=en, Pattern=staaf, Pattern=die die ruit
+	Constrained: Pattern=ruit, Pattern=waar, Pattern=dan, Pattern=hebben, Pattern=die, Pattern=hebben je
+Turn ID=8| A | A : en die ruit waar zo'n ding doorheen
+	Free: Pattern=die ruit waar, Pattern=en die, Pattern=ding doorheen, Pattern=zo'n
+	Constrained: Pattern=ruit, Pattern=doorheen, Pattern=waar, Pattern=ding, Pattern=die, Pattern=en
+Turn ID=9| B | B : waar dat ding doorheen gaan ja
+	Free: Pattern=doorheen gaan ja, Pattern=ding doorheen, Pattern=dat, Pattern=waar
+	Constrained: Pattern=doorheen, Pattern=ding, Pattern=doorheen gaan, Pattern=ja
+Turn ID=10| A | A : ja dat zijn dan nummer negen
+	Free: Pattern=ja dat zijn dan
+	Constrained: Pattern=dat, Pattern=ja, Pattern=dan, Pattern=ja dat zijn, Pattern=zijn dan, Pattern=zijn
+Turn ID=11| A | A : ja dit zijn dan eigenlijk die steunen weer op iets dus op zo'n op zo'n zo'n knik knikken
+	Free: Pattern=zo'n, Pattern=zijn dan, Pattern=ja dit zijn, Pattern=die, Pattern=weer
+	Constrained: Pattern=dit zijn, Pattern=dan, Pattern=ja, Pattern=zijn
+Turn ID=12| A | A : kubus achtig en die hebben hij ook dan aan de zijkant zitten en dan plus met nog een ander soort toet toet er bij er bovenop hebben hij eigenlijk een soort van ruit met zo'n doorboren
+	Free: Pattern=en die, Pattern=bovenop, Pattern=soort, Pattern=en dan, Pattern=ook, Pattern=doorboren, Pattern=dan aan de zijkant, Pattern=met, Pattern=zitten, Pattern=er, Pattern=een soort, Pattern=van, Pattern=hebben hij, Pattern=ruit, Pattern=zo'n, Pattern=nog een
+	Constrained: Pattern=aan de, Pattern=dan, Pattern=hebben, Pattern=die, Pattern=en, Pattern=nog, Pattern=soort, Pattern=een, Pattern=aan de zijkant
+Turn ID=13| B | B : die
+	Free: Pattern=die
+	Constrained: 
+Turn ID=14| B | B : o ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=15| B | B : die ruit waar die blok
+	Free: Pattern=die ruit waar, Pattern=blok, Pattern=die
+	Constrained: Pattern=ruit, Pattern=waar, Pattern=die
+Turn ID=16| A | A : ja wat doorheen komen
+	Free: Pattern=ja, Pattern=doorheen
+	Constrained: 
+Turn ID=17| B | B : ja doorheen gaan dan zijn dat H
+	Free: Pattern=dat, Pattern=ja, Pattern=dan, Pattern=zijn, Pattern=doorheen gaan
+	Constrained: Pattern=doorheen
+Turn ID=18| B | B : deze hebben bovenop die ruit die doorboren worden en dan aan de zijkant hebben je nog van die ding in zo'n hoek en aan de onderkant ook en dan nog zo'n staaf erbij
+	Free: Pattern=bovenop, Pattern=die ruit die, Pattern=nog, Pattern=zo'n, Pattern=dan aan de zijkant, Pattern=hebben, Pattern=die, Pattern=hebben je, Pattern=aan de zijkant hebben, Pattern=deze, Pattern=staaf, Pattern=en dan, Pattern=aan de, Pattern=ook, Pattern=worden, Pattern=doorboren, Pattern=ding, Pattern=van, Pattern=en
+	Constrained: Pattern=ruit, Pattern=aan de, Pattern=dan, Pattern=aan de zijkant, Pattern=hebben, Pattern=die, Pattern=en
+Turn ID=19| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=20| A | A : zijn nummer elf
+	Free: Pattern=zijn
+	Constrained: 
+Turn ID=21| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=22| A | A : ja dit zijn die die ruit die er er bovenop worden gedoorboord door zo'n kubus en dan hebben je onderin hebben je één houder zo'n kromme houder ja
+	Free: Pattern=bovenop, Pattern=die ruit die, Pattern=zo'n, Pattern=ja, Pattern=worden, Pattern=onderin, Pattern=er, Pattern=hebben je, Pattern=en dan, Pattern=die die ruit, Pattern=ja dit zijn, Pattern=dan hebben je
+	Constrained: Pattern=ruit, Pattern=ja, Pattern=dan, Pattern=hebben, Pattern=die, Pattern=hebben je, Pattern=en, Pattern=zijn, Pattern=dit zijn
+Turn ID=23| B | B : ja dat zijn dan D
+	Free: Pattern=ja dat zijn dan
+	Constrained: Pattern=dat, Pattern=ja, Pattern=dan, Pattern=ja dat zijn, Pattern=zijn dan, Pattern=zijn
+Turn ID=24| B | B : dit zijn weer diegene met die ruit waar die blok doorheen gaan zo'n uitsteeksel aan de onderkant dezelfde zitten aan de zijkant en een soort staaf die uitsteken
+	Free: Pattern=die ruit waar, Pattern=zo'n, Pattern=staaf, Pattern=aan de, Pattern=aan de zijkant, Pattern=met, Pattern=een soort, Pattern=en, Pattern=blok, Pattern=doorheen gaan, Pattern=dit zijn, Pattern=zijn weer, Pattern=die, Pattern=zitten
+	Constrained: Pattern=ruit, Pattern=soort, Pattern=doorheen, Pattern=waar, Pattern=aan de, Pattern=een, Pattern=die, Pattern=zijn, Pattern=weer
+Turn ID=25| A | A : jajaja ja dat zijn weer die ja diezelfde staaf van onder zitten ook aan de zijkant ja dat zijn dan nummer veertien
+	Free: Pattern=ja, Pattern=staaf, Pattern=ook, Pattern=van, Pattern=zijn weer, Pattern=ja dat zijn, Pattern=aan de zijkant, Pattern=ja dat zijn dan, Pattern=die, Pattern=zitten
+	Constrained: Pattern=dat, Pattern=ja, Pattern=aan de, Pattern=dan, Pattern=ja dat zijn, Pattern=zijn dan, Pattern=zijn, Pattern=weer
+Turn ID=26| B | B : ja
+	Free: Pattern=ja
+	Constrained: 

@@ -1,0 +1,167 @@
+A|0| A: _en_ één _zitten_ zeggen maar voor _het_ object _en_ één _zitten_ _er_ _rechts_ naast 
+A|1| A: negen 
+A|2| A: _ik_ _hebben_ _die_ _ja dat_ _dat_ ding wat door _het_ voorwerp heen gaan met _die_ _twee_ poet één daarvoor _en_ één _er_ _rechts_ naast 
+A|3| A: _die_ tafel 
+A|4| A: de waar _we_ één één poot ervoor staan één poot erlangs 
+A|5| A: zes 
+B|6| B: deze [hebben] een soort van plateau boven [het] midden dit zijn een beetje raar [en] [die] [hebben] dan [twee] poo 
+B|7| B: links [en] [rechts] 
+B|8| B: [en] in [het] midden [zitten] , van [het] plateau zegmaar , [zitten] [ja] een soort piramide op zijn kop 
+B|9| B: [ja] [ja] 
+A|10| A: _ik_ [hebben] [die] tafel met één poot ervoor [en] één poot erlangs 
+A|11| A: [ja] 
+A|12| A: [ja] elf 
+B|13| B: [ja] 
+B|14| B: piramide op zijn kop [ja] 
+B|15| B: [ja] 
+B|16| B: [ja] 
+B|17| B: [dat] zijn L 
+A|18| A: de tafel met één poot ervoor [en] één poot erlangs 
+B|19| B: hoe noemen [we] deze ook alweer ? deze [hebben] zo'n vierkant boven [het] midden [en] dan [twee] stok aan 
+B|20| B: links [en] [rechts] [en] een piramide op zijn kop [er] bovenop 
+B|21| B: [en] een klein haak linksbof 
+B|22| B: niet veel hoe [we] [die] noemen 
+B|23| B: zo [ja] 
+B|24| B: [ja] 
+B|25| B: [ja dat] zijn hem , [ja] 
+B|26| B: [ja] 
+B|27| B: [ja] 
+B|28| B: [ja] 
+B|29| B: piramide op zijn kop 
+B|30| B: [ja] 
+B|31| B: I 
+B|32| B: dit zijn [dat] dienblad [die] je om kunnen gooien 
+B|33| B: ho 
+B|34| B: [en] [en] een piramide op zijn kop 
+B|35| B: [ja] 
+B|36| B: [ja] [ja] [ja] 
+B|37| B: [ja] 
+B|38| B: [ik] zoeken hem 
+B|39| B: [ja] 
+B|40| B: L 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : en één zitten zeggen maar voor het object en één zitten er rechts naast
+	Free: Pattern=rechts, Pattern=het, Pattern=zitten, Pattern=er, Pattern=en
+	Constrained: 
+Turn ID=1| A | A : negen
+	Free: 
+	Constrained: 
+Turn ID=2| A | A : ik hebben die ja dat dat ding wat door het voorwerp heen gaan met die twee poet één daarvoor en één er rechts naast
+	Free: Pattern=dat, Pattern=twee, Pattern=rechts, Pattern=het, Pattern=hebben, Pattern=die, Pattern=er, Pattern=ik, Pattern=en, Pattern=ja dat
+	Constrained: Pattern=dat, Pattern=ja
+Turn ID=3| A | A : die tafel
+	Free: Pattern=die
+	Constrained: 
+Turn ID=4| A | A : de waar we één één poot ervoor staan één poot erlangs
+	Free: Pattern=we
+	Constrained: 
+Turn ID=5| A | A : zes
+	Free: 
+	Constrained: 
+Turn ID=6| B | B : deze hebben een soort van plateau boven het midden dit zijn een beetje raar en die hebben dan twee poo
+	Free: Pattern=twee, Pattern=het, Pattern=hebben, Pattern=die, Pattern=en
+	Constrained: 
+Turn ID=7| B | B : links en rechts
+	Free: Pattern=en, Pattern=rechts
+	Constrained: 
+Turn ID=8| B | B : en in het midden zitten , van het plateau zegmaar , zitten ja een soort piramide op zijn kop
+	Free: Pattern=zitten, Pattern=en, Pattern=het, Pattern=ja
+	Constrained: 
+Turn ID=9| B | B : ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=10| A | A : ik hebben die tafel met één poot ervoor en één poot erlangs
+	Free: Pattern=en, Pattern=die, Pattern=hebben, Pattern=ik
+	Constrained: 
+Turn ID=11| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=12| A | A : ja elf
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=13| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=14| B | B : piramide op zijn kop ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=15| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=16| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=17| B | B : dat zijn L
+	Free: Pattern=dat
+	Constrained: 
+Turn ID=18| A | A : de tafel met één poot ervoor en één poot erlangs
+	Free: Pattern=en
+	Constrained: 
+Turn ID=19| B | B : hoe noemen we deze ook alweer ? deze hebben zo'n vierkant boven het midden en dan twee stok aan
+	Free: Pattern=twee, Pattern=het, Pattern=hebben, Pattern=we, Pattern=en
+	Constrained: 
+Turn ID=20| B | B : links en rechts en een piramide op zijn kop er bovenop
+	Free: Pattern=er, Pattern=en, Pattern=rechts
+	Constrained: 
+Turn ID=21| B | B : en een klein haak linksbof
+	Free: Pattern=en
+	Constrained: 
+Turn ID=22| B | B : niet veel hoe we die noemen
+	Free: Pattern=we, Pattern=die
+	Constrained: 
+Turn ID=23| B | B : zo ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=24| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=25| B | B : ja dat zijn hem , ja
+	Free: Pattern=ja dat, Pattern=ja
+	Constrained: Pattern=dat, Pattern=ja
+Turn ID=26| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=27| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=28| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=29| B | B : piramide op zijn kop
+	Free: 
+	Constrained: 
+Turn ID=30| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=31| B | B : I
+	Free: 
+	Constrained: 
+Turn ID=32| B | B : dit zijn dat dienblad die je om kunnen gooien
+	Free: Pattern=dat, Pattern=die
+	Constrained: 
+Turn ID=33| B | B : ho
+	Free: 
+	Constrained: 
+Turn ID=34| B | B : en en een piramide op zijn kop
+	Free: Pattern=en
+	Constrained: 
+Turn ID=35| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=36| B | B : ja ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=37| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=38| B | B : ik zoeken hem
+	Free: Pattern=ik
+	Constrained: 
+Turn ID=39| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=40| B | B : L
+	Free: 
+	Constrained: 

@@ -1,0 +1,99 @@
+A|0| A: _deze hebben_ _twee_ uitsteeksel _met aan het einde_ van _de_ uitsteeksel _een soort_ 
+A|1| A: _ja_ knop of knoopje erop 
+A|2| A: _en aan de_ achterkant zitten _een soort_ _plank schuin_ omhoog _met_ _een_ dinge eraan vast nog 
+B|3| B: [ja] ik weten welk je bedoelen 
+B|4| B: _dat zijn_ K 
+B|5| B: [deze hebben] weer zo'n doorlopen _staaf_ [met aan het einde] [een] bol [en aan de] ander kant ook [het einde] [een] bol 
+B|6| B: [en] [een soort] _schuin plaat_ link 
+A|7| A: [een] [schuin plaat] zo erachter 
+B|8| B: [ja] 
+A|9| A: _ja dat zijn bij mij_ negen 
+A|10| A: [deze hebben] _twee_ _die twee_ uitsteekselt [met] [een] rond [aan het einde] 
+A|11| A: [en] [dat] vierkantje zo [schuin] achter 
+B|12| B: [ja] 
+B|13| B: ik [zijn] hem even [aan het] zoeken 
+B|14| B: [ja dat zijn bij mij] F 
+B|15| B: [die] doorlopen _staaf_ _met die_ bollen [aan de] zijkant 
+B|16| B: _en die [plank_ schuin] 
+A|17| A: [ja] [ja] 
+A|18| A: [dat zijn bij mij] drie 
+A|19| A: [deze] [zijn] _die met die_ [soort] [staaf] erdoorheen [en die] rond dinge [aan de] uiteinde [en die plank] zo [schuin] 
+B|20| B: L 
+A|21| A: [ja] 
+B|22| B: [die met die] strokk [staaf] [met [die] twee] bollen [aan de] zijkant 
+A|23| A: [ja dat zijn] nummer vijf 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : deze hebben twee uitsteeksel met aan het einde van de uitsteeksel een soort
+	Free: Pattern=twee, Pattern=de, Pattern=met aan het einde, Pattern=deze hebben, Pattern=een soort
+	Constrained: Pattern=aan het, Pattern=soort, Pattern=een, Pattern=met, Pattern=deze, Pattern=aan het einde, Pattern=het einde
+Turn ID=1| A | A : ja knop of knoopje erop
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=2| A | A : en aan de achterkant zitten een soort plank schuin omhoog met een dinge eraan vast nog
+	Free: Pattern=een, Pattern=met, Pattern=een soort, Pattern=plank schuin, Pattern=en aan de
+	Constrained: Pattern=soort, Pattern=de, Pattern=aan de, Pattern=een, Pattern=schuin, Pattern=en
+Turn ID=3| B | B : ja ik weten welk je bedoelen
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=4| B | B : dat zijn K
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=5| B | B : deze hebben weer zo'n doorlopen staaf met aan het einde een bol en aan de ander kant ook het einde een bol
+	Free: Pattern=staaf, Pattern=een, Pattern=met aan het einde, Pattern=het einde, Pattern=deze hebben, Pattern=en aan de
+	Constrained: Pattern=aan het, Pattern=de, Pattern=aan de, Pattern=met, Pattern=en, Pattern=deze, Pattern=aan het einde, Pattern=het einde
+Turn ID=6| B | B : en een soort schuin plaat link
+	Free: Pattern=een soort, Pattern=schuin plaat, Pattern=en
+	Constrained: Pattern=een, Pattern=schuin, Pattern=soort
+Turn ID=7| A | A : een schuin plaat zo erachter
+	Free: Pattern=schuin plaat, Pattern=een
+	Constrained: Pattern=schuin
+Turn ID=8| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=9| A | A : ja dat zijn bij mij negen
+	Free: Pattern=ja dat zijn bij mij
+	Constrained: Pattern=ja, Pattern=ja dat zijn, Pattern=dat zijn bij mij, Pattern=zijn, Pattern=dat, Pattern=dat zijn
+Turn ID=10| A | A : deze hebben twee die twee uitsteekselt met een rond aan het einde
+	Free: Pattern=twee, Pattern=een, Pattern=deze hebben, Pattern=met, Pattern=die twee, Pattern=aan het einde
+	Constrained: Pattern=aan het, Pattern=twee, Pattern=het einde, Pattern=die, Pattern=deze
+Turn ID=11| A | A : en dat vierkantje zo schuin achter
+	Free: Pattern=en, Pattern=schuin, Pattern=dat
+	Constrained: 
+Turn ID=12| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=13| B | B : ik zijn hem even aan het zoeken
+	Free: Pattern=aan het, Pattern=zijn
+	Constrained: 
+Turn ID=14| B | B : ja dat zijn bij mij F
+	Free: Pattern=ja dat zijn bij mij
+	Constrained: Pattern=ja, Pattern=ja dat zijn, Pattern=dat zijn bij mij, Pattern=zijn, Pattern=dat, Pattern=dat zijn
+Turn ID=15| B | B : die doorlopen staaf met die bollen aan de zijkant
+	Free: Pattern=met die, Pattern=aan de, Pattern=die, Pattern=staaf
+	Constrained: Pattern=met, Pattern=die, Pattern=de
+Turn ID=16| B | B : en die plank schuin
+	Free: Pattern=en die plank, Pattern=plank schuin
+	Constrained: Pattern=schuin, Pattern=en, Pattern=en die, Pattern=die
+Turn ID=17| A | A : ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=18| A | A : dat zijn bij mij drie
+	Free: Pattern=dat zijn bij mij
+	Constrained: Pattern=dat, Pattern=zijn, Pattern=dat zijn
+Turn ID=19| A | A : deze zijn die met die soort staaf erdoorheen en die rond dinge aan de uiteinde en die plank zo schuin
+	Free: Pattern=en die, Pattern=soort, Pattern=aan de, Pattern=zijn, Pattern=deze, Pattern=staaf, Pattern=die met die, Pattern=schuin, Pattern=en die plank
+	Constrained: Pattern=en die, Pattern=met die, Pattern=de, Pattern=met, Pattern=die, Pattern=en
+Turn ID=20| B | B : L
+	Free: 
+	Constrained: 
+Turn ID=21| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=22| B | B : die met die strokk staaf met die twee bollen aan de zijkant
+	Free: Pattern=met die, Pattern=aan de, Pattern=die twee, Pattern=staaf, Pattern=die met die
+	Constrained: Pattern=met die, Pattern=twee, Pattern=de, Pattern=met, Pattern=die
+Turn ID=23| A | A : ja dat zijn nummer vijf
+	Free: Pattern=ja dat zijn
+	Constrained: Pattern=dat zijn, Pattern=zijn, Pattern=ja, Pattern=dat

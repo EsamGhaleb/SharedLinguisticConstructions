@@ -1,0 +1,127 @@
+A|0| A: _ja_ achten 
+B|1| B: _deze_ hebben _bovenop_ _een_ _soort_ staaf vierkant liggen recht erop 
+B|2| B: in het midden 
+B|3| B: _rechts_ hebben hij _een_ het zitten allemaal heel dicht erop het _zijn_ heel compact 
+B|4| B: _en_ _rechts_ hebben hij _een_ _soort_ arm _die_ uitsteekken _en_ dan rechtsboven het gaan er gaan ook nog _een_ ding omhoog uit _zijn_ arm 
+B|5| B: staafje _een_ dun staafje 
+B|6| B: _en_ _link_ zitten 
+B|7| B: [ja] 
+B|8| B: _en_ _linksonder_ zitten zo'n afgekapt dakje zo 
+B|9| B: [ja] 
+B|10| B: [ja] [ja] [ja] er kunnen _een_ arm uitkomenzeg maar 
+B|11| B: [ja] 
+A|12| A: [ja] [deze] _zijn die_ vage 
+A|13| A: _dat_ balkje [bovenop] [en] [die] [ja] [soort] van neusvorm Linksonder 
+A|14| A: [ja] vijfteen 
+A|15| A: okee 
+A|16| A: _de_ balk [link] [rechts] [bovenop] _en de_ neus [linksonder] 
+B|17| B: [ja] [en] [dat] blok op [zijn] hoofd 
+B|18| B: [ja] 
+B|19| B: [ja] [dat] [zijn] m 
+A|20| A: [ja] 
+A|21| A: [een] 
+A|22| A: balk [link] [rechts] [bovenop] [en] neus [linksonder] 
+A|23| A: _de_ balk [bovenop] van [link] [rechts] 
+B|24| B: [zijn die] compacte met [dat] staaf op [zijn] hoofd [en] iets in [zijn] hand 
+B|25| B: [ja] 
+B|26| B: [ja] 
+B|27| B: [ja] p 
+B|28| B: dit [zijn] [de] compact met [de] staaf op [zijn] hoofd [en de] mouw [en] [dat] ding wat hij vast hebben 
+B|29| B: [ja] even zoeken waar [die] [zijn] 
+B|30| B: n 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : ja achten
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=1| B | B : deze hebben bovenop een soort staaf vierkant liggen recht erop
+	Free: Pattern=bovenop, Pattern=soort, Pattern=deze, Pattern=een
+	Constrained: 
+Turn ID=2| B | B : in het midden
+	Free: 
+	Constrained: 
+Turn ID=3| B | B : rechts hebben hij een het zitten allemaal heel dicht erop het zijn heel compact
+	Free: Pattern=zijn, Pattern=een, Pattern=rechts
+	Constrained: 
+Turn ID=4| B | B : en rechts hebben hij een soort arm die uitsteekken en dan rechtsboven het gaan er gaan ook nog een ding omhoog uit zijn arm
+	Free: Pattern=soort, Pattern=rechts, Pattern=een, Pattern=die, Pattern=en, Pattern=zijn
+	Constrained: 
+Turn ID=5| B | B : staafje een dun staafje
+	Free: Pattern=een
+	Constrained: 
+Turn ID=6| B | B : en link zitten
+	Free: Pattern=link, Pattern=en
+	Constrained: 
+Turn ID=7| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=8| B | B : en linksonder zitten zo'n afgekapt dakje zo
+	Free: Pattern=en, Pattern=linksonder
+	Constrained: 
+Turn ID=9| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=10| B | B : ja ja ja er kunnen een arm uitkomenzeg maar
+	Free: Pattern=ja, Pattern=een
+	Constrained: 
+Turn ID=11| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=12| A | A : ja deze zijn die vage
+	Free: Pattern=zijn die, Pattern=deze, Pattern=ja
+	Constrained: Pattern=die, Pattern=zijn
+Turn ID=13| A | A : dat balkje bovenop en die ja soort van neusvorm Linksonder
+	Free: Pattern=soort, Pattern=ja, Pattern=die, Pattern=en, Pattern=dat, Pattern=bovenop
+	Constrained: 
+Turn ID=14| A | A : ja vijfteen
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=15| A | A : okee
+	Free: 
+	Constrained: 
+Turn ID=16| A | A : de balk link rechts bovenop en de neus linksonder
+	Free: Pattern=bovenop, Pattern=en de, Pattern=link, Pattern=linksonder, Pattern=de, Pattern=rechts
+	Constrained: Pattern=en, Pattern=de
+Turn ID=17| B | B : ja en dat blok op zijn hoofd
+	Free: Pattern=en, Pattern=dat, Pattern=zijn, Pattern=ja
+	Constrained: 
+Turn ID=18| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=19| B | B : ja dat zijn m
+	Free: Pattern=dat, Pattern=zijn, Pattern=ja
+	Constrained: 
+Turn ID=20| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=21| A | A : een
+	Free: Pattern=een
+	Constrained: 
+Turn ID=22| A | A : balk link rechts bovenop en neus linksonder
+	Free: Pattern=bovenop, Pattern=rechts, Pattern=link, Pattern=en, Pattern=linksonder
+	Constrained: 
+Turn ID=23| A | A : de balk bovenop van link rechts
+	Free: Pattern=link, Pattern=bovenop, Pattern=de, Pattern=rechts
+	Constrained: 
+Turn ID=24| B | B : zijn die compacte met dat staaf op zijn hoofd en iets in zijn hand
+	Free: Pattern=zijn die, Pattern=en, Pattern=dat, Pattern=zijn
+	Constrained: Pattern=die, Pattern=zijn
+Turn ID=25| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=26| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=27| B | B : ja p
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=28| B | B : dit zijn de compact met de staaf op zijn hoofd en de mouw en dat ding wat hij vast hebben
+	Free: Pattern=dat, Pattern=de, Pattern=en de, Pattern=en, Pattern=zijn
+	Constrained: Pattern=en, Pattern=de
+Turn ID=29| B | B : ja even zoeken waar die zijn
+	Free: Pattern=die, Pattern=zijn, Pattern=ja
+	Constrained: 
+Turn ID=30| B | B : n
+	Free: 
+	Constrained: 

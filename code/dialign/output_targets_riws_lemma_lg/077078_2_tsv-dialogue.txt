@@ -1,0 +1,147 @@
+A|0| A: _oké_ _dus_ _dat_ bakkie weer 
+A|1| A: bovenop _zitten een_ _soort_ _piramide_ puntig dinge 
+A|2| A: _die_ staan _een_ beetje _aan de_ achterkant _het_ _lijken_ alsof _die_ _hol_ _zijn_ _er_ _zitten_ schaduw in zeggen maar 
+A|3| A: _aan de_ voorkant _zitten een_ veel vierkantig uittulpsel 
+B|4| B: _ja_ ik denken [dat] ik hem hebben _en_ [aan de] linkerkant [zitten een] punt erin 
+A|5| A: [ja] zo'n dartpijl 
+B|6| B: [ja] 
+B|7| B: [oké] 
+B|8| B: letter J 
+B|9| B: [het] [zijn] [een] bak 
+B|10| B: hij _krijgen_ [een] kogel 
+B|11| B: _en_ hij hebben [een] punt _op_ [zijn] hoofd [een] best wel scherp [soort] van [piramide] 
+B|12| B: _en_ [het] bak [lijken] [hol] 
+A|13| A: [ja] 
+B|14| B: link _krijgen_ [die] [dus] [een] kogel echt [een] pijl 
+A|15| A: [ja] [ja] 
+B|16| B: [een] best wel intens 
+A|17| A: [ja] 
+A|18| A: nummer zes 
+A|19| A: dit [zijn] [die] [een] _met_ [dat] piramidedinge [op] [de] bovenkant [die] [een] beetje [hol] [lijken] 
+A|20| A: [en] [dat] [die] zo [dat] pijltje [aan de] zijkant steken [krijgen] 
+B|21| B: [ja] 
+B|22| B: letter E 
+B|23| B: hij worden raken door [een] kogel [en] [er] komen [een] [piramide] uit [zijn] hoofd 
+A|24| A: [ja] 
+A|25| A: nummer tien 
+A|26| A: dit [zijn] [die] raar _met_ [dat] pijltje wat zo in [de] zijkant steken [en] [dat] _driehoek erbovenop_ 
+B|27| B: [de] kogel 
+A|28| A: [ja] 
+B|29| B: ik moeten hem even zoeken G [met] [de] [driehoek erbovenop] 
+A|30| A: [en] zo'n 
+A|31| A: [ja] 
+B|32| B: letter G 
+B|33| B: hij [krijgen] [een] kogel [en] hij hebben [een] hoed [op] [dat] [op] [een] [piramide] [lijken] 
+A|34| A: yes 
+A|35| A: nummer tien 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : oké dus dat bakkie weer
+	Free: Pattern=dat, Pattern=oké, Pattern=dus
+	Constrained: 
+Turn ID=1| A | A : bovenop zitten een soort piramide puntig dinge
+	Free: Pattern=zitten een, Pattern=soort, Pattern=piramide
+	Constrained: Pattern=een, Pattern=zitten
+Turn ID=2| A | A : die staan een beetje aan de achterkant het lijken alsof die hol zijn er zitten schaduw in zeggen maar
+	Free: Pattern=hol, Pattern=aan de, Pattern=lijken, Pattern=een, Pattern=het, Pattern=er, Pattern=zijn, Pattern=die, Pattern=zitten
+	Constrained: Pattern=de
+Turn ID=3| A | A : aan de voorkant zitten een veel vierkantig uittulpsel
+	Free: Pattern=aan de, Pattern=zitten een
+	Constrained: Pattern=een, Pattern=de, Pattern=zitten
+Turn ID=4| B | B : ja ik denken dat ik hem hebben en aan de linkerkant zitten een punt erin
+	Free: Pattern=dat, Pattern=ja, Pattern=aan de, Pattern=zitten een, Pattern=en
+	Constrained: Pattern=een, Pattern=de, Pattern=zitten
+Turn ID=5| A | A : ja zo'n dartpijl
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=6| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=7| B | B : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=8| B | B : letter J
+	Free: 
+	Constrained: 
+Turn ID=9| B | B : het zijn een bak
+	Free: Pattern=een, Pattern=het, Pattern=zijn
+	Constrained: 
+Turn ID=10| B | B : hij krijgen een kogel
+	Free: Pattern=een, Pattern=krijgen
+	Constrained: 
+Turn ID=11| B | B : en hij hebben een punt op zijn hoofd een best wel scherp soort van piramide
+	Free: Pattern=soort, Pattern=een, Pattern=en, Pattern=zijn, Pattern=piramide, Pattern=op
+	Constrained: 
+Turn ID=12| B | B : en het bak lijken hol
+	Free: Pattern=lijken, Pattern=en, Pattern=het, Pattern=hol
+	Constrained: 
+Turn ID=13| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=14| B | B : link krijgen die dus een kogel echt een pijl
+	Free: Pattern=een, Pattern=die, Pattern=krijgen, Pattern=dus
+	Constrained: 
+Turn ID=15| A | A : ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=16| B | B : een best wel intens
+	Free: Pattern=een
+	Constrained: 
+Turn ID=17| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=18| A | A : nummer zes
+	Free: 
+	Constrained: 
+Turn ID=19| A | A : dit zijn die een met dat piramidedinge op de bovenkant die een beetje hol lijken
+	Free: Pattern=dat, Pattern=hol, Pattern=de, Pattern=op, Pattern=lijken, Pattern=een, Pattern=met, Pattern=die, Pattern=zijn
+	Constrained: 
+Turn ID=20| A | A : en dat die zo dat pijltje aan de zijkant steken krijgen
+	Free: Pattern=dat, Pattern=aan de, Pattern=krijgen, Pattern=die, Pattern=en
+	Constrained: Pattern=de
+Turn ID=21| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=22| B | B : letter E
+	Free: 
+	Constrained: 
+Turn ID=23| B | B : hij worden raken door een kogel en er komen een piramide uit zijn hoofd
+	Free: Pattern=piramide, Pattern=een, Pattern=er, Pattern=en, Pattern=zijn
+	Constrained: 
+Turn ID=24| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=25| A | A : nummer tien
+	Free: 
+	Constrained: 
+Turn ID=26| A | A : dit zijn die raar met dat pijltje wat zo in de zijkant steken en dat driehoek erbovenop
+	Free: Pattern=dat, Pattern=de, Pattern=driehoek erbovenop, Pattern=met, Pattern=die, Pattern=en, Pattern=zijn
+	Constrained: 
+Turn ID=27| B | B : de kogel
+	Free: Pattern=de
+	Constrained: 
+Turn ID=28| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=29| B | B : ik moeten hem even zoeken G met de driehoek erbovenop
+	Free: Pattern=driehoek erbovenop, Pattern=met, Pattern=de
+	Constrained: 
+Turn ID=30| A | A : en zo'n
+	Free: Pattern=en
+	Constrained: 
+Turn ID=31| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=32| B | B : letter G
+	Free: 
+	Constrained: 
+Turn ID=33| B | B : hij krijgen een kogel en hij hebben een hoed op dat op een piramide lijken
+	Free: Pattern=dat, Pattern=lijken, Pattern=een, Pattern=krijgen, Pattern=en, Pattern=piramide, Pattern=op
+	Constrained: 
+Turn ID=34| A | A : yes
+	Free: 
+	Constrained: 
+Turn ID=35| A | A : nummer tien
+	Free: 
+	Constrained: 

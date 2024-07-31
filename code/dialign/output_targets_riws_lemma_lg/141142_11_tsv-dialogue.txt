@@ -1,0 +1,135 @@
+A|0| A: _oké_ 
+B|1| B: nou _dit zijn_ _weer_ zo'n kop _met_ _een_ soort van bolle eraan in het midden van het kop 
+B|2| B: staan _twee kegel_ op _die_ beide _een_ _ander_ vorm _hebben_ 
+B|3| B: _en_ _een_ uitstulpsel _uitsteeksel_ _aan de linkerkant_ van het kop 
+A|4| A: _ja_ _oké_ 
+A|5| A: _ja_ dan dan [hebben] _ik_ hem dat [zijn] veertien voor mij dan 
+B|6| B: [oké] 
+A|7| A: yes 
+A|8| A: [oké] deze [hebben] [twee kegel] [aan de] bovenkant [die] er net wat [ander] uitzien 
+B|9| B: [ja] 
+A|10| A: _aan de rechterkant_ [een] _bol_ 
+B|11| B: [ja] 
+A|12| A: [en] [aan de linkerkant] [een] ook nog [een] [uitsteeksel] 
+B|13| B: het [zijn] N 
+A|14| A: [oké] 
+B|15| B: het [zijn] _weer_ het kop _met de_ _met de bol_ in het midden _en de twee_ 
+B|16| B: _de twee_ kegelvormig [uitsteeksel] waarvan [de] één één [kegel] [zijn] _en de_ [ander] [een] cilinder 
+B|17| B: _en de_ [ander] [een] blok bedoelen [ik] 
+A|18| A: [ja] dus inderdaad [die] [die] _die twee kegel_ boven 
+B|19| B: [ja] 
+A|20| A: [ja] [oké] dat [zijn] negen [weer] 
+A|21| A: yes 
+A|22| A: [dit _zijn] die_ [met de bol] rechts [en de twee] [twee kegel] [aan de] bovenkant [die] er [ander] uitzien 
+B|23| B: [zijn] G 
+B|24| B: het [zijn die] [een] [weer] [met] [die twee kegel] erop [en] [die] _bol aan de rechterkant_ 
+B|25| B: [en] het tobleronetje [aan de linkerkant] 
+A|26| A: yes [oké] dat [zijn] vijf 
+A|27| A: [ja] [oké] 
+A|28| A: [de [bol] aan de rechterkant] 
+A|29| A: [en] dan [die twee kegel] er erbovenop 
+A|30| A: [die] er [ander] uitzien 
+B|31| B: J 
+A|32| A: yes 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=1| B | B : nou dit zijn weer zo'n kop met een soort van bolle eraan in het midden van het kop
+	Free: Pattern=dit zijn, Pattern=een, Pattern=met, Pattern=weer
+	Constrained: Pattern=zijn
+Turn ID=2| B | B : staan twee kegel op die beide een ander vorm hebben
+	Free: Pattern=een, Pattern=hebben, Pattern=die, Pattern=twee kegel, Pattern=ander
+	Constrained: Pattern=kegel
+Turn ID=3| B | B : en een uitstulpsel uitsteeksel aan de linkerkant van het kop
+	Free: Pattern=aan de linkerkant, Pattern=een, Pattern=en, Pattern=uitsteeksel
+	Constrained: Pattern=aan de, Pattern=de
+Turn ID=4| A | A : ja oké
+	Free: Pattern=ja, Pattern=oké
+	Constrained: 
+Turn ID=5| A | A : ja dan dan hebben ik hem dat zijn veertien voor mij dan
+	Free: Pattern=ja, Pattern=zijn, Pattern=hebben, Pattern=ik
+	Constrained: 
+Turn ID=6| B | B : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=7| A | A : yes
+	Free: 
+	Constrained: 
+Turn ID=8| A | A : oké deze hebben twee kegel aan de bovenkant die er net wat ander uitzien
+	Free: Pattern=aan de, Pattern=hebben, Pattern=die, Pattern=oké, Pattern=twee kegel, Pattern=ander
+	Constrained: Pattern=de, Pattern=kegel
+Turn ID=9| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=10| A | A : aan de rechterkant een bol
+	Free: Pattern=aan de rechterkant, Pattern=een, Pattern=bol
+	Constrained: Pattern=aan de, Pattern=de
+Turn ID=11| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=12| A | A : en aan de linkerkant een ook nog een uitsteeksel
+	Free: Pattern=aan de linkerkant, Pattern=een, Pattern=en, Pattern=uitsteeksel
+	Constrained: Pattern=aan de, Pattern=de
+Turn ID=13| B | B : het zijn N
+	Free: Pattern=zijn
+	Constrained: 
+Turn ID=14| A | A : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=15| B | B : het zijn weer het kop met de met de bol in het midden en de twee
+	Free: Pattern=met de, Pattern=met de bol, Pattern=en de twee, Pattern=zijn, Pattern=weer
+	Constrained: Pattern=en de, Pattern=de bol, Pattern=met, Pattern=en, Pattern=de, Pattern=met de, Pattern=de twee, Pattern=bol
+Turn ID=16| B | B : de twee kegelvormig uitsteeksel waarvan de één één kegel zijn en de ander een cilinder
+	Free: Pattern=kegel, Pattern=de, Pattern=de twee, Pattern=uitsteeksel, Pattern=een, Pattern=en de, Pattern=ander, Pattern=zijn
+	Constrained: Pattern=de, Pattern=en
+Turn ID=17| B | B : en de ander een blok bedoelen ik
+	Free: Pattern=en de, Pattern=een, Pattern=ander, Pattern=ik
+	Constrained: Pattern=de, Pattern=en
+Turn ID=18| A | A : ja dus inderdaad die die die twee kegel boven
+	Free: Pattern=die twee kegel, Pattern=ja, Pattern=die
+	Constrained: Pattern=twee kegel, Pattern=die, Pattern=kegel
+Turn ID=19| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=20| A | A : ja oké dat zijn negen weer
+	Free: Pattern=ja, Pattern=zijn, Pattern=oké, Pattern=weer
+	Constrained: 
+Turn ID=21| A | A : yes
+	Free: 
+	Constrained: 
+Turn ID=22| A | A : dit zijn die met de bol rechts en de twee twee kegel aan de bovenkant die er ander uitzien
+	Free: Pattern=aan de, Pattern=zijn die, Pattern=met de bol, Pattern=die, Pattern=twee kegel, Pattern=ander, Pattern=en de twee, Pattern=dit zijn
+	Constrained: Pattern=kegel, Pattern=en de, Pattern=de bol, Pattern=met, Pattern=die, Pattern=en, Pattern=zijn, Pattern=de, Pattern=met de, Pattern=de twee, Pattern=bol
+Turn ID=23| B | B : zijn G
+	Free: Pattern=zijn
+	Constrained: 
+Turn ID=24| B | B : het zijn die een weer met die twee kegel erop en die bol aan de rechterkant
+	Free: Pattern=die twee kegel, Pattern=een, Pattern=zijn die, Pattern=met, Pattern=die, Pattern=en, Pattern=bol aan de rechterkant, Pattern=weer
+	Constrained: Pattern=kegel, Pattern=de, Pattern=twee kegel, Pattern=zijn, Pattern=bol, Pattern=aan de, Pattern=aan de rechterkant, Pattern=die
+Turn ID=25| B | B : en het tobleronetje aan de linkerkant
+	Free: Pattern=aan de linkerkant, Pattern=en
+	Constrained: Pattern=aan de, Pattern=de
+Turn ID=26| A | A : yes oké dat zijn vijf
+	Free: Pattern=zijn, Pattern=oké
+	Constrained: 
+Turn ID=27| A | A : ja oké
+	Free: Pattern=ja, Pattern=oké
+	Constrained: 
+Turn ID=28| A | A : de bol aan de rechterkant
+	Free: Pattern=bol aan de rechterkant, Pattern=de bol
+	Constrained: Pattern=bol, Pattern=de, Pattern=aan de rechterkant, Pattern=aan de
+Turn ID=29| A | A : en dan die twee kegel er erbovenop
+	Free: Pattern=die twee kegel, Pattern=en
+	Constrained: Pattern=twee kegel, Pattern=die, Pattern=kegel
+Turn ID=30| A | A : die er ander uitzien
+	Free: Pattern=die, Pattern=ander
+	Constrained: 
+Turn ID=31| B | B : J
+	Free: 
+	Constrained: 
+Turn ID=32| A | A : yes
+	Free: 
+	Constrained: 

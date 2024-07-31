@@ -1,0 +1,103 @@
+B|0| B: _oké_ _de_ volgen 
+B|1| B: deze hebben _dat_ _een_ _een_ vierkant plaat in _het_ _midden_ _die_ hem zeggen maar _doormidden_ haalt 
+A|2| A: _ja en_ dan zo'n soort schoorsteen aan [de] linkerkant 
+B|3| B: [ja en] _twee haart_ _bovenop_ 
+A|4| A: [haart] [ja] 
+A|5| A: [oké] dan _zijn_ [het] nummer zes 
+A|6| A: _dit zijn die_ [een] _met_ [dat] _vlak_ dwars erdoorheen 
+B|7| B: [oké] 
+A|8| A: [en] _met_ [die] [twee] spriet [bovenop] 
+B|9| B: _dat zijn_ bij mij C 
+B|10| B: [oké] 
+B|11| B: [dit zijn die] _met het_ _met de_ plaat _doormidden_ [zijn] gehakt 
+B|12| B: [en] _de twee_ schoorsteent [bovenop] 
+A|13| A: [ja] 
+A|14| A: [ja] 
+A|15| A: [dat zijn] nummer dertien 
+A|16| A: [dit zijn die] [een] [met _het] vlak_ dwars [doormidden] snijden 
+B|17| B: [ja] 
+A|18| A: [met] [die] [twee] ding [bovenop] 
+B|19| B: [dat zijn] J 
+B|20| B: _door_ [het vlak] [doormidden] halen 
+A|21| A: [ja] [dat zijn] nummer negen 
+A|22| A: nummer negen 
+A|23| A: [de] [een] [met de] balk dwars [door] [de] [midden] [met [de] twee] [twee haart] 
+B|24| B: [dat zijn] N 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : oké de volgen
+	Free: Pattern=de, Pattern=oké
+	Constrained: 
+Turn ID=1| B | B : deze hebben dat een een vierkant plaat in het midden die hem zeggen maar doormidden haalt
+	Free: Pattern=dat, Pattern=een, Pattern=het, Pattern=die, Pattern=doormidden, Pattern=midden
+	Constrained: 
+Turn ID=2| A | A : ja en dan zo'n soort schoorsteen aan de linkerkant
+	Free: Pattern=ja en, Pattern=de
+	Constrained: Pattern=ja, Pattern=en
+Turn ID=3| B | B : ja en twee haart bovenop
+	Free: Pattern=ja en, Pattern=twee haart, Pattern=bovenop
+	Constrained: Pattern=ja, Pattern=haart, Pattern=en, Pattern=twee
+Turn ID=4| A | A : haart ja
+	Free: Pattern=ja, Pattern=haart
+	Constrained: 
+Turn ID=5| A | A : oké dan zijn het nummer zes
+	Free: Pattern=zijn, Pattern=het, Pattern=oké
+	Constrained: 
+Turn ID=6| A | A : dit zijn die een met dat vlak dwars erdoorheen
+	Free: Pattern=dat, Pattern=dit zijn die, Pattern=een, Pattern=met, Pattern=vlak
+	Constrained: Pattern=zijn, Pattern=die
+Turn ID=7| B | B : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=8| A | A : en met die twee spriet bovenop
+	Free: Pattern=bovenop, Pattern=twee, Pattern=met, Pattern=die, Pattern=en
+	Constrained: 
+Turn ID=9| B | B : dat zijn bij mij C
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=10| B | B : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=11| B | B : dit zijn die met het met de plaat doormidden zijn gehakt
+	Free: Pattern=dit zijn die, Pattern=met de, Pattern=met het, Pattern=zijn, Pattern=doormidden
+	Constrained: Pattern=de, Pattern=het, Pattern=met, Pattern=die, Pattern=zijn
+Turn ID=12| B | B : en de twee schoorsteent bovenop
+	Free: Pattern=de twee, Pattern=en, Pattern=bovenop
+	Constrained: Pattern=twee, Pattern=de
+Turn ID=13| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=14| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=15| A | A : dat zijn nummer dertien
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=16| A | A : dit zijn die een met het vlak dwars doormidden snijden
+	Free: Pattern=dit zijn die, Pattern=met het, Pattern=doormidden, Pattern=een, Pattern=het vlak
+	Constrained: Pattern=het, Pattern=met, Pattern=die, Pattern=vlak, Pattern=zijn
+Turn ID=17| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=18| A | A : met die twee ding bovenop
+	Free: Pattern=bovenop, Pattern=twee, Pattern=met, Pattern=die
+	Constrained: 
+Turn ID=19| B | B : dat zijn J
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=20| B | B : door het vlak doormidden halen
+	Free: Pattern=het vlak, Pattern=door, Pattern=doormidden
+	Constrained: Pattern=het, Pattern=vlak
+Turn ID=21| A | A : ja dat zijn nummer negen
+	Free: Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=22| A | A : nummer negen
+	Free: 
+	Constrained: 
+Turn ID=23| A | A : de een met de balk dwars door de midden met de twee twee haart
+	Free: Pattern=de twee, Pattern=een, Pattern=midden, Pattern=de, Pattern=met de, Pattern=door, Pattern=twee haart
+	Constrained: Pattern=haart, Pattern=twee, Pattern=de, Pattern=met
+Turn ID=24| B | B : dat zijn N
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn, Pattern=dat

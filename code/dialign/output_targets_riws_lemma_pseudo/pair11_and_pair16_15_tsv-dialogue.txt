@@ -1,0 +1,167 @@
+A|0| A: _en_ _zijn_ _dat_ _aan de_ bovenkant _of_ _aan de_ onderkant want _je hebben_ _er_ _twee_ 
+B|1| B: alright deze _die_ [zijn] een _beetje_ deze [hebben] best wel _veel_ verschillend object 
+A|2| A: _ja_ _maar_ daar [hebben] _je_ _er_ _ook_ _twee_ _van_ 
+B|3| B: [je] uitzien misschien _op_ [je] scherm [ook] wel [dat] [er] een _kop_ _kop_ koffiekopje [zijn] _die_ _op_ een soort [van] onderzetter staan 
+A|4| A: _toch_ 
+A|5| A: één [die] zitten [veel] boven _aan_ _het_ beker _en_ één zitten [veel] onder _aan_ _het_ beker 
+A|6| A: _aan de_ onderkant 
+B|7| B: bij deze lijken [het] alsof _die _door_ de_ onderzetter heen [zijn] zakken 
+A|8| A: dan [zijn] [het] nummer veertien 
+B|9| B: [en] nou [ja] [je hebben] [aan de] [aan de] linkerkant zeggen [maar] een soort [van] haak 
+B|10| B: bovenop lijken [het] soort [van] [twee] klein schoorsteen [of] hoe [je] [het] [ook] willen noemen [en] echt een _beetje_ een slurfneus 
+B|11| B: _ik_ denken [toch] een _beetje_ _in_ gezicht _dus_ 
+B|12| B: [ja] 
+A|13| A: dit [zijn] [de] plaat [die] weer [beetje] redelijk onderaan [door de] _door het_ [kop] [zijn] steken 
+A|14| A: weer [van] [die] [twee] [van] [die] pun bovenaan [het] beker 
+A|15| A: [ja] net net [hebben] [ik] [die] boven [die] plaat [die] daar bovenaan [zijn] 
+A|16| A: maarja nu [zijn] [het] [in] ieder geval onderaan 
+A|17| A: [dus] dan _moeten_ [je] hem nu goed doen [ja] 
+A|18| A: [ja] 
+A|19| A: [ja] 
+A|20| A: _dat zijn_ nummer acht 
+A|21| A: [ja] dit [zijn] [dus] weer [die] _plateau_ [die door] [aan de] onderkant _door het_ ding [zijn] met [ook] weer [twee] [van] [die] identiek balk 
+B|22| B: [ja] 
+B|23| B: [ja] 
+B|24| B: [dat zijn] g 
+B|25| B: deze [zijn] [door het] onderzettertje heen zakken [hebben] een slurfneus [en] een haak [aan de] linkerkant 
+A|26| A: [ja] [ik] weten wat 
+A|27| A: [ja] 
+A|28| A: [ja] 
+A|29| A: zestien 
+A|30| A: roken ballerina 
+A|31| A: weer [die] plaat [die] [aan de] onderkant doorheen [zijn] gaan 
+B|32| B: [ja] 
+A|33| A: niet [op] [de] onderkant [maar] daar vrij onderaan met [die] [twee] steelt 
+A|34| A: [de] [de] dansen ballerina [die] 
+B|35| B: [ja] nou [moeten] [ik] [ook] zoeken waar [zijn] [die [door] het] [door het] [plateau] heen [zijn] 
+B|36| B: [ja] precies 
+B|37| B: p 
+B|38| B: deze [hebben] een slurfneus [zijn] [door] [zijn] onderzetter heen zakken 
+B|39| B: [en] hij [hebben] een haak 
+B|40| B: [dat zijn] l 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : en zijn dat aan de bovenkant of aan de onderkant want je hebben er twee
+	Free: Pattern=dat, Pattern=of, Pattern=twee, Pattern=aan de, Pattern=je hebben, Pattern=er, Pattern=en, Pattern=zijn
+	Constrained: Pattern=hebben, Pattern=aan, Pattern=je, Pattern=de
+Turn ID=1| B | B : alright deze die zijn een beetje deze hebben best wel veel verschillend object
+	Free: Pattern=beetje, Pattern=veel, Pattern=hebben, Pattern=die, Pattern=zijn
+	Constrained: 
+Turn ID=2| A | A : ja maar daar hebben je er ook twee van
+	Free: Pattern=twee, Pattern=ja, Pattern=ook, Pattern=hebben, Pattern=er, Pattern=van, Pattern=maar, Pattern=je
+	Constrained: 
+Turn ID=3| B | B : je uitzien misschien op je scherm ook wel dat er een kop kop koffiekopje zijn die op een soort van onderzetter staan
+	Free: Pattern=dat, Pattern=kop, Pattern=die, Pattern=er, Pattern=van, Pattern=zijn, Pattern=je, Pattern=op, Pattern=ook
+	Constrained: 
+Turn ID=4| A | A : toch
+	Free: Pattern=toch
+	Constrained: 
+Turn ID=5| A | A : één die zitten veel boven aan het beker en één zitten veel onder aan het beker
+	Free: Pattern=aan, Pattern=veel, Pattern=het, Pattern=die, Pattern=en
+	Constrained: 
+Turn ID=6| A | A : aan de onderkant
+	Free: Pattern=aan de
+	Constrained: Pattern=aan, Pattern=de
+Turn ID=7| B | B : bij deze lijken het alsof die door de onderzetter heen zijn zakken
+	Free: Pattern=die door, Pattern=door de, Pattern=zijn, Pattern=het
+	Constrained: Pattern=door, Pattern=die, Pattern=de
+Turn ID=8| A | A : dan zijn het nummer veertien
+	Free: Pattern=zijn, Pattern=het
+	Constrained: 
+Turn ID=9| B | B : en nou ja je hebben aan de aan de linkerkant zeggen maar een soort van haak
+	Free: Pattern=ja, Pattern=aan de, Pattern=je hebben, Pattern=maar, Pattern=van, Pattern=en
+	Constrained: Pattern=hebben, Pattern=aan, Pattern=je, Pattern=de
+Turn ID=10| B | B : bovenop lijken het soort van twee klein schoorsteen of hoe je het ook willen noemen en echt een beetje een slurfneus
+	Free: Pattern=of, Pattern=twee, Pattern=ook, Pattern=beetje, Pattern=het, Pattern=je, Pattern=van, Pattern=en
+	Constrained: 
+Turn ID=11| B | B : ik denken toch een beetje in gezicht dus
+	Free: Pattern=dus, Pattern=beetje, Pattern=in, Pattern=toch, Pattern=ik
+	Constrained: 
+Turn ID=12| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=13| A | A : dit zijn de plaat die weer beetje redelijk onderaan door de door het kop zijn steken
+	Free: Pattern=de, Pattern=beetje, Pattern=kop, Pattern=die, Pattern=door de, Pattern=zijn, Pattern=door het
+	Constrained: Pattern=door, Pattern=de, Pattern=het
+Turn ID=14| A | A : weer van die twee van die pun bovenaan het beker
+	Free: Pattern=die, Pattern=twee, Pattern=het, Pattern=van
+	Constrained: 
+Turn ID=15| A | A : ja net net hebben ik die boven die plaat die daar bovenaan zijn
+	Free: Pattern=ja, Pattern=hebben, Pattern=die, Pattern=ik, Pattern=zijn
+	Constrained: 
+Turn ID=16| A | A : maarja nu zijn het in ieder geval onderaan
+	Free: Pattern=zijn, Pattern=het, Pattern=in
+	Constrained: 
+Turn ID=17| A | A : dus dan moeten je hem nu goed doen ja
+	Free: Pattern=je, Pattern=moeten, Pattern=ja, Pattern=dus
+	Constrained: 
+Turn ID=18| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=19| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=20| A | A : dat zijn nummer acht
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=21| A | A : ja dit zijn dus weer die plateau die door aan de onderkant door het ding zijn met ook weer twee van die identiek balk
+	Free: Pattern=twee, Pattern=plateau, Pattern=die, Pattern=van, Pattern=die door, Pattern=dus, Pattern=ja, Pattern=aan de, Pattern=ook, Pattern=zijn, Pattern=door het
+	Constrained: Pattern=door, Pattern=het, Pattern=die, Pattern=de, Pattern=aan
+Turn ID=22| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=23| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=24| B | B : dat zijn g
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=25| B | B : deze zijn door het onderzettertje heen zakken hebben een slurfneus en een haak aan de linkerkant
+	Free: Pattern=aan de, Pattern=hebben, Pattern=en, Pattern=zijn, Pattern=door het
+	Constrained: Pattern=aan, Pattern=door, Pattern=de, Pattern=het
+Turn ID=26| A | A : ja ik weten wat
+	Free: Pattern=ik, Pattern=ja
+	Constrained: 
+Turn ID=27| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=28| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=29| A | A : zestien
+	Free: 
+	Constrained: 
+Turn ID=30| A | A : roken ballerina
+	Free: 
+	Constrained: 
+Turn ID=31| A | A : weer die plaat die aan de onderkant doorheen zijn gaan
+	Free: Pattern=aan de, Pattern=zijn, Pattern=die
+	Constrained: Pattern=aan, Pattern=de
+Turn ID=32| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=33| A | A : niet op de onderkant maar daar vrij onderaan met die twee steelt
+	Free: Pattern=twee, Pattern=de, Pattern=op, Pattern=die, Pattern=maar
+	Constrained: 
+Turn ID=34| A | A : de de dansen ballerina die
+	Free: Pattern=die, Pattern=de
+	Constrained: 
+Turn ID=35| B | B : ja nou moeten ik ook zoeken waar zijn die door het door het plateau heen zijn
+	Free: Pattern=ja, Pattern=ook, Pattern=moeten, Pattern=plateau, Pattern=ik, Pattern=die door, Pattern=zijn, Pattern=door het
+	Constrained: Pattern=door, Pattern=die, Pattern=het
+Turn ID=36| B | B : ja precies
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=37| B | B : p
+	Free: 
+	Constrained: 
+Turn ID=38| B | B : deze hebben een slurfneus zijn door zijn onderzetter heen zakken
+	Free: Pattern=hebben, Pattern=zijn, Pattern=door
+	Constrained: 
+Turn ID=39| B | B : en hij hebben een haak
+	Free: Pattern=hebben, Pattern=en
+	Constrained: 
+Turn ID=40| B | B : dat zijn l
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn

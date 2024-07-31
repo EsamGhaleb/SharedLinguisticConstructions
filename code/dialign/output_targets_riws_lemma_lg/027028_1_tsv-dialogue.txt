@@ -1,0 +1,127 @@
+B|0| B: _ja_ nou we hebben _de_ _de adapter weer_ 
+A|1| A: [de adapter weer] 
+A|2| A: [de] ouderwets [adapter] _die_ ik net omschrijven 
+B|3| B: _ja_ 
+B|4| B: _ja_ 
+A|5| A: oké _dat zijn_ dan negen 
+A|6| A: het _zijn_ net alsof er _twee wolkenkrabber_ in het kop _zijn_ boord 
+B|7| B: _ja_ [die] 
+A|8| A: en _met_ zo'n antenne daarboven en dan zo'n plaat zeggen maar 
+B|9| B: _ja_ 
+B|10| B: [dat zijn] G 
+B|11| B: _ja_ _dit zijn_ [die] _met die_ [twee wolkenkrabber] 
+B|12| B: [die] tegenaan 
+A|13| A: [ja] 
+A|14| A: [ja] en [die] antennetje of wat het ook [zijn] omhoog 
+B|15| B: [ja] [ja] [ja] 
+A|16| A: negen 
+A|17| A: [dit zijn] [de] one's [de] [twee wolkenkrabber] [die] erin zitten 
+B|18| B: [ja] 
+B|19| B: d 
+B|20| B: [dit zijn] [die] [twee wolkenkrabber] 
+A|21| A: [ja] 
+A|22| A: even kijken waar [die] [zijn] blijven 
+A|23| A: [met die] antenne boven [zijn] het 
+B|24| B: [ja] 
+A|25| A: [ja] 
+A|26| A: één 
+A|27| A: niet hetzelfde 
+A|28| A: [de] [twee wolkenkrabber] [die] erin [zijn] boord 
+A|29| A: [ja] 
+B|30| B: B 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : ja nou we hebben de de adapter weer
+	Free: Pattern=de adapter weer, Pattern=de, Pattern=ja
+	Constrained: Pattern=adapter, Pattern=de
+Turn ID=1| A | A : de adapter weer
+	Free: Pattern=de adapter weer
+	Constrained: Pattern=adapter, Pattern=de
+Turn ID=2| A | A : de ouderwets adapter die ik net omschrijven
+	Free: Pattern=adapter, Pattern=die, Pattern=de
+	Constrained: 
+Turn ID=3| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=4| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=5| A | A : oké dat zijn dan negen
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn
+Turn ID=6| A | A : het zijn net alsof er twee wolkenkrabber in het kop zijn boord
+	Free: Pattern=twee wolkenkrabber, Pattern=zijn
+	Constrained: 
+Turn ID=7| B | B : ja die
+	Free: Pattern=die, Pattern=ja
+	Constrained: 
+Turn ID=8| A | A : en met zo'n antenne daarboven en dan zo'n plaat zeggen maar
+	Free: Pattern=met
+	Constrained: 
+Turn ID=9| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=10| B | B : dat zijn G
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn
+Turn ID=11| B | B : ja dit zijn die met die twee wolkenkrabber
+	Free: Pattern=met die, Pattern=ja, Pattern=twee wolkenkrabber, Pattern=die, Pattern=dit zijn
+	Constrained: Pattern=zijn, Pattern=die, Pattern=met
+Turn ID=12| B | B : die tegenaan
+	Free: Pattern=die
+	Constrained: 
+Turn ID=13| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=14| A | A : ja en die antennetje of wat het ook zijn omhoog
+	Free: Pattern=zijn, Pattern=die, Pattern=ja
+	Constrained: 
+Turn ID=15| B | B : ja ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=16| A | A : negen
+	Free: 
+	Constrained: 
+Turn ID=17| A | A : dit zijn de one's de twee wolkenkrabber die erin zitten
+	Free: Pattern=dit zijn, Pattern=twee wolkenkrabber, Pattern=die, Pattern=de
+	Constrained: Pattern=zijn
+Turn ID=18| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=19| B | B : d
+	Free: 
+	Constrained: 
+Turn ID=20| B | B : dit zijn die twee wolkenkrabber
+	Free: Pattern=dit zijn, Pattern=twee wolkenkrabber, Pattern=die
+	Constrained: Pattern=zijn
+Turn ID=21| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=22| A | A : even kijken waar die zijn blijven
+	Free: Pattern=zijn, Pattern=die
+	Constrained: 
+Turn ID=23| A | A : met die antenne boven zijn het
+	Free: Pattern=met die, Pattern=zijn
+	Constrained: Pattern=die, Pattern=met
+Turn ID=24| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=25| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=26| A | A : één
+	Free: 
+	Constrained: 
+Turn ID=27| A | A : niet hetzelfde
+	Free: 
+	Constrained: 
+Turn ID=28| A | A : de twee wolkenkrabber die erin zijn boord
+	Free: Pattern=twee wolkenkrabber, Pattern=zijn, Pattern=die, Pattern=de
+	Constrained: 
+Turn ID=29| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=30| B | B : B
+	Free: 
+	Constrained: 

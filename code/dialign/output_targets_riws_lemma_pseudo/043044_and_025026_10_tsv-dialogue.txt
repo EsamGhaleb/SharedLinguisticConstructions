@@ -1,0 +1,143 @@
+B|0| B: _hebben_ _het_ _aan de_ voorkant _een_ vierkant vlak 
+B|1| B: o hij _hebben_ _hebben_ hij _aan de achterkant_ _een_ vlak 
+B|2| B: o lijken _het_ ook _een beetje_ op _een_ gieter of zo misschien 
+B|3| B: _nee_ 
+B|4| B: hij _hebben_ zeggen _maar_ links _een_ klein stuk eruit _en_ rechts _nog_ iets veel 
+B|5| B: ook _dan zijn het_ K 
+A|6| A: oké deze [hebben] [een] soort van twee armp als [een] soort vliegtuigvleugels 
+A|7| A: [en] [nog] [een] _ding_ [aan de achterkant] 
+A|8| A: [en] _ja_ ik [hebben] _die_ _dat ding_ [een beetje] [een] rugzak noemen 
+A|9| A: [nee] 
+A|10| A: _ja_ wattenstaafje [zijn] [nog] ik _ja_ ik zien er [een beetje] vliegtuigvleugel in [maar] [dan] [dan] [hebben] jij hem wel geloven ik toch ? welk [het] [zijn] 
+B|11| B: ok [ja] _dit zijn de_ gieter _met_ [dat] vlak [dat] _je_ zo kunnen omklappen of zo 
+B|12| B: [ja] 
+B|13| B: [ja] 
+A|14| A: [nee] [dan zijn het] net anders 
+A|15| A: welk [zijn het] 
+A|16| A: wachten even 
+A|17| A: [ja] 
+A|18| A: [ja] [ja] precies _die_ ik [de] vliegtuig vleugel [hebben] noemen 
+A|19| A: yes 
+A|20| A: _dat zijn_ negen 
+B|21| B: _ja dat zijn_ F 
+A|22| A: [dit zijn de] Vliegtuigvleugels 
+A|23| A: [met] [het] rugzak 
+B|24| B: [ja] [dit zijn] [die] gieter [met] [dat] vierkan [die] [ja] kunnen klappen 
+B|25| B: [ja] 
+B|26| B: [dat zijn] L 
+A|27| A: [ja] 
+A|28| A: [ja] precies [dat zijn] drie 
+B|29| B: [ja] [dit zijn de] gieter 
+B|30| B: [met] [dat ding] [dat] _je_ kunnen klappen 
+A|31| A: [dit zijn de] vliegtuigvleugel [en] [het] rugzak 
+A|32| A: [ja] 
+A|33| A: even kijken waar [je] [zijn] 
+A|34| A: [ja dat zijn] vijf 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : hebben het aan de voorkant een vierkant vlak
+	Free: Pattern=aan de, Pattern=het, Pattern=een, Pattern=hebben
+	Constrained: Pattern=de
+Turn ID=1| B | B : o hij hebben hebben hij aan de achterkant een vlak
+	Free: Pattern=aan de achterkant, Pattern=een, Pattern=hebben
+	Constrained: Pattern=aan de, Pattern=de
+Turn ID=2| B | B : o lijken het ook een beetje op een gieter of zo misschien
+	Free: Pattern=een beetje, Pattern=het, Pattern=een
+	Constrained: Pattern=een
+Turn ID=3| B | B : nee
+	Free: Pattern=nee
+	Constrained: 
+Turn ID=4| B | B : hij hebben zeggen maar links een klein stuk eruit en rechts nog iets veel
+	Free: Pattern=nog, Pattern=een, Pattern=hebben, Pattern=en, Pattern=maar
+	Constrained: 
+Turn ID=5| B | B : ook dan zijn het K
+	Free: Pattern=dan zijn het
+	Constrained: Pattern=zijn het, Pattern=dan, Pattern=het, Pattern=zijn
+Turn ID=6| A | A : oké deze hebben een soort van twee armp als een soort vliegtuigvleugels
+	Free: Pattern=een, Pattern=hebben
+	Constrained: 
+Turn ID=7| A | A : en nog een ding aan de achterkant
+	Free: Pattern=aan de achterkant, Pattern=nog, Pattern=ding, Pattern=een, Pattern=en
+	Constrained: Pattern=aan de, Pattern=de
+Turn ID=8| A | A : en ja ik hebben die dat ding een beetje een rugzak noemen
+	Free: Pattern=ja, Pattern=een, Pattern=dat ding, Pattern=hebben, Pattern=die, Pattern=en, Pattern=een beetje
+	Constrained: Pattern=een, Pattern=dat, Pattern=ding
+Turn ID=9| A | A : nee
+	Free: Pattern=nee
+	Constrained: 
+Turn ID=10| A | A : ja wattenstaafje zijn nog ik ja ik zien er een beetje vliegtuigvleugel in maar dan dan hebben jij hem wel geloven ik toch ? welk het zijn
+	Free: Pattern=nog, Pattern=ja, Pattern=dan, Pattern=het, Pattern=hebben, Pattern=een beetje, Pattern=zijn, Pattern=maar
+	Constrained: Pattern=een
+Turn ID=11| B | B : ok ja dit zijn de gieter met dat vlak dat je zo kunnen omklappen of zo
+	Free: Pattern=dat, Pattern=ja, Pattern=met, Pattern=dit zijn de, Pattern=je
+	Constrained: Pattern=dit zijn, Pattern=zijn, Pattern=de
+Turn ID=12| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=13| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=14| A | A : nee dan zijn het net anders
+	Free: Pattern=dan zijn het, Pattern=nee
+	Constrained: Pattern=zijn het, Pattern=dan, Pattern=het, Pattern=zijn
+Turn ID=15| A | A : welk zijn het
+	Free: Pattern=zijn het
+	Constrained: Pattern=het, Pattern=zijn
+Turn ID=16| A | A : wachten even
+	Free: 
+	Constrained: 
+Turn ID=17| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=18| A | A : ja ja precies die ik de vliegtuig vleugel hebben noemen
+	Free: Pattern=ja, Pattern=die, Pattern=hebben, Pattern=de
+	Constrained: 
+Turn ID=19| A | A : yes
+	Free: 
+	Constrained: 
+Turn ID=20| A | A : dat zijn negen
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=21| B | B : ja dat zijn F
+	Free: Pattern=ja dat zijn
+	Constrained: Pattern=dat zijn, Pattern=ja, Pattern=dat, Pattern=zijn
+Turn ID=22| A | A : dit zijn de Vliegtuigvleugels
+	Free: Pattern=dit zijn de
+	Constrained: Pattern=dit zijn, Pattern=zijn, Pattern=de
+Turn ID=23| A | A : met het rugzak
+	Free: Pattern=het, Pattern=met
+	Constrained: 
+Turn ID=24| B | B : ja dit zijn die gieter met dat vierkan die ja kunnen klappen
+	Free: Pattern=dat, Pattern=ja, Pattern=met, Pattern=die, Pattern=dit zijn
+	Constrained: Pattern=zijn
+Turn ID=25| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=26| B | B : dat zijn L
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=27| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=28| A | A : ja precies dat zijn drie
+	Free: Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=29| B | B : ja dit zijn de gieter
+	Free: Pattern=dit zijn de, Pattern=ja
+	Constrained: Pattern=dit zijn, Pattern=zijn, Pattern=de
+Turn ID=30| B | B : met dat ding dat je kunnen klappen
+	Free: Pattern=dat ding, Pattern=je, Pattern=met, Pattern=dat
+	Constrained: Pattern=dat, Pattern=ding
+Turn ID=31| A | A : dit zijn de vliegtuigvleugel en het rugzak
+	Free: Pattern=dit zijn de, Pattern=het, Pattern=en
+	Constrained: Pattern=dit zijn, Pattern=zijn, Pattern=de
+Turn ID=32| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=33| A | A : even kijken waar je zijn
+	Free: Pattern=je, Pattern=zijn
+	Constrained: 
+Turn ID=34| A | A : ja dat zijn vijf
+	Free: Pattern=ja dat zijn
+	Constrained: Pattern=dat zijn, Pattern=ja, Pattern=dat, Pattern=zijn

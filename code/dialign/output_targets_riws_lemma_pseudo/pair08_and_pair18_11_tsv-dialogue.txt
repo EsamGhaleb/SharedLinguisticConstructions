@@ -1,0 +1,163 @@
+B|0| B: _aan de_ rechtervoorkant zitten _een soort_ van bolle _en_ daar zitten niks _aan_ 
+B|1| B: _aan de bovenkant_ zitten _één een_ rechthoekig langwerpig _uitsteeksel_ 
+B|2| B: dat toren 
+B|3| B: _en aan de linkerkant _zijn_ een soort_ van gek vormp dat _ook_ 
+B|4| B: _ja_ _ja_ 
+B|5| B: c 
+A|6| A: [ja] 
+A|7| A: [ja] 
+A|8| A: [ja] 
+A|9| A: [en aan de linkerkant zijn] [soort] goo 
+A|10| A: [ja] 
+A|11| A: oké negen 
+B|12| B: ik _hebben_ _die_ [soort] van dat ballet voorop 
+B|13| B: dan dat _een_ heel gek voorwerp [en] _die_ lang recht staaf dat 
+B|14| B: [ja] bovenop hoe noemen je _die_ _ook_ alweer 
+B|15| B: [ja] [ja] dobberen [ja] [ja] 
+B|16| B: [ja] waar [zijn] 
+B|17| B: waar zitten _die_ 
+B|18| B: stom 
+B|19| B: ah l 
+B|20| B: ik _hebben_ [de] dobber bovenop 
+A|21| A: [ja] deze [hebben] dus [ook] vier [uitsteeksel] , twee [aan de bovenkant] 
+A|22| A: [één een] beetje link 
+A|23| A: link [zijn een soort] goo 
+A|24| A: [en] rechts [aan de] voorkant [zijn] er [een soort] bal 
+A|25| A: [ja] 
+B|26| B: [de] dobber 
+B|27| B: [zijn] even bezig _met_ zoeken ah n 
+A|28| A: [ja] 
+A|29| A: [en] [ja] liniaal [die] eruit steken [en] [een] geen idee , toverstaf 
+A|30| A: nummer twaalf 
+A|31| A: deze [hebben] vier uitsteking 
+A|32| A: of vier [uitsteeksel] , [aan de linkerkant zijn] het [een soort] goo 
+A|33| A: [en] in in [de] vaas of in [de] emmer steken doorsteken uit [een] liniaal [aan de] rechterkant 
+A|34| A: [en] links [een soort] toverstafje [en] rechts [zijn] [ook] [een] rond vorm [die] nog uitsteken 
+A|35| A: [ja] 
+A|36| A: [en] [de] toverstaf 
+A|37| A: nummer zes 
+A|38| A: deze [zijn] [met] [de] liniaal [en] [de] toverstaf 
+A|39| A: [en] links het goot 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : aan de rechtervoorkant zitten een soort van bolle en daar zitten niks aan
+	Free: Pattern=een soort, Pattern=aan de, Pattern=aan, Pattern=en
+	Constrained: Pattern=soort, Pattern=de, Pattern=aan, Pattern=een
+Turn ID=1| B | B : aan de bovenkant zitten één een rechthoekig langwerpig uitsteeksel
+	Free: Pattern=aan de bovenkant, Pattern=één een, Pattern=uitsteeksel
+	Constrained: Pattern=aan, Pattern=een, Pattern=de, Pattern=aan de
+Turn ID=2| B | B : dat toren
+	Free: 
+	Constrained: 
+Turn ID=3| B | B : en aan de linkerkant zijn een soort van gek vormp dat ook
+	Free: Pattern=en aan de linkerkant zijn, Pattern=zijn een soort, Pattern=ook
+	Constrained: Pattern=soort, Pattern=aan de, Pattern=een, Pattern=aan de linkerkant zijn, Pattern=een soort, Pattern=en, Pattern=zijn, Pattern=de, Pattern=aan
+Turn ID=4| B | B : ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=5| B | B : c
+	Free: 
+	Constrained: 
+Turn ID=6| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=7| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=8| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=9| A | A : en aan de linkerkant zijn soort goo
+	Free: Pattern=en aan de linkerkant zijn, Pattern=soort
+	Constrained: Pattern=aan de, Pattern=aan de linkerkant zijn, Pattern=en, Pattern=zijn, Pattern=de, Pattern=aan
+Turn ID=10| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=11| A | A : oké negen
+	Free: 
+	Constrained: 
+Turn ID=12| B | B : ik hebben die soort van dat ballet voorop
+	Free: Pattern=die, Pattern=soort, Pattern=hebben
+	Constrained: 
+Turn ID=13| B | B : dan dat een heel gek voorwerp en die lang recht staaf dat
+	Free: Pattern=die, Pattern=en, Pattern=een
+	Constrained: 
+Turn ID=14| B | B : ja bovenop hoe noemen je die ook alweer
+	Free: Pattern=ook, Pattern=die, Pattern=ja
+	Constrained: 
+Turn ID=15| B | B : ja ja dobberen ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=16| B | B : ja waar zijn
+	Free: Pattern=zijn, Pattern=ja
+	Constrained: 
+Turn ID=17| B | B : waar zitten die
+	Free: Pattern=die
+	Constrained: 
+Turn ID=18| B | B : stom
+	Free: 
+	Constrained: 
+Turn ID=19| B | B : ah l
+	Free: 
+	Constrained: 
+Turn ID=20| B | B : ik hebben de dobber bovenop
+	Free: Pattern=de, Pattern=hebben
+	Constrained: 
+Turn ID=21| A | A : ja deze hebben dus ook vier uitsteeksel , twee aan de bovenkant
+	Free: Pattern=ja, Pattern=ook, Pattern=uitsteeksel, Pattern=hebben, Pattern=aan de bovenkant
+	Constrained: Pattern=aan, Pattern=de, Pattern=aan de
+Turn ID=22| A | A : één een beetje link
+	Free: Pattern=één een
+	Constrained: Pattern=een
+Turn ID=23| A | A : link zijn een soort goo
+	Free: Pattern=zijn een soort
+	Constrained: Pattern=een soort, Pattern=zijn, Pattern=soort, Pattern=een
+Turn ID=24| A | A : en rechts aan de voorkant zijn er een soort bal
+	Free: Pattern=een soort, Pattern=aan de, Pattern=zijn, Pattern=en
+	Constrained: Pattern=soort, Pattern=de, Pattern=aan, Pattern=een
+Turn ID=25| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=26| B | B : de dobber
+	Free: Pattern=de
+	Constrained: 
+Turn ID=27| B | B : zijn even bezig met zoeken ah n
+	Free: Pattern=zijn, Pattern=met
+	Constrained: 
+Turn ID=28| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=29| A | A : en ja liniaal die eruit steken en een geen idee , toverstaf
+	Free: Pattern=die, Pattern=ja, Pattern=en, Pattern=een
+	Constrained: 
+Turn ID=30| A | A : nummer twaalf
+	Free: 
+	Constrained: 
+Turn ID=31| A | A : deze hebben vier uitsteking
+	Free: Pattern=hebben
+	Constrained: 
+Turn ID=32| A | A : of vier uitsteeksel , aan de linkerkant zijn het een soort goo
+	Free: Pattern=aan de linkerkant zijn, Pattern=een soort, Pattern=uitsteeksel
+	Constrained: Pattern=soort, Pattern=aan de, Pattern=een, Pattern=zijn, Pattern=de, Pattern=aan
+Turn ID=33| A | A : en in in de vaas of in de emmer steken doorsteken uit een liniaal aan de rechterkant
+	Free: Pattern=aan de, Pattern=de, Pattern=en, Pattern=een
+	Constrained: Pattern=de, Pattern=aan
+Turn ID=34| A | A : en links een soort toverstafje en rechts zijn ook een rond vorm die nog uitsteken
+	Free: Pattern=ook, Pattern=een, Pattern=die, Pattern=een soort, Pattern=en, Pattern=zijn
+	Constrained: Pattern=soort, Pattern=een
+Turn ID=35| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=36| A | A : en de toverstaf
+	Free: Pattern=de, Pattern=en
+	Constrained: 
+Turn ID=37| A | A : nummer zes
+	Free: 
+	Constrained: 
+Turn ID=38| A | A : deze zijn met de liniaal en de toverstaf
+	Free: Pattern=zijn, Pattern=met, Pattern=de, Pattern=en
+	Constrained: 
+Turn ID=39| A | A : en links het goot
+	Free: Pattern=en
+	Constrained: 

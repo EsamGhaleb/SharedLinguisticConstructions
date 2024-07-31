@@ -1,0 +1,187 @@
+A|0| A: _ja_ _dit zijn_ zeggen _maar_ achter _dat_ _kop_ _hebben_ _je_ _een_ soort _staaf_ _een_ _een_ _een_ _rond_ _staaf_ _met_ _twee_ van _die_ 
+A|1| A: _knop aan_ _de_ buitenkant 
+A|2| A: _en_ _ja_ _een_ soort zeggen _maar_ _een_ vierkan _die_ _er_ schuin uit komen _met nog_ _een_ _staaf_ eruit oké _die_ _zijn_ _niet_ 
+A|3| A: zeggen _maar_ _je_ _ja_ 
+B|4| B: [ja] ik volgen [je] [niet] helemaal [maar] 
+A|5| A: nee _het_ _zijn_ _de_ enig _die_ echt zeggen [maar] _zo'n_ balk achter _het kop_ _hebben_ _en dan_ opsteken _die_ link _een_ klein stuk uit _en rechts_ _een_ groot stuk 
+B|6| B: ah [een] beetje _met die_ [rond] lijken [een] beetje [rond] schroef _links_ [en rechts] 
+A|7| A: _ja die_ [een] soort van van [die] knopje [die] erop _zitten_ 
+B|8| B: [ja] 
+A|9| A: [ja] 
+B|10| B: [en dan] [zo'n] _vierkant_ _ding_ inderdaad [met nog] iets _eraan_ 
+A|11| A: [ja] daarachter [ja] 
+B|12| B: [ja] 
+B|13| B: _dat zijn_ K bij mij 
+B|14| B: [dit zijn] _die met die_ [twee] armpjes [die] op knoppen leek 
+B|15| B: [met] _dat vierkantje_ _erachter_ 
+A|16| A: even zoeken 
+B|17| B: zo alsof [er] [zo'n] spijker door [het kop] [zitten] of [zo'n] [staaf] 
+A|18| A: [die] [staaf] [met die] knopje erop _en [dat_ vierkantje] _en dat_ [dat] [ding] [dat] _aan_ [het] [vierkant] [zitten] 
+B|19| B: [ja] 
+B|20| B: [ja] 
+A|21| A: _dat zijn nummer_ negen 
+A|22| A: [dit zijn] [dat] beker [met die] [staaf] _weer_ [met die] knopje [eraan] 
+A|23| A: [en] [het] [vierkantje] [met] _de_ zonnecelding zeggen [maar] 
+A|24| A: [je] _hebben_ [het kop] [en] _de_ enig [met] [zo'n] lang [staaf] [erachter] [die] doorlopen 
+A|25| A: _aan_ _de_ linkerkant wat _kort_ _aan_ _de_ rechterkant wat lang 
+A|26| A: [en dan] _hebben_ [je] _die knop_ 
+B|27| B: [ja] [ja [die] knop] 
+A|28| A: [ja] 
+B|29| B: [dat zijn nummer] F 
+B|30| B: [dit zijn] [weer] _die met [die_ [knop] aan] beide kant 
+B|31| B: [met] [dat] [vierkant] [erachter] waar [nog] zoiets [aan] afhangen 
+B|32| B: dus [het] [hebben] [twee] armp 
+B|33| B: [die] zo op [knop] lijken 
+A|34| A: [dat] [met [die] met die] [staaf] daarachter 
+B|35| B: [ja] 
+A|36| A: [die met] [links] _kort_ [en rechts] lang 
+B|37| B: [ja] [ja] [ja] 
+A|38| A: [ja] [dat zijn nummer] drie 
+A|39| A: [ja] [het kop] [met] _de_ [staaf] rechterkant lang _de_ [kop] [en] [het] [vierkantje] [met] 
+B|40| B: [ja] 
+B|41| B: [ja] 
+B|42| B: [dat zijn] L 
+B|43| B: [weer] [die met die] knoparmp waarvan [die] linker [kort] [zijn] [dan] [de] rechter 
+B|44| B: [en dat] [vierkant] [erachter] waar iets [aan] afhangen 
+A|45| A: [ja] [nummer] vijf 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : ja dit zijn zeggen maar achter dat kop hebben je een soort staaf een een een rond staaf met twee van die
+	Free: Pattern=dat, Pattern=twee, Pattern=ja, Pattern=staaf, Pattern=een, Pattern=hebben, Pattern=kop, Pattern=met, Pattern=die, Pattern=rond, Pattern=maar, Pattern=je, Pattern=dit zijn
+	Constrained: Pattern=zijn
+Turn ID=1| A | A : knop aan de buitenkant
+	Free: Pattern=knop aan, Pattern=de
+	Constrained: Pattern=aan, Pattern=knop
+Turn ID=2| A | A : en ja een soort zeggen maar een vierkan die er schuin uit komen met nog een staaf eruit oké die zijn niet
+	Free: Pattern=ja, Pattern=staaf, Pattern=niet, Pattern=een, Pattern=die, Pattern=er, Pattern=en, Pattern=met nog, Pattern=zijn, Pattern=maar
+	Constrained: Pattern=met, Pattern=nog
+Turn ID=3| A | A : zeggen maar je ja
+	Free: Pattern=ja, Pattern=maar, Pattern=je
+	Constrained: 
+Turn ID=4| B | B : ja ik volgen je niet helemaal maar
+	Free: Pattern=niet, Pattern=ja, Pattern=maar, Pattern=je
+	Constrained: 
+Turn ID=5| A | A : nee het zijn de enig die echt zeggen maar zo'n balk achter het kop hebben en dan opsteken die link een klein stuk uit en rechts een groot stuk
+	Free: Pattern=en rechts, Pattern=zo'n, Pattern=de, Pattern=en dan, Pattern=het kop, Pattern=een, Pattern=het, Pattern=hebben, Pattern=die, Pattern=zijn, Pattern=maar
+	Constrained: Pattern=dan, Pattern=kop, Pattern=en, Pattern=het
+Turn ID=6| B | B : ah een beetje met die rond lijken een beetje rond schroef links en rechts
+	Free: Pattern=en rechts, Pattern=met die, Pattern=een, Pattern=links, Pattern=rond
+	Constrained: Pattern=en, Pattern=met, Pattern=die
+Turn ID=7| A | A : ja die een soort van van die knopje die erop zitten
+	Free: Pattern=ja die, Pattern=zitten, Pattern=die, Pattern=een
+	Constrained: Pattern=ja, Pattern=die
+Turn ID=8| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=9| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=10| B | B : en dan zo'n vierkant ding inderdaad met nog iets eraan
+	Free: Pattern=zo'n, Pattern=en dan, Pattern=ding, Pattern=eraan, Pattern=met nog, Pattern=vierkant
+	Constrained: Pattern=en, Pattern=dan, Pattern=met, Pattern=nog
+Turn ID=11| A | A : ja daarachter ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=12| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=13| B | B : dat zijn K bij mij
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=14| B | B : dit zijn die met die twee armpjes die op knoppen leek
+	Free: Pattern=die met die, Pattern=dit zijn, Pattern=twee, Pattern=die
+	Constrained: Pattern=met die, Pattern=die met, Pattern=met, Pattern=die, Pattern=zijn
+Turn ID=15| B | B : met dat vierkantje erachter
+	Free: Pattern=dat vierkantje, Pattern=met, Pattern=erachter
+	Constrained: Pattern=vierkantje, Pattern=dat
+Turn ID=16| A | A : even zoeken
+	Free: 
+	Constrained: 
+Turn ID=17| B | B : zo alsof er zo'n spijker door het kop zitten of zo'n staaf
+	Free: Pattern=zo'n, Pattern=staaf, Pattern=het kop, Pattern=zitten, Pattern=er
+	Constrained: Pattern=kop, Pattern=het
+Turn ID=18| A | A : die staaf met die knopje erop en dat vierkantje en dat dat ding dat aan het vierkant zitten
+	Free: Pattern=aan, Pattern=staaf, Pattern=ding, Pattern=het, Pattern=dat vierkantje, Pattern=vierkant, Pattern=en dat, Pattern=dat, Pattern=met die, Pattern=die, Pattern=zitten
+	Constrained: Pattern=dat, Pattern=die, Pattern=en, Pattern=vierkantje, Pattern=met
+Turn ID=19| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=20| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=21| A | A : dat zijn nummer negen
+	Free: Pattern=dat zijn nummer
+	Constrained: Pattern=dat, Pattern=zijn, Pattern=nummer, Pattern=dat zijn
+Turn ID=22| A | A : dit zijn dat beker met die staaf weer met die knopje eraan
+	Free: Pattern=staaf, Pattern=eraan, Pattern=weer, Pattern=dit zijn, Pattern=dat, Pattern=met die
+	Constrained: Pattern=zijn, Pattern=met, Pattern=die
+Turn ID=23| A | A : en het vierkantje met de zonnecelding zeggen maar
+	Free: Pattern=de, Pattern=het, Pattern=en, Pattern=maar, Pattern=vierkantje, Pattern=met
+	Constrained: 
+Turn ID=24| A | A : je hebben het kop en de enig met zo'n lang staaf erachter die doorlopen
+	Free: Pattern=erachter, Pattern=zo'n, Pattern=de, Pattern=staaf, Pattern=het kop, Pattern=hebben, Pattern=met, Pattern=die, Pattern=en, Pattern=je
+	Constrained: Pattern=kop, Pattern=het
+Turn ID=25| A | A : aan de linkerkant wat kort aan de rechterkant wat lang
+	Free: Pattern=de, Pattern=kort, Pattern=aan
+	Constrained: 
+Turn ID=26| A | A : en dan hebben je die knop
+	Free: Pattern=die knop, Pattern=en dan, Pattern=hebben, Pattern=je
+	Constrained: Pattern=en, Pattern=dan, Pattern=die, Pattern=knop
+Turn ID=27| B | B : ja ja die knop
+	Free: Pattern=die knop, Pattern=ja die, Pattern=ja
+	Constrained: Pattern=ja, Pattern=die, Pattern=knop
+Turn ID=28| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=29| B | B : dat zijn nummer F
+	Free: Pattern=dat zijn nummer
+	Constrained: Pattern=dat, Pattern=zijn, Pattern=nummer, Pattern=dat zijn
+Turn ID=30| B | B : dit zijn weer die met die knop aan beide kant
+	Free: Pattern=die met die, Pattern=knop aan, Pattern=dit zijn, Pattern=weer, Pattern=die knop
+	Constrained: Pattern=met die, Pattern=aan, Pattern=die met, Pattern=met, Pattern=die, Pattern=knop, Pattern=zijn
+Turn ID=31| B | B : met dat vierkant erachter waar nog zoiets aan afhangen
+	Free: Pattern=nog, Pattern=aan, Pattern=met, Pattern=vierkant, Pattern=dat, Pattern=erachter
+	Constrained: 
+Turn ID=32| B | B : dus het hebben twee armp
+	Free: Pattern=twee, Pattern=het, Pattern=hebben
+	Constrained: 
+Turn ID=33| B | B : die zo op knop lijken
+	Free: Pattern=die, Pattern=knop
+	Constrained: 
+Turn ID=34| A | A : dat met die met die staaf daarachter
+	Free: Pattern=die met die, Pattern=met die, Pattern=dat, Pattern=staaf
+	Constrained: Pattern=die met, Pattern=met die, Pattern=met, Pattern=die
+Turn ID=35| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=36| A | A : die met links kort en rechts lang
+	Free: Pattern=en rechts, Pattern=die met, Pattern=links, Pattern=kort
+	Constrained: Pattern=en, Pattern=met, Pattern=die
+Turn ID=37| B | B : ja ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=38| A | A : ja dat zijn nummer drie
+	Free: Pattern=dat zijn nummer, Pattern=ja
+	Constrained: Pattern=dat, Pattern=zijn, Pattern=nummer, Pattern=dat zijn
+Turn ID=39| A | A : ja het kop met de staaf rechterkant lang de kop en het vierkantje met
+	Free: Pattern=staaf, Pattern=het kop, Pattern=het, Pattern=kop, Pattern=en, Pattern=de, Pattern=ja, Pattern=vierkantje, Pattern=met
+	Constrained: Pattern=kop, Pattern=het
+Turn ID=40| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=41| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=42| B | B : dat zijn L
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=43| B | B : weer die met die knoparmp waarvan die linker kort zijn dan de rechter
+	Free: Pattern=de, Pattern=die met die, Pattern=dan, Pattern=die, Pattern=kort, Pattern=zijn, Pattern=weer
+	Constrained: Pattern=die met, Pattern=met die, Pattern=met, Pattern=die
+Turn ID=44| B | B : en dat vierkant erachter waar iets aan afhangen
+	Free: Pattern=en dat, Pattern=vierkant, Pattern=aan, Pattern=erachter
+	Constrained: Pattern=en, Pattern=dat
+Turn ID=45| A | A : ja nummer vijf
+	Free: Pattern=ja, Pattern=nummer
+	Constrained: 

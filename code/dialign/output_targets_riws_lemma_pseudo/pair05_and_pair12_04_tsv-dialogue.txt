@@ -1,0 +1,107 @@
+B|0| B: _ja_ _die_ herken _ik_ _en_ nou moeten _ik_ _hem_ _even_ zoeken 
+B|1| B: d 
+A|2| A: deze hebben _aan de rechterkant_ twee uitstekend paneel zullen [ik] zeggen 
+A|3| A: [en] bovenop eigenlijk een soort hoedje dat toelopen 
+A|4| A: [en] speciaal 
+A|5| A: okee 
+A|6| A: [ik] geven _de_ hoop al op 
+B|7| B: het ISteken [aan de rechterkant] 
+B|8| B: p 
+B|9| B: het ISteken [aan de rechterkant] 
+B|10| B: l 
+A|11| A: [ja] drie 
+B|12| B: het ISteken [aan de rechterkant] 
+A|13| A: deze hebben rechts twee paneel 
+A|14| A: [en] een hoed met een plat dak 
+A|15| A: of een plat hoed 
+A|16| A: of een plat dak 
+A|17| A: precies 
+A|18| A: een fez 
+A|19| A: [ik] hebben [hem] dertien 
+A|20| A: twee uithangbord [aan de rechterkant] 
+A|21| A: [en] plat hoed 
+A|22| A: [ja] 
+A|23| A: [ja] fez zijn wel genoeg nu [die] gaan [ik] niet veel vergeten 
+A|24| A: [even] kijken waar hij zijn 
+A|25| A: [ja] zeven 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : ja die herken ik en nou moeten ik hem even zoeken
+	Free: Pattern=ja, Pattern=even, Pattern=die, Pattern=ik, Pattern=en, Pattern=hem
+	Constrained: 
+Turn ID=1| B | B : d
+	Free: 
+	Constrained: 
+Turn ID=2| A | A : deze hebben aan de rechterkant twee uitstekend paneel zullen ik zeggen
+	Free: Pattern=aan de rechterkant, Pattern=ik
+	Constrained: Pattern=de
+Turn ID=3| A | A : en bovenop eigenlijk een soort hoedje dat toelopen
+	Free: Pattern=en
+	Constrained: 
+Turn ID=4| A | A : en speciaal
+	Free: Pattern=en
+	Constrained: 
+Turn ID=5| A | A : okee
+	Free: 
+	Constrained: 
+Turn ID=6| A | A : ik geven de hoop al op
+	Free: Pattern=ik, Pattern=de
+	Constrained: 
+Turn ID=7| B | B : het ISteken aan de rechterkant
+	Free: Pattern=aan de rechterkant
+	Constrained: Pattern=de
+Turn ID=8| B | B : p
+	Free: 
+	Constrained: 
+Turn ID=9| B | B : het ISteken aan de rechterkant
+	Free: Pattern=aan de rechterkant
+	Constrained: Pattern=de
+Turn ID=10| B | B : l
+	Free: 
+	Constrained: 
+Turn ID=11| A | A : ja drie
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=12| B | B : het ISteken aan de rechterkant
+	Free: Pattern=aan de rechterkant
+	Constrained: Pattern=de
+Turn ID=13| A | A : deze hebben rechts twee paneel
+	Free: 
+	Constrained: 
+Turn ID=14| A | A : en een hoed met een plat dak
+	Free: Pattern=en
+	Constrained: 
+Turn ID=15| A | A : of een plat hoed
+	Free: 
+	Constrained: 
+Turn ID=16| A | A : of een plat dak
+	Free: 
+	Constrained: 
+Turn ID=17| A | A : precies
+	Free: 
+	Constrained: 
+Turn ID=18| A | A : een fez
+	Free: 
+	Constrained: 
+Turn ID=19| A | A : ik hebben hem dertien
+	Free: Pattern=ik, Pattern=hem
+	Constrained: 
+Turn ID=20| A | A : twee uithangbord aan de rechterkant
+	Free: Pattern=aan de rechterkant
+	Constrained: Pattern=de
+Turn ID=21| A | A : en plat hoed
+	Free: Pattern=en
+	Constrained: 
+Turn ID=22| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=23| A | A : ja fez zijn wel genoeg nu die gaan ik niet veel vergeten
+	Free: Pattern=ja, Pattern=ik, Pattern=die
+	Constrained: 
+Turn ID=24| A | A : even kijken waar hij zijn
+	Free: Pattern=even
+	Constrained: 
+Turn ID=25| A | A : ja zeven
+	Free: Pattern=ja
+	Constrained: 

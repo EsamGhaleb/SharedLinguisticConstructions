@@ -1,0 +1,147 @@
+B|0| B: deze _hebben_ _twee_ _van_ _die_ kasteelt aan de linkerkant erin _en_ _een_ _vierkant_ aan de voorkant 
+B|1| B: _en_ nog _een_ soort _van_ paddenstoel aan de bovenkant 
+A|2| A: [van] jou 
+A|3| A: _ja_ [en] dan [twee] 
+A|4| A: _ja_ 
+A|5| A: hij lijken op oog 
+A|6| A: nou _dat_ kunnen ook 
+B|7| B: oké 
+A|8| A: [twee] 
+B|9| B: wachten even even kijken 
+B|10| B: [twee] _ding_ [ja] _die_ paddenstoel _ja ja ja_ 
+B|11| B: oké _die_ torent aan de zijkant 
+B|12| B: oké [dat] _zijn_ G 
+B|13| B: oké dit _zijn_ diegene met _die twee_ torent aan de zijkant [en] _die_ paddenstoel erop 
+B|14| B: oké 
+B|15| B: [ja] 
+B|16| B: [ja] met nog _één_ _ding_ ervoor toch 
+B|17| B: [ja] oké _ja dat_ _zijn_ D 
+A|18| A: [ja] [vierkant] oor zeggen maar [en] dan zo'n 
+A|19| A: kogel of [een] champignon [en] dan [twee] oog 
+A|20| A: _ik_ weten niet veel hoe we [die] net [hebben] beschrijven 
+A|21| A: het [hebben] zeggen maar wel zo'n [vierkant] [ja] blad zeggen maar 
+A|22| A: [ja] 
+A|23| A: [ja] 
+B|24| B: [ik] [hebben] diegene met [die] paddenstoel [en] _die twee_ torent erin [en] _één_ plat _ding_ aan de voorkant 
+A|25| A: [ja ja ja] 
+A|26| A: negen 
+A|27| A: [ja dat] [dat] [vierkant] blad zeggen blaadje zeggen maar [en] dan [die] 
+A|28| A: World Trade Center wat jij zeggen [en] dan zo'n mushroom 
+A|29| A: op [zijn] kop 
+B|30| B: [ja] even zoeken 
+B|31| B: [ja dat] [zijn] B 
+A|32| A: [ja] 
+A|33| A: [en] dan [dat] [ding] naar boven 
+A|34| A: [één] 
+A|35| A: [dat] vierhoek [vierkant] [en] dan [die twee] oog 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : deze hebben twee van die kasteelt aan de linkerkant erin en een vierkant aan de voorkant
+	Free: Pattern=twee, Pattern=een, Pattern=hebben, Pattern=die, Pattern=vierkant, Pattern=van, Pattern=en
+	Constrained: 
+Turn ID=1| B | B : en nog een soort van paddenstoel aan de bovenkant
+	Free: Pattern=een, Pattern=van, Pattern=en
+	Constrained: 
+Turn ID=2| A | A : van jou
+	Free: Pattern=van
+	Constrained: 
+Turn ID=3| A | A : ja en dan twee
+	Free: Pattern=ja, Pattern=twee, Pattern=en
+	Constrained: 
+Turn ID=4| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=5| A | A : hij lijken op oog
+	Free: 
+	Constrained: 
+Turn ID=6| A | A : nou dat kunnen ook
+	Free: Pattern=dat
+	Constrained: 
+Turn ID=7| B | B : oké
+	Free: 
+	Constrained: 
+Turn ID=8| A | A : twee
+	Free: Pattern=twee
+	Constrained: 
+Turn ID=9| B | B : wachten even even kijken
+	Free: 
+	Constrained: 
+Turn ID=10| B | B : twee ding ja die paddenstoel ja ja ja
+	Free: Pattern=twee, Pattern=ja, Pattern=ding, Pattern=die, Pattern=ja ja ja
+	Constrained: Pattern=ja
+Turn ID=11| B | B : oké die torent aan de zijkant
+	Free: Pattern=die
+	Constrained: 
+Turn ID=12| B | B : oké dat zijn G
+	Free: Pattern=dat, Pattern=zijn
+	Constrained: 
+Turn ID=13| B | B : oké dit zijn diegene met die twee torent aan de zijkant en die paddenstoel erop
+	Free: Pattern=die twee, Pattern=zijn, Pattern=die, Pattern=en
+	Constrained: Pattern=die, Pattern=twee
+Turn ID=14| B | B : oké
+	Free: 
+	Constrained: 
+Turn ID=15| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=16| B | B : ja met nog één ding ervoor toch
+	Free: Pattern=ja, Pattern=één, Pattern=ding
+	Constrained: 
+Turn ID=17| B | B : ja oké ja dat zijn D
+	Free: Pattern=ja dat, Pattern=zijn, Pattern=ja
+	Constrained: Pattern=dat, Pattern=ja
+Turn ID=18| A | A : ja vierkant oor zeggen maar en dan zo'n
+	Free: Pattern=ja, Pattern=vierkant, Pattern=en
+	Constrained: 
+Turn ID=19| A | A : kogel of een champignon en dan twee oog
+	Free: Pattern=twee, Pattern=een, Pattern=en
+	Constrained: 
+Turn ID=20| A | A : ik weten niet veel hoe we die net hebben beschrijven
+	Free: Pattern=die, Pattern=hebben, Pattern=ik
+	Constrained: 
+Turn ID=21| A | A : het hebben zeggen maar wel zo'n vierkant ja blad zeggen maar
+	Free: Pattern=ja, Pattern=hebben, Pattern=vierkant
+	Constrained: 
+Turn ID=22| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=23| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=24| B | B : ik hebben diegene met die paddenstoel en die twee torent erin en één plat ding aan de voorkant
+	Free: Pattern=ding, Pattern=die twee, Pattern=hebben, Pattern=die, Pattern=ik, Pattern=en, Pattern=één
+	Constrained: Pattern=die, Pattern=twee
+Turn ID=25| A | A : ja ja ja
+	Free: Pattern=ja ja ja
+	Constrained: Pattern=ja
+Turn ID=26| A | A : negen
+	Free: 
+	Constrained: 
+Turn ID=27| A | A : ja dat dat vierkant blad zeggen blaadje zeggen maar en dan die
+	Free: Pattern=dat, Pattern=die, Pattern=en, Pattern=vierkant, Pattern=ja dat
+	Constrained: Pattern=dat, Pattern=ja
+Turn ID=28| A | A : World Trade Center wat jij zeggen en dan zo'n mushroom
+	Free: Pattern=en
+	Constrained: 
+Turn ID=29| A | A : op zijn kop
+	Free: Pattern=zijn
+	Constrained: 
+Turn ID=30| B | B : ja even zoeken
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=31| B | B : ja dat zijn B
+	Free: Pattern=ja dat, Pattern=zijn
+	Constrained: Pattern=dat, Pattern=ja
+Turn ID=32| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=33| A | A : en dan dat ding naar boven
+	Free: Pattern=dat, Pattern=en, Pattern=ding
+	Constrained: 
+Turn ID=34| A | A : één
+	Free: Pattern=één
+	Constrained: 
+Turn ID=35| A | A : dat vierhoek vierkant en dan die twee oog
+	Free: Pattern=die twee, Pattern=dat, Pattern=vierkant, Pattern=en
+	Constrained: Pattern=die, Pattern=twee

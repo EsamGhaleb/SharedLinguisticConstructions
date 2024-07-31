@@ -1,0 +1,151 @@
+B|0| B: nou _dit zijn_ _een_ kop daar _zijn_ komen _een_ komen _een_ soort komen _twee_ blokkentorent uit 
+B|1| B: zitten _een_ soort van spijkertje op _en_ _een vierkant_ _ertegenaan_ plakken 
+A|2| A: _even_ kijken 
+A|3| A: kunnen _je_ _het_ nog [een] keer 
+B|4| B: nou _ja_ [je] hebben dus [het] kop 
+B|5| B: er zitten _een vierkant_ tegenaan plakken 
+A|6| A: [ja] [ja] 
+B|7| B: _en_ [een] _spijker_ 
+A|8| A: [ja] 
+B|9| B: bovenop 
+A|10| A: [ja] 
+A|11| A: [en] dan inderdaad aan _de_ linkerkant _die_ [twee] _blokkentorens_ _dat_ zien ik nu 
+B|12| B: [ja] 
+B|13| B: [blokkentorens] [ja] 
+A|14| A: [ja] [twee] [zijn] _dat_ 
+B|15| B: [ja] 
+A|16| A: [ja] oké zelfde plek 
+A|17| A: oké [dit zijn] _die_ _met_ [een vierkant] ervoor 
+A|18| A: [en] aan _de_ linkerkant _die_ [twee] _blokkentoren_ _die_ [ertegenaan] staan [en] _die_ [spijker] erbovenop 
+B|19| B: [ja] 
+B|20| B: _dat zijn_ G 
+A|21| A: oké 
+B|22| B: [het] [zijn] weer [die] [een] _met _het_ spijkert erop_ _en het_ vierkantje [ertegenaan] plakken 
+B|23| B: [en] [de] [blokkentoren] 
+A|24| A: yes oké [dat zijn] negen 
+A|25| A: oké [dit zijn] [die] [met het] [vierkant] aan [de] voorkant 
+A|26| A: [de] [twee] [blokkentorens] link [en] [die] [spijker] 
+B|27| B: [ja] 
+B|28| B: d 
+A|29| A: yes 
+B|30| B: [het] [zijn] weer [de] [de] [spijker] [het] [het] plat [vierkant] [en] [de] [blokkentorens] 
+A|31| A: _even_ kijken [ja] 
+A|32| A: [dat zijn] één 
+A|33| A: [vierkant] aan [de] voorkant [de] [twee] [blokkentorens] link [en [het] spijkert erop] 
+B|34| B: [even] zoeken 
+B|35| B: B 
+A|36| A: yes 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : nou dit zijn een kop daar zijn komen een komen een soort komen twee blokkentorent uit
+	Free: Pattern=dit zijn, Pattern=zijn, Pattern=twee, Pattern=een
+	Constrained: Pattern=zijn
+Turn ID=1| B | B : zitten een soort van spijkertje op en een vierkant ertegenaan plakken
+	Free: Pattern=een vierkant, Pattern=en, Pattern=ertegenaan, Pattern=een
+	Constrained: Pattern=vierkant, Pattern=een
+Turn ID=2| A | A : even kijken
+	Free: Pattern=even
+	Constrained: 
+Turn ID=3| A | A : kunnen je het nog een keer
+	Free: Pattern=het, Pattern=je, Pattern=een
+	Constrained: 
+Turn ID=4| B | B : nou ja je hebben dus het kop
+	Free: Pattern=ja, Pattern=het, Pattern=je
+	Constrained: 
+Turn ID=5| B | B : er zitten een vierkant tegenaan plakken
+	Free: Pattern=een vierkant
+	Constrained: Pattern=vierkant, Pattern=een
+Turn ID=6| A | A : ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=7| B | B : en een spijker
+	Free: Pattern=en, Pattern=spijker, Pattern=een
+	Constrained: 
+Turn ID=8| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=9| B | B : bovenop
+	Free: 
+	Constrained: 
+Turn ID=10| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=11| A | A : en dan inderdaad aan de linkerkant die twee blokkentorens dat zien ik nu
+	Free: Pattern=dat, Pattern=twee, Pattern=de, Pattern=die, Pattern=blokkentorens, Pattern=en
+	Constrained: 
+Turn ID=12| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=13| B | B : blokkentorens ja
+	Free: Pattern=ja, Pattern=blokkentorens
+	Constrained: 
+Turn ID=14| A | A : ja twee zijn dat
+	Free: Pattern=ja, Pattern=dat, Pattern=zijn, Pattern=twee
+	Constrained: 
+Turn ID=15| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=16| A | A : ja oké zelfde plek
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=17| A | A : oké dit zijn die met een vierkant ervoor
+	Free: Pattern=dit zijn, Pattern=een vierkant, Pattern=die, Pattern=met
+	Constrained: Pattern=zijn, Pattern=vierkant, Pattern=een
+Turn ID=18| A | A : en aan de linkerkant die twee blokkentoren die ertegenaan staan en die spijker erbovenop
+	Free: Pattern=twee, Pattern=en, Pattern=spijker, Pattern=de, Pattern=blokkentoren, Pattern=die, Pattern=ertegenaan
+	Constrained: 
+Turn ID=19| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=20| B | B : dat zijn G
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=21| A | A : oké
+	Free: 
+	Constrained: 
+Turn ID=22| B | B : het zijn weer die een met het spijkert erop en het vierkantje ertegenaan plakken
+	Free: Pattern=het spijkert erop, Pattern=en het, Pattern=een, Pattern=het, Pattern=met het, Pattern=zijn, Pattern=die, Pattern=ertegenaan
+	Constrained: Pattern=met, Pattern=en, Pattern=het
+Turn ID=23| B | B : en de blokkentoren
+	Free: Pattern=en, Pattern=blokkentoren, Pattern=de
+	Constrained: 
+Turn ID=24| A | A : yes oké dat zijn negen
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=25| A | A : oké dit zijn die met het vierkant aan de voorkant
+	Free: Pattern=de, Pattern=die, Pattern=met het, Pattern=vierkant, Pattern=dit zijn
+	Constrained: Pattern=zijn, Pattern=met, Pattern=het
+Turn ID=26| A | A : de twee blokkentorens link en die spijker
+	Free: Pattern=twee, Pattern=de, Pattern=die, Pattern=blokkentorens, Pattern=en, Pattern=spijker
+	Constrained: 
+Turn ID=27| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=28| B | B : d
+	Free: 
+	Constrained: 
+Turn ID=29| A | A : yes
+	Free: 
+	Constrained: 
+Turn ID=30| B | B : het zijn weer de de spijker het het plat vierkant en de blokkentorens
+	Free: Pattern=de, Pattern=het, Pattern=blokkentorens, Pattern=en, Pattern=zijn, Pattern=vierkant, Pattern=spijker
+	Constrained: 
+Turn ID=31| A | A : even kijken ja
+	Free: Pattern=ja, Pattern=even
+	Constrained: 
+Turn ID=32| A | A : dat zijn één
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=33| A | A : vierkant aan de voorkant de twee blokkentorens link en het spijkert erop
+	Free: Pattern=het spijkert erop, Pattern=twee, Pattern=de, Pattern=en het, Pattern=blokkentorens, Pattern=vierkant
+	Constrained: Pattern=en, Pattern=het
+Turn ID=34| B | B : even zoeken
+	Free: Pattern=even
+	Constrained: 
+Turn ID=35| B | B : B
+	Free: 
+	Constrained: 
+Turn ID=36| A | A : yes
+	Free: 
+	Constrained: 

@@ -1,0 +1,179 @@
+A|0| A: er komen _een_ uit _een_ mok komen _aan de_ bovenkant _een_ ruitvormig figuur _wat_ worden doorboren door _een_ aantal vlak achter elkaar 
+A|1| A: _en_ _aan de_ onderkant steken er _een_ staafje uit _wat_ deze vorm _hebben_ zo 
+A|2| A: _en_ hij _hebben_ _ja_ er zitten _nog_ _twee_ _ding_ _aan_ _aan_ _en_ _aan de_ bovenkant _zijn het_ echt _een_ _ruit met_ vier _ja_ _met_ _zo'n_ blok _erdoorheen_ 
+A|3| A: _ja ja_ 
+B|4| B: [ja] 
+B|5| B: [ja] 
+B|6| B: _dus_ zeggen maar _dus_ _ja die_ driehoek _die_ staan bovenop 
+B|7| B: [ja] 
+B|8| B: [ja [ja] ja] 
+B|9| B: [ja] _en dan_ [aan de] zijkant staan [nog] [aan de] linkerkant [ja] je [hebben] [zo'n] lang _ding en dan _nog_ een_ _ook_ weer [zo'n] soort bliksemschicht toch 
+B|10| B: [ja ja] 
+B|11| B: [ja] 
+B|12| B: _dan_ [zijn het] [ja] 
+B|13| B: M 
+B|14| B: [en] _dit zijn_ 
+B|15| B: [ja] _dat zijn_ _die_ _met die_ [twee] [ja] ruiten zeggen maar [met] [een] piercing _of_ [zo'n] [ja] [zo'n] bliksemschicht [erdoorheen] zeggen maar 
+B|16| B: [ja] 
+A|17| A: [ja] 
+A|18| A: [ja] [dus] [een] _ruit_ _wat_ erin vallen 
+A|19| A: [ja] 
+A|20| A: [dat zijn] nummer negen 
+B|21| B: glijbaan 
+B|22| B: ah 
+B|23| B: I 
+A|24| A: hoe noemen we deze [ook] alweer ? deze [zijn] [met] [dat] _ruit_ [die] erin vallen waar al [die] blok doorheen gaan [die] blok gaan door [dat] _ruit_ heen 
+A|25| A: [en dan] komen er [aan de] onderkant [zo'n] staafje uit [zo'n] buigen staafje [en] [aan de] rechterkant zitten [nog een] armpje [of] iets _wat_ [het] [ook] mogen [zijn] 
+B|26| B: [ja] [dat zijn] [die] _met die ruit_ 
+B|27| B: ruiten [en] [de] bliksemschicht [erdoorheen] 
+B|28| B: [ja] 
+B|29| B: [ja [ja] ja] 
+A|30| A: [ja] 
+A|31| A: [ja] er komen echt [zo'n] dinge onderuit 
+A|32| A: [ja] 
+A|33| A: [dat zijn] nummer elf 
+B|34| B: [ja] 
+B|35| B: D 
+B|36| B: [ja] [wat] [zijn] _dit_ ? _die [ruit_ met] [de] bliksemschicht 
+A|37| A: [dit zijn] [met die ruit] [die] erin vallen [met die] blok [erdoorheen] 
+A|38| A: onderaan [dat] [ding en dan nog] [twee] uitsteeksel 
+A|39| A: [ja] 
+A|40| A: [ja] 
+A|41| A: [ja [die] ruit] [die] erin vallen 
+A|42| A: [ja] 
+A|43| A: veertien 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : er komen een uit een mok komen aan de bovenkant een ruitvormig figuur wat worden doorboren door een aantal vlak achter elkaar
+	Free: Pattern=aan de, Pattern=een, Pattern=wat
+	Constrained: Pattern=de, Pattern=aan
+Turn ID=1| A | A : en aan de onderkant steken er een staafje uit wat deze vorm hebben zo
+	Free: Pattern=aan de, Pattern=een, Pattern=hebben, Pattern=wat, Pattern=en
+	Constrained: Pattern=de, Pattern=aan
+Turn ID=2| A | A : en hij hebben ja er zitten nog twee ding aan aan en aan de bovenkant zijn het echt een ruit met vier ja met zo'n blok erdoorheen
+	Free: Pattern=zijn het, Pattern=nog, Pattern=aan de, Pattern=ding, Pattern=een, Pattern=met, Pattern=ruit met, Pattern=en, Pattern=zo'n, Pattern=twee, Pattern=aan, Pattern=ja, Pattern=erdoorheen, Pattern=hebben
+	Constrained: Pattern=ruit, Pattern=het, Pattern=met, Pattern=zijn, Pattern=de, Pattern=aan
+Turn ID=3| A | A : ja ja
+	Free: Pattern=ja ja
+	Constrained: Pattern=ja
+Turn ID=4| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=5| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=6| B | B : dus zeggen maar dus ja die driehoek die staan bovenop
+	Free: Pattern=ja die, Pattern=die, Pattern=dus
+	Constrained: Pattern=die, Pattern=ja
+Turn ID=7| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=8| B | B : ja ja ja
+	Free: Pattern=ja ja
+	Constrained: Pattern=ja
+Turn ID=9| B | B : ja en dan aan de zijkant staan nog aan de linkerkant ja je hebben zo'n lang ding en dan nog een ook weer zo'n soort bliksemschicht toch
+	Free: Pattern=nog, Pattern=ja, Pattern=en dan, Pattern=hebben, Pattern=ding en dan nog, Pattern=zo'n, Pattern=nog een, Pattern=aan de, Pattern=ook
+	Constrained: Pattern=nog, Pattern=en dan, Pattern=dan, Pattern=ding, Pattern=een, Pattern=en, Pattern=de, Pattern=aan
+Turn ID=10| B | B : ja ja
+	Free: Pattern=ja ja
+	Constrained: Pattern=ja
+Turn ID=11| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=12| B | B : dan zijn het ja
+	Free: Pattern=zijn het, Pattern=dan, Pattern=ja
+	Constrained: Pattern=zijn, Pattern=het
+Turn ID=13| B | B : M
+	Free: 
+	Constrained: 
+Turn ID=14| B | B : en dit zijn
+	Free: Pattern=dit zijn, Pattern=en
+	Constrained: Pattern=dit, Pattern=zijn
+Turn ID=15| B | B : ja dat zijn die met die twee ja ruiten zeggen maar met een piercing of zo'n ja zo'n bliksemschicht erdoorheen zeggen maar
+	Free: Pattern=of, Pattern=ja, Pattern=een, Pattern=erdoorheen, Pattern=met, Pattern=die, Pattern=dat zijn, Pattern=met die, Pattern=zo'n, Pattern=twee
+	Constrained: Pattern=die, Pattern=dat, Pattern=zijn, Pattern=met
+Turn ID=16| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=17| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=18| A | A : ja dus een ruit wat erin vallen
+	Free: Pattern=ruit, Pattern=een, Pattern=wat, Pattern=dus, Pattern=ja
+	Constrained: 
+Turn ID=19| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=20| A | A : dat zijn nummer negen
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=21| B | B : glijbaan
+	Free: 
+	Constrained: 
+Turn ID=22| B | B : ah
+	Free: 
+	Constrained: 
+Turn ID=23| B | B : I
+	Free: 
+	Constrained: 
+Turn ID=24| A | A : hoe noemen we deze ook alweer ? deze zijn met dat ruit die erin vallen waar al die blok doorheen gaan die blok gaan door dat ruit heen
+	Free: Pattern=dat, Pattern=ruit, Pattern=ook, Pattern=met, Pattern=die, Pattern=zijn
+	Constrained: 
+Turn ID=25| A | A : en dan komen er aan de onderkant zo'n staafje uit zo'n buigen staafje en aan de rechterkant zitten nog een armpje of iets wat het ook mogen zijn
+	Free: Pattern=of, Pattern=en dan, Pattern=het, Pattern=wat, Pattern=en, Pattern=zijn, Pattern=zo'n, Pattern=nog een, Pattern=aan de, Pattern=ook
+	Constrained: Pattern=nog, Pattern=dan, Pattern=een, Pattern=en, Pattern=de, Pattern=aan
+Turn ID=26| B | B : ja dat zijn die met die ruit
+	Free: Pattern=met die ruit, Pattern=dat zijn, Pattern=die, Pattern=ja
+	Constrained: Pattern=ruit, Pattern=die ruit, Pattern=met, Pattern=die, Pattern=zijn, Pattern=dat, Pattern=met die
+Turn ID=27| B | B : ruiten en de bliksemschicht erdoorheen
+	Free: Pattern=de, Pattern=erdoorheen, Pattern=en
+	Constrained: 
+Turn ID=28| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=29| B | B : ja ja ja
+	Free: Pattern=ja ja
+	Constrained: Pattern=ja
+Turn ID=30| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=31| A | A : ja er komen echt zo'n dinge onderuit
+	Free: Pattern=zo'n, Pattern=ja
+	Constrained: 
+Turn ID=32| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=33| A | A : dat zijn nummer elf
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=34| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=35| B | B : D
+	Free: 
+	Constrained: 
+Turn ID=36| B | B : ja wat zijn dit ? die ruit met de bliksemschicht
+	Free: Pattern=die ruit, Pattern=dit, Pattern=ruit met, Pattern=wat, Pattern=zijn, Pattern=de, Pattern=ja
+	Constrained: Pattern=die, Pattern=ruit, Pattern=met
+Turn ID=37| A | A : dit zijn met die ruit die erin vallen met die blok erdoorheen
+	Free: Pattern=met die, Pattern=erdoorheen, Pattern=die, Pattern=met die ruit, Pattern=dit zijn
+	Constrained: Pattern=met die, Pattern=ruit, Pattern=die ruit, Pattern=dit, Pattern=met, Pattern=die, Pattern=zijn
+Turn ID=38| A | A : onderaan dat ding en dan nog twee uitsteeksel
+	Free: Pattern=ding en dan nog, Pattern=dat, Pattern=twee
+	Constrained: Pattern=nog, Pattern=en dan, Pattern=dan, Pattern=ding, Pattern=en
+Turn ID=39| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=40| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=41| A | A : ja die ruit die erin vallen
+	Free: Pattern=ja die, Pattern=die ruit, Pattern=die
+	Constrained: Pattern=die, Pattern=ruit, Pattern=ja
+Turn ID=42| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=43| A | A : veertien
+	Free: 
+	Constrained: 

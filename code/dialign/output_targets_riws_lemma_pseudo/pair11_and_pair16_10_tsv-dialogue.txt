@@ -1,0 +1,135 @@
+A|0| A: _ja_ deze hebben _een soort van_ _nou ja_ Ronde Buis _en_ die lijken gewoon al door _de_ zijkant _van_ die _van_ _het kop_ als we _het_ over _kop_ hebben doorheen steken 
+A|1| A: _ja_ zoiets 
+A|2| A: _en_ _ja_ _aan de_ _het_ _ja_ 
+A|3| A: _zitten_ _ook_ zo'n vierkant _met_ iets eronder 
+A|4| A: _ja_ die _ja_ 
+A|5| A: _ja_ 
+B|6| B: [ja] [ja] 
+B|7| B: [ja] [een soort van] zonne-energiepaneeltje [aan de] achterkant [ja] 
+B|8| B: _ik weten het_ anders [ook] niet [ja] 
+B|9| B: okee _ja ik_ denken _ik_ _hem_ wel _weten_ 
+B|10| B: _ik_ gaan voor c 
+A|11| A: [ja [ik] weten] welk _je_ bedoelen [ik] moeten [hem] alleen even 
+A|12| A: [ja] nummer vier 
+A|13| A: _dit zijn_ weer [de] stuur [van] [het] fiets 
+A|14| A: _met_ [de] balk dwars door [het] dinge of [het] _rond_ 
+B|15| B: ah [ja] 
+B|16| B: [ja] hier [dit zijn] [het kop] _waar_ zelf niks op [zitten] zeggen maar 
+B|17| B: maar _waar_ [aan de] achterkant [een soort van] [rond] staaf liggen [met] uiteinde bollet 
+B|18| B: [en] [een] [een] [een] zonne-energiepaneeltje [weten] [je] _nog_ 
+B|19| B: [ja] 
+A|20| A: [ja [ik] weten] [hem] al alleen [ik] moeten [hem] [nog] even zien te vinden 
+A|21| A: dat [zijn] nummer tien 
+A|22| A: [het] fietsstuur 
+B|23| B: [ja] 
+B|24| B: alright dan gaan [ik] voor a 
+A|25| A: [ja [ik] weten het] al 
+A|26| A: even kijken 
+A|27| A: [waar] [zijn] die 
+A|28| A: nummer vijfteen 
+B|29| B: [kop] [met] [aan de] achterkant [een] hoe heten [het] [een soort] pen [met] [met] bollet [aan de] [aan] beide kant [en] [een] zonnepaneel 
+B|30| B: [ik] gaan voor b [ja] 
+B|31| B: [nou ja] 
+B|32| B: zonne-energiedakje 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : ja deze hebben een soort van nou ja Ronde Buis en die lijken gewoon al door de zijkant van die van het kop als we het over kop hebben doorheen steken
+	Free: Pattern=het kop, Pattern=het, Pattern=kop, Pattern=een soort van, Pattern=de, Pattern=ja, Pattern=van, Pattern=en, Pattern=nou ja
+	Constrained: Pattern=ja, Pattern=een, Pattern=het, Pattern=kop, Pattern=een soort, Pattern=van
+Turn ID=1| A | A : ja zoiets
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=2| A | A : en ja aan de het ja
+	Free: Pattern=aan de, Pattern=ja, Pattern=en, Pattern=het
+	Constrained: Pattern=de, Pattern=aan
+Turn ID=3| A | A : zitten ook zo'n vierkant met iets eronder
+	Free: Pattern=ook, Pattern=zitten, Pattern=met
+	Constrained: 
+Turn ID=4| A | A : ja die ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=5| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=6| B | B : ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=7| B | B : ja een soort van zonne-energiepaneeltje aan de achterkant ja
+	Free: Pattern=een soort van, Pattern=aan de, Pattern=ja
+	Constrained: Pattern=een, Pattern=een soort, Pattern=van, Pattern=de, Pattern=aan
+Turn ID=8| B | B : ik weten het anders ook niet ja
+	Free: Pattern=ik weten het, Pattern=ja, Pattern=ook
+	Constrained: Pattern=weten, Pattern=ik weten, Pattern=het, Pattern=ik
+Turn ID=9| B | B : okee ja ik denken ik hem wel weten
+	Free: Pattern=ja ik, Pattern=hem, Pattern=ik, Pattern=weten
+	Constrained: Pattern=ja, Pattern=ik
+Turn ID=10| B | B : ik gaan voor c
+	Free: Pattern=ik
+	Constrained: 
+Turn ID=11| A | A : ja ik weten welk je bedoelen ik moeten hem alleen even
+	Free: Pattern=ik weten, Pattern=ja ik, Pattern=ik, Pattern=je, Pattern=hem
+	Constrained: Pattern=ja, Pattern=ik, Pattern=weten
+Turn ID=12| A | A : ja nummer vier
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=13| A | A : dit zijn weer de stuur van het fiets
+	Free: Pattern=dit zijn, Pattern=de, Pattern=van, Pattern=het
+	Constrained: Pattern=zijn
+Turn ID=14| A | A : met de balk dwars door het dinge of het rond
+	Free: Pattern=rond, Pattern=de, Pattern=het, Pattern=met
+	Constrained: 
+Turn ID=15| B | B : ah ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=16| B | B : ja hier dit zijn het kop waar zelf niks op zitten zeggen maar
+	Free: Pattern=ja, Pattern=waar, Pattern=het kop, Pattern=zitten, Pattern=dit zijn
+	Constrained: Pattern=kop, Pattern=zijn, Pattern=het
+Turn ID=17| B | B : maar waar aan de achterkant een soort van rond staaf liggen met uiteinde bollet
+	Free: Pattern=waar, Pattern=aan de, Pattern=een soort van, Pattern=met, Pattern=rond
+	Constrained: Pattern=een, Pattern=een soort, Pattern=van, Pattern=de, Pattern=aan
+Turn ID=18| B | B : en een een een zonne-energiepaneeltje weten je nog
+	Free: Pattern=nog, Pattern=een, Pattern=weten, Pattern=en, Pattern=je
+	Constrained: 
+Turn ID=19| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=20| A | A : ja ik weten hem al alleen ik moeten hem nog even zien te vinden
+	Free: Pattern=nog, Pattern=ik weten, Pattern=ja ik, Pattern=ik, Pattern=hem
+	Constrained: Pattern=ja, Pattern=ik, Pattern=weten
+Turn ID=21| A | A : dat zijn nummer tien
+	Free: Pattern=zijn
+	Constrained: 
+Turn ID=22| A | A : het fietsstuur
+	Free: Pattern=het
+	Constrained: 
+Turn ID=23| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=24| B | B : alright dan gaan ik voor a
+	Free: Pattern=ik
+	Constrained: 
+Turn ID=25| A | A : ja ik weten het al
+	Free: Pattern=ik weten het, Pattern=ja ik
+	Constrained: Pattern=ja, Pattern=weten, Pattern=het, Pattern=ik weten, Pattern=ik
+Turn ID=26| A | A : even kijken
+	Free: 
+	Constrained: 
+Turn ID=27| A | A : waar zijn die
+	Free: Pattern=zijn, Pattern=waar
+	Constrained: 
+Turn ID=28| A | A : nummer vijfteen
+	Free: 
+	Constrained: 
+Turn ID=29| B | B : kop met aan de achterkant een hoe heten het een soort pen met met bollet aan de aan beide kant en een zonnepaneel
+	Free: Pattern=aan, Pattern=aan de, Pattern=een, Pattern=het, Pattern=kop, Pattern=met, Pattern=een soort, Pattern=en
+	Constrained: Pattern=de, Pattern=aan, Pattern=een
+Turn ID=30| B | B : ik gaan voor b ja
+	Free: Pattern=ja, Pattern=ik
+	Constrained: 
+Turn ID=31| B | B : nou ja
+	Free: Pattern=nou ja
+	Constrained: Pattern=ja
+Turn ID=32| B | B : zonne-energiedakje
+	Free: 
+	Constrained: 

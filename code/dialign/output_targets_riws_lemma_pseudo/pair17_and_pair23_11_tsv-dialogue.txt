@@ -1,0 +1,115 @@
+A|0| A: _ja_ zes 
+B|1| B: zitten twee object bovenin 
+B|2| B: één _zijn_ _een_ heel tweedimensioneel klein blok 
+B|3| B: _en_ _dat_ _zijn_ _dat_ rechter figuur , _dat_ _link_ figuur lijken alsof het _een_ heel sierlijk lepeltje _zijn_ 
+B|4| B: wat in vorm veranderen 
+B|5| B: _en_ het _hebben een_ soort _van_ bol _op de_ voorkant 
+B|6| B: staafje aan _de_ linkerkant 
+A|7| A: deze [hebben een] bal voor [op de] emmer 
+A|8| A: [en] dan [een] balk die _recht_ omhoog gaan bovenop [de] emmer [en] [link] [van] die balk staan [dat] penachtig ding 
+B|9| B: [ja] 
+B|10| B: [en] [een] neus ervoor 
+B|11| B: [ja] 
+B|12| B: K 
+A|13| A: [de] pen [ja] vier 
+B|14| B: [recht] heel klein balkje Bovenin , [een] sierachtig lepel ernaast 
+B|15| B: rond neus 
+B|16| B: vol 
+A|17| A: dit [zijn] die met die bal voorop [en] die pen bovenop 
+A|18| A: [ja] vijfteen 
+A|19| A: die pen bovenop 
+B|20| B: [ja] 
+B|21| B: even zoeken waar [zijn] je 
+B|22| B: [ja] A 
+B|23| B: twee lepeltje , één klein balkje [en] [een] heel sierlijk lepeltje 
+B|24| B: neus 
+B|25| B: [ja] 
+B|26| B: even kijken 
+B|27| B: H 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : ja zes
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=1| B | B : zitten twee object bovenin
+	Free: 
+	Constrained: 
+Turn ID=2| B | B : één zijn een heel tweedimensioneel klein blok
+	Free: Pattern=zijn, Pattern=een
+	Constrained: 
+Turn ID=3| B | B : en dat zijn dat rechter figuur , dat link figuur lijken alsof het een heel sierlijk lepeltje zijn
+	Free: Pattern=dat, Pattern=een, Pattern=link, Pattern=en, Pattern=zijn
+	Constrained: 
+Turn ID=4| B | B : wat in vorm veranderen
+	Free: 
+	Constrained: 
+Turn ID=5| B | B : en het hebben een soort van bol op de voorkant
+	Free: Pattern=hebben een, Pattern=op de, Pattern=en, Pattern=van
+	Constrained: Pattern=een, Pattern=de
+Turn ID=6| B | B : staafje aan de linkerkant
+	Free: Pattern=de
+	Constrained: 
+Turn ID=7| A | A : deze hebben een bal voor op de emmer
+	Free: Pattern=hebben een, Pattern=op de
+	Constrained: Pattern=een, Pattern=de
+Turn ID=8| A | A : en dan een balk die recht omhoog gaan bovenop de emmer en link van die balk staan dat penachtig ding
+	Free: Pattern=dat, Pattern=de, Pattern=een, Pattern=recht, Pattern=link, Pattern=van, Pattern=en
+	Constrained: 
+Turn ID=9| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=10| B | B : en een neus ervoor
+	Free: Pattern=een, Pattern=en
+	Constrained: 
+Turn ID=11| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=12| B | B : K
+	Free: 
+	Constrained: 
+Turn ID=13| A | A : de pen ja vier
+	Free: Pattern=ja, Pattern=de
+	Constrained: 
+Turn ID=14| B | B : recht heel klein balkje Bovenin , een sierachtig lepel ernaast
+	Free: Pattern=een, Pattern=recht
+	Constrained: 
+Turn ID=15| B | B : rond neus
+	Free: 
+	Constrained: 
+Turn ID=16| B | B : vol
+	Free: 
+	Constrained: 
+Turn ID=17| A | A : dit zijn die met die bal voorop en die pen bovenop
+	Free: Pattern=zijn, Pattern=en
+	Constrained: 
+Turn ID=18| A | A : ja vijfteen
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=19| A | A : die pen bovenop
+	Free: 
+	Constrained: 
+Turn ID=20| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=21| B | B : even zoeken waar zijn je
+	Free: Pattern=zijn
+	Constrained: 
+Turn ID=22| B | B : ja A
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=23| B | B : twee lepeltje , één klein balkje en een heel sierlijk lepeltje
+	Free: Pattern=een, Pattern=en
+	Constrained: 
+Turn ID=24| B | B : neus
+	Free: 
+	Constrained: 
+Turn ID=25| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=26| B | B : even kijken
+	Free: 
+	Constrained: 
+Turn ID=27| B | B : H
+	Free: 
+	Constrained: 

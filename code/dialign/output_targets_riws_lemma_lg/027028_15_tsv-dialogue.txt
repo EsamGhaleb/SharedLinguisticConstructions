@@ -1,0 +1,139 @@
+B|0| B: _ja_ nu _zijn_ _ik_ weer _het zijn_ _ja_ eigenlijk _het zijn_ _zeggen maar_ _het_ _zitten_ eigenlijk _zitten er_ een plaat in _het_ midden 
+B|1| B: _en_ eigenlijk lijken _het_ een beetje op een _glijbaan_ 
+B|2| B: tenminste _ik_ zullen _het_ _en_ dan _zitten er_ _ja_ _het zijn_ dat kop dus _met_ _de_ plaat in _het_ midden 
+B|3| B: _en_ boven _staan_ eigenlijk twee punt 
+A|4| A: even kijken hoor 
+B|5| B: of twee streep eigenlijk 
+A|6| A: [ja] [en] [zitten er] ook nog [zeggen maar] zo'n ding 
+B|7| B: zullen een 
+B|8| B: [ja] 
+B|9| B: [ja] 
+A|10| A: [ja] 
+A|11| A: zes 
+A|12| A: volgens mij omschrijven jij _die_ als [glijbaan] 
+B|13| B: ah [ja] 
+B|14| B: C 
+B|15| B: dit _zijn_ [die] [glijbaan] 
+A|16| A: _waar_ [staan] _je_ ook alweer eens ? [glijbaan] [glijbaan] _glijbaan waar_ [staan] _je_ ook alweer eens 
+A|17| A: waarom zien [ik] hem nou niet ? [ja] [met] [die] driehoek Erboven [ja] 
+B|18| B: [ja] 
+A|19| A: zes 
+A|20| A: _de glijbaan_ 
+B|21| B: [glijbaan waar] _zijn_ [je] 
+B|22| B: ah 
+A|23| A: ons eigen taal ontwikkelen 
+B|24| B: J 
+B|25| B: dit _zijn_ [de glijbaan] 
+A|26| A: [ja] 
+A|27| A: negen 
+A|28| A: [de glijbaan] 
+B|29| B: ah [ja] 
+A|30| A: [je] weten nog welk [het zijn] 
+B|31| B: [ja] 
+A|32| A: oké 
+B|33| B: N 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : ja nu zijn ik weer het zijn ja eigenlijk het zijn zeggen maar het zitten eigenlijk zitten er een plaat in het midden
+	Free: Pattern=ja, Pattern=zeggen maar, Pattern=het, Pattern=ik, Pattern=het zijn, Pattern=zitten, Pattern=zijn, Pattern=zitten er
+	Constrained: Pattern=zijn, Pattern=zitten, Pattern=het
+Turn ID=1| B | B : en eigenlijk lijken het een beetje op een glijbaan
+	Free: Pattern=en, Pattern=glijbaan, Pattern=het
+	Constrained: 
+Turn ID=2| B | B : tenminste ik zullen het en dan zitten er ja het zijn dat kop dus met de plaat in het midden
+	Free: Pattern=het, Pattern=met, Pattern=het zijn, Pattern=ik, Pattern=en, Pattern=zitten er, Pattern=de, Pattern=ja
+	Constrained: Pattern=zijn, Pattern=het, Pattern=zitten
+Turn ID=3| B | B : en boven staan eigenlijk twee punt
+	Free: Pattern=staan, Pattern=en
+	Constrained: 
+Turn ID=4| A | A : even kijken hoor
+	Free: 
+	Constrained: 
+Turn ID=5| B | B : of twee streep eigenlijk
+	Free: 
+	Constrained: 
+Turn ID=6| A | A : ja en zitten er ook nog zeggen maar zo'n ding
+	Free: Pattern=zeggen maar, Pattern=zitten er, Pattern=ja, Pattern=en
+	Constrained: Pattern=zitten
+Turn ID=7| B | B : zullen een
+	Free: 
+	Constrained: 
+Turn ID=8| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=9| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=10| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=11| A | A : zes
+	Free: 
+	Constrained: 
+Turn ID=12| A | A : volgens mij omschrijven jij die als glijbaan
+	Free: Pattern=glijbaan, Pattern=die
+	Constrained: 
+Turn ID=13| B | B : ah ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=14| B | B : C
+	Free: 
+	Constrained: 
+Turn ID=15| B | B : dit zijn die glijbaan
+	Free: Pattern=glijbaan, Pattern=zijn, Pattern=die
+	Constrained: 
+Turn ID=16| A | A : waar staan je ook alweer eens ? glijbaan glijbaan glijbaan waar staan je ook alweer eens
+	Free: Pattern=waar, Pattern=staan, Pattern=glijbaan, Pattern=je, Pattern=glijbaan waar
+	Constrained: Pattern=waar, Pattern=glijbaan
+Turn ID=17| A | A : waarom zien ik hem nou niet ? ja met die driehoek Erboven ja
+	Free: Pattern=ja, Pattern=ik, Pattern=die, Pattern=met
+	Constrained: 
+Turn ID=18| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=19| A | A : zes
+	Free: 
+	Constrained: 
+Turn ID=20| A | A : de glijbaan
+	Free: Pattern=de glijbaan
+	Constrained: Pattern=glijbaan, Pattern=de
+Turn ID=21| B | B : glijbaan waar zijn je
+	Free: Pattern=glijbaan waar, Pattern=zijn, Pattern=je
+	Constrained: Pattern=waar, Pattern=glijbaan
+Turn ID=22| B | B : ah
+	Free: 
+	Constrained: 
+Turn ID=23| A | A : ons eigen taal ontwikkelen
+	Free: 
+	Constrained: 
+Turn ID=24| B | B : J
+	Free: 
+	Constrained: 
+Turn ID=25| B | B : dit zijn de glijbaan
+	Free: Pattern=de glijbaan, Pattern=zijn
+	Constrained: Pattern=glijbaan, Pattern=de
+Turn ID=26| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=27| A | A : negen
+	Free: 
+	Constrained: 
+Turn ID=28| A | A : de glijbaan
+	Free: Pattern=de glijbaan
+	Constrained: Pattern=glijbaan, Pattern=de
+Turn ID=29| B | B : ah ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=30| A | A : je weten nog welk het zijn
+	Free: Pattern=het zijn, Pattern=je
+	Constrained: Pattern=zijn, Pattern=het
+Turn ID=31| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=32| A | A : oké
+	Free: 
+	Constrained: 
+Turn ID=33| B | B : N
+	Free: 
+	Constrained: 

@@ -1,0 +1,119 @@
+B|0| B: _een_ 
+B|1| B: _het_ staat _op een_ _plateau_ _en_ _er_ _zijn_ zo zo'n draaien ding doorheen 
+B|2| B: _ja_ 
+A|3| A: [ja] 
+A|4| A: [ja] okee 
+A|5| A: _dat zijn_ nummer [een] 
+A|6| A: hier hebben we _de_ hoofdvorm [op een] platform staan 
+A|7| A: [op] _de_ hoofdvorm zitten [een] cirkel 
+A|8| A: [en] aan beide kant steken [een] [ja] één één één [ja] 
+A|9| A: versiersel uit 
+A|10| A: [ja] 
+A|11| A: nummer drie 
+A|12| A: _dit zijn_ _de_ hoofdvorm _die_ [op] _de_ [op] [het] [plateau] staan met [een] rond cirkel [er] aan vastgeplakt [en] [het] versiersel 
+B|13| B: [ja] 
+B|14| B: [ja] 
+B|15| B: [ja] [en] [dat] dinge erdoorheen [een] schroef eigenlijk 
+B|16| B: [ja] 
+B|17| B: [dat zijn] b 
+A|18| A: even kijken horen 
+A|19| A: [ja] 
+A|20| A: van _die_ versiersel 
+A|21| A: [ja] 
+A|22| A: nummer twee 
+B|23| B: [dit zijn] [die] spiraal schroef erdoorheen 
+A|24| A: [dit zijn] _de_ versiersel _de_ hoofdvorm met _de_ versiersel 
+B|25| B: [ja] 
+B|26| B: [dat zijn] g 
+B|27| B: [de] spiraal erdoorheen 
+B|28| B: ah [ja] n 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : een
+	Free: Pattern=een
+	Constrained: 
+Turn ID=1| B | B : het staat op een plateau en er zijn zo zo'n draaien ding doorheen
+	Free: Pattern=het, Pattern=plateau, Pattern=er, Pattern=en, Pattern=zijn, Pattern=op een
+	Constrained: Pattern=een, Pattern=op
+Turn ID=2| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=3| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=4| A | A : ja okee
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=5| A | A : dat zijn nummer een
+	Free: Pattern=dat zijn, Pattern=een
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=6| A | A : hier hebben we de hoofdvorm op een platform staan
+	Free: Pattern=op een, Pattern=de
+	Constrained: Pattern=een, Pattern=op
+Turn ID=7| A | A : op de hoofdvorm zitten een cirkel
+	Free: Pattern=een, Pattern=op, Pattern=de
+	Constrained: 
+Turn ID=8| A | A : en aan beide kant steken een ja één één één ja
+	Free: Pattern=een, Pattern=ja, Pattern=en
+	Constrained: 
+Turn ID=9| A | A : versiersel uit
+	Free: 
+	Constrained: 
+Turn ID=10| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=11| A | A : nummer drie
+	Free: 
+	Constrained: 
+Turn ID=12| A | A : dit zijn de hoofdvorm die op de op het plateau staan met een rond cirkel er aan vastgeplakt en het versiersel
+	Free: Pattern=de, Pattern=op, Pattern=een, Pattern=het, Pattern=plateau, Pattern=die, Pattern=er, Pattern=en, Pattern=dit zijn
+	Constrained: Pattern=zijn
+Turn ID=13| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=14| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=15| B | B : ja en dat dinge erdoorheen een schroef eigenlijk
+	Free: Pattern=een, Pattern=ja, Pattern=en, Pattern=dat
+	Constrained: 
+Turn ID=16| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=17| B | B : dat zijn b
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=18| A | A : even kijken horen
+	Free: 
+	Constrained: 
+Turn ID=19| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=20| A | A : van die versiersel
+	Free: Pattern=die
+	Constrained: 
+Turn ID=21| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=22| A | A : nummer twee
+	Free: 
+	Constrained: 
+Turn ID=23| B | B : dit zijn die spiraal schroef erdoorheen
+	Free: Pattern=dit zijn, Pattern=die
+	Constrained: Pattern=zijn
+Turn ID=24| A | A : dit zijn de versiersel de hoofdvorm met de versiersel
+	Free: Pattern=dit zijn, Pattern=de
+	Constrained: Pattern=zijn
+Turn ID=25| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=26| B | B : dat zijn g
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=27| B | B : de spiraal erdoorheen
+	Free: Pattern=de
+	Constrained: 
+Turn ID=28| B | B : ah ja n
+	Free: Pattern=ja
+	Constrained: 

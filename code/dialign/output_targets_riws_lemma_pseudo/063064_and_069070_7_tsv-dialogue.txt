@@ -1,0 +1,119 @@
+B|0| B: deze _hebben_ _een_ plaat _erdoorheen_ _aan de_ _een_ beetje _aan de bovenkant_ _en twee poo_ eronderuit 
+B|1| B: vinden ik het lijken 
+B|2| B: _en_ _er_ staan _een soort van_ omgekeerd driehoek afronden _bovenop_ 
+B|3| B: _ja_ _dat_ vinden ik ook _een_ picknicktafel 
+B|4| B: _ja_ 
+A|5| A: [ja] 
+A|6| A: po [aan] 
+A|7| A: [ja] [ja] [ja] 
+A|8| A: [ja] [ja] [ja] 
+A|9| A: zestien _zijn_ [dat] bij mij 
+B|10| B: oké 
+B|11| B: [ja] nou _dit zijn_ P laugh 
+A|12| A: [dit zijn] [een] kop met 
+A|13| A: met [een soort van] [een] tafel [erdoorheen] geschoven met die [twee] uit uitstekend ding [aan] [dat] plateau zeggen maar 
+A|14| A: [en] dan zitten [er] nog [een soort van] kuipje [bovenop] [en] [een] slangetje achter 
+B|15| B: oké ik _hebben_ _de_ picknicktafel 
+B|16| B: oké 
+B|17| B: [ja] even zoeken 
+B|18| B: [ja] [dat] [zijn] N 
+A|19| A: [ja] [ja] 
+A|20| A: veertien 
+B|21| B: ik _hebben_ [een] picknicktafel 
+B|22| B: [ja] 
+B|23| B: [ja] [dat] [zijn] D 
+A|24| A: [dit zijn] met die plank [aan de bovenkant] [erdoorheen] smeten zeggen maar met [twee] [van] die 
+A|25| A: po eruit [en] dan weer zo'n [ja] waarschijnlijk [hebben] je hem al 
+A|26| A: tien 
+A|27| A: [dit zijn] met die met die plank [aan de bovenkant] [erdoorheen] gespiest met zo'n 
+A|28| A: oplopen kubusiet [en twee poo] 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : deze hebben een plaat erdoorheen aan de een beetje aan de bovenkant en twee poo eronderuit
+	Free: Pattern=aan de, Pattern=een, Pattern=aan de bovenkant, Pattern=en twee poo, Pattern=erdoorheen, Pattern=hebben
+	Constrained: Pattern=twee, Pattern=aan de, Pattern=en, Pattern=de, Pattern=aan
+Turn ID=1| B | B : vinden ik het lijken
+	Free: 
+	Constrained: 
+Turn ID=2| B | B : en er staan een soort van omgekeerd driehoek afronden bovenop
+	Free: Pattern=een soort van, Pattern=en, Pattern=bovenop, Pattern=er
+	Constrained: Pattern=van, Pattern=een
+Turn ID=3| B | B : ja dat vinden ik ook een picknicktafel
+	Free: Pattern=dat, Pattern=ja, Pattern=een
+	Constrained: 
+Turn ID=4| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=5| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=6| A | A : po aan
+	Free: Pattern=aan
+	Constrained: 
+Turn ID=7| A | A : ja ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=8| A | A : ja ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=9| A | A : zestien zijn dat bij mij
+	Free: Pattern=dat, Pattern=zijn
+	Constrained: 
+Turn ID=10| B | B : oké
+	Free: 
+	Constrained: 
+Turn ID=11| B | B : ja nou dit zijn P laugh
+	Free: Pattern=dit zijn, Pattern=ja
+	Constrained: Pattern=zijn
+Turn ID=12| A | A : dit zijn een kop met
+	Free: Pattern=dit zijn, Pattern=een
+	Constrained: Pattern=zijn
+Turn ID=13| A | A : met een soort van een tafel erdoorheen geschoven met die twee uit uitstekend ding aan dat plateau zeggen maar
+	Free: Pattern=dat, Pattern=twee, Pattern=aan, Pattern=een, Pattern=erdoorheen, Pattern=een soort van
+	Constrained: Pattern=van, Pattern=een
+Turn ID=14| A | A : en dan zitten er nog een soort van kuipje bovenop en een slangetje achter
+	Free: Pattern=bovenop, Pattern=een, Pattern=een soort van, Pattern=er, Pattern=en
+	Constrained: Pattern=van, Pattern=een
+Turn ID=15| B | B : oké ik hebben de picknicktafel
+	Free: Pattern=hebben, Pattern=de
+	Constrained: 
+Turn ID=16| B | B : oké
+	Free: 
+	Constrained: 
+Turn ID=17| B | B : ja even zoeken
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=18| B | B : ja dat zijn N
+	Free: Pattern=dat, Pattern=zijn, Pattern=ja
+	Constrained: 
+Turn ID=19| A | A : ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=20| A | A : veertien
+	Free: 
+	Constrained: 
+Turn ID=21| B | B : ik hebben een picknicktafel
+	Free: Pattern=hebben, Pattern=een
+	Constrained: 
+Turn ID=22| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=23| B | B : ja dat zijn D
+	Free: Pattern=dat, Pattern=zijn, Pattern=ja
+	Constrained: 
+Turn ID=24| A | A : dit zijn met die plank aan de bovenkant erdoorheen smeten zeggen maar met twee van die
+	Free: Pattern=twee, Pattern=erdoorheen, Pattern=dit zijn, Pattern=van, Pattern=aan de bovenkant
+	Constrained: Pattern=aan, Pattern=de, Pattern=zijn, Pattern=aan de
+Turn ID=25| A | A : po eruit en dan weer zo'n ja waarschijnlijk hebben je hem al
+	Free: Pattern=hebben, Pattern=ja, Pattern=en
+	Constrained: 
+Turn ID=26| A | A : tien
+	Free: 
+	Constrained: 
+Turn ID=27| A | A : dit zijn met die met die plank aan de bovenkant erdoorheen gespiest met zo'n
+	Free: Pattern=aan de bovenkant, Pattern=dit zijn, Pattern=erdoorheen
+	Constrained: Pattern=aan, Pattern=de, Pattern=zijn, Pattern=aan de
+Turn ID=28| A | A : oplopen kubusiet en twee poo
+	Free: Pattern=en twee poo
+	Constrained: Pattern=en, Pattern=twee

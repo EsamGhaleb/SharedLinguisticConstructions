@@ -1,0 +1,83 @@
+A|0| A: _deze_ _ik_ _vinden_ _het_ hier _zo'n_ uitsteeksel _een soort van_ toren omhoog 
+A|1| A: _aan_ _zo'n_ plateau 
+A|2| A: _ja_ _het_ lijken wel op _een_ toeter inderdaad zeggen maar _het_ _zijn_ _een_ uitsteeksel daar staan _de_ toeter op _en_ dan _hebben_ _die_ ook nog _een_ plateau 
+A|3| A: oké 
+A|4| A: _ja_ _ik_ weten welk _je_ bedoelen 
+A|5| A: _ja_ _de_ _die_ trompet _ja dat zijn_ nummer zeven 
+B|6| B: [ja] [en] [een soort van] schijf [aan] [de] rechterkant [ja dat zijn] L 
+A|7| A: dit [zijn] diegene _met_ _het_ plateau [en] [de] trompet 
+A|8| A: _vinden_ jij volgens mij of toeter 
+B|9| B: [deze] [hebben] zegmaar [zo'n] spijker in [een] uitstekend [dat] langgerekt hartje waar [je] [het] net over [hebben] 
+B|10| B: _even kijken_ 
+B|11| B: [ik] kunnen hem niet [vinden] C 
+A|12| A: [ja] 
+A|13| A: [even] zoeken 
+A|14| A: [ja] één 
+B|15| B: [die] [met] [dat] uitstekend ding waar [die] spijker in zitten [met] [dat] uitgereken hartje [en] rechts [dat] rond 
+A|16| A: dit [zijn] [de] [met] [het] plateau [en] [de] toeter trompet toren 
+B|17| B: A 
+A|18| A: [ja] [even kijken] [ja] dertien 
+B|19| B: [zo'n] spijker [die] [aan] [dat] steken hart zitten 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : deze ik vinden het hier zo'n uitsteeksel een soort van toren omhoog
+	Free: Pattern=zo'n, Pattern=vinden, Pattern=het, Pattern=een soort van, Pattern=ik, Pattern=deze
+	Constrained: Pattern=een
+Turn ID=1| A | A : aan zo'n plateau
+	Free: Pattern=aan, Pattern=zo'n
+	Constrained: 
+Turn ID=2| A | A : ja het lijken wel op een toeter inderdaad zeggen maar het zijn een uitsteeksel daar staan de toeter op en dan hebben die ook nog een plateau
+	Free: Pattern=een, Pattern=het, Pattern=hebben, Pattern=die, Pattern=en, Pattern=zijn, Pattern=de, Pattern=ja
+	Constrained: 
+Turn ID=3| A | A : oké
+	Free: 
+	Constrained: 
+Turn ID=4| A | A : ja ik weten welk je bedoelen
+	Free: Pattern=je, Pattern=ik, Pattern=ja
+	Constrained: 
+Turn ID=5| A | A : ja de die trompet ja dat zijn nummer zeven
+	Free: Pattern=ja dat zijn, Pattern=die, Pattern=de, Pattern=ja
+	Constrained: Pattern=dat, Pattern=zijn, Pattern=ja
+Turn ID=6| B | B : ja en een soort van schijf aan de rechterkant ja dat zijn L
+	Free: Pattern=ja dat zijn, Pattern=een soort van, Pattern=en, Pattern=de, Pattern=aan, Pattern=ja
+	Constrained: Pattern=zijn, Pattern=ja, Pattern=een, Pattern=dat
+Turn ID=7| A | A : dit zijn diegene met het plateau en de trompet
+	Free: Pattern=de, Pattern=het, Pattern=met, Pattern=en, Pattern=zijn
+	Constrained: 
+Turn ID=8| A | A : vinden jij volgens mij of toeter
+	Free: Pattern=vinden
+	Constrained: 
+Turn ID=9| B | B : deze hebben zegmaar zo'n spijker in een uitstekend dat langgerekt hartje waar je het net over hebben
+	Free: Pattern=dat, Pattern=zo'n, Pattern=een, Pattern=het, Pattern=hebben, Pattern=deze, Pattern=je
+	Constrained: 
+Turn ID=10| B | B : even kijken
+	Free: Pattern=even kijken
+	Constrained: Pattern=even
+Turn ID=11| B | B : ik kunnen hem niet vinden C
+	Free: Pattern=vinden, Pattern=ik
+	Constrained: 
+Turn ID=12| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=13| A | A : even zoeken
+	Free: Pattern=even
+	Constrained: 
+Turn ID=14| A | A : ja één
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=15| B | B : die met dat uitstekend ding waar die spijker in zitten met dat uitgereken hartje en rechts dat rond
+	Free: Pattern=dat, Pattern=die, Pattern=met, Pattern=en
+	Constrained: 
+Turn ID=16| A | A : dit zijn de met het plateau en de toeter trompet toren
+	Free: Pattern=de, Pattern=het, Pattern=met, Pattern=en, Pattern=zijn
+	Constrained: 
+Turn ID=17| B | B : A
+	Free: 
+	Constrained: 
+Turn ID=18| A | A : ja even kijken ja dertien
+	Free: Pattern=even kijken, Pattern=ja
+	Constrained: Pattern=even
+Turn ID=19| B | B : zo'n spijker die aan dat steken hart zitten
+	Free: Pattern=dat, Pattern=die, Pattern=aan, Pattern=zo'n
+	Constrained: 

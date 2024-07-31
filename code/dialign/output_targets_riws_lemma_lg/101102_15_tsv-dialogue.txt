@@ -1,0 +1,147 @@
+B|0| B: _oké_ 
+B|1| B: _dit_ lijken een beetje op een _man_ die zo zwaaien 
+B|2| B: er steken twee stok uit _zijn_ hoofd _dat zijn_ _zijn_ oog zeggen maar _en_ _hij_ zwaaien _en_ _hij_ _hebben_ een soort _lang neus_ die _net_ onder die stokjes uit komen _en_ _hij_ _hebben_ een soort tutu _aan_ 
+A|3| A: [oké] 
+A|4| A: _ja_ _dan_ weten _ik_ welk _je_ _bedoelen_ 
+B|5| B: [ja] 
+A|6| A: [dat zijn] nummer zes 
+A|7| A: [dit] [zijn] _het zwaaiend poppe met_ [zijn] [lang neus] 
+A|8| A: [en] _het_ _rok_ [dat] [hij] [aan] [hebben] 
+B|9| B: [ja] 
+B|10| B: [dat zijn] C 
+B|11| B: [ik] vinden [het] altijd makkelijk onthouden [met] van die [met] zo'n dom verhaal erbij 
+A|12| A: [ja] 
+B|13| B: [het zwaaiend poppe met] [het] ballerinading 
+A|14| A: [ja] dertien 
+B|15| B: _de_ tutu 
+A|16| A: [dit] [zijn] 
+B|17| B: wachten even [ik] [zijn] even ergens verward over 
+B|18| B: zeggen _de_ heel tijd wat ertussen zullen passen [bedoelen] [je] [dan] _tot je bij_ een ander plaat _aankomen_ 
+B|19| B: of _tot je bij de rand aankomen_ 
+A|20| A: [net] [tot je bij de rand aankomen] 
+B|21| B: [ja] 
+B|22| B: [oké] 
+B|23| B: [ja] goed [dat] [het] duidelijk [zijn] 
+A|24| A: [dat zijn] ook lullig als we alles nou verkeerd beschrijven 
+B|25| B: nee want zo [zijn] [ik] al [aan] [het] denken alleen [ik] twijfellen heel eventjes eraan 
+A|26| A: [oké] 
+B|27| B: nee jij jou beurt 
+A|28| A: [ja] [dit] [zijn] [het zwaaiend poppe met] [zijn] [lang neus] [en] [zijn] _rok_ 
+B|29| B: [ja] 
+B|30| B: J 
+B|31| B: [het _zwaaiend] man met_ [de] [rok] 
+A|32| A: nummer negen 
+A|33| A: [zwaaiend man met] [zijn] [lang neus] 
+A|34| A: [zijn] [rok] 
+B|35| B: N 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=1| B | B : dit lijken een beetje op een man die zo zwaaien
+	Free: Pattern=man, Pattern=dit
+	Constrained: 
+Turn ID=2| B | B : er steken twee stok uit zijn hoofd dat zijn zijn oog zeggen maar en hij zwaaien en hij hebben een soort lang neus die net onder die stokjes uit komen en hij hebben een soort tutu aan
+	Free: Pattern=dat zijn, Pattern=net, Pattern=aan, Pattern=hebben, Pattern=hij, Pattern=lang neus, Pattern=en, Pattern=zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=3| A | A : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=4| A | A : ja dan weten ik welk je bedoelen
+	Free: Pattern=ja, Pattern=dan, Pattern=bedoelen, Pattern=ik, Pattern=je
+	Constrained: 
+Turn ID=5| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=6| A | A : dat zijn nummer zes
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=7| A | A : dit zijn het zwaaiend poppe met zijn lang neus
+	Free: Pattern=het zwaaiend poppe met, Pattern=lang neus, Pattern=dit, Pattern=zijn
+	Constrained: Pattern=met, Pattern=het zwaaiend, Pattern=het
+Turn ID=8| A | A : en het rok dat hij aan hebben
+	Free: Pattern=dat, Pattern=aan, Pattern=het, Pattern=hebben, Pattern=hij, Pattern=en, Pattern=rok
+	Constrained: 
+Turn ID=9| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=10| B | B : dat zijn C
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=11| B | B : ik vinden het altijd makkelijk onthouden met van die met zo'n dom verhaal erbij
+	Free: Pattern=ik, Pattern=met, Pattern=het
+	Constrained: 
+Turn ID=12| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=13| B | B : het zwaaiend poppe met het ballerinading
+	Free: Pattern=het zwaaiend poppe met, Pattern=het
+	Constrained: Pattern=met, Pattern=het zwaaiend, Pattern=het
+Turn ID=14| A | A : ja dertien
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=15| B | B : de tutu
+	Free: Pattern=de
+	Constrained: 
+Turn ID=16| A | A : dit zijn
+	Free: Pattern=dit, Pattern=zijn
+	Constrained: 
+Turn ID=17| B | B : wachten even ik zijn even ergens verward over
+	Free: Pattern=ik, Pattern=zijn
+	Constrained: 
+Turn ID=18| B | B : zeggen de heel tijd wat ertussen zullen passen bedoelen je dan tot je bij een ander plaat aankomen
+	Free: Pattern=tot je bij, Pattern=de, Pattern=bedoelen, Pattern=je, Pattern=aankomen, Pattern=dan
+	Constrained: Pattern=je
+Turn ID=19| B | B : of tot je bij de rand aankomen
+	Free: Pattern=tot je bij de rand aankomen
+	Constrained: Pattern=de, Pattern=aankomen, Pattern=je, Pattern=tot je bij
+Turn ID=20| A | A : net tot je bij de rand aankomen
+	Free: Pattern=tot je bij de rand aankomen, Pattern=net
+	Constrained: Pattern=de, Pattern=aankomen, Pattern=je, Pattern=tot je bij
+Turn ID=21| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=22| B | B : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=23| B | B : ja goed dat het duidelijk zijn
+	Free: Pattern=ja, Pattern=het, Pattern=dat, Pattern=zijn
+	Constrained: 
+Turn ID=24| A | A : dat zijn ook lullig als we alles nou verkeerd beschrijven
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=25| B | B : nee want zo zijn ik al aan het denken alleen ik twijfellen heel eventjes eraan
+	Free: Pattern=ik, Pattern=het, Pattern=aan, Pattern=zijn
+	Constrained: 
+Turn ID=26| A | A : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=27| B | B : nee jij jou beurt
+	Free: 
+	Constrained: 
+Turn ID=28| A | A : ja dit zijn het zwaaiend poppe met zijn lang neus en zijn rok
+	Free: Pattern=ja, Pattern=dit, Pattern=het zwaaiend poppe met, Pattern=lang neus, Pattern=en, Pattern=zijn, Pattern=rok
+	Constrained: Pattern=met, Pattern=het zwaaiend, Pattern=het
+Turn ID=29| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=30| B | B : J
+	Free: 
+	Constrained: 
+Turn ID=31| B | B : het zwaaiend man met de rok
+	Free: Pattern=zwaaiend man met, Pattern=het zwaaiend, Pattern=de, Pattern=rok
+	Constrained: Pattern=man, Pattern=met, Pattern=het
+Turn ID=32| A | A : nummer negen
+	Free: 
+	Constrained: 
+Turn ID=33| A | A : zwaaiend man met zijn lang neus
+	Free: Pattern=zwaaiend man met, Pattern=lang neus, Pattern=zijn
+	Constrained: Pattern=man, Pattern=met
+Turn ID=34| A | A : zijn rok
+	Free: Pattern=rok, Pattern=zijn
+	Constrained: 
+Turn ID=35| B | B : N
+	Free: 
+	Constrained: 

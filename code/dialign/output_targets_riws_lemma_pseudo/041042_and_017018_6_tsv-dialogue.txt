@@ -1,0 +1,103 @@
+A|0| A: _oké_ _ik_ _hebben_ nu nu 
+A|1| A: _het_ rood vierkant _ik_ zien er zelf _een_ gezicht in _met_ _een_ neus _die_ _een_ neuspiercing _hebben_ _dus_ eigenlijk _een_ schroef door _de_ neus heen 
+A|2| A: _hebben_ ook nog één _ja_ _een_ pluk achter op _het_ hoofd 
+A|3| A: _ja_ nummer inderdaad 
+B|4| B: [hebben] [die] aan [de] bovenkant [een] soort van appelsteel 
+B|5| B: [oké] dan weten [ik] welk [het] _zijn_ dan moeten _dat_ F _zijn_ voor mij 
+B|6| B: [dus] _even_ kijken dan _zijn_ _dat_ [de] geel knop 
+B|7| B: _even_ kijken _dit zijn het_ [het] bak waar [het] appelsteel aan [de] linkerkant boven uit steken 
+B|8| B: [met] aan [de] voorkant [het] bolle [met] [het] staafje erdoorheen 
+B|9| B: [ja] 
+A|10| A: [even] zoeken 
+A|11| A: [ja] _en_ [dat] dinge achter op [het] hoofd 
+A|12| A: nummer vijf 
+B|13| B: nee 
+B|14| B: [ja] 
+B|15| B: _dat zijn_ voor mij A 
+B|16| B: _dit zijn_ [die] weer [met] [het] appelsteel aan [de] bovenkant [en] [het] neusje wat doorboord worden 
+A|17| A: [dit zijn het] poppe [met] [de] neuspiercing 
+A|18| A: [de] neuspiercing 
+A|19| A: [ja] 
+A|20| A: [dat zijn] nummer vijf 
+B|21| B: [dat zijn] H voor mij 
+A|22| A: [dit zijn] [de] neuspiercing 
+B|23| B: [het] appelsteel [en] [het] doorboord rond 
+A|24| A: [dat zijn] nummer vijftien 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : oké ik hebben nu nu
+	Free: Pattern=ik, Pattern=hebben, Pattern=oké
+	Constrained: 
+Turn ID=1| A | A : het rood vierkant ik zien er zelf een gezicht in met een neus die een neuspiercing hebben dus eigenlijk een schroef door de neus heen
+	Free: Pattern=een, Pattern=het, Pattern=hebben, Pattern=met, Pattern=die, Pattern=ik, Pattern=de, Pattern=dus
+	Constrained: 
+Turn ID=2| A | A : hebben ook nog één ja een pluk achter op het hoofd
+	Free: Pattern=hebben, Pattern=ja, Pattern=een, Pattern=het
+	Constrained: 
+Turn ID=3| A | A : ja nummer inderdaad
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=4| B | B : hebben die aan de bovenkant een soort van appelsteel
+	Free: Pattern=de, Pattern=hebben, Pattern=die, Pattern=een
+	Constrained: 
+Turn ID=5| B | B : oké dan weten ik welk het zijn dan moeten dat F zijn voor mij
+	Free: Pattern=dat, Pattern=het, Pattern=oké, Pattern=ik, Pattern=zijn
+	Constrained: 
+Turn ID=6| B | B : dus even kijken dan zijn dat de geel knop
+	Free: Pattern=dat, Pattern=even, Pattern=zijn, Pattern=de, Pattern=dus
+	Constrained: 
+Turn ID=7| B | B : even kijken dit zijn het het bak waar het appelsteel aan de linkerkant boven uit steken
+	Free: Pattern=dit zijn het, Pattern=de, Pattern=het, Pattern=even
+	Constrained: Pattern=dit zijn, Pattern=zijn, Pattern=het
+Turn ID=8| B | B : met aan de voorkant het bolle met het staafje erdoorheen
+	Free: Pattern=de, Pattern=met, Pattern=het
+	Constrained: 
+Turn ID=9| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=10| A | A : even zoeken
+	Free: Pattern=even
+	Constrained: 
+Turn ID=11| A | A : ja en dat dinge achter op het hoofd
+	Free: Pattern=dat, Pattern=ja, Pattern=het, Pattern=en
+	Constrained: 
+Turn ID=12| A | A : nummer vijf
+	Free: 
+	Constrained: 
+Turn ID=13| B | B : nee
+	Free: 
+	Constrained: 
+Turn ID=14| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=15| B | B : dat zijn voor mij A
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=16| B | B : dit zijn die weer met het appelsteel aan de bovenkant en het neusje wat doorboord worden
+	Free: Pattern=de, Pattern=het, Pattern=met, Pattern=die, Pattern=en, Pattern=dit zijn
+	Constrained: Pattern=zijn
+Turn ID=17| A | A : dit zijn het poppe met de neuspiercing
+	Free: Pattern=dit zijn het, Pattern=de, Pattern=met
+	Constrained: Pattern=dit zijn, Pattern=zijn, Pattern=het
+Turn ID=18| A | A : de neuspiercing
+	Free: Pattern=de
+	Constrained: 
+Turn ID=19| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=20| A | A : dat zijn nummer vijf
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=21| B | B : dat zijn H voor mij
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=22| A | A : dit zijn de neuspiercing
+	Free: Pattern=dit zijn, Pattern=de
+	Constrained: Pattern=zijn
+Turn ID=23| B | B : het appelsteel en het doorboord rond
+	Free: Pattern=het, Pattern=en
+	Constrained: 
+Turn ID=24| A | A : dat zijn nummer vijftien
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn

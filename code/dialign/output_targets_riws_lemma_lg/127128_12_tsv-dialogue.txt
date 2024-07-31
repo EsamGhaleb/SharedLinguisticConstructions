@@ -1,0 +1,151 @@
+A|0| A: _bij mij_ ook 
+A|1| A: deze _mok_ _hebben_ _een_ _heel_ _een_ _heel_ groot _uitsteeksel_ _aan de_ links kant dus eerst zitten _er_ _een soort van_ balk uit _en_ dan opsteken _er_ _zo'n_ ik vinden _het_ _een_ _pylon_ _op_ _zijn_ kop 
+B|2| B: _ja_ [een] [een] [een] [een soort] beiteldinge 
+A|3| A: _die staan_ erbovenop _en_ dan nog [een] 
+A|4| A: [ja] 
+B|5| B: [ja] 
+A|6| A: _en_ dan nog [een] recht _aan de rechterkant_ _een muntstuk_ _wat_ _er_ [een] beetje zo uit opsteken 
+B|7| B: [een muntstuk] [op] [zo'n] [een soort van] _dienblad_ zoals [wat] je serveren 
+A|8| A: [ja] 
+A|9| A: [ja] 
+B|10| B: [ja] 
+A|11| A: [ja] 
+B|12| B: _dat zijn_ [bij mij] L 
+B|13| B: _dit zijn_ [de] [mok] _met_ [heel] veel [uitsteeksel] [die] [hebben] [aan de rechterkant] _het dienblad_ 
+B|14| B: [en] [aan de] linkerkant [hebben] [die] [de] beitel [die] _met het_ [die] bezig _zijn _met_ het_ _armp_ 
+A|15| A: [ja] _die pylon_ [op] [zijn] kop 
+B|16| B: [die pylon] [ja] 
+A|17| A: [ja] nummer zeven 
+B|18| B: [ja] 
+A|19| A: deze [zijn met] [die pylon] [op] [zijn] kop 
+A|20| A: [die] [op] [dat] [armp] steunen [en] [het dienblad] 
+B|21| B: [ja] _dat zijn_ [bij mij] C 
+B|22| B: _dit zijn_ [die] _met het dienblad_ 
+B|23| B: [en] [de] [pylon] 
+A|24| A: [ja] 
+A|25| A: [met het dienblad] [en] [die pylon] [dat zijn] nummer één 
+A|26| A: [dit zijn] [het dienblad] [met] [die pylon] omgekeerd 
+B|27| B: [ja] 
+B|28| B: [dat zijn] [bij mij] A 
+A|29| A: top 
+B|30| B: [die] [met het dienblad] 
+B|31| B: [die staan] [bij mij] [van] [de] figuur [die] we net [hebben] [staan] [die] [er] precies iets boven 
+B|32| B: rechts iets boven 
+A|33| A: [ja] [met] [die pylon] 
+B|34| B: [ja] 
+A|35| A: [ja] 
+A|36| A: dertien 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : bij mij ook
+	Free: Pattern=bij mij
+	Constrained: 
+Turn ID=1| A | A : deze mok hebben een heel een heel groot uitsteeksel aan de links kant dus eerst zitten er een soort van balk uit en dan opsteken er zo'n ik vinden het een pylon op zijn kop
+	Free: Pattern=heel, Pattern=zo'n, Pattern=pylon, Pattern=uitsteeksel, Pattern=een, Pattern=het, Pattern=hebben, Pattern=een soort van, Pattern=er, Pattern=mok, Pattern=en, Pattern=zijn, Pattern=op, Pattern=aan de
+	Constrained: Pattern=een soort, Pattern=een, Pattern=de, Pattern=van
+Turn ID=2| B | B : ja een een een een soort beiteldinge
+	Free: Pattern=een soort, Pattern=een, Pattern=ja
+	Constrained: Pattern=een
+Turn ID=3| A | A : die staan erbovenop en dan nog een
+	Free: Pattern=die staan, Pattern=een, Pattern=en
+	Constrained: Pattern=staan, Pattern=die
+Turn ID=4| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=5| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=6| A | A : en dan nog een recht aan de rechterkant een muntstuk wat er een beetje zo uit opsteken
+	Free: Pattern=een, Pattern=aan de rechterkant, Pattern=en, Pattern=een muntstuk, Pattern=wat, Pattern=er
+	Constrained: Pattern=een, Pattern=de, Pattern=aan de
+Turn ID=7| B | B : een muntstuk op zo'n een soort van dienblad zoals wat je serveren
+	Free: Pattern=zo'n, Pattern=op, Pattern=een soort van, Pattern=een muntstuk, Pattern=wat, Pattern=dienblad
+	Constrained: Pattern=een soort, Pattern=een, Pattern=van
+Turn ID=8| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=9| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=10| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=11| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=12| B | B : dat zijn bij mij L
+	Free: Pattern=bij mij, Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=13| B | B : dit zijn de mok met heel veel uitsteeksel die hebben aan de rechterkant het dienblad
+	Free: Pattern=het dienblad, Pattern=heel, Pattern=de, Pattern=uitsteeksel, Pattern=hebben, Pattern=met, Pattern=mok, Pattern=dit zijn, Pattern=aan de rechterkant, Pattern=die
+	Constrained: Pattern=de, Pattern=aan de, Pattern=het, Pattern=dienblad, Pattern=zijn
+Turn ID=14| B | B : en aan de linkerkant hebben die de beitel die met het die bezig zijn met het armp
+	Free: Pattern=de, Pattern=aan de, Pattern=armp, Pattern=hebben, Pattern=en, Pattern=met het, Pattern=zijn met, Pattern=die
+	Constrained: Pattern=zijn, Pattern=met, Pattern=de, Pattern=het
+Turn ID=15| A | A : ja die pylon op zijn kop
+	Free: Pattern=die pylon, Pattern=zijn, Pattern=ja, Pattern=op
+	Constrained: Pattern=pylon, Pattern=die
+Turn ID=16| B | B : die pylon ja
+	Free: Pattern=die pylon, Pattern=ja
+	Constrained: Pattern=pylon, Pattern=die
+Turn ID=17| A | A : ja nummer zeven
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=18| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=19| A | A : deze zijn met die pylon op zijn kop
+	Free: Pattern=die pylon, Pattern=zijn met, Pattern=zijn, Pattern=op
+	Constrained: Pattern=zijn, Pattern=met, Pattern=pylon, Pattern=die
+Turn ID=20| A | A : die op dat armp steunen en het dienblad
+	Free: Pattern=dat, Pattern=het dienblad, Pattern=op, Pattern=armp, Pattern=die, Pattern=en
+	Constrained: Pattern=dienblad, Pattern=het
+Turn ID=21| B | B : ja dat zijn bij mij C
+	Free: Pattern=bij mij, Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=22| B | B : dit zijn die met het dienblad
+	Free: Pattern=met het dienblad, Pattern=dit zijn, Pattern=die
+	Constrained: Pattern=het dienblad, Pattern=het, Pattern=met, Pattern=dienblad, Pattern=met het, Pattern=zijn
+Turn ID=23| B | B : en de pylon
+	Free: Pattern=de, Pattern=en, Pattern=pylon
+	Constrained: 
+Turn ID=24| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=25| A | A : met het dienblad en die pylon dat zijn nummer één
+	Free: Pattern=met het dienblad, Pattern=die pylon, Pattern=dat zijn, Pattern=en
+	Constrained: Pattern=dat, Pattern=het dienblad, Pattern=pylon, Pattern=het, Pattern=met, Pattern=die, Pattern=dienblad, Pattern=met het, Pattern=zijn
+Turn ID=26| A | A : dit zijn het dienblad met die pylon omgekeerd
+	Free: Pattern=die pylon, Pattern=het dienblad, Pattern=dit zijn, Pattern=met
+	Constrained: Pattern=pylon, Pattern=het, Pattern=die, Pattern=dienblad, Pattern=zijn
+Turn ID=27| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=28| B | B : dat zijn bij mij A
+	Free: Pattern=bij mij, Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=29| A | A : top
+	Free: 
+	Constrained: 
+Turn ID=30| B | B : die met het dienblad
+	Free: Pattern=met het dienblad, Pattern=die
+	Constrained: Pattern=het dienblad, Pattern=het, Pattern=met, Pattern=dienblad, Pattern=met het
+Turn ID=31| B | B : die staan bij mij van de figuur die we net hebben staan die er precies iets boven
+	Free: Pattern=de, Pattern=staan, Pattern=hebben, Pattern=die, Pattern=er, Pattern=van, Pattern=bij mij, Pattern=die staan
+	Constrained: Pattern=staan, Pattern=die
+Turn ID=32| B | B : rechts iets boven
+	Free: 
+	Constrained: 
+Turn ID=33| A | A : ja met die pylon
+	Free: Pattern=die pylon, Pattern=met, Pattern=ja
+	Constrained: Pattern=pylon, Pattern=die
+Turn ID=34| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=35| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=36| A | A : dertien
+	Free: 
+	Constrained: 

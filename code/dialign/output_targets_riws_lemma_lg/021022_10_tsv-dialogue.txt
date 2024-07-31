@@ -1,0 +1,131 @@
+A|0| A: _ja dit zijn_ _ook_ eigenlijk _zo'n_ ovaal _ding_ _waar_ _aan de zijkant_ twee ronde _ja_ _staaf_ achtig gebeuren _er_ uit komen 
+A|1| A: _en dan_ _aan de_ achterkant _hebben je_ _nog een_ vierkant blok _wat_ _er_ tegenaan _zitten_ 
+B|2| B: _ja en_ _bovenop_ _zo'n kegel_ _die_ _zeggen maar_ waarvan [de] kop [er] af [zijn] snijden [zo'n] plat _dat_ [ding] [wat] zo omhoog _lopen_ _met_ [een] plat bovenkant 
+A|3| A: _even_ kijken 
+A|4| A: [ja] als in [ja] _je_ _hebben_ eigenlijk [zo'n kegel] [zeggen maar] _en dan_ _hebben je_ _aan_ iets Erboven _hebben je_ [zo'n] _soort_ vierkant gebeuren _en dan_ [lopen] [er] _nog_ iets achterlang 
+B|5| B: _o_ [en dan] _die_ [staaf] _die_ [er] echt zo _doorheen_ [zitten] 
+A|6| A: [staaf] [er] dwars _doorheen gaan_ _ja die_ [ja] 
+B|7| B: [ja] _ok_ [dan] [zijn] het K 
+B|8| B: [ja] hier [hebben je] _weer die_ [soort] _cilinder_ _of_ zo [die] [er] _doorheen gaan _en_ dan dat_ [soort] _plateau_ _met_ _dat_ [ding] _dat_ _er achter_ hangen 
+A|9| A: _ja [ja_ [en] dan _dat] plateau_ [hebben] [dan] _nog een_ _hangsel_ [er achter] [ja] 
+B|10| B: [ja] [hangsel] [dat] het net _lijken_ _of_ _hij_ omhoog [en] omlaag kunnen _of_ zo 
+A|11| A: ah [ok] _ja dit _zijn_ dan_ Numero negen 
+A|12| A: _ja dit zijn_ [weer die] [die] koker [zeggen maar] _waar_ [er] _waar_ [er] _waar_ [zo'n] buisje helemaal _doorheen gaan en _aan_ de_ achterkant [hebben je] [dan] eigenlijk [zo'n] inklapbaar klep [zeggen maar] 
+B|13| B: _ja ja ik_ [zijn] _hem even_ [aan] het _zoeken_ [ja ja] dus _die _met die_ met _die_ cilinder_ [waar] [dan] [ook] van [die] bollet [aan de zijkant] [zitten] [ja ja] _dat zijn dan_ F 
+A|14| A: [ja] 
+A|15| A: [ja] 
+A|16| A: [ja [ja] [ja] ja] 
+B|17| B: [ja] zelfde 
+A|18| A: verschuiven 
+B|19| B: [ja] hier [hebben je] [weer _die] cilinder die_ [er] [doorheen gaan] _met_ [dat] pateautje [dat] _lijken_ alsof het omlaag [en] omhoog kunnen 
+A|20| A: [ja ja ik] [hebben] [hem] vinden 
+B|21| B: [ja ja] 
+A|22| A: [dat zijn dan] nummer drie 
+A|23| A: _ja dit zijn_ [die] [die cilinder die] eigenlijk onderin doorgaan [met die] bobbel [er] op [en] [die] inklapbaar klep [of] [wat] wel [lijken] 
+B|24| B: [ja] 
+B|25| B: [dat zijn dan] L 
+B|26| B: [ja dit zijn] diegene [met [die] cilinder] [doorheen] [met] [dat plateau] [en] [met] [dat] aanhangsel waardoor het [lijken] alsof [je] [hem] naar beneden kunnen trekken [of] zo 
+A|27| A: [ja ja] 
+B|28| B: [ja [die] cilinder die] [dan] [die] [er] [doorheen gaan en aan] beide kant [zitten] [nog een] [soort] top [of] bolle [of] zo [er] _bovenop_ 
+A|29| A: [ja ik] [zitten] [hem even] te [zoeken] [zeggen maar] [zeggen maar] [met die met die] [die] klep [zeggen maar] [bovenop] hè ? [ja ja] 
+B|30| B: [ja] 
+A|31| A: [o] daar staan [hij] nummer vijf 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : ja dit zijn ook eigenlijk zo'n ovaal ding waar aan de zijkant twee ronde ja staaf achtig gebeuren er uit komen
+	Free: Pattern=zo'n, Pattern=ja, Pattern=ook, Pattern=ding, Pattern=aan de zijkant, Pattern=ja dit zijn, Pattern=er, Pattern=waar, Pattern=staaf
+	Constrained: Pattern=aan de, Pattern=zijn, Pattern=de, Pattern=aan, Pattern=ja
+Turn ID=1| A | A : en dan aan de achterkant hebben je nog een vierkant blok wat er tegenaan zitten
+	Free: Pattern=nog een, Pattern=en dan, Pattern=aan de, Pattern=zitten, Pattern=hebben je, Pattern=wat, Pattern=er
+	Constrained: Pattern=nog, Pattern=dan, Pattern=een, Pattern=hebben, Pattern=en, Pattern=je, Pattern=de, Pattern=aan
+Turn ID=2| B | B : ja en bovenop zo'n kegel die zeggen maar waarvan de kop er af zijn snijden zo'n plat dat ding wat zo omhoog lopen met een plat bovenkant
+	Free: Pattern=lopen, Pattern=zo'n, Pattern=de, Pattern=een, Pattern=zeggen maar, Pattern=met, Pattern=die, Pattern=zijn, Pattern=ja en, Pattern=dat, Pattern=bovenop, Pattern=zo'n kegel, Pattern=ding, Pattern=wat, Pattern=er
+	Constrained: Pattern=zo'n, Pattern=en, Pattern=ja
+Turn ID=3| A | A : even kijken
+	Free: Pattern=even
+	Constrained: 
+Turn ID=4| A | A : ja als in ja je hebben eigenlijk zo'n kegel zeggen maar en dan hebben je aan iets Erboven hebben je zo'n soort vierkant gebeuren en dan lopen er nog iets achterlang
+	Free: Pattern=lopen, Pattern=zo'n, Pattern=en dan, Pattern=zo'n kegel, Pattern=zeggen maar, Pattern=hebben, Pattern=er, Pattern=hebben je, Pattern=je, Pattern=nog, Pattern=soort, Pattern=aan, Pattern=ja
+	Constrained: Pattern=zo'n, Pattern=dan, Pattern=hebben, Pattern=en, Pattern=je
+Turn ID=5| B | B : o en dan die staaf die er echt zo doorheen zitten
+	Free: Pattern=doorheen, Pattern=er, Pattern=o, Pattern=staaf, Pattern=en dan, Pattern=die, Pattern=zitten
+	Constrained: Pattern=dan, Pattern=en
+Turn ID=6| A | A : staaf er dwars doorheen gaan ja die ja
+	Free: Pattern=ja die, Pattern=ja, Pattern=staaf, Pattern=er, Pattern=doorheen gaan
+	Constrained: Pattern=die, Pattern=doorheen, Pattern=ja
+Turn ID=7| B | B : ja ok dan zijn het K
+	Free: Pattern=dan, Pattern=ok, Pattern=zijn, Pattern=ja
+	Constrained: 
+Turn ID=8| B | B : ja hier hebben je weer die soort cilinder of zo die er doorheen gaan en dan dat soort plateau met dat ding dat er achter hangen
+	Free: Pattern=doorheen gaan en, Pattern=dat, Pattern=of, Pattern=soort, Pattern=ja, Pattern=ding, Pattern=met, Pattern=er, Pattern=hebben je, Pattern=cilinder, Pattern=en dan dat, Pattern=plateau, Pattern=weer die, Pattern=er achter, Pattern=die
+	Constrained: Pattern=dat, Pattern=doorheen, Pattern=en dan, Pattern=dan, Pattern=hebben, Pattern=die, Pattern=er, Pattern=en, Pattern=doorheen gaan, Pattern=je
+Turn ID=9| A | A : ja ja en dan dat plateau hebben dan nog een hangsel er achter ja
+	Free: Pattern=dan, Pattern=hebben, Pattern=en dan dat, Pattern=ja en, Pattern=dat plateau, Pattern=nog een, Pattern=ja, Pattern=ja ja, Pattern=hangsel, Pattern=er achter
+	Constrained: Pattern=dat, Pattern=nog, Pattern=ja, Pattern=en dan, Pattern=dan, Pattern=een, Pattern=plateau, Pattern=er, Pattern=en
+Turn ID=10| B | B : ja hangsel dat het net lijken of hij omhoog en omlaag kunnen of zo
+	Free: Pattern=dat, Pattern=of, Pattern=ja, Pattern=lijken, Pattern=hij, Pattern=hangsel, Pattern=en
+	Constrained: 
+Turn ID=11| A | A : ah ok ja dit zijn dan Numero negen
+	Free: Pattern=ja dit zijn, Pattern=zijn dan, Pattern=ok
+	Constrained: Pattern=dan, Pattern=zijn, Pattern=ja
+Turn ID=12| A | A : ja dit zijn weer die die koker zeggen maar waar er waar er waar zo'n buisje helemaal doorheen gaan en aan de achterkant hebben je dan eigenlijk zo'n inklapbaar klep zeggen maar
+	Free: Pattern=zo'n, Pattern=waar, Pattern=aan de, Pattern=dan, Pattern=zeggen maar, Pattern=weer die, Pattern=ja dit zijn, Pattern=die, Pattern=hebben je, Pattern=doorheen gaan en aan, Pattern=er
+	Constrained: Pattern=doorheen gaan en, Pattern=hebben, Pattern=die, Pattern=en, Pattern=zijn, Pattern=de, Pattern=aan, Pattern=ja, Pattern=doorheen, Pattern=doorheen gaan, Pattern=je
+Turn ID=13| B | B : ja ja ik zijn hem even aan het zoeken ja ja dus die met die met die cilinder waar dan ook van die bollet aan de zijkant zitten ja ja dat zijn dan F
+	Free: Pattern=zoeken, Pattern=ook, Pattern=dan, Pattern=aan de zijkant, Pattern=ja ja ik, Pattern=zijn, Pattern=aan, Pattern=ja ja, Pattern=waar, Pattern=die met die, Pattern=hem even, Pattern=met die met die, Pattern=dat zijn dan, Pattern=die cilinder, Pattern=die, Pattern=zitten
+	Constrained: Pattern=die met die, Pattern=dan, Pattern=zijn dan, Pattern=met, Pattern=die, Pattern=ja ik, Pattern=cilinder, Pattern=zijn, Pattern=hem, Pattern=dat, Pattern=met die, Pattern=de, Pattern=aan, Pattern=ja, Pattern=ja ja, Pattern=aan de, Pattern=even
+Turn ID=14| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=15| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=16| A | A : ja ja ja ja
+	Free: Pattern=ja ja
+	Constrained: Pattern=ja
+Turn ID=17| B | B : ja zelfde
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=18| A | A : verschuiven
+	Free: 
+	Constrained: 
+Turn ID=19| B | B : ja hier hebben je weer die cilinder die er doorheen gaan met dat pateautje dat lijken alsof het omlaag en omhoog kunnen
+	Free: Pattern=dat, Pattern=ja, Pattern=lijken, Pattern=weer die, Pattern=met, Pattern=hebben je, Pattern=en, Pattern=doorheen gaan, Pattern=die cilinder die, Pattern=er
+	Constrained: Pattern=doorheen, Pattern=hebben, Pattern=die cilinder, Pattern=die, Pattern=cilinder, Pattern=je
+Turn ID=20| A | A : ja ja ik hebben hem vinden
+	Free: Pattern=ja ja ik, Pattern=hebben, Pattern=hem
+	Constrained: Pattern=ja ik, Pattern=ja ja, Pattern=ja
+Turn ID=21| B | B : ja ja
+	Free: Pattern=ja ja
+	Constrained: Pattern=ja
+Turn ID=22| A | A : dat zijn dan nummer drie
+	Free: Pattern=dat zijn dan
+	Constrained: Pattern=zijn dan, Pattern=dat, Pattern=dan, Pattern=zijn
+Turn ID=23| A | A : ja dit zijn die die cilinder die eigenlijk onderin doorgaan met die bobbel er op en die inklapbaar klep of wat wel lijken
+	Free: Pattern=met die, Pattern=of, Pattern=lijken, Pattern=ja dit zijn, Pattern=die, Pattern=en, Pattern=wat, Pattern=die cilinder die, Pattern=er
+	Constrained: Pattern=ja, Pattern=die cilinder, Pattern=met, Pattern=die, Pattern=cilinder, Pattern=zijn
+Turn ID=24| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=25| B | B : dat zijn dan L
+	Free: Pattern=dat zijn dan
+	Constrained: Pattern=zijn dan, Pattern=dat, Pattern=dan, Pattern=zijn
+Turn ID=26| B | B : ja dit zijn diegene met die cilinder doorheen met dat plateau en met dat aanhangsel waardoor het lijken alsof je hem naar beneden kunnen trekken of zo
+	Free: Pattern=of, Pattern=dat plateau, Pattern=doorheen, Pattern=lijken, Pattern=die cilinder, Pattern=ja dit zijn, Pattern=met, Pattern=en, Pattern=je, Pattern=hem, Pattern=dat, Pattern=met die
+	Constrained: Pattern=dat, Pattern=ja, Pattern=plateau, Pattern=met, Pattern=die, Pattern=cilinder, Pattern=zijn
+Turn ID=27| A | A : ja ja
+	Free: Pattern=ja ja
+	Constrained: Pattern=ja
+Turn ID=28| B | B : ja die cilinder die dan die er doorheen gaan en aan beide kant zitten nog een soort top of bolle of zo er bovenop
+	Free: Pattern=bovenop, Pattern=of, Pattern=nog een, Pattern=dan, Pattern=ja die, Pattern=soort, Pattern=die, Pattern=zitten, Pattern=doorheen gaan en aan, Pattern=die cilinder die, Pattern=er
+	Constrained: Pattern=doorheen gaan en, Pattern=nog, Pattern=een, Pattern=die cilinder, Pattern=die, Pattern=doorheen gaan, Pattern=aan, Pattern=ja, Pattern=doorheen, Pattern=cilinder, Pattern=en
+Turn ID=29| A | A : ja ik zitten hem even te zoeken zeggen maar zeggen maar met die met die die klep zeggen maar bovenop hè ? ja ja
+	Free: Pattern=bovenop, Pattern=zoeken, Pattern=ja ja, Pattern=zeggen maar, Pattern=ja ik, Pattern=hem even, Pattern=met die met die, Pattern=die, Pattern=zitten
+	Constrained: Pattern=met die, Pattern=ja, Pattern=die met die, Pattern=even, Pattern=met, Pattern=die, Pattern=hem
+Turn ID=30| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=31| A | A : o daar staan hij nummer vijf
+	Free: Pattern=hij, Pattern=o
+	Constrained: 

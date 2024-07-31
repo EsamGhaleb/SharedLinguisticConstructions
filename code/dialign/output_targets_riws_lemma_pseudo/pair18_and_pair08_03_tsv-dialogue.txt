@@ -1,0 +1,107 @@
+A|0| A: _ja_ weten _ik_ 
+A|1| A: tien 
+A|2| A: _ik_ _hebben_ _die_ _een_ _die_ met _dat_ raar met _dat_ raar voetstuk op _die_ driehoek staan 
+A|3| A: _die_ zeggen maar ergens op staat 
+A|4| A: dus je _hebben_ zo'n driehoek op _de_ grond dan _hebben_ je _soort_ buis _en_ daar staan het rond ding pas op 
+B|5| B: dit zijn [de] enig [die] [soort] van been [en] voet [hebben] 
+B|6| B: [ja] 
+B|7| B: [ja] 
+A|8| A: op _dat_ driehoek 
+A|9| A: op [die] driehoek 
+A|10| A: zeven 
+A|11| A: _ik_ [hebben] [die] _een_ op _dat_ voetstuk [die] _dat_ twistding [en] dan op _dat_ driehoekje 
+B|12| B: [een] voet [ja] 
+B|13| B: [ja] [en] [een] staart link 
+B|14| B: [ja] 
+B|15| B: [ja] 
+B|16| B: [ja] 
+B|17| B: [dat] zijn A 
+A|18| A: [ja] 
+A|19| A: achten 
+A|20| A: [de] twistspiraal met [de] driehoek aan [de] onderkant 
+B|21| B: dit zijn [die] vogel kip 
+B|22| B: [ja] [ik] zoeken hem 
+B|23| B: [ja] [dat] zijn K 
+B|24| B: dit zijn [de] vogel 
+B|25| B: J 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : ja weten ik
+	Free: Pattern=ja, Pattern=ik
+	Constrained: 
+Turn ID=1| A | A : tien
+	Free: 
+	Constrained: 
+Turn ID=2| A | A : ik hebben die een die met dat raar met dat raar voetstuk op die driehoek staan
+	Free: Pattern=dat, Pattern=een, Pattern=hebben, Pattern=die, Pattern=ik
+	Constrained: 
+Turn ID=3| A | A : die zeggen maar ergens op staat
+	Free: Pattern=die
+	Constrained: 
+Turn ID=4| A | A : dus je hebben zo'n driehoek op de grond dan hebben je soort buis en daar staan het rond ding pas op
+	Free: Pattern=de, Pattern=hebben, Pattern=en, Pattern=soort
+	Constrained: 
+Turn ID=5| B | B : dit zijn de enig die soort van been en voet hebben
+	Free: Pattern=soort, Pattern=de, Pattern=hebben, Pattern=die, Pattern=en
+	Constrained: 
+Turn ID=6| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=7| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=8| A | A : op dat driehoek
+	Free: Pattern=dat
+	Constrained: 
+Turn ID=9| A | A : op die driehoek
+	Free: Pattern=die
+	Constrained: 
+Turn ID=10| A | A : zeven
+	Free: 
+	Constrained: 
+Turn ID=11| A | A : ik hebben die een op dat voetstuk die dat twistding en dan op dat driehoekje
+	Free: Pattern=dat, Pattern=een, Pattern=hebben, Pattern=die, Pattern=ik, Pattern=en
+	Constrained: 
+Turn ID=12| B | B : een voet ja
+	Free: Pattern=een, Pattern=ja
+	Constrained: 
+Turn ID=13| B | B : ja en een staart link
+	Free: Pattern=een, Pattern=ja, Pattern=en
+	Constrained: 
+Turn ID=14| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=15| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=16| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=17| B | B : dat zijn A
+	Free: Pattern=dat
+	Constrained: 
+Turn ID=18| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=19| A | A : achten
+	Free: 
+	Constrained: 
+Turn ID=20| A | A : de twistspiraal met de driehoek aan de onderkant
+	Free: Pattern=de
+	Constrained: 
+Turn ID=21| B | B : dit zijn die vogel kip
+	Free: Pattern=die
+	Constrained: 
+Turn ID=22| B | B : ja ik zoeken hem
+	Free: Pattern=ja, Pattern=ik
+	Constrained: 
+Turn ID=23| B | B : ja dat zijn K
+	Free: Pattern=ja, Pattern=dat
+	Constrained: 
+Turn ID=24| B | B : dit zijn de vogel
+	Free: Pattern=de
+	Constrained: 
+Turn ID=25| B | B : J
+	Free: 
+	Constrained: 

@@ -1,0 +1,91 @@
+A|0| A: nu hebben _ik_ het vierkantje 
+A|1| A: _ja_ _ik_ hebben _dit_ omschrijven als een soort _neus_ die doorboren _zijn_ _met_ een paal 
+B|2| B: [ja] weten [ik] al welk 
+A|3| A: [ja] ? hebben je hem 
+B|4| B: [ja] 
+B|5| B: F 
+B|6| B: [ja] 
+B|7| B: _dit zijn_ weer _de_ [neus] [met] _de_ balk erdoorheen 
+A|8| A: [ja] [de] [de] doorboren [neus] [ja] 
+B|9| B: [ja] 
+A|10| A: _dat zijn_ vijf 
+A|11| A: _dit zijn de_ doorbooren [neus] 
+B|12| B: [ja] A 
+B|13| B: [dit zijn de] [neus] [met] [de] doorboring 
+A|14| A: [ja] 
+A|15| A: even kijken waar die staan 
+A|16| A: [ja] 
+A|17| A: _dat zijn_ vijf 
+A|18| A: [dit zijn de] doorbooren [neus] 
+B|19| B: [ja] [dat zijn] H 
+B|20| B: [dit zijn de] [neus] [met] [de] doorboring 
+A|21| A: [dat zijn] vijftien 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : nu hebben ik het vierkantje
+	Free: Pattern=ik
+	Constrained: 
+Turn ID=1| A | A : ja ik hebben dit omschrijven als een soort neus die doorboren zijn met een paal
+	Free: Pattern=ja, Pattern=dit, Pattern=neus, Pattern=met, Pattern=ik, Pattern=zijn
+	Constrained: 
+Turn ID=2| B | B : ja weten ik al welk
+	Free: Pattern=ik, Pattern=ja
+	Constrained: 
+Turn ID=3| A | A : ja ? hebben je hem
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=4| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=5| B | B : F
+	Free: 
+	Constrained: 
+Turn ID=6| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=7| B | B : dit zijn weer de neus met de balk erdoorheen
+	Free: Pattern=dit zijn, Pattern=de, Pattern=neus, Pattern=met
+	Constrained: Pattern=zijn, Pattern=dit
+Turn ID=8| A | A : ja de de doorboren neus ja
+	Free: Pattern=ja, Pattern=de, Pattern=neus
+	Constrained: 
+Turn ID=9| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=10| A | A : dat zijn vijf
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn
+Turn ID=11| A | A : dit zijn de doorbooren neus
+	Free: Pattern=dit zijn de, Pattern=neus
+	Constrained: Pattern=dit zijn, Pattern=dit, Pattern=de, Pattern=zijn
+Turn ID=12| B | B : ja A
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=13| B | B : dit zijn de neus met de doorboring
+	Free: Pattern=dit zijn de, Pattern=de, Pattern=neus, Pattern=met
+	Constrained: Pattern=dit zijn, Pattern=dit, Pattern=de, Pattern=zijn
+Turn ID=14| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=15| A | A : even kijken waar die staan
+	Free: 
+	Constrained: 
+Turn ID=16| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=17| A | A : dat zijn vijf
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn
+Turn ID=18| A | A : dit zijn de doorbooren neus
+	Free: Pattern=dit zijn de, Pattern=neus
+	Constrained: Pattern=dit zijn, Pattern=dit, Pattern=de, Pattern=zijn
+Turn ID=19| B | B : ja dat zijn H
+	Free: Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=zijn
+Turn ID=20| B | B : dit zijn de neus met de doorboring
+	Free: Pattern=dit zijn de, Pattern=de, Pattern=neus, Pattern=met
+	Constrained: Pattern=dit zijn, Pattern=dit, Pattern=de, Pattern=zijn
+Turn ID=21| A | A : dat zijn vijftien
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn

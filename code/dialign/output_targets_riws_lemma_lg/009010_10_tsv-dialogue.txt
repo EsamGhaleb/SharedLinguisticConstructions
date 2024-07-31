@@ -1,0 +1,115 @@
+A|0| A: deze _vinden_ ik een beetje lijken op een Superman 
+A|1| A: omdat _die_ zo'n dak hebben dan linksboven 
+A|2| A: _en_ hij hebben een soort van _ja_ _peper en_ zoutvaat aan _de_ zijkant 
+B|3| B: [ja] 
+B|4| B: _twee_ _twee_ minieit eigenlijk 
+A|5| A: [ja] _jij_ _met_ je _eit_ 
+A|6| A: [ja] 
+B|7| B: het _zijn_ [eit] 
+A|8| A: [ja] 
+B|9| B: het het _zijn_ _twee_ _paasei_ 
+A|10| A: [twee] [eit] 
+A|11| A: [ja] 
+B|12| B: [ja] 
+B|13| B: _dat zijn_ K 
+B|14| B: _dit zijn die_ _weer_ [met] [de] [met] [de] _paasei_ of het [peper en] zoutstelle zoals [jij] [vinden] 
+A|15| A: [ja] 
+A|16| A: [dat zijn] negen 
+A|17| A: [dit zijn die] Superman [met] [die] zout [en] pepervaat [die] [jij] ei [vinden] 
+B|18| B: [dat zijn] _paasei_ 
+B|19| B: [dat zijn] F 
+B|20| B: [dit zijn die] _weer_ [met] het [peper en] zoutstelle 
+A|21| A: even zoeken 
+A|22| A: [ja] 
+A|23| A: [dat zijn] drie 
+A|24| A: [dit zijn] [weer] [dat] zout [en] peperstelsel [die] [paasei] 
+B|25| B: waar [zijn] ze ? [ja] [dat zijn] L 
+B|26| B: [dat zijn] [met] [peper en] zoutvaa 
+A|27| A: even zoeken [dat zijn] vijf 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : deze vinden ik een beetje lijken op een Superman
+	Free: Pattern=vinden
+	Constrained: 
+Turn ID=1| A | A : omdat die zo'n dak hebben dan linksboven
+	Free: Pattern=die
+	Constrained: 
+Turn ID=2| A | A : en hij hebben een soort van ja peper en zoutvaat aan de zijkant
+	Free: Pattern=peper en, Pattern=ja, Pattern=en, Pattern=de
+	Constrained: Pattern=en
+Turn ID=3| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=4| B | B : twee twee minieit eigenlijk
+	Free: Pattern=twee
+	Constrained: 
+Turn ID=5| A | A : ja jij met je eit
+	Free: Pattern=eit, Pattern=ja, Pattern=jij, Pattern=met
+	Constrained: 
+Turn ID=6| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=7| B | B : het zijn eit
+	Free: Pattern=eit, Pattern=zijn
+	Constrained: 
+Turn ID=8| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=9| B | B : het het zijn twee paasei
+	Free: Pattern=zijn, Pattern=twee, Pattern=paasei
+	Constrained: 
+Turn ID=10| A | A : twee eit
+	Free: Pattern=eit, Pattern=twee
+	Constrained: 
+Turn ID=11| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=12| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=13| B | B : dat zijn K
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=14| B | B : dit zijn die weer met de met de paasei of het peper en zoutstelle zoals jij vinden
+	Free: Pattern=paasei, Pattern=dit zijn die, Pattern=met, Pattern=peper en, Pattern=weer, Pattern=jij, Pattern=de, Pattern=vinden
+	Constrained: Pattern=dit zijn, Pattern=zijn, Pattern=die, Pattern=en
+Turn ID=15| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=16| A | A : dat zijn negen
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=17| A | A : dit zijn die Superman met die zout en pepervaat die jij ei vinden
+	Free: Pattern=dit zijn die, Pattern=vinden, Pattern=met, Pattern=die, Pattern=en, Pattern=jij
+	Constrained: Pattern=dit zijn, Pattern=zijn, Pattern=die
+Turn ID=18| B | B : dat zijn paasei
+	Free: Pattern=dat zijn, Pattern=paasei
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=19| B | B : dat zijn F
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=20| B | B : dit zijn die weer met het peper en zoutstelle
+	Free: Pattern=dit zijn die, Pattern=peper en, Pattern=weer, Pattern=met
+	Constrained: Pattern=dit zijn, Pattern=zijn, Pattern=die, Pattern=en
+Turn ID=21| A | A : even zoeken
+	Free: 
+	Constrained: 
+Turn ID=22| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=23| A | A : dat zijn drie
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=24| A | A : dit zijn weer dat zout en peperstelsel die paasei
+	Free: Pattern=dat, Pattern=paasei, Pattern=die, Pattern=en, Pattern=weer, Pattern=dit zijn
+	Constrained: Pattern=zijn
+Turn ID=25| B | B : waar zijn ze ? ja dat zijn L
+	Free: Pattern=dat zijn, Pattern=ja, Pattern=zijn
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=26| B | B : dat zijn met peper en zoutvaa
+	Free: Pattern=dat zijn, Pattern=peper en, Pattern=met
+	Constrained: Pattern=en, Pattern=zijn, Pattern=dat
+Turn ID=27| A | A : even zoeken dat zijn vijf
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn, Pattern=dat

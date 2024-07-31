@@ -1,0 +1,127 @@
+B|0| B: dit vinden _ik_ best een gek _figuur_ 
+B|1| B: hij _hebben_ een soort _vierkant_ _er dwars doorheen bijna_ _bovenin_ 
+B|2| B: _en_ aan _dat_ _vierkant_ hangen _twee_ stok 
+B|3| B: _en_ _op_ _dat_ _vierkant_ vaststaan nog een soort klein bak 
+B|4| B: _het_ _vierkant_ gaan echt _door het_ centraal _figuur_ heen 
+A|5| A: _ja _ja_ _ja_ _ja_ ja_ 
+A|6| A: _ja_ [dat] moeten wel nummer zestien _zijn_ 
+B|7| B: _hebben_ je hem 
+A|8| A: _ik hebben_ _die_ _weer_ _met dat_ veld [er dwars doorheen bijna] helemaal [bovenin] 
+A|9| A: [twee] ding eronder [twee] ding Erboven 
+B|10| B: [ja] [met] [die] stok eraan hangend 
+A|11| A: _ja ja_ 
+B|12| B: P 
+B|13| B: [ik hebben] [met dat] _vierkant_ wat [er] [bovenin] [doorheen] gaan waar [die] _twee dinget_ aan hangen 
+A|14| A: [ja] _dat zijn_ veertien 
+A|15| A: [ik hebben] [die] hoog horizontaal 
+A|16| A: [met] [twee dinget] eronder [en] [twee dinget] Erboven 
+B|17| B: [ja ja] 
+B|18| B: [dat zijn] bij mij N 
+B|19| B: ze gaan [weer] husselen 
+A|20| A: we [zijn] nu [op] [twee] drie 
+A|21| A: _als_ [ik] [het] goed [hebben] bijhouden 
+B|22| B: god wat een kloteopdracht 
+B|23| B: [ik hebben] een _vierkant_ zeggen maar _door het figuur_ heen [met] [die] [twee dinget] eraan 
+A|24| A: [vierkant] [door het figuur] [ja [ja] ja] nou 
+B|25| B: bij mij staan [die] ergens in [het] midden 
+B|26| B: [als] [dat] helpen [met] je zoeken 
+A|27| A: [ja] nummer tien 
+A|28| A: [ik hebben] [die] hoog horizontaal [twee] eronder [twee] erbof 
+B|29| B: [ja] 
+B|30| B: [dat zijn] D 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : dit vinden ik best een gek figuur
+	Free: Pattern=figuur, Pattern=ik
+	Constrained: 
+Turn ID=1| B | B : hij hebben een soort vierkant er dwars doorheen bijna bovenin
+	Free: Pattern=er dwars doorheen bijna, Pattern=hebben, Pattern=vierkant, Pattern=bovenin
+	Constrained: Pattern=doorheen, Pattern=er
+Turn ID=2| B | B : en aan dat vierkant hangen twee stok
+	Free: Pattern=en, Pattern=dat, Pattern=vierkant, Pattern=twee
+	Constrained: 
+Turn ID=3| B | B : en op dat vierkant vaststaan nog een soort klein bak
+	Free: Pattern=en, Pattern=dat, Pattern=vierkant, Pattern=op
+	Constrained: 
+Turn ID=4| B | B : het vierkant gaan echt door het centraal figuur heen
+	Free: Pattern=door het, Pattern=figuur, Pattern=vierkant, Pattern=het
+	Constrained: Pattern=het
+Turn ID=5| A | A : ja ja ja ja ja
+	Free: Pattern=ja ja
+	Constrained: Pattern=ja
+Turn ID=6| A | A : ja dat moeten wel nummer zestien zijn
+	Free: Pattern=dat, Pattern=zijn, Pattern=ja
+	Constrained: 
+Turn ID=7| B | B : hebben je hem
+	Free: Pattern=hebben
+	Constrained: 
+Turn ID=8| A | A : ik hebben die weer met dat veld er dwars doorheen bijna helemaal bovenin
+	Free: Pattern=ik hebben, Pattern=er dwars doorheen bijna, Pattern=met dat, Pattern=die, Pattern=weer, Pattern=bovenin
+	Constrained: Pattern=dat, Pattern=doorheen, Pattern=hebben, Pattern=met, Pattern=er, Pattern=ik
+Turn ID=9| A | A : twee ding eronder twee ding Erboven
+	Free: Pattern=twee
+	Constrained: 
+Turn ID=10| B | B : ja met die stok eraan hangend
+	Free: Pattern=ja, Pattern=met, Pattern=die
+	Constrained: 
+Turn ID=11| A | A : ja ja
+	Free: Pattern=ja ja
+	Constrained: Pattern=ja
+Turn ID=12| B | B : P
+	Free: 
+	Constrained: 
+Turn ID=13| B | B : ik hebben met dat vierkant wat er bovenin doorheen gaan waar die twee dinget aan hangen
+	Free: Pattern=ik hebben, Pattern=doorheen, Pattern=met dat, Pattern=die, Pattern=twee dinget, Pattern=er, Pattern=vierkant, Pattern=bovenin
+	Constrained: Pattern=dat, Pattern=twee, Pattern=hebben, Pattern=met, Pattern=ik
+Turn ID=14| A | A : ja dat zijn veertien
+	Free: Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=15| A | A : ik hebben die hoog horizontaal
+	Free: Pattern=ik hebben, Pattern=die
+	Constrained: Pattern=hebben, Pattern=ik
+Turn ID=16| A | A : met twee dinget eronder en twee dinget Erboven
+	Free: Pattern=twee dinget, Pattern=en, Pattern=met
+	Constrained: Pattern=twee
+Turn ID=17| B | B : ja ja
+	Free: Pattern=ja ja
+	Constrained: Pattern=ja
+Turn ID=18| B | B : dat zijn bij mij N
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=19| B | B : ze gaan weer husselen
+	Free: Pattern=weer
+	Constrained: 
+Turn ID=20| A | A : we zijn nu op twee drie
+	Free: Pattern=zijn, Pattern=twee, Pattern=op
+	Constrained: 
+Turn ID=21| A | A : als ik het goed hebben bijhouden
+	Free: Pattern=als, Pattern=hebben, Pattern=ik, Pattern=het
+	Constrained: 
+Turn ID=22| B | B : god wat een kloteopdracht
+	Free: 
+	Constrained: 
+Turn ID=23| B | B : ik hebben een vierkant zeggen maar door het figuur heen met die twee dinget eraan
+	Free: Pattern=ik hebben, Pattern=met, Pattern=die, Pattern=twee dinget, Pattern=door het figuur, Pattern=vierkant
+	Constrained: Pattern=twee, Pattern=het, Pattern=hebben, Pattern=figuur, Pattern=ik, Pattern=door het
+Turn ID=24| A | A : vierkant door het figuur ja ja ja nou
+	Free: Pattern=door het figuur, Pattern=ja ja, Pattern=vierkant
+	Constrained: Pattern=figuur, Pattern=door het, Pattern=het, Pattern=ja
+Turn ID=25| B | B : bij mij staan die ergens in het midden
+	Free: Pattern=het, Pattern=die
+	Constrained: 
+Turn ID=26| B | B : als dat helpen met je zoeken
+	Free: Pattern=als, Pattern=dat, Pattern=met
+	Constrained: 
+Turn ID=27| A | A : ja nummer tien
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=28| A | A : ik hebben die hoog horizontaal twee eronder twee erbof
+	Free: Pattern=ik hebben, Pattern=twee, Pattern=die
+	Constrained: Pattern=hebben, Pattern=ik
+Turn ID=29| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=30| B | B : dat zijn D
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn

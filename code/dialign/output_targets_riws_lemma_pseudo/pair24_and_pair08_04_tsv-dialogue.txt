@@ -1,0 +1,143 @@
+A|0| A: _een_ dit _zijn_ weer de bak _en_ aan de rechterkant zitten _twee_ pilar 
+A|1| A: _en_ die _zijn_ dezelfde lengte , zelfde breedte 
+A|2| A: _en_ aan de linkerkant zitten _een_ soort van hendel kunnen je het zien 
+A|3| A: _ja en_ hoedje op 
+A|4| A: _ja_ 
+B|5| B: [ja] 
+B|6| B: [ja] 
+B|7| B: [en] rechts dan [twee] recht staf 
+B|8| B: _ja ja_ 
+B|9| B: dat [zijn] J 
+A|10| A: oké 
+A|11| A: [zijn] nummer veertien 
+A|12| A: _een_ bak met aan de rechterkant [twee] gelijkig gelijk stok , _bovenop_ _een_ soort van feesthoek hoedje 
+A|13| A: aan de linkerkant [zijn] , [zijn] die de hendel , de deurklink 
+A|14| A: voor 
+A|15| A: [ja [ja] ja] 
+B|16| B: deze hebben [twee] staaf rechts 
+B|17| B: [en] [ja] klein poo link 
+B|18| B: [ja] 
+B|19| B: hebben hij [twee] staaf rechts 
+B|20| B: [bovenop] 
+B|21| B: [ja en] [een] poo linksonder [ja ja] 
+B|22| B: dat [zijn] M 
+A|23| A: hoed 
+A|24| A: nummer dertien 
+A|25| A: aan de rechterkant zitten [twee] uitstulping , [twee] stok , die even breed [en] even lang [zijn] , [bovenop] [een] hoed 
+B|26| B: deze hebben [twee] staaf rechts [en] [een] afgestompt driehoek [bovenop] 
+B|27| B: [ja] [een] [een] poo 
+B|28| B: [en] daarboven nog [een] ding 
+B|29| B: [ja] 
+A|30| A: nummer [een] 
+B|31| B: [ja] [twee] staaf rechts 
+B|32| B: D 
+B|33| B: deze hebben [twee] staaf rechts [en] [een] afgestompt driehoek [bovenop] 
+B|34| B: klein poo link 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : een dit zijn weer de bak en aan de rechterkant zitten twee pilar
+	Free: Pattern=en, Pattern=zijn, Pattern=twee, Pattern=een
+	Constrained: 
+Turn ID=1| A | A : en die zijn dezelfde lengte , zelfde breedte
+	Free: Pattern=en, Pattern=zijn
+	Constrained: 
+Turn ID=2| A | A : en aan de linkerkant zitten een soort van hendel kunnen je het zien
+	Free: Pattern=en, Pattern=een
+	Constrained: 
+Turn ID=3| A | A : ja en hoedje op
+	Free: Pattern=ja en
+	Constrained: Pattern=en, Pattern=ja
+Turn ID=4| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=5| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=6| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=7| B | B : en rechts dan twee recht staf
+	Free: Pattern=en, Pattern=twee
+	Constrained: 
+Turn ID=8| B | B : ja ja
+	Free: Pattern=ja ja
+	Constrained: Pattern=ja
+Turn ID=9| B | B : dat zijn J
+	Free: Pattern=zijn
+	Constrained: 
+Turn ID=10| A | A : oké
+	Free: 
+	Constrained: 
+Turn ID=11| A | A : zijn nummer veertien
+	Free: Pattern=zijn
+	Constrained: 
+Turn ID=12| A | A : een bak met aan de rechterkant twee gelijkig gelijk stok , bovenop een soort van feesthoek hoedje
+	Free: Pattern=bovenop, Pattern=twee, Pattern=een
+	Constrained: 
+Turn ID=13| A | A : aan de linkerkant zijn , zijn die de hendel , de deurklink
+	Free: Pattern=zijn
+	Constrained: 
+Turn ID=14| A | A : voor
+	Free: 
+	Constrained: 
+Turn ID=15| A | A : ja ja ja
+	Free: Pattern=ja ja
+	Constrained: Pattern=ja
+Turn ID=16| B | B : deze hebben twee staaf rechts
+	Free: Pattern=twee
+	Constrained: 
+Turn ID=17| B | B : en ja klein poo link
+	Free: Pattern=en, Pattern=ja
+	Constrained: 
+Turn ID=18| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=19| B | B : hebben hij twee staaf rechts
+	Free: Pattern=twee
+	Constrained: 
+Turn ID=20| B | B : bovenop
+	Free: Pattern=bovenop
+	Constrained: 
+Turn ID=21| B | B : ja en een poo linksonder ja ja
+	Free: Pattern=ja en, Pattern=ja ja, Pattern=een
+	Constrained: Pattern=en, Pattern=ja
+Turn ID=22| B | B : dat zijn M
+	Free: Pattern=zijn
+	Constrained: 
+Turn ID=23| A | A : hoed
+	Free: 
+	Constrained: 
+Turn ID=24| A | A : nummer dertien
+	Free: 
+	Constrained: 
+Turn ID=25| A | A : aan de rechterkant zitten twee uitstulping , twee stok , die even breed en even lang zijn , bovenop een hoed
+	Free: Pattern=bovenop, Pattern=twee, Pattern=een, Pattern=en, Pattern=zijn
+	Constrained: 
+Turn ID=26| B | B : deze hebben twee staaf rechts en een afgestompt driehoek bovenop
+	Free: Pattern=en, Pattern=bovenop, Pattern=twee, Pattern=een
+	Constrained: 
+Turn ID=27| B | B : ja een een poo
+	Free: Pattern=een, Pattern=ja
+	Constrained: 
+Turn ID=28| B | B : en daarboven nog een ding
+	Free: Pattern=en, Pattern=een
+	Constrained: 
+Turn ID=29| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=30| A | A : nummer een
+	Free: Pattern=een
+	Constrained: 
+Turn ID=31| B | B : ja twee staaf rechts
+	Free: Pattern=twee, Pattern=ja
+	Constrained: 
+Turn ID=32| B | B : D
+	Free: 
+	Constrained: 
+Turn ID=33| B | B : deze hebben twee staaf rechts en een afgestompt driehoek bovenop
+	Free: Pattern=en, Pattern=bovenop, Pattern=twee, Pattern=een
+	Constrained: 
+Turn ID=34| B | B : klein poo link
+	Free: 
+	Constrained: 
